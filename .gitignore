@@ -7,6 +7,6 @@ dist/
 !.env.example
 test-results/
 playwright-report/
-shots/
+/shots/
 *.log
 .DS_Store
