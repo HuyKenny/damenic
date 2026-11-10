@@ -248,6 +248,7 @@ button {
 
 /* ---------- Simulation marking ---------- */
 .simstrip {
+  margin: 0;
   background: var(--ink);
   color: #fff;
   font-size: 0.8125rem;
@@ -768,7 +769,7 @@ button {
 }
 @media (max-width: 760px) {
   .hero__in {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
   .hero__art {
     display: none;
@@ -865,7 +866,7 @@ button {
 }
 @media (max-width: 760px) {
   .resthead {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
   .resthead__media {
     order: -1;
@@ -891,13 +892,16 @@ button {
   align-items: start;
   margin-top: 24px;
 }
+.layout-menu > * {
+  min-width: 0;
+}
 .layout-menu__side {
   position: sticky;
   top: calc(var(--header-h) + 16px);
 }
 @media (max-width: 1023px) {
   .layout-menu {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
   .layout-menu__side {
     display: none;
@@ -1028,7 +1032,7 @@ button {
 }
 @media (max-width: 899px) {
   .dish {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
   .dish__panel {
     position: static;
@@ -1316,7 +1320,7 @@ dialog.dlg::backdrop {
 }
 @media (max-width: 899px) {
   .cols {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
 }
 .stack {
@@ -1390,7 +1394,7 @@ dialog.dlg::backdrop {
 }
 @media (max-width: 899px) {
   .track {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
 }
 .track__status {
@@ -1539,7 +1543,7 @@ dialog.dlg::backdrop {
 }
 @media (max-width: 640px) {
   .finale {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
   .finale svg {
     width: 120px;
@@ -1617,7 +1621,7 @@ dialog.dlg::backdrop {
 }
 @media (max-width: 899px) {
   .recipehead {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
   .recipehead__media {
     order: -1;
@@ -1652,7 +1656,7 @@ dialog.dlg::backdrop {
 }
 @media (max-width: 899px) {
   .recipe {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
 }
 .ingr h3 {
@@ -1971,7 +1975,7 @@ dialog.dlg::backdrop {
   }
   .recipe,
   .recipehead {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
   .recipehead__media {
     display: none;
