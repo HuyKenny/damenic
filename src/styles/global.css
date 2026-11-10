@@ -1056,7 +1056,7 @@ button {
 .prose li {
   margin-bottom: 0.4em;
 }
-.prose a {
+.prose a:not(.btn) {
   color: var(--red-dark);
   font-weight: 600;
 }
