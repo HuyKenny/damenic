@@ -118,7 +118,7 @@ export default function AddToCart({ dish, restaurant, editKey, initial, onDone }
           </div>
         )}
         <button type="submit" class="btn">
-          {editing ? 'Uložit změny' : 'Přidat do košíku'} · <span class="num">{formatCzk(price * (editing ? 1 : qty))}</span>
+          {editing ? 'Uložit změny' : 'Do košíku'} · <span class="num nowrap">{formatCzk(price * (editing ? 1 : qty))}</span>
         </button>
       </div>
       <p class="small muted" style="margin:10px 0 0">

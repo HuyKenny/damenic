@@ -16,7 +16,7 @@ export async function addMargherita(page: Page, size = '32 cm') {
   await page.goto(MARGHERITA);
   const form = page.getByTestId('add-form');
   await form.getByLabel(size).check();
-  await form.getByRole('button', { name: /Přidat do košíku/ }).click();
+  await form.getByRole('button', { name: /Do košíku/ }).click();
   await expect(form.locator('.added')).toContainText('Přidáno do košíku');
 }
 

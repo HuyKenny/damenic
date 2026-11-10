@@ -90,7 +90,7 @@ const jsonld = {
     </header>
 
     <div class="recipe">
-      <RecipeTools client:visible recipe={lite} info={pickInfo(r, info)} dish={dish} />
+      <RecipeTools client:load recipe={lite} info={pickInfo(r, info)} dish={dish} />
       <div>
         <section aria-labelledby="postup" class="steps">
           <h2 id="postup">Postup</h2>

@@ -143,7 +143,11 @@ export default function Tracker({ recipes }: Props) {
                   Odpočet ukazuje simulovaný čas. Ve skutečnosti zbývá asi {Math.max(1, Math.ceil(sim.remainingMs / 1000))} s.
                 </p>
                 <div class="toolbar">
-                  <button type="button" class="btn btn--dark" onClick={() => $orders.set(skipOrder($orders.get(), order.id, Date.now()))} data-testid="skip">
+                  <button type="button" class="btn btn--dark" onClick={() => {
+                      const at = Date.now();
+                      $orders.set(skipOrder($orders.get(), order.id, at));
+                      setNow(at); // re-render now, not on the next tick
+                    }} data-testid="skip">
                     Přeskočit čekání
                   </button>
                   <button type="button" class="btn btn--ghost" onClick={() => setAskCancel(true)} data-testid="cancel">
@@ -216,7 +220,9 @@ export default function Tracker({ recipes }: Props) {
             class="btn"
             data-testid="cancel-confirm"
             onClick={() => {
-              $orders.set(cancelOrder($orders.get(), order.id, Date.now()));
+              const at = Date.now();
+              $orders.set(cancelOrder($orders.get(), order.id, at));
+              setNow(at);
               setAskCancel(false);
             }}
           >

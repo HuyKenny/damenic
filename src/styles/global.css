@@ -595,6 +595,7 @@ button {
 }
 .section__head {
   display: flex;
+  flex-wrap: wrap;
   align-items: end;
   justify-content: space-between;
   gap: 16px;
@@ -734,7 +735,7 @@ button {
   grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
   gap: 32px;
   align-items: center;
-  padding-block: clamp(28px, 4.5vw, 56px);
+  padding-block: clamp(24px, 3.4vw, 44px);
 }
 .hero h1 {
   font-size: clamp(2rem, 1.2rem + 3.4vw, 3.5rem);
@@ -752,7 +753,7 @@ button {
 }
 .hero__art {
   justify-self: end;
-  width: min(100%, 420px);
+  width: min(100%, 300px);
 }
 .hero__facts {
   display: flex;
@@ -1154,6 +1155,8 @@ button {
 }
 .addrow .btn {
   flex: 1;
+  white-space: nowrap;
+  padding-inline: 14px;
 }
 .added {
   display: flex;
@@ -1168,6 +1171,7 @@ button {
 }
 .added a {
   margin-left: auto;
+  white-space: nowrap;
   color: var(--ink);
 }
 
@@ -1359,7 +1363,7 @@ dialog.dlg::backdrop {
   padding: 18px;
   color: #fff;
   background:
-    radial-gradient(circle at 85% 20%, rgb(255 255 255 / 16%) 0 60px, transparent 61px),
+    radial-gradient(circle at 92% 100%, rgb(255 255 255 / 10%) 0 70px, transparent 71px),
     linear-gradient(135deg, #2a2b2f, #17181a);
   display: flex;
   flex-direction: column;
@@ -1369,10 +1373,10 @@ dialog.dlg::backdrop {
 .democard__demo {
   position: absolute;
   right: 16px;
-  bottom: 16px;
+  top: 16px;
   font-weight: 800;
   letter-spacing: 0.2em;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   color: rgb(255 255 255 / 85%);
   border: 2px solid rgb(255 255 255 / 70%);
   padding: 0 8px;

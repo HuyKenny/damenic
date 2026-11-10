@@ -5,7 +5,7 @@ test.describe('cart', () => {
   test('required options are enforced', async ({ page }) => {
     await page.goto(MARGHERITA);
     const form = page.getByTestId('add-form');
-    await form.getByRole('button', { name: /Přidat do košíku/ }).click();
+    await form.getByRole('button', { name: /Do košíku/ }).click();
     await expect(form.getByRole('alert')).toContainText('Vyber: Velikost');
     expect(await cartCount(page)).toBe(0);
   });
@@ -40,14 +40,14 @@ test.describe('cart', () => {
     for (const group of await form.locator('fieldset').all()) {
       if (await group.getByText('Povinné').count()) await group.locator('input').first().check();
     }
-    await form.getByRole('button', { name: /Přidat do košíku/ }).click();
+    await form.getByRole('button', { name: /Do košíku/ }).click();
     const dialog = page.getByRole('dialog', { name: 'Začít nový košík?' });
     await expect(dialog).toBeVisible();
     await dialog.getByRole('button', { name: 'Nechat původní košík' }).click();
     await expect(dialog).toBeHidden();
     expect(await cartCount(page)).toBe(1);
 
-    await form.getByRole('button', { name: /Přidat do košíku/ }).click();
+    await form.getByRole('button', { name: /Do košíku/ }).click();
     await page.getByRole('dialog', { name: 'Začít nový košík?' }).getByRole('button', { name: 'Vyprázdnit a přidat' }).click();
     await page.goto('/kosik/');
     await expect(page.getByTestId('cart-line')).toHaveCount(1);

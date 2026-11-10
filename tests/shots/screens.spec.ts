@@ -17,7 +17,7 @@ test('main screens', async ({ page }, testInfo) => {
   await shot(page, '02-restaurace', testInfo);
   await page.goto('/jidla/pizza-margherita/');
   await page.getByTestId('add-form').getByLabel('32 cm').check();
-  await page.getByTestId('add-form').getByRole('button', { name: /Přidat do košíku/ }).click();
+  await page.getByTestId('add-form').getByRole('button', { name: /Do košíku/ }).click();
   await shot(page, '03-jidlo', testInfo);
   await page.goto('/kosik/');
   await shot(page, '04-kosik', testInfo);
@@ -29,9 +29,11 @@ test('main screens', async ({ page }, testInfo) => {
   await page.clock.runFor(130_000);
   await shot(page, '06-tracking', testInfo);
   await page.getByTestId('skip').click();
+  await page.getByTestId('finale').waitFor();
   await shot(page, '07-finale', testInfo);
   await page.goto('/recepty/pizza-margherita/');
   await page.getByTestId('add-to-list').click();
+  await page.locator('.added').waitFor();
   await shot(page, '08-recept', testInfo);
   await page.goto('/nakupni-seznam/');
   await shot(page, '09-nakupni-seznam', testInfo);
