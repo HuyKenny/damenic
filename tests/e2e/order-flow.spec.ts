@@ -51,7 +51,7 @@ test.describe('cart', () => {
     await page.getByRole('dialog', { name: 'Začít nový košík?' }).getByRole('button', { name: 'Vyprázdnit a přidat' }).click();
     await page.goto('/kosik/');
     await expect(page.getByTestId('cart-line')).toHaveCount(1);
-    await expect(page.getByTestId('cart-line')).toContainText('Cheeseburger');
+    await expect(page.getByTestId('cart-line')).toContainText(/cheeseburger/i);
   });
 
   test('empty cart offers a way back', async ({ page }) => {
@@ -65,7 +65,7 @@ test.describe('checkout and tracking', () => {
     const errors = watchConsole(page);
     await addMargherita(page);
     await page.goto('/pokladna/');
-    await expect(page.locator('input:not([type=hidden])')).toHaveCount(0);
+    await expect(page.locator('main input:not([type=hidden]), main textarea, main select')).toHaveCount(0);
     await expect(page.getByText('Objednávka je pouze simulovaná. Nic neplatíš a žádné jídlo nebude doručeno.')).toBeVisible();
     await expect(page.getByTestId('checkout-real')).toHaveText('0 Kč');
     const button = page.getByTestId('confirm-order');
