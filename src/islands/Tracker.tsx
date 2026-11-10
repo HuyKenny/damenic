@@ -2,7 +2,7 @@ import { useCallback, useEffect, useState } from 'preact/hooks';
 import { useStore } from '@nanostores/preact';
 import { $orders, $shopping } from '@/lib/stores';
 import { cancelOrder, findOrder, skipOrder } from '@/lib/orders';
-import { SPEED, STAGES, simulate } from '@/lib/simulation';
+import { SPEED, STAGES, fromOrder, simulate } from '@/lib/simulation';
 import { addRecipe } from '@/lib/shopping';
 import { formatCzk, roundToCrown } from '@/lib/money';
 import type { OrderSnapshot } from '@/lib/types';
@@ -45,7 +45,7 @@ export default function Tracker({ recipes }: Props) {
   }, []);
 
   const order = id ? findOrder(orders, id) : undefined;
-  const sim = order ? simulate(order, now) : null;
+  const sim = order ? simulate(fromOrder(order), now) : null;
   const running = sim?.status === 'running';
 
   // The clock only drives the countdown text. State is always recomputed from the stored creation time,
@@ -67,7 +67,7 @@ export default function Tracker({ recipes }: Props) {
     };
   }, [running, order?.id]);
 
-  const getProgress = useCallback(() => (order ? simulate(order, Date.now()).routeProgress : 0), [order]);
+  const getProgress = useCallback(() => (order ? simulate(fromOrder(order), Date.now()).routeProgress : 0), [order]);
 
   if (!ready)
     return (

@@ -1,9 +1,10 @@
+import { defineConfig } from 'eslint/config';
 import tseslint from 'typescript-eslint';
 
 // .astro files are type-checked by `astro check`; ESLint covers TS/TSX and scripts.
-export default tseslint.config(
-  { ignores: ['dist', '.astro', 'node_modules', 'playwright-report', 'test-results'] },
-  ...tseslint.configs.recommended,
+export default defineConfig(
+  { ignores: ['dist', '.astro', 'node_modules', 'playwright-report', 'test-results', 'shots'] },
+  tseslint.configs.recommended,
   {
     files: ['**/*.{ts,tsx,mjs,js}'],
     rules: {
@@ -12,5 +13,5 @@ export default tseslint.config(
       'no-console': ['warn', { allow: ['warn', 'error'] }],
     },
   },
-  { files: ['scripts/**'], rules: { 'no-console': 'off' } },
+  { files: ['scripts/**'], rules: { 'no-console': 'off' }, languageOptions: { globals: { process: 'readonly', console: 'readonly' } } },
 );

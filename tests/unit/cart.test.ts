@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { addItem, emptyCart, itemKey, parseCart, removeItem, sanitizeCart, setQty, SERVICE_FEE, totals, unitPrice, updateChoices, validateChoices } from '@/lib/cart';
-import type { Catalog, CatalogDish } from '@/lib/types';
+import type { Catalog, CatalogDish, Choices } from '@/lib/types';
 
 const pizza: CatalogDish = {
   id: 'pizza',
@@ -23,7 +23,7 @@ const catalog: Catalog = {
   restaurants: { a: { id: 'a', slug: 'a', name: 'A', etaMinutes: 30, deliveryFee: 3900 }, b: { id: 'b', slug: 'b', name: 'B', etaMinutes: 30, deliveryFee: 4900 } },
 };
 
-function add(cart = emptyCart(), dish = pizza, choices = { size: ['s'] }, qty = 1, replace = false) {
+function add(cart = emptyCart(), dish = pizza, choices: Choices = { size: ['s'] }, qty = 1, replace = false) {
   const r = addItem(cart, dish, choices, qty, replace);
   if (!r.ok) throw new Error(r.reason);
   return r.cart;

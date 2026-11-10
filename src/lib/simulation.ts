@@ -57,6 +57,11 @@ export function realMinutesLabel(etaMinutes: number): string {
 
 const ROUTE_FROM = STAGES.find((s) => s.id === 'onTheWay')!.from;
 
+/** Adapts a stored order to the simulation input. */
+export function fromOrder(o: { createdAt: number; restaurant: { etaMinutes: number }; skippedAt: number | null; cancelledAt: number | null }): SimInput {
+  return { createdAt: o.createdAt, etaMinutes: o.restaurant.etaMinutes, skippedAt: o.skippedAt, cancelledAt: o.cancelledAt };
+}
+
 export function simulate(input: SimInput, now: number): SimState {
   const duration = realDurationMs(input.etaMinutes);
   const end = input.createdAt + duration;

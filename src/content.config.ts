@@ -127,7 +127,7 @@ const partners = defineCollection({
     name: z.string(),
     enabled: z.boolean(),
     linkType: z.enum(['none', 'homepage', 'search', 'cart-api']),
-    url: z.string().url().nullable(),
+    url: z.url().nullable(),
     /** How list items are handed over; "none" until an integration is confirmed. */
     itemTransfer: z.enum(['none', 'search-per-item', 'cart-api']),
     affiliateParams: z.record(z.string(), z.string()).default({}),
@@ -143,10 +143,10 @@ const assets = defineCollection({
     kind: z.enum(['dish', 'restaurant', 'recipe', 'brand', 'og', 'illustration']),
     alt: z.string().min(5),
     source: z.enum(['wikimedia', 'canva', 'own']),
-    sourceUrl: z.string().url().nullable(),
+    sourceUrl: z.url().nullable(),
     author: z.string(),
     license: z.string(),
-    licenseUrl: z.string().url().nullable(),
+    licenseUrl: z.url().nullable(),
     /** Changes made to the original (crop, resize) – required by CC licences. */
     changes: z.string().default('ořez a zmenšení'),
     temporary: z.boolean().default(false),

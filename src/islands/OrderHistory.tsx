@@ -2,7 +2,7 @@ import { useEffect, useState } from 'preact/hooks';
 import { useStore } from '@nanostores/preact';
 import { $orders } from '@/lib/stores';
 import { MAX_ORDERS } from '@/lib/orders';
-import { simulate } from '@/lib/simulation';
+import { fromOrder, simulate } from '@/lib/simulation';
 import { formatCzk } from '@/lib/money';
 import { useInit } from './hooks';
 
@@ -38,7 +38,7 @@ export default function OrderHistory() {
     <>
       <ul class="stack" data-testid="history">
         {orders.map((o) => {
-          const status = simulate(o, now).status;
+          const status = simulate(fromOrder(o), now).status;
           return (
             <li class="panel" key={o.id} data-testid="history-item">
               <div style="display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;align-items:start">
