@@ -1,0 +1,14 @@
+---
+import Base from '@/layouts/Base.astro';
+import CartView from '@/islands/CartView';
+---
+
+<Base title="Košík" description="Košík simulované objednávky. Ukládá se jen ve tvém prohlížeči." noindex>
+  <div class="wrap" style="max-width:820px">
+    <div class="pagehead">
+      <h1>Košík</h1>
+      <p>Jedna simulovaná objednávka může být jen z jedné restaurace. Košík se ukládá pouze v tomto prohlížeči.</p>
+    </div>
+    <CartView client:load variant="page" />
+  </div>
+</Base>

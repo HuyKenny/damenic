@@ -1,0 +1,94 @@
+{
+  "restaurant": "kebab-zitra",
+  "image": "dish-kebab-talir-s-ryzi",
+  "name": "Kebab talíř s rýží",
+  "kind": "main",
+  "section": "Talíře",
+  "price": 22900,
+  "recipe": "kebab-talir-s-ryzi",
+  "vegetarian": false,
+  "order": 40,
+  "description": "Opečené marinované kuřecí maso na rýži basmati, s rajčatovo-okurkovým salátem, česnekovou a pikantní omáčkou.",
+  "recipeNote": "Recept je na kuřecí maso opékané na pánvi, s rýží a oběma omáčkami.",
+  "about": [
+    "Talíř je kebab bez pečiva: plátky kořeněného kuřecího masa, sypká rýže basmati obarvená kurkumou, salát z rajčat, okurky a červené cibule a dvě omáčky po straně. Jí se vidličkou a jednotlivé části se míchají až na talíři.",
+    "Doma je to hlavně otázka načasování. Maso potřebuje aspoň dvě hodiny v marinádě, rýže se vaří pod pokličkou a dochází bez míchání, salát se solí až těsně před podáváním. Maso se opéká po dávkách, aby pánev nevychladla."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "ryze",
+          "name": "Rýže basmati",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 0
+        },
+        {
+          "id": "pul-na-pul",
+          "name": "Půl rýže, půl hranolek",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "omacka",
+      "name": "Omáčka",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "cesnekova",
+          "name": "Česneková",
+          "priceDelta": 0
+        },
+        {
+          "id": "pikantni",
+          "name": "Pikantní",
+          "priceDelta": 0
+        },
+        {
+          "id": "obe",
+          "name": "Obě",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-omacky",
+          "name": "Bez omáčky",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "maso",
+          "name": "Dvojitá porce masa",
+          "priceDelta": 6500
+        },
+        {
+          "id": "balkansky-syr",
+          "name": "Balkánský sýr",
+          "priceDelta": 2500
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ]
+}

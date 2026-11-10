@@ -1,0 +1,38 @@
+---
+import Logo from './Logo.astro';
+---
+
+<footer class="footer on-dark">
+  <div class="wrap">
+    <div class="footer__grid">
+      <div>
+        <Logo variant="dark" />
+        <p style="margin-top:10px;max-width:44ch">
+          DámeNic je simulátor rozvozu jídla. Restaurace jsou smyšlené, ceny simulované, platby neexistují a nic se nedoručuje. Recepty jsou
+          skutečné.
+        </p>
+      </div>
+      <nav aria-label="Simulátor">
+        <h2>Simulátor</h2>
+        <ul>
+          <li><a href="/restaurace/">Fiktivní restaurace</a></li>
+          <li><a href="/kosik/">Košík</a></li>
+          <li><a href="/moje-objednavky/">Moje objednávky</a></li>
+          <li><a href="/jak-to-funguje/">Jak to funguje</a></li>
+        </ul>
+      </nav>
+      <nav aria-label="Vaření a projekt">
+        <h2>Doopravdy</h2>
+        <ul>
+          <li><a href="/recepty/">Recepty</a></li>
+          <li><a href="/nakupni-seznam/">Nákupní seznam</a></li>
+          <li><a href="/o-projektu/">O projektu</a></li>
+          <li><a href="/soukromi/">Soukromí</a></li>
+        </ul>
+      </nav>
+    </div>
+    <p class="footer__legal">
+      DámeNic nemá nic společného s žádnou skutečnou rozvozovou službou ani restaurací. Ceny surovin u receptů jsou ilustrační odhady.
+    </p>
+  </div>
+</footer>

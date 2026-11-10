@@ -1,0 +1,84 @@
+{
+  "name": "Udon s hovězím masem a zeleninou",
+  "kind": "main",
+  "section": "Nudle",
+  "price": 23900,
+  "recipe": "udon-hovezi-zelenina",
+  "vegetarian": false,
+  "order": 20,
+  "description": "Silné pšeničné nudle restované s plátky hovězího, pekingským zelím, mrkví a žampiony v sójovo-ústřicové omáčce.",
+  "recipeNote": "Recept odpovídá jemné variantě bez přídavků.",
+  "about": [
+    "Udon jsou silné, pružné pšeničné nudle, které unesou výraznou omáčku i prudké restování. Tady se potkávají s hovězím nakrájeným na tenké plátky, křupavou zeleninou a omáčkou ze sójové a ústřicové omáčky, která se na nudlích zatáhne do lesku.",
+    "Doma je nejdůležitější maso: krájí se přes vlákno, krátce marinuje se škrobem a opéká zvlášť, jen pár desítek vteřin z každé strany. Když se do pánve dá všechno naráz, teplota spadne a místo restování vznikne dušené maso v šedé šťávě."
+  ],
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredne",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "vejce",
+          "name": "Volské oko",
+          "priceDelta": 2000
+        },
+        {
+          "id": "hovezi",
+          "name": "Dvojitá porce hovězího",
+          "priceDelta": 6500
+        },
+        {
+          "id": "sezam",
+          "name": "Pražený sezam",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "zampionu",
+          "name": "Bez žampionů",
+          "priceDelta": 0
+        },
+        {
+          "id": "cibulky",
+          "name": "Bez jarní cibulky",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "wok-nic-moc",
+  "image": "dish-udon-hovezi-zelenina"
+}

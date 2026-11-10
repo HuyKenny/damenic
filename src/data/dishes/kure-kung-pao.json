@@ -1,0 +1,79 @@
+{
+  "name": "Kuře kung pao s jasmínovou rýží",
+  "kind": "main",
+  "section": "Rýže a kari",
+  "price": 20900,
+  "recipe": "kure-kung-pao",
+  "vegetarian": false,
+  "order": 30,
+  "description": "Kousky kuřecího masa s praženými arašídy, chilli, česnekem a zázvorem v tmavé sladkokyselé omáčce, s jasmínovou rýží.",
+  "recipeNote": "Recept odpovídá středně pálivé variantě s jasmínovou rýží.",
+  "about": [
+    "Kung pao je sečuánské jídlo postavené na kontrastu: šťavnaté kuře, křupavé arašídy a omáčka, která je zároveň slaná, nakyslá, lehce sladká a pálivá. Omáčky je málo, má maso jen obalit, ne v něm plavat.",
+    "Doma se vyplatí použít stehenní řízky, které na prudkém ohni nevyschnou, a maso krátce naložit se škrobem. Chilli se opéká v oleji jen pár vteřin, spálené zhořkne. Omáčku si zamíchej předem do misky, u pánve se už nestíhá nic odměřovat."
+  ],
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredne",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "arasidy",
+          "name": "Arašídy navíc",
+          "priceDelta": 1500
+        },
+        {
+          "id": "ryze",
+          "name": "Rýže navíc",
+          "priceDelta": 3000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "arasidu",
+          "name": "Bez arašídů",
+          "priceDelta": 0
+        },
+        {
+          "id": "cibulky",
+          "name": "Bez jarní cibulky",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "wok-nic-moc",
+  "image": "dish-kure-kung-pao"
+}

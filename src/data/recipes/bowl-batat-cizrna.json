@@ -1,0 +1,160 @@
+{
+  "title": "Bowl s pečeným batátem, cizrnou a tahini dresinkem",
+  "image": "dish-bowl-batat-cizrna",
+  "category": "vegetarianske",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Dvě velké misky s pečeným batátem, křupavou kořeněnou cizrnou, špenátem a kuskusem. Většinu práce udělá trouba, záleží jen na tom, aby batát i cizrna ležely na plechu v jedné vrstvě.",
+  "ingredients": [
+    {
+      "ingredient": "batat",
+      "amount": 500,
+      "unit": "g",
+      "note": "oloupaný, na kostky asi 2 cm",
+      "group": "Batát a cizrna"
+    },
+    {
+      "ingredient": "cizrna-konzerva",
+      "amount": 400,
+      "unit": "g",
+      "note": "1 plechovka, slitá a osušená",
+      "group": "Batát a cizrna"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Batát a cizrna"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Batát a cizrna"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Batát a cizrna"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "rozdělená",
+      "group": "Batát a cizrna"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Batát a cizrna"
+    },
+    {
+      "ingredient": "kuskus",
+      "amount": 150,
+      "unit": "g",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 200,
+      "unit": "ml",
+      "note": "vroucí",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "spenat-baby",
+      "amount": 100,
+      "unit": "g",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "tahini",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Tahini dresink"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Tahini dresink"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "najemno nastrouhaný",
+      "group": "Tahini dresink"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "studená, podle potřeby i víc",
+      "group": "Tahini dresink"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Tahini dresink"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na posypání",
+      "group": "Na dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Batát a cizrna",
+      "text": "Troubu předehřej na 220 °C (horkovzdušnou na 200 °C) a dva plechy vylož pečicím papírem. Kostky batátu promíchej v míse se 2 lžícemi oleje, půlkou lžičky soli a pepřem a rozlož je na první plech v jedné vrstvě."
+    },
+    {
+      "section": "Batát a cizrna",
+      "text": "Batát peč 15 minut. Mezitím cizrnu slij, propláchni a důkladně osuš utěrkou. Promíchej ji se zbylou lžící oleje, uzenou paprikou, římským kmínem a zbylou půlkou lžičky soli a rozlož ji na druhý plech."
+    },
+    {
+      "section": "Batát a cizrna",
+      "text": "Batát obrať a oba plechy peč dalších 15 minut. Batát má být měkký a na hranách zhnědlý, cizrna na povrchu suchá a křupavá."
+    },
+    {
+      "section": "Základ",
+      "text": "Kuskus dej do misky, přidej špetku soli a zalij ho vroucí vodou. Misku přikryj talířem, nech 5 minut stát a potom kuskus načechrej vidličkou."
+    },
+    {
+      "section": "Tahini dresink",
+      "text": "Tahini rozmíchej s citronovou šťávou, česnekem a špetkou soli. Směs nejdřív zhoustne. Přidávej po lžících studenou vodu a míchej, dokud nevznikne hladký dresink, který stéká ze lžíce."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Kuskus rozděl do dvou misek, vedle sebe na něj naskládej špenát, batát a cizrnu. Přelij dresinkem a posyp sezamem."
+    }
+  ],
+  "tips": [
+    "Mokrá cizrna se v troubě dusí. Čím lépe ji osušíš, tím víc bude křupat.",
+    "Křupavost cizrny vydrží asi hodinu. Pokud vaříš do zásoby, skladuj ji zvlášť a před jídlem ji 5 minut přepeč.",
+    "Dresink v lednici zhoustne, před podáváním do něj vmíchej lžíci vody."
+  ],
+  "substitutions": [
+    "Místo kuskusu použij bulgur: 150 g vař pod pokličkou ve 300 ml osolené vody asi 12 minut.",
+    "Batát lze nahradit dýní hokaido nakrájenou i se slupkou, doba pečení je podobná.",
+    "Baby špenát nahradí rukola nebo natrhaný ledový salát."
+  ]
+}

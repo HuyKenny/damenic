@@ -1,0 +1,88 @@
+{
+  "name": "Halloumi burger",
+  "restaurant": "burger-nikdy",
+  "kind": "main",
+  "section": "Burgery",
+  "price": 20900,
+  "order": 50,
+  "description": "Grilované halloumi, rozmačkané avokádo s citronem, grilovaná cuketa, rajče a rukola s jogurtovou česnekovou omáčkou. Bez masa.",
+  "about": [
+    "Burger bez masa, který si na maso nehraje. Halloumi se při opékání neroztéká, jen získá zlatou kůrku a zůstane pružné. Vedle slaného sýra je krémové avokádo s citronem, plátky grilované cukety a jogurtová omáčka s česnekem.",
+    "Halloumi se opéká až úplně nakonec a jde rovnou do bulky, protože po vychladnutí ztuhne. Plátky je dobré předem osušit a krájet je silné aspoň jeden centimetr, tenké se na pánvi vysuší."
+  ],
+  "image": "dish-halloumi-burger",
+  "recipe": "halloumi-burger",
+  "vegetarian": true,
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bez-prilohy",
+          "name": "Bez přílohy",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 5500
+        },
+        {
+          "id": "batatove-hranolky",
+          "name": "Batátové hranolky",
+          "priceDelta": 6900
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "avokado",
+          "name": "Avokádo navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "vejce",
+          "name": "Sázené vejce",
+          "priceDelta": 2500
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "avokada",
+          "name": "Bez avokáda",
+          "priceDelta": 0
+        },
+        {
+          "id": "rajcete",
+          "name": "Bez rajčete",
+          "priceDelta": 0
+        },
+        {
+          "id": "omacky",
+          "name": "Bez omáčky",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ]
+}

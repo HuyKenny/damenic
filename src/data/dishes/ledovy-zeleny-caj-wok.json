@@ -1,0 +1,32 @@
+{
+  "name": "Ledový zelený čaj 0,4 l",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 5900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 90,
+  "description": "Za studena louhovaný zelený čaj s citronem a mátou, jen lehce slazený.",
+  "optionGroups": [
+    {
+      "id": "led",
+      "name": "Led",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "s-ledem",
+          "name": "S ledem",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-ledu",
+          "name": "Bez ledu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "wok-nic-moc",
+  "image": "dish-ledovy-zeleny-caj-wok"
+}

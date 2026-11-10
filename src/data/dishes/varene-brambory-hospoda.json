@@ -1,0 +1,32 @@
+{
+  "name": "Vařené brambory s máslem",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 4900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 80,
+  "description": "Brambory vařené v osolené vodě s kmínem, přelité rozpuštěným máslem. Nedorazí teplé ani studené.",
+  "optionGroups": [
+    {
+      "id": "posyp",
+      "name": "Posypat",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "petrzelkou",
+          "name": "Petrželkou",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-posypu",
+          "name": "Bez posypu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-varene-brambory-hospoda"
+}

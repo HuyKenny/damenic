@@ -1,0 +1,87 @@
+{
+  "name": "Zeleninové kari s tofu",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Teplá jídla",
+  "price": 20900,
+  "image": "dish-zeleninove-kari-s-tofu",
+  "recipe": "zeleninove-kari-s-tofu",
+  "vegetarian": true,
+  "order": 40,
+  "description": "Kari na indický způsob z rajčat, kokosového mléka, kari koření a garam masaly. V něm opečené tofu, mrkev, paprika, cuketa a hrášek.",
+  "about": [
+    "Tohle kari nevychází z kari pasty, ale ze suchého koření. Kari koření, garam masala a kurkuma se krátce opečou na cibulovém základu a s rajčaty dají omáčce tmavší barvu a zemitější chuť. Kokosové mléko ji jen zjemní.",
+    "Tofu se před smažením vymačká z vody a opeče zvlášť, jinak se v omáčce rozpadá a nemá kůrku. Zelenina jde do hrnce postupně podle tvrdosti, aby mrkev změkla a cuketa se nerozvařila."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "ryze",
+          "name": "Basmati rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "bulgur",
+          "name": "Bulgur",
+          "priceDelta": 0
+        },
+        {
+          "id": "kuskus",
+          "name": "Kuskus",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "tofu",
+          "name": "Tofu navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "avokado",
+          "name": "Půlka avokáda",
+          "priceDelta": 3500
+        },
+        {
+          "id": "vejce",
+          "name": "Vejce natvrdo",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ]
+}

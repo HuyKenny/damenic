@@ -1,0 +1,83 @@
+{
+  "name": "Smažený sýr s hranolky",
+  "kind": "main",
+  "section": "Minutky",
+  "price": 19900,
+  "recipe": "smazeny-syr-hranolky",
+  "vegetarian": true,
+  "order": 50,
+  "description": "Silný plátek eidamu v dvojitém obalu, hranolky a domácí tatarská omáčka z majonézy a kyselých okurek.",
+  "about": [
+    "Smažák je bezmasá stálice českých jídelních lístků: plátek eidamu obalený ve strouhance, usmažený tak, aby byl obal křupavý a sýr uvnitř tekutý. K němu patří hranolky a tatarská omáčka.",
+    "Jediné, co se při domácí přípravě může pokazit, je vyteklý sýr. Brání tomu dvojitý obal bez jediné mezery, krátké zchlazení před smažením a dobře rozpálený olej, ve kterém sýr stráví jen pár minut."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "americke-brambory",
+          "name": "Americké brambory",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "omacka",
+      "name": "Omáčka",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "tatarska",
+          "name": "Tatarská omáčka",
+          "priceDelta": 0
+        },
+        {
+          "id": "kecup",
+          "name": "Kečup",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "syr",
+          "name": "Druhý sýr",
+          "priceDelta": 6900
+        },
+        {
+          "id": "tatarka",
+          "name": "Tatarská omáčka navíc",
+          "priceDelta": 2000
+        },
+        {
+          "id": "okurka",
+          "name": "Kyselá okurka",
+          "priceDelta": 1500
+        }
+      ],
+      "max": 3
+    }
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-smazeny-syr-hranolky"
+}

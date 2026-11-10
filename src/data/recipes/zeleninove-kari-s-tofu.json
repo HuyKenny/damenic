@@ -1,0 +1,221 @@
+{
+  "title": "Zeleninové kari s tofu na indický způsob",
+  "image": "dish-zeleninove-kari-s-tofu",
+  "category": "vegetarianske",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "intro": "Kari pro čtyři z rajčat, kokosového mléka a suchého koření, s opečeným tofu a zeleninou. Záleží na dvou věcech: tofu opéct zvlášť a zeleninu přidávat postupně podle tvrdosti.",
+  "ingredients": [
+    {
+      "ingredient": "tofu",
+      "amount": 400,
+      "unit": "g",
+      "note": "natural, na kostky asi 2 cm",
+      "group": "Tofu"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Tofu"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Tofu"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 20,
+      "unit": "g",
+      "note": "oloupaný a nastrouhaný",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "kari",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "garam-masala",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "podle chuti",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "note": "1 plechovka",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "kokosove-mleko",
+      "amount": 400,
+      "unit": "ml",
+      "note": "1 plechovka",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 200,
+      "unit": "g",
+      "note": "na půlkolečka silná 5 mm",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kousky",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "cuketa",
+      "amount": 250,
+      "unit": "g",
+      "note": "na půlměsíčky silné 1 cm",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 150,
+      "unit": "g",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaný, na posypání",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 300,
+      "unit": "g",
+      "note": "propláchnutá",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 450,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Tofu",
+      "text": "Tofu zabal do čisté utěrky, zatiž prkénkem s hrncem a nech z něj odtékat vodu, než nakrájíš zeleninu. Potom ho nakrájej na kostky."
+    },
+    {
+      "section": "Tofu",
+      "text": "V široké pánvi nebo hrnci rozehřej 2 lžíce oleje a tofu opékej ze všech stran dozlatova, asi 8 minut. Osol ho a přendej na talíř."
+    },
+    {
+      "section": "Kari",
+      "text": "Do stejné nádoby přidej lžíci oleje a na středním plameni osmahni cibuli dozlatova, 6 až 8 minut. Přidej česnek a zázvor a minutu míchej."
+    },
+    {
+      "section": "Kari",
+      "text": "Přisyp kari, garam masalu, kurkumu a chilli a půl minuty opékej. Vmíchej rajčatový protlak, vlij rajčata, rozmačkej je a 5 minut povař, aby omáčka ztmavla."
+    },
+    {
+      "section": "Kari",
+      "text": "Vlij kokosové mléko a vodu, přidej mrkev a sůl a vař pod pokličkou 10 minut."
+    },
+    {
+      "section": "Rýže",
+      "text": "Rýži propláchni v sítku pod studenou vodou, dokud voda neteče skoro čirá. Dej ji do hrnce se 450 ml vody a půlkou lžičky soli, přiveď k varu, přikryj a na nejnižším stupni vař 12 minut. Potom ji nech mimo plotnu 10 minut dojít pod pokličkou."
+    },
+    {
+      "section": "Kari",
+      "text": "Do kari přidej papriku a cuketu a vař bez pokličky 8 minut. Zelenina má být měkká, ale ne rozvařená."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Vmíchej hrášek a opečené tofu a 3 minuty prohřej. Mimo plotnu dochuť citronovou šťávou, případně solí. Podávej s rýží a posypané koriandrem."
+    }
+  ],
+  "tips": [
+    "Čím víc vody z tofu vymáčkneš, tím lépe se opeče a tím méně bude v pánvi prskat.",
+    "Rýži postav na plotnu spolu s mrkví. Než doběhne a odpočine, je hotové i kari.",
+    "Garam masala se mezi výrobci liší v pálivosti. Chilli proto přidávej až po ochutnání omáčky."
+  ],
+  "substitutions": [
+    "Místo tofu použij plechovku slité cizrny, opékat se nemusí a přidává se spolu s paprikou.",
+    "Cuketu nahradí brokolice rozebraná na malé růžičky, doba vaření je stejná.",
+    "Čerstvý koriandr nahradí petrželka."
+  ]
+}

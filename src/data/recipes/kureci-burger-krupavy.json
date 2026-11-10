@@ -1,0 +1,188 @@
+{
+  "title": "Křupavý kuřecí burger s coleslaw",
+  "image": "dish-kureci-burger-krupavy",
+  "category": "burgery",
+  "servings": 4,
+  "activeMinutes": 45,
+  "cookMinutes": 0,
+  "waitMinutes": 60,
+  "waitLabel": "marinování masa",
+  "difficulty": "střední",
+  "vegetarian": false,
+  "intro": "Čtyři burgery s obalovaným kuřecím stehenním řízkem a domácím coleslaw. Křupavost závisí na hrudkovitém obalu z mouky a škrobu a na oleji, který drží kolem 170 °C.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 600,
+      "unit": "g",
+      "note": "4 vykostěné řízky bez kůže",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 150,
+      "unit": "g",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "cesnek-suseny",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 120,
+      "unit": "g",
+      "group": "Obal a smažení"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 40,
+      "unit": "g",
+      "note": "kukuřičný nebo bramborový",
+      "group": "Obal a smažení"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Obal a smažení"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Obal a smažení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Obal a smažení"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 500,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Obal a smažení"
+    },
+    {
+      "ingredient": "zeli-bile",
+      "amount": 250,
+      "unit": "g",
+      "note": "najemno nakrouhané",
+      "group": "Coleslaw"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "nahrubo nastrouhaná",
+      "group": "Coleslaw"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Coleslaw"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Coleslaw"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Coleslaw"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Coleslaw"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Coleslaw"
+    },
+    {
+      "ingredient": "bulky-burger",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 80,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Na složení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Maso",
+      "text": "Silnější části řízků rozřízni nebo lehce naklepej, aby maso mělo všude zhruba stejnou tloušťku kolem 1,5 cm. Jogurt smíchej se solí, uzenou paprikou a sušeným česnekem, maso v marinádě obal a dej ho přikryté na 1 hodinu do lednice."
+    },
+    {
+      "section": "Coleslaw",
+      "text": "Zelí smíchej s mrkví, solí, cukrem a octem a promačkej ho rukama, aby změklo. Vmíchej majonézu a zakysanou smetanu a salát nech v lednici, než se maso domarinuje."
+    },
+    {
+      "section": "Obalování",
+      "text": "V hluboké míse smíchej mouku, škrob, sladkou papriku, pepř a sůl. Přidej 2 lžíce marinády z masa a prsty je do mouky rozdrob, aby vznikly drobné hrudky."
+    },
+    {
+      "section": "Obalování",
+      "text": "Řízky vyndávej z marinády jeden po druhém, přebytek nech okapat a maso do moučné směsi silou vtlač z obou stran. Obalené kusy nech 10 minut ležet na mřížce nebo talíři, obal při smažení lépe drží."
+    },
+    {
+      "section": "Smažení",
+      "text": "V širokém hrnci nebo hluboké pánvi rozehřej olej na 170 °C, hladina má být vysoká asi 2 cm. Bez teploměru to poznáš tak, že kolem vhozeného kousku obalu olej hned živě bublá."
+    },
+    {
+      "section": "Smažení",
+      "text": "Řízky smaž po dvou, 5 až 6 minut z každé strany, dokud nejsou tmavě zlaté. Uvnitř má maso mít 75 °C a po propíchnutí pouštět čirou šťávu. Usmažené nech okapat na mřížce, ne na papíře, kde by spodek změkl."
+    },
+    {
+      "section": "Složení",
+      "text": "Bulky rozkroj, řezné plochy potři máslem a opeč je na suché pánvi 1 až 2 minuty dozlatova. Na spodní půlku polož okurky a řízek, navrch dej dvě lžíce okapaného coleslaw a přiklop."
+    }
+  ],
+  "tips": [
+    "Olej mezi várkami nech znovu rozehřát. Po vložení masa teplota spadne, a když se nevrátí, obal nasaje tuk.",
+    "Coleslaw před naložením do bulky nech na vidličce okapat, jinak šťáva rozmočí spodní půlku.",
+    "Marinovat lze i přes noc, maso bude křehčí. Delší doba než 24 hodin už mu neprospívá."
+  ],
+  "substitutions": [
+    "Místo bílého jogurtu poslouží kefír nebo podmáslí ve stejném množství.",
+    "Stehenní řízky lze nahradit kuřecími prsy rozříznutými na plátky silné 1,5 cm. Smaž je o minutu kratší dobu z každé strany, rychleji vysychají.",
+    "Pálivou verzi uděláš lžící srirachy vmíchanou do marinády."
+  ]
+}

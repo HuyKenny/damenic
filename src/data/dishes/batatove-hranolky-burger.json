@@ -1,0 +1,37 @@
+{
+  "name": "Batátové hranolky",
+  "restaurant": "burger-nikdy",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 8500,
+  "order": 70,
+  "description": "Hranolky ze sladkých brambor s uzenou paprikou a hrubou solí, k tomu dip podle výběru.",
+  "image": "dish-batatove-hranolky-burger",
+  "recipe": null,
+  "vegetarian": true,
+  "optionGroups": [
+    {
+      "id": "dip",
+      "name": "Dip",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "majoneza",
+          "name": "Majonéza",
+          "priceDelta": 0
+        },
+        {
+          "id": "jogurtovy",
+          "name": "Jogurtový s česnekem",
+          "priceDelta": 0
+        },
+        {
+          "id": "bbq",
+          "name": "BBQ omáčka",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ]
+}

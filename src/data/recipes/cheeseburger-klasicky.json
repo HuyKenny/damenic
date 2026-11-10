@@ -1,0 +1,145 @@
+{
+  "title": "Klasický cheeseburger",
+  "image": "dish-cheeseburger-klasicky",
+  "category": "burgery",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "vegetarian": false,
+  "intro": "Čtyři cheeseburgery se 150g hovězím plátkem za půl hodiny. Výsledek závisí na tučnějším mase, rozpálené pánvi a na tom, že plátek při smažení nemačkáš.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 600,
+      "unit": "g",
+      "note": "s podílem tuku kolem 20 %",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "čerstvě mletý",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cheddar",
+      "amount": 100,
+      "unit": "g",
+      "note": "4 plátky",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "bulky-burger",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "ledovy-salat",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "4 větší listy",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 150,
+      "unit": "g",
+      "note": "1 větší, na plátky",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "na tenká kolečka",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 80,
+      "unit": "g",
+      "note": "podélně na plátky",
+      "group": "Na složení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Maso vyndej z lednice asi 15 minut předem. V misce smíchej majonézu, kečup a hořčici na hladkou omáčku."
+    },
+    {
+      "section": "Příprava",
+      "text": "Rajče nakrájej na plátky, cibuli na tenká kolečka a okurky podélně na plátky. Listy salátu opláchni a důkladně osuš."
+    },
+    {
+      "section": "Maso",
+      "text": "Maso rozděl na čtyři díly po 150 g. Z každého zlehka vytvaruj placku silnou asi 1,5 cm a o něco širší než bulka, při smažení se stáhne. Uprostřed udělej palcem mělký důlek, aby se plátek nevyboulil."
+    },
+    {
+      "section": "Bulky",
+      "text": "Bulky rozkroj, řezné plochy potři máslem a opeč je na suché pánvi na středním plameni 1 až 2 minuty dozlatova. Odlož je stranou."
+    },
+    {
+      "section": "Smažení",
+      "text": "Těžkou pánev rozpal na vysokém plameni a přidej olej. Plátky těsně před vložením z obou stran osol a opepři a smaž je 3 až 4 minuty bez hýbání, dokud se zespodu neudělá tmavá kůrka."
+    },
+    {
+      "section": "Smažení",
+      "text": "Plátky otoč, na každý polož plátek cheddaru a smaž další 3 až 4 minuty. Poslední minutu pánev přiklop, aby se sýr roztekl. Maso nech 2 minuty odpočinout na talíři."
+    },
+    {
+      "section": "Složení",
+      "text": "Obě půlky bulky potři omáčkou. Na spodní polož salát, rajče, maso se sýrem, cibuli a okurky a přiklop vrchní půlkou. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Maso nehněť a nepřidávej do něj vejce ani strouhanku. Čím méně se s ním pracuje, tím šťavnatější plátek bude.",
+    "Na dvě pánve nebo na dvě várky. Čtyři plátky natěsnané v jedné pánvi ji zchladí a maso se místo smažení dusí.",
+    "Mleté maso z obchodu propékej celé, uprostřed má mít aspoň 70 °C. Růžový střed si nech jen u masa, které si necháš čerstvě namlít z jednoho kusu a zpracuješ ho ještě ten den."
+  ],
+  "substitutions": [
+    "Místo cheddaru můžeš použít eidam s 45 % tuku nebo goudu, roztečou se podobně.",
+    "Ledový salát nahradí římský salát nebo hrst rukoly."
+  ]
+}

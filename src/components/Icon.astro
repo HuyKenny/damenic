@@ -1,0 +1,31 @@
+---
+// One icon family (Lucide, ISC licence), inlined as SVG so icons cost no extra requests.
+import bag from 'lucide-static/icons/shopping-bag.svg?raw';
+import search from 'lucide-static/icons/search.svg?raw';
+import pin from 'lucide-static/icons/map-pin.svg?raw';
+import chef from 'lucide-static/icons/chef-hat.svg?raw';
+import clock from 'lucide-static/icons/clock.svg?raw';
+import bike from 'lucide-static/icons/bike.svg?raw';
+import check from 'lucide-static/icons/check.svg?raw';
+import info from 'lucide-static/icons/info.svg?raw';
+import arrow from 'lucide-static/icons/arrow-right.svg?raw';
+import utensils from 'lucide-static/icons/utensils.svg?raw';
+import receipt from 'lucide-static/icons/receipt.svg?raw';
+import list from 'lucide-static/icons/list-checks.svg?raw';
+import users from 'lucide-static/icons/users.svg?raw';
+import flame from 'lucide-static/icons/flame.svg?raw';
+import leaf from 'lucide-static/icons/leaf.svg?raw';
+import menu from 'lucide-static/icons/menu.svg?raw';
+import store from 'lucide-static/icons/store.svg?raw';
+import wallet from 'lucide-static/icons/wallet.svg?raw';
+import plate from 'lucide-static/icons/circle-dashed.svg?raw';
+
+const ICONS = { bag, search, pin, chef, clock, bike, check, info, arrow, utensils, receipt, list, users, flame, leaf, menu, store, wallet, plate };
+interface Props {
+  name: keyof typeof ICONS;
+  size?: number;
+}
+const { name, size = 20 } = Astro.props;
+---
+
+<span class="icon" style={`width:${size}px;height:${size}px`} aria-hidden="true" set:html={ICONS[name]} />

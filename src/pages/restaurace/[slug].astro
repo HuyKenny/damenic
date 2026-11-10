@@ -1,0 +1,101 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import Photo from '@/components/Photo.astro';
+import Icon from '@/components/Icon.astro';
+import QuickAdd from '@/islands/QuickAdd';
+import CartView from '@/islands/CartView';
+import { allDishes, allRestaurants, buildCatalog, dishHasPage, type Restaurant } from '@/lib/content';
+import { formatCzk } from '@/lib/money';
+import { SPEED, realMinutesLabel } from '@/lib/simulation';
+import { CATEGORY_LABELS } from '@/lib/site';
+
+export async function getStaticPaths() {
+  return (await allRestaurants()).map((restaurant) => ({ params: { slug: restaurant.id }, props: { restaurant } }));
+}
+interface Props {
+  restaurant: Restaurant;
+}
+const { restaurant: r } = Astro.props;
+const dishes = (await allDishes()).filter((d) => d.data.restaurant.id === r.id);
+const catalog = await buildCatalog();
+const sections = r.data.sections.map((title, i) => ({ title, id: `sekce-${i + 1}`, dishes: dishes.filter((d) => d.data.section === title) }));
+const category = CATEGORY_LABELS[r.data.category]?.label ?? '';
+---
+
+<Base
+  title={`${r.data.name} – fiktivní restaurace, menu nanečisto`}
+  description={`${r.data.name} je smyšlená restaurace simulátoru DámeNic (${r.data.cuisine.toLowerCase()}). Objednáš nanečisto, nic nepřijede a ke každému hlavnímu jídlu je recept.`}
+>
+  <Breadcrumbs items={[{ label: 'Restaurace', href: '/restaurace/' }, { label: r.data.name }]} />
+  <div class="wrap">
+    <div class="resthead">
+      <div class="resthead__text">
+        <div style="display:flex;gap:6px;flex-wrap:wrap">
+          <span class="tag tag--sim">Fiktivní restaurace</span>
+          <span class="tag">{category}</span>
+        </div>
+        <h1>{r.data.name}</h1>
+        <p class="muted" style="margin:0;font-weight:600">{r.data.tagline}</p>
+        <p style="margin:0">{r.data.description}</p>
+        <ul class="facts" aria-label="Simulované údaje">
+          <li><Icon name="clock" size={18} />Simulované doručení {r.data.etaMinutes} min</li>
+          <li><Icon name="bike" size={18} />Simulované dopravné {formatCzk(r.data.deliveryFee)}</li>
+        </ul>
+        <p class="small muted" style="margin:0">
+          Simulace běží {SPEED}× rychleji: {r.data.etaMinutes} minut uběhne asi za {realMinutesLabel(r.data.etaMinutes)}.
+        </p>
+      </div>
+      <div class="resthead__media">
+        <Photo asset={r.data.cover} widths={[420, 640, 840]} sizes="(min-width: 760px) 420px, 100vw" ratio={4 / 3} priority />
+      </div>
+    </div>
+
+    <div class="layout-menu">
+      <div>
+        <nav class="menunav" aria-label="Sekce menu">
+          <ul class="chips" style="padding-block:0">
+            {sections.map((s) => <li><a class="chip" href={`#${s.id}`}>{s.title}</a></li>)}
+          </ul>
+        </nav>
+        {
+          sections.map((s) => (
+            <section class="menusec" id={s.id} aria-labelledby={`${s.id}-h`}>
+              <h2 id={`${s.id}-h`}>{s.title}</h2>
+              <ul class="menulist">
+                {s.dishes.map((d) => {
+                  const from = d.data.optionGroups.some((g) => g.required && g.options.some((o) => o.priceDelta > 0));
+                  return (
+                    <li class="menuitem">
+                      <div>
+                        <h3 class="menuitem__title">
+                          {dishHasPage(d) ? <a href={`/jidla/${d.id}/`}>{d.data.name}</a> : d.data.name}
+                        </h3>
+                        <p class="menuitem__desc">{d.data.description}</p>
+                        <div class="menuitem__row">
+                          <span class="price">{from && <span class="muted small" style="font-weight:600">od </span>}{formatCzk(d.data.price)}</span>
+                          {d.data.vegetarian && d.data.kind === 'main' && <span class="tag tag--veg">Bez masa</span>}
+                          {d.data.recipe && <span class="tag">Recept</span>}
+                        </div>
+                      </div>
+                      <div class="menuitem__media">
+                        <Photo asset={d.data.image} widths={[116, 232]} sizes="116px" ratio={1} />
+                      </div>
+                      <div class="menuitem__add">
+                        <QuickAdd client:visible dish={catalog.dishes[d.id]!} restaurant={r.data.name} />
+                      </div>
+                    </li>
+                  );
+                })}
+              </ul>
+            </section>
+          ))
+        }
+        <p class="small muted" style="margin-top:22px">Všechny ceny na této stránce jsou simulované. Nic z nabídky si nelze skutečně koupit.</p>
+      </div>
+      <aside class="layout-menu__side" aria-label="Košík">
+        <CartView client:idle variant="side" />
+      </aside>
+    </div>
+  </div>
+</Base>

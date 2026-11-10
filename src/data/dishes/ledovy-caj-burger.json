@@ -1,0 +1,32 @@
+{
+  "name": "Ledový čaj s citronem 0,4 l",
+  "restaurant": "burger-nikdy",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 5900,
+  "order": 100,
+  "description": "Vychlazený černý čaj s citronem, slazený jen mírně. Led v něm neroztaje, protože žádný nedorazí.",
+  "image": "dish-ledovy-caj-burger",
+  "recipe": null,
+  "vegetarian": true,
+  "optionGroups": [
+    {
+      "id": "led",
+      "name": "Led",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "s-ledem",
+          "name": "S ledem",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-ledu",
+          "name": "Bez ledu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ]
+}

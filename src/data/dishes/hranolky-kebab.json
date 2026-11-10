@@ -1,0 +1,42 @@
+{
+  "restaurant": "kebab-zitra",
+  "image": "dish-hranolky-kebab",
+  "name": "Hranolky",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 6900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 60,
+  "description": "Křupavé hranolky posypané solí a sladkou paprikou. Vystydnout nestihnou, protože nikam nejedou.",
+  "optionGroups": [
+    {
+      "id": "dip",
+      "name": "Dip",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-dipu",
+          "name": "Bez dipu",
+          "priceDelta": 0
+        },
+        {
+          "id": "cesnekovy",
+          "name": "Česnekový",
+          "priceDelta": 1500
+        },
+        {
+          "id": "pikantni",
+          "name": "Pikantní",
+          "priceDelta": 1500
+        },
+        {
+          "id": "kecup",
+          "name": "Kečup",
+          "priceDelta": 1000
+        }
+      ]
+    }
+  ]
+}

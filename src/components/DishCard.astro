@@ -1,0 +1,27 @@
+---
+import Photo from './Photo.astro';
+import type { Dish } from '@/lib/content';
+import { formatCzk } from '@/lib/money';
+
+interface Props {
+  dish: Dish;
+  restaurantName: string;
+}
+const { dish: d, restaurantName } = Astro.props;
+const fromPrice = d.data.optionGroups.some((g) => g.required && g.options.some((o) => o.priceDelta > 0));
+---
+
+<article class="card">
+  <div class="card__media">
+    <Photo asset={d.data.image} widths={[280, 420, 560]} sizes="(min-width: 1000px) 300px, (min-width: 560px) 50vw, 100vw" ratio={16 / 10} />
+    {d.data.vegetarian && <div class="card__badges"><span class="tag tag--veg">Bez masa</span></div>}
+  </div>
+  <div class="card__body">
+    <h3 class="card__title"><a href={`/jidla/${d.id}/`}>{d.data.name}</a></h3>
+    <p class="muted small" style="margin:0">{restaurantName}</p>
+    <div class="card__foot">
+      <span class="price">{fromPrice && <span class="muted small" style="font-weight:600">od </span>}{formatCzk(d.data.price)}</span>
+      <span class="tag tag--sim">simulovaná cena</span>
+    </div>
+  </div>
+</article>

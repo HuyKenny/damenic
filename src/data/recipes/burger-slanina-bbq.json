@@ -1,0 +1,164 @@
+{
+  "title": "Burger se slaninou a domácí BBQ omáčkou",
+  "image": "dish-burger-slanina-bbq",
+  "category": "burgery",
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "vegetarian": false,
+  "intro": "Čtyři burgery s křupavou slaninou a BBQ omáčkou z kečupu, medu, worcesteru a uzené papriky. Omáčku uvař jako první, při chladnutí zhoustne.",
+  "ingredients": [
+    {
+      "ingredient": "kecup",
+      "amount": 150,
+      "unit": "g",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "med",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "worcester",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "cesnek-suseny",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 50,
+      "unit": "ml",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 600,
+      "unit": "g",
+      "note": "s podílem tuku kolem 20 %",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 150,
+      "unit": "g",
+      "note": "8 plátků",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cheddar",
+      "amount": 100,
+      "unit": "g",
+      "note": "4 plátky",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "čerstvě mletý",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "bulky-burger",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "na tenká kolečka",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 80,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "ledovy-salat",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "4 listy",
+      "group": "Na složení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "BBQ omáčka",
+      "text": "V malém kastrolu smíchej kečup, med, worcester, ocet, uzenou papriku, sušený česnek a vodu. Přiveď k mírnému varu a na slabém plameni vař 10 minut, občas zamíchej. Omáčka má zhoustnout tak, aby držela na lžíci. Nech ji vychladnout."
+    },
+    {
+      "section": "Maso",
+      "text": "Maso rozděl na čtyři díly po 150 g a zlehka z nich vytvaruj placky silné asi 1,5 cm, o něco širší než bulka. Uprostřed každé udělej palcem mělký důlek."
+    },
+    {
+      "section": "Maso",
+      "text": "Plátky slaniny rozlož na studenou pánev a na středním plameni je opékej 6 až 8 minut, jednou je otoč. Křupavou slaninu přendej na papírovou utěrku, vypečený tuk nech v pánvi."
+    },
+    {
+      "section": "Bulky",
+      "text": "Bulky rozkroj, řezné plochy potři máslem a opeč je dozlatova na druhé pánvi nebo pod grilem v troubě, trvá to 1 až 2 minuty."
+    },
+    {
+      "section": "Smažení",
+      "text": "Pánev s tukem ze slaniny rozpal na vysokém plameni. Plátky masa těsně před vložením osol a opepři a smaž je 3 až 4 minuty z první strany bez hýbání."
+    },
+    {
+      "section": "Smažení",
+      "text": "Maso otoč, potři ho lžičkou BBQ omáčky, přidej plátek cheddaru a smaž další 3 až 4 minuty. Na poslední minutu pánev přiklop, aby se sýr roztekl, a pak nech maso 2 minuty odpočinout."
+    },
+    {
+      "section": "Složení",
+      "text": "Spodní půlku bulky potři BBQ omáčkou, polož na ni salát, maso se sýrem, dva plátky slaniny, cibuli a okurky. Vrchní půlku potři zbylou omáčkou a burger přiklop."
+    }
+  ],
+  "tips": [
+    "BBQ omáčku můžeš uvařit den předem. V uzavřené sklenici vydrží v lednici zhruba týden.",
+    "Med se snadno připálí. Omáčku vař na nejmenším plameni a míchej hlavně u dna.",
+    "Mleté maso z obchodu propékej celé, uprostřed má mít aspoň 70 °C. Růžový střed si nech jen u masa, které si necháš čerstvě namlít z jednoho kusu a zpracuješ ho ještě ten den."
+  ],
+  "substitutions": [
+    "Med nahradí stejné množství třtinového cukru, omáčka bude mít lehce karamelovou chuť.",
+    "Kdo chce omáčku ostřejší, přidá půl lžičky chilli vloček nebo lžičku srirachy.",
+    "Místo anglické slaniny lze použít plátky pancetty, opékají se kratší dobu."
+  ]
+}

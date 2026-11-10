@@ -1,0 +1,16 @@
+{
+  "name": "Burger Nikdy",
+  "category": "burgery",
+  "cuisine": "Burgery a hranolky",
+  "tagline": "Kdy to bude? Máme to v názvu.",
+  "description": "Smyšlené burgerové bistro, kde se hovězí tvaruje ručně, bulky se opékají na másle a žádná objednávka nikdy neopustí kuchyni. Burger si tu objednáš nanečisto, a pak si ho podle receptu usmažíš doma.",
+  "etaMinutes": 35,
+  "deliveryFee": 4900,
+  "cover": "rest-burger-nikdy",
+  "sections": [
+    "Burgery",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 20
+}

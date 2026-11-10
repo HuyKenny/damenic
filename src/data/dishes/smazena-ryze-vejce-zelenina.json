@@ -1,0 +1,79 @@
+{
+  "name": "Smažená rýže s vejcem a zeleninou",
+  "kind": "main",
+  "section": "Rýže a kari",
+  "price": 16900,
+  "recipe": "smazena-ryze-vejce-zelenina",
+  "vegetarian": true,
+  "order": 50,
+  "description": "Jasmínová rýže restovaná s vejcem, mrkví, hráškem, paprikou a jarní cibulkou, dochucená sójovou omáčkou a sezamovým olejem.",
+  "recipeNote": "Recept odpovídá běžné porci bez přídavků.",
+  "about": [
+    "Smažená rýže je jídlo ze zbytků v tom nejlepším smyslu. Zrnka mají zůstat oddělená a lehce opečená, vejce měkké a zelenina křupavá. Chuť dělá sójová omáčka přilitá na rozpálený okraj pánve a pár kapek sezamového oleje na závěr.",
+    "Doma se povede jen z rýže uvařené předem a vychlazené. Čerstvě uvařená je vlhká a na pánvi se slepí do kaše. Rýže ze včerejška nebo aspoň hodinu chlazená v lednici je sušší a snese prudký oheň, na kterém se má restovat."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká",
+          "priceDelta": 4000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "tofu",
+          "name": "Opečené tofu",
+          "priceDelta": 3000
+        },
+        {
+          "id": "vejce",
+          "name": "Vejce navíc",
+          "priceDelta": 1500
+        },
+        {
+          "id": "sriracha",
+          "name": "Chilli omáčka sriracha",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "hrasku",
+          "name": "Bez hrášku",
+          "priceDelta": 0
+        },
+        {
+          "id": "cibulky",
+          "name": "Bez jarní cibulky",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "wok-nic-moc",
+  "image": "dish-smazena-ryze-vejce-zelenina"
+}

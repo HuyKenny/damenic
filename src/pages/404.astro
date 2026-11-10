@@ -1,0 +1,19 @@
+---
+import Base from '@/layouts/Base.astro';
+import EmptyBag from '@/components/EmptyBag.astro';
+---
+
+<Base title="Stránka nenalezena" description="Tahle stránka neexistuje." noindex>
+  <div class="wrap">
+    <div class="empty" style="margin-top:28px">
+      <div style="width:140px;margin:0 auto 10px"><EmptyBag /></div>
+      <p class="tag tag--red" style="margin:0 auto">Chyba 404</p>
+      <h1 style="margin-top:12px">Tady není nic. Ani na naše poměry.</h1>
+      <p>Odkaz je špatně, nebo stránka zmizela. Na objednávky v prohlížeči to vliv nemá.</p>
+      <div class="hero__cta" style="justify-content:center">
+        <a class="btn" href="/">Na úvod</a>
+        <a class="btn btn--ghost" href="/recepty/">Recepty</a>
+      </div>
+    </div>
+  </div>
+</Base>

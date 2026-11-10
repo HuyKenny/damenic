@@ -1,0 +1,83 @@
+{
+  "name": "Červené kari s kuřecím masem",
+  "kind": "main",
+  "section": "Rýže a kari",
+  "price": 22900,
+  "recipe": "cervene-kari-kureci",
+  "vegetarian": false,
+  "order": 40,
+  "description": "Thajské červené kari s kuřecím masem, kokosovým mlékem, paprikou, cuketou a žampiony, s jasmínovou rýží.",
+  "recipeNote": "Recept odpovídá variantě s kuřecím masem, středně pálivé.",
+  "about": [
+    "Červené kari je spíš hustší polévka než omáčka: kokosové mléko, kari pasta ze sušených chilli, maso a zelenina, která zůstane na skus. Dochucuje se až na konci rybí omáčkou, trochou cukru a limetkou, aby bylo slané, lehce sladké a svěží zároveň.",
+    "Doma je klíčový první krok. Pasta se nejdřív orestuje v oleji a v husté části kokosového mléka, teprve potom se zalije zbytkem. Bez toho chutná kari syrově a ploše. Pálivost past se mezi značkami hodně liší, proto je lepší začít s menším množstvím a přidat."
+  ],
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredne",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "bilkovina",
+      "name": "Maso nebo náhrada",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kureci",
+          "name": "Kuřecí maso",
+          "priceDelta": 0
+        },
+        {
+          "id": "tofu",
+          "name": "Tofu místo masa",
+          "priceDelta": 0
+        },
+        {
+          "id": "krevety",
+          "name": "Krevety místo masa",
+          "priceDelta": 4000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "koriandru",
+          "name": "Bez koriandru",
+          "priceDelta": 0
+        },
+        {
+          "id": "zampionu",
+          "name": "Bez žampionů",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "wok-nic-moc",
+  "image": "dish-cervene-kari-kureci"
+}

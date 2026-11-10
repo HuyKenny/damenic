@@ -1,0 +1,27 @@
+{
+  "name": "Miso polévka s tofu",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 6900,
+  "recipe": null,
+  "vegetarian": false,
+  "order": 80,
+  "description": "Vývar dashi s miso pastou, kostkami tofu, řasou wakame a jarní cibulkou.",
+  "optionGroups": [
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cibulky",
+          "name": "Bez jarní cibulky",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "wok-nic-moc",
+  "image": "dish-miso-polevka-wok"
+}

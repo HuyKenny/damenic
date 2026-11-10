@@ -1,0 +1,104 @@
+{
+  "restaurant": "kebab-zitra",
+  "image": "dish-falafel-v-pite",
+  "name": "Falafel v pitě",
+  "kind": "main",
+  "section": "Kebab a dürüm",
+  "price": 15900,
+  "recipe": "falafel-v-pite",
+  "vegetarian": true,
+  "order": 30,
+  "description": "Smažené cizrnové placičky s petrželkou a římským kmínem, v pitě s červeným zelím, rajčaty, okurkou a tahini omáčkou.",
+  "recipeNote": "Recept je na falafel z cizrny z plechovky s tahini omáčkou.",
+  "about": [
+    "Falafel je bezmasá klasika každého kebabu: placičky z cizrny, cibule, česneku a hodně petrželky, okořeněné římským kmínem a koriandrem. Navenek mají být křupavé, uvnitř zelené a vláčné. V pitě je doplňuje zelenina a sezamová tahini omáčka s citronem.",
+    "Tradičně se dělá ze syrové namočené cizrny. Domácí verze z plechovky je rychlejší, ale směs je vlhčí, takže se cizrna musí důkladně osušit, rozmixovat jen nahrubo, zahustit moukou a nechat vychladit. Smaží se v nižší vrstvě oleje a obrací se jen jednou."
+  ],
+  "optionGroups": [
+    {
+      "id": "omacka",
+      "name": "Omáčka",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "tahini",
+          "name": "Tahini",
+          "priceDelta": 0
+        },
+        {
+          "id": "cesnekova",
+          "name": "Česneková",
+          "priceDelta": 0
+        },
+        {
+          "id": "pikantni",
+          "name": "Pikantní",
+          "priceDelta": 0
+        },
+        {
+          "id": "obe",
+          "name": "Obě",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-omacky",
+          "name": "Bez omáčky",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "falafel",
+          "name": "Dva kousky falafelu navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "balkansky-syr",
+          "name": "Balkánský sýr",
+          "priceDelta": 2500
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 2000
+        },
+        {
+          "id": "hranolky-dovnitr",
+          "name": "Hranolky dovnitř",
+          "priceDelta": 3000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "zeli",
+          "name": "Bez zelí",
+          "priceDelta": 0
+        },
+        {
+          "id": "rajcat",
+          "name": "Bez rajčat",
+          "priceDelta": 0
+        },
+        {
+          "id": "okurky",
+          "name": "Bez okurky",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Zeleninová polévka dne",
+  "restaurant": "zelena-nula",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 6900,
+  "image": "dish-polevka-dne-nula",
+  "recipe": null,
+  "vegetarian": true,
+  "order": 80,
+  "description": "Krémová polévka z toho, co je zrovna v sezoně: dýně, mrkev, hrášek nebo brokolice. Vždy bez masa a vždy bez doručení.",
+  "optionGroups": [
+    {
+      "id": "k-polevce",
+      "name": "K polévce",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "nic",
+          "name": "Bez pečiva",
+          "priceDelta": 0
+        },
+        {
+          "id": "chleb",
+          "name": "Krajíc chleba",
+          "priceDelta": 1000
+        }
+      ]
+    }
+  ]
+}

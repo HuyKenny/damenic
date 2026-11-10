@@ -1,0 +1,88 @@
+{
+  "name": "Bowl s pečeným batátem a cizrnou",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Bowly a saláty",
+  "price": 21900,
+  "image": "dish-bowl-batat-cizrna",
+  "recipe": "bowl-batat-cizrna",
+  "vegetarian": true,
+  "order": 10,
+  "description": "Pečený batát, cizrna opečená s uzenou paprikou a římským kmínem, baby špenát a tahini dresink na kuskusu nebo bulguru.",
+  "about": [
+    "Bowl stojí na kontrastu. Batát je po upečení měkký a nasládlý, cizrna křupe a nese koření, špenát zůstává syrový a tahini dresink s citronem to celé spojí. Základ z kuskusu nebo bulguru vsákne, co steče dolů.",
+    "Doma rozhoduje trouba a místo na plechu. Batát i cizrna potřebují ležet v jedné vrstvě, jinak se dusí a nezhnědnou. Cizrnu je nutné před pečením pořádně osušit a dresink ředit vodou po lžících, protože tahini nejdřív zhoustne a teprve potom povolí."
+  ],
+  "featured": true,
+  "optionGroups": [
+    {
+      "id": "zaklad",
+      "name": "Základ",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kuskus",
+          "name": "Kuskus",
+          "priceDelta": 0
+        },
+        {
+          "id": "bulgur",
+          "name": "Bulgur",
+          "priceDelta": 0
+        },
+        {
+          "id": "ryze",
+          "name": "Basmati rýže",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "avokado",
+          "name": "Půlka avokáda",
+          "priceDelta": 3500
+        },
+        {
+          "id": "halloumi",
+          "name": "Grilované halloumi",
+          "priceDelta": 4900
+        },
+        {
+          "id": "vejce",
+          "name": "Vejce natvrdo",
+          "priceDelta": 1500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "spenatu",
+          "name": "Bez špenátu",
+          "priceDelta": 0
+        },
+        {
+          "id": "dresinku",
+          "name": "Bez tahini dresinku",
+          "priceDelta": 0
+        },
+        {
+          "id": "sezamu",
+          "name": "Bez sezamu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ]
+}

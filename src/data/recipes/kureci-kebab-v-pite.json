@@ -1,0 +1,243 @@
+{
+  "image": "dish-kureci-kebab-v-pite",
+  "category": "kebab",
+  "title": "Kuřecí kebab v pitě",
+  "intro": "Domácí kebab pro čtyři z kuřecích stehen pečených v troubě, se dvěma omáčkami a zeleninou v pitě. Záleží na marinování a na tom, aby maso leželo na plechu v jedné vrstvě.",
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 25,
+  "waitMinutes": 120,
+  "waitLabel": "marinování masa",
+  "difficulty": "střední",
+  "vegetarian": false,
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 700,
+      "unit": "g",
+      "note": "vykostěná, bez kůže",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "jogurt-recky",
+      "amount": 200,
+      "unit": "g",
+      "group": "Česneková omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Česneková omáčka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Česneková omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "studená",
+      "group": "Česneková omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Česneková omáčka"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Pikantní omáčka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Pikantní omáčka"
+    },
+    {
+      "ingredient": "paprika-paliva",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Pikantní omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 60,
+      "unit": "ml",
+      "group": "Pikantní omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Pikantní omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Pikantní omáčka"
+    },
+    {
+      "ingredient": "pita",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Do pity"
+    },
+    {
+      "ingredient": "zeli-bile",
+      "amount": 200,
+      "unit": "g",
+      "note": "najemno nakrouhané",
+      "group": "Do pity"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Do pity"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "na tenké půlkroužky",
+      "group": "Do pity"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "na zelí",
+      "group": "Do pity"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Maso",
+      "text": "V míse smíchej jogurt, olej, citronovou šťávu, česnek, všechno koření, sůl a pepř. Stehenní řízky rozlož, silnější místa nařízni, aby byly všude stejně vysoké, a důkladně je v marinádě obal."
+    },
+    {
+      "section": "Maso",
+      "text": "Mísu přikryj a dej do lednice aspoň na 2 hodiny, klidně přes noc. Půl hodiny před pečením maso vyndej, aby nešlo do trouby ledové."
+    },
+    {
+      "section": "Omáčky",
+      "text": "Řecký jogurt smíchej s prolisovaným česnekem, citronovou šťávou, vodou a špetkou soli. Omáčku dej do lednice, česnek se v ní mezitím rozleží."
+    },
+    {
+      "section": "Omáčky",
+      "text": "V malém hrnci rozehřej olej, přidej protlak a pálivou papriku a minutu míchej. Zalij vodou, přidej špetku cukru a soli a nech 2 minuty probublávat, až omáčka mírně zhoustne. Nech ji vychladnout."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Zelí promni s půl lžičkou soli, až změkne a pustí trochu šťávy. Rajčata a cibuli nakrájej."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu rozpal na 220 °C (horkovzdušnou na 200 °C). Maso rozlož na plech s pečicím papírem v jedné vrstvě a peč 20 až 25 minut, v polovině ho obrať. Hotové je, když je na okrajích tmavě opečené a při naříznutí z něj vytéká čirá šťáva."
+    },
+    {
+      "section": "Pečení",
+      "text": "Maso nech 5 minut odpočinout a pak ho ostrým nožem nakrájej na co nejtenčí plátky. Promíchej je se šťávou z plechu. Pokud chceš křupavé okraje, opeč plátky ještě 2 minuty na rozpálené suché pánvi."
+    },
+    {
+      "section": "Plnění",
+      "text": "Pity nahřej 2 až 3 minuty v dohřívající troubě a na jedné straně je rozřízni do kapsy. Vnitřek potři česnekovou omáčkou, naplň zelím, masem, rajčaty a cibulí a navrch přidej pikantní omáčku."
+    }
+  ],
+  "tips": [
+    "Maso lze opéct i na pánvi: na středně silném plameni 5 až 6 minut z každé strany, ve dvou dávkách, aby se nedusilo.",
+    "Marináda s jogurtem se na plechu připaluje. Pečicí papír ušetří drhnutí a šťávu z něj snadno sliješ na nakrájené maso.",
+    "Kapsu pity plň odspodu střídavě masem a zeleninou. Když je všechno maso nahoře, zbude dole jen suché pečivo."
+  ],
+  "substitutions": [
+    "Kuřecí prsa použít jde, ale jsou sušší. Zkrať pečení na 15 až 18 minut a nenech je v troubě ani o chvíli déle.",
+    "Místo bílého zelí poslouží červené zelí nebo ledový salát, ten se ale nesolí předem.",
+    "Pitu nahradí pšeničná tortilla, z kebabu v pitě se tím stane dürüm."
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Pečené brambory s bylinkami",
+  "restaurant": "zelena-nula",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 7900,
+  "image": "dish-pecene-brambory-nula",
+  "recipe": null,
+  "vegetarian": true,
+  "order": 70,
+  "description": "Brambory ve slupce pečené dozlatova s tymiánem, česnekem a hrubou solí. Voní na dálku, což je v tomto případě jediná vzdálenost, kterou urazí.",
+  "optionGroups": [
+    {
+      "id": "dip",
+      "name": "Dip",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-dipu",
+          "name": "Bez dipu",
+          "priceDelta": 0
+        },
+        {
+          "id": "jogurtovy",
+          "name": "Česnekový jogurt",
+          "priceDelta": 1500
+        },
+        {
+          "id": "tahini",
+          "name": "Tahini dresink",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  // Optional remote dev environment. Not used by default: all installs, builds and tests run in GitHub Actions.
+  // Codespaces is NOT unlimited: personal accounts get 120 core-hours/month. Keep the 2-core machine and stop it when idle.
+  "name": "damenic",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:24",
+  "postCreateCommand": "npm ci && npx playwright install --with-deps chromium",
+  "forwardPorts": [4321],
+  "hostRequirements": { "cpus": 2 }
+}

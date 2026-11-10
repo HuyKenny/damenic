@@ -1,0 +1,88 @@
+{
+  "name": "Burger s nivou a karamelizovanou cibulí",
+  "restaurant": "burger-nikdy",
+  "kind": "main",
+  "section": "Burgery",
+  "price": 23900,
+  "order": 40,
+  "description": "Hovězí plátek 150 g, rozteklá niva, cibule karamelizovaná na másle, rukola a hořčičná majonéza.",
+  "about": [
+    "Výrazný burger pro ty, kterým cheddar nestačí. Slaná a ostrá niva potřebuje protiváhu, a tou je cibule dušená na másle tak dlouho, až zhnědne a zesládne. Rukola přidá trochu hořkosti a dijonská hořčice v majonéze to celé spojí.",
+    "Cibuli nejde uspěchat. Půl hodiny na mírném ohni je minimum a zkratka přes vysoký plamen končí spálenými okraji a syrovým středem. Niva se na maso pokládá až po otočení a pod pokličkou se rozteče za necelou minutu."
+  ],
+  "image": "dish-burger-niva-cibule",
+  "recipe": "burger-niva-cibule",
+  "vegetarian": false,
+  "optionGroups": [
+    {
+      "id": "propeceni",
+      "name": "Propečení masa",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "stredne",
+          "name": "Středně propečené",
+          "priceDelta": 0
+        },
+        {
+          "id": "propecene",
+          "name": "Propečené",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bez-prilohy",
+          "name": "Bez přílohy",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 5500
+        },
+        {
+          "id": "batatove-hranolky",
+          "name": "Batátové hranolky",
+          "priceDelta": 6900
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "slanina",
+          "name": "Slanina",
+          "priceDelta": 3500
+        },
+        {
+          "id": "karamelizovana-cibule",
+          "name": "Karamelizovaná cibule",
+          "priceDelta": 2500
+        },
+        {
+          "id": "vejce",
+          "name": "Sázené vejce",
+          "priceDelta": 2500
+        },
+        {
+          "id": "maso",
+          "name": "Druhý plátek masa",
+          "priceDelta": 7900
+        }
+      ]
+    }
+  ]
+}

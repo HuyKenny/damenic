@@ -1,0 +1,88 @@
+{
+  "name": "Pizza s pikantním salámem",
+  "section": "Pizza",
+  "price": 21900,
+  "recipe": "pizza-pikantni-salam",
+  "vegetarian": false,
+  "order": 20,
+  "description": "Rajčata, mozzarella, pikantní salám a kapka medu, která pálivost zakulatí.",
+  "about": [
+    "Pálivý salám pustí při pečení tuk, který se spojí s rajčaty a sýrem. Proto ho stačí méně, než by se zdálo, a plátky se kladou až na sýr, aby okraje zkřupaly.",
+    "Med na hotové pizze není výstřelek: sladká chuť tlumí ostrost a zvýrazňuje salám. Kdo nechce, v simulaci i doma ho prostě vynechá."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "32cm",
+          "name": "32 cm",
+          "priceDelta": 0
+        },
+        {
+          "id": "40cm",
+          "name": "40 cm",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "mozzarella",
+          "name": "Mozzarella navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "zampiony",
+          "name": "Žampiony",
+          "priceDelta": 2500
+        },
+        {
+          "id": "olivy",
+          "name": "Černé olivy",
+          "priceDelta": 2000
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 2000
+        },
+        {
+          "id": "rukola",
+          "name": "Rukola",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "medu",
+          "name": "Bez medu",
+          "priceDelta": 0
+        },
+        {
+          "id": "chilli",
+          "name": "Bez chilli",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "prazdna-pec",
+  "image": "dish-pizza-pikantni-salam"
+}

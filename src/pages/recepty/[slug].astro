@@ -1,0 +1,141 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import Photo from '@/components/Photo.astro';
+import RecipeCard from '@/components/RecipeCard.astro';
+import RecipeTools, { type DishRef } from '@/islands/RecipeTools';
+import { getEntry } from 'astro:content';
+import { allDishes, allRecipes, ingredientInfo, pickInfo, recipeLite, totalMinutes, type Recipe } from '@/lib/content';
+import { formatAmount } from '@/lib/units';
+import { formatDuration } from '@/lib/units';
+import { CATEGORY_LABELS, SITE } from '@/lib/site';
+import { photo } from '@/lib/content';
+import { getImage } from 'astro:assets';
+
+export async function getStaticPaths() {
+  return (await allRecipes()).map((recipe) => ({ params: { slug: recipe.id }, props: { recipe } }));
+}
+interface Props {
+  recipe: Recipe;
+}
+const { recipe: r } = Astro.props;
+const info = await ingredientInfo();
+const lite = recipeLite(r);
+const dishEntry = (await allDishes()).find((d) => d.data.recipe?.id === r.id);
+let dish: DishRef | null = null;
+if (dishEntry) {
+  const rest = (await getEntry(dishEntry.data.restaurant))!;
+  dish = { name: dishEntry.data.name, slug: dishEntry.id, price: dishEntry.data.price, restaurant: rest.data.name, deliveryFee: rest.data.deliveryFee };
+}
+const related = (await allRecipes()).filter((x) => x.data.category === r.data.category && x.id !== r.id).slice(0, 4);
+const sections: { title: string; steps: string[] }[] = [];
+for (const s of r.data.steps) {
+  const title = s.section ?? '';
+  const last = sections[sections.length - 1];
+  if (last && last.title === title) last.steps.push(s.text);
+  else sections.push({ title, steps: [s.text] });
+}
+const total = totalMinutes(r);
+const iso = (m: number) => `PT${Math.floor(m / 60) ? `${Math.floor(m / 60)}H` : ''}${m % 60 ? `${m % 60}M` : ''}` || 'PT0M';
+const p = await photo(r.data.image);
+const img = p.meta ? new URL((await getImage({ src: p.meta, width: 1200, format: 'jpg' })).src, SITE.url).href : undefined;
+// Structured data mirrors only what is visible on the page: no ratings, no nutrition, no reviews.
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'Recipe',
+  name: r.data.title,
+  description: r.data.intro,
+  ...(img ? { image: [img] } : {}),
+  recipeCuisine: CATEGORY_LABELS[r.data.category]?.label,
+  recipeYield: `${r.data.servings} porce`,
+  prepTime: iso(r.data.activeMinutes + r.data.waitMinutes),
+  cookTime: iso(r.data.cookMinutes),
+  totalTime: iso(total),
+  recipeIngredient: r.data.ingredients.map((i) => `${formatAmount(i.amount, i.unit)} ${info[i.ingredient.id]?.name ?? i.ingredient.id}${i.note ? ` (${i.note})` : ''}`),
+  recipeInstructions: r.data.steps.map((s) => ({ '@type': 'HowToStep', text: s.text })),
+  publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+};
+---
+
+<Base title={`${r.data.title} – recept`} description={`${r.data.intro.slice(0, 150)}${r.data.intro.length > 150 ? '…' : ''}`} ogType="article" jsonld={[jsonld]}>
+  <Breadcrumbs items={[{ label: 'Recepty', href: '/recepty/' }, { label: r.data.title }]} />
+  <article class="wrap">
+    <header class="recipehead">
+      <div>
+        <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px">
+          <span class="tag">{CATEGORY_LABELS[r.data.category]?.label}</span>
+          {r.data.vegetarian && <span class="tag tag--veg">Bez masa</span>}
+        </div>
+        <h1>{r.data.title}</h1>
+        <p style="font-size:1.125rem;margin-top:12px">{r.data.intro}</p>
+        <dl class="times">
+          <div><dt>Porce</dt><dd>{r.data.servings}</dd></div>
+          <div><dt>Vlastní práce</dt><dd>{formatDuration(r.data.activeMinutes)}</dd></div>
+          {r.data.cookMinutes > 0 && <div><dt>Tepelná úprava</dt><dd>{formatDuration(r.data.cookMinutes)}</dd></div>}
+          {r.data.waitMinutes > 0 && <div><dt>Čekání ({r.data.waitLabel})</dt><dd>{formatDuration(r.data.waitMinutes)}</dd></div>}
+          <div><dt>Celkem</dt><dd>{formatDuration(total)}</dd></div>
+          <div><dt>Obtížnost</dt><dd>{r.data.difficulty}</dd></div>
+        </dl>
+        {
+          dish && (
+            <p class="muted no-print" style="margin:0">
+              V simulátoru: <a href={`/jidla/${dish.slug}/`}>{dish.name}</a> z fiktivní restaurace {dish.restaurant}.
+            </p>
+          )
+        }
+      </div>
+      <div class="recipehead__media">
+        <Photo asset={r.data.image} widths={[420, 640, 840, 1040]} sizes="(min-width: 900px) 520px, 100vw" ratio={4 / 3} priority />
+      </div>
+    </header>
+
+    <div class="recipe">
+      <RecipeTools client:visible recipe={lite} info={pickInfo(r, info)} dish={dish} />
+      <div>
+        <section aria-labelledby="postup" class="steps">
+          <h2 id="postup">Postup</h2>
+          {
+            sections.map((s) => (
+              <>
+                {s.title && <h3>{s.title}</h3>}
+                <ol>
+                  {s.steps.map((t) => (
+                    <li>
+                      <p>{t}</p>
+                    </li>
+                  ))}
+                </ol>
+              </>
+            ))
+          }
+        </section>
+        {
+          r.data.tips.length > 0 && (
+            <section class="prose" aria-labelledby="tipy">
+              <h2 id="tipy">Tipy</h2>
+              <ul class="tips">{r.data.tips.map((t) => <li>{t}</li>)}</ul>
+            </section>
+          )
+        }
+        {
+          r.data.substitutions.length > 0 && (
+            <section class="prose" aria-labelledby="nahrady">
+              <h2 id="nahrady">Čím nahradit</h2>
+              <ul class="tips">{r.data.substitutions.map((t) => <li>{t}</li>)}</ul>
+            </section>
+          )
+        }
+      </div>
+    </div>
+  </article>
+  {
+    related.length > 0 && (
+      <section class="section wrap no-print" aria-labelledby="h-podobne">
+        <div class="section__head">
+          <h2 id="h-podobne">Podobné recepty</h2>
+        </div>
+        <div class="grid grid--dishes">{related.map((x) => <RecipeCard recipe={x} />)}</div>
+      </section>
+    )
+  }
+</Base>

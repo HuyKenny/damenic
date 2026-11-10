@@ -1,0 +1,197 @@
+{
+  "image": "dish-hovezi-durum",
+  "category": "kebab",
+  "title": "Hovězí dürüm",
+  "intro": "Čtyři plněné tortilly s kořeněným mletým hovězím, zeleninou a jogurtovou omáčkou, hotové zhruba za 40 minut. Záleží na tom, aby se maso opravdu opeklo a náplň nebyla mokrá.",
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "vegetarian": false,
+  "ingredients": [
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 500,
+      "unit": "g",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 50,
+      "unit": "ml",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 150,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "tortilly",
+      "amount": 4,
+      "unit": "ks",
+      "note": "velké, o průměru asi 25 cm",
+      "group": "Na zabalení"
+    },
+    {
+      "ingredient": "ledovy-salat",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na nudličky",
+      "group": "Na zabalení"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "na malé kostky",
+      "group": "Na zabalení"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "na tenké půlkroužky",
+      "group": "Na zabalení"
+    },
+    {
+      "ingredient": "sumah",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Na zabalení"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Na zabalení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Jogurt smíchej s česnekem, polovinou citronové šťávy a špetkou soli. Červenou cibuli promni se sumahem, petrželkou a zbytkem citronové šťávy a nech ji stát, než bude hotové maso."
+    },
+    {
+      "section": "Maso",
+      "text": "Ve velké pánvi rozehřej olej a cibuli na něm opékej 4 minuty dozlatova. Přidej mleté maso, zvyš plamen a opékej 6 až 8 minut. Maso přitom rozmačkávej vařečkou na drobno a nech odpařit všechnu šťávu, až začne hnědnout."
+    },
+    {
+      "section": "Maso",
+      "text": "Přidej česnek, protlak, všechno koření, sůl a pepř a minutu míchej. Podlij vodou, seškrábni přípečky ze dna a nech 2 až 3 minuty odpařit, aby směs zůstala šťavnatá, ale nebyla v ní tekutina."
+    },
+    {
+      "section": "Balení",
+      "text": "Tortilly nahřej jednu po druhé na suché pánvi, asi 20 sekund z každé strany, aby změkly a při balení nepraskaly."
+    },
+    {
+      "section": "Balení",
+      "text": "Doprostřed tortilly dej pruh jogurtové omáčky, na něj salát, čtvrtinu masa, rajčata a cibuli se sumahem. Spodní okraj přehni přes náplň, zahni oba boky dovnitř a pevně sroluj."
+    },
+    {
+      "section": "Balení",
+      "text": "Zabalené dürümy polož švem dolů na suchou pánev a opékej na středním plameni 1 až 2 minuty z každé strany, až tortilla zezlátne a šev drží. Podávej hned, rozkrojené šikmo napůl."
+    }
+  ],
+  "tips": [
+    "Náplň nepřeháněj. Na okrajích tortilly nech aspoň 4 cm volné, jinak ji nezavřeš.",
+    "Vyber mleté maso s podílem tuku kolem 20 %. Úplně libové je po opečení suché a drobí se.",
+    "Kdo chce pikantnější verzi, přidá do náplně nakládané jalapeños nebo pár kapek srirachy."
+  ],
+  "substitutions": [
+    "Místo mletého masa můžeš použít hovězí roštěnou nakrájenou na tenké nudličky. Opékej ji prudce jen 2 až 3 minuty a koření přidej až na konci.",
+    "Sumah nahradí trocha citronové šťávy navíc a špetka sladké papriky.",
+    "Mleté hovězí jde vyměnit za směs hovězího a jehněčího, pokud ho seženeš."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Čočkový dál s basmati rýží",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Teplá jídla",
+  "price": 18900,
+  "image": "dish-cockovy-dal-s-ryzi",
+  "recipe": "cockovy-dal-s-ryzi",
+  "vegetarian": true,
+  "order": 30,
+  "description": "Hustý dál z červené čočky s rajčaty, zázvorem, kurkumou a kokosovým mlékem. K tomu basmati rýže a čerstvý koriandr.",
+  "about": [
+    "Dál je čočka rozvařená do husté omáčky. Červená čočka se nenamáčí a rozpadne se za dvacet minut, takže chuť stojí hlavně na základu z cibule, česneku, zázvoru a koření krátce opečeného v oleji.",
+    "Při vaření doma se vyplatí neuspěchat cibuli a čočku ke konci hlídat, protože houstne rychle a u dna se chytá. Sůl a citron přijdou až nakonec, kdy je vidět, jak hustý dál vyšel."
+  ],
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemny",
+          "name": "Jemný",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivý",
+          "priceDelta": 0
+        },
+        {
+          "id": "palivy",
+          "name": "Pálivý",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná (400 g)",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (550 g)",
+          "priceDelta": 4000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "koriandru",
+          "name": "Bez čerstvého koriandru",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Burger se slaninou a BBQ omáčkou",
+  "restaurant": "burger-nikdy",
+  "kind": "main",
+  "section": "Burgery",
+  "price": 24900,
+  "order": 20,
+  "description": "Hovězí plátek 150 g, křupavá anglická slanina, cheddar, červená cibule a domácí BBQ omáčka z kečupu, medu a uzené papriky.",
+  "about": [
+    "Tenhle burger je postavený na kouři a sladkosti. Slanina se opeče dokřupava, hovězí se smaží na tuku, který po ní zůstal, a navrch přijde BBQ omáčka z kečupu, medu, worcesteru a uzené papriky.",
+    "Omáčka se vaří jako první, protože potřebuje deset minut na mírném ohni a chvíli na vychladnutí, aby zhoustla. Slaninu je lepší opékat pomalu od studené pánve, jinak se spálí dřív, než pustí tuk."
+  ],
+  "image": "dish-burger-slanina-bbq",
+  "recipe": "burger-slanina-bbq",
+  "vegetarian": false,
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bez-prilohy",
+          "name": "Bez přílohy",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 5500
+        },
+        {
+          "id": "batatove-hranolky",
+          "name": "Batátové hranolky",
+          "priceDelta": 6900
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "slanina",
+          "name": "Slanina",
+          "priceDelta": 3500
+        },
+        {
+          "id": "cheddar",
+          "name": "Cheddar navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "vejce",
+          "name": "Sázené vejce",
+          "priceDelta": 2500
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 2000
+        },
+        {
+          "id": "maso",
+          "name": "Druhý plátek masa",
+          "priceDelta": 7900
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cibule",
+          "name": "Bez cibule",
+          "priceDelta": 0
+        },
+        {
+          "id": "okurky",
+          "name": "Bez okurky",
+          "priceDelta": 0
+        },
+        {
+          "id": "syra",
+          "name": "Bez sýra",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ]
+}

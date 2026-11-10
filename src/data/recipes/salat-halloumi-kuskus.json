@@ -1,0 +1,165 @@
+{
+  "title": "Teplý kuskusový salát s halloumi a pečenou zeleninou",
+  "image": "dish-salat-halloumi-kuskus",
+  "category": "vegetarianske",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 25,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Vlažný salát pro dva z kuskusu, pečené zeleniny a opečeného halloumi s citronem a mátou. Všechno se chystá dopředu kromě sýra, ten jde z pánve rovnou na talíř.",
+  "ingredients": [
+    {
+      "ingredient": "cuketa",
+      "amount": 250,
+      "unit": "g",
+      "note": "na půlměsíčky silné 1 cm",
+      "group": "Pečená zelenina"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kousky asi 2 cm",
+      "group": "Pečená zelenina"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na měsíčky",
+      "group": "Pečená zelenina"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Pečená zelenina"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Pečená zelenina"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Pečená zelenina"
+    },
+    {
+      "ingredient": "kuskus",
+      "amount": 150,
+      "unit": "g",
+      "group": "Kuskus"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 200,
+      "unit": "ml",
+      "note": "vroucí",
+      "group": "Kuskus"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Kuskus"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "kůra z poloviny a všechna šťáva",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "halloumi",
+      "amount": 225,
+      "unit": "g",
+      "note": "na plátky silné 1 cm",
+      "group": "Na dokončení"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na pánev",
+      "group": "Na dokončení"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "lístky, nasekané",
+      "group": "Na dokončení"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Na dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Pečená zelenina",
+      "text": "Troubu předehřej na 220 °C (horkovzdušnou na 200 °C). Cuketu, papriku a cibuli promíchej na plechu s pečicím papírem s olejem, oreganem a solí a rozlož do jedné vrstvy."
+    },
+    {
+      "section": "Pečená zelenina",
+      "text": "Peč 20 až 25 minut a v polovině zeleninu obrať. Je hotová, když změkne a na okrajích zhnědne."
+    },
+    {
+      "section": "Kuskus",
+      "text": "Kuskus dej do velké mísy se solí, zalij ho vroucí vodou, přikryj talířem a nech 5 minut stát. Potom ho načechrej vidličkou."
+    },
+    {
+      "section": "Zálivka",
+      "text": "Omytý citron osuš a z poloviny nastrouhej najemno kůru. Vymačkej šťávu z celého citronu a prošlehej ji s kůrou, olejem, medem a pepřem."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Do kuskusu vmíchej pečenou zeleninu i se šťávou z plechu, zálivku a většinu bylinek. Ochutnej a případně dosol, ale opatrně, halloumi je samo hodně slané."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Plátky halloumi osuš papírovou utěrkou. Na pánvi rozehřej lžičku oleje a sýr opékej na středním plameni asi 2 minuty z každé strany dozlatova."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Salát rozděl na talíře, navrch polož horké halloumi a posyp zbylými bylinkami. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Halloumi opékej až ve chvíli, kdy je všechno ostatní hotové. Po vychladnutí ztuhne a je gumové.",
+    "Sýr na pánvi pustí trochu vody. Nech ji odpařit a plátky neobracej, dokud se zespodu nevytvoří kůrka.",
+    "Salát bez sýra vydrží v lednici do druhého dne, před jídlem ho nech půl hodiny při pokojové teplotě."
+  ],
+  "substitutions": [
+    "Místo kuskusu použij bulgur: 150 g vař pod pokličkou ve 300 ml osolené vody asi 12 minut.",
+    "Med v zálivce nahradí špetka cukru.",
+    "Cuketu můžeš vyměnit za lilek nakrájený na kostky, peče se stejně dlouho."
+  ]
+}

@@ -1,0 +1,46 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import RecipeCard from '@/components/RecipeCard.astro';
+import { allRecipes } from '@/lib/content';
+import { CATEGORY_LABELS } from '@/lib/site';
+
+const recipes = await allRecipes();
+const groups = Object.entries(CATEGORY_LABELS)
+  .map(([id, c]) => ({ id, ...c, recipes: recipes.filter((r) => r.data.category === id) }))
+  .filter((g) => g.recipes.length);
+---
+
+<Base
+  title="Recepty na jídla z rozvozu – uvař si doma"
+  description={`${recipes.length} receptů na pizzu, burgery, českou klasiku, asijská jídla, kebab a vegetariánská jídla. S poctivými časy, přepočtem porcí, odhadem nákladů a nákupním seznamem.`}
+>
+  <Breadcrumbs items={[{ label: 'Recepty' }]} />
+  <div class="wrap">
+    <div class="pagehead">
+      <h1>Recepty na doma</h1>
+      <p>
+        Ke každému hlavnímu jídlu ze simulátoru patří skutečný recept. Časy rozlišují vlastní práci, tepelnou úpravu a čekání. Ceny surovin jsou
+        ilustrační odhady.
+      </p>
+    </div>
+    <ul class="chips" aria-label="Kuchyně">
+      {groups.map((g) => <li><a class="chip" href={`#${g.id}`}>{g.label}</a></li>)}
+    </ul>
+    {
+      groups.map((g) => (
+        <section class="section" id={g.id} aria-labelledby={`h-${g.id}`} style="padding-bottom:0">
+          <div class="section__head">
+            <div>
+              <h2 id={`h-${g.id}`}>{g.label}</h2>
+              <p>{g.lead}</p>
+            </div>
+          </div>
+          <div class="grid grid--dishes">
+            {g.recipes.map((r) => <RecipeCard recipe={r} />)}
+          </div>
+        </section>
+      ))
+    }
+  </div>
+</Base>

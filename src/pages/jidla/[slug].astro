@@ -1,0 +1,96 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import Photo from '@/components/Photo.astro';
+import Icon from '@/components/Icon.astro';
+import DishCard from '@/components/DishCard.astro';
+import AddToCart from '@/islands/AddToCart';
+import { getEntry } from 'astro:content';
+import { allDishes, buildCatalog, dishHasPage, ingredientInfo, perServingCost, totalMinutes, type Dish } from '@/lib/content';
+import { formatCzk, roundToCrown } from '@/lib/money';
+import { formatDuration } from '@/lib/units';
+
+export async function getStaticPaths() {
+  return (await allDishes()).filter(dishHasPage).map((dish) => ({ params: { slug: dish.id }, props: { dish } }));
+}
+interface Props {
+  dish: Dish;
+}
+const { dish: d } = Astro.props;
+const restaurant = (await getEntry(d.data.restaurant))!;
+const recipe = d.data.recipe ? await getEntry(d.data.recipe) : undefined;
+const catalog = await buildCatalog();
+const info = await ingredientInfo();
+const perServing = recipe ? perServingCost(recipe, info) : null;
+const others = (await allDishes()).filter((x) => x.data.restaurant.id === restaurant.id && x.id !== d.id && dishHasPage(x)).slice(0, 4);
+---
+
+<Base
+  title={`${d.data.name} – objednej nanečisto, uvař doopravdy`}
+  description={`${d.data.name} z fiktivní restaurace ${restaurant.data.name}: ${d.data.description} V simulátoru DámeNic si ho objednáš nanečisto a dostaneš recept na doma.`}
+  ogType="article"
+>
+  <Breadcrumbs items={[{ label: 'Restaurace', href: '/restaurace/' }, { label: restaurant.data.name, href: `/restaurace/${restaurant.id}/` }, { label: d.data.name }]} />
+  <div class="wrap">
+    <div class="dish">
+      <div>
+        <div class="dish__media">
+          <Photo asset={d.data.image} widths={[420, 640, 840, 1120]} sizes="(min-width: 900px) 60vw, 100vw" ratio={4 / 3} priority />
+        </div>
+        <div class="prose" style="margin-top:20px">
+          <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px">
+            <span class="tag tag--sim">Simulovaná nabídka</span>
+            {d.data.vegetarian && <span class="tag tag--veg">Bez masa</span>}
+          </div>
+          <h1>{d.data.name}</h1>
+          <p style="font-size:1.125rem;margin-top:10px">{d.data.description}</p>
+          <p class="muted">
+            Z nabídky smyšlené restaurace <a href={`/restaurace/${restaurant.id}/`}>{restaurant.data.name}</a>. Simulované doručení {restaurant.data.etaMinutes} min,
+            simulované dopravné {formatCzk(restaurant.data.deliveryFee)}.
+          </p>
+          {d.data.about.length > 0 && <h2>O jídle</h2>}
+          {d.data.about.map((p) => <p>{p}</p>)}
+          {
+            recipe && (
+              <>
+                <h2>Uvařit doma</h2>
+                <p>
+                  Tohle jídlo nepřijede, ale dá se uvařit. Recept <a href={`/recepty/${recipe.id}/`}>{recipe.data.title}</a> je na {recipe.data.servings}{' '}
+                  {recipe.data.servings < 5 ? 'porce' : 'porcí'} a zabere celkem {formatDuration(totalMinutes(recipe))}, z toho {formatDuration(recipe.data.activeMinutes)} vlastní
+                  práce.
+                  {perServing !== null && ` Suroviny na jednu porci odhadujeme zhruba na ${formatCzk(roundToCrown(perServing))} (ilustrační ceny).`}
+                </p>
+                {d.data.recipeNote && <p class="muted">{d.data.recipeNote}</p>}
+                <p>
+                  <a class="btn btn--dark" href={`/recepty/${recipe.id}/`}>
+                    <Icon name="chef" /> Uvařit doma
+                  </a>
+                </p>
+              </>
+            )
+          }
+        </div>
+      </div>
+      <aside class="dish__panel" aria-label="Přidat do košíku">
+        <p style="display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin-bottom:14px">
+          <strong style="font-size:1.25rem">{d.data.name}</strong>
+          <span class="price">{formatCzk(d.data.price)}</span>
+        </p>
+        <AddToCart client:load dish={catalog.dishes[d.id]!} restaurant={restaurant.data.name} />
+      </aside>
+    </div>
+
+    {
+      others.length > 0 && (
+        <section class="section" aria-labelledby="h-dalsi">
+          <div class="section__head">
+            <h2 id="h-dalsi">Další z restaurace {restaurant.data.name}</h2>
+          </div>
+          <div class="grid grid--dishes">
+            {others.map((x) => <DishCard dish={x} restaurantName={restaurant.data.name} />)}
+          </div>
+        </section>
+      )
+    }
+  </div>
+</Base>

@@ -1,0 +1,78 @@
+{
+  "name": "Vepřo knedlo zelo",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "price": 21900,
+  "recipe": "vepro-knedlo-zelo",
+  "vegetarian": false,
+  "order": 40,
+  "description": "Vepřová krkovice pečená na česneku a kmínu, houskový knedlík a dušené kysané zelí, přelité výpekem.",
+  "about": [
+    "Vepřo knedlo zelo jsou tři jednoduché věci na jednom talíři: maso pečené jen s kmínem, česnekem a cibulí, knedlík a sladkokyselé dušené zelí. Spojuje je výpek, kterým se všechno přelévá.",
+    "Doma záleží na tom, aby se maso peklo nejdřív přikryté a podlité, teprve potom odkryté dozlatova. Zelí se dochucuje až na konci: má být zároveň kyselé i sladké a jen mírně zahuštěné."
+  ],
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standardni",
+          "name": "Standardní",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (o polovinu více masa)",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "zeli",
+      "name": "Zelí",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bile",
+          "name": "Bílé kysané",
+          "priceDelta": 0
+        },
+        {
+          "id": "cervene",
+          "name": "Červené",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "knedliky",
+          "name": "Dva knedlíky navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "zeli",
+          "name": "Zelí navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "vypek",
+          "name": "Výpek navíc",
+          "priceDelta": 1000
+        }
+      ],
+      "max": 3
+    }
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-vepro-knedlo-zelo"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Okurkový salát se sezamem",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 6900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 60,
+  "description": "Natlučená salátová okurka s česnekem, rýžovým octem, sezamovým olejem a praženým sezamem.",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Chilli",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-chilli",
+          "name": "Bez chilli",
+          "priceDelta": 0
+        },
+        {
+          "id": "s-chilli",
+          "name": "S chilli vločkami",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "wok-nic-moc",
+  "image": "dish-okurkovy-salat-sezam-wok"
+}

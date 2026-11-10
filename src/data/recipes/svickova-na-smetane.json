@@ -1,0 +1,201 @@
+{
+  "title": "Svíčková na smetaně",
+  "servings": 4,
+  "activeMinutes": 45,
+  "cookMinutes": 165,
+  "waitMinutes": 0,
+  "difficulty": "náročnější",
+  "intro": "Čtyři porce hovězího ve smetanové omáčce z kořenové zeleniny. Recept stojí na dobře opečené zelenině a na pomalém dušení; počítej se třemi a půl hodinami, z toho většinu času pracuje trouba.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-zadni",
+      "amount": 800,
+      "unit": "g",
+      "note": "vcelku, ideálně květová špička nebo ořech",
+      "group": "Maso a základ"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 60,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Maso a základ"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso a základ"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "group": "Maso a základ"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostky",
+      "group": "Maso a základ"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostky",
+      "group": "Maso a základ"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostky",
+      "group": "Maso a základ"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nahrubo nakrájená",
+      "group": "Maso a základ"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso a základ"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso a základ"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso a základ"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 600,
+      "unit": "ml",
+      "group": "Maso a základ"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Maso a základ"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 5,
+      "unit": "ks",
+      "group": "Maso a základ"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso a základ"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso a základ"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "1 lžička na maso, zbytek do omáčky podle chuti",
+      "group": "Maso a základ"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Dokončení omáčky"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Dokončení omáčky"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "půlka na šťávu do omáčky, půlka na plátky",
+      "group": "Dokončení omáčky"
+    },
+    {
+      "ingredient": "knedlik-houskovy",
+      "amount": 600,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "brusinky-kompot",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Maso",
+      "text": "Troubu předehřej na 160 °C. Maso osuš, osol a ze všech stran ho na oleji prudce opeč v litinovém hrnci nebo pekáči s poklicí, celkem asi 8 minut. Vyndej ho na talíř."
+    },
+    {
+      "section": "Maso",
+      "text": "Do stejného hrnce dej slaninu a nech ji pustit tuk. Přidej máslo, kořenovou zeleninu a cibuli a opékej 10 až 12 minut, dokud zelenina na hranách nezhnědne."
+    },
+    {
+      "section": "Maso",
+      "text": "Zeleninu posyp cukrem a nech ho minutu zkaramelizovat. Přilij ocet, vmíchej hořčici, přidej bobkový list, nové koření, pepř a tymián a zalij vývarem."
+    },
+    {
+      "section": "Maso",
+      "text": "Maso vrať do hrnce, přiveď k varu, přiklop a dej do trouby. Dus 2 až 2,5 hodiny, v polovině maso obrať. Hotové je, když do něj vidlička zajede bez odporu."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Maso vyndej a zabal do alobalu, aby neosychalo. Ze základu vylov bobkový list, nové koření a pokud možno i kuličky pepře."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Zeleninu s tekutinou rozmixuj ponorným mixérem dohladka. Smetanu rozšlehej s moukou, vlij do omáčky a za občasného míchání vař na mírném plameni 15 minut, aby se mouka provařila."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Omáčku dochuť solí, citronovou šťávou a případně špetkou cukru. Je-li příliš hustá, zřeď ji vývarem nebo vodou; pro úplně hladký výsledek ji propasíruj přes jemné síto."
+    },
+    {
+      "section": "Podávání",
+      "text": "Knedlíky nakrájej na plátky a 5 minut je ohřívej v páře nad hrncem s vroucí vodou. Maso nakrájej přes vlákno na plátky silné asi 1 cm a krátce je prohřej v omáčce."
+    },
+    {
+      "section": "Podávání",
+      "text": "Na talíř dej plátky masa, přelij je omáčkou, přidej knedlíky, plátek citronu a lžíci brusinek."
+    }
+  ],
+  "tips": [
+    "Marinování je volitelné: maso můžeš den předem obložit nakrájenou zeleninou a kořením, podlít octem a nechat přes noc v lednici. Bude o něco křehčí, ale recept funguje i bez toho.",
+    "Maso se nejlépe krájí vychladlé. Když vaříš den předem, nech ho vcelku v lednici, nakrájej studené a ohřej až v omáčce.",
+    "Kyselost a sladkost dolaďuj po troškách až na konci. Omáčka má být nasládlá po zelenině, ne po cukru."
+  ],
+  "substitutions": [
+    "Místo hovězího zadního se dá použít hovězí plec; dus ji o 20 až 30 minut déle.",
+    "Smetanu ke šlehání můžeš nahradit smetanou na vaření, omáčka bude lehčí a méně krémová. Pak ji už nevař prudce, aby se nesrazila.",
+    "Bez slaniny se recept obejde, přidej jen o lžíci másla víc."
+  ],
+  "image": "dish-svickova-na-smetane",
+  "category": "ceska-kuchyne"
+}

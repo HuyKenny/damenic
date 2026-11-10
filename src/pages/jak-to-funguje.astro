@@ -1,0 +1,49 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import { SPEED } from '@/lib/simulation';
+import { SERVICE_FEE } from '@/lib/cart';
+import { formatCzk } from '@/lib/money';
+---
+
+<Base
+  title="Jak funguje simulátor rozvozu DámeNic"
+  description="DámeNic je simulace: fiktivní restaurace, objednávka nanečisto za 0 Kč, smyšlený kurýr na ilustrační mapě a na konci skutečný recept s odhadem nákladů."
+>
+  <Breadcrumbs items={[{ label: 'Jak to funguje' }]} />
+  <div class="wrap prose">
+    <div class="pagehead">
+      <h1>Jak to funguje</h1>
+      <p>DámeNic vypadá jako rozvozová aplikace, ale nic nerozváží. Tady je přesně, co je hra a co je doopravdy.</p>
+    </div>
+    <h2>Co je simulace</h2>
+    <ul>
+      <li><strong>Restaurace</strong> jsou smyšlené. Neexistují, nevaří a nemají adresu.</li>
+      <li><strong>Ceny, dopravné a časy doručení</strong> jsou simulované. K ceně se připočítává dopravné restaurace a smyšlený poplatek {formatCzk(SERVICE_FEE)}, obojí jednou za objednávku.</li>
+      <li><strong>Platba</strong> neexistuje. Pokladna nechce kartu, účet, jméno, telefon ani adresu. Tlačítko „Objednat nanečisto za 0 Kč“ jen uloží záznam do tvého prohlížeče.</li>
+      <li><strong>Kurýr</strong> je smyšlený a mapa je ilustrační, nekreslí žádné skutečné město. Nikdo nikam nejede.</li>
+    </ul>
+    <h2>Jak běží čas</h2>
+    <p>
+      Simulace je zrychlená {SPEED}×. Když restaurace uvádí 30 minut, sledování proběhne asi za 3 skutečné minuty a odpočet ukazuje simulovaný čas. Stav se
+      počítá z okamžiku objednání, takže obnovení stránky ani zavřená záložka nic nevynulují. Čekání se dá kdykoli přeskočit nebo simulaci zrušit.
+    </p>
+    <h2>Co je doopravdy</h2>
+    <ul>
+      <li><strong>Recepty.</strong> Ke každému hlavnímu jídlu je recept s množstvím surovin, postupem, tipy a náhradami. Časy rozlišují vlastní práci, tepelnou úpravu a čekání (kynutí, marinování).</li>
+      <li><strong>Nákupní seznam.</strong> Sečte stejné suroviny z více receptů, rozdělí je podle oddělení obchodu a dá se zkopírovat nebo vytisknout.</li>
+    </ul>
+    <h2>Jak počítáme náklady</h2>
+    <p>Rozlišujeme tři různá čísla a nemícháme je:</p>
+    <ul>
+      <li><strong>Simulovaná hodnota rozvozu:</strong> cena jídla krát počet porcí, plus dopravné a poplatek jednou.</li>
+      <li><strong>Spotřebované suroviny:</strong> jen ta část balení, kterou recept skutečně použije. Ze 100 g rýže se počítá 100 g, ne celý kilogram.</li>
+      <li><strong>Celá balení:</strong> kolik bys zaplatil u pokladny, kdybys doma neměl nic.</li>
+    </ul>
+    <p>
+      Ceny surovin jsou ilustrační odhady, ne aktuální ceny žádného obchodu. Do domácí ceny nepočítáme energii ani tvůj čas. Porovnáváme vždy stejný
+      počet porcí. Když vyjde doma dráž, ukážeme to. A protože jsi nic nezaplatil, nejde o skutečnou úsporu, jen o porovnání dvou odhadů.
+    </p>
+    <p><a class="btn" href="/restaurace/">Vyzkoušet simulaci</a></p>
+  </div>
+</Base>

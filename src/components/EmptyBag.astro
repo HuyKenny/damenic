@@ -1,0 +1,21 @@
+---
+// Own illustration: an open delivery bag with nothing inside. Used in the hero, empty states and the finale.
+interface Props {
+  tone?: 'onRed' | 'onLight';
+  size?: number;
+}
+const { tone = 'onLight', size } = Astro.props;
+const c = tone === 'onRed' ? { bag: '#fff', line: '#8f1418', inside: '#f3c9ca', accent: '#ffd9a0' } : { bag: '#D92E32', line: '#7d1014', inside: '#8f1418', accent: '#f1c27d' };
+---
+
+<svg viewBox="0 0 240 220" width={size} role="img" aria-label="Prázdná doručovací taška" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="120" cy="204" rx="86" ry="9" fill="#000" opacity=".12"></ellipse>
+  <path d="M52 70h136l14 122a8 8 0 0 1-8 9H46a8 8 0 0 1-8-9z" fill={c.bag} stroke={c.line} stroke-width="4" stroke-linejoin="round"></path>
+  <path d="M52 70h136l-10 22H62z" fill={c.inside}></path>
+  <path d="M52 70l-22-30h62l22 30zM188 70l22-30h-62l-22 30z" fill={c.bag} stroke={c.line} stroke-width="4" stroke-linejoin="round"></path>
+  <path d="M92 40c0-20 56-20 56 0" fill="none" stroke={c.line} stroke-width="4" stroke-linecap="round"></path>
+  <circle cx="120" cy="148" r="26" fill="none" stroke={c.line} stroke-width="4" stroke-dasharray="7 7"></circle>
+  <path d="M112 146c2-5 14-5 16 0M112 158h16" fill="none" stroke={c.line} stroke-width="3.5" stroke-linecap="round" opacity=".001"></path>
+  <text x="120" y="158" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="28" fill={c.line}>0</text>
+  <path d="M204 24l4 10 10 4-10 4-4 10-4-10-10-4 10-4zM30 100l3 7 7 3-7 3-3 7-3-7-7-3 7-3z" fill={c.accent}></path>
+</svg>

@@ -1,0 +1,12 @@
+{
+  "name": "Rukolový salát s parmazánem",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 8900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 70,
+  "description": "Rukola, cherry rajčata, hobliny parmazánu a zálivka z olivového oleje a citronu.",
+  "restaurant": "prazdna-pec",
+  "image": "dish-rukolovy-salat"
+}

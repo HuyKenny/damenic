@@ -1,0 +1,37 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import RestaurantCard from '@/components/RestaurantCard.astro';
+import { allRestaurants } from '@/lib/content';
+import { CATEGORY_LABELS } from '@/lib/site';
+
+const restaurants = await allRestaurants();
+---
+
+<Base
+  title="Fiktivní restaurace – katalog simulátoru"
+  description="Šest smyšlených restaurací simulátoru DámeNic: pizza, burgery, česká kuchyně, Asie, kebab a vegetariánská jídla. Objednáš nanečisto, nic nepřijede, recept dostaneš."
+>
+  <Breadcrumbs items={[{ label: 'Restaurace' }]} />
+  <div class="wrap">
+    <div class="pagehead">
+      <h1>Fiktivní restaurace</h1>
+      <p>
+        Žádná z těchto restaurací neexistuje a nic z nich nepřijede. Časy doručení, dopravné i ceny jsou simulované. Skutečné jsou jen recepty, které ke
+        každému hlavnímu jídlu patří.
+      </p>
+    </div>
+    <ul class="chips" aria-label="Kuchyně">
+      {
+        restaurants.map((r) => (
+          <li>
+            <a class="chip" href={`/restaurace/${r.id}/`}>{CATEGORY_LABELS[r.data.category]?.label}</a>
+          </li>
+        ))
+      }
+    </ul>
+    <div class="grid" style="margin-top:14px">
+      {restaurants.map((r, i) => <RestaurantCard restaurant={r} priority={i < 3} />)}
+    </div>
+  </div>
+</Base>

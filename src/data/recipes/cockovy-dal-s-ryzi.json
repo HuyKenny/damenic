@@ -1,0 +1,171 @@
+{
+  "title": "Čočkový dál s basmati rýží",
+  "image": "dish-cockovy-dal-s-ryzi",
+  "category": "vegetarianske",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Hustý dál z červené čočky pro čtyři, hotový zhruba za tři čtvrtě hodiny. Čočka se nenamáčí, chuť závisí na dobře osmahnuté cibuli a koření opečeném v oleji.",
+  "ingredients": [
+    {
+      "ingredient": "cocka-cervena",
+      "amount": 250,
+      "unit": "g",
+      "note": "propláchnutá",
+      "group": "Dál"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Dál"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Dál"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Dál"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 20,
+      "unit": "g",
+      "note": "oloupaný a nastrouhaný",
+      "group": "Dál"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Dál"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Dál"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Dál"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "podle chuti",
+      "group": "Dál"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "note": "1 plechovka",
+      "group": "Dál"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 600,
+      "unit": "ml",
+      "group": "Dál"
+    },
+    {
+      "ingredient": "kokosove-mleko",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Dál"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Dál"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Dál"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaný, na posypání",
+      "group": "Dál"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 300,
+      "unit": "g",
+      "note": "propláchnutá",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 450,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Dál",
+      "text": "V širším hrnci rozehřej olej a na středním plameni osmahni cibuli dozlatova, trvá to 6 až 8 minut. Přidej česnek a zázvor a minutu míchej."
+    },
+    {
+      "section": "Dál",
+      "text": "Přisyp římský kmín, mletý koriandr, kurkumu a chilli a půl minuty opékej, aby se koření rozvonělo. Nesmí se připálit, jinak zhořkne."
+    },
+    {
+      "section": "Dál",
+      "text": "Vlij rajčata a rozmačkej je vařečkou. Přidej propláchnutou čočku a 600 ml vody, přiveď k varu a stáhni plamen."
+    },
+    {
+      "section": "Dál",
+      "text": "Vař pod pootevřenou pokličkou 20 minut a občas zamíchej až ke dnu. Čočka se má rozpadat a směs houstnout."
+    },
+    {
+      "section": "Rýže",
+      "text": "Rýži propláchni v sítku pod studenou vodou, dokud voda neteče skoro čirá. Dej ji do hrnce se 450 ml vody a půlkou lžičky soli, přiveď k varu, přikryj a na nejnižším stupni vař 12 minut. Potom ji nech mimo plotnu 10 minut dojít pod pokličkou."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Do dálu vmíchej kokosové mléko a sůl a 5 minut povař. Pokud je příliš hustý, přilij trochu vody. Mimo plotnu dochuť citronovou šťávou."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Rýži načechrej vidličkou, rozděl na talíře, přidej dál a posyp čerstvým koriandrem."
+    }
+  ],
+  "tips": [
+    "Rýži dej vařit ve chvíli, kdy se čočka začne dusit. Obojí bude hotové zhruba ve stejnou dobu.",
+    "Dál do druhého dne ztuhne. Při ohřívání ho rozřeď vodou a znovu dosol.",
+    "Zbytek plechovky kokosového mléka se dá zamrazit, třeba v tvořítku na led."
+  ],
+  "substitutions": [
+    "Kokosové mléko můžeš vynechat a nahradit stejným množstvím vody, dál bude řidší a kyselejší.",
+    "Čerstvý koriandr nahradí petrželka.",
+    "Místo rýže se hodí pita chléb nahřátý v troubě."
+  ]
+}

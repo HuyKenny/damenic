@@ -1,0 +1,150 @@
+{
+  "title": "Hovězí guláš z kližky",
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 165,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "intro": "Hustý hovězí guláš pro čtyři, zahuštěný jen cibulí a chlebem. Závisí na trpělivě opečené cibuli a na dlouhém mírném varu, s necelými třemi hodinami na plotně je potřeba počítat předem.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-klizka",
+      "amount": 800,
+      "unit": "g",
+      "note": "na kostky asi 3 cm",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 600,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "paprika-paliva",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "podle chuti",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "nadrcený",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 400,
+      "unit": "ml",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 60,
+      "unit": "g",
+      "note": "bez kůrky, nadrobený, na zahuštění",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 300,
+      "unit": "g",
+      "note": "nakrájený na krajíce",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "na tenká kolečka",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V širokém hrnci s těžkým dnem rozpusť sádlo a na středním plameni na něm opékej cibuli 15 až 20 minut, dokud není rovnoměrně zlatohnědá. Často míchej, po připálené cibuli by guláš zhořkl."
+    },
+    {
+      "text": "Zvyš plamen, přidej maso, osol ho a opékej asi 8 minut, až se zatáhne a pustí šťávu. Vmíchej kmín a rajčatový protlak a minutu opékej."
+    },
+    {
+      "text": "Hrnec stáhni z plotny, vmíchej sladkou i pálivou papriku a hned zalij vývarem a vodou. Paprika se na rozpáleném tuku bez tekutiny během pár vteřin připálí."
+    },
+    {
+      "text": "Přiveď k varu, stáhni plamen na minimum a pod pootevřenou poklicí vař 2,5 hodiny. Občas zamíchej a podle potřeby dolij trochu vody, maso má být stále skoro ponořené."
+    },
+    {
+      "text": "Když je maso měkké a dá se rozmáčknout vidličkou, vmíchej nadrobený chléb a vař dalších 10 minut, až se rozpadne a šťávu zahustí."
+    },
+    {
+      "text": "Nakonec přidej česnek, majoránku promnutou v dlaních a pepř, zamíchej a nech 5 minut dojít mimo plotnu. Dosol podle chuti."
+    },
+    {
+      "text": "Podávej s krajíci chleba a nahoru dej kolečka červené cibule."
+    }
+  ],
+  "tips": [
+    "Kližku není třeba dokonale čistit od blan. Vazivo při dlouhém varu změkne a dodá šťávě hustotu.",
+    "Guláš je druhý den lepší. V lednici vydrží tři dny, ohřívej ho pomalu a případně zřeď trochou vody.",
+    "Pokud je po dvou a půl hodinách maso ještě tuhé, vař dál. Záleží na kusu masa, někdy je potřeba i o půl hodiny víc."
+  ],
+  "substitutions": [
+    "Místo chleba jako přílohy ohřej v páře 600 g houskového knedlíku nebo uvař 800 g brambor.",
+    "Sádlo můžeš nahradit slunečnicovým olejem, guláš bude chuťově o něco plošší.",
+    "Kližku lze nahradit hovězím krkem nebo plecí; dusí se podobně dlouho."
+  ],
+  "image": "dish-hovezi-gulas",
+  "category": "ceska-kuchyne"
+}

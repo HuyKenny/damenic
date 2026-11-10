@@ -1,0 +1,165 @@
+{
+  "title": "Pečený lilek s česnekovým jogurtem, rajčaty a bulgurem",
+  "image": "dish-peceny-lilek-jogurt-rajcata",
+  "category": "vegetarianske",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Dva lilky upečené doměkka, na ně studený česnekový jogurt a rajčata s bylinkami, k tomu bulgur. Recept je jednoduchý, jen lilek nesmí z trouby ven dřív, než úplně změkne.",
+  "ingredients": [
+    {
+      "ingredient": "lilek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "středně velké, asi 300 g každý",
+      "group": "Lilek"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Lilek"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Lilek"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Lilek"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Lilek"
+    },
+    {
+      "ingredient": "jogurt-recky",
+      "amount": 200,
+      "unit": "g",
+      "group": "Česnekový jogurt"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Česnekový jogurt"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva, rozdělená",
+      "group": "Česnekový jogurt"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Česnekový jogurt"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "rozčtvrcená",
+      "group": "Rajčata"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Rajčata"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "lístky, natrhané",
+      "group": "Rajčata"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Rajčata"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Rajčata"
+    },
+    {
+      "ingredient": "sumah",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na posypání",
+      "group": "Rajčata"
+    },
+    {
+      "ingredient": "bulgur",
+      "amount": 150,
+      "unit": "g",
+      "group": "Bulgur"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Bulgur"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Bulgur"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Lilek",
+      "text": "Troubu předehřej na 200 °C a plech vylož pečicím papírem. Lilky podélně rozkroj i se stopkou a dužinu nařízni nožem do mřížky hluboko ke slupce, ale ne skrz."
+    },
+    {
+      "section": "Lilek",
+      "text": "Půlky polož řezem nahoru, potři je olejem tak, aby zatekl do zářezů, osol, opepři a posyp římským kmínem. Peč 40 až 45 minut. Hotový lilek je nahoře zhnědlý a po zmáčknutí se propadne."
+    },
+    {
+      "section": "Bulgur",
+      "text": "Asi 20 minut před koncem pečení dej bulgur do hrnce s 300 ml vody a půlkou lžičky soli. Přiveď k varu, přikryj a na mírném plameni vař 12 minut, potom nech 5 minut stát pod pokličkou."
+    },
+    {
+      "section": "Česnekový jogurt",
+      "text": "Jogurt smíchej s česnekem, polovinou citronové šťávy a špetkou soli. Nech ho v lednici, má být studený."
+    },
+    {
+      "section": "Rajčata",
+      "text": "Rajčata promíchej s petrželkou, mátou, lžící oleje, zbylou citronovou šťávou a špetkou soli."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Na talíř dej bulgur a dvě půlky lilku. Na lilek rozetři jogurt, navrch dej rajčata s bylinkami a posyp sumahem."
+    }
+  ],
+  "tips": [
+    "Zkouška hotovosti: špička nože musí projít dužinou bez odporu až ke slupce. Když si nejsi jistý, peč ještě 5 minut.",
+    "Jogurt dávej na lilek až na talíři. V troubě nebo na horkém plechu by se srazil.",
+    "Rajčata sol až těsně před podáváním, jinak pustí šťávu a rozmočí jogurt."
+  ],
+  "substitutions": [
+    "Sumah nahradí trocha nastrouhané citronové kůry.",
+    "Místo bulguru podávej opečený krajíc chleba potřený olivovým olejem.",
+    "Řecký jogurt lze nahradit bílým jogurtem, bude řidší, proto do něj nedávej citronovou šťávu."
+  ]
+}

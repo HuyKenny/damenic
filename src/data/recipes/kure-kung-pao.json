@@ -1,0 +1,173 @@
+{
+  "title": "Kuře kung pao s jasmínovou rýží",
+  "servings": 2,
+  "activeMinutes": 25,
+  "cookMinutes": 10,
+  "waitMinutes": 15,
+  "waitLabel": "marinování masa",
+  "difficulty": "střední",
+  "vegetarian": false,
+  "intro": "Kuře kung pao pro dva s praženými arašídy a jasmínovou rýží. Stojí na krátké marinádě se škrobem, omáčce namíchané předem a opravdu rozpálené pánvi.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 350,
+      "unit": "g",
+      "note": "na kostky asi 2 cm",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ocet-ryzovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "arasidy",
+      "amount": 60,
+      "unit": "g",
+      "group": "Do woku"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Do woku"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na jemnou verzi polovina",
+      "group": "Do woku"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "na plátky",
+      "group": "Do woku"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 15,
+      "unit": "g",
+      "note": "oloupaný, najemno nasekaný",
+      "group": "Do woku"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostky asi 2 cm",
+      "group": "Do woku"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na 2cm kousky",
+      "group": "Do woku"
+    },
+    {
+      "ingredient": "ryze-jasminova",
+      "amount": 160,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 240,
+      "unit": "ml",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Kuřecí maso promíchej se sójovou omáčkou a škrobem a nech ho 15 minut stát při pokojové teplotě."
+    },
+    {
+      "section": "Příprava",
+      "text": "Rýži dvakrát propláchni studenou vodou a sceď. V menším hrnci ji zalij odměřenou vodou, přiveď k varu, přiklop, stáhni na nejmenší plamen a vař 12 minut. Potom ji nech pod pokličkou mimo plotnu 10 minut dojít."
+    },
+    {
+      "section": "Příprava",
+      "text": "V misce rozmíchej sójovou omáčku, rýžový ocet, cukr, škrob, vodu a sezamový olej. Zeleninu, česnek a zázvor nakrájej a dej k plotně."
+    },
+    {
+      "section": "Restování",
+      "text": "Arašídy opraž ve woku nebo velké pánvi nasucho na středním ohni 3 až 4 minuty dozlatova a přesyp je stranou."
+    },
+    {
+      "section": "Restování",
+      "text": "Ve woku rozpal na prudkém ohni olej. Maso rozlož do jedné vrstvy, minutu ho nech bez míchání opéct a pak ho 3 až 4 minuty restuj, dokud není ze všech stran zlatavé a uvnitř propečené. Vyndej ho na talíř."
+    },
+    {
+      "section": "Restování",
+      "text": "Oheň stáhni na střední. Do tuku, který v pánvi zůstal, vsyp chilli vločky, česnek a zázvor a 20 až 30 vteřin míchej, až zavoní. Nesmějí ztmavnout."
+    },
+    {
+      "section": "Restování",
+      "text": "Přidej papriku a bílé části cibulky, oheň zvyš a restuj 1 až 2 minuty. Vrať maso, omáčku v misce znovu promíchej a vlij ji do pánve."
+    },
+    {
+      "section": "Restování",
+      "text": "Míchej asi minutu, dokud omáčka nezhoustne a maso lesklě neobalí. Vmíchej arašídy a zelené části cibulky a hned podávej s rýží."
+    }
+  ],
+  "tips": [
+    "Recept je na dvě porce a víc najednou nedělej. Pro čtyři lidi vař ve dvou dávkách za sebou: plná pánev vychladne a jídlo se v ní začne dusit.",
+    "Škrob v omáčce sedá ke dnu misky. Těsně před vlitím ji vždy znovu zamíchej, jinak nezhoustne.",
+    "Arašídy přidávej až na konci. V omáčce rychle měknou a ztratí křupavost."
+  ],
+  "substitutions": [
+    "Místo chilli vloček se tradičně používají celé sušené chilli papričky: 6 až 8 kusů rozstřihni, vysyp semínka a opékej stejně krátce.",
+    "Rýžový ocet nahradí čínský černý ocet Chinkiang, který je originálu blíž. Chuť bude tmavší a sladová.",
+    "Se sečuánským pepřem (půl lžičky drceného k chilli) dostane jídlo typické lehké brnění na jazyku."
+  ],
+  "image": "dish-kure-kung-pao",
+  "category": "asie"
+}

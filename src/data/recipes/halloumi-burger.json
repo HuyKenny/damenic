@@ -1,0 +1,140 @@
+{
+  "title": "Halloumi burger s avokádem",
+  "image": "dish-halloumi-burger",
+  "category": "burgery",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "intro": "Čtyři bezmasé burgery s opečeným halloumi, avokádem a grilovanou cuketou. Všechno si připrav předem a sýr opékej až nakonec, po vychladnutí tuhne.",
+  "ingredients": [
+    {
+      "ingredient": "halloumi",
+      "amount": 450,
+      "unit": "g",
+      "note": "2 balení, na 8 plátků silných 1 cm",
+      "group": "Sýr a zelenina"
+    },
+    {
+      "ingredient": "cuketa",
+      "amount": 250,
+      "unit": "g",
+      "note": "1 menší, na šikmé plátky silné 0,5 cm",
+      "group": "Sýr a zelenina"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Sýr a zelenina"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Sýr a zelenina"
+    },
+    {
+      "ingredient": "avokado",
+      "amount": 2,
+      "unit": "ks",
+      "note": "zralá",
+      "group": "Avokádo"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Avokádo"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Avokádo"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Avokádo"
+    },
+    {
+      "ingredient": "jogurt-recky",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "bulky-burger",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 150,
+      "unit": "g",
+      "note": "1 větší, na plátky",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "rukola",
+      "amount": 40,
+      "unit": "g",
+      "group": "Na složení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Řecký jogurt smíchej s prolisovaným česnekem, lžičkou olivového oleje a špetkou soli. Avokáda rozpul, dužinu vydlabej do misky a rozmačkej ji vidličkou nahrubo s citronovou šťávou, solí a pepřem."
+    },
+    {
+      "section": "Příprava",
+      "text": "Rajče nakrájej na plátky, rukolu opláchni a osuš. Halloumi nakrájej na osm plátků silných asi 1 cm a osuš je papírovou utěrkou."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Plátky cukety potři lžící oleje a lehce osol. Na rozpálené grilovací nebo běžné pánvi je opékej 2 až 3 minuty z každé strany, dokud nezměknou a nezískají hnědé stopy. Odlož je na talíř."
+    },
+    {
+      "section": "Bulky",
+      "text": "Bulky rozkroj a řezem dolů je opeč na suché pánvi 1 až 2 minuty dozlatova."
+    },
+    {
+      "section": "Halloumi",
+      "text": "Do pánve přidej zbylou lžíci oleje a na středně vysokém plameni opékej halloumi 2 minuty z každé strany, až má zlatohnědou kůrku. Sýr nesol."
+    },
+    {
+      "section": "Složení",
+      "text": "Spodní půlku bulky potři jogurtovou omáčkou, polož na ni rukolu, rajče, cuketu a dva plátky horkého halloumi. Vrchní půlku potři silnou vrstvou avokáda, přiklop a hned podávej."
+    }
+  ],
+  "tips": [
+    "Halloumi opékej až ve chvíli, kdy je všechno ostatní hotové. Teplé je pružné, studené gumové.",
+    "Avokádo zpracuj těsně před podáváním. Citronová šťáva hnědnutí zpomalí, ale nezastaví.",
+    "Mokrý sýr na pánvi prská a nezhnědne, proto plátky před opékáním osuš."
+  ],
+  "substitutions": [
+    "Místo avokáda můžeš dát grilovanou červenou papriku nebo plátky lilku opečené stejně jako cuketa.",
+    "Řecký jogurt nahradí zakysaná smetana nebo majonéza.",
+    "Kdo má rád ostřejší chuť, vmíchá do omáčky lžičku srirachy."
+  ]
+}

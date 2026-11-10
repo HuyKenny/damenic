@@ -1,0 +1,146 @@
+{
+  "title": "Smažená rýže s vejcem a zeleninou",
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 20,
+  "waitMinutes": 60,
+  "waitLabel": "chladnutí rýže (nejlépe přes noc)",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "intro": "Vegetariánská smažená rýže pro dva s vejcem a křupavou zeleninou. Celý recept závisí na rýži uvařené předem a vychlazené, čerstvě uvařená se na pánvi slepí.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-jasminova",
+      "amount": 200,
+      "unit": "g",
+      "note": "nebo asi 500 g uvařené rýže z předchozího dne",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Do woku"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Do woku"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "na drobné kostičky",
+      "group": "Do woku"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na drobné kostičky",
+      "group": "Do woku"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 80,
+      "unit": "g",
+      "group": "Do woku"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "bílé a zelené části zvlášť",
+      "group": "Do woku"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "najemno nasekaný",
+      "group": "Do woku"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "oloupaný, najemno nasekaný",
+      "group": "Do woku"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "do vajec",
+      "group": "Dochucení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže předem",
+      "text": "Rýži dvakrát propláchni studenou vodou a sceď. Zalij ji odměřenou vodou, přiveď k varu, přiklop, stáhni na nejmenší plamen a vař 12 minut. Nech ji 10 minut dojít pod pokličkou mimo plotnu."
+    },
+    {
+      "section": "Rýže předem",
+      "text": "Uvařenou rýži rozprostři v tenké vrstvě na plech nebo velký talíř a nech ji 10 minut odpařit. Potom ji dej nezakrytou do lednice aspoň na hodinu, lépe přes noc."
+    },
+    {
+      "section": "Restování",
+      "text": "Vychlazenou rýži rozdrob prsty na jednotlivá zrnka. Vejce prošlehej se špetkou soli a všechnu zeleninu si připrav k plotně."
+    },
+    {
+      "section": "Restování",
+      "text": "Ve woku nebo velké pánvi rozpal na prudkém ohni lžíci oleje. Vlij vejce, nech je pár vteřin zatuhnout a míchej, dokud nevzniknou velké měkké kusy. Vyndej je na talíř."
+    },
+    {
+      "section": "Restování",
+      "text": "Do pánve přidej zbylý olej, mrkev a papriku a 2 minuty restuj. Přidej česnek, zázvor a bílé části cibulky a půl minuty míchej."
+    },
+    {
+      "section": "Restování",
+      "text": "Vsyp rýži a na prudkém ohni ji 3 až 4 minuty restuj. Občas ji přitlač obracečkou ke dnu a nech chvíli opékat, pak promíchej. Přidej hrášek a restuj ještě minutu."
+    },
+    {
+      "section": "Restování",
+      "text": "Sójovou omáčku přilij po rozpáleném okraji pánve, opepři a promíchej. Vrať vejce, přidej zelené části cibulky a sezamový olej, naposledy promíchej a podávej."
+    }
+  ],
+  "tips": [
+    "Recept je na dvě porce a víc najednou nedělej. Pro čtyři lidi vař ve dvou dávkách za sebou: plná pánev vychladne a jídlo se v ní začne dusit.",
+    "Uvařenou rýži nenechávej stát při pokojové teplotě. Do hodiny ji dej do lednice a spotřebuj do druhého dne.",
+    "Rýže má v pánvi praskat a syčet. Když je ticho, je oheň slabý nebo pánev příliš plná."
+  ],
+  "substitutions": [
+    "Zeleninu ber podle toho, co je doma: hodí se kukuřice, brokolice na malé růžičky, cuketa nebo pekingské zelí. Dohromady by jí mělo být kolem 250 g.",
+    "Jasmínovou rýži nahradí basmati. Kulatozrnná rýže je na smažení příliš lepivá.",
+    "Pro sytější verzi přidej 150 g tofu nakrájeného na kostky a opečeného dozlatova před vejci."
+  ],
+  "image": "dish-smazena-ryze-vejce-zelenina",
+  "category": "asie"
+}

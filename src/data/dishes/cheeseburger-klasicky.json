@@ -1,0 +1,104 @@
+{
+  "name": "Klasický cheeseburger",
+  "restaurant": "burger-nikdy",
+  "kind": "main",
+  "section": "Burgery",
+  "price": 21900,
+  "order": 10,
+  "description": "Hovězí plátek 150 g, rozteklý cheddar, nakládaná okurka, červená cibule, rajče a salát v opečené bulce s domácí omáčkou.",
+  "about": [
+    "Klasický cheeseburger stojí na mase a na tom, co se s ním nedělá. Do mletého hovězího nepatří vejce, strouhanka ani cibule, jen sůl a pepř na povrch těsně před smažením. Zbytek obstará rozteklý cheddar, kyselá okurka a jednoduchá omáčka z majonézy, kečupu a hořčice.",
+    "Doma rozhodují tři věci: maso s dostatkem tuku, opravdu rozpálená těžká pánev a bulka opečená na řezu, aby nenasákla šťávou. Plátek se na pánvi nemačká a obrací se jen jednou."
+  ],
+  "image": "dish-cheeseburger-klasicky",
+  "recipe": "cheeseburger-klasicky",
+  "vegetarian": false,
+  "featured": true,
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bez-prilohy",
+          "name": "Bez přílohy",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 5500
+        },
+        {
+          "id": "batatove-hranolky",
+          "name": "Batátové hranolky",
+          "priceDelta": 6900
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "slanina",
+          "name": "Slanina",
+          "priceDelta": 3500
+        },
+        {
+          "id": "cheddar",
+          "name": "Cheddar navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "vejce",
+          "name": "Sázené vejce",
+          "priceDelta": 2500
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 2000
+        },
+        {
+          "id": "maso",
+          "name": "Druhý plátek masa",
+          "priceDelta": 7900
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cibule",
+          "name": "Bez cibule",
+          "priceDelta": 0
+        },
+        {
+          "id": "okurky",
+          "name": "Bez okurky",
+          "priceDelta": 0
+        },
+        {
+          "id": "rajcete",
+          "name": "Bez rajčete",
+          "priceDelta": 0
+        },
+        {
+          "id": "omacky",
+          "name": "Bez omáčky",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ]
+}

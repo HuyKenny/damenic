@@ -1,0 +1,111 @@
+{
+  "title": "Pizza Margherita",
+  "image": "dish-pizza-margherita",
+  "vegetarian": true,
+  "intro": "Domácí Margherita na dvě pizzy z těsta, které potřebuje hlavně čas. Aktivní práce je kolem půl hodiny, zbytek obstará kynutí a rozpálená trouba.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 330,
+      "unit": "g",
+      "note": "plus trochu na podsypání",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 210,
+      "unit": "ml",
+      "note": "vlažná",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 8,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 250,
+      "unit": "g",
+      "note": "dobře okapaná",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "hrst lístků",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na pokapání",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Na pizzu"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozdrob do vlažné vody a nech ho pár minut rozpustit. Přidej mouku, sůl a olej a vypracuj hladké těsto. Ručně to trvá asi 8 minut, těsto má být pružné a lehce lepivé."
+    },
+    {
+      "section": "Těsto",
+      "text": "Těsto dej do mísy vytřené olejem, zakryj a nech kynout při pokojové teplotě asi 2 hodiny, dokud zhruba nezdvojnásobí objem. Potom ho rozděl na dva bochánky a nech je ještě 20 minut odpočinout."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu i s plechem (nebo pečicím kamenem) rozpal na nejvyšší teplotu, ideálně 250 °C a víc, aspoň 30 minut předem. Bochánek roztáhni rukama od středu ke kraji na placku o průměru asi 30 cm a okraj nech silnější."
+    },
+    {
+      "section": "Pečení",
+      "text": "Passatu osol a rozetři ji po těstě lžící, okraj nech volný. Mozzarellu natrhej na kousky, nech je chvíli okapat na utěrce a rozlož je po pizze."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 7 až 10 minut podle síly trouby, dokud okraj nezezlátne a sýr nezačne bublat. Hotovou pizzu pokapej olivovým olejem a posyp bazalkou. Druhou pizzu připrav stejně."
+    }
+  ],
+  "tips": [
+    "Čím déle těsto kyne, tím lépe chutná. Můžeš ho zadělat večer s polovinou droždí a nechat přes noc v lednici.",
+    "Pizzu přesouvej na rozpálený plech na pečicím papíru. Jde to bezpečně a spodek se propeče.",
+    "Bazalku přidávej až po upečení. V troubě zčerná a zhořkne."
+  ],
+  "substitutions": [
+    "Místo passaty můžeš rozmixovat plechovku loupaných rajčat.",
+    "Čerstvé droždí nahradíš 3 g sušeného."
+  ],
+  "servings": 2,
+  "activeMinutes": 30,
+  "cookMinutes": 20,
+  "waitMinutes": 140,
+  "difficulty": "střední",
+  "waitLabel": "kynutí těsta",
+  "category": "pizza"
+}

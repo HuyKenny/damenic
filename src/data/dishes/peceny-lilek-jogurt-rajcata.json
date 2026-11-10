@@ -1,0 +1,82 @@
+{
+  "name": "Pečený lilek s česnekovým jogurtem a rajčaty",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Teplá jídla",
+  "price": 19900,
+  "image": "dish-peceny-lilek-jogurt-rajcata",
+  "recipe": "peceny-lilek-jogurt-rajcata",
+  "vegetarian": true,
+  "order": 50,
+  "description": "Dvě půlky lilku upečené doměkka, česnekový jogurt, cherry rajčata s petrželkou a mátou, sumah. S bulgurem nebo chlebem.",
+  "about": [
+    "Lilek se peče tak dlouho, až se dužina dá nabírat lžící. Na horkou půlku přijde studený jogurt s česnekem a nahoru rajčata s bylinkami, takže se v jednom soustu potká teplé se studeným a krémové s kyselým.",
+    "Doma je potřeba hlavně trpělivost. Nedopečený lilek je houbovitý a nahořklý, správně upečený se pod prstem propadne. Dužinu před pečením nařízni do mřížky, sůl a olej se tak dostanou dovnitř a půlka se propeče rovnoměrně."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bulgur",
+          "name": "Bulgur",
+          "priceDelta": 0
+        },
+        {
+          "id": "chleb",
+          "name": "Opečený chléb",
+          "priceDelta": 0
+        },
+        {
+          "id": "kuskus",
+          "name": "Kuskus",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "avokado",
+          "name": "Půlka avokáda",
+          "priceDelta": 3500
+        },
+        {
+          "id": "halloumi",
+          "name": "Grilované halloumi",
+          "priceDelta": 4900
+        },
+        {
+          "id": "vejce",
+          "name": "Vejce natvrdo",
+          "priceDelta": 1500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cesneku",
+          "name": "Bez česneku",
+          "priceDelta": 0
+        },
+        {
+          "id": "maty",
+          "name": "Bez máty",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "image": "dish-kebab-talir-s-ryzi",
+  "category": "kebab",
+  "title": "Kebab talíř s rýží",
+  "intro": "Kuřecí kebab na talíři pro čtyři: maso opečené na pánvi, sypká rýže basmati, salát a dvě omáčky. Počítej s dvěma hodinami na marinování, samotné vaření je pak rychlé.",
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 20,
+  "waitMinutes": 120,
+  "waitLabel": "marinování masa",
+  "difficulty": "střední",
+  "vegetarian": false,
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 700,
+      "unit": "g",
+      "note": "vykostěná, bez kůže",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na opékání",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 300,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kostky",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostky",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "jogurt-recky",
+      "amount": 200,
+      "unit": "g",
+      "group": "Česneková omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Česneková omáčka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Česneková omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "studená",
+      "group": "Česneková omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Česneková omáčka"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Pikantní omáčka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Pikantní omáčka"
+    },
+    {
+      "ingredient": "paprika-paliva",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Pikantní omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 60,
+      "unit": "ml",
+      "group": "Pikantní omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Pikantní omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Pikantní omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Maso",
+      "text": "V míse smíchej jogurt, olivový olej, citronovou šťávu, česnek, koření, sůl a pepř. Stehenní řízky nakrájej na širší pruhy, obal je v marinádě a dej přikryté do lednice aspoň na 2 hodiny."
+    },
+    {
+      "section": "Omáčky",
+      "text": "Řecký jogurt smíchej s prolisovaným česnekem, citronovou šťávou, vodou a špetkou soli. Omáčku dej do lednice, česnek se v ní mezitím rozleží."
+    },
+    {
+      "section": "Omáčky",
+      "text": "V malém hrnci rozehřej olej, přidej protlak a pálivou papriku a minutu míchej. Zalij vodou, přidej špetku cukru a soli a nech 2 minuty probublávat, až omáčka mírně zhoustne. Nech ji vychladnout."
+    },
+    {
+      "section": "Rýže",
+      "text": "Rýži propláchni v sítku pod studenou vodou, dokud voda neodtéká skoro čirá. V hrnci rozpusť máslo, vmíchej kurkumu a rýži, zalij ji vodou, osol a přiveď k varu."
+    },
+    {
+      "section": "Rýže",
+      "text": "Stáhni plamen na minimum, hrnec přiklop a vař 12 minut bez odklápění. Pak rýži odstav a nech ji pod pokličkou dalších 10 minut dojít. Před podáváním ji nakypři vidličkou."
+    },
+    {
+      "section": "Opékání",
+      "text": "Zatímco se rýže vaří, rozpal ve velké pánvi lžíci oleje. Maso opékej ve dvou dávkách na středně silném plameni 4 až 5 minut z každé strany, až je tmavě opečené a uvnitř propečené. Před druhou dávkou přidej zbylý olej."
+    },
+    {
+      "section": "Opékání",
+      "text": "Opečené maso nech pár minut odpočinout na prkénku a nakrájej ho na tenké plátky."
+    },
+    {
+      "section": "Salát",
+      "text": "Rajčata, okurku, cibuli a petrželku promíchej s olivovým olejem a citronovou šťávou. Osol až těsně před podáváním, jinak zelenina pustí vodu."
+    },
+    {
+      "section": "Podávání",
+      "text": "Na talíře rozděl rýži, vedle ní maso a salát. Omáčky dej zvlášť do misek nebo jimi maso přelij."
+    }
+  ],
+  "tips": [
+    "Na 300 g propláchnuté basmati stačí půl litru vody. Během vaření pokličku nezvedej, pára je to, co rýži dovaří.",
+    "Maso opékej po dávkách. Přeplněná pánev vychladne, maso pustí šťávu a místo opékání se dusí.",
+    "Zbylé maso a rýže vydrží v lednici do druhého dne a hodí se zabalit do tortilly."
+  ],
+  "substitutions": [
+    "Rýži můžeš vyměnit za bulgur nebo za hranolky z trouby.",
+    "Místo kuřecích stehen jdou použít prsa, opékej je ale jen 3 až 4 minuty z každé strany.",
+    "Kdo nechce vařit pikantní omáčku, může ji nahradit srirachou."
+  ]
+}

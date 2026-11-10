@@ -1,0 +1,13 @@
+{
+  "name": "Dušená jasmínová rýže",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 4500,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 70,
+  "description": "Miska dušené jasmínové rýže. Nelepí se, nepřipaluje a hlavně nevystydne cestou, protože žádnou cestou nejede.",
+  "optionGroups": [],
+  "restaurant": "wok-nic-moc",
+  "image": "dish-jasminova-ryze-wok"
+}

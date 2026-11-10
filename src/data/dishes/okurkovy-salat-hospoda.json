@@ -1,0 +1,32 @@
+{
+  "name": "Okurkový salát",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 5900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 70,
+  "description": "Tence krájená salátová okurka ve sladkokyselém nálevu s octem a špetkou pepře.",
+  "optionGroups": [
+    {
+      "id": "zalivka",
+      "name": "Zálivka",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "sladkokysela",
+          "name": "Sladkokyselá",
+          "priceDelta": 0
+        },
+        {
+          "id": "se-smetanou",
+          "name": "Se zakysanou smetanou a koprem",
+          "priceDelta": 1000
+        }
+      ]
+    }
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-okurkovy-salat-hospoda"
+}

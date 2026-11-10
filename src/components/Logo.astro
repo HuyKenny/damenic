@@ -1,0 +1,16 @@
+---
+// Own mark: a red tile with an empty plate, which also reads as a zero. Text stays real HTML.
+interface Props {
+  variant?: 'light' | 'dark';
+}
+const { variant = 'light' } = Astro.props;
+---
+
+<a class="logo" href="/" aria-label="DámeNic – úvodní stránka" style={variant === 'dark' ? 'color:#fff' : undefined}>
+  <svg viewBox="0 0 40 40" aria-hidden="true">
+    <rect width="40" height="40" rx="11" fill="#D92E32"></rect>
+    <circle cx="20" cy="20" r="11.5" fill="none" stroke="#fff" stroke-width="3.2"></circle>
+    <circle cx="20" cy="20" r="5.6" fill="none" stroke="#fff" stroke-width="1.6" opacity=".55"></circle>
+  </svg>
+  <span>Dáme<b style={variant === 'dark' ? 'color:#ff8a8c' : undefined}>Nic</b></span>
+</a>

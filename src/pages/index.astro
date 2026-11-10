@@ -1,0 +1,125 @@
+---
+import Base from '@/layouts/Base.astro';
+import Icon from '@/components/Icon.astro';
+import EmptyBag from '@/components/EmptyBag.astro';
+import RestaurantCard from '@/components/RestaurantCard.astro';
+import DishCard from '@/components/DishCard.astro';
+import RecipeCard from '@/components/RecipeCard.astro';
+import { allDishes, allRecipes, allRestaurants } from '@/lib/content';
+import { CATEGORY_LABELS, SITE } from '@/lib/site';
+
+const restaurants = await allRestaurants();
+const names = new Map(restaurants.map((r) => [r.id, r.data.name]));
+const dishes = (await allDishes()).filter((d) => d.data.kind === 'main');
+const featured = [...dishes.filter((d) => d.data.featured), ...dishes.filter((d) => !d.data.featured)].slice(0, 8);
+// One recipe per cuisine so the row shows variety.
+const recipes = await allRecipes();
+const recipePick = Object.keys(CATEGORY_LABELS)
+  .map((c) => recipes.find((r) => r.data.category === c))
+  .filter((r) => r !== undefined)
+  .slice(0, 4);
+const jsonld = [
+  { '@context': 'https://schema.org', '@type': 'WebSite', name: SITE.name, url: SITE.url, inLanguage: 'cs', description: SITE.description },
+];
+---
+
+<Base title="DámeNic – simulátor rozvozu jídla, který nic nepřiveze" description={SITE.description} jsonld={jsonld}>
+  <section class="hero on-red">
+    <div class="wrap hero__in">
+      <div>
+        <span class="tag" style="background:#fff;color:#b3191f">Simulátor rozvozu jídla</span>
+        <h1 style="margin-top:12px">Všechno, na co máš chuť. Nic, co by přijelo.</h1>
+        <p>Vyber si jídlo, objednej nanečisto a sleduj kurýra. Až dostaneš opravdu hlad, máme i recept.</p>
+        <div class="hero__cta">
+          <a class="btn btn--white" href="#restaurace">Vybrat jídlo</a>
+          <a class="btn btn--outline-white" href="/recepty/">Radši si uvařím</a>
+        </div>
+        <ul class="hero__facts">
+          <li><Icon name="check" size={18} />Žádné skutečné platby</li>
+          <li><Icon name="check" size={18} />Žádné doručení</li>
+          <li><Icon name="check" size={18} />Skutečné recepty</li>
+        </ul>
+      </div>
+      <div class="hero__art"><EmptyBag tone="onRed" /></div>
+    </div>
+  </section>
+
+  <section class="section wrap" aria-labelledby="h-kuchyne" style="padding-bottom:0">
+    <h2 id="h-kuchyne" class="sr-only">Kuchyně</h2>
+    <ul class="chips">
+      {
+        restaurants.map((r) => (
+          <li>
+            <a class="chip" href={`/restaurace/${r.id}/`}>{CATEGORY_LABELS[r.data.category]?.label}</a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+
+  <section class="section wrap" id="restaurace" aria-labelledby="h-restaurace">
+    <div class="section__head">
+      <div>
+        <h2 id="h-restaurace">Restaurace, které neexistují</h2>
+        <p>Šest smyšlených podniků. Časy, dopravné i ceny jsou součást simulace.</p>
+      </div>
+      <a class="section__more" href="/restaurace/">Všechny restaurace</a>
+    </div>
+    <div class="grid">
+      {restaurants.map((r, i) => <RestaurantCard restaurant={r} priority={i < 3} />)}
+    </div>
+  </section>
+
+  <section class="section wrap" aria-labelledby="h-jidla">
+    <div class="section__head">
+      <div>
+        <h2 id="h-jidla">Na co máš chuť</h2>
+        <p>Ke každému jídlu je recept, podle kterého ho uvaříš doma.</p>
+      </div>
+    </div>
+    <div class="grid grid--dishes">
+      {featured.map((d) => <DishCard dish={d} restaurantName={names.get(d.data.restaurant.id) ?? ''} />)}
+    </div>
+  </section>
+
+  <section class="section wrap" aria-labelledby="h-jak">
+    <div class="section__head">
+      <div>
+        <h2 id="h-jak">Jak to funguje</h2>
+        <p>Čtyři kroky. Tři jsou hra, čtvrtý se dá sníst.</p>
+      </div>
+      <a class="section__more" href="/jak-to-funguje/">Podrobně</a>
+    </div>
+    <ol class="how">
+      <li>
+        <h3>Vybereš si</h3>
+        <p>Projdeš menu smyšlených restaurací a naskládáš si košík, včetně velikostí a příloh.</p>
+      </li>
+      <li>
+        <h3>Zaplatíš nanečisto</h3>
+        <p>Pokladna nechce kartu, jméno ani adresu. Simulovaná hodnota je vidět, skutečná cena je 0 Kč.</p>
+      </li>
+      <li>
+        <h3>Sleduješ kurýra</h3>
+        <p>Na ilustrační mapě jede smyšlený kurýr s prázdnou taškou. Doručí přesně nic.</p>
+      </li>
+      <li>
+        <h3>Uvaříš si doopravdy</h3>
+        <p>K jídlu dostaneš recept, odhad nákladů a nákupní seznam. Tahle část je skutečná.</p>
+      </li>
+    </ol>
+  </section>
+
+  <section class="section wrap" aria-labelledby="h-recepty">
+    <div class="section__head">
+      <div>
+        <h2 id="h-recepty">Recepty na doma</h2>
+        <p>Fungují i bez objednávky. S poctivými časy a přepočtem porcí.</p>
+      </div>
+      <a class="section__more" href="/recepty/">Všechny recepty</a>
+    </div>
+    <div class="grid grid--dishes">
+      {recipePick.map((r) => <RecipeCard recipe={r} />)}
+    </div>
+  </section>
+</Base>

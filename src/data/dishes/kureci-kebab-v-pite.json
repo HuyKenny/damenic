@@ -1,0 +1,100 @@
+{
+  "restaurant": "kebab-zitra",
+  "image": "dish-kureci-kebab-v-pite",
+  "name": "Kuřecí kebab v pitě",
+  "kind": "main",
+  "section": "Kebab a dürüm",
+  "price": 16900,
+  "recipe": "kureci-kebab-v-pite",
+  "featured": true,
+  "vegetarian": false,
+  "order": 10,
+  "description": "Marinovaná kuřecí stehna nakrájená na tenké plátky, v pitě se zelím, rajčaty, cibulí, česnekovým jogurtem a pikantní omáčkou.",
+  "recipeNote": "Recept počítá s oběma omáčkami a s pečením v troubě.",
+  "about": [
+    "Kebab v pitě stojí na mase. Kuřecí stehna se naloží do jogurtu s česnekem, římským kmínem a paprikou, prudce se opečou a nakrájejí na tenké plátky. K tomu patří křupavé zelí, rajče, cibule a dvě omáčky: česneková z jogurtu a pikantní z rajčatového protlaku.",
+    "Doma rožeň nahradí rozpálená trouba nebo pánev. Rozhoduje čas v marinádě a to, aby se maso opékalo v jedné vrstvě, jinak se dusí ve vlastní šťávě. Nakrájené plátky se nakonec ještě krátce opečou, aby měly křupavé okraje."
+  ],
+  "optionGroups": [
+    {
+      "id": "omacka",
+      "name": "Omáčka",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "cesnekova",
+          "name": "Česneková",
+          "priceDelta": 0
+        },
+        {
+          "id": "pikantni",
+          "name": "Pikantní",
+          "priceDelta": 0
+        },
+        {
+          "id": "obe",
+          "name": "Obě",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-omacky",
+          "name": "Bez omáčky",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "maso",
+          "name": "Dvojitá porce masa",
+          "priceDelta": 5500
+        },
+        {
+          "id": "balkansky-syr",
+          "name": "Balkánský sýr",
+          "priceDelta": 2500
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 2000
+        },
+        {
+          "id": "hranolky-dovnitr",
+          "name": "Hranolky dovnitř",
+          "priceDelta": 3000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cibule",
+          "name": "Bez cibule",
+          "priceDelta": 0
+        },
+        {
+          "id": "zeli",
+          "name": "Bez zelí",
+          "priceDelta": 0
+        },
+        {
+          "id": "rajcat",
+          "name": "Bez rajčat",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ]
+}

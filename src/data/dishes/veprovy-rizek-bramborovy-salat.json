@@ -1,0 +1,78 @@
+{
+  "name": "Vepřový řízek s bramborovým salátem",
+  "kind": "main",
+  "section": "Minutky",
+  "price": 22900,
+  "recipe": "veprovy-rizek-bramborovy-salat",
+  "vegetarian": false,
+  "order": 30,
+  "description": "Naklepaný vepřový řízek v trojobalu usmažený dozlatova, s majonézovým bramborovým salátem a citronem.",
+  "about": [
+    "Řízek je jednoduché jídlo, které se pozná podle obalu. Strouhanka má být křupavá, zlatá a nemá se od masa odlupovat, maso pod ní tenké a šťavnaté. Bramborový salát k němu je klasický: brambory, kořenová zelenina, okurky, vejce a majonéza.",
+    "Doma se vyplatí začít salátem, protože potřebuje pár hodin v lednici, aby se chutě spojily. Samotné smažení je otázka minut. Důležitá je dostatečná vrstva dobře rozpáleného tuku a nenacpat do pánve víc řízků, než se vejde vedle sebe."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bramborovy-salat",
+          "name": "Bramborový salát",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory s máslem",
+          "priceDelta": 0
+        },
+        {
+          "id": "kase",
+          "name": "Bramborová kaše",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "rizek",
+          "name": "Druhý řízek",
+          "priceDelta": 8900
+        },
+        {
+          "id": "okurka",
+          "name": "Kyselá okurka",
+          "priceDelta": 1500
+        },
+        {
+          "id": "tatarka",
+          "name": "Tatarská omáčka",
+          "priceDelta": 2000
+        }
+      ],
+      "max": 3
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "citronu",
+          "name": "Bez citronu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-veprovy-rizek-bramborovy-salat"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Okurková voda s mátou 0,5 l",
+  "restaurant": "zelena-nula",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 4900,
+  "image": "dish-okurkova-voda-nula",
+  "recipe": null,
+  "vegetarian": true,
+  "order": 90,
+  "description": "Neperlivá voda s plátky salátové okurky, mátou a kapkou limetky, dobře vychlazená.",
+  "optionGroups": [
+    {
+      "id": "led",
+      "name": "Led",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "s-ledem",
+          "name": "S ledem",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-ledu",
+          "name": "Bez ledu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ]
+}

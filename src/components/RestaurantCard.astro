@@ -1,0 +1,27 @@
+---
+import Photo from './Photo.astro';
+import Icon from './Icon.astro';
+import type { Restaurant } from '@/lib/content';
+import { formatCzk } from '@/lib/money';
+
+interface Props {
+  restaurant: Restaurant;
+  priority?: boolean;
+}
+const { restaurant: r, priority = false } = Astro.props;
+---
+
+<article class="card">
+  <div class="card__media">
+    <Photo asset={r.data.cover} widths={[320, 480, 640]} sizes="(min-width: 1000px) 400px, (min-width: 640px) 50vw, 100vw" ratio={16 / 10} priority={priority} />
+    <div class="card__badges"><span class="tag tag--sim">Fiktivní restaurace</span></div>
+  </div>
+  <div class="card__body">
+    <h3 class="card__title"><a href={`/restaurace/${r.id}/`}>{r.data.name}</a></h3>
+    <p class="muted small" style="margin:0">{r.data.cuisine}</p>
+    <ul class="card__meta" aria-label="Simulované údaje">
+      <li><span><Icon name="clock" size={16} />{r.data.etaMinutes} min <span class="sr-only">simulovaného doručení</span></span></li>
+      <li><span><Icon name="bike" size={16} />{formatCzk(r.data.deliveryFee)} <span class="sr-only">simulované dopravné</span></span></li>
+    </ul>
+  </div>
+</article>

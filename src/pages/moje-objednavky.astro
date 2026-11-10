@@ -1,0 +1,16 @@
+---
+import Base from '@/layouts/Base.astro';
+import OrderHistory from '@/islands/OrderHistory';
+import LocalData from '@/islands/LocalData';
+---
+
+<Base title="Moje objednávky" description="Historie simulovaných objednávek uložená jen v tomto prohlížeči." noindex>
+  <div class="wrap" style="max-width:820px">
+    <div class="pagehead">
+      <h1>Moje objednávky</h1>
+      <p>Všechno, co ti kdy nepřijelo. Historie není na žádném serveru, jen v tomto prohlížeči.</p>
+    </div>
+    <OrderHistory client:load />
+    <div style="margin-top:24px"><LocalData client:idle /></div>
+  </div>
+</Base>

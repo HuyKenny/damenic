@@ -1,0 +1,45 @@
+---
+import { Image } from 'astro:assets';
+import { photo } from '@/lib/content';
+import Icon from './Icon.astro';
+
+interface Props {
+  asset: string;
+  /** Rendered widths in CSS px for srcset. */
+  widths: number[];
+  sizes: string;
+  /** Intrinsic ratio of the crop, width / height. */
+  ratio?: number;
+  /** Above the fold: load eagerly with high priority. */
+  priority?: boolean;
+  alt?: string;
+  class?: string;
+}
+const { asset, widths, sizes, ratio = 4 / 3, priority = false, alt, class: cls } = Astro.props;
+const p = await photo(asset);
+const w = Math.max(...widths);
+---
+
+{
+  p.meta ? (
+    <Image
+      src={p.meta}
+      alt={alt ?? p.alt}
+      widths={widths.filter((x) => x <= p.meta!.width).length ? widths.filter((x) => x <= p.meta!.width) : [p.meta.width]}
+      sizes={sizes}
+      width={Math.min(w, p.meta.width)}
+      height={Math.round(Math.min(w, p.meta.width) / ratio)}
+      fit="cover"
+      format="webp"
+      quality={72}
+      loading={priority ? 'eager' : 'lazy'}
+      decoding={priority ? 'sync' : 'async'}
+      fetchpriority={priority ? 'high' : 'auto'}
+      class={cls}
+    />
+  ) : (
+    <div class:list={['photo--empty', cls]} role="img" aria-label="Fotografie se připravuje">
+      <Icon name="plate" size={48} />
+    </div>
+  )
+}

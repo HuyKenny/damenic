@@ -1,0 +1,78 @@
+{
+  "restaurant": "kebab-zitra",
+  "image": "dish-kofte-s-bulgurem",
+  "name": "Köfte s bulgurem",
+  "kind": "main",
+  "section": "Talíře",
+  "price": 23900,
+  "recipe": "kofte-s-bulgurem",
+  "vegetarian": false,
+  "order": 50,
+  "description": "Grilované hovězí köfte s římským kmínem a petrželkou, bulgur s rajčatovým protlakem a česnekový jogurt.",
+  "about": [
+    "Köfte jsou podlouhlé masové šišky z mletého hovězího, cibule, česneku, petrželky a římského kmínu. Opékají se na grilovací pánvi a podávají se s bulgurem dušeným na másle s rajčatovým protlakem a s hustým jogurtem, který kořeněné maso zjemní.",
+    "Na domácím köfte záleží na dvou věcech: maso nemá být libové a směs se musí pořádně prohníst a nechat odležet, aby šišky na pánvi držely. Cibule se strouhá a vymačkává, jinak směs zvlhne. Bulgur po uvaření dojde pod pokličkou, bez míchání."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "tri-kusy",
+          "name": "3 kusy",
+          "priceDelta": 0
+        },
+        {
+          "id": "pet-kusu",
+          "name": "5 kusů",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "balkansky-syr",
+          "name": "Balkánský sýr",
+          "priceDelta": 2500
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 2000
+        },
+        {
+          "id": "pikantni-omacka",
+          "name": "Pikantní omáčka",
+          "priceDelta": 1500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "jogurtu",
+          "name": "Bez jogurtu",
+          "priceDelta": 0
+        },
+        {
+          "id": "rajcat",
+          "name": "Bez rajčat",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ]
+}

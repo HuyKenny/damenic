@@ -1,0 +1,13 @@
+{
+  "name": "Coleslaw",
+  "restaurant": "burger-nikdy",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 5900,
+  "order": 80,
+  "description": "Salát z bílého zelí a mrkve s majonézou, octem a špetkou cukru. Stejný, jaký dáváme do kuřecího burgeru.",
+  "image": "dish-coleslaw-burger",
+  "recipe": null,
+  "vegetarian": true,
+  "optionGroups": []
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Hummus se zeleninovými hranolky",
+  "restaurant": "zelena-nula",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 9900,
+  "image": "dish-hummus-se-zeleninou-nula",
+  "recipe": null,
+  "vegetarian": true,
+  "order": 60,
+  "description": "Hummus z cizrny a tahini s olivovým olejem a uzenou paprikou. K namáčení mrkev, okurka a paprika nakrájené na hranolky.",
+  "optionGroups": [
+    {
+      "id": "k-tomu",
+      "name": "K tomu",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "zelenina",
+          "name": "Jen zelenina",
+          "priceDelta": 0
+        },
+        {
+          "id": "pita",
+          "name": "Zelenina a pita chléb",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ]
+}

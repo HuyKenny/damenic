@@ -1,0 +1,79 @@
+{
+  "name": "Hovězí guláš",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "price": 21900,
+  "recipe": "hovezi-gulas",
+  "vegetarian": false,
+  "order": 20,
+  "description": "Hospodský guláš z hovězí kližky dušený na cibuli a paprice, sypaný čerstvou cibulí. S knedlíkem nebo chlebem.",
+  "about": [
+    "Hospodský guláš je z kližky, protože její vazivo se při dlouhém dušení rozpustí a šťávu samo zahustí. Druhou polovinu práce odvede cibule: jde jí do hrnce skoro tolik co masa a během vaření se úplně rozpadne.",
+    "Při domácím vaření rozhodují dvě věci. Cibuli je potřeba opékat trpělivě dozlatova a papriku přidat mimo plotnu, jinak zhořkne. Zbytek je čekání, guláš potřebuje aspoň dvě a půl hodiny mírného varu."
+  ],
+  "recipeNote": "Recept počítá s chlebem; knedlík nebo brambory jsou uvedené v náhradách.",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "houskovy-knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "chleb",
+          "name": "Chléb",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cibule",
+          "name": "Cibule navíc",
+          "priceDelta": 1000
+        },
+        {
+          "id": "feferonka",
+          "name": "Nakládaná feferonka",
+          "priceDelta": 1500
+        },
+        {
+          "id": "knedliky",
+          "name": "Dva knedlíky navíc",
+          "priceDelta": 2500
+        }
+      ],
+      "max": 3
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cibule",
+          "name": "Bez syrové cibule",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-hovezi-gulas"
+}

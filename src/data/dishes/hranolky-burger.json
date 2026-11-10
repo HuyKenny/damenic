@@ -1,0 +1,37 @@
+{
+  "name": "Hranolky",
+  "restaurant": "burger-nikdy",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 6900,
+  "order": 60,
+  "description": "Zlaté hranolky s hrubou solí a dipem podle výběru. Zůstanou křupavé, protože nikam nejedou.",
+  "image": "dish-hranolky-burger",
+  "recipe": null,
+  "vegetarian": true,
+  "optionGroups": [
+    {
+      "id": "dip",
+      "name": "Dip",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "kecup",
+          "name": "Kečup",
+          "priceDelta": 0
+        },
+        {
+          "id": "majoneza",
+          "name": "Majonéza",
+          "priceDelta": 0
+        },
+        {
+          "id": "bbq",
+          "name": "BBQ omáčka",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ]
+}

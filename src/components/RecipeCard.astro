@@ -1,0 +1,26 @@
+---
+import Photo from './Photo.astro';
+import Icon from './Icon.astro';
+import { totalMinutes, type Recipe } from '@/lib/content';
+import { formatDuration } from '@/lib/units';
+
+interface Props {
+  recipe: Recipe;
+}
+const { recipe: r } = Astro.props;
+---
+
+<article class="card">
+  <div class="card__media">
+    <Photo asset={r.data.image} widths={[280, 420, 560]} sizes="(min-width: 1000px) 300px, (min-width: 560px) 50vw, 100vw" ratio={16 / 10} />
+    {r.data.vegetarian && <div class="card__badges"><span class="tag tag--veg">Bez masa</span></div>}
+  </div>
+  <div class="card__body">
+    <h3 class="card__title"><a href={`/recepty/${r.id}/`}>{r.data.title}</a></h3>
+    <ul class="card__meta">
+      <li><span><Icon name="clock" size={16} />{formatDuration(totalMinutes(r))}</span></li>
+      <li><span><Icon name="users" size={16} />{r.data.servings} porce</span></li>
+      <li><span><Icon name="chef" size={16} />{r.data.difficulty}</span></li>
+    </ul>
+  </div>
+</article>

@@ -1,0 +1,35 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import LocalData from '@/islands/LocalData';
+---
+
+<Base title="Soukromí a data" description="Co DámeNic ukládá: košík, simulované objednávky a nákupní seznam jen v tvém prohlížeči. Bez účtu, bez analytiky, bez reklamních trackerů.">
+  <Breadcrumbs items={[{ label: 'Soukromí' }]} />
+  <div class="wrap prose">
+    <div class="pagehead">
+      <h1>Soukromí a data</h1>
+      <p>Popis skutečného provozu, ne slib, že neexistují žádná data.</p>
+    </div>
+    <h2>Co se ukládá v tvém prohlížeči</h2>
+    <p>
+      Košík, historie simulovaných objednávek (nejvýš 20 posledních, starší než 90 dní se mažou), nákupní seznam a zvolená ukázková lokalita. Ukládá se
+      to do úložiště prohlížeče (localStorage) na tvém zařízení. Na náš server se to neposílá, protože žádný aplikační server nemáme.
+    </p>
+    <h2>Co nechceme</h2>
+    <p>Účet, jméno, e-mail, telefon, adresu, číslo karty ani bankovní údaje. Pokladna žádné takové pole nemá.</p>
+    <h2>Hosting a technické logy</h2>
+    <p>
+      Web je statický a běží na infrastruktuře Cloudflare. Jako u každého webu tam při načtení stránky vznikají technické údaje o požadavku (například IP
+      adresa, čas, adresa stránky a údaje o prohlížeči), které Cloudflare zpracovává pro doručení obsahu, zabezpečení a ochranu před útoky. Do obsahu
+      tvého košíku ani objednávek tím nikdo nevidí, ty v požadavcích nejsou.
+    </p>
+    <h2>Analytika a reklama</h2>
+    <p>Analytiku v této verzi nepoužíváme. Nejsou tu reklamní ani sledovací skripty třetích stran a nepoužíváme cookies.</p>
+    <h2>Smazání dat</h2>
+    <p>Všechno, co DámeNic v tomto prohlížeči uložil, smažeš jedním tlačítkem:</p>
+    <LocalData client:idle />
+    <h2>Provozovatel a kontakt</h2>
+    <p class="note">Údaje o provozovateli a kontakt pro dotazy k osobním údajům doplníme před veřejným spuštěním.</p>
+  </div>
+</Base>

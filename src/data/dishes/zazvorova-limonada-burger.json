@@ -1,0 +1,32 @@
+{
+  "name": "Zázvorová limonáda 0,4 l",
+  "restaurant": "burger-nikdy",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 6500,
+  "order": 90,
+  "description": "Domácí limonáda z čerstvého zázvoru, citronové šťávy a perlivé vody, lehce slazená medem.",
+  "image": "dish-zazvorova-limonada-burger",
+  "recipe": null,
+  "vegetarian": true,
+  "optionGroups": [
+    {
+      "id": "led",
+      "name": "Led",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "s-ledem",
+          "name": "S ledem",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-ledu",
+          "name": "Bez ledu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ]
+}

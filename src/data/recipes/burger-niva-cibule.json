@@ -1,0 +1,155 @@
+{
+  "title": "Burger s nivou a karamelizovanou cibulí",
+  "image": "dish-burger-niva-cibule",
+  "category": "burgery",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "vegetarian": false,
+  "intro": "Čtyři hovězí burgery s rozteklou nivou a cibulí karamelizovanou na másle. Nejdéle trvá cibule, potřebuje půl hodiny na mírném ohni a nedá se uspěchat.",
+  "ingredients": [
+    {
+      "ingredient": "cibule",
+      "amount": 400,
+      "unit": "g",
+      "note": "3 velké, na půlkolečka",
+      "group": "Karamelizovaná cibule"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Karamelizovaná cibule"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Karamelizovaná cibule"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Karamelizovaná cibule"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Karamelizovaná cibule"
+    },
+    {
+      "ingredient": "ocet-balsamico",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Karamelizovaná cibule"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 600,
+      "unit": "g",
+      "note": "s podílem tuku kolem 20 %",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "niva",
+      "amount": 120,
+      "unit": "g",
+      "note": "na 4 plátky nebo rozdrobená",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "čerstvě mletý",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "horcice-dijonska",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "bulky-burger",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "změklé, na bulky",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "rukola",
+      "amount": 40,
+      "unit": "g",
+      "group": "Na složení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Cibule",
+      "text": "V široké pánvi rozpusť na mírném plameni máslo s olejem. Přidej cibuli a sůl, promíchej a nech ji 25 až 30 minut pomalu měknout a hnědnout. Zamíchej každých pár minut, a kdyby se začala chytat, přilij lžíci vody."
+    },
+    {
+      "section": "Cibule",
+      "text": "Když je cibule měkká a zlatohnědá, přidej třtinový cukr a balsamico a míchej ještě 2 až 3 minuty, dokud se tekutina neodpaří. Stáhni z plotny."
+    },
+    {
+      "section": "Maso",
+      "text": "Během dušení cibule smíchej majonézu s dijonskou hořčicí. Maso rozděl na čtyři díly po 150 g a zlehka vytvaruj placky silné asi 1,5 cm, o něco širší než bulka, s mělkým důlkem uprostřed."
+    },
+    {
+      "section": "Bulky",
+      "text": "Bulky rozkroj, řezné plochy potři máslem a opeč je na suché pánvi 1 až 2 minuty dozlatova."
+    },
+    {
+      "section": "Smažení",
+      "text": "Těžkou pánev rozpal na vysokém plameni a přidej olej. Plátky těsně před vložením osol a opepři a smaž je 3 až 4 minuty z první strany bez hýbání."
+    },
+    {
+      "section": "Smažení",
+      "text": "Maso otoč, na každý plátek polož nivu a smaž další 3 až 4 minuty. Poslední minutu pánev přiklop, aby sýr změkl a začal téct. Maso nech 2 minuty odpočinout."
+    },
+    {
+      "section": "Složení",
+      "text": "Obě půlky bulky potři hořčičnou majonézou. Na spodní dej rukolu, maso s nivou a navrch vrstvu karamelizované cibule. Přiklop a podávej."
+    }
+  ],
+  "tips": [
+    "Cibule se při karamelizaci scvrkne asi na čtvrtinu objemu. Plná pánev na začátku je v pořádku.",
+    "Niva je hodně slaná, proto maso sol o něco méně než u běžného burgeru.",
+    "Mleté maso z obchodu propékej celé, uprostřed má mít aspoň 70 °C. Růžový střed si nech jen u masa, které si necháš čerstvě namlít z jednoho kusu a zpracuješ ho ještě ten den."
+  ],
+  "substitutions": [
+    "Nivu můžeš nahradit gorgonzolou, je krémovější a mírnější.",
+    "Místo balsamika poslouží lžíce obyčejného octa a o půl lžičky cukru víc.",
+    "Rukolu nahradí baby špenát nebo listy polníčku."
+  ]
+}

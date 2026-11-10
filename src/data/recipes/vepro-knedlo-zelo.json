@@ -1,0 +1,149 @@
+{
+  "title": "Vepřo knedlo zelo",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 120,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinutí masa po upečení",
+  "difficulty": "snadné",
+  "intro": "Pečená vepřová krkovice s dušeným kysaným zelím a knedlíkem pro čtyři. Práce je málo, trouba ale potřebuje dvě hodiny; výsledek závisí na dostatku výpeku a na vyváženém zelí.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-krkovice",
+      "amount": 900,
+      "unit": "g",
+      "note": "vcelku, bez kosti",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 5,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na silnější plátky",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "kysane-zeli",
+      "amount": 500,
+      "unit": "g",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "podle kyselosti zelí i více",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "knedlik-houskovy",
+      "amount": 600,
+      "unit": "g",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Maso",
+      "text": "Troubu předehřej na 170 °C. Maso osuš, ze všech stran ho potři solí, kmínem a prolisovaným česnekem."
+    },
+    {
+      "section": "Maso",
+      "text": "Na dno pekáče rozlož plátky cibule, polož na ně maso a podlij vodou. Přikryj víkem nebo alobalem a peč 80 minut, v polovině maso obrať a přelij šťávou."
+    },
+    {
+      "section": "Maso",
+      "text": "Pekáč odkryj, teplotu zvyš na 200 °C a peč dalších 30 až 40 minut. Maso dvakrát přelij výpekem a pokud se šťáva vypeče, přilij trochu horké vody. Hotové je zlatohnědé a měkké na vpich."
+    },
+    {
+      "section": "Zelí",
+      "text": "Zatímco se maso peče, rozpusť v kastrolu sádlo a zpěň na něm cibuli dozlatova. Přidej zelí i s nálevem, kmín a vodu, přiklop a dus na mírném plameni 30 minut."
+    },
+    {
+      "section": "Zelí",
+      "text": "Zelí posyp moukou, promíchej a vař ještě 5 minut, aby se zahustilo. Dochuť cukrem a solí; pokud je příliš kyselé, přidej cukr po lžičkách."
+    },
+    {
+      "section": "Podávání",
+      "text": "Upečené maso nech 10 minut odpočinout pod alobalem a pak ho nakrájej na plátky. Výpek z pekáče přeceď přes sítko a cibuli do něj protlač."
+    },
+    {
+      "section": "Podávání",
+      "text": "Knedlíky nakrájej na plátky a 5 minut je ohřívej v páře. Na talíř dej maso, knedlíky a zelí a maso s knedlíky přelij výpekem."
+    }
+  ],
+  "tips": [
+    "Hodně kyselé zelí můžeš před dušením krátce propláchnout studenou vodou. Ochutnej ho ale napřed, mírné zelí by po propláchnutí zůstalo bez chuti.",
+    "Výpeku nikdy není dost. Hlídej, aby během odkrytého pečení bylo na dně pekáče stále trochu tekutiny.",
+    "Maso potřené solí, kmínem a česnekem můžeš nechat přes noc v lednici. Není to nutné, jen se lépe prosolí."
+  ],
+  "substitutions": [
+    "Místo krkovice se dá péct vepřová plec, je libovější a o něco sušší. Bůček bude naopak tučnější a peče se podobně dlouho.",
+    "Kysané zelí lze nahradit čerstvým bílým: 600 g nakrouhej, dus 40 minut a dochuť 2 lžícemi octa.",
+    "Sádlo v zelí nahradíš lžící výpeku z masa nebo olejem."
+  ],
+  "image": "dish-vepro-knedlo-zelo",
+  "category": "ceska-kuchyne"
+}

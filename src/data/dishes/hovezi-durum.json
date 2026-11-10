@@ -1,0 +1,89 @@
+{
+  "restaurant": "kebab-zitra",
+  "image": "dish-hovezi-durum",
+  "name": "Hovězí dürüm",
+  "kind": "main",
+  "section": "Kebab a dürüm",
+  "price": 18900,
+  "recipe": "hovezi-durum",
+  "vegetarian": false,
+  "order": 20,
+  "description": "Kořeněné mleté hovězí v pšeničné tortille s ledovým salátem, rajčaty, cibulí se sumahem a jogurtovou omáčkou.",
+  "recipeNote": "Recept je na variantu z mletého hovězího s česnekovou omáčkou.",
+  "about": [
+    "Dürüm je kebab zabalený do tenké placky. Tady ji plní hovězí maso opečené s cibulí, římským kmínem, paprikou a špetkou skořice, k tomu salát, rajčata a červená cibule promnutá se sumahem. Zabalená placka se nakonec opeče nasucho, aby držela tvar.",
+    "Při domácí přípravě je potřeba maso opékat na dost rozpálené pánvi tak dlouho, až se odpaří šťáva a začne hnědnout. Náplň má být šťavnatá, ale ne mokrá, jinak tortilla rozmokne. Pevně zabalit a opéct švem dolů zabere dvě minuty a vyplatí se."
+  ],
+  "optionGroups": [
+    {
+      "id": "maso",
+      "name": "Maso",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mlete",
+          "name": "Mleté hovězí",
+          "priceDelta": 0
+        },
+        {
+          "id": "platky",
+          "name": "Hovězí plátky",
+          "priceDelta": 3000
+        }
+      ]
+    },
+    {
+      "id": "omacka",
+      "name": "Omáčka",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "cesnekova",
+          "name": "Česneková",
+          "priceDelta": 0
+        },
+        {
+          "id": "pikantni",
+          "name": "Pikantní",
+          "priceDelta": 0
+        },
+        {
+          "id": "obe",
+          "name": "Obě",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-omacky",
+          "name": "Bez omáčky",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "balkansky-syr",
+          "name": "Balkánský sýr",
+          "priceDelta": 2500
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 2000
+        },
+        {
+          "id": "hranolky-dovnitr",
+          "name": "Hranolky dovnitř",
+          "priceDelta": 3000
+        }
+      ]
+    }
+  ]
+}

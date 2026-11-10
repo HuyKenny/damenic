@@ -1,0 +1,32 @@
+{
+  "restaurant": "kebab-zitra",
+  "image": "dish-ayran-kebab",
+  "name": "Ayran 0,3 l",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 4900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 90,
+  "description": "Vychlazený jogurtový nápoj s vodou a špetkou soli. K pálivému jídlu se hodí víc než cokoli sladkého.",
+  "optionGroups": [
+    {
+      "id": "mata",
+      "name": "Máta",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-maty",
+          "name": "Bez máty",
+          "priceDelta": 0
+        },
+        {
+          "id": "s-matou",
+          "name": "Se sušenou mátou",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ]
+}

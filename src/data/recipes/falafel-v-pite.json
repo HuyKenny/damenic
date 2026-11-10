@@ -1,0 +1,197 @@
+{
+  "image": "dish-falafel-v-pite",
+  "category": "kebab",
+  "title": "Falafel v pitě",
+  "intro": "Domácí falafel z cizrny z plechovky, asi 16 placiček pro čtyři, s tahini omáčkou a zeleninou v pitě. Aby směs držela, musí být cizrna suchá, rozmixovaná jen nahrubo a směs vychlazená.",
+  "servings": 4,
+  "activeMinutes": 45,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "chlazení směsi",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "cizrna-konzerva",
+      "amount": 800,
+      "unit": "g",
+      "note": "2 plechovky, po slití asi 480 g",
+      "group": "Falafel"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "nahrubo nakrájená",
+      "group": "Falafel"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Falafel"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "lístky i tenké stonky",
+      "group": "Falafel"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Falafel"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Falafel"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Falafel"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "cizrna z plechovky už slaná je",
+      "group": "Falafel"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Falafel"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "podle potřeby o lžíci víc",
+      "group": "Falafel"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Falafel"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 200,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Falafel"
+    },
+    {
+      "ingredient": "tahini",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Tahini omáčka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Tahini omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Tahini omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 60,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Tahini omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Tahini omáčka"
+    },
+    {
+      "ingredient": "pita",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Do pity"
+    },
+    {
+      "ingredient": "zeli-cervene",
+      "amount": 150,
+      "unit": "g",
+      "note": "najemno nakrouhané",
+      "group": "Do pity"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Do pity"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na plátky",
+      "group": "Do pity"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Směs",
+      "text": "Cizrnu slij, propláchni a nech okapat. Rozlož ji na čistou utěrku, druhou ji přikryj a důkladně osuš. Čím je sušší, tím lépe bude směs držet."
+    },
+    {
+      "section": "Směs",
+      "text": "Cizrnu, cibuli, česnek, petrželku, koření, sůl a pepř dej do robotu s noži a krátkými pulzy rozmixuj nahrubo. Směs má připomínat hrubou strouhanku, která se po zmáčknutí v dlani spojí, ne hladkou pastu."
+    },
+    {
+      "section": "Směs",
+      "text": "Přesyp směs do mísy, vmíchej mouku a prášek do pečiva. Mísu přikryj a dej na 30 minut do lednice, mouka mezitím nasaje vlhkost a směs ztuhne."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Tahini rozmíchej s citronovou šťávou a česnekem, pasta nejdřív zhoustne. Po lžících přimíchávej studenou vodu, dokud nevznikne hladká omáčka hustoty smetany, a osol ji."
+    },
+    {
+      "section": "Smažení",
+      "text": "Z vychlazené směsi tvaruj mokrýma rukama 16 placiček o průměru asi 4 cm a výšce 1,5 cm. Pokud se rozpadají, vmíchej do směsi ještě lžíci mouky."
+    },
+    {
+      "section": "Smažení",
+      "text": "V pánvi rozehřej olej do výšky asi 1 cm. Správně rozpálený je, když kousek směsi po vhození hned zasyčí. Placičky smaž po dávkách 3 minuty z každé strany dozlatova až dohněda a obracej je jen jednou."
+    },
+    {
+      "section": "Plnění",
+      "text": "Usmažený falafel nech okapat na papírové utěrce. Pity nahřej na suché pánvi nebo v troubě a na jedné straně je rozřízni do kapsy."
+    },
+    {
+      "section": "Plnění",
+      "text": "Do každé pity dej zelí, rajčata, okurku a čtyři placičky a zalij tahini omáčkou."
+    }
+  ],
+  "tips": [
+    "Nejdřív usmaž jednu placičku na zkoušku. Když se v oleji rozpadá, je směs moc vlhká a potřebuje mouku, případně dalších 15 minut v lednici.",
+    "Olej nesmí být vlažný. Falafel by ho nasál a rozmočil se dřív, než se na povrchu vytvoří kůrka.",
+    "Placičky jdou i upéct: potři je olejem a peč na 200 °C asi 25 minut, v polovině je obrať. Budou sušší a méně křupavé."
+  ],
+  "substitutions": [
+    "Pevnější a tradičnější falafel vznikne ze sušené cizrny: 250 g namoč na 12 hodin do studené vody, slij a mixuj syrovou. Mouky pak stačí jedna lžíce. Vařená sušená cizrna se chová stejně jako ta z plechovky.",
+    "Hladkou mouku nahradí cizrnová mouka nebo strouhanka ve stejném množství.",
+    "Místo tahini omáčky se hodí řecký jogurt s prolisovaným česnekem a citronem."
+  ]
+}

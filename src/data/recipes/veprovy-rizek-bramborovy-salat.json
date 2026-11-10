@@ -1,0 +1,186 @@
+{
+  "title": "Vepřový řízek s bramborovým salátem",
+  "servings": 4,
+  "activeMinutes": 60,
+  "cookMinutes": 25,
+  "waitMinutes": 120,
+  "waitLabel": "chladnutí brambor a odležení salátu v lednici",
+  "difficulty": "střední",
+  "intro": "Čtyři smažené vepřové řízky a mísa majonézového bramborového salátu. Salát připrav jako první, potřebuje aspoň dvě hodiny v chladu; řízky se pak smaží těsně před jídlem.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "varný typ A (salátové), ve slupce",
+      "group": "Bramborový salát"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 120,
+      "unit": "g",
+      "group": "Bramborový salát"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 80,
+      "unit": "g",
+      "group": "Bramborový salát"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 80,
+      "unit": "g",
+      "group": "Bramborový salát"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "uvařená natvrdo",
+      "group": "Bramborový salát"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 150,
+      "unit": "g",
+      "note": "na drobné kostičky",
+      "group": "Bramborový salát"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Bramborový salát"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 180,
+      "unit": "g",
+      "group": "Bramborový salát"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Bramborový salát"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "nebo 2 lžíce nálevu z okurek",
+      "group": "Bramborový salát"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Bramborový salát"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Bramborový salát"
+    },
+    {
+      "ingredient": "veprova-kyta",
+      "amount": 600,
+      "unit": "g",
+      "note": "4 plátky po 150 g",
+      "group": "Řízky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Řízky"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Řízky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Řízky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Řízky"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 120,
+      "unit": "g",
+      "group": "Řízky"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 300,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Řízky"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na měsíčky",
+      "group": "Řízky"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Bramborový salát",
+      "text": "Brambory uvař ve slupce v osolené vodě doměkka, podle velikosti 20 až 25 minut. Slij je a nech úplně vychladnout, teplé by se v salátu rozmačkaly."
+    },
+    {
+      "section": "Bramborový salát",
+      "text": "Mrkev a celer oloupej, nakrájej na drobné kostičky a vař v osolené vodě 6 minut. Na poslední 2 minuty přihoď hrášek, pak zeleninu sceď a nech vychladnout. Vejce uvař natvrdo, 9 minut od bodu varu."
+    },
+    {
+      "section": "Bramborový salát",
+      "text": "Vychladlé brambory oloupej a nakrájej na kostičky. Ve velké míse je smíchej se zeleninou, nakrájenými vejci, okurkami a cibulí."
+    },
+    {
+      "section": "Bramborový salát",
+      "text": "Majonézu rozmíchej s hořčicí, octem, solí a pepřem a zlehka ji vmíchej do salátu. Přikryj a nech nejméně 2 hodiny odležet v lednici, před podáváním znovu ochutnej a dosol."
+    },
+    {
+      "section": "Řízky",
+      "text": "Plátky masa na okrajích na dvou místech nařízni, aby se při smažení nekroutily. Přes fólii je naklepej na tloušťku asi 5 mm a z obou stran osol."
+    },
+    {
+      "section": "Řízky",
+      "text": "Připrav tři talíře: mouku, vejce rozšlehaná s mlékem a strouhanku. Maso obal postupně v mouce, ve vejci a ve strouhance; strouhanku jen lehce přitiskni, nemačkej ji."
+    },
+    {
+      "section": "Řízky",
+      "text": "V široké pánvi rozehřej olej ve vrstvě asi 1,5 cm na 170 °C; strouhanka vhozená do oleje má hned zasyčet. Řízky smaž po dvou, 3 až 4 minuty z každé strany dozlatova."
+    },
+    {
+      "section": "Řízky",
+      "text": "Usmažené řízky nech minutu okapat na papírové utěrce. Podávej je hned s vychlazeným salátem a měsíčkem citronu."
+    }
+  ],
+  "tips": [
+    "Řízky obaluj až těsně před smažením. Obalené maso, které stojí, zvlhne a strouhanka se při smažení odlupuje.",
+    "Salát jde udělat den předem. Odleželý přes noc bývá chuťově vyrovnanější, v lednici vydrží dva dny.",
+    "Olej mezi dávkami nech znovu rozehřát a vylov z něj spálené drobky strouhanky."
+  ],
+  "substitutions": [
+    "Kýtu můžeš nahradit vepřovou krkovicí (šťavnatější, tučnější) nebo kuřecími prsy; ty smaž o minutu kratší dobu.",
+    "Část majonézy v salátu lze nahradit bílým jogurtem, salát bude lehčí a kyselejší.",
+    "Na smažení se hodí i vepřové sádlo nebo přepuštěné máslo, které dá řízku výraznější chuť."
+  ],
+  "image": "dish-veprovy-rizek-bramborovy-salat",
+  "category": "ceska-kuchyne"
+}

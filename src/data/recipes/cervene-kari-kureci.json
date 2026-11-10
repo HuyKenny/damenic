@@ -1,0 +1,142 @@
+{
+  "title": "Červené kari s kuřecím masem",
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "vegetarian": false,
+  "intro": "Thajské červené kari pro dva s kuřecím masem, zeleninou a jasmínovou rýží. Chuť závisí na kari pastě orestované před zalitím a na dochucení rybí omáčkou a limetkou až na konci.",
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "kari-pasta-cervena",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na jemnou verzi 1 lžíce",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "kokosove-mleko",
+      "amount": 400,
+      "unit": "ml",
+      "note": "plechovku neprotřepávej",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 300,
+      "unit": "g",
+      "note": "na tenké plátky",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na proužky",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "cuketa",
+      "amount": 150,
+      "unit": "g",
+      "note": "na půlměsíčky",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 100,
+      "unit": "g",
+      "note": "na čtvrtky",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "rybi-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "hrst lístků",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "ryze-jasminova",
+      "amount": 160,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 240,
+      "unit": "ml",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže",
+      "text": "Rýži dvakrát propláchni studenou vodou a sceď. V menším hrnci ji zalij odměřenou vodou, přiveď k varu, přiklop, stáhni na nejmenší plamen a vař 12 minut. Potom ji nech pod pokličkou mimo plotnu 10 minut dojít."
+    },
+    {
+      "section": "Kari",
+      "text": "V hlubší pánvi nebo kastrolu rozehřej na středním ohni olej. Přidej kari pastu a 3 až 4 lžíce husté smetany, která se usadila nahoře v plechovce kokosového mléka. Restuj 2 minuty, dokud pasta nezavoní a nezačne se z ní oddělovat tuk."
+    },
+    {
+      "section": "Kari",
+      "text": "Přidej kuřecí maso a 2 minuty ho v pastě obracej, aby se obalilo. Zalij zbylým kokosovým mlékem a vodou, přiveď k mírnému varu a vař 5 minut."
+    },
+    {
+      "section": "Kari",
+      "text": "Přidej papriku, cuketu a žampiony a vař dalších 6 až 8 minut. Maso má být propečené a zelenina měkká, ale ještě na skus. Kari jen mírně probublává, prudkým varem se kokosové mléko srazí."
+    },
+    {
+      "section": "Kari",
+      "text": "Stáhni z plotny a dochuť rybí omáčkou, cukrem a limetkovou šťávou. Ochutnej a případně přidej ještě trochu rybí omáčky místo soli."
+    },
+    {
+      "section": "Kari",
+      "text": "Podávej v hlubokých talířích s rýží, posypané lístky koriandru."
+    }
+  ],
+  "tips": [
+    "Recept je na dvě porce a víc najednou nedělej. Pro čtyři lidi vař ve dvou dávkách za sebou: plná pánev vychladne a jídlo se v ní začne dusit.",
+    "Pálivost kari past se mezi značkami výrazně liší. U neznámé pasty začni s jednou lžící a další rozmíchej v kari během vaření.",
+    "Na kari kup plnotučné kokosové mléko. Odlehčené verze dají řídkou omáčku bez chuti."
+  ],
+  "substitutions": [
+    "Koriandr nahradí thajská bazalka, která do červeného kari patří. Obyčejná bazalka poslouží také, jen je sladší.",
+    "Místo kuřecího použij 250 g loupaných krevet (přidej je až na poslední 3 minuty) nebo 250 g tofu opečeného na kostky. Do verze bez masa a ryb dej místo rybí omáčky sójovou a zkontroluj složení pasty, často obsahuje krevetovou pastu.",
+    "Zeleninu můžeš vyměnit za brokolici, lilek nebo zelené fazolky. Tvrdší druhy přidej o pár minut dřív."
+  ],
+  "image": "dish-cervene-kari-kureci",
+  "category": "asie"
+}

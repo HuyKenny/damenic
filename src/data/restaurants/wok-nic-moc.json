@@ -1,0 +1,17 @@
+{
+  "name": "Wok Nic Moc",
+  "category": "asie",
+  "cuisine": "Asijská kuchyně z woku",
+  "tagline": "Wok máme rozpálený. Do krabičky nedáváme nic moc. Přesněji nic.",
+  "description": "Smyšlené asijské bistro, kde se vaří rychle, na prudkém ohni a po malých dávkách. Nudle, kari i smaženou rýži si tu objednáš jen nanečisto, kurýr nevyjede a krabička nedorazí. Recept ke každému jídlu ale dostaneš skutečný.",
+  "etaMinutes": 35,
+  "deliveryFee": 4900,
+  "cover": "rest-wok-nic-moc",
+  "sections": [
+    "Nudle",
+    "Rýže a kari",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 40
+}

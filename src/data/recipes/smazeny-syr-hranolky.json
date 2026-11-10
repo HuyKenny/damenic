@@ -1,0 +1,147 @@
+{
+  "title": "Smažený sýr s hranolky a tatarskou omáčkou",
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 25,
+  "waitMinutes": 20,
+  "waitLabel": "chlazení obaleného sýra v mrazáku",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "intro": "Čtyři porce smaženého eidamu s hranolky z trouby a tatarskou omáčkou. Úspěch závisí na dvojitém obalu a na zchlazení sýra před smažením, jinak sýr vyteče do oleje.",
+  "ingredients": [
+    {
+      "ingredient": "eidam",
+      "amount": 480,
+      "unit": "g",
+      "note": "4 plátky silné asi 1,5 cm",
+      "group": "Smažený sýr"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Smažený sýr"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Smažený sýr"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Smažený sýr"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 160,
+      "unit": "g",
+      "group": "Smažený sýr"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "do vajec",
+      "group": "Smažený sýr"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 500,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Smažený sýr"
+    },
+    {
+      "ingredient": "hranolky-mrazene",
+      "amount": 600,
+      "unit": "g",
+      "group": "Hranolky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Hranolky"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 200,
+      "unit": "g",
+      "group": "Tatarská omáčka"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 80,
+      "unit": "g",
+      "note": "najemno nasekané",
+      "group": "Tatarská omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "velmi najemno nakrájená",
+      "group": "Tatarská omáčka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Tatarská omáčka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Tatarská omáčka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Tatarská omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Tatarská omáčka",
+      "text": "Majonézu smíchej s okurkami, cibulí, hořčicí a lžící citronové šťávy, opepři a případně přisol. Omáčku dej do lednice, než bude hotový zbytek."
+    },
+    {
+      "section": "Smažený sýr",
+      "text": "Připrav tři talíře: mouku, vejce rozšlehaná s mlékem a špetkou soli a strouhanku. Plátky sýra obal v mouce, ve vejci a ve strouhance, potom znovu ve vejci a ve strouhance."
+    },
+    {
+      "section": "Smažený sýr",
+      "text": "Zkontroluj, že je obal souvislý i na hranách, a strouhanku na nich přitlač. Obalené plátky dej na talíř a na 20 minut do mrazáku."
+    },
+    {
+      "section": "Hranolky",
+      "text": "Troubu předehřej na 220 °C. Hranolky rozlož v jedné vrstvě na plech s pečicím papírem a peč 20 až 25 minut podle návodu na obalu, v polovině je obrať. Hotové osol."
+    },
+    {
+      "section": "Smažený sýr",
+      "text": "V menším hlubším kastrolu rozehřej olej na 175 °C, hladina má sahat aspoň do poloviny výšky sýra. Sýr smaž po dvou kusech asi 1,5 až 2 minuty z každé strany dozlatova."
+    },
+    {
+      "section": "Smažený sýr",
+      "text": "Sýr vyndej, jakmile je obal zlatý, a nech ho krátce okapat na papírové utěrce. Podávej hned s hranolky a tatarskou omáčkou."
+    }
+  ],
+  "tips": [
+    "Sýr obrať jen jednou a opatrně, nejlépe dvěma vidličkami. Propíchnutý obal znamená vyteklý sýr.",
+    "Olej musí být opravdu horký. V málo rozpáleném oleji se obal nasákne tukem a sýr se rozteče dřív, než zezlátne.",
+    "Sýr krájej z bloku sám. Hotové tenké plátky jsou na smažení příliš slabé."
+  ],
+  "substitutions": [
+    "Místo eidamu 30 % můžeš použít eidam 45 %, goudu nebo hermelín; tučnější sýry tečou rychleji, proto je před smažením chlaď o 10 minut déle.",
+    "Hranolky nahradíš vařenými bramborami s máslem, počítej asi 800 g brambor.",
+    "Polovinu majonézy v tatarce lze nahradit bílým jogurtem."
+  ],
+  "image": "dish-smazeny-syr-hranolky",
+  "category": "ceska-kuchyne"
+}

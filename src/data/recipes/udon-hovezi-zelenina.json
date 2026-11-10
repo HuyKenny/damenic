@@ -1,0 +1,172 @@
+{
+  "title": "Udon s hovězím masem a zeleninou",
+  "servings": 2,
+  "activeMinutes": 25,
+  "cookMinutes": 0,
+  "waitMinutes": 15,
+  "waitLabel": "marinování masa",
+  "difficulty": "střední",
+  "vegetarian": false,
+  "intro": "Restované nudle udon pro dva s plátky hovězího a křupavou zeleninou. Výsledek závisí na tence nakrájeném mase, které se opeče zvlášť a rychle, a na pánvi rozpálené naplno.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-rostena",
+      "amount": 250,
+      "unit": "g",
+      "note": "na tenké plátky přes vlákno",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ustricova-omacka",
+      "amount": 1.5,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "nudle-udon",
+      "amount": 300,
+      "unit": "g",
+      "note": "předvařené, vakuově balené",
+      "group": "Nudle a zelenina"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Nudle a zelenina"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 80,
+      "unit": "g",
+      "note": "na tenké nudličky",
+      "group": "Nudle a zelenina"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 100,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Nudle a zelenina"
+    },
+    {
+      "ingredient": "zeli-pekingske",
+      "amount": 150,
+      "unit": "g",
+      "note": "na proužky",
+      "group": "Nudle a zelenina"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "najemno nasekaný",
+      "group": "Nudle a zelenina"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "oloupaný, najemno nasekaný",
+      "group": "Nudle a zelenina"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na šikmé kousky",
+      "group": "Nudle a zelenina"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na posypání",
+      "group": "Nudle a zelenina"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Hovězí maso promíchej se sójovou omáčkou, škrobem a sezamovým olejem a nech ho 15 minut stát při pokojové teplotě."
+    },
+    {
+      "section": "Příprava",
+      "text": "V misce smíchej sójovou a ústřicovou omáčku, cukr, vodu a pepř. Zeleninu nakrájej a připrav k plotně."
+    },
+    {
+      "section": "Příprava",
+      "text": "Nudle přelij v cedníku horkou vodou z konvice a prsty nebo hůlkami je opatrně rozvolni. Nech je dobře okapat."
+    },
+    {
+      "section": "Restování",
+      "text": "Ve woku nebo velké pánvi rozpal na prudkém ohni lžíci oleje, až se z něj začne kouřit. Maso rozlož do jedné vrstvy, opékej 45 vteřin, obrať a opékej dalších 30 vteřin. Uvnitř může zůstat růžové. Vyndej ho na talíř."
+    },
+    {
+      "section": "Restování",
+      "text": "Do pánve přidej zbylý olej, mrkev a žampiony a 2 minuty restuj. Přidej česnek a zázvor, po 20 vteřinách pekingské zelí a restuj ještě minutu, dokud nezačne vadnout."
+    },
+    {
+      "section": "Restování",
+      "text": "Přidej nudle a omáčku a 2 minuty promíchávej, dokud se nudle neprohřejí a omáčka se na nich nezatáhne do lesku."
+    },
+    {
+      "section": "Restování",
+      "text": "Vrať maso i se šťávou z talíře, přidej jarní cibulku a půl minuty promíchej. Podávej hned, posypané sezamem."
+    }
+  ],
+  "tips": [
+    "Recept je na dvě porce a víc najednou nedělej. Pro čtyři lidi vař ve dvou dávkách za sebou: plná pánev vychladne a jídlo se v ní začne dusit.",
+    "Maso se krájí snáz, když ho předem dáš na 20 až 30 minut do mrazáku. Ztuhne a nůž udělá plátky o síle 2 až 3 mm.",
+    "Máš-li sušené udon, vezmi 180 g, uvař je podle návodu na obalu, propláchni studenou vodou a dál postupuj stejně."
+  ],
+  "substitutions": [
+    "Roštěnou nahradí hovězí zadní nebo svíčková špička. U tužšího masa krájej plátky co nejtenčí a marinádu prodluž na 30 minut.",
+    "Ústřicovou omáčku lze nahradit další lžící sójové omáčky a půl lžičkou cukru navíc. Chuť bude méně plná.",
+    "Pekingské zelí můžeš vyměnit za bílé zelí nakrájené najemno nebo za pak choi."
+  ],
+  "image": "dish-udon-hovezi-zelenina",
+  "category": "asie"
+}

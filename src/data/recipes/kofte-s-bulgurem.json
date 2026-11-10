@@ -1,0 +1,198 @@
+{
+  "image": "dish-kofte-s-bulgurem",
+  "category": "kebab",
+  "title": "Köfte s bulgurem",
+  "intro": "Dvanáct hovězích köfte z grilovací pánve s bulgurem a česnekovým jogurtem, porce pro čtyři. Výsledek závisí na dobře prohnětené a odleželé masové směsi a na dost rozpálené pánvi.",
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 15,
+  "waitMinutes": 30,
+  "waitLabel": "odležení masové směsi",
+  "difficulty": "střední",
+  "vegetarian": false,
+  "ingredients": [
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 600,
+      "unit": "g",
+      "note": "s podílem tuku kolem 20 %",
+      "group": "Köfte"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno nastrouhaná a vymačkaná",
+      "group": "Köfte"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Köfte"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "najemno nasekaná",
+      "group": "Köfte"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Köfte"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Köfte"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Köfte"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Köfte"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Köfte"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Köfte"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na potření",
+      "group": "Köfte"
+    },
+    {
+      "ingredient": "bulgur",
+      "amount": 250,
+      "unit": "g",
+      "note": "hrubý",
+      "group": "Bulgur"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Bulgur"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Bulgur"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Bulgur"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 500,
+      "unit": "ml",
+      "note": "horká",
+      "group": "Bulgur"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Bulgur"
+    },
+    {
+      "ingredient": "jogurt-recky",
+      "amount": 250,
+      "unit": "g",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 300,
+      "unit": "g",
+      "note": "rozpůlená",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "sumah",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "do jogurtu",
+      "group": "K podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Köfte",
+      "text": "Nastrouhanou cibuli vymačkej v dlani nebo v utěrce, šťávu vylij. V míse ji smíchej s masem, česnekem, petrželkou, strouhankou, kořením, solí a pepřem."
+    },
+    {
+      "section": "Köfte",
+      "text": "Směs hněť rukama 3 až 4 minuty, až je lepivá a drží pohromadě. Přikryj ji a dej na 30 minut do lednice."
+    },
+    {
+      "section": "Bulgur",
+      "text": "V hrnci rozpusť máslo a cibuli na něm opékej 4 minuty dosklovata. Přidej protlak, minutu míchej, pak vsyp bulgur a krátce ho v tuku promíchej."
+    },
+    {
+      "section": "Bulgur",
+      "text": "Zalij bulgur horkou vodou, osol a přiveď k varu. Stáhni plamen na minimum, přiklop a vař 12 až 15 minut, dokud se voda nevsákne. Odstav a nech pod pokličkou 10 minut dojít, pak nakypři vidličkou."
+    },
+    {
+      "section": "Opékání",
+      "text": "Z vychlazené směsi tvaruj mokrýma rukama 12 podlouhlých šišek dlouhých asi 8 cm a mírně je zploští na výšku 2 cm. Potři je olejem."
+    },
+    {
+      "section": "Opékání",
+      "text": "Grilovací nebo silnou běžnou pánev rozpal na středně silném plameni. Köfte opékej 4 minuty z každé strany, celkem 8 až 10 minut, až jsou tmavě opečené a uvnitř propečené. Na volném místě pánve zároveň opeč rajčata řezem dolů, 3 až 4 minuty."
+    },
+    {
+      "section": "Podávání",
+      "text": "Jogurt smíchej s česnekem a špetkou soli. Na talíř dej bulgur, tři köfte, opečená rajčata a lžíci jogurtu a všechno posyp sumahem."
+    }
+  ],
+  "tips": [
+    "Köfte obracej až ve chvíli, kdy se sama pustí pánve. Když je strháváš dřív, kůrka zůstane na pánvi.",
+    "Stejné šišky se dají napíchnout na špejle a opéct na venkovním grilu, čas zůstává podobný.",
+    "Hrubý bulgur potřebuje zhruba dvojnásobek vody podle hmotnosti, na 250 g tedy půl litru. Jemný bulgur se nevaří, jen se zalije vroucí vodou a nechá nabobtnat."
+  ],
+  "substitutions": [
+    "Polovinu hovězího můžeš nahradit mletým jehněčím, chuť bude výraznější.",
+    "Strouhanku nahradí plátek toustového chleba namočený ve vodě a vymačkaný.",
+    "Místo bulguru se hodí rýže basmati nebo pita chléb."
+  ]
+}

@@ -1,0 +1,31 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+---
+
+<Base title="O projektu DámeNic" description="DámeNic je zábavný simulátor rozvozu jídla s praktickou částí: recepty, odhady nákladů a nákupní seznam. Není to rozvozová služba.">
+  <Breadcrumbs items={[{ label: 'O projektu' }]} />
+  <div class="wrap prose">
+    <div class="pagehead">
+      <h1>O projektu</h1>
+      <p>Objednej si na chuť. Uvař si doopravdy.</p>
+    </div>
+    <p>
+      DámeNic je hravý simulátor objednávání jídla. Projdeš celou cestu, jakou znáš z rozvozových aplikací: menu, košík, pokladnu i sledování kurýra.
+      Na konci ti nic nepřijede, ale dostaneš recept na totéž jídlo, odhad nákladů a nákupní seznam.
+    </p>
+    <h2>Co DámeNic není</h2>
+    <ul>
+      <li>Není to rozvozová služba a nespolupracuje s žádnou restaurací ani rozvozovou firmou.</li>
+      <li>Nepřijímá platby a nesbírá platební ani kontaktní údaje.</li>
+      <li>Restaurace, kurýři i ceny jídel jsou smyšlené.</li>
+    </ul>
+    <h2>Fotografie</h2>
+    <p>
+      Fotografie jídel pocházejí z volně licencovaných zdrojů, jejich autory a licence uvádíme u každého souboru v přehledu zdrojů v repozitáři projektu.
+      Logo a ilustrace jsou vlastní.
+    </p>
+    <h2>Provozovatel</h2>
+    <p class="note">Údaje o provozovateli a kontakt doplníme před veřejným spuštěním.</p>
+  </div>
+</Base>

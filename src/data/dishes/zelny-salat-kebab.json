@@ -1,0 +1,13 @@
+{
+  "restaurant": "kebab-zitra",
+  "image": "dish-zelny-salat-kebab",
+  "name": "Zelný salát",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 5900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 80,
+  "description": "Najemno krouhané bílé a červené zelí s citronem, olivovým olejem a petrželkou.",
+  "optionGroups": []
+}

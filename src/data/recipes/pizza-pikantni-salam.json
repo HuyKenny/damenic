@@ -1,0 +1,117 @@
+{
+  "title": "Pizza s pikantním salámem",
+  "image": "dish-pizza-pikantni-salam",
+  "intro": "Dvě pizzy s pálivým salámem, který při pečení zkřupne na okrajích. Na závěr přijde lžička medu, která ostrou chuť zjemní.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 330,
+      "unit": "g",
+      "note": "plus trochu na podsypání",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 210,
+      "unit": "ml",
+      "note": "vlažná",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 8,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 250,
+      "unit": "g",
+      "note": "dobře okapaná",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "salam-pikantni",
+      "amount": 100,
+      "unit": "g",
+      "note": "na tenké plátky",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "podle chuti",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "med",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "na hotovou pizzu",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Na pizzu"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozdrob do vlažné vody a nech ho pár minut rozpustit. Přidej mouku, sůl a olej a vypracuj hladké těsto. Ručně to trvá asi 8 minut, těsto má být pružné a lehce lepivé."
+    },
+    {
+      "section": "Těsto",
+      "text": "Těsto dej do mísy vytřené olejem, zakryj a nech kynout při pokojové teplotě asi 2 hodiny, dokud zhruba nezdvojnásobí objem. Potom ho rozděl na dva bochánky a nech je ještě 20 minut odpočinout."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu i s plechem (nebo pečicím kamenem) rozpal na nejvyšší teplotu, ideálně 250 °C a víc, aspoň 30 minut předem. Bochánek roztáhni rukama od středu ke kraji na placku o průměru asi 30 cm a okraj nech silnější."
+    },
+    {
+      "section": "Pečení",
+      "text": "Osolenou passatu rozetři po těstě, rozlož natrhanou mozzarellu a navrch polož plátky salámu. Salám patří na sýr, aby se opekl a nezůstal vařený."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 7 až 10 minut, dokud okraj nezezlátne. Hotovou pizzu posyp chilli vločkami a tenkým pramínkem pokapej medem. Stejně připrav druhou pizzu."
+    }
+  ],
+  "tips": [
+    "Čím déle těsto kyne, tím lépe chutná. Můžeš ho zadělat večer s polovinou droždí a nechat přes noc v lednici.",
+    "Pizzu přesouvej na rozpálený plech na pečicím papíru. Jde to bezpečně a spodek se propeče.",
+    "Pokud salám pouští hodně tuku, po upečení ho lehce otři papírovou utěrkou."
+  ],
+  "substitutions": [
+    "Pikantní salám nahradíš chorizem nebo obyčejným trvanlivým salámem a více chilli.",
+    "Med můžeš vynechat."
+  ],
+  "servings": 2,
+  "activeMinutes": 30,
+  "cookMinutes": 20,
+  "waitMinutes": 140,
+  "difficulty": "střední",
+  "waitLabel": "kynutí těsta",
+  "category": "pizza"
+}

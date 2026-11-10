@@ -1,0 +1,12 @@
+{
+  "name": "Neperlivá voda 0,5 l",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 3500,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 90,
+  "description": "Neperlivá pramenitá voda v láhvi. Jediná položka, která je skoro tak prázdná jako naše taška.",
+  "restaurant": "prazdna-pec",
+  "image": "dish-voda-neperliva"
+}

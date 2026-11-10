@@ -1,0 +1,115 @@
+{
+  "title": "Pizza se šunkou a žampiony",
+  "image": "dish-pizza-sunka-zampiony",
+  "intro": "Dvě pizzy se šunkou a žampiony. Recept hlídá hlavně to, aby houby nepustily vodu do těsta a pizza zůstala křupavá.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 330,
+      "unit": "g",
+      "note": "plus trochu na podsypání",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 210,
+      "unit": "ml",
+      "note": "vlažná",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 8,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 250,
+      "unit": "g",
+      "note": "dobře okapaná",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 150,
+      "unit": "g",
+      "note": "na tenké plátky",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Na pizzu"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozdrob do vlažné vody a nech ho pár minut rozpustit. Přidej mouku, sůl a olej a vypracuj hladké těsto. Ručně to trvá asi 8 minut, těsto má být pružné a lehce lepivé."
+    },
+    {
+      "section": "Těsto",
+      "text": "Těsto dej do mísy vytřené olejem, zakryj a nech kynout při pokojové teplotě asi 2 hodiny, dokud zhruba nezdvojnásobí objem. Potom ho rozděl na dva bochánky a nech je ještě 20 minut odpočinout."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu i s plechem (nebo pečicím kamenem) rozpal na nejvyšší teplotu, ideálně 250 °C a víc, aspoň 30 minut předem. Bochánek roztáhni rukama od středu ke kraji na placku o průměru asi 30 cm a okraj nech silnější."
+    },
+    {
+      "section": "Pečení",
+      "text": "Passatu osol, rozetři po těstě a rozlož natrhanou mozzarellu. Žampiony nakrájej na plátky silné asi 2 mm a rozprostři je v jedné vrstvě, šunku natrhej na kousky a přidej navrch."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 8 až 11 minut, dokud okraj nezezlátne a žampiony lehce nezhnědnou. Po vytažení posyp oreganem. Druhou pizzu připrav stejně."
+    }
+  ],
+  "tips": [
+    "Čím déle těsto kyne, tím lépe chutná. Můžeš ho zadělat večer s polovinou droždí a nechat přes noc v lednici.",
+    "Pizzu přesouvej na rozpálený plech na pečicím papíru. Jde to bezpečně a spodek se propeče.",
+    "Žampiony neomývej pod tekoucí vodou, jen je otři. Nasáklé houby pustí víc vody."
+  ],
+  "substitutions": [
+    "Šunku můžeš vyměnit za uzené maso nakrájené na tenko.",
+    "Vegetariánská verze: šunku vynech a přidej olivy."
+  ],
+  "servings": 2,
+  "activeMinutes": 30,
+  "cookMinutes": 20,
+  "waitMinutes": 140,
+  "difficulty": "střední",
+  "waitLabel": "kynutí těsta",
+  "category": "pizza"
+}

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+# Cart, checkout, tracking, history and the shopping list carry <meta name="robots" content="noindex">
+# and are left crawlable on purpose, so search engines can see that tag.
+
+Sitemap: https://damenic.cz/sitemap-index.xml

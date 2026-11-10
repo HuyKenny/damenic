@@ -1,0 +1,13 @@
+[
+  {
+    "id": "priklad-partner",
+    "name": "Obchodní partner (nepřipojeno)",
+    "enabled": false,
+    "linkType": "none",
+    "url": null,
+    "itemTransfer": "none",
+    "affiliateParams": {},
+    "availabilityNote": "Šablona záznamu. Žádné partnerství není potvrzené, proto se na webu nic nezobrazuje.",
+    "verifiedAt": null
+  }
+]

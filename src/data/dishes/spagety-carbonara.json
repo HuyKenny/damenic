@@ -1,0 +1,67 @@
+{
+  "name": "Špagety carbonara",
+  "section": "Těstoviny",
+  "price": 19900,
+  "recipe": "spagety-carbonara",
+  "vegetarian": false,
+  "order": 40,
+  "description": "Špagety s omáčkou z vajec, tvrdého sýra a opečené slaniny. Bez smetany.",
+  "about": [
+    "Carbonara nevzniká vařením omáčky, ale teplem těstovin. Vejce se sýrem se vmíchají mimo plotnu a zhoustnou do krému. Smetana v ní nemá co dělat.",
+    "Originál používá guanciale a pecorino. Naše domácí verze počítá se slaninou a parmazánem, protože ty seženeš v každém obchodě."
+  ],
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná (350 g)",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (500 g)",
+          "priceDelta": 4500
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "parmazan",
+          "name": "Parmazán navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "slanina",
+          "name": "Slanina navíc",
+          "priceDelta": 3500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "pepre",
+          "name": "Bez pepře",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "prazdna-pec",
+  "image": "dish-spagety-carbonara"
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Špagety carbonara",
+  "image": "dish-spagety-carbonara",
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "intro": "Carbonara pro dva za půl hodiny. Omáčka se nevaří: vzniká z vajec a sýra teplem čerstvě slitých těstovin, proto se pánev včas stahuje z plotny.",
+  "ingredients": [
+    {
+      "ingredient": "spagety",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 120,
+      "unit": "g",
+      "note": "na nudličky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "2 žloutky a 1 celé vejce"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 60,
+      "unit": "g",
+      "note": "najemno nastrouhaný"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "čerstvě mletý"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na těstoviny"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve velkém hrnci přiveď k varu vodu a osol ji. Špagety vař podle návodu na obalu, ale o minutu kratší dobu. Hrnek vody z vaření si odlij stranou."
+    },
+    {
+      "text": "Slaninu dej na studenou pánev a na středním plameni ji pomalu opékej 6 až 8 minut, dokud nepustí tuk a nezkřupne. Pánev stáhni z plotny."
+    },
+    {
+      "text": "V misce prošlehej dva žloutky a jedno celé vejce s parmazánem a pepřem na hustou směs."
+    },
+    {
+      "text": "Scezené špagety vmíchej do pánve se slaninou a nech je půl minuty zchladnout. Přilij vaječnou směs a rychle míchej, po troškách přidávej vodu z vaření, dokud nevznikne hladký krém."
+    },
+    {
+      "text": "Podávej hned na nahřátých talířích, posypané parmazánem a pepřem."
+    }
+  ],
+  "tips": [
+    "Pánev musí být mimo plotnu. Na zapnutém plameni se z vajec stanou míchaná vajíčka.",
+    "Zbylé bílky zamraz nebo použij druhý den do omelety."
+  ],
+  "substitutions": [
+    "Slaninu můžeš nahradit pancettou nebo guanciale.",
+    "Místo parmazánu se tradičně používá pecorino romano."
+  ],
+  "category": "pizza"
+}

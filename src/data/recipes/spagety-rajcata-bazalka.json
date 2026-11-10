@@ -1,0 +1,84 @@
+{
+  "title": "Špagety s rajčaty a bazalkou",
+  "image": "dish-spagety-rajcata-bazalka",
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "intro": "Rajčatová omáčka ze spíže pro dva. Vaří se z loupaných rajčat, česneku a olivového oleje a těstoviny se v ní na závěr dovaří.",
+  "ingredients": [
+    {
+      "ingredient": "spagety",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "hrst lístků"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 30,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "pokud jsou rajčata kyselá"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody a do omáčky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V širší pánvi zahřej olivový olej a na mírném plameni v něm nech 2 minuty rozvonět česnek. Nesmí zhnědnout."
+    },
+    {
+      "text": "Přidej loupaná rajčata, rozmačkej je vařečkou, osol a vař bez pokličky 20 minut, dokud omáčka nezhoustne. Podle chuti přidej špetku cukru."
+    },
+    {
+      "text": "Mezitím uvař špagety v osolené vodě o 2 minuty kratší dobu, než je na obalu. Hrnek vody z vaření si odlij."
+    },
+    {
+      "text": "Špagety přendej do omáčky, přilij trochu vody z vaření a 2 minuty je v omáčce povař a promíchávej, dokud se omáčka nepřichytí."
+    },
+    {
+      "text": "Vmíchej natrhanou bazalku a podávej s parmazánem."
+    }
+  ],
+  "tips": [
+    "Loupaná rajčata z plechovky bývají v zimě chutnější než čerstvá.",
+    "Omáčku můžeš uvařit ve dvojité dávce, v lednici vydrží 3 dny."
+  ],
+  "substitutions": [
+    "Místo loupaných rajčat použij 400 ml passaty a vař o 5 minut kratší dobu.",
+    "Pro veganskou verzi parmazán vynech."
+  ],
+  "category": "pizza"
+}

@@ -1,0 +1,56 @@
+---
+import '@fontsource-variable/plus-jakarta-sans';
+import '@/styles/global.css';
+import Header from '@/components/Header.astro';
+import Footer from '@/components/Footer.astro';
+import Notice from '@/islands/Notice';
+import { SITE } from '@/lib/site';
+
+interface Props {
+  title: string;
+  description: string;
+  /** Pages with the visitor's local state are never indexed. */
+  noindex?: boolean;
+  ogImage?: string;
+  ogType?: 'website' | 'article';
+  jsonld?: Record<string, unknown>[];
+}
+const { title, description, noindex = false, ogImage = '/og-default.png', ogType = 'website', jsonld = [] } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
+const og = new URL(ogImage, Astro.site).href;
+---
+
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large'} />
+    {!noindex && <link rel="canonical" href={canonical} />}
+    <meta name="theme-color" content="#D92E32" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta property="og:site_name" content={SITE.name} />
+    <meta property="og:locale" content="cs_CZ" />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={og} />
+    <meta name="twitter:card" content="summary_large_image" />
+    {jsonld.map((j) => <script type="application/ld+json" set:html={JSON.stringify(j)} />)}
+  </head>
+  <body>
+    <a class="skip" href="#obsah">Přeskočit na obsah</a>
+    <Header />
+    <main id="obsah">
+      <slot />
+    </main>
+    <Footer />
+    <Notice client:idle />
+  </body>
+</html>

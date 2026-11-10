@@ -1,0 +1,13 @@
+{
+  "name": "Nealkoholické pivo 0,5 l",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 4900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 100,
+  "description": "Světlé nealkoholické pivo, dobře vychlazené. Pěnu si budeš muset představit, stejně jako půllitr.",
+  "optionGroups": [],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-nealkoholicke-pivo-hospoda"
+}

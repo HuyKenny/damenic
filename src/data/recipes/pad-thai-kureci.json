@@ -1,0 +1,164 @@
+{
+  "title": "Pad thai s kuřecím masem",
+  "servings": 2,
+  "activeMinutes": 25,
+  "cookMinutes": 0,
+  "waitMinutes": 20,
+  "waitLabel": "namáčení nudlí",
+  "difficulty": "střední",
+  "vegetarian": false,
+  "intro": "Pad thai pro dva s kuřecím masem, vejcem a arašídy. Závisí na omáčce namíchané předem a na tom, že máš před restováním všechno nakrájené a po ruce.",
+  "ingredients": [
+    {
+      "ingredient": "nudle-ryzove",
+      "amount": 150,
+      "unit": "g",
+      "note": "ploché, široké 3 až 5 mm",
+      "group": "Nudle a maso"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 250,
+      "unit": "g",
+      "note": "na tenké nudličky",
+      "group": "Nudle a maso"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Nudle a maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Nudle a maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "najemno nasekaný",
+      "group": "Nudle a maso"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "bílé a zelené části zvlášť",
+      "group": "Nudle a maso"
+    },
+    {
+      "ingredient": "fazolove-klicky",
+      "amount": 100,
+      "unit": "g",
+      "group": "Nudle a maso"
+    },
+    {
+      "ingredient": "rybi-omacka",
+      "amount": 2.5,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva, asi 2 lžíce",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ocet-ryzovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "arasidy",
+      "amount": 40,
+      "unit": "g",
+      "note": "nahrubo nasekané",
+      "group": "Na dokončení"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na měsíčky",
+      "group": "Na dokončení"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "hrst lístků",
+      "group": "Na dokončení"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "podle chuti",
+      "group": "Na dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Nudle zalij v míse teplou vodou z kohoutku a nech je 20 až 30 minut změknout. Mají být ohebné, ale uprostřed ještě tuhé. Potom je sceď."
+    },
+    {
+      "section": "Příprava",
+      "text": "V misce rozmíchej rybí omáčku, cukr, limetkovou šťávu, rýžový ocet a vodu, dokud se cukr nerozpustí. Ochutnej: omáčka má být výrazně slaná, sladká a kyselá zároveň."
+    },
+    {
+      "section": "Příprava",
+      "text": "Arašídy opraž nasucho na pánvi 3 až 4 minuty dozlatova a přesyp je stranou. Maso, česnek, cibulku, klíčky a rozklepnutá vejce si připrav k plotně."
+    },
+    {
+      "section": "Restování",
+      "text": "Ve woku nebo velké pánvi rozpal na prudkém ohni 2 lžíce oleje. Kuřecí maso opékej 3 až 4 minuty, dokud není propečené a lehce zlatavé, a vyndej ho na talíř."
+    },
+    {
+      "section": "Restování",
+      "text": "Do pánve přidej zbylý olej, česnek a bílé části cibulky a 20 vteřin míchej. Přidej scezené nudle, zalij je omáčkou a 2 až 3 minuty promíchávej, dokud omáčku nevsáknou a nezměknou. Jsou-li ještě tuhé, přilij 2 až 3 lžíce vody a restuj dál."
+    },
+    {
+      "section": "Restování",
+      "text": "Nudle odhrň ke kraji, na volné místo vlij vejce a nech je půl minuty tuhnout. Pak je rozmíchej na kousky a vmíchej do nudlí."
+    },
+    {
+      "section": "Restování",
+      "text": "Vrať do pánve maso, přidej klíčky, zelené části cibulky a polovinu arašídů a půl minuty promíchej. Klíčky mají zůstat křupavé."
+    },
+    {
+      "section": "Restování",
+      "text": "Rozděl na talíře, posyp zbylými arašídy, koriandrem a chilli vločkami a podávej s měsíčky limetky."
+    }
+  ],
+  "tips": [
+    "Recept je na dvě porce a víc najednou nedělej. Pro čtyři lidi vař ve dvou dávkách za sebou: plná pánev vychladne a jídlo se v ní začne dusit.",
+    "Nudle nevař ve vroucí vodě. Uvařené se na pánvi rozpadnou a slepí, namočené dojdou až v omáčce.",
+    "Šířky a značky nudlí se liší. Pokud na obalu stojí jiná doba namáčení, řiď se jí a nudle průběžně zkoušej."
+  ],
+  "substitutions": [
+    "Tamarind: máš-li tamarindovou pastu, dej 2 lžíce místo limetkové šťávy a rýžového octa. Chuť bude tmavší a ovocnější, tak jak se pad thai dělá v Thajsku.",
+    "Kuřecí maso nahradí 200 g loupaných krevet (restují se jen 2 minuty) nebo 200 g tofu nakrájeného na kostky a opečeného dozlatova.",
+    "Třtinový cukr můžeš nahradit bílým, palmový cukr z asijské prodejny je ještě blíž originálu."
+  ],
+  "image": "dish-pad-thai-kureci",
+  "category": "asie"
+}

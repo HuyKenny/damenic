@@ -1,0 +1,79 @@
+{
+  "name": "Svíčková na smetaně",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "price": 23900,
+  "recipe": "svickova-na-smetane",
+  "featured": true,
+  "vegetarian": false,
+  "order": 10,
+  "description": "Dušené hovězí v krémové omáčce z kořenové zeleniny a smetany, s houskovým knedlíkem, brusinkami a citronem.",
+  "about": [
+    "Svíčkovou dělá omáčka. Vzniká z mrkve, celeru a petržele, které se opečou na másle, podusí s masem a nakonec rozmixují se smetanou. Správně je nasládlá, lehce nakyslá a tak hustá, že drží na knedlíku.",
+    "Doma na ni potřebuješ hlavně čas: maso se dusí přes dvě hodiny a uspěchat se nedá. Vyplatí se zeleninu opravdu opéct dozlatova, protože z toho má omáčka barvu i chuť, a kyselost se sladkostí doladit až úplně na konci."
+  ],
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standardni",
+          "name": "Standardní",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (o polovinu více masa)",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "knedliky",
+          "name": "Dva knedlíky navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "brusinky",
+          "name": "Brusinky navíc",
+          "priceDelta": 1500
+        },
+        {
+          "id": "slehacka",
+          "name": "Šlehačka",
+          "priceDelta": 1500
+        }
+      ],
+      "max": 3
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "brusinek",
+          "name": "Bez brusinek",
+          "priceDelta": 0
+        },
+        {
+          "id": "citronu",
+          "name": "Bez citronu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-svickova-na-smetane"
+}

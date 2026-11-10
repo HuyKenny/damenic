@@ -1,0 +1,32 @@
+{
+  "name": "Malinová limonáda 0,4 l",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 5900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 90,
+  "description": "Točená limonáda z malinového sirupu a perlivé vody s plátkem citronu, jak se čepuje k obědu.",
+  "optionGroups": [
+    {
+      "id": "led",
+      "name": "Led",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "s-ledem",
+          "name": "S ledem",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-ledu",
+          "name": "Bez ledu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-malinova-limonada-hospoda"
+}
