@@ -1,0 +1,42 @@
+name: lighthouse
+# Manual lab measurement of the live site (mobile profile, Lighthouse default throttling). Lab data, not visitor data.
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: lighthouse
+  cancel-in-progress: true
+jobs:
+  measure:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: 24
+      - name: Measure
+        run: |
+          npm i -g --silent lighthouse@13 >/dev/null
+          mkdir -p lh
+          for path in / /restaurace/prazdna-pec/ /jidla/svickova-na-smetane/ /recepty/pizza-margherita/ /kosik/; do
+            name=$(echo "$path" | tr '/' '_')
+            lighthouse "https://damenic.cz$path" --quiet --chrome-flags="--headless=new --no-sandbox" \
+              --only-categories=performance,accessibility,best-practices,seo --output=json --output-path="lh/$name.json" || true
+          done
+          node -e '
+            const fs = require("fs");
+            const rows = ["| Page | Perf | A11y | Best | SEO | LCP | CLS | TBT |", "|---|---|---|---|---|---|---|---|"];
+            for (const f of fs.readdirSync("lh")) {
+              const r = JSON.parse(fs.readFileSync("lh/" + f));
+              const c = r.categories, a = r.audits, s = (k) => Math.round(c[k].score * 100);
+              rows.push(`| ${r.finalDisplayedUrl.replace("https://damenic.cz", "")} | ${s("performance")} | ${s("accessibility")} | ${s("best-practices")} | ${s("seo")} | ${a["largest-contentful-paint"].displayValue} | ${a["cumulative-layout-shift"].displayValue} | ${a["total-blocking-time"].displayValue} |`);
+            }
+            fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, "### Lighthouse (mobile, lab)\n" + rows.join("\n") + "\n");
+            console.log(rows.join("\n"));
+          '
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: lighthouse
+          path: lh/
+          retention-days: 3
