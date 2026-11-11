@@ -2512,17 +2512,23 @@ body {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+/* Every item carries its dot; the list is shifted left and clipped, so the dot that starts
+   each line (first item, or one that wrapped) is hidden. */
 .rcard__meta {
   display: flex;
   flex-wrap: wrap;
-  gap: 4px 10px;
+  gap: 4px 6px;
+  margin-left: -16px;
+  overflow: hidden;
   font-size: 0.8125rem;
   font-weight: 650;
   color: var(--ink-2);
 }
-.rcard__meta li + li::before {
+.rcard__meta li::before {
   content: '·';
-  margin-right: 10px;
+  display: inline-block;
+  width: 16px;
+  text-align: center;
   color: var(--line-strong);
 }
 .rcard__meta .is-free {
