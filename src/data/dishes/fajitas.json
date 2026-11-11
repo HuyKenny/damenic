@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Chilli a pánve",
   "price": 26900,
-  "description": "Kuřecí nudličky s barevnými paprikami a cibulí z rozpálené pánve, s tortillami, zakysanou smetanou a limetkou zvlášť.",
+  "description": "Kuřecí nudličky s barevnými paprikami a cibulí z rozpálené pánve. Tortilly, smetana a limetka zvlášť, skládáš si je sám.",
   "about": [
-    "Fajitas se v tex-mex restauracích nosí na stůl ještě syčící. Maso marinované v limetce a koření se opeče prudce s paprikami, které mají zůstat lehce křupavé.",
-    "Tortilly, smetanu a limetku dostaneš bokem a skládáš si sám. Doma je hlavní pravidlo nepřeplnit pánev, jinak se maso dusí."
+    "Fajitas se v tex-mex restauracích nosí ještě syčící. Maso marinované v limetce a koření se prudce opeče s paprikami, které mají zůstat lehce křupavé.",
+    "Tortilly, smetanu a limetku dostaneš bokem a skládáš si je sám. Hlavní pravidlo pro doma: nepřeplňuj pánev, jinak se maso dusí a syčení ztichne."
   ],
   "recipe": "fajitas",
   "image": "dish-fajitas",

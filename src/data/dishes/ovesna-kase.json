@@ -3,10 +3,10 @@
   "restaurant": "odlozeny-budik",
   "kind": "main",
   "section": "Kaše a sladké",
-  "description": "Krémová kaše z jemných vloček na mléce, s banánem, praženými vlašskými ořechy, medem a skořicí.",
+  "description": "Krémová kaše z jemných vloček na mléce s banánem, praženými vlašskými ořechy, medem a skořicí.",
   "about": [
-    "Ovesná kaše je snídaně, která se uvaří rychleji, než se kurýr dostane do výtahu. Vločky se vaří v mléce pár minut, dokud se nezmění v krém, a všechno ostatní je jen to, co dáš navrch.",
-    "Mléko si můžeš vyměnit za ovesný nápoj a přidat ovoce. Ovesné vločky obsahují lepek, pokud nejsou výslovně bezlepkové."
+    "Ovesná kaše je snídaně, která je hotová dřív, než zjistíš, kde máš hrnek. Vločky se vaří v mléce pár minut, dokud se nezmění v krém, a všechno ostatní je jen to, co dáš navrch.",
+    "Mléko vyměň za ovesný nápoj a přidej ovoce. Ovesné vločky obsahují lepek, pokud nejsou výslovně bezlepkové."
   ],
   "price": 15900,
   "image": "dish-ovesna-kase",

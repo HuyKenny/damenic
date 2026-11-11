@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Chilli a pánve",
   "price": 19900,
-  "description": "Husté chilli z mletého hovězího, červených fazolí a rajčat s kmínem a uzenou paprikou, se zakysanou smetanou a chlebem.",
+  "description": "Husté chilli z mletého hovězího, červených fazolí a rajčat s kmínem a uzenou paprikou, s kyselou smetanou a chlebem.",
   "about": [
-    "Chilli con carne se nedá uspěchat. Maso se opeče dohněda, koření se krátce osmaží a pak se všechno s rajčaty hodinu pomalu vaří, než se fazole a maso spojí v hustou omáčku.",
-    "Pálivost je tu střední, laditelná chilli vločkami. Zakysaná smetana navrch ji zjemní a chléb poslouží na vytírání."
+    "Chilli con carne neuspěcháš. Maso se opeče dohněda, koření se krátce osmaží a pak se všechno s rajčaty hodinu pomalu vaří, až se fazole a maso spojí v hustou omáčku.",
+    "Pálivost je střední, laditelná chilli vločkami. Zakysaná smetana navrch ji zjemní a chléb poslouží na vytírání. Talíř by měl skončit čistý."
   ],
   "recipe": "chilli-con-carne",
   "image": "dish-chilli-con-carne",

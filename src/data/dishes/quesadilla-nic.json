@@ -6,8 +6,8 @@
   "price": 17900,
   "description": "Přeložená tortilla opečená na pánvi s kuřetem, paprikou a rozteklým sýrem, nakrájená na trojúhelníky.",
   "about": [
-    "Quesadilla je v podstatě mexický toust. Sýr dole i nahoře, mezi ním kuře s paprikou a cibulí, a všechno se pomalu opéká, dokud se sýr nerozteče.",
-    "Podává se se smetanou a salsou na namáčení. V simulaci si můžeš přidat guacamole, doma ho uděláš za deset minut."
+    "Quesadilla je v podstatě mexický toust, který se nezastyděl. Sýr dole i nahoře, mezi ním kuře s paprikou a cibulí, a všechno se pomalu opéká, dokud se sýr nerozteče.",
+    "Podává se se smetanou a salsou na namáčení. V simulaci si přidáš guacamole, doma ho uděláš za deset minut."
   ],
   "recipe": "quesadilla",
   "image": "dish-quesadilla-nic",

@@ -563,7 +563,7 @@ function Finale({ order, recipes }: { order: OrderSnapshot; recipes: Record<stri
             Simulovaná objednávka #{order.id}
           </span>
           <h1 style="margin-top:12px">DámeNic doručilo přesně to, co slíbilo. Nic.</h1>
-          <p>{order.mode === 'pickup' ? 'Taška je vyzvednutá a prázdná.' : 'Otevřel jsi dveře a taška je prázdná.'} Hotovo. Zaplaceno nanečisto. Z účtu neodešlo nic. Jestli máš hlad doopravdy, všechno z objednávky si můžeš uvařit.</p>
+          <p>{order.mode === 'pickup' ? 'Taška je vyzvednutá a prázdná.' : 'Otevřel jsi dveře a taška je prázdná.'} Zaplaceno nanečisto, z účtu neodešlo nic a jídlo ti ani nevystydlo. Jestli máš hlad doopravdy, tohle všechno si můžeš uvařit.</p>
         </div>
         <svg class="finale__bag" viewBox="0 0 240 220" aria-hidden="true" style="width:180px">
           <path d="M52 70h136l14 122a8 8 0 0 1-8 9H46a8 8 0 0 1-8-9z" fill="#fff" stroke="#8f1418" stroke-width="4" stroke-linejoin="round" />

@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Shawarma",
   "price": 17900,
-  "description": "Kuřecí stehna marinovaná s kmínem, koriandrem a skořicí, v pitě s tahini omáčkou, nakládanými okurkami, rajčaty a cibulí se sumahem.",
+  "description": "Kuřecí stehna marinovaná s kmínem, koriandrem a skořicí, v pitě s tahini, nakládanými okurkami, rajčaty a cibulí se sumahem.",
   "about": [
-    "Shawarma voní jinak než kebab. Do marinády patří vedle kmínu a papriky i skořice, kurkuma a kardamom, a maso se po upečení nakrájí a ještě jednou opeče do křupava.",
-    "Kyselé nakládané okurky a omáčka z tahini s česnekem tu nejsou jen ozdoba, vyvažují kořenité maso. Cibule se sumahem dodá citronovou svěžest bez citronu."
+    "Shawarma voní jinak než kebab, teplejší a kulatější. Do marinády patří vedle kmínu a papriky i skořice, kurkuma a kardamom, a maso se po upečení nakrájí a ještě jednou opeče do křupava.",
+    "Kyselé nakládané okurky a omáčka z tahini s česnekem tu nejsou jen ozdoba, vyvažují kořenité maso. Cibule se sumahem dodá citronovou svěžest bez citronu. Kyselost si tu bere, co potřebuje."
   ],
   "recipe": "shawarma",
   "image": "dish-shawarma",

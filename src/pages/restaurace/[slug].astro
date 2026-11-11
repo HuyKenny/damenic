@@ -73,7 +73,7 @@ const PRICE = ['', 'Kč', 'Kč Kč', 'Kč Kč Kč'];
           <li><Icon name="timer" size={16} />Otevřeno {hoursLabel(r.data.hours)}</li>
         </ul>
         <p class="small muted" style="margin:6px 0 0">
-          {r.data.description} Sledování kurýra běží v reálném čase, čekání jde kdykoli přeskočit.
+          {r.data.description} Odpočet kurýra běží v reálném čase, jídlo ne. Čekání jde kdykoli přeskočit.
         </p>
       </div>
       <div class="resthead2__mode"><ModeSwitch client:idle canPickup={r.data.pickup} /></div>
@@ -137,7 +137,7 @@ const PRICE = ['', 'Kč', 'Kč Kč', 'Kč Kč Kč'];
           ))
         }
         <p class="menusearch__empty" hidden data-menu-empty>V menu nic takového nemáme. Což u nás nepřekvapí.</p>
-        <p class="small muted" style="margin-top:22px">Všechny ceny na této stránce jsou simulované. Nic z nabídky si nelze skutečně koupit.</p>
+        <p class="small muted" style="margin-top:22px">Všechny ceny jsou simulované a nic z nabídky se nedá koupit. Peněženka si oddychne.</p>
       </div>
       <aside class="layout-menu__side" aria-label="Košík">
         <CartView client:idle variant="side" />

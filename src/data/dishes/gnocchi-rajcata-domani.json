@@ -3,10 +3,10 @@
   "restaurant": "trattoria-domani",
   "kind": "main",
   "section": "Rizoto a gnocchi",
-  "description": "Domácí bramborové noky v rajčatové omáčce s česnekem a bazalkou, posypané parmazánem.",
+  "description": "Domácí bramborové noky v rajčatové omáčce s česnekem a bazalkou, sypané parmazánem.",
   "about": [
-    "Gnocchi jsou v podstatě italská obdoba bramborových knedlíčků. Dobré poznáš podle toho, že jsou měkké a vláčné, ne tuhé, a to zařídí moučné brambory a co nejmenší dávka mouky.",
-    "V trattorii je podáváme v jednoduché rajčatové omáčce. Kdo chce, může si místo ní vybrat máslo se sýrem, recept obě varianty popisuje."
+    "Gnocchi jsou italská obdoba bramborových knedlíčků, jen měkčí. Dobré poznáš podle toho, že jsou vláčné, ne tuhé, a to zařídí moučné brambory a co nejmenší dávka mouky.",
+    "V trattorii je podáváme v jednoduché rajčatové omáčce. Kdo chce, může si místo ní vybrat máslo se sýrem, recept obě varianty popisuje. Rozhodnutí je na tobě."
   ],
   "price": 19900,
   "image": "dish-gnocchi-rajcata-domani",

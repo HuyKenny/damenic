@@ -3,10 +3,10 @@
   "restaurant": "sladke-nic",
   "kind": "main",
   "section": "Studené dezerty",
-  "description": "Vanilkový krém ze smetany a žloutků pečený ve vodní lázni, s karamelovou krustou opálenou těsně před podáním.",
+  "description": "Vanilkový krém ze smetany a žloutků pečený ve vodní lázni, karamelová krusta se opaluje až těsně před podáním.",
   "about": [
-    "Crème brûlée je dezert dvou teplot: chladný hedvábný krém a nahoře tenká vrstva karamelu, ještě teplá od hořáku. Lžička ji má prolomit s jasným cvaknutím.",
-    "Vybereš si cukr na karamel. Doma se krém dá upéct den předem, karamelizuje se ale vždycky až před podáváním."
+    "Dezert dvou teplot: chladný hedvábný krém a nahoře tenká vrstva karamelu, ještě teplá od hořáku. Lžička ji prolomí s jasným cvaknutím a kvůli tomu se to celé dělá.",
+    "Vybereš si cukr na karamel. Doma se krém dá upéct den předem, karamelizuje se ale vždycky až před podáváním. Cvaknutí se dopředu přichystat nedá."
   ],
   "price": 12900,
   "image": "dish-creme-brulee",

@@ -5,10 +5,10 @@
   "recipe": "pizza-sunka-zampiony",
   "vegetarian": false,
   "order": 30,
-  "description": "Klasika s dušenou šunkou, čerstvými žampiony, mozzarellou a oreganem.",
+  "description": "Dušená šunka, čerstvé žampiony, mozzarella a oregano. Sázka na jistotu, která se chutná.",
   "about": [
-    "Šunka se žampiony je sázka na jistotu. Jediné, co se dá pokazit, je voda: syrové žampiony jí pustí hodně, a proto se krájí na tenké plátky a nedává se jich příliš.",
-    "Šunku je lepší natrhat než nakrájet. Nerovné kousky se při pečení na okrajích lehce opečou."
+    "Šunka se žampiony je sázka na jistotu a skoro nelze prohrát. Jediné, co se dá pokazit, je voda: syrové žampiony jí pustí hodně, proto se krájí na tenké plátky a nedává se jich příliš.",
+    "Šunku radši natrhej než nakrájej. Nerovné kousky se na okrajích lehce opečou."
   ],
   "optionGroups": [
     {

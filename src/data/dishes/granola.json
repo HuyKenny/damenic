@@ -3,10 +3,10 @@
   "restaurant": "odlozeny-budik",
   "kind": "main",
   "section": "Kaše a sladké",
-  "description": "Domácí pečená granola s mandlemi a medem, řecký jogurt a čerstvé ovoce.",
+  "description": "Domácí pečená granola s mandlemi a medem, řecký jogurt a čerstvé ovoce. Snídaně, která křupe.",
   "about": [
-    "Domácí granola se peče pomalu, aby zezlátla celá a ne jen na krajích. Křupe až po vychladnutí, a proto se dělá do zásoby na celý týden.",
-    "Jogurt si můžeš vyměnit za mléko a ovoce za borůvky. Doma stačí jeden plech a zbytek vydrží v dóze dva až tři týdny."
+    "Domácí granola se peče pomalu, aby zezlátla celá a ne jen na krajích. Křupe až po vychladnutí, proto se dělá do zásoby na celý týden.",
+    "Jogurt můžeš vyměnit za mléko a ovoce za borůvky. Doma stačí jeden plech a zbytek vydrží v dóze dva až tři týdny, pokud ji nesníš dřív."
   ],
   "price": 16900,
   "image": "dish-granola",

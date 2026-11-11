@@ -3,10 +3,10 @@
   "restaurant": "pasta-bar-niente",
   "kind": "main",
   "section": "Z pánve",
-  "description": "Špagety obalené krémem ze žloutků a sýra, s opečenou slaninou a hrubě mletým pepřem.",
+  "description": "Špagety v krému ze žloutků a sýra, s opečenou slaninou a hrubě mletým pepřem. Všechno z jedné pánve.",
   "about": [
-    "V pasta baru se carbonara dělá po jedné porci v malé pánvi, protože víc najednou se uhlídat nedá. Žloutky se sýrem zhoustnou teplem těstovin a vody z vaření.",
-    "Stejný postup platí i doma. Když porce zdvojnásobíš, použij větší pánev a stáhni ji z plotny o chvilku dřív."
+    "Carbonara je pánevní drama o jedné porci. V pasta baru se dělá po jedné v malé pánvi, protože víc najednou se uhlídat nedá. Žloutky se sýrem zhoustnou teplem těstovin a vody z vaření.",
+    "Stejný postup platí i doma. Když porce zdvojnásobíš, použij větší pánev a stáhni ji z plotny o chvilku dřív, jinak z krému budou míchaná vejce."
   ],
   "price": 19900,
   "image": "dish-carbonara-niente",

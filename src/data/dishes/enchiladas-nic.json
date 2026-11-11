@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Burrito a další",
   "price": 22900,
-  "description": "Dvě srolované tortilly s kuřetem a fazolemi, zapečené v červené omáčce se sýrem, se zakysanou smetanou.",
+  "description": "Dvě tortilly s kuřetem a fazolemi, zapečené v červené omáčce se sýrem a zakysanou smetanou. Z trouby, bublající.",
   "about": [
-    "Enchiladas jsou mexické jídlo z trouby. Tortilly se naplní natrhaným kuřetem s fazolemi, zalijí omáčkou z rajčat a koření a zapečou se sýrem.",
-    "Omáčka je tu základ, ne doplněk. Koření se v ní nejdřív krátce osmaží s moukou, a teprve pak přijde passata."
+    "Enchiladas jsou mexická specialita z trouby. Tortilly se naplní natrhaným kuřetem s fazolemi, zalijí omáčkou z rajčat a koření a zapečou se pod sýrem.",
+    "Omáčka tu není doplněk, ale základ. Koření se v ní nejdřív krátce osmaží s moukou a teprve potom přijde passata. Pořadí rozhoduje."
   ],
   "recipe": "enchiladas",
   "image": "dish-enchiladas-nic",

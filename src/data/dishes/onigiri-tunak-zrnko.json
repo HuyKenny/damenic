@@ -3,10 +3,10 @@
   "restaurant": "sushi-bez-zrnka",
   "kind": "main",
   "section": "Misky a teplá jídla",
-  "description": "Dva rýžové trojúhelníky s náplní z tuňáka a majonézy, s proužkem nori.",
+  "description": "Dva rýžové trojúhelníky s tuňákem a majonézou uvnitř, obalené proužkem nori.",
   "about": [
-    "Onigiri je japonská svačina z obyčejné vařené rýže bez octa, dochucená jen solí na rukou. Uvnitř je lžička náplně.",
-    "Tvaruje se z teplé rýže, studená se už nespojí. Nori přikládej až před jídlem, ať zůstane křupavé."
+    "Onigiri je japonská svačina do kapsy: obyčejná vařená rýže bez octa, dochucená jen solí na rukou. Uvnitř se skrývá lžička náplně.",
+    "Tvaruje se z teplé rýže, studená se už nespojí. Nori přikládej až před jídlem, ať zůstane křupavé. Ruce navlhči vodou."
   ],
   "price": 9900,
   "image": "dish-onigiri-tunak-zrnko",

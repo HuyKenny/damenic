@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Z trouby",
   "price": 23900,
-  "description": "Tři tortilly s kuřetem a fazolemi, zapečené v kořenité rajčatové omáčce a sýru, se zakysanou smetanou a koriandrem.",
+  "description": "Tři tortilly s kuřetem a fazolemi zapečené v kořenité rajčatové omáčce a sýru, se smetanou a koriandrem.",
   "about": [
-    "Enchiladas z trouby jsou jídlo, které se dá připravit dopředu. Naplněné a zalité tortilly klidně počkají v lednici a do trouby jdou, až když přijdou hosté.",
-    "Omáčka z passaty, vývaru a koření osmaženého s moukou je hustá a výrazná. Sýr nahoře má bublat a na krajích trochu zhnědnout."
+    "Enchiladas z trouby jsou jídlo, které se dá nachystat dopředu. Naplněné a zalité tortilly klidně počkají v lednici a do trouby jdou, až když přijdou hosté.",
+    "Omáčka z passaty, vývaru a koření osmaženého s moukou je hustá a výrazná. Sýr nahoře má bublat a na krajích zhnědnout. Pak už stačí vidlička."
   ],
   "recipe": "enchiladas",
   "image": "dish-enchiladas",

@@ -5,10 +5,10 @@
   "recipe": "spagety-rajcata-bazalka",
   "vegetarian": true,
   "order": 50,
-  "description": "Rajčatová omáčka s česnekem a olivovým olejem, čerstvá bazalka a parmazán.",
+  "description": "Špagety v rajčatové omáčce s česnekem a olivovým olejem, čerstvou bazalkou a parmazánem.",
   "about": [
     "Nejjednodušší těstoviny na lístku a zároveň ty, na kterých se pozná trpělivost. Omáčka se vaří jen z rajčat, česneku a oleje, a potřebuje dvacet minut klidu.",
-    "Těstoviny se dovaří přímo v omáčce s trochou vody z vaření. Díky škrobu se omáčka na špagety přichytí."
+    "Těstoviny se dovaří přímo v omáčce s trochou vody z vaření. Díky škrobu se omáčka na špagety přichytí. Jinak by sklouzla na talíř."
   ],
   "optionGroups": [
     {

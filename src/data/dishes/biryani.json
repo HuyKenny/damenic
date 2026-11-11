@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Biryani a předkrmy",
   "price": 24900,
-  "description": "Vrstvená rýže basmati s kořeněným kuřetem, smaženou cibulí, mátou a koriandrem, dodušená pod pokličkou.",
+  "description": "Rýže basmati vrstvená s kořeněným kuřetem, smaženou cibulí, mátou a koriandrem, dodušená pod pokličkou.",
   "about": [
-    "Biryani se nevaří, ale skládá. Dole je kuře dušené v jogurtové marinádě, nad ním předvařená rýže s hřebíčkem a skořicí, mezi vrstvami smažená cibule a bylinky. Celé se to pak pod pevnou poklicí dodusí v páře.",
-    "Když se povede, jsou zrna rýže oddělená, provoněná a dole se lehce připečou ke dnu. Doma si na to vyhraď odpoledne, většinu času ale jen čekáš."
+    "Biryani se neuvaří, biryani se postaví. Dole je kuře dušené v jogurtové marinádě, nad ním předvařená rýže s hřebíčkem a skořicí, mezi vrstvami smažená cibule a bylinky. Pevná poklice pak všechno dodusí v páře.",
+    "Když se povede, jsou zrna oddělená, provoněná a u dna se lehce připečou. Doma si vyhraď odpoledne, většinu času ale jen čekáš. Poklici nezvedej."
   ],
   "recipe": "biryani",
   "image": "dish-biryani",

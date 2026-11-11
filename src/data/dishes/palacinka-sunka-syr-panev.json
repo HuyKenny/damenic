@@ -3,10 +3,10 @@
   "restaurant": "prazdna-panev",
   "kind": "main",
   "section": "Slané palačinky",
-  "description": "Velká palačinka bez cukru, plněná šunkou a rozpuštěným eidamem, přeložená do čtverce.",
+  "description": "Velká palačinka bez cukru, plněná šunkou a rozteklým eidamem a přeložená do čtverce. Slaná a teplá.",
   "about": [
-    "Slaná palačinka je bratranec bretaňské galette, jen z obyčejné pšeničné mouky. Do těsta se nedává cukr, a když je palačinka na pánvi skoro hotová, posype se sýrem, obloží šunkou a přeloží, aby se sýr pod ní rozpustil.",
-    "Funguje jako večeře i pozdní snídaně. Kdo chce, přidá navrch sázené vejce, jak se to dělá ve Francii."
+    "Slaná palačinka je bratranec bretaňské galette, jen z obyčejné pšeničné mouky. Těsto se nesladí a když je palačinka na pánvi skoro hotová, posype se sýrem, obloží šunkou a přeloží, aby se sýr pod ní rozpustil.",
+    "Je to večeře i pozdní snídaně. Kdo chce, přidá navrch sázené vejce, jak se to dělá ve Francii. Pomalu se rozhoduje, co z toho vlastně je."
   ],
   "price": 15900,
   "image": "dish-palacinka-sunka-syr-panev",

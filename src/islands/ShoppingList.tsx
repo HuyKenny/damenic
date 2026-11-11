@@ -29,7 +29,7 @@ export default function ShoppingList({ recipes, info }: Props) {
     return (
       <div class="empty" data-testid="list-empty">
         <h2>Seznam je prázdný</h2>
-        <p>Otevři recept, nastav počet porcí a přidej ho do seznamu. Stejné suroviny z více receptů se sečtou.</p>
+        <p>Seznam je prázdný jako taška kurýra. Otevři recept, nastav počet porcí a přidej ho. Stejné suroviny z více receptů se sečtou.</p>
         <a class="btn" href="/recepty/">
           Vybrat recept
         </a>

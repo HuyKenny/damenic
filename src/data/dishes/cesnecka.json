@@ -3,10 +3,10 @@
   "restaurant": "vycep-zitra",
   "kind": "main",
   "section": "Polévky",
-  "description": "Bramborová česnečka s kmínem a majoránkou, do talíře eidam a krutony opečené na oleji.",
+  "description": "Bramborová česnečka s kmínem a majoránkou, eidam na dně talíře a krutony opečené na oleji.",
   "about": [
-    "Česnečka je polévka, která se v hospodě objednává k pivu i místo léku na všechno. Základ tvoří brambory povařené s kmínem, ale chuť dělá až hrst prolisovaného česneku, který se přidává do polévky stažené z ohně.",
-    "Sýr se dává na dno talíře, aby se rozpustil v horké polévce, a krutony až navrch, aby zůstaly křupavé. Doma si můžeš vejce přidat, nebo vynechat, recept funguje obojím způsobem."
+    "Česnečka se v hospodě objednává k pivu i jako lék na všechno. Základ tvoří brambory povařené s kmínem, ale chuť dělá až hrst prolisovaného česneku, který patří do polévky staženou z ohně.",
+    "Sýr jde na dno talíře, aby se v horké polévce rozpustil, a krutony až navrch, aby zůstaly křupavé. Vejce si doma můžeš přidat, nebo vynechat. Zítra ale voníš ty."
   ],
   "price": 7900,
   "image": "dish-cesnecka",

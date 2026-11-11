@@ -3,10 +3,10 @@
   "restaurant": "placka-nikam",
   "kind": "main",
   "section": "Další burgery",
-  "description": "Grilované halloumi, rozmačkané avokádo s citronem, grilovaná cuketa, rajče a rukola s jogurtovou omáčkou s česnekem.",
+  "description": "Burger z grilovaného halloumi s rozmačkaným avokádem, cuketou, rajčetem, rukolou a česnekovým jogurtem.",
   "about": [
-    "Bezmasá volba, která na smash burgery nežárlí. Halloumi opékáme na plotně do zlatých pruhů, aby bylo zvenku křupavé a uvnitř vláčné.",
-    "Avokádo s citronem nahrazuje majonézu a jogurt s česnekem dodá kyselost. Burger je vegetariánský, ne veganský."
+    "Bezmasá volba, která na smash burgery nežárlí. Halloumi se opéká na plotně do zlatých pruhů, aby bylo zvenku křupavé a uvnitř vláčné.",
+    "Avokádo s citronem nahrazuje majonézu a jogurt s česnekem dodá kyselost. Burger je vegetariánský, ne veganský. Halloumi je prostě sýr."
   ],
   "price": 21900,
   "image": "dish-halloumi-placka",

@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Chilli a pánve",
   "price": 21900,
-  "description": "Velká tortilla plněná hustým chilli con carne, rýží a sýrem, opečená na pánvi.",
+  "description": "Velká tortilla nacpaná hustým chilli con carne, rýží a sýrem, opečená na pánvi do zlatova.",
   "about": [
-    "Když zbude chilli, udělá se z něj burrito. Hustě svařené chilli s fazolemi, rýže a sýr, všechno pevně zabalené a opečené do zlatova.",
-    "Chilli musí být opravdu husté, jinak protéká. Proto je dobré ho na burrito vařit o čtvrthodinu déle."
+    "Burrito je nejlepší důvod nechat si zbýt chilli. Husté chilli s fazolemi, rýže a sýr se pevně zabalí a opečou do zlatova.",
+    "Chilli musí být opravdu husté, jinak protéká. Proto je dobré ho na burrito vařit o čtvrthodinu déle. Čtvrt hodiny, která zachrání celou tortillu."
   ],
   "recipe": "burrito",
   "recipeNote": "Recept je s kuřetem a fazolemi; jako náplň použij místo nich hustě svařené chilli con carne.",

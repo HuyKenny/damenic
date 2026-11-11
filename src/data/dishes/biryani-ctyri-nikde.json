@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Biryani",
   "price": 69900,
-  "description": "Celý hrnec kuřecího biryani se smaženou cibulí, mátou a koriandrem, pro čtyři hladové.",
+  "description": "Hrnec kuřecího biryani s kořením, smaženou cibulí, mátou a koriandrem. Na stůl pro čtyři, lžíce k dispozici.",
   "about": [
-    "Rodinná porce, jak se biryani v Indii obvykle vaří: jeden velký hrnec na stůl a každý si nabírá sám. Recept je na čtyři porce, takže tady dostaneš přesně to, co doma uvaříš.",
-    "Nejlepší je hrnec otevřít až u stolu. Ta pára, co vyletí, je půlka zážitku a v simulaci bohužel chybí."
+    "Biryani se v Indii obvykle vaří v jednom velkém hrnci, který se postaví doprostřed stolu a každý si nabírá sám. Recept je na čtyři porce, takže uvaříš přesně tolik, kolik tu vidíš.",
+    "Hrnec otevři až u stolu. Pára, která vyletí, je půlka zážitku, a tady na obrazovce bohužel voní jen fantazie."
   ],
   "recipe": "biryani",
   "image": "dish-biryani-ctyri-nikde",

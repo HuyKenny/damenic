@@ -3,10 +3,10 @@
   "restaurant": "prazdna-naberacka",
   "kind": "main",
   "section": "Polévky",
-  "description": "Čirý vývar z kostí a kližky tažený čtyři hodiny, s vaječnými nudlemi, kostičkami masa, mrkví a petrželkou.",
+  "description": "Čirý vývar z kostí a kližky tažený čtyři hodiny, vaječné nudle, kostičky masa, mrkev a petrželka.",
   "about": [
-    "Hovězí vývar se nevaří, ale táhne. Kosti a maso se zalijí studenou vodou, sebere se pěna a pak už hrnec čtyři hodiny jen tiše probublává. Opečená cibule mu dá zlatou barvu a kořenová zelenina sladkost.",
-    "Nudle se vaří zvlášť, aby vývar zůstal čirý. Do misky přijde i maso z vývaru a zelenina nakrájená na kostičky, takže je to polévka i oběd najednou."
+    "Hovězí vývar se nevaří, on se táhne. Kosti a maso se zalijí studenou vodou, sebere se pěna a pak už hrnec čtyři hodiny jen tiše probublává. Opečená cibule mu dá zlatou barvu a kořenová zelenina sladkost.",
+    "Nudle se vaří zvlášť, aby vývar zůstal čirý. Do misky přijde i maso z vývaru a zelenina nakrájená na kostičky, takže je to polévka i oběd najednou. Dvě jídla, jedna miska."
   ],
   "price": 11900,
   "image": "dish-hovezi-vyvar",

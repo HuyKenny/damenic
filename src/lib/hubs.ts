@@ -17,51 +17,51 @@ export interface Hub {
 
 const INTRO: Record<string, string[]> = {
   pizza: [
-    'Domácí pizza stojí na těstě, které má čas vykynout, a na troubě rozpálené na maximum. Recepty počítají s běžnou troubou a plechem, ne s pecí na dřevo.',
-    'Začni základním těstem, pak zkus Margheritu, pálivou Diavolu nebo čtyři sýry. U každého receptu najdeš poctivě rozepsaný čas kynutí.',
+    'Dobrá pizza je z poloviny trpělivost: těsto potřebuje čas vykynout a trouba musí být rozpálená na maximum. Recepty počítají s běžnou troubou a plechem, ne s pecí na dřevo.',
+    'Začni základním těstem, pak zkus Margheritu, pálivou Diavolu nebo čtyři sýry. Čas kynutí je u každého receptu rozepsaný, aby tě nepřekvapilo, že pizza nevznikne za deset minut.',
   ],
   burgery: [
-    'Burger z domácí kuchyně je hlavně o mletém mase s dostatkem tuku, rozpálené pánvi a bulce, která se krátce opeče. Recepty jsou na čtyři kusy.',
-    'K burgerům patří i přílohy: domácí hranolky, cibulové kroužky a coleslaw mají vlastní recepty.',
+    'Burger stojí na třech věcech: mleté maso s dostatkem tuku, pánev rozpálená do běla a bulka, která se krátce opeče. Recepty jsou na čtyři kusy.',
+    'Burger nechodí sám. Domácí hranolky, cibulové kroužky a coleslaw mají vlastní recepty.',
   ],
   ceska: [
-    'Česká kuchyně je o omáčkách, polévkách a trpělivosti. Svíčková, guláš, kulajda nebo bramboráky se nedají uspěchat, a tak u nich přesně píšeme, kolik času zabere vaření a kolik vlastní práce.',
+    'Česká kuchyně je o omáčkách, polévkách a trpělivosti. Svíčková, guláš, kulajda nebo bramboráky se nedají uspěchat, a proto u nich píšeme, kolik času zabere vaření a kolik tvoje vlastní práce.',
     'Recepty počítají se surovinami z běžného obchodu a s množstvím pro rodinu. Porce si přepočítáš jedním tlačítkem a suroviny pošleš do nákupního seznamu.',
   ],
   asijska: [
-    'Ramen, pho, jarní závitky nebo bibimbap: asijská jídla, která se dají uvařit v obyčejné kuchyni. Většinu surovin seženeš v supermarketu, zbytek v asijské večerce.',
+    'Ramen, pho, jarní závitky nebo bibimbap zvládneš i v obyčejné kuchyni. Většinu surovin seženeš v supermarketu, zbytek v asijské večerce, kde se vyplatí ptát.',
     'U vývarů počítej s časem na pomalé vaření, u jídel z woku naopak s rychlou prací. Obojí v receptech rozlišujeme.',
   ],
   sushi: [
-    'Domácí sushi začíná u správně uvařené a ochucené rýže. Teprve pak přijdou na řadu nori, ryba a ostrý nůž.',
+    'Sushi se rozhoduje u rýže: musí být správně uvařená a ochucená. Teprve pak přijdou na řadu nori, ryba a ostrý nůž.',
     'Rybu na syrovou konzumaci kupuj jen tam, kde je k tomu určená. Recepty uvádějí i varianty bez syrové ryby.',
   ],
   thajska: [
-    'Thajská kuchyně stojí na rovnováze slaného, sladkého, kyselého a pálivého. Rybí omáčka, limetka, cukr a chilli se přidávají postupně a ochutnávají.',
+    'Thajská kuchyně je vyvažování na laně mezi slaným, sladkým, kyselým a pálivým. Rybí omáčka, limetka, cukr a chilli se přidávají postupně a hlavně se ochutnávají.',
     'Pad thai, kari s kokosovým mlékem i polévky tom yum a tom kha se dají připravit za méně než hodinu.',
   ],
   indicka: [
-    'Indická jídla vyžadují hlavně koření a čas na jeho opražení. Butter chicken, tikka masala, chana masala nebo dal uvaříš v jednom hrnci.',
+    'U indických jídel rozhoduje koření a minuta, kdy se v oleji opraží a rozvoní celou kuchyň. Butter chicken, tikka masala, chana masala nebo dal uvaříš v jednom hrnci.',
     'K omáčkám patří rýže basmati nebo placky naan, které se dají upéct na pánvi.',
   ],
   mexicka: [
-    'Tortilly, fazole, avokádo a chilli: z několika základních surovin vznikne chilli con carne, tacos, burrito i quesadilla.',
+    'Tortilly, fazole, avokádo a chilli: z pár základních surovin vznikne chilli con carne, tacos, burrito i quesadilla.',
     'Guacamole a salsa se dělají za pár minut, chilli con carne naopak potřebuje hodinu pomalého vaření.',
   ],
   kebab: [
-    'Kebab doma nevznikne na rožni, ale z marinovaného masa upečeného v troubě nebo na pánvi. K němu patří pita, zelí a omáčky.',
+    'Rožeň doma nemáš a nevadí to. Kebab vznikne z marinovaného masa upečeného v troubě nebo na pánvi. K němu patří pita, zelí a omáčky.',
     'Tzatziki, hummus a pita chléb mají vlastní recepty a hodí se i samostatně.',
   ],
   italska: [
-    'Lasagne, rizoto, gnocchi, boloňská omáčka nebo tiramisu: italská klasika, kterou zvládneš s běžnými surovinami.',
+    'Lasagne, rizoto, gnocchi, boloňská omáčka nebo tiramisu: italská klasika, kterou zvládneš s běžnými surovinami a lepším rozpoložením.',
     'U těstovin rozhoduje voda z vaření a načasování, u lasagní a tiramisu čas v troubě a v lednici. Obojí v receptech uvádíme zvlášť.',
   ],
   vegetarianska: [
-    'Jídla bez masa, u kterých nikdo nebude hledat, co chybí: kari s cizrnou, pečený lilek, tofu na pánvi nebo zeleninové lasagne.',
+    'Jídla bez masa, u kterých nikdo nehledá, co chybí: kari s cizrnou, pečený lilek, tofu na pánvi nebo zeleninové lasagne.',
     'Recepty označené jako veganské neobsahují žádné živočišné suroviny.',
   ],
   poke: [
-    'Poke bowl je miska rýže s rybou, tofu nebo kuřetem a spoustou zeleniny. Většinu práce dá krájení, vaří se jen rýže.',
+    'Poke bowl je miska rýže s rybou, tofu nebo kuřetem a spoustou zeleniny. Největší část práce je krájení, vaří se jen rýže.',
     'Syrovou rybu kupuj jen určenou ke konzumaci za syrova, nebo ji nahraď pečeným lososem či tofu.',
   ],
   palacinky: [
@@ -69,11 +69,11 @@ const INTRO: Record<string, string[]> = {
     'Recepty počítají s běžnou pánví a radí, jak na tenké palačinky, které se netrhají, a nadýchané lívance.',
   ],
   dezerty: [
-    'Perník, bábovka, muffiny, brownies nebo cheesecake: dezerty s přesnou teplotou trouby, velikostí formy a zkouškou, jak poznat, že jsou hotové.',
+    'Perník, bábovka, muffiny, brownies nebo cheesecake: dezerty, kde záleží na teplotě trouby, velikosti formy a zkoušce, jak poznat, že jsou hotové.',
     'Čas pečení a čas chladnutí uvádíme odděleně, protože u cheesecaku nebo panna cotty je čekání delší než práce.',
   ],
   snidane: [
-    'Ovesná kaše, granola, vejce Benedikt, french toast nebo shakshuka. Snídaně, které stihneš ráno, i ty na víkend.',
+    'Ovesná kaše, granola, vejce Benedikt, french toast nebo shakshuka. Snídaně na pracovní ráno i na lenivý víkend.',
     'U každého receptu je vidět, kolik minut zabere práce a kolik vaření.',
   ],
 };
@@ -104,7 +104,7 @@ export async function RECIPE_HUBS(): Promise<Hub[]> {
       title: 'Rychlé recepty do 30 minut včetně vaření',
       description: `${quick.length} receptů, které jsou hotové do 30 minut včetně vaření a čekání. S nákupním seznamem a přepočtem porcí.`,
       intro: [
-        'Sem patří jen recepty, u kterých je celkový čas včetně vaření a čekání nejvýš 30 minut. Kynutí ani marinování přes noc tu nenajdeš.',
+        'Sem patří jen recepty, které jsou hotové nejpozději za 30 minut včetně vaření a čekání. Kynutí ani marinování přes noc tu nenajdeš, to je jiná liga trpělivosti.',
         'Čas počítáme od chvíle, kdy máš suroviny na lince. Nákup do něj nepatří, na ten je nákupní seznam.',
       ],
       recipes: quick.sort((a, b) => totalMinutes(a) - totalMinutes(b)),
@@ -118,7 +118,7 @@ export async function RECIPE_HUBS(): Promise<Hub[]> {
       title: 'Recepty bez masa – vegetariánská jídla na doma',
       description: `${veg.length} vegetariánských receptů napříč kuchyněmi: pizza, těstoviny, kari, bowly, palačinky i dezerty.`,
       intro: [
-        'Všechny recepty bez masa a ryb na jednom místě, napříč kuchyněmi. Některé obsahují sýr, vejce nebo máslo, veganské jsou označené zvlášť.',
+        'Všechny recepty bez masa a ryb na jednom místě, napříč kuchyněmi. Některé obsahují sýr, vejce nebo máslo, veganské jsou označené zvlášť, ať nikdo nehádá.',
         'Parmazán a některé další tvrdé sýry se vyrábějí se syřidlem živočišného původu. Kdo to řeší, najde v receptech náhrady.',
       ],
       recipes: veg,

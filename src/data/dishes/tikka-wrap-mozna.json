@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Pouliční jídlo",
   "price": 16900,
-  "description": "Grilované kuře tikka s hustou masala omáčkou, červenou cibulí a koriandrem, zabalené v naanu.",
+  "description": "Grilované kuře tikka v husté masale s červenou cibulí a koriandrem, zabalené v teplém naanu.",
   "about": [
     "Tikka masala do ruky. Grilované kousky kuřete se obalí v hustě svařené omáčce, aby netekla, a zabalí se do teplého naanu s cibulí a koriandrem.",
-    "Doma stačí omáčku vařit o pár minut déle a nemixovat ji. Na naan je samostatný recept, kuře se peče pod grilem stejně jako na talíř."
+    "Doma stačí omáčku vařit o pár minut déle a nemixovat ji. Na naan je samostatný recept, kuře se peče pod grilem stejně jako na talíř. Přežije i bez příboru."
   ],
   "recipe": "kure-tikka-masala",
   "recipeNote": "Recept je na kari s rýží; omáčku svař hustší a zabal maso do naanu.",

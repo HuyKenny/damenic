@@ -26,7 +26,7 @@ export default function SearchPage() {
         <span class="sr-only">Hledat</span>
         <input type="search" value={q} onInput={(e) => setQ(e.currentTarget.value)} placeholder="Pizza, svíčková, sushi…" autofocus />
       </label>
-      {q.trim().length >= 2 && index && !results.length && <p class="muted" style="margin-top:16px">Na „{q.trim()}“ nemáme nic. Zkus jiné slovo.</p>}
+      {q.trim().length >= 2 && index && !results.length && <p class="muted" style="margin-top:16px">Na „{q.trim()}“ nemáme nic. Což je u nás vlastně běžný stav. Zkus jiné slovo.</p>}
       {groups.map((g) => (
         <section key={g.t} style="margin-top:20px">
           <h2 style="font-size:1.125rem">{TYPE_LABEL[g.t]}</h2>

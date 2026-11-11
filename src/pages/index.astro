@@ -15,11 +15,11 @@ const hrnec = brand('il-hrnec')!;
 const taska = brand('il-prazdna-taska')!;
 const byOrder = [...summaries].sort((a, b) => a.order - b.order);
 const rails = [
-  { id: 'rychle', title: 'Doručí do 25 minut', note: 'Simulovaně, samozřejmě.', items: byOrder.filter((r) => r.etaMinutes <= 25), more: '/restaurace/?do=30' },
-  { id: 'zdarma', title: 'Dopravné 0 Kč', note: 'Nic za nic. Doslova.', items: byOrder.filter((r) => r.freeDelivery), more: '/restaurace/?doprava=0' },
-  { id: 'nove', title: 'Nově na DámeNic', note: 'Čerstvě smyšlené podniky.', items: byOrder.filter((r) => r.isNew), more: '/restaurace/?nove' },
-  { id: 'akce', title: 'Akce týdne', note: 'Slevy na neexistující jídlo.', items: byOrder.filter((r) => r.promoLabel), more: '/restaurace/?akce' },
-  { id: 'bezmasa', title: 'Bez masa', note: 'Vegetariánské i veganské.', items: byOrder.filter((r) => r.tags.includes('bez masa') || r.category === 'vegetarianska'), more: '/restaurace/?dieta=bez%20masa' },
+  { id: 'rychle', title: 'Doručí do 25 minut', note: 'Rychlé. Do ničeho se tu nezdržíš.', items: byOrder.filter((r) => r.etaMinutes <= 25), more: '/restaurace/?do=30' },
+  { id: 'zdarma', title: 'Dopravné 0 Kč', note: 'Zadarmo je i to, co nepřijede. Tedy všechno.', items: byOrder.filter((r) => r.freeDelivery), more: '/restaurace/?doprava=0' },
+  { id: 'nove', title: 'Nově na DámeNic', note: 'Ještě voní novým nic.', items: byOrder.filter((r) => r.isNew), more: '/restaurace/?nove' },
+  { id: 'akce', title: 'Akce týdne', note: 'Sleva z ničeho je pořád nic. Ale vypadá skvěle.', items: byOrder.filter((r) => r.promoLabel), more: '/restaurace/?akce' },
+  { id: 'bezmasa', title: 'Bez masa', note: 'Zelenina, luštěniny a jedno velké nic.', items: byOrder.filter((r) => r.tags.includes('bez masa') || r.category === 'vegetarianska'), more: '/restaurace/?dieta=bez%20masa' },
 ].filter((r) => r.items.length >= 2);
 // Recipe row: the most searched dishes first (keyword order is set in the content).
 const recipePick = Object.keys(CATEGORY_LABELS)
@@ -40,7 +40,7 @@ const jsonld = [
 ];
 ---
 
-<Base title="DámeNic – rozvoz jídla nanečisto a recepty na doma" description={SITE.description} jsonld={jsonld}>
+<Base title="DámeNic – rozvoz jídla nanečisto. Nic nepřijede, recept ano" description={SITE.description} jsonld={jsonld}>
   <section class="hero2">
     <div class="wrap hero2__in">
       <div class="hero2__text">
@@ -76,15 +76,15 @@ const jsonld = [
 
   <section class="wrap banners" aria-label="Akce">
     <a class="banner banner--red" href="/restaurace/?doprava=0">
-      <span><strong>Dopravné 0 Kč</strong> u {summaries.filter((r) => r.freeDelivery).length} restaurací. Neplatíš ani za jídlo.</span>
+      <span><strong>Dopravné 0 Kč</strong> u {summaries.filter((r) => r.freeDelivery).length} restaurací. Zadarmo i jídlo, protože žádné nebude.</span>
       <Image src={taska} alt="" width={140} widths={[140, 280]} sizes="140px" />
     </a>
     <a class="banner banner--yellow" href="/restaurace/?akce">
-      <span><strong>Slevy až −20 %</strong> na všechno, co nepřijede.</span>
+      <span><strong>Slevy až −20 %</strong> na všechno, co k tobě nikdy nedojede.</span>
       <span class="sticker sticker--big" aria-hidden="true">−20 %</span>
     </a>
     <a class="banner banner--pink" href="/recepty/">
-      <span><strong>Uvař si to doopravdy.</strong> {recipes.length} receptů s nákupním seznamem.</span>
+      <span><strong>Hlad je skutečný, tak vař.</strong> {recipes.length} receptů s nákupním seznamem.</span>
       <Image src={hrnec} alt="" width={140} widths={[140, 280]} sizes="140px" />
     </a>
   </section>
@@ -114,7 +114,7 @@ const jsonld = [
     <div class="section__head">
       <div>
         <h2 id="h-vse">Restaurace</h2>
-        <p>Výběr z nabídky. Všechny jsou smyšlené, časy, dopravné, minima i akce patří k simulaci.</p>
+        <p>Adresy, které na mapě nenajdeš. Časy, dopravné i slevy patří ke hře.</p>
       </div>
       <a class="section__more" href="/restaurace/">Filtry a řazení <Icon name="arrow" size={18} /></a>
     </div>
@@ -130,7 +130,7 @@ const jsonld = [
     <div class="section__head">
       <div>
         <h2 id="h-recepty">Recepty na doma</h2>
-        <p>Fungují i bez objednávky. S poctivými časy, přepočtem porcí a nákupním seznamem.</p>
+        <p>Tahle část není vtip. Poctivé časy, přepočet porcí a nákupní seznam. Jí se doopravdy.</p>
       </div>
       <a class="section__more" href="/recepty/">Všechny recepty <Icon name="arrow" size={18} /></a>
     </div>
@@ -148,10 +148,10 @@ const jsonld = [
       <a class="section__more" href="/jak-to-funguje/">Podrobně <Icon name="arrow" size={18} /></a>
     </div>
     <ol class="how">
-      <li><h3>Vybereš si</h3><p>Filtry, kuchyně, akce a menu jako v rozvozové aplikaci. Restaurace jsou smyšlené.</p></li>
-      <li><h3>Zaplatíš nanečisto</h3><p>Pokladna nechce kartu, jméno ani adresu. Simulovaná hodnota je vidět, skutečně platíš 0 Kč.</p></li>
-      <li><h3>Sleduješ kurýra</h3><p>Smyšlený kurýr jede po ilustrační mapě s prázdnou taškou. Doručí přesně nic.</p></li>
-      <li><h3>Uvaříš si doopravdy</h3><p>K jídlu dostaneš skutečný recept, odhad nákladů a nákupní seznam.</p></li>
+      <li><h3>Vybereš si</h3><p>Filtry, kuchyně, akce a menu jako v pravé rozvozové aplikaci. Jen restaurace nikdy nikdo nepostavil.</p></li>
+      <li><h3>Zaplatíš nanečisto</h3><p>Pokladna se na kartu, jméno ani adresu neptá. Hodnota objednávky je vidět, platíš 0 Kč. Nejlevnější večeře v republice.</p></li>
+      <li><h3>Sleduješ kurýra</h3><p>Smyšlený kurýr jede po ilustrační mapě s prázdnou taškou. Odpočet je skutečný, doručení ne.</p></li>
+      <li><h3>Uvaříš si doopravdy</h3><p>Dostaneš skutečný recept, odhad nákladů a nákupní seznam. Konečně něco, co se dá sníst.</p></li>
     </ol>
   </section>
 </Base>

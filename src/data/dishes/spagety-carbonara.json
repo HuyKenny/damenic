@@ -5,10 +5,10 @@
   "recipe": "spagety-carbonara",
   "vegetarian": false,
   "order": 40,
-  "description": "Špagety s omáčkou z vajec, tvrdého sýra a opečené slaniny. Bez smetany.",
+  "description": "Špagety s omáčkou z vajec, tvrdého sýra a opečené slaniny. Bez smetany a bez omluvy.",
   "about": [
     "Carbonara nevzniká vařením omáčky, ale teplem těstovin. Vejce se sýrem se vmíchají mimo plotnu a zhoustnou do krému. Smetana v ní nemá co dělat.",
-    "Originál používá guanciale a pecorino. Naše domácí verze počítá se slaninou a parmazánem, protože ty seženeš v každém obchodě."
+    "Originál používá guanciale a pecorino. Naše domácí verze počítá se slaninou a parmazánem, protože ty seženeš v každém obchodě. Do hrnce si kupuješ sám."
   ],
   "optionGroups": [
     {

@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Kari",
   "price": 22900,
-  "description": "Kuřecí stehna marinovaná v jogurtu, opečená a dušená v hladké rajčatové omáčce s máslem a smetanou. S rýží basmati.",
+  "description": "Kuřecí stehna z jogurtové marinády, opečená a dušená v sametové omáčce z rajčat, másla a smetany. S basmati.",
   "about": [
-    "Butter chicken je kari, které nepálí, ale hřeje. Kuře se nejdřív hodinu naloží do jogurtu s kořením, pak se prudce opeče a teprve potom dojde v omáčce z rajčat, másla a smetany. Omáčka má být sametová a lehce nasládlá.",
-    "V simulaci si vybereš přílohu a pálivost. Doma rozhoduje trpělivost u omáčky: rajčata se musí provařit, než přijde na řadu smetana, jinak zůstanou kyselá."
+    "Tohle kari nepálí, jen hřeje. Kuře se hodinu naloží do jogurtu s kořením, pak se prudce opeče a teprve potom dojde v omáčce z rajčat, másla a smetany. Omáčka má být sametová a lehce nasládlá.",
+    "V simulaci si vybereš přílohu a pálivost. Doma rozhoduje trpělivost u omáčky: rajčata se musí provařit, než přijde na řadu smetana, jinak zůstanou kyselá. Smetana přijde, až rajčata dozrají."
   ],
   "recipe": "butter-chicken",
   "image": "dish-butter-chicken",

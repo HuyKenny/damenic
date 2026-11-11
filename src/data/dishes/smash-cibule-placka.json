@@ -3,10 +3,10 @@
   "restaurant": "placka-nikam",
   "kind": "main",
   "section": "Smash burgery",
-  "description": "Jedna placka s tence nakrájenou cibulí vmáčknutou do masa, která se na plotně opeče dosladka, plátek cheddaru, hořčice a okurky.",
+  "description": "Jedna placka masa s cibulí vmáčknutou do povrchu, na plotně dosladka opečená, plátek cheddaru, hořčice a okurky.",
   "about": [
-    "Varianta podle starých amerických stánků. Na rozmačkanou placku přitiskneme hrst velmi tence nakrájené cibule, a když maso obrátíme, cibule se opeče v jeho tuku.",
-    "Je to menší burger, jedna placka stačí na lehčí oběd. Doma cibuli krájej co nejtenčeji, jinak se nestihne opéct."
+    "Varianta podle starých amerických stánků. Na rozmačkanou placku se přitiskne hrst velmi tence nakrájené cibule a po obrácení se cibule opeče v tuku z masa.",
+    "Je to menší burger, jedna placka stačí na lehčí oběd. Doma krájej cibuli co nejtenčeji, jinak se nestihne opéct a zůstane syrová."
   ],
   "price": 18900,
   "image": "dish-smash-cibule-placka",

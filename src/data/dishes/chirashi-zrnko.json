@@ -3,10 +3,10 @@
   "restaurant": "sushi-bez-zrnka",
   "kind": "main",
   "section": "Misky a teplá jídla",
-  "description": "Ochucená sushi rýže v misce s plátky lososa k syrové konzumaci, avokádem, okurkou, nori a sezamem.",
+  "description": "Miska ochucené sushi rýže, plátky lososa k syrové konzumaci, avokádo, okurka, nori a sezam. Sushi bez rolování.",
   "about": [
     "Chirashi je sushi bez rolování: ochucená rýže v misce a na ní rozložená ryba a zelenina. Na domácí přípravu je to nejrychlejší cesta k chuti sushi.",
-    "Všechno stojí na rýži, proto k misce patří recept právě na ni. Lososa krájej proti vláknu na plátky silné asi 5 mm."
+    "Všechno stojí na rýži, proto k misce patří recept právě na ni. Lososa krájej proti vláknu na plátky silné asi 5 mm. Rolovat se nic nemusí."
   ],
   "price": 24900,
   "image": "dish-chirashi-zrnko",

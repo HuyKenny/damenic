@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Shawarma",
   "price": 16900,
-  "description": "Kořeněné mleté hovězí v tortille s ledovým salátem, rajčaty, cibulí se sumahem a jogurtovou omáčkou.",
+  "description": "Kořeněné mleté hovězí v tortille s ledovým salátem, rajčaty, sumahovou cibulí a jogurtovou omáčkou.",
   "about": [
-    "Rychlé jídlo z mletého masa a koření se skořicí, které připomíná arabské sendviče. Maso se opeče, zabalí s křupavou zeleninou a jogurtem.",
-    "Cibule promíchaná se sumahem a petrželkou je to, co wrap odlišuje od běžného dürümu."
+    "Rychlé jídlo z mletého masa a koření se skořicí, které připomíná arabské sendviče. Maso se opeče, zabalí s křupavou zeleninou a jogurtem a už se jí.",
+    "Cibule promíchaná se sumahem a petrželkou je to, co wrap odlišuje od běžného dürümu. Kyselost, která z obyčejného zabalení dělá něco navíc."
   ],
   "recipe": "hovezi-durum",
   "image": "dish-hovezi-wrap-misa",

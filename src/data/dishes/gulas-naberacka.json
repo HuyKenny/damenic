@@ -3,10 +3,10 @@
   "restaurant": "prazdna-naberacka",
   "kind": "main",
   "section": "Hustší jídla",
-  "description": "Hovězí kližka dušená na cibuli a paprice do husté omáčky, podávaná v misce se dvěma krajíci chleba.",
+  "description": "Hovězí kližka dušená na cibuli a paprice do husté omáčky, v misce a se dvěma krajíci chleba na vytírání.",
   "about": [
-    "Guláš je polévka, která se rozhodla být hlavním jídlem. Kližka se dusí na velkém množství cibule, dokud se cibule úplně nerozpadne a omáčku nezahustí sama, bez mouky.",
-    "V polévkárně ho dáváme do misky, protože se tu všechno jí lžící. Chléb je na vytírání; knedlík je možný, ale musíš si ho přiobjednat a pak si ho stejně uvařit."
+    "Guláš je polévka, která se rozhodla být hlavním jídlem. Kližka se dusí na hromadě cibule, dokud se cibule úplně nerozpadne a omáčku sama zahustí, bez mouky.",
+    "V polévkárně ho dáváme do misky, protože se tu všechno jí lžící. Chléb je na vytírání, knedlík je možný, ale musíš si ho přiobjednat a pak ještě sám uvařit."
   ],
   "price": 17900,
   "image": "dish-gulas-naberacka",

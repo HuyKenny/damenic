@@ -5,8 +5,8 @@
   "section": "Koláče a buchty",
   "description": "Kynutý koláč z plechu s vanilkovým tvarohem, citronovou kůrou a máslovou drobenkou.",
   "about": [
-    "Tvarohový koláč z plechu je pečivo, které se krájí na velké čtverce a jí se ještě ten den. Kynuté těsto má být měkké a tenké, tvarohu má být víc než těsta a drobenka nahoře má křupat, ne se sypat jako písek.",
-    "V simulaci si vybereš počet kusů a jestli chceš rozinky. Doma rozhoduje hlavně tvaroh: když je vlhký, nech ho okapat, jinak náplň uteče do těsta."
+    "Tvarohový koláč z plechu se krájí na velké čtverce a jí se ještě ten den, dokud je měkký. Kynuté těsto má být tenké, tvarohu víc než těsta a drobenka nahoře má křupat, ne se sypat jako písek.",
+    "V simulaci vybereš počet kusů a rozinky. Doma rozhoduje tvaroh: když je vlhký, nech ho okapat, jinak náplň uteče do těsta."
   ],
   "price": 6900,
   "image": "dish-tvarohovy-kolac",

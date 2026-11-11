@@ -3,10 +3,10 @@
   "restaurant": "jidelna-zitra-mozna",
   "kind": "main",
   "section": "Sladké jídlo",
-  "description": "Kynuté knedlíky s celou švestkou uvnitř, sypané tvarohem a moučkovým cukrem a přelité rozpuštěným máslem.",
+  "description": "Kynuté knedlíky s celou švestkou uvnitř, sypané tvarohem a moučkovým cukrem a zalité rozpuštěným máslem.",
   "about": [
-    "Sladké jídlo k obědu je v české jídelně normální a švestkové knedlíky jsou jeho vrchol. Kynuté těsto se obalí kolem vypeckované švestky, nechá se dokynout a vaří se pod poklicí, aby nahoře nezůstalo syrové.",
-    "Po vyndání se hned propíchnou, aby nesplaskly. Tvaroh, cukr a máslo jsou základ, mák nebo perník si může každý vybrat podle sebe."
+    "Sladké jídlo k obědu je v české jídelně normální a švestkové knedlíky jsou jeho vrchol. Kynuté těsto se obalí kolem vypeckované švestky, dokyne a vaří se pod poklicí, aby nahoře nezůstalo syrové.",
+    "Po vyndání se hned propíchnou, aby nesplaskly. Tvaroh, cukr a máslo jsou základ, mák nebo perník si každý přidá podle chuti. Oběd, který se tváří jako dezert."
   ],
   "price": 14900,
   "image": "dish-ovocne-knedliky",

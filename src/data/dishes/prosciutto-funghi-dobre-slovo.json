@@ -3,10 +3,10 @@
   "restaurant": "pizzerie-na-dobre-slovo",
   "kind": "main",
   "section": "Pizza rossa",
-  "description": "Rajčata, mozzarella, dušená šunka a plátky čerstvých žampionů, s kapkou olivového oleje.",
+  "description": "Rajčata, mozzarella, dušená šunka a plátky čerstvých žampionů s kapkou olivového oleje.",
   "about": [
-    "Šunka a žampiony jsou nejobjednávanější kombinace v každé pizzerii, i v té, která neexistuje. V Neapoli se jí říká prosciutto e funghi a šunka je vařená, ne sušená.",
-    "Žampiony krájej na tenko a nesmaž je dopředu. Na pizze se upečou samy a nepustí tolik vody, kolik by se zdálo."
+    "Šunka a žampiony: kombinace, kterou zná každá pizzerie, i ta, která neexistuje. V Neapoli se jí říká prosciutto e funghi a šunka je vařená, ne sušená.",
+    "Žampiony krájej na tenko a nesmaž je dopředu. Na pizze se upečou samy a nepustí tolik vody, kolik by se zdálo. Méně práce, víc chuti."
   ],
   "price": 21900,
   "image": "dish-prosciutto-funghi-dobre-slovo",

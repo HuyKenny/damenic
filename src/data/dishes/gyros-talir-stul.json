@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Talíře",
   "price": 24900,
-  "description": "Velká porce vepřového gyrosu s hranolky, tzatziki, rajčaty, cibulí a nahřátou pitou zvlášť.",
+  "description": "Hromada vepřového gyrosu s hranolky, tzatziki, rajčaty a cibulí, nahřátá pita zvlášť.",
   "about": [
     "Talíř pro ty, kdo nechtějí jíst z ruky. Maso, hranolky a zelenina leží vedle sebe, tzatziki v misce a pita nakrájená na trojúhelníky k nabírání.",
-    "Masa je víc než v pitě. Doma podle receptu nakrájíš a opečeš celou krkovici a rozdělíš ji, jak se ti hodí."
+    "Masa je víc než v pitě. Doma podle receptu nakrájíš a opečeš celou krkovici a rozdělíš ji, jak se ti hodí. Ruce zůstanou čisté, talíř ne."
   ],
   "recipe": "gyros",
   "image": "dish-gyros-talir-stul",

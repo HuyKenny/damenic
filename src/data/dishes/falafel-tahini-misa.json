@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Shawarma",
   "price": 15900,
-  "description": "Smažené cizrnové placičky s petrželkou a kmínem v pitě, s tahini omáčkou, rajčaty, okurkou a červeným zelím.",
+  "description": "Falafel v pitě: smažené cizrnové placičky s petrželkou a kmínem, tahini, rajčata, okurka a červené zelí.",
   "about": [
-    "Falafel je v Libanonu stejně samozřejmý jako shawarma. Cizrnová směs s petrželkou, cibulí a kořením se tvaruje do placiček a smaží dokřupava.",
-    "Bez masa a bez mléčných výrobků, omáčka je čistě z tahini, citronu a česneku. Uvnitř zůstává zelený a vláčný, venku křupe."
+    "V Libanonu je falafel stejně samozřejmý jako shawarma. Cizrnová směs s petrželkou, cibulí a kořením se tvaruje do placiček a smaží dokřupava.",
+    "Je bez masa i mléčných výrobků, omáčka je z tahini, citronu a česneku. Uvnitř zelený a vláčný, venku křupe."
   ],
   "recipe": "falafel-v-pite",
   "image": "dish-falafel-tahini-misa",

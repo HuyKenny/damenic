@@ -113,13 +113,13 @@ export default function CartView({ variant }: Props) {
       <div class="cartbox cartbox--empty">
         <EmptyBagArt />
         <h2>Košík je prázdný</h2>
-        <p class="muted">Přidej jídlo plusem u položky. Nic se ti nestane.</p>
+        <p class="muted">Přidej jídlo plusem u položky. Nic se ti nestane, ani kdybys přidal všechno.</p>
       </div>
     ) : (
       <div class="empty" data-testid="cart-empty">
         <EmptyBagArt />
         <h2>Košík je prázdný</h2>
-        <p>Což je vlastně náš obvyklý stav po doručení. Vyber si jídlo a objednej ho nanečisto.</p>
+        <p>Taška je lehká jako slib. Vyber si jídlo a objednej ho nanečisto.</p>
         <a class="btn" href="/restaurace/">
           Vybrat jídlo
         </a>

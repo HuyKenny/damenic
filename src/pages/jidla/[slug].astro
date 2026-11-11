@@ -58,7 +58,7 @@ const others = (await allDishes()).filter((x) => x.data.restaurant.id === restau
               <>
                 <h2>Uvařit doma</h2>
                 <p>
-                  Tohle jídlo nepřijede, ale dá se uvařit. Recept <a href={`/recepty/${recipe.id}/`}>{recipe.data.title}</a> je na {recipe.data.servings}{' '}
+                  Tohle jídlo nepřijede. Dá se ale uvařit, a to je lepší zpráva. Recept <a href={`/recepty/${recipe.id}/`}>{recipe.data.title}</a> je na {recipe.data.servings}{' '}
                   {recipe.data.servings < 5 ? 'porce' : 'porcí'} a zabere celkem {formatDuration(totalMinutes(recipe))}, z toho {formatDuration(recipe.data.activeMinutes)} vlastní
                   práce.
                   {perServing !== null && ` Suroviny na jednu porci odhadujeme zhruba na ${formatCzk(roundToCrown(perServing))} (ilustrační ceny).`}

@@ -3,10 +3,10 @@
   "restaurant": "zitra-upecem",
   "kind": "main",
   "section": "Cheesecaky",
-  "description": "Vysoký pečený cheesecake ze smetanového sýra a zakysané smetany na sušenkovém korpusu.",
+  "description": "Vysoký pečený cheesecake ze smetanového sýra a zakysané smetany na sušenkovém korpusu. Hutný, krémový, bez přehánění.",
   "about": [
-    "Newyorský cheesecake je hutný, krémový a nesladí přes míru. Peče se pomalu a dlouho chladne, takže se nedá udělat na poslední chvíli; v cukrárnách se proto peče den předem.",
-    "Můžeš si vzít kousek nebo celý dort. Doma pomáhá plech s horkou vodou pod formou, vlhko v troubě snižuje riziko prasknutí."
+    "Newyorský cheesecake je hutný, krémový a nesladí přes míru. Peče se pomalu a dlouho chladne, takže ho na poslední chvíli neuděláš. V cukrárnách se proto peče den předem.",
+    "Dá se vzít kousek i celý dort. Doma pomáhá plech s horkou vodou pod formou, vlhko v troubě snižuje riziko prasknutí. Dort, který se ti dívá do očí a nepraskne, je malé vítězství."
   ],
   "price": 12900,
   "image": "dish-cheesecake-upecem",

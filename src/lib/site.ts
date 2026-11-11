@@ -5,7 +5,7 @@ export const SITE = {
   claim: 'Objednej si na chuť. Uvař si doopravdy.',
   simNotice: 'Simulace rozvozu. Žádné skutečné platby ani doručení.',
   description:
-    'DámeNic je simulátor rozvozu jídla: vybereš si, objednáš nanečisto a sleduješ kurýra, který nic nepřiveze. K tomu skutečné recepty a nákupní seznam.',
+    'Rozvoz jídla, který nic nepřiveze: smyšlené restaurace, objednávka nanečisto za 0 Kč a kurýr s prázdnou taškou. A skutečné recepty, ať nezůstaneš o hladu.',
 } as const;
 
 export const CATEGORY_LABELS: Record<string, { label: string; lead: string }> = {

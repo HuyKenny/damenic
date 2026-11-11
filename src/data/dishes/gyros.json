@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Gyros",
   "price": 17900,
-  "description": "Opečené proužky marinované vepřové krkovice v pitě s tzatziki, rajčaty, červenou cibulí a pár hranolky.",
+  "description": "Gyros v pitě: opečená marinovaná vepřová krkovice, tzatziki, rajčata, červená cibule a hranolky uvnitř.",
   "about": [
-    "Řecký gyros je z vepřového a s oreganem, ne s kmínem. Krkovice se dvě hodiny naloží do citronu, česneku, oregana a papriky a pak se po tenkých proužcích opeče tak, aby měla tmavé křupavé okraje.",
-    "Hranolky uvnitř pity nejsou omyl, v Řecku tam patří. Tzatziki drží všechno pohromadě a chladí."
+    "Řecký gyros je vepřový a s oreganem, ne s kmínem, a na tom se nesmlouvá. Krkovice se dvě hodiny nakládá do citronu, česneku, oregana a papriky a pak se po tenkých proužcích opéká do tmavých křupavých okrajů.",
+    "Hranolky v pitě nejsou omyl, v Řecku tam patří. Tzatziki drží všechno pohromadě."
   ],
   "recipe": "gyros",
   "image": "dish-gyros",

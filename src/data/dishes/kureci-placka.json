@@ -3,10 +3,10 @@
   "restaurant": "placka-nikam",
   "kind": "main",
   "section": "Další burgery",
-  "description": "Kuřecí stehenní řízek naložený v jogurtu a osmažený v kořeněné mouce, coleslaw a okurky v opečené bulce.",
+  "description": "Kuřecí stehenní řízek z jogurtu osmažený v kořeněné mouce, s coleslaw a okurkami v opečené bulce.",
   "about": [
-    "Jediný burger bez hovězího v téhle sekci. Kuře nakládáme do jogurtu s paprikou, aby bylo šťavnaté, a obalujeme ho v mouce se škrobem pro hrubou křupavou kůrku.",
-    "Coleslaw je tentýž, který prodáváme jako přílohu, jen nakrouhaný jemněji, aby nevypadával."
+    "Jediný burger bez hovězího v téhle sekci. Kuře se nakládá v jogurtu s paprikou, aby bylo šťavnaté, a obaluje se v mouce se škrobem pro hrubou, křupavou kůrku.",
+    "Coleslaw je tentýž jako příloha, jen nakrouhaný jemněji, aby z bulky nevypadával. Kdo ho jednou ochutná, přestane závidět hovězímu."
   ],
   "price": 21900,
   "image": "dish-kureci-placka",

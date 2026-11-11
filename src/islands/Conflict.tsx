@@ -13,7 +13,7 @@ export function Conflict({ open, current, next, onKeep, onReplace }: Props) {
   return (
     <Dialog open={open} title="Začít nový košík?" onClose={onKeep}>
       <p>
-        V košíku máš jídlo z restaurace <strong>{current}</strong>. Jedna simulovaná objednávka může být jen z jedné restaurace.
+        V košíku už čeká jídlo z restaurace <strong>{current}</strong>. Kurýr s jednou taškou stihne jen jednu restauraci.
       </p>
       <p>
         Když budeš pokračovat, košík se vyprázdní a přidá se položka z restaurace <strong>{next}</strong>.

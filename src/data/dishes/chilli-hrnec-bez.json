@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Chilli a pánve",
   "price": 64900,
-  "description": "Velký hrnec chilli con carne bez přílohy, se zakysanou smetanou a koriandrem. Na celou rodinu nebo na tři dny.",
+  "description": "Velký hrnec chilli con carne bez přílohy, se zakysanou smetanou a koriandrem. Na rodinu, nebo na tři dny.",
   "about": [
-    "Rodinné balení chilli, které se doma dělá přesně v tomhle množství. Recept je na čtyři až pět porcí a druhý den chutná ještě lépe.",
-    "Přílohu si každý vybere sám: chléb, rýži, tortilly nebo chipsy. V simulaci přijde jen hrnec, a ten taky ne."
+    "Rodinné chilli v množství, v jakém se vaří doma. Recept je na čtyři až pět porcí a druhý den chutná ještě lépe.",
+    "Přílohu si každý vybere sám: chléb, rýži, tortilly nebo chipsy. V simulaci by přišel jen hrnec, a ten stejně nepřijede."
   ],
   "recipe": "chilli-con-carne",
   "image": "dish-chilli-hrnec-bez",

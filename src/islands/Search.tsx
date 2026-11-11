@@ -46,7 +46,7 @@ export default function Search() {
         <span class="sr-only">Hledat restauraci, jídlo nebo kuchyni</span>
         <input
           type="search"
-          placeholder="Hledat jídlo nebo restauraci"
+          placeholder="Na co máš chuť?"
           autocomplete="off"
           enterkeyhint="search"
           role="combobox"

@@ -62,6 +62,13 @@ content-visibility on home rails, stable default order on hydration, reserved he
 - Mail delivery: Cloudflare Email Routing (info@ → napis@sbalit.cz) is set up by
   `scripts/damenic/email-routing.py` in the workspace; run by Kenny (DNS change).
 
+## v2.3 (2026-11-11): copywriting pass (Kenny: "mega kreativní")
+- Voice guide in `COPY_GUIDE.md`: pointa na konci, kontrast hlad × nic, tykání, simulace vždy zřejmá, recepty jako fakta.
+- Rewritten: SITE description, home (rails, banners, sections, steps), footer, how-it-works, about, cart/checkout/state pages,
+  recipe hub intros, finale, 439 dish descriptions + `about` texts and 44 restaurant descriptions (agents drafted, applied
+  with `json.dumps` literal swaps so file formatting stays; validator still requires "smyšlen/fiktivn" in restaurant text).
+- Frozen strings (tests): sim notice, "Objednat nanečisto za 0 Kč", finale line "DámeNic doručilo přesně to, co slíbilo. Nic.".
+
 ## v1 (2026-11-10)
 ## Done (code written)
 - Catalogue: 6 fictional restaurants, 30 main dishes with options, sides and drinks, 30 recipes, 160 ingredients with illustrative prices.

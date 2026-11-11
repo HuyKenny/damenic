@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Biryani",
   "price": 21900,
-  "description": "Rýže basmati vrstvená s kořeněným kuřetem a smaženou cibulí, k tomu jogurtová raita s okurkou.",
+  "description": "Kuřecí biryani: basmati vrstvená s kořeněným kuřetem a smaženou cibulí, k tomu chladivá raita s okurkou.",
   "about": [
-    "Biryani je jídlo, kvůli kterému se sem chodí, kdyby se sem dalo chodit. Rýže a kuře se nevaří spolu, ale vrství a dodušují v páře, takže každé zrno nasákne vůni koření a cibule.",
-    "Raita k tomu není ozdoba. Chladný jogurt s okurkou vyvažuje kořenitost a pálivost a dělá z biryani celé jídlo."
+    "Biryani se nevaří v jednom hrnci, ale skládá do vrstev jako dort, jen voňavější. Rýže a kuře se nemíchají, dodušují se spolu v páře, takže každé zrno nasákne koření a smaženou cibuli.",
+    "Raita není ozdoba. Chladný jogurt s okurkou vyvažuje koření a pálivost a dělá z biryani celé jídlo."
   ],
   "recipe": "biryani",
   "recipeNote": "Raitu udělej z bílého jogurtu, nastrouhané okurky, kmínu a soli.",

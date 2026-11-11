@@ -3,10 +3,10 @@
   "restaurant": "vycep-zitra",
   "kind": "main",
   "section": "Hlavní jídla",
-  "description": "Zelené papriky plněné směsí hovězího a vepřového masa s rýží, vařené ve sladkokyselé rajské omáčce.",
+  "description": "Zelené papriky plněné hovězím a vepřovým s rýží, vařené ve sladkokyselé rajské omáčce.",
   "about": [
     "Plněné papriky jsou letní hospodské jídlo, které se vaří ve velkém hrnci a voní po celém domě. Náplň je jednoduchá: dvě mletá masa, předvařená rýže, cibule a vejce. Papriky se do omáčky kladou otvorem nahoru a vaří se pomalu, aby nepopraskaly.",
-    "Omáčka se dochucuje až na konci cukrem a octem, protože papriky do ní pustí vlastní šťávu. Kuličky z náplně, které se do paprik nevešly, se vaří s nimi a k jídlu patří stejně jako papriky."
+    "Omáčka se dochucuje až na konci cukrem a octem, protože papriky do ní pustí vlastní šťávu. Kuličky z náplně, které se do paprik nevešly, se vaří s nimi a k jídlu patří stejně jako papriky. Nic se tu nevyhazuje."
   ],
   "price": 20900,
   "image": "dish-plnene-papriky",

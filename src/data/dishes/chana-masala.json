@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Kari",
   "price": 18900,
-  "description": "Cizrna v husté rajčatovo-cibulové omáčce s kmínem, zázvorem a garam masalou. S rýží basmati, bez živočišných surovin.",
+  "description": "Cizrna v husté rajčatovo-cibulové omáčce s kmínem, zázvorem a garam masalou. S basmati, bez živočišných surovin.",
   "about": [
     "Chana masala je každodenní kari severní Indie. Cizrna se vaří v omáčce z dozlatova opečené cibule, rajčat a koření tak dlouho, až nasákne a část se rozpadne a omáčku zahustí.",
-    "Bez masa, bez smetany a bez másla, a přesto syté. V simulaci ho dostaneš s rýží; s naanem už veganské není, protože placky jsou s jogurtem."
+    "Bez masa, bez smetany a bez másla, a přesto syté. V simulaci ho dostaneš s rýží; s naanem už veganské není, protože placky jsou s jogurtem. Sytost je tu tedy čistě rostlinná."
   ],
   "recipe": "chana-masala",
   "image": "dish-chana-masala",

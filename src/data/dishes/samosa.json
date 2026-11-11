@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Pouliční jídlo",
   "price": 12900,
-  "description": "Čtyři smažené taštičky z křehkého těsta s kořeněnými bramborami, hráškem a koriandrem. S tamarindovým nebo mátovým dipem.",
+  "description": "Čtyři smažené taštičky z křehkého těsta s kořeněnými bramborami, hráškem a koriandrem, s tamarindovým nebo mátovým dipem.",
   "about": [
-    "Samosa je indická svačina z ulice: křehké těsto bez droždí, náplň z rozmačkaných brambor s hráškem, zázvorem a chilli a pomalé smažení, které z ní udělá křupavý trojúhelník.",
-    "Těsto i náplň jsou bez živočišných surovin. Doma je nejpracnější tvarování, ale po třetím kusu už to jde samo."
+    "Samosa je indická pouliční svačina: křehké těsto bez droždí, náplň z rozmačkaných brambor s hráškem, zázvorem a chilli a pomalé smažení, které z ní udělá křupavý trojúhelník.",
+    "Těsto i náplň jsou bez živočišných surovin. Doma je nejpracnější tvarování, ale po třetím kusu už to jde samo. Čtvrtá taštička je rutina."
   ],
   "recipe": "samosa",
   "image": "dish-samosa",

@@ -37,6 +37,8 @@ Read results with `gh run view --repo HuyKenny/damenic`, download screenshots wi
   (`src/pages/sitemap-*.xml.ts`, git lastmod, recipe images), one indexed dish page per recipe (`primaryDishForRecipe`).
 - Tests pin the browser clock to Prague noon (`atNoon`) because restaurants have opening hours.
 
+Voice: `COPY_GUIDE.md` (creative, simulation always obvious, recipes are facts). Restaurant descriptions must contain "smyšlen" or "fiktivn" (validator).
+
 ## Architecture
 - Astro 7 static output, no adapter, Preact islands only where interactive, nanostores for shared state (`src/lib/stores.ts`).
 - Content: JSON in `src/data/` validated by Zod (`src/content.config.ts`) and by `scripts/validate-content.mjs` (cross-file rules).

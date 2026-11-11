@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Quesadilly a nachos",
   "price": 13900,
-  "description": "Tortilla plná rozteklého sýra a nakládaných jalapeños, s rajčatovou salsou. Bez masa.",
+  "description": "Tortilla plná rozteklého sýra a nakládaných jalapeños, se salsou z rajčat. Bez masa.",
   "about": [
     "Nejjednodušší quesadilla: jen sýr a jalapeños. Pálivost jalapeños se v roztečeném sýru zjemní, ale nezmizí.",
-    "Bez kuřete je hotová za deset minut. Doma vynech maso a dej o polovinu víc sýra, zbytek receptu platí."
+    "Bez kuřete je hotová za deset minut. Doma vynech maso a dej o polovinu víc sýra, zbytek receptu platí. Sýr tu nešetří nikdo."
   ],
   "recipe": "quesadilla",
   "recipeNote": "Recept je s kuřetem; vynech ho a dej 300 g sýra a víc jalapeños.",

@@ -5,10 +5,10 @@
   "section": "Burgery",
   "price": 23900,
   "order": 40,
-  "description": "Hovězí plátek 150 g, rozteklá niva, cibule karamelizovaná na másle, rukola a hořčičná majonéza.",
+  "description": "Burger z hovězího plátku 150 g s rozteklou nivou, cibulí karamelizovanou na másle, rukolou a hořčičnou majonézou.",
   "about": [
-    "Výrazný burger pro ty, kterým cheddar nestačí. Slaná a ostrá niva potřebuje protiváhu, a tou je cibule dušená na másle tak dlouho, až zhnědne a zesládne. Rukola přidá trochu hořkosti a dijonská hořčice v majonéze to celé spojí.",
-    "Cibuli nejde uspěchat. Půl hodiny na mírném ohni je minimum a zkratka přes vysoký plamen končí spálenými okraji a syrovým středem. Niva se na maso pokládá až po otočení a pod pokličkou se rozteče za necelou minutu."
+    "Cheddar na tenhle burger nestačí. Ostrá a slaná niva potřebuje protiváhu, a tou je cibule dušená na másle tak dlouho, až zhnědne a zesládne. Rukola přidá hořkost a dijonská hořčice v majonéze všechno spojí.",
+    "Cibuli nejde uspěchat. Půl hodiny na mírném ohni je minimum a zkratka přes vysoký plamen končí spálenými okraji a syrovým středem. Nivu pokládáš na maso až po otočení a pod pokličkou se rozteče za necelou minutu. Trpělivost je tu hlavní surovina."
   ],
   "image": "dish-burger-niva-cibule",
   "recipe": "burger-niva-cibule",

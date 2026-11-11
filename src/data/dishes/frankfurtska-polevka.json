@@ -3,10 +3,10 @@
   "restaurant": "prazdna-naberacka",
   "kind": "main",
   "section": "Polévky",
-  "description": "Paprikovo-cibulová polévka zahuštěná jíškou, s kolečky párku, brambory a majoránkou.",
+  "description": "Paprikovo-cibulová polévka na jíšce, s kolečky párku, bramborami a majoránkou rozemnutou v dlaních.",
   "about": [
-    "Frankfurtská polévka je hospodská klasika postavená na jíšce, cibuli a sladké paprice. Brambory ji zahustí ještě víc a párky se přidávají až na pět minut, aby nepopraskaly a neztratily chuť.",
-    "Na konci se dá kapka smetany a majoránka rozemnutá v dlaních. Je to polévka, po které už není potřeba hlavní jídlo, i když tady by nepřišlo ani jedno, ani druhé."
+    "Hospodská klasika postavená na jíšce, cibuli a sladké paprice. Brambory ji zahustí ještě víc a párky se přidávají až na posledních pět minut, aby nepopraskaly a neztratily chuť.",
+    "Na konci se dá kapka smetany a majoránka rozemnutá v dlaních. Po téhle polévce už hlavní jídlo nepotřebuješ, a tady by nepřišlo ani jedno, ani druhé."
   ],
   "price": 11900,
   "image": "dish-frankfurtska-polevka",

@@ -3,10 +3,10 @@
   "restaurant": "vycep-zitra",
   "kind": "main",
   "section": "Hlavní jídla",
-  "description": "Plátky vařeného hovězího zadního v hladké sladkokyselé rajské s nádechem skořice. S houskovým knedlíkem.",
+  "description": "Plátky vařeného hovězího v hladké sladkokyselé rajské s nádechem skořice, s houskovým knedlíkem.",
   "about": [
     "Rajská je omáčka, na kterou se buď těšíš, nebo ji pamatuješ ze školní jídelny. Hospodská verze stojí na vlastním vývaru, ve kterém se dvě hodiny vařilo maso, a na jíšce, která se s rajčaty provaří tak dlouho, až z ní zmizí moučná chuť.",
-    "Dochucuje se cukrem, octem a špetkou skořice, dokud není zřetelně sladkokyselá. Maso se krájí přes vlákno a ještě pár minut se prohřívá přímo v omáčce."
+    "Dochucuje se cukrem, octem a špetkou skořice, dokud není zřetelně sladkokyselá. Maso se krájí přes vlákno a ještě pár minut se prohřívá přímo v omáčce. Pak teprve přijde knedlík."
   ],
   "price": 22900,
   "image": "dish-rajska-omacka",

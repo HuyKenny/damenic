@@ -3,10 +3,10 @@
   "restaurant": "prazdna-naberacka",
   "kind": "main",
   "section": "Polévky",
-  "description": "Smetanová kyselá polévka s lesními houbami, brambory a koprem, se ztraceným vejcem v misce.",
+  "description": "Smetanová kyselá polévka s lesními houbami, bramborami a koprem, se ztraceným vejcem uprostřed.",
   "about": [
-    "Kulajda pochází z jihu Čech a je to polévka, která má být kyselá i smetanová zároveň. Houby a brambory se povaří s kmínem a novým kořením, polévka se zahustí smetanou a nakonec dochutí octem a hrstí čerstvého kopru.",
-    "Ztracené vejce se vaří zvlášť ve vodě s octem a do misky se dává před zalitím, aby žloutek zůstal tekutý. Když ho rozkrojíš, polévka se ještě zjemní."
+    "Kulajda je z jihu Čech a má být kyselá i smetanová zároveň, což zní jako spor a chutná jako smír. Houby a brambory se povaří s kmínem a novým kořením, polévka se zahustí smetanou a nakonec dochutí octem a hrstí čerstvého kopru.",
+    "Ztracené vejce se vaří zvlášť ve vodě s octem a do misky se dává před zalitím, aby žloutek zůstal tekutý. Když ho rozkrojíš, polévka se ještě zjemní. Mír je uzavřen."
   ],
   "price": 12900,
   "image": "dish-kulajda",

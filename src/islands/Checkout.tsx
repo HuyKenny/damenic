@@ -12,11 +12,11 @@ import { Icon, type IconName } from './icons';
 
 const PAYMENTS: { id: string; label: string; note: string; icon: IconName }[] = [
   { id: 'wallet', label: 'Demo peněženka DámeNic', note: 'Zůstatek: nic. Platnost: nikdy.', icon: 'wallet' },
-  { id: 'card', label: 'Demo karta', note: 'Neinteraktivní ukázka, žádné číslo se nezadává.', icon: 'card' },
-  { id: 'phone', label: 'Platba telefonem (demo)', note: 'Napodobenina, žádná skutečná peněženka.', icon: 'smartphone' },
-  { id: 'cash', label: 'Hotově nanečisto', note: 'Kurýr nepřijede, takže ani nevrací.', icon: 'banknote' },
+  { id: 'card', label: 'Demo karta', note: 'Jen ukázka. Číslo se nezadává, nemělo by kam.', icon: 'card' },
+  { id: 'phone', label: 'Platba telefonem (demo)', note: 'Telefon v ruce, v peněžence nic. Napodobenina, žádná skutečná platba.', icon: 'smartphone' },
+  { id: 'cash', label: 'Hotově nanečisto', note: 'Kurýr nepřijede, takže ani nevrací drobné.', icon: 'banknote' },
 ];
-const NOTES = ['Zazvonit', 'Nechat u dveří', 'Nevolat', 'Mám psa, ale hodného'];
+const NOTES = ['Zazvonit', 'Nechat u dveří', 'Nevolat', 'Mám psa, ale hodného', 'Taška klidně prázdná'];
 
 export default function Checkout() {
   const ready = useInit();
@@ -223,8 +223,8 @@ export default function Checkout() {
         <section class="panel" aria-labelledby="h-prubeh">
           <h2 id="h-prubeh">Co se stane potom</h2>
           <p style="margin:0">
-            Spustí se sledování objednávky se smyšleným kurýrem v reálném čase: {restaurant.etaMinutes} minut jsou skutečné minuty. Mezitím můžeš brouzdat
-            dál, odpočet uvidíš dole na každé stránce. Kurýr nakonec zazvoní u dveří s prázdnou taškou a dostaneš recept. Čekání jde kdykoli přeskočit.
+            Spustí se sledování v reálném čase: {restaurant.etaMinutes} skutečných minut odpočtu, smyšlený kurýr a nakonec zvonek u dveří s prázdnou taškou. Mezitím
+            můžeš brouzdat dál, odpočet tě bude hlídat dole na každé stránce. Pak dostaneš recept. Nechce se ti čekat? Přeskoč to.
           </p>
         </section>
       </div>

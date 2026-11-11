@@ -3,10 +3,10 @@
   "restaurant": "placka-nikam",
   "kind": "main",
   "section": "Další burgery",
-  "description": "Klasický hovězí plátek 150 g, cheddar, salát, rajče, červená cibule a nakládaná okurka v opečené bulce.",
+  "description": "Hovězí plátek 150 g, cheddar, salát, rajče, červená cibule a okurka v opečené bulce. Klasika v plné tloušťce.",
   "about": [
-    "Pro ty, kdo dávají přednost šťavnatému středu před kůrkou. Maso tvarujeme do silného plátku předem a smažíme ho déle a na nižší teplotě.",
-    "Zelenina je tu čerstvá a hodně jí, aby vyvážila tučný sýr a omáčku."
+    "Tenhle cheeseburger je pro ty, kdo dávají šťavnatý střed přednost před kůrkou. Maso tvarujeme předem do silného plátku a smažíme ho déle a na nižší teplotě.",
+    "Zeleniny je hodně a čerstvé, aby vyvážila sýr a omáčku."
   ],
   "price": 22900,
   "image": "dish-cheeseburger-placka",

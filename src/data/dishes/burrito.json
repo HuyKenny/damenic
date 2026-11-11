@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Burrito a další",
   "price": 21900,
-  "description": "Velká tortilla s kořeněným kuřetem, rajčatovou rýží, fazolemi, sýrem, salátem a zakysanou smetanou, na závěr opečená.",
+  "description": "Velká tortilla s kořeněným kuřetem, rajčatovou rýží, fazolemi, sýrem, salátem a smetanou, nakonec opečená.",
   "about": [
-    "Burrito je celý oběd v jedné placce. Uvnitř je rajčatová rýže, rozmačkané fazole, kuře opečené s kmínem a uzenou paprikou a sýr, který náplň slepí dohromady.",
-    "Na konci se zabalené burrito ještě opeče spojem dolů, takže se nerozbalí ani v ruce. Doma je to nejtěžší krok, a stojí za to ho nevynechat."
+    "Burrito je celý oběd v jedné placce a řeší všechno najednou. Uvnitř je rajčatová rýže, rozmačkané fazole, kuře opečené s kmínem a uzenou paprikou a sýr, který náplň slepí.",
+    "Zabalené burrito se opeče spojem dolů, takže se nerozbalí ani v ruce. Doma je to nejtěžší krok a nevynechávej ho."
   ],
   "recipe": "burrito",
   "image": "dish-burrito",

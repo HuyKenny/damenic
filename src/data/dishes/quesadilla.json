@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Quesadilly a nachos",
   "price": 16900,
-  "description": "Tortilla plněná opečeným kuřetem, paprikou, červenou cibulí a sýrem, opečená dozlatova, se zakysanou smetanou.",
+  "description": "Přeložená tortilla s opečeným kuřetem, paprikou, červenou cibulí a sýrem, zlatá z pánve, se zakysanou smetanou.",
   "about": [
-    "Hlavní placka podniku. Kuře se opeče s kmínem a uzenou paprikou, paprika s cibulí změkne na stejné pánvi a všechno se zavře mezi dvě vrstvy sýra v přeložené tortille.",
-    "Opéká se na mírném ohni, aby se sýr stihl rozpustit dřív, než placka zhnědne. Odpočinek minutu před krájením zabrání tomu, aby sýr vytekl."
+    "Placka, která se pozná podle toho, jak táhne sýr. Kuře se opeče s kmínem a uzenou paprikou, paprika s cibulí změkne na stejné pánvi a všechno se zavře mezi dvě vrstvy sýra v přeložené tortille.",
+    "Opéká se na mírném ohni, aby se sýr stihl rozpustit dřív, než placka zhnědne. Odpočinek minutu před krájením zabrání tomu, aby sýr vytekl. Minuta trpělivosti a sýr zůstane tam, kam patří."
   ],
   "recipe": "quesadilla",
   "image": "dish-quesadilla",

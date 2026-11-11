@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Talíře",
   "price": 21900,
-  "description": "Opečené marinované kuře na rýži, s okurkovo-rajčatovým salátem a jogurtovou omáčkou.",
+  "description": "Marinované kuře opečené na rýži s máslem a kurkumou, s okurkovo-rajčatovým salátem a jogurtovou omáčkou.",
   "about": [
-    "Talíř bez pečiva pro ty, kdo chtějí rýži. Kuře marinované v jogurtu a koření se opeče, nakrájí a položí na žlutou rýži s máslem a kurkumou.",
-    "Salát z okurky, rajčat a cibule s citronem je jednoduchý a dělá talíř svěžím."
+    "Tenhle talíř je pro ty, kdo chtějí rýži místo pečiva. Kuře marinované v jogurtu a koření se opeče, nakrájí a položí na žlutou rýži s máslem a kurkumou.",
+    "Salát z okurky, rajčat a cibule s citronem je jednoduchý a talíř osvěží."
   ],
   "recipe": "kebab-talir-s-ryzi",
   "image": "dish-kureci-talir-stul",

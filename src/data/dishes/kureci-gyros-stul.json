@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Gyros",
   "price": 16900,
-  "description": "Marinovaná kuřecí stehna nakrájená na proužky, v pitě s tzatziki, rajčaty a cibulí.",
+  "description": "Marinovaná kuřecí stehna na proužky v pitě s tzatziki, rajčaty a cibulí.",
   "about": [
-    "Kuřecí verze pro ty, kdo nejedí vepřové. Stehna se naloží do jogurtu, česneku a koření a opečou se prudce v jedné vrstvě.",
-    "Doma použij recept na kuřecí kebab v pitě, jen do marinády přidej víc oregana a česnekovou omáčku nahraď tzatziki."
+    "Gyros pro ty, kdo vepřové nejedí. Stehna se naloží do jogurtu, česneku a koření a opečou se prudce v jedné vrstvě.",
+    "Doma použij recept na kuřecí kebab v pitě, jen do marinády přidej víc oregana a česnekovou omáčku nahraď tzatziki. Zbytek se obejde bez úprav."
   ],
   "recipe": "kureci-kebab-v-pite",
   "recipeNote": "Recept je na kuřecí kebab; dej víc oregana místo kmínu a podávej s tzatziki.",

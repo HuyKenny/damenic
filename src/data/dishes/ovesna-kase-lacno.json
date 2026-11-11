@@ -3,10 +3,10 @@
   "restaurant": "na-lacno",
   "kind": "main",
   "section": "Sladké",
-  "description": "Ovesná kaše na mléce se strouhaným jablkem, skořicí, praženými ořechy a medem.",
+  "description": "Ovesná kaše na mléce se strouhaným jablkem, skořicí, praženými ořechy a medem. Hřeje zevnitř.",
   "about": [
-    "Jablko se skořicí je podzimní verze ovesné kaše. Strouhané jablko se do kaše vmíchá na konci, aby zůstalo šťavnaté, a ořechy se krátce opraží, aby voněly.",
-    "Mléko můžeš vyměnit za ovesný nápoj. Doma kaše zabere čtvrt hodiny včetně mytí kastrolu."
+    "Jablko se skořicí je podzimní verze ovesné kaše. Strouhané jablko se vmíchá až na konci, aby zůstalo šťavnaté, a ořechy se krátce opraží, aby voněly.",
+    "Mléko můžeš vyměnit za ovesný nápoj. Doma kaše zabere čtvrt hodiny včetně mytí kastrolu, což je rychlejší než čekání na cokoli jiného."
   ],
   "price": 15900,
   "image": "dish-ovesna-kase-lacno",

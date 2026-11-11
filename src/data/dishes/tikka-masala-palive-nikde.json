@@ -4,10 +4,10 @@
   "kind": "main",
   "section": "Kari",
   "price": 20900,
-  "description": "Grilované kousky kuřete v kořenité masala omáčce s čerstvým chilli a pálivou paprikou, s rýží.",
+  "description": "Grilované kousky kuřete v kořenité masala omáčce s čerstvým chilli a pálivou paprikou, s rýží. Pálí dobře.",
   "about": [
     "Tahle tikka masala pálí naplno. Základ je stejný jako u klasické verze, grilované kuře a omáčka z opečené cibule a rajčat, jen chilli se tu nešetří a semínka zůstávají v omáčce.",
-    "Smetana pálivost trochu tlumí, ale nezakryje ji. K ní se hodí slané lassi nebo raita."
+    "Smetana pálivost trochu tlumí, ale nezakryje ji. K tomu se hodí slané lassi nebo raita, aby se oheň dal přežít."
   ],
   "recipe": "kure-tikka-masala",
   "recipeNote": "Pro takovou pálivost dej dvě chilli papričky se semínky a lžičku pálivé papriky.",

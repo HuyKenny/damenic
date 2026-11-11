@@ -5,10 +5,10 @@
   "section": "Burgery",
   "price": 20900,
   "order": 50,
-  "description": "Grilované halloumi, rozmačkané avokádo s citronem, grilovaná cuketa, rajče a rukola s jogurtovou česnekovou omáčkou. Bez masa.",
+  "description": "Grilované halloumi, avokádo s citronem, cuketa, rajče a rukola s jogurtovou česnekovou omáčkou. Bez masa a bez výčitek.",
   "about": [
     "Burger bez masa, který si na maso nehraje. Halloumi se při opékání neroztéká, jen získá zlatou kůrku a zůstane pružné. Vedle slaného sýra je krémové avokádo s citronem, plátky grilované cukety a jogurtová omáčka s česnekem.",
-    "Halloumi se opéká až úplně nakonec a jde rovnou do bulky, protože po vychladnutí ztuhne. Plátky je dobré předem osušit a krájet je silné aspoň jeden centimetr, tenké se na pánvi vysuší."
+    "Halloumi se opéká až úplně nakonec a jde rovnou do bulky, protože po vychladnutí ztuhne. Plátky předem osuš a krájej je silné aspoň jeden centimetr, tenké se na pánvi vysuší. Sýr počká jen na tebe."
   ],
   "image": "dish-halloumi-burger",
   "recipe": "halloumi-burger",

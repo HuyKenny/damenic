@@ -16,7 +16,7 @@ const partners = (await getCollection('partners')).filter((p) => p.data.enabled 
   <div class="wrap statepage">
     <div class="pagehead">
       <h1>Nákupní seznam</h1>
-      <p>Suroviny ze všech přidaných receptů, sečtené a rozdělené podle oddělení. Seznam se ukládá jen v tomto prohlížeči.</p>
+      <p>Suroviny ze všech receptů, sečtené a roztříděné podle oddělení. Tohle je ta část, která se dá doopravdy nakoupit. Seznam se ukládá jen v tomto prohlížeči.</p>
     </div>
     <ShoppingList client:load recipes={recipes} info={info} />
     {

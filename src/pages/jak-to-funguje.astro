@@ -13,16 +13,16 @@ import { formatCzk } from '@/lib/money';
   <div class="wrap prose">
     <div class="pagehead">
       <h1>Jak to funguje</h1>
-      <p>DámeNic vypadá jako rozvozová aplikace, ale nic nerozváží. Tady je přesně, co je hra a co je doopravdy.</p>
+      <p>Vypadá to jako rozvozová aplikace a chová se to jako rozvozová aplikace. Jen nic nerozváží. Tady je přesně, co je hra a co je doopravdy.</p>
     </div>
-    <h2>Co je simulace</h2>
+    <h2>Co je hra</h2>
     <ul>
       <li><strong>Restaurace</strong> jsou smyšlené. Neexistují, nevaří a nemají adresu.</li>
       <li><strong>Ceny, dopravné a časy doručení</strong> jsou simulované. K ceně se připočítává dopravné restaurace a smyšlený poplatek {formatCzk(SERVICE_FEE)}, obojí jednou za objednávku.</li>
       <li><strong>Platba</strong> neexistuje. Pokladna nechce kartu, účet, jméno, telefon ani adresu. Tlačítko „Objednat nanečisto za 0 Kč“ jen uloží záznam do tvého prohlížeče.</li>
-      <li><strong>Kurýr</strong> je smyšlený a mapa je ilustrační, nekreslí žádné skutečné město. Nikdo nikam nejede.</li>
+      <li><strong>Kurýr</strong> je smyšlený a mapa je ilustrační, nekreslí žádné skutečné město. Nikdo nikam nejede, jen odpočet tiká.</li>
     </ul>
-    <h2>Jak běží čas</h2>
+    <h2>Odpočet je skutečný</h2>
     <p>
       Sledování běží v reálném čase. Když restaurace uvádí 30 minut, kurýr dorazí za skutečných 30 minut, odpočet běží i v titulku záložky a na ostatních
       stránkách. Na konci zazvoní u dveří (zvuk generuje prohlížeč, dá se vypnout) a po otevření najdeš prázdnou tašku a recept. Stav se počítá z okamžiku

@@ -3,10 +3,10 @@
   "restaurant": "prazdna-naberacka",
   "kind": "main",
   "section": "Polévky",
-  "description": "Hustší česnečka s brambory a rozšlehaným vejcem, se strouhaným sýrem a krutony zvlášť v sáčku.",
+  "description": "Hustší česnečka s brambory a rozšlehaným vejcem, sýr a krutony zvlášť v sáčku. Zahřeje i podle popisu.",
   "about": [
-    "Tahle česnečka je hustší, protože část brambor se v hrnci rozmačká o stěnu. Vejce se do ní vlévá tenkým pramínkem a srazí se na jemné nitky, takže polévka zbělá a je sytější.",
-    "Česnek přichází až na konci, když polévka nevře, aby neztratil ostrost. Krutony balíme zvlášť, aby nezměkly cestou, kterou stejně nikdy nepojedou."
+    "Tahle česnečka je hustší, protože se část brambor v hrnci rozmačká o stěnu. Vejce se vlévá tenkým pramínkem a srazí se na jemné nitky, polévka zbělá a je sytější.",
+    "Česnek přijde až na konec, když už polévka nevře, aby neztratil ostrost. Krutony balíme zvlášť, aby nezměkly cestou, kterou stejně nikdy neprojedou."
   ],
   "price": 9900,
   "image": "dish-cesnecka-naberacka",
