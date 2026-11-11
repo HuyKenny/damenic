@@ -59,7 +59,7 @@ content-visibility on home rails, stable default order on hydration, reserved he
   "Zavolat" keeps the non-existent number joke and the same contact box.
 - Tag "Skutečné minuty · smyšlené jídlo"; reorder buttons "Nic mi chutnalo. Ještě jednou!" / "Dát ničemu druhou šanci".
 - info@damenic.cz also in the footer, /o-projektu/ and /soukromi/ (operator details still missing).
-- Mail delivery: Cloudflare Email Routing (info@ → Kenny's verified address) is set up by
+- Mail delivery: Cloudflare Email Routing (info@ → napis@sbalit.cz) is set up by
   `scripts/damenic/email-routing.py` in the workspace; run by Kenny (DNS change).
 
 ## v1 (2026-11-10)
