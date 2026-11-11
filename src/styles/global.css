@@ -3123,7 +3123,7 @@ dialog.dlg--drawer {
   box-shadow: 0 -8px 16px rgb(31 31 35 / 6%);
 }
 
-/* Below-the-fold home sections: skip style/layout/paint until they come near the viewport
+/* Below-the-fold single-row home rails (keep them shorter than the intrinsic size): skip style/layout/paint until they come near the viewport
    (Lighthouse showed ~1.4 s of main-thread rendering work on the home page). */
 .cv {
   content-visibility: auto;
