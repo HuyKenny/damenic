@@ -25,3 +25,13 @@ export async function cartCount(page: Page) {
 }
 
 export const kc = (text: string) => Number(text.replace(/[^\d,]/g, '').replace(',', '.'));
+
+/** Fictional restaurants have opening hours: pin the browser clock to noon in Prague so they are open. */
+export async function atNoon(page: Page) {
+  await page.clock.setFixedTime(new Date('2026-11-11T11:00:00Z'));
+}
+
+/** Waits until an Astro island inside `scope` has hydrated (Astro removes the ssr attribute). */
+export async function hydrated(scope: import('@playwright/test').Locator) {
+  await expect(scope.locator('astro-island[ssr]')).toHaveCount(0);
+}

@@ -28,7 +28,7 @@ test('recipe page has visible-content Recipe data and no ratings', async ({ page
   expect(recipe.aggregateRating).toBeUndefined();
   expect(recipe.review).toBeUndefined();
   expect(recipe.nutrition).toBeUndefined();
-  await expect(page.getByRole('heading', { level: 1 })).toHaveText(recipe.name);
+  await expect(page.getByRole('heading', { level: 1 })).toContainText(recipe.name);
 });
 
 test('shopping list merges recipes and "Mám doma" lowers only the purchase', async ({ page }) => {

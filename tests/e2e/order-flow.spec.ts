@@ -1,5 +1,5 @@
 import { expect, test } from '@playwright/test';
-import { MARGHERITA, addMargherita, cartCount, kc, watchConsole } from './helpers';
+import { MARGHERITA, addMargherita, atNoon, cartCount, hydrated, kc, watchConsole } from './helpers';
 
 test.describe('cart', () => {
   test('required options are enforced', async ({ page }) => {
@@ -62,6 +62,7 @@ test.describe('cart', () => {
 
 test.describe('checkout and tracking', () => {
   test('checkout asks for no personal or payment data and double click creates one order', async ({ page }) => {
+    await atNoon(page);
     const errors = watchConsole(page);
     await addMargherita(page);
     await page.goto('/pokladna/');
@@ -82,7 +83,7 @@ test.describe('checkout and tracking', () => {
   });
 
   test('tracking follows the clock, survives refresh and finishes once', async ({ page }) => {
-    await page.clock.install({ time: new Date('2026-11-10T12:00:00') });
+    await page.clock.install({ time: new Date('2026-11-11T11:00:00Z') }); // noon in Prague: restaurants open
     await addMargherita(page);
     await page.goto('/pokladna/');
     await page.getByTestId('confirm-order').click();
@@ -113,6 +114,7 @@ test.describe('checkout and tracking', () => {
   });
 
   test('skip and the way to the recipe and shopping list', async ({ page }) => {
+    await atNoon(page);
     await addMargherita(page);
     await page.goto('/pokladna/');
     await page.getByTestId('confirm-order').click();
@@ -128,6 +130,7 @@ test.describe('checkout and tracking', () => {
   });
 
   test('cancel keeps the order as cancelled', async ({ page }) => {
+    await atNoon(page);
     await addMargherita(page);
     await page.goto('/pokladna/');
     await page.getByTestId('confirm-order').click();
@@ -169,7 +172,10 @@ test.describe('delivery app v2', () => {
 
   test('dish sheet opens from the menu and validates required options', async ({ page }) => {
     await page.goto('/restaurace/prazdna-pec/');
-    await page.locator('.menuitem', { hasText: 'Pizza Margherita' }).getByTestId('open-dish').click();
+    const item = page.locator('.menuitem', { hasText: 'Pizza Margherita' });
+    await item.scrollIntoViewIfNeeded();
+    await hydrated(item);
+    await item.getByTestId('open-dish').click();
     const sheet = page.getByRole('dialog', { name: 'Pizza Margherita' });
     await expect(sheet).toBeVisible();
     await sheet.getByRole('button', { name: /Do košíku/ }).click();
@@ -194,6 +200,7 @@ test.describe('delivery app v2', () => {
   });
 
   test('tip, promo code and pickup change the simulated total once', async ({ page }) => {
+    await atNoon(page);
     await addMargherita(page);
     await page.goto('/pokladna/');
     const total = () => page.getByTestId('sum-total').innerText().then(kc);
