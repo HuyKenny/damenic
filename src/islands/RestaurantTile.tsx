@@ -5,12 +5,25 @@ import { formatCzk } from '@/lib/money';
 
 const PRICE = ['', 'Kč', 'Kč Kč', 'Kč Kč Kč'];
 
+/** WCAG relative luminance of #rrggbb. */
+function luminance(hex: string) {
+  const c = [1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16) / 255).map((v) => (v <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4));
+  return 0.2126 * c[0] + 0.7152 * c[1] + 0.0722 * c[2];
+}
+/** White or ink, whichever reads better on the brand colour (the data's `ink` hint is not trusted for contrast). */
+function inkFor(bg: string) {
+  const l = luminance(bg);
+  const onWhite = 1.05 / (l + 0.05);
+  const onInk = (l + 0.05) / (luminance('#1f1f23') + 0.05);
+  return onWhite >= onInk ? '#fff' : '#1f1f23';
+}
+
 export function Monogram({ logo, size = 44 }: { logo: RestaurantSummary['logo']; size?: number }) {
   return (
     <span
       class="mono"
       aria-hidden="true"
-      style={{ width: `${size}px`, height: `${size}px`, background: logo.color, color: logo.ink === 'dark' ? '#1f1f23' : '#fff', fontSize: `${Math.round(size * (logo.text.length > 2 ? 0.3 : 0.38))}px` }}
+      style={{ width: `${size}px`, height: `${size}px`, background: logo.color, color: inkFor(logo.color), fontSize: `${Math.round(size * (logo.text.length > 2 ? 0.3 : 0.38))}px` }}
     >
       {logo.text}
     </span>

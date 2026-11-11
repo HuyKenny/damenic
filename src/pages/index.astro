@@ -3,7 +3,6 @@ import { Image } from 'astro:assets';
 import Base from '@/layouts/Base.astro';
 import Icon from '@/components/Icon.astro';
 import RecipeCard from '@/components/RecipeCard.astro';
-import RestaurantBrowser from '@/islands/RestaurantBrowser';
 import { RestaurantTile } from '@/islands/RestaurantTile';
 import { allRecipes, brand, categoryIcons, restaurantSummaries } from '@/lib/content';
 import { CATEGORY_LABELS, SITE } from '@/lib/site';
@@ -103,7 +102,7 @@ const jsonld = [
           </a>
         </div>
         <div class="rail">
-          {rail.items.slice(0, 10).map((r) => (
+          {rail.items.slice(0, 8).map((r) => (
             <RestaurantTile r={r} now={null} />
           ))}
         </div>
@@ -114,12 +113,17 @@ const jsonld = [
   <section class="wrap section" id="restaurace" aria-labelledby="h-vse">
     <div class="section__head">
       <div>
-        <h2 id="h-vse">Všechny restaurace</h2>
-        <p>Všechny jsou smyšlené. Časy, dopravné, minima i akce patří k simulaci.</p>
+        <h2 id="h-vse">Restaurace</h2>
+        <p>Výběr z nabídky. Všechny jsou smyšlené, časy, dopravné, minima i akce patří k simulaci.</p>
       </div>
       <a class="section__more" href="/restaurace/">Filtry a řazení <Icon name="arrow" size={18} /></a>
     </div>
-    <RestaurantBrowser client:visible restaurants={summaries} categories={cats} compact />
+    <div class="rgrid">
+      {byOrder.slice(0, 12).map((r) => <RestaurantTile r={r} now={null} />)}
+    </div>
+    <p style="margin-top:24px;text-align:center">
+      <a class="btn btn--lg" href="/restaurace/">Všech {summaries.length} restaurací s filtry</a>
+    </p>
   </section>
 
   <section class="wrap section" aria-labelledby="h-recepty">

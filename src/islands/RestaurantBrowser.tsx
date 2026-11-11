@@ -105,6 +105,7 @@ export default function RestaurantBrowser({ restaurants, categories, compact = f
         )}
       </p>
 
+      <h2 class="sr-only">Seznam restaurací</h2>
       {shown.length ? (
         <div class="rgrid">
           {shown.map((r, i) => (

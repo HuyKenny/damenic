@@ -28,6 +28,7 @@ const jsonld = [
       <h1>{hub.h1}</h1>
       {hub.intro.map((p) => <p>{p}</p>)}
     </div>
+    <h2 class="sr-only">Recepty v této kategorii</h2>
     <div class="grid grid--dishes">
       {hub.recipes.map((r) => <RecipeCard recipe={r} />)}
     </div>

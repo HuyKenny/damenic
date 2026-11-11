@@ -1,4 +1,25 @@
 /* DámeNic design system. One stylesheet, tokens first. */
+/* Metric-matched fallbacks: text keeps its width and line breaks while the web fonts load, so the swap
+   does not shift the layout (Lighthouse measured CLS 0.16 from it). Values computed with fontTools from the
+   woff2 files against Liberation Sans/Arial: size-adjust = average glyph width ratio on Czech text. */
+@font-face {
+  font-family: 'Figtree Fallback';
+  src: local('Arial'), local('ArialMT'), local('Liberation Sans'), local('Helvetica'), local('Roboto');
+  size-adjust: 99.42%;
+  ascent-override: 95.56%;
+  descent-override: 25.15%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: 'Bricolage Fallback';
+  src: local('Arial Bold'), local('Arial-BoldMT'), local('Liberation Sans Bold'), local('Helvetica Bold'), local('Roboto Bold');
+  font-weight: 100 900;
+  size-adjust: 103.1%;
+  ascent-override: 90.21%;
+  descent-override: 26.19%;
+  line-gap-override: 0%;
+}
+
 :root {
   --red: #d92e32;
   --red-dark: #b3191f;
@@ -22,8 +43,8 @@
   --shadow: 0 1px 2px rgb(31 31 35 / 6%), 0 6px 18px rgb(31 31 35 / 6%);
   --shadow-lift: 0 4px 10px rgb(31 31 35 / 8%), 0 16px 36px rgb(31 31 35 / 12%);
   --sticker: 2px 2px 0 var(--ink);
-  --font: 'Figtree Variable', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
-  --font-head: 'Bricolage Grotesque Variable', 'Figtree Variable', system-ui, sans-serif;
+  --font: 'Figtree Variable', 'Figtree Fallback', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-head: 'Bricolage Grotesque Variable', 'Bricolage Fallback', system-ui, sans-serif;
   --wrap: 1280px;
   --gutter: clamp(16px, 3vw, 32px);
   --header-h: 72px;
