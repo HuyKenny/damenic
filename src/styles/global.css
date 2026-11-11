@@ -2317,6 +2317,7 @@ body {
   padding-block: clamp(16px, 2.4vw, 28px);
 }
 .catstrip {
+  position: relative;
   display: flex;
   gap: 6px;
   overflow-x: auto;
@@ -2561,6 +2562,9 @@ body {
   margin-bottom: 4px;
 }
 .filterbar {
+  /* Positioned, so absolutely positioned children (the sr-only sort label) are clipped by the scroller instead of
+     widening the page to 906 px on phones, which pushed the fixed bottom bars off screen. */
+  position: relative;
   display: flex;
   gap: 8px;
   overflow-x: auto;
