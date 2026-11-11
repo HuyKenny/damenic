@@ -42,4 +42,4 @@ to the Pi: CI fetches it.
 
 ## Add a shop partner
 `src/data/partners.json`. A partner is shown only when `enabled: true`, `url` is a verified link and `verifiedAt` is set.
-Never invent affiliate IDs, API endpoints or "send the whole cart" features. Affiliate links get `rel="sponsored"` and a visible note.
+The enabled partner is rendered by `src/components/PartnerCta.astro` (recipes and shopping list). Never invent affiliate IDs, API endpoints or "send the whole cart" features. Affiliate links get `rel="sponsored"` and a visible note.

@@ -1,3 +1,4 @@
+import type { ComponentChildren } from 'preact';
 import { useState } from 'preact/hooks';
 import { useStore } from '@nanostores/preact';
 import type { IngredientInfo, RecipeLite } from '@/lib/types';
@@ -24,10 +25,12 @@ interface Props {
   info: Record<string, IngredientInfo>;
   /** The simulated dish this recipe stands in for, if any. */
   dish: DishRef | null;
+  /** Server-rendered extras placed right under the buttons (the partner call to action). */
+  children?: ComponentChildren;
 }
 
 /** Portion switcher, ingredient list, the three cost figures and the shopping-list button. */
-export default function RecipeTools({ recipe, info, dish }: Props) {
+export default function RecipeTools({ recipe, info, dish, children }: Props) {
   useInit();
   const shopping = useStore($shopping);
   const [servings, setServings] = useState(recipe.servings);
@@ -106,6 +109,7 @@ export default function RecipeTools({ recipe, info, dish }: Props) {
           <a href="/nakupni-seznam/">Otevřít seznam</a>
         </p>
       )}
+      {children}
 
       <section class="costbox" aria-labelledby="naklady" data-testid="costs">
         <h3 id="naklady">Odhad nákladů</h3>

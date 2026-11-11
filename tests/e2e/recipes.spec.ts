@@ -67,3 +67,31 @@ test('search tolerates missing diacritics and has an empty state', async ({ page
   await page.getByRole('combobox').fill('qqqqzz');
   await expect(page.locator('.search__empty')).toBeVisible();
 });
+
+test('Rohlik.cz call to action is a labelled sponsored link on recipes and the shopping list only', async ({ page }) => {
+  await page.goto('/recepty/pizza-margherita/');
+  const tools = page.getByTestId('recipe-tools');
+  const cta = tools.getByTestId('partner-cta');
+  await expect(cta).toBeVisible();
+  await expect(cta).toContainText('Reklama');
+  await expect(cta).toContainText('mimo simulaci');
+  const link = cta.getByTestId('partner-link');
+  await expect(link).toHaveAttribute('href', /^https:\/\/www\.kqzyfj\.com\/click-/);
+  await expect(link).toHaveAttribute('rel', /sponsored/);
+  await expect(link).toHaveAttribute('target', '_blank');
+  // It sits under the two buttons, before the cost box.
+  const order = await page.evaluate(() => {
+    const q = (s: string) => document.querySelector(s)!;
+    const after = (a: Element, b: Element) => !!(a.compareDocumentPosition(b) & Node.DOCUMENT_POSITION_FOLLOWING);
+    return after(q('[data-testid=add-to-list]'), q('[data-testid=partner-cta]')) && after(q('[data-testid=partner-cta]'), q('[data-testid=costs]'));
+  });
+  expect(order).toBe(true);
+
+  await page.goto('/nakupni-seznam/');
+  await expect(page.getByTestId('partner-link')).toHaveAttribute('rel', /sponsored/);
+
+  for (const path of ['/', '/restaurace/', '/jidla/pizza-margherita/']) {
+    const res = await page.goto(path);
+    if (res?.ok()) await expect(page.getByTestId('partner-cta')).toHaveCount(0);
+  }
+});

@@ -4,7 +4,8 @@ import Breadcrumbs from '@/components/Breadcrumbs.astro';
 import Photo from '@/components/Photo.astro';
 import RecipeCard from '@/components/RecipeCard.astro';
 import RecipeTools, { type DishRef } from '@/islands/RecipeTools';
-import { getEntry } from 'astro:content';
+import PartnerCta from '@/components/PartnerCta.astro';
+import { getCollection, getEntry } from 'astro:content';
 import { allDishes, allRecipes, ingredientInfo, pickInfo, recipeLite, totalMinutes, type Recipe } from '@/lib/content';
 import { formatAmount } from '@/lib/units';
 import { formatDuration } from '@/lib/units';
@@ -22,6 +23,8 @@ interface Props {
 const { recipe: r } = Astro.props;
 const info = await ingredientInfo();
 const lite = recipeLite(r);
+// Partners appear only when enabled and verified (see CONTENT_GUIDE.md).
+const partner = (await getCollection('partners')).find((p) => p.data.enabled && p.data.url && p.data.verifiedAt);
 const dishEntry = (await allDishes()).find((d) => d.data.recipe?.id === r.id);
 let dish: DishRef | null = null;
 if (dishEntry) {
@@ -112,7 +115,9 @@ const metaTitle = `${r.data.title} – recept krok za krokem`;
     </header>
 
     <div class="recipe">
-      <RecipeTools client:load recipe={lite} info={pickInfo(r, info)} dish={dish} />
+      <RecipeTools client:load recipe={lite} info={pickInfo(r, info)} dish={dish}>
+        {partner && <PartnerCta partner={{ name: partner.data.name, url: partner.data.url! }} variant="recipe" />}
+      </RecipeTools>
       <div>
         <section aria-labelledby="postup" class="steps">
           <h2 id="postup">Postup</h2>

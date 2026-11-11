@@ -1,6 +1,7 @@
 ---
 import Base from '@/layouts/Base.astro';
 import ShoppingList from '@/islands/ShoppingList';
+import PartnerCta from '@/components/PartnerCta.astro';
 import { allRecipes, ingredientInfo, recipeLite } from '@/lib/content';
 import type { RecipeLite } from '@/lib/types';
 import { getCollection } from 'astro:content';
@@ -8,7 +9,7 @@ import { getCollection } from 'astro:content';
 const recipes: Record<string, RecipeLite> = {};
 for (const r of await allRecipes()) recipes[r.id] = recipeLite(r);
 const info = await ingredientInfo();
-// Partners appear only when an integration is confirmed (enabled + verified). None are, so nothing is shown.
+// Partners appear only when enabled and verified (partners.json); with none, nothing is shown.
 const partners = (await getCollection('partners')).filter((p) => p.data.enabled && p.data.url && p.data.verifiedAt);
 ---
 
@@ -19,22 +20,6 @@ const partners = (await getCollection('partners')).filter((p) => p.data.enabled 
       <p>Suroviny ze všech receptů, sečtené a roztříděné podle oddělení. Tohle je ta část, která se dá doopravdy nakoupit. Seznam se ukládá jen v tomto prohlížeči.</p>
     </div>
     <ShoppingList client:load recipes={recipes} info={info} />
-    {
-      partners.length > 0 && (
-        <section class="panel" style="margin-top:24px">
-          <h2>Nakoupit u partnera</h2>
-          <p class="small muted">Odkazy jsou affiliate: když nakoupíš, partner nám může zaplatit provizi. Je to skutečný nákup, oddělený od simulace.</p>
-          <ul>
-            {partners.map((p) => (
-              <li>
-                <a href={p.data.url!} rel="sponsored noopener" target="_blank">
-                  {p.data.name}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </section>
-      )
-    }
+    {partners[0] && <PartnerCta partner={{ name: partners[0].data.name, url: partners[0].data.url! }} variant="list" />}
   </div>
 </Base>

@@ -1,5 +1,16 @@
 [
   {
+    "id": "rohlik",
+    "name": "Rohlik.cz",
+    "enabled": true,
+    "linkType": "homepage",
+    "url": "https://www.kqzyfj.com/click-100367005-16984703",
+    "itemTransfer": "none",
+    "affiliateParams": {},
+    "availabilityNote": "Skutečný online supermarket. Odkaz je statický (CJ), položky se nepřenášejí. Rozvoz je dostupný jen tam, kde ho Rohlik.cz nabízí.",
+    "verifiedAt": "2026-11-11"
+  },
+  {
     "id": "priklad-partner",
     "name": "Obchodní partner (nepřipojeno)",
     "enabled": false,

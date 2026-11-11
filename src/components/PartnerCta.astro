@@ -1,0 +1,39 @@
+---
+// Affiliate call to action. Rohlik.cz is a real shop outside the simulation, so the card says so in plain words.
+// Static HTML on purpose: no script, and the link is a plain sponsored anchor (never an automatic redirect).
+interface Props {
+  partner: { name: string; url: string };
+  variant: 'recipe' | 'list';
+}
+const { partner, variant } = Astro.props;
+const copy =
+  variant === 'recipe'
+    ? {
+        title: 'Na tohle už kurýr doopravdy přijede',
+        text: `Suroviny na tenhle recept ti doveze ${partner.name}. Na rozdíl od nás.`,
+        cta: `Konečně opravdový kurýr: ${partner.name}`,
+      }
+    : {
+        title: 'Seznam máš hotový. Teď ať na to jede kurýr, který existuje.',
+        text: `${partner.name} je skutečný obchod s rozvozem. Zkopíruj si seznam výš a přidej si suroviny do jeho košíku.`,
+        cta: `Nakoupit na ${partner.name}`,
+      };
+---
+
+<aside class="partner no-print" aria-labelledby={`partner-${variant}`} data-testid="partner-cta">
+  <div class="partner__tags">
+    <span class="tag tag--ad">Reklama</span>
+    <span class="tag">Skutečný obchod, mimo simulaci</span>
+  </div>
+  <h3 id={`partner-${variant}`}>{copy.title}</h3>
+  <p>{copy.text}</p>
+  <a class="btn btn--sun btn--block" href={partner.url} rel="sponsored nofollow noopener" target="_blank" data-testid="partner-link">
+    <svg class="partner__icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
+    {copy.cta}
+    <span class="sr-only"> (otevře se v novém okně)</span>
+  </a>
+  <p class="small muted partner__note">
+    Reklamní odkaz: když nakoupíš, DámeNic může dostat provizi, tebe to nic nestojí. {partner.name} tvůj seznam nezná, položky si do košíku přidáš sám.
+    Rozvoz funguje jen tam, kde ho {partner.name} nabízí.
+  </p>
+</aside>

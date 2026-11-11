@@ -57,6 +57,8 @@ test('main screens', async ({ page }, testInfo) => {
   await page.getByTestId('add-to-list').click();
   await page.locator('.added').waitFor();
   await shot(page, '08-recept', testInfo);
+  await page.getByTestId('partner-cta').scrollIntoViewIfNeeded();
+  await shot(page, '08b-partner', testInfo);
   await page.goto('/nakupni-seznam/');
   await shot(page, '09-nakupni-seznam', testInfo);
 });

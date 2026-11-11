@@ -3341,3 +3341,47 @@ dialog.dlg--drawer {
   color: inherit;
   font-weight: 700;
 }
+
+/* v2.4: partner call to action (real shop, visibly outside the red simulation) */
+.partner {
+  margin: 18px 0;
+  padding: 16px;
+  border-radius: 16px;
+  border: 2px dashed #e0b13a;
+  background: var(--paper);
+}
+.partner__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+.tag--ad {
+  background: var(--yellow);
+  color: #3a2c00;
+}
+.partner h3 {
+  margin: 0 0 4px;
+  font-family: var(--font-head);
+  font-size: 1.25rem;
+  line-height: 1.2;
+}
+.partner p {
+  margin: 0 0 12px;
+}
+.partner__note {
+  margin: 10px 0 0;
+}
+.btn--sun {
+  background: var(--yellow);
+  color: #2a2000;
+  border-color: #e0b13a;
+  padding-block: 10px;
+  text-align: center;
+}
+.btn--sun:hover {
+  background: #ffd45f;
+}
+.partner__icon {
+  flex: none;
+}

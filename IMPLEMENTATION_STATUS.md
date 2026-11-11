@@ -69,6 +69,10 @@ content-visibility on home rails, stable default order on hydration, reserved he
   with `json.dumps` literal swaps so file formatting stays; validator still requires "smyšlen/fiktivn" in restaurant text).
 - Frozen strings (tests): sim notice, "Objednat nanečisto za 0 Kč", finale line "DámeNic doručilo přesně to, co slíbilo. Nic.".
 
+## v2.4 (2026-11-11): Rohlik.cz call to action
+- `PartnerCta.astro` under the recipe buttons and on the shopping list: "Na tohle už kurýr doopravdy přijede", yellow button, "Reklama" and
+  "Skutečný obchod, mimo simulaci" tags, `rel="sponsored nofollow noopener"`. Data in `partners.json`; privacy, about and how-it-works mention it.
+
 ## v1 (2026-11-10)
 ## Done (code written)
 - Catalogue: 6 fictional restaurants, 30 main dishes with options, sides and drinks, 30 recipes, 160 ingredients with illustrative prices.
@@ -112,7 +116,7 @@ All on GitHub-hosted runners (`ubuntu-latest`); nothing was installed, built or 
 
 ## Blocked / needs Kenny
 - Operator name and contact for `/o-projektu/` and `/soukromi/` (condition for a public launch; not invented).
-- Shop/affiliate partner for the shopping list: none confirmed, module stays disabled.
+- Shop/affiliate partner: Rohlik.cz enabled 11. 11. 2026 (Kenny's CJ link, not click-tested: Kenny should open it once to confirm the advertiser is approved).
 
 - `www.damenic.cz` answers 200 with the same pages (canonical points to the apex). A www → apex 301 Redirect Rule still has to be created on the zone.
 - Google Search Console: domain not verified yet; `scripts/damenic/gsc-setup.py` in the workspace does it (DNS TXT change, needs Kenny).

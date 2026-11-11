@@ -155,6 +155,7 @@ for (const [id, a] of assets) {
 
 for (const [id, p] of partners) {
   if (p.enabled && (!p.url || !p.verifiedAt || p.linkType === 'none')) err(`partner ${id}: enabled partners need a verified url, verifiedAt and a link type`);
+  if (p.enabled && p.url && !/^https:\/\//.test(p.url)) err(`partner ${id}: enabled partners need an https url`);
 }
 
 const mains = [...dishes.values()].filter((d) => d.kind === 'main').length;
