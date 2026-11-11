@@ -7,7 +7,11 @@ export default defineConfig({
   retries: 0,
   workers: 1,
   reporter: [['list']],
-  use: { baseURL: 'http://localhost:4321', locale: 'cs-CZ' },
+  use: {
+    baseURL: 'http://localhost:4321',
+    locale: 'cs-CZ',
+    storageState: { cookies: [], origins: [{ origin: 'http://localhost:4321', localStorage: [{ name: 'damenic:consent:v1', value: 'denied' }] }] }, // the consent banner is tested in consent.spec.ts
+  },
   projects: [
     { name: 'w360', use: { viewport: { width: 360, height: 780 }, deviceScaleFactor: 1, isMobile: true, hasTouch: true } },
     { name: 'w390', use: { viewport: { width: 390, height: 844 }, deviceScaleFactor: 1, isMobile: true, hasTouch: true } },

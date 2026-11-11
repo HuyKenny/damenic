@@ -90,6 +90,14 @@ content-visibility on home rails, stable default order on hydration, reserved he
   Always Use HTTPS, min TLS 1.2, Email Obfuscation off, Early Hints/0-RTT on, www→apex 301, WAF scanner/method rules, DMARC reject, DNSSEC
   (DS values printed, entered in the WEDOS panel). `--revert` restores from the backup it writes to `backups/damenic/`.
 
+## v2.6 (2026-11-11): Google Tag Manager behind consent
+- GTM-TDBTTH67 (`GTM_ID` in `src/lib/site.ts`) loads only after "Povolit" in the consent banner (`src/islands/Consent.tsx`, key
+  `damenic:consent:v1`, Consent Mode defaults: analytics granted after the click, all ad signals denied). "Nepovolit" is equally easy;
+  the choice is changeable from the footer and /soukromi/ (`data-consent-open`); withdrawing clears `_ga*` cookies and reloads.
+- CSP allows only Google's GTM/Analytics origins; `tests/e2e/consent.spec.ts` proves no request before consent. All other e2e/shots
+  start with the choice pre-set to "denied" (storageState in the Playwright configs).
+- Privacy page rewritten ("Analytika a cookies"). Tags/triggers are configured in the GTM container (not in this repo); keep ads/remarketing out.
+
 ## v1 (2026-11-10)
 ## Done (code written)
 - Catalogue: 6 fictional restaurants, 30 main dishes with options, sides and drinks, 30 recipes, 160 ingredients with illustrative prices.

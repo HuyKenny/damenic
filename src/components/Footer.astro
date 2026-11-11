@@ -30,6 +30,7 @@ import { CONTACT_EMAIL, mailto } from '@/lib/contact';
           <li><a href="/nakupni-seznam/">Nákupní seznam</a></li>
           <li><a href="/o-projektu/">O projektu</a></li>
           <li><a href="/soukromi/">Soukromí</a></li>
+          <li><button type="button" class="linklike" data-consent-open>Nastavení analytiky</button></li>
         </ul>
       </nav>
     </div>
@@ -39,3 +40,8 @@ import { CONTACT_EMAIL, mailto } from '@/lib/contact';
     </p>
   </div>
 </footer>
+
+<script>
+  // Reopens the analytics choice (the banner lives in the Consent island).
+  document.querySelectorAll('[data-consent-open]').forEach((b) => b.addEventListener('click', () => window.dispatchEvent(new Event('damenic:consent-open'))));
+</script>

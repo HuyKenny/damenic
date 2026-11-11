@@ -49,6 +49,8 @@ test('the CSP meta tag is strict: no unsafe-inline for scripts, no foreign origi
   const script = csp.split(';').find((d) => d.trim().startsWith('script-src ')) ?? '';
   expect(script).not.toContain("'unsafe-inline'");
   expect(script).not.toContain('*');
-  expect(csp).not.toMatch(/https?:\/\//);
+  // The only foreign origins are Google's, for the consent-gated Tag Manager / Analytics.
+  const origins = csp.match(/https?:\/\/[^\s;']+/g) ?? [];
+  for (const o of origins) expect(o, 'unexpected origin in CSP').toMatch(/^https:\/\/(www|\*)\.(googletagmanager|google-analytics|analytics\.google)\.com|^https:\/\/\*\.(google-analytics|googletagmanager)\.com|^https:\/\/\*\.analytics\.google\.com/);
   expect(csp).toContain("default-src 'self'");
 });

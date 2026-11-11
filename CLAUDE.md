@@ -42,6 +42,7 @@ Read results with `gh run view --repo HuyKenny/damenic`, download screenshots wi
 Voice: `COPY_GUIDE.md` (creative, simulation always obvious, recipes are facts). Restaurant descriptions must contain "smyšlen" or "fiktivn" (validator).
 
 ## Security / SEO guardrails (v2.5)
+- Analytics only with consent: GTM (`GTM_ID`) is injected by `Consent.tsx` after "Povolit"; never add a Google/third-party script to the HTML directly.
 - Strict CSP (Astro `security.csp` + `public/_headers`). New inline scripts or third-party origins must keep `tests/e2e/csp.spec.ts` green; never
   add `'unsafe-inline'` to script-src. Inline `style=""` attributes are allowed (style-src-attr).
 - `scripts/seo-audit.mjs` gates CI: indexable pages need one h1, self canonical, sitemap entry; no broken internal links; no `kqzyfj` in HTML.

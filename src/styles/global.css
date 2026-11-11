@@ -3406,3 +3406,56 @@ dialog.dlg--drawer {
 .operator dd {
   margin: 0;
 }
+
+/* v2.6: analytics consent banner (above the tab bar and the order pill) and link-style buttons */
+.consent {
+  position: fixed;
+  z-index: 60;
+  left: 20px;
+  bottom: 20px;
+  width: min(420px, calc(100vw - 40px));
+  padding: 16px;
+  border-radius: 16px;
+  border: 1px solid var(--line);
+  background: #fff;
+  box-shadow: var(--shadow-lift);
+}
+.consent h2 {
+  margin: 0 0 6px;
+  font-family: var(--font-head);
+  font-size: 1.125rem;
+}
+.consent p {
+  margin: 0 0 12px;
+  font-size: 0.9375rem;
+}
+.consent__actions {
+  display: flex;
+  gap: 10px;
+}
+.consent__actions .btn {
+  flex: 1;
+  min-height: 44px;
+}
+@media (max-width: 899px) {
+  .consent {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    border-radius: 16px 16px 0 0;
+    padding-bottom: calc(16px + env(safe-area-inset-bottom));
+  }
+}
+.linklike {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.footer .linklike {
+  color: inherit;
+}

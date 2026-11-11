@@ -8,6 +8,9 @@ export const SITE = {
     'Rozvoz jídla, který nic nepřiveze: smyšlené restaurace, objednávka nanečisto za 0 Kč a kurýr s prázdnou taškou. A skutečné recepty, ať nezůstaneš o hladu.',
 } as const;
 
+/** Google Tag Manager container. Loaded only after the visitor agrees (src/islands/Consent.tsx). */
+export const GTM_ID = 'GTM-TDBTTH67';
+
 export const CATEGORY_LABELS: Record<string, { label: string; lead: string }> = {
   pizza: { label: 'Pizza', lead: 'Kynuté těsto, rajčata a horká trouba.' },
   burgery: { label: 'Burgery', lead: 'Mleté hovězí, bulka a pánev.' },

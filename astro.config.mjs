@@ -13,22 +13,23 @@ export default defineConfig({
   compressHTML: true,
   integrations: [preact()],
   image: { responsiveStyles: true },
-  // Everything is first-party (fonts and images are self-hosted), so the policy can be strict. Astro puts per-page hashes of its own
+  // Everything is first-party (fonts and images are self-hosted) except consent-gated Google Tag Manager/Analytics, so the policy can be strict. Astro puts per-page hashes of its own
   // inline scripts and styles into a <meta> CSP; inline style="" attributes cannot be hashed, hence style-src-attr. The header
   // CSP in public/_headers adds frame-ancestors and friends. tests/e2e/csp.spec.ts fails on any violation.
   security: {
     csp: {
       directives: [
         "default-src 'self'",
-        "img-src 'self' data:",
+        "img-src 'self' data: https://*.google-analytics.com https://*.googletagmanager.com",
         "font-src 'self'",
-        "connect-src 'self'",
+        "connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com",
         "media-src 'self'",
         "frame-src 'none'",
         "manifest-src 'self'",
       ],
       // 'inline-speculation-rules' lets the inline <script type="speculationrules"> in Base.astro run (prefetch of internal links).
-      scriptDirective: { resources: ["'self'", "'inline-speculation-rules'"] },
+      // Google Tag Manager is the only third party; it is injected only after the visitor accepts analytics (Consent.tsx).
+      scriptDirective: { resources: ["'self'", "'inline-speculation-rules'", 'https://www.googletagmanager.com'] },
       styleDirective: { resources: ["'self'", { resource: "'unsafe-inline'", kind: 'attribute' }] },
     },
   },

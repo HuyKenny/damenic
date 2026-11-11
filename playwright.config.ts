@@ -13,6 +13,7 @@ export default defineConfig({
     trace: 'retain-on-failure',
     screenshot: 'only-on-failure',
     locale: 'cs-CZ',
+    storageState: { cookies: [], origins: [{ origin: 'http://localhost:4321', localStorage: [{ name: 'damenic:consent:v1', value: 'denied' }] }] }, // the consent banner is tested in consent.spec.ts
   },
   projects: [
     { name: 'desktop', use: { ...devices['Desktop Chrome'], viewport: { width: 1440, height: 900 } }, testIgnore: /mobile\.spec\.ts/ },

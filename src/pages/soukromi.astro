@@ -25,8 +25,17 @@ import { CONTACT_EMAIL, mailto } from '@/lib/contact';
       adresa, čas, adresa stránky a údaje o prohlížeči), které Cloudflare zpracovává pro doručení obsahu, zabezpečení a ochranu před útoky. Do obsahu
       tvého košíku ani objednávek tím nikdo nevidí, ty v požadavcích nejsou.
     </p>
-    <h2>Analytika a reklama</h2>
-    <p>Analytiku v této verzi nepoužíváme. Nejsou tu reklamní ani sledovací skripty třetích stran a nepoužíváme cookies.</p>
+    <h2>Analytika a cookies</h2>
+    <p>
+      Bez tvého souhlasu nepoužíváme žádnou analytiku ani cookies a nic se z tvého prohlížeče neodesílá. Když v liště klikneš na „Povolit“, načte se Google Tag
+      Manager (Google Ireland Limited), který spouští měření návštěvnosti Google Analytics a ukládá analytické cookies (například <code>_ga</code>). Měříme, které
+      stránky se čtou a odkud lidé přicházejí. Košík, simulované objednávky ani nákupní seznam se nikam neposílají. Google může údaje zpracovávat i mimo EU, podrobnosti
+      jsou v jeho zásadách. Reklamní cookies nepoužíváme.
+    </p>
+    <p>
+      Souhlas můžeš kdykoli změnit nebo odvolat: <button type="button" class="linklike" data-consent-open>Nastavení analytiky</button>. Když nepovolíš, web funguje
+      úplně stejně.
+    </p>
     <h2>Odkaz na partnera</h2>
     <p>
       U receptů a nákupního seznamu je reklamní odkaz na Rohlik.cz. Po kliknutí se přes krátkou adresu /go/rohlik otevře cizí web, na kterém se mohou ukládat
@@ -43,3 +52,7 @@ import { CONTACT_EMAIL, mailto } from '@/lib/contact';
     <p>Správcem údajů je provozovatel webu Ha Duy Huy, IČO 07876823, Bartáková 36, 140 00 Praha. Nejsem plátce DPH. Kontakt: <a href={mailto('DámeNic: soukromí')}>{CONTACT_EMAIL}</a>.</p>
   </div>
 </Base>
+
+<script>
+  document.querySelectorAll('[data-consent-open]').forEach((b) => b.addEventListener('click', () => window.dispatchEvent(new Event('damenic:consent-open'))));
+</script>
