@@ -73,6 +73,23 @@ content-visibility on home rails, stable default order on hydration, reserved he
 - `PartnerCta.astro` under the recipe buttons and on the shopping list: "Na tohle už kurýr doopravdy přijede", yellow button, "Reklama" and
   "Skutečný obchod, mimo simulaci" tags, `rel="sponsored nofollow noopener"`. Data in `partners.json`; privacy, about and how-it-works mention it.
 
+## v2.5 (2026-11-11): security, speed, technical SEO
+- `public/_headers`: HSTS (1 yr, includeSubDomains, no preload yet), nosniff, X-Frame-Options, Referrer-Policy, Permissions-Policy, COOP,
+  header CSP (frame-ancestors, base-uri, form-action, object-src), `/_astro/*` immutable 1 yr, `/go/*` noindex. Unit test `tests/unit/headers.test.ts`.
+- Astro `security.csp` (hashes in a meta tag, `'self'` only, `style-src-attr 'unsafe-inline'` for inline style attributes, `'inline-speculation-rules'`).
+  `tests/e2e/csp.spec.ts` loads every page type and fails on any violation or console error.
+- Speed: preload of 4 woff2 (Figtree/Bricolage latin + latin-ext), `inlineStylesheets: 'always'`, Speculation Rules prefetch (moderate,
+  not for /go/, /objednavka/, /pokladna/, /kosik/, /hledat/ or rel=nofollow), shorter dish titles/descriptions (`clip()`).
+- SEO: `scripts/seo-audit.mjs` runs in CI over `dist/` (h1, canonical, sitemap vs pages, noindex vs sitemap, alt, JSON-LD, broken internal links,
+  affiliate URL not in HTML; titles/descriptions length as warnings). First run found a real bug: recipes of side dishes linked to missing
+  dish pages (fixed: `DishRef.href`). Head: hreflang cs/x-default, og:image alt/size, twitter title/description, sitemap link.
+- Supply chain: `.github/dependabot.yml` (npm + actions), `npm audit` step (report only). Actions were already SHA-pinned.
+- `scripts/check-live-headers.mjs` runs after deploy (report only): headers, immutable, /go/ 302, http→https, www→apex, 404, security.txt.
+- `/security.txt` (wrangler does not upload dot folders; `/.well-known/security.txt` redirects to it).
+- **Zone changes need Kenny** (auto mode denies DNS/zone edits): `python3 scripts/damenic/cloudflare-hardening.py` (workspace) does
+  Always Use HTTPS, min TLS 1.2, Email Obfuscation off, Early Hints/0-RTT on, www→apex 301, WAF scanner/method rules, DMARC reject, DNSSEC
+  (DS values printed, entered in the WEDOS panel). `--revert` restores from the backup it writes to `backups/damenic/`.
+
 ## v1 (2026-11-10)
 ## Done (code written)
 - Catalogue: 6 fictional restaurants, 30 main dishes with options, sides and drinks, 30 recipes, 160 ingredients with illustrative prices.

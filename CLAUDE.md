@@ -41,6 +41,13 @@ Read results with `gh run view --repo HuyKenny/damenic`, download screenshots wi
 
 Voice: `COPY_GUIDE.md` (creative, simulation always obvious, recipes are facts). Restaurant descriptions must contain "smyšlen" or "fiktivn" (validator).
 
+## Security / SEO guardrails (v2.5)
+- Strict CSP (Astro `security.csp` + `public/_headers`). New inline scripts or third-party origins must keep `tests/e2e/csp.spec.ts` green; never
+  add `'unsafe-inline'` to script-src. Inline `style=""` attributes are allowed (style-src-attr).
+- `scripts/seo-audit.mjs` gates CI: indexable pages need one h1, self canonical, sitemap entry; no broken internal links; no `kqzyfj` in HTML.
+- Wrangler does not upload dot folders (`.well-known`): use redirects.
+- Zone settings (HTTPS, TLS, WAF, DNSSEC) are in `scripts/damenic/cloudflare-hardening.py` in the workspace.
+
 ## Architecture
 - Astro 7 static output, no adapter, Preact islands only where interactive, nanostores for shared state (`src/lib/stores.ts`).
 - Content: JSON in `src/data/` validated by Zod (`src/content.config.ts`) and by `scripts/validate-content.mjs` (cross-file rules).
