@@ -110,7 +110,7 @@ const jsonld = [
     ))
   }
 
-  <section class="wrap section" id="restaurace" aria-labelledby="h-vse">
+  <section class="wrap section cv cv--grid" id="restaurace" aria-labelledby="h-vse">
     <div class="section__head">
       <div>
         <h2 id="h-vse">Restaurace</h2>
@@ -119,7 +119,7 @@ const jsonld = [
       <a class="section__more" href="/restaurace/">Filtry a řazení <Icon name="arrow" size={18} /></a>
     </div>
     <div class="rgrid">
-      {byOrder.slice(0, 12).map((r) => <RestaurantTile r={r} now={null} />)}
+      {byOrder.slice(0, 8).map((r) => <RestaurantTile r={r} now={null} />)}
     </div>
     <p style="margin-top:24px;text-align:center">
       <a class="btn btn--lg" href="/restaurace/">Všech {summaries.length} restaurací s filtry</a>

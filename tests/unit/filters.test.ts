@@ -30,8 +30,9 @@ describe('filters', () => {
     expect(applyFilters(items, { ...EMPTY_FILTERS, openNow: true }, noon).map((x) => x.id)).toEqual(['b', 'a']);
     expect(activeCount({ ...EMPTY_FILTERS, categories: ['a', 'b'], promo: true })).toBe(3);
   });
-  it('sorts closed restaurants last', () => {
-    expect(applyFilters(items, EMPTY_FILTERS, noon).map((x) => x.id)).toEqual(['b', 'a', 'c']);
+  it('keeps the static order by default and sorts closed restaurants last otherwise', () => {
+    expect(applyFilters(items, EMPTY_FILTERS, noon).map((x) => x.id)).toEqual(['b', 'c', 'a']);
+    expect(applyFilters(items, { ...EMPTY_FILTERS, sort: 'abeceda' }, noon).map((x) => x.id)).toEqual(['a', 'b', 'c']);
     expect(applyFilters(items, { ...EMPTY_FILTERS, sort: 'nejrychlejsi' }, noon)[0]!.id).toBe('a');
   });
 });

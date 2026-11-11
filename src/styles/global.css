@@ -3138,3 +3138,18 @@ dialog.dlg--drawer {
   min-height: calc(100vh - 160px);
   min-height: calc(100svh - 160px);
 }
+/* Home grid of 8 restaurant cards: the reserved size must not be smaller than the real one,
+   otherwise contrast checks see the cards over the footer. Generous per column count. */
+.cv--grid {
+  contain-intrinsic-size: auto 3200px;
+}
+@media (min-width: 600px) {
+  .cv--grid {
+    contain-intrinsic-size: auto 1800px;
+  }
+}
+@media (min-width: 1150px) {
+  .cv--grid {
+    contain-intrinsic-size: auto 1100px;
+  }
+}

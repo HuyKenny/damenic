@@ -133,6 +133,9 @@ export function applyFilters(items: RestaurantSummary[], f: FilterState, now: nu
     minimum: (a, b) => a.minOrder - b.minOrder || a.order - b.order,
     abeceda: (a, b) => a.name.localeCompare(b.name, 'cs'),
   };
-  // Open restaurants first, like the real apps; closed ones stay visible with their opening time.
+  // The default order matches the static HTML, so hydration never reorders the grid (that was a 0.23 CLS in the
+  // morning, when many places are closed). Closed places stay in place with an overlay; once the visitor picks
+  // another sort, open restaurants come first like in the real apps.
+  if (f.sort === 'doporucene') return out.sort(by.doporucene);
   return out.sort((a, b) => Number(isOpen(b.hours, now)) - Number(isOpen(a.hours, now)) || by[f.sort](a, b));
 }
