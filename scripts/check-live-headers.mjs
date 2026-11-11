@@ -37,8 +37,8 @@ async function run() {
 
   const missing = await get(`${ORIGIN}/tohle-tu-neni/`);
   ok(missing.status === 404, `unknown URL returned ${missing.status}`);
-  const sec = await get(`${ORIGIN}/.well-known/security.txt`);
-  ok(sec.status === 200, `security.txt returned ${sec.status}`);
+  const sec = await get(`${ORIGIN}/security.txt`);
+  ok(sec.status === 200, `/security.txt returned ${sec.status}`);
   return problems;
 }
 
