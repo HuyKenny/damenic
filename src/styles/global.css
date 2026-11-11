@@ -3361,6 +3361,9 @@ dialog.dlg--drawer {
   color: #3a2c00;
 }
 .partner h3 {
+  text-transform: none;
+  letter-spacing: 0;
+  color: var(--ink);
   margin: 0 0 4px;
   font-family: var(--font-head);
   font-size: 1.25rem;
