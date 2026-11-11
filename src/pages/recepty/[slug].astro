@@ -6,7 +6,7 @@ import RecipeCard from '@/components/RecipeCard.astro';
 import RecipeTools, { type DishRef } from '@/islands/RecipeTools';
 import PartnerCta from '@/components/PartnerCta.astro';
 import { getCollection, getEntry } from 'astro:content';
-import { allDishes, allRecipes, ingredientInfo, pickInfo, recipeLite, totalMinutes, type Recipe } from '@/lib/content';
+import { allDishes, allRecipes, dishHasPage, ingredientInfo, pickInfo, recipeLite, totalMinutes, type Recipe } from '@/lib/content';
 import { formatAmount } from '@/lib/units';
 import { formatDuration } from '@/lib/units';
 import { CATEGORY_LABELS, SITE } from '@/lib/site';
@@ -29,7 +29,7 @@ const dishEntry = (await allDishes()).find((d) => d.data.recipe?.id === r.id);
 let dish: DishRef | null = null;
 if (dishEntry) {
   const rest = (await getEntry(dishEntry.data.restaurant))!;
-  dish = { name: dishEntry.data.name, slug: dishEntry.id, price: dishEntry.data.price, restaurant: rest.data.name, deliveryFee: rest.data.deliveryFee };
+  dish = { name: dishEntry.data.name, href: dishHasPage(dishEntry) ? `/jidla/${dishEntry.id}/` : `/restaurace/${rest.id}/`, price: dishEntry.data.price, restaurant: rest.data.name, deliveryFee: rest.data.deliveryFee };
 }
 const related = (await allRecipes()).filter((x) => x.data.category === r.data.category && x.id !== r.id).slice(0, 4);
 const sections: { title: string; steps: string[] }[] = [];
@@ -104,7 +104,7 @@ const metaTitle = `${r.data.title} – recept krok za krokem`;
         {
           dish && (
             <p class="muted no-print" style="margin:0">
-              Tohle samé jídlo na DámeNic „objednáš“: <a href={`/jidla/${dish.slug}/`}>{dish.name}</a> z fiktivní restaurace {dish.restaurant}, která ti ho nikdy nepřiveze.
+              Tohle samé jídlo na DámeNic „objednáš“: <a href={dish.href}>{dish.name}</a> z fiktivní restaurace {dish.restaurant}, která ti ho nikdy nepřiveze.
             </p>
           )
         }

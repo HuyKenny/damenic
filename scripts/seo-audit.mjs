@@ -62,8 +62,9 @@ for (const f of htmlFiles) {
   if (!/name="viewport"/.test(head)) err(url, 'viewport meta missing');
   if (!title) err(url, 'empty <title>');
   if (!description) err(url, 'meta description missing');
+  // State pages (cart, tracker…) draw their h1 in an island and are noindex; only indexable pages need it in the HTML.
   const h1 = (body.match(/<h1[\s>]/g) ?? []).length;
-  if (h1 !== 1) err(url, `${h1} <h1> elements (want exactly 1)`);
+  if (indexable ? h1 !== 1 : h1 > 1) err(url, `${h1} <h1> elements (want exactly 1)`);
 
   if (indexable) {
     if (!canonical) err(url, 'indexable page without canonical');
@@ -78,7 +79,7 @@ for (const f of htmlFiles) {
   pages.set(url, { indexable });
 
   // images need an alt attribute (empty is fine for decoration)
-  for (const tag of html.match(/<img\b[^>]*>/g) ?? []) if (!/\salt=/.test(tag)) err(url, `<img> without alt: ${tag.slice(0, 80)}`);
+  for (const tag of html.match(/<img\b[^>]*>/g) ?? []) if (!/\salt(=|\s|\/|>)/.test(tag)) err(url, `<img> without alt: ${tag.slice(0, 80)}`);
   // structured data must parse
   for (const m of html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) {
     try {
@@ -110,8 +111,12 @@ if (!robots.includes(`Sitemap: ${ORIGIN}/sitemap-index.xml`)) err('robots.txt', 
 
 const indexable = [...pages.values()].filter((p) => p.indexable).length;
 console.log(`seo-audit: ${pages.size} pages (${indexable} indexable), ${sitemapUrls.size} sitemap URLs, ${errors.length} errors, ${warnings.length} warnings`);
-for (const w of warnings.slice(0, 25)) console.log('  warn  ' + w);
-if (warnings.length > 25) console.log(`  … and ${warnings.length - 25} more warnings`);
+const kinds = new Map();
+for (const w of warnings) {
+  const k = w.replace(/^[^:]*: /, '').replace(/\d+/g, 'N').replace(/:.*$/, '');
+  kinds.set(k, [...(kinds.get(k) ?? []), w]);
+}
+for (const [k, list] of kinds) console.log(`  warn  ${list.length}× ${k}   e.g. ${list[0].split(':')[0]}`);
 for (const e of errors.slice(0, 60)) console.log('  ERROR ' + e);
 if (errors.length > 60) console.log(`  … and ${errors.length - 60} more errors`);
 process.exit(errors.length ? 1 : 0);

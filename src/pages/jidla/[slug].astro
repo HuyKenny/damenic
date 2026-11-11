@@ -29,7 +29,7 @@ const others = (await allDishes()).filter((x) => x.data.restaurant.id === restau
 ---
 
 <Base
-  title={`${d.data.name} – objednej nanečisto, uvař doopravdy`}
+  title={`${d.data.name} nanečisto + recept`}
   description={clip(`${d.data.name} z fiktivní restaurace ${restaurant.data.name}: ${d.data.description} Objednáš nanečisto, recept dostaneš doopravdy.`)}
   ogType="article"
   noindex={!indexable}

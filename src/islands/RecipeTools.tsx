@@ -13,7 +13,8 @@ import { Icon } from './icons';
 
 export interface DishRef {
   name: string;
-  slug: string;
+  /** Link to the dish page, or to the restaurant when the dish (a side) has no page of its own. */
+  href: string;
   /** Simulated price of one portion, haléře. */
   price: number;
   restaurant: string;
@@ -130,7 +131,7 @@ export default function RecipeTools({ recipe, info, dish, children }: Props) {
             <>
               <div class="is-diff">
                 <dt>
-                  Simulovaný rozvoz: {servings}× <a href={`/jidla/${dish.slug}/`}>{dish.name}</a>, doprava a poplatek jednou
+                  Simulovaný rozvoz: {servings}× <a href={dish.href}>{dish.name}</a>, doprava a poplatek jednou
                 </dt>
                 <dd data-testid="cost-delivery">{formatCzk(cmp.delivery)}</dd>
               </div>
