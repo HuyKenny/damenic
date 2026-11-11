@@ -221,6 +221,7 @@ export default function Tracker({ recipes, courierImg }: Props) {
     void audioCtx()?.resume().catch(() => undefined);
     $orders.set(openDoor($orders.get(), order.id, at));
     setNow(at);
+    window.scrollTo({ top: 0 }); // the finale starts at the top, not where the door button was
   };
   const toggleBell = () => {
     const next = !bell;

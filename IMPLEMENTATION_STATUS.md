@@ -27,6 +27,31 @@ Updated: 2026-11-11. Only results that actually ran are recorded here.
 - Screenshots 360/390/768/1440 reviewed by eye; fixed from them: separator dot starting a wrapped facts line on tiles.
 - IndexNow: first ping right after the key went live returned 403, the next deploy's ping returned 200 (306 URLs).
 
+## v2.1 (2026-11-11): real-time tracking (Kenny's request)
+- New orders run in real time (speed 1); orders stored earlier keep 10× and open as delivered.
+- Tracker: mm:ss countdown, "Doručení kolem HH:MM", countdown in the tab title, stage times in the timeline, new stages
+  "Kurýr je za rohem" and "Kurýr stojí před dveřmi", illustrative distance, pulsing marker. At the end a doorbell dialog
+  (Web Audio ding-dong + vibration, once per tab session, can be switched off) and "Otevřít dveře"; pickup ends with "Vyzvednout".
+- Active order pill on every page ("Kurýr dorazí za 9 min", "Kurýr je u dveří!").
+- Fixed on the way: the catalogue was 906 px wide on phones (sr-only sort label escaped the filter scroller), which hid the
+  bottom tab bar there; the mobile e2e test now checks /restaurace/ and names overflowing elements.
+- CI: 52 unit tests, 26 e2e tests pass; door, pill and finale screenshots reviewed.
+
+### Lighthouse after the performance fixes (2026-11-11, mobile lab, run 42979860023)
+| Page | Perf | A11y | Best | SEO | LCP | CLS |
+|---|---|---|---|---|---|---|
+| / | 98 | 100 | 100 | 100 | 1.8 s | 0 |
+| /restaurace/ | 99 | 100 | 100 | 100 | 2.0 s | 0 |
+| /restaurace/prazdna-pec/ | 99 | 100 | 100 | 100 | 1.6 s | 0.001 |
+| /jidla/svickova-na-smetane/ | 99 | 100 | 100 | 100 | 2.1 s | 0 |
+| /recepty/pizza-margherita/ | 99 | 100 | 100 | 100 | 1.7 s | 0 |
+| /recepty/kuchyne/ceska/ | 99 | 100 | 100 | 100 | 1.9 s | 0 |
+| /kosik/ | 100 | 100 | 100 | 63 (noindex) | 1.5 s | 0.032 |
+
+The home page varies between runs (a second run gave Perf 86, TBT 510 ms); the other pages stay at 98–100.
+Fixes that got there: metric-matched fallback fonts (CLS 0.16 → 0), static home grid instead of the filter island,
+content-visibility on home rails, stable default order on hydration, reserved height on storage pages, monogram contrast.
+
 ## v1 (2026-11-10)
 ## Done (code written)
 - Catalogue: 6 fictional restaurants, 30 main dishes with options, sides and drinks, 30 recipes, 160 ingredients with illustrative prices.
