@@ -7,7 +7,7 @@ import { formatCzk } from '@/lib/money';
 import { useInit } from './hooks';
 
 const date = new Intl.DateTimeFormat('cs-CZ', { day: 'numeric', month: 'numeric', year: 'numeric', hour: '2-digit', minute: '2-digit' });
-const LABEL = { running: 'Probíhá', done: 'Doručeno: nic', cancelled: 'Zrušeno' } as const;
+const LABEL = { running: 'Probíhá', atDoor: 'U dveří', done: 'Doručeno: nic', cancelled: 'Zrušeno' } as const;
 
 export default function OrderHistory() {
   const ready = useInit();
@@ -48,7 +48,7 @@ export default function OrderHistory() {
                     #{o.id} · {date.format(o.createdAt)} · {o.city}
                   </p>
                 </div>
-                <span class={`tag ${status === 'running' ? 'tag--red' : ''}`}>{LABEL[status]}</span>
+                <span class={`tag ${status === 'running' || status === 'atDoor' ? 'tag--red' : ''}`}>{LABEL[status]}</span>
               </div>
               <p style="margin:10px 0">{o.lines.map((l) => `${l.qty}× ${l.name}`).join(', ')}</p>
               <div style="display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap">
@@ -56,7 +56,7 @@ export default function OrderHistory() {
                   Simulovaná hodnota <strong class="num">{formatCzk(o.totals.total)}</strong>, zaplaceno 0 Kč
                 </span>
                 <a class="btn btn--ghost btn--sm" href={`/objednavka/#${o.id}`}>
-                  {status === 'running' ? 'Sledovat kurýra' : 'Zobrazit'}
+                  {status === 'running' ? 'Sledovat kurýra' : status === 'atDoor' ? 'Otevřít dveře' : 'Zobrazit'}
                 </a>
               </div>
             </li>

@@ -15,9 +15,11 @@ interface Props {
   destination: string;
   /** Pickup: the marker is the customer walking to the restaurant. */
   pickup?: boolean;
+  /** Last stretch and arrival: marker and destination pulse. */
+  near?: boolean;
 }
 
-export function CourierMap({ getProgress, running, restaurant, destination, pickup = false }: Props) {
+export function CourierMap({ getProgress, running, restaurant, destination, pickup = false, near = false }: Props) {
   const path = useRef<SVGPathElement>(null);
   const done = useRef<SVGPathElement>(null);
   const marker = useRef<SVGGElement>(null);
@@ -59,7 +61,7 @@ export function CourierMap({ getProgress, running, restaurant, destination, pick
   }, [getProgress, running, pickup]);
 
   return (
-    <figure class="map" style="margin:0">
+    <figure class={`map ${near ? 'is-near' : ''}`} style="margin:0">
       <svg viewBox="0 0 640 400" role="img" aria-label={`Ilustrační mapa: trasa smyšleného kurýra od restaurace ${restaurant} k bodu ${destination}`}>
         <rect width="640" height="400" fill="#eef0e9" />
         {BLOCKS.map(([x, y, w, h], i) => (
@@ -76,13 +78,15 @@ export function CourierMap({ getProgress, running, restaurant, destination, pick
           Restaurace
         </text>
         <g transform="translate(556 84)">
+          {near && !pickup && <circle class="map__pulse" r="17" fill="#d92e32" />}
           <circle r="17" fill="#fff" stroke="#202124" stroke-width="3" />
           <circle r="6" fill="#202124" />
         </g>
         <text x="556" y="58" text-anchor="middle" font-size="13" font-weight="700" fill="#202124">
-          Nikde 0
+          {pickup ? 'Domov' : 'Tvoje dveře'}
         </text>
         <g ref={marker} transform="translate(92 318)" data-testid="courier-marker">
+          {near && <circle class="map__pulse" r="15" fill="#d92e32" />}
           <circle r="15" fill="#d92e32" stroke="#fff" stroke-width="3" />
           <path d="M-7 3a3 3 0 1 0 0.01 0M7 3a3 3 0 1 0 0.01 0M-7 3l3-7h5l3 7M-1 -4l-1-3h-3" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
         </g>

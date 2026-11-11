@@ -1,8 +1,8 @@
-import { useCallback, useEffect, useState } from 'preact/hooks';
+import { useCallback, useEffect, useRef, useState } from 'preact/hooks';
 import { useStore } from '@nanostores/preact';
 import { $orders, $shopping } from '@/lib/stores';
-import { cancelOrder, findOrder, skipOrder } from '@/lib/orders';
-import { SPEED, STAGES, fromOrder, simulate } from '@/lib/simulation';
+import { cancelOrder, findOrder, openDoor, skipOrder } from '@/lib/orders';
+import { STAGES, clock, fromOrder, realDurationMs, simulate, stageMessage, stageTimes, stageTitle } from '@/lib/simulation';
 import { addRecipe } from '@/lib/shopping';
 import { formatCzk, roundToCrown } from '@/lib/money';
 import type { OrderSnapshot } from '@/lib/types';
@@ -31,6 +31,67 @@ const COURIERS = [
 ];
 const courierFor = (id: string) => COURIERS[[...id].reduce((n, ch) => n + ch.charCodeAt(0), 0) % COURIERS.length]!;
 const hashId = () => (typeof location === 'undefined' ? '' : decodeURIComponent(location.hash.replace(/^#/, '')));
+const hhmm = (t: number) => new Date(t).toLocaleTimeString('cs-CZ', { hour: '2-digit', minute: '2-digit' });
+/** Illustrative route length for the "km away" label; the map is a drawing, not a real place. */
+const ROUTE_KM = 2.4;
+
+// ---------- doorbell: generated tone, no audio file; never plays in a hidden tab ----------
+const BELL_KEY = 'damenic:bell:v1';
+const bellOn = () => {
+  try {
+    return localStorage.getItem(BELL_KEY) !== 'off';
+  } catch {
+    return true;
+  }
+};
+let audio: AudioContext | null = null;
+function audioCtx(): AudioContext | null {
+  try {
+    audio ??= new AudioContext();
+    return audio;
+  } catch {
+    return null;
+  }
+}
+function ring() {
+  const ctx = audioCtx();
+  if (ctx) {
+    void ctx.resume().catch(() => undefined);
+    // "Ding-dong": two soft sine tones. If the browser still blocks audio (no click on this page yet), it stays silent.
+    [
+      [659, 0],
+      [523, 0.45],
+    ].forEach(([freq, delay]) => {
+      const osc = ctx.createOscillator();
+      const gain = ctx.createGain();
+      const t = ctx.currentTime + delay!;
+      osc.type = 'sine';
+      osc.frequency.value = freq!;
+      gain.gain.setValueAtTime(0.0001, t);
+      gain.gain.exponentialRampToValueAtTime(0.25, t + 0.02);
+      gain.gain.exponentialRampToValueAtTime(0.0001, t + 0.9);
+      osc.connect(gain).connect(ctx.destination);
+      osc.start(t);
+      osc.stop(t + 1);
+    });
+  }
+  try {
+    navigator.vibrate?.([200, 100, 200]);
+  } catch {
+    /* not supported */
+  }
+}
+/** Rings once per order per browser tab session, so a refresh does not ring again. */
+function ringOnce(id: string) {
+  const key = `damenic:rang:${id}`;
+  try {
+    if (sessionStorage.getItem(key)) return;
+    sessionStorage.setItem(key, '1');
+  } catch {
+    /* blocked storage: ring anyway */
+  }
+  if (bellOn()) ring();
+}
 
 export default function Tracker({ recipes, courierImg }: Props) {
   const ready = useInit();
@@ -39,21 +100,31 @@ export default function Tracker({ recipes, courierImg }: Props) {
   const [now, setNow] = useState(() => Date.now());
   const [askCancel, setAskCancel] = useState(false);
   const [contact, setContact] = useState<'call' | 'chat' | null>(null);
+  const [doorOpen, setDoorOpen] = useState(true);
+  const [bell, setBell] = useState(true);
+  const baseTitle = useRef('');
 
   useEffect(() => {
     const read = () => setId(hashId());
     read();
+    setBell(bellOn());
+    baseTitle.current = document.title;
     window.addEventListener('hashchange', read);
-    return () => window.removeEventListener('hashchange', read);
+    return () => {
+      window.removeEventListener('hashchange', read);
+      document.title = baseTitle.current;
+    };
   }, []);
 
   const order = id ? findOrder(orders, id) : undefined;
   const sim = order ? simulate(fromOrder(order), now) : null;
   const running = sim?.status === 'running';
-  const scheduled = order !== undefined && sim?.status === 'running' && now < order.createdAt;
+  const atDoor = sim?.status === 'atDoor';
+  const pickup = order?.mode === 'pickup';
+  const scheduled = order !== undefined && running && now < order.createdAt;
 
-  // The clock only drives the countdown text. State is always recomputed from the stored creation time,
-  // so a refresh or a return from a hidden tab lands on the right stage. Nothing is written per tick.
+  // The clock drives the countdown. State is always recomputed from the stored timestamps, so a refresh or a
+  // return from a hidden tab lands on the right stage. Nothing is written per tick.
   useEffect(() => {
     if (!running) return;
     let timer = 0;
@@ -70,6 +141,25 @@ export default function Tracker({ recipes, courierImg }: Props) {
       document.removeEventListener('visibilitychange', start);
     };
   }, [running, order?.id]);
+
+  // Countdown in the tab title, so it keeps going while people browse elsewhere.
+  useEffect(() => {
+    if (!sim || !order || !baseTitle.current) return;
+    if (running && !scheduled) document.title = `(${clock(sim.remainingMs)}) ${stageTitle(sim.stage, pickup)} · DámeNic`;
+    else if (atDoor) document.title = pickup ? '🛍 Objednávka je připravená · DámeNic' : '🔔 Kurýr je u dveří · DámeNic';
+    else document.title = baseTitle.current;
+  });
+
+  // Doorbell: once, when the courier arrives and the tab is visible (or as soon as it becomes visible).
+  useEffect(() => {
+    if (!atDoor || !order || pickup) return;
+    const tryRing = () => {
+      if (!document.hidden) ringOnce(order.id);
+    };
+    tryRing();
+    document.addEventListener('visibilitychange', tryRing);
+    return () => document.removeEventListener('visibilitychange', tryRing);
+  }, [atDoor, order?.id, pickup]);
 
   const getProgress = useCallback(() => (order ? simulate(fromOrder(order), Date.now()).routeProgress : 0), [order]);
 
@@ -103,12 +193,12 @@ export default function Tracker({ recipes, courierImg }: Props) {
   if (sim.status === 'done') return <Finale order={order} recipes={recipes} />;
 
   if (scheduled) {
-    const at = new Date(order.createdAt + (order.restaurant.etaMinutes * 60_000) / SPEED);
+    const at = new Date(order.createdAt + realDurationMs(order.restaurant.etaMinutes, order.speed));
     return (
       <div class="empty" data-testid="scheduled">
         <span class="sticker">Naplánováno</span>
-        <h1 style="margin-top:12px;font-size:1.8rem">Doručení nanečisto v {at.toLocaleTimeString('cs-CZ', { hour: '2-digit', minute: '2-digit' })}</h1>
-        <p>Simulace začne {new Date(order.createdAt).toLocaleTimeString('cs-CZ', { hour: '2-digit', minute: '2-digit' })}. Do té doby restaurace připravuje přesně tolik, kolik vždycky: nic.</p>
+        <h1 style="margin-top:12px;font-size:1.8rem">Doručení nanečisto v {hhmm(at.getTime())}</h1>
+        <p>Simulace začne {hhmm(order.createdAt)}. Do té doby restaurace připravuje přesně tolik, kolik vždycky: nic.</p>
         <button type="button" class="btn" onClick={() => {
           const t0 = Date.now();
           $orders.set(skipOrder($orders.get(), order.id, t0));
@@ -120,6 +210,28 @@ export default function Tracker({ recipes, courierImg }: Props) {
 
   const courier = courierFor(order.id);
   const recipeLines = order.lines.filter((l) => l.recipe && recipes[l.recipe]);
+  const times = stageTimes(fromOrder(order));
+  const timeOf = (stageId: string) => times.find((t) => t.stage.id === stageId)?.at;
+  const onRoute = sim.stage.id === 'onTheWay' || sim.stage.id === 'nearby';
+  const km = ((1 - sim.routeProgress) * ROUTE_KM).toLocaleString('cs-CZ', { maximumFractionDigits: 1, minimumFractionDigits: 1 });
+  const realTime = order.speed === 1;
+
+  const open = () => {
+    const at = Date.now();
+    void audioCtx()?.resume().catch(() => undefined);
+    $orders.set(openDoor($orders.get(), order.id, at));
+    setNow(at);
+  };
+  const toggleBell = () => {
+    const next = !bell;
+    setBell(next);
+    try {
+      localStorage.setItem(BELL_KEY, next ? 'on' : 'off');
+    } catch {
+      /* blocked storage: the toggle still works for this page */
+    }
+    if (next) void audioCtx()?.resume().catch(() => undefined); // the click unlocks audio for the doorbell later
+  };
 
   return (
     <div data-testid="tracker" data-stage={sim.stage.id} data-status={sim.status}>
@@ -127,12 +239,19 @@ export default function Tracker({ recipes, courierImg }: Props) {
         <p class="small muted" style="margin:0 0 6px">
           Simulovaná objednávka <span class="num">#{order.id}</span> · {order.restaurant.name}
         </p>
-        <h1>{sim.status === 'cancelled' ? 'Simulace zrušena' : sim.stage.title}</h1>
+        <h1>{sim.status === 'cancelled' ? 'Simulace zrušena' : stageTitle(sim.stage, pickup)}</h1>
       </div>
       <div class="track">
         <div class="stack">
-          <CourierMap getProgress={getProgress} running={running} restaurant={order.restaurant.name} destination={order.dropPoint} pickup={order.mode === 'pickup'} />
-          <section class="track__status">
+          <CourierMap
+            getProgress={getProgress}
+            running={running}
+            restaurant={order.restaurant.name}
+            destination={order.dropPoint}
+            pickup={pickup}
+            near={sim.stage.id === 'nearby' || atDoor}
+          />
+          <section class={`track__status ${atDoor ? 'is-door' : ''}`}>
             {sim.status === 'cancelled' ? (
               <>
                 <p class="track__msg">Zrušili jsme doručení ničeho. Výsledek je stejný.</p>
@@ -146,6 +265,26 @@ export default function Tracker({ recipes, courierImg }: Props) {
                   </a>
                 </div>
               </>
+            ) : atDoor ? (
+              <>
+                <div class="track__eta">
+                  <span class="doorbell" aria-hidden="true">
+                    <Icon name={pickup ? 'bag' : 'bell'} size={34} />
+                  </span>
+                  <div>
+                    <strong class="track__now">{pickup ? 'Připraveno' : 'Je tady!'}</strong>
+                    <div class="small muted">{pickup ? `od ${hhmm(sim.arrivalAt)}` : `u dveří od ${hhmm(sim.arrivalAt)}`}</div>
+                  </div>
+                </div>
+                <p class="track__msg" role="status" aria-live="assertive" data-testid="stage-message">
+                  {stageMessage(sim.stage, pickup)}
+                </p>
+                <div class="toolbar">
+                  <button type="button" class="btn btn--lg" onClick={open} data-testid="open-door">
+                    <Icon name={pickup ? 'bag' : 'door'} /> {pickup ? 'Vyzvednout' : 'Otevřít dveře'}
+                  </button>
+                </div>
+              </>
             ) : (
               <>
                 <div class="track__eta">
@@ -154,20 +293,33 @@ export default function Tracker({ recipes, courierImg }: Props) {
                     <circle cx="60" cy="60" r="52" fill="none" stroke="#d92e32" stroke-width="12" stroke-linecap="round" stroke-dasharray={`${(sim.progress * 326.7).toFixed(1)} 326.7`} transform="rotate(-90 60 60)" />
                   </svg>
                   <div>
-                    <strong data-testid="eta">{sim.remainingMinutes} min</strong>
-                    <div class="small muted">{order.mode === 'pickup' ? 'do vyzvednutí' : 'do doručení'}</div>
+                    {realTime ? (
+                      <strong data-testid="eta" class="num" aria-label={`Zbývá ${sim.remainingMinutes} min`}>
+                        {clock(sim.remainingMs)}
+                      </strong>
+                    ) : (
+                      <strong data-testid="eta">{sim.remainingMinutes} min</strong>
+                    )}
+                    <div class="small muted">
+                      {pickup ? 'Vyzvednutí' : 'Doručení'} kolem <span class="num">{hhmm(sim.arrivalAt)}</span>
+                    </div>
                   </div>
-                  <span class="tag tag--sim">Zrychlená simulace {SPEED}×</span>
+                  <span class="tag tag--sim">{realTime ? 'Simulace v reálném čase' : `Zrychlená simulace ${order.speed}×`}</span>
                 </div>
                 <div class="bar" role="progressbar" aria-label="Průběh simulace" aria-valuemin={0} aria-valuemax={100} aria-valuenow={Math.round(sim.progress * 100)}>
                   <i style={{ width: `${(sim.progress * 100).toFixed(1)}%` }} />
                 </div>
                 {/* Announced only when the stage changes, not every second. */}
                 <p class="track__msg" role="status" aria-live="polite" data-testid="stage-message">
-                  {sim.stage.message}
+                  {stageMessage(sim.stage, pickup)}
                 </p>
-                <p class="muted small" style="margin:0">
-                  Odpočet ukazuje simulovaný čas. Ve skutečnosti zbývá asi {Math.max(1, Math.ceil(sim.remainingMs / 1000))} s.
+                {onRoute && (
+                  <p class="small" style="margin:0" data-testid="distance">
+                    {pickup ? 'Do restaurace' : 'Kurýr je od tebe'} ještě <strong class="num">{km} km</strong> <span class="muted">(ilustračně)</span>
+                  </p>
+                )}
+                <p class="muted small" style="margin:6px 0 0">
+                  Kurýr i jídlo jsou smyšlené. Čekání můžeš kdykoli přeskočit.
                 </p>
                 <div class="toolbar">
                   <button type="button" class="btn btn--dark" onClick={() => {
@@ -180,11 +332,16 @@ export default function Tracker({ recipes, courierImg }: Props) {
                   <button type="button" class="btn btn--ghost" onClick={() => setAskCancel(true)} data-testid="cancel">
                     Zrušit simulaci
                   </button>
+                  {!pickup && (
+                    <button type="button" class="btn btn--ghost btn--sm" onClick={toggleBell} aria-pressed={bell} data-testid="bell-toggle">
+                      <Icon name={bell ? 'bell' : 'bellOff'} size={18} /> {bell ? 'Zvonek zapnutý' : 'Zvonek vypnutý'}
+                    </button>
+                  )}
                 </div>
               </>
             )}
           </section>
-          {recipeLines.length > 0 && sim.status === 'running' && (
+          {recipeLines.length > 0 && (sim.status === 'running' || atDoor) && (
             <section class="panel">
               <h2>Mezitím se dá vařit doopravdy</h2>
               <p class="muted" style="margin:0 0 10px">
@@ -206,42 +363,65 @@ export default function Tracker({ recipes, courierImg }: Props) {
           <section class="panel">
             <h2>Průběh</h2>
             <ol class="timeline">
-              {STAGES.map((stage, i) => {
+              {STAGES.filter((st) => st.id !== 'done').map((stage, i) => {
                 const state = sim.status === 'cancelled' ? (i <= sim.stageIndex ? 'is-done' : 'is-todo') : i < sim.stageIndex ? 'is-done' : i === sim.stageIndex ? 'is-now' : 'is-todo';
+                const at = timeOf(stage.id);
                 return (
                   <li class={state} key={stage.id} aria-current={state === 'is-now' ? 'step' : undefined}>
                     <span class="timeline__dot">{state === 'is-done' && <Icon name="check" size={16} />}</span>
                     <span>
-                      <strong>{stage.title}</strong>
-                      {state !== 'is-todo' && <span class="small muted">{stage.message}</span>}
+                      <strong>
+                        {state !== 'is-todo' && at !== undefined && <span class="timeline__time num">{hhmm(at)}</span>}
+                        {stageTitle(stage, pickup)}
+                      </strong>
+                      {state !== 'is-todo' && <span class="small muted">{stageMessage(stage, pickup)}</span>}
                     </span>
                   </li>
                 );
               })}
             </ol>
           </section>
-          <section class="panel">
-            <h2>Smyšlený kurýr</h2>
-            <div class="courier">
-              <span class="courier__avatar">{courierImg ? <img src={courierImg} alt="" width="52" height="52" /> : <Icon name="bike" size={26} />}</span>
-              <div>
-                <strong>{courier.name}</strong>
-                <div class="muted small">{courier.vehicle}</div>
-                <div class="muted small">Kurýr neexistuje.</div>
+          {!pickup && (
+            <section class="panel">
+              <h2>Smyšlený kurýr</h2>
+              <div class="courier">
+                <span class="courier__avatar">{courierImg ? <img src={courierImg} alt="" width="52" height="52" /> : <Icon name="bike" size={26} />}</span>
+                <div>
+                  <strong>{courier.name}</strong>
+                  <div class="muted small">{courier.vehicle}</div>
+                  <div class="muted small">Kurýr neexistuje.</div>
+                </div>
               </div>
-            </div>
-            <div class="toolbar">
-              <button type="button" class="btn btn--ghost btn--sm" onClick={() => setContact('call')} data-testid="call-courier">
-                <Icon name="phone" size={18} /> Zavolat
-              </button>
-              <button type="button" class="btn btn--ghost btn--sm" onClick={() => setContact('chat')}>
-                <Icon name="message" size={18} /> Napsat
-              </button>
-            </div>
-          </section>
+              <div class="toolbar">
+                <button type="button" class="btn btn--ghost btn--sm" onClick={() => setContact('call')} data-testid="call-courier">
+                  <Icon name="phone" size={18} /> Zavolat
+                </button>
+                <button type="button" class="btn btn--ghost btn--sm" onClick={() => setContact('chat')}>
+                  <Icon name="message" size={18} /> Napsat
+                </button>
+              </div>
+            </section>
+          )}
           <OrderSummary order={order} />
         </div>
       </div>
+      <Dialog open={atDoor && doorOpen && !pickup} title="Crrr! Někdo zvoní" onClose={() => setDoorOpen(false)}>
+        <div class="doorcall" data-testid="door-dialog">
+          <span class="doorcall__avatar" aria-hidden="true">
+            {courierImg ? <img src={courierImg} alt="" width="104" height="104" /> : <Icon name="bike" size={48} />}
+          </span>
+          <p class="doorcall__lead">{courier.name} stojí před dveřmi.</p>
+          <p class="muted">V ruce drží tašku. Podle váhy je v ní přesně to, co sis objednal.</p>
+        </div>
+        <div class="dlg__actions">
+          <button type="button" class="btn btn--ghost" onClick={() => setDoorOpen(false)}>
+            Ještě chvíli
+          </button>
+          <button type="button" class="btn" onClick={open} data-testid="door-dialog-open">
+            <Icon name="door" /> Otevřít dveře
+          </button>
+        </div>
+      </Dialog>
       <Dialog open={contact !== null} title={contact === 'call' ? 'Volám kurýrovi…' : 'Zpráva kurýrovi'} onClose={() => setContact(null)}>
         <p>{contact === 'call' ? 'Číslo, které voláte, neexistuje. Stejně jako kurýr, jídlo a vaše útrata.' : 'Kurýr si zprávu přečte hned, jak začne existovat.'}</p>
         <p class="small muted">Nikam se nic neposílá ani nevolá.</p>
@@ -333,9 +513,9 @@ function Finale({ order, recipes }: { order: OrderSnapshot; recipes: Record<stri
             Simulovaná objednávka #{order.id}
           </span>
           <h1 style="margin-top:12px">DámeNic doručilo přesně to, co slíbilo. Nic.</h1>
-          <p>Hotovo. Zaplaceno nanečisto. Z účtu neodešlo nic. Jestli máš hlad doopravdy, všechno z objednávky si můžeš uvařit.</p>
+          <p>{order.mode === 'pickup' ? 'Taška je vyzvednutá a prázdná.' : 'Otevřel jsi dveře a taška je prázdná.'} Hotovo. Zaplaceno nanečisto. Z účtu neodešlo nic. Jestli máš hlad doopravdy, všechno z objednávky si můžeš uvařit.</p>
         </div>
-        <svg viewBox="0 0 240 220" aria-hidden="true" style="width:180px">
+        <svg class="finale__bag" viewBox="0 0 240 220" aria-hidden="true" style="width:180px">
           <path d="M52 70h136l14 122a8 8 0 0 1-8 9H46a8 8 0 0 1-8-9z" fill="#fff" stroke="#8f1418" stroke-width="4" stroke-linejoin="round" />
           <path d="M92 70V52c0-22 56-22 56 0v18" fill="none" stroke="#8f1418" stroke-width="4" stroke-linecap="round" />
           <circle cx="120" cy="140" r="26" fill="none" stroke="#8f1418" stroke-width="4" stroke-dasharray="7 7" />

@@ -1,6 +1,6 @@
 import type { Cart, Catalog, CheckoutOptions, OrderSnapshot } from './types';
 import { DEFAULT_OPTIONS, toOrderLines, totals } from './cart';
-import { realDurationMs } from './simulation';
+import { LEGACY_SPEED, SPEED, realDurationMs } from './simulation';
 import { isInt, isObj, isStr } from './storage';
 
 export const MAX_ORDERS = 20;
@@ -47,7 +47,7 @@ export function createOrder(
   const lines = toOrderLines(args.cart, args.catalog);
   if (!restaurant || !lines.length) return null;
   const opts = args.opts ?? DEFAULT_OPTIONS;
-  const duration = realDurationMs(restaurant.etaMinutes);
+  const duration = realDurationMs(restaurant.etaMinutes, SPEED);
   const start = args.scheduledFor && args.scheduledFor - duration > args.now ? Math.round(args.scheduledFor - duration) : args.now;
   const order: OrderSnapshot = {
     v: 1,
@@ -63,6 +63,8 @@ export function createOrder(
     courierNote: args.courierNote ?? null,
     skippedAt: null,
     cancelledAt: null,
+    openedAt: null,
+    speed: SPEED,
   };
   return { state: { v: 1, orders: [order, ...state.orders].slice(0, MAX_ORDERS) }, order, created: true };
 }
@@ -82,6 +84,11 @@ export function skipOrder(state: OrdersState, id: string, now: number): OrdersSt
 
 export function cancelOrder(state: OrdersState, id: string, now: number): OrdersState {
   return patch(state, id, (o) => (o.skippedAt !== null || o.cancelledAt !== null ? o : { ...o, cancelledAt: now }));
+}
+
+/** Opening the door (or collecting the bag) is one-way and idempotent; only a finished, not cancelled run can be opened. */
+export function openDoor(state: OrdersState, id: string, now: number): OrdersState {
+  return patch(state, id, (o) => (o.openedAt !== null || o.cancelledAt !== null ? o : { ...o, openedAt: now }));
 }
 
 export function pruneOrders(state: OrdersState, now: number): OrdersState {
@@ -106,6 +113,7 @@ export function parseOrders(raw: unknown): OrdersState | null {
     }
     if (o.skippedAt !== null && !isInt(o.skippedAt)) return null;
     if (o.cancelledAt !== null && !isInt(o.cancelledAt)) return null;
+    if (o.openedAt !== undefined && o.openedAt !== null && !isInt(o.openedAt)) return null;
     // Orders saved before v2 lack these fields: fill neutral defaults instead of dropping them.
     const totalsV2 = { discount: 0, tip: 0, missingToMin: 0, applied: [], ...(t as object) };
     orders.push({
@@ -114,6 +122,9 @@ export function parseOrders(raw: unknown): OrdersState | null {
       mode: o.mode === 'pickup' ? 'pickup' : 'delivery',
       payment: isStr(o.payment) ? o.payment : 'Demo peněženka DámeNic',
       courierNote: isStr(o.courierNote) ? o.courierNote : null,
+      // Orders saved before real-time tracking ran 10× faster and went straight to the finale: keep both.
+      speed: typeof o.speed === 'number' && o.speed >= 1 && o.speed <= LEGACY_SPEED ? o.speed : LEGACY_SPEED,
+      openedAt: o.openedAt === undefined ? (o.createdAt as number) : (o.openedAt as number | null),
     });
   }
   return { v: 1, orders };

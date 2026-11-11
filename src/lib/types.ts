@@ -129,6 +129,10 @@ export interface OrderSnapshot {
   courierNote: string | null;
   skippedAt: number | null;
   cancelledAt: number | null;
+  /** Door opened (delivery) or bag collected (pickup); null while the courier is on the way or waiting. */
+  openedAt: number | null;
+  /** Real-time multiplier: 1 since 11. 11. 2026, 10 for older orders. */
+  speed: number;
 }
 
 export type Unit = 'g' | 'ml' | 'ks' | 'lzice' | 'lzicka' | 'spetka';

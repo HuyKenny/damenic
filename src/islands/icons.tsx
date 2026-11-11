@@ -23,11 +23,14 @@ import message from 'lucide-static/icons/message-circle.svg?raw';
 import clock from 'lucide-static/icons/clock.svg?raw';
 import tag from 'lucide-static/icons/tag.svg?raw';
 import walk from 'lucide-static/icons/footprints.svg?raw';
+import bell from 'lucide-static/icons/bell-ring.svg?raw';
+import bellOff from 'lucide-static/icons/bell-off.svg?raw';
+import door from 'lucide-static/icons/door-open.svg?raw';
 import card from 'lucide-static/icons/credit-card.svg?raw';
 import banknote from 'lucide-static/icons/banknote.svg?raw';
 import smartphone from 'lucide-static/icons/smartphone.svg?raw';
 
-const ICONS = { bag, search, pin, plus, minus, trash, x, check, pencil, printer, copy, bike, chef, info, wallet, list, chevron, store, utensils, phone, message, clock, tag, walk, card, banknote, smartphone };
+const ICONS = { bag, search, pin, plus, minus, trash, x, check, pencil, printer, copy, bike, chef, info, wallet, list, chevron, store, utensils, phone, message, clock, tag, walk, card, banknote, smartphone, bell, bellOff, door };
 export type IconName = keyof typeof ICONS;
 
 export function Icon({ name, size = 20 }: { name: IconName; size?: number }) {

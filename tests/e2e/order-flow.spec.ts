@@ -82,7 +82,7 @@ test.describe('checkout and tracking', () => {
     expect(errors).toEqual([]);
   });
 
-  test('tracking follows the clock, survives refresh and finishes once', async ({ page }) => {
+  test('real-time tracking: countdown, courier at the door, open, finishes once', async ({ page }) => {
     await page.clock.install({ time: new Date('2026-11-11T11:00:00Z') }); // noon in Prague: restaurants open
     await addMargherita(page);
     await page.goto('/pokladna/');
@@ -91,17 +91,39 @@ test.describe('checkout and tracking', () => {
     await page.waitForURL(/\/objednavka\/#/);
     const tracker = page.getByTestId('tracker');
     await expect(tracker).toHaveAttribute('data-stage', /accepted|preparing/);
-    await expect(page.getByText('Zrychlená simulace 10×')).toBeVisible();
+    await expect(page.getByText('Simulace v reálném čase')).toBeVisible();
+    await expect(page.getByTestId('eta')).toHaveText(/^\d{1,2}:\d{2}$/);
+    await expect(page).toHaveTitle(/^\(\d{1,2}:\d{2}\) /);
 
-    await page.clock.runFor(60_000);
+    // Prázdná pec: 30 min. Real minutes now, not 10× faster.
+    await page.clock.runFor(10 * 60_000);
     await expect(tracker).toHaveAttribute('data-stage', 'preparing');
     await page.reload();
     await expect(page.getByTestId('tracker')).toHaveAttribute('data-stage', 'preparing');
 
-    await page.clock.runFor(70_000);
+    await page.clock.runFor(10 * 60_000);
     await expect(page.getByTestId('tracker')).toHaveAttribute('data-stage', 'onTheWay');
+    await expect(page.getByTestId('distance')).toContainText('km');
 
-    await page.clock.runFor(60_000);
+    // While the courier rides, other pages show the active order.
+    await page.goto('/restaurace/');
+    await expect(page.getByTestId('orderbar')).toContainText('Kurýr dorazí za');
+    await page.getByTestId('orderbar').click();
+    await expect(page.getByTestId('tracker')).toBeVisible();
+
+    await page.clock.runFor(8 * 60_000);
+    await expect(page.getByTestId('tracker')).toHaveAttribute('data-stage', 'nearby');
+    await page.clock.runFor(3 * 60_000);
+    await expect(page.getByTestId('tracker')).toHaveAttribute('data-status', 'atDoor');
+    await expect(page.getByTestId('door-dialog')).toBeVisible();
+    await expect(page).toHaveTitle(/Kurýr je u dveří/);
+
+    // Closing the call keeps the door button on the page; a refresh does not deliver by itself.
+    await page.getByRole('button', { name: 'Ještě chvíli' }).click();
+    await page.reload();
+    await expect(page.getByTestId('tracker')).toHaveAttribute('data-status', 'atDoor');
+    await page.getByTestId('door-dialog-open').click();
+
     const finale = page.getByTestId('finale');
     await expect(finale).toBeVisible();
     await expect(finale).toContainText('DámeNic doručilo přesně to, co slíbilo. Nic.');
@@ -111,6 +133,8 @@ test.describe('checkout and tracking', () => {
     await expect(page.getByTestId('finale')).toBeVisible();
     const count = await page.evaluate(() => JSON.parse(localStorage.getItem('damenic:orders:v1') ?? '{}').orders.length);
     expect(count).toBe(1);
+    await page.goto('/restaurace/');
+    await expect(page.getByTestId('orderbar')).toHaveCount(0);
   });
 
   test('skip and the way to the recipe and shopping list', async ({ page }) => {
@@ -120,6 +144,8 @@ test.describe('checkout and tracking', () => {
     await page.getByTestId('confirm-order').click();
     await page.waitForURL(/\/objednavka\/#/);
     await page.getByTestId('skip').click();
+    await expect(page.getByTestId('door-dialog')).toBeVisible();
+    await page.getByTestId('door-dialog-open').click();
     await expect(page.getByTestId('finale')).toBeVisible();
     await page.getByRole('link', { name: 'Uvařit si to doma' }).first().click();
     await expect(page).toHaveURL(/\/recepty\/pizza-margherita\/$/);
@@ -127,6 +153,22 @@ test.describe('checkout and tracking', () => {
     await page.getByTestId('to-shopping').click();
     await expect(page).toHaveURL(/\/nakupni-seznam\/$/);
     await expect(page.getByTestId('list-recipe')).toHaveCount(1);
+  });
+
+  test('an order saved before real-time tracking still opens as delivered', async ({ page }) => {
+    await atNoon(page);
+    await page.goto('/');
+    await page.evaluate(() => {
+      const order = {
+        v: 1, id: 'legacy01', createdAt: Date.now() - 3600_000, city: 'Praha', dropPoint: 'Nikde 0',
+        restaurant: { id: 'prazdna-pec', slug: 'prazdna-pec', name: 'Pizzerie Prázdná pec', etaMinutes: 30 },
+        lines: [{ dishId: 'margherita', dishSlug: 'margherita', page: false, name: 'Pizza Margherita', qty: 1, unitPrice: 18900, options: [], recipe: null, image: '' }],
+        totals: { subtotal: 18900, delivery: 0, fee: 0, total: 18900, count: 1 }, skippedAt: null, cancelledAt: null,
+      };
+      localStorage.setItem('damenic:orders:v1', JSON.stringify({ v: 1, orders: [order] }));
+    });
+    await page.goto('/objednavka/#legacy01');
+    await expect(page.getByTestId('finale')).toBeVisible();
   });
 
   test('cancel keeps the order as cancelled', async ({ page }) => {
@@ -219,6 +261,12 @@ test.describe('delivery app v2', () => {
     const order = await page.evaluate(() => JSON.parse(localStorage.getItem('damenic:orders:v1') ?? '{}').orders[0]);
     expect(order.mode).toBe('pickup');
     expect(order.totals.discount).toBe(5000);
+    // Pickup ends at the counter: no doorbell, a "Vyzvednout" button instead.
+    await page.getByTestId('skip').click();
+    await expect(page.getByTestId('open-door')).toContainText('Vyzvednout');
+    await expect(page.getByTestId('door-dialog')).toHaveCount(0);
+    await page.getByTestId('open-door').click();
+    await expect(page.getByTestId('finale')).toContainText('Taška je vyzvednutá');
   });
 
   test('recipe hub and sitemaps exist', async ({ page, request }) => {

@@ -11,7 +11,6 @@ import { getImage } from 'astro:assets';
 import { allDishes, allRestaurants, buildCatalog, dishHasPage, photo, type Restaurant } from '@/lib/content';
 import { formatCzk } from '@/lib/money';
 import { etaRange, hoursLabel } from '@/lib/hours';
-import { SPEED, realMinutesLabel } from '@/lib/simulation';
 import { CATEGORY_LABELS } from '@/lib/site';
 
 export async function getStaticPaths() {
@@ -74,7 +73,7 @@ const PRICE = ['', 'Kč', 'Kč Kč', 'Kč Kč Kč'];
           <li><Icon name="timer" size={16} />Otevřeno {hoursLabel(r.data.hours)}</li>
         </ul>
         <p class="small muted" style="margin:6px 0 0">
-          {r.data.description} Simulace běží {SPEED}× rychleji: {r.data.etaMinutes} minut uběhne asi za {realMinutesLabel(r.data.etaMinutes)}.
+          {r.data.description} Sledování kurýra běží v reálném čase, čekání jde kdykoli přeskočit.
         </p>
       </div>
       <div class="resthead2__mode"><ModeSwitch client:idle canPickup={r.data.pickup} /></div>

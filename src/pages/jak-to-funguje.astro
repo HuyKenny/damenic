@@ -1,7 +1,6 @@
 ---
 import Base from '@/layouts/Base.astro';
 import Breadcrumbs from '@/components/Breadcrumbs.astro';
-import { SPEED } from '@/lib/simulation';
 import { SERVICE_FEE } from '@/lib/cart';
 import { formatCzk } from '@/lib/money';
 ---
@@ -25,8 +24,9 @@ import { formatCzk } from '@/lib/money';
     </ul>
     <h2>Jak běží čas</h2>
     <p>
-      Simulace je zrychlená {SPEED}×. Když restaurace uvádí 30 minut, sledování proběhne asi za 3 skutečné minuty a odpočet ukazuje simulovaný čas. Stav se
-      počítá z okamžiku objednání, takže obnovení stránky ani zavřená záložka nic nevynulují. Čekání se dá kdykoli přeskočit nebo simulaci zrušit.
+      Sledování běží v reálném čase. Když restaurace uvádí 30 minut, kurýr dorazí za skutečných 30 minut, odpočet běží i v titulku záložky a na ostatních
+      stránkách. Na konci zazvoní u dveří (zvuk generuje prohlížeč, dá se vypnout) a po otevření najdeš prázdnou tašku a recept. Stav se počítá z okamžiku
+      objednání, takže obnovení stránky ani zavřená záložka nic nevynulují. Čekání se dá kdykoli přeskočit nebo simulaci zrušit.
     </p>
     <h2>Co je doopravdy</h2>
     <ul>

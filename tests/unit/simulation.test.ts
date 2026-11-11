@@ -1,54 +1,74 @@
 import { describe, expect, it } from 'vitest';
-import { SPEED, msToNextStage, realDurationMs, simulate } from '@/lib/simulation';
-import { cancelOrder, createOrder, emptyOrders, parseOrders, pruneOrders, skipOrder, MAX_ORDERS, ORDER_TTL_MS } from '@/lib/orders';
+import { LEGACY_SPEED, clock, msToNextStage, realDurationMs, simulate, stageTimes } from '@/lib/simulation';
+import { cancelOrder, createOrder, emptyOrders, openDoor, parseOrders, pruneOrders, skipOrder, MAX_ORDERS, ORDER_TTL_MS } from '@/lib/orders';
 import { addItem, emptyCart } from '@/lib/cart';
 import type { Catalog } from '@/lib/types';
 
-const base = { createdAt: 1_000_000, etaMinutes: 30, skippedAt: null, cancelledAt: null };
+const MIN = 60_000;
+const base = { createdAt: 1_000_000, etaMinutes: 30, skippedAt: null, cancelledAt: null, openedAt: null, speed: 1 };
 
-describe('simulation', () => {
-  it('runs SPEED times faster than the virtual clock', () => {
-    expect(realDurationMs(30)).toBe((30 * 60_000) / SPEED);
-    expect(realDurationMs(30)).toBe(180_000);
+describe('simulation (real time)', () => {
+  it('runs in real time for new orders and 10× for old ones', () => {
+    expect(realDurationMs(30, 1)).toBe(30 * MIN);
+    expect(realDurationMs(30, LEGACY_SPEED)).toBe(3 * MIN);
   });
 
   it('derives the stage from elapsed time only', () => {
     expect(simulate(base, base.createdAt).stage.id).toBe('accepted');
-    expect(simulate(base, base.createdAt + 30_000).stage.id).toBe('preparing');
-    expect(simulate(base, base.createdAt + 120_000).stage.id).toBe('onTheWay');
-    const end = simulate(base, base.createdAt + 180_000);
-    expect(end.status).toBe('done');
-    expect(end.stage.id).toBe('done');
-    expect(end.remainingMinutes).toBe(0);
+    expect(simulate(base, base.createdAt + 5 * MIN).stage.id).toBe('preparing');
+    expect(simulate(base, base.createdAt + 20 * MIN).stage.id).toBe('onTheWay');
+    expect(simulate(base, base.createdAt + 28 * MIN).stage.id).toBe('nearby');
+  });
+
+  it('waits at the door until it is opened', () => {
+    const atDoor = simulate(base, base.createdAt + 30 * MIN);
+    expect(atDoor.status).toBe('atDoor');
+    expect(atDoor.stage.id).toBe('atDoor');
+    expect(atDoor.remainingMinutes).toBe(0);
+    expect(atDoor.arrivalAt).toBe(base.createdAt + 30 * MIN);
+    const done = simulate({ ...base, openedAt: base.createdAt + 31 * MIN }, base.createdAt + 31 * MIN);
+    expect(done.status).toBe('done');
+    expect(done.stage.id).toBe('done');
   });
 
   it('moves the courier only after pickup', () => {
-    expect(simulate(base, base.createdAt + 60_000).routeProgress).toBe(0);
-    const mid = simulate(base, base.createdAt + 144_000).routeProgress;
+    expect(simulate(base, base.createdAt + 10 * MIN).routeProgress).toBe(0);
+    const mid = simulate(base, base.createdAt + 24 * MIN).routeProgress;
     expect(mid).toBeGreaterThan(0.4);
     expect(mid).toBeLessThan(0.6);
-    expect(simulate(base, base.createdAt + 999_999).routeProgress).toBe(1);
+    expect(simulate(base, base.createdAt + 99 * MIN).routeProgress).toBe(1);
   });
 
-  it('counts down virtual minutes', () => {
+  it('counts down real minutes and seconds', () => {
     expect(simulate(base, base.createdAt).remainingMinutes).toBe(30);
-    expect(simulate(base, base.createdAt + 90_000).remainingMinutes).toBe(15);
+    expect(simulate(base, base.createdAt + 15 * MIN).remainingMinutes).toBe(15);
+    expect(clock(simulate(base, base.createdAt + 15 * MIN + 30_000).remainingMs)).toBe('14:30');
+    expect(clock(0)).toBe('0:00');
   });
 
-  it('finishes immediately when skipped and freezes when cancelled', () => {
-    expect(simulate({ ...base, skippedAt: base.createdAt + 10_000 }, base.createdAt + 10_000).status).toBe('done');
-    const c = simulate({ ...base, cancelledAt: base.createdAt + 60_000 }, base.createdAt + 500_000);
+  it('skip goes to the door, cancel freezes', () => {
+    expect(simulate({ ...base, skippedAt: base.createdAt + 10_000 }, base.createdAt + 10_000).status).toBe('atDoor');
+    const c = simulate({ ...base, cancelledAt: base.createdAt + 6 * MIN }, base.createdAt + 50 * MIN);
     expect(c.status).toBe('cancelled');
-    expect(c.progress).toBeCloseTo(60_000 / 180_000, 3);
+    expect(c.progress).toBeCloseTo(0.2, 3);
   });
 
   it('survives a clock that went backwards', () => {
     expect(simulate(base, base.createdAt - 5000).progress).toBe(0);
   });
 
+  it('lists stage times up to the arrival', () => {
+    const t = stageTimes(base);
+    expect(t[0]!.at).toBe(base.createdAt);
+    expect(t.at(-1)!.stage.id).toBe('atDoor');
+    expect(t.at(-1)!.at).toBe(base.createdAt + 30 * MIN);
+    const skipped = stageTimes({ ...base, skippedAt: base.createdAt + MIN });
+    expect(skipped.map((x) => x.stage.id)).toEqual(['accepted', 'atDoor']);
+  });
+
   it('reports the next stage boundary', () => {
-    expect(msToNextStage(base, base.createdAt)).toBeCloseTo(0.08 * 180_000, 0);
-    expect(msToNextStage(base, base.createdAt + 999_999)).toBeNull();
+    expect(msToNextStage(base, base.createdAt)).toBeCloseTo(0.08 * 30 * MIN, 0);
+    expect(msToNextStage(base, base.createdAt + 99 * MIN)).toBeNull();
   });
 });
 
@@ -86,6 +106,26 @@ describe('orders', () => {
     expect(skipped.orders[0]!.skippedAt).toBe(10);
     expect(skipOrder(skipped, 'abc', 20).orders[0]!.skippedAt).toBe(10);
     expect(cancelOrder(skipped, 'abc', 30).orders[0]!.cancelledAt).toBeNull();
+  });
+
+  it('new orders run in real time and the door opens once', () => {
+    const s = createOrder(emptyOrders(), { id: 'abc', cart, catalog, city: 'Praha', dropPoint: 'X', now: 5 })!.state;
+    expect(s.orders[0]!.speed).toBe(1);
+    expect(s.orders[0]!.openedAt).toBeNull();
+    const opened = openDoor(s, 'abc', 50);
+    expect(opened.orders[0]!.openedAt).toBe(50);
+    expect(openDoor(opened, 'abc', 90).orders[0]!.openedAt).toBe(50);
+    expect(openDoor(cancelOrder(s, 'abc', 10), 'abc', 20).orders[0]!.openedAt).toBeNull();
+  });
+
+  it('reads orders saved before real-time tracking as fast and already opened', () => {
+    const s = createOrder(emptyOrders(), { id: 'old', cart, catalog, city: 'Praha', dropPoint: 'X', now: 5 })!.state;
+    const legacy = JSON.parse(JSON.stringify(s));
+    delete legacy.orders[0].speed;
+    delete legacy.orders[0].openedAt;
+    const o = parseOrders(legacy)!.orders[0]!;
+    expect(o.speed).toBe(LEGACY_SPEED);
+    expect(o.openedAt).toBe(5);
   });
 
   it('keeps at most MAX_ORDERS and drops expired ones', () => {

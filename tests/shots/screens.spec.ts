@@ -35,9 +35,16 @@ test('main screens', async ({ page }, testInfo) => {
   await page.getByTestId('confirm-order').click();
   await page.clock.runFor(1500);
   await page.waitForURL(/objednavka/);
-  await page.clock.runFor(130_000);
+  await page.clock.runFor(21 * 60_000); // real time: courier on the way after ~18 of 30 minutes
   await shot(page, '06-tracking', testInfo);
+  await page.goto('/restaurace/');
+  await page.getByTestId('orderbar').waitFor();
+  await shot(page, '06b-orderbar', testInfo);
+  await page.goBack();
   await page.getByTestId('skip').click();
+  await page.getByTestId('door-dialog').waitFor();
+  await shot(page, '06c-door', testInfo);
+  await page.getByTestId('door-dialog-open').click();
   await page.getByTestId('finale').waitFor();
   await shot(page, '07-finale', testInfo);
   await page.goto('/recepty/pizza-margherita/');

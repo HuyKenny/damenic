@@ -40,7 +40,10 @@ Read results with `gh run view --repo HuyKenny/damenic`, download screenshots wi
 - Content: JSON in `src/data/` validated by Zod (`src/content.config.ts`) and by `scripts/validate-content.mjs` (cross-file rules).
 - Browser state: versioned localStorage keys in `src/lib/storage.ts`; every reader validates and falls back.
 - Money: integer haléře everywhere (`src/lib/money.ts`).
-- Simulation: `src/lib/simulation.ts` derives state from `createdAt` + `etaMinutes`; nothing is written per tick. SPEED = 10.
+- Simulation: `src/lib/simulation.ts` derives state from `createdAt` + `etaMinutes` + the order's `speed`; nothing is written per tick.
+  Since 11. 11. 2026 tracking runs in **real time** (`speed: 1`, Kenny's choice); orders saved earlier load with `speed: 10` and
+  `openedAt = createdAt`. The run ends at `atDoor` (doorbell via Web Audio, once per tab session, toggle `damenic:bell:v1`);
+  `openDoor` sets `openedAt` and only then the finale shows. `HeaderCart` shows the active order pill on every page.
 - Orders: `/objednavka/#<id>`, immutable snapshot (`src/lib/orders.ts`), max 20, 90-day expiry.
 - Hosting: Cloudflare Workers Static Assets (`wrangler.jsonc`, no `main` = no Worker code, no billed requests). No D1/KV/cron.
 - Photos: records in `src/data/assets.json` (see ASSETS.md): ~415 from Pexels (downloaded in CI, never in git) plus the older

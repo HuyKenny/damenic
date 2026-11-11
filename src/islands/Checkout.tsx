@@ -6,7 +6,6 @@ import { createOrder, newOrderId } from '@/lib/orders';
 import { dropPoint } from '@/lib/cities';
 import { etaRange, isOpen, slots } from '@/lib/hours';
 import { formatCzk } from '@/lib/money';
-import { SPEED, realMinutesLabel } from '@/lib/simulation';
 import { ModeSwitch, Sums } from './CartView';
 import { useInit } from './hooks';
 import { Icon, type IconName } from './icons';
@@ -224,8 +223,8 @@ export default function Checkout() {
         <section class="panel" aria-labelledby="h-prubeh">
           <h2 id="h-prubeh">Co se stane potom</h2>
           <p style="margin:0">
-            Spustí se sledování objednávky se smyšleným kurýrem. Simulace běží {SPEED}× rychleji než čas, který ukazuje: {restaurant.etaMinutes} minut uběhne asi za{' '}
-            {realMinutesLabel(restaurant.etaMinutes)}. Na konci nepřijede nic, ale dostaneš recept.
+            Spustí se sledování objednávky se smyšleným kurýrem v reálném čase: {restaurant.etaMinutes} minut jsou skutečné minuty. Mezitím můžeš brouzdat
+            dál, odpočet uvidíš dole na každé stránce. Kurýr nakonec zazvoní u dveří s prázdnou taškou a dostaneš recept. Čekání jde kdykoli přeskočit.
           </p>
         </section>
       </div>
