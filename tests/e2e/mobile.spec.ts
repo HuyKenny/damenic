@@ -3,10 +3,19 @@ import { addMargherita } from './helpers';
 
 test('mobile: bottom cart bar, menu, no horizontal scroll', async ({ page }) => {
   await page.goto('/');
-  for (const path of ['/', '/restaurace/prazdna-pec/', '/jidla/pizza-margherita/', '/recepty/svickova-na-smetane/', '/kosik/', '/pokladna/']) {
+  for (const path of ['/', '/restaurace/', '/restaurace/prazdna-pec/', '/jidla/pizza-margherita/', '/recepty/svickova-na-smetane/', '/recepty/kuchyne/ceska/', '/kosik/', '/pokladna/']) {
     await page.goto(path);
     const overflow = await page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);
-    expect(overflow, path).toBeLessThanOrEqual(0);
+    // Name the elements that stick out, so a failure says what to fix.
+    const culprits = await page.evaluate(() => {
+      const w = document.documentElement.clientWidth;
+      return [...document.querySelectorAll('body *')]
+        .filter((el) => el.getBoundingClientRect().right > w + 1 && !el.closest('.catstrip, .filterbar, .rail, .menunav, dialog'))
+        .slice(0, 5)
+        .map((el) => `${el.tagName.toLowerCase()}.${[...el.classList].join('.')}`);
+    });
+    expect(overflow, `${path}: ${culprits.join(', ')}`).toBeLessThanOrEqual(0);
+    await expect(page.getByRole('navigation', { name: 'Navigace aplikace' }), path).toBeInViewport();
   }
   await page.goto('/');
   const tabs = page.getByRole('navigation', { name: 'Navigace aplikace' });
