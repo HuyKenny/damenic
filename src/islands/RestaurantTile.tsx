@@ -7,8 +7,11 @@ const PRICE = ['', 'Kč', 'Kč Kč', 'Kč Kč Kč'];
 
 /** WCAG relative luminance of #rrggbb. */
 function luminance(hex: string) {
-  const c = [1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16) / 255).map((v) => (v <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4));
-  return 0.2126 * c[0] + 0.7152 * c[1] + 0.0722 * c[2];
+  const lin = (i: number) => {
+    const v = parseInt(hex.slice(i, i + 2), 16) / 255;
+    return v <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4;
+  };
+  return 0.2126 * lin(1) + 0.7152 * lin(3) + 0.0722 * lin(5);
 }
 /** White or ink, whichever reads better on the brand colour (the data's `ink` hint is not trusted for contrast). */
 function inkFor(bg: string) {
