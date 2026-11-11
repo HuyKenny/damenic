@@ -25,3 +25,9 @@ export const CATEGORY_LABELS: Record<string, { label: string; lead: string }> = 
   dezerty: { label: 'Dezerty', lead: 'Koláče, bábovky, brownies a krémy.' },
   snidane: { label: 'Snídaně', lead: 'Vejce, kaše, granola a toasty.' },
 };
+
+/** Shortens meta text to `max` characters at a word boundary, with an ellipsis (search results cut around 155). */
+export function clip(text: string, max = 155): string {
+  if (text.length <= max) return text;
+  return text.slice(0, max - 1).replace(/[\s,.;:–-]+\S*$/, '') + '…';
+}

@@ -11,7 +11,7 @@ import { getImage } from 'astro:assets';
 import { allDishes, allRestaurants, buildCatalog, dishHasPage, photo, type Restaurant } from '@/lib/content';
 import { formatCzk } from '@/lib/money';
 import { etaRange, hoursLabel } from '@/lib/hours';
-import { CATEGORY_LABELS } from '@/lib/site';
+import { CATEGORY_LABELS, clip } from '@/lib/site';
 
 export async function getStaticPaths() {
   return (await allRestaurants()).map((restaurant) => ({ params: { slug: restaurant.id }, props: { restaurant } }));
@@ -45,7 +45,7 @@ const PRICE = ['', 'Kč', 'Kč Kč', 'Kč Kč Kč'];
 
 <Base
   title={`${r.data.name} – fiktivní restaurace, menu nanečisto`}
-  description={`${r.data.name}: smyšlená restaurace simulátoru DámeNic (${r.data.cuisine.toLowerCase()}). Objednáš nanečisto za 0 Kč, nic nepřijede, ke každému hlavnímu jídlu je recept.`}
+  description={clip(`${r.data.name}: smyšlená restaurace (${r.data.cuisine.toLowerCase()}). Objednáš nanečisto za 0 Kč, nic nepřijede, ke každému hlavnímu jídlu je recept.`)}
 >
   <div class="resthero">
     <div class="resthero__media">

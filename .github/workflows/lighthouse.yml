@@ -10,7 +10,7 @@ concurrency:
 jobs:
   measure:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
     steps:
       - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
         with:
@@ -19,20 +19,29 @@ jobs:
         run: |
           npm i -g --silent lighthouse@13 >/dev/null
           mkdir -p lh
+          # Three runs per page; the table shows the median run (lab numbers vary from run to run, the home page most).
           for path in / /restaurace/ /restaurace/prazdna-pec/ /jidla/svickova-na-smetane/ /recepty/pizza-margherita/ /recepty/kuchyne/ceska/ /kosik/; do
             name=$(echo "$path" | tr '/' '_')
-            lighthouse "https://damenic.cz$path" --quiet --chrome-flags="--headless=new --no-sandbox" \
-              --only-categories=performance,accessibility,best-practices,seo --output=json --output-path="lh/$name.json" || true
+            for i in 1 2 3; do
+              lighthouse "https://damenic.cz$path" --quiet --chrome-flags="--headless=new --no-sandbox" \
+                --only-categories=performance,accessibility,best-practices,seo --output=json --output-path="lh/${name}__$i.json" || true
+            done
           done
           node -e '
             const fs = require("fs");
-            const rows = ["| Page | Perf | A11y | Best | SEO | LCP | CLS | TBT |", "|---|---|---|---|---|---|---|---|"];
+            const byPage = {};
             for (const f of fs.readdirSync("lh")) {
               const r = JSON.parse(fs.readFileSync("lh/" + f));
-              const c = r.categories, a = r.audits, s = (k) => Math.round(c[k].score * 100);
-              rows.push(`| ${r.finalDisplayedUrl.replace("https://damenic.cz", "")} | ${s("performance")} | ${s("accessibility")} | ${s("best-practices")} | ${s("seo")} | ${a["largest-contentful-paint"].displayValue} | ${a["cumulative-layout-shift"].displayValue} | ${a["total-blocking-time"].displayValue} |`);
+              (byPage[f.split("__")[0]] ??= []).push(r);
             }
-            fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, "### Lighthouse (mobile, lab)\n" + rows.join("\n") + "\n");
+            const rows = ["| Page | Perf (median of 3) | Perf runs | A11y | Best | SEO | LCP | CLS | TBT |", "|---|---|---|---|---|---|---|---|---|"];
+            for (const runs of Object.values(byPage)) {
+              runs.sort((a, b) => a.categories.performance.score - b.categories.performance.score);
+              const r = runs[Math.floor(runs.length / 2)];
+              const c = r.categories, a = r.audits, s = (k) => Math.round(c[k].score * 100);
+              rows.push(`| ${r.finalDisplayedUrl.replace("https://damenic.cz", "")} | ${s("performance")} | ${runs.map((x) => Math.round(x.categories.performance.score * 100)).join("/")} | ${s("accessibility")} | ${s("best-practices")} | ${s("seo")} | ${a["largest-contentful-paint"].displayValue} | ${a["cumulative-layout-shift"].displayValue} | ${a["total-blocking-time"].displayValue} |`);
+            }
+            fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, "### Lighthouse (mobile, lab, median of 3)\n" + rows.join("\n") + "\n");
             console.log(rows.join("\n"));
           '
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2

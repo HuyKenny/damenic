@@ -8,6 +8,7 @@ import AddToCart from '@/islands/AddToCart';
 import { getEntry } from 'astro:content';
 import { allDishes, buildCatalog, dishHasPage, ingredientInfo, perServingCost, primaryDishForRecipe, totalMinutes, type Dish } from '@/lib/content';
 import { formatCzk, roundToCrown } from '@/lib/money';
+import { clip } from '@/lib/site';
 import { formatDuration } from '@/lib/units';
 
 export async function getStaticPaths() {
@@ -29,7 +30,7 @@ const others = (await allDishes()).filter((x) => x.data.restaurant.id === restau
 
 <Base
   title={`${d.data.name} – objednej nanečisto, uvař doopravdy`}
-  description={`${d.data.name} z fiktivní restaurace ${restaurant.data.name}: ${d.data.description} V simulátoru DámeNic si ho objednáš nanečisto a dostaneš recept na doma.`}
+  description={clip(`${d.data.name} z fiktivní restaurace ${restaurant.data.name}: ${d.data.description} Objednáš nanečisto, recept dostaneš doopravdy.`)}
   ogType="article"
   noindex={!indexable}
 >

@@ -46,6 +46,11 @@ jobs:
         run: npm run build
       - name: Secret check (build output)
         run: node scripts/verify-no-secrets.mjs dist
+      - name: Technical SEO audit
+        run: node scripts/seo-audit.mjs dist
+      - name: Dependency audit (report only)
+        continue-on-error: true
+        run: npm audit --omit=dev --audit-level=high
       - name: Install Chromium
         run: npx playwright install --with-deps chromium
       - name: End-to-end tests
@@ -96,3 +101,6 @@ jobs:
       - name: IndexNow (changed URLs only)
         continue-on-error: true
         run: node scripts/indexnow.mjs
+      - name: Check live headers and redirects
+        continue-on-error: true
+        run: node scripts/check-live-headers.mjs
