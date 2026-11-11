@@ -13,20 +13,32 @@ function luminance(hex: string) {
   };
   return 0.2126 * lin(1) + 0.7152 * lin(3) + 0.0722 * lin(5);
 }
-/** White or ink, whichever reads better on the brand colour (the data's `ink` hint is not trusted for contrast). */
-function inkFor(bg: string) {
+const INK = '#1f1f23';
+/** Darken #rrggbb by a factor 0–1. */
+function darken(hex: string, k: number) {
+  const ch = (i: number) => Math.round(parseInt(hex.slice(i, i + 2), 16) * (1 - k)).toString(16).padStart(2, '0');
+  return `#${ch(1)}${ch(3)}${ch(5)}`;
+}
+/**
+ * Background + text colour for a monogram with at least 4.5:1 contrast (WCAG AA). The data's `ink` hint is not
+ * trusted; mid-tone brand colours that pass with neither white nor ink are darkened until white passes.
+ */
+function monoColors(bg: string) {
+  const ratio = (a: number, b: number) => (Math.max(a, b) + 0.05) / (Math.min(a, b) + 0.05);
   const l = luminance(bg);
-  const onWhite = 1.05 / (l + 0.05);
-  const onInk = (l + 0.05) / (luminance('#1f1f23') + 0.05);
-  return onWhite >= onInk ? '#fff' : '#1f1f23';
+  if (ratio(l, luminance(INK)) >= 4.5 && ratio(l, luminance(INK)) > ratio(l, 1)) return { bg, ink: INK };
+  let c = bg;
+  for (let k = 0; ratio(luminance(c), 1) < 4.5 && k < 0.9; k += 0.05) c = darken(bg, k + 0.05);
+  return { bg: c, ink: '#fff' };
 }
 
 export function Monogram({ logo, size = 44 }: { logo: RestaurantSummary['logo']; size?: number }) {
+  const colors = monoColors(logo.color);
   return (
     <span
       class="mono"
       aria-hidden="true"
-      style={{ width: `${size}px`, height: `${size}px`, background: logo.color, color: inkFor(logo.color), fontSize: `${Math.round(size * (logo.text.length > 2 ? 0.3 : 0.38))}px` }}
+      style={{ width: `${size}px`, height: `${size}px`, background: colors.bg, color: colors.ink, fontSize: `${Math.round(size * (logo.text.length > 2 ? 0.3 : 0.38))}px` }}
     >
       {logo.text}
     </span>

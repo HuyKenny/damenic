@@ -3122,3 +3122,17 @@ dialog.dlg--drawer {
   background: #fff;
   box-shadow: 0 -8px 16px rgb(31 31 35 / 6%);
 }
+
+/* Below-the-fold home sections: skip style/layout/paint until they come near the viewport
+   (Lighthouse showed ~1.4 s of main-thread rendering work on the home page). */
+.cv {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 520px;
+}
+
+/* Pages whose content comes from browser storage: reserve the viewport so the footer stays below the fold
+   while the island renders (Lighthouse measured CLS 0.25 on /kosik/ from the footer jumping). */
+.statepage {
+  min-height: calc(100vh - 160px);
+  min-height: calc(100svh - 160px);
+}
