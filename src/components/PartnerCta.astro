@@ -1,8 +1,9 @@
 ---
 // Affiliate call to action. Rohlik.cz is a real shop outside the simulation, so the card says so in plain words.
-// Static HTML on purpose: no script, and the link is a plain sponsored anchor (never an automatic redirect).
+// Static HTML on purpose: no script. The link is the short path /go/<id> (302 via public/_redirects to the partner's tracking URL);
+// it stays labelled and rel=sponsored: a short URL is fine, hiding that it is an ad is not.
 interface Props {
-  partner: { name: string; url: string };
+  partner: { id: string; name: string };
   variant: 'recipe' | 'list';
 }
 const { partner, variant } = Astro.props;
@@ -27,7 +28,7 @@ const copy =
   </div>
   <h3 id={`partner-${variant}`}>{copy.title}</h3>
   <p>{copy.text}</p>
-  <a class="btn btn--sun btn--block" href={partner.url} rel="sponsored nofollow noopener" target="_blank" data-testid="partner-link">
+  <a class="btn btn--sun btn--block" href={`/go/${partner.id}`} rel="sponsored nofollow noopener" target="_blank" data-testid="partner-link">
     <svg class="partner__icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
     {copy.cta}
     <span class="sr-only"> (otevře se v novém okně)</span>

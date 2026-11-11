@@ -20,6 +20,6 @@ const partners = (await getCollection('partners')).filter((p) => p.data.enabled 
       <p>Suroviny ze všech receptů, sečtené a roztříděné podle oddělení. Tohle je ta část, která se dá doopravdy nakoupit. Seznam se ukládá jen v tomto prohlížeči.</p>
     </div>
     <ShoppingList client:load recipes={recipes} info={info} />
-    {partners[0] && <PartnerCta partner={{ name: partners[0].data.name, url: partners[0].data.url! }} variant="list" />}
+    {partners[0] && <PartnerCta partner={{ id: partners[0].id, name: partners[0].data.name }} variant="list" />}
   </div>
 </Base>

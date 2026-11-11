@@ -68,11 +68,31 @@ test('search tolerates missing diacritics and has an empty state', async ({ page
   await expect(page.locator('.search__empty')).toBeVisible();
 });
 
-test('partner call to action is hidden while the partner is disabled', async ({ page }) => {
-  // Rohlik.cz is switched off in partners.json (enabled: false). Re-enable there and restore the assertions from git history (PartnerCta.astro).
-  for (const path of ['/recepty/pizza-margherita/', '/nakupni-seznam/', '/', '/restaurace/']) {
+test('Rohlik.cz call to action: short /go/ link, still labelled as an ad, only on recipes and the shopping list', async ({ page }) => {
+  await page.goto('/recepty/pizza-margherita/');
+  const tools = page.getByTestId('recipe-tools');
+  const cta = tools.getByTestId('partner-cta');
+  await expect(cta).toBeVisible();
+  await expect(cta).toContainText('Reklama');
+  await expect(cta).toContainText('mimo simulaci');
+  const link = cta.getByTestId('partner-link');
+  await expect(link).toHaveAttribute('href', '/go/rohlik');
+  await expect(link).toHaveAttribute('rel', /sponsored/);
+  await expect(link).toHaveAttribute('target', '_blank');
+  expect(await page.content()).not.toContain('kqzyfj');
+  // Under the two buttons, before the cost box.
+  const order = await page.evaluate(() => {
+    const q = (s: string) => document.querySelector(s)!;
+    const after = (a: Element, b: Element) => !!(a.compareDocumentPosition(b) & Node.DOCUMENT_POSITION_FOLLOWING);
+    return after(q('[data-testid=add-to-list]'), q('[data-testid=partner-cta]')) && after(q('[data-testid=partner-cta]'), q('[data-testid=costs]'));
+  });
+  expect(order).toBe(true);
+
+  await page.goto('/nakupni-seznam/');
+  await expect(page.getByTestId('partner-link')).toHaveAttribute('href', '/go/rohlik');
+
+  for (const path of ['/', '/restaurace/', '/jidla/pizza-margherita/']) {
     await page.goto(path);
     await expect(page.getByTestId('partner-cta')).toHaveCount(0);
-    expect(await page.content()).not.toContain('kqzyfj.com');
   }
 });

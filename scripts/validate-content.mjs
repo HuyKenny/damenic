@@ -156,6 +156,10 @@ for (const [id, a] of assets) {
 for (const [id, p] of partners) {
   if (p.enabled && (!p.url || !p.verifiedAt || p.linkType === 'none')) err(`partner ${id}: enabled partners need a verified url, verifiedAt and a link type`);
   if (p.enabled && p.url && !/^https:\/\//.test(p.url)) err(`partner ${id}: enabled partners need an https url`);
+  if (p.enabled) {
+    const redirects = existsSync(new URL('../public/_redirects', import.meta.url)) ? readFileSync(new URL('../public/_redirects', import.meta.url), 'utf8') : '';
+    if (!redirects.split('\n').some((l) => l.trim().startsWith(`/go/${id} `) && l.includes(p.url))) err(`partner ${id}: public/_redirects needs "/go/${id} <url> 302"`);
+  }
 }
 
 const mains = [...dishes.values()].filter((d) => d.kind === 'main').length;

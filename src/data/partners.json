@@ -2,12 +2,12 @@
   {
     "id": "rohlik",
     "name": "Rohlik.cz",
-    "enabled": false,
+    "enabled": true,
     "linkType": "homepage",
     "url": "https://www.kqzyfj.com/click-100367005-16984703",
     "itemTransfer": "none",
     "affiliateParams": {},
-    "availabilityNote": "Skryto na přání Kennyho (11. 11. 2026). Zapnutí: enabled true. Skutečný online supermarket. Odkaz je statický (CJ), položky se nepřenášejí. Rozvoz je dostupný jen tam, kde ho Rohlik.cz nabízí.",
+    "availabilityNote": "Skutečný online supermarket. Odkaz je statický (CJ), položky se nepřenášejí. Na webu se používá krátká adresa /go/rohlik (302 v public/_redirects). Rozvoz je dostupný jen tam, kde ho Rohlik.cz nabízí.",
     "verifiedAt": "2026-11-11"
   },
   {
