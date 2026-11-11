@@ -20,7 +20,6 @@ const PAGES = [
   '/jak-to-funguje/',
   '/o-projektu/',
   '/soukromi/',
-  '/tohle-neexistuje/',
 ];
 
 test('no page violates the Content-Security-Policy', async ({ page }) => {
@@ -37,6 +36,11 @@ test('no page violates the Content-Security-Policy', async ({ page }) => {
     expect(await page.locator('meta[http-equiv="content-security-policy"]').count(), `CSP meta tag on ${path}`).toBe(1);
   }
   expect(errors).toEqual([]);
+
+  // The 404 page: the missing document itself is logged by the browser, so only CSP violations are checked here.
+  await page.goto('/tohle-neexistuje/');
+  await page.waitForLoadState('networkidle');
+  expect(await page.evaluate(() => (window as unknown as { __csp: string[] }).__csp)).toEqual([]);
 });
 
 test('the CSP meta tag is strict: no unsafe-inline for scripts, no foreign origins', async ({ page }) => {
