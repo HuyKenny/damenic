@@ -26,11 +26,10 @@ export default defineConfig({
         "media-src 'self'",
         "frame-src 'none'",
         "manifest-src 'self'",
-        "style-src-attr 'unsafe-inline'",
       ],
       // 'inline-speculation-rules' lets the inline <script type="speculationrules"> in Base.astro run (prefetch of internal links).
       scriptDirective: { resources: ["'self'", "'inline-speculation-rules'"] },
-      styleDirective: { resources: ["'self'"] },
+      styleDirective: { resources: ["'self'", { resource: "'unsafe-inline'", kind: 'attribute' }] },
     },
   },
 });
