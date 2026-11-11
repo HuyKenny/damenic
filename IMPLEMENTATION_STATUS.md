@@ -116,7 +116,7 @@ All on GitHub-hosted runners (`ubuntu-latest`); nothing was installed, built or 
 
 ## Blocked / needs Kenny
 - Operator name and contact for `/o-projektu/` and `/soukromi/` (condition for a public launch; not invented).
-- Shop/affiliate partner: Rohlik.cz enabled 11. 11. 2026 (Kenny's CJ link, not click-tested: Kenny should open it once to confirm the advertiser is approved).
+- Shop/affiliate partner: Rohlik.cz wired up but hidden (`enabled: false`, Kenny 11. 11. 2026); built 11. 11. 2026 (Kenny's CJ link, not click-tested: Kenny should open it once to confirm the advertiser is approved).
 
 - `www.damenic.cz` answers 200 with the same pages (canonical points to the apex). A www → apex 301 Redirect Rule still has to be created on the zone.
 - Google Search Console: domain not verified yet; `scripts/damenic/gsc-setup.py` in the workspace does it (DNS TXT change, needs Kenny).
