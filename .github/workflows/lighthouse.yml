@@ -19,7 +19,7 @@ jobs:
         run: |
           npm i -g --silent lighthouse@13 >/dev/null
           mkdir -p lh
-          for path in / /restaurace/prazdna-pec/ /jidla/svickova-na-smetane/ /recepty/pizza-margherita/ /kosik/; do
+          for path in / /restaurace/ /restaurace/prazdna-pec/ /jidla/svickova-na-smetane/ /recepty/pizza-margherita/ /recepty/kuchyne/ceska/ /kosik/; do
             name=$(echo "$path" | tr '/' '_')
             lighthouse "https://damenic.cz$path" --quiet --chrome-flags="--headless=new --no-sandbox" \
               --only-categories=performance,accessibility,best-practices,seo --output=json --output-path="lh/$name.json" || true

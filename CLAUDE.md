@@ -43,6 +43,8 @@ Read results with `gh run view --repo HuyKenny/damenic`, download screenshots wi
 - Simulation: `src/lib/simulation.ts` derives state from `createdAt` + `etaMinutes`; nothing is written per tick. SPEED = 10.
 - Orders: `/objednavka/#<id>`, immutable snapshot (`src/lib/orders.ts`), max 20, 90-day expiry.
 - Hosting: Cloudflare Workers Static Assets (`wrangler.jsonc`, no `main` = no Worker code, no billed requests). No D1/KV/cron.
-- Photos: Wikimedia Commons with licence records in `src/data/assets.json` (see ASSETS.md). Optimised by Astro at build time on the runner.
+- Photos: records in `src/data/assets.json` (see ASSETS.md): ~415 from Pexels (downloaded in CI, never in git) plus the older
+  Wikimedia Commons set in `src/assets/photos/`. Optimised by Astro at build time on the runner. Pexels `downloadUrl` must come
+  from the API `src` (some originals are PNG → add `&fm=jpg`); guessing `pexels-photo-<id>.jpeg` gives 404.
 
 Docs: IMPLEMENTATION_STATUS.md, ASSETS.md, DEPLOYMENT.md, CONTENT_GUIDE.md.

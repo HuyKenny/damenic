@@ -1,7 +1,33 @@
 # Implementation status
 
-Updated: 2026-11-10. Only results that actually ran are recorded here.
+Updated: 2026-11-11. Only results that actually ran are recorded here.
 
+## v2 (2026-11-11): delivery-app redesign
+- Look: Canva logo (retraced as SVG), favicons, 16 category icons, 4 illustrations; Bricolage Grotesque + Figtree; red/pink/yellow tokens.
+- Catalogue: 44 fictional restaurants in 15 cuisines, 439 menu items with EU allergens, spiciness and vegan flags; 125 recipes
+  (95 new ones chosen by Marketing Miner search volume), 235 ingredients.
+- Browsing: category strip, quick chips, filter dialog (cuisine, free delivery, promo, open now, delivery time, price level,
+  diet, pickup, new, no minimum), five sorts, state in the query string. No rating filter (fictional places have no ratings).
+- Restaurant page: cover, monogram, facts, delivery/pickup switch, section tabs with scrollspy, menu search, "Tip kuchyně",
+  dish sheet with photo, allergens, required/optional options.
+- Cart: drawer + /kosik/, upsell row, minimum order bar, restaurant promos. Checkout: time slots from opening hours,
+  courier note presets, tip, promo codes NIC / NANECISTO, four demo payment tiles, still no personal or payment field.
+- Tracker: ETA ring, courier avatar, joke call/chat dialog, scheduled orders, reversed route for pickup.
+- SEO: recipe hubs per cuisine + quick + meatless, FAQ + FAQPage, Recipe JSON-LD with 3 image ratios and HowToSection,
+  own sitemaps with git lastmod and images, one indexed dish page per recipe, SearchAction to /hledat/, IndexNow after deploy.
+- Photos: 415 Pexels records (3 helper agents picked them from thumbnail contact sheets; no photo files on the Pi or in git),
+  CI downloads and caches them. 7 placeholders remain: al-taglio-rossa-ani-kousek, krevetove-chipsy-nebude,
+  malinova-omacka-upecem, nakladana-zelenina-neurcito, ovocne-knedliky (dish + recipe), rajcatova-ryze-nic.
+  29 recipes without an own photo reuse the photo of their dish.
+
+### v2 verification (actually run, 2026-11-11, GitHub-hosted runners)
+- CI run 42973879110: content validation, `astro check`, ESLint, build with all 415 photos downloaded: pass.
+- Vitest: 48 tests in 5 files pass (new: filters, cart pricing with pickup/tip/promos/minimum).
+- Playwright e2e: 25 tests pass (new: filters + URL state, dish sheet, minimum order, tip/promo/pickup totals, hubs/sitemaps).
+- Screenshots 360/390/768/1440 reviewed by eye; fixed from them: separator dot starting a wrapped facts line on tiles.
+- IndexNow: first ping right after the key went live returned 403, the next deploy's ping returned 200 (306 URLs).
+
+## v1 (2026-11-10)
 ## Done (code written)
 - Catalogue: 6 fictional restaurants, 30 main dishes with options, sides and drinks, 30 recipes, 160 ingredients with illustrative prices.
 - Full flow: restaurant → dish with validated options → cart (one restaurant, confirm before replacing, merge identical lines,
@@ -47,11 +73,11 @@ All on GitHub-hosted runners (`ubuntu-latest`); nothing was installed, built or 
 - Shop/affiliate partner for the shopping list: none confirmed, module stays disabled.
 
 - `www.damenic.cz` answers 200 with the same pages (canonical points to the apex). A www → apex 301 Redirect Rule still has to be created on the zone.
+- Google Search Console: domain not verified yet; `scripts/damenic/gsc-setup.py` in the workspace does it (DNS TXT change, needs Kenny).
 
 ## Assets
 - 62 of 65 photos from Wikimedia Commons (CC0 / PD / CC BY / CC BY-SA), each checked by eye, records in `src/data/assets.json`.
 - Placeholders (no suitable licensed photo): `dish-malinova-limonada-hospoda`, `dish-nealkoholicke-pivo-hospoda` (every photo showed a
   brand), `dish-cockovy-dal-s-ryzi` (removed: origin of the Commons upload was doubtful).
 - Weaker matches worth replacing later: burger-niva-cibule, salat-halloumi-kuskus, zeleninove-kari-s-tofu, zelny-salat-kebab, hovezi-durum.
-- Logo, favicon, OG image and illustrations: own SVG/PIL drawings in the repo. **Canva was not used**: it only got connected
-  during the session; the logo was kept as own vector code because it stays sharp at 16 px and needs no licence.
+- v1 logo/illustrations were own SVG/PIL drawings; v2 replaced them with Canva assets (see above).
