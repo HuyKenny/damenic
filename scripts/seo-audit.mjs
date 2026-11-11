@@ -102,7 +102,7 @@ for (const u of sitemapUrls) {
   else if (!pages.has(path)) err('sitemap', `${u} has no page in ${DIST}`);
 }
 for (const [t, urls] of titles) if (urls.length > 1) warn(urls[0], `duplicate title shared with ${urls.length - 1} more page(s): ${t.slice(0, 60)}`);
-for (const [d, urls] of descriptions) if (urls.length > 1) warn(urls[0], `duplicate description shared with ${urls.length - 1} more page(s)`);
+for (const [, urls] of descriptions) if (urls.length > 1) warn(urls[0], `duplicate description shared with ${urls.length - 1} more page(s)`);
 
 // robots.txt must point to the sitemap
 const robots = existsSync(join(DIST, 'robots.txt')) ? readFileSync(join(DIST, 'robots.txt'), 'utf8') : '';
