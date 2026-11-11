@@ -27,9 +27,18 @@ Append to `src/data/ingredients.json`: `id`, `name`, `department` (one of the se
 Only set `priceSource: "verified"` with a real check date and source.
 
 ## Add a restaurant
-`src/data/restaurants/<slug>.json`: `name`, `category`, `cuisine`, `tagline`, `description` (must say it is fictional),
-`etaMinutes` (simulated, 10–90; the tracker uses it), `deliveryFee`, `cover` (`rest-<slug>`), `sections`, `order`.
-At least three main dishes.
+`src/data/restaurants/<slug>.json`: `name`, `category` (one of the 15 in `src/content.config.ts`), `cuisine`, `tagline`,
+`description` (must say it is fictional), `etaMinutes` (simulated, 10–90; the tracker uses it), `deliveryFee`, `minOrder`,
+`priceLevel` (1–3), `hours` `{open, close}` in Prague time (close < open = past midnight), `pickup`, `tags`
+(bez masa / veganské / pikantní / bezlepkové možnosti), optional `promo` (`free-delivery` or `percent`), `isNew`,
+`logo` `{text, color, ink}`, `cover` (`rest-<slug>`), `sections`, `order`. At least three main dishes.
+Dishes also take `allergens` (EU numbers 1–14), `spicy` (0–3) and `vegan`. Recipes take `keywords` (first = target search
+phrase) and `faq` (shown on the page and in FAQPage data).
+
+## Add a photo
+Find it on Pexels, then add a record to `src/data/assets.json` with `source: "pexels"`, `sourceUrl`, `author`,
+`downloadUrl: https://images.pexels.com/photos/<id>/pexels-photo-<id>.jpeg?auto=compress&cs=tinysrgb&w=1400`. Do not download it
+to the Pi: CI fetches it.
 
 ## Add a shop partner
 `src/data/partners.json`. A partner is shown only when `enabled: true`, `url` is a verified link and `verifiedAt` is set.
