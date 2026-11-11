@@ -20,6 +20,21 @@ Read results with `gh run view --repo HuyKenny/damenic`, download screenshots wi
 - Keep the three cost figures apart: simulated delivery value / consumed ingredients / whole packs. A negative difference is shown as such.
 - Affiliate partners stay `enabled: false` until an integration is confirmed; never show `#` buttons.
 
+## v2 (11. 11. 2026): delivery-app redesign
+- Look: Wolt/Foodora patterns in DámeNic red: Canva logo/icons/illustrations in `src/assets/brand/` (logo retraced as SVG in
+  `src/components/Logo.astro` and `public/favicon.svg`), Bricolage Grotesque + Figtree, pink #FFE9EA surfaces, yellow stickers.
+- 44 fictional restaurants in 15 cuisines (`CATEGORIES` in `src/content.config.ts`), ~440 menu items with EU allergens,
+  ~125 recipes. Restaurants carry simulated `minOrder`, `priceLevel`, `hours` (Prague time), `pickup`, `tags`, `promo`, `logo`.
+- Filters/sorting: `src/lib/filters.ts` + island `RestaurantBrowser` (state in the query string, canonical stays /restaurace/).
+  No rating filter: the restaurants are fictional and have no real ratings.
+- Pricing: `totals(cart, catalog, opts)` in `src/lib/cart.ts` handles pickup, tip, restaurant promos, promo codes (NIC, NANECISTO),
+  minimum order. Checkout options live in `$checkout` (`src/lib/stores.ts`).
+- Photos: Pexels records in `src/data/assets.json` with `downloadUrl`; CI downloads them (`scripts/fetch-photos.mjs`, cached).
+  Do not commit Pexels files. Old Wikimedia photos still live in `src/assets/photos/` in git.
+- SEO: recipe hubs `/recepty/kuchyne/<id>/`, `/recepty/rychle/`, `/recepty/bez-masa/` (`src/lib/hubs.ts`), own sitemaps
+  (`src/pages/sitemap-*.xml.ts`, git lastmod, recipe images), one indexed dish page per recipe (`primaryDishForRecipe`).
+- Tests pin the browser clock to Prague noon (`atNoon`) because restaurants have opening hours.
+
 ## Architecture
 - Astro 7 static output, no adapter, Preact islands only where interactive, nanostores for shared state (`src/lib/stores.ts`).
 - Content: JSON in `src/data/` validated by Zod (`src/content.config.ts`) and by `scripts/validate-content.mjs` (cross-file rules).
