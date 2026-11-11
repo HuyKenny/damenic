@@ -3388,3 +3388,21 @@ dialog.dlg--drawer {
 .partner__icon {
   flex: none;
 }
+
+.operator {
+  display: grid;
+  gap: 8px;
+  margin: 12px 0;
+}
+.operator div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 12px;
+}
+.operator dt {
+  min-width: 9.5rem;
+  font-weight: 700;
+}
+.operator dd {
+  margin: 0;
+}

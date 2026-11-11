@@ -115,7 +115,7 @@ All on GitHub-hosted runners (`ubuntu-latest`); nothing was installed, built or 
 - Screen reader behaviour was not tested manually; only roles/labels and Lighthouse checks.
 
 ## Blocked / needs Kenny
-- Operator name and contact for `/o-projektu/` and `/soukromi/` (condition for a public launch; not invented).
+- Operator details: filled in 11. 11. 2026 (Kenny's own, in /o-projektu/, /soukromi/ and the footer).
 - Shop/affiliate partner: Rohlik.cz enabled behind /go/rohlik (Kenny 11. 11. 2026: short link, still labelled as an ad; hidden once on request, then re-enabled) (Kenny's CJ link, not click-tested: Kenny should open it once to confirm the advertiser is approved).
 
 - `www.damenic.cz` answers 200 with the same pages (canonical points to the apex). A www → apex 301 Redirect Rule still has to be created on the zone.

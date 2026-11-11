@@ -15,7 +15,7 @@ Read results with `gh run view --repo HuyKenny/damenic`, download screenshots wi
 ## Non-negotiable product rules
 - It must be obvious from the first screen that this is a simulation ("Simulace rozvozu. Žádné skutečné platby ani doručení.").
 - No payment gateway, no card/bank/personal fields, no real restaurants, couriers or orders, no link to Foodora/DámeJídlo.
-- No fake reviews/ratings, no LocalBusiness/Offer schema for fictional places, no invented operator details.
+- No fake reviews/ratings, no LocalBusiness/Offer schema for fictional places, no invented operator details (the real ones, Kenny's, are in about/privacy/footer since 11. 11. 2026: Ha Duy Huy, IČO 07876823).
 - Ingredient prices are **illustrative** (`priceSource: "illustrative"`) until a verified shop feed exists. Never call them current.
 - Keep the three cost figures apart: simulated delivery value / consumed ingredients / whole packs. A negative difference is shown as such.
 - Affiliate partners stay `enabled: false` until an integration is confirmed; never show `#` buttons. Rohlik.cz is enabled via the short path `/go/rohlik`
