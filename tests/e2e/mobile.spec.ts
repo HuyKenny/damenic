@@ -9,14 +9,23 @@ test('mobile: bottom cart bar, menu, no horizontal scroll', async ({ page }) => 
     // Name the elements that stick out, so a failure says what to fix.
     const culprits = await page.evaluate(() => {
       const w = document.documentElement.clientWidth;
+      // An element only widens the page when no ancestor clips it horizontally.
+      const clipped = (el: Element) => {
+        for (let p = el.parentElement; p && p !== document.body; p = p.parentElement) {
+          const ox = getComputedStyle(p).overflowX;
+          if (ox !== 'visible') return true;
+        }
+        return false;
+      };
       return [...document.querySelectorAll('body *')]
         .filter((el) => {
           const r = el.getBoundingClientRect();
-          // Children of horizontal scrollers may stick out; the scroller itself and fixed bars may not.
-          return r.right > w + 1 && r.width > 0 && !el.parentElement?.closest('.catstrip, .filterbar, .rail, .menunav, dialog, .tabbar');
+          const pos = getComputedStyle(el).position;
+          return r.right > w + 1 && r.width > 0 && pos !== 'fixed' && !clipped(el);
         })
         .slice(0, 6)
-        .map((el) => `${el.tagName.toLowerCase()}.${[...el.classList].join('.')} (${Math.round(el.getBoundingClientRect().left)}–${Math.round(el.getBoundingClientRect().right)})`);
+        .map((el) => `${el.tagName.toLowerCase()}.${[...el.classList].join('.')} (${Math.round(el.getBoundingClientRect().left)}–${Math.round(el.getBoundingClientRect().right)})`)
+        .concat(`scrollWidth ${document.documentElement.scrollWidth}`);
     });
     expect(overflow, `${path}: ${culprits.join(', ')}`).toBeLessThanOrEqual(0);
     await expect(page.getByRole('navigation', { name: 'Navigace aplikace' }), path).toBeInViewport();
