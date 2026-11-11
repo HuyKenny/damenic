@@ -1,5 +1,5 @@
 import { expect, test } from '@playwright/test';
-import { kc } from './helpers';
+import { hydrated, kc } from './helpers';
 
 test('changing servings recalculates amounts and costs', async ({ page }) => {
   await page.goto('/recepty/pizza-margherita/');
@@ -56,12 +56,14 @@ test('shopping list merges recipes and "Mám doma" lowers only the purchase', as
 
 test('search tolerates missing diacritics and has an empty state', async ({ page }) => {
   await page.goto('/');
+  await hydrated(page.locator('.header'));
   const box = page.getByRole('combobox');
   await box.fill('svickova');
   await expect(page.getByRole('option').first()).toContainText('Svíčková');
   await box.press('Enter');
   await expect(page).toHaveURL(/svickova/);
   await page.goto('/');
+  await hydrated(page.locator('.header'));
   await page.getByRole('combobox').fill('qqqqzz');
   await expect(page.locator('.search__empty')).toBeVisible();
 });
