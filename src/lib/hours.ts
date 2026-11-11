@@ -36,7 +36,8 @@ export function slots(hours: { open: string; close: string }, etaMinutes: number
   const out: { label: string; at: number }[] = [];
   const step = 15 * 60_000;
   let t = Math.ceil((at + (etaMinutes + 15) * 60_000) / step) * step;
-  for (let i = 0; i < 96 && out.length < count; i++, t += step) {
+  // 12 hours ahead at most, so a slot never silently means "tomorrow".
+  for (let i = 0; i < 48 && out.length < count; i++, t += step) {
     if (!isOpen(hours, t)) continue;
     const m = pragueMinutes(t);
     out.push({ label: `${String(Math.floor(m / 60)).padStart(2, '0')}:${String(m % 60).padStart(2, '0')}`, at: t });
