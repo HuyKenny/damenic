@@ -13,9 +13,11 @@ interface Props {
   running: boolean;
   restaurant: string;
   destination: string;
+  /** Pickup: the marker is the customer walking to the restaurant. */
+  pickup?: boolean;
 }
 
-export function CourierMap({ getProgress, running, restaurant, destination }: Props) {
+export function CourierMap({ getProgress, running, restaurant, destination, pickup = false }: Props) {
   const path = useRef<SVGPathElement>(null);
   const done = useRef<SVGPathElement>(null);
   const marker = useRef<SVGGElement>(null);
@@ -29,9 +31,9 @@ export function CourierMap({ getProgress, running, restaurant, destination }: Pr
     let timer = 0;
     const place = () => {
       const p = Math.min(1, Math.max(0, getProgress()));
-      const pt = el.getPointAtLength(p * length);
+      const pt = el.getPointAtLength((pickup ? 1 - p : p) * length);
       marker.current?.setAttribute('transform', `translate(${pt.x.toFixed(1)} ${pt.y.toFixed(1)})`);
-      done.current?.setAttribute('stroke-dasharray', `${(p * length).toFixed(1)} ${length.toFixed(1)}`);
+      done.current?.setAttribute('stroke-dasharray', pickup ? `0 ${(length * (1 - p)).toFixed(1)} ${(p * length).toFixed(1)}` : `${(p * length).toFixed(1)} ${length.toFixed(1)}`);
     };
     const loop = () => {
       place();
@@ -54,7 +56,7 @@ export function CourierMap({ getProgress, running, restaurant, destination }: Pr
       stop();
       document.removeEventListener('visibilitychange', start);
     };
-  }, [getProgress, running]);
+  }, [getProgress, running, pickup]);
 
   return (
     <figure class="map" style="margin:0">

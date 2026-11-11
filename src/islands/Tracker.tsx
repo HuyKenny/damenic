@@ -20,6 +20,8 @@ export interface RecipeCostInfo {
 
 interface Props {
   recipes: Record<string, RecipeCostInfo>;
+  /** Courier illustration (Canva), already optimised. */
+  courierImg?: string;
 }
 
 const COURIERS = [
@@ -30,12 +32,13 @@ const COURIERS = [
 const courierFor = (id: string) => COURIERS[[...id].reduce((n, ch) => n + ch.charCodeAt(0), 0) % COURIERS.length]!;
 const hashId = () => (typeof location === 'undefined' ? '' : decodeURIComponent(location.hash.replace(/^#/, '')));
 
-export default function Tracker({ recipes }: Props) {
+export default function Tracker({ recipes, courierImg }: Props) {
   const ready = useInit();
   const orders = useStore($orders);
   const [id, setId] = useState('');
   const [now, setNow] = useState(() => Date.now());
   const [askCancel, setAskCancel] = useState(false);
+  const [contact, setContact] = useState<'call' | 'chat' | null>(null);
 
   useEffect(() => {
     const read = () => setId(hashId());
@@ -47,6 +50,7 @@ export default function Tracker({ recipes }: Props) {
   const order = id ? findOrder(orders, id) : undefined;
   const sim = order ? simulate(fromOrder(order), now) : null;
   const running = sim?.status === 'running';
+  const scheduled = order !== undefined && sim?.status === 'running' && now < order.createdAt;
 
   // The clock only drives the countdown text. State is always recomputed from the stored creation time,
   // so a refresh or a return from a hidden tab lands on the right stage. Nothing is written per tick.
@@ -98,6 +102,22 @@ export default function Tracker({ recipes }: Props) {
 
   if (sim.status === 'done') return <Finale order={order} recipes={recipes} />;
 
+  if (scheduled) {
+    const at = new Date(order.createdAt + (order.restaurant.etaMinutes * 60_000) / SPEED);
+    return (
+      <div class="empty" data-testid="scheduled">
+        <span class="sticker">Naplánováno</span>
+        <h1 style="margin-top:12px;font-size:1.8rem">Doručení nanečisto v {at.toLocaleTimeString('cs-CZ', { hour: '2-digit', minute: '2-digit' })}</h1>
+        <p>Simulace začne {new Date(order.createdAt).toLocaleTimeString('cs-CZ', { hour: '2-digit', minute: '2-digit' })}. Do té doby restaurace připravuje přesně tolik, kolik vždycky: nic.</p>
+        <button type="button" class="btn" onClick={() => {
+          const t0 = Date.now();
+          $orders.set(skipOrder($orders.get(), order.id, t0));
+          setNow(t0);
+        }}>Přeskočit čekání</button>
+      </div>
+    );
+  }
+
   const courier = courierFor(order.id);
   const recipeLines = order.lines.filter((l) => l.recipe && recipes[l.recipe]);
 
@@ -111,7 +131,7 @@ export default function Tracker({ recipes }: Props) {
       </div>
       <div class="track">
         <div class="stack">
-          <CourierMap getProgress={getProgress} running={running} restaurant={order.restaurant.name} destination={order.dropPoint} />
+          <CourierMap getProgress={getProgress} running={running} restaurant={order.restaurant.name} destination={order.dropPoint} pickup={order.mode === 'pickup'} />
           <section class="track__status">
             {sim.status === 'cancelled' ? (
               <>
@@ -129,7 +149,14 @@ export default function Tracker({ recipes }: Props) {
             ) : (
               <>
                 <div class="track__eta">
-                  <strong data-testid="eta">{sim.remainingMinutes} min</strong>
+                  <svg class="ring" viewBox="0 0 120 120" aria-hidden="true">
+                    <circle cx="60" cy="60" r="52" fill="none" stroke="#f1ebe4" stroke-width="12" />
+                    <circle cx="60" cy="60" r="52" fill="none" stroke="#d92e32" stroke-width="12" stroke-linecap="round" stroke-dasharray={`${(sim.progress * 326.7).toFixed(1)} 326.7`} transform="rotate(-90 60 60)" />
+                  </svg>
+                  <div>
+                    <strong data-testid="eta">{sim.remainingMinutes} min</strong>
+                    <div class="small muted">{order.mode === 'pickup' ? 'do vyzvednutí' : 'do doručení'}</div>
+                  </div>
                   <span class="tag tag--sim">Zrychlená simulace {SPEED}×</span>
                 </div>
                 <div class="bar" role="progressbar" aria-label="Průběh simulace" aria-valuemin={0} aria-valuemax={100} aria-valuenow={Math.round(sim.progress * 100)}>
@@ -196,19 +223,34 @@ export default function Tracker({ recipes }: Props) {
           <section class="panel">
             <h2>Smyšlený kurýr</h2>
             <div class="courier">
-              <span class="courier__avatar">
-                <Icon name="bike" size={26} />
-              </span>
+              <span class="courier__avatar">{courierImg ? <img src={courierImg} alt="" width="52" height="52" /> : <Icon name="bike" size={26} />}</span>
               <div>
                 <strong>{courier.name}</strong>
                 <div class="muted small">{courier.vehicle}</div>
-                <div class="muted small">Kurýr neexistuje. Nedá se mu volat ani psát.</div>
+                <div class="muted small">Kurýr neexistuje.</div>
               </div>
+            </div>
+            <div class="toolbar">
+              <button type="button" class="btn btn--ghost btn--sm" onClick={() => setContact('call')} data-testid="call-courier">
+                <Icon name="phone" size={18} /> Zavolat
+              </button>
+              <button type="button" class="btn btn--ghost btn--sm" onClick={() => setContact('chat')}>
+                <Icon name="message" size={18} /> Napsat
+              </button>
             </div>
           </section>
           <OrderSummary order={order} />
         </div>
       </div>
+      <Dialog open={contact !== null} title={contact === 'call' ? 'Volám kurýrovi…' : 'Zpráva kurýrovi'} onClose={() => setContact(null)}>
+        <p>{contact === 'call' ? 'Číslo, které voláte, neexistuje. Stejně jako kurýr, jídlo a vaše útrata.' : 'Kurýr si zprávu přečte hned, jak začne existovat.'}</p>
+        <p class="small muted">Nikam se nic neposílá ani nevolá.</p>
+        <div class="dlg__actions">
+          <button type="button" class="btn" onClick={() => setContact(null)}>
+            Rozumím
+          </button>
+        </div>
+      </Dialog>
       <Dialog open={askCancel} title="Zrušit simulaci?" onClose={() => setAskCancel(false)}>
         <p>Kurýr se otočí a neodveze nic zpátky. Objednávka zůstane v historii jako zrušená.</p>
         <div class="dlg__actions">

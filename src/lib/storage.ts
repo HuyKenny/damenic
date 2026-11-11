@@ -7,6 +7,7 @@ export const KEYS = {
   orders: 'damenic:orders:v1',
   shopping: 'damenic:shopping:v1',
   city: 'damenic:city:v1',
+  checkout: 'damenic:checkout:v1',
 } as const;
 
 const memory = new Map<string, string>();

@@ -54,7 +54,7 @@ describe('simulation', () => {
 
 const catalog: Catalog = {
   dishes: { w: { id: 'w', slug: 'w', name: 'Voda', restaurantId: 'a', price: 3500, image: '', recipe: null, page: false, optionGroups: [] } },
-  restaurants: { a: { id: 'a', slug: 'a', name: 'A', etaMinutes: 30, deliveryFee: 3900 } },
+  restaurants: { a: { id: 'a', slug: 'a', name: 'A', etaMinutes: 30, deliveryFee: 3900, minOrder: 0, pickup: true, hours: { open: '00:00', close: '23:59' }, promo: null } },
 };
 const r = addItem(emptyCart(), catalog.dishes.w!, {}, 2);
 const cart = r.ok ? r.cart : emptyCart();

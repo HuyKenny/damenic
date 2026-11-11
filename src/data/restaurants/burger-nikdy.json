@@ -12,5 +12,18 @@
     "Přílohy",
     "Nápoje"
   ],
-  "order": 20
+  "order": 20,
+  "minOrder": 24900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:00",
+    "close": "23:00"
+  },
+  "tags": [
+    "pikantní"
+  ],
+  "logo": {
+    "text": "BN",
+    "color": "#1F1F23"
+  }
 }

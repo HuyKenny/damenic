@@ -1,6 +1,6 @@
 {
   "name": "Zelená Nula",
-  "category": "vegetarianske",
+  "category": "vegetarianska",
   "cuisine": "Bowly, kari a pečená zelenina",
   "tagline": "Zeleniny máme plnou lednici. Na talíř ti z ní nedáme nic.",
   "description": "Smyšlené vegetariánské bistro, kde se peče batát, dusí čočka a griluje halloumi. Objednávka je jen nanečisto, kurýr nevyjede a krabička nedorazí. Místo ní dostaneš recept, podle kterého si stejné jídlo uvaříš doma.",
@@ -13,5 +13,19 @@
     "Přílohy",
     "Nápoje"
   ],
-  "order": 60
+  "order": 60,
+  "minOrder": 19900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "09:00",
+    "close": "21:00"
+  },
+  "tags": [
+    "bez masa",
+    "veganské"
+  ],
+  "logo": {
+    "text": "0",
+    "color": "#3D8B37"
+  }
 }

@@ -11,6 +11,7 @@ import { formatDuration } from '@/lib/units';
 import { CATEGORY_LABELS, SITE } from '@/lib/site';
 import { photo } from '@/lib/content';
 import { getImage } from 'astro:assets';
+import { RECIPE_HUBS } from '@/lib/hubs';
 
 export async function getStaticPaths() {
   return (await allRecipes()).map((recipe) => ({ params: { slug: recipe.id }, props: { recipe } }));
@@ -38,35 +39,56 @@ for (const s of r.data.steps) {
 const total = totalMinutes(r);
 const iso = (m: number) => `PT${Math.floor(m / 60) ? `${Math.floor(m / 60)}H` : ''}${m % 60 ? `${m % 60}M` : ''}` || 'PT0M';
 const p = await photo(r.data.image);
-const img = p.meta ? new URL((await getImage({ src: p.meta, width: 1200, format: 'jpg' })).src, SITE.url).href : undefined;
+// Google wants several aspect ratios for recipe images: 16:9, 4:3 and 1:1, at least 1200 px wide where possible.
+const images = p.meta
+  ? await Promise.all(
+      [
+        [1200, 675],
+        [1200, 900],
+        [1200, 1200],
+      ].map(async ([w, h]) => new URL((await getImage({ src: p.meta!, width: Math.min(w!, p.meta!.width), height: Math.round((Math.min(w!, p.meta!.width) * h!) / w!), fit: 'cover', format: 'jpg', quality: 78 })).src, SITE.url).href),
+    )
+  : [];
+const hub = (await RECIPE_HUBS()).find((h) => h.slug === `kuchyne/${r.data.category}`);
 // Structured data mirrors only what is visible on the page: no ratings, no nutrition, no reviews.
-const jsonld = {
+const ld = {
   '@context': 'https://schema.org',
   '@type': 'Recipe',
   name: r.data.title,
   description: r.data.intro,
-  ...(img ? { image: [img] } : {}),
+  ...(images.length ? { image: images } : {}),
   recipeCuisine: CATEGORY_LABELS[r.data.category]?.label,
+  recipeCategory: r.data.category === 'dezerty' ? 'Dezert' : r.data.category === 'snidane' ? 'Snídaně' : 'Hlavní jídlo',
+  ...(r.data.keywords.length ? { keywords: r.data.keywords.join(', ') } : {}),
+  datePublished: '2026-11-10',
   recipeYield: `${r.data.servings} porce`,
   prepTime: iso(r.data.activeMinutes + r.data.waitMinutes),
   cookTime: iso(r.data.cookMinutes),
   totalTime: iso(total),
   recipeIngredient: r.data.ingredients.map((i) => `${formatAmount(i.amount, i.unit)} ${info[i.ingredient.id]?.name ?? i.ingredient.id}${i.note ? ` (${i.note})` : ''}`),
-  recipeInstructions: r.data.steps.map((s) => ({ '@type': 'HowToStep', text: s.text })),
+  recipeInstructions: sections.length > 1 && sections.every((s) => s.title)
+    ? sections.map((s) => ({ '@type': 'HowToSection', name: s.title, itemListElement: s.steps.map((t) => ({ '@type': 'HowToStep', text: t })) }))
+    : r.data.steps.map((s) => ({ '@type': 'HowToStep', text: s.text })),
   publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
 };
+// FAQ structured data only mirrors the questions shown on the page.
+const faqLd = r.data.faq.length
+  ? { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: r.data.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) }
+  : null;
+const h1 = r.data.title.toLowerCase().includes('recept') ? r.data.title : `${r.data.title}: recept`;
+const metaTitle = `${r.data.title} – recept krok za krokem`;
 ---
 
-<Base title={`${r.data.title} – recept`} description={`${r.data.intro.slice(0, 150)}${r.data.intro.length > 150 ? '…' : ''}`} ogType="article" jsonld={[jsonld]}>
+<Base title={metaTitle} description={`${r.data.intro.slice(0, 150)}${r.data.intro.length > 150 ? '…' : ''}`} ogType="article" ogImage={images[0]} jsonld={faqLd ? [ld, faqLd] : [ld]}>
   <Breadcrumbs items={[{ label: 'Recepty', href: '/recepty/' }, { label: r.data.title }]} />
   <article class="wrap">
     <header class="recipehead">
       <div>
         <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px">
-          <span class="tag">{CATEGORY_LABELS[r.data.category]?.label}</span>
+          {hub ? <a class="tag" href={hub.path}>{CATEGORY_LABELS[r.data.category]?.label}</a> : <span class="tag">{CATEGORY_LABELS[r.data.category]?.label}</span>}
           {r.data.vegetarian && <span class="tag tag--veg">Bez masa</span>}
         </div>
-        <h1>{r.data.title}</h1>
+        <h1>{h1}</h1>
         <p style="font-size:1.125rem;margin-top:12px">{r.data.intro}</p>
         <dl class="times">
           <div><dt>Porce</dt><dd>{r.data.servings}</dd></div>
@@ -114,6 +136,19 @@ const jsonld = {
             <section class="prose" aria-labelledby="tipy">
               <h2 id="tipy">Tipy</h2>
               <ul class="tips">{r.data.tips.map((t) => <li>{t}</li>)}</ul>
+            </section>
+          )
+        }
+        {
+          r.data.faq.length > 0 && (
+            <section class="prose faq" aria-labelledby="otazky">
+              <h2 id="otazky">Časté otázky</h2>
+              {r.data.faq.map((f) => (
+                <details>
+                  <summary>{f.q}</summary>
+                  <p>{f.a}</p>
+                </details>
+              ))}
             </section>
           )
         }

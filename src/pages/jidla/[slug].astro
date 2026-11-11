@@ -6,7 +6,7 @@ import Icon from '@/components/Icon.astro';
 import DishCard from '@/components/DishCard.astro';
 import AddToCart from '@/islands/AddToCart';
 import { getEntry } from 'astro:content';
-import { allDishes, buildCatalog, dishHasPage, ingredientInfo, perServingCost, totalMinutes, type Dish } from '@/lib/content';
+import { allDishes, buildCatalog, dishHasPage, ingredientInfo, perServingCost, primaryDishForRecipe, totalMinutes, type Dish } from '@/lib/content';
 import { formatCzk, roundToCrown } from '@/lib/money';
 import { formatDuration } from '@/lib/units';
 
@@ -22,6 +22,8 @@ const recipe = d.data.recipe ? await getEntry(d.data.recipe) : undefined;
 const catalog = await buildCatalog();
 const info = await ingredientInfo();
 const perServing = recipe ? perServingCost(recipe, info) : null;
+// Several restaurants may sell the same recipe: only one dish page per recipe is indexed.
+const indexable = !d.data.recipe || (await primaryDishForRecipe()).get(d.data.recipe.id) === d.id;
 const others = (await allDishes()).filter((x) => x.data.restaurant.id === restaurant.id && x.id !== d.id && dishHasPage(x)).slice(0, 4);
 ---
 
@@ -29,6 +31,7 @@ const others = (await allDishes()).filter((x) => x.data.restaurant.id === restau
   title={`${d.data.name} – objednej nanečisto, uvař doopravdy`}
   description={`${d.data.name} z fiktivní restaurace ${restaurant.data.name}: ${d.data.description} V simulátoru DámeNic si ho objednáš nanečisto a dostaneš recept na doma.`}
   ogType="article"
+  noindex={!indexable}
 >
   <Breadcrumbs items={[{ label: 'Restaurace', href: '/restaurace/' }, { label: restaurant.data.name, href: `/restaurace/${restaurant.id}/` }, { label: d.data.name }]} />
   <div class="wrap">

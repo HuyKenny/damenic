@@ -13,8 +13,14 @@ test('main screens', async ({ page }, testInfo) => {
   await page.clock.install({ time: new Date('2026-11-10T12:00:00') });
   await page.goto('/');
   await shot(page, '01-home', testInfo);
+  await page.goto('/restaurace/');
+  await shot(page, '02a-katalog', testInfo);
   await page.goto('/restaurace/prazdna-pec/');
   await shot(page, '02-restaurace', testInfo);
+  await page.locator('.menuitem', { hasText: 'Pizza Margherita' }).getByTestId('open-dish').click();
+  await page.waitForTimeout(300);
+  await page.screenshot({ path: `shots/${testInfo.project.name}/02b-sheet.png` });
+  await page.keyboard.press('Escape');
   await page.goto('/jidla/pizza-margherita/');
   await page.getByTestId('add-form').getByLabel('32 cm').check();
   await page.getByTestId('add-form').getByRole('button', { name: /Do košíku/ }).click();

@@ -1,125 +1,153 @@
 ---
+import { Image } from 'astro:assets';
 import Base from '@/layouts/Base.astro';
 import Icon from '@/components/Icon.astro';
-import EmptyBag from '@/components/EmptyBag.astro';
-import RestaurantCard from '@/components/RestaurantCard.astro';
-import DishCard from '@/components/DishCard.astro';
 import RecipeCard from '@/components/RecipeCard.astro';
-import { allDishes, allRecipes, allRestaurants } from '@/lib/content';
+import RestaurantBrowser from '@/islands/RestaurantBrowser';
+import { RestaurantTile } from '@/islands/RestaurantTile';
+import { allRecipes, brand, categoryIcons, restaurantSummaries } from '@/lib/content';
 import { CATEGORY_LABELS, SITE } from '@/lib/site';
 
-const restaurants = await allRestaurants();
-const names = new Map(restaurants.map((r) => [r.id, r.data.name]));
-const dishes = (await allDishes()).filter((d) => d.data.kind === 'main');
-const featured = [...dishes.filter((d) => d.data.featured), ...dishes.filter((d) => !d.data.featured)].slice(0, 8);
-// One recipe per cuisine so the row shows variety.
+const summaries = await restaurantSummaries();
+const cats = await categoryIcons();
 const recipes = await allRecipes();
+const kuryr = brand('il-kuryr')!;
+const hrnec = brand('il-hrnec')!;
+const taska = brand('il-prazdna-taska')!;
+const byOrder = [...summaries].sort((a, b) => a.order - b.order);
+const rails = [
+  { id: 'rychle', title: 'Doručí do 25 minut', note: 'Simulovaně, samozřejmě.', items: byOrder.filter((r) => r.etaMinutes <= 25), more: '/restaurace/?do=30' },
+  { id: 'zdarma', title: 'Dopravné 0 Kč', note: 'Nic za nic. Doslova.', items: byOrder.filter((r) => r.freeDelivery), more: '/restaurace/?doprava=0' },
+  { id: 'nove', title: 'Nově na DámeNic', note: 'Čerstvě smyšlené podniky.', items: byOrder.filter((r) => r.isNew), more: '/restaurace/?nove' },
+  { id: 'akce', title: 'Akce týdne', note: 'Slevy na neexistující jídlo.', items: byOrder.filter((r) => r.promoLabel), more: '/restaurace/?akce' },
+  { id: 'bezmasa', title: 'Bez masa', note: 'Vegetariánské i veganské.', items: byOrder.filter((r) => r.tags.includes('bez masa') || r.category === 'vegetarianska'), more: '/restaurace/?dieta=bez%20masa' },
+].filter((r) => r.items.length >= 2);
+// Recipe row: the most searched dishes first (keyword order is set in the content).
 const recipePick = Object.keys(CATEGORY_LABELS)
   .map((c) => recipes.find((r) => r.data.category === c))
   .filter((r) => r !== undefined)
-  .slice(0, 4);
+  .slice(0, 8);
 const jsonld = [
-  { '@context': 'https://schema.org', '@type': 'WebSite', name: SITE.name, url: SITE.url, inLanguage: 'cs', description: SITE.description },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: SITE.name,
+    url: SITE.url,
+    inLanguage: 'cs',
+    description: SITE.description,
+    potentialAction: { '@type': 'SearchAction', target: { '@type': 'EntryPoint', urlTemplate: `${SITE.url}/hledat/?q={search_term_string}` }, 'query-input': 'required name=search_term_string' },
+  },
+  { '@context': 'https://schema.org', '@type': 'Organization', name: SITE.name, url: SITE.url, logo: `${SITE.url}/icon-512.png` },
 ];
 ---
 
-<Base title="DámeNic – simulátor rozvozu jídla, který nic nepřiveze" description={SITE.description} jsonld={jsonld}>
-  <section class="hero on-red">
-    <div class="wrap hero__in">
-      <div>
-        <span class="tag" style="background:#fff;color:#b3191f">Simulátor rozvozu jídla</span>
-        <h1 style="margin-top:12px">Všechno, na co máš chuť. Nic, co by přijelo.</h1>
-        <p>Vyber si jídlo, objednej nanečisto a sleduj kurýra. Až dostaneš opravdu hlad, máme i recept.</p>
+<Base title="DámeNic – rozvoz jídla nanečisto a recepty na doma" description={SITE.description} jsonld={jsonld}>
+  <section class="hero2">
+    <div class="wrap hero2__in">
+      <div class="hero2__text">
+        <span class="sticker sticker--tilt">Simulátor rozvozu</span>
+        <h1>Všechno, na co máš chuť. Nic, co by přijelo.</h1>
+        <p>Vyber si z {summaries.length} smyšlených restaurací, objednej nanečisto za 0 Kč a sleduj kurýra. Až dostaneš opravdu hlad, máme i recept.</p>
         <div class="hero__cta">
-          <a class="btn btn--white" href="#restaurace">Vybrat jídlo</a>
-          <a class="btn btn--outline-white" href="/recepty/">Radši si uvařím</a>
+          <a class="btn btn--lg" href="#restaurace">Vybrat jídlo</a>
+          <a class="btn btn--ghost btn--lg" href="/recepty/">Radši si uvařím</a>
         </div>
-        <ul class="hero__facts">
-          <li><Icon name="check" size={18} />Žádné skutečné platby</li>
-          <li><Icon name="check" size={18} />Žádné doručení</li>
-          <li><Icon name="check" size={18} />Skutečné recepty</li>
-        </ul>
       </div>
-      <div class="hero__art"><EmptyBag tone="onRed" /></div>
+      <div class="hero2__art">
+        <Image src={kuryr} alt="" widths={[240, 360, 480]} sizes="(min-width: 900px) 360px, 0px" width={360} loading="eager" fetchpriority="high" />
+      </div>
     </div>
   </section>
 
-  <section class="section wrap" aria-labelledby="h-kuchyne" style="padding-bottom:0">
-    <h2 id="h-kuchyne" class="sr-only">Kuchyně</h2>
-    <ul class="chips">
+  <section class="wrap section section--tight" aria-labelledby="h-kategorie">
+    <h2 id="h-kategorie" class="sr-only">Kuchyně</h2>
+    <ul class="catstrip catstrip--home">
       {
-        restaurants.map((r) => (
+        cats.map((c) => (
           <li>
-            <a class="chip" href={`/restaurace/${r.id}/`}>{CATEGORY_LABELS[r.data.category]?.label}</a>
+            <a class="cat" href={`/restaurace/?k=${c.id}`}>
+              <img src={c.src} alt="" width="56" height="56" loading="lazy" decoding="async" />
+              <span>{c.label}</span>
+            </a>
           </li>
         ))
       }
     </ul>
   </section>
 
-  <section class="section wrap" id="restaurace" aria-labelledby="h-restaurace">
+  <section class="wrap banners" aria-label="Akce">
+    <a class="banner banner--red" href="/restaurace/?doprava=0">
+      <span><strong>Dopravné 0 Kč</strong> u {summaries.filter((r) => r.freeDelivery).length} restaurací. Neplatíš ani za jídlo.</span>
+      <Image src={taska} alt="" width={140} widths={[140, 280]} sizes="140px" />
+    </a>
+    <a class="banner banner--yellow" href="/restaurace/?akce">
+      <span><strong>Slevy až −20 %</strong> na všechno, co nepřijede.</span>
+      <span class="sticker sticker--big" aria-hidden="true">−20 %</span>
+    </a>
+    <a class="banner banner--pink" href="/recepty/">
+      <span><strong>Uvař si to doopravdy.</strong> {recipes.length} receptů s nákupním seznamem.</span>
+      <Image src={hrnec} alt="" width={140} widths={[140, 280]} sizes="140px" />
+    </a>
+  </section>
+
+  {
+    rails.map((rail) => (
+      <section class="wrap section section--tight" aria-labelledby={`h-${rail.id}`}>
+        <div class="section__head">
+          <div>
+            <h2 id={`h-${rail.id}`}>{rail.title}</h2>
+            <p>{rail.note}</p>
+          </div>
+          <a class="section__more" href={rail.more}>
+            Zobrazit vše <Icon name="arrow" size={18} />
+          </a>
+        </div>
+        <div class="rail">
+          {rail.items.slice(0, 10).map((r) => (
+            <RestaurantTile r={r} now={null} />
+          ))}
+        </div>
+      </section>
+    ))
+  }
+
+  <section class="wrap section" id="restaurace" aria-labelledby="h-vse">
     <div class="section__head">
       <div>
-        <h2 id="h-restaurace">Restaurace, které neexistují</h2>
-        <p>Šest smyšlených podniků. Časy, dopravné i ceny jsou součást simulace.</p>
+        <h2 id="h-vse">Všechny restaurace</h2>
+        <p>Všechny jsou smyšlené. Časy, dopravné, minima i akce patří k simulaci.</p>
       </div>
-      <a class="section__more" href="/restaurace/">Všechny restaurace</a>
+      <a class="section__more" href="/restaurace/">Filtry a řazení <Icon name="arrow" size={18} /></a>
     </div>
-    <div class="grid">
-      {restaurants.map((r, i) => <RestaurantCard restaurant={r} priority={i < 3} />)}
+    <RestaurantBrowser client:visible restaurants={summaries} categories={cats} compact />
+  </section>
+
+  <section class="wrap section" aria-labelledby="h-recepty">
+    <div class="section__head">
+      <div>
+        <h2 id="h-recepty">Recepty na doma</h2>
+        <p>Fungují i bez objednávky. S poctivými časy, přepočtem porcí a nákupním seznamem.</p>
+      </div>
+      <a class="section__more" href="/recepty/">Všechny recepty <Icon name="arrow" size={18} /></a>
+    </div>
+    <div class="rail rail--recipes">
+      {recipePick.map((r) => <RecipeCard recipe={r} />)}
     </div>
   </section>
 
-  <section class="section wrap" aria-labelledby="h-jidla">
-    <div class="section__head">
-      <div>
-        <h2 id="h-jidla">Na co máš chuť</h2>
-        <p>Ke každému jídlu je recept, podle kterého ho uvaříš doma.</p>
-      </div>
-    </div>
-    <div class="grid grid--dishes">
-      {featured.map((d) => <DishCard dish={d} restaurantName={names.get(d.data.restaurant.id) ?? ''} />)}
-    </div>
-  </section>
-
-  <section class="section wrap" aria-labelledby="h-jak">
+  <section class="wrap section" aria-labelledby="h-jak">
     <div class="section__head">
       <div>
         <h2 id="h-jak">Jak to funguje</h2>
         <p>Čtyři kroky. Tři jsou hra, čtvrtý se dá sníst.</p>
       </div>
-      <a class="section__more" href="/jak-to-funguje/">Podrobně</a>
+      <a class="section__more" href="/jak-to-funguje/">Podrobně <Icon name="arrow" size={18} /></a>
     </div>
     <ol class="how">
-      <li>
-        <h3>Vybereš si</h3>
-        <p>Projdeš menu smyšlených restaurací a naskládáš si košík, včetně velikostí a příloh.</p>
-      </li>
-      <li>
-        <h3>Zaplatíš nanečisto</h3>
-        <p>Pokladna nechce kartu, jméno ani adresu. Simulovaná hodnota je vidět, skutečná cena je 0 Kč.</p>
-      </li>
-      <li>
-        <h3>Sleduješ kurýra</h3>
-        <p>Na ilustrační mapě jede smyšlený kurýr s prázdnou taškou. Doručí přesně nic.</p>
-      </li>
-      <li>
-        <h3>Uvaříš si doopravdy</h3>
-        <p>K jídlu dostaneš recept, odhad nákladů a nákupní seznam. Tahle část je skutečná.</p>
-      </li>
+      <li><h3>Vybereš si</h3><p>Filtry, kuchyně, akce a menu jako v rozvozové aplikaci. Restaurace jsou smyšlené.</p></li>
+      <li><h3>Zaplatíš nanečisto</h3><p>Pokladna nechce kartu, jméno ani adresu. Simulovaná hodnota je vidět, skutečně platíš 0 Kč.</p></li>
+      <li><h3>Sleduješ kurýra</h3><p>Smyšlený kurýr jede po ilustrační mapě s prázdnou taškou. Doručí přesně nic.</p></li>
+      <li><h3>Uvaříš si doopravdy</h3><p>K jídlu dostaneš skutečný recept, odhad nákladů a nákupní seznam.</p></li>
     </ol>
-  </section>
-
-  <section class="section wrap" aria-labelledby="h-recepty">
-    <div class="section__head">
-      <div>
-        <h2 id="h-recepty">Recepty na doma</h2>
-        <p>Fungují i bez objednávky. S poctivými časy a přepočtem porcí.</p>
-      </div>
-      <a class="section__more" href="/recepty/">Všechny recepty</a>
-    </div>
-    <div class="grid grid--dishes">
-      {recipePick.map((r) => <RecipeCard recipe={r} />)}
-    </div>
   </section>
 </Base>

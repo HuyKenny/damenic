@@ -59,13 +59,22 @@ const UNITS = new Set(['g', 'ml', 'ks', 'lzice', 'lzicka', 'spetka']);
 function checkAsset(owner, id) {
   const asset = assets.get(id);
   if (!asset) return (strict ? err : (m) => warnings.push(m))(`${owner}: no asset record "${id}" (placeholder will be shown)`);
-  if (!existsSync(join(PHOTOS, asset.file))) err(`${owner}: asset "${id}" points to a missing file ${asset.file}`);
+  if (!existsSync(join(PHOTOS, asset.file)) && !asset.downloadUrl) err(`${owner}: asset "${id}" points to a missing file ${asset.file}`);
   if (asset.temporary && strict) err(`${owner}: asset "${id}" is still marked temporary`);
 }
 
 // Dishes and recipes share the /jidla/ and /recepty/ namespaces separately, but a dish and a restaurant id may not collide in search.
 for (const [id, r] of restaurants) {
   if (!isMoney(r.deliveryFee)) err(`restaurant ${id}: deliveryFee must be a non-negative integer (haléře)`);
+  const CATS = ['pizza', 'burgery', 'ceska', 'asijska', 'sushi', 'thajska', 'indicka', 'mexicka', 'kebab', 'italska', 'vegetarianska', 'poke', 'palacinky', 'dezerty', 'snidane'];
+  if (!CATS.includes(r.category)) err(`restaurant ${id}: unknown category "${r.category}"`);
+  if (!isMoney(r.minOrder ?? 0)) err(`restaurant ${id}: minOrder must be a non-negative integer (haléře)`);
+  if (![1, 2, 3].includes(r.priceLevel)) err(`restaurant ${id}: priceLevel must be 1, 2 or 3`);
+  const HM = /^([01]\d|2[0-3]):[0-5]\d$/;
+  if (!r.hours || !HM.test(r.hours.open) || !HM.test(r.hours.close)) err(`restaurant ${id}: hours.open/close must be HH:MM`);
+  if (!r.logo || !r.logo.text || !/^#[0-9A-Fa-f]{6}$/.test(r.logo.color ?? '')) err(`restaurant ${id}: logo {text, color} required`);
+  if (r.promo && !['free-delivery', 'percent'].includes(r.promo.type)) err(`restaurant ${id}: unknown promo type`);
+  if (!/fiktivn|smyšlen/i.test(r.description)) err(`restaurant ${id}: description must say the restaurant is fictional`);
   if (!(r.etaMinutes >= 10 && r.etaMinutes <= 90)) err(`restaurant ${id}: etaMinutes out of range`);
   checkAsset(`restaurant ${id}`, r.cover);
   const mine = [...dishes].filter(([, d]) => d.restaurant === id);
@@ -88,6 +97,9 @@ for (const [id, d] of dishes) {
   if (names.has(key)) err(`dish ${id}: same name as ${names.get(key)} in one restaurant`);
   names.set(key, id);
   checkAsset(`dish ${id}`, d.image);
+  for (const al of d.allergens ?? []) if (!Number.isInteger(al) || al < 1 || al > 14) err(`dish ${id}: allergen ${al} must be 1–14`);
+  if (d.spicy !== undefined && ![0, 1, 2, 3].includes(d.spicy)) err(`dish ${id}: spicy must be 0–3`);
+  if (d.vegan && !d.vegetarian) err(`dish ${id}: vegan dishes must also be vegetarian`);
   const groupIds = new Set();
   for (const g of d.optionGroups ?? []) {
     if (groupIds.has(g.id)) err(`dish ${id}: duplicate option group "${g.id}"`);
@@ -138,6 +150,7 @@ for (const [id, i] of ingredients) {
 for (const [id, a] of assets) {
   for (const k of ['file', 'kind', 'alt', 'source', 'author', 'license']) if (!a[k]) err(`asset ${id}: missing "${k}"`);
   if (a.source !== 'own' && !a.sourceUrl) err(`asset ${id}: sourceUrl is required for ${a.source}`);
+  if (a.source === 'pexels' && !/^https:\/\/images\.pexels\.com\//.test(a.downloadUrl ?? '')) err(`asset ${id}: pexels assets need a downloadUrl on images.pexels.com`);
 }
 
 for (const [id, p] of partners) {

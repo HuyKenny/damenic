@@ -8,7 +8,14 @@ import { glob, file } from 'astro/loaders';
 const slug = z.string().regex(/^[a-z0-9]+(-[a-z0-9]+)*$/, 'slug: lower-case ASCII with hyphens');
 const halere = z.number().int().nonnegative();
 
-export const CATEGORIES = ['pizza', 'burgery', 'ceska-kuchyne', 'asie', 'kebab', 'vegetarianske'] as const;
+export const CATEGORIES = [
+  'pizza', 'burgery', 'ceska', 'asijska', 'sushi', 'thajska', 'indicka', 'mexicka',
+  'kebab', 'italska', 'vegetarianska', 'poke', 'palacinky', 'dezerty', 'snidane',
+] as const;
+
+/** EU allergen numbers 1–14 (Regulation 1169/2011, Annex II). */
+const allergen = z.number().int().min(1).max(14);
+const hhmm = z.string().regex(/^([01]\d|2[0-3]):[0-5]\d$/, 'time HH:MM');
 
 const restaurants = defineCollection({
   loader: glob({ pattern: '*.json', base: './src/data/restaurants' }),
@@ -21,6 +28,25 @@ const restaurants = defineCollection({
     /** Simulated delivery time in virtual minutes; the tracker uses the same number. */
     etaMinutes: z.number().int().min(10).max(90),
     deliveryFee: halere,
+    /** Simulated minimum order value (food only), haléře. */
+    minOrder: halere.default(0),
+    /** 1 = cheap, 2 = mid, 3 = pricier. Shown as Kč / Kč Kč / Kč Kč Kč. */
+    priceLevel: z.number().int().min(1).max(3),
+    /** Simulated opening hours, Prague time. close < open means past midnight. */
+    hours: z.object({ open: hhmm, close: hhmm }),
+    pickup: z.boolean().default(true),
+    /** Short filterable labels, e.g. "bez masa", "veganské", "pikantní", "bezlepkové možnosti". */
+    tags: z.array(z.string()).default([]),
+    /** Simulated promotion, applied in the cart. */
+    promo: z
+      .discriminatedUnion('type', [
+        z.object({ type: z.literal('free-delivery'), label: z.string() }),
+        z.object({ type: z.literal('percent'), label: z.string(), percent: z.number().int().min(5).max(50), minSubtotal: halere.default(0) }),
+      ])
+      .optional(),
+    isNew: z.boolean().default(false),
+    /** Monogram logo of the fictional restaurant: 1–3 characters and a brand colour. */
+    logo: z.object({ text: z.string().min(1).max(3), color: z.string().regex(/^#[0-9A-Fa-f]{6}$/), ink: z.enum(['light', 'dark']).default('light') }),
     cover: z.string(),
     sections: z.array(z.string()).min(1),
     order: z.number().int().default(100),
@@ -56,6 +82,11 @@ const dishes = defineCollection({
     recipeNote: z.string().optional(),
     optionGroups: z.array(optionGroup).default([]),
     vegetarian: z.boolean().default(false),
+    vegan: z.boolean().default(false),
+    /** 0 none … 3 very hot. */
+    spicy: z.number().int().min(0).max(3).default(0),
+    allergens: z.array(allergen).default([]),
+    /** Kitchen tip in the menu ("Tip kuchyně"); a menu choice, not a popularity statistic. */
     featured: z.boolean().default(false),
     order: z.number().int().default(100),
   }),
@@ -94,6 +125,10 @@ const recipes = defineCollection({
     tips: z.array(z.string()).default([]),
     substitutions: z.array(z.string()).default([]),
     vegetarian: z.boolean().default(false),
+    /** Search phrases this recipe answers, e.g. "svíčková recept". First one is the main target. */
+    keywords: z.array(z.string()).default([]),
+    /** Short Q&A shown on the page and only then usable in structured data. */
+    faq: z.array(z.object({ q: z.string(), a: z.string().min(20) })).default([]),
   }),
 });
 
@@ -142,7 +177,9 @@ const assets = defineCollection({
     file: z.string(),
     kind: z.enum(['dish', 'restaurant', 'recipe', 'brand', 'og', 'illustration']),
     alt: z.string().min(5),
-    source: z.enum(['wikimedia', 'canva', 'own']),
+    source: z.enum(['wikimedia', 'pexels', 'canva', 'own']),
+    /** Direct download URL; CI fetches the file before the build, so photos never live in git or on the Pi. */
+    downloadUrl: z.url().optional(),
     sourceUrl: z.url().nullable(),
     author: z.string(),
     license: z.string(),

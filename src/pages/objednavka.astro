@@ -1,16 +1,18 @@
 ---
 import Base from '@/layouts/Base.astro';
 import Tracker, { type RecipeCostInfo } from '@/islands/Tracker';
-import { allRecipes, ingredientInfo, perServingCost } from '@/lib/content';
+import { getImage } from 'astro:assets';
+import { allRecipes, brand, ingredientInfo, perServingCost } from '@/lib/content';
 
 // The order itself lives in the browser (id in the URL fragment); this page is the same static file for everyone.
 const info = await ingredientInfo();
 const recipes: Record<string, RecipeCostInfo> = {};
 for (const r of await allRecipes()) recipes[r.id] = { title: r.data.title, servings: r.data.servings, perServing: perServingCost(r, info) };
+const courierImg = (await getImage({ src: brand('il-kuryr')!, width: 104, format: 'webp' })).src;
 ---
 
 <Base title="Sledování objednávky" description="Sledování simulované objednávky a smyšleného kurýra." noindex>
   <div class="wrap" style="padding-top:18px">
-    <Tracker client:load recipes={recipes} />
+    <Tracker client:load recipes={recipes} courierImg={courierImg} />
   </div>
 </Base>

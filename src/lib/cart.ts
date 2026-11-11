@@ -1,9 +1,22 @@
-import type { Cart, CartItem, Catalog, CatalogDish, Choices, OrderLine, Totals } from './types';
+import type { Cart, CartItem, Catalog, CatalogDish, CheckoutOptions, Choices, OrderLine, Totals } from './types';
 import { isInt, isObj, isStr } from './storage';
 
 /** Simulated flat fee per order, in haléře. Charged once per order, like delivery. */
 export const SERVICE_FEE = 1500;
 export const MAX_QTY = 20;
+export const TIPS = [0, 1000, 2000, 3000, 5000] as const;
+export const DEFAULT_OPTIONS: CheckoutOptions = { mode: 'delivery', tip: 0, code: null };
+
+/** Simulated promo codes. They change a simulated price; nothing is ever charged. */
+export const PROMO_CODES: Record<string, { label: string; amount: number }> = {
+  NIC: { label: 'Kód NIC', amount: 5000 },
+  NANECISTO: { label: 'Kód NANECISTO', amount: 3000 },
+};
+
+export function normalizeCode(code: string | null | undefined): string | null {
+  const c = (code ?? '').trim().toUpperCase();
+  return c && PROMO_CODES[c] ? c : null;
+}
 
 export const emptyCart = (): Cart => ({ v: 1, restaurantId: null, items: [] });
 
@@ -112,7 +125,11 @@ export function updateChoices(cart: Cart, key: string, dish: CatalogDish, rawCho
   return { ok: true, cart: { ...cart, items } };
 }
 
-export function totals(cart: Cart, catalog: Catalog): Totals {
+/**
+ * Simulated price of the order. Delivery, the service fee and the tip are counted once per order.
+ * Pickup removes delivery and tip. Discounts never push the food value below zero.
+ */
+export function totals(cart: Cart, catalog: Catalog, opts: CheckoutOptions = DEFAULT_OPTIONS): Totals {
   let subtotal = 0;
   let count = 0;
   for (const item of cart.items) {
@@ -122,9 +139,31 @@ export function totals(cart: Cart, catalog: Catalog): Totals {
     count += item.qty;
   }
   const restaurant = cart.restaurantId ? catalog.restaurants[cart.restaurantId] : undefined;
-  const delivery = count ? (restaurant?.deliveryFee ?? 0) : 0;
+  const pickup = opts.mode === 'pickup' && restaurant?.pickup !== false;
+  const applied: string[] = [];
+  let delivery = count && !pickup ? (restaurant?.deliveryFee ?? 0) : 0;
+  let discount = 0;
+  const promo = restaurant?.promo ?? null;
+  if (count && promo) {
+    if (promo.type === 'free-delivery' && delivery > 0) {
+      delivery = 0;
+      applied.push(promo.label);
+    }
+    if (promo.type === 'percent' && subtotal >= promo.minSubtotal) {
+      discount += Math.round((subtotal * promo.percent) / 100);
+      applied.push(promo.label);
+    }
+  }
+  const code = normalizeCode(opts.code);
+  if (count && code) {
+    discount += PROMO_CODES[code]!.amount;
+    applied.push(PROMO_CODES[code]!.label);
+  }
+  discount = Math.min(discount, subtotal);
   const fee = count ? SERVICE_FEE : 0;
-  return { subtotal, delivery, fee, total: subtotal + delivery + fee, count };
+  const tip = count && !pickup ? Math.max(0, Math.round(opts.tip)) : 0;
+  const missingToMin = count ? Math.max(0, (restaurant?.minOrder ?? 0) - subtotal) : 0;
+  return { subtotal, delivery, fee, discount, tip, total: subtotal + delivery + fee + tip - discount, count, missingToMin, applied };
 }
 
 export function countItems(cart: Cart): number {

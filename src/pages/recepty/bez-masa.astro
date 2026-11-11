@@ -1,0 +1,9 @@
+---
+import HubPage from '@/components/HubPage.astro';
+import { RECIPE_HUBS } from '@/lib/hubs';
+
+const hub = (await RECIPE_HUBS()).find((h) => h.slug === 'bez-masa');
+if (!hub) return Astro.redirect('/recepty/');
+---
+
+<HubPage hub={hub} />

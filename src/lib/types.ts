@@ -41,6 +41,26 @@ export interface CatalogRestaurant {
   etaMinutes: number;
   /** Simulated delivery fee in haléře. */
   deliveryFee: number;
+  /** Simulated minimum food value, haléře. */
+  minOrder: number;
+  pickup: boolean;
+  hours: { open: string; close: string };
+  promo: Promo | null;
+}
+
+export type Promo =
+  | { type: 'free-delivery'; label: string }
+  | { type: 'percent'; label: string; percent: number; minSubtotal: number };
+
+export type FulfilmentMode = 'delivery' | 'pickup';
+
+/** Choices made in the checkout that change the simulated price. */
+export interface CheckoutOptions {
+  mode: FulfilmentMode;
+  /** Simulated tip for the (non-existent) courier, haléře. Delivery only. */
+  tip: number;
+  /** Simulated promo code, validated against PROMO_CODES. */
+  code: string | null;
 }
 
 export interface Catalog {
@@ -69,8 +89,15 @@ export interface Totals {
   subtotal: number;
   delivery: number;
   fee: number;
+  /** Restaurant promotion + promo code, haléře (positive number, subtracted). */
+  discount: number;
+  tip: number;
   total: number;
   count: number;
+  /** Food value still missing to reach the restaurant's minimum, 0 when reached. */
+  missingToMin: number;
+  /** Labels of the discounts that were applied, for the summary. */
+  applied: string[];
 }
 
 export interface OrderLine {
@@ -95,6 +122,11 @@ export interface OrderSnapshot {
   restaurant: { id: string; slug: string; name: string; etaMinutes: number };
   lines: OrderLine[];
   totals: Totals;
+  mode: FulfilmentMode;
+  /** Label of the chosen demo payment tile. */
+  payment: string;
+  /** Preset note for the courier (no free text, so no personal data). */
+  courierNote: string | null;
   skippedAt: number | null;
   cancelledAt: number | null;
 }

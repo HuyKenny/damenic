@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { addItem, emptyCart, itemKey, parseCart, removeItem, sanitizeCart, setQty, SERVICE_FEE, totals, unitPrice, updateChoices, validateChoices } from '@/lib/cart';
+import { DEFAULT_OPTIONS, addItem, emptyCart, itemKey, parseCart, removeItem, sanitizeCart, setQty, SERVICE_FEE, totals, unitPrice, updateChoices, validateChoices } from '@/lib/cart';
 import type { Catalog, CatalogDish, Choices } from '@/lib/types';
 
 const pizza: CatalogDish = {
@@ -20,7 +20,7 @@ const water: CatalogDish = { id: 'water', slug: 'water', name: 'Voda', restauran
 const burger: CatalogDish = { ...water, id: 'burger', slug: 'burger', name: 'Burger', restaurantId: 'b', price: 21900 };
 const catalog: Catalog = {
   dishes: { pizza, water, burger },
-  restaurants: { a: { id: 'a', slug: 'a', name: 'A', etaMinutes: 30, deliveryFee: 3900 }, b: { id: 'b', slug: 'b', name: 'B', etaMinutes: 30, deliveryFee: 4900 } },
+  restaurants: { a: { id: 'a', slug: 'a', name: 'A', etaMinutes: 30, deliveryFee: 3900, minOrder: 0, pickup: true, hours: { open: '00:00', close: '23:59' }, promo: null }, b: { id: 'b', slug: 'b', name: 'B', etaMinutes: 30, deliveryFee: 4900, minOrder: 0, pickup: true, hours: { open: '00:00', close: '23:59' }, promo: null } },
 };
 
 function add(cart = emptyCart(), dish = pizza, choices: Choices = { size: ['s'] }, qty = 1, replace = false) {
@@ -119,5 +119,30 @@ describe('cart', () => {
   it('removes a line', () => {
     const cart = add();
     expect(removeItem(cart, cart.items[0]!.key).items).toHaveLength(0);
+  });
+
+  it('applies pickup, tip, promotions and codes once per order', () => {
+    const cart = add(add(), water, {}, 2); // 189 + 2×35 = 259 Kč
+    const base = totals(cart, catalog);
+    expect(base.discount).toBe(0);
+    const pickup = totals(cart, catalog, { mode: 'pickup', tip: 2000, code: null });
+    expect(pickup.delivery).toBe(0);
+    expect(pickup.tip).toBe(0); // no courier, no tip
+    const tipped = totals(cart, catalog, { mode: 'delivery', tip: 2000, code: 'nic' });
+    expect(tipped.tip).toBe(2000);
+    expect(tipped.discount).toBe(5000);
+    expect(tipped.total).toBe(25900 + 3900 + SERVICE_FEE + 2000 - 5000);
+    expect(totals(cart, catalog, { ...DEFAULT_OPTIONS, code: 'NEPLATNY' }).discount).toBe(0);
+    const free: Catalog = { ...catalog, restaurants: { ...catalog.restaurants, a: { ...catalog.restaurants.a!, promo: { type: 'free-delivery', label: 'Dopravné 0 Kč' } } } };
+    expect(totals(cart, free).delivery).toBe(0);
+    const pct: Catalog = { ...catalog, restaurants: { ...catalog.restaurants, a: { ...catalog.restaurants.a!, promo: { type: 'percent', label: '-20 %', percent: 20, minSubtotal: 30000 } } } };
+    expect(totals(cart, pct).discount).toBe(0); // below 300 Kč
+    expect(totals(add(cart, water, {}, 2), pct).discount).toBe(Math.round(32900 * 0.2));
+  });
+
+  it('reports the amount missing to the minimum order', () => {
+    const min: Catalog = { ...catalog, restaurants: { ...catalog.restaurants, a: { ...catalog.restaurants.a!, minOrder: 25000 } } };
+    expect(totals(add(), min).missingToMin).toBe(25000 - 18900);
+    expect(totals(add(add(), water, {}, 2), min).missingToMin).toBe(0);
   });
 });

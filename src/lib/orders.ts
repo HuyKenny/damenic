@@ -1,5 +1,6 @@
-import type { Cart, Catalog, OrderSnapshot } from './types';
-import { toOrderLines, totals } from './cart';
+import type { Cart, Catalog, CheckoutOptions, OrderSnapshot } from './types';
+import { DEFAULT_OPTIONS, toOrderLines, totals } from './cart';
+import { realDurationMs } from './simulation';
 import { isInt, isObj, isStr } from './storage';
 
 export const MAX_ORDERS = 20;
@@ -26,22 +27,40 @@ export function newOrderId(random: () => number = Math.random): string {
  */
 export function createOrder(
   state: OrdersState,
-  args: { id: string; cart: Cart; catalog: Catalog; city: string; dropPoint: string; now: number },
+  args: {
+    id: string;
+    cart: Cart;
+    catalog: Catalog;
+    city: string;
+    dropPoint: string;
+    now: number;
+    opts?: CheckoutOptions;
+    payment?: string;
+    courierNote?: string | null;
+    /** Scheduled delivery: the simulation starts so that it ends at this time. */
+    scheduledFor?: number | null;
+  },
 ): { state: OrdersState; order: OrderSnapshot; created: boolean } | null {
   const existing = state.orders.find((o) => o.id === args.id);
   if (existing) return { state, order: existing, created: false };
   const restaurant = args.cart.restaurantId ? args.catalog.restaurants[args.cart.restaurantId] : undefined;
   const lines = toOrderLines(args.cart, args.catalog);
   if (!restaurant || !lines.length) return null;
+  const opts = args.opts ?? DEFAULT_OPTIONS;
+  const duration = realDurationMs(restaurant.etaMinutes);
+  const start = args.scheduledFor && args.scheduledFor - duration > args.now ? Math.round(args.scheduledFor - duration) : args.now;
   const order: OrderSnapshot = {
     v: 1,
     id: args.id,
-    createdAt: args.now,
+    createdAt: start,
     city: args.city,
     dropPoint: args.dropPoint,
     restaurant: { id: restaurant.id, slug: restaurant.slug, name: restaurant.name, etaMinutes: restaurant.etaMinutes },
     lines,
-    totals: totals(args.cart, args.catalog),
+    totals: totals(args.cart, args.catalog, opts),
+    mode: opts.mode,
+    payment: args.payment ?? 'Demo peněženka DámeNic',
+    courierNote: args.courierNote ?? null,
     skippedAt: null,
     cancelledAt: null,
   };
@@ -87,7 +106,15 @@ export function parseOrders(raw: unknown): OrdersState | null {
     }
     if (o.skippedAt !== null && !isInt(o.skippedAt)) return null;
     if (o.cancelledAt !== null && !isInt(o.cancelledAt)) return null;
-    orders.push(o as unknown as OrderSnapshot);
+    // Orders saved before v2 lack these fields: fill neutral defaults instead of dropping them.
+    const totalsV2 = { discount: 0, tip: 0, missingToMin: 0, applied: [], ...(t as object) };
+    orders.push({
+      ...(o as unknown as OrderSnapshot),
+      totals: totalsV2 as OrderSnapshot['totals'],
+      mode: o.mode === 'pickup' ? 'pickup' : 'delivery',
+      payment: isStr(o.payment) ? o.payment : 'Demo peněženka DámeNic',
+      courierNote: isStr(o.courierNote) ? o.courierNote : null,
+    });
   }
   return { v: 1, orders };
 }

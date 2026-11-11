@@ -13,5 +13,22 @@
     "Přílohy",
     "Nápoje"
   ],
-  "order": 10
+  "order": 10,
+  "minOrder": 0,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:00",
+    "close": "22:30"
+  },
+  "tags": [
+    "bez masa"
+  ],
+  "promo": {
+    "type": "free-delivery",
+    "label": "Dopravné 0 Kč"
+  },
+  "logo": {
+    "text": "PP",
+    "color": "#B3261E"
+  }
 }

@@ -1,0 +1,41 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import RecipeCard from '@/components/RecipeCard.astro';
+import type { Hub } from '@/lib/hubs';
+import { RECIPE_HUBS } from '@/lib/hubs';
+import { SITE } from '@/lib/site';
+
+interface Props {
+  hub: Hub;
+}
+const { hub } = Astro.props;
+const others = (await RECIPE_HUBS()).filter((h) => h.slug !== hub.slug);
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: hub.h1,
+    itemListElement: hub.recipes.map((r, i) => ({ '@type': 'ListItem', position: i + 1, url: `${SITE.url}/recepty/${r.id}/`, name: r.data.title })),
+  },
+];
+---
+
+<Base title={hub.title} description={hub.description} jsonld={jsonld}>
+  <Breadcrumbs items={[{ label: 'Recepty', href: '/recepty/' }, { label: hub.h1 }]} />
+  <div class="wrap">
+    <div class="pagehead prose">
+      <h1>{hub.h1}</h1>
+      {hub.intro.map((p) => <p>{p}</p>)}
+    </div>
+    <div class="grid grid--dishes">
+      {hub.recipes.map((r) => <RecipeCard recipe={r} />)}
+    </div>
+    <nav class="section" aria-label="Další kategorie receptů">
+      <h2 style="font-size:1.25rem;margin-bottom:12px">Další recepty</h2>
+      <ul class="fpanel__chips">
+        {others.map((h) => <li><a class="fchip" href={h.path}>{h.h1}</a></li>)}
+      </ul>
+    </nav>
+  </div>
+</Base>

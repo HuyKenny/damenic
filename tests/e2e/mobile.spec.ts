@@ -9,8 +9,8 @@ test('mobile: bottom cart bar, menu, no horizontal scroll', async ({ page }) => 
     expect(overflow, path).toBeLessThanOrEqual(0);
   }
   await page.goto('/');
-  await page.getByRole('button', { name: 'Menu' }).click();
-  await expect(page.getByRole('navigation', { name: 'Hlavní navigace' }).getByRole('link', { name: 'Recepty' })).toBeVisible();
+  const tabs = page.getByRole('navigation', { name: 'Navigace aplikace' });
+  await expect(tabs.getByRole('link', { name: 'Recepty' })).toBeVisible();
   await addMargherita(page);
   await page.goto('/restaurace/prazdna-pec/');
   await expect(page.locator('.cartbar')).toBeVisible();

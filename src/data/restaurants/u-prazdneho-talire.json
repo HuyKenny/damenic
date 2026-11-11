@@ -1,6 +1,6 @@
 {
   "name": "Hospoda U Prázdného talíře",
-  "category": "ceska-kuchyne",
+  "category": "ceska",
   "cuisine": "Česká kuchyně",
   "tagline": "Talíř ti necháme čistý. Nemusíš ho ani vylizovat.",
   "description": "Smyšlená hospoda s hotovkami a minutkami, jak je znáš z poledního menu. Svíčkovou, guláš i smažák si tu objednáš jen nanečisto, nikdo nic nepřiveze, a pak dostaneš recept, podle kterého si je uvaříš doma.",
@@ -13,5 +13,22 @@
     "Přílohy",
     "Nápoje"
   ],
-  "order": 30
+  "order": 30,
+  "minOrder": 19900,
+  "priceLevel": 1,
+  "hours": {
+    "open": "10:30",
+    "close": "22:00"
+  },
+  "tags": [],
+  "promo": {
+    "type": "percent",
+    "label": "−20 % nad 400 Kč",
+    "percent": 20,
+    "minSubtotal": 40000
+  },
+  "logo": {
+    "text": "UT",
+    "color": "#6B4E2E"
+  }
 }

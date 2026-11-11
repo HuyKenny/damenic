@@ -1,6 +1,6 @@
 {
   "name": "Wok Nic Moc",
-  "category": "asie",
+  "category": "asijska",
   "cuisine": "Asijská kuchyně z woku",
   "tagline": "Wok máme rozpálený. Do krabičky nedáváme nic moc. Přesněji nic.",
   "description": "Smyšlené asijské bistro, kde se vaří rychle, na prudkém ohni a po malých dávkách. Nudle, kari i smaženou rýži si tu objednáš jen nanečisto, kurýr nevyjede a krabička nedorazí. Recept ke každému jídlu ale dostaneš skutečný.",
@@ -13,5 +13,20 @@
     "Přílohy",
     "Nápoje"
   ],
-  "order": 40
+  "order": 40,
+  "minOrder": 17900,
+  "priceLevel": 1,
+  "hours": {
+    "open": "11:00",
+    "close": "22:00"
+  },
+  "tags": [
+    "pikantní",
+    "bez masa"
+  ],
+  "logo": {
+    "text": "W",
+    "color": "#E8A317",
+    "ink": "dark"
+  }
 }

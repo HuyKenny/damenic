@@ -1,16 +1,25 @@
 // Shared browser state for all islands. Loaded once per page, persisted on change, synced across tabs.
 import { atom } from 'nanostores';
-import type { Cart, Catalog, ShoppingState } from './types';
-import { emptyCart, parseCart, sanitizeCart } from './cart';
+import type { Cart, Catalog, CheckoutOptions, ShoppingState } from './types';
+import { DEFAULT_OPTIONS, TIPS, emptyCart, normalizeCode, parseCart, sanitizeCart } from './cart';
 import { emptyOrders, parseOrders, pruneOrders, type OrdersState } from './orders';
 import { emptyShopping, parseShopping } from './shopping';
 import { DEFAULT_CITY, parseCity } from './cities';
-import { KEYS, clearAllLocalData, load, save, storageAvailable } from './storage';
+import { KEYS, clearAllLocalData, isInt, isObj, isStr, load, save, storageAvailable } from './storage';
 
 export const $cart = atom<Cart>(emptyCart());
 export const $orders = atom<OrdersState>(emptyOrders());
 export const $shopping = atom<ShoppingState>(emptyShopping());
 export const $city = atom<string>(DEFAULT_CITY);
+/** Pickup/delivery, tip and promo code: shared by the restaurant page, cart and checkout. */
+export const $checkout = atom<CheckoutOptions>(DEFAULT_OPTIONS);
+
+function parseCheckout(raw: unknown): CheckoutOptions | null {
+  if (!isObj(raw)) return null;
+  const mode = raw.mode === 'pickup' ? 'pickup' : 'delivery';
+  const tip = isInt(raw.tip) && (TIPS as readonly number[]).includes(raw.tip) ? raw.tip : 0;
+  return { mode, tip, code: normalizeCode(isStr(raw.code) ? raw.code : null) };
+}
 export const $catalog = atom<Catalog | null>(null);
 /** True once local data has been read; islands render placeholders before that to avoid flashes. */
 export const $ready = atom(false);
@@ -35,6 +44,7 @@ function readAll(): boolean {
   $orders.set(pruneOrders(orders.value, Date.now()));
   $shopping.set(shopping.value);
   $city.set(city.value);
+  $checkout.set(load(KEYS.checkout, parseCheckout, () => DEFAULT_OPTIONS).value);
   return cart.recovered || orders.recovered || shopping.recovered;
 }
 
@@ -50,6 +60,7 @@ export function initStores(): void {
   persist($orders, KEYS.orders);
   persist($shopping, KEYS.shopping);
   persist($city, KEYS.city);
+  persist($checkout, KEYS.checkout);
 
   // Another tab changed something: take its state without writing it back.
   window.addEventListener('storage', (e) => {
@@ -98,6 +109,7 @@ export function wipeLocalData(): void {
     $orders.set(emptyOrders());
     $shopping.set(emptyShopping());
     $city.set(DEFAULT_CITY);
+    $checkout.set(DEFAULT_OPTIONS);
   } finally {
     applyingRemote = false;
   }

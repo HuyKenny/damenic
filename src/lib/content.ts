@@ -6,6 +6,7 @@ import type { Catalog, IngredientInfo, RecipeLite } from './types';
 import type { SearchEntry } from './search';
 import { CATEGORY_LABELS } from './site';
 import { recipeCost } from './costs';
+import type { RestaurantSummary } from './filters';
 
 export type Restaurant = CollectionEntry<'restaurants'>;
 export type Dish = CollectionEntry<'dishes'>;
@@ -62,7 +63,17 @@ export function buildCatalog(): Promise<Catalog> {
 async function makeCatalog(): Promise<Catalog> {
   const catalog: Catalog = { dishes: {}, restaurants: {} };
   for (const r of await allRestaurants())
-    catalog.restaurants[r.id] = { id: r.id, slug: r.id, name: r.data.name, etaMinutes: r.data.etaMinutes, deliveryFee: r.data.deliveryFee };
+    catalog.restaurants[r.id] = {
+      id: r.id,
+      slug: r.id,
+      name: r.data.name,
+      etaMinutes: r.data.etaMinutes,
+      deliveryFee: r.data.deliveryFee,
+      minOrder: r.data.minOrder,
+      pickup: r.data.pickup,
+      hours: r.data.hours,
+      promo: r.data.promo ?? null,
+    };
   for (const d of await allDishes())
     catalog.dishes[d.id] = {
       id: d.id,
@@ -141,5 +152,82 @@ export function perServingCost(recipe: Recipe, info: Record<string, IngredientIn
 export function pickInfo(recipe: Recipe, info: Record<string, IngredientInfo>): Record<string, IngredientInfo> {
   const out: Record<string, IngredientInfo> = {};
   for (const i of recipe.data.ingredients) if (info[i.ingredient.id]) out[i.ingredient.id] = info[i.ingredient.id]!;
+  return out;
+}
+
+// ---------- v2: restaurant summaries and category icons for the browser island ----------
+
+const brandFiles = import.meta.glob<ImageMetadata>('/src/assets/brand/*.png', { eager: true, import: 'default' });
+export function brand(name: string): ImageMetadata | null {
+  return brandFiles[`/src/assets/brand/${name}.png`] ?? null;
+}
+
+export interface CategoryIcon {
+  id: string;
+  label: string;
+  src: string;
+  count: number;
+}
+
+let iconsMemo: Promise<CategoryIcon[]> | null = null;
+/** Categories that have at least one restaurant, with a small optimised icon. */
+export function categoryIcons(): Promise<CategoryIcon[]> {
+  return (iconsMemo ??= (async () => {
+    const restaurants = await allRestaurants();
+    const out: CategoryIcon[] = [];
+    for (const [id, c] of Object.entries(CATEGORY_LABELS)) {
+      const count = restaurants.filter((r) => r.data.category === id).length;
+      const meta = brand(`cat-${id}`);
+      if (!count || !meta) continue;
+      out.push({ id, label: c.label, count, src: (await getImage({ src: meta, width: 112, height: 112, format: 'webp', quality: 80 })).src });
+    }
+    return out;
+  })());
+}
+
+let summariesMemo: Promise<RestaurantSummary[]> | null = null;
+export function restaurantSummaries(): Promise<RestaurantSummary[]> {
+  return (summariesMemo ??= (async () => {
+    const out: RestaurantSummary[] = [];
+    for (const r of await allRestaurants()) {
+      const p = await photo(r.data.cover);
+      let img: RestaurantSummary['img'] = null;
+      if (p.meta) {
+        const widths = [360, 540, 720].filter((w) => w <= p.meta!.width);
+        const set = await Promise.all(widths.map((w) => getImage({ src: p.meta!, width: w, height: Math.round((w * 9) / 16), fit: 'cover', format: 'webp', quality: 70 })));
+        img = { src: set[0]!.src, srcset: set.map((s, i) => `${s.src} ${widths[i]}w`).join(', '), width: 360, height: 203, alt: p.alt };
+      }
+      out.push({
+        id: r.id,
+        name: r.data.name,
+        category: r.data.category,
+        categoryLabel: CATEGORY_LABELS[r.data.category]?.label ?? '',
+        cuisine: r.data.cuisine,
+        etaMinutes: r.data.etaMinutes,
+        deliveryFee: r.data.deliveryFee,
+        minOrder: r.data.minOrder,
+        priceLevel: r.data.priceLevel,
+        hours: r.data.hours,
+        pickup: r.data.pickup,
+        tags: r.data.tags,
+        promoLabel: r.data.promo?.label ?? null,
+        freeDelivery: r.data.deliveryFee === 0 || r.data.promo?.type === 'free-delivery',
+        isNew: r.data.isNew,
+        order: r.data.order,
+        logo: r.data.logo,
+        img,
+      });
+    }
+    return out;
+  })());
+}
+
+/** Dish pages: when several restaurants point to the same recipe, only the first one is indexed. */
+export async function primaryDishForRecipe(): Promise<Map<string, string>> {
+  const restaurants = new Map((await allRestaurants()).map((r, i) => [r.id, i]));
+  const mains = (await allDishes()).filter((d) => d.data.kind === 'main' && d.data.recipe);
+  mains.sort((a, b) => (restaurants.get(a.data.restaurant.id) ?? 0) - (restaurants.get(b.data.restaurant.id) ?? 0) || a.data.order - b.data.order);
+  const out = new Map<string, string>();
+  for (const d of mains) if (!out.has(d.data.recipe!.id)) out.set(d.data.recipe!.id, d.id);
   return out;
 }
