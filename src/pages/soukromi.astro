@@ -2,6 +2,7 @@
 import Base from '@/layouts/Base.astro';
 import Breadcrumbs from '@/components/Breadcrumbs.astro';
 import LocalData from '@/islands/LocalData';
+import { CONTACT_EMAIL, mailto } from '@/lib/contact';
 ---
 
 <Base title="Soukromí a data" description="Co DámeNic ukládá: košík, simulované objednávky a nákupní seznam jen v tvém prohlížeči. Bez účtu, bez analytiky, bez reklamních trackerů.">
@@ -30,6 +31,10 @@ import LocalData from '@/islands/LocalData';
     <p>Všechno, co DámeNic v tomto prohlížeči uložil, smažeš jedním tlačítkem:</p>
     <LocalData client:idle />
     <h2>Provozovatel a kontakt</h2>
-    <p class="note">Údaje o provozovateli a kontakt pro dotazy k osobním údajům doplníme před veřejným spuštěním.</p>
+    <p>
+      Dotazy k ochraně soukromí posílej na <a href={mailto('DámeNic: soukromí')}>{CONTACT_EMAIL}</a>. Když nám napíšeš, uvidíme tvoji e-mailovou adresu a
+      obsah zprávy. Použijeme je jen k odpovědi.
+    </p>
+    <p class="note">Údaje o provozovateli doplníme před veřejným spuštěním.</p>
   </div>
 </Base>

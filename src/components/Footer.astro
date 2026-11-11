@@ -1,5 +1,6 @@
 ---
 import Logo from './Logo.astro';
+import { CONTACT_EMAIL, mailto } from '@/lib/contact';
 ---
 
 <footer class="footer on-dark">
@@ -11,6 +12,7 @@ import Logo from './Logo.astro';
           DámeNic je simulátor rozvozu jídla. Restaurace jsou smyšlené, ceny simulované, platby neexistují a nic se nedoručuje. Recepty jsou
           skutečné.
         </p>
+        <p class="footer__contact">Nápad nebo chyba? <a href={mailto('DámeNic: vzkaz')}>{CONTACT_EMAIL}</a></p>
       </div>
       <nav aria-label="Simulátor">
         <h2>Simulátor</h2>

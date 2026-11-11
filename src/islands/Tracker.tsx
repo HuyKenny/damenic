@@ -2,7 +2,7 @@ import { useCallback, useEffect, useRef, useState } from 'preact/hooks';
 import { useStore } from '@nanostores/preact';
 import { $orders, $shopping } from '@/lib/stores';
 import { cancelOrder, findOrder, openDoor, skipOrder } from '@/lib/orders';
-import { STAGES, clock, fromOrder, realDurationMs, simulate, stageMessage, stageTimes, stageTitle } from '@/lib/simulation';
+import { STAGES, clock, fromOrder, realDurationMs, simulate, stageMessage, stageTimes, stageTitle, type StageId } from '@/lib/simulation';
 import { addRecipe } from '@/lib/shopping';
 import { formatCzk, roundToCrown } from '@/lib/money';
 import type { OrderSnapshot } from '@/lib/types';
@@ -10,6 +10,7 @@ import { CourierMap } from './CourierMap';
 import { Dialog } from './Dialog';
 import { useInit } from './hooks';
 import { Icon } from './icons';
+import { CONTACT_EMAIL, mailto } from '@/lib/contact';
 
 export interface RecipeCostInfo {
   title: string;
@@ -24,11 +25,33 @@ interface Props {
   courierImg?: string;
 }
 
+// Fictional couriers: pun names, so nobody mistakes them for real people. `acc` is the accusative for "Vytáčím …".
 const COURIERS = [
-  { name: 'Kurýr Nikdo', vehicle: 'kolo s prázdnou taškou' },
-  { name: 'Kurýrka Žádná', vehicle: 'skútr bez nákladu' },
-  { name: 'Kurýr Nula', vehicle: 'elektrokolo, taška naprázdno' },
+  { name: 'Prokop Prázdný', acc: 'Prokopa Prázdného', vehicle: 'kolo, taška lehká jako slib', motto: 'Vozím nic už od roku nikdy.' },
+  { name: 'Nikola Nicová', acc: 'Nikolu Nicovou', vehicle: 'skútr, náklad 0 kg', motto: 'Nejrychlejší kurýrka ve městě. Nic mi nikdy nevystydne.' },
+  { name: 'Vojta Vzduch', acc: 'Vojtu Vzducha', vehicle: 'elektrokolo, taška plná vzduchu', motto: 'Vozím jen čerstvý vzduch. Hodně čerstvý.' },
+  { name: 'Ema Éterová', acc: 'Emu Éterovou', vehicle: 'koloběžka, nulová zátěž', motto: 'Lehčí náklad jsem ještě nevezla.' },
 ];
+/** What the courier is doing right now, per stage. */
+const DOING: Partial<Record<StageId, string>> = {
+  accepted: 'Dopíjí kafe a čeká na signál.',
+  preparing: 'Čeká u výdeje a kouká do prázdna. Do tvojí objednávky.',
+  packed: 'Kontroluje tašku. Pořád nic, sedí to.',
+  pickedUp: 'Zapíná tašku, aby nic nevypadlo.',
+  onTheWay: 'Šlape. S ničím na zádech se jede skvěle.',
+  nearby: 'Hledá tvoje číslo popisné.',
+  atDoor: 'Zvoní. A zvoní.',
+};
+/** The courier's only replies in the chat: pre-written, like the courier. */
+const CHAT: Partial<Record<StageId, string>> = {
+  accepted: 'Ahoj! Objednávku mám. Teda nemám, ale vím o ní.',
+  preparing: 'Čekám u výdeje. Kuchař říká, že nic bude za chvilku.',
+  packed: 'Taška je zabalená. Lehoučká.',
+  pickedUp: 'Mám to! Vyrážím.',
+  onTheWay: 'Jedu! Za chvíli jsem u tebe s ničím.',
+  nearby: 'Jsem za rohem. Máš na zvonku jméno?',
+  atDoor: 'Stojím venku, zvoním dvakrát.',
+};
 const courierFor = (id: string) => COURIERS[[...id].reduce((n, ch) => n + ch.charCodeAt(0), 0) % COURIERS.length]!;
 const hashId = () => (typeof location === 'undefined' ? '' : decodeURIComponent(location.hash.replace(/^#/, '')));
 const hhmm = (t: number) => new Date(t).toLocaleTimeString('cs-CZ', { hour: '2-digit', minute: '2-digit' });
@@ -259,7 +282,7 @@ export default function Tracker({ recipes, courierImg }: Props) {
                 <p class="muted">Nic se neplatilo, takže se nic nevrací.</p>
                 <div class="toolbar">
                   <a class="btn" href="/restaurace/">
-                    Objednat nanečisto znovu
+                    Dát ničemu druhou šanci
                   </a>
                   <a class="btn btn--ghost" href="/recepty/">
                     Radši si uvařím
@@ -305,7 +328,7 @@ export default function Tracker({ recipes, courierImg }: Props) {
                       {pickup ? 'Vyzvednutí' : 'Doručení'} kolem <span class="num">{hhmm(sim.arrivalAt)}</span>
                     </div>
                   </div>
-                  <span class="tag tag--sim">{realTime ? 'Simulace v reálném čase' : `Zrychlená simulace ${order.speed}×`}</span>
+                  <span class="tag tag--sim">{realTime ? 'Skutečné minuty · smyšlené jídlo' : `Zrychlená simulace ${order.speed}×`}</span>
                 </div>
                 <div class="bar" role="progressbar" aria-label="Průběh simulace" aria-valuemin={0} aria-valuemax={100} aria-valuenow={Math.round(sim.progress * 100)}>
                   <i style={{ width: `${(sim.progress * 100).toFixed(1)}%` }} />
@@ -320,7 +343,7 @@ export default function Tracker({ recipes, courierImg }: Props) {
                   </p>
                 )}
                 <p class="muted small" style="margin:6px 0 0">
-                  Kurýr i jídlo jsou smyšlené. Čekání můžeš kdykoli přeskočit.
+                  {realTime ? 'Minuty jsou skutečné, všechno ostatní je nanečisto. Nechceš čekat? Přeskoč to.' : 'Kurýr i jídlo jsou smyšlené. Čekání můžeš kdykoli přeskočit.'}
                 </p>
                 <div class="toolbar">
                   <button type="button" class="btn btn--dark" onClick={() => {
@@ -384,20 +407,27 @@ export default function Tracker({ recipes, courierImg }: Props) {
           </section>
           {!pickup && (
             <section class="panel">
-              <h2>Smyšlený kurýr</h2>
-              <div class="courier">
+              <h2 class="courier__head">
+                Tvůj kurýr <span class="tag tag--sim">smyšlená postava</span>
+              </h2>
+              <div class="courier" data-testid="courier">
                 <span class="courier__avatar">{courierImg ? <img src={courierImg} alt="" width="52" height="52" /> : <Icon name="bike" size={26} />}</span>
                 <div>
                   <strong>{courier.name}</strong>
                   <div class="muted small">{courier.vehicle}</div>
-                  <div class="muted small">Kurýr neexistuje.</div>
+                  <div class="courier__motto small">„{courier.motto}“</div>
                 </div>
               </div>
+              {sim.status !== 'cancelled' && DOING[sim.stage.id] && (
+                <p class="courier__now small">
+                  <strong>Právě teď:</strong> {DOING[sim.stage.id]}
+                </p>
+              )}
               <div class="toolbar">
                 <button type="button" class="btn btn--ghost btn--sm" onClick={() => setContact('call')} data-testid="call-courier">
                   <Icon name="phone" size={18} /> Zavolat
                 </button>
-                <button type="button" class="btn btn--ghost btn--sm" onClick={() => setContact('chat')}>
+                <button type="button" class="btn btn--ghost btn--sm" onClick={() => setContact('chat')} data-testid="chat-courier">
                   <Icon name="message" size={18} /> Napsat
                 </button>
               </div>
@@ -423,12 +453,31 @@ export default function Tracker({ recipes, courierImg }: Props) {
           </button>
         </div>
       </Dialog>
-      <Dialog open={contact !== null} title={contact === 'call' ? 'Volám kurýrovi…' : 'Zpráva kurýrovi'} onClose={() => setContact(null)}>
-        <p>{contact === 'call' ? 'Číslo, které voláte, neexistuje. Stejně jako kurýr, jídlo a vaše útrata.' : 'Kurýr si zprávu přečte hned, jak začne existovat.'}</p>
-        <p class="small muted">Nikam se nic neposílá ani nevolá.</p>
+      <Dialog open={contact !== null} title={contact === 'call' ? `Vytáčím ${courier.acc}…` : 'Chat s kurýrem'} onClose={() => setContact(null)}>
+        {contact === 'call' ? (
+          <>
+            <p>Tůů… tůů… Volané číslo neexistuje. Stejně jako kurýr, jídlo a tvoje útrata.</p>
+            <p class="small muted">Nikam se nevolá.</p>
+          </>
+        ) : (
+          <div class="chat" data-testid="courier-chat">
+            <p class="chat__bubble">
+              <span class="chat__who">{courier.name}</span>
+              {sim.status === 'cancelled' ? 'Otáčím to. Nic vezu zpátky.' : (CHAT[sim.stage.id] ?? 'Jedu!')}
+            </p>
+          </div>
+        )}
+        <div class="feedback" data-testid="feedback">
+          <p class="feedback__lead">Kurýr odpovídá jen předepsanými větami. My jsme skuteční.</p>
+          <p>Pochvala, nápad, chyba nebo jídlo, které v menu chybí? Napiš nám, čteme všechno.</p>
+          <a class="btn btn--block" href={mailto(`DámeNic: vzkaz z objednávky #${order.id}`)} data-testid="feedback-mail">
+            <Icon name="mail" /> Napsat na {CONTACT_EMAIL}
+          </a>
+          <p class="small muted" style="margin:8px 0 0">Web nic neodesílá. Otevře se tvoje e-mailová aplikace.</p>
+        </div>
         <div class="dlg__actions">
-          <button type="button" class="btn" onClick={() => setContact(null)}>
-            Rozumím
+          <button type="button" class="btn btn--ghost" onClick={() => setContact(null)}>
+            Zpátky ke sledování
           </button>
         </div>
       </Dialog>
@@ -602,7 +651,7 @@ function Finale({ order, recipes }: { order: OrderSnapshot; recipes: Record<stri
               Všechny recepty
             </a>
             <a class="btn btn--ghost btn--block" href={`/restaurace/${order.restaurant.slug}/`} style="margin-top:10px">
-              Objednat nanečisto znovu
+              Nic mi chutnalo. Ještě jednou!
             </a>
           </section>
         </aside>

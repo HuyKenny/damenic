@@ -3288,3 +3288,56 @@ dialog.dlg--drawer {
   from { transform: translateY(-40px) rotate(-8deg); opacity: 0; }
   to { transform: none; opacity: 1; }
 }
+
+/* v2.2: courier card personality, courier chat, real feedback contact */
+.courier__head {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.courier__motto {
+  margin-top: 4px;
+  font-style: italic;
+  color: var(--ink-2);
+}
+.courier__now {
+  margin: 12px 0 0;
+  padding: 8px 12px;
+  border-radius: 12px;
+  background: var(--pink);
+}
+.chat {
+  display: flex;
+  margin: 4px 0 14px;
+}
+.chat__bubble {
+  margin: 0;
+  max-width: 34ch;
+  padding: 10px 14px;
+  border-radius: 18px 18px 18px 4px;
+  background: var(--pink);
+}
+.chat__who {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--red-dark);
+}
+.feedback {
+  padding: 14px;
+  border-radius: 14px;
+  border: 1px solid var(--paper-line);
+  background: var(--paper);
+}
+.feedback p {
+  margin: 0 0 10px;
+}
+.feedback__lead {
+  font-family: var(--font-head);
+  font-weight: 800;
+}
+.footer__contact a {
+  color: inherit;
+  font-weight: 700;
+}

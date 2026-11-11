@@ -19,6 +19,8 @@ Read results with `gh run view --repo HuyKenny/damenic`, download screenshots wi
 - Ingredient prices are **illustrative** (`priceSource: "illustrative"`) until a verified shop feed exists. Never call them current.
 - Keep the three cost figures apart: simulated delivery value / consumed ingredients / whole packs. A negative difference is shown as such.
 - Affiliate partners stay `enabled: false` until an integration is confirmed; never show `#` buttons.
+- The only real contact is `info@damenic.cz` (`src/lib/contact.ts`, Kenny 11. 11. 2026), only as a mailto link: no contact form.
+  Courier copy (pun names, "Právě teď" lines, canned chat replies) lives in `src/islands/Tracker.tsx`; keep a visible "smyšlená postava".
 
 ## v2 (11. 11. 2026): delivery-app redesign
 - Look: Wolt/Foodora patterns in DámeNic red: Canva logo/icons/illustrations in `src/assets/brand/` (logo retraced as SVG in

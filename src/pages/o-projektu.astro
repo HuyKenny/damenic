@@ -1,6 +1,7 @@
 ---
 import Base from '@/layouts/Base.astro';
 import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import { CONTACT_EMAIL, mailto } from '@/lib/contact';
 ---
 
 <Base title="O projektu DámeNic" description="DámeNic je zábavný simulátor rozvozu jídla s praktickou částí: recepty, odhady nákladů a nákupní seznam. Není to rozvozová služba.">
@@ -25,7 +26,12 @@ import Breadcrumbs from '@/components/Breadcrumbs.astro';
       Fotografie jídel pocházejí z volně licencovaných zdrojů, jejich autory a licence uvádíme u každého souboru v přehledu zdrojů v repozitáři projektu.
       Logo a ilustrace jsou vlastní.
     </p>
+    <h2>Kontakt</h2>
+    <p>
+      Pochvala, nápad, chyba nebo jídlo, které v menu chybí? Napiš nám na <a href={mailto('DámeNic: vzkaz')}>{CONTACT_EMAIL}</a>. Kurýři jsou smyšlení,
+      e-maily čteme doopravdy.
+    </p>
     <h2>Provozovatel</h2>
-    <p class="note">Údaje o provozovateli a kontakt doplníme před veřejným spuštěním.</p>
+    <p class="note">Údaje o provozovateli doplníme před veřejným spuštěním.</p>
   </div>
 </Base>

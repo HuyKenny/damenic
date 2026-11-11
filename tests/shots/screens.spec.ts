@@ -37,6 +37,12 @@ test('main screens', async ({ page }, testInfo) => {
   await page.waitForURL(/objednavka/);
   await page.clock.runFor(21 * 60_000); // real time: courier on the way after ~18 of 30 minutes
   await shot(page, '06-tracking', testInfo);
+  await page.getByTestId('courier').scrollIntoViewIfNeeded();
+  await shot(page, '06a-courier', testInfo);
+  await page.getByTestId('chat-courier').click();
+  await page.getByTestId('courier-chat').waitFor();
+  await shot(page, '06a-chat', testInfo);
+  await page.getByRole('button', { name: 'Zpátky ke sledování' }).click();
   await page.goto('/restaurace/');
   await page.getByTestId('orderbar').waitFor();
   await shot(page, '06b-orderbar', testInfo);

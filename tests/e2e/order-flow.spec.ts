@@ -91,7 +91,14 @@ test.describe('checkout and tracking', () => {
     await page.waitForURL(/\/objednavka\/#/);
     const tracker = page.getByTestId('tracker');
     await expect(tracker).toHaveAttribute('data-stage', /accepted|preparing/);
-    await expect(page.getByText('Simulace v reálném čase')).toBeVisible();
+    await expect(page.getByText('Skutečné minuty · smyšlené jídlo')).toBeVisible();
+    await expect(page.getByTestId('courier')).toBeVisible();
+
+    // The courier chat answers with a canned line and points to the one real contact (mailto only, nothing is sent).
+    await page.getByTestId('chat-courier').click();
+    await expect(page.getByTestId('courier-chat')).toBeVisible();
+    await expect(page.getByTestId('feedback-mail')).toHaveAttribute('href', /^mailto:info@damenic\.cz\?subject=/);
+    await page.getByRole('button', { name: 'Zpátky ke sledování' }).click();
     await expect(page.getByTestId('eta')).toHaveText(/^\d{1,2}:\d{2}$/);
     await expect(page).toHaveTitle(/^\(\d{1,2}:\d{2}\) /);
 

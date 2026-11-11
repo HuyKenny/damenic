@@ -52,6 +52,16 @@ The home page varies between runs (a second run gave Perf 86, TBT 510 ms); the o
 Fixes that got there: metric-matched fallback fonts (CLS 0.16 → 0), static home grid instead of the filter island,
 content-visibility on home rails, stable default order on hydration, reserved height on storage pages, monogram contrast.
 
+## v2.2 (2026-11-11): courier copy + real contact
+- Four fictional pun-named couriers (Prokop Prázdný, Nikola Nicová, Vojta Vzduch, Ema Éterová) with vehicle, motto and a
+  per-stage "Právě teď" line; card heading "Tvůj kurýr" with a "smyšlená postava" tag.
+- "Napsat" opens a courier chat with a canned per-stage reply plus a mailto to info@damenic.cz (subject carries the order id);
+  "Zavolat" keeps the non-existent number joke and the same contact box.
+- Tag "Skutečné minuty · smyšlené jídlo"; reorder buttons "Nic mi chutnalo. Ještě jednou!" / "Dát ničemu druhou šanci".
+- info@damenic.cz also in the footer, /o-projektu/ and /soukromi/ (operator details still missing).
+- Mail delivery: Cloudflare Email Routing (info@ → Kenny's verified address) is set up by
+  `scripts/damenic/email-routing.py` in the workspace; run by Kenny (DNS change).
+
 ## v1 (2026-11-10)
 ## Done (code written)
 - Catalogue: 6 fictional restaurants, 30 main dishes with options, sides and drinks, 30 recipes, 160 ingredients with illustrative prices.
