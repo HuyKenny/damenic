@@ -3128,6 +3128,8 @@ dialog.dlg--drawer {
 .cv {
   content-visibility: auto;
   contain-intrinsic-size: auto 520px;
+  /* Own background: contrast checkers (axe) cannot see through skipped content and otherwise pick the dark footer. */
+  background: var(--bg);
 }
 
 /* Pages whose content comes from browser storage: reserve the viewport so the footer stays below the fold
