@@ -1,0 +1,194 @@
+{
+  "title": "Poke s tuňákem",
+  "category": "poke",
+  "servings": 2,
+  "activeMinutes": 30,
+  "cookMinutes": 15,
+  "waitMinutes": 35,
+  "waitLabel": "okapání a chladnutí rýže, krátké marinování",
+  "difficulty": "střední",
+  "vegetarian": false,
+  "keywords": [
+    "tuňákový poke recept",
+    "poke s tuňákem",
+    "ahi poke",
+    "poke bowl s tuňákem"
+  ],
+  "intro": "Havajský poke z kostek syrového tuňáka v sójové marinádě se zázvorem, podávaný na ochucené rýži se zeleninou; hotový je asi za hodinu a čtvrt. Chuť dělá hlavně kvalita tuňáka a krátké marinování.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-sushi",
+      "amount": 200,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 260,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "ocet-ryzovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "tunak-sushi",
+      "amount": 300,
+      "unit": "g",
+      "note": "steak určený k syrové konzumaci",
+      "group": "Tuňák"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Tuňák"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Tuňák"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "najemno nastrouhaný",
+      "group": "Tuňák"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "na tenké plátky",
+      "group": "Tuňák"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Tuňák"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "podle chuti",
+      "group": "Tuňák"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "nasucho opražený",
+      "group": "Tuňák"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "avokado",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "zeli-cervene",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno nakrouhané",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "edamame",
+      "amount": 200,
+      "unit": "g",
+      "note": "v luscích, po vyloupání asi 100 g",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na čtvrtky",
+      "group": "Do misky"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže",
+      "text": "Rýži propláchni ve studené vodě, dokud voda není skoro čirá, a nech ji 15 minut okapat. Pak ji vař s 260 ml vody pod pokličkou 12 minut na minimálním plameni a 10 minut nech dojít mimo plotnu."
+    },
+    {
+      "section": "Rýže",
+      "text": "Do teplé rýže vmíchej ocet, ve kterém jsi rozpustil cukr a sůl. Rozprostři ji na talíř, ať rychle vychladne na vlažnou."
+    },
+    {
+      "section": "Tuňák",
+      "text": "Tuňáka osuš papírovou utěrkou a ostrým nožem ho nakrájej na kostky asi 2 cm. Krájej jedním tahem, ne pilováním, aby se maso netrhalo."
+    },
+    {
+      "section": "Tuňák",
+      "text": "V míse smíchej sójovou omáčku, sezamový olej, zázvor a chilli vločky. Přidej tuňáka, červenou cibuli, nakrájenou jarní cibulku a sezam a opatrně promíchej."
+    },
+    {
+      "section": "Tuňák",
+      "text": "Nech tuňáka v lednici 10 až 20 minut. Delší marinování mu neprospěje, sůl ze sójové omáčky z něj táhne vodu."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Mezitím vař edamame 3 minuty v osolené vodě, zchlaď a vyloupej. Okurku nakrájej na půlměsíčky, avokádo na plátky a zelí lehce osol, ať trochu změkne."
+    },
+    {
+      "section": "Podávání",
+      "text": "Rýži rozděl do misek, na jednu stranu dej tuňáka i s marinádou a kolem něj okurku, avokádo, zelí a edamame."
+    },
+    {
+      "section": "Podávání",
+      "text": "Přidej čtvrtku limetky na pokapání a podávej hned. Limetku na rybu vymačkej až u stolu, kyselina by ji jinak během pár minut zbělila."
+    }
+  ],
+  "tips": [
+    "Tuňák má být na řezu sytě červený, lesklý a bez rybího zápachu. Hnědé nebo duhově lesklé okraje odkroj.",
+    "Ostrý nůž a studená ryba jsou základ. Tuňáka vyndej z lednice až těsně před krájením.",
+    "Sezam opraž nasucho na pánvi, dokud nezačne vonět. Dodá poke ořechovou chuť, kterou syrový sezam nemá."
+  ],
+  "substitutions": [
+    "Tuňáka lze nahradit lososem určeným k syrové konzumaci; marinádu nech stejnou.",
+    "Pro bezlepkovou verzi použij místo sójové omáčky tamari."
+  ],
+  "faq": [
+    {
+      "q": "Jaký tuňák se hodí na poke?",
+      "a": "Jen čerstvý nebo hluboce zmražený filet či steak označený jako vhodný k syrové konzumaci, nejčastěji žlutoploutvý. Tuňák z konzervy se na tento recept nehodí."
+    },
+    {
+      "q": "Čím se liší ahi poke od poke bowlu?",
+      "a": "Ahi poke je samotný marinovaný tuňák, jak se podává na Havaji jako předkrm. Poke bowl je celé jídlo, kde stejný tuňák leží na rýži se zeleninou."
+    },
+    {
+      "q": "Proč tuňák v marinádě zšedne?",
+      "a": "Způsobí to kyselina nebo příliš dlouhé solení. Marinuj nejvýš 20 minut a limetkovou šťávu přidej až při podávání."
+    }
+  ],
+  "image": "dish-poke-tunak"
+}

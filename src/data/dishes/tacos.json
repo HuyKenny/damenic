@@ -1,0 +1,87 @@
+{
+  "name": "Tacos s hovězím, 3 ks",
+  "restaurant": "taqueria-nic-noveho",
+  "kind": "main",
+  "section": "Tacos",
+  "price": 17900,
+  "description": "Tři malé tortilly s kořeněným mletým hovězím, ledovým salátem, rajčatovou salsou a zakysanou smetanou.",
+  "about": [
+    "Tacos jsou nejrychlejší jídlo na lístku. Mleté hovězí se opeče s kmínem, uzenou paprikou a oreganem dosucha, aby z placky nekapalo, a přijde do nahřáté tortilly se salsou z čerstvých rajčat a koriandru.",
+    "Tři kusy jsou porce na oběd. Doma rozhoduje hlavně placka: nahřátá a zabalená v utěrce se neláme."
+  ],
+  "recipe": "tacos",
+  "image": "dish-tacos",
+  "optionGroups": [
+    {
+      "id": "salsa",
+      "name": "Salsa",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "pico",
+          "name": "Rajčatová pico de gallo",
+          "priceDelta": 0
+        },
+        {
+          "id": "verde",
+          "name": "Zelená s limetkou",
+          "priceDelta": 0
+        },
+        {
+          "id": "palava",
+          "name": "Pálivá chipotle",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "taco",
+          "name": "Čtvrté taco",
+          "priceDelta": 5500
+        },
+        {
+          "id": "guac",
+          "name": "Guacamole",
+          "priceDelta": 3500
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 1500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "smetana",
+          "name": "Bez smetany",
+          "priceDelta": 0
+        },
+        {
+          "id": "koriandr",
+          "name": "Bez koriandru",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": true,
+  "order": 10
+}

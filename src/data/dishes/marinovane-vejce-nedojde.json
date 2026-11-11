@@ -1,0 +1,17 @@
+{
+  "name": "Marinované vejce",
+  "restaurant": "ramen-nedojde",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Vejce s tekutým žloutkem marinované v sójové omáčce a mirinu.",
+  "price": 3500,
+  "image": "dish-marinovane-vejce-nedojde",
+  "recipe": null,
+  "vegetarian": true,
+  "allergens": [
+    1,
+    3,
+    6
+  ],
+  "order": 80
+}

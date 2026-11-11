@@ -1,0 +1,66 @@
+{
+  "name": "Perník s čokoládovou polevou",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Hrníčkový perník s medem a perníkovým kořením pod vrstvou hořké čokoládové polevy.",
+  "about": [
+    "Hrníčkový perník patří k receptům, které se předávají na kousku papíru a vždycky vyjdou. Medové a kořeněné těsto se míchá jen krátce, peče se ve formě a čokoládová poleva přijde až na vychladlý plát.",
+    "Můžeš si objednat kousek, čtyři nebo celou formu. Kdo chce, přidá si šlehačku; doma pak stačí jedna mísa, metla a forma 20 × 30 cm."
+  ],
+  "price": 6900,
+  "image": "dish-pernik",
+  "recipe": "pernik",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet kusů",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "1",
+          "name": "1 kus",
+          "priceDelta": 0
+        },
+        {
+          "id": "4",
+          "name": "4 kusy",
+          "priceDelta": 18900
+        },
+        {
+          "id": "12",
+          "name": "Celá forma (12 kusů)",
+          "priceDelta": 59000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "slehacka",
+          "name": "Šlehačka",
+          "priceDelta": 2500
+        },
+        {
+          "id": "povidla",
+          "name": "Lžíce švestkových povidel",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 20
+}

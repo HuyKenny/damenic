@@ -1,0 +1,75 @@
+{
+  "name": "Kuřecí biryani",
+  "restaurant": "tandoor-nanecisto",
+  "kind": "main",
+  "section": "Biryani a předkrmy",
+  "price": 24900,
+  "description": "Vrstvená rýže basmati s kořeněným kuřetem, smaženou cibulí, mátou a koriandrem, dodušená pod pokličkou.",
+  "about": [
+    "Biryani se nevaří, ale skládá. Dole je kuře dušené v jogurtové marinádě, nad ním předvařená rýže s hřebíčkem a skořicí, mezi vrstvami smažená cibule a bylinky. Celé se to pak pod pevnou poklicí dodusí v páře.",
+    "Když se povede, jsou zrna rýže oddělená, provoněná a dole se lehce připečou ke dnu. Doma si na to vyhraď odpoledne, většinu času ale jen čekáš."
+  ],
+  "recipe": "biryani",
+  "image": "dish-biryani",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "normal",
+          "name": "Normální porce",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká porce",
+          "priceDelta": 7900
+        }
+      ]
+    },
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "raita",
+          "name": "Raita",
+          "priceDelta": 3900
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    7
+  ],
+  "order": 50
+}

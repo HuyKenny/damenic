@@ -1,0 +1,192 @@
+{
+  "title": "Palak paneer",
+  "keywords": [
+    "palak paneer recept",
+    "špenát s paneerem",
+    "indický špenát se sýrem",
+    "recept na palak paneer"
+  ],
+  "intro": "Čtyři porce paneeru v husté kořeněné špenátové omáčce, hotové asi za 55 minut. Výsledek závisí na dobře opečené cibuli a na tom, aby se špenát po rozmixování už jen krátce prohřál a nezešedl.",
+  "image": "dish-palak-paneer",
+  "category": "indicka",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 20,
+  "difficulty": "střední",
+  "tips": [
+    "Špenát po rozmixování už dlouho nevař, jinak ztratí sytě zelenou barvu.",
+    "Opečený paneer můžeš před přidáním do omáčky na 10 minut ponořit do horké osolené vody; bude měkčí."
+  ],
+  "substitutions": [
+    "Místo mraženého špenátu použij 600 g čerstvého baby špenátu, spař ho minutu ve vroucí vodě, zchlaď a rozmixuj.",
+    "Paneer jde nahradit halloumi; je slanější, takže omáčku sol opatrněji.",
+    "Smetanu můžeš vynechat nebo nahradit dvěma lžícemi bílého jogurtu vmíchanými mimo oheň."
+  ],
+  "faq": [
+    {
+      "q": "Co je paneer a čím ho nahradit?",
+      "a": "Paneer je čerstvý indický sýr, který se při ohřevu neroztéká. Nejbližší náhradou je halloumi, případně pevné tofu."
+    },
+    {
+      "q": "Proč je palak paneer hořký?",
+      "a": "Hořkost dává nejčastěji připálené koření nebo převařený špenát. Koření opékej jen krátce a špenát po rozmixování jen prohřej; pomůže i lžíce smetany a citron."
+    },
+    {
+      "q": "Jde palak paneer udělat z čerstvého špenátu?",
+      "a": "Ano, počítej asi se 600 g. Spař ho minutu ve vroucí vodě, hned zchlaď ve studené a rozmixuj; zbytek postupu je stejný."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "spenat-mrazeny",
+      "amount": 900,
+      "unit": "g",
+      "note": "listový, 2 balení",
+      "group": "Špenátová omáčka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Špenátová omáčka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Špenátová omáčka"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Špenátová omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Špenátová omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Špenátová omáčka"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 20,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Špenátová omáčka"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nadrobno",
+      "group": "Špenátová omáčka"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Špenátová omáčka"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Špenátová omáčka"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Špenátová omáčka"
+    },
+    {
+      "ingredient": "garam-masala",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Špenátová omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Špenátová omáčka"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Špenátová omáčka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Špenátová omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "podle chuti",
+      "group": "Špenátová omáčka"
+    },
+    {
+      "ingredient": "paneer",
+      "amount": 400,
+      "unit": "g",
+      "note": "na kostky 2 cm",
+      "group": "Paneer"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Paneer"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 300,
+      "unit": "g",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Špenát",
+      "text": "Špenát dej do hrnce s 3 lžícemi vody, přiklop a na středním ohni ho za občasného míchání rozmraz, asi 8 až 10 minut. Nech ho trochu vychladnout a rozmixuj ho s vodou z hrnce dohladka."
+    },
+    {
+      "section": "Paneer",
+      "text": "Na pánvi rozpal lžíci oleje a kostky paneeru opékej 4 až 5 minut, dokud nejsou ze dvou nebo tří stran zlaté. Odlož je na talíř."
+    },
+    {
+      "section": "Omáčka",
+      "text": "V hrnci rozehřej olej s máslem, přidej kmín a po 30 sekundách cibuli. Opékej ji 10 minut do zlatova, pak přidej česnek, zázvor a chilli a míchej minutu."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Přidej rajčata, koriandr a kurkumu a duš 5 minut, dokud se rajčata nerozpadnou."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Vmíchej rozmixovaný špenát a vodu a vař na mírném ohni 5 minut. Přidej garam masalu, smetanu a paneer a prohřívej další 2 až 3 minuty. Dochuť solí a citronovou šťávou."
+    },
+    {
+      "section": "Podávání",
+      "text": "Podávej hned s rýží basmati nebo s naanem."
+    }
+  ],
+  "waitMinutes": 0
+}

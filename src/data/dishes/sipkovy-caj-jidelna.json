@@ -1,0 +1,16 @@
+{
+  "name": "Šípkový čaj z várnice 0,3 l",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Slazený šípkový čaj, který v jídelnách teče z várnice od rána. Tenhle teče jen v představách.",
+  "price": 2500,
+  "image": "dish-sipkovy-caj-jidelna",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 90
+}

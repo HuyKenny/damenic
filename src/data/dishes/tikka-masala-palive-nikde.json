@@ -1,0 +1,53 @@
+{
+  "name": "Tikka masala pálivá",
+  "restaurant": "kari-nikde",
+  "kind": "main",
+  "section": "Kari",
+  "price": 20900,
+  "description": "Grilované kousky kuřete v kořenité masala omáčce s čerstvým chilli a pálivou paprikou, s rýží.",
+  "about": [
+    "Tahle tikka masala pálí naplno. Základ je stejný jako u klasické verze, grilované kuře a omáčka z opečené cibule a rajčat, jen chilli se tu nešetří a semínka zůstávají v omáčce.",
+    "Smetana pálivost trochu tlumí, ale nezakryje ji. K ní se hodí slané lassi nebo raita."
+  ],
+  "recipe": "kure-tikka-masala",
+  "recipeNote": "Pro takovou pálivost dej dvě chilli papričky se semínky a lžičku pálivé papriky.",
+  "image": "dish-tikka-masala-palive-nikde",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "velmi",
+          "name": "Velmi pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "koriandr",
+          "name": "Bez koriandru",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 3,
+  "allergens": [
+    7
+  ],
+  "order": 20
+}

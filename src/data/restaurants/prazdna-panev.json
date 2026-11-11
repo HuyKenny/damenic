@@ -1,0 +1,32 @@
+{
+  "name": "Palačinkárna Prázdná pánev",
+  "category": "palacinky",
+  "cuisine": "Palačinky a crêpes",
+  "tagline": "Pánev je rozpálená, těsto odpočívá. Už dost dlouho.",
+  "description": "Smyšlená palačinkárna, která peče tenké palačinky sladké i slané a skládá je do čtverce jako v Bretani. Objednávka zůstane na papíře, recept ale funguje i doma na obyčejné pánvi.",
+  "etaMinutes": 25,
+  "deliveryFee": 3900,
+  "minOrder": 15900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "10:00",
+    "close": "21:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa"
+  ],
+  "logo": {
+    "text": "Pá",
+    "color": "#C2185B",
+    "ink": "light"
+  },
+  "cover": "rest-prazdna-panev",
+  "sections": [
+    "Sladké palačinky",
+    "Slané palačinky",
+    "Přidat k tomu",
+    "Nápoje"
+  ],
+  "order": 131
+}

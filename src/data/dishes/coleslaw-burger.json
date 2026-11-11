@@ -9,5 +9,10 @@
   "image": "dish-coleslaw-burger",
   "recipe": null,
   "vegetarian": true,
-  "optionGroups": []
+  "optionGroups": [],
+  "allergens": [
+    3,
+    7,
+    10
+  ]
 }

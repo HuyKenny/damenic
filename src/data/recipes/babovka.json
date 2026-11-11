@@ -1,0 +1,173 @@
+{
+  "title": "Mramorová bábovka",
+  "keywords": [
+    "bábovka recept",
+    "mramorová bábovka",
+    "třená bábovka",
+    "recept na bábovku"
+  ],
+  "intro": "Třená mramorová bábovka na 12 kousků ve formě o průměru 24 cm, s hodinou pečení a vychladnutí. Nejvíc záleží na másle a vejcích pokojové teploty a na poctivém utření.",
+  "image": "dish-babovka",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 30,
+  "cookMinutes": 55,
+  "waitMinutes": 90,
+  "waitLabel": "změknutí másla a vychladnutí",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 250,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 5,
+      "unit": "ks",
+      "note": "pokojové teploty",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 320,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen nastrouhaná kůra",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Tmavá část"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Tmavá část"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "note": "na vymazání formy",
+      "group": "Forma"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na vysypání formy",
+      "group": "Forma"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na posypání",
+      "group": "Forma"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Máslo a vejce nech aspoň hodinu ohřát na pokojovou teplotu. Troubu předehřej na 170 °C horní a spodní ohřev (160 °C horkovzduch)."
+    },
+    {
+      "section": "Příprava",
+      "text": "Formu na bábovku o průměru 24 cm vymaž měkkým máslem do všech záhybů i kolem komínku a vysyp strouhankou. Přebytek vyklep."
+    },
+    {
+      "section": "Těsto",
+      "text": "Máslo utři s moučkovým a vanilkovým cukrem do světlé, nadýchané pěny; mixérem to trvá asi 5 minut."
+    },
+    {
+      "section": "Těsto",
+      "text": "Přidávej po jednom vejce a každé zašlehej, než přidáš další. Kdyby se směs začala srážet, přidej lžíci odvážené mouky."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej s práškem do pečiva a solí a vmíchej ji do máslové směsi střídavě s mlékem na dvě až tři dávky. Přidej citronovou kůru a už míchej jen krátce stěrkou."
+    },
+    {
+      "section": "Těsto",
+      "text": "Třetinu těsta přendej do misky a vmíchej do ní kakao rozmíchané se 2 lžícemi mléka."
+    },
+    {
+      "section": "Pečení",
+      "text": "Do formy dávej střídavě lžíce světlého a tmavého těsta, pak jím jednou dvakrát projeď vidličkou ve spirále. Formou ťukni o linku, aby se těsto usadilo."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 50 až 60 minut. Když vršek po 35 minutách tmavne moc rychle, přikryj ho alobalem. Hotová je, když špejle z nejvyššího místa vyjde suchá."
+    },
+    {
+      "section": "Pečení",
+      "text": "Nech bábovku 10 minut ve formě, pak ji vyklop na mřížku. Vychladlou posyp moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Všechny suroviny mají mít stejnou, pokojovou teplotu. Studená vejce v utřeném másle způsobí srážení.",
+    "Bábovka se nejlépe krájí druhý den. Zabalená ve fólii vydrží 3 až 4 dny."
+  ],
+  "substitutions": [
+    "Polohrubou mouku můžeš nahradit hladkou.",
+    "Místo kakaa dej do tmavé části 50 g rozpuštěné hořké čokolády.",
+    "Bez kakaa upečeš světlou bábovku; můžeš do ní přimíchat hrst rozinek obalených v mouce."
+  ],
+  "faq": [
+    {
+      "q": "Proč bábovka spadne?",
+      "a": "Nejčastěji je nedopečená nebo se trouba otevřela příliš brzy. Zkoušku špejlí dělej až po 45 minutách a pokud je špejle vlhká, peč dál po pěti minutách."
+    },
+    {
+      "q": "Proč je bábovka suchá?",
+      "a": "Pekla se moc dlouho, nebo je v těstě víc mouky. Mouku važ, neodměřuj hrnkem, a bábovku vytáhni, jakmile je špejle suchá."
+    },
+    {
+      "q": "Jak vyklopit bábovku, aby se nepřilepila?",
+      "a": "Formu vymaž měkkým, ne rozpuštěným máslem do všech záhybů a vysyp strouhankou nebo moukou. Vyklápěj po 10 minutách, kdy bábovka ještě je teplá, ale už drží tvar."
+    }
+  ]
+}

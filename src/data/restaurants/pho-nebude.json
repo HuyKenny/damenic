@@ -1,0 +1,34 @@
+{
+  "name": "Bistro Phở Nebude",
+  "category": "asijska",
+  "cuisine": "Vietnamská kuchyně",
+  "tagline": "Vývar vaříme čtyři hodiny. Kurýra nevaříme vůbec.",
+  "description": "Smyšlené vietnamské bistro s polévkami pho, nudlovými miskami bún a smaženými závitky. Objednávka je jen na zkoušku a nikdo ti nic nepřiveze, recept na vývar ale dostaneš celý.",
+  "etaMinutes": 30,
+  "deliveryFee": 2900,
+  "minOrder": 15900,
+  "priceLevel": 1,
+  "hours": {
+    "open": "10:30",
+    "close": "21:30"
+  },
+  "pickup": true,
+  "tags": [
+    "pikantní",
+    "bezlepkové možnosti"
+  ],
+  "isNew": true,
+  "logo": {
+    "text": "Ph",
+    "color": "#2E7D32",
+    "ink": "light"
+  },
+  "sections": [
+    "Polévky",
+    "Nudle a rýže",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 41,
+  "cover": "rest-pho-nebude"
+}

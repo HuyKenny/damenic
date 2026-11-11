@@ -1,0 +1,59 @@
+{
+  "name": "Hovězí vývar s nudlemi a masem",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Čirý vývar z kostí a kližky tažený čtyři hodiny, s vaječnými nudlemi, kostičkami masa, mrkví a petrželkou.",
+  "about": [
+    "Hovězí vývar se nevaří, ale táhne. Kosti a maso se zalijí studenou vodou, sebere se pěna a pak už hrnec čtyři hodiny jen tiše probublává. Opečená cibule mu dá zlatou barvu a kořenová zelenina sladkost.",
+    "Nudle se vaří zvlášť, aby vývar zůstal čirý. Do misky přijde i maso z vývaru a zelenina nakrájená na kostičky, takže je to polévka i oběd najednou."
+  ],
+  "price": 11900,
+  "image": "dish-hovezi-vyvar",
+  "recipe": "hovezi-vyvar",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standard",
+          "name": "Miska 0,35 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Miska 0,5 l",
+          "priceDelta": 3000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "maso",
+          "name": "Maso navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "nudle",
+          "name": "Nudle navíc",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    9
+  ],
+  "order": 40
+}

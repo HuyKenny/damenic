@@ -1,0 +1,15 @@
+{
+  "name": "Čerstvý pomerančový džus 0,3 l",
+  "restaurant": "lahudky-pozitri",
+  "kind": "drink",
+  "section": "Ke kávě a s sebou",
+  "description": "Pomeranče lisované na objednávku, bez přidaného cukru.",
+  "price": 6900,
+  "image": "dish-pomerancovy-dzus-pozitri",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 100
+}

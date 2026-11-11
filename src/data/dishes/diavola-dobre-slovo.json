@@ -1,0 +1,83 @@
+{
+  "name": "Diavola s chilli olejem",
+  "restaurant": "pizzerie-na-dobre-slovo",
+  "kind": "main",
+  "section": "Pizza rossa",
+  "description": "Rajčata, mozzarella, pikantní salám, čerstvé chilli a pokapání domácím chilli olejem.",
+  "about": [
+    "Diavola je v Neapoli to, čemu se jinde říká pikantní salámová. Salám se v horké peci zkroutí do malých misek, ve kterých se drží jeho tuk, a chilli olej přidá pálivost navrch.",
+    "Pálivost si tady volíš sám. V receptu je chilli olej oddělený, takže si ho můžeš dát až na talíři, kolik uneseš."
+  ],
+  "price": 21900,
+  "image": "dish-diavola-dobre-slovo",
+  "recipe": "pizza-diavola",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "32cm",
+          "name": "32 cm",
+          "priceDelta": 0
+        },
+        {
+          "id": "40cm",
+          "name": "40 cm",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "stredni",
+          "name": "Střední",
+          "priceDelta": 0
+        },
+        {
+          "id": "ostra",
+          "name": "Ostrá",
+          "priceDelta": 0
+        },
+        {
+          "id": "dabelska",
+          "name": "Ďábelská",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "mozzarella",
+          "name": "Mozzarella navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "olivy",
+          "name": "Černé olivy",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": true,
+  "order": 30
+}

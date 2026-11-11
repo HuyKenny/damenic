@@ -1,0 +1,15 @@
+{
+  "name": "Krevetové chipsy",
+  "restaurant": "aloha-ani-rybka",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Nadýchané smažené chipsy z tapiokového škrobu a krevet. Ke křupání do doby, než dorazí nic.",
+  "price": 5900,
+  "image": "dish-krevetove-chipsy-rybka",
+  "recipe": null,
+  "optionGroups": [],
+  "allergens": [
+    2
+  ],
+  "order": 80
+}

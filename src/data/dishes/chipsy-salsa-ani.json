@@ -1,0 +1,15 @@
+{
+  "name": "Chipsy se salsou",
+  "restaurant": "tortillarna-ani-omylem",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 5900,
+  "description": "Tortilla chipsy s rajčatovou salsou z čerstvých rajčat, cibule a limetky. Křupou, i když nikam nejedou.",
+  "recipe": null,
+  "image": "dish-chipsy-salsa-ani",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 80
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Tandúr Nanečisto",
+  "category": "indicka",
+  "cuisine": "Severoindická kuchyně",
+  "tagline": "Tandúr žhaví na plné obrátky. Naprázdno.",
+  "description": "Smyšlená indická restaurace s kari ze severu Indie, rýží basmati a naanem z rozpálené pánve. Objednáš si nanečisto, nikdo nic nepřiveze, a recept dostaneš i na placky.",
+  "etaMinutes": 40,
+  "deliveryFee": 4900,
+  "minOrder": 24900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:00",
+    "close": "22:30"
+  },
+  "tags": [
+    "pikantní",
+    "bez masa"
+  ],
+  "promo": {
+    "type": "percent",
+    "label": "−15 % nad 350 Kč",
+    "percent": 15,
+    "minSubtotal": 35000
+  },
+  "logo": {
+    "text": "TN",
+    "color": "#C2410C",
+    "ink": "light"
+  },
+  "sections": [
+    "Kari",
+    "Biryani a předkrmy",
+    "Placky a přílohy",
+    "Nápoje"
+  ],
+  "order": 71,
+  "pickup": true,
+  "cover": "rest-tandoor-nanecisto"
+}

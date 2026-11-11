@@ -1,0 +1,87 @@
+{
+  "name": "Chilli con carne s chlebem",
+  "restaurant": "chilli-bez-adresy",
+  "kind": "main",
+  "section": "Chilli a pánve",
+  "price": 19900,
+  "description": "Husté chilli z mletého hovězího, červených fazolí a rajčat s kmínem a uzenou paprikou, se zakysanou smetanou a chlebem.",
+  "about": [
+    "Chilli con carne se nedá uspěchat. Maso se opeče dohněda, koření se krátce osmaží a pak se všechno s rajčaty hodinu pomalu vaří, než se fazole a maso spojí v hustou omáčku.",
+    "Pálivost je tu střední, laditelná chilli vločkami. Zakysaná smetana navrch ji zjemní a chléb poslouží na vytírání."
+  ],
+  "recipe": "chilli-con-carne",
+  "image": "dish-chilli-con-carne",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "chleb",
+          "name": "Chléb",
+          "priceDelta": 0
+        },
+        {
+          "id": "ryze",
+          "name": "Rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "chipsy",
+          "name": "Tortilla chipsy",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "syr",
+          "name": "Strouhaný sýr",
+          "priceDelta": 2000
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": true,
+  "order": 10
+}

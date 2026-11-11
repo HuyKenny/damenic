@@ -1,0 +1,65 @@
+{
+  "name": "Křupavé kuře s coleslaw",
+  "restaurant": "placka-nikam",
+  "kind": "main",
+  "section": "Další burgery",
+  "description": "Kuřecí stehenní řízek naložený v jogurtu a osmažený v kořeněné mouce, coleslaw a okurky v opečené bulce.",
+  "about": [
+    "Jediný burger bez hovězího v téhle sekci. Kuře nakládáme do jogurtu s paprikou, aby bylo šťavnaté, a obalujeme ho v mouce se škrobem pro hrubou křupavou kůrku.",
+    "Coleslaw je tentýž, který prodáváme jako přílohu, jen nakrouhaný jemněji, aby nevypadával."
+  ],
+  "price": 21900,
+  "image": "dish-kureci-placka",
+  "recipe": "kureci-burger-krupavy",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemny",
+          "name": "Jemný",
+          "priceDelta": 0
+        },
+        {
+          "id": "palivy",
+          "name": "Pálivý se srirachou",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bez",
+          "name": "Bez přílohy",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Domácí hranolky",
+          "priceDelta": 5900
+        },
+        {
+          "id": "krouzky",
+          "name": "Cibulové kroužky",
+          "priceDelta": 6900
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    3,
+    7,
+    10,
+    11
+  ],
+  "order": 50
+}

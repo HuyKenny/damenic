@@ -1,0 +1,59 @@
+{
+  "name": "Quattro formaggi bianca",
+  "restaurant": "pizzerie-na-dobre-slovo",
+  "kind": "main",
+  "section": "Pizza bianca a calzone",
+  "description": "Bílá pizza bez rajčat se čtyřmi sýry: mozzarellou, gorgonzolou, parmazánem a dobře tavitelným sýrem.",
+  "about": [
+    "Bianca znamená bez rajčat. Na těsto přijde jen tenká vrstva oleje a sýry, které se v horké troubě rozpustí do jedné krémové vrstvy.",
+    "Čtyři sýry nejsou pevně dané, každá pizzerie si skládá vlastní. Recept používá kombinaci, kterou seženeš v běžném obchodě, a radí, čím ji obměnit."
+  ],
+  "price": 23900,
+  "image": "dish-quattro-formaggi-dobre-slovo",
+  "recipe": "pizza-quattro-formaggi",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "32cm",
+          "name": "32 cm",
+          "priceDelta": 0
+        },
+        {
+          "id": "40cm",
+          "name": "40 cm",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "med",
+          "name": "Kapka medu",
+          "priceDelta": 1000
+        },
+        {
+          "id": "orechy",
+          "name": "Vlašské ořechy",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 50
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Perlivá voda s limetkou 0,5 l",
+  "restaurant": "chilli-bez-adresy",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 3900,
+  "description": "Perlivá voda s plátky limetky.",
+  "recipe": null,
+  "image": "dish-perliva-voda-bez",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 100
+}

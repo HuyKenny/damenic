@@ -1,0 +1,62 @@
+{
+  "name": "Cizrnové kari chana",
+  "restaurant": "kari-nikde",
+  "kind": "main",
+  "section": "Kari",
+  "price": 16900,
+  "description": "Cizrna dušená s rajčaty, cibulí, zázvorem a kořením, s rýží basmati. Bez masa a bez mléčných výrobků.",
+  "about": [
+    "Nejlevnější kari na lístku a možná nejpoctivější. Cizrna se vaří v rajčatové omáčce s opečenou cibulí, dokud nezměkne a omáčku nezahustí.",
+    "Garam masala přichází až na konci, aby si udržela vůni. Vydrží v lednici několik dní, takže doma se vyplatí uvařit dvojnásobek."
+  ],
+  "recipe": "chana-masala",
+  "image": "dish-cizrnove-kari-nikde",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "spenat",
+          "name": "Špenát",
+          "priceDelta": 2500
+        },
+        {
+          "id": "limetka",
+          "name": "Limetka",
+          "priceDelta": 500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 2,
+  "allergens": [],
+  "order": 30
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Pečený lilek s jogurtem a sumahem",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Půlky lilku pečené doměkka, česnekový řecký jogurt, cherry rajčata s petrželkou a mátou, posypané sumahem. S bulgurem.",
+  "about": [
+    "Lilek pečeme řeznou stranou dolů, dokud není dužina úplně měkká a krémová. Pak ho stačí potřít jogurtem s česnekem a doplnit rajčaty s bylinkami.",
+    "Sumah dodá kyselost podobnou citronu, jen bez tekutiny. Kdo ho nemá, nahradí ho doma kůrou z citronu."
+  ],
+  "price": 19900,
+  "image": "dish-lilek-sumah-zahradka",
+  "recipe": "peceny-lilek-jogurt-rajcata",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bulgur",
+          "name": "Bulgur",
+          "priceDelta": 0
+        },
+        {
+          "id": "chleb",
+          "name": "Opečený chléb",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "halloumi",
+          "name": "Grilované halloumi",
+          "priceDelta": 4500
+        },
+        {
+          "id": "vejce",
+          "name": "Vejce natvrdo",
+          "priceDelta": 1500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-cesneku",
+          "name": "Bez česneku",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 20
+}

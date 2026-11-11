@@ -1,0 +1,203 @@
+{
+  "title": "Ramen",
+  "category": "asijska",
+  "servings": 2,
+  "activeMinutes": 40,
+  "cookMinutes": 35,
+  "waitMinutes": 240,
+  "waitLabel": "marinování vajec",
+  "difficulty": "střední",
+  "keywords": [
+    "ramen recept",
+    "domácí ramen",
+    "shoyu ramen",
+    "recept na ramen"
+  ],
+  "intro": "Shoyu ramen pro dva s křupavým kuřecím stehnem a marinovaným vejcem, hotový za necelou hodinu práce plus čtyři hodiny marinování vajec. Rozhoduje kvalita vývaru a to, že nudle vaříš zvlášť.",
+  "ingredients": [
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "ideálně domácí",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 20,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "rozmáčknutý",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "bílé části",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "do omáčky tare",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "mirin",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "do omáčky tare",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "přímo z lednice",
+      "group": "Marinovaná vejce"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Marinovaná vejce"
+    },
+    {
+      "ingredient": "mirin",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Marinovaná vejce"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 50,
+      "unit": "ml",
+      "group": "Marinovaná vejce"
+    },
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 300,
+      "unit": "g",
+      "note": "vykostěná, s kůží",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "nudle-ramen",
+      "amount": 200,
+      "unit": "g",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "pak-choi",
+      "amount": 150,
+      "unit": "g",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "nori",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nastříhaný na čtverce",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "zelené části nadrobno",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Do misky"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Marinovaná vejce",
+      "text": "Vejce vlož lžící do vroucí vody a vař přesně 6 a půl minuty. Pak je hned přendej do ledové vody, nech je vychladnout a opatrně oloupej."
+    },
+    {
+      "section": "Marinovaná vejce",
+      "text": "Smíchej sójovou omáčku, mirin a vodu, vejce do směsi ponoř a dej je zakrytá do lednice aspoň na 4 hodiny, nejlépe přes noc. Občas je otoč, aby se zbarvila rovnoměrně."
+    },
+    {
+      "section": "Vývar",
+      "text": "Do kuřecího vývaru dej plátky zázvoru, česnek a bílé části jarní cibulky. Vař ho pod pokličkou 30 minut na mírném ohni, pak koření sceď a vývar udržuj horký."
+    },
+    {
+      "section": "Vývar",
+      "text": "V misce smíchej sójovou omáčku, mirin a sezamový olej na omáčku tare. Ta dochucuje vývar až v misce, do hrnce ji nelij."
+    },
+    {
+      "section": "Maso",
+      "text": "Kuřecí stehna osol a polož kůží dolů na pánev s olejem. Opékej je na středním ohni asi 8 minut, dokud kůže nezkřupe, pak je otoč a dopékej 5 až 6 minut."
+    },
+    {
+      "section": "Maso",
+      "text": "Maso nech 5 minut odpočinout a nakrájej na plátky. Pak choi podélně rozpul a povař 1 minutu ve vývaru nebo v osolené vodě."
+    },
+    {
+      "section": "Do misky",
+      "text": "Nudle uvař v hrnci s velkým množstvím vody podle obalu, obvykle 2 až 4 minuty, a důkladně je sceď."
+    },
+    {
+      "section": "Do misky",
+      "text": "Do každé misky dej polovinu omáčky tare a zalij ji asi 450 ml horkého vývaru. Přidej nudle, maso, pak choi, rozpůlené vejce, nori, zelenou cibulku a sezam a podávej hned."
+    }
+  ],
+  "tips": [
+    "Nudle vař vždy zvlášť ve velkém hrnci vody. Ve vývaru by ho zakalily škrobem a zahustily.",
+    "Domácí vývar z kuřecích křídel a skeletů vařený 3 hodiny dá ramenu výrazně plnější chuť než kupovaný.",
+    "Marinovaná vejce vydrží v lednici 2 dny. Déle už se zasolí a bílek ztuhne."
+  ],
+  "substitutions": [
+    "Mirin nahradíš lžící cukru rozpuštěnou ve 2 lžících vody s kapkou rýžového octa.",
+    "Místo pak choi můžeš dát do misky hrst baby špenátu, který zvadne v horkém vývaru.",
+    "Ramen nudle nahradí tenké vaječné nudle."
+  ],
+  "faq": [
+    {
+      "q": "Jaké nudle použít na ramen?",
+      "a": "Nejlepší jsou pšeničné ramen nudle, čerstvé nebo sušené, které jsou pevné a pružné. Když je neseženeš, poslouží tenké vaječné nudle nebo nudle z instantního ramenu bez sáčku s kořením."
+    },
+    {
+      "q": "Jak udělat vejce do ramenu s tekutým žloutkem?",
+      "a": "Vejce rovnou z lednice vař ve vroucí vodě 6 a půl minuty a hned je zchlaď v ledové vodě. Po oloupání je nech aspoň 4 hodiny v marinádě ze sójové omáčky a mirinu."
+    },
+    {
+      "q": "Dá se vývar na ramen připravit dopředu?",
+      "a": "Ano. Ochucený vývar bez omáčky tare vydrží v lednici 3 dny a dá se i zamrazit. Nudle a maso připrav až těsně před podáváním."
+    }
+  ],
+  "image": "dish-ramen",
+  "vegetarian": false
+}

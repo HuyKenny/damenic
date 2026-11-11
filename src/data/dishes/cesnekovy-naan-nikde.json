@@ -1,0 +1,17 @@
+{
+  "name": "Česnekový naan",
+  "restaurant": "kari-nikde",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 5500,
+  "description": "Placka z kynutého těsta s jogurtem, potřená máslem s česnekem a koriandrem.",
+  "recipe": "naan",
+  "image": "dish-cesnekovy-naan-nikde",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 70
+}

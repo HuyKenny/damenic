@@ -1,0 +1,40 @@
+{
+  "name": "Bento s kuřetem teriyaki",
+  "restaurant": "onigiri-neurcito",
+  "kind": "main",
+  "section": "Bento",
+  "description": "Krabička s rýží, kuřecím stehnem v omáčce teriyaki, brokolicí a nakládaným zázvorem.",
+  "about": [
+    "Bento je japonská krabička s obědem, kde každá složka má svou přihrádku. Kuře teriyaki se do ní hodí, protože chutná i vlažné.",
+    "Doma si připrav dvojnásobek a druhou porci dej do lednice na zítřek. Rýži před jídlem prohřej."
+  ],
+  "price": 22900,
+  "image": "dish-bento-teriyaki-neurcito",
+  "recipe": "kure-teriyaki",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "brokolice",
+          "name": "Brokolice",
+          "priceDelta": 0
+        },
+        {
+          "id": "edamame",
+          "name": "Edamame",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "order": 30
+}

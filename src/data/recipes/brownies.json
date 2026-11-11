@@ -1,0 +1,107 @@
+{
+  "title": "Brownies",
+  "keywords": [
+    "brownies recept",
+    "čokoládové brownies",
+    "recept na brownies",
+    "brownies z hořké čokolády"
+  ],
+  "intro": "Hutné čokoládové brownies na 12 kousků ve formě 20 × 20 cm, upečené za necelou půlhodinu. Rozhoduje dobře ušlehané vejce s cukrem a odvaha vytáhnout je z trouby s vláčným středem.",
+  "image": "dish-brownies",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 120,
+  "waitLabel": "chladnutí před krájením",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 200,
+      "unit": "g",
+      "note": "s 60 až 70 % kakaa"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 170,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 90,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (160 °C horkovzduch). Formu 20 × 20 cm vylož pečicím papírem tak, aby přesahoval přes dva okraje."
+    },
+    {
+      "text": "Čokoládu nalámej a s máslem nakrájeným na kostky ji rozpusť v misce nad hrncem s mírně vroucí vodou. Odstav a nech 5 minut zchladnout."
+    },
+    {
+      "text": "Vejce s oběma cukry šlehej mixérem 3 až 4 minuty, dokud směs nezesvětlá a nezhoustne. Z toho vznikne lesklá, praskající kůrka."
+    },
+    {
+      "text": "Do vajec vlij čokoládu a stěrkou ji vmíchej. Přes sítko přidej mouku, kakao a sůl a opatrně promíchej jen do spojení."
+    },
+    {
+      "text": "Těsto rozetři do formy a peč 22 až 26 minut. Povrch má být lesklý a suchý, okraje pevné a střed se po zatřesení formou už nemá vlnit."
+    },
+    {
+      "text": "Špejle zapíchnutá do středu má vyjít s několika vlhkými drobky, ne čistá. Když vyjde čistá, jsou brownies přepečené."
+    },
+    {
+      "text": "Nech je ve formě úplně vychladnout, ideálně ještě hodinu v lednici. Pak je za papír vytáhni a nakrájej ostrým nožem, který mezi řezy otřeš."
+    }
+  ],
+  "tips": [
+    "Brownies se krájí čistě až studené. Teplé se drolí a mažou.",
+    "V krabičce vydrží 4 dny, v lednici týden; vychlazené jsou hutnější a víc připomínají lanýž."
+  ],
+  "substitutions": [
+    "Do těsta můžeš přimíchat 80 g nasekaných vlašských ořechů nebo kousky mléčné čokolády.",
+    "Třtinový cukr nahradíš krystalem, chuť bude méně karamelová."
+  ],
+  "faq": [
+    {
+      "q": "Jak poznat, že jsou brownies upečené?",
+      "a": "Okraje jsou pevné a odlepují se od papíru, střed na dotek pruží a špejle vyjde s vlhkými drobky. Čistá špejle znamená přepečené brownies, které budou spíš jako bábovka."
+    },
+    {
+      "q": "Proč brownies nemají praskající kůrku?",
+      "a": "Vejce s cukrem nebyla dost ušlehaná a cukr se nerozpustil. Šlehej je aspoň 3 minuty, než přidáš čokoládu."
+    },
+    {
+      "q": "Můžu brownies upéct ve větší formě?",
+      "a": "Můžeš, ve formě 20 × 30 cm bude vrstva tenčí. Zkontroluj je už po 18 minutách."
+    }
+  ]
+}

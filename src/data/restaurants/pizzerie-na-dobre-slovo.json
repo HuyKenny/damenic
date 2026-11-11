@@ -1,0 +1,33 @@
+{
+  "name": "Pizzerie Na dobré slovo",
+  "category": "pizza",
+  "cuisine": "Neapolská pizza",
+  "tagline": "Platí se dobrým slovem. Doručuje se taky jen slovem.",
+  "description": "Smyšlená neapolská pizzerie s měkkým, vysoko nafouknutým okrajem a pecí, která prý jede na 450 °C. Pizzu ti tu slíbíme na dobré slovo a dodržíme ho tak, že dostaneš recept, podle kterého ji upečeš v domácí troubě.",
+  "etaMinutes": 30,
+  "deliveryFee": 2900,
+  "minOrder": 19900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:00",
+    "close": "23:30"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa",
+    "pikantní"
+  ],
+  "logo": {
+    "text": "DS",
+    "color": "#1E4E8C",
+    "ink": "light"
+  },
+  "cover": "rest-pizzerie-na-dobre-slovo",
+  "sections": [
+    "Pizza rossa",
+    "Pizza bianca a calzone",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 11
+}

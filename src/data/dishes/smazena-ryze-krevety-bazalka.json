@@ -1,0 +1,48 @@
+{
+  "name": "Smažená rýže s vejcem a krevetami",
+  "restaurant": "pozdni-bazalka",
+  "kind": "main",
+  "section": "Wok",
+  "description": "Jasmínová rýže z woku s vejcem, zeleninou a krevetami, se sójovou omáčkou a limetkou.",
+  "about": [
+    "Smažená rýže s krevetami je klasika thajských nočních stánků. Krevety se opečou zvlášť a vmíchají se až na konci.",
+    "Rýži uvař den předem, vychladlá se na pánvi nelepí."
+  ],
+  "price": 18900,
+  "image": "dish-smazena-ryze-krevety-bazalka",
+  "recipe": "smazena-ryze-vejce-zelenina",
+  "recipeNote": "Krevety opeč zvlášť 2 minuty a vmíchej je až na konci.",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredne",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    2,
+    3,
+    6,
+    11
+  ],
+  "order": 60
+}

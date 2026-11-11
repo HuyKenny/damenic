@@ -1,0 +1,45 @@
+{
+  "name": "Červené kari s kuřetem a cuketou",
+  "restaurant": "zadny-tuk-tuk",
+  "kind": "main",
+  "section": "Kari a polévky",
+  "description": "Kuřecí maso v kokosovém kari s červenou pastou, paprikou, cuketou a žampiony, s jasmínovou rýží.",
+  "about": [
+    "Červené kari je kulatější a kořenitější než zelené, protože pasta vychází ze sušených chilli.",
+    "Zelenina se přidává až do probublávajícího mléka, aby zůstala na skus. Rýže je v ceně."
+  ],
+  "price": 21900,
+  "image": "dish-cervene-kari-tuktuk",
+  "recipe": "cervene-kari-kureci",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredne",
+          "name": "Pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Thajsky pálivé",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    2,
+    4
+  ],
+  "order": 50
+}

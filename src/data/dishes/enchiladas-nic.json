@@ -1,0 +1,63 @@
+{
+  "name": "Enchiladas s kuřetem, 2 ks",
+  "restaurant": "taqueria-nic-noveho",
+  "kind": "main",
+  "section": "Burrito a další",
+  "price": 22900,
+  "description": "Dvě srolované tortilly s kuřetem a fazolemi, zapečené v červené omáčce se sýrem, se zakysanou smetanou.",
+  "about": [
+    "Enchiladas jsou mexické jídlo z trouby. Tortilly se naplní natrhaným kuřetem s fazolemi, zalijí omáčkou z rajčat a koření a zapečou se sýrem.",
+    "Omáčka je tu základ, ne doplněk. Koření se v ní nejdřív krátce osmaží s moukou, a teprve pak přijde passata."
+  ],
+  "recipe": "enchiladas",
+  "image": "dish-enchiladas-nic",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "treti",
+          "name": "Třetí enchilada",
+          "priceDelta": 6900
+        },
+        {
+          "id": "ryze",
+          "name": "Rajčatová rýže",
+          "priceDelta": 3500
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 60
+}

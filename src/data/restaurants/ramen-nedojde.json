@@ -1,0 +1,38 @@
+{
+  "name": "Ramen Bar Nedojde",
+  "category": "asijska",
+  "cuisine": "Ramen a korejská kuchyně",
+  "tagline": "Vývar nám nikdy nedojde. Objednávka k tobě taky ne.",
+  "description": "Smyšlený ramen bar s japonskými nudlovými polévkami, gyoza a korejským bibimbapem. Misku si tu objednáš jen naoko, kurýr nevyjede, ale postup na doma dostaneš krok za krokem.",
+  "etaMinutes": 40,
+  "deliveryFee": 4900,
+  "minOrder": 19900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:30",
+    "close": "00:30"
+  },
+  "pickup": true,
+  "tags": [
+    "pikantní"
+  ],
+  "promo": {
+    "type": "percent",
+    "label": "−15 % nad 350 Kč",
+    "percent": 15,
+    "minSubtotal": 35000
+  },
+  "logo": {
+    "text": "RN",
+    "color": "#1F2937",
+    "ink": "light"
+  },
+  "sections": [
+    "Ramen",
+    "Rýže a knedlíčky",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 42,
+  "cover": "rest-ramen-nedojde"
+}

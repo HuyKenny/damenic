@@ -1,0 +1,58 @@
+{
+  "name": "Kuřecí fajitas na pánvi",
+  "restaurant": "chilli-bez-adresy",
+  "kind": "main",
+  "section": "Chilli a pánve",
+  "price": 26900,
+  "description": "Kuřecí nudličky s barevnými paprikami a cibulí z rozpálené pánve, s tortillami, zakysanou smetanou a limetkou zvlášť.",
+  "about": [
+    "Fajitas se v tex-mex restauracích nosí na stůl ještě syčící. Maso marinované v limetce a koření se opeče prudce s paprikami, které mají zůstat lehce křupavé.",
+    "Tortilly, smetanu a limetku dostaneš bokem a skládáš si sám. Doma je hlavní pravidlo nepřeplnit pánev, jinak se maso dusí."
+  ],
+  "recipe": "fajitas",
+  "image": "dish-fajitas",
+  "optionGroups": [
+    {
+      "id": "maso",
+      "name": "Maso",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kure",
+          "name": "Kuřecí",
+          "priceDelta": 0
+        },
+        {
+          "id": "hovezi",
+          "name": "Hovězí roštěná",
+          "priceDelta": 5900
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "guac",
+          "name": "Guacamole",
+          "priceDelta": 3500
+        },
+        {
+          "id": "tortilly",
+          "name": "2 tortilly navíc",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 30
+}

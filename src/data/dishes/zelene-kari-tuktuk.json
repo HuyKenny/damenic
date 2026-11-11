@@ -1,0 +1,59 @@
+{
+  "name": "Zelené kari s kuřecím masem",
+  "restaurant": "zadny-tuk-tuk",
+  "kind": "main",
+  "section": "Kari a polévky",
+  "description": "Kokosové kari se zelenou kari pastou, kuřecím stehnem, lilkem, kafírovými listy a bazalkou, s jasmínovou rýží.",
+  "about": [
+    "Zelené kari je svěží a bylinkové a z thajských kari obvykle nejpálivější. Pasta se nejdřív smaží v husté kokosové smetaně, tím se uvolní vůně.",
+    "Pálivost řídíš množstvím pasty. V simulaci vybíráš ze tří stupňů, doma začni na dvou lžících."
+  ],
+  "price": 21900,
+  "image": "dish-zelene-kari-tuktuk",
+  "recipe": "zelene-kari",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredne",
+          "name": "Pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Thajsky pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "ryze",
+          "name": "Rýže navíc",
+          "priceDelta": 3000
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    2,
+    4
+  ],
+  "order": 40
+}

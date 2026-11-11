@@ -1,0 +1,173 @@
+{
+  "title": "Gyoza",
+  "category": "asijska",
+  "servings": 4,
+  "activeMinutes": 60,
+  "cookMinutes": 20,
+  "waitMinutes": 15,
+  "waitLabel": "solení zelí",
+  "difficulty": "střední",
+  "keywords": [
+    "gyoza recept",
+    "domácí gyoza",
+    "japonské knedlíčky gyoza",
+    "recept na gyozy"
+  ],
+  "intro": "Japonské knedlíčky gyoza s vepřovou náplní, asi 30 kusů za hodinu a půl. Nejdřív se opečou dozlatova, pak dojdou v páře pod pokličkou. Rozhoduje dobře vymačkané zelí a pevně zalepené okraje.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 300,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "zeli-pekingske",
+      "amount": 200,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na zelí",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "placky-gyoza",
+      "amount": 30,
+      "unit": "ks",
+      "note": "rozmražené",
+      "group": "Plnění a smažení"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na dvě dávky",
+      "group": "Plnění a smažení"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 200,
+      "unit": "ml",
+      "note": "na podlití dvou dávek",
+      "group": "Plnění a smažení"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Dip"
+    },
+    {
+      "ingredient": "ocet-ryzovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Dip"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Dip"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Dip"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Náplň",
+      "text": "Zelí nasekej najemno, promíchej ho se solí a nech 15 minut odpočinout. Pak ho v hrsti nebo v utěrce co nejvíc vymačkej."
+    },
+    {
+      "section": "Náplň",
+      "text": "Smíchej zelí s masem, nadrobno nasekanou jarní cibulkou, prolisovaným česnekem, nastrouhaným zázvorem, sójovou omáčkou, sezamovým olejem a pepřem. Míchej 1 až 2 minuty, dokud náplň nezačne být lepivá."
+    },
+    {
+      "section": "Plnění a smažení",
+      "text": "Na střed plátku dej vrchovatou lžičku náplně a okraj potři prstem namočeným ve vodě. Přelož plátek napůl a na jedné straně skládej 5 až 6 záhybů, okraje pak pevně stiskni."
+    },
+    {
+      "section": "Plnění a smažení",
+      "text": "Hotové gyoza pokládej na podsypaný talíř plochou stranou dolů a přikryj je utěrkou, aby těsto neoschlo."
+    },
+    {
+      "section": "Plnění a smažení",
+      "text": "Na nepřilnavé pánvi s poklicí rozehřej lžíci oleje a vyskládej na ni polovinu gyoza plochou stranou dolů. Opékej je na středním ohni 2 až 3 minuty, až mají zlatý spodek."
+    },
+    {
+      "section": "Plnění a smažení",
+      "text": "Podlij je 100 ml vody, hned přiklop poklicí a nech je 5 až 6 minut v páře, dokud se voda neodpaří. Odkryj je a dopékej ještě minutu, aby spodek znovu zkřupl. Druhou dávku připrav stejně."
+    },
+    {
+      "section": "Dip",
+      "text": "Na dip smíchej sójovou omáčku, rýžový ocet, sezamový olej a chilli vločky."
+    }
+  ],
+  "tips": [
+    "Do jednoho knedlíčku nedávej moc náplně. Přeplněné gyoza se špatně zavírají a při páře praskají.",
+    "Na zkoušku uvař jednu lžičku náplně a ochutnej ji, slanost se dá ještě upravit."
+  ],
+  "substitutions": [
+    "Vepřové nahradíš mletým kuřecím masem, k němu přidej lžičku oleje, ať náplň není suchá.",
+    "Bez masa: rozdrobené pevné tofu a nadrobno nasekané žampiony, opečené nasucho, aby pustily vodu."
+  ],
+  "faq": [
+    {
+      "q": "Jak skládat gyoza?",
+      "a": "Plátek s náplní přelož napůl, přidrž ho jednou rukou a druhou skládej na přední straně malé záhyby směrem k sobě, obvykle 5 až 6. Zadní strana zůstává hladká, okraje nakonec pevně stiskni."
+    },
+    {
+      "q": "Proč se gyoza lepí na pánev?",
+      "a": "Pánev je málo nepřilnavá, je na ní málo oleje nebo se gyoza vyndávají dřív, než se voda úplně odpaří. Nech je po odpaření ještě minutu dopéct, spodek se pak sám uvolní."
+    },
+    {
+      "q": "Dají se gyoza zamrazit?",
+      "a": "Ano, syrové. Zamraz je na plechu, aby se nedotýkaly, pak je přesyp do sáčku. Pečou se bez rozmrazování, v páře je nech o 2 minuty déle."
+    }
+  ],
+  "image": "dish-gyoza",
+  "vegetarian": false
+}

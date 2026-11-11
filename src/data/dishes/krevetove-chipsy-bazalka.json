@@ -1,0 +1,14 @@
+{
+  "name": "Krevetové chipsy",
+  "restaurant": "pozdni-bazalka",
+  "kind": "side",
+  "section": "Přílohy a nápoje",
+  "description": "Křupavé krevetové chipsy se sladkou chilli omáčkou.",
+  "price": 4900,
+  "image": "dish-krevetove-chipsy-bazalka",
+  "recipe": null,
+  "allergens": [
+    2
+  ],
+  "order": 80
+}

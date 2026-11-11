@@ -1,0 +1,135 @@
+{
+  "title": "Houskový knedlík",
+  "keywords": [
+    "houskový knedlík recept",
+    "recept na houskový knedlík",
+    "domácí houskový knedlík",
+    "kynutý knedlík"
+  ],
+  "intro": "Dvě šišky kynutého houskového knedlíku, zhruba šestnáct plátků. Práce je asi na půl hodiny, k tomu hodina kynutí; výsledek závisí na pevném těstě a na tom, aby se knedlík hned po uvaření rozkrojil.",
+  "image": "dish-houskovy-knedlik",
+  "category": "ceska",
+  "servings": 6,
+  "activeMinutes": 30,
+  "cookMinutes": 25,
+  "waitMinutes": 70,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 20,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 300,
+      "unit": "ml",
+      "note": "vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "rohliky",
+      "amount": 3,
+      "unit": "ks",
+      "note": "starší, nebo 2 housky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 4000,
+      "unit": "ml",
+      "note": "na vaření",
+      "group": "Vaření"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "do vody",
+      "group": "Vaření"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozdrob do 100 ml vlažného mléka, přidej cukr a lžíci mouky a nech 10 minut v teple, dokud kvásek nezačne pěnit."
+    },
+    {
+      "section": "Těsto",
+      "text": "Do mísy dej zbylou mouku a sůl, přidej vejce, kvásek a zbylé mléko. Hněť 8 až 10 minut, dokud nevznikne hladké, tužší těsto, které se nelepí na ruce."
+    },
+    {
+      "section": "Těsto",
+      "text": "Rohlíky nakrájej na kostičky asi 1 cm. Když jsou čerstvé, osuš je 10 minut v troubě na 150 °C. Zapracuj je do těsta."
+    },
+    {
+      "section": "Kynutí",
+      "text": "Mísu přikryj utěrkou a nech těsto v teple kynout 45 minut, dokud nezvětší objem zhruba na dvojnásobek."
+    },
+    {
+      "section": "Kynutí",
+      "text": "Těsto rozděl na dva díly a vytvaruj z nich šišky dlouhé asi 20 cm. Nech je 15 minut odpočinout na pomoučené desce."
+    },
+    {
+      "section": "Vaření",
+      "text": "V co nejširším hrnci přiveď k varu osolenou vodu. Vlož šišky, ihned je odlep ode dna a vař je mírně, s poklicí nakřivo."
+    },
+    {
+      "section": "Vaření",
+      "text": "Po 10 minutách šišky obrať a vař dalších 10 až 12 minut. Hotový knedlík je pružný a po zmáčknutí se vrací."
+    },
+    {
+      "section": "Vaření",
+      "text": "Vyndej knedlík a hned ho rozkroj nebo nakrájej nití či ostrým nožem, aby z něj unikla pára. Jinak se uvnitř srazí a zmaze."
+    }
+  ],
+  "tips": [
+    "Těsto na knedlík má být tužší než na koláč. Řídké těsto se ve vodě rozteče a knedlík bude placatý.",
+    "Šišky se při vaření zvětší, proto je vař v širokém hrnci nebo postupně."
+  ],
+  "substitutions": [
+    "Místo polohrubé mouky můžeš použít hrubou, knedlík bude o něco sušší a pevnější.",
+    "Knedlík jde uvařit i v páře: šišky polož na vymaštěné síto nad vroucí vodu, přiklop a napařuj 25 až 30 minut."
+  ],
+  "faq": [
+    {
+      "q": "Proč je houskový knedlík uvnitř mazlavý?",
+      "a": "Buď se vařil krátce, nebo se po vyndání nenakrojil a pára zkondenzovala uvnitř. Rozkrajuj ho hned a s dobou vaření nešetři."
+    },
+    {
+      "q": "Dá se houskový knedlík zamrazit?",
+      "a": "Ano. Nakrájený na plátky ho zamraz v sáčku a ohřívej rovnou zmrazený v páře asi 8 minut."
+    },
+    {
+      "q": "Jak dlouho vydrží houskový knedlík v lednici?",
+      "a": "Zabalený do fólie 3 dny. Ohřej ho v páře, aby nevysychal."
+    }
+  ],
+  "vegetarian": true
+}

@@ -8,5 +8,8 @@
   "order": 70,
   "description": "Rukola, cherry rajčata, hobliny parmazánu a zálivka z olivového oleje a citronu.",
   "restaurant": "prazdna-pec",
-  "image": "dish-rukolovy-salat"
+  "image": "dish-rukolovy-salat",
+  "allergens": [
+    7
+  ]
 }

@@ -68,5 +68,9 @@
   ],
   "kind": "main",
   "restaurant": "prazdna-pec",
-  "image": "dish-spagety-rajcata-bazalka"
+  "image": "dish-spagety-rajcata-bazalka",
+  "allergens": [
+    1,
+    7
+  ]
 }

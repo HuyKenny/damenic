@@ -1,0 +1,61 @@
+{
+  "name": "Skořicová ovesná kaše s jablkem",
+  "restaurant": "na-lacno",
+  "kind": "main",
+  "section": "Sladké",
+  "description": "Ovesná kaše na mléce se strouhaným jablkem, skořicí, praženými ořechy a medem.",
+  "about": [
+    "Jablko se skořicí je podzimní verze ovesné kaše. Strouhané jablko se do kaše vmíchá na konci, aby zůstalo šťavnaté, a ořechy se krátce opraží, aby voněly.",
+    "Mléko můžeš vyměnit za ovesný nápoj. Doma kaše zabere čtvrt hodiny včetně mytí kastrolu."
+  ],
+  "price": 15900,
+  "image": "dish-ovesna-kase-lacno",
+  "recipe": "ovesna-kase",
+  "recipeNote": "Banán v receptu nahraď nastrouhaným jablkem.",
+  "optionGroups": [
+    {
+      "id": "mleko",
+      "name": "Základ",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kravske",
+          "name": "Kravské mléko",
+          "priceDelta": 0
+        },
+        {
+          "id": "ovesne",
+          "name": "Ovesný nápoj",
+          "priceDelta": 1500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "orechu",
+          "name": "Bez ořechů",
+          "priceDelta": 0
+        },
+        {
+          "id": "medu",
+          "name": "Bez medu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    8
+  ],
+  "order": 60
+}

@@ -1,0 +1,206 @@
+{
+  "title": "Kuřecí enchiladas",
+  "keywords": [
+    "enchiladas recept",
+    "kuřecí enchiladas",
+    "zapečené enchiladas",
+    "recept na enchiladas"
+  ],
+  "intro": "Zapékací mísa osmi tortill plněných kuřetem a fazolemi, zalitých červenou omáčkou a sýrem, pro čtyři. Celkem asi hodina a dvacet minut; chuť dělá hlavně omáčka z koření osmaženého s trochou mouky.",
+  "image": "dish-enchiladas",
+  "category": "mexicka",
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 40,
+  "difficulty": "střední",
+  "tips": [
+    "Okraje tortill nenechávej nezalité, v troubě by ztvrdly.",
+    "Tortilly se rolují snáz, když je předem krátce nahřeješ.",
+    "Na omáčku můžeš použít i zbylé maso z pečeného kuřete; vaření prsou pak odpadá."
+  ],
+  "substitutions": [
+    "Pšeničné tortilly nahradí kukuřičné, které jsou pro enchiladas typičtější; před plněním je krátce opeč na oleji, aby nepraskaly.",
+    "Kuře můžeš vynechat a dát dvojnásobek fazolí s opečenou kukuřicí a paprikou."
+  ],
+  "faq": [
+    {
+      "q": "Jde enchiladas připravit dopředu?",
+      "a": "Ano. Naplněné a zalité je můžeš nechat přikryté v lednici do druhého dne. Zapékej je pak o 10 minut déle, aby se prohřály."
+    },
+    {
+      "q": "Jaké tortilly na enchiladas?",
+      "a": "Tradičně kukuřičné, ty v omáčce drží tvar. Pšeničné jsou měkčí a víc nasáknou, ale jsou snáz k sehnání."
+    },
+    {
+      "q": "Proč jsou enchiladas rozbředlé?",
+      "a": "Bylo v nich moc omáčky nebo se pekly zakryté. Omáčky stačí, aby tortilly zakryla, a péct se mají odkryté."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 500,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "fazole-cervene",
+      "amount": 400,
+      "unit": "g",
+      "note": "okapané",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "tortilly",
+      "amount": 8,
+      "unit": "ks",
+      "note": "střední",
+      "group": "Zapečení a podávání"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 200,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Zapečení a podávání"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 150,
+      "unit": "g",
+      "group": "Zapečení a podávání"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Zapečení a podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Kuře",
+      "text": "Kuřecí prsa vlož do hrnce, zalij vodou tak, aby byla ponořená, osol a vař na mírném ohni 15 minut. Nech je 5 minut v horké vodě, pak je vyndej a vidličkami natrhej na vlákna."
+    },
+    {
+      "section": "Omáčka",
+      "text": "V kastrolu rozehřej olej, vmíchej mouku a všechno koření s česnekem a za stálého míchání opékej minutu. Přilij passatu a vývar, rozšlehej, osol a vař 10 minut, dokud se omáčka lehce nezahustí."
+    },
+    {
+      "section": "Náplň",
+      "text": "Na pánvi na oleji zpěňuj cibuli 5 minut, přidej česnek, kmín, fazole a natrhané kuře. Osol, vmíchej 4 lžíce omáčky a krátce prohřej."
+    },
+    {
+      "section": "Zapečení",
+      "text": "Troubu předehřej na 200 °C. Dno zapékací mísy pokryj tenkou vrstvou omáčky."
+    },
+    {
+      "section": "Zapečení",
+      "text": "Na každou tortillu dej pruh náplně a trochu sýra, sroluj ji a polož spojem dolů do mísy. Enchiladas zalij zbylou omáčkou tak, aby byly okraje tortill zakryté, a posyp zbytkem sýra."
+    },
+    {
+      "section": "Zapečení",
+      "text": "Zapékej 20 minut, dokud sýr nebublá. Nech 5 minut odpočinout a podávej se zakysanou smetanou a koriandrem."
+    }
+  ],
+  "waitMinutes": 0
+}

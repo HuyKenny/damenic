@@ -1,0 +1,34 @@
+{
+  "name": "Masala Možná",
+  "category": "indicka",
+  "cuisine": "Indické pouliční jídlo",
+  "tagline": "Možná dnes, možná zítra. Spíš nikdy.",
+  "description": "Smyšlený stánek s indickým pouličním jídlem: samosy, cizrna, paneer a placky. Nic se tu nesmaží a nic nepřijede, objednávka je jen na zkoušku a recept je skutečný.",
+  "etaMinutes": 25,
+  "deliveryFee": 2900,
+  "minOrder": 14900,
+  "priceLevel": 1,
+  "hours": {
+    "open": "10:30",
+    "close": "21:00"
+  },
+  "tags": [
+    "bez masa",
+    "veganské",
+    "pikantní"
+  ],
+  "logo": {
+    "text": "MM",
+    "color": "#F2C94C",
+    "ink": "dark"
+  },
+  "sections": [
+    "Pouliční jídlo",
+    "Kari a rýže",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 75,
+  "pickup": true,
+  "cover": "rest-masala-mozna"
+}

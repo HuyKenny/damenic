@@ -80,5 +80,11 @@
     }
   ],
   "restaurant": "wok-nic-moc",
-  "image": "dish-udon-hovezi-zelenina"
+  "image": "dish-udon-hovezi-zelenina",
+  "allergens": [
+    1,
+    6,
+    11,
+    14
+  ]
 }

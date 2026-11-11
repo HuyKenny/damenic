@@ -1,0 +1,18 @@
+{
+  "name": "Supplì, 3 kusy",
+  "restaurant": "pinseria-ani-kousek",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Římské smažené rýžové krokety s rajčatovým rizotem a mozzarellou uvnitř.",
+  "price": 8900,
+  "image": "dish-suppli-ani-kousek",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 70
+}

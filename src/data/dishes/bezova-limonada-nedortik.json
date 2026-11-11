@@ -1,0 +1,16 @@
+{
+  "name": "Bezová limonáda",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Domácí bezový sirup, citron a perlivá voda s ledem, 0,4 l.",
+  "price": 5900,
+  "image": "dish-bezova-limonada-nedortik",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 100
+}

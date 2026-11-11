@@ -1,0 +1,118 @@
+{
+  "name": "Double smash cheeseburger",
+  "restaurant": "placka-nikam",
+  "kind": "main",
+  "section": "Smash burgery",
+  "description": "Dvě tenké hovězí placky rozmačkané na plotně, mezi nimi rozteklý cheddar, nakládané okurky a naše omáčka v bulce opečené na másle.",
+  "about": [
+    "Burger, kvůli kterému tohle bistro existuje. Studenou kouli mletého hovězího pokládáme na plotnu rozpálenou do kouře a hned ji rozmačkáme na půlcentimetrovou placku. Dvě minuty bez hnutí a vznikne tmavá křupavá kůrka.",
+    "Cheddar přidáváme až po obrácení, dvě placky skládáme na sebe a omáčku dáváme jen na horní bulku. Doma k tomu potřebuješ litinovou pánev a pevnou stěrku, nepřilnavá pánev na to nestačí."
+  ],
+  "price": 24900,
+  "image": "dish-smash-burger",
+  "recipe": "smash-burger",
+  "optionGroups": [
+    {
+      "id": "placky",
+      "name": "Počet placek",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "dve",
+          "name": "Dvě placky",
+          "priceDelta": 0
+        },
+        {
+          "id": "tri",
+          "name": "Tři placky",
+          "priceDelta": 5900
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bez",
+          "name": "Bez přílohy",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Domácí hranolky",
+          "priceDelta": 5900
+        },
+        {
+          "id": "krouzky",
+          "name": "Cibulové kroužky",
+          "priceDelta": 6900
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "slanina",
+          "name": "Slanina",
+          "priceDelta": 3500
+        },
+        {
+          "id": "cheddar",
+          "name": "Cheddar navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 2000
+        },
+        {
+          "id": "placka",
+          "name": "Placka navíc",
+          "priceDelta": 5900
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-okurek",
+          "name": "Bez okurek",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-omacky",
+          "name": "Bez omáčky",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-syra",
+          "name": "Bez sýra",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    3,
+    7,
+    10,
+    11
+  ],
+  "featured": true,
+  "order": 10
+}

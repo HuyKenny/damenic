@@ -1,0 +1,96 @@
+{
+  "name": "Pálivý smash s jalapeños",
+  "restaurant": "placka-nikam",
+  "kind": "main",
+  "section": "Smash burgery",
+  "description": "Dvě placky, cheddar, nakládané jalapeños a omáčka se srirachou místo klasické, v opečené bulce.",
+  "about": [
+    "Double smash pro ty, kdo chtějí, aby to štípalo. Jalapeños dáváme přímo na sýr, aby se trochu prohřála, a do omáčky přimícháváme srirachu.",
+    "Pálivost se dá ještě přidat, ne ubrat. Doma si do omáčky dávej srirachu po lžičkách."
+  ],
+  "price": 25900,
+  "image": "dish-smash-jalapenos-placka",
+  "recipe": "smash-burger",
+  "recipeNote": "Do omáčky přimíchej lžičku srirachy a na sýr dej plátky jalapeños",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "hodne",
+          "name": "Hodně pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bez",
+          "name": "Bez přílohy",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Domácí hranolky",
+          "priceDelta": 5900
+        },
+        {
+          "id": "krouzky",
+          "name": "Cibulové kroužky",
+          "priceDelta": 6900
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "slanina",
+          "name": "Slanina",
+          "priceDelta": 3500
+        },
+        {
+          "id": "cheddar",
+          "name": "Cheddar navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 2000
+        },
+        {
+          "id": "placka",
+          "name": "Placka navíc",
+          "priceDelta": 5900
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    1,
+    3,
+    7,
+    10,
+    11
+  ],
+  "order": 30
+}

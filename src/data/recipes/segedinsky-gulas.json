@@ -1,0 +1,150 @@
+{
+  "title": "Segedínský guláš",
+  "keywords": [
+    "segedínský guláš recept",
+    "segedín recept",
+    "recept na segedínský guláš",
+    "segedínský guláš s knedlíkem"
+  ],
+  "intro": "Čtyři porce vepřového dušeného s kysaným zelím a smetanou, hotové asi za dvě hodiny. Chuť dělá dozlatova opečená cibule a zelí, které se dusí s masem dost dlouho, aby změklo.",
+  "image": "dish-segedinsky-gulas",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 95,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "ingredients": [
+    {
+      "ingredient": "veprove-plecko",
+      "amount": 800,
+      "unit": "g",
+      "note": "na kostky asi 3 cm"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 300,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 600,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kysane-zeli",
+      "amount": 600,
+      "unit": "g"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Dokončení"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Dokončení"
+    },
+    {
+      "ingredient": "knedlik-houskovy",
+      "amount": 600,
+      "unit": "g",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Guláš",
+      "text": "V širokém hrnci rozehřej sádlo a cibuli na něm smaž na středním plameni asi 10 minut, dokud nezezlátne."
+    },
+    {
+      "section": "Guláš",
+      "text": "Přidej maso a za občasného míchání ho opékej 5 minut, aby ze všech stran zbělelo."
+    },
+    {
+      "section": "Guláš",
+      "text": "Hrnec stáhni z plotny, vmíchej papriku, kmín a prolisovaný česnek a hned zalij 400 ml vody. Paprika na horkém tuku bez tekutiny rychle zhořkne."
+    },
+    {
+      "section": "Guláš",
+      "text": "Přidej sůl, pepř a bobkový list, přiveď k varu, přiklop a dus na mírném plameni 45 minut."
+    },
+    {
+      "section": "Zelí",
+      "text": "Zelí ochutnej. Je-li hodně kyselé, krátce ho propláchni a vymačkej, pak ho nahrubo nakrájej."
+    },
+    {
+      "section": "Zelí",
+      "text": "Zelí vmíchej k masu, přilij zbylých 200 ml vody a dus pod poklicí dalších 40 až 45 minut, dokud maso i zelí nezměknou."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Smetanu rozšlehej s moukou do hladka, vlij ji do guláše a za míchání povař 5 až 8 minut. Dochuť solí a vylov bobkový list."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Knedlíky nakrájej, 5 minut je prohřej v páře a podávej je s gulášem."
+    }
+  ],
+  "tips": [
+    "Segedín je druhý den lepší. Uvař ho večer, nech vychladnout a ráno jen pomalu prohřej.",
+    "Kmín můžeš před přidáním nahrubo podrtit v hmoždíři, chuť se lépe rozloží v omáčce."
+  ],
+  "substitutions": [
+    "Místo vepřového plecka jde krkovice; libová kýta při dlouhém dušení vysychá.",
+    "Smetanu ke šlehání lze nahradit zakysanou smetanou. Rozmíchej ji s moukou a trochou horké šťávy z hrnce a pak už guláš nevař prudce."
+  ],
+  "faq": [
+    {
+      "q": "Jaké maso je nejlepší na segedínský guláš?",
+      "a": "Vepřové plecko nebo krkovice. Obsahují dost tuku a pojiva, takže zůstanou šťavnaté i po hodině a půl dušení."
+    },
+    {
+      "q": "Musí se zelí do segedínu proplachovat?",
+      "a": "Jen když je hodně kyselé. Propláchnuté zelí je mírnější, ale část chuti odteče s nálevem, takže ho zbytečně nepřeplachuj."
+    },
+    {
+      "q": "Jak dlouho vydrží segedínský guláš v lednici?",
+      "a": "V uzavřené nádobě 3 dny. Dá se i zamrazit, po rozmrazení ho ohřívej pomalu a míchej."
+    }
+  ]
+}

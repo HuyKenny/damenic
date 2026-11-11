@@ -1,0 +1,85 @@
+{
+  "name": "Kuře tikka masala",
+  "restaurant": "tandoor-nanecisto",
+  "kind": "main",
+  "section": "Kari",
+  "price": 23900,
+  "description": "Kousky kuřete grilované v jogurtové marinádě, v kořenité omáčce z opečené cibule, papriky a rajčat se smetanou.",
+  "about": [
+    "Tikka masala začíná na grilu. Kuřecí kostky si dvě hodiny poleží v jogurtu s kurkumou a kmínem a pak se pečou pod rozpáleným grilem, dokud nemají tmavé okraje. Teprve potom se ponoří do omáčky.",
+    "Omáčka je výraznější a hrubší než u máslového kuřete: víc cibule, paprika, pálivá paprika a jen tolik smetany, aby se chutě spojily. K ní patří rýže nebo naan na vytírání."
+  ],
+  "recipe": "kure-tikka-masala",
+  "image": "dish-kure-tikka-masala",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "ryze",
+          "name": "Rýže basmati",
+          "priceDelta": 0
+        },
+        {
+          "id": "naan",
+          "name": "Naan",
+          "priceDelta": 3900
+        },
+        {
+          "id": "ryze-naan",
+          "name": "Rýže i naan",
+          "priceDelta": 5900
+        }
+      ]
+    },
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "paprika",
+          "name": "Bez papriky",
+          "priceDelta": 0
+        },
+        {
+          "id": "koriandr",
+          "name": "Bez koriandru",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    7
+  ],
+  "order": 20
+}

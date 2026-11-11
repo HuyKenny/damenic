@@ -1,0 +1,43 @@
+{
+  "name": "Cheesecake s malinovou omáčkou",
+  "restaurant": "zitra-upecem",
+  "kind": "main",
+  "section": "Cheesecaky",
+  "description": "Kousek pečeného cheesecaku přelitý kyselou malinovou omáčkou z povařených malin.",
+  "about": [
+    "Maliny jsou k cheesecaku nejčastější doplněk, protože jejich kyselost vyrovná hustý sýrový krém. Omáčka se vaří jen pět minut a přidává se až těsně před podáváním.",
+    "Omáčky si můžeš přiobjednat víc. Doma ji uděláš klidně z mražených malin, výsledek je stejný."
+  ],
+  "price": 13900,
+  "image": "dish-cheesecake-maliny-upecem",
+  "recipe": "cheesecake",
+  "recipeNote": "Malinová omáčka je v tipech receptu.",
+  "optionGroups": [
+    {
+      "id": "omacka",
+      "name": "Omáčka",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "normal",
+          "name": "Normální porce",
+          "priceDelta": 0
+        },
+        {
+          "id": "dvojita",
+          "name": "Dvojitá porce",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 60
+}

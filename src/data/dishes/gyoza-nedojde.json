@@ -1,0 +1,58 @@
+{
+  "name": "Gyoza s vepřovým masem",
+  "restaurant": "ramen-nedojde",
+  "kind": "main",
+  "section": "Rýže a knedlíčky",
+  "description": "Japonské knedlíčky s vepřovou náplní a zelím, opečené dozlatova a dodělané v páře, se sójovým dipem.",
+  "about": [
+    "Gyoza mají dva povrchy: křupavý spodek z pánve a měkké vršky, které se dodělají v páře pod pokličkou.",
+    "Skládání záhybů chce trochu cviku, ale prvních deset kusů obvykle stačí. Syrové gyoza se dají zamrazit a péct rovnou z mrazáku."
+  ],
+  "price": 18900,
+  "image": "dish-gyoza-nedojde",
+  "recipe": "gyoza",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet kusů",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "8ks",
+          "name": "8 kusů",
+          "priceDelta": 0
+        },
+        {
+          "id": "12ks",
+          "name": "12 kusů",
+          "priceDelta": 7000
+        }
+      ]
+    },
+    {
+      "id": "dip",
+      "name": "Dip",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "sojovy",
+          "name": "Sójový s octem",
+          "priceDelta": 0
+        },
+        {
+          "id": "palivy",
+          "name": "Pálivý s chilli",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "order": 40
+}

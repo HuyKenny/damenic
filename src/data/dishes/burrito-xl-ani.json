@@ -1,0 +1,58 @@
+{
+  "name": "Burrito XL s kuřetem",
+  "restaurant": "tortillarna-ani-omylem",
+  "kind": "main",
+  "section": "Burrito a tacos",
+  "price": 22900,
+  "description": "Velká tortilla s dvojitou porcí kuřete, rajčatovou rýží, fazolemi a sýrem, opečená na pánvi.",
+  "about": [
+    "Burrito pro velký hlad. Stejná skladba jako klasika, rýže, fazole, kořeněné kuře a sýr, jen kuřete je dvakrát tolik.",
+    "S větší náplní je rolování těžší. Pomůže největší tortilla, jakou seženeš, a pevně utažený první obrat."
+  ],
+  "recipe": "burrito",
+  "image": "dish-burrito-xl-ani",
+  "optionGroups": [
+    {
+      "id": "salsa",
+      "name": "Salsa",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "pico",
+          "name": "Rajčatová",
+          "priceDelta": 0
+        },
+        {
+          "id": "palava",
+          "name": "Pálivá",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "guac",
+          "name": "Guacamole dovnitř",
+          "priceDelta": 3500
+        },
+        {
+          "id": "smetana",
+          "name": "Zakysaná smetana",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 40
+}

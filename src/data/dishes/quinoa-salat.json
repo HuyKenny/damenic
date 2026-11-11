@@ -1,0 +1,62 @@
+{
+  "name": "Quinoa salát s cizrnou a citronem",
+  "restaurant": "miska-nanecisto",
+  "kind": "main",
+  "section": "Studené misky",
+  "description": "Quinoa, cizrna, okurka, cherry rajčata, červená cibule, petrželka a máta v citronové zálivce s olivovým olejem, navrch balkánský sýr.",
+  "about": [
+    "Studená miska, která vydrží i do krabičky na druhý den. Cizrna z ní dělá plnohodnotné jídlo a bylinek je tolik, že salát voní ještě před otevřením.",
+    "Quinou proplachujeme, než ji uvaříme, jinak by byla nahořklá. Doma to je minuta pod tekoucí vodou a velký rozdíl v chuti."
+  ],
+  "price": 18900,
+  "image": "dish-quinoa-salat",
+  "recipe": "quinoa-salat",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mala",
+          "name": "Malá (300 g)",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (450 g)",
+          "priceDelta": 4500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-syra",
+          "name": "Bez balkánského sýra",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-cibule",
+          "name": "Bez cibule",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-maty",
+          "name": "Bez máty",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    7
+  ],
+  "order": 40
+}

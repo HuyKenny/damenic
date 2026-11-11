@@ -1,0 +1,16 @@
+{
+  "name": "Edamame se solí",
+  "restaurant": "sushi-bez-zrnka",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Mladé sójové boby v luscích, povařené a posypané hrubou solí.",
+  "price": 6900,
+  "image": "dish-edamame-zrnko",
+  "recipe": "edamame",
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    6
+  ],
+  "order": 80
+}

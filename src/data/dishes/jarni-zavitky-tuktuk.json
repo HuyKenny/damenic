@@ -1,0 +1,17 @@
+{
+  "name": "Smažené jarní závitky, 4 ks",
+  "restaurant": "zadny-tuk-tuk",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Čtyři křupavé závitky s vepřovou náplní a sladkokyselým dipem.",
+  "price": 8900,
+  "image": "dish-jarni-zavitky-tuktuk",
+  "recipe": "jarni-zavitky",
+  "allergens": [
+    1,
+    3,
+    4,
+    6
+  ],
+  "order": 80
+}

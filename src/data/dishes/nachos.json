@@ -1,0 +1,53 @@
+{
+  "name": "Nachos se sýrem a fazolemi",
+  "restaurant": "taqueria-nic-noveho",
+  "kind": "main",
+  "section": "Burrito a další",
+  "price": 15900,
+  "description": "Tortilla chipsy zapečené ve dvou vrstvách se sýrem, kořeněnými fazolemi a jalapeños, navrch salsa a zakysaná smetana.",
+  "about": [
+    "Nachos na sdílení, nebo taky ne. Chipsy se vrství se sýrem a fazolemi dvakrát, aby každý kousek něco nesl, a zapečou se jen do roztečení sýra.",
+    "Salsa a smetana přicházejí až po upečení, studené. Jsou bez masa; s mletým hovězím je najdeš jinde."
+  ],
+  "recipe": "nachos",
+  "image": "dish-nachos",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "normal",
+          "name": "Pro jednoho",
+          "priceDelta": 0
+        },
+        {
+          "id": "sdileni",
+          "name": "Na sdílení",
+          "priceDelta": 8900
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "guac",
+          "name": "Guacamole",
+          "priceDelta": 3500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 2,
+  "allergens": [
+    7
+  ],
+  "order": 50
+}

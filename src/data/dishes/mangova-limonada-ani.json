@@ -1,0 +1,15 @@
+{
+  "name": "Mangová limonáda 0,4 l",
+  "restaurant": "tortillarna-ani-omylem",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 5500,
+  "description": "Mangové pyré s limetkou a perlivou vodou.",
+  "recipe": null,
+  "image": "dish-mangova-limonada-ani",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 90
+}

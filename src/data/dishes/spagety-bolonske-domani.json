@@ -1,0 +1,60 @@
+{
+  "name": "Špagety s boloňským ragú",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Těstoviny a lasagne",
+  "description": "Špagety s hustou omáčkou z mletého hovězího, zeleniny, vína a mléka, vařenou dvě hodiny. Posypané parmazánem.",
+  "about": [
+    "Skutečná boloňská omáčka není rychlá rajčatová omáčka s masem. Je to ragú, ve kterém maso s cibulí, mrkví a celerem pomalu měkne ve víně, rajčatech a mléce, dokud se všechno nespojí.",
+    "V Bologni by ti ho naservírovali s tagliatelle. My zůstáváme u špaget, protože je máš doma, a recept funguje stejně dobře s jakýmikoli širšími těstovinami."
+  ],
+  "price": 21900,
+  "image": "dish-spagety-bolonske-domani",
+  "recipe": "spagety-bolonske",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná (350 g)",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (500 g)",
+          "priceDelta": 4500
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "parmazan",
+          "name": "Parmazán navíc",
+          "priceDelta": 3000
+        },
+        {
+          "id": "chilli",
+          "name": "Chilli vločky",
+          "priceDelta": 500
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    7,
+    9,
+    12
+  ],
+  "order": 30
+}

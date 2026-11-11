@@ -1,0 +1,130 @@
+{
+  "title": "Palačinky",
+  "keywords": [
+    "palačinky recept",
+    "recept na palačinky",
+    "těsto na palačinky",
+    "tenké palačinky"
+  ],
+  "intro": "Asi dvanáct tenkých palačinek na pánev o průměru 24 cm, plněných džemem, za hodinu i s odpočinkem těsta. Záleží na hladkém těstě, které chvíli odpočívá, a na dobře rozpálené pánvi.",
+  "image": "dish-palacinky",
+  "category": "palacinky",
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "u slaných palačinek vynech",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "2 do těsta, 2 na pánev",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "dzem-merunkovy",
+      "amount": 200,
+      "unit": "g",
+      "note": "nebo jiný džem",
+      "group": "Plnění"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na posypání",
+      "group": "Plnění"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Do mísy dej mouku, sůl a cukr. Přilij asi třetinu mléka a metlou vyšlehej husté, úplně hladké těsto bez hrudek."
+    },
+    {
+      "section": "Těsto",
+      "text": "Postupně přimíchej zbylé mléko, pak vejce a 2 lžíce oleje. Těsto má být řídké jako smetana."
+    },
+    {
+      "section": "Těsto",
+      "text": "Nech těsto 30 minut odpočinout při pokojové teplotě. Před smažením ho promíchej."
+    },
+    {
+      "section": "Smažení",
+      "text": "Pánev rozpal na středně vysokém plameni a potři ji tence olejem, nejlépe kouskem papírové utěrky."
+    },
+    {
+      "section": "Smažení",
+      "text": "Nalij asi 60 ml těsta, pánví hned zakruž, aby se rozlilo do tenké vrstvy po celém dně."
+    },
+    {
+      "section": "Smažení",
+      "text": "Smaž asi minutu, dokud se okraje nezačnou zvedat a spodek nemá zlaté skvrny. Obrať a smaž ještě 30 sekund."
+    },
+    {
+      "section": "Smažení",
+      "text": "Hotové palačinky skládej na talíř a přikryj je pokličkou, aby nevychladly a nevysychaly. Pánev před každou další palačinkou jen lehce přetři olejem."
+    },
+    {
+      "section": "Podávání",
+      "text": "Každou palačinku potři lžící džemu, sroluj nebo slož do čtverce a posyp moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "První palačinka se často nepovede, pánev se teprve srovnává na teplotu. Podle ní uprav množství těsta.",
+    "Je-li těsto po odpočinku husté, zřeď ho 2 až 3 lžícemi mléka."
+  ],
+  "substitutions": [
+    "Část mléka můžeš nahradit perlivou vodou, palačinky budou tenčí a křehčí.",
+    "Na slané palačinky vynech cukr a plň je třeba šunkou se sýrem nebo špenátem s balkánským sýrem.",
+    "Místo džemu se hodí tvaroh utřený s cukrem, ovoce se šlehačkou nebo čokoládová pomazánka."
+  ],
+  "faq": [
+    {
+      "q": "Proč se palačinky trhají?",
+      "a": "Těsto neodpočinulo, palačinka je příliš tenká nebo se obrací moc brzy. Nech těsto 30 minut stát a obracej až ve chvíli, kdy se okraje samy zvedají od pánve."
+    },
+    {
+      "q": "Proč se palačinky lepí na pánev?",
+      "a": "Pánev není dost rozpálená nebo promaštěná. Rozpal ji předem a potři ji olejem před každou palačinkou."
+    },
+    {
+      "q": "Jak dlouho vydrží těsto na palačinky?",
+      "a": "V uzavřené nádobě v lednici do druhého dne. Před použitím ho promíchej a případně zřeď mlékem."
+    }
+  ],
+  "vegetarian": true
+}

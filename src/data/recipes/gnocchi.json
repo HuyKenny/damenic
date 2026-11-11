@@ -1,0 +1,147 @@
+{
+  "title": "Gnocchi",
+  "keywords": [
+    "gnocchi recept",
+    "domácí gnocchi",
+    "bramborové gnocchi",
+    "gnocchi s rajčatovou omáčkou"
+  ],
+  "image": "dish-gnocchi",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 50,
+  "cookMinutes": 40,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "intro": "Domácí bramborové gnocchi s jednoduchou rajčatovou omáčkou pro čtyři. Práce je kolem 50 minut, brambory se mezitím vaří; vláčné budou, když vezmeš moučné brambory a do těsta dáš jen tolik mouky, kolik je nutné.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 1000,
+      "unit": "g",
+      "note": "moučné, varný typ C, podobné velikosti",
+      "group": "Gnocchi"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "note": "zhruba, podle brambor; plus na podsypání",
+      "group": "Gnocchi"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen žloutek",
+      "group": "Gnocchi"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do těsta",
+      "group": "Gnocchi"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na vaření",
+      "group": "Gnocchi"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na plátky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "hrst lístků",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Gnocchi",
+      "text": "Brambory ve slupce dej do studené osolené vody, přiveď k varu a vař 30 až 40 minut, dokud do nich nůž nezajede bez odporu."
+    },
+    {
+      "section": "Gnocchi",
+      "text": "Ještě horké brambory oloupej a prolis lisem nebo propasíruj na pomoučený vál. Rozprostři je a nech 5 minut odpařit, aby nebyly mokré."
+    },
+    {
+      "section": "Gnocchi",
+      "text": "Na vlažné brambory dej sůl, žloutek a asi tři čtvrtiny mouky a rychle je spoj v měkké, lehce lepivé těsto. Zbylou mouku přidávej jen tehdy, když se těsto lepí k rukám. Nehněť ho dlouho, ztuhlo by."
+    },
+    {
+      "section": "Gnocchi",
+      "text": "Těsto rozděl na části a vyválej z nich válečky silné asi 2 cm. Nakrájej je na kousky dlouhé 2 cm a můžeš je přetáhnout přes vidličku, aby měly rýhy. Kladni je na pomoučený plech, ne na sebe."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Na omáčku zahřej olej s česnekem, až česnek začne zlátnout. Přilij passatu, osol a na mírném plameni vař 15 minut. Na konci přidej natrhanou bazalku."
+    },
+    {
+      "section": "Vaření",
+      "text": "Ve velkém hrnci přiveď k varu osolenou vodu. Gnocchi do ní vkládej po dávkách a vař, dokud nevyplavou na hladinu, a pak ještě 30 vteřin. Vylov je děrovanou naběračkou."
+    },
+    {
+      "section": "Vaření",
+      "text": "Uvařené gnocchi rovnou přendej do omáčky, šetrně je promíchej a podávej posypané parmazánem."
+    }
+  ],
+  "tips": [
+    "Na másle: místo rajčat rozpusť 60 g másla, nech ho lehce zhnědnout, obal v něm gnocchi a posyp parmazánem a pepřem.",
+    "Syrové gnocchi zamraz rozložené na plechu a pak je přesyp do sáčku. Vař je zmrzlé, o minutu déle.",
+    "Udělej si nejdřív jeden zkušební kus. Když se ve vodě rozpadá, přidej do těsta ještě trochu mouky."
+  ],
+  "substitutions": [
+    "Žloutek můžeš vynechat, gnocchi budou jen o něco křehčí a měkčí.",
+    "Místo rajčatové omáčky se hodí pesto podle receptu na těstoviny s pestem."
+  ],
+  "faq": [
+    {
+      "q": "Proč se gnocchi při vaření rozpadají?",
+      "a": "Brambory byly mokré nebo je v těstě málo mouky. Brambory vař ve slupce, nech je po prolisování odpařit a uvař si nejdřív zkušební kus."
+    },
+    {
+      "q": "Proč jsou gnocchi tuhé a gumové?",
+      "a": "V těstě je moc mouky nebo se dlouho hnětlo. Spoj ho jen krátce a mouku přidávej po troškách."
+    },
+    {
+      "q": "Jaké brambory jsou na gnocchi nejlepší?",
+      "a": "Moučné brambory, varný typ C, případně B. Jsou sušší a potřebují méně mouky než salátové."
+    }
+  ]
+}

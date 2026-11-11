@@ -1,0 +1,64 @@
+{
+  "name": "Fusilli s bazalkovým pestem",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Klasiky",
+  "description": "Vřetena těstovin s pestem z čerstvé bazalky, opražených piniových oříšků, parmazánu a olivového oleje.",
+  "about": [
+    "Pesto se míchá ze syrových surovin a do těstovin přichází až mimo plotnu, takže nejde schovat nic. Když je bazalka čerstvá a oříšky opražené, stačí to.",
+    "Fusilli volíme proto, že pesto se chytá do závitů. Doma můžeš použít penne nebo jakékoli krátké těstoviny, recept počítá s tím, co seženeš v obchodě."
+  ],
+  "price": 18900,
+  "image": "dish-pesto-niente",
+  "recipe": "testoviny-s-pestem",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná (350 g)",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (500 g)",
+          "priceDelta": 4000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "parmazan",
+          "name": "Parmazán navíc",
+          "priceDelta": 3000
+        },
+        {
+          "id": "rajcata",
+          "name": "Cherry rajčata",
+          "priceDelta": 2500
+        },
+        {
+          "id": "mozzarella",
+          "name": "Mini mozzarelly",
+          "priceDelta": 3500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 20
+}

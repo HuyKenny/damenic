@@ -8,5 +8,6 @@
   "order": 90,
   "description": "Neperlivá pramenitá voda v láhvi. Jediná položka, která je skoro tak prázdná jako naše taška.",
   "restaurant": "prazdna-pec",
-  "image": "dish-voda-neperliva"
+  "image": "dish-voda-neperliva",
+  "allergens": []
 }

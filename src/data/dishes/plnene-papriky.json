@@ -1,0 +1,59 @@
+{
+  "name": "Plněné papriky v rajské",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Zelené papriky plněné směsí hovězího a vepřového masa s rýží, vařené ve sladkokyselé rajské omáčce.",
+  "about": [
+    "Plněné papriky jsou letní hospodské jídlo, které se vaří ve velkém hrnci a voní po celém domě. Náplň je jednoduchá: dvě mletá masa, předvařená rýže, cibule a vejce. Papriky se do omáčky kladou otvorem nahoru a vaří se pomalu, aby nepopraskaly.",
+    "Omáčka se dochucuje až na konci cukrem a octem, protože papriky do ní pustí vlastní šťávu. Kuličky z náplně, které se do paprik nevešly, se vaří s nimi a k jídlu patří stejně jako papriky."
+  ],
+  "price": 20900,
+  "image": "dish-plnene-papriky",
+  "recipe": "plnene-papriky",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standard",
+          "name": "Dvě papriky",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Tři papriky",
+          "priceDelta": 5900
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "ryze",
+          "name": "Dušená rýže",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 40
+}

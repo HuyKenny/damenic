@@ -1,0 +1,43 @@
+{
+  "name": "Tom kha s tofu a houbami",
+  "restaurant": "kokos-nedorazil",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Kokosová polévka s galangalem a citronovou trávou, s tofu, žampiony a sójovou omáčkou místo rybí.",
+  "about": [
+    "Verze bez masa a bez ryb: kuře nahradí tofu, kuřecí vývar zeleninový a rybí omáčku sójová.",
+    "Aromatický základ zůstává stejný, takže polévka chutná podobně. Tofu přidávej až na posledních pět minut."
+  ],
+  "price": 17900,
+  "image": "dish-tom-kha-tofu-kokos",
+  "recipe": "tom-kha-gai",
+  "recipeNote": "Podle substitucí v receptu: tofu místo kuřete, zeleninový vývar a sójová omáčka místo rybí.",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "05",
+          "name": "0,5 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "08",
+          "name": "0,8 l",
+          "priceDelta": 5000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 1,
+  "allergens": [
+    1,
+    6
+  ],
+  "order": 20
+}

@@ -1,0 +1,209 @@
+{
+  "title": "Burrito s kuřetem a fazolemi",
+  "keywords": [
+    "burrito recept",
+    "domácí burrito",
+    "burrito s kuřecím masem",
+    "burrito s rýží a fazolemi"
+  ],
+  "intro": "Čtyři velká burrita s kořeněným kuřetem, rajčatovou rýží, fazolemi a sýrem, hotová asi za hodinu a pět minut. Aby se burrito nerozpadlo, rozhoduje nahřátá placka a náplň bez přebytečné šťávy.",
+  "image": "dish-burrito",
+  "category": "mexicka",
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 25,
+  "difficulty": "střední",
+  "tips": [
+    "Placka musí být teplá a pružná. Studená se při rolování trhá.",
+    "Burrito drží lépe, když dáš sýr přímo na teplé maso: roztaje a náplň slepí.",
+    "Zabalená burrita do alobalu vydrží teplá asi půl hodiny."
+  ],
+  "substitutions": [
+    "Kuře můžeš nahradit mletým hovězím připraveným jako na tacos.",
+    "Na bezmasou verzi zdvojnásob fazole a přidej opečenou papriku a kukuřici."
+  ],
+  "faq": [
+    {
+      "q": "Jak zabalit burrito, aby se nerozpadlo?",
+      "a": "Náplň dej do dolní třetiny, spodní okraj pevně přetáhni a utáhni, přehni boky a pak roluj. Nakonec ho opeč spojem dolů, tím se zatavení zpevní."
+    },
+    {
+      "q": "Jde burrito zamrazit?",
+      "a": "Ano, bez salátu, rajčat a smetany. Zabal ho do alobalu, zamraz a ohřívej v troubě na 180 °C asi 30 minut."
+    },
+    {
+      "q": "Jaký sýr do burrita?",
+      "a": "Hodí se sýr, který se dobře taví: eidam, gouda, cheddar nebo jejich směs."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 500,
+      "unit": "g",
+      "note": "na nudličky",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 200,
+      "unit": "g",
+      "note": "propraná",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 350,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "fazole-cervene",
+      "amount": 400,
+      "unit": "g",
+      "note": "okapané",
+      "group": "Fazole"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Fazole"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Fazole"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 50,
+      "unit": "ml",
+      "group": "Fazole"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Fazole"
+    },
+    {
+      "ingredient": "tortilly",
+      "amount": 4,
+      "unit": "ks",
+      "note": "velké, asi 30 cm",
+      "group": "Do placky"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Do placky"
+    },
+    {
+      "ingredient": "ledovy-salat",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "na proužky",
+      "group": "Do placky"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Do placky"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 150,
+      "unit": "g",
+      "group": "Do placky"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže",
+      "text": "Do hrnce dej rýži, protlak, vodu a sůl, přiveď k varu, přiklop a vař na nejmenším plameni 12 minut. Odstav a nech 10 minut dojít pod poklicí."
+    },
+    {
+      "section": "Kuře",
+      "text": "Kuře promíchej s polovinou oleje, kořením, česnekem a solí. Na rozpálené pánvi ho opékej se zbylým olejem 7 až 8 minut, dokud není propečené a opečené. Pokapej limetkou."
+    },
+    {
+      "section": "Fazole",
+      "text": "Fazole dej do kastrolku s olejem, kmínem a vodou, prohřej a nahrubo je rozmačkej. Mají být hustá kaše, ne polévka."
+    },
+    {
+      "section": "Skládání",
+      "text": "Tortillu nahřej na suché pánvi 20 sekund z každé strany. Do dolní třetiny dej pruh rýže, fazolí, kuřete, sýra, salátu, rajčat a lžíci smetany; nepřeplňuj ji."
+    },
+    {
+      "section": "Skládání",
+      "text": "Spodní okraj přetáhni přes náplň a utáhni ho, přehni boky dovnitř a sroluj placku pevně až do konce."
+    },
+    {
+      "section": "Skládání",
+      "text": "Hotová burrita polož spojem dolů na suchou pánev a opékej 1 až 2 minuty z každé strany, aby se zatavila a sýr se rozpustil."
+    }
+  ],
+  "waitMinutes": 0
+}

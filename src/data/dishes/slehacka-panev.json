@@ -1,0 +1,17 @@
+{
+  "name": "Porce šlehačky",
+  "restaurant": "prazdna-panev",
+  "kind": "side",
+  "section": "Přidat k tomu",
+  "description": "Velká lžíce smetany vyšlehané nadoraz, k palačince, kterou si upečeš sám.",
+  "price": 2900,
+  "image": "dish-slehacka-panev",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 70
+}

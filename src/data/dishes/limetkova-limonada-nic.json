@@ -1,0 +1,15 @@
+{
+  "name": "Limetková limonáda 0,4 l",
+  "restaurant": "taqueria-nic-noveho",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 4900,
+  "description": "Limetková šťáva, cukr, perlivá voda a led.",
+  "recipe": null,
+  "image": "dish-limetkova-limonada-nic",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 100
+}

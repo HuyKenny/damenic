@@ -1,0 +1,172 @@
+{
+  "title": "Shakshuka",
+  "keywords": [
+    "shakshuka recept",
+    "šakšuka",
+    "vejce v rajčatové omáčce",
+    "shakshuka s fetou"
+  ],
+  "intro": "Dvě porce shakshuky, vajec pošírovaných v kořeněné rajčatové omáčce s paprikou, za 40 minut v jedné pánvi. Chuť stojí na pořádně podušené zelenině a vejcích, která zůstanou se žloutkem tekutým.",
+  "image": "dish-shakshuka",
+  "category": "snidane",
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 18,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "podle chuti",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "note": "1 plechovka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Vejce a podávání"
+    },
+    {
+      "ingredient": "feta",
+      "amount": 60,
+      "unit": "g",
+      "group": "Vejce a podávání"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Vejce a podávání"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 200,
+      "unit": "g",
+      "note": "na vytírání",
+      "group": "Vejce a podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Omáčka",
+      "text": "Cibuli nakrájej nadrobno, papriku na tenké proužky a česnek na plátky."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Na pánvi o průměru asi 26 cm rozehřej olej a cibuli s paprikou na něm duste 8 až 10 minut na středním plameni, dokud nezměknou a lehce nezezlátnou."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Přidej česnek, římský kmín, obě papriky a chilli a minutu restuj, aby koření provonělo, ale nepřipálilo se."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Vsyp rajčata, rozmačkej je vařečkou, osol, přidej špetku cukru a pepř. Duste odkryté 10 minut, dokud omáčka nezhoustne natolik, že po lžíci v ní zůstane stopa."
+    },
+    {
+      "section": "Vejce",
+      "text": "Lžící udělej v omáčce čtyři důlky a do každého rozklepni vejce. Bílky lehce osol."
+    },
+    {
+      "section": "Vejce",
+      "text": "Pánev přikryj a na mírném plameni vař 5 až 8 minut, dokud bílky neztuhnou a žloutky zůstanou tekuté. Kontroluj od páté minuty."
+    },
+    {
+      "section": "Vejce",
+      "text": "Posyp rozdrobenou fetou a nasekanou petrželkou a podávej rovnou v pánvi s chlebem."
+    }
+  ],
+  "tips": [
+    "Omáčku můžeš uvařit až o tři dny dřív a nechat v lednici; vejce do ní dávej až při ohřívání.",
+    "Pánev s poklicí je důležitá. Bez ní se bílky nahoře nesrazí dřív, než žloutky ztuhnou."
+  ],
+  "substitutions": [
+    "Loupaná rajčata nahradíš 500 g zralých čerstvých rajčat nakrájených na kostky; duste je o 5 minut déle.",
+    "Fetu můžeš vynechat nebo nahradit lžící řeckého jogurtu.",
+    "Petrželku vyměníš za čerstvý koriandr."
+  ],
+  "faq": [
+    {
+      "q": "Jak poznat, že jsou vejce v shakshuce hotová?",
+      "a": "Bílek je bílý a pevný až ke žloutku a žloutek se při zatřesení pánví ještě chvěje. Pevný žloutek dostaneš asi po 10 minutách pod poklicí."
+    },
+    {
+      "q": "Dá se shakshuka připravit předem?",
+      "a": "Rajčatový základ ano, v lednici vydrží 3 dny. Vejce do něj dávej až při ohřívání, hotová vejce se ohřevem přepečou."
+    },
+    {
+      "q": "Musí být shakshuka pálivá?",
+      "a": "Nemusí. Chilli dodává jen lehkou pálivost a dá se vynechat; hlavní chuť dělá kmín, paprika a rajčata."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Ovocný salát s mátou",
+  "restaurant": "na-lacno",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Nakrájené sezonní ovoce s limetkou a pár lístky máty.",
+  "price": 7900,
+  "image": "dish-ovocny-salat-lacno",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 80
+}

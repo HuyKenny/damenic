@@ -1,0 +1,65 @@
+{
+  "name": "Samosa chaat s cizrnou a jogurtem",
+  "restaurant": "masala-mozna",
+  "kind": "main",
+  "section": "Pouliční jídlo",
+  "price": 15900,
+  "description": "Rozlámané samosy přelité cizrnovým kari, jogurtem, mátovým čatní, cibulí a koriandrem.",
+  "about": [
+    "Chaat je indické pouliční jídlo, které se jí lžící. Samosy se rozlámou do misky, přelijí horkou cizrnou v omáčce a navrch přijde studený jogurt, čatní a syrová cibule.",
+    "Teplé a studené, křupavé a krémové v jedné misce. Doma využiješ dva recepty najednou: samosy a chana masalu."
+  ],
+  "recipe": "samosa",
+  "recipeNote": "Recept je na samosy; navrch dej chana masalu, bílý jogurt a nakrájenou cibuli.",
+  "image": "dish-samosa-chaat-mozna",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cibule",
+          "name": "Bez cibule",
+          "priceDelta": 0
+        },
+        {
+          "id": "jogurt",
+          "name": "Bez jogurtu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 2,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 20
+}

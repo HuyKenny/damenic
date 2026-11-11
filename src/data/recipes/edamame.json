@@ -1,0 +1,109 @@
+{
+  "title": "Edamame",
+  "category": "sushi",
+  "servings": 2,
+  "activeMinutes": 5,
+  "cookMinutes": 8,
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "keywords": [
+    "edamame recept",
+    "jak uvařit edamame",
+    "edamame se solí",
+    "edamame s česnekem a chilli"
+  ],
+  "intro": "Edamame v luscích se solí jako příloha pro dva za čtvrt hodiny, s variantou na česneku a chilli. Stačí je krátce povařit v osolené vodě a nepřevařit, aby zrna zůstala pevná.",
+  "ingredients": [
+    {
+      "ingredient": "edamame",
+      "amount": 400,
+      "unit": "g",
+      "note": "mražené v luscích",
+      "group": "Se solí"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "group": "Se solí"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody",
+      "group": "Se solí"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "hrubá, na posypání",
+      "group": "Se solí"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Varianta s česnekem"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Varianta s česnekem"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Varianta s česnekem"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Varianta s česnekem"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Se solí",
+      "text": "Vodu se lžící soli přiveď k varu, vsyp do ní mražené lusky a vař je 4 až 5 minut od opětovného varu, nebo podle obalu."
+    },
+    {
+      "section": "Se solí",
+      "text": "Ochutnej jedno zrno: má být měkké, ale pevné. Lusky sceď a nech je chvíli odpařit."
+    },
+    {
+      "section": "Se solí",
+      "text": "Ještě teplé je promíchej s hrubou solí a podávej. Jí se tak, že se zrna vymačkají z lusku zuby, samotný lusk se nejí."
+    },
+    {
+      "section": "Varianta s česnekem",
+      "text": "Varianta s česnekem: na pánvi rozehřej sezamový olej, nasekaný česnek a chilli v něm restuj 30 sekund, přidej scezené lusky a sójovou omáčku a minutu je promíchávej."
+    }
+  ],
+  "tips": [
+    "Sůl dej na lusky, dokud jsou teplé a vlhké, lépe na nich drží.",
+    "Některá edamame se prodávají předvařená. Ta stačí vařit 2 až 3 minuty."
+  ],
+  "substitutions": [
+    "Vyloupaná edamame bez lusků vař jen 3 minuty a použij je do salátu nebo misky s rýží."
+  ],
+  "faq": [
+    {
+      "q": "Jí se lusky edamame?",
+      "a": "Ne. Lusk je tuhý a vláknitý, jí se jen zrna, která se z něj vymačkají zuby nebo prsty."
+    },
+    {
+      "q": "Jak dlouho vařit mražené edamame?",
+      "a": "Obvykle 4 až 5 minut od opětovného varu vody. Předvařená mražená edamame stačí 2 až 3 minuty, podle obalu."
+    },
+    {
+      "q": "Dají se edamame jíst syrová?",
+      "a": "Ne, edamame jsou mladé sójové boby a jedí se tepelně upravené. Stačí je krátce povařit nebo spařit."
+    }
+  ],
+  "image": "dish-edamame"
+}

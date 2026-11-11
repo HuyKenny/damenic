@@ -1,0 +1,60 @@
+{
+  "name": "Falafel v pitě s tahini",
+  "restaurant": "prazdna-misa",
+  "kind": "main",
+  "section": "Shawarma",
+  "price": 15900,
+  "description": "Smažené cizrnové placičky s petrželkou a kmínem v pitě, s tahini omáčkou, rajčaty, okurkou a červeným zelím.",
+  "about": [
+    "Falafel je v Libanonu stejně samozřejmý jako shawarma. Cizrnová směs s petrželkou, cibulí a kořením se tvaruje do placiček a smaží dokřupava.",
+    "Bez masa a bez mléčných výrobků, omáčka je čistě z tahini, citronu a česneku. Uvnitř zůstává zelený a vláčný, venku křupe."
+  ],
+  "recipe": "falafel-v-pite",
+  "image": "dish-falafel-tahini-misa",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet falafelů",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "4",
+          "name": "4 kusy",
+          "priceDelta": 0
+        },
+        {
+          "id": "6",
+          "name": "6 kusů",
+          "priceDelta": 3500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "zeli",
+          "name": "Bez zelí",
+          "priceDelta": 0
+        },
+        {
+          "id": "rajcat",
+          "name": "Bez rajčat",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    11
+  ],
+  "order": 30
+}

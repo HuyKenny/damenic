@@ -1,0 +1,66 @@
+{
+  "name": "Švestkové kynuté knedlíky",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Sladké jídlo",
+  "description": "Kynuté knedlíky s celou švestkou uvnitř, sypané tvarohem a moučkovým cukrem a přelité rozpuštěným máslem.",
+  "about": [
+    "Sladké jídlo k obědu je v české jídelně normální a švestkové knedlíky jsou jeho vrchol. Kynuté těsto se obalí kolem vypeckované švestky, nechá se dokynout a vaří se pod poklicí, aby nahoře nezůstalo syrové.",
+    "Po vyndání se hned propíchnou, aby nesplaskly. Tvaroh, cukr a máslo jsou základ, mák nebo perník si může každý vybrat podle sebe."
+  ],
+  "price": 14900,
+  "image": "dish-ovocne-knedliky",
+  "recipe": "ovocne-knedliky",
+  "recipeNote": "Recept je na knedlíky se švestkami a tvarohem; mák a perník jsou v náhradách.",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet kusů",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "ctyri",
+          "name": "Čtyři kusy",
+          "priceDelta": 0
+        },
+        {
+          "id": "sest",
+          "name": "Šest kusů",
+          "priceDelta": 4000
+        }
+      ]
+    },
+    {
+      "id": "posyp",
+      "name": "Posypání",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "tvaroh",
+          "name": "Tvaroh a cukr",
+          "priceDelta": 0
+        },
+        {
+          "id": "mak",
+          "name": "Mák a cukr",
+          "priceDelta": 0
+        },
+        {
+          "id": "pernik",
+          "name": "Strouhaný perník",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 60
+}

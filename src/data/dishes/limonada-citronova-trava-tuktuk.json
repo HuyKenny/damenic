@@ -1,0 +1,14 @@
+{
+  "name": "Limonáda s citronovou trávou 0,4 l",
+  "restaurant": "zadny-tuk-tuk",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Perlivá limonáda s citronovou trávou, limetkou a třtinovým cukrem.",
+  "price": 5900,
+  "image": "dish-limonada-citronova-trava-tuktuk",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 100
+}

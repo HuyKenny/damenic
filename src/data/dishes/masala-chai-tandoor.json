@@ -1,0 +1,16 @@
+{
+  "name": "Masala chai 0,3 l",
+  "restaurant": "tandoor-nanecisto",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 5900,
+  "description": "Černý čaj vařený s mlékem, zázvorem, kardamomem a skořicí.",
+  "recipe": null,
+  "image": "dish-masala-chai-tandoor",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 100
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Máslové kuře s rýží",
+  "restaurant": "kari-nikde",
+  "kind": "main",
+  "section": "Kari",
+  "price": 19900,
+  "description": "Kuře v rajčatové omáčce s máslem, smetanou a garam masalou, k tomu rýže basmati. Jemné, skoro nepálivé.",
+  "about": [
+    "Máslové kuře je kari na první objednávku: krémové, jemně kořeněné a bez ostré pálivosti. Maso se marinuje v jogurtu a před dušením se opeče, aby mělo v omáčce chuť.",
+    "Rýže je v ceně a porce je vydatná. Kdo chce víc ohně, přidá si pálivost, ale omáčka se tím mění víc, než by člověk čekal."
+  ],
+  "recipe": "butter-chicken",
+  "image": "dish-maslove-kure-nikde",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "naan",
+          "name": "Naan",
+          "priceDelta": 4500
+        },
+        {
+          "id": "kure",
+          "name": "Kuře navíc",
+          "priceDelta": 5900
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    7
+  ],
+  "order": 10
+}

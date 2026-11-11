@@ -1,0 +1,121 @@
+{
+  "title": "Bramboráky",
+  "keywords": [
+    "bramboráky recept",
+    "recept na bramboráky",
+    "domácí bramboráky",
+    "křupavé bramboráky"
+  ],
+  "intro": "Asi čtrnáct tenkých bramboráků s česnekem a majoránkou za necelou hodinu. Výsledek závisí hlavně na tom, jak dobře vymačkáš strouhané brambory a jestli je tuk na pánvi dost horký.",
+  "image": "dish-bramboraky",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 50,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 1000,
+      "unit": "g",
+      "note": "moučné (typ C), oloupané"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mouka-hruba",
+      "amount": 100,
+      "unit": "g",
+      "note": "podle vlhkosti těsta i víc"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "mletý nebo nadrcený, volitelně"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 150,
+      "unit": "g",
+      "note": "na smažení, průběžně doplňovat"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Brambory nastrouhej na jemné straně struhadla. Hmotu po hrstech pořádně vymačkej nad miskou a vymačkané brambory dávej do jiné mísy."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vymačkanou tekutinu nech 5 minut stát, opatrně ji slij a bílý škrob, který zůstal na dně misky, vrať k bramborám. Drží těsto pohromadě."
+    },
+    {
+      "section": "Těsto",
+      "text": "Přidej vejce, prolisovaný česnek, majoránku rozemnutou mezi dlaněmi, kmín, sůl a pepř a vše promíchej."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vmíchej mouku po částech. Těsto má být husté jako hustá kaše a z lžíce má jen pomalu stékat; je-li řídké, přidej lžíci nebo dvě mouky."
+    },
+    {
+      "section": "Smažení",
+      "text": "V pánvi rozehřej na středně vysokém plameni sádlo do výšky asi 3 mm. Nalij do něj dvě lžíce těsta a rozprostři ho na placku silnou 3 až 4 mm."
+    },
+    {
+      "section": "Smažení",
+      "text": "Smaž 3 až 4 minuty, dokud okraje nejsou tmavě zlaté a křupavé, pak obrať a smaž stejně dlouho z druhé strany. Obracej jen jednou."
+    },
+    {
+      "section": "Smažení",
+      "text": "Hotové bramboráky dávej na papírovou utěrku a udržuj je teplé v troubě na 80 °C. Tuk mezi dávkami doplňuj a těsto vždy promíchej, protože se z něj odděluje tekutina."
+    }
+  ],
+  "tips": [
+    "Nastrouhané brambory rychle tmavnou. Struhej je až těsně před míšením a těsto usmaž hned, nenechávej ho stát.",
+    "Tenčí bramborák je křupavější. Silné placky zůstanou uvnitř mazlavé, i když jsou zvenku hotové.",
+    "Na chuť přidej do těsta 100 g nadrobno nakrájeného uzeného masa nebo osmahnuté slaniny."
+  ],
+  "substitutions": [
+    "Sádlo můžeš nahradit slunečnicovým olejem. Bramboráky budou o něco méně výrazné, ale stejně křupavé.",
+    "Místo hrubé mouky jde hladká nebo polohrubá, stačí jí o pár lžic méně."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat bramboráky křupavé?",
+      "a": "Brambory důkladně vymačkej, těsto rozprostři na tenkou placku a smaž v dostatečně horkém tuku. Když tuk není horký, placka ho nasákne a změkne."
+    },
+    {
+      "q": "Proč se bramboráky rozpadají?",
+      "a": "Těsto je moc řídké, nebo v něm chybí škrob z vymačkané tekutiny. Přidej lžíci mouky a placku obracej až ve chvíli, kdy je spodek pevný."
+    },
+    {
+      "q": "Jak ohřát bramboráky, aby zase křupaly?",
+      "a": "Polož je na mřížku a ohřej v troubě na 200 °C asi 8 až 10 minut. V mikrovlnce změknou."
+    }
+  ]
+}

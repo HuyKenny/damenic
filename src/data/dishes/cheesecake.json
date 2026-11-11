@@ -1,0 +1,61 @@
+{
+  "name": "Cheesecake s citronovou kůrou",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Štrúdl a dorty",
+  "description": "Pečený krémový cheesecake na korpusu z máslových sušenek, s jemnou citronovou kůrou.",
+  "about": [
+    "Pečený cheesecake je hustý, hladký a lehce kyselý od zakysané smetany a citronu. Peče se pomalu na nízké teplotě a pak celou noc chladne, jinak se nedá krájet.",
+    "K dispozici je kousek nebo celý dort o průměru 23 cm. Malinová omáčka navíc je stejná, jakou najdeš v tipech receptu."
+  ],
+  "price": 11900,
+  "image": "dish-cheesecake",
+  "recipe": "cheesecake",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kus",
+          "name": "1 kousek",
+          "priceDelta": 0
+        },
+        {
+          "id": "dort",
+          "name": "Celý dort (12 kousků)",
+          "priceDelta": 119000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "omacka",
+          "name": "Malinová omáčka",
+          "priceDelta": 3500
+        },
+        {
+          "id": "slehacka",
+          "name": "Šlehačka",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 60
+}

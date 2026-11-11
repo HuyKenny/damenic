@@ -1,0 +1,17 @@
+{
+  "name": "Česneková bageta",
+  "restaurant": "pasta-bar-niente",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Půlka bagety s česnekovým máslem a petrželkou, zapečená dokřupava.",
+  "price": 5900,
+  "image": "dish-cesnekova-bageta-niente",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 70
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Prosciutto e funghi",
+  "restaurant": "pizzerie-na-dobre-slovo",
+  "kind": "main",
+  "section": "Pizza rossa",
+  "description": "Rajčata, mozzarella, dušená šunka a plátky čerstvých žampionů, s kapkou olivového oleje.",
+  "about": [
+    "Šunka a žampiony jsou nejobjednávanější kombinace v každé pizzerii, i v té, která neexistuje. V Neapoli se jí říká prosciutto e funghi a šunka je vařená, ne sušená.",
+    "Žampiony krájej na tenko a nesmaž je dopředu. Na pizze se upečou samy a nepustí tolik vody, kolik by se zdálo."
+  ],
+  "price": 21900,
+  "image": "dish-prosciutto-funghi-dobre-slovo",
+  "recipe": "pizza-sunka-zampiony",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "32cm",
+          "name": "32 cm",
+          "priceDelta": 0
+        },
+        {
+          "id": "40cm",
+          "name": "40 cm",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "mozzarella",
+          "name": "Mozzarella navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "rukola",
+          "name": "Rukola",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "zampionu",
+          "name": "Bez žampionů",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 40
+}

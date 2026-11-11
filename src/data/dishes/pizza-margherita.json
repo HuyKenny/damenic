@@ -80,5 +80,9 @@
   ],
   "kind": "main",
   "restaurant": "prazdna-pec",
-  "image": "dish-pizza-margherita"
+  "image": "dish-pizza-margherita",
+  "allergens": [
+    1,
+    7
+  ]
 }

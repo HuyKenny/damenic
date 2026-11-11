@@ -1,0 +1,16 @@
+{
+  "name": "Tzatziki",
+  "restaurant": "taverna-prazdny-stul",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 5900,
+  "description": "Hustý řecký jogurt s nastrouhanou okurkou, česnekem, koprem a olivovým olejem.",
+  "recipe": "tzatziki",
+  "image": "dish-tzatziki",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 70
+}

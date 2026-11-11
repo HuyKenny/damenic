@@ -75,5 +75,11 @@
     }
   ],
   "restaurant": "u-prazdneho-talire",
-  "image": "dish-hovezi-gulas"
+  "image": "dish-hovezi-gulas",
+  "allergens": [
+    1,
+    3,
+    7,
+    9
+  ]
 }

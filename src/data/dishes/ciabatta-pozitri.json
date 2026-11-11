@@ -1,0 +1,17 @@
+{
+  "name": "Ciabatta s olivovým olejem",
+  "restaurant": "lahudky-pozitri",
+  "kind": "side",
+  "section": "Ke kávě a s sebou",
+  "description": "Půlka čerstvé ciabatty s miskou olivového oleje na namáčení.",
+  "price": 5900,
+  "image": "dish-ciabatta-pozitri",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    1
+  ],
+  "order": 80
+}

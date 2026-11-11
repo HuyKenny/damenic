@@ -1,0 +1,15 @@
+{
+  "name": "Mangové lassi s kokosovým jogurtem 0,3 l",
+  "restaurant": "ani-drobek",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Rozmixované mango s kokosovým jogurtem, limetkou a špetkou kardamomu.",
+  "price": 7400,
+  "image": "dish-mangove-lassi-drobek",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 90
+}

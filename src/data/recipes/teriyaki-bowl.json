@@ -1,0 +1,194 @@
+{
+  "title": "Teriyaki bowl s kuřecím masem",
+  "category": "poke",
+  "servings": 2,
+  "activeMinutes": 30,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "vegetarian": false,
+  "keywords": [
+    "teriyaki bowl recept",
+    "teriyaki kuře s rýží",
+    "domácí teriyaki omáčka",
+    "kuřecí teriyaki bowl"
+  ],
+  "intro": "Kuřecí stehna v domácí lesklé teriyaki omáčce s jasmínovou rýží a brokolicí, dvě porce asi za 50 minut. Rozhoduje poměr sójové omáčky a sladkosti a to, jak dlouho se omáčka svaří s masem.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-jasminova",
+      "amount": 160,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 240,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Teriyaki omáčka"
+    },
+    {
+      "ingredient": "mirin",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Teriyaki omáčka"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Teriyaki omáčka"
+    },
+    {
+      "ingredient": "ocet-ryzovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Teriyaki omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 60,
+      "unit": "ml",
+      "group": "Teriyaki omáčka"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Teriyaki omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Teriyaki omáčka"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Teriyaki omáčka"
+    },
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 400,
+      "unit": "g",
+      "note": "vykostěná, bez kůže",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "brokolice",
+      "amount": 250,
+      "unit": "g",
+      "note": "na růžičky",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "edamame",
+      "amount": 160,
+      "unit": "g",
+      "note": "v luscích, po vyloupání asi 80 g",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 80,
+      "unit": "g",
+      "note": "na nudličky",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Do misky"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže a zelenina",
+      "text": "Rýži propláchni, dej ji do hrnce s 240 ml vody a špetkou soli, přiveď k varu a pod pokličkou na minimum vař 12 minut. Pak ji nech 10 minut dojít mimo plotnu."
+    },
+    {
+      "section": "Rýže a zelenina",
+      "text": "Ve větším hrnci přiveď k varu osolenou vodu a vař v ní brokolici 3 minuty, poslední minutu i s edamame. Sceď, propláchni studenou vodou a edamame vyloupej."
+    },
+    {
+      "section": "Omáčka",
+      "text": "V misce smíchej sójovou omáčku, mirin, med, ocet, vodu, zázvor a česnek. Škrob rozmíchej zvlášť ve lžíci studené vody a odlož."
+    },
+    {
+      "section": "Kuře",
+      "text": "Kuřecí stehna nakrájej na kousky asi 3 cm, osuš je a lehce osol. Na rozpáleném oleji je opékej v jedné vrstvě 6 až 8 minut, dokud nejsou ze všech stran zlatá a uvnitř propečená."
+    },
+    {
+      "section": "Kuře",
+      "text": "Stáhni plamen, přilij omáčku a nech ji minutu probublávat. Vmíchej rozmíchaný škrob a vař ještě 1 až 2 minuty za míchání, dokud omáčka nezhoustne a maso se neleskne."
+    },
+    {
+      "section": "Podávání",
+      "text": "Rýži rozděl do misek, přidej kuře s omáčkou, brokolici, edamame a mrkev."
+    },
+    {
+      "section": "Podávání",
+      "text": "Posyp nakrájenou jarní cibulkou a sezamem. Zbylou omáčku z pánve přelij přes rýži."
+    }
+  ],
+  "tips": [
+    "Stehenní maso je na teriyaki vděčnější než prsa, během svařování v omáčce nevyschne.",
+    "Omáčka po přidání škrobu houstne rychle. Když je moc hustá, zřeď ji lžící vody.",
+    "Teriyaki omáčku si můžeš udělat ve dvojnásobném množství a zbytek uchovat v lednici v uzavřené sklenici."
+  ],
+  "substitutions": [
+    "Místo kuřete použij 400 g pevného tofu: nakrájej ho na kostky, obal v lžíci škrobu, opeč dozlatova a omáčku přidej až na konec.",
+    "Mirin nahradíš lžící cukru rozpuštěnou ve dvou lžících vody; chuť bude o něco plošší.",
+    "Pro bezlepkovou verzi použij tamari místo sójové omáčky."
+  ],
+  "faq": [
+    {
+      "q": "Jak zahustit teriyaki omáčku?",
+      "a": "Kukuřičným škrobem rozmíchaným ve studené vodě, lžička stačí na dvě porce. Vmíchej ho do probublávající omáčky a vař minutu až dvě, aby ztratil škrobovou chuť."
+    },
+    {
+      "q": "Můžu teriyaki omáčku připravit dopředu?",
+      "a": "Ano, bez škrobu vydrží v uzavřené sklenici v lednici asi týden. Zahušťuj ji až při ohřívání."
+    },
+    {
+      "q": "Jaké maso je nejlepší na teriyaki?",
+      "a": "Kuřecí stehna, protože zůstanou šťavnatá. Hodí se také losos nebo vepřová krkovice nakrájená na tenké plátky."
+    }
+  ],
+  "image": "dish-teriyaki-bowl"
+}

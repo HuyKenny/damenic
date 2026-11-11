@@ -1,0 +1,221 @@
+{
+  "title": "Kuřecí biryani",
+  "keywords": [
+    "biryani recept",
+    "kuřecí biryani",
+    "chicken biryani recept",
+    "indická rýže s kuřetem"
+  ],
+  "intro": "Čtyři porce vrstvené rýže basmati s kořeněným kuřetem a smaženou cibulí, hotové asi za dvě a tři čtvrtě hodiny včetně marinování a namáčení rýže. Rozhoduje rýže předvařená jen napůl a pomalé dodušení pod pokličkou.",
+  "image": "dish-biryani",
+  "category": "indicka",
+  "servings": 4,
+  "activeMinutes": 60,
+  "cookMinutes": 45,
+  "waitMinutes": 60,
+  "waitLabel": "marinování masa a namáčení rýže",
+  "difficulty": "náročnější",
+  "tips": [
+    "Rýži při předvaření hlídej na minutu přesně. Když je v této fázi úplně měkká, v páře se rozvaří na kaši.",
+    "Spodní vrstva se může lehce připéct ke dnu. Je to v pořádku; je-li hrnec tenký, podlož ho rozptylovačem plamene.",
+    "Ke biryani se hodí raita: bílý jogurt s okurkou, kmínem a solí."
+  ],
+  "substitutions": [
+    "Místo mletého kardamomu můžeš do vody k rýži dát 4 tobolky celého kardamomu.",
+    "Na zeleninovou verzi použij 700 g zeleniny (brambory, mrkev, květák, hrášek) a dus ji v marinádě jen 10 minut."
+  ],
+  "faq": [
+    {
+      "q": "Jakou rýži použít na biryani?",
+      "a": "Dlouhozrnnou basmati. Drží tvar, po uvaření zůstávají zrna oddělená a má typickou vůni; kulatozrnná rýže se rozvaří."
+    },
+    {
+      "q": "Proč je biryani mazlavá?",
+      "a": "Rýže se předvařila moc dlouho nebo nebyla propraná a namočená. Propírání odstraní škrob z povrchu a předvaření má trvat jen 5 až 6 minut."
+    },
+    {
+      "q": "Jak ohřát biryani druhý den?",
+      "a": "Pokrop ji lžící vody, přikryj a ohřej v hrnci na mírném ohni nebo v mikrovlnce. V lednici vydrží dva dny."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 700,
+      "unit": "g",
+      "note": "bez kosti, na větší kousky",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 200,
+      "unit": "g",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 20,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nadrobno",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "garam-masala",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "paprika-paliva",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "kardamom",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 400,
+      "unit": "g",
+      "note": "na tenké půlkolečka",
+      "group": "Cibule"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Cibule"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 400,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2500,
+      "unit": "ml",
+      "note": "na vaření",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "hrebicek",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "skorice-cela",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Vrstvení"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 50,
+      "unit": "ml",
+      "group": "Vrstvení"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "lístky",
+      "group": "Vrstvení"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "lístky",
+      "group": "Vrstvení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Maso smíchej se všemi surovinami na marinádu a nech v lednici hodinu. Rýži mezitím propírej ve studené vodě, dokud voda není skoro čirá, a nech ji 30 minut namočenou."
+    },
+    {
+      "section": "Cibule",
+      "text": "V širokém hrnci se silným dnem rozpal olej a cibuli v něm smaž na středním ohni 15 až 20 minut za častého míchání, dokud není rovnoměrně tmavě zlatá. Vyndej ji děrovanou lžící na papírovou utěrku, olej nech v hrnci."
+    },
+    {
+      "section": "Maso",
+      "text": "Do hrnce s olejem dej maso i s marinádou a polovinu smažené cibule. Duš přikryté na středním ohni 15 minut, dokud maso není skoro hotové a omáčka hustá."
+    },
+    {
+      "section": "Rýže",
+      "text": "Mezitím přiveď vodu k varu se solí, bobkovým listem, hřebíčkem a skořicí. Vsyp okapanou rýži a vař 5 až 6 minut, zrno má být na skus ještě tvrdé uprostřed. Hned ji sceď."
+    },
+    {
+      "section": "Vrstvení",
+      "text": "Na maso v hrnci rozprostři polovinu rýže, posyp polovinou bylinek a zbylé cibule, pak navrstvi zbytek rýže, bylinek a cibule. Pokapej rozpuštěným máslem a mlékem."
+    },
+    {
+      "section": "Vrstvení",
+      "text": "Hrnec pevně přiklop, případně pod poklici dej alobal, aby pára neunikala. Duš na nejmenším plameni 25 minut, nebo v troubě vyhřáté na 170 °C 30 minut."
+    },
+    {
+      "section": "Vrstvení",
+      "text": "Nech biryani 5 minut odpočinout, pak ji promíchej opatrně od kraje tak, aby se zrna nelámala. Hřebíček a skořici při servírování vylov."
+    }
+  ]
+}

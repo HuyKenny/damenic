@@ -1,0 +1,121 @@
+{
+  "title": "Tiramisu",
+  "keywords": [
+    "tiramisu recept",
+    "recept na tiramisu",
+    "domácí tiramisu",
+    "tiramisu s mascarpone"
+  ],
+  "image": "dish-tiramisu",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 30,
+  "cookMinutes": 0,
+  "waitMinutes": 360,
+  "waitLabel": "ztuhnutí v lednici",
+  "difficulty": "snadné",
+  "intro": "Klasické tiramisu z mascarpone, vajec a piškotů namáčených v kávě, na osm kousků. Práce je na půl hodiny, pak musí aspoň 6 hodin ztuhnout v lednici; povede se, když piškoty máčíš jen krátce.",
+  "ingredients": [
+    {
+      "ingredient": "kava-mleta",
+      "amount": 25,
+      "unit": "g",
+      "note": "na 300 ml silné kávy nebo espressa",
+      "group": "Káva"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Káva"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "čerstvá, pokojové teploty",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g",
+      "note": "ideálně moučkový",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "mascarpone",
+      "amount": 500,
+      "unit": "g",
+      "note": "studené",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "piskoty",
+      "amount": 250,
+      "unit": "g",
+      "note": "dlouhé piškoty, asi 28 kusů",
+      "group": "Skládání"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na poprášení",
+      "group": "Skládání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Káva",
+      "text": "Uvař silnou kávu nebo espresso, nalij ho do mělkého talíře a nech úplně vychladnout. Horká káva by piškoty rozmočila."
+    },
+    {
+      "section": "Krém",
+      "text": "Odděl žloutky od bílků. Žloutky s cukrem šlehej 3 až 4 minuty, dokud nezbělají a nezhoustnou."
+    },
+    {
+      "section": "Krém",
+      "text": "Ke žloutkům přidej studené mascarpone a krátce zašlehej, jen dokud se nespojí. Dlouhým šleháním by se mascarpone srazilo."
+    },
+    {
+      "section": "Krém",
+      "text": "V čisté misce ušlehej z bílků tuhý sníh a po třetinách ho stěrkou opatrně vmíchej do mascarpone krému."
+    },
+    {
+      "section": "Skládání",
+      "text": "Piškoty po jednom máčej v kávě, každou stranu na vteřinu, a skládej je těsně vedle sebe do formy asi 20 × 25 cm. Na ně rozetři polovinu krému."
+    },
+    {
+      "section": "Skládání",
+      "text": "Udělej druhou vrstvu namočených piškotů a zbytkem krému ji uhlaď. Formu zakryj a dej aspoň na 6 hodin, nejlépe přes noc, do lednice."
+    },
+    {
+      "section": "Podávání",
+      "text": "Těsně před podáváním povrch poprašuj přes sítko kakaem, aby nezvlhlo, a krájej ostrým nožem namočeným v teplé vodě."
+    }
+  ],
+  "tips": [
+    "Do vychladlé kávy můžeš přidat 2 až 3 lžíce amaretta nebo marsaly, ale není to nutné.",
+    "Piškoty mají zůstat uvnitř trochu suché. Vlhkost z krému je během chlazení změkčí sama."
+  ],
+  "substitutions": [
+    "Bez syrových vajec: mascarpone vyšlehej se 100 g moučkového cukru a vmíchej 200 ml ušlehané smetany ke šlehání.",
+    "Místo mleté kávy stačí 4 lžičky instantní rozpuštěné v 300 ml horké vody."
+  ],
+  "faq": [
+    {
+      "q": "Proč je tiramisu řídké?",
+      "a": "Nejčastěji je moc vlhkých piškotů, teplé mascarpone nebo málo tuhý sníh. Máčej piškoty jen na vteřinu, používej mascarpone přímo z lednice a nech tiramisu ztuhnout aspoň 6 hodin."
+    },
+    {
+      "q": "Dávají se do tiramisu syrová vejce?",
+      "a": "V klasickém receptu ano, proto používej co nejčerstvější vejce a tiramisu skladuj v lednici. Kdo se syrovým vejcím chce vyhnout, nahradí je ušlehanou smetanou."
+    },
+    {
+      "q": "Jak dlouho vydrží tiramisu v lednici?",
+      "a": "Zakryté 2 dny. Kakao na povrchu časem zvlhne, takže zbytek před podáváním znovu poprašuj."
+    }
+  ]
+}

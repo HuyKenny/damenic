@@ -1,0 +1,72 @@
+{
+  "name": "Margherita napoletana",
+  "restaurant": "pizzerie-na-dobre-slovo",
+  "kind": "main",
+  "section": "Pizza rossa",
+  "description": "Rajčata, mozzarella, bazalka a olivový olej na nafouknutém okraji s tmavými puntíky od pece.",
+  "about": [
+    "Neapolská Margherita má měkký, skoro mokrý střed a okraj nafouknutý jako polštář. V peci se peče kolem 90 vteřin, domácí trouba na to potřebuje několik minut.",
+    "Rozdíl dorovnáš tím, že troubu rozpálíš na maximum i s plechem a těsto necháš pořádně vykynout. Na tenkou křupavou placku tu nikdo nehraje."
+  ],
+  "price": 18900,
+  "image": "dish-margherita-dobre-slovo",
+  "recipe": "pizza-margherita",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "32cm",
+          "name": "32 cm",
+          "priceDelta": 0
+        },
+        {
+          "id": "40cm",
+          "name": "40 cm",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "bufala",
+          "name": "Mozzarella di bufala",
+          "priceDelta": 6000
+        },
+        {
+          "id": "cherry",
+          "name": "Cherry rajčata",
+          "priceDelta": 2500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bazalky",
+          "name": "Bez bazalky",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 20
+}

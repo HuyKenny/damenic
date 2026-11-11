@@ -1,0 +1,75 @@
+{
+  "name": "Pinsa diavola",
+  "restaurant": "pinseria-ani-kousek",
+  "kind": "main",
+  "section": "Pinsa",
+  "description": "Oválná pinsa s vláčným těstem, rajčaty, mozzarellou, pikantním salámem a chilli.",
+  "about": [
+    "Pinsa je římská příbuzná pizzy: těsto z pšeničné, sójové a rýžové mouky s vysokým podílem vody kyne dlouho a po upečení je zvenku křupavé a uvnitř vzdušné.",
+    "Pinsovou mouku doma nemáš, takže recept počítá s klasickým pizza těstem. Stačí ho roztáhnout do oválu a obložit stejně, chuť diavoly zůstane."
+  ],
+  "price": 22900,
+  "image": "dish-pinsa-diavola-ani-kousek",
+  "recipe": "pizza-diavola",
+  "recipeNote": "Doma s klasickým pizza těstem místo pinsové mouky.",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "klasik",
+          "name": "Klasická (30 × 20 cm)",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (40 × 25 cm)",
+          "priceDelta": 7000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "burrata",
+          "name": "Burrata",
+          "priceDelta": 8900
+        },
+        {
+          "id": "rukola",
+          "name": "Rukola",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "chilli",
+          "name": "Bez čerstvého chilli",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    1,
+    6,
+    7
+  ],
+  "featured": true,
+  "order": 10
+}

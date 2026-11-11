@@ -1,0 +1,187 @@
+{
+  "title": "Tvarohový koláč s drobenkou",
+  "keywords": [
+    "tvarohový koláč recept",
+    "tvarohový koláč s drobenkou",
+    "kynutý tvarohový koláč",
+    "plech koláč s tvarohem"
+  ],
+  "intro": "Kynutý tvarohový koláč s drobenkou na plech asi 25 × 35 cm, 12 kusů. Počítej se zhruba třemi a půl hodinami, z toho většinu času těsto kyne a koláč chladne.",
+  "image": "dish-tvarohovy-kolac",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 40,
+  "cookMinutes": 35,
+  "waitMinutes": 120,
+  "waitLabel": "kynutí těsta a chladnutí",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 450,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 220,
+      "unit": "ml",
+      "note": "vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 21,
+      "unit": "g",
+      "note": "půl kostky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 70,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 70,
+      "unit": "g",
+      "note": "rozpuštěné a vlažné, plus na plech",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 750,
+      "unit": "g",
+      "note": "měkký, 3 vaničky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen nastrouhaná kůra",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 50,
+      "unit": "g",
+      "note": "nepovinné",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "studené",
+      "group": "Drobenka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Do hrnku dej asi 50 ml z odměřeného vlažného mléka, lžičku cukru a rozdrobené droždí. Nech 10 minut stát, dokud kvásek nezpění."
+    },
+    {
+      "section": "Těsto",
+      "text": "Do mísy dej mouku, zbytek cukru, sůl, vejce, kvásek, zbytek mléka a rozpuštěné máslo. Hněť 8 až 10 minut, dokud není těsto hladké a nepouští se od mísy."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mísu zakryj utěrkou a nech těsto v teple kynout asi hodinu, dokud nezdvojnásobí objem."
+    },
+    {
+      "section": "Náplň a drobenka",
+      "text": "Tvaroh rozmíchej s cukrem, vanilkovým cukrem, vejci, škrobem a citronovou kůrou dohladka, nakonec vmíchej rozinky. Na drobenku zpracuj prsty mouku, cukr a studené máslo na hrubé drobky a dej je do lednice."
+    },
+    {
+      "section": "Sestavení",
+      "text": "Plech asi 25 × 35 cm vymaž máslem nebo vylož pečicím papírem. Vykynuté těsto rozválej nebo rozprostři prsty po celém plechu a u krajů udělej vyšší okraj."
+    },
+    {
+      "section": "Sestavení",
+      "text": "Tvarohovou náplň rozetři po těstě, posyp drobenkou a nech ještě 20 minut kynout. Mezitím předehřej troubu na 180 °C horní a spodní ohřev (170 °C horkovzduch)."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 30 až 35 minut, dokud nejsou okraje i drobenka zlatavé a náplň uprostřed nepruží. Špejle zapíchnutá do těsta na okraji má vyjít suchá."
+    },
+    {
+      "section": "Pečení",
+      "text": "Nech koláč na plechu vychladnout aspoň 30 minut a teprve pak ho nakrájej na 12 kusů; teplá náplň se maže."
+    }
+  ],
+  "tips": [
+    "Vlhký tvaroh nech před mícháním 15 minut okapat v sítku, náplň pak nepoteče.",
+    "Koláč s tvarohem ulož po prvním dni do lednice. Před podáváním ho nech 20 minut ohřát na pokojovou teplotu."
+  ],
+  "substitutions": [
+    "Místo rozinek rozlož po tvarohu půlky meruněk nebo borůvky.",
+    "Polohrubou mouku v těstě můžeš nahradit hladkou.",
+    "Čerstvé droždí nahradíš 7 g sušeného, které přimícháš rovnou do mouky bez kvásku."
+  ],
+  "faq": [
+    {
+      "q": "Proč tvaroh v koláči teče?",
+      "a": "Tvaroh byl moc vlhký nebo v náplni chybí pojivo. Nech ho okapat a do náplně dej lžíci až dvě škrobu nebo vanilkového pudinkového prášku."
+    },
+    {
+      "q": "Jaký tvaroh je na koláč nejlepší?",
+      "a": "Měkký tvaroh ve vaničce dá hladkou náplň bez další práce. Tvrdý tvaroh v bloku je nejdřív potřeba prolisovat nebo jemně nastrouhat."
+    },
+    {
+      "q": "Jak dlouho tvarohový koláč vydrží?",
+      "a": "První den při pokojové teplotě, pak v lednici ještě 2 až 3 dny. Zakrytý fólií neosychá."
+    }
+  ]
+}

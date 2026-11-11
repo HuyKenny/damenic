@@ -1,0 +1,90 @@
+{
+  "title": "Sushi rýže",
+  "category": "sushi",
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 22,
+  "waitMinutes": 50,
+  "waitLabel": "okapání a chladnutí rýže",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "keywords": [
+    "sushi rýže recept",
+    "jak uvařit sushi rýži",
+    "rýže na sushi",
+    "ocet na sushi rýži"
+  ],
+  "intro": "Ochucená rýže na sushi z 300 g suché rýže, která vystačí na čtyři rolky maki, hotová asi za hodinu a půl včetně chladnutí. Rozhoduje propraná rýže, přesný poměr vody a octová směs vmíchaná za tepla.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-sushi",
+      "amount": 300,
+      "unit": "g",
+      "note": "kulatozrnná japonská"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 360,
+      "unit": "ml",
+      "note": "studená"
+    },
+    {
+      "ingredient": "ocet-ryzovy",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýži dej do mísy, zalij studenou vodou, krouživě ji promíchej a zakalenou vodu slij. Opakuj to pětkrát až šestkrát, dokud voda není skoro čirá."
+    },
+    {
+      "text": "Rýži nech 30 minut okapat v cedníku. Zrna mezitím nasají zbytek vody a uvaří se rovnoměrně."
+    },
+    {
+      "text": "Dej ji do hrnce s 360 ml studené vody, přikryj pokličkou a přiveď k varu. Ztlum na minimum a vař 12 minut, poklici přitom nezvedej."
+    },
+    {
+      "text": "Hrnec odstav a nech rýži 10 minut dojít pod pokličkou. V malém kastrolku zatím zahřej ocet, cukr a sůl jen tolik, aby se rozpustily, vařit je nemusíš."
+    },
+    {
+      "text": "Horkou rýži přendej do široké mísy, nejlépe dřevěné nebo skleněné, a pokapej ji octovou směsí. Vařečkou ji krájivými pohyby promíchávej, nemačkej ji, a zároveň ji ovívej, aby se leskla a rychle vychladla."
+    },
+    {
+      "text": "Rýži přikryj vlhkou utěrkou a nech ji asi 20 minut vychladnout na pokojovou teplotu. Pak je připravená na maki, nigiri nebo misku."
+    }
+  ],
+  "tips": [
+    "Na sushi se hodí jen kulatozrnná rýže. Dlouhozrnná jasmínová nebo basmati nemá dost škrobu a rolka by se rozpadala.",
+    "Při práci s rýží si namáčej ruce do vody s kapkou octa, rýže se nebude lepit na prsty."
+  ],
+  "substitutions": [
+    "Místo cukru můžeš použít stejné množství medu, rýže bude mít jemně medovou chuť.",
+    "Hotový ochucený ocet na sushi nahradí celou octovou směs, použij ho asi 5 lžic."
+  ],
+  "faq": [
+    {
+      "q": "Jakou rýži použít na sushi?",
+      "a": "Japonskou kulatozrnnou rýži, v obchodech prodávanou jako rýže na sushi. Je lepivá, ale zrna zůstávají celá. Jasmínová ani basmati se nehodí."
+    },
+    {
+      "q": "Kolik octa dát do sushi rýže?",
+      "a": "Na 300 g suché rýže asi 4 lžíce rýžového octa, 2 lžíce cukru a lžičku soli. Kyselost se dá upravit lžící octa navíc nebo méně."
+    },
+    {
+      "q": "Dá se sushi rýže dát do lednice?",
+      "a": "Uvařenou rýži nenechávej při pokojové teplotě déle než pár hodin. Co nespotřebuješ, rychle zchlaď, zakryj a dej do lednice, kde vydrží do druhého dne. Ztvrdne, takže se pak hodí spíš na smaženou rýži."
+    }
+  ],
+  "image": "dish-sushi-ryze"
+}

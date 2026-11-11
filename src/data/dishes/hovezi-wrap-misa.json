@@ -1,0 +1,63 @@
+{
+  "name": "Hovězí wrap se sumahem",
+  "restaurant": "prazdna-misa",
+  "kind": "main",
+  "section": "Shawarma",
+  "price": 16900,
+  "description": "Kořeněné mleté hovězí v tortille s ledovým salátem, rajčaty, cibulí se sumahem a jogurtovou omáčkou.",
+  "about": [
+    "Rychlé jídlo z mletého masa a koření se skořicí, které připomíná arabské sendviče. Maso se opeče, zabalí s křupavou zeleninou a jogurtem.",
+    "Cibule promíchaná se sumahem a petrželkou je to, co wrap odlišuje od běžného dürümu."
+  ],
+  "recipe": "hovezi-durum",
+  "image": "dish-hovezi-wrap-misa",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cibule",
+          "name": "Bez cibule",
+          "priceDelta": 0
+        },
+        {
+          "id": "salat",
+          "name": "Bez salátu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 60
+}

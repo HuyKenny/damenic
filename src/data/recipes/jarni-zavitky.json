@@ -1,0 +1,210 @@
+{
+  "title": "Jarní závitky",
+  "category": "asijska",
+  "servings": 4,
+  "activeMinutes": 60,
+  "cookMinutes": 25,
+  "difficulty": "střední",
+  "keywords": [
+    "jarní závitky recept",
+    "domácí jarní závitky",
+    "smažené jarní závitky",
+    "recept na jarní závitky"
+  ],
+  "intro": "Křupavé smažené jarní závitky s vepřovou náplní, skleněnými nudlemi a zeleninou, asi 16 kusů za hodinu a půl. Záleží na suché náplni, pevném zarolování a oleji o správné teplotě.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 300,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "nudle-ryzove-tenke",
+      "amount": 50,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "zeli-bile",
+      "amount": 200,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "na zelí",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 100,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "rybi-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "placky-jarni-zavitky",
+      "amount": 16,
+      "unit": "ks",
+      "note": "rozmražené, asi 20 × 20 cm",
+      "group": "Balení a smažení"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na lepidlo",
+      "group": "Balení a smažení"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na lepidlo",
+      "group": "Balení a smažení"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 750,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Balení a smažení"
+    },
+    {
+      "ingredient": "rybi-omacka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Dip"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Dip"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "note": "vlažná",
+      "group": "Dip"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Dip"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Dip"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Dip"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Náplň",
+      "text": "Nudle namoč na 10 minut do horké vody, sceď je a nůžkami nastříhej na kousky dlouhé asi 3 cm."
+    },
+    {
+      "section": "Náplň",
+      "text": "Mrkev nastrouhej najemno, zelí a žampiony nakrájej na tenké nudličky. Zelí promíchej se solí, nech ho 10 minut odpočinout a pak ho pořádně vymačkej."
+    },
+    {
+      "section": "Náplň",
+      "text": "V míse smíchej maso, nudle, zeleninu, prolisovaný česnek, nasekanou jarní cibulku, vejce, rybí a sójovou omáčku a pepř. Náplň má držet pohromadě, ale nesmí být mokrá."
+    },
+    {
+      "section": "Balení a smažení",
+      "text": "Pláty těsta drž pod vlhkou utěrkou, aby nevysychaly. Mouku rozmíchej s vodou na hladké lepidlo."
+    },
+    {
+      "section": "Balení a smažení",
+      "text": "Plát polož cípem k sobě, na spodní třetinu dej asi 2 lžíce náplně do tvaru válečku a přehni přes ni spodní cíp. Boční cípy založ dovnitř, pevně zaroluj a konec přilep lepidlem."
+    },
+    {
+      "section": "Balení a smažení",
+      "text": "Olej rozehřej v hlubokém hrnci na 170 °C. Smaž po 4 až 5 kusech 6 až 7 minut, dokud nejsou zlatavé a maso uvnitř propečené, a nech je okapat na mřížce."
+    },
+    {
+      "section": "Dip",
+      "text": "Na dip rozpusť cukr ve vlažné vodě a přidej rybí omáčku, šťávu z limetky, prolisovaný česnek a nadrobno nakrájené chilli."
+    }
+  ],
+  "tips": [
+    "Závitky smaž po malých dávkách. Když jich dáš do oleje moc najednou, teplota spadne a těsto nasákne tukem.",
+    "Hotové závitky nech okapat na mřížce, ne na papíru. Spodek tak zůstane křupavý.",
+    "Na zkoušku usmaž jeden závitek a rozkroj ho. Podle něj upravíš dobu smažení i slanost náplně."
+  ],
+  "substitutions": [
+    "Vepřové můžeš nahradit mletým kuřecím masem nebo nadrobno nasekanými krevetami.",
+    "Místo bílého zelí poslouží pekingské, vymačkej ho stejně."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat jarní závitky křupavé?",
+      "a": "Smaž je v oleji o teplotě 170 °C po malých dávkách a nech je okapat na mřížce. Náplň musí být suchá, vlhkost z ní by těsto zevnitř rozmáčela."
+    },
+    {
+      "q": "Dají se jarní závitky zamrazit?",
+      "a": "Ano, nejlépe syrové. Zamraz je na plechu tak, aby se nedotýkaly, pak je přesyp do sáčku a smaž rovnou zmražené na 160 °C asi o 3 minuty déle."
+    },
+    {
+      "q": "Můžu jarní závitky upéct v troubě?",
+      "a": "Můžeš. Potři je olejem a peč na plechu s pečicím papírem při 200 °C asi 20 až 25 minut, v polovině je otoč. Budou méně křupavé než smažené."
+    }
+  ],
+  "image": "dish-jarni-zavitky",
+  "vegetarian": false
+}

@@ -1,0 +1,134 @@
+{
+  "title": "Nachos se sýrem a fazolemi",
+  "keywords": [
+    "nachos recept",
+    "nachos se sýrem",
+    "zapečené nachos",
+    "domácí nachos"
+  ],
+  "intro": "Plech zapečených nachos se sýrem, kořeněnými fazolemi a jalapeños pro čtyři, hotový asi za dvacet pět minut. Rozhoduje vrstvení: sýr a fazole mají být mezi chipsy, ne jen navrchu.",
+  "image": "dish-nachos",
+  "category": "mexicka",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "difficulty": "snadné",
+  "tips": [
+    "Používej silnější chipsy; tenké pod náplní rychle změknou.",
+    "Studené přísady jako salsu a smetanu přidávej až po upečení."
+  ],
+  "substitutions": [
+    "Fazole můžeš nahradit mletým masem připraveným jako na tacos nebo chilli con carne.",
+    "Eidam jde vyměnit za cheddar nebo goudu."
+  ],
+  "faq": [
+    {
+      "q": "Jaký sýr na nachos?",
+      "a": "Dobře se tavící sýr: eidam, gouda, cheddar nebo jejich směs. Cheddar dodá výraznější chuť a barvu."
+    },
+    {
+      "q": "Jak dlouho péct nachos v troubě?",
+      "a": "Při 200 °C 6 až 8 minut, jen do rozteklého sýra. Delší pečení chipsy spálí."
+    },
+    {
+      "q": "Jde nachos připravit dopředu?",
+      "a": "Nachystat můžeš přísady, ale zapékej až před podáváním. Upečené nachos rychle měknou."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "tortilla-chipsy",
+      "amount": 300,
+      "unit": "g",
+      "group": "Nachos"
+    },
+    {
+      "ingredient": "fazole-cervene",
+      "amount": 400,
+      "unit": "g",
+      "note": "okapané",
+      "group": "Nachos"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Nachos"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Nachos"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Nachos"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 200,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Nachos"
+    },
+    {
+      "ingredient": "jalapenos",
+      "amount": 60,
+      "unit": "g",
+      "note": "nakrájené",
+      "group": "Nachos"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Navrch"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Navrch"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaný",
+      "group": "Navrch"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Navrch"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 150,
+      "unit": "g",
+      "group": "Navrch"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C. Fazole promíchej s kmínem, uzenou paprikou a špetkou soli a lehce je rozmačkej."
+    },
+    {
+      "text": "Na plech nebo do velké zapékací misky rozlož polovinu chipsů, posyp je polovinou fazolí, sýra a jalapeños. Stejně navrstvi druhou polovinu."
+    },
+    {
+      "text": "Zapékej 6 až 8 minut, dokud se sýr nerozteče a na okrajích nezačne bublat. Hlídej je, chipsy na krajích rychle tmavnou."
+    },
+    {
+      "text": "Rajčata, cibuli a koriandr smíchej se šťávou z půlky limetky. Nachos posyp salsou, přidej lžíce zakysané smetany a podávej hned, s měsíčky limetky."
+    }
+  ],
+  "waitMinutes": 0
+}

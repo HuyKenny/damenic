@@ -1,0 +1,91 @@
+{
+  "name": "Křupavé tofu v česnekové glazuře",
+  "restaurant": "ani-drobek",
+  "kind": "main",
+  "section": "Misky",
+  "description": "Kostky tofu obalené ve škrobu a osmažené dokřupava, obalené v glazuře ze sójové omáčky, třtinového cukru, česneku a zázvoru. S jasmínovou rýží, jarní cibulkou a sezamem.",
+  "about": [
+    "Jídlo, kterým u nás přesvědčujeme lidi, co tofu odmítají. Tofu nejdřív dvacet minut lisujeme, pak ho obalíme v tenké vrstvě škrobu a smažíme v jedné vrstvě, dokud nemá zlatou kůrku.",
+    "Glazura je sladkoslaná s kapkou srirachy a tofu v ní jen obrátíme těsně před podáváním. V simulaci si zvolíš pálivost, doma ji ovlivní množství srirachy."
+  ],
+  "price": 21900,
+  "image": "dish-smazene-tofu",
+  "recipe": "smazene-tofu",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "tofu",
+          "name": "Tofu navíc",
+          "priceDelta": 4500
+        },
+        {
+          "id": "brokolice",
+          "name": "Pečená brokolice",
+          "priceDelta": 3500
+        },
+        {
+          "id": "avokado",
+          "name": "Avokádo",
+          "priceDelta": 3500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-sezamu",
+          "name": "Bez sezamu",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-cibulky",
+          "name": "Bez jarní cibulky",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 1,
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "featured": true,
+  "order": 10
+}

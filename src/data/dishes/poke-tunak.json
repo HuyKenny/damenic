@@ -1,0 +1,100 @@
+{
+  "name": "Ahi poke s tuňákem",
+  "restaurant": "aloha-ani-rybka",
+  "kind": "main",
+  "section": "Tuňák",
+  "description": "Kostky žlutoploutvého tuňáka v sójové omáčce se sezamovým olejem, zázvorem a červenou cibulí na sushi rýži, s okurkou, avokádem, edamame a limetkou.",
+  "about": [
+    "Ahi je havajské jméno pro tuňáka a tahle miska se drží původní předlohy: hodně ryby, málo omáčky, cibule, sezam a trocha chilli. Zbytek misky je tu proto, aby z předkrmu byl oběd.",
+    "Tuňáka krájíme na větší kostky než lososa a marinujeme nejvýš dvacet minut. Doma platí totéž, delší naložení mu ubírá na chuti i barvě."
+  ],
+  "price": 31900,
+  "image": "dish-poke-tunak",
+  "recipe": "poke-tunak",
+  "optionGroups": [
+    {
+      "id": "zaklad",
+      "name": "Základ",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "sushi-ryze",
+          "name": "Sushi rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "jasminova",
+          "name": "Jasmínová rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "quinoa",
+          "name": "Quinoa",
+          "priceDelta": 2000
+        },
+        {
+          "id": "pul-salat",
+          "name": "Půl rýže, půl salátu",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "regular",
+          "name": "Regular (450 g)",
+          "priceDelta": 0
+        },
+        {
+          "id": "large",
+          "name": "Large (600 g)",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "avokado",
+          "name": "Avokádo navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "edamame",
+          "name": "Edamame navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "mango",
+          "name": "Mango",
+          "priceDelta": 2500
+        },
+        {
+          "id": "ryba",
+          "name": "Dvojitá porce ryby",
+          "priceDelta": 8900
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    4,
+    6,
+    11
+  ],
+  "featured": true,
+  "order": 10
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Smažené nudle s kuřecím masem",
+  "restaurant": "pho-nebude",
+  "kind": "main",
+  "section": "Nudle a rýže",
+  "description": "Vaječné nudle z woku s kuřecím masem, zelím, mrkví, paprikou a klíčky v sójové a ústřicové omáčce.",
+  "about": [
+    "Smažené nudle stojí na rychlosti: rozpálený wok, malá dávka a omáčka namíchaná předem. Celé smažení trvá pár minut, zbytek je krájení.",
+    "Maso si můžeš vyměnit, princip zůstává stejný. Doma pomůže, když nudle uvaříš o minutu kratší, ve woku pak nezměknou na kaši."
+  ],
+  "price": 17900,
+  "image": "dish-smazene-nudle-nebude",
+  "recipe": "smazene-nudle",
+  "optionGroups": [
+    {
+      "id": "maso",
+      "name": "Maso",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kure",
+          "name": "Kuřecí",
+          "priceDelta": 0
+        },
+        {
+          "id": "hovezi",
+          "name": "Hovězí",
+          "priceDelta": 2000
+        },
+        {
+          "id": "tofu",
+          "name": "Tofu",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredne",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    3,
+    6,
+    11,
+    14
+  ],
+  "order": 50
+}

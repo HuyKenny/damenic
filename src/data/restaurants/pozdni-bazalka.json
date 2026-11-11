@@ -1,0 +1,33 @@
+{
+  "name": "Pozdní Bazalka",
+  "category": "thajska",
+  "cuisine": "Thajské noční bistro",
+  "tagline": "Vaříme do jedné ráno. Nedovezeme ani v poledne.",
+  "description": "Smyšlené thajské bistro pro noční hlad s polévkami, kari a jídly z woku. Objednávka je jen simulace a kurýr nevyrazí ani o půlnoci, ke každému jídlu ale najdeš recept.",
+  "etaMinutes": 35,
+  "deliveryFee": 4900,
+  "minOrder": 17900,
+  "priceLevel": 1,
+  "hours": {
+    "open": "17:00",
+    "close": "01:00"
+  },
+  "pickup": true,
+  "tags": [
+    "pikantní"
+  ],
+  "isNew": true,
+  "logo": {
+    "text": "PB",
+    "color": "#7B1FA2",
+    "ink": "light"
+  },
+  "sections": [
+    "Polévky",
+    "Kari",
+    "Wok",
+    "Přílohy a nápoje"
+  ],
+  "order": 63,
+  "cover": "rest-pozdni-bazalka"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Shawarma talíř s hummusem",
+  "restaurant": "prazdna-misa",
+  "kind": "main",
+  "section": "Talíře a mezze",
+  "price": 25900,
+  "description": "Velká porce kuřecí shawarmy s hummusem, tahini omáčkou, nakládanou zeleninou, salátem a pitou zvlášť.",
+  "about": [
+    "Na talíři je shawarma rozložená tak, aby se dala nabírat pitou. Maso leží vedle hummusu, omáčka je bokem a nakládaná zelenina dodává kyselost.",
+    "Doma spojíš dva recepty: shawarmu a hummus. Hummus se dá udělat den předem."
+  ],
+  "recipe": "shawarma",
+  "recipeNote": "Recept je na shawarmu v pitě; na talíř přidej hummus a pitu podávej zvlášť.",
+  "image": "dish-shawarma-talir-misa",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "pita",
+          "name": "Pita",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 0
+        },
+        {
+          "id": "ryze",
+          "name": "Rýže",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "falafel",
+          "name": "3 falafely",
+          "priceDelta": 4500
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    7,
+    11
+  ],
+  "order": 20
+}

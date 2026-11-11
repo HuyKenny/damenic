@@ -1,0 +1,16 @@
+{
+  "name": "Ledový čaj s broskví 0,4 l",
+  "restaurant": "prazdna-panev",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Černý čaj vychlazený s broskvovým pyré a plátkem citronu.",
+  "price": 5500,
+  "image": "dish-ledovy-caj-broskev-panev",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 100
+}

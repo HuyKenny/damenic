@@ -1,0 +1,59 @@
+{
+  "name": "Tom yum s krevetami, pálivý",
+  "restaurant": "pozdni-bazalka",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Ostrá čirá polévka s krevetami, citronovou trávou, galangalem, chilli pastou a limetkou.",
+  "about": [
+    "Noční verze tom yum je pálivější: víc rozmáčknutých chilli a lžíce thajské chilli pasty navíc.",
+    "Krevety se vaří jen dvě až tři minuty. Kdo chce mírnější polévku, vynechá polovinu chilli."
+  ],
+  "price": 16900,
+  "image": "dish-tom-yum-bazalka",
+  "recipe": "tom-yum",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "05",
+          "name": "0,5 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "08",
+          "name": "0,8 l",
+          "priceDelta": 5000
+        }
+      ]
+    },
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "thajsky",
+          "name": "Thajsky pálivé",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 3,
+  "allergens": [
+    2,
+    4
+  ],
+  "featured": true,
+  "order": 10
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Zelené kari, velká porce",
+  "restaurant": "pozdni-bazalka",
+  "kind": "main",
+  "section": "Kari",
+  "description": "Velká miska zeleného kari s kuřecím stehnem, lilkem a bazalkou, s dvojitou rýží.",
+  "about": [
+    "Velká porce pro noční hlad: kari s kuřecím masem a lilkem a dvě porce jasmínové rýže.",
+    "Kari se dá uvařit dopředu, druhý den chutná ještě kulatěji. Bazalku ale přidávej čerstvou až při ohřevu."
+  ],
+  "price": 23900,
+  "image": "dish-zelene-kari-velke-bazalka",
+  "recipe": "zelene-kari",
+  "recipeNote": "Recept je pro dva. Na velkou porci počítej s jednou porcí kari a dvojnásobkem rýže.",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredne",
+          "name": "Pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Thajsky pálivé",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    2,
+    4
+  ],
+  "order": 30
+}

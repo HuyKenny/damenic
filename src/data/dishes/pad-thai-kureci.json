@@ -85,5 +85,11 @@
     }
   ],
   "restaurant": "wok-nic-moc",
-  "image": "dish-pad-thai-kureci"
+  "image": "dish-pad-thai-kureci",
+  "allergens": [
+    3,
+    4,
+    5
+  ],
+  "spicy": 1
 }

@@ -1,0 +1,40 @@
+{
+  "name": "Teriyaki kuře s japonskou rýží",
+  "restaurant": "sushi-bez-zrnka",
+  "kind": "main",
+  "section": "Misky a teplá jídla",
+  "description": "Opečené kuřecí stehno v omáčce ze sójové omáčky a mirinu, s kulatozrnnou rýží a brokolicí.",
+  "about": [
+    "Pro ty, kdo syrovou rybu nejedí, je tu teplé kuře. Kůže se opéká pomalu na pánvi, dokud nezkřupe, omáčka se svaří až na konci.",
+    "Rýže je stejná jako na sushi, jen bez octa. Doma uvaříš obojí najednou za necelou hodinu."
+  ],
+  "price": 21900,
+  "image": "dish-kure-teriyaki-zrnko",
+  "recipe": "kure-teriyaki",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "brokolice",
+          "name": "Brokolice",
+          "priceDelta": 0
+        },
+        {
+          "id": "edamame",
+          "name": "Edamame",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "order": 50
+}

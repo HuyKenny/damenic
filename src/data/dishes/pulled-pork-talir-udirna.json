@@ -1,0 +1,60 @@
+{
+  "name": "Pulled pork talíř s hranolky a coleslaw",
+  "restaurant": "udirna-odnikud",
+  "kind": "main",
+  "section": "Pulled pork",
+  "description": "Vrchovatá porce trhaného vepřového s BBQ omáčkou, hranolky s uzenou paprikou, coleslaw a nakládané okurky, bez bulky.",
+  "about": [
+    "Pro ty, kterým bulka jen překáží. Maso je stejné jako v burgeru, jen ho je víc a přidáváme k němu hranolky a velkou porci coleslaw.",
+    "Na stůl pro dva se dá objednat i rodinná porce. Doma z jednoho pekáče plece nakrmíš šest lidí, takže talíř je spíš otázka servírování."
+  ],
+  "price": 28900,
+  "image": "dish-pulled-pork-talir-udirna",
+  "recipe": "pulled-pork-burger",
+  "recipeNote": "Maso podle receptu, místo bulky hranolky a coleslaw",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jedna",
+          "name": "Pro jednoho",
+          "priceDelta": 0
+        },
+        {
+          "id": "rodinna",
+          "name": "Rodinná pro čtyři",
+          "priceDelta": 69000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "omacka",
+          "name": "BBQ omáčka navíc",
+          "priceDelta": 1500
+        },
+        {
+          "id": "krouzky",
+          "name": "Cibulové kroužky",
+          "priceDelta": 6900
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    3,
+    4,
+    10
+  ],
+  "order": 20
+}

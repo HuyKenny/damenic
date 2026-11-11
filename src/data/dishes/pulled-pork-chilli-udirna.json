@@ -1,0 +1,62 @@
+{
+  "name": "Pikantní pulled pork s jalapeños",
+  "restaurant": "udirna-odnikud",
+  "kind": "main",
+  "section": "Pulled pork",
+  "description": "Trhané vepřové v BBQ omáčce s chilli, nakládané jalapeños, červená cibule a coleslaw v opečené bulce.",
+  "about": [
+    "Stejný pulled pork, jen BBQ omáčku ostříme chilli vločkami a pálivou paprikou a na maso přidáváme jalapeños. Coleslaw tu tlumí pálivost.",
+    "Doma stačí do omáčky přidat půl lžičky chilli vloček a vařit ji o minutu déle, aby se pálivost rozpustila."
+  ],
+  "price": 26900,
+  "image": "dish-pulled-pork-chilli-udirna",
+  "recipe": "pulled-pork-burger",
+  "recipeNote": "Do BBQ omáčky přidej půl lžičky chilli vloček, na maso jalapeños",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "hodne",
+          "name": "Hodně pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bez",
+          "name": "Bez přílohy",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 5900
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    1,
+    3,
+    4,
+    10,
+    11
+  ],
+  "order": 30
+}

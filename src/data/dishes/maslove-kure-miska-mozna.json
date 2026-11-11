@@ -1,0 +1,57 @@
+{
+  "name": "Butter chicken v misce",
+  "restaurant": "masala-mozna",
+  "kind": "main",
+  "section": "Kari a rýže",
+  "price": 15900,
+  "description": "Malá porce máslového kuřete v rajčatové omáčce se smetanou, s rýží basmati.",
+  "about": [
+    "Butter chicken ve stánkové velikosti. Stejná marinovaná stehna a hladká omáčka, jen v misce, kterou sníš ve stoje.",
+    "Kdo chce porovnávat, může si u ostatních smyšlených podniků objednat restaurační porci. Recept je jeden, rozdíl je jen ve velikosti misky."
+  ],
+  "recipe": "butter-chicken",
+  "image": "dish-maslove-kure-miska-mozna",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "naan",
+          "name": "Naan",
+          "priceDelta": 4500
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    7
+  ],
+  "order": 60
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Citronáda s kardamomem 0,4 l",
+  "restaurant": "masala-mozna",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 4900,
+  "description": "Citronová limonáda s kardamomem a mátou.",
+  "recipe": null,
+  "image": "dish-citronada-kardamom-mozna",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 100
+}

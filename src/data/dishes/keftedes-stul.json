@@ -1,0 +1,54 @@
+{
+  "name": "Keftedes s bulgurem a jogurtem",
+  "restaurant": "taverna-prazdny-stul",
+  "kind": "main",
+  "section": "Talíře",
+  "price": 21900,
+  "description": "Grilované masové kuličky z hovězího s petrželkou, s rajčatovým bulgurem a česnekovým jogurtem.",
+  "about": [
+    "Keftedes jsou řecký příbuzný tureckých köfte. Mleté maso s cibulí, česnekem a bylinkami se vytvaruje, opeče dozlatova a podává s přílohou a jogurtem.",
+    "Bulgur s rajčatovým protlakem je sytý a hotový za čtvrt hodiny. Doma podle receptu na köfte, jen s mátou a oreganem navíc."
+  ],
+  "recipe": "kofte-s-bulgurem",
+  "recipeNote": "Recept je na köfte; do masa přidej lžičku oregana a trochu nasekané máty.",
+  "image": "dish-keftedes-stul",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bulgur",
+          "name": "Bulgur",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "feta",
+          "name": "Balkánský sýr",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 50
+}

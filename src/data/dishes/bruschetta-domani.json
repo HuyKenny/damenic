@@ -1,0 +1,72 @@
+{
+  "name": "Bruschetta s rajčaty a bazalkou",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Předkrmy",
+  "description": "Čtyři plátky opečeného venkovského chleba potřené česnekem, s kostičkami rajčat, bazalkou a olivovým olejem.",
+  "about": [
+    "Bruschetta je původně způsob, jak zachránit den starý chléb: opéct, potřít česnekem a pokapat novým olejem. Rajčata přišla až později a dnes si bez nich bruschettu skoro nikdo neumí představit.",
+    "Rozhoduje pořadí. Chléb musí být horký a křupavý, rajčata vychlazená a scezená, a potkat se mají až na talíři, jinak z křupavého plátku zbude houba."
+  ],
+  "price": 14900,
+  "image": "dish-bruschetta-domani",
+  "recipe": "bruschetta",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "4ks",
+          "name": "4 plátky",
+          "priceDelta": 0
+        },
+        {
+          "id": "6ks",
+          "name": "6 plátků",
+          "priceDelta": 5000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "parmazan",
+          "name": "Hobliny parmazánu",
+          "priceDelta": 3000
+        },
+        {
+          "id": "balzamiko",
+          "name": "Kapka balzamika",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cesneku",
+          "name": "Bez česneku",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    1
+  ],
+  "order": 10
+}

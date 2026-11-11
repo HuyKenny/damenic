@@ -1,0 +1,39 @@
+{
+  "name": "Trattoria Domani",
+  "category": "italska",
+  "cuisine": "Italská trattorie",
+  "tagline": "Domani znamená zítra. A zítra znamená zítra.",
+  "description": "Smyšlená rodinná trattorie s lasagnemi z velkého pekáče, pomalým ragú a rizotem, které se míchá u plotny. Objednávky přijímáme ochotně a vyřizujeme je vždycky domani, tedy zítra, takže nakonec dostaneš jen recept a vaříš sám.",
+  "etaMinutes": 40,
+  "deliveryFee": 4900,
+  "minOrder": 24900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:30",
+    "close": "22:30"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa",
+    "rodinné porce"
+  ],
+  "promo": {
+    "type": "percent",
+    "label": "−15 % nad 350 Kč",
+    "percent": 15,
+    "minSubtotal": 35000
+  },
+  "logo": {
+    "text": "TD",
+    "color": "#7A2E4A",
+    "ink": "light"
+  },
+  "cover": "rest-trattoria-domani",
+  "sections": [
+    "Předkrmy",
+    "Těstoviny a lasagne",
+    "Rizoto a gnocchi",
+    "Přílohy a nápoje"
+  ],
+  "order": 101
+}

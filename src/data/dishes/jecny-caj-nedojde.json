@@ -1,0 +1,16 @@
+{
+  "name": "Ledový ječný čaj 0,4 l",
+  "restaurant": "ramen-nedojde",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Pražený ječmen louhovaný za studena, nesladký, s jemně oříškovou chutí.",
+  "price": 4900,
+  "image": "dish-jecny-caj-nedojde",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    1
+  ],
+  "order": 90
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Teplý čokoládový dortík",
+  "restaurant": "zitra-upecem",
+  "kind": "main",
+  "section": "Brownies a muffiny",
+  "description": "Malý čokoládový dortík pečený na objednávku, s okrajem upečeným a středem ještě tekutým.",
+  "about": [
+    "Teplý dortík se peče jen pár minut a podává hned. Okraj má pevný, střed teče, a když se nechá čekat, střed dopeče a z dezertu je obyčejný muffin.",
+    "K dortíku si můžeš přidat zmrzlinu nebo maliny. Doma se těsto dá připravit ráno a péct až po večeři."
+  ],
+  "price": 14900,
+  "image": "dish-lava-cake-upecem",
+  "recipe": "lava-cake",
+  "optionGroups": [
+    {
+      "id": "podavani",
+      "name": "Podávání",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "zmrzlina",
+          "name": "Se zmrzlinou",
+          "priceDelta": 0
+        },
+        {
+          "id": "maliny",
+          "name": "S malinami",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 40
+}

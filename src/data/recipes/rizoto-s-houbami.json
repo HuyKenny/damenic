@@ -1,0 +1,166 @@
+{
+  "title": "Houbové rizoto",
+  "keywords": [
+    "rizoto recept",
+    "houbové rizoto",
+    "rizoto s houbami",
+    "rizoto se žampiony a hříbky"
+  ],
+  "image": "dish-rizoto-s-houbami",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 0,
+  "waitMinutes": 20,
+  "waitLabel": "namáčení sušených hub",
+  "difficulty": "střední",
+  "intro": "Krémové rizoto se žampiony a sušenými hříbky pro čtyři. Za 40 minut práce u plotny máš hotovo; krémovost dělá správná rýže, postupné podlévání horkým vývarem a máslo se sýrem na konci.",
+  "ingredients": [
+    {
+      "ingredient": "hriby-susene",
+      "amount": 20,
+      "unit": "g",
+      "group": "Houby"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "horká",
+      "group": "Houby"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 250,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Houby"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Houby"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "najemno",
+      "group": "Houby"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 900,
+      "unit": "ml",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "ryze-arborio",
+      "amount": 320,
+      "unit": "g",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "vino-bile",
+      "amount": 100,
+      "unit": "ml",
+      "note": "suché",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 50,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "podle slanosti vývaru",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Rizoto"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Houby",
+      "text": "Sušené hříbky zalij horkou vodou a nech 20 minut namáčet. Pak je vylov, nasekej a vodu přeceď přes jemné sítko nebo papírový ubrousek, aby v ní nezůstal písek."
+    },
+    {
+      "section": "Houby",
+      "text": "Houbovou vodu nalij k vývaru a udržuj ho v hrnci těsně pod bodem varu. Do rizota se musí přilévat horký."
+    },
+    {
+      "section": "Houby",
+      "text": "Na pánvi rozpal olej a žampiony na něm opékej na prudkém ohni 5 minut dozlatova. Přidej hříbky a česnek, minutu je opékej, lehce osol a odstav."
+    },
+    {
+      "section": "Rizoto",
+      "text": "V širokém hrnci rozpusť polovinu másla a cibuli na něm 5 minut dus doměkka, nesmí zhnědnout. Vsyp rýži a 2 minuty ji míchej, až zrnka na krajích zprůsvitní."
+    },
+    {
+      "section": "Rizoto",
+      "text": "Podlij vínem a míchej, dokud se neodpaří. Pak přilévej horký vývar po jedné naběračce a další přidej vždy, až rýže předchozí skoro vsákne. Míchej často, ne bez přestání."
+    },
+    {
+      "section": "Rizoto",
+      "text": "Po 12 minutách vmíchej houby a pokračuj s vývarem ještě 5 až 7 minut, dokud rýže není měkká, ale uprostřed lehce pevná. Rizoto má téct, ne stát na talíři jako kaše."
+    },
+    {
+      "section": "Rizoto",
+      "text": "Stáhni hrnec z plotny, vmíchej zbylé studené máslo a parmazán, přiklop a nech 2 minuty odpočinout. Dochuť solí a pepřem a posyp petrželkou."
+    }
+  ],
+  "tips": [
+    "Vývar ochutnej předem. Když je hodně slaný, sůl do rizota přidávej až na konci.",
+    "Rizoto nečeká. Měj nádobí a talíře připravené dřív, než vmícháš máslo, protože v hrnci rychle tuhne."
+  ],
+  "substitutions": [
+    "Místo arboria se hodí carnaroli nebo vialone nano. Obyčejná dlouhozrnná rýže krémové rizoto neudělá.",
+    "Víno nahradíš naběračkou vývaru a lžící citronové šťávy na konci.",
+    "Hříbky mohou být čerstvé místo sušených; vezmi 200 g a opeč je se žampiony."
+  ],
+  "faq": [
+    {
+      "q": "Jakou rýži použít na rizoto?",
+      "a": "Kulatozrnnou rýži na rizoto, nejčastěji arborio nebo carnaroli. Pouští škrob, který rizoto zahustí do krému."
+    },
+    {
+      "q": "Proč je moje rizoto lepivé jako kaše?",
+      "a": "Rýže se převařila nebo dostala moc vývaru najednou. Vař ji, dokud je uprostřed ještě lehce pevná, a přilévej vývar postupně."
+    },
+    {
+      "q": "Musí se rizoto míchat pořád?",
+      "a": "Ne bez přestání, ale často. Míchání uvolňuje škrob a hlídá, aby se rýže nepřichytila ke dnu."
+    }
+  ]
+}

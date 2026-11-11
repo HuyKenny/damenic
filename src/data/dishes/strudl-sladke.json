@@ -1,0 +1,56 @@
+{
+  "name": "Teplý štrúdl se zmrzlinou",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Teplé dezerty",
+  "description": "Ohřátý kus jablečného štrúdlu z taženého těsta s kopečkem vanilkové zmrzliny.",
+  "about": [
+    "Teplý štrúdl se studenou zmrzlinou je kombinace, kterou zná každá vídeňská kavárna. Křupavé těsto, měkká jablka se skořicí a zmrzlina, která po stranách pomalu teče.",
+    "Zmrzlinu si můžeš vyměnit za šlehačku. Doma štrúdl ohřej v troubě na 160 °C asi 10 minut; v mikrovlnce změkne."
+  ],
+  "price": 13900,
+  "image": "dish-strudl-sladke",
+  "recipe": "strudl",
+  "recipeNote": "Zmrzlinu si doma přidej hotovou.",
+  "optionGroups": [
+    {
+      "id": "k-tomu",
+      "name": "K tomu",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "zmrzlina",
+          "name": "Vanilková zmrzlina",
+          "priceDelta": 0
+        },
+        {
+          "id": "slehacka",
+          "name": "Šlehačka",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "orechu",
+          "name": "Bez ořechů",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    8
+  ],
+  "order": 20
+}

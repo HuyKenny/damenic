@@ -1,0 +1,112 @@
+{
+  "title": "Pita chléb",
+  "keywords": [
+    "pita chléb recept",
+    "pita recept",
+    "domácí pita",
+    "arabský chléb pita"
+  ],
+  "intro": "Osm nadýchaných pita placek s kapsou, upečených v hodně rozpálené troubě. Počítej asi se dvěma hodinami, z toho hodinu a čtvrt těsto kyne; kapsa se udělá jen na rozpáleném plechu.",
+  "image": "dish-pita-chleb",
+  "category": "kebab",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 30,
+  "cookMinutes": 20,
+  "waitMinutes": 75,
+  "waitLabel": "kynutí a odpočinek těsta",
+  "difficulty": "střední",
+  "tips": [
+    "Plech musí být rozpálený už při vložení placky. Prudký žár zespodu promění vodu v páru a ta pitu nafoukne.",
+    "Pita se dá péct i na suché rozpálené pánvi, minutu z jedné strany a minutu z druhé.",
+    "Vychladlé pity zamraz v sáčku; rozmrazené je stačí na minutu nahřát."
+  ],
+  "substitutions": [
+    "Čerstvé droždí nahradíš 4 g sušeného, smíchej ho rovnou s moukou.",
+    "Až třetinu hladké mouky můžeš nahradit celozrnnou, pita bude hutnější."
+  ],
+  "faq": [
+    {
+      "q": "Proč se pita nenafoukla?",
+      "a": "Nejčastěji trouba nebo plech nebyly dost rozpálené, nebo je placka moc tenká či propíchnutá. Rozpal plech aspoň 20 minut předem a válej rovnoměrně na 5 mm."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí pita?",
+      "a": "Zabalená v sáčku den až dva při pokojové teplotě. Ztvrdlou krátce nahřej na pánvi nebo v toustovači."
+    },
+    {
+      "q": "Jde pita upéct na pánvi?",
+      "a": "Ano, na suché silné pánvi rozpálené na vysoký žár. Kapsa se udělá méně spolehlivě než v troubě, placky ale budou měkké."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 500,
+      "unit": "g",
+      "note": "plus na podsypání",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "vlažná",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozdrob do vlažné vody s cukrem a nech 10 minut stát. Přidej mouku, sůl a olej a hněť 8 až 10 minut, dokud těsto není hladké a pružné."
+    },
+    {
+      "section": "Těsto",
+      "text": "Zakryj ho a nech na teplém místě kynout asi hodinu, dokud nezdvojnásobí objem."
+    },
+    {
+      "section": "Těsto",
+      "text": "Rozděl ho na 8 dílů, vytvaruj kuličky a nech je pod utěrkou 15 minut odpočinout."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu rozpal na 250 °C a vlož do ní plech nebo pečicí kámen aspoň na 20 minut."
+    },
+    {
+      "section": "Pečení",
+      "text": "Kuličku rozválej na kruh o průměru asi 16 cm a tloušťce 5 mm. Válej rovnoměrně a nepropichuj ji, jinak se kapsa nevytvoří."
+    },
+    {
+      "section": "Pečení",
+      "text": "Placky pokládej po dvou nebo třech na rozpálený plech a peč 4 až 5 minut, dokud se nenafouknou a nezačnou zlátnout jen místy."
+    },
+    {
+      "section": "Pečení",
+      "text": "Hotové pity hned zabal do utěrky, splasknou a zůstanou měkké. Stejně upeč zbytek."
+    }
+  ]
+}

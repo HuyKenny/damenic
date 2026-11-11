@@ -1,0 +1,15 @@
+{
+  "name": "Guacamole",
+  "restaurant": "chilli-bez-adresy",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 7900,
+  "description": "Avokádo rozmačkané s limetkou, červenou cibulí, chilli a koriandrem.",
+  "recipe": "guacamole",
+  "image": "dish-guacamole-bez",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 1,
+  "allergens": [],
+  "order": 70
+}

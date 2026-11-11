@@ -1,0 +1,16 @@
+{
+  "name": "Studená káva s mlékem 0,3 l",
+  "restaurant": "udirna-odnikud",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Káva louhovaná přes noc za studena, s mlékem a ledem, neslazená.",
+  "price": 7400,
+  "image": "dish-studena-kava-udirna",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "allergens": [
+    7
+  ],
+  "order": 100
+}

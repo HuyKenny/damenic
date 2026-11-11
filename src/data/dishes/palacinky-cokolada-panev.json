@@ -1,0 +1,62 @@
+{
+  "name": "Palačinky s čokoládou a banánem",
+  "restaurant": "prazdna-panev",
+  "kind": "main",
+  "section": "Sladké palačinky",
+  "description": "Palačinky přelité rozpuštěnou hořkou čokoládou, s plátky banánu a lžící šlehačky.",
+  "about": [
+    "Čokoládová palačinka s banánem je ta, kterou si v palačinkárně objednávají děti a dospělí předstírají, že jen pro ně. Teplá palačinka se poleje rozpuštěnou čokoládou a obloží banánem nakrájeným na kolečka.",
+    "Šlehačka navrch je volitelná jen teoreticky. Základní těsto zůstává stejné, takže si palačinky doma upečeš podle receptu a čokoládu rozpustíš ve vodní lázni."
+  ],
+  "price": 14900,
+  "image": "dish-palacinky-cokolada-panev",
+  "recipe": "palacinky",
+  "recipeNote": "Recept je na palačinkové těsto; čokoládu a banán přidáš navíc.",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "dve",
+          "name": "Dvě palačinky",
+          "priceDelta": 0
+        },
+        {
+          "id": "tri",
+          "name": "Tři palačinky",
+          "priceDelta": 4500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-slehacky",
+          "name": "Bez šlehačky",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-bananu",
+          "name": "Bez banánu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    6,
+    7
+  ],
+  "order": 30
+}

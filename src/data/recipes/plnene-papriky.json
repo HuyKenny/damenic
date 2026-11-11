@@ -1,0 +1,206 @@
+{
+  "title": "Plněné papriky",
+  "keywords": [
+    "plněné papriky recept",
+    "recept na plněné papriky",
+    "plněné papriky v rajské omáčce",
+    "plněné papriky s rýží"
+  ],
+  "intro": "Osm paprik plněných masem s rýží v rajské omáčce pro čtyři, za necelé dvě hodiny. Záleží na tom, aby papriky nebyly přeplněné a vařily se jen mírně, jinak popraskají.",
+  "image": "dish-plnene-papriky",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 50,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "ingredients": [
+    {
+      "ingredient": "paprika-zelena",
+      "amount": 8,
+      "unit": "ks",
+      "note": "menší, nebo žluté",
+      "group": "Papriky"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 300,
+      "unit": "g",
+      "group": "Papriky"
+    },
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 300,
+      "unit": "g",
+      "group": "Papriky"
+    },
+    {
+      "ingredient": "ryze-dlouhozrnna",
+      "amount": 80,
+      "unit": "g",
+      "group": "Papriky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Papriky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Papriky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Papriky"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Papriky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Papriky"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Papriky"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 700,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 400,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "podle chuti",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "podle chuti",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "knedlik-houskovy",
+      "amount": 600,
+      "unit": "g",
+      "note": "nebo vařená rýže",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Papriky",
+      "text": "Rýži propláchni a vař ji 8 minut v osolené vodě, aby byla napůl měkká. Sceď ji a nech vychladnout."
+    },
+    {
+      "section": "Papriky",
+      "text": "Paprikám seřízni vršek se stopkou a vyndej semínka a bílé přepážky."
+    },
+    {
+      "section": "Papriky",
+      "text": "V míse smíchej obě mletá masa, rýži, cibuli, vejce, prolisovaný česnek, mletou papriku, sůl a pepř a důkladně promíchej rukou."
+    },
+    {
+      "section": "Papriky",
+      "text": "Papriky naplň volně, bez upěchování, protože rýže ještě nabobtná. Ze zbylé náplně vytvaruj kuličky."
+    },
+    {
+      "section": "Omáčka",
+      "text": "V širokém hrnci rozpusť máslo, vmíchej mouku a 2 až 3 minuty ji opékej. Přidej protlak, pak po částech passatu a vodu a prošlehej metlou do hladka. Přidej nové koření a bobkový list."
+    },
+    {
+      "section": "Vaření",
+      "text": "Omáčku přiveď k varu, vlož do ní papriky otvorem nahoru a mezi ně kuličky. Přiklop a vař na mírném plameni 40 až 45 minut."
+    },
+    {
+      "section": "Vaření",
+      "text": "Během vaření nemíchej, jen občas hrncem zatřes, aby se omáčka nepřichytila ke dnu."
+    },
+    {
+      "section": "Vaření",
+      "text": "Papriky a kuličky vyndej, z omáčky vylov koření a dochuť ji cukrem, octem a solí. Papriky do ní vrať a podávej s knedlíkem nebo rýží."
+    }
+  ],
+  "tips": [
+    "Vršky paprik můžeš nasekat nadrobno a přidat do omáčky, dodají jí chuť.",
+    "Omáčka má papriky aspoň ze dvou třetin zakrývat. Když jí ubývá, přilij trochu vody."
+  ],
+  "substitutions": [
+    "Stačí i jen jeden druh mletého masa, směs hovězího a vepřového je ale šťavnatější.",
+    "Rýži můžeš dát do náplně i syrovou. Papriky pak vař o 10 minut déle a náplň bude pevnější."
+  ],
+  "faq": [
+    {
+      "q": "Proč plněné papriky praskají?",
+      "a": "Byly přeplněné nebo se vařily prudce. Náplň dávej volně a omáčku udržuj jen na mírném varu."
+    },
+    {
+      "q": "Musí se rýže do plněných paprik předvařit?",
+      "a": "Nemusí, ale předvařená rýže se v náplni spolehlivě uvaří. Syrová potřebuje delší vaření a víc tekutiny."
+    },
+    {
+      "q": "Dají se plněné papriky zamrazit?",
+      "a": "Ano, i s omáčkou, na 2 až 3 měsíce. Rozmrazuj je v lednici a pomalu prohřej."
+    }
+  ]
+}

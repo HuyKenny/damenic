@@ -1,0 +1,74 @@
+{
+  "name": "Slaná palačinka se špenátem a balkánským sýrem",
+  "restaurant": "prazdna-panev",
+  "kind": "main",
+  "section": "Slané palačinky",
+  "description": "Palačinka plněná špenátem podušeným na česneku a rozdrobeným balkánským sýrem.",
+  "about": [
+    "Špenát s balkánským sýrem je náplň, která je hotová za pět minut. Listy se krátce podusí na másle s česnekem, aby splaskly, dají se na palačinku a navrch se rozdrobí slaný sýr.",
+    "Palačinka se přeloží a ještě chvíli ohřívá, dokud sýr nezměkne. Těsto je bez cukru, jinak úplně stejné jako na sladké palačinky."
+  ],
+  "price": 15900,
+  "image": "dish-palacinka-spenat-feta-panev",
+  "recipe": "palacinky",
+  "recipeNote": "Recept je na palačinkové těsto; pro slanou verzi vynech cukr podle náhrad.",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jedna",
+          "name": "Jedna palačinka",
+          "priceDelta": 0
+        },
+        {
+          "id": "dve",
+          "name": "Dvě palačinky",
+          "priceDelta": 6900
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "vejce",
+          "name": "Sázené vejce",
+          "priceDelta": 2000
+        },
+        {
+          "id": "rajcata",
+          "name": "Cherry rajčata",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-cesneku",
+          "name": "Bez česneku",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 50
+}

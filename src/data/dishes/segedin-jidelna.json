@@ -1,0 +1,54 @@
+{
+  "name": "Segedín s knedlíkem z menu",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Polední menu",
+  "description": "Vepřové s kysaným zelím a smetanou, jak ho jídelna vydává ve čtvrtek. Se třemi plátky knedlíku.",
+  "about": [
+    "Segedín patří do jídelního lístku každé jídelny, protože se dá uvařit předem a druhý den je ještě lepší. Vepřové plecko se dusí s cibulí a paprikou, pak se k němu přidá kysané zelí a obojí se dusí dohromady.",
+    "Smetana s trochou mouky na konci udělá z dušeného zelí hustou omáčku. Na tácu má knedlík své přesné místo a omáčka ho vždycky trochu zaleje."
+  ],
+  "price": 15900,
+  "image": "dish-segedin-jidelna",
+  "recipe": "segedinsky-gulas",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-smetany",
+          "name": "Bez smetany navrch",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 20
+}

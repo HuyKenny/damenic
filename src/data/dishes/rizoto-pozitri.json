@@ -1,0 +1,55 @@
+{
+  "name": "Hříbkové rizoto do misky",
+  "restaurant": "lahudky-pozitri",
+  "kind": "main",
+  "section": "Z teplé vitríny",
+  "description": "Rizoto se sušenými hříbky a žampiony, dokončené máslem a parmazánem, v misce s petrželkou.",
+  "about": [
+    "Rizoto ve vitríně je trochu podvod, protože rizoto čekat nemá. V lahůdkách ho proto dělají na menší dávky a při výdeji ho rozvolní naběračkou vývaru.",
+    "Doma si ho můžeš dopřát čerstvé, to je jeho jediná správná podoba. Recept je na čtyři porce a hlavní práce je stát u plotny a podlévat."
+  ],
+  "price": 21900,
+  "image": "dish-rizoto-pozitri",
+  "recipe": "rizoto-s-houbami",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "miska",
+          "name": "Miska (300 g)",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká miska (450 g)",
+          "priceDelta": 5500
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "parmazan",
+          "name": "Parmazán navíc",
+          "priceDelta": 3000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    7,
+    9,
+    12
+  ],
+  "order": 30
+}

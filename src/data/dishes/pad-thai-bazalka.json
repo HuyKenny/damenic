@@ -1,0 +1,59 @@
+{
+  "name": "Pad thai s kuřetem a vejcem",
+  "restaurant": "pozdni-bazalka",
+  "kind": "main",
+  "section": "Wok",
+  "description": "Restované rýžové nudle s kuřecím masem, vejcem, mungo klíčky a arašídy.",
+  "about": [
+    "Pad thai z woku je nejrychlejší jídlo nočního menu, smažení trvá pár minut.",
+    "Nudle se namáčejí ve vlažné vodě, ne v horké, jinak se na pánvi slepí."
+  ],
+  "price": 18900,
+  "image": "dish-pad-thai-bazalka",
+  "recipe": "pad-thai-kureci",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredne",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "arasidu",
+          "name": "Bez arašídů",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    3,
+    4,
+    5
+  ],
+  "order": 50
+}

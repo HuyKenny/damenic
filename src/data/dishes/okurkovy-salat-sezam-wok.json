@@ -28,5 +28,8 @@
     }
   ],
   "restaurant": "wok-nic-moc",
-  "image": "dish-okurkovy-salat-sezam-wok"
+  "image": "dish-okurkovy-salat-sezam-wok",
+  "allergens": [
+    11
+  ]
 }

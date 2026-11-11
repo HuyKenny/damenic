@@ -1,0 +1,33 @@
+{
+  "name": "Taquería Nic nového",
+  "category": "mexicka",
+  "cuisine": "Tacos a burrito",
+  "tagline": "Pod sluncem nic nového. Ani v tašce od kurýra.",
+  "description": "Smyšlená taquerie s tacos, burritem a salsou z čerstvých rajčat. Objednáš si nanečisto, kurýr nikam nevyrazí, a recept na každé jídlo je skutečný.",
+  "etaMinutes": 30,
+  "deliveryFee": 3900,
+  "minOrder": 19900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:00",
+    "close": "23:00"
+  },
+  "tags": [
+    "pikantní",
+    "bez masa"
+  ],
+  "logo": {
+    "text": "NN",
+    "color": "#0F766E",
+    "ink": "light"
+  },
+  "sections": [
+    "Tacos",
+    "Burrito a další",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 81,
+  "pickup": true,
+  "cover": "rest-taqueria-nic-noveho"
+}

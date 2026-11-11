@@ -1,0 +1,19 @@
+{
+  "name": "Edamame s chilli a česnekem",
+  "restaurant": "miska-nanecisto",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Lusky edamame orestované s česnekem, chilli vločkami a sójovou omáčkou. Prsty si olízneš, jen ne dnes.",
+  "price": 7900,
+  "image": "dish-edamame-chilli-nanecisto",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 1,
+  "allergens": [
+    1,
+    6
+  ],
+  "order": 80
+}

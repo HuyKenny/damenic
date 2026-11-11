@@ -1,0 +1,154 @@
+{
+  "title": "Koprovka",
+  "keywords": [
+    "koprovka recept",
+    "koprová omáčka recept",
+    "recept na koprovku",
+    "koprovka s vejcem"
+  ],
+  "intro": "Koprová omáčka s vařenými brambory a vejci natvrdo pro čtyři, hotová asi za tři čtvrtě hodiny. Chuť závisí na čerstvém kopru a na vyváženém poměru octa a cukru.",
+  "image": "dish-koprovka",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "note": "studené",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 300,
+      "unit": "ml",
+      "note": "nebo voda",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 1,
+      "unit": "ks",
+      "note": "velký svazek, asi 30 g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "podle chuti",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "podle chuti",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "oloupané",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 6,
+      "unit": "ks",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Přílohy",
+      "text": "Brambory nakrájej na stejně velké kusy a vař je v osolené vodě 20 minut doměkka."
+    },
+    {
+      "section": "Přílohy",
+      "text": "Vejce vař 10 minut natvrdo, zchlaď je ve studené vodě a oloupej."
+    },
+    {
+      "section": "Omáčka",
+      "text": "V hrnci rozpusť máslo, vmíchej mouku a za stálého míchání ji 2 minuty opékej. Jíška má zůstat světlá."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Po částech přilévej studené mléko a vývar a pokaždé prošlehej metlou do hladka."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Omáčku přiveď k varu a na mírném plameni ji vař 15 minut za častého míchání, aby se mouka provařila a nepřipálila se ke dnu."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Přilij smetanu a dochuť octem, cukrem, solí a pepřem. Omáčka má být jemně sladkokyselá."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Kopr nasekej nadrobno, vmíchej ho do omáčky stažené z plotny a už ji nevař, jinak kopr zhnědne a ztratí vůni."
+    },
+    {
+      "section": "Podávání",
+      "text": "Podávej s bramborami a rozpůlenými vejci."
+    }
+  ],
+  "tips": [
+    "Tvrdší stonky kopru můžeš nechat povařit v omáčce a před podáním vylovit. Jemné lístky dej až na konec.",
+    "Ocet a cukr přidávej po troškách, obojí je v omáčce rychle cítit."
+  ],
+  "substitutions": [
+    "Místo vajec se ke koprovce podává vařené hovězí maso; pak použij místo zeleninového hovězí vývar.",
+    "Brambory lze nahradit houskovým knedlíkem."
+  ],
+  "faq": [
+    {
+      "q": "Dá se koprovka uvařit se sušeným koprem?",
+      "a": "Dá, ale je méně aromatická. Použij asi 2 lžíce sušeného kopru a přidej ho už 5 minut před koncem vaření, aby změkl."
+    },
+    {
+      "q": "Proč má koprovka hrudky?",
+      "a": "Do jíšky se lila tekutina naráz nebo se nemíchalo metlou. Hrudky odstraníš propasírováním omáčky přes síto."
+    },
+    {
+      "q": "Jak koprovku ohřát?",
+      "a": "Pomalu na mírném plameni a za míchání. Po vychladnutí zhoustne, tak ji zřeď lžící mléka."
+    }
+  ],
+  "vegetarian": true
+}

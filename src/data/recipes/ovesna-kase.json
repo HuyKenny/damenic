@@ -1,0 +1,96 @@
+{
+  "title": "Ovesná kaše",
+  "keywords": [
+    "ovesná kaše recept",
+    "ovesná kaše z vloček",
+    "ovesná kaše s banánem",
+    "jak uvařit ovesnou kaši"
+  ],
+  "intro": "Krémová ovesná kaše na mléce pro dva, s banánem a opraženými ořechy, hotová za čtvrt hodiny. Záleží na poměru vloček a mléka a na tom, jak dlouho ji necháš probublávat.",
+  "image": "dish-ovesna-kase",
+  "category": "snidane",
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 7,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "ovesne-vlocky",
+      "amount": 80,
+      "unit": "g",
+      "note": "jemné"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 400,
+      "unit": "ml",
+      "note": "nebo půl na půl s vodou"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "banan",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do kastrolu dej vločky, mléko a špetku soli. Sůl kaši neosolí, jen zvýrazní chuť ovsa a mléka."
+    },
+    {
+      "text": "Přiveď ji k varu na středním plameni a pak stáhni plamen na mírný. Vař 5 až 7 minut za častého míchání, aby se kaše nepřichytila ke dnu."
+    },
+    {
+      "text": "Kaše je hotová, když vločky změknou a směs zhoustne do krémové konzistence. Po odstavení ještě trochu zhoustne; je-li moc hustá, přilij lžíci až dvě mléka."
+    },
+    {
+      "text": "Ořechy nahrubo nasekej a 2 minuty je opraž na suché pánvi, dokud nezavoní. Banán nakrájej na kolečka."
+    },
+    {
+      "text": "Kaši rozděl do misek, polož na ni banán a ořechy, pokapej medem a posyp skořicí."
+    }
+  ],
+  "tips": [
+    "Zbylá kaše se dá druhý den ohřát. Přilij k ní trochu mléka a míchej ji na mírném plameni.",
+    "Pro hladší kaši bez kousků vloček ji na konci krátce prošlehej metlou."
+  ],
+  "substitutions": [
+    "Mléko nahradíš rostlinným nápojem nebo vodou; s vodou je kaše méně krémová.",
+    "Banán vyměníš za nastrouhané jablko, borůvky nebo lžíci arašídového másla."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je poměr vloček a mléka na ovesnou kaši?",
+      "a": "Počítej zhruba 40 g jemných vloček na 200 ml tekutiny na porci. Pro hustší kaši dej tekutiny méně, pro řidší víc."
+    },
+    {
+      "q": "Dá se ovesná kaše připravit večer předem?",
+      "a": "Ano, bez vaření: vločky zalij mlékem nebo jogurtem v dvojnásobném objemu a nech je přes noc v lednici. Ráno je stačí ochutit."
+    },
+    {
+      "q": "Jaké vločky jsou na kaši nejlepší?",
+      "a": "Jemné vločky se uvaří za 3 až 5 minut a dají krémovou kaši. Velké vločky potřebují 8 až 10 minut a zůstanou víc na skus."
+    }
+  ]
+}

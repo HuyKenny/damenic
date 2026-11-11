@@ -1,0 +1,16 @@
+{
+  "name": "Mátové čatní",
+  "restaurant": "masala-mozna",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 2900,
+  "description": "Rozmixovaná máta a koriandr s jogurtem, limetkou a chilli. K samosám patří, i když žádné nepřijedou.",
+  "recipe": null,
+  "image": "dish-matove-catni-mozna",
+  "vegetarian": true,
+  "spicy": 1,
+  "allergens": [
+    7
+  ],
+  "order": 80
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Buddha bowl s arašídovým dresinkem",
+  "restaurant": "ani-drobek",
+  "kind": "main",
+  "section": "Misky",
+  "description": "Quinoa, pečená brokolice, edamame, mrkev, červené zelí s limetkou a avokádo, přelité hustým arašídovým dresinkem se sójovou omáčkou.",
+  "about": [
+    "Miska poskládaná z vrstev, kde každá část má svou úpravu: brokolice je pečená do hněda, zelí naložené s limetkou, edamame jen spařené. Dohromady je drží arašídový dresink.",
+    "Dresink je výrazný, aby ochutil i neslanou quinou. Doma si ho rozmíchej hustší a řeď ho teplou vodou až podle potřeby."
+  ],
+  "price": 22900,
+  "image": "dish-buddha-bowl",
+  "recipe": "buddha-bowl",
+  "optionGroups": [
+    {
+      "id": "zaklad",
+      "name": "Základ",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "quinoa",
+          "name": "Quinoa",
+          "priceDelta": 0
+        },
+        {
+          "id": "jasminova",
+          "name": "Jasmínová rýže",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "tofu",
+          "name": "Křupavé tofu",
+          "priceDelta": 4500
+        },
+        {
+          "id": "avokado",
+          "name": "Avokádo navíc",
+          "priceDelta": 3500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-arasidu",
+          "name": "Tahini místo arašídového dresinku",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-koriandru",
+          "name": "Bez koriandru",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    1,
+    5,
+    6,
+    11
+  ],
+  "order": 20
+}

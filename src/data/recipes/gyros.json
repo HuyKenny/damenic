@@ -1,0 +1,191 @@
+{
+  "title": "Gyros z vepřové krkovice",
+  "keywords": [
+    "gyros recept",
+    "domácí gyros",
+    "gyros z vepřového",
+    "gyros v pitě recept"
+  ],
+  "intro": "Čtyři porce řeckého gyrosu z marinované vepřové krkovice v pitě s tzatziki, rajčaty a hranolky. Celkem asi tři hodiny, z toho dvě hodiny maso marinuje; doma rozhoduje, aby se tenké plátky opekly prudce a do křupava.",
+  "image": "dish-gyros",
+  "category": "kebab",
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 25,
+  "waitMinutes": 120,
+  "waitLabel": "marinování masa",
+  "difficulty": "střední",
+  "tips": [
+    "Maso krájej tenké a nepřeplňuj pánev. V jedné vrstvě se opeče, na hromadě se dusí.",
+    "Plátky krájej snáz, když krkovici dáš předem na 30 minut do mrazáku.",
+    "Na plnější tzatziki použij samostatný recept, tady je rychlá verze ke gyrosu."
+  ],
+  "substitutions": [
+    "Krkovici můžeš nahradit kuřecími stehny; opékej je o minutu kratší dobu.",
+    "Místo hranolků dej do pity jen víc zeleniny, například ledový salát a okurku."
+  ],
+  "faq": [
+    {
+      "q": "Jaké maso na gyros?",
+      "a": "Tradičně vepřová krkovice nebo plec, které mají dost tuku a nevysychají. Často se dělá i z kuřecích stehen; prsa bývají suchá."
+    },
+    {
+      "q": "Jak dlouho marinovat maso na gyros?",
+      "a": "Aspoň dvě hodiny, nejlépe přes noc. Citron v marinádě dovoluje nechat maso v lednici až do druhého dne."
+    },
+    {
+      "q": "Jaký je rozdíl mezi gyrosem a kebabem?",
+      "a": "Gyros je řecký a dělá se nejčastěji z vepřového s oreganem, podává se s tzatziki a hranolky v pitě. Kebab je turecký, bývá z kuřete, telecího nebo jehněčího a koření se víc kmínem a paprikou."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "veprova-krkovice",
+      "amount": 800,
+      "unit": "g",
+      "note": "bez kosti",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno nastrouhaná",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "jogurt-recky",
+      "amount": 250,
+      "unit": "g",
+      "group": "Rychlé tzatziki"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nastrouhaná a vymačkaná",
+      "group": "Rychlé tzatziki"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Rychlé tzatziki"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Rychlé tzatziki"
+    },
+    {
+      "ingredient": "pita",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "hranolky-mrazene",
+      "amount": 400,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "na měsíčky",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "na tenké plátky",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Marináda",
+      "text": "Krkovici nakrájej na plátky silné asi 5 mm a ty pak na proužky široké 2 až 3 cm. Promíchej je se všemi surovinami na marinádu, zakryj a nech v lednici aspoň 2 hodiny, ideálně přes noc."
+    },
+    {
+      "section": "Tzatziki",
+      "text": "Jogurt smíchej s vymačkanou okurkou, česnekem a solí a dej do lednice."
+    },
+    {
+      "section": "Pečení",
+      "text": "Hranolky upeč v troubě podle návodu na obalu, obvykle 20 minut na 220 °C."
+    },
+    {
+      "section": "Pečení",
+      "text": "Velkou pánev rozpal na vysoký žár a maso opékej bez dalšího tuku ve třech dávkách po 5 až 6 minutách, dokud nemá tmavé křupavé okraje. Hotové dávky drž teplé v míse přikryté alobalem."
+    },
+    {
+      "section": "Pečení",
+      "text": "Pity pokrop vodou a nahřej na suché pánvi asi 30 sekund z každé strany, nebo 3 minuty v troubě."
+    },
+    {
+      "section": "Podávání",
+      "text": "Pitu potři tzatziki, dej na ni maso, rajčata, cibuli a pár hranolků, zaroluj a spodek zabal do pečicího papíru. Případně podávej všechno na talíři vedle sebe."
+    }
+  ]
+}

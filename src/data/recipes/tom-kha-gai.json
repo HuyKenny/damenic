@@ -1,0 +1,122 @@
+{
+  "title": "Tom kha gai",
+  "category": "thajska",
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "difficulty": "snadné",
+  "keywords": [
+    "tom kha gai recept",
+    "tom kha polévka",
+    "thajská kokosová polévka s kuřetem",
+    "tom kha kai recept"
+  ],
+  "intro": "Thajská kokosová polévka tom kha gai s kuřecím masem a houbami pro dva, hotová asi za 35 minut. Záleží na galangalu, který jí dává jméno, a na mírném ohni, aby se kokosové mléko nesrazilo.",
+  "ingredients": [
+    {
+      "ingredient": "kokosove-mleko",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "galangal",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "citronova-trava",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "kafirove-listy",
+      "amount": 5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 250,
+      "unit": "g",
+      "note": "nebo stehna"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "rybi-omacka",
+      "amount": 2.5,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1.5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Galangal nakrájej na tenké plátky, citronovou trávu rozklepej a nakrájej na kusy dlouhé 4 cm, kafírové listy natrhej a chilli rozmáčkni."
+    },
+    {
+      "text": "Kokosové mléko a vývar zahřej v hrnci, přidej galangal, citronovou trávu, listy a chilli a vař na mírném ohni 10 minut. Hladina má jen lehce probublávat."
+    },
+    {
+      "text": "Kuřecí maso nakrájej na tenké plátky a vlož ho do polévky. Vař 5 až 6 minut, dokud není uvnitř bílé."
+    },
+    {
+      "text": "Přidej žampiony nakrájené na plátky a vař ještě 3 minuty."
+    },
+    {
+      "text": "Stáhni hrnec z ohně a dochuť polévku rybí omáčkou, cukrem a limetkovou šťávou. Má být krémová, slaná a příjemně kyselá."
+    },
+    {
+      "text": "Podávej posypanou koriandrem, s jasmínovou rýží nebo samotnou. Kusy koření se nejedí."
+    }
+  ],
+  "tips": [
+    "Polévku nevař prudce. Při silném varu se kokosové mléko srazí a oddělí se tuk.",
+    "Chceš-li polévku pálivější, přidej do misky lžičku thajské chilli pasty nebo pár kapek chilli oleje."
+  ],
+  "substitutions": [
+    "Bez masa: kuře nahraď kostkami tofu, vývar zeleninovým a rybí omáčku sójovou.",
+    "Galangal se dá nouzově nahradit zázvorem, ale polévka pak ztratí svůj typický charakter."
+  ],
+  "faq": [
+    {
+      "q": "Proč se kokosové mléko v polévce srazilo?",
+      "a": "Polévka se vařila prudce nebo dlouho. Kokosové mléko snese mírný var, při silném se tuk oddělí. Chuť to nezkazí, vzhled ano."
+    },
+    {
+      "q": "Jak udělat tom kha gai bez ryb?",
+      "a": "Rybí omáčku nahraď sójovou omáčkou s trochou soli a kuřecí vývar zeleninovým. S tofu místo kuřete pak bude polévka bez masa."
+    },
+    {
+      "q": "Kde koupit galangal a kafírové listy?",
+      "a": "V asijských obchodech, čerstvé nebo mražené. Mražené listy i galangal vydrží měsíce a do polévky se dávají bez rozmrazení."
+    }
+  ],
+  "image": "dish-tom-kha-gai",
+  "vegetarian": false
+}

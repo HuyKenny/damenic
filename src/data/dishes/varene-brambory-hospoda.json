@@ -28,5 +28,8 @@
     }
   ],
   "restaurant": "u-prazdneho-talire",
-  "image": "dish-varene-brambory-hospoda"
+  "image": "dish-varene-brambory-hospoda",
+  "allergens": [
+    7
+  ]
 }

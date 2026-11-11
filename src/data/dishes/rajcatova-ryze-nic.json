@@ -1,0 +1,15 @@
+{
+  "name": "Rajčatová rýže",
+  "restaurant": "taqueria-nic-noveho",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 4900,
+  "description": "Rýže vařená s rajčatovým protlakem a kmínem.",
+  "recipe": null,
+  "image": "dish-rajcatova-ryze-nic",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 80
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Brioškový french toast s borůvkami",
+  "restaurant": "na-lacno",
+  "kind": "main",
+  "section": "Sladké",
+  "description": "Silné plátky briošky namočené ve vejci s vanilkou, opečené na másle, s borůvkami a javorovým sirupem.",
+  "about": [
+    "Brioška je na french toast nejvděčnější pečivo: je máslová, lehce sladká a nasákne rovnoměrně. Na pánvi se zvenku zkaramelizuje a uvnitř zůstane měkká.",
+    "Můžeš si přidat mascarpone nebo slaninu, sladké se slaným funguje. Doma vezmi den staré pečivo, čerstvé se ve vejci rozpadá."
+  ],
+  "price": 19900,
+  "image": "dish-french-toast-lacno",
+  "recipe": "french-toast",
+  "recipeNote": "V receptu je toustový chléb; s brioškou se postupuje stejně.",
+  "optionGroups": [
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "mascarpone",
+          "name": "Lžíce mascarpone",
+          "priceDelta": 2500
+        },
+        {
+          "id": "slanina",
+          "name": "Slanina",
+          "priceDelta": 3500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "sirupu",
+          "name": "Bez javorového sirupu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 40
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Česnečka se sýrem a krutony",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Bramborová česnečka s kmínem a majoránkou, do talíře eidam a krutony opečené na oleji.",
+  "about": [
+    "Česnečka je polévka, která se v hospodě objednává k pivu i místo léku na všechno. Základ tvoří brambory povařené s kmínem, ale chuť dělá až hrst prolisovaného česneku, který se přidává do polévky stažené z ohně.",
+    "Sýr se dává na dno talíře, aby se rozpustil v horké polévce, a krutony až navrch, aby zůstaly křupavé. Doma si můžeš vejce přidat, nebo vynechat, recept funguje obojím způsobem."
+  ],
+  "price": 7900,
+  "image": "dish-cesnecka",
+  "recipe": "cesnecka",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standard",
+          "name": "Malá 0,25 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká 0,5 l",
+          "priceDelta": 3000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-vejce",
+          "name": "Bez vejce",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-syra",
+          "name": "Bez sýra",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-krutonu",
+          "name": "Bez krutonů",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 10
+}

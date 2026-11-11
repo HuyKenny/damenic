@@ -1,0 +1,140 @@
+{
+  "title": "Pizza quattro formaggi",
+  "keywords": [
+    "pizza quattro formaggi recept",
+    "pizza čtyři sýry",
+    "pizza se čtyřmi sýry"
+  ],
+  "image": "dish-pizza-quattro-formaggi",
+  "category": "pizza",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 30,
+  "cookMinutes": 18,
+  "waitMinutes": 140,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "intro": "Dvě bílé pizzy se čtyřmi sýry, bez rajčat. Kromě kynutí zabere práce asi půl hodiny a výsledek stojí na tom, aby sýry byly dobře rozdělené a pizza se nepekla moc dlouho.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 330,
+      "unit": "g",
+      "note": "ideálně typ 00, plus trochu na podsypání",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 210,
+      "unit": "ml",
+      "note": "vlažná",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 8,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 150,
+      "unit": "g",
+      "note": "dobře okapaná",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "gorgonzola",
+      "amount": 80,
+      "unit": "g",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 80,
+      "unit": "g",
+      "note": "nastrouhaný nahrubo",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 30,
+      "unit": "g",
+      "note": "najemno nastrouhaný",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Na pizzu"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "čerstvě mletý",
+      "group": "Na pizzu"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozdrob do vlažné vody a nech ho pár minut rozpustit. Přidej mouku, sůl a olej a hněť asi 8 minut, dokud není těsto hladké, pružné a jen lehce lepivé."
+    },
+    {
+      "section": "Těsto",
+      "text": "Těsto dej do mísy vytřené olejem, zakryj a nech kynout při pokojové teplotě asi 2 hodiny, až zhruba zdvojnásobí objem. Rozděl ho na dva bochánky a nech je ještě 20 minut odpočinout pod utěrkou."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu i s plechem nebo kamenem rozpal na nejvyšší teplotu, ideálně 250 °C a víc, aspoň 30 minut předem. Mozzarellu natrhej, nech ji okapat na utěrce a gorgonzolu rozdrob na malé kousky."
+    },
+    {
+      "section": "Pečení",
+      "text": "Bochánek roztáhni rukama na placku o průměru asi 30 cm se silnějším okrajem a potři ji tenkou vrstvou olivového oleje, aby těsto pod sýry nevyschlo."
+    },
+    {
+      "section": "Pečení",
+      "text": "Na placku rozlož nejprve mozzarellu a eidam, mezi ně gorgonzolu a navrch posyp parmazán. Sýry rozděl rovnoměrně, okraj nech volný."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 7 až 9 minut, dokud sýry nebublají a okraj nezezlátne. Hotovou pizzu opepři a stejně upeč druhou."
+    }
+  ],
+  "tips": [
+    "Silné sýry jako gorgonzola dávej v menších kouscích, ne velkou hroudou. Jinak jedno místo přebije celou pizzu.",
+    "Po upečení můžeš pizzu pokapat lžičkou medu nebo posypat nasekanými vlašskými ořechy."
+  ],
+  "substitutions": [
+    "Místo eidamu se hodí taleggio, fontina nebo provolone, každý sýr, který se dobře roztéká.",
+    "Gorgonzolu nahradí jakýkoli modrý sýr, třeba niva; ta je slanější, takže jí dej o třetinu méně."
+  ],
+  "faq": [
+    {
+      "q": "Jaké sýry patří na pizzu quattro formaggi?",
+      "a": "Pevné pravidlo neexistuje. Obvykle jde o mozzarellu, gorgonzolu, parmazán a jeden dobře tavitelný sýr, například fontinu, taleggio nebo eidam."
+    },
+    {
+      "q": "Dává se na pizzu quattro formaggi rajčatový základ?",
+      "a": "V Itálii se častěji peče bianca, tedy bez rajčat, jen s olejem. Červená verze s rajčaty je také běžná, sýry pak chutnají méně výrazně."
+    },
+    {
+      "q": "Proč je pizza se čtyřmi sýry mastná?",
+      "a": "Sýrů je moc nebo se peče příliš dlouho a tuk z nich vyteče. Drž se zhruba 340 g sýra na dvě pizzy a vytáhni ji, jakmile začne bublat."
+    }
+  ]
+}

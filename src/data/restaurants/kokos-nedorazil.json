@@ -1,0 +1,39 @@
+{
+  "name": "Kokos Nedorazil",
+  "category": "thajska",
+  "cuisine": "Thajská kokosová kuchyně",
+  "tagline": "Kokosové mléko máme. Kokos ani kurýr nedorazili.",
+  "description": "Fiktivní thajská kuchyně postavená na kokosovém mléce: polévky tom kha, kari a pad thai. Objednávku si tu jen vyzkoušíš, nikdo nic nepřiveze, a dostaneš recept na doma.",
+  "etaMinutes": 45,
+  "deliveryFee": 0,
+  "minOrder": 22900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:30",
+    "close": "21:30"
+  },
+  "pickup": false,
+  "tags": [
+    "bez masa",
+    "bezlepkové možnosti"
+  ],
+  "promo": {
+    "type": "percent",
+    "label": "−10 % nad 300 Kč",
+    "percent": 10,
+    "minSubtotal": 30000
+  },
+  "logo": {
+    "text": "KN",
+    "color": "#6D4C41",
+    "ink": "light"
+  },
+  "sections": [
+    "Polévky",
+    "Kari a nudle",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 62,
+  "cover": "rest-kokos-nedorazil"
+}

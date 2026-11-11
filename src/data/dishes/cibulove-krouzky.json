@@ -1,0 +1,35 @@
+{
+  "name": "Cibulové kroužky v pivním těstíčku",
+  "restaurant": "placka-nikam",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Silné kroužky cibule v křehkém těstíčku z piva a mouky, smažené dozlatova. Křupou, dokud je nikdo nevezme do auta.",
+  "price": 8900,
+  "image": "dish-cibulove-krouzky",
+  "recipe": "cibulove-krouzky",
+  "optionGroups": [
+    {
+      "id": "dip",
+      "name": "Dip",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "majoneza",
+          "name": "Majonéza",
+          "priceDelta": 0
+        },
+        {
+          "id": "bbq",
+          "name": "BBQ omáčka",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1
+  ],
+  "order": 80
+}

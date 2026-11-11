@@ -1,0 +1,14 @@
+{
+  "name": "Jasmínová rýže",
+  "restaurant": "pozdni-bazalka",
+  "kind": "side",
+  "section": "Přílohy a nápoje",
+  "description": "Miska jasmínové rýže. Po půlnoci stejně dobrá, stejně nedoručená.",
+  "price": 3900,
+  "image": "dish-jasminova-ryze-bazalka",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 70
+}

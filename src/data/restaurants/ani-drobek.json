@@ -1,0 +1,35 @@
+{
+  "name": "Bistro Ani Drobek",
+  "category": "vegetarianska",
+  "cuisine": "Veganská kuchyně",
+  "tagline": "Nedostaneš ani drobek. Ani živočišný.",
+  "description": "Smyšlené veganské bistro, kde se tofu smaží dokřupava a cizrna dusí v kokosovém mléce, všechno bez masa, mléka a vajec. Stejně důsledně je tu i bez doručení: objednáš nanečisto a dostaneš recept.",
+  "etaMinutes": 35,
+  "deliveryFee": 0,
+  "minOrder": 22900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:00",
+    "close": "21:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa",
+    "veganské",
+    "bezlepkové možnosti"
+  ],
+  "isNew": false,
+  "logo": {
+    "text": "AD",
+    "color": "#2F5D50",
+    "ink": "light"
+  },
+  "sections": [
+    "Misky",
+    "Kari a dál",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 111,
+  "cover": "rest-ani-drobek"
+}

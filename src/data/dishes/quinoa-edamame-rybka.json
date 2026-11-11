@@ -1,0 +1,60 @@
+{
+  "name": "Quinoa bowl s edamame a balkánským sýrem",
+  "restaurant": "aloha-ani-rybka",
+  "kind": "main",
+  "section": "Losos a další",
+  "description": "Quinoa s okurkou, cherry rajčaty, cizrnou, edamame a bylinkami v citronové zálivce, s drobeným balkánským sýrem. Bez ryby.",
+  "about": [
+    "Pro toho u stolu, kdo rybu nejí. Základ je náš quinoa salát, ke kterému přidáváme vyloupané edamame, aby miska vydržela jako celý oběd.",
+    "Zálivka je jen citron, olivový olej a lžička medu. Sůl dělá hlavně sýr, proto se dosoluje až nakonec."
+  ],
+  "price": 21900,
+  "image": "dish-quinoa-edamame-rybka",
+  "recipe": "quinoa-salat",
+  "recipeNote": "Quinoa salát s hrstí vyloupaného edamame navíc",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "regular",
+          "name": "Regular (400 g)",
+          "priceDelta": 0
+        },
+        {
+          "id": "large",
+          "name": "Large (550 g)",
+          "priceDelta": 5000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "avokado",
+          "name": "Avokádo",
+          "priceDelta": 3500
+        },
+        {
+          "id": "losos",
+          "name": "Kostky lososa",
+          "priceDelta": 8900
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    6,
+    7
+  ],
+  "order": 60
+}

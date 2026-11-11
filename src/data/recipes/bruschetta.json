@@ -1,0 +1,113 @@
+{
+  "title": "Bruschetta s rajčaty",
+  "keywords": [
+    "bruschetta recept",
+    "bruschetta s rajčaty",
+    "italská bruschetta"
+  ],
+  "image": "dish-bruschetta",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 5,
+  "waitMinutes": 10,
+  "waitLabel": "odležení rajčat",
+  "difficulty": "snadné",
+  "intro": "Osm plátků opečeného chleba s rajčaty, česnekem a bazalkou za necelou půlhodinu. Bruschetta stojí na zralých rajčatech a na chlebu, který je zvenku křupavý a uvnitř ještě měkký.",
+  "ingredients": [
+    {
+      "ingredient": "rajcata",
+      "amount": 500,
+      "unit": "g",
+      "note": "zralá, masitá",
+      "group": "Rajčata"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "hrst lístků",
+      "group": "Rajčata"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Rajčata"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Rajčata"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Rajčata"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 300,
+      "unit": "g",
+      "note": "8 plátků venkovského chleba nebo ciabatty, silných 1,5 cm",
+      "group": "Chléb"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "oloupané, rozpůlené",
+      "group": "Chléb"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na pokapání",
+      "group": "Chléb"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rajčata",
+      "text": "Rajčata rozkroj, lžičkou vyber semínka se šťávou a dužinu nakrájej na kostičky asi 1 cm. Díky tomu bruschetta nebude rozmočená."
+    },
+    {
+      "section": "Rajčata",
+      "text": "Rajčata smíchej s olejem, solí, pepřem a natrhanou bazalkou a nech je 10 minut odležet, ať pustí chuť."
+    },
+    {
+      "section": "Chléb",
+      "text": "Plátky chleba opeč nasucho na rozpálené grilovací pánvi nebo pod grilem v troubě, 1 až 2 minuty z každé strany, až jsou zlaté a křupavé."
+    },
+    {
+      "section": "Chléb",
+      "text": "Ještě horké plátky z jedné strany potři rozpůleným stroužkem česneku. Česnek se o drsný povrch sám nastrouhá."
+    },
+    {
+      "section": "Podávání",
+      "text": "Rajčata před podáváním sceď od šťávy, kterou pustila, a lžící je rozdej na chléb. Pokapej olejem a podávej hned."
+    }
+  ],
+  "tips": [
+    "Rajčata dávej na chléb až těsně před jídlem. Za deset minut by plátek rozměkl.",
+    "Mimo sezónu jsou chutnější cherry rajčata, jen je nakrájej na čtvrtky."
+  ],
+  "substitutions": [
+    "Kapka balzamikového octa k rajčatům se v Itálii nedává, ale k bruschettě se hodí.",
+    "Místo bazalky můžeš použít oregano, stačí pár lístků nebo špetka sušeného."
+  ],
+  "faq": [
+    {
+      "q": "Jaký chléb je nejlepší na bruschettu?",
+      "a": "Pevný venkovský chléb s hutnou střídkou nebo ciabatta, klidně den starý. Měkký toustový chléb se pod rajčaty rychle rozmočí."
+    },
+    {
+      "q": "Jak připravit bruschettu dopředu?",
+      "a": "Rajčata můžeš nakrájet a ochutit až 2 hodiny předem a chléb opéct těsně před podáváním. Spojuj je až na stole."
+    }
+  ]
+}

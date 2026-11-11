@@ -1,0 +1,160 @@
+{
+  "title": "Domácí sushi maki",
+  "category": "sushi",
+  "servings": 3,
+  "activeMinutes": 60,
+  "cookMinutes": 22,
+  "waitMinutes": 50,
+  "waitLabel": "okapání a chladnutí rýže",
+  "difficulty": "náročnější",
+  "keywords": [
+    "sushi recept",
+    "domácí sushi",
+    "maki sushi recept",
+    "jak udělat sushi doma"
+  ],
+  "intro": "Domácí maki rolky s lososem, okurkou a avokádem, čtyři rolky po osmi kouscích asi za dvě a čtvrt hodiny. Rozhoduje dobře ochucená rýže, tenká vrstva na nori a ryba určená k syrové konzumaci.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-sushi",
+      "amount": 300,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 360,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "ocet-ryzovy",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "nori",
+      "amount": 4,
+      "unit": "ks",
+      "note": "celé pláty",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "losos-sushi",
+      "amount": 200,
+      "unit": "g",
+      "note": "s označením k syrové konzumaci",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "avokado",
+      "amount": 1,
+      "unit": "ks",
+      "note": "zralé, ale pevné",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "nepovinně",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "wasabi",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "zazvor-nakladany",
+      "amount": 40,
+      "unit": "g",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže",
+      "text": "Rýži propírej ve studené vodě, dokud voda není skoro čirá, a nech ji 30 minut okapat. Pak ji vař s 360 ml vody pod pokličkou: přiveď k varu, ztlum na minimum, 12 minut vař a 10 minut nech dojít."
+    },
+    {
+      "section": "Rýže",
+      "text": "Ocet, cukr a sůl zahřej, dokud se nerozpustí, a vmíchej je krájivými pohyby do horké rýže v široké míse. Rýži přikryj vlhkou utěrkou a nech vychladnout na pokojovou teplotu."
+    },
+    {
+      "section": "Náplň",
+      "text": "Lososa nech v lednici až do chvíle, kdy ho budeš krájet, a pracuj s čistým prkénkem a nožem. Nakrájej ho na proužky silné asi 1 cm."
+    },
+    {
+      "section": "Náplň",
+      "text": "Okurku podélně rozpul, lžičkou vyškrab semínka a dužinu nakrájej na proužky. Avokádo nakrájej na plátky."
+    },
+    {
+      "section": "Rolování",
+      "text": "Na bambusovou podložku polož plát nori lesklou stranou dolů. Navlhčenýma rukama na něj rozprostři čtvrtinu rýže v tenké rovnoměrné vrstvě a u horního okraje nech 2 cm volné."
+    },
+    {
+      "section": "Rolování",
+      "text": "Na spodní třetinu rýže polož řadu lososa, okurky a avokáda a případně posyp sezamem. Pomocí podložky rolku zaroluj od sebe, pevně, ale bez mačkání, a volný okraj nori přilep kapkou vody."
+    },
+    {
+      "section": "Rolování",
+      "text": "Ostrý nůž namoč do vody a rolku nakrájej na 8 kousků. Nůž mezi řezy otírej vlhkou utěrkou. Stejně připrav zbylé rolky."
+    },
+    {
+      "section": "Podávání",
+      "text": "Sushi podávej hned se sójovou omáčkou, wasabi a nakládaným zázvorem."
+    }
+  ],
+  "tips": [
+    "Sushi se syrovou rybou nenechávej stát v teple. Do podávání ho drž v lednici a sněz ho v den přípravy.",
+    "Podložku zabal do potravinové fólie, rýže se na ni nebude lepit a snadno ji umyješ.",
+    "Méně náplně znamená pevnější rolku. Řada náplně by neměla být silnější než palec."
+  ],
+  "substitutions": [
+    "Bez syrové ryby: použij uzeného lososa, vařené krevety nebo tuňáka z konzervy smíchaného s majonézou.",
+    "Vegetariánská verze: okurka, avokádo, mrkev na nudličky a proužky omelety."
+  ],
+  "faq": [
+    {
+      "q": "Jakou rybu použít na domácí sushi?",
+      "a": "Jen rybu, kterou prodejce výslovně nabízí jako vhodnou k syrové konzumaci, obvykle s označením sushi nebo sashimi. Běžný chlazený filet z pultu k tomu určený být nemusí, proto se zeptej. Rybu z jiného zdroje je kvůli parazitům potřeba předem hluboce zmrazit a domácí mrazák na to nemusí stačit."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí sushi?",
+      "a": "Sushi se syrovou rybou sněz v den přípravy a do té doby ho drž v lednici. Rýže v lednici ztvrdne, proto je nejlepší připravovat ho těsně před jídlem."
+    },
+    {
+      "q": "Proč se mi rolka sushi rozpadá?",
+      "a": "Obvykle je na nori příliš rýže nebo náplně, nebo rolka není dost pevně zarolovaná. Pomáhá také ostrý mokrý nůž, tupý rolku při krájení rozmačká."
+    }
+  ],
+  "image": "dish-domaci-sushi",
+  "vegetarian": false
+}

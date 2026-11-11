@@ -1,0 +1,61 @@
+{
+  "name": "Losos v teriyaki glazuře",
+  "restaurant": "aloha-ani-rybka",
+  "kind": "main",
+  "section": "Losos a další",
+  "description": "Kostky lososa krátce opečené a obalené v teriyaki omáčce, brokolice, edamame a mrkev na jasmínové rýži.",
+  "about": [
+    "Teplá miska pro ty, kdo lososa chtějí, ale ne syrového. Kostky opékáme na rozpálené pánvi jen pár minut, aby uvnitř zůstaly šťavnaté, a na konci je obalíme v teriyaki.",
+    "Omáčka je stejná jako na kuře, tedy sójová omáčka, mirin, med a zázvor. S lososem se svařuje jen minutu, déle by se ryba rozpadala."
+  ],
+  "price": 29900,
+  "image": "dish-losos-teriyaki-rybka",
+  "recipe": "teriyaki-bowl",
+  "recipeNote": "Místo kuřete kostky lososa opečené asi 2 minuty z každé strany",
+  "optionGroups": [
+    {
+      "id": "zaklad",
+      "name": "Základ",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jasminova",
+          "name": "Jasmínová rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "quinoa",
+          "name": "Quinoa",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "avokado",
+          "name": "Avokádo",
+          "priceDelta": 3500
+        },
+        {
+          "id": "omacka",
+          "name": "Teriyaki omáčka navíc",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    4,
+    6,
+    11
+  ],
+  "order": 50
+}

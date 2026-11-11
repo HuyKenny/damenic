@@ -1,0 +1,15 @@
+{
+  "name": "Ledový čaj s limetkou 0,4 l",
+  "restaurant": "tortillarna-ani-omylem",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 4500,
+  "description": "Studený černý čaj s limetkou a trochou cukru.",
+  "recipe": null,
+  "image": "dish-ledovy-caj-limetka-ani",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 100
+}

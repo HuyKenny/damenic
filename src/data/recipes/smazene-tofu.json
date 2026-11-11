@@ -1,0 +1,178 @@
+{
+  "title": "Křupavé smažené tofu",
+  "category": "vegetarianska",
+  "servings": 2,
+  "activeMinutes": 30,
+  "cookMinutes": 15,
+  "waitMinutes": 20,
+  "waitLabel": "lisování tofu",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "keywords": [
+    "tofu recept",
+    "křupavé tofu",
+    "smažené tofu na pánvi",
+    "tofu v sójové glazuře"
+  ],
+  "intro": "Kostky tofu osmažené na pánvi dokřupava a obalené v česnekové sójové glazuře, s rýží pro dva asi za hodinu. Křupavost záleží na tom, jak dobře tofu vylisuješ a jak horký je olej.",
+  "ingredients": [
+    {
+      "ingredient": "tofu",
+      "amount": 400,
+      "unit": "g",
+      "note": "pevné natural, 2 balení",
+      "group": "Tofu"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Tofu"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Tofu"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Tofu"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 1.5,
+      "unit": "lzice",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "ocet-ryzovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "sriracha",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "podle chuti",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "ryze-jasminova",
+      "amount": 160,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 240,
+      "unit": "ml",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Tofu",
+      "text": "Tofu sceď, zabal do čisté utěrky nebo několika vrstev papírových ubrousků a zatíž ho prkénkem s hrncem nebo konzervami. Nech ho lisovat 20 minut."
+    },
+    {
+      "section": "Tofu",
+      "text": "Mezitím propláchnutou rýži vař s 240 ml vody pod pokličkou 12 minut na mírném plameni a pak ji nech 10 minut dojít."
+    },
+    {
+      "section": "Tofu",
+      "text": "Vylisované tofu nakrájej na kostky asi 2 cm. V míse je posyp škrobem a solí a promíchej, aby každá kostka měla tenký suchý obal."
+    },
+    {
+      "section": "Smažení",
+      "text": "Na široké pánvi rozpal olej, až se na hladině začne vlnit. Kostky do něj rozlož v jedné vrstvě a 3 až 4 minuty s nimi nehýbej, pak je obracej, dokud nejsou zlaté ze všech stran. Celkem to trvá 10 až 12 minut."
+    },
+    {
+      "section": "Smažení",
+      "text": "Tofu přendej na talíř s papírovou utěrkou a z pánve slij olej, nech v ní jen tenký film."
+    },
+    {
+      "section": "Glazura",
+      "text": "Smíchej sójovou omáčku, cukr, ocet, vodu a srirachu. Na pánvi 30 sekund osmahni česnek a zázvor, přilij směs a nech ji 1 minutu bublat, dokud nezačne být sirupovitá."
+    },
+    {
+      "section": "Glazura",
+      "text": "Vrať tofu do pánve, rychle ho v glazuře obrať a stáhni z plotny. Pokapej sezamovým olejem."
+    },
+    {
+      "section": "Podávání",
+      "text": "Podávej hned na rýži, posypané jarní cibulkou a sezamem. V glazuře tofu po několika minutách začne měknout."
+    }
+  ],
+  "tips": [
+    "Pevné tofu je nutnost, hedvábné se na smažení nehodí a rozpadne se.",
+    "Pánev nepřeplňuj. Když jsou kostky natěsno, pouštějí páru a místo křupavé kůrky se dusí; smaž radši ve dvou dávkách.",
+    "Glazuru přidávej až na úplný konec. Čím déle tofu v omáčce leží, tím méně je křupavé."
+  ],
+  "substitutions": [
+    "Kukuřičný škrob lze nahradit bramborovým, obal bude ještě o něco křehčí.",
+    "Třtinový cukr nahradí stejné množství medu nebo javorového sirupu; s medem už jídlo není veganské."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat tofu křupavé?",
+      "a": "Tofu nejdřív vylisuj, obal ho v tenké vrstvě škrobu a smaž v jedné vrstvě v dobře rozpáleném oleji. Kostkami prvních pár minut nehýbej a omáčku přidej až těsně před podáváním."
+    },
+    {
+      "q": "Musí se tofu lisovat?",
+      "a": "U smažení ano, aspoň 15 až 20 minut. Vlhké tofu na pánvi stříká, obal se na něm nedrží a kůrka nezkřupne."
+    },
+    {
+      "q": "Dá se tofu místo smažení upéct v troubě nebo horkovzdušné fritéze?",
+      "a": "Ano. Obalené kostky pokapej lžící oleje a peč při 200 °C 20 až 25 minut, v polovině je obrať. Glazuru svař zvlášť na pánvi a tofu v ní jen obrať."
+    }
+  ],
+  "image": "dish-smazene-tofu"
+}

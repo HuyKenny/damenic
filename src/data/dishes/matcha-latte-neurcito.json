@@ -1,0 +1,16 @@
+{
+  "name": "Ledová matcha s ovesným mlékem 0,3 l",
+  "restaurant": "onigiri-neurcito",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Šlehaná matcha s ovesným nápojem a ledem, lehce slazená.",
+  "price": 7900,
+  "image": "dish-matcha-latte-neurcito",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    1
+  ],
+  "order": 90
+}

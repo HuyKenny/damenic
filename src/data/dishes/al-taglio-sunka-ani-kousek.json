@@ -1,0 +1,71 @@
+{
+  "name": "Al taglio šunka a žampiony, 2 kusy",
+  "restaurant": "pinseria-ani-kousek",
+  "kind": "main",
+  "section": "Al taglio",
+  "description": "Dva kusy pizzy z plechu se šunkou, žampiony, mozzarellou a oreganem.",
+  "about": [
+    "Šunka a žampiony na plechové pizze jsou bezpečná volba pro každého, kdo stojí u pultu a neví. Kousek se dá snadno sníst v ruce a neodkapává.",
+    "Doma se drž receptu na pizzu se šunkou a žampiony, jen těsto roztáhni na plech. Ze dvou pizz vyjde zhruba osm takových kusů."
+  ],
+  "price": 14900,
+  "image": "dish-al-taglio-sunka-ani-kousek",
+  "recipe": "pizza-sunka-zampiony",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet kusů",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "2ks",
+          "name": "2 kusy",
+          "priceDelta": 0
+        },
+        {
+          "id": "4ks",
+          "name": "4 kusy",
+          "priceDelta": 13900
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "mozzarella",
+          "name": "Mozzarella navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "olivy",
+          "name": "Černé olivy",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "zampionu",
+          "name": "Bez žampionů",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 60
+}

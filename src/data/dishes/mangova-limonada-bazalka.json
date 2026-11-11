@@ -1,0 +1,14 @@
+{
+  "name": "Mangová limonáda 0,4 l",
+  "restaurant": "pozdni-bazalka",
+  "kind": "drink",
+  "section": "Přílohy a nápoje",
+  "description": "Perlivá voda s mangovým pyré a limetkou.",
+  "price": 6500,
+  "image": "dish-mangova-limonada-bazalka",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 100
+}

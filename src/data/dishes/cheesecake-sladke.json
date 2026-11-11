@@ -1,0 +1,43 @@
+{
+  "name": "Cheesecake na talíři s ovocem",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Studené dezerty",
+  "description": "Vychlazený pečený cheesecake se sušenkovým korpusem a čerstvým ovocem podle sezóny.",
+  "about": [
+    "Na talíři se cheesecake podává studený a čistě nakrájený, protože jen tak drží ostrou hranu. Ovoce vedle něj nemá nic zakrýt, jen přidat šťávu a kyselost.",
+    "Můžeš si přidat omáčku nebo šlehačku. Doma krájej nožem namočeným v horké vodě a mezi řezy ho otírej."
+  ],
+  "price": 13900,
+  "image": "dish-cheesecake-sladke",
+  "recipe": "cheesecake",
+  "optionGroups": [
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "omacka",
+          "name": "Malinová omáčka",
+          "priceDelta": 3500
+        },
+        {
+          "id": "slehacka",
+          "name": "Šlehačka",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 60
+}

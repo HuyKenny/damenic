@@ -1,0 +1,153 @@
+{
+  "title": "Kuře teriyaki",
+  "category": "asijska",
+  "servings": 2,
+  "activeMinutes": 30,
+  "cookMinutes": 20,
+  "difficulty": "snadné",
+  "keywords": [
+    "kuře teriyaki recept",
+    "teriyaki kuře",
+    "kuřecí teriyaki s rýží",
+    "teriyaki omáčka recept"
+  ],
+  "intro": "Kuřecí stehna v lesklé omáčce teriyaki s rýží a brokolicí, pro dva asi za 50 minut. Výsledek stojí na dobře opečené kůži a omáčce, kterou na pánvi zredukuješ, ne zahustíš.",
+  "ingredients": [
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mirin",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 500,
+      "unit": "g",
+      "note": "vykostěná, s kůží",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "ryze-sushi",
+      "amount": 200,
+      "unit": "g",
+      "note": "nebo jiná kulatozrnná",
+      "group": "Rýže a příloha"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 260,
+      "unit": "ml",
+      "group": "Rýže a příloha"
+    },
+    {
+      "ingredient": "brokolice",
+      "amount": 250,
+      "unit": "g",
+      "group": "Rýže a příloha"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Rýže a příloha"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Rýže a příloha"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže a příloha",
+      "text": "Rýži propírej ve studené vodě, dokud voda není skoro čirá. Dej ji do hrnce s 260 ml vody, přiveď k varu pod pokličkou, ztlum na minimum a vař 12 minut. Pak ji nech 10 minut stát pod pokličkou."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Sójovou omáčku, mirin, cukr, zázvor a česnek smíchej v misce, aby se cukr rozpustil."
+    },
+    {
+      "section": "Maso",
+      "text": "Stehna osuš papírovou utěrkou, silnější místa nařízni, aby měla všude podobnou tloušťku, a lehce je osol."
+    },
+    {
+      "section": "Maso",
+      "text": "Polož je kůží dolů na studenou pánev s olejem, zapni střední oheň a opékej asi 8 minut, dokud kůže nezkřupe. Otoč je a opékej dalších 5 minut."
+    },
+    {
+      "section": "Maso",
+      "text": "Papírovou utěrkou odsaj z pánve většinu tuku. Vlij omáčku a 2 až 3 minuty ji nech probublávat, přitom maso přelévej lžící, dokud omáčka nezhoustne a nezačne se lesknout."
+    },
+    {
+      "section": "Rýže a příloha",
+      "text": "Brokolici rozděl na růžičky a 3 minuty ji vař v osolené vodě. Maso nech 2 minuty odpočinout a nakrájej na proužky."
+    },
+    {
+      "section": "Rýže a příloha",
+      "text": "Rýži rozděl do misek, přidej brokolici a maso, přelij zbytkem omáčky z pánve a posyp sezamem a jarní cibulkou."
+    }
+  ],
+  "tips": [
+    "Omáčka s cukrem se po zhoustnutí rychle připaluje. Jakmile táhne nitky ze lžíce, stáhni pánev z ohně.",
+    "Stehna začni péct na studené pánvi kůží dolů. Tuk se z kůže pomalu vypeče a ona zkřupne."
+  ],
+  "substitutions": [
+    "Mirin nahradíš 2 lžícemi cukru rozpuštěnými ve 3 lžících vody s lžičkou rýžového octa.",
+    "Místo stehen použij kuřecí prsa nakrájená na silnější plátky, opékej je jen 3 až 4 minuty z každé strany."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat teriyaki omáčku?",
+      "a": "Základ je sójová omáčka a mirin v poměru zhruba 1 : 1 s trochou cukru. Směs se svaří na pánvi s masem, až zhoustne a zesklovatí, škrob není potřeba."
+    },
+    {
+      "q": "Proč omáčka teriyaki nezhoustla?",
+      "a": "Nejspíš se redukovala příliš krátce nebo na pánvi zůstalo hodně tuku a šťávy z masa. Vař ji dál za stálého přelévání, dokud nezačne táhnout nitky."
+    },
+    {
+      "q": "Jsou na teriyaki lepší kuřecí prsa, nebo stehna?",
+      "a": "Stehna zůstanou šťavnatější a kůže dá omáčce chuť. Prsa jsou v pořádku, jen je nakrájej na tenčí plátky a nepřepeč je."
+    }
+  ],
+  "image": "dish-kure-teriyaki",
+  "vegetarian": false
+}

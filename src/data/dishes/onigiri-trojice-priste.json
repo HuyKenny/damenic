@@ -1,0 +1,43 @@
+{
+  "name": "Onigiri, 3 ks",
+  "restaurant": "rolka-priste",
+  "kind": "main",
+  "section": "Misky a teplé",
+  "description": "Tři rýžové trojúhelníky s nori. Náplň si vybereš: tuňák s majonézou, nebo okurka se sezamem.",
+  "about": [
+    "Onigiri jsou v Japonsku běžná svačina do ruky. Rýže se nedochucuje octem, jen solí na mokrých dlaních.",
+    "Náplň se dá obměňovat, recept uvádí tuňáka i variantu bez masa."
+  ],
+  "price": 13900,
+  "image": "dish-onigiri-trojice-priste",
+  "recipe": "onigiri",
+  "optionGroups": [
+    {
+      "id": "napln",
+      "name": "Náplň",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "tunak",
+          "name": "Tuňák s majonézou",
+          "priceDelta": 0
+        },
+        {
+          "id": "okurka",
+          "name": "Okurka se sezamem",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    3,
+    4,
+    6,
+    10,
+    11
+  ],
+  "order": 50
+}

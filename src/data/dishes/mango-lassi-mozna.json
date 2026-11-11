@@ -1,0 +1,16 @@
+{
+  "name": "Mangové lassi 0,4 l",
+  "restaurant": "masala-mozna",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 5900,
+  "description": "Jogurt rozmixovaný s mangem a trochou cukru.",
+  "recipe": null,
+  "image": "dish-mango-lassi-mozna",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 90
+}

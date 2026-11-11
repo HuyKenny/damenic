@@ -1,0 +1,187 @@
+{
+  "title": "Rajská omáčka",
+  "keywords": [
+    "rajská omáčka recept",
+    "recept na rajskou omáčku",
+    "rajská s hovězím masem",
+    "rajská omáčka s knedlíkem"
+  ],
+  "intro": "Čtyři porce vařeného hovězího v sladkokyselé rajské omáčce s knedlíkem, celkem kolem tří a půl hodiny. Rozhoduje dobře provařená jíška a vlastní vývar, ve kterém se maso vařilo.",
+  "image": "dish-rajska-omacka",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 165,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-zadni",
+      "amount": 700,
+      "unit": "g",
+      "note": "vcelku",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2000,
+      "unit": "ml",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "rozpůlená",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 80,
+      "unit": "g",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 80,
+      "unit": "g",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "podle chuti",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "podle chuti",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "knedlik-houskovy",
+      "amount": 600,
+      "unit": "g",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Maso a vývar",
+      "text": "Vodu se solí přiveď k varu, vlož maso a první 10 minut sbírej šedou pěnu, která vyplave."
+    },
+    {
+      "section": "Maso a vývar",
+      "text": "Přidej oloupanou zeleninu vcelku, nové koření, pepř a bobkový list. Ztlum plamen tak, aby voda jen mírně probublávala, a vař 2 až 2,5 hodiny, dokud maso není měkké."
+    },
+    {
+      "section": "Maso a vývar",
+      "text": "Maso vyndej a přikryj, aby neosychalo. Vývar sceď a odměř si 700 ml; zbytek použij jinde. Uvařenou mrkev, celer a petržel si nech stranou."
+    },
+    {
+      "section": "Omáčka",
+      "text": "V hrnci rozpusť máslo, vmíchej mouku a za stálého míchání opékej 3 až 4 minuty na světlou jíšku."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Vmíchej rajčatový protlak, přilij passatu a pak po částech horký vývar. Pokaždé prošlehej metlou, aby nevznikly hrudky."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Uvařenou zeleninu z vývaru rozmačkej nebo rozmixuj a přidej do omáčky. Vař na mírném plameni 20 minut a často míchej, protože se rajská snadno připálí."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Dochuť cukrem, octem, solí a špetkou skořice, aby byla omáčka zřetelně sladkokyselá. Je-li hustá, zřeď ji vývarem."
+    },
+    {
+      "section": "Podávání",
+      "text": "Maso nakrájej přes vlákno na plátky a nech je 5 minut prohřát v omáčce. Podávej s knedlíky ohřátými v páře."
+    }
+  ],
+  "tips": [
+    "Omáčku můžeš na konci propasírovat přes síto, pokud chceš úplně hladkou.",
+    "Zbylý vývar se hodí na polévku. V lednici vydrží 3 dny."
+  ],
+  "substitutions": [
+    "Místo hovězího zadního jde hovězí plec nebo kližka; kližku vař o půl hodiny déle.",
+    "Bez masa se rajská podává s vejci natvrdo nebo s masovými kuličkami; vývar pak nahraď zeleninovým."
+  ],
+  "faq": [
+    {
+      "q": "Proč chutná rajská omáčka moučně?",
+      "a": "Jíška se nestihla provařit. Omáčku vař na mírném plameni aspoň 20 minut po přilití tekutiny."
+    },
+    {
+      "q": "Jak udělat rajskou z čerstvých rajčat?",
+      "a": "Použij asi 1 kg zralých rajčat, krátce je povař a propasíruj, a protlak nech v receptu. Chuť bude svěžejší a méně sladká."
+    },
+    {
+      "q": "Dá se rajská omáčka zamrazit?",
+      "a": "Ano, i s masem, na 2 až 3 měsíce. Po rozmrazení ji pomalu ohřej a prošlehej metlou."
+    }
+  ]
+}

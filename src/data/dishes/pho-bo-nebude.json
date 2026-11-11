@@ -1,0 +1,82 @@
+{
+  "name": "Phở bò s hovězím",
+  "restaurant": "pho-nebude",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Čirý hovězí vývar s badyánem a skořicí, ploché rýžové nudle, plátky kližky a rostěny. Bylinky, klíčky a limetka zvlášť.",
+  "about": [
+    "Pho se pozná podle vývaru. Kosti se nejdřív spaří, aby zůstal čirý, a pak se čtyři hodiny jen lehce vaří s opáleným zázvorem, cibulí a praženým kořením.",
+    "Bylinky, klíčky, limetku a chilli dostaneš bokem, protože si každý misku dochucuje po svém. Doma se vyplatí uvařit vývar den předem, večer pak zbývá jen nalít ho na nudle."
+  ],
+  "price": 18900,
+  "image": "dish-pho-bo-nebude",
+  "recipe": "pho",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mala",
+          "name": "Malá miska 0,5 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká miska 0,8 l",
+          "priceDelta": 4000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "rostena",
+          "name": "Syrová rostěna navíc",
+          "priceDelta": 5500
+        },
+        {
+          "id": "klizka",
+          "name": "Vařená kližka navíc",
+          "priceDelta": 4500
+        },
+        {
+          "id": "nudle",
+          "name": "Rýžové nudle navíc",
+          "priceDelta": 2500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "koriandru",
+          "name": "Bez koriandru",
+          "priceDelta": 0
+        },
+        {
+          "id": "cibule",
+          "name": "Bez syrové cibule",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    4,
+    6
+  ],
+  "featured": true,
+  "order": 10
+}

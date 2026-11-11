@@ -1,0 +1,32 @@
+{
+  "name": "Italské lahůdky Pozítří",
+  "category": "italska",
+  "cuisine": "Italské lahůdky a dezerty",
+  "tagline": "Vitrína plná. Taška prázdná. Vrať se pozítří.",
+  "description": "Smyšlené italské lahůdky s teplou vitrínou, domácími těstovinami a tiramisu krájeným z velké formy. Všechno vypadá připravené k odnesení, jenže výdej je naplánovaný až na pozítří, a do té doby si to podle receptu uděláš doma.",
+  "etaMinutes": 25,
+  "deliveryFee": 3900,
+  "minOrder": 9900,
+  "priceLevel": 3,
+  "hours": {
+    "open": "09:00",
+    "close": "19:30"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa"
+  ],
+  "logo": {
+    "text": "LP",
+    "color": "#2F5D62",
+    "ink": "light"
+  },
+  "cover": "rest-lahudky-pozitri",
+  "sections": [
+    "Z teplé vitríny",
+    "Těstoviny",
+    "Dezerty",
+    "Ke kávě a s sebou"
+  ],
+  "order": 103
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Dva krajíce chleba",
+  "restaurant": "vycep-zitra",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Dva krajíce žitnopšeničného chleba na vytírání omáčky. Omáčku si ale musíš uvařit sám.",
+  "price": 2500,
+  "image": "dish-chleb-vycep",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "order": 80
+}

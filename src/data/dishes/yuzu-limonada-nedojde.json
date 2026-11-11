@@ -1,0 +1,13 @@
+{
+  "name": "Limonáda s yuzu 0,4 l",
+  "restaurant": "ramen-nedojde",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Perlivá limonáda s šťávou z citrusu yuzu a medem.",
+  "price": 6500,
+  "image": "dish-yuzu-limonada-nedojde",
+  "recipe": null,
+  "vegetarian": true,
+  "allergens": [],
+  "order": 100
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Lívance s povidly a tvarohem",
+  "restaurant": "prazdna-panev",
+  "kind": "main",
+  "section": "Sladké palačinky",
+  "description": "Pět kynutých lívanců z lívanečníku, se švestkovými povidly a slazeným tvarohem.",
+  "about": [
+    "Lívance jsou hustší a kynuté příbuzné palačinek. Těsto s droždím se nechá půl hodiny vzejít, pak se lžící dává na lívanečník a smaží se, dokud se na povrchu neudělají bublinky.",
+    "Klasicky se jedí s povidly a tvarohem utřeným s cukrem. V palačinkárně je máme pro ty, kdo chtějí něco, co se nedá srolovat."
+  ],
+  "price": 13900,
+  "image": "dish-livance-panev",
+  "recipe": "livance",
+  "recipeNote": "Recept podává lívance s džemem; povidla použiješ stejně.",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet kusů",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "pet",
+          "name": "Pět kusů",
+          "priceDelta": 0
+        },
+        {
+          "id": "osm",
+          "name": "Osm kusů",
+          "priceDelta": 4500
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "smetana",
+          "name": "Zakysaná smetana",
+          "priceDelta": 2000
+        },
+        {
+          "id": "boruvky",
+          "name": "Borůvky",
+          "priceDelta": 3500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 60
+}

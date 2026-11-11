@@ -1,0 +1,14 @@
+{
+  "name": "Ledový čaj s limetkou 0,4 l",
+  "restaurant": "pho-nebude",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Černý čaj louhovaný za studena s limetkou a trochou cukru.",
+  "price": 4900,
+  "image": "dish-ledovy-caj-limetka-nebude",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 100
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Salát s rukolou a olivami",
+  "restaurant": "pizzerie-na-dobre-slovo",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Rukola, cherry rajčata, černé olivy a hobliny parmazánu se zálivkou z oleje a citronu.",
+  "price": 8900,
+  "image": "dish-salat-olivy-dobre-slovo",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "allergens": [
+    7
+  ],
+  "order": 80
+}

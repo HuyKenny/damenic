@@ -1,0 +1,32 @@
+{
+  "name": "Snídárna Odložený budík",
+  "category": "snidane",
+  "cuisine": "Snídaně a vejce",
+  "tagline": "Snídaně je na cestě. Hned po dalších deseti minutách.",
+  "description": "Smyšlená snídárna pro všechny, kdo ráno ještě dvakrát zmáčkli budík: kaše, vejce na několik způsobů a toasty z pánve. Objednávka je fiktivní, nic nepřijede a nic nevychladne, protože vejce si podle receptu usmažíš sám.",
+  "etaMinutes": 20,
+  "deliveryFee": 0,
+  "minOrder": 14900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "07:00",
+    "close": "14:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bezlepkové možnosti"
+  ],
+  "logo": {
+    "text": "OB",
+    "color": "#F4C542",
+    "ink": "dark"
+  },
+  "sections": [
+    "Kaše a sladké",
+    "Vejce",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 151,
+  "cover": "rest-odlozeny-budik"
+}

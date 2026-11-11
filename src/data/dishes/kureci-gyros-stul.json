@@ -1,0 +1,64 @@
+{
+  "name": "Kuřecí gyros v pitě",
+  "restaurant": "taverna-prazdny-stul",
+  "kind": "main",
+  "section": "Gyros",
+  "price": 16900,
+  "description": "Marinovaná kuřecí stehna nakrájená na proužky, v pitě s tzatziki, rajčaty a cibulí.",
+  "about": [
+    "Kuřecí verze pro ty, kdo nejedí vepřové. Stehna se naloží do jogurtu, česneku a koření a opečou se prudce v jedné vrstvě.",
+    "Doma použij recept na kuřecí kebab v pitě, jen do marinády přidej víc oregana a česnekovou omáčku nahraď tzatziki."
+  ],
+  "recipe": "kureci-kebab-v-pite",
+  "recipeNote": "Recept je na kuřecí kebab; dej víc oregana místo kmínu a podávej s tzatziki.",
+  "image": "dish-kureci-gyros-stul",
+  "optionGroups": [
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "maso-navic",
+          "name": "Maso navíc",
+          "priceDelta": 4500
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky dovnitř",
+          "priceDelta": 2500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cibule",
+          "name": "Bez cibule",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Bez hranolků",
+          "priceDelta": 0
+        },
+        {
+          "id": "rajcat",
+          "name": "Bez rajčat",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 40
+}

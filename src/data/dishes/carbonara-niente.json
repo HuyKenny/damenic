@@ -1,0 +1,60 @@
+{
+  "name": "Carbonara z pánve",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Z pánve",
+  "description": "Špagety obalené krémem ze žloutků a sýra, s opečenou slaninou a hrubě mletým pepřem.",
+  "about": [
+    "V pasta baru se carbonara dělá po jedné porci v malé pánvi, protože víc najednou se uhlídat nedá. Žloutky se sýrem zhoustnou teplem těstovin a vody z vaření.",
+    "Stejný postup platí i doma. Když porce zdvojnásobíš, použij větší pánev a stáhni ji z plotny o chvilku dřív."
+  ],
+  "price": 19900,
+  "image": "dish-carbonara-niente",
+  "recipe": "spagety-carbonara",
+  "recipeNote": "Recept je bez smetany, se slaninou a parmazánem.",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná (350 g)",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (500 g)",
+          "priceDelta": 4500
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "slanina",
+          "name": "Slanina navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "zloutek",
+          "name": "Žloutek navíc",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 50
+}

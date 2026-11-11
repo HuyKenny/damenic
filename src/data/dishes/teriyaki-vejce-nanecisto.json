@@ -1,0 +1,61 @@
+{
+  "name": "Velká teriyaki miska s vejcem",
+  "restaurant": "miska-nanecisto",
+  "kind": "main",
+  "section": "Teplé misky",
+  "description": "Dvojitá porce kuřete v teriyaki, rýže, brokolice a mrkev, navrch vejce natvrdo rozkrojené napůl.",
+  "about": [
+    "Pro hlad, se kterým běžná miska nestačí. Kuřete je v ní zhruba dvakrát víc a vejce se s teriyaki omáčkou na rýži dobře doplní.",
+    "Vejce vaříme 8 minut a hned chladíme v ledové vodě. Doma se o něj recept nestará, stačí ho přidat navrch."
+  ],
+  "price": 25900,
+  "image": "dish-teriyaki-vejce-nanecisto",
+  "recipe": "teriyaki-bowl",
+  "recipeNote": "Dvojitá porce kuřete a navrch vejce natvrdo",
+  "optionGroups": [
+    {
+      "id": "vejce",
+      "name": "Vejce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "natvrdo",
+          "name": "Natvrdo",
+          "priceDelta": 0
+        },
+        {
+          "id": "sazene",
+          "name": "Sázené",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "avokado",
+          "name": "Avokádo",
+          "priceDelta": 3500
+        },
+        {
+          "id": "omacka",
+          "name": "Omáčka navíc",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    3,
+    6,
+    11
+  ],
+  "order": 20
+}

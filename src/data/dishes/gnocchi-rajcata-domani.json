@@ -1,0 +1,60 @@
+{
+  "name": "Bramborové gnocchi s rajčaty",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Rizoto a gnocchi",
+  "description": "Domácí bramborové noky v rajčatové omáčce s česnekem a bazalkou, posypané parmazánem.",
+  "about": [
+    "Gnocchi jsou v podstatě italská obdoba bramborových knedlíčků. Dobré poznáš podle toho, že jsou měkké a vláčné, ne tuhé, a to zařídí moučné brambory a co nejmenší dávka mouky.",
+    "V trattorii je podáváme v jednoduché rajčatové omáčce. Kdo chce, může si místo ní vybrat máslo se sýrem, recept obě varianty popisuje."
+  ],
+  "price": 19900,
+  "image": "dish-gnocchi-rajcata-domani",
+  "recipe": "gnocchi",
+  "optionGroups": [
+    {
+      "id": "omacka",
+      "name": "Omáčka",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "rajcata",
+          "name": "Rajčatová s bazalkou",
+          "priceDelta": 0
+        },
+        {
+          "id": "maslo",
+          "name": "Hnědé máslo a parmazán",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "parmazan",
+          "name": "Parmazán navíc",
+          "priceDelta": 3000
+        },
+        {
+          "id": "mozzarella",
+          "name": "Kostičky mozzarelly",
+          "priceDelta": 3500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 60
+}

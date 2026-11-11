@@ -1,0 +1,16 @@
+{
+  "name": "Slané lassi s kmínem 0,3 l",
+  "restaurant": "kari-nikde",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 5900,
+  "description": "Jogurtový nápoj s vodou, solí a opraženým římským kmínem. Uhasí pálivé kari lépe než voda.",
+  "recipe": null,
+  "image": "dish-slane-lassi-nikde",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 90
+}

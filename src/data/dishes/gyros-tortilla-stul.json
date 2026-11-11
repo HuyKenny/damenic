@@ -1,0 +1,64 @@
+{
+  "name": "Gyros v tortille",
+  "restaurant": "taverna-prazdny-stul",
+  "kind": "main",
+  "section": "Gyros",
+  "price": 17900,
+  "description": "Gyros z krkovice zarolovaný v tenké tortille s tzatziki, rajčaty a cibulí, na pánvi zatavený.",
+  "about": [
+    "Stejné maso, jiná placka. Tortilla je tenčí než pita, takže víc vynikne maso, a po zarolování se krátce opeče, aby držela tvar.",
+    "Doma je to dobrá volba, když nemáš čas péct pitu. Tortillu stačí nahřát na suché pánvi."
+  ],
+  "recipe": "gyros",
+  "recipeNote": "Recept je s pitou; tortillu nahřej a zaroluj stejně, spojem dolů ji krátce opeč.",
+  "image": "dish-gyros-tortilla-stul",
+  "optionGroups": [
+    {
+      "id": "omacka",
+      "name": "Omáčka",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "tzatziki",
+          "name": "Tzatziki",
+          "priceDelta": 0
+        },
+        {
+          "id": "palava",
+          "name": "Pálivá paprika",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cibule",
+          "name": "Bez cibule",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Bez hranolků",
+          "priceDelta": 0
+        },
+        {
+          "id": "rajcat",
+          "name": "Bez rajčat",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 30
+}

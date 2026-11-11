@@ -110,7 +110,7 @@ export function parseOrders(raw: unknown): OrdersState | null {
     const totalsV2 = { discount: 0, tip: 0, missingToMin: 0, applied: [], ...(t as object) };
     orders.push({
       ...(o as unknown as OrderSnapshot),
-      totals: totalsV2 as OrderSnapshot['totals'],
+      totals: totalsV2 as unknown as OrderSnapshot['totals'],
       mode: o.mode === 'pickup' ? 'pickup' : 'delivery',
       payment: isStr(o.payment) ? o.payment : 'Demo peněženka DámeNic',
       courierNote: isStr(o.courierNote) ? o.courierNote : null,

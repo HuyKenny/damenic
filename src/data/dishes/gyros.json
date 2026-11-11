@@ -1,0 +1,82 @@
+{
+  "name": "Gyros v pitě",
+  "restaurant": "taverna-prazdny-stul",
+  "kind": "main",
+  "section": "Gyros",
+  "price": 17900,
+  "description": "Opečené proužky marinované vepřové krkovice v pitě s tzatziki, rajčaty, červenou cibulí a pár hranolky.",
+  "about": [
+    "Řecký gyros je z vepřového a s oreganem, ne s kmínem. Krkovice se dvě hodiny naloží do citronu, česneku, oregana a papriky a pak se po tenkých proužcích opeče tak, aby měla tmavé křupavé okraje.",
+    "Hranolky uvnitř pity nejsou omyl, v Řecku tam patří. Tzatziki drží všechno pohromadě a chladí."
+  ],
+  "recipe": "gyros",
+  "image": "dish-gyros",
+  "optionGroups": [
+    {
+      "id": "maso",
+      "name": "Maso",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "veprove",
+          "name": "Vepřové",
+          "priceDelta": 0
+        },
+        {
+          "id": "kureci",
+          "name": "Kuřecí",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "maso-navic",
+          "name": "Maso navíc",
+          "priceDelta": 4900
+        },
+        {
+          "id": "feta",
+          "name": "Balkánský sýr",
+          "priceDelta": 2500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cibule",
+          "name": "Bez cibule",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Bez hranolků",
+          "priceDelta": 0
+        },
+        {
+          "id": "rajcat",
+          "name": "Bez rajčat",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": true,
+  "order": 10
+}

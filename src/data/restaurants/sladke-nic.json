@@ -1,0 +1,33 @@
+{
+  "name": "Dezertní bar Sladké nic",
+  "category": "dezerty",
+  "cuisine": "Dezerty na talíř",
+  "tagline": "Sladká tečka za večeří, kterou jsi taky nedostal.",
+  "description": "Smyšlený dezertní bar, kde se karamelizuje crème brûlée, tuhne panna cotta a z trouby jdou dortíky s tekutým středem. Objednávka je jen fiktivní, takže lžičku si vezmeš doma a dezert si podle receptu připravíš sám.",
+  "etaMinutes": 35,
+  "deliveryFee": 4900,
+  "minOrder": 24900,
+  "priceLevel": 3,
+  "hours": {
+    "open": "14:00",
+    "close": "23:30"
+  },
+  "pickup": true,
+  "tags": [
+    "bezlepkové možnosti"
+  ],
+  "isNew": true,
+  "logo": {
+    "text": "SN",
+    "color": "#F2B8C6",
+    "ink": "dark"
+  },
+  "sections": [
+    "Teplé dezerty",
+    "Studené dezerty",
+    "K dezertu",
+    "Nápoje"
+  ],
+  "order": 145,
+  "cover": "rest-sladke-nic"
+}

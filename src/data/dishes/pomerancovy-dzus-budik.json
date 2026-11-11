@@ -1,0 +1,16 @@
+{
+  "name": "Čerstvý pomerančový džus",
+  "restaurant": "odlozeny-budik",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Lisovaný z pomerančů na objednávku, 0,3 l.",
+  "price": 6900,
+  "image": "dish-pomerancovy-dzus-budik",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 90
+}

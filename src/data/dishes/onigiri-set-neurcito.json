@@ -1,0 +1,44 @@
+{
+  "name": "Tři onigiri s miso polévkou",
+  "restaurant": "onigiri-neurcito",
+  "kind": "main",
+  "section": "Onigiri",
+  "description": "Tři onigiri s tuňákem a miska miso polévky s tofu a wakame.",
+  "about": [
+    "Onigiri s polévkou je běžný japonský oběd. Rýže a polévka se doplňují, jedno je slané a suché, druhé teplé a voňavé.",
+    "Polévka má vlastní recept a je hotová za čtvrt hodiny, takže ji stihneš uvařit, zatímco rýže dochází."
+  ],
+  "price": 17900,
+  "image": "dish-onigiri-set-neurcito",
+  "recipe": "onigiri",
+  "recipeNote": "Polévku najdeš v receptu Miso polévka.",
+  "optionGroups": [
+    {
+      "id": "napln",
+      "name": "Náplň",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "tunak",
+          "name": "Tuňák s majonézou",
+          "priceDelta": 0
+        },
+        {
+          "id": "okurka",
+          "name": "Okurka se sezamem",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    3,
+    4,
+    6,
+    10,
+    11
+  ],
+  "order": 20
+}

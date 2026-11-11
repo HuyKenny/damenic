@@ -1,0 +1,66 @@
+{
+  "name": "Smažená rýže s vejcem a zeleninou",
+  "restaurant": "pho-nebude",
+  "kind": "main",
+  "section": "Nudle a rýže",
+  "description": "Jasmínová rýže z woku s vejcem, mrkví, hráškem a jarní cibulkou, dochucená sójovou omáčkou.",
+  "about": [
+    "Smažená rýže je jídlo na zbylou rýži z předchozího dne. Čerstvá se lepí, vychladlá a trochu proschlá se ve woku rozpadne na jednotlivá zrnka.",
+    "Základ je bez masa, kuře nebo krevety se dají přidat. Doma si je opeč zvlášť a vmíchej až na konec."
+  ],
+  "price": 15900,
+  "image": "dish-smazena-ryze-nebude",
+  "recipe": "smazena-ryze-vejce-zelenina",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredne",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "kure",
+          "name": "Kuřecí maso",
+          "priceDelta": 3500
+        },
+        {
+          "id": "krevety",
+          "name": "Krevety",
+          "priceDelta": 5500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    3,
+    6,
+    11
+  ],
+  "order": 60
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Těstoviny s pestem",
+  "keywords": [
+    "těstoviny s pestem",
+    "domácí bazalkové pesto",
+    "pesto recept",
+    "těstoviny s bazalkovým pestem"
+  ],
+  "image": "dish-testoviny-s-pestem",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 12,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Těstoviny s domácím bazalkovým pestem pro čtyři za zhruba půl hodiny. Pesto se nevaří, takže výsledek dělá čerstvá bazalka, opražené piniové oříšky a voda z těstovin, která omáčku zředí.",
+  "ingredients": [
+    {
+      "ingredient": "bazalka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "asi 50 g lístků",
+      "group": "Pesto"
+    },
+    {
+      "ingredient": "piniove-orisky",
+      "amount": 30,
+      "unit": "g",
+      "group": "Pesto"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Pesto"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 50,
+      "unit": "g",
+      "note": "najemno nastrouhaný",
+      "group": "Pesto"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 100,
+      "unit": "ml",
+      "note": "extra panenský",
+      "group": "Pesto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Pesto"
+    },
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 400,
+      "unit": "g",
+      "note": "fusilli, penne nebo trofie",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na těstoviny",
+      "group": "Těstoviny"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Pesto",
+      "text": "Piniové oříšky opraž na suché pánvi na mírném plameni 2 až 3 minuty, často s nimi zatřes, dokud lehce nezezlátnou. Nech je vychladnout."
+    },
+    {
+      "section": "Pesto",
+      "text": "Lístky bazalky otrhej ze stonků. Do mixéru nebo tloučku dej oříšky, česnek a sůl a krátce je rozdrť."
+    },
+    {
+      "section": "Pesto",
+      "text": "Přidej bazalku a polovinu oleje a pulzně mixuj jen do hrubé pasty. Dlouhým mixováním se bazalka zahřeje a ztmavne."
+    },
+    {
+      "section": "Pesto",
+      "text": "Vmíchej parmazán a zbylý olej lžící, ne mixérem. Pesto ochutnej a případně dosol."
+    },
+    {
+      "section": "Těstoviny",
+      "text": "Těstoviny uvař v osolené vodě podle obalu doskřipu. Před slitím odeber asi hrnek vody z vaření."
+    },
+    {
+      "section": "Těstoviny",
+      "text": "Slité těstoviny vrať do hrnce mimo plotnu, přidej pesto a 3 až 5 lžic vody z vaření a promíchej, dokud pesto těstoviny lesklé neobalí. Na plotnu je už nevracej, aby bazalka nezhnědla."
+    }
+  ],
+  "tips": [
+    "Nepoužité pesto přendej do skleničky, zalij tenkou vrstvou oleje a dej do lednice; vydrží tak 4 dny.",
+    "Na pesto se nejlépe hodí bazalka s menšími listy, je méně hořká. Velké tuhé stonky do něj nepatří."
+  ],
+  "substitutions": [
+    "Piniové oříšky nahradí kešu nebo vlašské ořechy, pesto bude o něco hrubší a výraznější.",
+    "Místo domácího pesta můžeš použít kupované, na 400 g těstovin počítej asi 190 g."
+  ],
+  "faq": [
+    {
+      "q": "Proč domácí pesto ztmavne?",
+      "a": "Bazalka oxiduje, když se při mixování zahřeje nebo je dlouho na vzduchu. Mixuj krátce, pesto hned použij nebo zalij olejem a do těstovin ho přidávej mimo plotnu."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí pesto?",
+      "a": "V lednici pod vrstvou oleje 4 dny. Zamražené v tvořítku na led vydrží 3 měsíce."
+    },
+    {
+      "q": "Kolik pesta dát na těstoviny?",
+      "a": "Zhruba 2 polévkové lžíce na porci 100 g těstovin, zředěné trochou vody z vaření."
+    }
+  ]
+}

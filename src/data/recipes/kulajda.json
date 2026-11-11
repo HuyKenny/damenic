@@ -1,0 +1,167 @@
+{
+  "title": "Kulajda",
+  "keywords": [
+    "kulajda recept",
+    "recept na kulajdu",
+    "kulajda se ztraceným vejcem",
+    "jihočeská kulajda"
+  ],
+  "intro": "Čtyři talíře smetanové kyselé polévky s houbami, brambory, koprem a ztraceným vejcem, asi za hodinu i s namáčením hub. Záleží na poměru octa a smetany a na tom, aby se polévka po okyselení už nevařila prudce.",
+  "image": "dish-kulajda",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 25,
+  "waitMinutes": 20,
+  "waitLabel": "namáčení sušených hub",
+  "difficulty": "střední",
+  "ingredients": [
+    {
+      "ingredient": "houby-susene",
+      "amount": 20,
+      "unit": "g",
+      "note": "nebo 300 g čerstvých lesních hub",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1200,
+      "unit": "ml",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 400,
+      "unit": "g",
+      "note": "na kostky 1 cm",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "podle chuti",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 1,
+      "unit": "ks",
+      "note": "svazek, nasekaný",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "co nejčerstvější",
+      "group": "Ztracená vejce"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "do vody na vejce",
+      "group": "Ztracená vejce"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Polévka",
+      "text": "Sušené houby zalij 300 ml vlažné vody a nech je 20 minut namočit."
+    },
+    {
+      "section": "Polévka",
+      "text": "Do hrnce dej zbylých 900 ml vody, brambory, kmín, bobkový list, nové koření a sůl a vař 10 minut."
+    },
+    {
+      "section": "Polévka",
+      "text": "Houby vyndej, nakrájej na menší kousky a přidej je k bramborám. Vodu z namáčení přilij přes jemné sítko, aby v ní nezůstal písek. Vař dalších 10 minut, dokud brambory nezměknou."
+    },
+    {
+      "section": "Polévka",
+      "text": "Smetanu rozšlehej s moukou do hladka a za stálého míchání ji vlij do polévky. Na mírném plameni povař 5 minut."
+    },
+    {
+      "section": "Polévka",
+      "text": "Plotnu ztlum, vylov bobkový list a nové koření a polévku dochuť octem a cukrem: má být výrazně kyselá a zároveň smetanová. Vmíchej kopr a dál už ji nevař."
+    },
+    {
+      "section": "Ztracená vejce",
+      "text": "V menším hrnci přiveď k mírnému varu asi 1,5 litru vody s octem. Vejce rozklepni do hrnečku, vodu zamíchej do víru a vejce do něj opatrně vklouzni."
+    },
+    {
+      "section": "Ztracená vejce",
+      "text": "Vejce vař 3 minuty, aby bílek ztuhl a žloutek zůstal tekutý, a vylov ho děrovanou lžící. Stejně připrav ostatní vejce, po jednom nebo po dvou."
+    },
+    {
+      "section": "Podávání",
+      "text": "Do každého talíře dej jedno vejce a zalij ho horkou kulajdou."
+    }
+  ],
+  "tips": [
+    "Vejce musí být čerstvá, starší se ve vodě rozteče do bílých cárů.",
+    "Ocet přidávej po lžičkách a ochutnávej. Kyselost se po chvíli stání ještě trochu zvýrazní."
+  ],
+  "substitutions": [
+    "Čerstvé houby nakrájej a podus je 5 minut na lžíci másla, než je přidáš k bramborám.",
+    "Ztracené vejce můžeš nahradit vejcem uvařeným natvrdo a rozpůleným."
+  ],
+  "faq": [
+    {
+      "q": "Jaké houby dát do kulajdy?",
+      "a": "Nejlepší jsou lesní houby, čerstvé nebo sušené, třeba hřiby a praváky. Se žampiony to jde také, ale polévka je méně výrazná."
+    },
+    {
+      "q": "Proč se kulajda srazila?",
+      "a": "Kyselina a prudký var srážejí smetanu. Ocet přidávej až po zahuštění a polévku pak jen udržuj horkou; smetana ke šlehání se sráží méně než smetana na vaření."
+    },
+    {
+      "q": "Dá se kulajda ohřívat?",
+      "a": "Ano, pomalu a za míchání, aby nezačala vřít. Vejce připrav vždy čerstvé až k podávání."
+    }
+  ],
+  "vegetarian": true
+}

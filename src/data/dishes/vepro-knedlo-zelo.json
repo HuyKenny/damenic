@@ -74,5 +74,10 @@
     }
   ],
   "restaurant": "u-prazdneho-talire",
-  "image": "dish-vepro-knedlo-zelo"
+  "image": "dish-vepro-knedlo-zelo",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
 }

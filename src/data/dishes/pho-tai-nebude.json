@@ -1,0 +1,63 @@
+{
+  "name": "Phở tái se syrovou rostěnou",
+  "restaurant": "pho-nebude",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Vroucí vývar zalitý na tenké plátky syrové rostěny, které v misce zbělají. S rýžovými nudlemi, cibulí a thajskou bazalkou.",
+  "about": [
+    "Tái znamená syrové. Plátky rostěny se krájí tenké jako papír a dovaří se až v misce, když je zaliješ vroucím vývarem.",
+    "Na tuhle verzi je potřeba opravdu horký vývar, vlažný maso nedovaří. Pálivost si zvolíš předem, doma ji dolaďuješ srirachou na stole."
+  ],
+  "price": 19900,
+  "image": "dish-pho-tai-nebude",
+  "recipe": "pho",
+  "recipeNote": "V receptu jsou kližka i rostěna. Na verzi tái dej do misky jen syrové plátky rostěny.",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mala",
+          "name": "Malá miska 0,5 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká miska 0,8 l",
+          "priceDelta": 4000
+        }
+      ]
+    },
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Bez chilli",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredne",
+          "name": "S čerstvým chilli",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "S chilli a srirachou",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    4,
+    6
+  ],
+  "order": 20
+}

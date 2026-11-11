@@ -1,0 +1,16 @@
+{
+  "name": "Pečená kukuřice s limetkou",
+  "restaurant": "chilli-bez-adresy",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 5900,
+  "description": "Klas kukuřice opečený na másle, s limetkou, solí a sladkou paprikou.",
+  "recipe": null,
+  "image": "dish-kukurice-bez",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 80
+}

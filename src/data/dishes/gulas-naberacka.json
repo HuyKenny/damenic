@@ -1,0 +1,58 @@
+{
+  "name": "Hovězí guláš v misce s chlebem",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Hustší jídla",
+  "description": "Hovězí kližka dušená na cibuli a paprice do husté omáčky, podávaná v misce se dvěma krajíci chleba.",
+  "about": [
+    "Guláš je polévka, která se rozhodla být hlavním jídlem. Kližka se dusí na velkém množství cibule, dokud se cibule úplně nerozpadne a omáčku nezahustí sama, bez mouky.",
+    "V polévkárně ho dáváme do misky, protože se tu všechno jí lžící. Chléb je na vytírání; knedlík je možný, ale musíš si ho přiobjednat a pak si ho stejně uvařit."
+  ],
+  "price": 17900,
+  "image": "dish-gulas-naberacka",
+  "recipe": "hovezi-gulas",
+  "recipeNote": "Recept počítá s chlebem; knedlík nebo brambory jsou uvedené v náhradách.",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "chleb",
+          "name": "Chléb",
+          "priceDelta": 0
+        },
+        {
+          "id": "knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cibule",
+          "name": "Syrová cibule navíc",
+          "priceDelta": 1000
+        },
+        {
+          "id": "feferonka",
+          "name": "Nakládaná feferonka",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1
+  ],
+  "order": 60
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Vanilkový milkshake 0,4 l",
+  "restaurant": "placka-nikam",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Vanilková zmrzlina rozmixovaná s mlékem, hustý tak akorát na brčko.",
+  "price": 8900,
+  "image": "dish-milkshake-placka",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "allergens": [
+    7
+  ],
+  "order": 90
+}

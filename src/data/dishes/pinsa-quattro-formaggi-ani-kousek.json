@@ -1,0 +1,74 @@
+{
+  "name": "Pinsa ai quattro formaggi",
+  "restaurant": "pinseria-ani-kousek",
+  "kind": "main",
+  "section": "Pinsa",
+  "description": "Bílá pinsa se čtyřmi sýry a kapkou medu na vláčném oválném těstě.",
+  "about": [
+    "Na pinse bez rajčat vynikne těsto nejvíc. Římská pinseria k ní přidává kapku medu, která srazí slanost gorgonzoly a parmazánu.",
+    "Recept je na kulatou pizzu z běžného těsta a med je v tipech jako možnost. Tvar je na tobě, sýry se rozpustí stejně."
+  ],
+  "price": 23900,
+  "image": "dish-pinsa-quattro-formaggi-ani-kousek",
+  "recipe": "pizza-quattro-formaggi",
+  "recipeNote": "Doma s klasickým pizza těstem místo pinsové mouky.",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "klasik",
+          "name": "Klasická (30 × 20 cm)",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (40 × 25 cm)",
+          "priceDelta": 7000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "orechy",
+          "name": "Vlašské ořechy",
+          "priceDelta": 2500
+        },
+        {
+          "id": "hrusky",
+          "name": "Plátky hrušky",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "medu",
+          "name": "Bez medu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    6,
+    7
+  ],
+  "order": 20
+}

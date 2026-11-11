@@ -1,0 +1,84 @@
+{
+  "name": "Pad thai s kuřecím masem",
+  "restaurant": "zadny-tuk-tuk",
+  "kind": "main",
+  "section": "Nudle a rýže",
+  "description": "Ploché rýžové nudle s kuřecím masem, vejcem, klíčky a arašídy ve sladkokyselé omáčce, s limetkou.",
+  "about": [
+    "Pad thai je nejznámější thajské jídlo z woku. Nudle se nejdřív namáčejí, ne vaří, a na pánvi dojdou v omáčce z rybí omáčky, cukru a kyselé složky.",
+    "Všechno musí být nakrájené dřív, než zapneš plotýnku, smažení trvá pár minut. Arašídy se dají odebrat."
+  ],
+  "price": 19900,
+  "image": "dish-pad-thai-kure-tuktuk",
+  "recipe": "pad-thai-kureci",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredne",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "krevety",
+          "name": "Krevety",
+          "priceDelta": 5500
+        },
+        {
+          "id": "vejce",
+          "name": "Vejce navíc",
+          "priceDelta": 1500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "arasidu",
+          "name": "Bez arašídů",
+          "priceDelta": 0
+        },
+        {
+          "id": "klicku",
+          "name": "Bez klíčků",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    3,
+    4,
+    5
+  ],
+  "featured": true,
+  "order": 10
+}

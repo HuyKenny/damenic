@@ -1,0 +1,61 @@
+{
+  "name": "Chirashi miska s lososem",
+  "restaurant": "sushi-bez-zrnka",
+  "kind": "main",
+  "section": "Misky a teplá jídla",
+  "description": "Ochucená sushi rýže v misce s plátky lososa k syrové konzumaci, avokádem, okurkou, nori a sezamem.",
+  "about": [
+    "Chirashi je sushi bez rolování: ochucená rýže v misce a na ní rozložená ryba a zelenina. Na domácí přípravu je to nejrychlejší cesta k chuti sushi.",
+    "Všechno stojí na rýži, proto k misce patří recept právě na ni. Lososa krájej proti vláknu na plátky silné asi 5 mm."
+  ],
+  "price": 24900,
+  "image": "dish-chirashi-zrnko",
+  "recipe": "sushi-ryze",
+  "recipeNote": "Recept je na samotnou ochucenou rýži. Do misky na ni polož plátky lososa k syrové konzumaci, avokádo a okurku.",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "normal",
+          "name": "Normální",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "losos",
+          "name": "Losos navíc",
+          "priceDelta": 7000
+        },
+        {
+          "id": "edamame",
+          "name": "Edamame",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    4,
+    6,
+    11
+  ],
+  "order": 40
+}

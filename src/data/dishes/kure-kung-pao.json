@@ -75,5 +75,12 @@
     }
   ],
   "restaurant": "wok-nic-moc",
-  "image": "dish-kure-kung-pao"
+  "image": "dish-kure-kung-pao",
+  "allergens": [
+    1,
+    5,
+    6,
+    11
+  ],
+  "spicy": 2
 }

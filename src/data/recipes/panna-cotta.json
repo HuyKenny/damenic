@@ -1,0 +1,127 @@
+{
+  "title": "Panna cotta s malinovou omáčkou",
+  "keywords": [
+    "panna cotta recept",
+    "panna cotta s malinami",
+    "recept na panna cottu",
+    "domácí panna cotta"
+  ],
+  "intro": "Čtyři skleničky vanilkové panna cotty s malinovou omáčkou za 30 minut práce a 4 hodiny tuhnutí. Výsledek závisí na správném množství želatiny a na tom, že se smetana s ní nevaří.",
+  "image": "dish-panna-cotta",
+  "category": "dezerty",
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 10,
+  "waitMinutes": 240,
+  "waitLabel": "tuhnutí v lednici",
+  "difficulty": "snadné",
+  "vegetarian": false,
+  "ingredients": [
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 400,
+      "unit": "ml",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "vanilka-lusk",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "zelatina",
+      "amount": 6,
+      "unit": "g",
+      "note": "3 plátky po 2 g nebo mletá",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "studená, jen pro mletou želatinu",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "maliny-mrazene",
+      "amount": 250,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Krém",
+      "text": "Plátkovou želatinu namoč na 5 minut do misky se studenou vodou. Mletou rozmíchej ve 3 lžících studené vody a nech 10 minut nabobtnat."
+    },
+    {
+      "section": "Krém",
+      "text": "Vanilkový lusk podélně rozřízni a nožem vyškrab semínka. Smetanu, mléko, cukr, semínka i lusk dej do kastrolu a zahřívej, dokud se na okraji neobjeví drobné bublinky. Nevař."
+    },
+    {
+      "section": "Krém",
+      "text": "Kastrol odstav, vylov lusk a vmíchej vymačkané plátky nebo nabobtnalou mletou želatinu. Míchej, dokud se úplně nerozpustí."
+    },
+    {
+      "section": "Krém",
+      "text": "Směs přeceď přes sítko do konvičky a rozlij do 4 skleniček nebo formiček o objemu asi 150 ml. Nech vychladnout na pokojovou teplotu, pak zakryj a dej aspoň na 4 hodiny do lednice."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Maliny s cukrem a citronovou šťávou vař v malém kastrolu 5 minut, dokud se nerozpadnou. Pro hladkou omáčku je propasíruj přes sítko a nech vychladnout."
+    },
+    {
+      "section": "Podávání",
+      "text": "Ztuhlou panna cottu přelij omáčkou a podávej ve skleničkách. Pokud ji chceš vyklopit, ponoř formičku na pár sekund do horké vody a otoč ji na talíř."
+    }
+  ],
+  "tips": [
+    "Než krém rozliješ, nech ho 10 minut chladnout a občas ho promíchej. Semínka vanilky pak neklesnou ke dnu.",
+    "Vylouhovaný lusk opláchni, usuš a zastrč do sklenice s cukrem. Vznikne domácí vanilkový cukr."
+  ],
+  "substitutions": [
+    "Želatinu nahradíš agarem: na tento objem stačí asi 1 g, který je potřeba se smetanou 2 minuty povařit. Dezert pak bude vegetariánský.",
+    "Vanilkový lusk nahradíš sáčkem vanilkového cukru; cukru pak dej o lžíci méně.",
+    "Maliny můžeš vyměnit za jahody nebo směs lesního ovoce."
+  ],
+  "faq": [
+    {
+      "q": "Kolik želatiny dát do panna cotty?",
+      "a": "Na půl litru smetany a mléka stačí asi 6 g, tedy 3 plátky. Víc želatiny dá gumový krém; na vyklápění z formiček přidej jeden plátek navíc."
+    },
+    {
+      "q": "Proč panna cotta neztuhla?",
+      "a": "Želatina se buď nerozpustila, nebo se s ní smetana vařila. Rozpouštěj ji v horké, ne vroucí smetaně a dej dezertu v lednici aspoň 4 hodiny."
+    },
+    {
+      "q": "Jak dlouho vydrží panna cotta v lednici?",
+      "a": "Zakrytá 2 až 3 dny. Omáčku přidávej až těsně před podáváním."
+    }
+  ]
+}

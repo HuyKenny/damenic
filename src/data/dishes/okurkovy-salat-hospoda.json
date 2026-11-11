@@ -28,5 +28,8 @@
     }
   ],
   "restaurant": "u-prazdneho-talire",
-  "image": "dish-okurkovy-salat-hospoda"
+  "image": "dish-okurkovy-salat-hospoda",
+  "allergens": [
+    7
+  ]
 }

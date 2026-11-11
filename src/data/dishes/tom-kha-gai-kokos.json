@@ -1,0 +1,54 @@
+{
+  "name": "Tom kha gai s kuřecím masem",
+  "restaurant": "kokos-nedorazil",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Krémová kokosová polévka s galangalem, citronovou trávou, kafírovými listy, kuřecím masem a žampiony.",
+  "about": [
+    "Tom kha gai je pojmenovaná po galangalu, thajsky kha. Kokosové mléko jeho citrusovou a jehličnatou vůni zjemní.",
+    "Polévka se vaří jen mírně, prudký var mléko srazí. Rýži si můžeš přiobjednat, v Thajsku se k polévce běžně jí."
+  ],
+  "price": 18900,
+  "image": "dish-tom-kha-gai-kokos",
+  "recipe": "tom-kha-gai",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "05",
+          "name": "0,5 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "08",
+          "name": "0,8 l",
+          "priceDelta": 5000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "ryze",
+          "name": "Jasmínová rýže",
+          "priceDelta": 3500
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    4
+  ],
+  "featured": true,
+  "order": 10
+}

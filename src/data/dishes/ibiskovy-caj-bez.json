@@ -1,0 +1,15 @@
+{
+  "name": "Ledový ibiškový čaj 0,4 l",
+  "restaurant": "chilli-bez-adresy",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 4900,
+  "description": "Vychlazený odvar z ibišku, lehce slazený. Rubínově červený, doma nikdy nedoručený.",
+  "recipe": null,
+  "image": "dish-ibiskovy-caj-bez",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 90
+}

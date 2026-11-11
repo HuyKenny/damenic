@@ -1,0 +1,67 @@
+{
+  "name": "Kuře na paprice s těstovinami",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Polední menu",
+  "description": "Kuřecí stehna dušená na cibuli a sladké paprice v hladké smetanové omáčce, s kolínky.",
+  "about": [
+    "Kuře na paprice je jídlo, které jídelny vaří v kotlích a domácnosti v kastrolu. Stehenní maso se opeče, pak se dusí na pomalu zpěněné cibuli s mletou paprikou a nakonec se omáčka zjemní smetanou.",
+    "Celé je to hotové za hodinu a omáčky je vždycky víc, než je potřeba. Proto se k ní dávají kolínka nebo knedlík, aby ji bylo čím sebrat."
+  ],
+  "price": 16900,
+  "image": "dish-kure-na-paprice",
+  "recipe": "kure-na-paprice",
+  "recipeNote": "Recept je na kuřecí stehna s knedlíkem; těstoviny nebo rýži uvaříš podle obalu.",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "testoviny",
+          "name": "Těstoviny",
+          "priceDelta": 0
+        },
+        {
+          "id": "knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "ryze",
+          "name": "Dušená rýže",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "omacka",
+          "name": "Omáčka navíc",
+          "priceDelta": 2000
+        },
+        {
+          "id": "maso",
+          "name": "Maso navíc",
+          "priceDelta": 5500
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    9
+  ],
+  "featured": true,
+  "order": 10
+}

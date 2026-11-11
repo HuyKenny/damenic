@@ -1,0 +1,40 @@
+{
+  "name": "Tom yum s krevetami",
+  "restaurant": "zadny-tuk-tuk",
+  "kind": "main",
+  "section": "Kari a polévky",
+  "description": "Čirá kyselá a pálivá polévka s citronovou trávou, galangalem, kafírovými listy, krevetami, houbami a rajčaty.",
+  "about": [
+    "Tom yum je čirá polévka, kde se setkává kyselá limetka, slaná rybí omáčka a pálivé chilli. Vůni dávají citronová tráva, galangal a kafírové listy.",
+    "Koření v polévce zůstává, ale nejí se. Limetku přidávej až po stažení z ohně, varem zhořkne."
+  ],
+  "price": 17900,
+  "image": "dish-tom-yum-tuktuk",
+  "recipe": "tom-yum",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "05",
+          "name": "0,5 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "08",
+          "name": "0,8 l",
+          "priceDelta": 5000
+        }
+      ]
+    }
+  ],
+  "spicy": 3,
+  "allergens": [
+    2,
+    4
+  ],
+  "order": 60
+}

@@ -1,0 +1,245 @@
+{
+  "title": "Butter chicken",
+  "keywords": [
+    "butter chicken recept",
+    "recept na butter chicken",
+    "kuře na másle",
+    "indické máslové kuře"
+  ],
+  "intro": "Čtyři porce kuřecích stehen v hladké rajčatové omáčce s máslem a smetanou, hotové asi za dvě a čtvrt hodiny včetně hodiny marinování. Chuť stojí na pomalu provařených rajčatech a na mase, které se před dušením opeče do tmava.",
+  "image": "dish-butter-chicken",
+  "category": "indicka",
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 35,
+  "waitMinutes": 60,
+  "waitLabel": "marinování masa",
+  "difficulty": "střední",
+  "tips": [
+    "Stehna jsou šťavnatější než prsa a v omáčce nevysychají. S prsy zkrať dušení na 6 až 8 minut.",
+    "Omáčka má být sametová a lehce nasládlá. Když je kyselá, přidej ještě špetku cukru nebo lžíci smetany.",
+    "Den po uvaření chutná butter chicken často lépe; ohřívej ho pomalu a případně zřeď lžící vody."
+  ],
+  "substitutions": [
+    "Smetanu ke šlehání můžeš nahradit smetanou na vaření, omáčka bude řidší.",
+    "Místo čerstvého chilli použij čtvrt lžičky pálivé papriky."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi butter chicken a tikka masala?",
+      "a": "Butter chicken má hladkou, máslovou a jemnější omáčku. Tikka masala má víc cibule a koření, bývá výraznější a kořenitější a maso se v ní podává jako grilované kousky."
+    },
+    {
+      "q": "Je butter chicken pálivý?",
+      "a": "Podle tohoto receptu jen mírně. Pálivost určuje chilli paprička; bez semínek je jemná, se semínky nebo se dvěma papričkami bude omáčka ostřejší."
+    },
+    {
+      "q": "Jak dlouho vydrží v lednici?",
+      "a": "V uzavřené nádobě dva až tři dny. Dá se i zamrazit, smetanová omáčka se ale po rozmražení může lehce oddělit, takže ji při ohřívání promíchej."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 700,
+      "unit": "g",
+      "note": "bez kosti, na kousky 3 cm",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 150,
+      "unit": "g",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 15,
+      "unit": "g",
+      "note": "najemno nastrouhaný",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "garam-masala",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 15,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "bez semínek, nadrobno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "garam-masala",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "podle chuti",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 300,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "lístky",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Marináda",
+      "text": "Kuře smíchej se všemi surovinami na marinádu, zakryj a nech v lednici aspoň hodinu, klidně přes noc."
+    },
+    {
+      "section": "Maso",
+      "text": "Na pánvi rozpal lžíci oleje a maso opékej ve dvou dávkách na prudkém ohni 4 až 5 minut, dokud nemá tmavé okraje. Uvnitř nemusí být hotové, dojde v omáčce. Odlož ho na talíř."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Ve stejné pánvi rozpusť polovinu másla a na mírném ohni na něm 8 minut zpěňuj cibuli, až zezlátne. Přidej česnek, zázvor a chilli a míchej minutu."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Vmíchej rajčatový protlak a všechno koření a opékej 30 sekund, aby koření zavonělo a nepřipálilo se. Přidej rozmačkaná loupaná rajčata, cukr a vodu."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Omáčku vař přikrytou na mírném ohni 15 minut, pak ji rozmixuj ponorným mixérem dohladka."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Vrať do omáčky maso i se šťávou a vař dalších 10 až 12 minut, dokud kuře není propečené. Vmíchej smetanu a zbylé máslo, prohřej a dochuť solí."
+    },
+    {
+      "section": "Podávání",
+      "text": "Mezitím uvař rýži basmati podle návodu na obalu. Kuře podávej s rýží nebo s naanem a posyp lístky koriandru."
+    }
+  ]
+}

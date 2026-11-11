@@ -1,0 +1,112 @@
+{
+  "name": "Cheeseburger z tlustého plátku",
+  "restaurant": "placka-nikam",
+  "kind": "main",
+  "section": "Další burgery",
+  "description": "Klasický hovězí plátek 150 g, cheddar, salát, rajče, červená cibule a nakládaná okurka v opečené bulce.",
+  "about": [
+    "Pro ty, kdo dávají přednost šťavnatému středu před kůrkou. Maso tvarujeme do silného plátku předem a smažíme ho déle a na nižší teplotě.",
+    "Zelenina je tu čerstvá a hodně jí, aby vyvážila tučný sýr a omáčku."
+  ],
+  "price": 22900,
+  "image": "dish-cheeseburger-placka",
+  "recipe": "cheeseburger-klasicky",
+  "optionGroups": [
+    {
+      "id": "propeceni",
+      "name": "Propečení",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "stredne",
+          "name": "Středně propečené",
+          "priceDelta": 0
+        },
+        {
+          "id": "propecene",
+          "name": "Propečené",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bez",
+          "name": "Bez přílohy",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Domácí hranolky",
+          "priceDelta": 5900
+        },
+        {
+          "id": "krouzky",
+          "name": "Cibulové kroužky",
+          "priceDelta": 6900
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "slanina",
+          "name": "Slanina",
+          "priceDelta": 3500
+        },
+        {
+          "id": "cheddar",
+          "name": "Cheddar navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 2000
+        },
+        {
+          "id": "placka",
+          "name": "Placka navíc",
+          "priceDelta": 5900
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-cibule",
+          "name": "Bez cibule",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-rajcete",
+          "name": "Bez rajčete",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    3,
+    7,
+    10,
+    11
+  ],
+  "order": 40
+}

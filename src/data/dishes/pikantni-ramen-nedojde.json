@@ -1,0 +1,62 @@
+{
+  "name": "Pikantní ramen s chilli olejem",
+  "restaurant": "ramen-nedojde",
+  "kind": "main",
+  "section": "Ramen",
+  "description": "Stejný kuřecí vývar se sójovou omáčkou, ale ostřejší: s gochujangem, chilli olejem a jarní cibulkou.",
+  "about": [
+    "Pikantní verze vychází ze shoyu ramenu, jen do omáčky na dně misky přibude lžička gochujangu a na hladinu chilli olej.",
+    "Pálivost se dá řídit přímo v misce, takže si ji doma nastavíš po lžičkách. Kdo začíná, ať zvolí nižší stupeň."
+  ],
+  "price": 24900,
+  "image": "dish-pikantni-ramen-nedojde",
+  "recipe": "ramen",
+  "recipeNote": "Recept je na shoyu ramen. Na pikantní verzi přidej do každé misky lžičku gochujangu a chilli olej.",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "hodne",
+          "name": "Hodně pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "vejce",
+          "name": "Marinované vejce navíc",
+          "priceDelta": 3000
+        },
+        {
+          "id": "kure",
+          "name": "Kuřecí maso navíc",
+          "priceDelta": 5500
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    1,
+    3,
+    6,
+    11
+  ],
+  "order": 20
+}

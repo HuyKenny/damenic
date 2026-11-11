@@ -1,0 +1,44 @@
+{
+  "name": "Brownies s vlašskými ořechy",
+  "restaurant": "zitra-upecem",
+  "kind": "main",
+  "section": "Brownies a muffiny",
+  "description": "Stejně hutné čokoládové těsto, ve kterém křupou kousky vlašských ořechů.",
+  "about": [
+    "Ořechy jsou v brownies stará americká klasika. Hořkost vlašských ořechů vyrovná sladkost čokolády a do vláčného středu přidá něco na skus.",
+    "Vybereš si počet kusů. Ořechy můžeš před přidáním do těsta krátce opražit na suché pánvi, budou výraznější."
+  ],
+  "price": 8900,
+  "image": "dish-brownies-orechy-upecem",
+  "recipe": "brownies",
+  "recipeNote": "Varianta ze záměn: do těsta přimíchej 80 g nasekaných vlašských ořechů.",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "1",
+          "name": "1 kus",
+          "priceDelta": 0
+        },
+        {
+          "id": "4",
+          "name": "4 kusy",
+          "priceDelta": 25000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "order": 20
+}

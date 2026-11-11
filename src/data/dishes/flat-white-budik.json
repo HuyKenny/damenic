@@ -1,0 +1,36 @@
+{
+  "name": "Flat white",
+  "restaurant": "odlozeny-budik",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Dvojité espresso s tenkou vrstvou mléka. Probudí tě líp než budík, který jsi odložil.",
+  "price": 6900,
+  "image": "dish-flat-white-budik",
+  "recipe": null,
+  "optionGroups": [
+    {
+      "id": "mleko",
+      "name": "Mléko",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kravske",
+          "name": "Kravské",
+          "priceDelta": 0
+        },
+        {
+          "id": "ovesne",
+          "name": "Ovesný nápoj",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 100
+}

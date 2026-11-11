@@ -9,5 +9,6 @@
   "vegetarian": true,
   "order": 80,
   "description": "Najemno krouhané bílé a červené zelí s citronem, olivovým olejem a petrželkou.",
-  "optionGroups": []
+  "optionGroups": [],
+  "allergens": []
 }

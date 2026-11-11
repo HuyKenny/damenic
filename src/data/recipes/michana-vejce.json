@@ -1,0 +1,95 @@
+{
+  "title": "Míchaná vejce",
+  "keywords": [
+    "míchaná vejce recept",
+    "míchaná vejce",
+    "krémová míchaná vejce",
+    "jak udělat míchaná vejce"
+  ],
+  "intro": "Krémová míchaná vejce na másle s pažitkou pro dva, hotová za deset minut. Všechno stojí na mírném plameni a na tom, že pánev odstavíš dřív, než vejce vypadají hotová.",
+  "image": "dish-michana-vejce",
+  "category": "snidane",
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 150,
+      "unit": "g",
+      "note": "2 až 4 krajíce, na opečení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce rozklepni do misky, přidej smetanu a vidličkou je rozšlehej, až se bílek a žloutek úplně spojí."
+    },
+    {
+      "text": "Chléb opeč na suché pánvi nebo v toustovači. Pažitku nasekej."
+    },
+    {
+      "text": "Na nepřilnavé pánvi rozpusť na mírném plameni máslo. Až přestane pěnit, vlij vejce a nech je chvíli stát, dokud se na okraji nezačnou srážet."
+    },
+    {
+      "text": "Stěrkou pomalu shrnuj sraženou část od okrajů ke středu, aby vznikaly velké měkké vločky. Když se vejce srážejí moc rychle, stáhni pánev na pár vteřin z plamene."
+    },
+    {
+      "text": "Pánev odstav, dokud vejce ještě vypadají trochu vlhce; v horké pánvi dojdou za pár vteřin. Osol, opepři, posyp pažitkou a hned podávej na opečeném chlebu."
+    }
+  ],
+  "tips": [
+    "Kousek studeného másla vmíchaný na konci vejce zastaví a udělá je ještě krémovější.",
+    "Míchaná vejce nečekají. Chléb a talíře měj připravené dřív, než je začneš dělat."
+  ],
+  "substitutions": [
+    "Smetanu nahradíš lžící mléka, nebo ji úplně vynech.",
+    "Pažitku vyměníš za jarní cibulku. Pro slanější variantu nejdřív na pánvi osmahni 50 g slaniny na kostičky a vejce vlij k ní."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat krémová míchaná vejce?",
+      "a": "Mírný plamen, pomalé shrnování stěrkou a odstavení dřív, než jsou vejce suchá. Lžíce smetany nebo kousek studeného másla na konci je udělá jemnější."
+    },
+    {
+      "q": "Kdy solit míchaná vejce?",
+      "a": "Těsně před vlitím na pánev, nebo až na konci. Vejce osolená dlouho předem bývají vodnatější."
+    },
+    {
+      "q": "Kolik vajec počítat na porci?",
+      "a": "Zhruba 2 až 3 vejce na osobu. Recept počítá s pěti vejci na dvě sytější porce."
+    }
+  ]
+}

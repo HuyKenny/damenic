@@ -1,0 +1,14 @@
+{
+  "name": "Kokosová voda 0,33 l",
+  "restaurant": "rolka-priste",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Čistá kokosová voda bez přidaného cukru.",
+  "price": 5900,
+  "image": "dish-kokosova-voda-priste",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 100
+}

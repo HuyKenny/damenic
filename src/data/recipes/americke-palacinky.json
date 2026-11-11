@@ -1,0 +1,127 @@
+{
+  "title": "Americké palačinky",
+  "keywords": [
+    "americké palačinky recept",
+    "pancakes recept",
+    "recept na americké palačinky",
+    "nadýchané americké palačinky"
+  ],
+  "intro": "Šestnáct nadýchaných amerických palačinek s javorovým sirupem za tři čtvrtě hodiny. Výška palačinek závisí na krátkém míchání těsta a na čerstvém kypřicím prášku.",
+  "image": "dish-americke-palacinky",
+  "category": "palacinky",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 0,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "40 g rozpuštěného do těsta, zbytek na pánev",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "javorovy-sirup",
+      "amount": 6,
+      "unit": "lzice",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "V míse smíchej mouku, kypřicí prášek, cukr a sůl."
+    },
+    {
+      "section": "Těsto",
+      "text": "V druhé misce rozšlehej vejce s mlékem a vmíchej 40 g rozpuštěného, mírně zchladlého másla."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mokrou směs vlij do suché a vařečkou krátce promíchej, jen dokud nezmizí suchá mouka. Malé hrudky v těstě nevadí."
+    },
+    {
+      "section": "Těsto",
+      "text": "Těsto nech 10 minut odpočinout. Zhoustne a na povrchu se objeví bublinky."
+    },
+    {
+      "section": "Smažení",
+      "text": "Nepřilnavou pánev rozehřej na středním plameni a potři ji tence máslem. Nalij asi 50 ml těsta na jednu palačinku a nech ho rozlít samo."
+    },
+    {
+      "section": "Smažení",
+      "text": "Smaž asi 2 minuty, dokud se na povrchu neobjeví praskající bublinky a okraje nezmatní. Obrať a smaž ještě 1 až 1,5 minuty."
+    },
+    {
+      "section": "Smažení",
+      "text": "Hotové palačinky udržuj teplé v troubě na 90 °C pod utěrkou, dokud nedosmažíš zbytek."
+    },
+    {
+      "section": "Podávání",
+      "text": "Podávej ve sloupcích po čtyřech, polité javorovým sirupem."
+    }
+  ],
+  "tips": [
+    "Palačinky po obrácení nepřimačkávej obracečkou, vytlačíš z nich vzduch.",
+    "Pokud první palačinka rychle tmavne a uvnitř je syrová, ztlum plamen."
+  ],
+  "substitutions": [
+    "Mléko můžeš nahradit podmáslím; pak přidej k mouce ještě čtvrt lžičky jedlé sody.",
+    "Javorový sirup jde nahradit medem nebo ovocem se zakysanou smetanou či řeckým jogurtem."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat americké palačinky nadýchané?",
+      "a": "Těsto míchej jen krátce, nech ho 10 minut odpočinout a nerozlévej ho po pánvi. Přemíchané těsto je tuhé a palačinky zůstanou nízké."
+    },
+    {
+      "q": "Jaký je rozdíl mezi americkými palačinkami a lívanci?",
+      "a": "Americké palačinky kypří prášek do pečiva, takže se smaží hned. Lívance jsou kynuté droždím a těsto potřebuje asi půl hodiny kynout."
+    },
+    {
+      "q": "Dají se americké palačinky zamrazit?",
+      "a": "Ano. Zamraz je proložené pečicím papírem a ohřej v toustovači nebo v troubě na 180 °C asi 5 minut."
+    }
+  ],
+  "vegetarian": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Kokosová voda 0,33 l",
+  "restaurant": "kokos-nedorazil",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Kokosová voda bez přidaného cukru. Jediný kokos, který by dorazil, kdyby něco dorazilo.",
+  "price": 5900,
+  "image": "dish-kokosova-voda-kokos",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 90
+}

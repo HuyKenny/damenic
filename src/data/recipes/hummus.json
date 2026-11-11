@@ -1,0 +1,121 @@
+{
+  "title": "Hummus",
+  "keywords": [
+    "hummus recept",
+    "domácí hummus",
+    "cizrnová pomazánka",
+    "hummus z konzervy"
+  ],
+  "intro": "Miska jemného hummusu z cizrny, tahini, citronu a česneku pro čtyři, hotová asi za třicet pět minut. Hladkost dělá krátké povaření cizrny z konzervy a ledová voda přidaná při mixování.",
+  "image": "dish-hummus",
+  "category": "kebab",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "difficulty": "snadné",
+  "tips": [
+    "Na úplně hladký hummus přidej k vařené cizrně půl lžičky jedlé sody, slupky se uvolní a dají se slít.",
+    "Hummus po vychladnutí zhoustne. Když je v lednici moc tuhý, vmíchej lžíci vody."
+  ],
+  "substitutions": [
+    "Místo konzervy použij 250 g sušené cizrny namočené přes noc a uvařené doměkka, asi hodinu a půl.",
+    "Bez tahini bude hummus méně krémový; nahraď ho 3 lžícemi olivového oleje."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat hummus hladký?",
+      "a": "Cizrnu povař, aby byla velmi měkká, mixuj ji teplou a dostatečně dlouho a přidávej ledovou vodu. Kdo chce úplně hladký výsledek, sloupne slupky."
+    },
+    {
+      "q": "Jak dlouho vydrží hummus v lednici?",
+      "a": "V uzavřené nádobě čtyři dny. Povrch zakápni olivovým olejem, aby neosychal."
+    },
+    {
+      "q": "Dá se hummus udělat bez mixéru?",
+      "a": "S ponorným mixérem ano, jen to trvá déle. Bez mixéru vznikne spíš hrubá rozmačkaná pomazánka."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "cizrna-konzerva",
+      "amount": 800,
+      "unit": "g",
+      "note": "2 plechovky, okapané",
+      "group": "Hummus"
+    },
+    {
+      "ingredient": "tahini",
+      "amount": 120,
+      "unit": "g",
+      "note": "dobře promíchané",
+      "group": "Hummus"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Hummus"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Hummus"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 80,
+      "unit": "ml",
+      "note": "ledová",
+      "group": "Hummus"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Hummus"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Hummus"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Navrch"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Navrch"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaná, nepovinně",
+      "group": "Navrch"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cizrnu propláchni, dej do hrnce, zalij vodou a vař 20 minut, dokud nejsou zrna velmi měkká a slupky se samy neuvolňují. Sceď ji a nech chvíli vychladnout."
+    },
+    {
+      "text": "Do mixéru dej tahini, citronovou šťávu, česnek a sůl a mixuj minutu, směs zhoustne a zesvětlá."
+    },
+    {
+      "text": "Přidej teplou cizrnu a kmín a mixuj 2 až 3 minuty. Za chodu po lžících přilévej ledovou vodu, dokud hummus není hladký a nadýchaný."
+    },
+    {
+      "text": "Dochuť solí a citronem. Rozetři ho na talíř, lžící udělej důlek, nalij do něj olivový olej a posyp paprikou a petrželkou."
+    }
+  ],
+  "waitMinutes": 0
+}

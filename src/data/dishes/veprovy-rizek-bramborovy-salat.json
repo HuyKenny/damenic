@@ -74,5 +74,12 @@
     }
   ],
   "restaurant": "u-prazdneho-talire",
-  "image": "dish-veprovy-rizek-bramborovy-salat"
+  "image": "dish-veprovy-rizek-bramborovy-salat",
+  "allergens": [
+    1,
+    3,
+    7,
+    9,
+    10
+  ]
 }

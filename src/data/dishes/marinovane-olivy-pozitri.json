@@ -1,0 +1,15 @@
+{
+  "name": "Marinované olivy",
+  "restaurant": "lahudky-pozitri",
+  "kind": "side",
+  "section": "Ke kávě a s sebou",
+  "description": "Miska zelených a černých oliv s citronovou kůrou, česnekem a bylinkami.",
+  "price": 8900,
+  "image": "dish-marinovane-olivy-pozitri",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 70
+}

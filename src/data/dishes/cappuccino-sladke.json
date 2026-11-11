@@ -1,0 +1,36 @@
+{
+  "name": "Cappuccino",
+  "restaurant": "sladke-nic",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Espresso s napěněným mlékem, 0,2 l.",
+  "price": 6900,
+  "image": "dish-cappuccino-sladke",
+  "recipe": null,
+  "optionGroups": [
+    {
+      "id": "mleko",
+      "name": "Mléko",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kravske",
+          "name": "Kravské",
+          "priceDelta": 0
+        },
+        {
+          "id": "ovesne",
+          "name": "Ovesný nápoj",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 90
+}

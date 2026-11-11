@@ -1,0 +1,32 @@
+{
+  "name": "Lívancárna Až zítra",
+  "category": "palacinky",
+  "cuisine": "Lívance a pancakes",
+  "tagline": "Snídaně do postele. Postel si zajisti sám.",
+  "description": "Fiktivní snídaňové bistro se sloupky amerických palačinek, kynutými lívanci a sirupem v konvičce. Nic z toho nedorazí, takže těsto si zamícháš sám podle receptu.",
+  "etaMinutes": 30,
+  "deliveryFee": 4500,
+  "minOrder": 19900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "08:00",
+    "close": "14:30"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa"
+  ],
+  "logo": {
+    "text": "AZ",
+    "color": "#F2B544",
+    "ink": "dark"
+  },
+  "cover": "rest-livancarna-az-zitra",
+  "sections": [
+    "Lívance",
+    "Pancakes",
+    "Přidat k tomu",
+    "Nápoje"
+  ],
+  "order": 132
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Kuřecí shawarma v pitě",
+  "restaurant": "prazdna-misa",
+  "kind": "main",
+  "section": "Shawarma",
+  "price": 17900,
+  "description": "Kuřecí stehna marinovaná s kmínem, koriandrem a skořicí, v pitě s tahini omáčkou, nakládanými okurkami, rajčaty a cibulí se sumahem.",
+  "about": [
+    "Shawarma voní jinak než kebab. Do marinády patří vedle kmínu a papriky i skořice, kurkuma a kardamom, a maso se po upečení nakrájí a ještě jednou opeče do křupava.",
+    "Kyselé nakládané okurky a omáčka z tahini s česnekem tu nejsou jen ozdoba, vyvažují kořenité maso. Cibule se sumahem dodá citronovou svěžest bez citronu."
+  ],
+  "recipe": "shawarma",
+  "image": "dish-shawarma",
+  "optionGroups": [
+    {
+      "id": "omacka",
+      "name": "Omáčka",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "tahini",
+          "name": "Tahini s česnekem",
+          "priceDelta": 0
+        },
+        {
+          "id": "cesnekova",
+          "name": "Česneková",
+          "priceDelta": 0
+        },
+        {
+          "id": "palava",
+          "name": "Pálivá",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "maso",
+          "name": "Maso navíc",
+          "priceDelta": 4900
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky dovnitř",
+          "priceDelta": 2500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "okurky",
+          "name": "Bez nakládaných okurek",
+          "priceDelta": 0
+        },
+        {
+          "id": "cibule",
+          "name": "Bez cibule",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    7,
+    11
+  ],
+  "featured": true,
+  "order": 10
+}

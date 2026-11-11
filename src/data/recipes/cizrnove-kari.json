@@ -1,0 +1,205 @@
+{
+  "title": "Cizrnové kari se špenátem",
+  "category": "vegetarianska",
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "keywords": [
+    "cizrnové kari recept",
+    "kari z cizrny",
+    "cizrnové kari s kokosovým mlékem",
+    "chana masala"
+  ],
+  "intro": "Hustá cizrnová kari s rajčaty, kokosovým mlékem a špenátem, s basmati rýží pro čtyři asi za hodinu. Chuť dělá hlavně koření opražené na oleji a dostatečně dlouhé povaření.",
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 20,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "garam-masala",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "podle chuti",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "cizrna-konzerva",
+      "amount": 800,
+      "unit": "g",
+      "note": "2 plechovky, scezené a propláchnuté",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "kokosove-mleko",
+      "amount": 400,
+      "unit": "ml",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "spenat-baby",
+      "amount": 125,
+      "unit": "g",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na šťávu",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na posypání",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 300,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 450,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Kari",
+      "text": "V širokém hrnci rozehřej olej a na středním plameni na něm 8 až 10 minut smaž cibuli, dokud nezezlátne. Přidej česnek a zázvor a minutu je osmahni."
+    },
+    {
+      "section": "Kari",
+      "text": "Vsyp kmín, mletý koriandr, kurkumu, garam masalu a chilli a za stálého míchání je 30 sekund praž. Přidej protlak a nech ho minutu orestovat, ať ztmavne."
+    },
+    {
+      "section": "Kari",
+      "text": "Přilij loupaná rajčata, která rozmačkáš vařečkou, a 5 minut je provař. Pak přidej cizrnu, kokosové mléko, vodu a sůl."
+    },
+    {
+      "section": "Kari",
+      "text": "Kari vař bez pokličky na mírném plameni 20 minut, občas promíchej. Asi čtvrtinu cizrny rozmačkej o stěnu hrnce, omáčka tím zhoustne."
+    },
+    {
+      "section": "Rýže",
+      "text": "Mezitím propláchnutou basmati rýži zalij 450 ml vody, osol, přiveď k varu a pod pokličkou na minimu vař 12 minut. Nech ji 10 minut dojít a načechrej."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Do kari vmíchej špenát a nech ho minutu zavadnout. Dochuť citronovou šťávou a solí."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Podávej s rýží a posypané nasekaným koriandrem."
+    }
+  ],
+  "tips": [
+    "Koření praž jen krátce a za stálého míchání. Připálená kurkuma a kmín zhořknou a celé kari tím ztratí.",
+    "Kari je druhý den ještě lepší. V lednici vydrží tři dny, při ohřívání ho zřeď trochou vody."
+  ],
+  "substitutions": [
+    "Místo konzervy můžeš použít 300 g sušené cizrny: namoč ji přes noc a vař 60 až 90 minut doměkka.",
+    "Špenát z balíčku nahradí 150 g mraženého listového špenátu, rozmraž ho a vymačkej.",
+    "Garam masalu lze nahradit 2 lžičkami kari koření, chuť bude méně aromatická."
+  ],
+  "faq": [
+    {
+      "q": "Jak zahustit cizrnové kari?",
+      "a": "Rozmačkej část cizrny o stěnu hrnce a nech kari pár minut vařit bez pokličky. Mouku ani škrob nepotřebuješ."
+    },
+    {
+      "q": "Je cizrnové kari veganské?",
+      "a": "V téhle podobě ano, obsahuje jen rostlinné suroviny. Pozor jen na hotové vývary nebo pasty, do kterých výrobci někdy přidávají rybí omáčku."
+    },
+    {
+      "q": "Jak dlouho vydrží cizrnové kari v lednici?",
+      "a": "V uzavřené nádobě tři dny, zamražené zhruba tři měsíce. Rýži skladuj zvlášť a ohřívej ji důkladně."
+    }
+  ],
+  "image": "dish-cizrnove-kari"
+}

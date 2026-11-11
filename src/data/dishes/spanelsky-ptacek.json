@@ -1,0 +1,64 @@
+{
+  "name": "Španělský ptáček s rýží",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Hovězí závitek plněný párkem, slaninou, vejcem a kyselou okurkou, dušený do měkka v cibulové omáčce. S dušenou rýží.",
+  "about": [
+    "Španělský ptáček nemá se Španělskem nic společného, zato hodně s trpělivostí. Tenký plátek hovězího se potře hořčicí, zabalí se do něj všechno, co bývá v ledničce, a pak se hodinu a půl dusí, dokud nezměkne.",
+    "Omáčka vzniká z výpeku, cibule a vývaru a na konci se jen lehce zahustí. Rýže k ní patří klasicky, ale knedlík není chyba a hospodský by ti ho klidně donesl. Kdyby něco nosil."
+  ],
+  "price": 23900,
+  "image": "dish-spanelsky-ptacek",
+  "recipe": "spanelsky-ptacek",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "ryze",
+          "name": "Dušená rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "testoviny",
+          "name": "Těstoviny",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "druhy-ptacek",
+          "name": "Druhý ptáček",
+          "priceDelta": 9900
+        },
+        {
+          "id": "omacka",
+          "name": "Omáčka navíc",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    10
+  ],
+  "order": 30
+}

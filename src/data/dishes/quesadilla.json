@@ -1,0 +1,64 @@
+{
+  "name": "Quesadilla s kuřetem a paprikou",
+  "restaurant": "tortillarna-ani-omylem",
+  "kind": "main",
+  "section": "Quesadilly a nachos",
+  "price": 16900,
+  "description": "Tortilla plněná opečeným kuřetem, paprikou, červenou cibulí a sýrem, opečená dozlatova, se zakysanou smetanou.",
+  "about": [
+    "Hlavní placka podniku. Kuře se opeče s kmínem a uzenou paprikou, paprika s cibulí změkne na stejné pánvi a všechno se zavře mezi dvě vrstvy sýra v přeložené tortille.",
+    "Opéká se na mírném ohni, aby se sýr stihl rozpustit dřív, než placka zhnědne. Odpočinek minutu před krájením zabrání tomu, aby sýr vytekl."
+  ],
+  "recipe": "quesadilla",
+  "image": "dish-quesadilla",
+  "optionGroups": [
+    {
+      "id": "dip",
+      "name": "Dip",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "smetana",
+          "name": "Zakysaná smetana",
+          "priceDelta": 0
+        },
+        {
+          "id": "salsa",
+          "name": "Rajčatová salsa",
+          "priceDelta": 0
+        },
+        {
+          "id": "guac",
+          "name": "Guacamole",
+          "priceDelta": 2500
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 1500
+        },
+        {
+          "id": "syr",
+          "name": "Sýr navíc",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": true,
+  "order": 10
+}

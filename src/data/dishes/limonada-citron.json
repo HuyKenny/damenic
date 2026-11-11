@@ -28,5 +28,6 @@
     }
   ],
   "restaurant": "prazdna-pec",
-  "image": "dish-limonada-citron"
+  "image": "dish-limonada-citron",
+  "allergens": []
 }

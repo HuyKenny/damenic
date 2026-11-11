@@ -28,5 +28,9 @@
     }
   ],
   "restaurant": "prazdna-pec",
-  "image": "dish-cesnekove-tycinky"
+  "image": "dish-cesnekove-tycinky",
+  "allergens": [
+    1,
+    7
+  ]
 }

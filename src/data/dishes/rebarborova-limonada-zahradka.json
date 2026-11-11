@@ -1,0 +1,34 @@
+{
+  "name": "Rebarborová limonáda 0,4 l",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Domácí sirup z rebarbory s perlivou vodou a citronem.",
+  "price": 6400,
+  "image": "dish-rebarborova-limonada-zahradka",
+  "recipe": null,
+  "optionGroups": [
+    {
+      "id": "led",
+      "name": "Led",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "s-ledem",
+          "name": "S ledem",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-ledu",
+          "name": "Bez ledu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 90
+}

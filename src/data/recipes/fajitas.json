@@ -1,0 +1,181 @@
+{
+  "title": "Kuřecí fajitas",
+  "keywords": [
+    "fajitas recept",
+    "kuřecí fajitas",
+    "fajitas s kuřetem a paprikou",
+    "domácí fajitas"
+  ],
+  "intro": "Čtyři porce kuřecích nudliček s paprikami a cibulí z rozpálené pánve, k zabalení do tortill. Počítej asi s hodinou a čtvrt včetně půlhodinového marinování; zelenina i maso se mají opékat prudce a v malých dávkách.",
+  "image": "dish-fajitas",
+  "category": "mexicka",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 15,
+  "waitMinutes": 30,
+  "waitLabel": "marinování masa",
+  "difficulty": "snadné",
+  "tips": [
+    "Pánev nepřeplňuj. Když je v ní moc masa najednou, pustí šťávu a dusí se místo opékání.",
+    "K fajitas se hodí guacamole a salsa z čerstvých rajčat."
+  ],
+  "substitutions": [
+    "Místo kuřecích prsou můžeš použít hovězí roštěnou nakrájenou proti vláknu na tenké nudličky; opékej ji jen 2 až 3 minuty.",
+    "Na bezmasou verzi nahraď kuře žampiony a cuketou."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi fajitas a burritem?",
+      "a": "Fajitas se podávají jako opečené maso se zeleninou a tortillami zvlášť, každý si je balí sám. Burrito je už zabalená velká placka s rýží, fazolemi a sýrem."
+    },
+    {
+      "q": "Jak dlouho marinovat maso na fajitas?",
+      "a": "Stačí 30 minut, déle než 4 hodiny ne. Limetková šťáva by začala měnit strukturu masa."
+    },
+    {
+      "q": "Jak nakrájet maso na fajitas?",
+      "a": "Na nudličky silné asi centimetr. U hovězího vždy proti vláknu, jinak bude tuhé."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 600,
+      "unit": "g",
+      "note": "na nudličky silné 1 cm",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 3,
+      "unit": "ks",
+      "note": "ideálně různé barvy, na proužky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "na půlkolečka",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "tortilly",
+      "amount": 8,
+      "unit": "ks",
+      "note": "střední",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 150,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na měsíčky",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Marináda",
+      "text": "Kuře promíchej se všemi surovinami na marinádu a nech 30 minut při pokojové teplotě, nebo až 4 hodiny v lednici."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Velkou pánev rozpal na vysoký žár, přidej lžíci oleje a papriky s cibulí opékej 5 až 6 minut, dokud nejsou na hranách opálené, ale stále lehce křupavé. Osol a přesuň do mísy."
+    },
+    {
+      "section": "Maso",
+      "text": "Na stejné pánvi opékej kuře ve dvou dávkách na prudkém ohni 4 až 5 minut, dokud není propečené a na povrchu opečené. Na konec vrať do pánve zeleninu a promíchej."
+    },
+    {
+      "section": "Podávání",
+      "text": "Tortilly nahřej na suché pánvi nebo zabalené v alobalu 5 minut v troubě na 180 °C. Fajitas podávej přímo na pánvi s tortillami, zakysanou smetanou, koriandrem a měsíčky limetky, ať si je každý zabalí sám."
+    }
+  ]
+}

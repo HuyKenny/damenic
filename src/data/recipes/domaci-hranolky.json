@@ -1,0 +1,102 @@
+{
+  "title": "Domácí hranolky",
+  "category": "burgery",
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 0,
+  "waitMinutes": 45,
+  "waitLabel": "namáčení brambor a chladnutí po prvním smažení",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "keywords": [
+    "domácí hranolky recept",
+    "hranolky z brambor",
+    "křupavé hranolky",
+    "jak udělat hranolky"
+  ],
+  "intro": "Hranolky z čerstvých brambor smažené dvakrát, aby byly uvnitř měkké a navrchu křupavé, čtyři porce asi za hodinu a půl. Záleží na moučných bramborách, namáčení a dvou různých teplotách oleje.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 1000,
+      "unit": "g",
+      "note": "moučné, typ C",
+      "group": "Brambory"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2000,
+      "unit": "ml",
+      "note": "studená, na namočení",
+      "group": "Brambory"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "jemná",
+      "group": "Smažení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Brambory oloupej a nakrájej na hranolky o průřezu asi 1 cm. Čím rovnoměrnější, tím stejněji se usmaží."
+    },
+    {
+      "section": "Příprava",
+      "text": "Hranolky zalij studenou vodou a nech je 30 minut stát. Voda vytáhne škrob z povrchu a hranolky se při smažení nebudou slepovat."
+    },
+    {
+      "section": "Příprava",
+      "text": "Hranolky sceď a velmi důkladně osuš utěrkou. Na mokrých bramborách olej prudce pění a stříká."
+    },
+    {
+      "section": "Smažení",
+      "text": "V hlubokém hrnci rozehřej olej na 150 až 160 °C. Smaž hranolky po dávkách 5 až 6 minut, dokud nejsou měkké, ale stále světlé. Vyndej je na mřížku."
+    },
+    {
+      "section": "Smažení",
+      "text": "Nech hranolky aspoň 15 minut vychladnout. Za tu dobu povrch oschne a při druhém smažení lépe zkřupne."
+    },
+    {
+      "section": "Smažení",
+      "text": "Rozpal olej na 180 až 190 °C a smaž hranolky znovu po dávkách 2 až 3 minuty dozlatova."
+    },
+    {
+      "section": "Smažení",
+      "text": "Vyndej je na papírovou utěrku, hned osol a promíchej. Podávej ihned."
+    }
+  ],
+  "tips": [
+    "Moučné brambory dávají hranolky měkké uvnitř. Salátové zůstanou pevné a méně křupavé.",
+    "Po prvním smažení můžeš hranolky zamrazit na plechu a pak v sáčku. Druhé smažení zvládneš rovnou ze zmražených, jen o minutu déle.",
+    "Hořící olej se nesmí hasit vodou. Přiklop hrnec pokličkou a vypni plotnu."
+  ],
+  "substitutions": [
+    "Slunečnicový olej nahradí řepkový nebo arašídový, potřebuješ olej, který snese vysokou teplotu.",
+    "Na hranolky z trouby stačí 2 lžíce oleje: namočené a osušené hranolky v něm obal a peč na plechu s pečicím papírem při 220 °C 30 až 35 minut, v polovině je obrať."
+  ],
+  "faq": [
+    {
+      "q": "Jaké brambory jsou nejlepší na hranolky?",
+      "a": "Moučné, varný typ C, případně přílohové typu B. Mají víc škrobu, uvnitř změknou a navrchu vytvoří kůrku."
+    },
+    {
+      "q": "Proč se hranolky smaží dvakrát?",
+      "a": "První smažení při nižší teplotě brambory propeče, druhé při vysoké teplotě vytvoří křupavou kůrku. Při jednom smažení bývají buď syrové uvnitř, nebo připálené."
+    },
+    {
+      "q": "Jak udělat křupavé hranolky v troubě?",
+      "a": "Namoč je, důkladně osuš, obal v trošce oleje a rozlož na plech v jedné vrstvě tak, aby se nedotýkaly. Peč při 220 °C 30 až 35 minut a v polovině je obrať."
+    }
+  ],
+  "image": "dish-domaci-hranolky"
+}

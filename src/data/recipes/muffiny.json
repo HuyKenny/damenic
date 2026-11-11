@@ -1,0 +1,122 @@
+{
+  "title": "Muffiny s borůvkami",
+  "keywords": [
+    "muffiny recept",
+    "borůvkové muffiny",
+    "recept na muffiny",
+    "domácí muffiny"
+  ],
+  "intro": "Dvanáct nadýchaných muffinů s borůvkami, hotových zhruba za tři čtvrtě hodiny. Rozhoduje krátké míchání těsta a dobře předehřátá trouba.",
+  "image": "dish-muffiny",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 20,
+  "cookMinutes": 22,
+  "waitMinutes": 15,
+  "waitLabel": "chladnutí",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 290,
+      "unit": "g",
+      "note": "z toho 1 lžíce na obalení borůvek"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 130,
+      "unit": "g",
+      "note": "plus 1 lžíce na posypání"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen nastrouhaná kůra, nepovinné"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "boruvky",
+      "amount": 150,
+      "unit": "g",
+      "note": "čerstvé nebo mražené"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 190 °C horní a spodní ohřev (175 °C horkovzduch). Do plechu na 12 muffinů vlož papírové košíčky, nebo důlky vymaž olejem."
+    },
+    {
+      "text": "V míse promíchej mouku (bez lžíce na borůvky), prášek do pečiva, cukr, vanilkový cukr, sůl a citronovou kůru."
+    },
+    {
+      "text": "V druhé misce rozšlehej vejce, mléko a olej."
+    },
+    {
+      "text": "Tekutou směs vlij do suché a promíchej stěrkou jen tolik, aby nezůstala suchá mouka. Hrudky v těstě nevadí; při dlouhém míchání jsou muffiny tuhé a uvnitř mají tunely."
+    },
+    {
+      "text": "Borůvky obal v odložené lžíci mouky a opatrně je vmíchej do těsta. Mouka jim pomůže, aby neklesly ke dnu."
+    },
+    {
+      "text": "Těsto rozděl do košíčků zhruba do tří čtvrtin výšky a posyp lžící cukru. Peč 20 až 22 minut."
+    },
+    {
+      "text": "Muffiny jsou hotové, když jsou nahoře zlaté a pruží a špejle ze středu vyjde bez syrového těsta. Nech je 5 minut v plechu, pak je přendej na mřížku, aby se spodky nezapařily."
+    }
+  ],
+  "tips": [
+    "Mražené borůvky nerozmrazuj, vmíchej je zmrzlé na poslední chvíli. Jinak obarví těsto do modra.",
+    "Na vyšší kopečky peč prvních 5 minut na 200 °C a pak teplotu stáhni na 180 °C."
+  ],
+  "substitutions": [
+    "Borůvky nahradíš malinami, nakrájeným jablkem nebo 100 g nasekané čokolády.",
+    "Olej můžeš vyměnit za 100 g rozpuštěného a mírně vychladlého másla. Muffiny budou máslovější a o něco sušší.",
+    "Polovinu mléka můžeš nahradit bílým jogurtem."
+  ],
+  "faq": [
+    {
+      "q": "Proč jsou muffiny ploché?",
+      "a": "Příčinou bývá starý kypřicí prášek, málo předehřátá trouba nebo přeplněné košíčky. Plň je do tří čtvrtin a troubu nech rozehřát aspoň 15 minut."
+    },
+    {
+      "q": "Proč jsou muffiny tuhé a gumové?",
+      "a": "Těsto se míchalo moc dlouho. Suché a tekuté suroviny stačí spojit pár tahy stěrkou, hrudky jsou v pořádku."
+    },
+    {
+      "q": "Jak dlouho muffiny vydrží?",
+      "a": "V uzavřené krabičce 2 dny při pokojové teplotě. Dají se zamrazit a rozmrazit volně na lince."
+    }
+  ]
+}

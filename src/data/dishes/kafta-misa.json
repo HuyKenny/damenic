@@ -1,0 +1,64 @@
+{
+  "name": "Kafta s bulgurem a jogurtem",
+  "restaurant": "prazdna-misa",
+  "kind": "main",
+  "section": "Talíře a mezze",
+  "price": 21900,
+  "description": "Grilované válečky z mletého hovězího s petrželkou a kořením, s rajčatovým bulgurem, jogurtem a sumahem.",
+  "about": [
+    "Kafta je libanonská podoba masových válečků na grilu. Hovězí s cibulí, petrželkou a kmínem se tvaruje na podlouhlé kousky a prudce opeče.",
+    "Bulgur a česnekový jogurt z ní dělají celé jídlo. Sumah navrch přidá kyselost, která k masu patří."
+  ],
+  "recipe": "kofte-s-bulgurem",
+  "recipeNote": "Recept je na köfte; maso tvaruj do podlouhlých válečků.",
+  "image": "dish-kafta-misa",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bulgur",
+          "name": "Bulgur",
+          "priceDelta": 0
+        },
+        {
+          "id": "pita",
+          "name": "Pita",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 50
+}

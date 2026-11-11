@@ -1,0 +1,73 @@
+{
+  "name": "Boloňské špagety z velkého hrnce",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Klasiky",
+  "description": "Špagety s masovým ragú, které se vaří od rána. Na talíři s parmazánem a lžící omáčky navrch.",
+  "about": [
+    "V pasta baru se ragú vaří v hrnci, který by sis domů nevzal, a během dne se z něj jen nabírá. Omáčka tím pořád zraje, a proto chutná líp odpoledne než v poledne.",
+    "Doma ti stačí obyčejný široký hrnec a dvě hodiny trpělivosti. Recept je na čtyři porce a zbytek omáčky se dá v klidu zamrazit."
+  ],
+  "price": 19900,
+  "image": "dish-bolonske-niente",
+  "recipe": "spagety-bolonske",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná (350 g)",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (500 g)",
+          "priceDelta": 4500
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "parmazan",
+          "name": "Parmazán navíc",
+          "priceDelta": 3000
+        },
+        {
+          "id": "chilli",
+          "name": "Chilli vločky",
+          "priceDelta": 500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "parmazanu",
+          "name": "Bez parmazánu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    7,
+    9,
+    12
+  ],
+  "order": 30
+}

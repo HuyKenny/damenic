@@ -1,0 +1,41 @@
+{
+  "name": "Pikantní červené kari s kuřetem",
+  "restaurant": "pozdni-bazalka",
+  "kind": "main",
+  "section": "Kari",
+  "description": "Červené kari s extra chilli, kuřecím masem a zeleninou, s jasmínovou rýží.",
+  "about": [
+    "Pikantní verze červeného kari s čerstvým chilli přidaným spolu se zeleninou.",
+    "Pálivost zmírní lžíce kokosového mléka navíc nebo rýže, voda ji neuhasí."
+  ],
+  "price": 21900,
+  "image": "dish-cervene-kari-palive-bazalka",
+  "recipe": "cervene-kari-kureci",
+  "recipeNote": "Na pikantní verzi přidej spolu se zeleninou 1 až 2 nasekané chilli papričky.",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "thajsky",
+          "name": "Thajsky pálivé",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 3,
+  "allergens": [
+    2,
+    4
+  ],
+  "order": 40
+}

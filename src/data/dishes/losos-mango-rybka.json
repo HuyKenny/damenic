@@ -1,0 +1,114 @@
+{
+  "name": "Losos poke s mangem a pikantní majonézou",
+  "restaurant": "aloha-ani-rybka",
+  "kind": "main",
+  "section": "Losos a další",
+  "description": "Losos v limetkové sójové marinádě, mango, avokádo, mrkev a edamame na rýži, s pikantní majonézou a sezamem.",
+  "about": [
+    "Náš lososový poke drží klasickou sestavu, jen s větší porcí manga. Pikantní majonéza ze srirachy je tu podle chuti, ne povinně.",
+    "Lososa krájíme na kostky kolem centimetru a půl, aby se v marinádě rychle ochutil, ale nerozpadl se."
+  ],
+  "price": 28900,
+  "image": "dish-losos-mango-rybka",
+  "recipe": "poke-bowl-losos",
+  "optionGroups": [
+    {
+      "id": "zaklad",
+      "name": "Základ",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "sushi-ryze",
+          "name": "Sushi rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "jasminova",
+          "name": "Jasmínová rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "quinoa",
+          "name": "Quinoa",
+          "priceDelta": 2000
+        },
+        {
+          "id": "pul-salat",
+          "name": "Půl rýže, půl salátu",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "regular",
+          "name": "Regular (450 g)",
+          "priceDelta": 0
+        },
+        {
+          "id": "large",
+          "name": "Large (600 g)",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "avokado",
+          "name": "Avokádo navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "edamame",
+          "name": "Edamame navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "mango",
+          "name": "Mango",
+          "priceDelta": 2500
+        },
+        {
+          "id": "ryba",
+          "name": "Dvojitá porce ryby",
+          "priceDelta": 8900
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-majonezy",
+          "name": "Bez majonézy",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    3,
+    4,
+    6,
+    10,
+    11
+  ],
+  "order": 40
+}

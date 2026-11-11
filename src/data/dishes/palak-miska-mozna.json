@@ -1,0 +1,63 @@
+{
+  "name": "Palak paneer v misce",
+  "restaurant": "masala-mozna",
+  "kind": "main",
+  "section": "Kari a rýže",
+  "price": 17900,
+  "description": "Menší porce paneeru ve špenátové omáčce s kmínem a zázvorem, s rýží basmati.",
+  "about": [
+    "Zelená miska pro rychlý oběd. Špenátová omáčka s cibulí, česnekem a zázvorem a v ní kostky opečeného paneeru, který drží tvar.",
+    "Porce je menší než v restauraci, aby se k ní vešly samosy. Doma podle receptu uvaříš rovnou čtyři."
+  ],
+  "recipe": "palak-paneer",
+  "image": "dish-palak-miska-mozna",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mala",
+          "name": "Miska",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká porce",
+          "priceDelta": 5000
+        }
+      ]
+    },
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 1,
+  "allergens": [
+    7
+  ],
+  "order": 50
+}

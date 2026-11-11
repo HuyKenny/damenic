@@ -1,0 +1,100 @@
+{
+  "name": "Pálivý tuňák s chilli a jarní cibulkou",
+  "restaurant": "aloha-ani-rybka",
+  "kind": "main",
+  "section": "Tuňák",
+  "description": "Tuňák s dvojitou dávkou chilli vloček a srirachy, jarní cibulka, okurka a nakrouhané červené zelí na rýži. Pro odvážné.",
+  "about": [
+    "Ostřejší sestra ahi poke. Chilli vloček je v marinádě dvakrát víc a k tomu kapka srirachy, takže tuňák pálí, ale pořád je cítit.",
+    "Proti pálivosti tu stojí jen okurka a zelí. Když chceš něco jemnějšího, přidej avokádo navíc."
+  ],
+  "price": 32900,
+  "image": "dish-palivy-tunak-rybka",
+  "recipe": "poke-tunak",
+  "recipeNote": "Ostřejší varianta: chilli vloček dvojnásobek a lžička srirachy do marinády",
+  "optionGroups": [
+    {
+      "id": "zaklad",
+      "name": "Základ",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "sushi-ryze",
+          "name": "Sushi rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "jasminova",
+          "name": "Jasmínová rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "quinoa",
+          "name": "Quinoa",
+          "priceDelta": 2000
+        },
+        {
+          "id": "pul-salat",
+          "name": "Půl rýže, půl salátu",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "ostre",
+          "name": "Ostré",
+          "priceDelta": 0
+        },
+        {
+          "id": "hodne-ostre",
+          "name": "Hodně ostré",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "avokado",
+          "name": "Avokádo navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "edamame",
+          "name": "Edamame navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "mango",
+          "name": "Mango",
+          "priceDelta": 2500
+        },
+        {
+          "id": "ryba",
+          "name": "Dvojitá porce ryby",
+          "priceDelta": 8900
+        }
+      ]
+    }
+  ],
+  "spicy": 3,
+  "allergens": [
+    1,
+    4,
+    6,
+    11
+  ],
+  "order": 20
+}

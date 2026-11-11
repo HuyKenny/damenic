@@ -1,0 +1,150 @@
+{
+  "title": "Zelené kari s kuřecím masem",
+  "category": "thajska",
+  "servings": 2,
+  "activeMinutes": 25,
+  "cookMinutes": 20,
+  "difficulty": "snadné",
+  "keywords": [
+    "zelené kari recept",
+    "thajské zelené kari",
+    "zelené kari s kuřecím masem",
+    "green curry recept"
+  ],
+  "intro": "Thajské zelené kari s kuřecím masem, lilkem a bazalkou pro dva, s jasmínovou rýží asi za 45 minut. Rozhoduje, že kari pastu nejdřív osmažíš v husté části kokosového mléka.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-jasminova",
+      "amount": 200,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "kokosove-mleko",
+      "amount": 400,
+      "unit": "ml",
+      "note": "neprotřepávat",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "kari-pasta-zelena",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "podle pálivosti 2 až 4",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 350,
+      "unit": "g",
+      "note": "vykostěná, bez kůže",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "lilek",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "kafirove-listy",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "rybi-omacka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na plátky",
+      "group": "Kari"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "ideálně thajská",
+      "group": "Kari"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže",
+      "text": "Rýži propláchni, dej ji do hrnce s 300 ml vody, přiveď k varu pod pokličkou, ztlum na minimum a vař 12 minut. Pak ji nech 10 minut dojít."
+    },
+    {
+      "section": "Kari",
+      "text": "Z neprotřepané plechovky naber hustou kokosovou smetanu z povrchu, asi 4 lžíce. Dej ji do hrnce s olejem a na středním ohni ji vař 3 až 4 minuty, až se z ní začne oddělovat olej."
+    },
+    {
+      "section": "Kari",
+      "text": "Přidej kari pastu a 2 minuty ji v tuku smaž za stálého míchání, aby se nepřipálila a uvolnila vůni."
+    },
+    {
+      "section": "Kari",
+      "text": "Kuřecí maso nakrájej na kousky velké jako sousto, přidej ho do hrnce a 3 minuty ho v pastě obracej."
+    },
+    {
+      "section": "Kari",
+      "text": "Vlij zbytek kokosového mléka a vodu, přidej lilek nakrájený na kostky a natrhané kafírové listy. Vař mírně 10 až 12 minut, dokud lilek nezměkne a maso není propečené."
+    },
+    {
+      "section": "Kari",
+      "text": "Dochuť rybí omáčkou a cukrem, ochutnej a podle potřeby přidej pastu nebo vodu. Nakonec vmíchej chilli a lístky bazalky a podávej s rýží."
+    }
+  ],
+  "tips": [
+    "Kari pasty se liší pálivostí i slaností podle značky. Začni menším množstvím, přidat se dá vždy.",
+    "Bazalku přidávej až na konec, varem zčerná a ztratí vůni."
+  ],
+  "substitutions": [
+    "Lilek nahradí cuketa, zelené fazolky nebo bambusové výhonky.",
+    "Bez masa: kuře vyměň za tofu a rybí omáčku za sójovou. Pozor, hotové kari pasty často obsahují krevetovou pastu, čti složení."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat zelené kari méně pálivé?",
+      "a": "Použij méně kari pasty, třeba jen 2 lžíce, a vynech čerstvé chilli. Pálivost zjemní i trochu kokosového mléka navíc."
+    },
+    {
+      "q": "Jaký je rozdíl mezi zeleným a červeným kari?",
+      "a": "Zelená pasta je z čerstvých zelených chilli a bylinek, chutná svěže a bývá pálivější. Červená se dělá ze sušených červených chilli a je kulatější a kořenitější."
+    },
+    {
+      "q": "Jakou rýži podávat k zelenému kari?",
+      "a": "Klasicky jasmínovou, která je měkká a voňavá. Hodí se i rýžové nudle."
+    }
+  ],
+  "image": "dish-zelene-kari",
+  "vegetarian": false
+}

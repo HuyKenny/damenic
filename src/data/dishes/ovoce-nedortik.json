@@ -1,0 +1,16 @@
+{
+  "name": "Miska sezonního ovoce",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "side",
+  "section": "Ke kávě",
+  "description": "Nakrájené ovoce podle toho, co je zrovna v sezóně. Tady je v sezóně nic.",
+  "price": 6900,
+  "image": "dish-ovoce-nedortik",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 80
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Domácí citronáda 0,4 l",
+  "restaurant": "taverna-prazdny-stul",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 4900,
+  "description": "Citronová šťáva, cukr, voda a led.",
+  "recipe": null,
+  "image": "dish-citronada-stul",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 100
+}

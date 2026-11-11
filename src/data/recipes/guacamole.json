@@ -1,0 +1,110 @@
+{
+  "title": "Guacamole",
+  "keywords": [
+    "guacamole recept",
+    "recept na guacamole",
+    "domácí guacamole",
+    "avokádový dip"
+  ],
+  "intro": "Miska guacamole pro čtyři z rozmačkaného avokáda, limetky, cibule, chilli a koriandru, hotová za deset minut. Všechno závisí na zralém avokádu: má se lehce poddat pod prstem, ne být tvrdé ani hnědé.",
+  "image": "dish-guacamole",
+  "category": "mexicka",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "difficulty": "snadné",
+  "tips": [
+    "Guacamole nemixuj. Ručně rozmačkané má lepší strukturu a nezvodnatí.",
+    "Když ho připravuješ dopředu, uhlaď povrch, přitiskni na něj fólii bez vzduchu a dej do lednice nejvýš na pár hodin."
+  ],
+  "substitutions": [
+    "Čerstvé chilli nahradíš lžící nakrájených nakládaných jalapeños.",
+    "Kdo nesnáší koriandr, může ho vynechat nebo dát trochu petrželky."
+  ],
+  "faq": [
+    {
+      "q": "Jak zabránit, aby guacamole zhnědlo?",
+      "a": "Pomáhá limetková šťáva a hlavně zamezení přístupu vzduchu. Přitiskni fólii přímo na povrch; tmavší vrchní vrstvu před podáváním jen promíchej."
+    },
+    {
+      "q": "Jak poznat zralé avokádo?",
+      "a": "Při jemném zmáčknutí se lehce poddá a stopka jde snadno odloupnout, pod ní je zelená barva. Tvrdé avokádo dozraje za 2 až 3 dny při pokojové teplotě."
+    },
+    {
+      "q": "Jak dlouho vydrží guacamole v lednici?",
+      "a": "Nejlepší je hned. Zakryté fólií na povrchu vydrží do druhého dne, ale ztratí svěžest a ztmavne."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "avokado",
+      "amount": 3,
+      "unit": "ks",
+      "note": "zralá",
+      "group": "Guacamole"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Guacamole"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Guacamole"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 100,
+      "unit": "g",
+      "note": "bez semínek, na kostičky",
+      "group": "Guacamole"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "bez semínek, nadrobno",
+      "group": "Guacamole"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaný",
+      "group": "Guacamole"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Guacamole"
+    },
+    {
+      "ingredient": "tortilla-chipsy",
+      "amount": 200,
+      "unit": "g",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli a chilli promíchej v misce se špetkou soli a polovinou limetkové šťávy a nech 5 minut stát, zjemní se tím ostrost cibule."
+    },
+    {
+      "text": "Avokáda podélně rozkroj, vyndej pecky a dužinu vydlabej lžící do misky."
+    },
+    {
+      "text": "Dužinu rozmačkej vidličkou nahrubo, aby zůstaly menší kousky. Vmíchej cibuli s chilli, rajče a koriandr."
+    },
+    {
+      "text": "Dochuť solí a zbylou limetkovou šťávou a hned podávej s tortilla chipsy."
+    }
+  ],
+  "waitMinutes": 0
+}

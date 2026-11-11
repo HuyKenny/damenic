@@ -1,0 +1,14 @@
+{
+  "name": "Zelený čaj sencha, konvička",
+  "restaurant": "sushi-bez-zrnka",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Japonský zelený čaj spařený vodou o teplotě 80 °C.",
+  "price": 5900,
+  "image": "dish-sencha-zrnko",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 90
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Vepřový řízek s majonézovým salátem",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Polední menu",
+  "description": "Řízek z vepřové kýty v trojobalu a porce bramborového salátu s majonézou, okurkou a kořenovou zeleninou.",
+  "about": [
+    "Řízek se salátem je v jídelně páteční jídlo a v domácnosti hlavně vánoční. Kýta se tence naklepe, obalí v mouce, vejci a strouhance a smaží se dozlatova, dokud obal neodstoupí od masa.",
+    "Salát se dělá den předem, aby brambory vychladly a chutě se v lednici spojily. Citron k řízku přidáváme vždycky, i když nedorazí."
+  ],
+  "price": 18900,
+  "image": "dish-rizek-jidelna",
+  "recipe": "veprovy-rizek-bramborovy-salat",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "salat",
+          "name": "Bramborový salát",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "druhy-rizek",
+          "name": "Druhý řízek",
+          "priceDelta": 7900
+        },
+        {
+          "id": "okurka",
+          "name": "Kyselá okurka",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    9,
+    10
+  ],
+  "order": 50
+}

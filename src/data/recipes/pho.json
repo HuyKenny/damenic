@@ -1,0 +1,225 @@
+{
+  "title": "Pho bo",
+  "category": "asijska",
+  "servings": 4,
+  "activeMinutes": 50,
+  "cookMinutes": 250,
+  "difficulty": "náročnější",
+  "keywords": [
+    "pho recept",
+    "pho bo recept",
+    "vietnamská polévka pho",
+    "domácí pho"
+  ],
+  "intro": "Vietnamská hovězí polévka pho pro čtyři z vývaru, který se čtyři hodiny vaří z kostí, opáleného zázvoru a cibule. Výsledek závisí na pomalém varu, opraženém koření a dostatečném dochucení.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-kosti",
+      "amount": 1500,
+      "unit": "g",
+      "note": "morkové a kloubní",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "hovezi-klizka",
+      "amount": 500,
+      "unit": "g",
+      "note": "v jednom kuse",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 3500,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 300,
+      "unit": "g",
+      "note": "2 velké",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 60,
+      "unit": "g",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "badyan",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "skorice-cela",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "hrebicek",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "rybi-omacka",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "podle chuti",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "nudle-ryzove",
+      "amount": 400,
+      "unit": "g",
+      "note": "ploché, široké asi 5 mm",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "hovezi-rostena",
+      "amount": 250,
+      "unit": "g",
+      "note": "na syrové plátky",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "fazolove-klicky",
+      "amount": 150,
+      "unit": "g",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 100,
+      "unit": "g",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "ideálně thajská",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na měsíčky",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "hoisin",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "ke stolu",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "sriracha",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "ke stolu",
+      "group": "Do misky"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Vývar",
+      "text": "Kosti a kližku dej do velkého hrnce, zalij studenou vodou, přiveď k varu a 5 minut prudce vař. Pak vodu vylij, kosti i maso opláchni a hrnec vymyj. Vývar tak bude čirý."
+    },
+    {
+      "section": "Vývar",
+      "text": "Cibuli rozpul a zázvor podélně rozkroj, obojí opal řeznou stranou na suché pánvi, až zčerná. Badyán, skořici, hřebíček a koriandr opraž 2 minuty nasucho, až zavoní."
+    },
+    {
+      "section": "Vývar",
+      "text": "Kosti a kližku vrať do hrnce, zalij 3,5 l studené vody, přidej cibuli, zázvor a koření v sáčku nebo čajovém sítku. Vař tak mírně, aby hladina jen občas probublala, a sbírej pěnu."
+    },
+    {
+      "section": "Vývar",
+      "text": "Kližku vyndej po 1,5 až 2 hodinách, až je měkká, a dej ji vychladnout do lednice. Kosti vař dál, celkem asi 4 hodiny, a vodu podle potřeby dolij."
+    },
+    {
+      "section": "Vývar",
+      "text": "Vývar sceď přes jemné sítko, sejmi část tuku a dochuť ho rybí omáčkou, cukrem a solí. Má být výrazně slaný, nudle a zelenina ho v misce ztlumí."
+    },
+    {
+      "section": "Do misky",
+      "text": "Nudle namoč na 30 minut do vlažné vody, pak je povař 1 minutu ve vroucí vodě a sceď. Rostěnu na 20 minut zamraz a nakrájej na plátky tenké jako papír, kližku na plátky a červenou cibuli na tenké proužky."
+    },
+    {
+      "section": "Do misky",
+      "text": "Do misek rozděl nudle, kližku, syrové plátky rostěny, červenou cibuli a jarní cibulku. Zalij je vroucím vývarem, aby plátky rostěny hned zbledly."
+    },
+    {
+      "section": "Do misky",
+      "text": "Klíčky, bylinky, limetku, chilli, hoisin a srirachu dej na stůl zvlášť, ať si každý dochutí misku sám."
+    }
+  ],
+  "tips": [
+    "Koření dej do sáčku nebo sítka, na konci ho vyndáš jedním pohybem a ve vývaru nezhořkne.",
+    "Vývar uvař den předem a nech ho vychladnout v lednici. Ztuhlý tuk z povrchu sejmeš lžící.",
+    "Hoisin a srirachu přidávej do misky, ne do hrnce. Vývar zůstane čistý pro ty, kdo je nechtějí."
+  ],
+  "substitutions": [
+    "Místo rostěny můžeš použít jen vařenou kližku nebo kuřecí maso, pak jde o pho ga.",
+    "Thajskou bazalku nahradíš obyčejnou bazalkou s pár lístky máty."
+  ],
+  "faq": [
+    {
+      "q": "Proč je vývar na pho kalný?",
+      "a": "Nejčastěji proto, že se kosti na začátku nespařily a vývar se pak vařil prudce. Var rozbíjí tuk a bílkoviny do drobných kapek, mírné probublávání nechá vývar čirý."
+    },
+    {
+      "q": "Je bezpečné dávat do pho syrové hovězí?",
+      "a": "Plátky musí být velmi tenké a vývar opravdu vroucí, aby maso v misce hned zbledlo. Když si nejsi jistý, ponoř plátky na sítku na 20 sekund do vroucího vývaru a teprve pak je dej do misky."
+    },
+    {
+      "q": "Jak dlouho vydrží vývar na pho?",
+      "a": "V lednici 3 dny v uzavřené nádobě, zamražený asi 3 měsíce. Nudle a bylinky skladuj zvlášť a misku skládej až před jídlem."
+    }
+  ],
+  "image": "dish-pho",
+  "vegetarian": false
+}

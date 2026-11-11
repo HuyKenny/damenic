@@ -1,0 +1,48 @@
+{
+  "name": "Smažená rýže khao pad",
+  "restaurant": "zadny-tuk-tuk",
+  "kind": "main",
+  "section": "Nudle a rýže",
+  "description": "Jasmínová rýže z woku s vejcem, zeleninou a rybí omáčkou, s plátky okurky a limetkou.",
+  "about": [
+    "Thajská smažená rýže se od čínské liší hlavně dochucením: místo samotné sójové omáčky přichází rybí omáčka a na talíři limetka.",
+    "Nejlépe se dělá ze včerejší rýže. Maso nebo krevety si vybereš, vejce je vždycky."
+  ],
+  "price": 16900,
+  "image": "dish-khao-pad-tuktuk",
+  "recipe": "smazena-ryze-vejce-zelenina",
+  "recipeNote": "Pro thajskou verzi přidej lžíci rybí omáčky a podávej s limetkou a okurkou.",
+  "optionGroups": [
+    {
+      "id": "maso",
+      "name": "Maso",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kure",
+          "name": "S kuřetem",
+          "priceDelta": 0
+        },
+        {
+          "id": "krevety",
+          "name": "S krevetami",
+          "priceDelta": 3000
+        },
+        {
+          "id": "vejce",
+          "name": "Jen s vejcem",
+          "priceDelta": -2000
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    3,
+    4,
+    6,
+    11
+  ],
+  "order": 30
+}

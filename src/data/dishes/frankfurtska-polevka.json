@@ -1,0 +1,59 @@
+{
+  "name": "Frankfurtská s párkem",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Paprikovo-cibulová polévka zahuštěná jíškou, s kolečky párku, brambory a majoránkou.",
+  "about": [
+    "Frankfurtská polévka je hospodská klasika postavená na jíšce, cibuli a sladké paprice. Brambory ji zahustí ještě víc a párky se přidávají až na pět minut, aby nepopraskaly a neztratily chuť.",
+    "Na konci se dá kapka smetany a majoránka rozemnutá v dlaních. Je to polévka, po které už není potřeba hlavní jídlo, i když tady by nepřišlo ani jedno, ani druhé."
+  ],
+  "price": 11900,
+  "image": "dish-frankfurtska-polevka",
+  "recipe": "frankfurtska-polevka",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standard",
+          "name": "Miska 0,35 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Miska 0,5 l",
+          "priceDelta": 3000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "parek",
+          "name": "Párek navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "chleb",
+          "name": "Krajíc chleba",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9
+  ],
+  "order": 30
+}

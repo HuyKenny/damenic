@@ -1,0 +1,67 @@
+{
+  "name": "Brownies z hořké čokolády",
+  "restaurant": "zitra-upecem",
+  "kind": "main",
+  "section": "Brownies a muffiny",
+  "description": "Hutné brownies s lesklou praskající kůrkou a vláčným středem, z čokolády se 70 % kakaa.",
+  "about": [
+    "Dobré brownies nejsou čokoládová bábovka. Mají tenkou lesklou kůrku, která praská pod nožem, a uvnitř hutný, skoro lanýžový střed. Obojí vzniká ze dvou věcí: dobře ušlehaných vajec s cukrem a krátkého pečení.",
+    "Objednat si můžeš jeden kus, čtyři nebo celý box. Doma rozhoduje hlavně čas vytažení z trouby; špejle má vyjít s pár vlhkými drobky."
+  ],
+  "price": 7900,
+  "image": "dish-brownies",
+  "recipe": "brownies",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "1",
+          "name": "1 kus",
+          "priceDelta": 0
+        },
+        {
+          "id": "4",
+          "name": "4 kusy",
+          "priceDelta": 22000
+        },
+        {
+          "id": "12",
+          "name": "Box 12 kusů",
+          "priceDelta": 79000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "zmrzlina",
+          "name": "Kopeček vanilkové zmrzliny",
+          "priceDelta": 4500
+        },
+        {
+          "id": "sul",
+          "name": "Vločky mořské soli navrch",
+          "priceDelta": 1000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": true,
+  "order": 10
+}

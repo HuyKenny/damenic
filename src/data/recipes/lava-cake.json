@@ -1,0 +1,110 @@
+{
+  "title": "Lava cake (čokoládový fondant)",
+  "keywords": [
+    "lava cake recept",
+    "čokoládový fondant",
+    "čokoládový dortík s tekutým středem",
+    "lava cake"
+  ],
+  "intro": "Čtyři čokoládové dortíky s tekutým středem za necelou půlhodinu včetně pečení. Všechno stojí na kvalitní hořké čokoládě a na přesném čase v troubě.",
+  "image": "dish-lava-cake",
+  "category": "dezerty",
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 12,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 120,
+      "unit": "g",
+      "note": "s 60 až 70 % kakaa"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "plus 10 g na formičky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "2 celá vejce a 2 žloutky"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na vysypání formiček"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Čtyři kovové nebo keramické formičky o objemu asi 180 ml vymaž měkkým máslem a vysyp kakaem, přebytek vyklep. Troubu předehřej na 220 °C horní a spodní ohřev (200 °C horkovzduch)."
+    },
+    {
+      "text": "Čokoládu nalámej a se 100 g másla ji rozpusť nad párou nebo v mikrovlnce po krátkých dávkách. Promíchej a nech chvíli zchladnout."
+    },
+    {
+      "text": "Vejce a žloutky šlehej s cukrem a solí asi 3 minuty do světlé, hustší pěny."
+    },
+    {
+      "text": "Do vajec vmíchej čokoládu, pak prosej mouku a promíchej stěrkou jen do spojení."
+    },
+    {
+      "text": "Těsto rozděl do formiček zhruba do tří čtvrtin a postav je na plech. Peč 10 až 12 minut."
+    },
+    {
+      "text": "Dortíky jsou hotové, když okraj ztuhne a lehce se nadzvedne, ale střed je ještě měkký a při zatřesení se vlní."
+    },
+    {
+      "text": "Nech je minutu odpočinout, nožem obkroužni okraj, přiklop talířkem a vyklop. Posyp moučkovým cukrem a podávej hned, třeba se zmrzlinou nebo malinami."
+    }
+  ],
+  "tips": [
+    "Každá trouba peče jinak. Napoprvé upeč jen jednu formičku na zkoušku a podle ní nastav čas pro ostatní.",
+    "Zbylé bílky se dají zamrazit a použít na pusinky."
+  ],
+  "substitutions": [
+    "Kakao na vysypání formiček nahradíš moukou, na tmavém dortíku ale bude vidět.",
+    "Hořkou čokoládu nenahrazuj polevou ani mléčnou čokoládou; střed by netekl a dortík by byl přeslazený."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat, aby lava cake měl tekutý střed?",
+      "a": "Rozhoduje čas: po 10 až 12 minutách na 220 °C je okraj upečený a střed tekutý. O minutu déle a střed ztuhne."
+    },
+    {
+      "q": "Dá se těsto připravit předem?",
+      "a": "Ano. Naplněné formičky vydrží zakryté v lednici až den; studené peč o 2 až 3 minuty déle."
+    },
+    {
+      "q": "Proč se lava cake při vyklápění rozpadl?",
+      "a": "Byl v troubě moc krátce nebo se vyklápěl hned. Nech ho minutu odpočinout a formičky příště vymaž a vysyp pečlivěji."
+    }
+  ]
+}

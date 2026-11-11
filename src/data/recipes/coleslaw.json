@@ -1,0 +1,130 @@
+{
+  "title": "Coleslaw",
+  "category": "burgery",
+  "servings": 6,
+  "activeMinutes": 20,
+  "cookMinutes": 0,
+  "waitMinutes": 60,
+  "waitLabel": "solení zelí a odležení v lednici",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "keywords": [
+    "coleslaw recept",
+    "coleslaw salát",
+    "zelný salát s majonézou",
+    "americký coleslaw"
+  ],
+  "intro": "Americký zelný salát z bílého zelí a mrkve v krémové zálivce na šest porcí příloh, s odležením asi za hodinu a půl. Nevodnatý je jen tehdy, když zelí předem osolíš a vymačkáš.",
+  "ingredients": [
+    {
+      "ingredient": "zeli-bile",
+      "amount": 500,
+      "unit": "g",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na osolení zelí",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 50,
+      "unit": "g",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 120,
+      "unit": "g",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 100,
+      "unit": "g",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zálivka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Zelí",
+      "text": "Zelí zbav vnějších listů a košťálu a nakrouhej ho na tenké nudličky, ideálně 1 až 2 mm. Jde to na struhadle s plátkovačem nebo ostrým nožem."
+    },
+    {
+      "section": "Zelí",
+      "text": "Zelí v míse promíchej se lžičkou soli, krátce promačkej rukama a nech 30 minut stát. Pustí vodu."
+    },
+    {
+      "section": "Zelí",
+      "text": "Zelí po hrstech pořádně vymačkej a vodu vylij. Ochutnej ho, a když je moc slané, krátce ho propláchni a znovu vymačkej."
+    },
+    {
+      "section": "Zelí",
+      "text": "Mrkev nastrouhej nahrubo, cibuli nakrájej co nejjemněji a obojí přidej k zelí."
+    },
+    {
+      "section": "Zálivka",
+      "text": "Majonézu rozmíchej se zakysanou smetanou, octem, cukrem, hořčicí a pepřem. Zálivka má být výrazně kyselosladká, zelí ji trochu ztlumí."
+    },
+    {
+      "section": "Zálivka",
+      "text": "Zálivku vmíchej do zeleniny, mísu zakryj a nech salát aspoň 30 minut odležet v lednici. Před podáváním promíchej a dochuť."
+    }
+  ],
+  "tips": [
+    "Osolení a vymačkání je nejdůležitější krok. Bez něj zelí pustí vodu až v zálivce a salát plave.",
+    "Coleslaw do burgeru krájej co nejjemněji, hrubé nudličky z bulky vypadávají."
+  ],
+  "substitutions": [
+    "Zakysanou smetanu nahradí bílý nebo řecký jogurt.",
+    "Část bílého zelí můžeš vyměnit za červené, salát bude barevnější a trochu pevnější."
+  ],
+  "faq": [
+    {
+      "q": "Proč je coleslaw vodnatý?",
+      "a": "Zelí v zálivce pouští vodu. Stačí ho předem osolit, nechat půl hodiny stát a důkladně vymačkat, pak zůstane křupavé i druhý den."
+    },
+    {
+      "q": "Jak dlouho vydrží coleslaw v lednici?",
+      "a": "V uzavřené nádobě dva až tři dny. Nejlepší je první den, potom zelí postupně měkne."
+    },
+    {
+      "q": "Dá se coleslaw udělat bez majonézy?",
+      "a": "Ano, buď s jogurtovou zálivkou, nebo jen s octem, olejem, cukrem a hořčicí. Octová verze vydrží v lednici déle."
+    }
+  ],
+  "image": "dish-coleslaw"
+}

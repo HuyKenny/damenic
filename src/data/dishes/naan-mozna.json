@@ -1,0 +1,17 @@
+{
+  "name": "Naan s máslem",
+  "restaurant": "masala-mozna",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 4500,
+  "description": "Kynutá placka z pánve potřená rozpuštěným máslem.",
+  "recipe": "naan",
+  "image": "dish-naan-mozna",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 70
+}

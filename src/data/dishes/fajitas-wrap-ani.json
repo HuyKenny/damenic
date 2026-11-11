@@ -1,0 +1,64 @@
+{
+  "name": "Fajitas wrap s kuřetem",
+  "restaurant": "tortillarna-ani-omylem",
+  "kind": "main",
+  "section": "Burrito a tacos",
+  "price": 17900,
+  "description": "Kuřecí nudličky s opečenými paprikami a cibulí, zabalené v tortille se zakysanou smetanou.",
+  "about": [
+    "Fajitas, které nemusíš skládat. Marinované kuře s paprikami z rozpálené pánve se rovnou zabalí do tortilly s lžící smetany.",
+    "Doma připravíš fajitas podle receptu a místo servírování na pánvi je zabalíš. Hodí se i na výlet, pokud ho máš kam vézt."
+  ],
+  "recipe": "fajitas",
+  "recipeNote": "Recept je na fajitas ke skládání u stolu; zabal je rovnou do tortill.",
+  "image": "dish-fajitas-wrap-ani",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "syr",
+          "name": "Sýr",
+          "priceDelta": 2000
+        },
+        {
+          "id": "guac",
+          "name": "Guacamole",
+          "priceDelta": 3500
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 60
+}

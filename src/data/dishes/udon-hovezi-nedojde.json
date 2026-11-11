@@ -1,0 +1,65 @@
+{
+  "name": "Udon s hovězím ze woku",
+  "restaurant": "ramen-nedojde",
+  "kind": "main",
+  "section": "Ramen",
+  "description": "Silné pšeničné nudle restované s hovězím, pekingským zelím, mrkví a žampiony v sójovo-ústřicové omáčce.",
+  "about": [
+    "Udon jsou tlusté pšeničné nudle, které ve woku nasáknou omáčku a zůstanou pružné. Na rozdíl od ramenu se tady nepodávají ve vývaru.",
+    "Hovězí se krájí na tenké plátky proti vláknu a restuje se prudce a krátce. Kdo chce, přidá volské oko navrch."
+  ],
+  "price": 21900,
+  "image": "dish-udon-hovezi-nedojde",
+  "recipe": "udon-hovezi-zelenina",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredne",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "vejce",
+          "name": "Volské oko",
+          "priceDelta": 2000
+        },
+        {
+          "id": "hovezi",
+          "name": "Dvojitá porce hovězího",
+          "priceDelta": 6500
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    6,
+    11,
+    14
+  ],
+  "order": 60
+}

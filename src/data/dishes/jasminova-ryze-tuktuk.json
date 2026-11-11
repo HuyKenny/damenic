@@ -1,0 +1,14 @@
+{
+  "name": "Jasmínová rýže",
+  "restaurant": "zadny-tuk-tuk",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Miska voňavé jasmínové rýže. Vychladnout nestihne, protože nikam nejede.",
+  "price": 3900,
+  "image": "dish-jasminova-ryze-tuktuk",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 70
+}

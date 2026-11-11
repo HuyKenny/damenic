@@ -1,0 +1,58 @@
+{
+  "name": "Tacos s mletým masem a salsou, 3 ks",
+  "restaurant": "tortillarna-ani-omylem",
+  "kind": "main",
+  "section": "Burrito a tacos",
+  "price": 15900,
+  "description": "Tři pšeničné tortilly s kořeněným mletým hovězím, salsou z rajčat a koriandru a zakysanou smetanou.",
+  "about": [
+    "Levnější tacos bez příkras. Mleté maso s kmínem a paprikou, rajčatová salsa a lžíce smetany, nic víc.",
+    "Pšeničné tortilly jsou měkčí než kukuřičné a snadno se sežene. Nahřej je těsně před plněním."
+  ],
+  "recipe": "tacos",
+  "image": "dish-tacos-ani",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "3",
+          "name": "3 kusy",
+          "priceDelta": 0
+        },
+        {
+          "id": "5",
+          "name": "5 kusů",
+          "priceDelta": 8900
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "smetana",
+          "name": "Bez smetany",
+          "priceDelta": 0
+        },
+        {
+          "id": "cibule",
+          "name": "Bez cibule",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 50
+}

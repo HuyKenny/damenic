@@ -1,0 +1,40 @@
+{
+  "name": "Prázdná mísa",
+  "category": "kebab",
+  "cuisine": "Libanonská kuchyně",
+  "tagline": "Mezze pro celou partu. Jen bez rozvozu.",
+  "description": "Smyšlená libanonská jídelna se shawarmou, hummusem a falafelem, kde se na stole dělí všechno. Objednávka je jen na zkoušku, nikdo nic nepřiveze, recepty si ale odneseš skutečné.",
+  "etaMinutes": 30,
+  "deliveryFee": 3500,
+  "minOrder": 17900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:00",
+    "close": "00:30"
+  },
+  "tags": [
+    "bez masa",
+    "veganské",
+    "pikantní"
+  ],
+  "promo": {
+    "type": "percent",
+    "label": "−10 % nad 300 Kč",
+    "percent": 10,
+    "minSubtotal": 30000
+  },
+  "logo": {
+    "text": "PM",
+    "color": "#B45309",
+    "ink": "light"
+  },
+  "sections": [
+    "Shawarma",
+    "Talíře a mezze",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 93,
+  "pickup": true,
+  "cover": "rest-prazdna-misa"
+}

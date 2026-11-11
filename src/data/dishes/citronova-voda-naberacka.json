@@ -1,0 +1,16 @@
+{
+  "name": "Voda s citronem a mátou 0,5 l",
+  "restaurant": "prazdna-naberacka",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Studená voda s plátky citronu a lístky máty. Tu si doma natočíš rychleji, než bychom ji přivezli.",
+  "price": 3500,
+  "image": "dish-citronova-voda-naberacka",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 100
+}

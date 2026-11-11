@@ -1,0 +1,107 @@
+{
+  "name": "Poke bowl s lososem",
+  "restaurant": "poke-prazdna-miska",
+  "kind": "main",
+  "section": "Poke bowly",
+  "description": "Kostky lososa v sójové marinádě s limetkou, avokádo, edamame, okurka, mrkev a mango na ochucené sushi rýži, navrch pikantní majonéza a sezam.",
+  "about": [
+    "Klasický poke tak, jak se ujal v evropských městech: syrový losos nakrájený na kostky, krátce naložený v sójové omáčce s limetkou, a k němu všechno, co je v lednici barevné. Rýže je vlažná a ochucená octem, ne studená.",
+    "V simulaci si zvolíš základ a přidáš, co ti chybí. Doma je nejdůležitější ryba určená k syrové konzumaci a pár minut trpělivosti, než rýže vychladne."
+  ],
+  "price": 26900,
+  "image": "dish-poke-bowl-losos",
+  "recipe": "poke-bowl-losos",
+  "optionGroups": [
+    {
+      "id": "zaklad",
+      "name": "Základ",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "sushi-ryze",
+          "name": "Sushi rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "jasminova",
+          "name": "Jasmínová rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "quinoa",
+          "name": "Quinoa",
+          "priceDelta": 2000
+        },
+        {
+          "id": "pul-salat",
+          "name": "Půl rýže, půl salátu",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "avokado",
+          "name": "Avokádo navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "edamame",
+          "name": "Edamame navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "mango",
+          "name": "Mango",
+          "priceDelta": 2500
+        },
+        {
+          "id": "ryba",
+          "name": "Dvojitá porce ryby",
+          "priceDelta": 8900
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-majonezy",
+          "name": "Bez pikantní majonézy",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-manga",
+          "name": "Bez manga",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-sezamu",
+          "name": "Bez sezamu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    3,
+    4,
+    6,
+    10,
+    11
+  ],
+  "featured": true,
+  "order": 10
+}

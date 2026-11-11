@@ -1,0 +1,78 @@
+{
+  "name": "Halloumi burger s avokádem",
+  "restaurant": "placka-nikam",
+  "kind": "main",
+  "section": "Další burgery",
+  "description": "Grilované halloumi, rozmačkané avokádo s citronem, grilovaná cuketa, rajče a rukola s jogurtovou omáčkou s česnekem.",
+  "about": [
+    "Bezmasá volba, která na smash burgery nežárlí. Halloumi opékáme na plotně do zlatých pruhů, aby bylo zvenku křupavé a uvnitř vláčné.",
+    "Avokádo s citronem nahrazuje majonézu a jogurt s česnekem dodá kyselost. Burger je vegetariánský, ne veganský."
+  ],
+  "price": 21900,
+  "image": "dish-halloumi-placka",
+  "recipe": "halloumi-burger",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bez",
+          "name": "Bez přílohy",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Domácí hranolky",
+          "priceDelta": 5900
+        },
+        {
+          "id": "krouzky",
+          "name": "Cibulové kroužky",
+          "priceDelta": 6900
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "avokado",
+          "name": "Avokádo navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "halloumi",
+          "name": "Halloumi navíc",
+          "priceDelta": 4500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-avokada",
+          "name": "Bez avokáda",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    7,
+    11
+  ],
+  "order": 60
+}

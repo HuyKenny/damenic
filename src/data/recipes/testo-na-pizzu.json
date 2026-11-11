@@ -1,0 +1,142 @@
+{
+  "title": "Těsto na pizzu",
+  "keywords": [
+    "těsto na pizzu",
+    "těsto na pizzu recept",
+    "domácí těsto na pizzu",
+    "kynuté těsto na pizzu"
+  ],
+  "image": "dish-testo-na-pizzu",
+  "category": "pizza",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 32,
+  "waitMinutes": 180,
+  "waitLabel": "kynutí těsta a bochánků",
+  "difficulty": "střední",
+  "intro": "Základní kynuté těsto na čtyři pizzy o průměru asi 30 cm a k tomu jednoduchý rajčatový základ. Práce je na půl hodiny, výsledek ale určují hlavně tři hodiny kynutí a co nejvíc rozpálená trouba.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 600,
+      "unit": "g",
+      "note": "ideálně typ 00, plus trochu na podsypání",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 380,
+      "unit": "ml",
+      "note": "vlažná",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 7,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "note": "1 plechovka",
+      "group": "Rajčatový základ"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "najemno nastrouhaný",
+      "group": "Rajčatový základ"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Rajčatový základ"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Rajčatový základ"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Rajčatový základ"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozmíchej ve vlažné vodě. V míse smíchej mouku se solí, vlij vodu s droždím a olej a spoj vařečkou v hrubé těsto."
+    },
+    {
+      "section": "Těsto",
+      "text": "Těsto přendej na pracovní desku a hněť 10 minut, dokud není hladké a pružné. Lepí-li se, nepřisypávej hned mouku, stačí ho chvíli nechat odpočinout a pokračovat."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vlož ho do mísy vytřené olejem, zakryj a nech kynout při pokojové teplotě asi 2 hodiny, až zdvojnásobí objem."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vykynuté těsto rozděl na 4 díly po zhruba 245 g a každý vytvaruj do napnutého bochánku tak, že okraje přehýbáš pod spodek. Bochánky polož na pomoučený plech, zakryj a nech je kynout ještě hodinu."
+    },
+    {
+      "section": "Rajčatový základ",
+      "text": "Loupaná rajčata rozmačkej vidličkou nebo krátce rozmixuj, aby zůstala lehce hrubá. Vmíchej česnek, olej, oregano a sůl. Nevař je, upečou se až na pizze."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu i s plechem nebo pečicím kamenem rozpal na nejvyšší teplotu, ideálně 250 °C a víc, aspoň 30 minut předem."
+    },
+    {
+      "section": "Pečení",
+      "text": "Bochánek obrať v mouce a rozmačkej prsty od středu ke kraji, okraj asi 1,5 cm nech netknutý. Placku pak roztáhni přes hřbety rukou na průměr asi 30 cm; váleček nepoužívej, vytlačil by z těsta vzduch."
+    },
+    {
+      "section": "Pečení",
+      "text": "Rozetři na placku 3 až 4 lžíce rajčatového základu, přidej oblíbené suroviny a pizzu přesuň na rozpálený plech. Peč 7 až 9 minut, dokud okraj nezhnědne. Stejně upeč zbylé tři."
+    }
+  ],
+  "tips": [
+    "Na delší zrání stačí 2 g droždí: těsto po vyhnětení nech hodinu v pokoji, pak přes noc až 24 hodin v lednici a 2 hodiny před pečením ho vyndej.",
+    "Bochánky, které nespotřebuješ, můžeš zamrazit v krabičce potřené olejem. Rozmrazuj je přes noc v lednici a pak hodinu v pokoji.",
+    "Pizzu přenášej na plech na pečicím papíru nebo na lopatě posypané krupicí. Těsto se nepřilepí a spodek se rychle propeče."
+  ],
+  "substitutions": [
+    "Čerstvé droždí nahradíš 2,5 g sušeného, rozmíchej ho rovnou s moukou.",
+    "Místo loupaných rajčat se hodí passata, jen je základ hladší a řidší."
+  ],
+  "faq": [
+    {
+      "q": "Jakou mouku použít na těsto na pizzu?",
+      "a": "Nejlépe italskou mouku typu 00 na pizzu, která snese delší kynutí. Obyčejná hladká mouka funguje také, těsto je jen o něco méně tažné."
+    },
+    {
+      "q": "Proč se mi těsto na pizzu stahuje zpátky?",
+      "a": "Lepek je napnutý. Nech bochánek 10 až 15 minut odpočinout pod utěrkou a pak ho roztáhni znovu, půjde to bez odporu."
+    },
+    {
+      "q": "Jak dlouho vydrží těsto na pizzu v lednici?",
+      "a": "Zakryté v lednici vydrží 2 dny, chuť se mezitím ještě zlepší. Před pečením ho nech aspoň hodinu ohřát na pokojovou teplotu."
+    }
+  ]
+}

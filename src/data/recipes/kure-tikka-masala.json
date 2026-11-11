@@ -1,0 +1,251 @@
+{
+  "title": "Kuře tikka masala",
+  "keywords": [
+    "kuře tikka masala recept",
+    "tikka masala recept",
+    "chicken tikka masala",
+    "recept na kuře tikka masala"
+  ],
+  "intro": "Čtyři porce grilovaných kousků kuřete v kořenité rajčatovo-cibulové omáčce se smetanou. Práce je necelá hodina, k tomu dvě hodiny marinování; rozhoduje dobře opečená cibule a maso opečené pod grilem do tmavých okrajů.",
+  "image": "dish-kure-tikka-masala",
+  "category": "indicka",
+  "servings": 4,
+  "activeMinutes": 45,
+  "cookMinutes": 35,
+  "waitMinutes": 120,
+  "waitLabel": "marinování masa",
+  "difficulty": "střední",
+  "tips": [
+    "Na grilování se hodí i kovové špízy. Maso pak pečeš na mřížce nad plechem a víc se opeče ze všech stran.",
+    "Cibuli nespěchej. Dobře opečená dává omáčce sladkost a hloubku, kterou koření samo nenahradí."
+  ],
+  "substitutions": [
+    "Kuřecí prsa můžeš nahradit stehny; jsou šťavnatější a grilují se stejně dlouho.",
+    "Bez trouby s grilem maso opeč na rozpálené pánvi po dávkách, 5 až 6 minut."
+  ],
+  "faq": [
+    {
+      "q": "Co znamená tikka masala?",
+      "a": "Tikka jsou kousky marinovaného masa pečené v tandúru nebo na grilu, masala je směs koření a z ní uvařená omáčka. Jídlo tedy spojuje grilované maso s kořenitou omáčkou."
+    },
+    {
+      "q": "Jak dlouho marinovat kuře na tikka masala?",
+      "a": "Aspoň dvě hodiny, nejlépe přes noc. Déle než 24 hodin ho v jogurtu nenechávej, maso by začalo být moučnaté."
+    },
+    {
+      "q": "Jak udělat tikka masala méně pálivou?",
+      "a": "Vynech pálivou papriku a z chilli papričky odstraň semínka nebo ji nedávej vůbec. Omáčku zjemní i lžíce smetany navíc."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 700,
+      "unit": "g",
+      "note": "na kostky 3 až 4 cm",
+      "group": "Tikka (marinované kuře)"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 150,
+      "unit": "g",
+      "group": "Tikka (marinované kuře)"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Tikka (marinované kuře)"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Tikka (marinované kuře)"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 15,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Tikka (marinované kuře)"
+    },
+    {
+      "ingredient": "garam-masala",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Tikka (marinované kuře)"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Tikka (marinované kuře)"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Tikka (marinované kuře)"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Tikka (marinované kuře)"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Tikka (marinované kuře)"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na plech",
+      "group": "Tikka (marinované kuře)"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Masala omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 250,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Masala omáčka"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na malé kostky",
+      "group": "Masala omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Masala omáčka"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 15,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Masala omáčka"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nadrobno",
+      "group": "Masala omáčka"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Masala omáčka"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "group": "Masala omáčka"
+    },
+    {
+      "ingredient": "garam-masala",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Masala omáčka"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Masala omáčka"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Masala omáčka"
+    },
+    {
+      "ingredient": "paprika-paliva",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Masala omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Masala omáčka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Masala omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "podle chuti",
+      "group": "Masala omáčka"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 300,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Tikka",
+      "text": "Kuře promíchej se všemi surovinami na marinádu kromě oleje, zakryj a nech v lednici 2 hodiny nebo přes noc."
+    },
+    {
+      "section": "Tikka",
+      "text": "Troubu rozpal na 230 °C s horním grilem. Plech vylož pečicím papírem, potři olejem a rozlož na něj maso v jedné vrstvě tak, aby se kousky nedotýkaly."
+    },
+    {
+      "section": "Tikka",
+      "text": "Griluj 12 až 15 minut v horní třetině trouby, v polovině kousky obrať. Okraje mají být tmavé, místy připečené."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Mezitím v širokém hrnci rozpal olej a cibuli na něm opékej na středním ohni 12 až 15 minut, dokud není zlatohnědá. Přidej papriku a opékej další 3 minuty."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Přidej česnek, zázvor a chilli, po minutě vmíchej protlak a všechno koření a krátce osmahni. Přilij rozmačkaná rajčata s vodou a vař 10 minut."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Omáčku podle chuti rozmixuj jen zčásti, aby zůstala hrubší. Vmíchej smetanu, přidej grilované kuře i se šťávou z plechu a provař 5 minut. Dochuť solí."
+    },
+    {
+      "section": "Podávání",
+      "text": "Podávej s rýží basmati nebo naanem, posypané lístky koriandru."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Špenát s paneerem a česnekem",
+  "restaurant": "kari-nikde",
+  "kind": "main",
+  "section": "Kari",
+  "price": 18900,
+  "description": "Paneer v hladké špenátové omáčce s výrazným česnekem a zázvorem, k tomu rýže basmati.",
+  "about": [
+    "Špenátové kari, ve kterém je česnek cítit. Paneer se nejdřív opeče do zlatova a pak se vloží do omáčky z rozmixovaného špenátu, cibule a rajčat.",
+    "Na rozdíl od smetanovějších verzí je tahle sušší a kořenitější. Doma můžeš česneku přidat podle sebe, recept počítá se čtyřmi stroužky."
+  ],
+  "recipe": "palak-paneer",
+  "image": "dish-spenat-paneer-nikde",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "paneer",
+          "name": "Paneer navíc",
+          "priceDelta": 4500
+        },
+        {
+          "id": "naan",
+          "name": "Naan",
+          "priceDelta": 4500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 1,
+  "allergens": [
+    7
+  ],
+  "order": 40
+}

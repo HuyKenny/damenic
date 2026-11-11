@@ -1,0 +1,37 @@
+{
+  "name": "Pinseria Ani kousek",
+  "category": "pizza",
+  "cuisine": "Římská pinsa a pizza al taglio",
+  "tagline": "Krájíme na kousky. Ani jeden ti nepřivezeme.",
+  "description": "Fiktivní římské bistro, kde se pizza peče na velkých plechách a prodává na kusy, a vedle ní oválné pinsy s vláčným těstem. Nůžky na krájení máme, krabice taky, jen kurýr nikdy nevyjede, takže ani kousek, zato recept celý.",
+  "etaMinutes": 15,
+  "deliveryFee": 3500,
+  "minOrder": 0,
+  "priceLevel": 1,
+  "hours": {
+    "open": "11:00",
+    "close": "01:00"
+  },
+  "pickup": true,
+  "tags": [
+    "pikantní"
+  ],
+  "promo": {
+    "type": "free-delivery",
+    "label": "Dopravné 0 Kč"
+  },
+  "isNew": true,
+  "logo": {
+    "text": "AK",
+    "color": "#C2185B",
+    "ink": "light"
+  },
+  "cover": "rest-pinseria-ani-kousek",
+  "sections": [
+    "Pinsa",
+    "Al taglio",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 12
+}

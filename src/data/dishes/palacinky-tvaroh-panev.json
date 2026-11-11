@@ -1,0 +1,61 @@
+{
+  "name": "Palačinky s vanilkovým tvarohem",
+  "restaurant": "prazdna-panev",
+  "kind": "main",
+  "section": "Sladké palačinky",
+  "description": "Dvě palačinky plněné tvarohem utřeným s cukrem a vanilkou, přeložené do čtverce a zapečené dozlatova.",
+  "about": [
+    "Tvarohová palačinka je česká klasika, kterou jinde v Evropě skoro neznají. Měkký tvaroh se utře s cukrem a vanilkou, potře se jím palačinka a přeloží se do čtverce, aby náplň nevytekla.",
+    "Na pánvi se ještě krátce ohřeje z obou stran, takže tvaroh zteplá a okraje zkřupnou. Těsto je stejné jako na džemové palačinky, liší se jen náplň."
+  ],
+  "price": 13900,
+  "image": "dish-palacinky-tvaroh-panev",
+  "recipe": "palacinky",
+  "recipeNote": "Recept je na palačinkové těsto; tvarohovou náplň popisují náhrady.",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "dve",
+          "name": "Dvě palačinky",
+          "priceDelta": 0
+        },
+        {
+          "id": "tri",
+          "name": "Tři palačinky",
+          "priceDelta": 4500
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "rozinky",
+          "name": "Rozinky",
+          "priceDelta": 1500
+        },
+        {
+          "id": "omacka",
+          "name": "Jahodová omáčka",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 20
+}

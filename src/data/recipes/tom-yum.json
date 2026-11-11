@@ -1,0 +1,151 @@
+{
+  "title": "Tom yum",
+  "category": "thajska",
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 18,
+  "difficulty": "snadné",
+  "keywords": [
+    "tom yum recept",
+    "polévka tom yum",
+    "tom yum s krevetami",
+    "thajská polévka tom yum"
+  ],
+  "intro": "Thajská kyselá a pálivá polévka tom yum s krevetami a houbami pro dva, hotová asi za 40 minut. Chuť stojí na citronové trávě, galangalu a kafírových listech a na dochucení až po stažení z ohně.",
+  "ingredients": [
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 800,
+      "unit": "ml",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "citronova-trava",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "galangal",
+      "amount": 30,
+      "unit": "g",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "kafirove-listy",
+      "amount": 5,
+      "unit": "ks",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "podle pálivosti",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 150,
+      "unit": "g",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "chilli-pasta-thai",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "krevety",
+      "amount": 250,
+      "unit": "g",
+      "note": "syrové, loupané",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 100,
+      "unit": "g",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "rybi-omacka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Dochucení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Vývar",
+      "text": "Citronové trávě odřízni tvrdý konec a vnější listy, stonky rozklepej tupou stranou nože a nakrájej na kusy dlouhé 4 cm. Galangal nakrájej na tenké plátky a kafírové listy natrhej bez středového žebra."
+    },
+    {
+      "section": "Vývar",
+      "text": "Chilli papričky rozmáčkni nožem, aby pustily pálivost. Žampiony nakrájej na čtvrtky a rajčata rozpul."
+    },
+    {
+      "section": "Vývar",
+      "text": "Vývar přiveď k varu, přidej citronovou trávu, galangal, kafírové listy a chilli a 10 minut je mírně vař, aby vývar převzal vůni."
+    },
+    {
+      "section": "Vývar",
+      "text": "Vmíchej chilli pastu, přidej žampiony a vař 3 minuty."
+    },
+    {
+      "section": "Vývar",
+      "text": "Přidej krevety a rajčata a vař jen 2 až 3 minuty, dokud krevety nezrůžoví a nezkroutí se. Déle je nevař, ztuhnou."
+    },
+    {
+      "section": "Dochucení",
+      "text": "Stáhni hrnec z ohně a dochuť polévku rybí omáčkou, cukrem a šťávou z limetek. Ochutnej: má být výrazně kyselá, slaná a pálivá zároveň."
+    },
+    {
+      "section": "Dochucení",
+      "text": "Rozlij ji do misek a posyp lístky koriandru. Citronová tráva, galangal a listy se nejedí, nech je v misce nebo je vylov."
+    }
+  ],
+  "tips": [
+    "Limetkovou šťávu přidávej až mimo oheň. Varem zhořkne a ztratí svěžest.",
+    "Pokud máš krevety s hlavami a krunýři, orestuj je na lžíci oleje a 10 minut povař ve vývaru. Polévka bude mít výraznější chuť."
+  ],
+  "substitutions": [
+    "Galangal nahradíš zázvorem, polévka bude ostřejší a méně citrusová.",
+    "Místo krevet můžeš použít kuřecí prsa na tenké plátky, vař je 5 minut."
+  ],
+  "faq": [
+    {
+      "q": "Čím nahradit galangal v tom yum?",
+      "a": "Nejbližší je čerstvý zázvor, dej ho asi o třetinu méně. Chuť bude jiná, galangal je citrusovější a připomíná jehličí."
+    },
+    {
+      "q": "Jaký je rozdíl mezi tom yum a tom kha?",
+      "a": "Tom yum je čirá, kyselá a pálivá polévka, tom kha se vaří s kokosovým mlékem a je jemnější a krémová. Aromatický základ z citronové trávy, galangalu a kafírových listů mají společný."
+    },
+    {
+      "q": "Jí se citronová tráva a galangal z polévky?",
+      "a": "Ne, jsou tuhé a vláknité a v polévce slouží jen k aroma. Při jídle se nechávají na kraji misky."
+    }
+  ],
+  "image": "dish-tom-yum",
+  "vegetarian": false
+}

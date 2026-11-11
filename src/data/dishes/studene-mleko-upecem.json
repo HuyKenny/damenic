@@ -1,0 +1,17 @@
+{
+  "name": "Sklenice studeného mléka",
+  "restaurant": "zitra-upecem",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Americká klasika k brownies, 0,3 l plnotučného mléka z lednice.",
+  "price": 3900,
+  "image": "dish-studene-mleko-upecem",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 90
+}

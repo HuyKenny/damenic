@@ -1,0 +1,36 @@
+{
+  "name": "Edamame s mořskou solí",
+  "restaurant": "poke-prazdna-miska",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Sójové lusky uvařené ve slané vodě a posypané hrubou mořskou solí. Vyloupat si je musíš sám, což v tomto případě platí dvojnásob.",
+  "price": 7900,
+  "image": "dish-edamame-miska",
+  "recipe": null,
+  "optionGroups": [
+    {
+      "id": "ochuceni",
+      "name": "Ochucení",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "sul",
+          "name": "Mořská sůl",
+          "priceDelta": 0
+        },
+        {
+          "id": "chilli",
+          "name": "Chilli a česnek",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    6
+  ],
+  "order": 70
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Hummus s kořeněným hovězím",
+  "restaurant": "prazdna-misa",
+  "kind": "main",
+  "section": "Talíře a mezze",
+  "price": 19900,
+  "description": "Miska hladkého hummusu s opečeným mletým hovězím, skořicí, kmínem a petrželkou, s pitou.",
+  "about": [
+    "V Libanonu se hummus nejí jen jako dip. Navrch se dá horké mleté maso opečené s cibulí a kořením a z mezze je hlavní jídlo.",
+    "Teplé maso na chladném hummusu je kontrast, o který tu jde. Pita slouží místo příboru."
+  ],
+  "recipe": "hummus",
+  "recipeNote": "Recept je na hummus; navrch dej 250 g mletého hovězího opečeného s cibulí, kmínem a špetkou skořice.",
+  "image": "dish-hummus-hovezi-misa",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "K tomu",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "pita",
+          "name": "Pita",
+          "priceDelta": 0
+        },
+        {
+          "id": "zelenina",
+          "name": "Zelenina na namáčení",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "maso",
+          "name": "Maso navíc",
+          "priceDelta": 4500
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    11
+  ],
+  "order": 40
+}

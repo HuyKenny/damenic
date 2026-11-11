@@ -1,0 +1,61 @@
+{
+  "name": "Lasagne z velkého pekáče",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Těstoviny a lasagne",
+  "description": "Vrstvy těstovin, hovězího ragú a bešamelu zapečené s parmazánem a mozzarellou. Krájíme po odpočinutí, ať drží tvar.",
+  "about": [
+    "Lasagne jsou jídlo na víkend: ragú se vaří hodinu, bešamel deset minut a pak už jen pečení a čekání. Nejtěžší část přijde na konci, kdy musíš vydržet čtvrt hodiny, než je nakrojíš.",
+    "Naše smyšlená trattorie je peče v pekáči na dvanáct porcí. Doma ti bude stačit mísa 20 × 30 cm a recept na šest porcí, který se dá připravit den předem."
+  ],
+  "price": 24900,
+  "image": "dish-lasagne-domani",
+  "recipe": "lasagne",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná (400 g)",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (550 g)",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "parmazan",
+          "name": "Parmazán navíc",
+          "priceDelta": 3000
+        },
+        {
+          "id": "salat",
+          "name": "Malý zelený salát",
+          "priceDelta": 4900
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    7,
+    9,
+    12
+  ],
+  "featured": true,
+  "order": 20
+}

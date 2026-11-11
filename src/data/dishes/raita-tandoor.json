@@ -1,0 +1,16 @@
+{
+  "name": "Raita s okurkou",
+  "restaurant": "tandoor-nanecisto",
+  "kind": "side",
+  "section": "Placky a přílohy",
+  "price": 5900,
+  "description": "Bílý jogurt s nastrouhanou okurkou, římským kmínem a špetkou soli. Chladí po pálivém kari, kdyby nějaké přijelo.",
+  "recipe": null,
+  "image": "dish-raita-tandoor",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 80
+}

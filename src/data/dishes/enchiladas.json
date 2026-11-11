@@ -1,0 +1,63 @@
+{
+  "name": "Enchiladas zapečené se sýrem, 3 ks",
+  "restaurant": "chilli-bez-adresy",
+  "kind": "main",
+  "section": "Z trouby",
+  "price": 23900,
+  "description": "Tři tortilly s kuřetem a fazolemi, zapečené v kořenité rajčatové omáčce a sýru, se zakysanou smetanou a koriandrem.",
+  "about": [
+    "Enchiladas z trouby jsou jídlo, které se dá připravit dopředu. Naplněné a zalité tortilly klidně počkají v lednici a do trouby jdou, až když přijdou hosté.",
+    "Omáčka z passaty, vývaru a koření osmaženého s moukou je hustá a výrazná. Sýr nahoře má bublat a na krajích trochu zhnědnout."
+  ],
+  "recipe": "enchiladas",
+  "image": "dish-enchiladas",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "smetana",
+          "name": "Bez smetany",
+          "priceDelta": 0
+        },
+        {
+          "id": "koriandr",
+          "name": "Bez koriandru",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 50
+}

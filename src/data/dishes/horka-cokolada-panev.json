@@ -1,0 +1,32 @@
+{
+  "name": "Horká čokoláda",
+  "restaurant": "prazdna-panev",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Hustá horká čokoláda na plnotučném mléce, kterou bychom ti nesli opatrně. Proto ji radši neneseme vůbec.",
+  "price": 6900,
+  "image": "dish-horka-cokolada-panev",
+  "recipe": null,
+  "optionGroups": [
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "slehacka",
+          "name": "Šlehačka",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    6,
+    7
+  ],
+  "order": 90
+}

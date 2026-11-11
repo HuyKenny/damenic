@@ -1,0 +1,17 @@
+{
+  "name": "Pita chléb",
+  "restaurant": "prazdna-misa",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 3500,
+  "description": "Teplá kynutá pita s kapsou. Teplá by byla, kdyby dorazila.",
+  "recipe": "pita-chleb",
+  "image": "dish-pita-misa",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "order": 80
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Maki s lososem, 8 ks",
+  "restaurant": "sushi-bez-zrnka",
+  "kind": "main",
+  "section": "Maki a sety",
+  "description": "Tenké rolky z nori a ochucené rýže s proužkem lososa k syrové konzumaci, se sójovou omáčkou, wasabi a zázvorem.",
+  "about": [
+    "Hosomaki s lososem je nejjednodušší rolka: jedna náplň, tenká vrstva rýže a pevné zarolování. Všechno ostatní dělá rýže, která musí být správně ochucená a vychladlá na pokojovou teplotu.",
+    "Na syrové rybě nešetři ani v obchodě. Kupuj jen lososa, kterého prodejce výslovně označuje jako vhodného k syrové konzumaci, a drž ho v lednici do poslední chvíle."
+  ],
+  "price": 15900,
+  "image": "dish-maki-losos-zrnko",
+  "recipe": "domaci-sushi",
+  "recipeNote": "Recept je na rolky s lososem, okurkou a avokádem. Na tuhle verzi dej do rolky jen lososa.",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet kusů",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "8ks",
+          "name": "8 kusů",
+          "priceDelta": 0
+        },
+        {
+          "id": "16ks",
+          "name": "16 kusů",
+          "priceDelta": 14000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "wasabi",
+          "name": "Bez wasabi",
+          "priceDelta": 0
+        },
+        {
+          "id": "zazvoru",
+          "name": "Bez zázvoru",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    4,
+    6
+  ],
+  "order": 10
+}

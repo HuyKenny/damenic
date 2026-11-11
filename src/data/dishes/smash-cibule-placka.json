@@ -1,0 +1,95 @@
+{
+  "name": "Smash burger s cibulí vmáčknutou do masa",
+  "restaurant": "placka-nikam",
+  "kind": "main",
+  "section": "Smash burgery",
+  "description": "Jedna placka s tence nakrájenou cibulí vmáčknutou do masa, která se na plotně opeče dosladka, plátek cheddaru, hořčice a okurky.",
+  "about": [
+    "Varianta podle starých amerických stánků. Na rozmačkanou placku přitiskneme hrst velmi tence nakrájené cibule, a když maso obrátíme, cibule se opeče v jeho tuku.",
+    "Je to menší burger, jedna placka stačí na lehčí oběd. Doma cibuli krájej co nejtenčeji, jinak se nestihne opéct."
+  ],
+  "price": 18900,
+  "image": "dish-smash-cibule-placka",
+  "recipe": "smash-burger",
+  "recipeNote": "Varianta s cibulí přitisknutou do placky, jak recept uvádí jako volitelnou",
+  "optionGroups": [
+    {
+      "id": "placky",
+      "name": "Počet placek",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jedna",
+          "name": "Jedna placka",
+          "priceDelta": 0
+        },
+        {
+          "id": "dve",
+          "name": "Dvě placky",
+          "priceDelta": 5900
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bez",
+          "name": "Bez přílohy",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Domácí hranolky",
+          "priceDelta": 5900
+        },
+        {
+          "id": "krouzky",
+          "name": "Cibulové kroužky",
+          "priceDelta": 6900
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "slanina",
+          "name": "Slanina",
+          "priceDelta": 3500
+        },
+        {
+          "id": "cheddar",
+          "name": "Cheddar navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 2000
+        },
+        {
+          "id": "placka",
+          "name": "Placka navíc",
+          "priceDelta": 5900
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    3,
+    7,
+    10,
+    11
+  ],
+  "order": 20
+}

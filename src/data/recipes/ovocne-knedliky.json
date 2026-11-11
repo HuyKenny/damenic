@@ -1,0 +1,153 @@
+{
+  "title": "Kynuté ovocné knedlíky",
+  "keywords": [
+    "ovocné knedlíky recept",
+    "kynuté knedlíky recept",
+    "kynuté ovocné knedlíky",
+    "švestkové knedlíky"
+  ],
+  "intro": "Šestnáct kynutých knedlíků se švestkami, sypaných tvarohem a cukrem a přelitých máslem. Práce je asi na hodinu, k tomu hodina kynutí; výsledek závisí na měkkém těstě a na tom, aby se knedlíky hned po uvaření propíchly.",
+  "image": "dish-ovocne-knedliky",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 50,
+  "cookMinutes": 16,
+  "waitMinutes": 75,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 20,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "1 celé a 1 žloutek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "svestky",
+      "amount": 600,
+      "unit": "g",
+      "note": "asi 16 kusů, nebo meruňky či jahody",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "nebo strouhaný tvrdý tvaroh",
+      "group": "Posypání"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Posypání"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Posypání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozdrob do 100 ml vlažného mléka, přidej lžíci cukru a lžíci mouky a nech 10 minut v teple vzejít."
+    },
+    {
+      "section": "Těsto",
+      "text": "Do mísy dej zbylou mouku, cukr a sůl, přidej vejce, žloutek, kvásek, zbylé mléko a rozpuštěné máslo. Hněť 8 až 10 minut na měkké, hladké těsto, které se nelepí."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mísu přikryj utěrkou a nech těsto v teple kynout 45 minut, dokud nezdvojnásobí objem."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Švestky omyj, osuš, podélně nařízni a vyndej pecky. Ovoce musí být suché, jinak se těsto neuzavře."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Těsto rozděl na 16 dílů po asi 55 g. Každý díl rozmáčkni na placku, doprostřed dej švestku, těsto okolo ní pevně spoj a v dlaních vytvaruj kuličku."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Knedlíky polož švem dolů na pomoučenou desku, přikryj je utěrkou a nech 20 minut dokynout."
+    },
+    {
+      "section": "Vaření",
+      "text": "Ve velkém hrnci přiveď k varu osolenou vodu. Vkládej po 5 až 6 knedlících, přiklop a vař 4 minuty, pak je obrať a vař dalších 3 až 4 minuty."
+    },
+    {
+      "section": "Vaření",
+      "text": "Knedlíky vyndej děrovanou lžící a hned je propíchni vidličkou, aby z nich unikla pára a nesrazily se."
+    },
+    {
+      "section": "Podávání",
+      "text": "Podávej posypané tvarohem a moučkovým cukrem a přelité rozpuštěným máslem."
+    }
+  ],
+  "tips": [
+    "Hrnec vždy přiklop, knedlíky se vaří i párou a nahoře nezůstanou syrové.",
+    "Tvaroh rozmíchej s cukrem předem, posypání se lépe rozprostře. Tvrdý tvaroh nastrouhej najemno."
+  ],
+  "substitutions": [
+    "Švestky můžeš nahradit meruňkami, jahodami nebo borůvkami; borůvky dej po lžičce do každého knedlíku.",
+    "Místo tvarohu se knedlíky sypou mletým mákem s cukrem nebo strouhaným perníkem."
+  ],
+  "faq": [
+    {
+      "q": "Proč jsou kynuté knedlíky uvnitř syrové?",
+      "a": "Byly velké, vařily se bez poklice nebo nebyly po vyndání propíchnuté. Drž se velikosti kolem 55 g těsta a vař pod poklicí."
+    },
+    {
+      "q": "Dají se ovocné knedlíky zamrazit?",
+      "a": "Ano, nejlépe syrové hned po vytvarování. Zamraz je na tácu vedle sebe, pak je přesyp do sáčku a vař zmrazené o 3 až 4 minuty déle."
+    },
+    {
+      "q": "Můžu použít mražené ovoce?",
+      "a": "Můžeš, ale nerozmrazuj ho, jinak pustí šťávu a těsto se neuzavře. Knedlíky pak vař o minutu až dvě déle."
+    }
+  ],
+  "vegetarian": true
+}

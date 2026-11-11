@@ -1,0 +1,15 @@
+{
+  "name": "Perlivá voda 0,5 l",
+  "restaurant": "pinseria-ani-kousek",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Perlivá minerální voda v plastové láhvi.",
+  "price": 3900,
+  "image": "dish-voda-ani-kousek",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 100
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Chilli con carne, hrnec pro čtyři",
+  "restaurant": "chilli-bez-adresy",
+  "kind": "main",
+  "section": "Chilli a pánve",
+  "price": 64900,
+  "description": "Velký hrnec chilli con carne bez přílohy, se zakysanou smetanou a koriandrem. Na celou rodinu nebo na tři dny.",
+  "about": [
+    "Rodinné balení chilli, které se doma dělá přesně v tomhle množství. Recept je na čtyři až pět porcí a druhý den chutná ještě lépe.",
+    "Přílohu si každý vybere sám: chléb, rýži, tortilly nebo chipsy. V simulaci přijde jen hrnec, a ten taky ne."
+  ],
+  "recipe": "chilli-con-carne",
+  "image": "dish-chilli-hrnec-bez",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "tortilly",
+          "name": "6 tortill",
+          "priceDelta": 5900
+        },
+        {
+          "id": "smetana",
+          "name": "Smetana navíc",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    7
+  ],
+  "order": 20
+}

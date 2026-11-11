@@ -1,0 +1,81 @@
+{
+  "name": "Cizrnové kari se špenátem",
+  "restaurant": "ani-drobek",
+  "kind": "main",
+  "section": "Kari a dál",
+  "description": "Cizrna dušená v rajčatech a kokosovém mléce s garam masalou, kurkumou a zázvorem, se špenátem a basmati rýží.",
+  "about": [
+    "Hustá kari, ve které část cizrny rozmačkáme o stěnu hrnce, aby omáčka zhoustla bez mouky. Koření pražíme na oleji jen pár desítek vteřin, aby vonělo a nezhořklo.",
+    "Špenát přidáváme až na konci, jen aby zavadl. Doma je kari druhý den ještě lepší, takže klidně uvař dvojnásobek."
+  ],
+  "price": 19900,
+  "image": "dish-cizrnove-kari",
+  "recipe": "cizrnove-kari",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "basmati",
+          "name": "Basmati rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez",
+          "name": "Bez rýže",
+          "priceDelta": -3000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "tofu",
+          "name": "Tofu",
+          "priceDelta": 4500
+        },
+        {
+          "id": "koriandr",
+          "name": "Koriandr navíc",
+          "priceDelta": 1000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 1,
+  "allergens": [],
+  "order": 40
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Taverna Prázdný stůl",
+  "category": "kebab",
+  "cuisine": "Řecký gyros",
+  "tagline": "Stůl je prostřený. Talíře zůstanou prázdné.",
+  "description": "Smyšlená řecká taverna s gyrosem z krkovice, tzatziki a pitou z rozpálené trouby. Objednat si můžeš jen nanečisto, rozvoz nevyjede, ale recept na gyros i pitu je skutečný.",
+  "etaMinutes": 35,
+  "deliveryFee": 3900,
+  "minOrder": 19900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:00",
+    "close": "23:00"
+  },
+  "tags": [
+    "rodinné porce"
+  ],
+  "logo": {
+    "text": "PS",
+    "color": "#1E3A8A",
+    "ink": "light"
+  },
+  "sections": [
+    "Gyros",
+    "Talíře",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 91,
+  "pickup": true,
+  "cover": "rest-taverna-prazdny-stul"
+}

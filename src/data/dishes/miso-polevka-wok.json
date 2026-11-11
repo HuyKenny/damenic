@@ -23,5 +23,9 @@
     }
   ],
   "restaurant": "wok-nic-moc",
-  "image": "dish-miso-polevka-wok"
+  "image": "dish-miso-polevka-wok",
+  "allergens": [
+    4,
+    6
+  ]
 }

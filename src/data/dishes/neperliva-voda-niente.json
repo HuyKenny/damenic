@@ -1,0 +1,15 @@
+{
+  "name": "Neperlivá voda 0,5 l",
+  "restaurant": "pasta-bar-niente",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Pramenitá voda bez bublinek. Na vaření těstovin by nestačila, na zapití ano.",
+  "price": 3900,
+  "image": "dish-neperliva-voda-niente",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 100
+}

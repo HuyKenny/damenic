@@ -1,0 +1,74 @@
+{
+  "name": "Kulajda se ztraceným vejcem",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Smetanová kyselá polévka s lesními houbami, brambory a koprem, se ztraceným vejcem v misce.",
+  "about": [
+    "Kulajda pochází z jihu Čech a je to polévka, která má být kyselá i smetanová zároveň. Houby a brambory se povaří s kmínem a novým kořením, polévka se zahustí smetanou a nakonec dochutí octem a hrstí čerstvého kopru.",
+    "Ztracené vejce se vaří zvlášť ve vodě s octem a do misky se dává před zalitím, aby žloutek zůstal tekutý. Když ho rozkrojíš, polévka se ještě zjemní."
+  ],
+  "price": 12900,
+  "image": "dish-kulajda",
+  "recipe": "kulajda",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standard",
+          "name": "Miska 0,35 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Miska 0,5 l",
+          "priceDelta": 3000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "chleb",
+          "name": "Krajíc chleba",
+          "priceDelta": 1500
+        },
+        {
+          "id": "vejce",
+          "name": "Druhé vejce",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-kopru",
+          "name": "Bez kopru",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": true,
+  "order": 10
+}

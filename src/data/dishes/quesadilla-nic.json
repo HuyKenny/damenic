@@ -1,0 +1,63 @@
+{
+  "name": "Quesadilla se sýrem a kuřetem",
+  "restaurant": "taqueria-nic-noveho",
+  "kind": "main",
+  "section": "Burrito a další",
+  "price": 17900,
+  "description": "Přeložená tortilla opečená na pánvi s kuřetem, paprikou a rozteklým sýrem, nakrájená na trojúhelníky.",
+  "about": [
+    "Quesadilla je v podstatě mexický toust. Sýr dole i nahoře, mezi ním kuře s paprikou a cibulí, a všechno se pomalu opéká, dokud se sýr nerozteče.",
+    "Podává se se smetanou a salsou na namáčení. V simulaci si můžeš přidat guacamole, doma ho uděláš za deset minut."
+  ],
+  "recipe": "quesadilla",
+  "image": "dish-quesadilla-nic",
+  "optionGroups": [
+    {
+      "id": "salsa",
+      "name": "Salsa",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "pico",
+          "name": "Rajčatová pico de gallo",
+          "priceDelta": 0
+        },
+        {
+          "id": "verde",
+          "name": "Zelená s limetkou",
+          "priceDelta": 0
+        },
+        {
+          "id": "palava",
+          "name": "Pálivá chipotle",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "guac",
+          "name": "Guacamole",
+          "priceDelta": 3500
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 40
+}

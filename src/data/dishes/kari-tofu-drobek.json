@@ -1,0 +1,63 @@
+{
+  "name": "Kokosové kari s tofu a zeleninou",
+  "restaurant": "ani-drobek",
+  "kind": "main",
+  "section": "Kari a dál",
+  "description": "Opečené tofu, mrkev, paprika, cuketa a hrášek v kari omáčce z rajčat a kokosového mléka, s basmati rýží.",
+  "about": [
+    "Kari, které funguje jako úklid zeleninové přihrádky. Tofu opékáme zvlášť, aby se v omáčce nerozpadlo, a zeleninu přidáváme postupně podle toho, jak dlouho potřebuje.",
+    "Pálivost řídíme chilli vločkami. Jemná verze je kořeněná, ale nepálí."
+  ],
+  "price": 20900,
+  "image": "dish-kari-tofu-drobek",
+  "recipe": "zeleninove-kari-s-tofu",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "basmati",
+          "name": "Basmati rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez",
+          "name": "Bez rýže",
+          "priceDelta": -3000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    6
+  ],
+  "order": 60
+}

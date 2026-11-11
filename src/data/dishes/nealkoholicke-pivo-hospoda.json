@@ -9,5 +9,8 @@
   "description": "Světlé nealkoholické pivo, dobře vychlazené. Pěnu si budeš muset představit, stejně jako půllitr.",
   "optionGroups": [],
   "restaurant": "u-prazdneho-talire",
-  "image": "dish-nealkoholicke-pivo-hospoda"
+  "image": "dish-nealkoholicke-pivo-hospoda",
+  "allergens": [
+    1
+  ]
 }

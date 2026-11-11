@@ -1,0 +1,14 @@
+{
+  "name": "Ledový čaj s mátou 0,4 l",
+  "restaurant": "pozdni-bazalka",
+  "kind": "drink",
+  "section": "Přílohy a nápoje",
+  "description": "Zelený čaj louhovaný za studena s mátou a limetkou.",
+  "price": 4900,
+  "image": "dish-ledovy-caj-mata-bazalka",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 90
+}

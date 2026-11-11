@@ -1,0 +1,58 @@
+{
+  "name": "Nachos na sdílení",
+  "restaurant": "tortillarna-ani-omylem",
+  "kind": "main",
+  "section": "Quesadilly a nachos",
+  "price": 17900,
+  "description": "Velký talíř chipsů zapečených se sýrem, fazolemi a jalapeños, s guacamole, salsou a zakysanou smetanou.",
+  "about": [
+    "Talíř pro partu, která se nemůže dohodnout. Dvě vrstvy chipsů, sýra a fazolí, zapečené jen do roztečení a doplněné studenými dipy.",
+    "Guacamole je tu v ceně. Doma ho uděláš z receptu na guacamole, zatímco se nachos zapékají."
+  ],
+  "recipe": "nachos",
+  "image": "dish-nachos-sdileni-ani",
+  "optionGroups": [
+    {
+      "id": "dip",
+      "name": "Hlavní dip",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "guac",
+          "name": "Guacamole",
+          "priceDelta": 0
+        },
+        {
+          "id": "salsa",
+          "name": "Dvojitá salsa",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "maso",
+          "name": "Mleté hovězí",
+          "priceDelta": 4500
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños navíc",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 2,
+  "allergens": [
+    7
+  ],
+  "order": 30
+}

@@ -1,0 +1,100 @@
+{
+  "name": "Butter chicken",
+  "restaurant": "tandoor-nanecisto",
+  "kind": "main",
+  "section": "Kari",
+  "price": 22900,
+  "description": "Kuřecí stehna marinovaná v jogurtu, opečená a dušená v hladké rajčatové omáčce s máslem a smetanou. S rýží basmati.",
+  "about": [
+    "Butter chicken je kari, které nepálí, ale hřeje. Kuře se nejdřív hodinu naloží do jogurtu s kořením, pak se prudce opeče a teprve potom dojde v omáčce z rajčat, másla a smetany. Omáčka má být sametová a lehce nasládlá.",
+    "V simulaci si vybereš přílohu a pálivost. Doma rozhoduje trpělivost u omáčky: rajčata se musí provařit, než přijde na řadu smetana, jinak zůstanou kyselá."
+  ],
+  "recipe": "butter-chicken",
+  "image": "dish-butter-chicken",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "ryze",
+          "name": "Rýže basmati",
+          "priceDelta": 0
+        },
+        {
+          "id": "naan",
+          "name": "Naan",
+          "priceDelta": 3900
+        },
+        {
+          "id": "ryze-naan",
+          "name": "Rýže i naan",
+          "priceDelta": 5900
+        }
+      ]
+    },
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "kure",
+          "name": "Porce kuřete navíc",
+          "priceDelta": 6900
+        },
+        {
+          "id": "smetana",
+          "name": "Víc smetany",
+          "priceDelta": 1500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "koriandr",
+          "name": "Bez koriandru",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    7
+  ],
+  "featured": true,
+  "order": 10
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Cukrárna Nedortík",
+  "category": "dezerty",
+  "cuisine": "Cukrárna a domácí koláče",
+  "tagline": "Dorty krájíme jen ve vzduchu.",
+  "description": "Smyšlená cukrárna s perníkem, bábovkou a koláči z plechu, jaké se pečou o víkendu pro celou rodinu. Objednáš si nanečisto, kurýr nevyrazí a místo krabice s mašlí přijde recept, podle kterého si to upečeš sám.",
+  "etaMinutes": 30,
+  "deliveryFee": 2900,
+  "minOrder": 14900,
+  "priceLevel": 1,
+  "hours": {
+    "open": "09:00",
+    "close": "19:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa",
+    "rodinné porce"
+  ],
+  "promo": {
+    "type": "free-delivery",
+    "label": "Dopravné 0 Kč"
+  },
+  "logo": {
+    "text": "N",
+    "color": "#8E3B5E",
+    "ink": "light"
+  },
+  "sections": [
+    "Koláče a buchty",
+    "Štrúdl a dorty",
+    "Ke kávě",
+    "Nápoje"
+  ],
+  "order": 141,
+  "cover": "rest-cukrarna-nedortik"
+}

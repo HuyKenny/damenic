@@ -1,0 +1,36 @@
+{
+  "name": "Ledová káva frappé 0,4 l",
+  "restaurant": "taverna-prazdny-stul",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 6500,
+  "description": "Instantní káva našlehaná s cukrem a ledem, podle chuti s mlékem. Pěna vydrží déle než jakýkoli rozvoz.",
+  "recipe": null,
+  "image": "dish-frappe-stul",
+  "optionGroups": [
+    {
+      "id": "mleko",
+      "name": "Mléko",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "s-mlekem",
+          "name": "S mlékem",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez",
+          "name": "Bez mléka",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 90
+}

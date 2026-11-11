@@ -1,0 +1,61 @@
+{
+  "name": "Teriyaki tofu s brokolicí",
+  "restaurant": "poke-prazdna-miska",
+  "kind": "main",
+  "section": "Teplé misky",
+  "description": "Kostky pevného tofu opečené dokřupava a obalené v teriyaki omáčce, brokolice, edamame a mrkev na jasmínové rýži.",
+  "about": [
+    "Stejná miska jako s kuřetem, jen místo masa je tofu obalené ve škrobu a opečené do zlatova. Omáčka se přidává až nakonec, aby kůrka nezměkla.",
+    "Teriyaki omáčka obsahuje med, takže miska je vegetariánská, ne veganská. Kdo chce, nahradí ho doma třtinovým cukrem."
+  ],
+  "price": 22900,
+  "image": "dish-teriyaki-tofu-miska",
+  "recipe": "teriyaki-bowl",
+  "recipeNote": "Varianta s tofu podle náhrady v receptu",
+  "optionGroups": [
+    {
+      "id": "zaklad",
+      "name": "Základ",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jasminova",
+          "name": "Jasmínová rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "quinoa",
+          "name": "Quinoa",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "tofu",
+          "name": "Tofu navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "avokado",
+          "name": "Avokádo",
+          "priceDelta": 3500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "order": 50
+}

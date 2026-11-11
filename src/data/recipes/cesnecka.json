@@ -1,0 +1,144 @@
+{
+  "title": "Česnečka",
+  "keywords": [
+    "česnečka recept",
+    "recept na česnečku",
+    "česneková polévka",
+    "česnečka se sýrem a krutony"
+  ],
+  "intro": "Hrnec česnekové polévky s brambory, sýrem a krutony pro čtyři za tři čtvrtě hodiny. Celá chuť stojí na česneku, který se přidává až na konci a už se nevaří.",
+  "image": "dish-cesnecka",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "ingredients": [
+    {
+      "ingredient": "sadlo",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1200,
+      "unit": "ml",
+      "note": "nebo světlý vývar",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 400,
+      "unit": "g",
+      "note": "na kostky 1 cm",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 8,
+      "unit": "ks",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "volitelně",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 200,
+      "unit": "g",
+      "note": "starší, na kostky",
+      "group": "Do talíře"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Do talíře"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 100,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Do talíře"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Polévka",
+      "text": "V hrnci rozpusť sádlo a nech na něm kmín 30 sekund zavonět. Zalij vodou, přidej brambory, sůl a pepř."
+    },
+    {
+      "section": "Polévka",
+      "text": "Vař 15 až 20 minut, dokud brambory nezměknou. Pár kostek můžeš o stěnu hrnce rozmačkat, polévka bude hustší."
+    },
+    {
+      "section": "Krutony",
+      "text": "Mezitím opeč chléb na oleji na pánvi za častého obracení dozlatova, asi 5 minut. Krutony nech okapat na papírové utěrce."
+    },
+    {
+      "section": "Polévka",
+      "text": "Pokud chceš vejce, rozšlehej je a za míchání je vlij tenkým pramínkem do vroucí polévky. Srazí se na jemné nitky."
+    },
+    {
+      "section": "Polévka",
+      "text": "Hrnec stáhni z plotny, vmíchej prolisovaný česnek a majoránku a nech polévku 5 minut odstát pod poklicí."
+    },
+    {
+      "section": "Podávání",
+      "text": "Do talířů dej sýr, zalij horkou česnečkou a krutony přidej až nakonec, aby nezměkly."
+    }
+  ],
+  "tips": [
+    "Česnek do vroucí polévky nedávej. Vařením ztratí ostrost a může zhořknout.",
+    "Krutony jdou udělat i v troubě: 10 minut na 200 °C, v polovině je promíchej."
+  ],
+  "substitutions": [
+    "Eidam můžeš nahradit jiným tvrdým sýrem, třeba goudou, nebo ho vynechat.",
+    "Sádlo lze nahradit máslem, polévka pak bude vegetariánská."
+  ],
+  "faq": [
+    {
+      "q": "Kdy přidat česnek do česnečky?",
+      "a": "Až na konci, do polévky stažené z plotny. Nech ho pod poklicí pět minut, aby se chuť rozvinula."
+    },
+    {
+      "q": "Proč je česnečka hořká?",
+      "a": "Česnek se vařil nebo připálil. Přidávej ho až do horké, ale už nevroucí polévky."
+    },
+    {
+      "q": "Musí být v česnečce vejce?",
+      "a": "Nemusí. Vejce polévku zjemní a zahustí, bez něj je čirejší a ostřejší."
+    }
+  ]
+}

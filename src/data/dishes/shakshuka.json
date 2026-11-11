@@ -1,0 +1,78 @@
+{
+  "name": "Shakshuka s fetou",
+  "restaurant": "odlozeny-budik",
+  "kind": "main",
+  "section": "Vejce",
+  "description": "Čtyři vejce pošírovaná v rajčatové omáčce s paprikou, kmínem a česnekem, s fetou a chlebem.",
+  "about": [
+    "Shakshuka pochází ze severní Afriky a Blízkého východu a podává se rovnou v pánvi, ve které se vařila. Omáčka z rajčat a papriky má být hustá, aby v ní vejce zůstala v důlcích.",
+    "Pálivost si nastavíš sám, chléb na vytírání je v ceně. Bez chleba je jídlo bez lepku."
+  ],
+  "price": 19900,
+  "image": "dish-shakshuka",
+  "recipe": "shakshuka",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemna",
+          "name": "Jemná",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivá",
+          "priceDelta": 0
+        },
+        {
+          "id": "paliva",
+          "name": "Pálivá",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "pecivo",
+      "name": "Pečivo",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "chleb",
+          "name": "S chlebem",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez",
+          "name": "Bez pečiva",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "fety",
+          "name": "Bez fety",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 1,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 30
+}

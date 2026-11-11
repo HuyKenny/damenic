@@ -1,0 +1,218 @@
+{
+  "title": "Pulled pork burger",
+  "category": "burgery",
+  "servings": 6,
+  "activeMinutes": 40,
+  "cookMinutes": 300,
+  "waitMinutes": 20,
+  "waitLabel": "odpočinutí masa po upečení",
+  "difficulty": "střední",
+  "vegetarian": false,
+  "keywords": [
+    "pulled pork burger recept",
+    "pulled pork v troubě",
+    "trhané vepřové maso",
+    "pulled pork recept"
+  ],
+  "intro": "Šest burgerů s vepřovou plecí pečenou pět hodin v troubě, natrhanou vidličkami a promíchanou s BBQ omáčkou, s rychlým coleslaw. Rozhoduje nízká teplota a trpělivost, maso musí dojít, až se samo rozpadá.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-plecko",
+      "amount": 1500,
+      "unit": "g",
+      "note": "vcelku, bez kosti",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cesnek-suseny",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 150,
+      "unit": "g",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "worcester",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "zeli-bile",
+      "amount": 300,
+      "unit": "g",
+      "group": "Rychlý coleslaw"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 80,
+      "unit": "g",
+      "group": "Rychlý coleslaw"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 80,
+      "unit": "g",
+      "group": "Rychlý coleslaw"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Rychlý coleslaw"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Rychlý coleslaw"
+    },
+    {
+      "ingredient": "bulky-burger",
+      "amount": 6,
+      "unit": "ks",
+      "group": "Skládání"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Skládání"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 80,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Skládání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Maso",
+      "text": "Troubu předehřej na 150 °C. Smíchej cukr, obě papriky, sůl, kmín, sušený česnek a pepř. Maso osuš a směs do něj ze všech stran vetři."
+    },
+    {
+      "section": "Maso",
+      "text": "Maso dej do pekáče s poklicí nebo do litinového hrnce a na dno nalij vodu s octem. Přiklop a peč 4 hodiny."
+    },
+    {
+      "section": "Maso",
+      "text": "Poklici sundej a peč ještě asi hodinu, dokud maso na povrchu neztmavne a uvnitř nemá 90 až 95 °C. Vidlička do něj musí zajet a otočit se bez odporu."
+    },
+    {
+      "section": "Maso",
+      "text": "Maso přendej na prkénko, volně přikryj alobalem a nech 20 minut odpočinout. Šťávu z pekáče slij do hrnečku a nech chvíli stát, ať vyplave tuk."
+    },
+    {
+      "section": "BBQ omáčka",
+      "text": "Na omáčku svař kečup, cukr, ocet, worcester, hořčici a 100 ml odtučněné šťávy z pekáče. Vař 5 minut na mírném plameni, dokud lehce nezhoustne."
+    },
+    {
+      "section": "BBQ omáčka",
+      "text": "Maso roztrhej dvěma vidličkami na vlákna, odstraň větší kusy tuku a promíchej ho s většinou omáčky a lžící nebo dvěma zbylé šťávy."
+    },
+    {
+      "section": "Skládání",
+      "text": "Na coleslaw nakrouhej zelí najemno, promíchej ho se solí a nech 15 minut stát, pak ho vymačkej. Přidej nastrouhanou mrkev, majonézu a ocet."
+    },
+    {
+      "section": "Skládání",
+      "text": "Bulky rozřízni, potři máslem a opeč na pánvi. Na spodní půlku dej vrchovatou porci masa, lžíci omáčky, coleslaw a okurky, přiklop a podávej."
+    }
+  ],
+  "tips": [
+    "Koření můžeš do masa vetřít už večer předem a nechat ho zabalené v lednici. Maso bude ochucené i uvnitř.",
+    "Na čas se nespoléhej, kusy masa se liší. Hotové je, až se samo rozpadá; při 80 °C uvnitř je ještě tuhé.",
+    "Natrhané maso jde zamrazit i s omáčkou. Ohřívej ho pomalu pod pokličkou s trochou vody."
+  ],
+  "substitutions": [
+    "Místo plecka se hodí vepřová krkovice, je tučnější a peče se o něco kratší dobu.",
+    "Worcestrová omáčka obsahuje ančovičky; vynechat ji můžeš a dát místo ní lžičku sójové omáčky."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct pulled pork v troubě?",
+      "a": "Při 150 °C zhruba 5 hodin na 1,5 kg vepřové plece, 4 hodiny přikryté a hodinu odkryté. Hotové je, když má maso uvnitř 90 až 95 °C a dá se snadno roztrhat."
+    },
+    {
+      "q": "Jaké maso je nejlepší na pulled pork?",
+      "a": "Vepřová plec, protože má hodně pojivové tkáně a tuku, které se dlouhým pečením rozpustí. Libová kýta by vyschla a netrhala se."
+    },
+    {
+      "q": "Dá se pulled pork připravit den předem?",
+      "a": "Ano, natrhané maso s omáčkou vydrží v lednici tři dny. Ohřívej ho přikryté na pánvi nebo v troubě se lžící vody nebo šťávy."
+    }
+  ],
+  "image": "dish-pulled-pork-burger"
+}

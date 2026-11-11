@@ -1,0 +1,64 @@
+{
+  "name": "Kuřecí biryani s raitou",
+  "restaurant": "kari-nikde",
+  "kind": "main",
+  "section": "Biryani",
+  "price": 21900,
+  "description": "Rýže basmati vrstvená s kořeněným kuřetem a smaženou cibulí, k tomu jogurtová raita s okurkou.",
+  "about": [
+    "Biryani je jídlo, kvůli kterému se sem chodí, kdyby se sem dalo chodit. Rýže a kuře se nevaří spolu, ale vrství a dodušují v páře, takže každé zrno nasákne vůni koření a cibule.",
+    "Raita k tomu není ozdoba. Chladný jogurt s okurkou vyvažuje kořenitost a pálivost a dělá z biryani celé jídlo."
+  ],
+  "recipe": "biryani",
+  "recipeNote": "Raitu udělej z bílého jogurtu, nastrouhané okurky, kmínu a soli.",
+  "image": "dish-biryani-raita-nikde",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "vejce",
+          "name": "Vařené vejce",
+          "priceDelta": 1500
+        },
+        {
+          "id": "cibule",
+          "name": "Smažená cibule navíc",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    7
+  ],
+  "featured": true,
+  "order": 50
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Miska Nanečisto",
+  "category": "poke",
+  "cuisine": "Teriyaki a quinoa misky",
+  "tagline": "Všechno nanečisto, včetně nádobí.",
+  "description": "Fiktivní bistro s teplými i studenými miskami: teriyaki kuře, glazované tofu a quinoa salát s cizrnou. Objednávka nikam nevyjede, na konci dostaneš recept a nákupní seznam.",
+  "etaMinutes": 20,
+  "deliveryFee": 2900,
+  "minOrder": 15900,
+  "priceLevel": 1,
+  "hours": {
+    "open": "10:30",
+    "close": "20:30"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa"
+  ],
+  "promo": {
+    "type": "percent",
+    "label": "−15 % nad 350 Kč",
+    "percent": 15,
+    "minSubtotal": 35000
+  },
+  "isNew": false,
+  "logo": {
+    "text": "MN",
+    "color": "#F2C14E",
+    "ink": "dark"
+  },
+  "sections": [
+    "Teplé misky",
+    "Studené misky",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 123,
+  "cover": "rest-miska-nanecisto"
+}

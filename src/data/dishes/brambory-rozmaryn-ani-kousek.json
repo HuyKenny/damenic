@@ -1,0 +1,15 @@
+{
+  "name": "Pečené brambory s rozmarýnem",
+  "restaurant": "pinseria-ani-kousek",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Kostky brambor pečené na plechu s olivovým olejem, rozmarýnem a hrubou solí.",
+  "price": 7900,
+  "image": "dish-brambory-rozmaryn-ani-kousek",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 80
+}

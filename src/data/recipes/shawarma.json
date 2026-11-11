@@ -1,0 +1,227 @@
+{
+  "title": "Kuřecí shawarma",
+  "keywords": [
+    "shawarma recept",
+    "kuřecí shawarma",
+    "shawarma doma",
+    "libanonská shawarma"
+  ],
+  "intro": "Čtyři porce kuřecí shawarmy s kořením, česnekovo-tahini omáčkou a nakládanou zeleninou, zabalené v pitě. Celkem asi tři hodiny včetně dvou hodin marinování; chuť stojí na koření a na tom, že se maso po upečení ještě opeče do křupava.",
+  "image": "dish-shawarma",
+  "category": "kebab",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 35,
+  "waitMinutes": 120,
+  "waitLabel": "marinování masa",
+  "difficulty": "střední",
+  "tips": [
+    "Nakládané okurky do shawarmy patří, jejich kyselost vyvažuje kořenité maso a tahini.",
+    "Maso můžeš péct i na grilu, stehna 5 až 6 minut z každé strany."
+  ],
+  "substitutions": [
+    "Pitu můžeš nahradit tenkou tortillou, pak shawarmu na závěr opeč na pánvi spojem dolů.",
+    "Místo jogurtovo-tahini omáčky stačí čistý česnekový jogurt."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi shawarmou a kebabem?",
+      "a": "Obojí se tradičně peče na otočném rožni. Shawarma pochází z Blízkého východu a koření se kmínem, koriandrem, skořicí a kardamomem, podává se s tahini nebo česnekovou omáčkou a nakládanou zeleninou."
+    },
+    {
+      "q": "Jak udělat shawarmu bez rožně?",
+      "a": "Marinované maso upeč vcelku na plechu v rozpálené troubě, nakrájej na proužky a krátce je opeč na pánvi. Okraje tak zkřupavějí podobně jako z rožně."
+    },
+    {
+      "q": "Které maso je na shawarmu nejlepší?",
+      "a": "Kuřecí stehna, protože zůstávají šťavnatá. Používá se i hovězí nebo jehněčí, ty marinuj déle, ideálně přes noc."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 800,
+      "unit": "g",
+      "note": "bez kosti",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 100,
+      "unit": "g",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "kardamom",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Maso a marináda"
+    },
+    {
+      "ingredient": "jogurt-recky",
+      "amount": 150,
+      "unit": "g",
+      "group": "Česnekovo-tahini omáčka"
+    },
+    {
+      "ingredient": "tahini",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Česnekovo-tahini omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Česnekovo-tahini omáčka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Česnekovo-tahini omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Česnekovo-tahini omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Česnekovo-tahini omáčka"
+    },
+    {
+      "ingredient": "pita",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 100,
+      "unit": "g",
+      "note": "na proužky",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "na tenké plátky",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "sumah",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "lístky",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Marináda",
+      "text": "Kuře promíchej se všemi surovinami na marinádu, zakryj a nech v lednici aspoň 2 hodiny, nejlépe přes noc."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Jogurt rozmíchej s tahini, česnekem, citronovou šťávou, vodou a solí do hladké omáčky a dej ji do lednice. Cibuli promíchej se sumahem a petrželkou."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 220 °C. Stehna rozlož na plech vyložený pečicím papírem v jedné vrstvě a peč 25 až 30 minut, dokud nejsou propečená a na okrajích tmavá."
+    },
+    {
+      "section": "Pečení",
+      "text": "Nech je 5 minut odpočinout a nakrájej na tenké proužky. Na rozpálené pánvi je pak 2 až 3 minuty opékej i se šťávou z plechu, aby měly křupavé okraje."
+    },
+    {
+      "section": "Pečení",
+      "text": "Pity krátce nahřej na suché pánvi."
+    },
+    {
+      "section": "Podávání",
+      "text": "Pitu potři omáčkou, dej na ni maso, rajčata, nakládané okurky a cibuli se sumahem. Zaroluj, spodek zabal do papíru a podávej hned."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Zelený salát s balzamikem",
+  "restaurant": "trattoria-domani",
+  "kind": "side",
+  "section": "Přílohy a nápoje",
+  "description": "Listový salát, rukola a cherry rajčata se zálivkou z olivového oleje a balzamikového octa.",
+  "price": 7900,
+  "image": "dish-zeleny-salat-domani",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    12
+  ],
+  "order": 80
+}

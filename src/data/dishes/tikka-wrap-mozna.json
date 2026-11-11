@@ -1,0 +1,64 @@
+{
+  "name": "Tikka masala wrap v naanu",
+  "restaurant": "masala-mozna",
+  "kind": "main",
+  "section": "Pouliční jídlo",
+  "price": 16900,
+  "description": "Grilované kuře tikka s hustou masala omáčkou, červenou cibulí a koriandrem, zabalené v naanu.",
+  "about": [
+    "Tikka masala do ruky. Grilované kousky kuřete se obalí v hustě svařené omáčce, aby netekla, a zabalí se do teplého naanu s cibulí a koriandrem.",
+    "Doma stačí omáčku vařit o pár minut déle a nemixovat ji. Na naan je samostatný recept, kuře se peče pod grilem stejně jako na talíř."
+  ],
+  "recipe": "kure-tikka-masala",
+  "recipeNote": "Recept je na kari s rýží; omáčku svař hustší a zabal maso do naanu.",
+  "image": "dish-tikka-wrap-mozna",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "raita",
+          "name": "Raita dovnitř",
+          "priceDelta": 2000
+        },
+        {
+          "id": "kure",
+          "name": "Kuře navíc",
+          "priceDelta": 4900
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 30
+}

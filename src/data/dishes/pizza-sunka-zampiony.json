@@ -84,5 +84,9 @@
   ],
   "kind": "main",
   "restaurant": "prazdna-pec",
-  "image": "dish-pizza-sunka-zampiony"
+  "image": "dish-pizza-sunka-zampiony",
+  "allergens": [
+    1,
+    7
+  ]
 }

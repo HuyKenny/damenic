@@ -1,0 +1,73 @@
+{
+  "name": "Batátový bowl s cizrnou a tahini",
+  "restaurant": "ani-drobek",
+  "kind": "main",
+  "section": "Misky",
+  "description": "Pečený batát, cizrna opečená s uzenou paprikou, baby špenát a kuskus, přelité tahini dresinkem s citronem a česnekem.",
+  "about": [
+    "Teplejší miska pro chladnější dny. Batát pečeme v kostkách, dokud nezačne na hranách karamelizovat, a cizrnu opékáme s uzenou paprikou a římským kmínem, aby byla na povrchu křupavá.",
+    "Tahini dresink je jen sezamová pasta, citron, česnek a voda. U nás ho dáváme hodně, doma si množství nastav podle sebe."
+  ],
+  "price": 21900,
+  "image": "dish-batatovy-bowl-drobek",
+  "recipe": "bowl-batat-cizrna",
+  "optionGroups": [
+    {
+      "id": "zaklad",
+      "name": "Základ",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kuskus",
+          "name": "Kuskus",
+          "priceDelta": 0
+        },
+        {
+          "id": "ryze",
+          "name": "Basmati rýže",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "avokado",
+          "name": "Půlka avokáda",
+          "priceDelta": 3500
+        },
+        {
+          "id": "tofu",
+          "name": "Křupavé tofu",
+          "priceDelta": 4500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-spenatu",
+          "name": "Bez špenátu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    1,
+    11
+  ],
+  "order": 30
+}

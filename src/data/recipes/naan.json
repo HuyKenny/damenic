@@ -1,0 +1,144 @@
+{
+  "title": "Naan",
+  "keywords": [
+    "naan recept",
+    "naan chléb recept",
+    "indický chléb naan",
+    "česnekový naan"
+  ],
+  "intro": "Šest měkkých indických placek z kynutého těsta s jogurtem, pečených na suché rozpálené pánvi. Počítej s necelými dvěma hodinami, z toho hodinu a čtvrt těsto kyne; výsledek závisí hlavně na hodně rozpálené pánvi.",
+  "image": "dish-naan",
+  "category": "indicka",
+  "servings": 6,
+  "activeMinutes": 35,
+  "cookMinutes": 15,
+  "waitMinutes": 75,
+  "waitLabel": "kynutí a odpočinek těsta",
+  "difficulty": "střední",
+  "tips": [
+    "Pánev musí být opravdu rozpálená. Na vlažné se placka jen suší a nenafoukne se.",
+    "Pro bublinatější naan můžeš placku po otočení na pár sekund přiklopit poklicí.",
+    "Upečené placky drž zabalené v utěrce; když vychladnou nezakryté, ztvrdnou."
+  ],
+  "substitutions": [
+    "Čerstvé droždí nahradíš 4 g sušeného, rozmíchej ho rovnou s moukou.",
+    "Bílý jogurt jde nahradit řeckým rozředěným lžící vody."
+  ],
+  "faq": [
+    {
+      "q": "Jde naan upéct v troubě?",
+      "a": "Ano. Rozpal troubu i s plechem na nejvyšší teplotu, ideálně 250 °C, a peč placky 3 až 4 minuty, dokud se nenafouknou. Na pánvi ale mají typické propečené skvrny."
+    },
+    {
+      "q": "Proč naan zůstal tvrdý?",
+      "a": "Nejčastěji je těsto moc tuhé nebo se placka pekla dlouho na málo rozpálené pánvi. Těsto má být měkké a lepivé a jedna strana se peče jen kolem minuty."
+    },
+    {
+      "q": "Dá se naan připravit dopředu?",
+      "a": "Upečené placky vydrží zabalené den při pokojové teplotě, pak je krátce ohřej na pánvi. Těsto můžeš po vykynutí nechat přes noc v lednici a péct až druhý den."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 400,
+      "unit": "g",
+      "note": "plus trochu na podsypání",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "note": "vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 150,
+      "unit": "g",
+      "note": "pokojové teploty",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "group": "Na potření"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný, nepovinně",
+      "group": "Na potření"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaný, nepovinně",
+      "group": "Na potření"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozdrob do vlažného mléka s cukrem a nech 10 minut stát, dokud nezačne pěnit."
+    },
+    {
+      "section": "Těsto",
+      "text": "V míse smíchej mouku, sůl a kypřicí prášek. Přidej droždí, jogurt a olej a vypracuj měkké, lehce lepivé těsto, asi 6 až 8 minut. Když je moc tuhé, přidej lžíci vody."
+    },
+    {
+      "section": "Těsto",
+      "text": "Těsto zakryj a nech na teplém místě kynout asi hodinu, dokud nezdvojnásobí objem."
+    },
+    {
+      "section": "Těsto",
+      "text": "Rozděl ho na šest dílů, vytvaruj kuličky a nech je pod utěrkou 15 minut odpočinout."
+    },
+    {
+      "section": "Pečení",
+      "text": "Máslo rozpusť a vmíchej do něj česnek. Litinovou nebo silnou pánev bez tuku rozpal na vysoký žár."
+    },
+    {
+      "section": "Pečení",
+      "text": "Kuličku rozválej na pomoučeném vále na kapku nebo ovál silný asi 4 mm. Polož ji na suchou pánev a peč asi 1 minutu, dokud se na povrchu neudělají bubliny a spodek není propečený s tmavými skvrnami."
+    },
+    {
+      "section": "Pečení",
+      "text": "Placku otoč a peč druhou stranu 40 až 60 sekund. Hotový naan hned potři česnekovým máslem, posyp koriandrem a zabal do utěrky, aby zůstal měkký. Stejně upeč zbytek."
+    }
+  ]
+}

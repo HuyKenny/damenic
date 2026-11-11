@@ -1,0 +1,39 @@
+{
+  "name": "Domácí hranolky smažené dvakrát",
+  "restaurant": "placka-nikam",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Hranolky z čerstvých moučných brambor, smažené nejdřív doměkka a pak dokřupava, posolené hned po vytažení.",
+  "price": 7900,
+  "image": "dish-domaci-hranolky",
+  "recipe": "domaci-hranolky",
+  "optionGroups": [
+    {
+      "id": "dip",
+      "name": "Dip",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "kecup",
+          "name": "Kečup",
+          "priceDelta": 0
+        },
+        {
+          "id": "majoneza",
+          "name": "Majonéza",
+          "priceDelta": 0
+        },
+        {
+          "id": "omacka",
+          "name": "Smash omáčka",
+          "priceDelta": 1000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 70
+}

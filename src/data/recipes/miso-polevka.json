@@ -1,0 +1,92 @@
+{
+  "title": "Miso polévka",
+  "category": "sushi",
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 5,
+  "difficulty": "snadné",
+  "keywords": [
+    "miso polévka recept",
+    "miso polévka s tofu",
+    "japonská miso polévka",
+    "jak udělat miso polévku"
+  ],
+  "intro": "Japonská miso polévka s tofu a řasou wakame pro dva, hotová za čtvrt hodiny. Chuť dělá dashi vývar a miso pasta, kterou do hrnce přidáš až nakonec a už ji nevaříš.",
+  "ingredients": [
+    {
+      "ingredient": "voda",
+      "amount": 800,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "dashi-prasek",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "podle obalu"
+    },
+    {
+      "ingredient": "miso-pasta",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "světlá nebo tmavá"
+    },
+    {
+      "ingredient": "tofu",
+      "amount": 150,
+      "unit": "g",
+      "note": "hedvábné nebo pevné"
+    },
+    {
+      "ingredient": "wakame",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "sušená"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 0.25,
+      "unit": "ks"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wakame namoč na 5 až 10 minut do studené vody. Rozroste se zhruba desetkrát, pak ji sceď."
+    },
+    {
+      "text": "Vodu přiveď k varu, rozmíchej v ní dashi a ztlum oheň, aby se vývar jen táhl."
+    },
+    {
+      "text": "Tofu nakrájej na kostky asi 1 cm, opatrně je vlož do vývaru a 2 minuty prohřívej."
+    },
+    {
+      "text": "Stáhni hrnec z ohně. Miso rozmíchej v naběračce s trochou horkého vývaru do hladka a vlij ho zpět. Od této chvíle už polévku nevař."
+    },
+    {
+      "text": "Přidej wakame, polévku rozlij do misek a posyp nadrobno nakrájenou jarní cibulkou."
+    }
+  ],
+  "tips": [
+    "Miso se liší slaností podle druhu. Přidávej ho postupně a ochutnávej.",
+    "Hedvábné tofu je jemnější, ale snadno se rozpadá. Do polévky ho vkládej lžící a už ho nemíchej."
+  ],
+  "substitutions": [
+    "Vegetariánský dashi: kousek řasy kombu a 2 sušené houby shiitake louhuj 30 minut ve studené vodě a pak je těsně pod bodem varu vyndej.",
+    "Wakame nahradí proužky nori přidané do misky až před podáváním."
+  ],
+  "faq": [
+    {
+      "q": "Proč se miso nemá vařit?",
+      "a": "Varem miso ztrácí vůni, zrní se a polévka zkalní. Proto se rozmíchává až do vývaru staženého z ohně."
+    },
+    {
+      "q": "Jak udělat vegetariánskou miso polévku?",
+      "a": "Instantní dashi bývá z ryb, proto ho nahraď vývarem z řasy kombu a sušených shiitake nebo zeleninovým vývarem. Zbytek receptu zůstává stejný."
+    },
+    {
+      "q": "Jaké miso je na polévku nejlepší?",
+      "a": "Světlé miso je jemné a nasládlé, tmavé je slanější a výraznější. Na první pokus je bezpečnější světlé, případně kombinace obou."
+    }
+  ],
+  "image": "dish-miso-polevka",
+  "vegetarian": false
+}

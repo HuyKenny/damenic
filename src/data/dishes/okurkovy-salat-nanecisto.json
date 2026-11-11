@@ -1,0 +1,17 @@
+{
+  "name": "Okurkový salát s rýžovým octem",
+  "restaurant": "miska-nanecisto",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Tenké plátky okurky nakládané v rýžovém octu s cukrem a sezamem.",
+  "price": 5900,
+  "image": "dish-okurkovy-salat-nanecisto",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    11
+  ],
+  "order": 70
+}

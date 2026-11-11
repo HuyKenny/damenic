@@ -1,0 +1,191 @@
+{
+  "title": "Tacos s mletým masem",
+  "keywords": [
+    "tacos recept",
+    "tacos s mletým masem",
+    "domácí tacos",
+    "mexické tacos recept"
+  ],
+  "intro": "Dvanáct tacos s kořeněným mletým hovězím, čerstvou rajčatovou salsou a zakysanou smetanou, hotových asi za čtyřicet minut. Rozhoduje opečené maso a nahřáté placky, které se nelámou.",
+  "image": "dish-tacos",
+  "category": "mexicka",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 10,
+  "difficulty": "snadné",
+  "tips": [
+    "Nahřáté placky drž v utěrce; vychladlé se při přeložení lámou.",
+    "Kdo má rád ostřejší, dá na tacos pár kousků nakládaných jalapeños nebo kapku pálivé omáčky."
+  ],
+  "substitutions": [
+    "Místo malých tortill můžeš rozpůlit velké, nebo použít kukuřičné placky.",
+    "Hovězí jde nahradit mletým krůtím nebo kuřecím masem; opékej ho o něco kratší dobu."
+  ],
+  "faq": [
+    {
+      "q": "Jaké tortilly koupit na tacos?",
+      "a": "Ideální jsou malé kukuřičné placky kolem 15 cm. Pšeničné jsou snáz k sehnání a fungují taky, jen jsou měkčí a méně výrazné."
+    },
+    {
+      "q": "Jaké koření na tacos?",
+      "a": "Základ je římský kmín, sladká a uzená paprika, oregano a chilli. Hotové směsi na tacos bývají podobné, jen s větším podílem soli."
+    },
+    {
+      "q": "Jak zabránit, aby se tacos rozpadaly?",
+      "a": "Placky nahřej, dej do nich méně náplně a maso nechej bez šťávy. Někdo skládá dvě placky na sebe."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 500,
+      "unit": "g",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 250,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Salsa"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Salsa"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaný",
+      "group": "Salsa"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva, půlka do salsy",
+      "group": "Salsa"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Salsa"
+    },
+    {
+      "ingredient": "tortilly",
+      "amount": 12,
+      "unit": "ks",
+      "note": "malé, asi 15 cm",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "ledovy-salat",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "na proužky",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 150,
+      "unit": "g",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Maso",
+      "text": "Na pánvi rozpal olej a maso opékej na prudkém ohni 6 až 8 minut, dokud se neodpaří voda a nezačne hnědnout. Rozbíjej ho na drobné kousky."
+    },
+    {
+      "section": "Maso",
+      "text": "Přidej cibuli a opékej 3 minuty, pak česnek, všechno koření a protlak a míchej minutu. Podlij vodou, osol a duš 5 minut, dokud maso není šťavnaté, ale bez tekutiny."
+    },
+    {
+      "section": "Salsa",
+      "text": "Rajčata, cibuli a koriandr smíchej se šťávou z půlky limetky a se špetkou soli. Zbytek limetky nakrájej na měsíčky."
+    },
+    {
+      "section": "Skládání",
+      "text": "Tortilly nahřívej po jedné na suché pánvi asi 20 sekund z každé strany a zabal je do utěrky."
+    },
+    {
+      "section": "Skládání",
+      "text": "Na každou placku dej salát, lžíci masa, salsu a trochu zakysané smetany. Podávej s měsíčky limetky."
+    }
+  ],
+  "waitMinutes": 0
+}

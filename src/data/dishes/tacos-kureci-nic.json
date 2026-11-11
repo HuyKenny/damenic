@@ -1,0 +1,64 @@
+{
+  "name": "Tacos s kořeněným kuřetem, 3 ks",
+  "restaurant": "taqueria-nic-noveho",
+  "kind": "main",
+  "section": "Tacos",
+  "price": 17900,
+  "description": "Tři tortilly s drobně nakrájeným opečeným kuřetem, salátem, salsou a limetkou.",
+  "about": [
+    "Stejná taco skládačka, jen s kuřetem. Maso se krájí nadrobno, koření se stejně jako hovězí a opeká se prudce, aby nepustilo šťávu.",
+    "Kuře je jemnější, takže víc vynikne salsa. Kdo chce, dá si zelenou s limetkou místo rajčatové."
+  ],
+  "recipe": "tacos",
+  "recipeNote": "Recept je s hovězím; místo něj použij 500 g kuřecích stehen nakrájených nadrobno.",
+  "image": "dish-tacos-kureci-nic",
+  "optionGroups": [
+    {
+      "id": "salsa",
+      "name": "Salsa",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "pico",
+          "name": "Rajčatová pico de gallo",
+          "priceDelta": 0
+        },
+        {
+          "id": "verde",
+          "name": "Zelená s limetkou",
+          "priceDelta": 0
+        },
+        {
+          "id": "palava",
+          "name": "Pálivá chipotle",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "taco",
+          "name": "Čtvrté taco",
+          "priceDelta": 5500
+        },
+        {
+          "id": "syr",
+          "name": "Strouhaný sýr",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 20
+}

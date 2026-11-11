@@ -1,0 +1,14 @@
+{
+  "name": "Jasmínová rýže",
+  "restaurant": "kokos-nedorazil",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Dušená jasmínová rýže. Voní po celé kuchyni, k tobě nedolétne.",
+  "price": 3900,
+  "image": "dish-jasminova-ryze-kokos",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 70
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Hovězí burger se slaninou a BBQ omáčkou",
+  "restaurant": "udirna-odnikud",
+  "kind": "main",
+  "section": "Burgery",
+  "description": "Hovězí plátek 150 g, křupavá slanina, cheddar, červená cibule a BBQ omáčka z kečupu, medu a uzené papriky.",
+  "about": [
+    "Hovězí klasika udírny. Slaninu opékáme dokřupava zvlášť, aby ve vrstvách burgeru nezměkla, a BBQ omáčku vaříme ze stejného základu jako k vepřovému.",
+    "Na plátek dáváme cheddar ještě na pánvi, aby se roztekl do slaniny."
+  ],
+  "price": 26900,
+  "image": "dish-bbq-slanina-udirna",
+  "recipe": "burger-slanina-bbq",
+  "optionGroups": [
+    {
+      "id": "propeceni",
+      "name": "Propečení",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "stredne",
+          "name": "Středně propečené",
+          "priceDelta": 0
+        },
+        {
+          "id": "propecene",
+          "name": "Propečené",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bez",
+          "name": "Bez přílohy",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 5900
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "slanina",
+          "name": "Slanina navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "vejce",
+          "name": "Sázené vejce",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    4,
+    7,
+    11
+  ],
+  "order": 40
+}

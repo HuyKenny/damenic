@@ -1,0 +1,147 @@
+{
+  "title": "Lívance",
+  "keywords": [
+    "lívance recept",
+    "recept na lívance",
+    "kynuté lívance",
+    "lívance s tvarohem"
+  ],
+  "intro": "Asi dvacet kynutých lívanců s džemem a slazeným tvarohem, hotových za hodinu a půl i s kynutím. Výsledek závisí na dobře vzešlém těstě a na pánvi rozpálené jen na střední teplotu.",
+  "image": "dish-livance",
+  "category": "palacinky",
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 0,
+  "waitMinutes": 45,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "snadné",
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 400,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 20,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "note": "vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na smažení",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "dzem-merunkovy",
+      "amount": 200,
+      "unit": "g",
+      "note": "nebo povidla",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozdrob do 100 ml vlažného mléka, přidej lžíci cukru a lžíci mouky a nech 10 minut v teple vzejít."
+    },
+    {
+      "section": "Těsto",
+      "text": "Do mísy dej zbylou mouku, cukr a sůl. Přidej vejce, kvásek, zbylé mléko a rozpuštěné máslo a vařečkou nebo metlou vymíchej husté hladké těsto."
+    },
+    {
+      "section": "Těsto",
+      "text": "Těsto má být hustší než na palačinky a z lžíce má stékat líně, ve stuze. Je-li moc husté, přidej trochu mléka."
+    },
+    {
+      "section": "Kynutí",
+      "text": "Mísu přikryj utěrkou a nech těsto v teple kynout 30 až 40 minut, dokud nezvětší objem a nemá na povrchu bubliny. Pak už ho nemíchej."
+    },
+    {
+      "section": "Smažení",
+      "text": "Pánev nebo lívanečník rozehřej na středním plameni a potři ho olejem. Lžící dávej malé hromádky těsta o průměru asi 8 cm."
+    },
+    {
+      "section": "Smažení",
+      "text": "Smaž asi 2 minuty, dokud se na povrchu neobjeví bublinky a okraje nezatuhnou. Obrať a smaž ještě minutu dozlatova."
+    },
+    {
+      "section": "Podávání",
+      "text": "Tvaroh rozmíchej s moučkovým cukrem, případně se lžící mléka, do krému."
+    },
+    {
+      "section": "Podávání",
+      "text": "Lívance podávej teplé, potřené džemem nebo povidly a s lžící slazeného tvarohu."
+    }
+  ],
+  "tips": [
+    "Při příliš silném plameni lívance zvenku zhnědnou a uvnitř zůstanou syrové. Střední teplota je správná.",
+    "Těsto nabírej lžící od okraje mísy, bubliny uprostřed tak zůstanou nedotčené."
+  ],
+  "substitutions": [
+    "Místo polohrubé mouky jde hladká; těsto pak bude o něco hladší a lívance jemnější.",
+    "Část mléka lze nahradit podmáslím, lívance budou mírně nakyslé."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat lívance bez droždí?",
+      "a": "Droždí nahraď sáčkem kypřicího prášku a těsto hned smaž, bez kynutí. Výsledek se blíží americkým palačinkám."
+    },
+    {
+      "q": "Proč jsou lívance placaté?",
+      "a": "Těsto nedokynulo, bylo řídké, nebo se po vykynutí znovu promíchalo a ztratilo bubliny."
+    },
+    {
+      "q": "Jak dlouho vydrží lívance?",
+      "a": "Do druhého dne v uzavřené nádobě. Ohřej je na suché pánvi nebo krátce v troubě."
+    }
+  ],
+  "vegetarian": true
+}

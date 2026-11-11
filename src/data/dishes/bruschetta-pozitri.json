@@ -1,0 +1,59 @@
+{
+  "name": "Bruschetta z ciabatty",
+  "restaurant": "lahudky-pozitri",
+  "kind": "main",
+  "section": "Z teplé vitríny",
+  "description": "Tři plátky opečené ciabatty s rajčaty, česnekem, bazalkou a olivovým olejem, skládané až při výdeji.",
+  "about": [
+    "V lahůdkách se bruschetta skládá až na pultu: chléb se opéká předem, rajčata čekají scezená v míse a spojí se teprve ve chvíli, kdy si o ně řekneš.",
+    "Doma udělej totéž. Ciabatta je vzdušnější než venkovský chléb, takže ji opékej kratší dobu, ať jen zezlátne a uvnitř zůstane měkká."
+  ],
+  "price": 12900,
+  "image": "dish-bruschetta-pozitri",
+  "recipe": "bruschetta",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "3ks",
+          "name": "3 plátky",
+          "priceDelta": 0
+        },
+        {
+          "id": "6ks",
+          "name": "6 plátků",
+          "priceDelta": 9900
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "mozzarella",
+          "name": "Natrhaná mozzarella",
+          "priceDelta": 3500
+        },
+        {
+          "id": "olivy",
+          "name": "Černé olivy",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    1
+  ],
+  "order": 10
+}

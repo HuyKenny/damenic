@@ -1,0 +1,130 @@
+{
+  "title": "French toast",
+  "keywords": [
+    "french toast recept",
+    "francouzský toast",
+    "french toast",
+    "sladký toast s vejcem"
+  ],
+  "intro": "Dvě porce sladkého french toastu z pánve s borůvkami a javorovým sirupem za 20 minut. Záleží na den starém pečivu a na středním plameni, aby se vnitřek stihl propéct.",
+  "image": "dish-french-toast",
+  "category": "snidane",
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "toustovy-chleb",
+      "amount": 200,
+      "unit": "g",
+      "note": "asi 6 plátků, nejlépe den starý",
+      "group": "Toasty"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Toasty"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Toasty"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Toasty"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "note": "půl sáčku",
+      "group": "Toasty"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Toasty"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Toasty"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Toasty"
+    },
+    {
+      "ingredient": "boruvky",
+      "amount": 125,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "javorovy-sirup",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V mělké misce prošlehej vejce, mléko, cukr, vanilkový cukr, skořici a sůl, aby v nich nezůstaly šmouhy bílku."
+    },
+    {
+      "text": "Troubu zapni na 100 °C, bude v ní čekat hotová dávka. Na pánvi rozpusť na středním plameni třetinu másla, až přestane pěnit."
+    },
+    {
+      "text": "Plátek chleba ponoř do vaječné směsi z každé strany na 10 až 15 sekund. Má nasáknout, ale nerozpadnout se; přebytek nech okapat."
+    },
+    {
+      "text": "Plátky opékej 2 až 3 minuty z každé strany, dokud nejsou zlatohnědé a při zmáčknutí z nich nevytéká tekutá směs."
+    },
+    {
+      "text": "Hotové toasty dej do teplé trouby a další dávku opeč na dalším másle."
+    },
+    {
+      "text": "Podávej s borůvkami, přelité javorovým sirupem a poprášené moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Čerstvé pečivo nasákne moc a rozpadá se. Když máš jen čerstvé, nech plátky 20 minut volně oschnout.",
+    "Máslo hlídej; když začne tmavnout, otři pánev papírovou utěrkou a dej nové."
+  ],
+  "substitutions": [
+    "Toustový chléb nahradíš silnějšími plátky briošky nebo vánočky.",
+    "Javorový sirup vyměníš za med nebo bílý jogurt s ovocem."
+  ],
+  "faq": [
+    {
+      "q": "Proč je french toast uvnitř rozmáčený?",
+      "a": "Pečivo bylo moc čerstvé, nasákalo příliš dlouho nebo byl plamen moc silný a povrch se opekl dřív, než se propekl vnitřek. Použij den staré pečivo a střední plamen."
+    },
+    {
+      "q": "Jaké pečivo je na french toast nejlepší?",
+      "a": "Silnější plátky briošky, vánočky nebo toustového chleba. Vláčné, lehce sladké pečivo nasákne rovnoměrně."
+    },
+    {
+      "q": "Jaký je rozdíl mezi french toast a chudými rytíři?",
+      "a": "Jde v podstatě o stejné jídlo. Chudí rytíři se v Česku často dělají z rohlíku nebo veky a smaží se na víc tuku."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "title": "Crème brûlée",
+  "keywords": [
+    "crème brûlée recept",
+    "creme brulee recept",
+    "krém brulé",
+    "vanilkový krém s karamelem"
+  ],
+  "intro": "Čtyři formičky vanilkového krému s křupavým karamelem, s 40 minutami pečení a 4 hodinami v lednici. Rozhoduje nízká teplota ve vodní lázni a karamelizace až těsně před podáváním.",
+  "image": "dish-creme-brulee",
+  "category": "dezerty",
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 40,
+  "waitMinutes": 250,
+  "waitLabel": "louhování vanilky a tuhnutí v lednici",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 400,
+      "unit": "ml",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "vanilka-lusk",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "jen žloutky",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "horká, do vodní lázně",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 4,
+      "unit": "lzicka",
+      "note": "na karamel, krystal nebo třtinový",
+      "group": "Karamel"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Krém",
+      "text": "Troubu předehřej na 150 °C horní a spodní ohřev (140 °C horkovzduch). Čtyři nízké formičky o objemu asi 150 ml postav do pekáče s vyšším okrajem a postav vodu na čaj."
+    },
+    {
+      "section": "Krém",
+      "text": "Lusk podélně rozřízni, vyškrab semínka a se smetanou i luskem je zahřej v kastrolu těsně pod bod varu. Odstav, přikryj a nech 10 minut louhovat."
+    },
+    {
+      "section": "Krém",
+      "text": "Žloutky rozmíchej s cukrem metlou jen do spojení, nešlehej je do pěny. Lusk ze smetany vylov a smetanu za stálého míchání vlévej do žloutků pomalým proudem."
+    },
+    {
+      "section": "Krém",
+      "text": "Krém přeceď přes sítko do konvičky, lžící seber pěnu z povrchu a rozlij ho do formiček."
+    },
+    {
+      "section": "Pečení",
+      "text": "Pekáč postav do trouby a nalij do něj horkou vodu do poloviny výšky formiček. Peč 30 až 40 minut."
+    },
+    {
+      "section": "Pečení",
+      "text": "Krém je hotový, když jsou okraje ztuhlé a střed se po zatřesení chvěje jako želé; teploměr by ve středu ukázal asi 80 °C. Formičky vyndej z vody a nech vychladnout."
+    },
+    {
+      "section": "Pečení",
+      "text": "Vychladlé formičky zakryj a dej aspoň na 4 hodiny do lednice."
+    },
+    {
+      "section": "Karamel",
+      "text": "Povrch krému osuš papírovou utěrkou a každou formičku rovnoměrně posyp lžičkou cukru. Cukr opal plynovým hořákem dozlatova, nech karamel minutu ztuhnout a podávej."
+    }
+  ],
+  "tips": [
+    "Bílky zamraz v krabičce a použij je později na pusinky nebo do omelety.",
+    "Vrstva cukru má být tenká a rovnoměrná. Tlustá vrstva se navrchu spálí a dole zůstane sypká."
+  ],
+  "substitutions": [
+    "Vanilkový lusk nahradíš lžičkou kvalitního vanilkového extraktu, vmíchaného až do horké smetany.",
+    "Až 100 ml smetany můžeš nahradit mlékem. Krém bude řidší a méně sametový."
+  ],
+  "faq": [
+    {
+      "q": "Jak zkaramelizovat crème brûlée bez hořáku?",
+      "a": "Vychlazené formičky s cukrem dej co nejblíž pod gril rozpálený na maximum a hlídej je 2 až 4 minuty. Krém se přitom zahřeje, proto ho pak vrať na 15 minut do lednice."
+    },
+    {
+      "q": "Proč je krém vodový nebo zrnitý?",
+      "a": "Vodový krém je nedopečený, zrnitý se pekl moc horce a žloutky se srazily. Drž se 150 °C a vodní lázně a kontroluj ho od 30. minuty."
+    },
+    {
+      "q": "Jak dlouho crème brûlée vydrží?",
+      "a": "Upečené formičky bez karamelu vydrží v lednici zakryté 2 až 3 dny. Cukr opaluj až před podáváním, jinak karamel změkne."
+    }
+  ]
+}

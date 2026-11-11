@@ -1,0 +1,18 @@
+{
+  "name": "Opečený kváskový chléb s máslem",
+  "restaurant": "odlozeny-budik",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Dva krajíce opečené dozlatova a kostička másla. Nejrychlejší položka v menu, i tak nedorazí.",
+  "price": 4900,
+  "image": "dish-opeceny-chleb-budik",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 70
+}

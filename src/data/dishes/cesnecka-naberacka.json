@@ -1,0 +1,59 @@
+{
+  "name": "Česnečka na zahřátí",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Hustší česnečka s brambory a rozšlehaným vejcem, se strouhaným sýrem a krutony zvlášť v sáčku.",
+  "about": [
+    "Tahle česnečka je hustší, protože část brambor se v hrnci rozmačká o stěnu. Vejce se do ní vlévá tenkým pramínkem a srazí se na jemné nitky, takže polévka zbělá a je sytější.",
+    "Česnek přichází až na konci, když polévka nevře, aby neztratil ostrost. Krutony balíme zvlášť, aby nezměkly cestou, kterou stejně nikdy nepojedou."
+  ],
+  "price": 9900,
+  "image": "dish-cesnecka-naberacka",
+  "recipe": "cesnecka",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standard",
+          "name": "Miska 0,35 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Miska 0,5 l",
+          "priceDelta": 2500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-vejce",
+          "name": "Bez vejce",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-syra",
+          "name": "Bez sýra",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 20
+}

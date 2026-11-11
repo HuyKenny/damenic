@@ -1,0 +1,60 @@
+{
+  "name": "Zeleninová futomaki, 8 ks",
+  "restaurant": "rolka-priste",
+  "kind": "main",
+  "section": "Rolky",
+  "description": "Silná rolka s omeletou, mrkví, okurkou a avokádem, bez ryby.",
+  "about": [
+    "Futomaki je tlustá rolka s několika náplněmi najednou. Zeleninová verze s proužky omelety je sytá i bez ryby.",
+    "Omeletu usmaž tenkou a nech ji vychladnout, teplá by rýži rozměkčila. Mrkev nakrájej co nejtenčeji."
+  ],
+  "price": 14900,
+  "image": "dish-futomaki-zelenina-priste",
+  "recipe": "domaci-sushi",
+  "recipeNote": "Podle receptu na maki, jen místo lososa dej proužky omelety, mrkev a víc avokáda.",
+  "optionGroups": [
+    {
+      "id": "omacka",
+      "name": "Omáčka",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "sojova",
+          "name": "Sójová",
+          "priceDelta": 0
+        },
+        {
+          "id": "sladka",
+          "name": "Sladká sójová",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "wasabi",
+          "name": "Bez wasabi",
+          "priceDelta": 0
+        },
+        {
+          "id": "zazvoru",
+          "name": "Bez zázvoru",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    3,
+    6
+  ],
+  "order": 30
+}

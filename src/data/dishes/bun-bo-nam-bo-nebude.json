@@ -1,0 +1,77 @@
+{
+  "name": "Bún bò Nam Bộ",
+  "restaurant": "pho-nebude",
+  "kind": "main",
+  "section": "Nudle a rýže",
+  "description": "Vlažné rýžové nudle s hovězím opečeným s citronovou trávou, salátem, mátou, praženými arašídy a zálivkou nuoc cham.",
+  "about": [
+    "Bún bò Nam Bộ je nudlový salát z jihu Vietnamu, žádná polévka. Teplé maso s výpekem se klade na studenou zeleninu a nudle, takže miska je vlažná.",
+    "Všechno se promíchá až před jídlem se zálivkou z rybí omáčky, limetky a cukru. Kdo nesnese arašídy, může je v simulaci odebrat, v receptu je stačí vynechat."
+  ],
+  "price": 19900,
+  "image": "dish-bun-bo-nam-bo-nebude",
+  "recipe": "bun-bo-nam-bo",
+  "optionGroups": [
+    {
+      "id": "zalivka",
+      "name": "Zálivka",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        },
+        {
+          "id": "paliva",
+          "name": "Pálivější s chilli",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "hovezi",
+          "name": "Více hovězího",
+          "priceDelta": 6000
+        },
+        {
+          "id": "zavitek",
+          "name": "Jarní závitek 1 ks",
+          "priceDelta": 3500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "arasidu",
+          "name": "Bez arašídů",
+          "priceDelta": 0
+        },
+        {
+          "id": "koriandru",
+          "name": "Bez koriandru",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    4,
+    5
+  ],
+  "order": 30
+}

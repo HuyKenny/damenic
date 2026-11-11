@@ -1,0 +1,62 @@
+{
+  "name": "Miska sushi rýže s avokádem a okurkou",
+  "restaurant": "onigiri-neurcito",
+  "kind": "main",
+  "section": "Bento",
+  "description": "Ochucená sushi rýže s avokádem, okurkou, nori a sezamem, se sójovou omáčkou.",
+  "about": [
+    "Rýžová miska bez ryby je nejjednodušší cesta k chuti sushi. Rýže se ochucuje octem, cukrem a solí a podává se vlažná.",
+    "Navrch dej, co máš rád: avokádo a okurka jsou základ, hodí se i edamame nebo nakládaná ředkev."
+  ],
+  "price": 15900,
+  "image": "dish-miska-avokado-neurcito",
+  "recipe": "sushi-ryze",
+  "recipeNote": "Recept je na sushi rýži, avokádo a okurku nakrájej navrch.",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "normal",
+          "name": "Normální",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká",
+          "priceDelta": 4000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "edamame",
+          "name": "Edamame",
+          "priceDelta": 2500
+        },
+        {
+          "id": "tofu",
+          "name": "Opečené tofu",
+          "priceDelta": 3000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "order": 50
+}

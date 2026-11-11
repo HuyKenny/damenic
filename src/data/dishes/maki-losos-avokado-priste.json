@@ -1,0 +1,61 @@
+{
+  "name": "Losos a avokádo maki, 8 ks",
+  "restaurant": "rolka-priste",
+  "kind": "main",
+  "section": "Rolky",
+  "description": "Rolka s lososem k syrové konzumaci, avokádem a okurkou, se sójovou omáčkou a nakládaným zázvorem.",
+  "about": [
+    "Losos s avokádem je kombinace, která sedí: tučná ryba, máslové avokádo a křupavá okurka pro kontrast.",
+    "Doma je nejtěžší nepřeplnit rolku. Řada náplně by neměla být silnější než palec, jinak se nori roztrhne."
+  ],
+  "price": 17900,
+  "image": "dish-maki-losos-avokado-priste",
+  "recipe": "domaci-sushi",
+  "optionGroups": [
+    {
+      "id": "posyp",
+      "name": "Posyp",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bez",
+          "name": "Bez posypu",
+          "priceDelta": 0
+        },
+        {
+          "id": "sezam",
+          "name": "Pražený sezam",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "majoneza",
+          "name": "Pikantní majonéza",
+          "priceDelta": 1500
+        },
+        {
+          "id": "avokado",
+          "name": "Avokádo navíc",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    4,
+    6,
+    11
+  ],
+  "featured": true,
+  "order": 10
+}

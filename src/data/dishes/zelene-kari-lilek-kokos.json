@@ -1,0 +1,63 @@
+{
+  "name": "Zelené kari s lilkem a thajskou bazalkou",
+  "restaurant": "kokos-nedorazil",
+  "kind": "main",
+  "section": "Kari a nudle",
+  "description": "Zelené kokosové kari s lilkem, kafírovými listy a bazalkou. Bílkovinu si vybereš, rýže je v ceně.",
+  "about": [
+    "Lilek v kari nasaje kokosové mléko a změkne do krémova. Proto se přidává ve větších kostkách.",
+    "Hotové kari pasty často obsahují krevetovou pastu, i když se jídlo jmenuje zeleninové. Kdo se jí vyhýbá, ať čte složení."
+  ],
+  "price": 20900,
+  "image": "dish-zelene-kari-lilek-kokos",
+  "recipe": "zelene-kari",
+  "optionGroups": [
+    {
+      "id": "bilkovina",
+      "name": "Bílkovina",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kure",
+          "name": "Kuřecí maso",
+          "priceDelta": 0
+        },
+        {
+          "id": "tofu",
+          "name": "Tofu",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredne",
+          "name": "Pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Thajsky pálivé",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    2,
+    4
+  ],
+  "order": 40
+}

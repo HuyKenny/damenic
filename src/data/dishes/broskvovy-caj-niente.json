@@ -1,0 +1,15 @@
+{
+  "name": "Ledový čaj broskev 0,5 l",
+  "restaurant": "pasta-bar-niente",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Vychlazený černý čaj s broskvovou šťávou, mírně slazený.",
+  "price": 5500,
+  "image": "dish-broskvovy-caj-niente",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 90
+}

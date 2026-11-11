@@ -1,0 +1,38 @@
+{
+  "name": "Jídelna Zítra Možná",
+  "category": "ceska",
+  "cuisine": "Polední menu",
+  "tagline": "Dnešní menu vydáváme zítra. Možná.",
+  "description": "Smyšlená závodní jídelna s polední nabídkou, tácy a omáčkou až po okraj talíře. Objednáš si u výdejního okénka, které neexistuje, a místo oběda dostaneš recept.",
+  "etaMinutes": 20,
+  "deliveryFee": 2900,
+  "minOrder": 0,
+  "priceLevel": 1,
+  "hours": {
+    "open": "10:30",
+    "close": "15:00"
+  },
+  "pickup": true,
+  "tags": [
+    "rodinné porce"
+  ],
+  "promo": {
+    "type": "percent",
+    "label": "−15 % nad 350 Kč",
+    "percent": 15,
+    "minSubtotal": 35000
+  },
+  "logo": {
+    "text": "JZ",
+    "color": "#C8A24A",
+    "ink": "dark"
+  },
+  "cover": "rest-jidelna-zitra-mozna",
+  "sections": [
+    "Polední menu",
+    "Sladké jídlo",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 33
+}

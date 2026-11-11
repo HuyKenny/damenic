@@ -1,0 +1,60 @@
+{
+  "name": "Rizoto se žampiony a hříbky",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Rizoto a gnocchi",
+  "description": "Krémové rizoto z arboria s opečenými žampiony, sušenými hříbky, bílým vínem a parmazánem.",
+  "about": [
+    "Rizoto se nedá uvařit dopředu a nechat čekat, proto ho dobré podniky dělají na objednávku. Rýže se opraží, podlévá horkým vývarem po naběračkách a na konci dostane studené máslo a sýr.",
+    "Hříbky dávají rizotu lesní vůni, žampiony objem a voda z namáčení hub mu dodá chuť, kterou vývar sám nemá. Na talíři má lehce téct, ne držet tvar jako hromádka."
+  ],
+  "price": 22900,
+  "image": "dish-rizoto-houby-domani",
+  "recipe": "rizoto-s-houbami",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná (350 g)",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (480 g)",
+          "priceDelta": 5000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "parmazan",
+          "name": "Parmazán navíc",
+          "priceDelta": 3000
+        },
+        {
+          "id": "rukola",
+          "name": "Hrst rukoly",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    7,
+    9,
+    12
+  ],
+  "order": 50
+}

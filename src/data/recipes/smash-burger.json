@@ -1,0 +1,153 @@
+{
+  "title": "Smash burger",
+  "category": "burgery",
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "vegetarian": false,
+  "keywords": [
+    "smash burger recept",
+    "smash burger doma",
+    "double smash burger",
+    "smashed burger"
+  ],
+  "intro": "Čtyři double smash burgery s tenkými hovězími plackami, cheddarem a omáčkou z majonézy, kečupu a hořčice, hotové asi za 35 minut. Výsledek stojí na hodně rozpálené pánvi a studeném mase s dostatkem tuku.",
+  "ingredients": [
+    {
+      "ingredient": "majoneza",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 80,
+      "unit": "g",
+      "note": "část nasekaná do omáčky, zbytek na plátky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 640,
+      "unit": "g",
+      "note": "s 20 % tuku, studené",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na velmi tenké plátky, volitelně",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "cheddar",
+      "amount": 160,
+      "unit": "g",
+      "note": "8 plátků",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "bulky-burger",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Skládání"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Skládání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Majonézu smíchej s kečupem, hořčicí, lžící nasekaných okurek a špetkou papriky. Zbytek okurek nakrájej na plátky."
+    },
+    {
+      "section": "Příprava",
+      "text": "Maso rozděl na osm koulí po 80 g. Jen je lehce stiskni, nehnětej je a do smažení je drž v lednici."
+    },
+    {
+      "section": "Příprava",
+      "text": "Bulky rozřízni, řezné plochy potři máslem a opeč je na pánvi dozlatova. Odlož je stranou."
+    },
+    {
+      "section": "Smažení",
+      "text": "Litinovou nebo ocelovou pánev, případně plotnu, rozpal na vysoký plamen, dokud z ní nezačne stoupat kouř. Olej nepřidávej, tuk pustí maso."
+    },
+    {
+      "section": "Smažení",
+      "text": "Dej do pánve dvě koule, přikryj je kouskem pečicího papíru a v prvních 10 sekundách je pevnou stěrkou rozmačkej na placky silné asi půl centimetru. Papír sundej, placky osol a opepři, případně na ně přitiskni pár plátků cibule."
+    },
+    {
+      "section": "Smažení",
+      "text": "Smaž bez hýbání asi 2 minuty, dokud okraje nezhnědnou a nevytvoří se tmavá kůrčička. Placky seškrab stěrkou i s kůrkou, obrať a na každou polož plátek cheddaru."
+    },
+    {
+      "section": "Smažení",
+      "text": "Po 30 až 45 sekundách, jakmile sýr změkne, polož jednu placku na druhou a přendej je na spodní půlku bulky. Stejně usmaž zbylé maso, pánev mezi dávkami setři papírovou utěrkou."
+    },
+    {
+      "section": "Skládání",
+      "text": "Horní bulku potři omáčkou, na maso dej plátky okurek, přiklop a podávej hned."
+    }
+  ],
+  "tips": [
+    "Maso mačkej jen jednou a hned na začátku. Pozdější tlačení vytlačí šťávu a placka vyschne.",
+    "Nepřilnavá pánev se na smash burgery nehodí, takovou teplotu její povrch nesnese. Použij litinu, ocel nebo plotnu grilu.",
+    "Na stěrku se maso nelepí, když je studené a mezi ním a stěrkou je pečicí papír."
+  ],
+  "substitutions": [
+    "Cheddar lze nahradit plátkovým eidamem; rozteče se podobně, je jen jemnější.",
+    "Na jednu placku na burger stačí čtyři koule po 120 g, rozmačkej je jen na 1 cm a smaž o minutu déle."
+  ],
+  "faq": [
+    {
+      "q": "Jaké maso na smash burger?",
+      "a": "Mleté hovězí s 15 až 20 % tuku, nejlépe z plece nebo krku. Libové maso se na rozpálené pánvi nezkaramelizuje a vyschne."
+    },
+    {
+      "q": "Proč se mi maso lepí na stěrku?",
+      "a": "Maso je teplé nebo stěrka suchá a špinavá. Drž koule v lednici do poslední chvíle, mačkej přes pečicí papír a stěrku mezi dávkami otři."
+    },
+    {
+      "q": "Čím se liší smash burger od klasického burgeru?",
+      "a": "Klasický burger se tvaruje do silného plátku předem, smash burger se rozmačká až na pánvi do tenké placky. Má proto víc opečené kůrky a propeče se celý za pár minut."
+    }
+  ],
+  "image": "dish-smash-burger"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Okurkový salát s chilli a šalotkou",
+  "restaurant": "kokos-nedorazil",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Okurka, šalotka a chilli v nálevu z octa a cukru.",
+  "price": 4900,
+  "image": "dish-okurkovy-salat-kokos",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 1,
+  "allergens": [],
+  "order": 80
+}

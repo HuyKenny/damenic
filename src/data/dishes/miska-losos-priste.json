@@ -1,0 +1,61 @@
+{
+  "name": "Miska sushi rýže s lososem a edamame",
+  "restaurant": "rolka-priste",
+  "kind": "main",
+  "section": "Misky a teplé",
+  "description": "Ochucená rýže s plátky lososa k syrové konzumaci, vyloupanými edamame, avokádem a sezamem.",
+  "about": [
+    "Miska je rychlejší než rolování a chuť je podobná. Základem je sushi rýže dochucená octem, cukrem a solí.",
+    "Edamame stačí povařit 3 minuty a zchladit. Lososa nakrájej až před podáváním."
+  ],
+  "price": 22900,
+  "image": "dish-miska-losos-priste",
+  "recipe": "sushi-ryze",
+  "recipeNote": "Recept je na sushi rýži. Na ni polož lososa k syrové konzumaci, povařená edamame a avokádo.",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "normal",
+          "name": "Normální",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká",
+          "priceDelta": 5000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "losos",
+          "name": "Losos navíc",
+          "priceDelta": 7000
+        },
+        {
+          "id": "avokado",
+          "name": "Avokádo navíc",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    4,
+    6,
+    11
+  ],
+  "order": 40
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Ředěná ovocná šťáva 0,3 l",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Malinová šťáva ředěná vodou v poměru, o kterém se ve frontě u okénka vedou spory.",
+  "price": 2000,
+  "image": "dish-stava-jidelna",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 100
+}

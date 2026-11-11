@@ -1,0 +1,60 @@
+{
+  "name": "Samosy s bramborami a hráškem",
+  "restaurant": "masala-mozna",
+  "kind": "main",
+  "section": "Pouliční jídlo",
+  "price": 12900,
+  "description": "Čtyři smažené taštičky z křehkého těsta s kořeněnými bramborami, hráškem a koriandrem. S tamarindovým nebo mátovým dipem.",
+  "about": [
+    "Samosa je indická svačina z ulice: křehké těsto bez droždí, náplň z rozmačkaných brambor s hráškem, zázvorem a chilli a pomalé smažení, které z ní udělá křupavý trojúhelník.",
+    "Těsto i náplň jsou bez živočišných surovin. Doma je nejpracnější tvarování, ale po třetím kusu už to jde samo."
+  ],
+  "recipe": "samosa",
+  "image": "dish-samosa",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "4",
+          "name": "4 kusy",
+          "priceDelta": 0
+        },
+        {
+          "id": "6",
+          "name": "6 kusů",
+          "priceDelta": 5900
+        }
+      ]
+    },
+    {
+      "id": "dip",
+      "name": "Dip",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "tamarind",
+          "name": "Tamarindový",
+          "priceDelta": 0
+        },
+        {
+          "id": "matovy",
+          "name": "Mátový (s jogurtem)",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 1,
+  "allergens": [
+    1
+  ],
+  "featured": true,
+  "order": 10
+}

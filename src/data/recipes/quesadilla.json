@@ -1,0 +1,149 @@
+{
+  "title": "Quesadilla s kuřetem a sýrem",
+  "keywords": [
+    "quesadilla recept",
+    "quesadilla s kuřetem",
+    "domácí quesadilla",
+    "recept na quesadillu"
+  ],
+  "intro": "Čtyři přeložené quesadilly s kuřetem, paprikou a rozteklým sýrem na dvě velké porce, hotové asi za čtyřicet minut. Rozhoduje mírný oheň: placka má zezlátnout až ve chvíli, kdy se sýr uvnitř rozpustí.",
+  "image": "dish-quesadilla",
+  "category": "mexicka",
+  "servings": 2,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "difficulty": "snadné",
+  "tips": [
+    "Sýr dávej dolů i nahoru, slepí obě poloviny a náplň nevypadává.",
+    "Hotové quesadilly drž teplé v troubě na 100 °C, než dopečeš zbytek."
+  ],
+  "substitutions": [
+    "Místo kuřete můžeš dát fazole, kukuřici a žampiony; vznikne bezmasá verze.",
+    "Eidam jde nahradit goudou, cheddarem nebo mozzarellou."
+  ],
+  "faq": [
+    {
+      "q": "Jaký sýr do quesadilly?",
+      "a": "Takový, který se dobře rozpouští a táhne: eidam, gouda, cheddar nebo mozzarella. Tvrdé sýry jako parmazán samotné nestačí."
+    },
+    {
+      "q": "Jak udělat quesadillu bez oleje?",
+      "a": "Na nepřilnavé pánvi to jde bez tuku. Placka bude sušší a méně zlatá, ale sýr se roztaví stejně."
+    },
+    {
+      "q": "Dá se quesadilla ohřát?",
+      "a": "Nejlépe na suché pánvi nebo v troubě na 180 °C asi 5 minut. V mikrovlnce placka změkne."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 300,
+      "unit": "g",
+      "note": "na malé nudličky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na tenké proužky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "na tenké plátky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "jalapenos",
+      "amount": 30,
+      "unit": "g",
+      "note": "nakrájené, nepovinně",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 200,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaný, nepovinně",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "tortilly",
+      "amount": 4,
+      "unit": "ks",
+      "note": "velké",
+      "group": "Placky a podávání"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na potření pánve",
+      "group": "Placky a podávání"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 100,
+      "unit": "g",
+      "group": "Placky a podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Náplň",
+      "text": "Kuře okořeň kmínem, uzenou paprikou a solí. Na pánvi ho opékej na oleji 5 až 6 minut, dokud není propečené, a vyndej ho."
+    },
+    {
+      "section": "Náplň",
+      "text": "Na stejné pánvi opékej papriku s cibulí 4 minuty, aby změkly. Smíchej je s kuřetem."
+    },
+    {
+      "section": "Pečení",
+      "text": "Na polovinu každé tortilly rozprostři čtvrtinu sýra, na něj kuře se zeleninou, jalapeños a koriandr a pak ještě trochu sýra. Volnou polovinu přelož."
+    },
+    {
+      "section": "Pečení",
+      "text": "Pánev lehce potři olejem a quesadillu opékej na středně mírném ohni 2 až 3 minuty z každé strany, dokud není zlatá a sýr rozteklý. Otáčej ji širokou obracečkou a lehce ji přitlač."
+    },
+    {
+      "section": "Pečení",
+      "text": "Nech ji minutu odpočinout, nakrájej na trojúhelníky a podávej se zakysanou smetanou, salsou nebo guacamole."
+    }
+  ],
+  "waitMinutes": 0
+}

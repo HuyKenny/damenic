@@ -1,0 +1,16 @@
+{
+  "name": "Miska čerstvých malin",
+  "restaurant": "sladke-nic",
+  "kind": "side",
+  "section": "K dezertu",
+  "description": "Hrst malin, 125 g. Kyselá protiváha ke všemu, co je tu sladké, včetně prázdného talíře.",
+  "price": 7900,
+  "image": "dish-maliny-sladke",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 80
+}

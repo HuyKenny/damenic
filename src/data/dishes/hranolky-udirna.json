@@ -1,0 +1,34 @@
+{
+  "name": "Hranolky s uzenou paprikou",
+  "restaurant": "udirna-odnikud",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Domácí hranolky smažené dvakrát a posypané solí s uzenou paprikou.",
+  "price": 7900,
+  "image": "dish-hranolky-udirna",
+  "recipe": "domaci-hranolky",
+  "optionGroups": [
+    {
+      "id": "dip",
+      "name": "Dip",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "bbq",
+          "name": "BBQ omáčka",
+          "priceDelta": 0
+        },
+        {
+          "id": "majoneza",
+          "name": "Majonéza",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 80
+}

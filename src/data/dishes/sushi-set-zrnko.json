@@ -1,0 +1,61 @@
+{
+  "name": "Sushi set Bez Zrnka, 24 ks",
+  "restaurant": "sushi-bez-zrnka",
+  "kind": "main",
+  "section": "Maki a sety",
+  "description": "Tři druhy maki: s lososem, s lososem a avokádem a s okurkou, se zázvorem, wasabi a sójovou omáčkou.",
+  "about": [
+    "Set je ukázka toho, co se dá udělat z jedné dávky sushi rýže: tři rolky s různou náplní, každá po osmi kusech.",
+    "Doma si rozvrhni práci tak, aby rýže chladla, zatímco krájíš náplň. Hotové sushi podávej hned, s rybou ho nenech stát v teple."
+  ],
+  "price": 38900,
+  "image": "dish-sushi-set-zrnko",
+  "recipe": "domaci-sushi",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost setu",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "24ks",
+          "name": "24 kusů",
+          "priceDelta": 0
+        },
+        {
+          "id": "32ks",
+          "name": "32 kusů",
+          "priceDelta": 11000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "wasabi",
+          "name": "Wasabi navíc",
+          "priceDelta": 1000
+        },
+        {
+          "id": "zazvor",
+          "name": "Zázvor navíc",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    4,
+    6,
+    11
+  ],
+  "featured": true,
+  "order": 30
+}

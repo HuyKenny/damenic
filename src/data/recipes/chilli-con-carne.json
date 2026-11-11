@@ -1,0 +1,196 @@
+{
+  "title": "Chilli con carne",
+  "keywords": [
+    "chilli con carne recept",
+    "recept na chilli con carne",
+    "chilli con carne s fazolemi",
+    "domácí chilli con carne"
+  ],
+  "intro": "Čtyři až pět porcí hustého chilli z mletého hovězího, fazolí a rajčat, hotové asi za hodinu a tři čtvrtě. Většinu času chilli jen pomalu probublává; chuť dělá opečené maso a koření osmažené před přidáním rajčat.",
+  "image": "dish-chilli-con-carne",
+  "category": "mexicka",
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 75,
+  "difficulty": "snadné",
+  "tips": [
+    "Pálivost lad podle chilli vloček a semínek z papriček. Přidávej je raději postupně, s varem se pálivost ještě rozvine.",
+    "Chilli chutná nejlíp druhý den. V lednici vydrží tři dny a dá se dobře zamrazit.",
+    "Špetka skořice nebo kostička hořké čokolády na konci zjemní kyselost rajčat."
+  ],
+  "substitutions": [
+    "Část mletého masa můžeš nahradit hovězí plecí nakrájenou na kostky; pak vař o hodinu déle.",
+    "Bez masa: místo hovězího dej 400 g červené čočky nebo další plechovku fazolí a zeleninový vývar."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit chilli con carne?",
+      "a": "Aspoň hodinu od přidání rajčat. Kratší vaření jde, ale chilli bude řidší a chutě se tolik nespojí."
+    },
+    {
+      "q": "Jak zahustit chilli con carne?",
+      "a": "Vař ho odkryté o 10 až 15 minut déle nebo rozmačkej část fazolí. Mouka ani škrob nejsou potřeba."
+    },
+    {
+      "q": "Patří do chilli con carne fazole?",
+      "a": "V texaském chilli se nedávají, ve verzi známé v Evropě ano. Tento recept s nimi počítá, ale jdou vynechat."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Chilli"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 600,
+      "unit": "g",
+      "group": "Chilli"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 250,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Chilli"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Chilli"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostičky",
+      "group": "Chilli"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "nadrobno",
+      "group": "Chilli"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Chilli"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Chilli"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Chilli"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Chilli"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "podle pálivosti",
+      "group": "Chilli"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Chilli"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 800,
+      "unit": "g",
+      "note": "2 plechovky",
+      "group": "Chilli"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Chilli"
+    },
+    {
+      "ingredient": "fazole-cervene",
+      "amount": 800,
+      "unit": "g",
+      "note": "2 plechovky, okapané",
+      "group": "Chilli"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Chilli"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Chilli"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 200,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 400,
+      "unit": "g",
+      "note": "nebo rýže",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Maso",
+      "text": "Ve velkém hrnci rozpal olej a mleté maso opékej na prudkém ohni 8 až 10 minut. Rozbíjej ho vařečkou a nech ho dohněda opéct; dokud pouští vodu, jen se dusí."
+    },
+    {
+      "section": "Maso",
+      "text": "Stáhni plamen na střední, přidej cibuli a papriku a opékej 5 minut. Přidej česnek a chilli papričky a míchej minutu."
+    },
+    {
+      "section": "Vaření",
+      "text": "Vmíchej kmín, oba druhy papriky, oregano, chilli vločky a protlak a opékej za stálého míchání minutu."
+    },
+    {
+      "section": "Vaření",
+      "text": "Přidej rajčata, rozmačkej je a zalij vývarem. Přiveď k varu, osol a opepři a vař odkryté na mírném ohni 45 minut za občasného míchání."
+    },
+    {
+      "section": "Vaření",
+      "text": "Vsyp fazole a vař dalších 15 až 20 minut, dokud chilli není husté. Když se moc zahustí dřív, přilij trochu vody. Dochuť solí a chilli."
+    },
+    {
+      "section": "Podávání",
+      "text": "Podávej s lžící zakysané smetany a koriandrem, k tomu chléb nebo rýži."
+    }
+  ],
+  "waitMinutes": 0
+}

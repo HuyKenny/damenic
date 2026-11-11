@@ -1,0 +1,14 @@
+{
+  "name": "Křupavá slanina",
+  "restaurant": "na-lacno",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Čtyři plátky slaniny opečené dokřupava. Voní po celé kavárně, která neexistuje.",
+  "price": 5900,
+  "image": "dish-slanina-lacno",
+  "recipe": null,
+  "optionGroups": [],
+  "spicy": 0,
+  "allergens": [],
+  "order": 70
+}

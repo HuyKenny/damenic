@@ -1,0 +1,156 @@
+{
+  "title": "Vejce Benedikt",
+  "keywords": [
+    "vejce benedikt recept",
+    "vejce benedikt",
+    "holandská omáčka recept",
+    "pošírovaná vejce na muffinu"
+  ],
+  "intro": "Dvě porce vajec Benedikt s pošírovanými vejci, šunkou a holandskou omáčkou za půl hodiny. Rozhodují čerstvá vejce a trpělivost při šlehání omáčky nad párou.",
+  "image": "dish-vejce-benedikt",
+  "category": "snidane",
+  "servings": 2,
+  "activeMinutes": 30,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "vegetarian": false,
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 125,
+      "unit": "g",
+      "group": "Holandská omáčka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen žloutky",
+      "group": "Holandská omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Holandská omáčka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Holandská omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Holandská omáčka"
+    },
+    {
+      "ingredient": "paprika-paliva",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Holandská omáčka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "co nejčerstvější",
+      "group": "Vejce a servírování"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2000,
+      "unit": "ml",
+      "note": "na pošírování",
+      "group": "Vejce a servírování"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Vejce a servírování"
+    },
+    {
+      "ingredient": "anglicke-muffiny",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Vejce a servírování"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 100,
+      "unit": "g",
+      "note": "4 plátky",
+      "group": "Vejce a servírování"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Vejce a servírování"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Vejce a servírování"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Holandská omáčka",
+      "text": "Máslo rozpusť v malém kastrolu a nech ho chvíli stát, aby se na dně usadila bílá syrovátka."
+    },
+    {
+      "section": "Holandská omáčka",
+      "text": "Do kovové nebo skleněné misky dej žloutky, lžíci vody a lžíci citronové šťávy. Misku postav nad hrnec s mírně vroucí vodou tak, aby se dno vody nedotýkalo, a šlehej metlou asi 3 minuty, dokud žloutky nezhoustnou a za metlou nezůstává stopa."
+    },
+    {
+      "section": "Holandská omáčka",
+      "text": "Misku stáhni z páry a za stálého šlehání do ní přilévej tenkým proudem teplé máslo; syrovátku ze dna nech v kastrolu. Omáčku osol, přidej špetku pálivé papriky a podle chuti citron a drž ji v teple nad vypnutou vodou."
+    },
+    {
+      "section": "Vejce",
+      "text": "V širším hrnci přiveď k varu 2 litry vody, přidej ocet a stáhni plamen, aby voda jen lehce probublávala. Každé vejce rozklepni do malého sítka, nech odkapat řídký bílek a přendej ho do misky."
+    },
+    {
+      "section": "Vejce",
+      "text": "Lžící roztoč vodu do víru a do středu opatrně vklouzni vejce. Vař 3 minuty, pak ho vyndej děrovanou lžící na papírovou utěrku. Ostatní připrav stejně, klidně dvě najednou."
+    },
+    {
+      "section": "Servírování",
+      "text": "Muffiny rozpůl a opeč na pánvi nebo v toustovači dozlatova. Šunku krátce ohřej na suché pánvi. Pažitku nasekej."
+    },
+    {
+      "section": "Servírování",
+      "text": "Na každou půlku muffinu dej plátek šunky a pošírované vejce, přelij holandskou omáčkou, posyp pažitkou a pepřem a hned podávej."
+    }
+  ],
+  "tips": [
+    "Pošírovaná vejce můžeš připravit předem: hned po vyndání je dej do studené vody a před podáváním je minutu ohřej v horké vodě.",
+    "Holandská omáčka nesnese přehřátí ani vychladnutí. Drž ji vlažnou, zhruba na teplotě kůže."
+  ],
+  "substitutions": [
+    "Šunku nahradíš uzeným lososem nebo krátce orestovaným baby špenátem, se špenátem je jídlo bez masa.",
+    "Anglické muffiny nahradíš opečeným toustovým chlebem nebo plátkem bagety.",
+    "Pálivou papriku vyměníš za kajenský pepř."
+  ],
+  "faq": [
+    {
+      "q": "Proč se holandská omáčka srazila?",
+      "a": "Žloutky se přehřály nebo máslo šlo dovnitř moc rychle. Zachráníš ji tak, že do čisté misky dáš lžíci teplé vody a sraženou omáčku do ní po lžících zašleháš."
+    },
+    {
+      "q": "Jak pošírovat vejce, aby se nerozteklo?",
+      "a": "Rozhodují čerstvá vejce a odkapání řídkého bílku přes sítko. Voda má jen mírně probublávat, prudký var vejce roztrhá."
+    },
+    {
+      "q": "Čím nahradit anglické muffiny?",
+      "a": "Opečeným toustovým chlebem, plátkem bagety nebo kváskového chleba. Pečivo má být křupavé, aby pod omáčkou hned nezměklo."
+    }
+  ]
+}

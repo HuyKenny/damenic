@@ -1,0 +1,14 @@
+{
+  "name": "Limonáda s okurkou a limetkou 0,4 l",
+  "restaurant": "sushi-bez-zrnka",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Perlivá voda s okurkou, limetkou a trochou cukru.",
+  "price": 5900,
+  "image": "dish-okurkova-limonada-zrnko",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 100
+}

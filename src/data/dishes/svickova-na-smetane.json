@@ -75,5 +75,12 @@
     }
   ],
   "restaurant": "u-prazdneho-talire",
-  "image": "dish-svickova-na-smetane"
+  "image": "dish-svickova-na-smetane",
+  "allergens": [
+    1,
+    3,
+    7,
+    9,
+    10
+  ]
 }

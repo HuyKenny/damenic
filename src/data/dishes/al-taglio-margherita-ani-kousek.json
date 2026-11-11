@@ -1,0 +1,60 @@
+{
+  "name": "Al taglio margherita, 2 kusy",
+  "restaurant": "pinseria-ani-kousek",
+  "kind": "main",
+  "section": "Al taglio",
+  "description": "Dva kusy plechové pizzy s rajčaty a mozzarellou, bazalka navrch po upečení.",
+  "about": [
+    "Pizza al taglio má vyšší a vzdušnější těsto než kulatá pizza, protože se peče na plechu a déle. Mozzarella se na ni dává až v polovině pečení, aby se nespálila.",
+    "Recept na Margheritu funguje i v plechové verzi. Těsto roztáhni na plech, předpeč ho s rajčaty a sýr přidej, až začne okraj zlátnout."
+  ],
+  "price": 13900,
+  "image": "dish-al-taglio-margherita-ani-kousek",
+  "recipe": "pizza-margherita",
+  "recipeNote": "V plechu: sýr přidej až v polovině pečení.",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet kusů",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "2ks",
+          "name": "2 kusy",
+          "priceDelta": 0
+        },
+        {
+          "id": "4ks",
+          "name": "4 kusy",
+          "priceDelta": 12900
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "mozzarella",
+          "name": "Mozzarella navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "rukola",
+          "name": "Rukola",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 50
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Quesadilla se sýrem a jalapeños",
+  "restaurant": "tortillarna-ani-omylem",
+  "kind": "main",
+  "section": "Quesadilly a nachos",
+  "price": 13900,
+  "description": "Tortilla plná rozteklého sýra a nakládaných jalapeños, s rajčatovou salsou. Bez masa.",
+  "about": [
+    "Nejjednodušší quesadilla: jen sýr a jalapeños. Pálivost jalapeños se v roztečeném sýru zjemní, ale nezmizí.",
+    "Bez kuřete je hotová za deset minut. Doma vynech maso a dej o polovinu víc sýra, zbytek receptu platí."
+  ],
+  "recipe": "quesadilla",
+  "recipeNote": "Recept je s kuřetem; vynech ho a dej 300 g sýra a víc jalapeños.",
+  "image": "dish-quesadilla-syrova-ani",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé, dvojité jalapeños",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "fazole",
+          "name": "Fazole",
+          "priceDelta": 1500
+        },
+        {
+          "id": "kukurice",
+          "name": "Kukuřice",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 2,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 20
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Calzone s ricottou a šunkou",
+  "restaurant": "pizzerie-na-dobre-slovo",
+  "kind": "main",
+  "section": "Pizza bianca a calzone",
+  "description": "Přeložená pizza plněná ricottou, mozzarellou a šunkou, s rajčatovou omáčkou na boku.",
+  "about": [
+    "Calzone je pizza přeložená napůl, ve které se náplň peče v páře uvnitř těsta. Ricotta zůstane krémová a mozzarella se protáhne v dlouhých nitích.",
+    "Nejdůležitější je okraj. Když ho pořádně nepřitiskneš, calzone se v troubě otevře a náplň vyteče na plech. Recept ukazuje, jak ho uzavřít."
+  ],
+  "price": 22900,
+  "image": "dish-calzone-dobre-slovo",
+  "recipe": "calzone",
+  "optionGroups": [
+    {
+      "id": "napln",
+      "name": "Náplň",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "sunka",
+          "name": "Šunka",
+          "priceDelta": 0
+        },
+        {
+          "id": "salam",
+          "name": "Pikantní salám",
+          "priceDelta": 1000
+        },
+        {
+          "id": "zampiony",
+          "name": "Žampiony (bez masa)",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "omacka",
+          "name": "Rajčatová omáčka navíc",
+          "priceDelta": 2000
+        },
+        {
+          "id": "mozzarella",
+          "name": "Mozzarella navíc",
+          "priceDelta": 3500
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 60
+}

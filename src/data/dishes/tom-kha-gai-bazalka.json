@@ -1,0 +1,39 @@
+{
+  "name": "Tom kha gai",
+  "restaurant": "pozdni-bazalka",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Kokosová polévka s kuřetem, galangalem, citronovou trávou a houbami, jemná a kyselá zároveň.",
+  "about": [
+    "Tom kha gai je krémovější a mírnější sestra tom yum. Polévka se dochucuje až mimo oheň, aby limetka nezhořkla.",
+    "Kuřecí maso krájej na tenké plátky, v polévce se uvaří za pět minut."
+  ],
+  "price": 16900,
+  "image": "dish-tom-kha-gai-bazalka",
+  "recipe": "tom-kha-gai",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "05",
+          "name": "0,5 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "08",
+          "name": "0,8 l",
+          "priceDelta": 5000
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    4
+  ],
+  "order": 20
+}

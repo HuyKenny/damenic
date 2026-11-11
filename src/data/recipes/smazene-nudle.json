@@ -1,0 +1,177 @@
+{
+  "title": "Smažené nudle",
+  "category": "asijska",
+  "servings": 2,
+  "activeMinutes": 30,
+  "cookMinutes": 5,
+  "waitMinutes": 10,
+  "waitLabel": "marinování masa",
+  "difficulty": "snadné",
+  "keywords": [
+    "smažené nudle recept",
+    "smažené nudle s kuřecím masem",
+    "čínské smažené nudle",
+    "nudle se zeleninou z woku"
+  ],
+  "intro": "Smažené vaječné nudle s kuřecím masem a zeleninou z woku, pro dva asi za 45 minut. Chuť závisí na prudce rozpálené pánvi, malých dávkách a omáčce namíchané předem.",
+  "ingredients": [
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ustricova-omacka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "nudle-vajecne",
+      "amount": 200,
+      "unit": "g",
+      "group": "Nudle, maso a zelenina"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 250,
+      "unit": "g",
+      "group": "Nudle, maso a zelenina"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do marinády",
+      "group": "Nudle, maso a zelenina"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do marinády",
+      "group": "Nudle, maso a zelenina"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Nudle, maso a zelenina"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Nudle, maso a zelenina"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "group": "Nudle, maso a zelenina"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "group": "Nudle, maso a zelenina"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Nudle, maso a zelenina"
+    },
+    {
+      "ingredient": "zeli-pekingske",
+      "amount": 150,
+      "unit": "g",
+      "group": "Nudle, maso a zelenina"
+    },
+    {
+      "ingredient": "fazolove-klicky",
+      "amount": 100,
+      "unit": "g",
+      "group": "Nudle, maso a zelenina"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Nudle, maso a zelenina"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Nudle, maso a zelenina",
+      "text": "Kuřecí maso nakrájej na tenké nudličky, promíchej se lžící sójové omáčky a škrobem a nech 10 minut marinovat."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Smíchej sójovou a ústřicovou omáčku, cukr, sezamový olej a vodu."
+    },
+    {
+      "section": "Nudle, maso a zelenina",
+      "text": "Nudle uvař o minutu kratší než podle obalu, propláchni je studenou vodou, nech okapat a promíchej s lžičkou oleje, aby se nelepily."
+    },
+    {
+      "section": "Nudle, maso a zelenina",
+      "text": "Mrkev a papriku nakrájej na tenké nudličky, zelí na proužky, česnek a zázvor najemno, jarní cibulku na kousky."
+    },
+    {
+      "section": "Nudle, maso a zelenina",
+      "text": "Ve woku nebo velké pánvi rozpal lžíci oleje téměř do kouře, maso v ní orestuj 3 až 4 minuty dozlatova a vyndej ho."
+    },
+    {
+      "section": "Nudle, maso a zelenina",
+      "text": "Přilij zbytek oleje, česnek a zázvor restuj 20 sekund, přidej mrkev a papriku na 2 minuty a pak zelí na minutu."
+    },
+    {
+      "section": "Nudle, maso a zelenina",
+      "text": "Přidej nudle, maso a omáčku a za stálého promíchávání restuj prudce 2 minuty. Nakonec vmíchej klíčky a jarní cibulku a podávej hned."
+    }
+  ],
+  "tips": [
+    "Při dvojnásobném množství smaž ve dvou dávkách. V přeplněném woku zelenina pustí vodu a nudle se zapaří.",
+    "Všechno měj nakrájené a namíchané dřív, než zapneš plotýnku. Samotné smažení trvá jen pár minut."
+  ],
+  "substitutions": [
+    "Vaječné nudle nahradí udon nebo rýžové nudle, rýžové stačí jen namočit podle obalu.",
+    "Ústřicovou omáčku můžeš vynechat a přidat místo ní lžíci sójové omáčky a lžičku cukru navíc."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat, aby se smažené nudle nelepily?",
+      "a": "Uvař je o minutu kratší, propláchni studenou vodou a promíchej s trochou oleje. Do woku je přidávej až na konec a restuj jen krátce."
+    },
+    {
+      "q": "Jaké nudle se hodí na smažení?",
+      "a": "Nejlépe čínské vaječné nudle, které drží tvar. Fungují i udon nebo tenké pšeničné nudle, rýžové jsou křehčí a snadno se lámou."
+    },
+    {
+      "q": "Proč jsou smažené nudle vodnaté?",
+      "a": "Pánev nebyla dost rozpálená nebo v ní bylo příliš mnoho surovin najednou. Zelenina pak pustí šťávu a dusí se. Smaž po menších dávkách na prudkém ohni."
+    }
+  ],
+  "image": "dish-smazene-nudle",
+  "vegetarian": false
+}

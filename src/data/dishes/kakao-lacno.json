@@ -1,0 +1,36 @@
+{
+  "name": "Horké kakao",
+  "restaurant": "na-lacno",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Kakao s horkým mlékem, s pěnou nebo se šlehačkou.",
+  "price": 6900,
+  "image": "dish-kakao-lacno",
+  "recipe": null,
+  "optionGroups": [
+    {
+      "id": "navrch",
+      "name": "Navrch",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "pena",
+          "name": "Mléčná pěna",
+          "priceDelta": 0
+        },
+        {
+          "id": "slehacka",
+          "name": "Šlehačka",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 100
+}

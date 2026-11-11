@@ -1,0 +1,60 @@
+{
+  "name": "Rajská omáčka s hovězím",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Plátky vařeného hovězího zadního v hladké sladkokyselé rajské s nádechem skořice. S houskovým knedlíkem.",
+  "about": [
+    "Rajská je omáčka, na kterou se buď těšíš, nebo ji pamatuješ ze školní jídelny. Hospodská verze stojí na vlastním vývaru, ve kterém se dvě hodiny vařilo maso, a na jíšce, která se s rajčaty provaří tak dlouho, až z ní zmizí moučná chuť.",
+    "Dochucuje se cukrem, octem a špetkou skořice, dokud není zřetelně sladkokyselá. Maso se krájí přes vlákno a ještě pár minut se prohřívá přímo v omáčce."
+  ],
+  "price": 22900,
+  "image": "dish-rajska-omacka",
+  "recipe": "rajska-omacka",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "testoviny",
+          "name": "Těstoviny",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "knedlik-navic",
+          "name": "Dva knedlíky navíc",
+          "priceDelta": 3000
+        },
+        {
+          "id": "maso-navic",
+          "name": "Maso navíc",
+          "priceDelta": 6900
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    9
+  ],
+  "order": 50
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Kakao s mlékem 0,3 l",
+  "restaurant": "livancarna-az-zitra",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Teplé kakao na plnotučném mléce, jako ze školní snídaně, jen bez hrnku s puntíky.",
+  "price": 5900,
+  "image": "dish-kakao-zitra",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 90
+}

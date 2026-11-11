@@ -1,0 +1,83 @@
+{
+  "name": "Teriyaki bowl s kuřecím masem",
+  "restaurant": "miska-nanecisto",
+  "kind": "main",
+  "section": "Teplé misky",
+  "description": "Kuřecí stehna v domácí teriyaki omáčce se zázvorem a česnekem, jasmínová rýže, brokolice, edamame a mrkev, navrch sezam.",
+  "about": [
+    "Naše nejjednodušší miska a zároveň ta, kterou bys doma uvařil nejrychleji. Rýže se vaří, kuře se opéká, omáčka se míchá v hrnečku a za necelou hodinu je hotovo.",
+    "Na stehnech trváme, protože během svařování v omáčce nevyschnou. Prsní řízky by byly sušší a omáčka by na nich tolik nedržela."
+  ],
+  "price": 21900,
+  "image": "dish-teriyaki-bowl",
+  "recipe": "teriyaki-bowl",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná (420 g)",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (580 g)",
+          "priceDelta": 5000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "vejce",
+          "name": "Vejce natvrdo",
+          "priceDelta": 1500
+        },
+        {
+          "id": "avokado",
+          "name": "Avokádo",
+          "priceDelta": 3500
+        },
+        {
+          "id": "cervene-zeli",
+          "name": "Nakládané červené zelí",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-brokolice",
+          "name": "Bez brokolice",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-sezamu",
+          "name": "Bez sezamu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "featured": true,
+  "order": 10
+}

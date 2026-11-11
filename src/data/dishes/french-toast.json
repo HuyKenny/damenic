@@ -1,0 +1,66 @@
+{
+  "name": "French toast s javorovým sirupem",
+  "restaurant": "odlozeny-budik",
+  "kind": "main",
+  "section": "Kaše a sladké",
+  "description": "Tři plátky toastu namočené ve vejci se skořicí, opečené na másle, s ovocem a javorovým sirupem.",
+  "about": [
+    "French toast je sladký příbuzný českých chudých rytířů. Den starý chléb nasákne vajíčkem s mlékem a opeče se na másle tak, aby byl zvenku zlatý a uvnitř vláčný jako pudink.",
+    "Ovoce si vybereš sám. Doma se vyplatí zapnout troubu na 100 °C a hotové plátky v ní držet teplé, než opečeš zbytek."
+  ],
+  "price": 17900,
+  "image": "dish-french-toast",
+  "recipe": "french-toast",
+  "optionGroups": [
+    {
+      "id": "ovoce",
+      "name": "Ovoce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "boruvky",
+          "name": "Borůvky",
+          "priceDelta": 0
+        },
+        {
+          "id": "banan",
+          "name": "Banán",
+          "priceDelta": 0
+        },
+        {
+          "id": "jahody",
+          "name": "Jahody",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "slanina",
+          "name": "Křupavá slanina",
+          "priceDelta": 3500
+        },
+        {
+          "id": "sirup",
+          "name": "Javorový sirup navíc",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 60
+}

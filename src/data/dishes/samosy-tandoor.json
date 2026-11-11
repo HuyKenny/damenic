@@ -1,0 +1,42 @@
+{
+  "name": "Samosy, 3 ks",
+  "restaurant": "tandoor-nanecisto",
+  "kind": "main",
+  "section": "Biryani a předkrmy",
+  "price": 13900,
+  "description": "Smažené taštičky z křehkého těsta plněné bramborami, hráškem a kořením, s mátovým čatní.",
+  "about": [
+    "Samosy jsou předkrm, který se snadno stane obědem. Křehké těsto se plní kořeněnými bramborami s hráškem, tvaruje do trojúhelníků a smaží pomalu, aby bylo křupavé i po vychladnutí.",
+    "Tři kusy stačí na menší hlad nebo na sdílení před kari. Recept je na šestnáct, takže doma zbudou i na zítra."
+  ],
+  "recipe": "samosa",
+  "recipeNote": "Recept je na 16 kusů; těsto i náplň jsou stejné.",
+  "image": "dish-samosy-tandoor",
+  "optionGroups": [
+    {
+      "id": "dip",
+      "name": "Dip",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "matove",
+          "name": "Mátové čatní",
+          "priceDelta": 0
+        },
+        {
+          "id": "jogurt",
+          "name": "Bílý jogurt",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 1,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 60
+}

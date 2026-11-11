@@ -1,0 +1,90 @@
+{
+  "name": "Pulled pork burger s coleslaw",
+  "restaurant": "udirna-odnikud",
+  "kind": "main",
+  "section": "Pulled pork",
+  "description": "Vepřová plec pečená pět hodin, natrhaná a promíchaná s domácí BBQ omáčkou, coleslaw a nakládané okurky v opečené bulce.",
+  "about": [
+    "Maso potíráme směsí uzené papriky, třtinového cukru a koření a pečeme ho při nízké teplotě tak dlouho, až se samo rozpadá. Pak ho trháme vidličkami a mícháme s omáčkou, ve které je i šťáva z pekáče.",
+    "Coleslaw tu nehraje roli přílohy, ale protiváhy: kyselé křupavé zelí vyrovná sladké tučné maso. Doma počítej s celým odpolednem, většinu času ale pracuje trouba."
+  ],
+  "price": 25900,
+  "image": "dish-pulled-pork-burger",
+  "recipe": "pulled-pork-burger",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bez",
+          "name": "Bez přílohy",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky s uzenou paprikou",
+          "priceDelta": 5900
+        },
+        {
+          "id": "coleslaw",
+          "name": "Coleslaw navíc",
+          "priceDelta": 4500
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "maso",
+          "name": "Dvojitá porce masa",
+          "priceDelta": 7900
+        },
+        {
+          "id": "cheddar",
+          "name": "Cheddar",
+          "priceDelta": 2500
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-coleslaw",
+          "name": "Bez coleslaw",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-okurek",
+          "name": "Bez okurek",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    3,
+    4,
+    10,
+    11
+  ],
+  "featured": true,
+  "order": 10
+}

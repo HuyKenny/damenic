@@ -1,0 +1,66 @@
+{
+  "name": "Vejce Benedikt na anglickém muffinu",
+  "restaurant": "na-lacno",
+  "kind": "main",
+  "section": "Brunch",
+  "description": "Opečený anglický muffin, šunka od kosti, pošírovaná vejce a holandská omáčka s pažitkou.",
+  "about": [
+    "Benedikt je hlavní důvod, proč kavárny dělají brunch. Talíř se skládá na poslední chvíli: teplé pečivo, šunka, vejce s tekutým žloutkem a omáčka, která všechno spojí.",
+    "Můžeš si vybrat lososa nebo špenát místo šunky. Holandskou omáčku zvládneš doma s jednou miskou nad hrncem horké vody a metlou."
+  ],
+  "price": 24900,
+  "image": "dish-benedikt-lacno",
+  "recipe": "vejce-benedikt",
+  "optionGroups": [
+    {
+      "id": "varianta",
+      "name": "Varianta",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "sunka",
+          "name": "Se šunkou",
+          "priceDelta": 0
+        },
+        {
+          "id": "losos",
+          "name": "S uzeným lososem",
+          "priceDelta": 4000
+        },
+        {
+          "id": "spenat",
+          "name": "Se špenátem",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "K tomu",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "salat",
+          "name": "Malý listový salát",
+          "priceDelta": 3500
+        },
+        {
+          "id": "slanina",
+          "name": "Slanina",
+          "priceDelta": 3500
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": true,
+  "order": 10
+}

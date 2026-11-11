@@ -1,0 +1,15 @@
+{
+  "name": "Guacamole s chipsy",
+  "restaurant": "taqueria-nic-noveho",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 8900,
+  "description": "Ručně rozmačkané avokádo s limetkou, cibulí, rajčetem a koriandrem, k tomu tortilla chipsy.",
+  "recipe": "guacamole",
+  "image": "dish-guacamole",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 1,
+  "allergens": [],
+  "order": 70
+}

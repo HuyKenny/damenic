@@ -1,0 +1,141 @@
+{
+  "title": "Pečený cheesecake",
+  "keywords": [
+    "cheesecake recept",
+    "pečený cheesecake",
+    "new york cheesecake",
+    "recept na cheesecake"
+  ],
+  "intro": "Pečený cheesecake na 12 kousků ve formě o průměru 23 cm, s hodinou pečení a nocí v lednici. Výsledek závisí na nízké teplotě, pomalém šlehání a trpělivém chladnutí.",
+  "image": "dish-cheesecake",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 30,
+  "cookMinutes": 70,
+  "waitMinutes": 420,
+  "waitLabel": "chladnutí v troubě a v lednici",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "susenky-maslove",
+      "amount": 200,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 90,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 600,
+      "unit": "g",
+      "note": "pokojové teploty",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 200,
+      "unit": "g",
+      "note": "pokojové teploty",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nastrouhaná kůra a 1 lžíce šťávy",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "pokojové teploty",
+      "group": "Náplň"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpus",
+      "text": "Troubu předehřej na 170 °C horní a spodní ohřev. Dno dortové formy o průměru 23 cm s odnímatelným okrajem potáhni pečicím papírem a okraj zacvakni přes něj."
+    },
+    {
+      "section": "Korpus",
+      "text": "Sušenky rozdrť v mixéru nebo v sáčku válečkem na jemné drobky a smíchej je s rozpuštěným máslem. Směs pevně utlač na dno formy, třeba dnem sklenice."
+    },
+    {
+      "section": "Korpus",
+      "text": "Korpus peč 10 minut a nech ho vychladnout. Troubu stáhni na 150 °C."
+    },
+    {
+      "section": "Náplň",
+      "text": "Smetanový sýr prošlehej s cukrem, vanilkovým cukrem a škrobem dohladka. Šlehej na nízké otáčky; vzduch v náplni způsobuje praskliny."
+    },
+    {
+      "section": "Náplň",
+      "text": "Vmíchej zakysanou smetanu, citronovou kůru a šťávu. Pak přidávej po jednom vejce a každé zapracuj jen do spojení."
+    },
+    {
+      "section": "Pečení",
+      "text": "Náplň nalij na korpus a uhlaď. Peč na 150 °C horní a spodní ohřev 55 až 65 minut; máš-li jen horkovzduch, nastav 140 °C."
+    },
+    {
+      "section": "Pečení",
+      "text": "Cheesecake je hotový, když jsou okraje pevné a matné a střed se po zatřesení formou ještě vlní v okruhu asi 8 cm. Dotuhne při chladnutí."
+    },
+    {
+      "section": "Chladnutí",
+      "text": "Troubu vypni, pootevři dvířka a nech cheesecake hodinu chladnout uvnitř. Pak ho nožem obkroužni podél okraje formy, aby se při smršťování neroztrhl."
+    },
+    {
+      "section": "Chladnutí",
+      "text": "Přikrytý ho dej aspoň na 6 hodin, nejlépe přes noc, do lednice. Krájej nožem namočeným v horké vodě a mezi řezy ho otírej."
+    }
+  ],
+  "tips": [
+    "Na spodní příčku pod formu postav plech s horkou vodou. Vlhko v troubě snižuje riziko prasknutí.",
+    "Sýr, vejce i zakysanou smetanu vytáhni z lednice hodinu předem, jinak v náplni zůstanou hrudky.",
+    "Na podávání se hodí malinová omáčka: 250 g malin povař 5 minut se 2 lžícemi cukru a nech vychladnout."
+  ],
+  "substitutions": [
+    "Polovinu smetanového sýra můžeš nahradit měkkým tvarohem propasírovaným přes síto. Chuť bude kyselejší a textura méně hutná.",
+    "Máslové sušenky nahradíš kakaovými nebo celozrnnými sušenkami."
+  ],
+  "faq": [
+    {
+      "q": "Proč cheesecake praská?",
+      "a": "Praskliny dělá příliš vysoká teplota, nadšlehaná náplň a prudké vychladnutí. Peč na 150 °C, šlehej pomalu a nech ho chladnout v pootevřené troubě."
+    },
+    {
+      "q": "Jak poznat, že je cheesecake upečený?",
+      "a": "Okraj je pevný a střed se při zatřesení ještě vlní jako želé. Úplně tuhý střed znamená, že je přepečený."
+    },
+    {
+      "q": "Dá se cheesecake udělat z tvarohu?",
+      "a": "Dá, ale vyjde jiný: kyselejší a lehčí na skus. Propasírovaným tvarohem nahraď nejvýš polovinu sýra, celotvarohová verze je spíš tvarohový dort."
+    }
+  ]
+}

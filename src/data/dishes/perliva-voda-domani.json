@@ -1,0 +1,15 @@
+{
+  "name": "Perlivá voda 0,75 l",
+  "restaurant": "trattoria-domani",
+  "kind": "drink",
+  "section": "Přílohy a nápoje",
+  "description": "Velká láhev perlivé vody na stůl. Bublinky jsou skutečné, láhev bohužel ne.",
+  "price": 5500,
+  "image": "dish-perliva-voda-domani",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 100
+}

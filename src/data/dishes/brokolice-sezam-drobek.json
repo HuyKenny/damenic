@@ -1,0 +1,17 @@
+{
+  "name": "Pečená brokolice se sezamem",
+  "restaurant": "ani-drobek",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Růžičky brokolice pečené do hněda, pokapané sezamovým olejem a posypané sezamem. Upečené tak, že by vydržely cestu, kdyby nějaká byla.",
+  "price": 6900,
+  "image": "dish-brokolice-sezam-drobek",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    11
+  ],
+  "order": 80
+}

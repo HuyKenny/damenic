@@ -1,0 +1,208 @@
+{
+  "title": "Lasagne",
+  "keywords": [
+    "lasagne recept",
+    "boloňské lasagne",
+    "domácí lasagne",
+    "lasagne s bešamelem"
+  ],
+  "image": "dish-lasagne",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 50,
+  "cookMinutes": 100,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinutí po upečení",
+  "difficulty": "náročnější",
+  "intro": "Zapékané lasagne s masovým ragú a bešamelem pro šest lidí. Počítej s necelými třemi hodinami, většinu času se ale ragú samo vaří a lasagne pečou; výsledek stojí hlavně na hustém ragú.",
+  "ingredients": [
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Ragú"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 80,
+      "unit": "g",
+      "note": "na drobné kostičky",
+      "group": "Ragú"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno",
+      "group": "Ragú"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno",
+      "group": "Ragú"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 80,
+      "unit": "g",
+      "note": "najemno, nebo 1 řapík celeru",
+      "group": "Ragú"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Ragú"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 500,
+      "unit": "g",
+      "group": "Ragú"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Ragú"
+    },
+    {
+      "ingredient": "vino-bile",
+      "amount": 150,
+      "unit": "ml",
+      "note": "suché",
+      "group": "Ragú"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 800,
+      "unit": "g",
+      "note": "2 plechovky",
+      "group": "Ragú"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Ragú"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Ragú"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 800,
+      "unit": "ml",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "testoviny-lasagne",
+      "amount": 250,
+      "unit": "g",
+      "note": "sušené plátky bez předvaření",
+      "group": "Skládání"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 80,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Skládání"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 125,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Skládání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Ragú",
+      "text": "V širokém hrnci rozehřej olej a na středním plameni na něm rozpusť slaninu. Přidej cibuli, mrkev a celer a 10 minut je pomalu dus, až změknou. Na poslední minutu přidej nasekaný česnek."
+    },
+    {
+      "section": "Ragú",
+      "text": "Zvyš plamen, přidej mleté maso a opékej ho asi 8 minut, rozmělňuj vařečkou, dokud se tekutina neodpaří a maso nezačne hnědnout. Vmíchej protlak a minutu ho opékej."
+    },
+    {
+      "section": "Ragú",
+      "text": "Podlij vínem a nech ho skoro úplně vyvařit. Přidej rozmačkaná loupaná rajčata, sůl a pepř, přiklop pootevřenou pokličkou a na mírném plameni vař 60 minut. Ragú má být husté, ne vodnaté."
+    },
+    {
+      "section": "Bešamel",
+      "text": "Na bešamel rozpusť v kastrolu máslo, vmíchej mouku a 2 minuty ji za stálého míchání opékej, nesmí zhnědnout. Postupně za stálého šlehání přilévej studené mléko a vař 5 minut, až omáčka zhoustne. Dochuť solí a muškátovým oříškem."
+    },
+    {
+      "section": "Skládání",
+      "text": "Troubu předehřej na 180 °C. Do zapékací mísy asi 20 × 30 cm rozetři na dno tenkou vrstvu ragú a pár lžic bešamelu, aby se plátky nepřichytily."
+    },
+    {
+      "section": "Skládání",
+      "text": "Střídej vrstvy: plátky těstovin, ragú, bešamel a hrst parmazánu. Podle mísy vyjdou 4 vrstvy. Nahoru dej poslední plátky, zbytek bešamelu, mozzarellu a parmazán."
+    },
+    {
+      "section": "Pečení",
+      "text": "Mísu přikryj alobalem a peč 25 minut, pak alobal sundej a peč ještě 15 minut, dokud povrch nezezlátne a těstoviny nejsou měkké, když do nich zapíchneš nůž."
+    },
+    {
+      "section": "Pečení",
+      "text": "Upečené lasagne nech 15 minut odpočinout. Mezitím se vrstvy spojí a půjdou krájet na úhledné kusy."
+    }
+  ],
+  "tips": [
+    "Ragú můžeš uvařit den předem. Vychladlé se lépe skládá a chuť se ještě usadí.",
+    "Sušené plátky potřebují vlhko. Každá vrstva těstovin musí být celá zakrytá omáčkou, jinak okraje zůstanou tvrdé.",
+    "Upečené lasagne se dají zamrazit po porcích. Ohřívej je zakryté v troubě na 170 °C asi 30 minut."
+  ],
+  "substitutions": [
+    "Část hovězího může být mleté vepřové, ragú bude šťavnatější.",
+    "Víno lze nahradit stejným množstvím vývaru, chuť bude méně výrazná.",
+    "Místo sušených plátků použij čerstvé; zkrať pečení pod alobalem na 15 minut."
+  ],
+  "faq": [
+    {
+      "q": "Musí se plátky na lasagne předvařit?",
+      "a": "Většina sušených plátků se dnes nepředvaří, stačí jim omáčka a pečení pod alobalem. Řiď se obalem; když na něm předvaření je, vař je 2 až 3 minuty."
+    },
+    {
+      "q": "Proč jsou lasagne vodnaté?",
+      "a": "Ragú bylo řídké nebo se lasagne krájely hned po vytažení. Vař ragú do hustoty a nech upečené lasagne 15 minut odpočinout."
+    },
+    {
+      "q": "Jak dlouho vydrží lasagne v lednici?",
+      "a": "Zakryté vydrží v lednici 3 dny. Ohřej je v troubě přikryté alobalem, nebo po porcích v mikrovlnce."
+    }
+  ]
+}

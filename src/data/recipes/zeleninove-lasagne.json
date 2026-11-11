@@ -1,0 +1,214 @@
+{
+  "title": "Zeleninové lasagne",
+  "category": "vegetarianska",
+  "servings": 6,
+  "activeMinutes": 50,
+  "cookMinutes": 70,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinutí po upečení",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "keywords": [
+    "zeleninové lasagne recept",
+    "vegetariánské lasagne",
+    "lasagne se zeleninou",
+    "lasagne s cuketou a lilkem"
+  ],
+  "intro": "Pekáč zeleninových lasagní s pečenou cuketou, lilkem a paprikou, rajčatovou omáčkou a bešamelem na šest porcí, celkem asi dvě a čtvrt hodiny. Vodnatosti se vyhneš předpečením zeleniny a odpočinutím po upečení.",
+  "ingredients": [
+    {
+      "ingredient": "cuketa",
+      "amount": 500,
+      "unit": "g",
+      "group": "Zelenina a omáčka"
+    },
+    {
+      "ingredient": "lilek",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Zelenina a omáčka"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Zelenina a omáčka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Zelenina a omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "note": "1 lžička na zeleninu, zbytek do omáčky",
+      "group": "Zelenina a omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "group": "Zelenina a omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Zelenina a omáčka"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Zelenina a omáčka"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "group": "Zelenina a omáčka"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zelenina a omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zelenina a omáčka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Zelenina a omáčka"
+    },
+    {
+      "ingredient": "spenat-baby",
+      "amount": 125,
+      "unit": "g",
+      "group": "Zelenina a omáčka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 750,
+      "unit": "ml",
+      "note": "studené",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "lasagne-platy",
+      "amount": 250,
+      "unit": "g",
+      "note": "plátky, které se nemusí předvařit",
+      "group": "Skládání"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 250,
+      "unit": "g",
+      "group": "Skládání"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 60,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Skládání"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na posypání",
+      "group": "Skládání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Zelenina a omáčka",
+      "text": "Troubu předehřej na 220 °C. Cuketu a lilek nakrájej na kostky asi 1,5 cm, papriku na proužky, promíchej je na plechu se 3 lžícemi oleje a lžičkou soli a peč 25 minut, v polovině promíchej."
+    },
+    {
+      "section": "Zelenina a omáčka",
+      "text": "Mezitím na zbylém oleji 5 minut osmahni nadrobno nakrájenou cibuli, přidej prolisovaný česnek a po půl minutě passatu, rukou rozdrcená loupaná rajčata, oregano, cukr a pepř. Vař bez pokličky 15 minut, ať omáčka zhoustne."
+    },
+    {
+      "section": "Zelenina a omáčka",
+      "text": "Do omáčky vmíchej upečenou zeleninu a špenát, nech ho zavadnout a dochuť solí. Troubu stáhni na 190 °C."
+    },
+    {
+      "section": "Bešamel",
+      "text": "V kastrolu rozpusť máslo, vsyp mouku a za stálého míchání ji 2 minuty opékej, nesmí zhnědnout. Postupně přilévej studené mléko a metlou rozmíchávej hrudky."
+    },
+    {
+      "section": "Bešamel",
+      "text": "Bešamel vař na mírném plameni za stálého míchání 5 až 8 minut, dokud nezhoustne asi jako hustá smetana. Osol."
+    },
+    {
+      "section": "Skládání",
+      "text": "Do zapékací mísy asi 30 × 20 cm rozetři na dno tenkou vrstvu bešamelu. Pak střídej plátky těstovin, zeleninovou omáčku, bešamel a trochu natrhané mozzarelly, vyjdou tři až čtyři vrstvy."
+    },
+    {
+      "section": "Skládání",
+      "text": "Poslední vrstvu těstovin pokryj zbylým bešamelem, mozzarellou a parmazánem. Těstoviny mají být všude zakryté, jinak zůstanou tvrdé."
+    },
+    {
+      "section": "Pečení",
+      "text": "Mísu zakryj alobalem a peč 25 minut, pak alobal sundej a peč dalších 15 až 20 minut dozlatova. Hotové jsou, když jimi nůž projede bez odporu."
+    },
+    {
+      "section": "Pečení",
+      "text": "Lasagne nech 15 minut odpočinout, aby se při krájení nerozjely, a před podáváním posyp lístky bazalky."
+    }
+  ],
+  "tips": [
+    "Zelenina pustí v troubě vodu, která by jinak skončila v lasagních. Předpečení je hlavní rozdíl mezi pevnými a rozbředlými řezy.",
+    "Lasagne se dají složit den předem a nechat přikryté v lednici. Peč je pak o 10 minut déle.",
+    "Bešamel má být spíš řidší. Plátky těstovin z něj během pečení nasají tekutinu."
+  ],
+  "substitutions": [
+    "Klasické plátky, které se musí předvařit, vař 2 minuty kratší dobu, než uvádí obal, a pak je propláchni studenou vodou.",
+    "Lilek můžeš nahradit 250 g žampionů opečených na pánvi dosucha.",
+    "Parmazán obvykle obsahuje syřidlo živočišného původu. Pokud vaříš přísně vegetariánsky, sáhni po tvrdém sýru s mikrobiálním syřidlem."
+  ],
+  "faq": [
+    {
+      "q": "Musí se plátky na lasagne předvařit?",
+      "a": "Ty označené jako bez předvaření ne, stačí jim tekutina z omáčky a bešamelu. Musí ale být celé zakryté, jinak zůstanou na okrajích tvrdé."
+    },
+    {
+      "q": "Proč jsou zeleninové lasagne vodnaté?",
+      "a": "Nejčastěji kvůli syrové zelenině, která vodu pustí až při pečení, nebo kvůli krájení hned z trouby. Zeleninu předpeč, omáčku nech zhoustnout a lasagne aspoň čtvrt hodiny odpočívat."
+    },
+    {
+      "q": "Dají se zeleninové lasagne zamrazit?",
+      "a": "Ano, upečené a vychladlé vydrží v mrazáku asi tři měsíce. Rozmrazuj je v lednici přes noc a ohřej zakryté alobalem při 180 °C 30 až 40 minut."
+    }
+  ],
+  "image": "dish-zeleninove-lasagne"
+}

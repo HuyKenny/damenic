@@ -1,0 +1,75 @@
+{
+  "name": "Chana masala",
+  "restaurant": "tandoor-nanecisto",
+  "kind": "main",
+  "section": "Kari",
+  "price": 18900,
+  "description": "Cizrna v husté rajčatovo-cibulové omáčce s kmínem, zázvorem a garam masalou. S rýží basmati, bez živočišných surovin.",
+  "about": [
+    "Chana masala je každodenní kari severní Indie. Cizrna se vaří v omáčce z dozlatova opečené cibule, rajčat a koření tak dlouho, až nasákne a část se rozpadne a omáčku zahustí.",
+    "Bez masa, bez smetany a bez másla, a přesto syté. V simulaci ho dostaneš s rýží; s naanem už veganské není, protože placky jsou s jogurtem."
+  ],
+  "recipe": "chana-masala",
+  "image": "dish-chana-masala",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "ryze",
+          "name": "Rýže basmati",
+          "priceDelta": 0
+        },
+        {
+          "id": "naan",
+          "name": "Naan (s jogurtem)",
+          "priceDelta": 3900
+        }
+      ]
+    },
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cibule",
+          "name": "Bez syrové cibule navrch",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 2,
+  "allergens": [],
+  "order": 40
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Espresso",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Krátká káva k bábovce. Nechutná po ničem, protože nedorazí.",
+  "price": 4900,
+  "image": "dish-espresso-nedortik",
+  "recipe": null,
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "single",
+          "name": "Jednoduché",
+          "priceDelta": 0
+        },
+        {
+          "id": "doppio",
+          "name": "Dvojité",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 90
+}

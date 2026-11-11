@@ -1,0 +1,44 @@
+{
+  "name": "Bento s maki a onigiri",
+  "restaurant": "onigiri-neurcito",
+  "kind": "main",
+  "section": "Bento",
+  "description": "Osm kousků maki s lososem a okurkou, jedno onigiri s tuňákem, edamame a zázvor.",
+  "about": [
+    "Tohle bento spojuje dva recepty. Rýže na maki se ochucuje octem, rýže na onigiri jen solí.",
+    "Krabičku s lososem k syrové konzumaci drž v chladu a sněz ji v den přípravy."
+  ],
+  "price": 26900,
+  "image": "dish-bento-maki-neurcito",
+  "recipe": "domaci-sushi",
+  "recipeNote": "Rolky podle receptu na maki, onigiri podle receptu Onigiri.",
+  "optionGroups": [
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "wasabi",
+          "name": "Bez wasabi",
+          "priceDelta": 0
+        },
+        {
+          "id": "zazvoru",
+          "name": "Bez zázvoru",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    3,
+    4,
+    6,
+    10,
+    11
+  ],
+  "order": 40
+}

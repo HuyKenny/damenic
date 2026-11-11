@@ -1,0 +1,61 @@
+{
+  "name": "Pancakes s řeckým jogurtem a ovocem",
+  "restaurant": "livancarna-az-zitra",
+  "kind": "main",
+  "section": "Pancakes",
+  "description": "Sloupek pancakes s lžící řeckého jogurtu, jahodami, borůvkami a trochou javorového sirupu.",
+  "about": [
+    "Řecký jogurt je hustý a mírně kyselý, takže vyrovná sladkost sirupu i palačinek. Ovoce se dává čerstvé, podle toho, co je zrovna k mání.",
+    "Kdo chce méně sladké, vynechá sirup úplně. Palačinky jsou stejné jako v klasické verzi, jen obložené jinak."
+  ],
+  "price": 17900,
+  "image": "dish-pancakes-jogurt-ovoce-zitra",
+  "recipe": "americke-palacinky",
+  "recipeNote": "Recept je na pancakes; jogurt a ovoce jsou v náhradách za sirup.",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet kusů",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "tri",
+          "name": "Tři kusy",
+          "priceDelta": 0
+        },
+        {
+          "id": "pet",
+          "name": "Pět kusů",
+          "priceDelta": 5000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "orechy",
+          "name": "Vlašské ořechy",
+          "priceDelta": 2000
+        },
+        {
+          "id": "jogurt",
+          "name": "Jogurt navíc",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 60
+}

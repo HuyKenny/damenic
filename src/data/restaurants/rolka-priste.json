@@ -1,0 +1,33 @@
+{
+  "name": "Rolka Příště",
+  "category": "sushi",
+  "cuisine": "Sushi rolky",
+  "tagline": "Rolujeme pevně. Doručíme příště. A pak zase příště.",
+  "description": "Fiktivní sushi bistro, které se soustředí na rolky, misky s rýží a gyoza. Objednávka je jen simulace, příště nedorazí také, ale recept dostaneš hned.",
+  "etaMinutes": 35,
+  "deliveryFee": 0,
+  "minOrder": 24900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "12:00",
+    "close": "23:30"
+  },
+  "pickup": true,
+  "tags": [
+    "pikantní",
+    "bez masa"
+  ],
+  "logo": {
+    "text": "R",
+    "color": "#F4B400",
+    "ink": "dark"
+  },
+  "sections": [
+    "Rolky",
+    "Misky a teplé",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 52,
+  "cover": "rest-rolka-priste"
+}

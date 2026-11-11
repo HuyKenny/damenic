@@ -1,0 +1,154 @@
+{
+  "title": "Kimchi",
+  "category": "asijska",
+  "servings": 6,
+  "activeMinutes": 40,
+  "cookMinutes": 0,
+  "waitMinutes": 1580,
+  "waitLabel": "solení zelí a první den kvašení, pak dál v lednici",
+  "difficulty": "střední",
+  "keywords": [
+    "kimchi recept",
+    "domácí kimchi",
+    "kimchi z pekingského zelí",
+    "jak udělat kimchi"
+  ],
+  "intro": "Domácí kimchi z pekingského zelí na litrovou sklenici: asi 40 minut práce, dvě hodiny solení a nejméně den kvašení při pokojové teplotě. Chuť určuje správně prosolené zelí a čas, který mu dáš v lednici.",
+  "ingredients": [
+    {
+      "ingredient": "zeli-pekingske",
+      "amount": 1200,
+      "unit": "g",
+      "note": "1 velká hlávka",
+      "group": "Solení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 60,
+      "unit": "g",
+      "note": "nejodovaná",
+      "group": "Solení"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Solení"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 6,
+      "unit": "ks",
+      "group": "Pasta a zelenina"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 15,
+      "unit": "g",
+      "group": "Pasta a zelenina"
+    },
+    {
+      "ingredient": "gochugaru",
+      "amount": 40,
+      "unit": "g",
+      "note": "podle pálivosti 25 až 50 g",
+      "group": "Pasta a zelenina"
+    },
+    {
+      "ingredient": "rybi-omacka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Pasta a zelenina"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Pasta a zelenina"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Pasta a zelenina"
+    },
+    {
+      "ingredient": "redkev-bila",
+      "amount": 200,
+      "unit": "g",
+      "group": "Pasta a zelenina"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "group": "Pasta a zelenina"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Pasta a zelenina"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Solení",
+      "text": "Zelí podélně rozčtvrť, vyřízni košťál a listy nakrájej na kousky velké asi 4 cm. Sůl rozmíchej ve studené vodě, zelí v ní pomačkej a zatěžkej talířem, aby bylo ponořené."
+    },
+    {
+      "section": "Solení",
+      "text": "Nech zelí 2 hodiny solit a každou půlhodinu ho promíchej. Hotové je, když se silnější části listů ohnou bez prasknutí."
+    },
+    {
+      "section": "Solení",
+      "text": "Zelí třikrát důkladně propláchni studenou vodou a nech ho 20 minut okapat v cedníku. Ochutnej list: má být příjemně slaný, ne nepoživatelně."
+    },
+    {
+      "section": "Pasta a zelenina",
+      "text": "Česnek a zázvor nastrouhej najemno a smíchej je s gochugaru, rybí omáčkou, cukrem a vodou na hustou pastu."
+    },
+    {
+      "section": "Pasta a zelenina",
+      "text": "Ředkev a mrkev nakrájej na tenké nudličky, jarní cibulku na kousky dlouhé 3 cm a vmíchej je do pasty."
+    },
+    {
+      "section": "Pasta a zelenina",
+      "text": "V gumových rukavicích promíchej okapané zelí s pastou tak, aby byl každý kousek obalený."
+    },
+    {
+      "section": "Pasta a zelenina",
+      "text": "Kimchi napěchuj do čisté sklenice a přitlač, aby nezůstaly vzduchové kapsy a zelí pokryla vlastní šťáva. Nahoře nech asi 3 cm volného místa a víčko jen přivři."
+    },
+    {
+      "section": "Pasta a zelenina",
+      "text": "Nech sklenici 1 až 2 dny kvasit při pokojové teplotě, postav ji na talíř a jednou denně zelí přitlač lžící pod šťávu. Jakmile voní kysele a drobně probublává, zavři ji a dej do lednice."
+    }
+  ],
+  "tips": [
+    "Používej nejodovanou sůl. Jód a protispékavé látky můžou kvašení zpomalit a šťávu zakalit.",
+    "Kvašením vzniká plyn. Neplň sklenici až po okraj a první dny ji drž na talíři, šťáva může přetéct.",
+    "Kimchi se dá jíst hned po prvním dni, ale plnou kyselou chuť má po jednom až dvou týdnech v lednici."
+  ],
+  "substitutions": [
+    "Bez ryb: rybí omáčku nahraď 2 lžícemi sójové omáčky.",
+    "Gochugaru se dá nouzově nahradit sladkou paprikou s lžičkou chilli vloček, barva i chuť budou jiné."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho kvasí kimchi?",
+      "a": "Při pokojové teplotě 1 až 2 dny, pak se přesouvá do lednice, kde kvasí pomalu dál. Jíst se dá od prvního dne, nejvýraznější chuť má zhruba po dvou týdnech."
+    },
+    {
+      "q": "Jak dlouho vydrží kimchi v lednici?",
+      "a": "V uzavřené sklenici několik týdnů, pokud zelí zůstává ponořené ve šťávě a nabíráš ho čistou lžící. Postupně kysne. Když se na povrchu objeví plíseň nebo kimchi nepříjemně páchne, vyhoď ho."
+    },
+    {
+      "q": "Čím nahradit gochugaru?",
+      "a": "Nejbližší je směs sladké papriky a chilli vloček zhruba 3 : 1. Gochugaru je ale jemnější a sladší, takže kimchi bude chutnat trochu jinak."
+    }
+  ],
+  "image": "dish-kimchi",
+  "vegetarian": false
+}

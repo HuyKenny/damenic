@@ -1,0 +1,44 @@
+{
+  "name": "Onigiri s tuňákem a majonézou",
+  "restaurant": "onigiri-neurcito",
+  "kind": "main",
+  "section": "Onigiri",
+  "description": "Rýžový trojúhelník s náplní z tuňáka, majonézy a kapky sójové omáčky, zabalený do nori.",
+  "about": [
+    "Tuňák s majonézou je v Japonsku nejprodávanější náplň onigiri. Tuňák musí být dobře scezený, aby rýži nerozmáčel.",
+    "Na jednu dávku rýže z receptu vyjde šest kusů, což je oběd pro dva. Tvaruj je, dokud je rýže teplá."
+  ],
+  "price": 5900,
+  "image": "dish-onigiri-tunak-neurcito",
+  "recipe": "onigiri",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet kusů",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "1ks",
+          "name": "1 kus",
+          "priceDelta": 0
+        },
+        {
+          "id": "2ks",
+          "name": "2 kusy",
+          "priceDelta": 5000
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    3,
+    4,
+    6,
+    10,
+    11
+  ],
+  "featured": true,
+  "order": 10
+}

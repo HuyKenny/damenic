@@ -1,0 +1,61 @@
+{
+  "name": "Koprovka s vejcem a bramborem",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Hustší jídla",
+  "description": "Hustá koprová omáčka na mléce a smetaně, jemně sladkokyselá, s vařenými brambory a dvěma vejci natvrdo.",
+  "about": [
+    "Koprovka je omáčka, kterou buď miluješ, nebo ji nesnášíš od dětství. Základem je světlá jíška zalitá mlékem a vývarem, která se čtvrt hodiny provaří, a pak smetana, ocet a cukr, dokud není chuť jemně sladkokyselá.",
+    "Kopr se přidává až na konci a už se nevaří, aby zůstal zelený a voňavý. Brambory a vejce natvrdo jsou klasika, hovězí maso nebo knedlík fungují také."
+  ],
+  "price": 15900,
+  "image": "dish-koprovka",
+  "recipe": "koprovka",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "vejce",
+          "name": "Třetí vejce",
+          "priceDelta": 1500
+        },
+        {
+          "id": "kopr",
+          "name": "Kopr navíc",
+          "priceDelta": 1000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    9
+  ],
+  "order": 50
+}

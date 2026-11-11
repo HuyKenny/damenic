@@ -1,0 +1,62 @@
+{
+  "name": "Buddha bowl s quinoou a brokolicí",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "main",
+  "section": "Kari a misky",
+  "description": "Quinoa s pečenou brokolicí, edamame, mrkví, červeným zelím a avokádem, s arašídovým dresinkem a koriandrem.",
+  "about": [
+    "Studená miska s jednou teplou složkou, pečenou brokolicí. Zbytek zeleniny je syrový nebo jen spařený, aby zůstal křupavý.",
+    "Arašídový dresink si můžeš vyměnit za tahini, pokud arašídy nejíš. Doma se dají všechny části připravit den předem a složit až před jídlem."
+  ],
+  "price": 21900,
+  "image": "dish-buddha-brokolice-zahradka",
+  "recipe": "buddha-bowl",
+  "optionGroups": [
+    {
+      "id": "dresink",
+      "name": "Dresink",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "arasidovy",
+          "name": "Arašídový",
+          "priceDelta": 0
+        },
+        {
+          "id": "tahini",
+          "name": "Tahini s citronem",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "halloumi",
+          "name": "Grilované halloumi",
+          "priceDelta": 4500
+        },
+        {
+          "id": "vejce",
+          "name": "Vejce natvrdo",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    1,
+    5,
+    6,
+    11
+  ],
+  "order": 50
+}

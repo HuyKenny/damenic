@@ -1,0 +1,66 @@
+{
+  "name": "Slaná palačinka se šunkou a eidamem",
+  "restaurant": "prazdna-panev",
+  "kind": "main",
+  "section": "Slané palačinky",
+  "description": "Velká palačinka bez cukru, plněná šunkou a rozpuštěným eidamem, přeložená do čtverce.",
+  "about": [
+    "Slaná palačinka je bratranec bretaňské galette, jen z obyčejné pšeničné mouky. Do těsta se nedává cukr, a když je palačinka na pánvi skoro hotová, posype se sýrem, obloží šunkou a přeloží, aby se sýr pod ní rozpustil.",
+    "Funguje jako večeře i pozdní snídaně. Kdo chce, přidá navrch sázené vejce, jak se to dělá ve Francii."
+  ],
+  "price": 15900,
+  "image": "dish-palacinka-sunka-syr-panev",
+  "recipe": "palacinky",
+  "recipeNote": "Recept je na palačinkové těsto; pro slanou verzi vynech cukr podle náhrad.",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jedna",
+          "name": "Jedna palačinka",
+          "priceDelta": 0
+        },
+        {
+          "id": "dve",
+          "name": "Dvě palačinky",
+          "priceDelta": 6900
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "vejce",
+          "name": "Sázené vejce",
+          "priceDelta": 2000
+        },
+        {
+          "id": "zampiony",
+          "name": "Žampiony",
+          "priceDelta": 2500
+        },
+        {
+          "id": "rukola",
+          "name": "Rukola",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 40
+}

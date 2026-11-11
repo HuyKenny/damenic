@@ -1,0 +1,62 @@
+{
+  "name": "Biryani pro čtyři",
+  "restaurant": "kari-nikde",
+  "kind": "main",
+  "section": "Biryani",
+  "price": 69900,
+  "description": "Celý hrnec kuřecího biryani se smaženou cibulí, mátou a koriandrem, pro čtyři hladové.",
+  "about": [
+    "Rodinná porce, jak se biryani v Indii obvykle vaří: jeden velký hrnec na stůl a každý si nabírá sám. Recept je na čtyři porce, takže tady dostaneš přesně to, co doma uvaříš.",
+    "Nejlepší je hrnec otevřít až u stolu. Ta pára, co vyletí, je půlka zážitku a v simulaci bohužel chybí."
+  ],
+  "recipe": "biryani",
+  "image": "dish-biryani-ctyri-nikde",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "raita",
+          "name": "Velká raita",
+          "priceDelta": 7900
+        },
+        {
+          "id": "naany",
+          "name": "4 naany",
+          "priceDelta": 15900
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    7
+  ],
+  "order": 60
+}

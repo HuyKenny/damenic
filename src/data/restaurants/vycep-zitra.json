@@ -1,0 +1,32 @@
+{
+  "name": "Výčep Zítra Natočíme",
+  "category": "ceska",
+  "cuisine": "Hospodská kuchyně",
+  "tagline": "Tácek ti čárkujeme, talíř nepřineseme.",
+  "description": "Smyšlená hospoda s dlouhými stoly, kde se vaří hlavně omáčky a jídla, která se dusí celé odpoledne. Objednávku si kuchař přečte, pokývá hlavou a místo talíře ti pošle recept.",
+  "etaMinutes": 40,
+  "deliveryFee": 4900,
+  "minOrder": 24900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:00",
+    "close": "23:30"
+  },
+  "pickup": true,
+  "tags": [
+    "rodinné porce"
+  ],
+  "logo": {
+    "text": "VZ",
+    "color": "#7A3E1D",
+    "ink": "light"
+  },
+  "cover": "rest-vycep-zitra",
+  "sections": [
+    "Polévky",
+    "Hlavní jídla",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 31
+}

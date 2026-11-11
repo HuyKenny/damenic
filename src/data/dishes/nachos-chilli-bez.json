@@ -1,0 +1,63 @@
+{
+  "name": "Nachos s chilli con carne",
+  "restaurant": "chilli-bez-adresy",
+  "kind": "main",
+  "section": "Z trouby",
+  "price": 18900,
+  "description": "Tortilla chipsy zapečené se sýrem a chilli con carne, s jalapeños, salsou a zakysanou smetanou.",
+  "about": [
+    "Nachos v masité verzi. Místo fazolí se mezi chipsy vrství chilli con carne, navrch sýr a jalapeños, a celé se to krátce zapeče.",
+    "Chilli by mělo být husté a ne horké, jinak chipsy rozmočí. Ideální využití zbytku z hrnce."
+  ],
+  "recipe": "nachos",
+  "recipeNote": "Recept je s fazolemi; nahraď je stejným množstvím hustého chilli con carne.",
+  "image": "dish-nachos-chilli-bez",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "normal",
+          "name": "Pro jednoho",
+          "priceDelta": 0
+        },
+        {
+          "id": "sdileni",
+          "name": "Na sdílení",
+          "priceDelta": 8900
+        }
+      ]
+    },
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    7
+  ],
+  "order": 60
+}

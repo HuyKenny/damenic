@@ -1,0 +1,19 @@
+{
+  "name": "Bramborový salát 200 g",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Majonézový bramborový salát s mrkví, celerem, hráškem, vejcem a okurkou, odleželý v lednici.",
+  "price": 5900,
+  "image": "dish-bramborovy-salat",
+  "recipe": "bramborovy-salat",
+  "optionGroups": [],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    3,
+    9,
+    10
+  ],
+  "order": 70
+}

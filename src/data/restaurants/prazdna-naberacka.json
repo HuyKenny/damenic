@@ -1,0 +1,37 @@
+{
+  "name": "Polévkárna Prázdná naběračka",
+  "category": "ceska",
+  "cuisine": "Polévky a vývary",
+  "tagline": "Naběračku máme. Hrnec je zatím jen v receptu.",
+  "description": "Smyšlená polévkárna, kde se vaří kyselo, vývary a husté polévky do misky s víčkem. Víčko nikdy neodklopíš, protože nic nedorazí, ale recept na polévku dostaneš celý.",
+  "etaMinutes": 25,
+  "deliveryFee": 2900,
+  "minOrder": 14900,
+  "priceLevel": 1,
+  "hours": {
+    "open": "10:30",
+    "close": "18:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa"
+  ],
+  "promo": {
+    "type": "free-delivery",
+    "label": "Dopravné 0 Kč"
+  },
+  "isNew": true,
+  "logo": {
+    "text": "PN",
+    "color": "#2F5D62",
+    "ink": "light"
+  },
+  "cover": "rest-prazdna-naberacka",
+  "sections": [
+    "Polévky",
+    "Hustší jídla",
+    "K polévce",
+    "Nápoje"
+  ],
+  "order": 32
+}

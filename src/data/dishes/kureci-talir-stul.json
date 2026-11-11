@@ -1,0 +1,57 @@
+{
+  "name": "Kuřecí talíř s rýží a salátem",
+  "restaurant": "taverna-prazdny-stul",
+  "kind": "main",
+  "section": "Talíře",
+  "price": 21900,
+  "description": "Opečené marinované kuře na rýži, s okurkovo-rajčatovým salátem a jogurtovou omáčkou.",
+  "about": [
+    "Talíř bez pečiva pro ty, kdo chtějí rýži. Kuře marinované v jogurtu a koření se opeče, nakrájí a položí na žlutou rýži s máslem a kurkumou.",
+    "Salát z okurky, rajčat a cibule s citronem je jednoduchý a dělá talíř svěžím."
+  ],
+  "recipe": "kebab-talir-s-ryzi",
+  "image": "dish-kureci-talir-stul",
+  "optionGroups": [
+    {
+      "id": "omacka",
+      "name": "Omáčka",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jogurtova",
+          "name": "Jogurtová",
+          "priceDelta": 0
+        },
+        {
+          "id": "palava",
+          "name": "Pálivá",
+          "priceDelta": 0
+        },
+        {
+          "id": "obe",
+          "name": "Obě",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "feta",
+          "name": "Balkánský sýr",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 60
+}

@@ -1,0 +1,124 @@
+{
+  "title": "Onigiri",
+  "category": "sushi",
+  "servings": 2,
+  "activeMinutes": 25,
+  "cookMinutes": 22,
+  "waitMinutes": 40,
+  "waitLabel": "okapání a chladnutí rýže",
+  "difficulty": "snadné",
+  "keywords": [
+    "onigiri recept",
+    "japonské rýžové trojúhelníky",
+    "onigiri s tuňákem",
+    "jak udělat onigiri"
+  ],
+  "intro": "Šest japonských rýžových trojúhelníků onigiri s tuňákem a majonézou, hotových asi za hodinu a půl. Rozhoduje kulatozrnná rýže tvarovaná ještě teplá a mokré osolené ruce.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-sushi",
+      "amount": 300,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 360,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na ruce",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "tunak-konzerva",
+      "amount": 160,
+      "unit": "g",
+      "note": "1 plechovka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "nori",
+      "amount": 2,
+      "unit": "ks",
+      "note": "nastříhané na 6 proužků",
+      "group": "Tvarování"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Tvarování"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže",
+      "text": "Rýži propírej ve studené vodě, dokud voda není skoro čirá, a nech ji 30 minut okapat v cedníku."
+    },
+    {
+      "section": "Rýže",
+      "text": "Uvař ji s 360 ml vody pod pokličkou: přiveď k varu, ztlum na minimum, vař 12 minut a pak ji nech 10 minut dojít. Na onigiri se rýže octem nedochucuje."
+    },
+    {
+      "section": "Rýže",
+      "text": "Rýži nakypři a nech ji asi 10 minut chladnout, aby se dala vzít do ruky, ale zůstala teplá."
+    },
+    {
+      "section": "Náplň",
+      "text": "Tuňáka důkladně sceď, rozmačkej vidličkou a smíchej s majonézou a sójovou omáčkou."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Ruce namoč do vody a otři si o dlaně trochu soli. Vezmi šestinu rýže, udělej v ní palcem důlek a vlož do něj lžičku náplně."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Náplň zakryj rýží a dlaněmi tvaruj trojúhelník: jednou rukou tvoř špičku, druhou zplošťuj boky a onigiri při tom otáčej. Mačkej pevně, ale bez síly, stačí tři až čtyři obraty."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Na spodek každého onigiri přilož proužek nori a posyp ho sezamem. Nori přidávej až těsně před jídlem, ať zůstane křupavé."
+    }
+  ],
+  "tips": [
+    "Tvaruj z teplé rýže. Studená už se nespojí a onigiri se rozpadne.",
+    "Když chceš onigiri zabalit na cestu, nori zabal zvlášť do fólie a přilož ho až před jídlem."
+  ],
+  "substitutions": [
+    "Tuňáka nahradí upečený a rozdrobený losos s trochou soli, nebo nakládaná švestka umeboshi.",
+    "Vegetariánská náplň: nadrobno nasekaná okurka s trochou majonézy a sezamu."
+  ],
+  "faq": [
+    {
+      "q": "Jaká rýže se hodí na onigiri?",
+      "a": "Kulatozrnná japonská rýže, stejná jako na sushi. Vaří se bez octa a dochucuje se jen solí na rukou."
+    },
+    {
+      "q": "Proč se mi onigiri rozpadá?",
+      "a": "Rýže je buď už studená, nebo dlouhozrnná, a proto málo lepí. Tvaruj z teplé kulatozrnné rýže a mačkej ji pevně, náplně dávej jen lžičku."
+    },
+    {
+      "q": "Jak dlouho vydrží onigiri?",
+      "a": "Onigiri s majonézovou náplní drž v chladu a sněz ho nejpozději do druhého dne. V lednici rýže tvrdne, proto ho zabal do fólie a před jídlem nech chvíli při pokojové teplotě."
+    }
+  ],
+  "image": "dish-onigiri",
+  "vegetarian": false
+}

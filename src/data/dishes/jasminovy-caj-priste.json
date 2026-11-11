@@ -1,0 +1,14 @@
+{
+  "name": "Ledový jasmínový čaj 0,4 l",
+  "restaurant": "rolka-priste",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Zelený čaj s jasmínem louhovaný za studena, nesladký.",
+  "price": 5500,
+  "image": "dish-jasminovy-caj-priste",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 90
+}

@@ -79,5 +79,10 @@
     }
   ],
   "restaurant": "wok-nic-moc",
-  "image": "dish-cervene-kari-kureci"
+  "image": "dish-cervene-kari-kureci",
+  "allergens": [
+    2,
+    4
+  ],
+  "spicy": 2
 }

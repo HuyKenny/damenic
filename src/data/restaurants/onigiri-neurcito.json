@@ -1,0 +1,37 @@
+{
+  "name": "Onigiri Na Neurčito",
+  "category": "sushi",
+  "cuisine": "Onigiri a bento",
+  "tagline": "Doručení plánujeme na neurčito. Rýži na dnešek.",
+  "description": "Smyšlený japonský stánek s onigiri, bento krabičkami a miso polévkou na polední pauzu. Vše je jen hra na objednávání, krabička nepřijede, recepty jsou ale opravdové.",
+  "etaMinutes": 25,
+  "deliveryFee": 3500,
+  "minOrder": 14900,
+  "priceLevel": 1,
+  "hours": {
+    "open": "09:30",
+    "close": "20:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa",
+    "rodinné porce"
+  ],
+  "promo": {
+    "type": "free-delivery",
+    "label": "Dopravné 0 Kč"
+  },
+  "logo": {
+    "text": "ON",
+    "color": "#F5E6C8",
+    "ink": "dark"
+  },
+  "sections": [
+    "Onigiri",
+    "Bento",
+    "Polévky a přílohy",
+    "Nápoje"
+  ],
+  "order": 53,
+  "cover": "rest-onigiri-neurcito"
+}

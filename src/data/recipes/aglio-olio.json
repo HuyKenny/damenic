@@ -1,0 +1,90 @@
+{
+  "title": "Spaghetti aglio olio",
+  "keywords": [
+    "aglio olio recept",
+    "špagety aglio olio",
+    "aglio olio e peperoncino",
+    "špagety s česnekem a olejem"
+  ],
+  "image": "dish-aglio-olio",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Špagety s česnekem, olivovým olejem a chilli pro dva za necelou půlhodinu. Recept má pět surovin, takže rozhoduje kvalita oleje, česnek, který nesmí zhořknout, a voda z těstovin, která omáčku spojí.",
+  "ingredients": [
+    {
+      "ingredient": "spagety",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na těstoviny"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 5,
+      "unit": "lzice",
+      "note": "extra panenský"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "na tenké plátky"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kolečka, nebo 0,5 lžičky chilli vloček"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "najemno nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve velkém hrnci přiveď k varu vodu, osol ji a vař špagety o 1 až 2 minuty kratší dobu, než uvádí obal."
+    },
+    {
+      "text": "Mezitím nalij olej do velké studené pánve, přidej česnek a chilli a pánev postav na mírný plamen. Česnek nech pomalu bublat 3 až 4 minuty, dokud nezačne slabě zlátnout."
+    },
+    {
+      "text": "Jakmile má česnek světle zlatou barvu, přilij do pánve naběračku vody z těstovin, aby se smažení zastavilo. Tmavě hnědý česnek je hořký, pak je lepší začít znovu."
+    },
+    {
+      "text": "Špagety přendej kleštěmi rovnou do pánve, přidej další půl naběračky vody z vaření a na středním plameni je 1 až 2 minuty energicky promíchávej, dokud olej s vodou nevytvoří lesklou omáčku."
+    },
+    {
+      "text": "Vmíchej petrželku, ochutnej a případně dosol. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Na plátky krájej česnek ostrým nožem, nelisuj ho. Lisovaný se spálí během pár vteřin.",
+    "Vodu z těstovin nevylévej celou, dokud není jídlo na talíři. Škrob v ní je to, co z oleje dělá omáčku."
+  ],
+  "substitutions": [
+    "Parmazán se do klasické verze nedává, ale kdo chce, může ho posypat až na talíři.",
+    "Místo špaget se hodí linguine nebo spaghettoni."
+  ],
+  "faq": [
+    {
+      "q": "Proč jsou špagety aglio olio suché a mastné?",
+      "a": "Chybí voda z těstovin nebo se omáčka nepromíchala. Přilij škrobovou vodu a energicky míchej, olej s vodou se spojí v lesklou omáčku, která těstoviny obalí."
+    },
+    {
+      "q": "Co znamená aglio olio e peperoncino?",
+      "a": "Česnek, olej a chilli paprička. Jsou to tři hlavní suroviny, které se k těstovinám přidávají."
+    }
+  ]
+}

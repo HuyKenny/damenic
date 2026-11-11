@@ -1,0 +1,35 @@
+{
+  "name": "Cold brew káva",
+  "restaurant": "zitra-upecem",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Káva louhovaná 16 hodin za studena, podávaná s ledem.",
+  "price": 6900,
+  "image": "dish-cold-brew-upecem",
+  "recipe": null,
+  "optionGroups": [
+    {
+      "id": "mleko",
+      "name": "Mléko",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "bez",
+          "name": "Bez mléka",
+          "priceDelta": 0
+        },
+        {
+          "id": "ovesne",
+          "name": "S ovesným nápojem",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 100
+}

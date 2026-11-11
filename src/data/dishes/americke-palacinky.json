@@ -1,0 +1,66 @@
+{
+  "name": "Americké palačinky s javorovým sirupem",
+  "restaurant": "livancarna-az-zitra",
+  "kind": "main",
+  "section": "Pancakes",
+  "description": "Sloupek tří vysokých pancakes s kostkou másla a javorovým sirupem.",
+  "about": [
+    "Americké palačinky jsou rychlejší než lívance, protože místo droždí je kypří prášek do pečiva. Těsto se míchá jen krátce, aby zůstalo hrudkovité a lehké, a po deseti minutách odpočinku jde rovnou na pánev.",
+    "Obracejí se ve chvíli, kdy na povrchu praskají bublinky. Javorový sirup je klasika, máslo navrch je zvyk, kterého se těžko vzdává."
+  ],
+  "price": 16900,
+  "image": "dish-americke-palacinky",
+  "recipe": "americke-palacinky",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet kusů",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "tri",
+          "name": "Tři kusy",
+          "priceDelta": 0
+        },
+        {
+          "id": "pet",
+          "name": "Pět kusů",
+          "priceDelta": 5000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "boruvky",
+          "name": "Borůvky",
+          "priceDelta": 3500
+        },
+        {
+          "id": "banan",
+          "name": "Banán",
+          "priceDelta": 2500
+        },
+        {
+          "id": "slanina",
+          "name": "Slanina",
+          "priceDelta": 4500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 30
+}

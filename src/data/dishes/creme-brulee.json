@@ -1,0 +1,54 @@
+{
+  "name": "Crème brûlée s vanilkou",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Studené dezerty",
+  "description": "Vanilkový krém ze smetany a žloutků pečený ve vodní lázni, s karamelovou krustou opálenou těsně před podáním.",
+  "about": [
+    "Crème brûlée je dezert dvou teplot: chladný hedvábný krém a nahoře tenká vrstva karamelu, ještě teplá od hořáku. Lžička ji má prolomit s jasným cvaknutím.",
+    "Vybereš si cukr na karamel. Doma se krém dá upéct den předem, karamelizuje se ale vždycky až před podáváním."
+  ],
+  "price": 12900,
+  "image": "dish-creme-brulee",
+  "recipe": "creme-brulee",
+  "optionGroups": [
+    {
+      "id": "karamel",
+      "name": "Karamel",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "krystal",
+          "name": "Z bílého cukru",
+          "priceDelta": 0
+        },
+        {
+          "id": "trtinovy",
+          "name": "Z třtinového cukru",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "maliny",
+          "name": "Pár čerstvých malin",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7
+  ],
+  "order": 40
+}

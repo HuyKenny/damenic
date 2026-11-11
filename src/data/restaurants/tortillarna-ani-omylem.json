@@ -1,0 +1,34 @@
+{
+  "name": "Tortillárna Ani omylem",
+  "category": "mexicka",
+  "cuisine": "Quesadilly a nachos",
+  "tagline": "Tortilly máme. Rozvoz ani omylem.",
+  "description": "Smyšlená tortillárna, kde se všechno točí kolem placek: quesadilly, burrito a zapečené nachos. Objednávka je jen nanečisto, nic nepřijede, takže si placky naplníš doma podle receptu.",
+  "etaMinutes": 20,
+  "deliveryFee": 2900,
+  "minOrder": 0,
+  "priceLevel": 1,
+  "hours": {
+    "open": "11:00",
+    "close": "01:00"
+  },
+  "tags": [
+    "bez masa",
+    "pikantní"
+  ],
+  "isNew": true,
+  "logo": {
+    "text": "AO",
+    "color": "#DB2777",
+    "ink": "light"
+  },
+  "sections": [
+    "Quesadilly a nachos",
+    "Burrito a tacos",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 85,
+  "pickup": true,
+  "cover": "rest-tortillarna-ani-omylem"
+}

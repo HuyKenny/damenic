@@ -1,0 +1,61 @@
+{
+  "name": "Shakshuka v litinové pánvi",
+  "restaurant": "na-lacno",
+  "kind": "main",
+  "section": "Brunch",
+  "description": "Kořeněná omáčka z rajčat a pečené papriky, čtyři vejce, feta, petrželka a kváskový chléb.",
+  "about": [
+    "Shakshuka v litině se nese na stůl ještě bublající. Rajčata s římským kmínem a uzenou paprikou dávají omáčce hloubku, vejce se v ní pošírují pod poklicí a feta navrch přidá slanost.",
+    "Pálivost i pečivo si zvolíš. Doma můžeš omáčku uvařit předem a vejce do ní rozklepnout až při ohřívání."
+  ],
+  "price": 21900,
+  "image": "dish-shakshuka-lacno",
+  "recipe": "shakshuka",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemna",
+          "name": "Jemná",
+          "priceDelta": 0
+        },
+        {
+          "id": "paliva",
+          "name": "Pálivá",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "avokado",
+          "name": "Avokádo",
+          "priceDelta": 3900
+        },
+        {
+          "id": "jogurt",
+          "name": "Lžíce řeckého jogurtu",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 1,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 20
+}

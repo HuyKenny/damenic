@@ -1,0 +1,14 @@
+{
+  "name": "Krevetové chipsy",
+  "restaurant": "pho-nebude",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Miska nafouknutých krevetových chipsů. Lehké jako vzduch, a stejně jako on k tobě dorazí.",
+  "price": 4900,
+  "image": "dish-krevetove-chipsy-nebude",
+  "recipe": null,
+  "allergens": [
+    2
+  ],
+  "order": 80
+}

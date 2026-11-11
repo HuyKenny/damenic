@@ -1,0 +1,19 @@
+{
+  "name": "Houskový knedlík, 6 plátků",
+  "restaurant": "vycep-zitra",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Šest plátků kynutého knedlíku s kostičkami rohlíku, vařeného ve velkém hrnci a nakrájeného nití.",
+  "price": 4900,
+  "image": "dish-houskovy-knedlik",
+  "recipe": "houskovy-knedlik",
+  "optionGroups": [],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 70
+}

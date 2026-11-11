@@ -1,0 +1,61 @@
+{
+  "name": "Gnocchi s pestem",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Z pánve",
+  "description": "Bramborové gnocchi krátce prohozené v pánvi s bazalkovým pestem a parmazánem.",
+  "about": [
+    "Gnocchi s pestem jsou janovská klasika: měkké bramborové noky a výrazná bazalková omáčka, která na nich drží líp než na těstovinách.",
+    "Recept na gnocchi je u nás s rajčatovou omáčkou. Pesto si připrav podle receptu na těstoviny s pestem a gnocchi do něj vmíchej mimo plotnu se lžící vody z vaření."
+  ],
+  "price": 18900,
+  "image": "dish-gnocchi-pesto-niente",
+  "recipe": "gnocchi",
+  "recipeNote": "Místo rajčatové omáčky pesto podle receptu na těstoviny s pestem.",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná (300 g)",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (450 g)",
+          "priceDelta": 4500
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "parmazan",
+          "name": "Parmazán navíc",
+          "priceDelta": 3000
+        },
+        {
+          "id": "rajcata",
+          "name": "Cherry rajčata",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 60
+}

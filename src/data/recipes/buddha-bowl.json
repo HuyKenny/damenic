@@ -1,0 +1,194 @@
+{
+  "title": "Buddha bowl s quinoou a arašídovým dresinkem",
+  "category": "vegetarianska",
+  "servings": 2,
+  "activeMinutes": 30,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "keywords": [
+    "buddha bowl recept",
+    "buddha bowl s quinoou",
+    "veganský buddha bowl",
+    "bowl s arašídovým dresinkem"
+  ],
+  "intro": "Dvě misky s quinoou, pečenou brokolicí, edamame, mrkví, červeným zelím a avokádem, přelité arašídovým dresinkem, hotové asi za 50 minut. Chuť drží hlavně dresink a dobře opečená brokolice.",
+  "ingredients": [
+    {
+      "ingredient": "quinoa",
+      "amount": 150,
+      "unit": "g",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "brokolice",
+      "amount": 300,
+      "unit": "g",
+      "note": "na menší růžičky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "edamame",
+      "amount": 240,
+      "unit": "g",
+      "note": "v luscích, po vyloupání asi 120 g",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "zeli-cervene",
+      "amount": 150,
+      "unit": "g",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "půlka do zelí, půlka do dresinku",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "avokado",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "arasidove-maslo",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "jemné, bez cukru",
+      "group": "Arašídový dresink"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Arašídový dresink"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Arašídový dresink"
+    },
+    {
+      "ingredient": "sriracha",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Arašídový dresink"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Arašídový dresink"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "teplá",
+      "group": "Arašídový dresink"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Na posypání"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "pár snítek",
+      "group": "Na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Pečení a vaření",
+      "text": "Troubu předehřej na 220 °C. Brokolici promíchej na plechu s olejem a solí a peč 18 až 20 minut, dokud nejsou okraje růžiček opečené do hněda."
+    },
+    {
+      "section": "Pečení a vaření",
+      "text": "Quinou propláchni na jemném sítu pod studenou vodou. Vař ji s 300 ml vody a špetkou soli pod pokličkou 15 minut na mírném plameni, pak ji nech 5 minut dojít a načechrej vidličkou."
+    },
+    {
+      "section": "Pečení a vaření",
+      "text": "Edamame vař 3 minuty v osolené vodě, zchlaď a vyloupej z lusků."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Zelí nakrouhej najemno, osol špetkou soli, pokapej šťávou z půlky limetky a promačkej rukama, ať změkne. Mrkev nastrouhej nahrubo nebo nakrájej na nudličky, avokádo na plátky."
+    },
+    {
+      "section": "Dresink",
+      "text": "Arašídové máslo rozmíchej se sójovou omáčkou, cukrem, srirachou, česnekem a šťávou z druhé půlky limetky. Po lžících přilévej teplou vodu, dokud dresink není hustý, ale tekoucí."
+    },
+    {
+      "section": "Podávání",
+      "text": "Do každé misky dej na dno quinou a kolem dokola po skupinkách brokolici, edamame, mrkev, zelí a avokádo."
+    },
+    {
+      "section": "Podávání",
+      "text": "Přelij arašídovým dresinkem, posyp sezamem a koriandrem a podávej."
+    }
+  ],
+  "tips": [
+    "Brokolici neodkládej na plech natěsno. Když má kolem sebe místo, opeče se, jinak se jen udusí.",
+    "Dresink v lednici zhoustne. Před použitím ho rozřeď lžící teplé vody."
+  ],
+  "substitutions": [
+    "Quinou můžeš nahradit jasmínovou rýží nebo bulgurem.",
+    "Kdo nesnese arašídy, použije tahini; místo sójové omáčky pak dej trochu soli a víc limetky.",
+    "Edamame lze nahradit cizrnou z plechovky opečenou na pánvi."
+  ],
+  "faq": [
+    {
+      "q": "Co je buddha bowl?",
+      "a": "Miska, ve které jsou vedle sebe obilovina nebo pseudoobilovina, zelenina syrová i tepelně upravená, luštěnina nebo tofu a dresink. Pevný recept nemá, drží se jen toho složení."
+    },
+    {
+      "q": "Jaký dresink se hodí do buddha bowlu?",
+      "a": "Nejčastěji arašídový, tahini s citronem nebo sójovo-zázvorový. Měl by být výrazný, protože ochucuje celou misku."
+    },
+    {
+      "q": "Dá se buddha bowl připravit dopředu do krabičky?",
+      "a": "Ano, vydrží v lednici dva dny. Avokádo nakrájej a dresink přidej až před jídlem, ať nezhnědne a zelenina nezměkne."
+    }
+  ],
+  "image": "dish-buddha-bowl"
+}

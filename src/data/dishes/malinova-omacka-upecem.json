@@ -1,0 +1,16 @@
+{
+  "name": "Malinová omáčka v kelímku",
+  "restaurant": "zitra-upecem",
+  "kind": "side",
+  "section": "Navíc",
+  "description": "Povařené maliny s cukrem a citronem, 60 ml, k brownies i cheesecaku.",
+  "price": 3500,
+  "image": "dish-malinova-omacka-upecem",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 80
+}

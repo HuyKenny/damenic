@@ -1,0 +1,17 @@
+{
+  "name": "Kopeček vanilkové zmrzliny",
+  "restaurant": "sladke-nic",
+  "kind": "side",
+  "section": "K dezertu",
+  "description": "Jeden kopeček k čemukoli teplému z nabídky.",
+  "price": 4900,
+  "image": "dish-zmrzlina-sladke",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 70
+}

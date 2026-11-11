@@ -1,0 +1,33 @@
+{
+  "name": "Bylinkový čaj s medem 0,4 l",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Máta, meduňka a tymián zalité horkou vodou, s lžičkou medu zvlášť.",
+  "price": 4900,
+  "image": "dish-bylinkovy-caj-zahradka",
+  "recipe": null,
+  "optionGroups": [
+    {
+      "id": "med",
+      "name": "Med",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "s-medem",
+          "name": "S medem",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-medu",
+          "name": "Bez medu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [],
+  "order": 100
+}

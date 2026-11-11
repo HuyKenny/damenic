@@ -1,0 +1,138 @@
+{
+  "title": "Cibulové kroužky",
+  "category": "burgery",
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "vegetarian": true,
+  "keywords": [
+    "cibulové kroužky recept",
+    "smažené cibulové kroužky",
+    "cibulové kroužky v pivním těstíčku",
+    "domácí onion rings"
+  ],
+  "intro": "Cibulové kroužky v křehkém pivním těstíčku smažené dozlatova, čtyři porce asi za 35 minut. Rozhoduje ledově studené těstíčko a olej rozpálený na 180 °C.",
+  "ingredients": [
+    {
+      "ingredient": "cibule",
+      "amount": 500,
+      "unit": "g",
+      "note": "2 velké",
+      "group": "Cibule"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na poprášení",
+      "group": "Cibule"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 30,
+      "unit": "g",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "pivo-svetle",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vychlazené",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "na posolení",
+      "group": "Smažení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Cibuli oloupej, nakrájej na kolečka silná asi 1 cm a rozděl je na jednotlivé kroužky. Nejmenší vnitřní kroužky schovej na jiné vaření."
+    },
+    {
+      "section": "Příprava",
+      "text": "Do hlubokého hrnce nalij olej tak, aby ho bylo aspoň 4 cm, a rozehřej ho na 180 °C. Bez teploměru to poznáš tak, že kapka těstíčka hned vyplave a prudce kolem sebe bublá."
+    },
+    {
+      "section": "Těstíčko",
+      "text": "V míse smíchej mouku, škrob, prášek do pečiva, sůl a papriku. Metlou vmíchej studené pivo, jen dokud nezmizí hrudky; těstíčko má být hustší než na palačinky."
+    },
+    {
+      "section": "Smažení",
+      "text": "Kroužky v sáčku nebo míse popraš třemi lžícemi mouky a přebytek oklepej. Na suché mouce se těstíčko udrží."
+    },
+    {
+      "section": "Smažení",
+      "text": "Kroužky po jednom namáčej v těstíčku, nech přebytek okapat a pokládej je do oleje po pěti až šesti, aby teplota moc neklesla."
+    },
+    {
+      "section": "Smažení",
+      "text": "Smaž 2 až 3 minuty, v polovině je obrať, dokud nejsou zlatě hnědé. Vyndej je na mřížku nebo papírovou utěrku a hned posol."
+    },
+    {
+      "section": "Smažení",
+      "text": "Hotové kroužky drž v troubě vyhřáté na 100 °C, než usmažíš zbytek. Podávej je co nejdřív, s majonézou nebo kečupem."
+    }
+  ],
+  "tips": [
+    "Pivo i mouku můžeš nechat půl hodiny v lednici. Čím studenější těstíčko, tím křehčí obal.",
+    "Těstíčko nemíchej dlouho. Pár hrudek nevadí, přemíchané těstíčko je tuhé a obal gumový.",
+    "Do horkého oleje nikdy nelij vodu a nedávej mokré věci, olej vystříkne. Hořící olej se nesmí hasit vodou, přiklop hrnec pokličkou."
+  ],
+  "substitutions": [
+    "Pivo nahradí stejné množství ledové perlivé vody.",
+    "Místo bílé cibule můžeš použít červenou, je sladší a kroužky jsou na řezu barevné."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat cibulové kroužky křupavé?",
+      "a": "Použij studené těstíčko s perlivou tekutinou, jako je pivo nebo perlivá voda, a smaž v oleji rozpáleném na 180 °C po malých dávkách. Usmažené kroužky nedávej na sebe, změknou od páry."
+    },
+    {
+      "q": "Proč z cibulových kroužků padá těstíčko?",
+      "a": "Cibule je na povrchu vlhká a kluzká. Kroužky před namáčením popraš moukou, těstíčko se na ni přichytí."
+    },
+    {
+      "q": "Dají se cibulové kroužky udělat v troubě?",
+      "a": "Ano, ale v obalu ze strouhanky, ne v tekutém těstíčku. Kroužky obal v mouce, rozšlehaném vejci a strouhance, pokapej olejem a peč při 220 °C asi 15 minut, v polovině je obrať."
+    }
+  ],
+  "image": "dish-cibulove-krouzky"
+}

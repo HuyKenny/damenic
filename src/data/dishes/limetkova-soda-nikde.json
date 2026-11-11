@@ -1,0 +1,15 @@
+{
+  "name": "Limetková soda 0,33 l",
+  "restaurant": "kari-nikde",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 4900,
+  "description": "Perlivá voda s limetkovou šťávou, cukrem a špetkou soli.",
+  "recipe": null,
+  "image": "dish-limetkova-soda-nikde",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 100
+}

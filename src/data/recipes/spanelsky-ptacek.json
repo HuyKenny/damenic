@@ -1,0 +1,187 @@
+{
+  "title": "Španělský ptáček",
+  "keywords": [
+    "španělský ptáček recept",
+    "recept na španělské ptáčky",
+    "hovězí závitky",
+    "španělský ptáček s rýží"
+  ],
+  "intro": "Čtyři hovězí závitky s párkem, slaninou, vejcem a okurkou dušené v omáčce, s rýží, celkem asi za dvě a čtvrt hodiny. Záleží na tence naklepaném masu a pomalém dušení, při kterém závitky změknou.",
+  "image": "dish-spanelsky-ptacek",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 45,
+  "cookMinutes": 90,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-zadni",
+      "amount": 600,
+      "unit": "g",
+      "note": "4 plátky z vrchního šálu nebo ořechu",
+      "group": "Ptáčky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Ptáčky"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Ptáčky"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Ptáčky"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 80,
+      "unit": "g",
+      "note": "4 plátky",
+      "group": "Ptáčky"
+    },
+    {
+      "ingredient": "parky",
+      "amount": 150,
+      "unit": "g",
+      "note": "2 párky, podélně rozpůlené",
+      "group": "Ptáčky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Ptáčky"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 120,
+      "unit": "g",
+      "note": "4 menší okurky",
+      "group": "Ptáčky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "čtvrtinu na proužky, zbytek nadrobno do omáčky",
+      "group": "Ptáčky"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "1 na obalení, 2 na zahuštění",
+      "group": "Ptáčky"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Ptáčky"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 600,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ryze-dlouhozrnna",
+      "amount": 300,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 450,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Ptáčky",
+      "text": "Vejce vař 10 minut natvrdo, zchlaď, oloupej a podélně rozčtvrť."
+    },
+    {
+      "section": "Ptáčky",
+      "text": "Plátky masa polož mezi potravinovou fólii a naklepej je na tloušťku asi 5 mm. Osol je, opepři a potři tenkou vrstvou hořčice."
+    },
+    {
+      "section": "Ptáčky",
+      "text": "Na každý plátek polož plátek slaniny, půlku párku, dvě čtvrtky vejce, okurku a pár proužků cibule. Boky plátku přehni dovnitř a pevně ho sroluj."
+    },
+    {
+      "section": "Ptáčky",
+      "text": "Závitky převaž provázkem nebo sepni špejlí, lehce je obal v mouce a na rozpáleném oleji je ze všech stran opeč dohněda, asi 8 minut. Vyndej je."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Do výpeku dej nadrobno nakrájenou cibuli a 5 minut ji opékej. Zalij vývarem, přidej nové koření a bobkový list a vrať ptáčky."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Přiklop a dus na mírném plameni 75 až 90 minut, v polovině ptáčky obrať. Hotové jsou, když do nich vidlička zajede bez odporu."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Ptáčky vyndej a odstraň provázky. Z omáčky vylov koření, zahusti ji moukou rozmíchanou v trošce studené vody a povař 5 minut. Můžeš ji rozmixovat."
+    },
+    {
+      "section": "Rýže",
+      "text": "Rýži propláchni, zalij vodou, osol a pod poklicí vař na mírném plameni 12 minut. Odstav a nech ji 10 minut dojít."
+    },
+    {
+      "section": "Podávání",
+      "text": "Ptáčky vrať do omáčky, krátce prohřej a podávej s rýží."
+    }
+  ],
+  "tips": [
+    "Maso krájej přes vlákna. Plátky krájené po vláknech zůstanou i po dušení tuhé.",
+    "Náplň dávej jen doprostřed plátku, okraje nech volné, jinak se závitek nedá pevně zabalit."
+  ],
+  "substitutions": [
+    "Místo hovězího můžeš použít vepřovou kýtu; dus ji jen 45 až 60 minut.",
+    "Rýži lze nahradit houskovým knedlíkem nebo těstovinami."
+  ],
+  "faq": [
+    {
+      "q": "Které maso je nejlepší na španělského ptáčka?",
+      "a": "Hovězí zadní, nejčastěji vrchní nebo spodní šál či ořech. Dobře se klepe a při dušení změkne bez rozpadnutí."
+    },
+    {
+      "q": "Jak zabránit, aby se ptáček při dušení rozbalil?",
+      "a": "Pevně ho zaroluj se založenými boky a převaž provázkem. Opékat ho začni švem dolů, aby se zatáhl."
+    },
+    {
+      "q": "Jakou přílohu podávat ke španělskému ptáčkovi?",
+      "a": "Nejčastěji dušenou rýži, ale hodí se i houskový knedlík nebo těstoviny."
+    }
+  ]
+}

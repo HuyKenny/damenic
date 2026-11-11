@@ -1,0 +1,16 @@
+{
+  "name": "Čerstvý mátový čaj",
+  "restaurant": "sladke-nic",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Konvička horké vody s hrstí čerstvé máty a medem nebo bez.",
+  "price": 5900,
+  "image": "dish-matovy-caj-sladke",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 100
+}

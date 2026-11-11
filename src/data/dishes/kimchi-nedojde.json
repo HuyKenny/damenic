@@ -1,0 +1,15 @@
+{
+  "name": "Kimchi",
+  "restaurant": "ramen-nedojde",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Fermentované pekingské zelí s gochugaru, česnekem a ředkví. Kvasí několik dní, k tobě nedorazí nikdy.",
+  "price": 5900,
+  "image": "dish-kimchi-nedojde",
+  "recipe": "kimchi",
+  "spicy": 2,
+  "allergens": [
+    4
+  ],
+  "order": 70
+}

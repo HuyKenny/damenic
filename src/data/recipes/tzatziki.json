@@ -1,0 +1,110 @@
+{
+  "title": "Tzatziki",
+  "keywords": [
+    "tzatziki recept",
+    "recept na tzatziki",
+    "řecké tzatziki",
+    "tzatziki z řeckého jogurtu"
+  ],
+  "intro": "Miska hustého tzatziki z řeckého jogurtu, okurky, česneku a olivového oleje pro čtyři, hotová asi za tři čtvrtě hodiny včetně odležení. Rozhoduje dobře vymačkaná okurka, jinak omáčka zvodnatí.",
+  "image": "dish-tzatziki",
+  "category": "kebab",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "tips": [
+    "Česnek přidávej opatrně. Po odležení je výraznější než hned po zamíchání.",
+    "Tzatziki z řídkého jogurtu můžeš zahustit: jogurt nech hodinu odkapat v sítu vyloženém utěrkou."
+  ],
+  "substitutions": [
+    "Kopr můžeš nahradit čerstvou mátou.",
+    "Místo octa jde použít šťávu z půlky citronu."
+  ],
+  "faq": [
+    {
+      "q": "Jaký jogurt na tzatziki?",
+      "a": "Plnotučný řecký jogurt kolem 10 % tuku. Je hustý a omáčka drží tvar; s bílým jogurtem bude řídká."
+    },
+    {
+      "q": "Proč je tzatziki vodové?",
+      "a": "Okurka nebyla vymačkaná nebo je jogurt řídký. Okurku po osolení vždy pořádně vymačkej a řidší jogurt nech předem odkapat."
+    },
+    {
+      "q": "Jak dlouho vydrží tzatziki v lednici?",
+      "a": "V uzavřené nádobě dva až tři dny. Tekutinu, která se na povrchu oddělí, jen vmíchej nebo slij."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 1,
+      "unit": "ks",
+      "note": "asi 300 g",
+      "group": "Tzatziki"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Tzatziki"
+    },
+    {
+      "ingredient": "jogurt-recky",
+      "amount": 400,
+      "unit": "g",
+      "note": "plnotučný",
+      "group": "Tzatziki"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Tzatziki"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Tzatziki"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "nebo citronová šťáva",
+      "group": "Tzatziki"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaný, nepovinně",
+      "group": "Tzatziki"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Tzatziki"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Okurku omyj a se slupkou nastrouhej nahrubo. Promíchej ji se solí a nech 10 minut stát v sítu, aby pustila vodu."
+    },
+    {
+      "text": "Okurku po hrstech pořádně vymačkej v dlaních nebo v utěrce, vody má vyjít co nejvíc."
+    },
+    {
+      "text": "V misce smíchej jogurt s česnekem, olivovým olejem, octem a pepřem. Vmíchej okurku a kopr."
+    },
+    {
+      "text": "Ochutnej, případně dosol, a nech tzatziki aspoň 30 minut odležet v lednici, česnek se tím rozleží. Před podáváním ho pokapej olivovým olejem."
+    }
+  ]
+}

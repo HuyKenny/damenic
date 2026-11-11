@@ -1,0 +1,54 @@
+{
+  "name": "Polévka dne: frankfurtská",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Polední menu",
+  "description": "Polévka k polednímu menu: jíška s cibulí a paprikou, brambory a kolečka párku. S krajícem chleba.",
+  "about": [
+    "Frankfurtská je polévka, která se v jídelně vaří tak často, že ji kuchařky zvládnou poslepu. Na jíšce s cibulí se rozpustí sladká paprika, zalije se vývarem a s bramborami se vaří, dokud nezhoustne.",
+    "Párky přijdou na posledních pět minut. K menu patří krajíc chleba a otázka, jestli si dáš i hlavní jídlo."
+  ],
+  "price": 6900,
+  "image": "dish-frankfurtska-jidelna",
+  "recipe": "frankfurtska-polevka",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standard",
+          "name": "Talíř 0,3 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Talíř 0,5 l",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-chleba",
+          "name": "Bez chleba",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9
+  ],
+  "order": 40
+}

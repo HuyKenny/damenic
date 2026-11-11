@@ -1,0 +1,64 @@
+{
+  "name": "Bramboráky na sádle",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Tenké bramboráky s česnekem a majoránkou, smažené na sádle dokřupava.",
+  "about": [
+    "Bramborák je jídlo z ničeho, které se v hospodě smaží celý večer. Strouhané brambory se vymačkají, smíchají s vejcem, moukou, česnekem a majoránkou a smaží se v tenké vrstvě na sádle, dokud okraje nejsou tmavě zlaté.",
+    "Nejvíc záleží na tloušťce. Tenký bramborák je křupavý celý, tlustý zůstane uvnitř mazlavý. K nim se hodí kysané zelí nebo zakysaná smetana, ale nejčastěji se jedí jen tak."
+  ],
+  "price": 16900,
+  "image": "dish-bramboraky",
+  "recipe": "bramboraky",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet kusů",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "tri",
+          "name": "Tři kusy",
+          "priceDelta": 0
+        },
+        {
+          "id": "pet",
+          "name": "Pět kusů",
+          "priceDelta": 5000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "uzene",
+          "name": "S uzeným masem v těstě",
+          "priceDelta": 3900
+        },
+        {
+          "id": "smetana",
+          "name": "Zakysaná smetana",
+          "priceDelta": 2000
+        },
+        {
+          "id": "zeli",
+          "name": "Kysané zelí",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    1,
+    3
+  ],
+  "order": 60
+}

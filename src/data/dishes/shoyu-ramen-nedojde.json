@@ -1,0 +1,89 @@
+{
+  "name": "Shoyu ramen s kuřecím stehnem",
+  "restaurant": "ramen-nedojde",
+  "kind": "main",
+  "section": "Ramen",
+  "description": "Kuřecí vývar dochucený sójovou omáčkou, pšeničné nudle, křupavé kuřecí stehno, marinované vejce, pak choi a nori.",
+  "about": [
+    "Shoyu znamená sójová omáčka. Ta se nemíchá do hrnce, ale jako omáčka tare na dno každé misky, a teprve na ni se lije horký vývar.",
+    "Vejce s tekutým žloutkem se marinuje několik hodin, proto se doma vyplatí udělat ho večer předem. V simulaci si můžeš přidat druhé vejce nebo kimchi."
+  ],
+  "price": 23900,
+  "image": "dish-shoyu-ramen-nedojde",
+  "recipe": "ramen",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce nudlí",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "normalni",
+          "name": "Normální",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká",
+          "priceDelta": 4000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "vejce",
+          "name": "Marinované vejce navíc",
+          "priceDelta": 3000
+        },
+        {
+          "id": "kure",
+          "name": "Kuřecí maso navíc",
+          "priceDelta": 5500
+        },
+        {
+          "id": "kimchi",
+          "name": "Kimchi",
+          "priceDelta": 3500
+        },
+        {
+          "id": "nori",
+          "name": "Nori navíc",
+          "priceDelta": 1500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cibulky",
+          "name": "Bez jarní cibulky",
+          "priceDelta": 0
+        },
+        {
+          "id": "vejce",
+          "name": "Bez vejce",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    3,
+    6,
+    11
+  ],
+  "featured": true,
+  "order": 10
+}

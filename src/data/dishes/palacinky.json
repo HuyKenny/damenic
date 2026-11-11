@@ -1,0 +1,80 @@
+{
+  "name": "Palačinky s meruňkovým džemem",
+  "restaurant": "prazdna-panev",
+  "kind": "main",
+  "section": "Sladké palačinky",
+  "description": "Dvě tenké palačinky z mléčného těsta, potřené meruňkovým džemem, srolované a posypané moučkovým cukrem.",
+  "about": [
+    "Palačinka s džemem je základ, podle kterého se pozná, jestli někdo umí těsto. To se míchá z mouky, mléka a vajec do úplně hladka a pak půl hodiny odpočívá, aby se palačinky na pánvi netrhaly.",
+    "Pánev musí být dobře rozpálená a jen lehce promaštěná. Těsta stačí tolik, aby po zakroužení pokrylo dno tenkou vrstvou; čím tenčí palačinka, tím líp se roluje."
+  ],
+  "price": 12900,
+  "image": "dish-palacinky",
+  "recipe": "palacinky",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "dve",
+          "name": "Dvě palačinky",
+          "priceDelta": 0
+        },
+        {
+          "id": "tri",
+          "name": "Tři palačinky",
+          "priceDelta": 4000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "slehacka",
+          "name": "Šlehačka",
+          "priceDelta": 2500
+        },
+        {
+          "id": "zmrzlina",
+          "name": "Kopeček vanilkové zmrzliny",
+          "priceDelta": 3500
+        },
+        {
+          "id": "ovoce",
+          "name": "Čerstvé ovoce",
+          "priceDelta": 3000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-cukru",
+          "name": "Bez moučkového cukru",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": true,
+  "order": 10
+}

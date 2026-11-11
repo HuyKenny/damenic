@@ -1,0 +1,99 @@
+{
+  "name": "Tuňák se zázvorem a červeným zelím",
+  "restaurant": "poke-prazdna-miska",
+  "kind": "main",
+  "section": "Poke bowly",
+  "description": "Syrový tuňák v sójovo-sezamové marinádě se zázvorem, červené zelí, okurka, edamame a avokádo na sushi rýži, posypané opraženým sezamem.",
+  "about": [
+    "Tuňák je v poke dražší a jemnější než losos, proto ho marinujeme jen krátce a s menším množstvím omáčky. Zázvor a opražený sezam mu dodávají ostrost a ořechový tón.",
+    "Červené zelí je tu kvůli křupnutí, ne kvůli barvě. Doma ho stačí najemno nakrouhat a promačkat se špetkou soli."
+  ],
+  "price": 29900,
+  "image": "dish-tunak-zazvor-miska",
+  "recipe": "poke-tunak",
+  "optionGroups": [
+    {
+      "id": "zaklad",
+      "name": "Základ",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "sushi-ryze",
+          "name": "Sushi rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "jasminova",
+          "name": "Jasmínová rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "quinoa",
+          "name": "Quinoa",
+          "priceDelta": 2000
+        },
+        {
+          "id": "pul-salat",
+          "name": "Půl rýže, půl salátu",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "avokado",
+          "name": "Avokádo navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "edamame",
+          "name": "Edamame navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "mango",
+          "name": "Mango",
+          "priceDelta": 2500
+        },
+        {
+          "id": "ryba",
+          "name": "Dvojitá porce ryby",
+          "priceDelta": 8900
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-cibule",
+          "name": "Bez červené cibule",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-chilli",
+          "name": "Bez chilli",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    4,
+    6,
+    11
+  ],
+  "order": 30
+}

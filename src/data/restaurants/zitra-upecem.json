@@ -1,0 +1,32 @@
+{
+  "name": "Pekárna Zítra upečem",
+  "category": "dezerty",
+  "cuisine": "Brownies a cheesecaky",
+  "tagline": "Upečeme to zítra. A zítra zase zítra.",
+  "description": "Smyšlená pekárna v americkém stylu, která peče hutné brownies, pečené cheesecaky a muffiny s kousky čokolády. Košík zaplníš jen fiktivně a místo papírové krabice dostaneš recept s přesnou teplotou trouby.",
+  "etaMinutes": 25,
+  "deliveryFee": 3900,
+  "minOrder": 19900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "10:00",
+    "close": "20:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa"
+  ],
+  "logo": {
+    "text": "ZU",
+    "color": "#3E2A20",
+    "ink": "light"
+  },
+  "sections": [
+    "Brownies a muffiny",
+    "Cheesecaky",
+    "Navíc",
+    "Nápoje"
+  ],
+  "order": 143,
+  "cover": "rest-zitra-upecem"
+}

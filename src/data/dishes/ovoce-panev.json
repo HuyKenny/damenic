@@ -1,0 +1,16 @@
+{
+  "name": "Miska čerstvého ovoce",
+  "restaurant": "prazdna-panev",
+  "kind": "side",
+  "section": "Přidat k tomu",
+  "description": "Nakrájené sezónní ovoce, třeba jahody, banán a pomeranč. Sezóna se řídí tím, co máš doma.",
+  "price": 4900,
+  "image": "dish-ovoce-panev",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 80
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Domácí cola s limetkou 0,4 l",
+  "restaurant": "placka-nikam",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Perlivá voda s domácím kolovým sirupem z koření a citrusů, s plátkem limetky.",
+  "price": 5900,
+  "image": "dish-cola-limetka-placka",
+  "recipe": null,
+  "optionGroups": [
+    {
+      "id": "led",
+      "name": "Led",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "s-ledem",
+          "name": "S ledem",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-ledu",
+          "name": "Bez ledu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 100
+}

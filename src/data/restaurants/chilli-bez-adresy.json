@@ -1,0 +1,37 @@
+{
+  "name": "Chilli bez adresy",
+  "category": "mexicka",
+  "cuisine": "Tex-Mex",
+  "tagline": "Pálí to. Jenom to nikam nedorazí.",
+  "description": "Smyšlená tex-mex kuchyně s hrncem chilli, který se vaří celé odpoledne, a s fajitas z rozpálené pánve. Doručení se nekoná, objednávka je jen na zkoušku, a recept dostaneš skutečný.",
+  "etaMinutes": 40,
+  "deliveryFee": 4900,
+  "minOrder": 24900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "12:00",
+    "close": "23:30"
+  },
+  "tags": [
+    "pikantní",
+    "rodinné porce"
+  ],
+  "promo": {
+    "type": "free-delivery",
+    "label": "Dopravné 0 Kč"
+  },
+  "logo": {
+    "text": "CA",
+    "color": "#9F1239",
+    "ink": "light"
+  },
+  "sections": [
+    "Chilli a pánve",
+    "Z trouby",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 83,
+  "pickup": true,
+  "cover": "rest-chilli-bez-adresy"
+}

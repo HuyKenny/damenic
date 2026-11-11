@@ -1,0 +1,183 @@
+{
+  "title": "Boloňská omáčka",
+  "keywords": [
+    "boloňská omáčka recept",
+    "špagety po boloňsku",
+    "boloňské špagety",
+    "ragù alla bolognese"
+  ],
+  "image": "dish-spagety-bolonske",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 120,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Pomalu vařená boloňská omáčka ze mletého hovězího, zeleniny, vína a mléka, se špagetami pro čtyři. Práce je na půl hodiny, pak omáčka dvě hodiny tiše bublá; chuť dělá právě ten čas.",
+  "ingredients": [
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 80,
+      "unit": "g",
+      "note": "na drobné kostičky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 80,
+      "unit": "g",
+      "note": "najemno, nebo 1 řapík celeru",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 500,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vino-bile",
+      "amount": 150,
+      "unit": "ml",
+      "note": "suché",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "note": "1 plechovka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 200,
+      "unit": "ml",
+      "note": "podle potřeby během vaření",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "spagety",
+      "amount": 400,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na těstoviny",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Omáčka",
+      "text": "V širokém hrnci rozehřej olej s máslem a na středním plameni na nich nech 3 minuty pustit tuk slaninu. Přidej cibuli, mrkev a celer a dus 10 minut, až zelenina změkne a zesklovatí."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Zvyš plamen, přidej maso a opékej ho 8 až 10 minut, rozmělňuj ho vařečkou, dokud se tekutina neodpaří a maso nezačne hnědnout. Vmíchej protlak a minutu ho opékej."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Podlij vínem a vař, dokud se skoro úplně neodpaří. Přidej rozmačkaná loupaná rajčata, sůl a pepř a přiveď k varu."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Stáhni plamen na minimum, aby omáčka jen občas probublala, přiklop pootevřenou pokličkou a vař 2 hodiny. Každých 20 až 30 minut ji promíchej, a kdyby se začala chytat, podlij trochou vody."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Poslední půlhodinu vař omáčku bez pokličky a postupně do ní vmíchej mléko. Hotová je hustá, lesklá a tuk se na povrchu začne oddělovat. Dochuť solí a pepřem."
+    },
+    {
+      "section": "Podávání",
+      "text": "Špagety uvař v osolené vodě o minutu kratší dobu, než uvádí obal, a slij je, hrnek vody z vaření si nech stranou."
+    },
+    {
+      "section": "Podávání",
+      "text": "Špagety vsyp do omáčky, minutu je spolu promíchávej na plotně a podle potřeby přilij trochu vody z těstovin. Podávej s parmazánem."
+    }
+  ],
+  "tips": [
+    "Omáčka je druhý den ještě lepší. Vydrží 3 dny v lednici a dobře se mrazí.",
+    "V Bologni se ragù podává hlavně s širokými tagliatelle, které omáčku udrží líp než špagety."
+  ],
+  "substitutions": [
+    "Polovinu hovězího můžeš nahradit mletým vepřovým, omáčka bude jemnější.",
+    "Bílé víno nahradí červené, nebo bez alkoholu naběračka vývaru."
+  ],
+  "faq": [
+    {
+      "q": "Proč se do boloňské omáčky dává mléko?",
+      "a": "Mléko zjemní kyselost rajčat a maso po dlouhém vaření zůstane měkké. Je součástí tradičního receptu z Bologni a v hotové omáčce ho necítíš."
+    },
+    {
+      "q": "Jak dlouho vařit boloňskou omáčku?",
+      "a": "Aspoň 1,5 hodiny, ideálně 2 až 3 hodiny na mírném plameni. Za kratší dobu se maso a zelenina nestihnou spojit a omáčka chutná jako rajčata s masem."
+    },
+    {
+      "q": "Dává se do boloňské omáčky víno?",
+      "a": "Ano, obvykle suché bílé nebo červené. Alkohol se během vaření odpaří a zůstane jen chuť."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "title": "Jablečný štrúdl",
+  "keywords": [
+    "jablečný štrúdl recept",
+    "štrúdl recept",
+    "jablečný závin",
+    "štrúdl z taženého těsta"
+  ],
+  "intro": "Jablečný štrúdl z taženého těsta na 8 kusů, s necelou hodinou práce a 40 minutami v troubě. Výsledek závisí na dobře propracovaném a odpočinutém těstě a na kyselejších jablkách.",
+  "image": "dish-strudl",
+  "category": "dezerty",
+  "servings": 8,
+  "activeMinutes": 50,
+  "cookMinutes": 40,
+  "waitMinutes": 45,
+  "waitLabel": "odpočinek těsta a chladnutí",
+  "difficulty": "náročnější",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "note": "plus na podsypání",
+      "group": "Tažené těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 130,
+      "unit": "ml",
+      "note": "vlažná",
+      "group": "Tažené těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "2 do těsta, 1 na potření",
+      "group": "Tažené těsto"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Tažené těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Tažené těsto"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 6,
+      "unit": "ks",
+      "note": "asi 1 kg, kyselejší odrůda",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 50,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 50,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "na opražení strouhanky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "rozpuštěné, na potírání",
+      "group": "Dokončení"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na posypání",
+      "group": "Dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej se solí, přidej vlažnou vodu, 2 lžíce oleje a ocet. Hněť 8 až 10 minut, dokud není těsto hladké, lesklé a nelepí se; má být měkčí než na nudle."
+    },
+    {
+      "section": "Těsto",
+      "text": "Bochánek potři zbylým olejem, přikryj nahřátou miskou a nech aspoň 30 minut odpočinout. Lepek se uvolní a těsto se pak dá táhnout."
+    },
+    {
+      "section": "Náplň",
+      "text": "Strouhanku opraž na 40 g másla dozlatova a nech vychladnout. Jablka oloupej, zbav jádřinců, nakrájej na tenké plátky a pokapej citronovou šťávou. Ořechy nahrubo nasekej."
+    },
+    {
+      "section": "Náplň",
+      "text": "Troubu předehřej na 190 °C horní a spodní ohřev (175 °C horkovzduch) a plech vylož pečicím papírem. Cukr smíchej se skořicí."
+    },
+    {
+      "section": "Tažení",
+      "text": "Na stůl rozprostři čistý ubrus a posyp ho moukou. Těsto nejdřív rozválej na obdélník, pak ho vezmi na hřbety rukou a opatrně táhni od středu ke krajům, až jím prosvítá vzor ubrusu. Silné okraje odkroj."
+    },
+    {
+      "section": "Tažení",
+      "text": "Těsto pokapej trochou rozpuštěného másla. Na dvě třetiny plochy rozsyp strouhanku, na ni jablka, skořicový cukr, rozinky a ořechy; poslední třetinu nech prázdnou."
+    },
+    {
+      "section": "Tažení",
+      "text": "Nadzvedni ubrus a jeho pomocí štrúdl sroluj od strany s náplní. Konce zahni pod sebe a rolku přesuň švem dolů na plech, dlouhou do tvaru podkovy."
+    },
+    {
+      "section": "Pečení",
+      "text": "Štrúdl potři máslem a peč 35 až 45 minut, v polovině ho potři znovu. Hotový je, když je zlatohnědý a křupavý a špejle projde jablky bez odporu."
+    },
+    {
+      "section": "Pečení",
+      "text": "Nech ho aspoň 15 minut zchladnout, posyp moučkovým cukrem a krájej ostrým nožem."
+    }
+  ],
+  "tips": [
+    "Nejlepší jsou kyselejší jablka, která se pečením nerozpadnou na kaši.",
+    "Rozinky můžeš předem namočit na 15 minut do teplé vody nebo rumu, budou šťavnatější."
+  ],
+  "substitutions": [
+    "Vlašské ořechy nahradíš mandlemi, nebo je vynech.",
+    "Strouhanku můžeš nahradit nadrobenými piškoty."
+  ],
+  "faq": [
+    {
+      "q": "Jak vytáhnout štrúdlové těsto, aby se netrhalo?",
+      "a": "Těsto musí být dost propracované a odpočinuté v teple; studené a nedohnětené se trhá. Táhni ho hřbety rukou, ne prsty, a malých dírek se neboj, zakryje je náplň."
+    },
+    {
+      "q": "Proč je štrúdl vespod rozmočený?",
+      "a": "Jablka pustila šťávu do těsta. Pomáhá vrstva opražené strouhanky pod jablky a cukr sypaný až na rozložená jablka, těsně před zarolováním."
+    },
+    {
+      "q": "Můžu na štrúdl použít listové těsto?",
+      "a": "Můžeš, vyjde ale vrstvený závin, ne štrúdl. Plát listového těsta peč na 200 °C asi 25 minut a náplně dej o třetinu méně."
+    }
+  ]
+}

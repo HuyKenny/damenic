@@ -1,0 +1,172 @@
+{
+  "title": "Samosy",
+  "keywords": [
+    "samosa recept",
+    "samosy recept",
+    "indické samosy",
+    "samosa s bramborami"
+  ],
+  "intro": "Šestnáct smažených trojúhelníkových taštiček z křehkého těsta s kořeněnými bramborami a hráškem. Počítej asi se dvěma hodinami a čtvrt včetně odpočinku těsta; rozhoduje pomalé smažení v ne příliš horkém oleji.",
+  "image": "dish-samosa",
+  "category": "indicka",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 60,
+  "cookMinutes": 40,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "náročnější",
+  "tips": [
+    "Olej nesmí být moc horký. Při prudkém smažení samosy rychle zhnědnou, ale těsto zůstane uvnitř tvrdé a vyrazí na něm bubliny.",
+    "Náplň musí být úplně vychladlá, jinak těsto změkne a trhá se.",
+    "Vytvarované samosy můžeš zamrazit na plechu a smažit rovnou zmrzlé, jen o 2 až 3 minuty déle."
+  ],
+  "substitutions": [
+    "Samosy jde upéct v troubě: potři je olejem a peč 25 minut na 200 °C. Budou méně křupavé.",
+    "Místo těsta můžeš použít listové těsto, výsledek bude spíš jako pečená taštička."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit samosy?",
+      "a": "Při 160 až 170 °C 8 až 10 minut. Pomalejší smažení zajistí, že se těsto propeče a zůstane křupavé i po vychladnutí."
+    },
+    {
+      "q": "Proč samosy praskají při smažení?",
+      "a": "Okraje nebyly dobře slepené, nebo je uvnitř vzduch či teplá náplň. Okraje potři vodou a pořádně přimáčkni a náplň dávej jen vychladlou."
+    },
+    {
+      "q": "S čím se samosy podávají?",
+      "a": "Nejčastěji s mátovým nebo koriandrovým čatní, tamarindovou omáčkou nebo jen s bílým jogurtem."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "note": "studená, podle potřeby",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 600,
+      "unit": "g",
+      "note": "moučné",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 100,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 15,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nadrobno",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "garam-masala",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1000,
+      "unit": "ml",
+      "group": "Smažení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej se solí, přilij olej a prsty ho vetři do mouky, dokud nepřipomíná vlhký písek. Po lžících přidávej studenou vodu a vypracuj tuhé hladké těsto. Zabal ho a nech 30 minut odpočinout."
+    },
+    {
+      "section": "Náplň",
+      "text": "Brambory uvař ve slupce doměkka, asi 20 minut, oloupej je a nahrubo rozmačkej vidličkou, aby zůstaly kousky."
+    },
+    {
+      "section": "Náplň",
+      "text": "Na pánvi rozehřej olej, nech v něm zavonět kmín, přidej zázvor a chilli a po minutě hrášek. Po 2 minutách přidej brambory, koriandr, garam masalu a sůl a promíchej. Dochuť citronem, vmíchej koriandr a nech náplň vychladnout."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Těsto rozděl na 8 kuliček. Každou rozválej na ovál asi 15 × 20 cm a rozřízni ho napříč na dvě půlky."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Rovný okraj půlky potři vodou, přelož ho a slep do kornoutu. Naplň ho lžící náplně, horní okraj potři vodou a pevně ho přimáčkni, aby vznikl uzavřený trojúhelník."
+    },
+    {
+      "section": "Smažení",
+      "text": "V hrnci zahřej olej na 160 až 170 °C. Samosy smaž po 4 až 5 kusech 8 až 10 minut, občas je otoč, dokud nejsou zlatohnědé a křupavé. Nech je okapat na papírové utěrce."
+    }
+  ]
+}

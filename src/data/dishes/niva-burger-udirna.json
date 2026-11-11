@@ -1,0 +1,61 @@
+{
+  "name": "Burger s nivou a cibulí na másle",
+  "restaurant": "udirna-odnikud",
+  "kind": "main",
+  "section": "Burgery",
+  "description": "Hovězí plátek, rozteklá niva, cibule pomalu karamelizovaná na másle s balzamikem, rukola a hořčičná majonéza.",
+  "about": [
+    "Cibuli dusíme na másle skoro půl hodiny, dokud nezhnědne a nezesládne, a na konci ji podlijeme balzamikem. Niva na horkém mase změkne a smíchá se s ní.",
+    "Výrazný burger, který potřebuje jen rukolu a trochu hořčičné majonézy. Víc toho do bulky nedáváme."
+  ],
+  "price": 25900,
+  "image": "dish-niva-burger-udirna",
+  "recipe": "burger-niva-cibule",
+  "optionGroups": [
+    {
+      "id": "propeceni",
+      "name": "Propečení",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "stredne",
+          "name": "Středně propečené",
+          "priceDelta": 0
+        },
+        {
+          "id": "propecene",
+          "name": "Propečené",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bez",
+          "name": "Bez přílohy",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 5900
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    3,
+    7,
+    10,
+    11,
+    12
+  ],
+  "order": 50
+}

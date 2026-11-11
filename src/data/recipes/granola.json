@@ -1,0 +1,110 @@
+{
+  "title": "Domácí granola",
+  "keywords": [
+    "granola recept",
+    "domácí granola",
+    "pečená granola",
+    "granola z ovesných vloček"
+  ],
+  "intro": "Plech křupavé granoly s mandlemi a medem, asi 450 g na šest snídaní, za tři čtvrtě hodiny pečení a chladnutí. Křupavost závisí na nízké teplotě a na tom, že granolu necháš úplně vychladnout.",
+  "image": "dish-granola",
+  "category": "snidane",
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 30,
+  "waitMinutes": 30,
+  "waitLabel": "chladnutí na plechu",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "ovesne-vlocky",
+      "amount": 200,
+      "unit": "g",
+      "note": "nejlépe velké"
+    },
+    {
+      "ingredient": "mandle",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "slunecnicova-seminka",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "med",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 50,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 160 °C horní a spodní ohřev (150 °C horkovzduch) a plech vylož pečicím papírem."
+    },
+    {
+      "text": "Mandle nahrubo nasekej. V míse smíchej vločky, mandle, semínka, kokos, skořici a sůl."
+    },
+    {
+      "text": "V malém kastrolu krátce zahřej med s olejem, aby se spojily, a vlij je k suchým surovinám. Míchej tak dlouho, až jsou všechny vločky lesklé a lehce lepivé."
+    },
+    {
+      "text": "Směs rozprostři po plechu ve vrstvě asi 1 cm a lehce ji přitlač. Pro větší hrudky ji přitlač víc a při pečení ji jen jednou opatrně obrať špachtlí."
+    },
+    {
+      "text": "Peč 25 až 30 minut, v polovině promíchej. Granola je hotová, když je rovnoměrně zlatavá a voní oříškově; okraje hlídej, pálí se jako první."
+    },
+    {
+      "text": "Nech ji na plechu úplně vychladnout, teprve tak ztvrdne a zkřupne. Pak vmíchej rozinky a nasyp ji do uzavíratelné dózy."
+    }
+  ],
+  "tips": [
+    "Podávej s bílým nebo řeckým jogurtem a čerstvým ovocem, nebo jen zalitou mlékem.",
+    "Teplá granola je vždycky měkká. Nehodnoť ji, dokud nevychladne."
+  ],
+  "substitutions": [
+    "Med nahradíš javorovým sirupem; granola pak neobsahuje nic živočišného.",
+    "Mandle vyměníš za lískové nebo vlašské ořechy, slunečnicová semínka za dýňová.",
+    "Rozinky nahradíš sušenými brusinkami nebo nakrájenými meruňkami."
+  ],
+  "faq": [
+    {
+      "q": "Proč granola není křupavá?",
+      "a": "Teplá granola křupe až po vychladnutí. Pokud zůstane měkká i studená, peč ji příště o 5 minut déle nebo v tenčí vrstvě."
+    },
+    {
+      "q": "Jak dlouho domácí granola vydrží?",
+      "a": "V suché, dobře uzavřené dóze 2 až 3 týdny."
+    },
+    {
+      "q": "Kdy přidat do granoly sušené ovoce?",
+      "a": "Až po upečení a vychladnutí. V troubě sušené ovoce ztvrdne a snadno se připálí."
+    }
+  ]
+}

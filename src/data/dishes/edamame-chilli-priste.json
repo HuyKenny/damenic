@@ -1,0 +1,20 @@
+{
+  "name": "Edamame s česnekem a chilli",
+  "restaurant": "rolka-priste",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Lusky edamame orestované na sezamovém oleji s česnekem, chilli a kapkou sójové omáčky.",
+  "price": 7900,
+  "image": "dish-edamame-chilli-priste",
+  "recipe": "edamame",
+  "recipeNote": "Varianta s česnekem z receptu.",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 1,
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "order": 70
+}

@@ -63,5 +63,10 @@
   ],
   "kind": "main",
   "restaurant": "prazdna-pec",
-  "image": "dish-spagety-carbonara"
+  "image": "dish-spagety-carbonara",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
 }

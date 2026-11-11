@@ -9,5 +9,6 @@
   "description": "Miska dušené jasmínové rýže. Nelepí se, nepřipaluje a hlavně nevystydne cestou, protože žádnou cestou nejede.",
   "optionGroups": [],
   "restaurant": "wok-nic-moc",
-  "image": "dish-jasminova-ryze-wok"
+  "image": "dish-jasminova-ryze-wok",
+  "allergens": []
 }

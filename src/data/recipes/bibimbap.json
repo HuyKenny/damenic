@@ -1,0 +1,210 @@
+{
+  "title": "Bibimbap",
+  "category": "asijska",
+  "servings": 2,
+  "activeMinutes": 45,
+  "cookMinutes": 15,
+  "waitMinutes": 20,
+  "waitLabel": "marinování masa",
+  "difficulty": "střední",
+  "keywords": [
+    "bibimbap recept",
+    "korejský bibimbap",
+    "bibimbap s hovězím",
+    "recept na bibimbap"
+  ],
+  "intro": "Korejská miska rýže s marinovaným hovězím, pěti druhy zeleniny, vejcem a omáčkou z gochujangu, pro dva asi za hodinu a čtvrt. Záleží na tom, že každou zeleninu připravíš zvlášť a krátce.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-sushi",
+      "amount": 200,
+      "unit": "g",
+      "note": "kulatozrnná",
+      "group": "Rýže a maso"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 260,
+      "unit": "ml",
+      "group": "Rýže a maso"
+    },
+    {
+      "ingredient": "hovezi-rostena",
+      "amount": 200,
+      "unit": "g",
+      "group": "Rýže a maso"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Rýže a maso"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Rýže a maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Rýže a maso"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Rýže a maso"
+    },
+    {
+      "ingredient": "spenat-baby",
+      "amount": 125,
+      "unit": "g",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "fazolove-klicky",
+      "amount": 150,
+      "unit": "g",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "cuketa",
+      "amount": 150,
+      "unit": "g",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 150,
+      "unit": "g",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "spetka",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Vejce"
+    },
+    {
+      "ingredient": "gochujang",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ocet-ryzovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže a maso",
+      "text": "Hovězí nakrájej na tenké nudličky a smíchej se sójovou omáčkou, cukrem, prolisovaným česnekem a lžící sezamového oleje. Nech ho 20 minut marinovat."
+    },
+    {
+      "section": "Rýže a maso",
+      "text": "Rýži propírej, dokud voda není skoro čirá, a dej ji do hrnce s 260 ml vody. Přiveď ji k varu pod pokličkou, ztlum na minimum, vař 12 minut a pak ji nech 10 minut dojít."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Klíčky povař 2 minuty v osolené vodě a sceď je. Ve stejné vodě spař špenát na 30 sekund, sceď ho a vymačkej. Obojí zvlášť dochuť špetkou soli a pár kapkami sezamového oleje."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Mrkev, cuketu a žampiony nakrájej na nudličky a každou zeleninu zvlášť orestuj na troše oleje 1 až 2 minuty, aby zůstala křupavá. Lehce je osol."
+    },
+    {
+      "section": "Rýže a maso",
+      "text": "Na rozpálené pánvi prudce orestuj marinované maso, asi 2 minuty."
+    },
+    {
+      "section": "Vejce",
+      "text": "Vejce usmaž na volské oko tak, aby žloutek zůstal tekutý."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Na omáčku smíchej gochujang, sezamový olej, cukr, ocet a vodu."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Do misek dej rýži, na ni ve kruhu kopečky zeleniny a maso a doprostřed vejce. Přidej lžíci omáčky, posyp sezamem a před jídlem vše důkladně promíchej."
+    }
+  ],
+  "tips": [
+    "Zeleninu restuj postupně na jedné pánvi, mezi dávkami ji stačí vytřít papírovou utěrkou.",
+    "Chceš-li křupavou spodní vrstvu rýže, rozehřej litinovou pánev se lžící sezamového oleje, natlač na ni rýži a nech ji 5 až 8 minut na středním ohni, než naložíš zbytek."
+  ],
+  "substitutions": [
+    "Bez masa: hovězí nahraď kostkami tofu marinovanými stejně, jen je opeč déle dokřupava.",
+    "Žampiony mohou být klidně houby shiitake, klíčky zase nahradí okurka nakrájená na nudličky."
+  ],
+  "faq": [
+    {
+      "q": "Co je bibimbap?",
+      "a": "Korejské jídlo z misky rýže, na které se skládá zvlášť připravená zelenina, maso a vejce. Před jídlem se vše promíchá s pálivou omáčkou z gochujangu."
+    },
+    {
+      "q": "Čím nahradit gochujang?",
+      "a": "Nejbližší náhradou je lžíce srirachy smíchaná s lžící miso pasty a lžičkou medu. Chuť nebude stejná, ale bude správně pálivá a sladkoslaná."
+    },
+    {
+      "q": "Musí být vejce v bibimbapu syrové?",
+      "a": "Nemusí. Doma se nejčastěji dává volské oko s tekutým žloutkem, které se při míchání rozteče po rýži. Kdo nechce tekutý žloutek, usmaží vejce déle."
+    }
+  ],
+  "image": "dish-bibimbap",
+  "vegetarian": false
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Tuňák s mangem a avokádem",
+  "restaurant": "aloha-ani-rybka",
+  "kind": "main",
+  "section": "Tuňák",
+  "description": "Marinovaný tuňák, zralé mango, avokádo, edamame a okurka na sushi rýži, pokapané limetkou a posypané sezamem.",
+  "about": [
+    "Sladké mango a máslové avokádo uberou tuňákovi ostrost a z misky je jemnější jídlo pro ty, kdo pálivost nevyhledávají. Chilli tu dáváme jen na požádání.",
+    "Mango přidáváme na kostky až do hotové misky, do marinády ne. Šťáva z něj by rybu rozměkčila."
+  ],
+  "price": 32900,
+  "image": "dish-tunak-mango-rybka",
+  "recipe": "poke-tunak",
+  "optionGroups": [
+    {
+      "id": "zaklad",
+      "name": "Základ",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "sushi-ryze",
+          "name": "Sushi rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "jasminova",
+          "name": "Jasmínová rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "quinoa",
+          "name": "Quinoa",
+          "priceDelta": 2000
+        },
+        {
+          "id": "pul-salat",
+          "name": "Půl rýže, půl salátu",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "chilli",
+      "name": "Chilli",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bez",
+          "name": "Bez chilli",
+          "priceDelta": 0
+        },
+        {
+          "id": "trochu",
+          "name": "Trochu chilli",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "avokado",
+          "name": "Avokádo navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "edamame",
+          "name": "Edamame navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "mango",
+          "name": "Mango",
+          "priceDelta": 2500
+        },
+        {
+          "id": "ryba",
+          "name": "Dvojitá porce ryby",
+          "priceDelta": 8900
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    4,
+    6,
+    11
+  ],
+  "order": 30
+}

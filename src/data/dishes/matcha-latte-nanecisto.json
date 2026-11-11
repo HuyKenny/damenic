@@ -1,0 +1,17 @@
+{
+  "name": "Ledové matcha latte s ovesným nápojem 0,3 l",
+  "restaurant": "miska-nanecisto",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Šlehaná matcha s ovesným nápojem a ledem, neslazená.",
+  "price": 7900,
+  "image": "dish-matcha-latte-nanecisto",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    1
+  ],
+  "order": 100
+}

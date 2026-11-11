@@ -1,0 +1,167 @@
+{
+  "title": "Perník s čokoládovou polevou",
+  "keywords": [
+    "perník recept",
+    "hrníčkový perník",
+    "recept na perník",
+    "perník s polevou"
+  ],
+  "intro": "Vláčný perník na 12 kusů s čokoládovou polevou, upečený ve formě 20 × 30 cm za necelou hodinu práce i pečení. Výsledek závisí hlavně na krátkém míchání těsta a na tom, kdy ho vytáhneš z trouby.",
+  "image": "dish-pernik",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 20,
+  "cookMinutes": 35,
+  "waitMinutes": 60,
+  "waitLabel": "chladnutí a tuhnutí polevy",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 180,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "pernikove-koreni",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "zarovnaná",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 120,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "med",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na vymazání formy",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na vysypání formy",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (170 °C horkovzduch). Formu 20 × 30 cm vymaž máslem a vysyp moukou, nebo ji vylož pečicím papírem."
+    },
+    {
+      "section": "Těsto",
+      "text": "V míse smíchej polohrubou mouku, moučkový cukr, kakao, perníkové koření, prášek do pečiva a jedlou sodu. Promíchej je metlou nebo prosej, aby v těstě nezůstaly hrudky sody."
+    },
+    {
+      "section": "Těsto",
+      "text": "V druhé misce rozšlehej vejce s mlékem, olejem a medem. Med se rozmíchá snáz, když má pokojovou teplotu."
+    },
+    {
+      "section": "Těsto",
+      "text": "Tekutou směs vlij do suché a metlou ji krátce promíchej jen do spojení. Těsto má být řidší, asi jako hustá smetana; dlouhým mícháním perník ztuhne."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto vlij do formy, uhlaď ho a peč 30 až 35 minut. Prvních 20 minut troubu neotvírej."
+    },
+    {
+      "section": "Pečení",
+      "text": "Perník je hotový, když špejle zapíchnutá do středu vyjde suchá a povrch po zmáčknutí prstem pruží zpátky. Nech ho 10 minut ve formě, pak ho vyklop na mřížku a nech úplně vychladnout."
+    },
+    {
+      "section": "Poleva",
+      "text": "Čokoládu nalámej a s máslem ji rozpusť v misce nad hrncem s horkou vodou, nebo v mikrovlnce po 20 sekundách. Promíchej dohladka."
+    },
+    {
+      "section": "Poleva",
+      "text": "Polevu rozetři po vychladlém perníku a nech ji ztuhnout. Pak perník nakrájej na 12 kusů nožem namočeným v horké vodě."
+    }
+  ],
+  "tips": [
+    "Perník je druhý den vláčnější. Zabalený ve fólii vydrží při pokojové teplotě tři až čtyři dny.",
+    "Pro perník s povidly vlij do formy polovinu těsta, rozetři na něj 3 lžíce švestkových povidel a zalij zbytkem těsta.",
+    "Recept počítá v gramech. Klasický hrníčkový perník odpovídá zhruba dvěma hrnkům mouky, hrnku cukru a hrnku mléka."
+  ],
+  "substitutions": [
+    "Polohrubou mouku můžeš nahradit hladkou, perník bude o něco jemnější.",
+    "Perníkové koření si namícháš ze skořice, mletého hřebíčku, badyánu a muškátového oříšku; skořice má být nejvíc.",
+    "Čokoládovou polevu nahradíš posypem z moučkového cukru nebo bílou polevou z cukru a citronové šťávy."
+  ],
+  "faq": [
+    {
+      "q": "Proč perník spadl?",
+      "a": "Nejčastěji kvůli otevření trouby v první půlce pečení nebo kvůli příliš velkému množství sody. Drž se jedné zarovnané lžičky a troubu otevři až na zkoušku špejlí."
+    },
+    {
+      "q": "Jak dlouho péct perník?",
+      "a": "Ve formě 20 × 30 cm asi 30 až 35 minut na 180 °C. Na velkém plechu je vrstva tenčí a stačí 20 až 25 minut; rozhoduje suchá špejle."
+    },
+    {
+      "q": "Jak dlouho vydrží perník?",
+      "a": "Zabalený při pokojové teplotě 3 až 4 dny, v lednici asi týden. Dá se i zamrazit, nejlépe bez polevy."
+    }
+  ]
+}

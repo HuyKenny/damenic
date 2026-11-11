@@ -1,0 +1,16 @@
+{
+  "name": "Dušená rýže, kopeček",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Kopeček dlouhozrnné rýže tvarovaný naběračkou, přesně podle normy, kterou nikdo nečetl.",
+  "price": 3500,
+  "image": "dish-ryze-jidelna",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 80
+}

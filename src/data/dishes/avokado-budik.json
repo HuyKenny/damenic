@@ -1,0 +1,16 @@
+{
+  "name": "Avokádo s citronem a solí",
+  "restaurant": "odlozeny-budik",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Půlka zralého avokáda na plátky, citronová šťáva a vločky soli.",
+  "price": 5900,
+  "image": "dish-avokado-budik",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 80
+}

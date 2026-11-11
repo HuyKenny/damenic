@@ -1,0 +1,40 @@
+{
+  "name": "Kuře teriyaki s rýží",
+  "restaurant": "ramen-nedojde",
+  "kind": "main",
+  "section": "Rýže a knedlíčky",
+  "description": "Kuřecí stehno s křupavou kůží v lesklé omáčce teriyaki, na japonské rýži se sezamem.",
+  "about": [
+    "Teriyaki není hotová omáčka z lahve, ale sójová omáčka s mirinem, která se svaří přímo na pánvi s opečeným masem.",
+    "Přílohu si můžeš vybrat. Brokolice odpovídá receptu, kimchi přidá kyselost, která sladkou omáčku vyrovná."
+  ],
+  "price": 21900,
+  "image": "dish-kure-teriyaki-nedojde",
+  "recipe": "kure-teriyaki",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "brokolice",
+          "name": "S brokolicí",
+          "priceDelta": 0
+        },
+        {
+          "id": "kimchi",
+          "name": "S kimchi",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "order": 30
+}

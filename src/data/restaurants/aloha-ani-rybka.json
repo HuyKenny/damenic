@@ -1,0 +1,34 @@
+{
+  "name": "Aloha Ani Rybka",
+  "category": "poke",
+  "cuisine": "Poke a rybí misky",
+  "tagline": "Ryba je čerstvá. Jen k tobě nedoplave.",
+  "description": "Smyšlený poke bar zaměřený na tuňáka, lososa a pořádně ostrou majonézu. Objednávka je jen nanečisto: kurýr zůstane sedět a místo krabice dostaneš recept.",
+  "etaMinutes": 30,
+  "deliveryFee": 4900,
+  "minOrder": 24900,
+  "priceLevel": 3,
+  "hours": {
+    "open": "11:30",
+    "close": "22:00"
+  },
+  "pickup": true,
+  "tags": [
+    "pikantní",
+    "bezlepkové možnosti"
+  ],
+  "isNew": true,
+  "logo": {
+    "text": "AR",
+    "color": "#0E7C86",
+    "ink": "light"
+  },
+  "sections": [
+    "Tuňák",
+    "Losos a další",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 122,
+  "cover": "rest-aloha-ani-rybka"
+}

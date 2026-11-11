@@ -1,0 +1,124 @@
+{
+  "title": "Kuře na paprice",
+  "keywords": [
+    "kuře na paprice recept",
+    "recept na kuře na paprice",
+    "kuřecí paprikáš",
+    "paprikové kuře"
+  ],
+  "intro": "Čtyři porce kuřecích stehen v hladké smetanové omáčce s paprikou za hodinu a čtvrt. Záleží na tom, jak měkce se zpěnila cibule a jestli se mletá paprika na tuku nepřipálila.",
+  "image": "dish-kure-na-paprice",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 40,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 800,
+      "unit": "g",
+      "note": "stehenní řízky bez kosti, na větší kusy"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 250,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na drobné kostičky"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "knedlik-houskovy",
+      "amount": 600,
+      "unit": "g",
+      "note": "nebo těstoviny či rýže",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso osol a na rozpáleném oleji ho v širokém hrnci zprudka opeč ze všech stran, asi 5 minut. Vyndej ho na talíř."
+    },
+    {
+      "text": "Do výpeku přidej máslo a cibuli a na mírném plameni ji pomalu dus 8 až 10 minut, dokud nezměkne a nezezlátne."
+    },
+    {
+      "text": "Přidej čerstvou papriku a 2 minuty ji opékej s cibulí."
+    },
+    {
+      "text": "Hrnec stáhni z ohně, vmíchej mletou papriku a hned zalij vývarem. Vrať maso i se šťávou, která z něj vytekla."
+    },
+    {
+      "text": "Přiveď k varu, přiklop a dus na mírném plameni 25 až 30 minut, dokud maso není měkké."
+    },
+    {
+      "text": "Smetanu rozšlehej s moukou, vmíchej ji do omáčky a za občasného míchání povař 5 minut. Dochuť solí."
+    },
+    {
+      "text": "Kdo chce úplně hladkou omáčku, vyndá maso a omáčku rozmixuje ponorným mixérem; pak maso vrátí. Podávej s knedlíkem, těstovinami nebo rýží."
+    }
+  ],
+  "tips": [
+    "Omáčku nesol na začátku naplno. Vývar bývá slaný a chuť se při vaření zahustí.",
+    "Pro výraznější barvu přidej k sladké paprice čtvrt lžičky pálivé nebo uzené."
+  ],
+  "substitutions": [
+    "Stehna s kostí a kůží dus o 15 až 20 minut déle; před podáváním můžeš maso obrat a kosti vyhodit.",
+    "Místo smetany ke šlehání můžeš použít 200 g zakysané smetany. Rozmíchej ji s moukou a trochou horké omáčky a pak už omáčku jen prohřej."
+  ],
+  "faq": [
+    {
+      "q": "Proč je omáčka na kuře na paprice hořká?",
+      "a": "Mletá paprika se připálila. Vmíchávej ji vždy mimo plotnu a hned zalij tekutinou."
+    },
+    {
+      "q": "Lze kuře na paprice udělat z prsou?",
+      "a": "Ano, ale prsa duš jen 12 až 15 minut, jinak budou suchá. Stehna snesou delší vaření a zůstanou šťavnatá."
+    },
+    {
+      "q": "Jaká příloha se ke kuřeti na paprice hodí?",
+      "a": "Klasicky houskový knedlík nebo těstoviny, často kolínka či vřetena. Funguje i rýže."
+    }
+  ]
+}

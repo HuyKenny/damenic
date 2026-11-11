@@ -1,0 +1,14 @@
+{
+  "name": "Ledový čaj s citronovou trávou 0,4 l",
+  "restaurant": "kokos-nedorazil",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Bylinný čaj z citronové trávy a zázvoru, vychlazený a lehce slazený.",
+  "price": 5500,
+  "image": "dish-ledovy-caj-trava-kokos",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 100
+}

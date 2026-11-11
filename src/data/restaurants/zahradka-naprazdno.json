@@ -1,0 +1,34 @@
+{
+  "name": "Zahrádka Naprázdno",
+  "category": "vegetarianska",
+  "cuisine": "Vegetariánská kuchyně",
+  "tagline": "Sklizeň proběhla. Rozvoz ne.",
+  "description": "Fiktivní vegetariánská jídelna s lasagnemi, kari a pečenou zeleninou podle sezony. Nic se tu nikdy neuvaří ani neodveze, dostaneš ale recept, podle kterého to zvládneš sám.",
+  "etaMinutes": 40,
+  "deliveryFee": 4900,
+  "minOrder": 19900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "10:00",
+    "close": "21:30"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa",
+    "rodinné porce"
+  ],
+  "isNew": true,
+  "logo": {
+    "text": "ZN",
+    "color": "#A44A3F",
+    "ink": "light"
+  },
+  "sections": [
+    "Z trouby",
+    "Kari a misky",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 112,
+  "cover": "rest-zahradka-naprazdno"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Miso polévka s tofu",
+  "restaurant": "poke-prazdna-miska",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Polévka ze sójové miso pasty na zeleninovém vývaru s kostičkami tofu, řasou wakame a jarní cibulkou.",
+  "price": 6900,
+  "image": "dish-miso-polevka-miska",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    6
+  ],
+  "order": 80
+}

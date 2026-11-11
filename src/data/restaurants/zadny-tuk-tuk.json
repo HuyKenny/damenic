@@ -1,0 +1,33 @@
+{
+  "name": "Žádný Tuk-tuk",
+  "category": "thajska",
+  "cuisine": "Thajská kuchyně",
+  "tagline": "Tuk-tuk je na cestě. Na hodně dlouhé cestě.",
+  "description": "Smyšlená thajská restaurace s pad thai, kari a polévkou tom yum. Objednávka je jen na oko a žádný tuk-tuk nepřijede, recept k jídlu ale dostaneš skutečný.",
+  "etaMinutes": 40,
+  "deliveryFee": 3900,
+  "minOrder": 19900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:00",
+    "close": "22:00"
+  },
+  "pickup": true,
+  "tags": [
+    "pikantní",
+    "bezlepkové možnosti"
+  ],
+  "logo": {
+    "text": "TT",
+    "color": "#00897B",
+    "ink": "light"
+  },
+  "sections": [
+    "Nudle a rýže",
+    "Kari a polévky",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 61,
+  "cover": "rest-zadny-tuk-tuk"
+}

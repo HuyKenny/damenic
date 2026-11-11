@@ -1,0 +1,32 @@
+{
+  "name": "Sushi Bez Zrnka",
+  "category": "sushi",
+  "cuisine": "Sushi a japonská kuchyně",
+  "tagline": "Rýži propíráme šestkrát. K tobě nedorazí ani zrnko.",
+  "description": "Smyšlený sushi bar s maki rolkami, miskami chirashi a teplými jídly z japonské kuchyně. Objednat si můžeš jen nanečisto, nic se nedoveze, a pak dostaneš recept i s poznámkami k syrové rybě.",
+  "etaMinutes": 45,
+  "deliveryFee": 5900,
+  "minOrder": 29900,
+  "priceLevel": 3,
+  "hours": {
+    "open": "11:00",
+    "close": "22:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa"
+  ],
+  "logo": {
+    "text": "BZ",
+    "color": "#C62828",
+    "ink": "light"
+  },
+  "sections": [
+    "Maki a sety",
+    "Misky a teplá jídla",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 51,
+  "cover": "rest-sushi-bez-zrnka"
+}

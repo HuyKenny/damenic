@@ -1,0 +1,61 @@
+{
+  "name": "Tvarohový koláč s drobenkou",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Kynutý koláč z plechu s vanilkovým tvarohem, citronovou kůrou a máslovou drobenkou.",
+  "about": [
+    "Tvarohový koláč z plechu je pečivo, které se krájí na velké čtverce a jí se ještě ten den. Kynuté těsto má být měkké a tenké, tvarohu má být víc než těsta a drobenka nahoře má křupat, ne se sypat jako písek.",
+    "V simulaci si vybereš počet kusů a jestli chceš rozinky. Doma rozhoduje hlavně tvaroh: když je vlhký, nech ho okapat, jinak náplň uteče do těsta."
+  ],
+  "price": 6900,
+  "image": "dish-tvarohovy-kolac",
+  "recipe": "tvarohovy-kolac",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet kusů",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "1",
+          "name": "1 kus",
+          "priceDelta": 0
+        },
+        {
+          "id": "4",
+          "name": "4 kusy",
+          "priceDelta": 19900
+        },
+        {
+          "id": "12",
+          "name": "Celý plech (12 kusů)",
+          "priceDelta": 62000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "rozinek",
+          "name": "Bez rozinek",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": true,
+  "order": 10
+}

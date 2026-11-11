@@ -1,0 +1,147 @@
+{
+  "title": "Bramborový salát",
+  "keywords": [
+    "bramborový salát recept",
+    "recept na bramborový salát",
+    "český bramborový salát",
+    "vánoční bramborový salát"
+  ],
+  "intro": "Mísa majonézového bramborového salátu se zeleninou, vejci a okurkami na šest porcí. Práce je asi na hodinu, ale salát potřebuje vychladlé brambory a pár hodin odležet v lednici.",
+  "image": "dish-bramborovy-salat",
+  "category": "ceska",
+  "servings": 6,
+  "activeMinutes": 40,
+  "cookMinutes": 25,
+  "waitMinutes": 240,
+  "waitLabel": "vychladnutí brambor a odležení salátu v lednici",
+  "difficulty": "snadné",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 1200,
+      "unit": "g",
+      "note": "salátové (typ A), ve slupce"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 200,
+      "unit": "g",
+      "note": "nálev si nech"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "nebo 3 lžíce nálevu z okurek"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Vaření",
+      "text": "Brambory ve slupce vař v osolené vodě 20 až 25 minut, dokud do nich nůž nezajede jen s mírným odporem. Nesmí se rozvařit."
+    },
+    {
+      "section": "Vaření",
+      "text": "Mrkev, celer a petržel oloupej, nakrájej na kostky 1 cm a vař v osolené vodě 8 až 10 minut doměkka. Poslední 2 minuty k nim přidej hrášek. Sceď."
+    },
+    {
+      "section": "Vaření",
+      "text": "Vejce vař 10 minut natvrdo a zchlaď ve studené vodě. Brambory nech vychladnout, ideálně přes noc v lednici, aspoň ale 2 hodiny."
+    },
+    {
+      "section": "Míchání",
+      "text": "Brambory oloupej a nakrájej na kostky nebo plátky. Cibuli nakrájej nadrobno, okurky a oloupaná vejce na kostičky."
+    },
+    {
+      "section": "Míchání",
+      "text": "V misce smíchej majonézu, hořčici, ocet nebo okurkový nálev, cukr, sůl a pepř. Zálivka má být výrazná, brambory chuť ještě zředí."
+    },
+    {
+      "section": "Míchání",
+      "text": "Do velké mísy dej brambory, zeleninu, vejce, cibuli a okurky, přidej zálivku a opatrně promíchej, aby se brambory nerozmačkaly."
+    },
+    {
+      "section": "Míchání",
+      "text": "Salát přikryj a nech v lednici odležet aspoň 2 hodiny. Před podáváním ho promíchej a dochuť."
+    }
+  ],
+  "tips": [
+    "Okurkový nálev dává salátu kyselost lépe než samotný ocet. Přidávej ho po lžících.",
+    "Zeleninu můžeš uvařit i vcelku a nakrájet ji až vychladlou, drží pak lépe tvar.",
+    "Salát s majonézou nenechávej dlouho stát v teple; po podávání ho vrať do lednice."
+  ],
+  "substitutions": [
+    "Část majonézy můžeš nahradit bílým jogurtem, salát bude kyselejší a řidší.",
+    "Místo hrášku se hodí na kostičky nakrájené jablko."
+  ],
+  "faq": [
+    {
+      "q": "Jaké brambory jsou nejlepší na bramborový salát?",
+      "a": "Pevné salátové brambory typu A. Po uvaření drží tvar a nerozpadnou se při míchání."
+    },
+    {
+      "q": "Jak dlouho vydrží bramborový salát v lednici?",
+      "a": "V uzavřené nádobě 2 až 3 dny. Na pokojové teplotě by neměl stát déle než pár hodin."
+    },
+    {
+      "q": "Proč je bramborový salát kašovitý?",
+      "a": "Brambory byly rozvařené nebo ještě teplé, když se míchaly se zálivkou. Nech je úplně vychladnout a míchej jemně."
+    }
+  ],
+  "vegetarian": true
+}

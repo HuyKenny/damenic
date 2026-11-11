@@ -1,0 +1,35 @@
+{
+  "name": "Bezinková limonáda 0,4 l",
+  "restaurant": "vycep-zitra",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Domácí bezinkový sirup s perlivou vodou a plátkem citronu, čepovaná do půllitru, který nikam nedojde.",
+  "price": 5900,
+  "image": "dish-bezinkova-limonada-vycep",
+  "recipe": null,
+  "optionGroups": [
+    {
+      "id": "led",
+      "name": "Led",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "s-ledem",
+          "name": "S ledem",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-ledu",
+          "name": "Bez ledu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 90
+}

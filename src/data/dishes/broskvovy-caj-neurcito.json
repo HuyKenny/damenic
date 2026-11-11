@@ -1,0 +1,14 @@
+{
+  "name": "Ledový čaj s broskví 0,4 l",
+  "restaurant": "onigiri-neurcito",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Černý čaj louhovaný za studena s broskví.",
+  "price": 5500,
+  "image": "dish-broskvovy-caj-neurcito",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 100
+}

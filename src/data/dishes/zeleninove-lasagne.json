@@ -1,0 +1,73 @@
+{
+  "name": "Zeleninové lasagne s bešamelem",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Vrstvy těstovin, pečené cukety, lilku a papriky v rajčatové omáčce se špenátem, bešamel, mozzarella a parmazán, zapečené dozlatova.",
+  "about": [
+    "Lasagne, které se dají krájet. Zeleninu nejdřív pečeme na plechu, aby pustila vodu v troubě a ne až mezi těstovinami, a rajčatovou omáčku necháváme pořádně zhoustnout.",
+    "Pekáč na šest porcí je u nás k mání i celý. Doma ho klidně slož den předem, přes noc v lednici se chutě propojí."
+  ],
+  "price": 22900,
+  "image": "dish-zeleninove-lasagne",
+  "recipe": "zeleninove-lasagne",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "porce",
+          "name": "Jedna porce",
+          "priceDelta": 0
+        },
+        {
+          "id": "pekac",
+          "name": "Rodinný pekáč (4 porce)",
+          "priceDelta": 59000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "mozzarella",
+          "name": "Mozzarella navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "rukola",
+          "name": "Rukola navrch",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-bazalky",
+          "name": "Bez bazalky",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": true,
+  "order": 10
+}

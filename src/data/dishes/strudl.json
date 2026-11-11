@@ -1,0 +1,79 @@
+{
+  "name": "Jablečný štrúdl z taženého těsta",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Štrúdl a dorty",
+  "description": "Tenounké tažené těsto, jablka se skořicí, rozinky, vlašské ořechy a opražená strouhanka.",
+  "about": [
+    "Pravý štrúdl stojí na těstě vytaženém tak tenko, že jím prosvítá ubrus. Jablek je v něm víc než těsta a opražená strouhanka pod nimi chytá šťávu, aby spodek zůstal křupavý.",
+    "Můžeš si ho dát studený nebo ohřátý a přidat šlehačku nebo zmrzlinu. Doma počítej s hodinou práce; tažení těsta je nejtěžší část a dá se naučit napoprvé."
+  ],
+  "price": 8900,
+  "image": "dish-strudl",
+  "recipe": "strudl",
+  "optionGroups": [
+    {
+      "id": "podavani",
+      "name": "Podávání",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "studeny",
+          "name": "Studený",
+          "priceDelta": 0
+        },
+        {
+          "id": "teply",
+          "name": "Ohřátý",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "k-dezertu",
+      "name": "K dezertu",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "slehacka",
+          "name": "Šlehačka",
+          "priceDelta": 2500
+        },
+        {
+          "id": "zmrzlina",
+          "name": "Kopeček vanilkové zmrzliny",
+          "priceDelta": 4500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "orechu",
+          "name": "Bez ořechů",
+          "priceDelta": 0
+        },
+        {
+          "id": "rozinek",
+          "name": "Bez rozinek",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    8
+  ],
+  "order": 50
+}

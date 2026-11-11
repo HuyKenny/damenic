@@ -1,0 +1,16 @@
+{
+  "name": "Domácí ledový čaj s broskví",
+  "restaurant": "na-lacno",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Černý čaj vylouhovaný za studena s broskví a citronem, 0,4 l.",
+  "price": 5900,
+  "image": "dish-ledovy-caj-lacno",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 90
+}

@@ -1,0 +1,127 @@
+{
+  "title": "Frankfurtská polévka",
+  "keywords": [
+    "frankfurtská polévka recept",
+    "recept na frankfurtskou polévku",
+    "polévka s párky",
+    "frankfurtská polévka s bramborem"
+  ],
+  "intro": "Čtyři talíře husté paprikové polévky s párky a brambory za tři čtvrtě hodiny. Výsledek závisí na kvalitních párcích a na jíšce, která se nesmí připálit.",
+  "image": "dish-frankfurtska-polevka",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "studený, nebo voda s bujonem"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kostky 1 cm"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "parky",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 100,
+      "unit": "ml",
+      "note": "volitelně"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "podle chuti"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na másle zpěň cibuli dosklovita, asi 5 minut."
+    },
+    {
+      "text": "Přisyp mouku a za stálého míchání ji 2 až 3 minuty opékej na světlou jíšku."
+    },
+    {
+      "text": "Hrnec stáhni z plotny, vmíchej papriku a hned po částech přilévej studený vývar, pokaždé prošlehej metlou."
+    },
+    {
+      "text": "Přidej brambory a kmín, přiveď k varu a vař na mírném plameni 15 minut, dokud brambory nezměknou."
+    },
+    {
+      "text": "Přidej párky a vař dalších 5 minut na mírném plameni."
+    },
+    {
+      "text": "Vmíchej smetanu a majoránku rozemnutou v dlaních, dochuť solí a pepřem a polévku už jen prohřej, nevař."
+    }
+  ],
+  "tips": [
+    "Párky přidávej až na konec. Delším vařením popraskají a vyvaří se z nich chuť.",
+    "Polévka po odstání houstne; při ohřívání ji zřeď trochou vody."
+  ],
+  "substitutions": [
+    "Brambory můžeš vynechat; pak polévku zahusti o lžíci mouky víc.",
+    "Místo smetany ke šlehání jde smetana na vaření nebo zakysaná smetana rozmíchaná s trochou polévky."
+  ],
+  "faq": [
+    {
+      "q": "Jaké párky dát do frankfurtské polévky?",
+      "a": "Párky s vysokým podílem masa. Levné párky se při vaření rozpadají a polévku zbytečně mastí."
+    },
+    {
+      "q": "Proč je v polévce hrudkovitá jíška?",
+      "a": "Do horké jíšky se lila horká tekutina nebo se málo míchalo. Přilévej studený vývar po částech a prošlehávej metlou."
+    },
+    {
+      "q": "Jak dlouho vydrží frankfurtská polévka v lednici?",
+      "a": "V uzavřené nádobě 2 až 3 dny. Ohřívej ji za míchání na mírném plameni."
+    }
+  ]
+}

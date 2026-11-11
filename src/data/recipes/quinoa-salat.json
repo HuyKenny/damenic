@@ -1,0 +1,167 @@
+{
+  "title": "Quinoa salát",
+  "category": "poke",
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 25,
+  "waitLabel": "dojití a chladnutí quinoy",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "keywords": [
+    "quinoa salát recept",
+    "salát s quinoou",
+    "quinoa salát s fetou",
+    "jak uvařit quinou"
+  ],
+  "intro": "Salát z quinoy, okurky, rajčat, cizrny a balkánského sýra s citronovou zálivkou pro čtyři, hotový zhruba za hodinu. Rozhoduje dobře propláchnutá quinoa a to, aby před mícháním vychladla.",
+  "ingredients": [
+    {
+      "ingredient": "quinoa",
+      "amount": 200,
+      "unit": "g",
+      "group": "Quinoa"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 400,
+      "unit": "ml",
+      "group": "Quinoa"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Quinoa"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 250,
+      "unit": "g",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 60,
+      "unit": "g",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "cizrna-konzerva",
+      "amount": 400,
+      "unit": "g",
+      "note": "1 plechovka, scezená a propláchnutá",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "feta",
+      "amount": 150,
+      "unit": "g",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "svazek",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "hrst lístků",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na šťávu a kůru",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zálivka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Quinoa",
+      "text": "Quinou dej do jemného síta a minutu ji proplachuj pod tekoucí studenou vodou, dokud nepřestane pěnit. Tím se zbavíš hořkých látek na povrchu zrn."
+    },
+    {
+      "section": "Quinoa",
+      "text": "Quinou zalij v hrnci 400 ml vody, osol a přiveď k varu. Stáhni plamen, přiklop a vař 15 minut, dokud se voda nevsákne a zrnka nepustí bílý klíček."
+    },
+    {
+      "section": "Quinoa",
+      "text": "Hrnec odstav, nech quinou 5 minut pod pokličkou dojít, pak ji načechrej vidličkou a rozprostři na plech, aby vychladla. Trvá to asi 20 minut."
+    },
+    {
+      "section": "Salát",
+      "text": "Mezitím nakrájej okurku na kostičky, rajčata na čtvrtky a cibuli nadrobno. Petrželku a mátu nasekej, cizrnu nech okapat."
+    },
+    {
+      "section": "Salát",
+      "text": "Na zálivku smíchej šťávu z citronu, trochu nastrouhané kůry, olej, med, sůl a pepř a protřep ve sklenici."
+    },
+    {
+      "section": "Salát",
+      "text": "Ve velké míse smíchej vychladlou quinou se zeleninou, cizrnou a bylinkami, přelij zálivkou a promíchej. Ochutnej a případně dosol."
+    },
+    {
+      "section": "Salát",
+      "text": "Navrch rozdrob balkánský sýr a podávej, nebo salát nech půl hodiny odležet v lednici, chutě se propojí."
+    }
+  ],
+  "tips": [
+    "Teplá quinoa by rozpustila sýr a zavadila bylinky. Míchej ji se zeleninou až vychladlou.",
+    "Když salát chystáš dopředu, okurku a zálivku přidej až před jídlem. Okurka pouští vodu a salát by byl rozbředlý."
+  ],
+  "substitutions": [
+    "Balkánský sýr nahradí feta nebo kostičky grilovaného halloumi; pro veganskou verzi ho vynech a med vyměň za cukr.",
+    "Cizrnu lze vyměnit za červené fazole nebo vynechat, salát pak vydá spíš na přílohu."
+  ],
+  "faq": [
+    {
+      "q": "Proč je quinoa hořká?",
+      "a": "Zrna jsou na povrchu pokrytá saponiny, které chutnají hořce a mýdlově. Stačí quinou před vařením minutu proplachovat ve studené vodě na jemném sítu."
+    },
+    {
+      "q": "Jaký je poměr vody a quinoy?",
+      "a": "Na jeden díl quinoy dva díly vody, tedy 200 g na 400 ml. Vař ji přikrytou 15 minut a pak nech 5 minut dojít."
+    },
+    {
+      "q": "Jak dlouho vydrží quinoa salát v lednici?",
+      "a": "V uzavřené krabičce dva až tři dny. Nejdéle vydrží bez okurky a se zálivkou přidanou až před jídlem."
+    }
+  ],
+  "image": "dish-quinoa-salat"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Jogurtový nápoj s mátou 0,3 l",
+  "restaurant": "prazdna-misa",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 4900,
+  "description": "Bílý jogurt rozšlehaný s vodou, solí a sušenou mátou.",
+  "recipe": null,
+  "image": "dish-jogurtovy-napoj-misa",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 90
+}

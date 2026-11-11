@@ -1,0 +1,15 @@
+{
+  "name": "Guacamole s limetkou",
+  "restaurant": "tortillarna-ani-omylem",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 6900,
+  "description": "Miska ručně rozmačkaného avokáda s limetkou, cibulí a koriandrem.",
+  "recipe": "guacamole",
+  "image": "dish-guacamole-ani",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 1,
+  "allergens": [],
+  "order": 70
+}

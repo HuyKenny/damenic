@@ -1,0 +1,17 @@
+{
+  "name": "Porce šlehačky",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "side",
+  "section": "Ke kávě",
+  "description": "Ušlehaná smetana ke koláči. Doma ji ušleháš za tři minuty, my ji neušleháme vůbec.",
+  "price": 3500,
+  "image": "dish-slehacka-nedortik",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 70
+}

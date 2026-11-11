@@ -1,0 +1,41 @@
+{
+  "name": "Tom yum s kokosovým mlékem",
+  "restaurant": "kokos-nedorazil",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Kyselá a pálivá polévka s krevetami, zjemněná kokosovým mlékem, s citronovou trávou a kafírovými listy.",
+  "about": [
+    "Tom yum se v Thajsku vaří čirý i s mlékem. Krémová verze je méně ostrá, ale kyselost a vůně citronové trávy zůstávají.",
+    "Kokosové mléko se přidává až na konci a polévka se pak už nevaří."
+  ],
+  "price": 18900,
+  "image": "dish-tom-yum-kokos-kokos",
+  "recipe": "tom-yum",
+  "recipeNote": "Pro krémovou verzi vmíchej na konci 100 ml kokosového mléka a polévku už nevař.",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "05",
+          "name": "0,5 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "08",
+          "name": "0,8 l",
+          "priceDelta": 5000
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    2,
+    4
+  ],
+  "order": 30
+}

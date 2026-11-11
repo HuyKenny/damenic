@@ -1,0 +1,61 @@
+{
+  "name": "Gnocchi s hnědým máslem a parmazánem",
+  "restaurant": "lahudky-pozitri",
+  "kind": "main",
+  "section": "Těstoviny",
+  "description": "Domácí bramborové gnocchi obalené v oříškově zhnědlém másle, s parmazánem a čerstvým pepřem.",
+  "about": [
+    "Hnědé máslo je nejjednodušší omáčka, jakou gnocchi mohou dostat. Máslo se nechá pěnit, dokud nezačne vonět po oříšcích, a pak se v něm noky jen obalí.",
+    "Lahůdky gnocchi tvarují ráno a prodávají i syrové na doma. V receptu je hlavní verze s rajčatovou omáčkou a máselná je popsaná v tipech."
+  ],
+  "price": 18900,
+  "image": "dish-gnocchi-maslo-pozitri",
+  "recipe": "gnocchi",
+  "recipeNote": "Varianta s máslem z tipu v receptu.",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná (300 g)",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (450 g)",
+          "priceDelta": 4500
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "parmazan",
+          "name": "Parmazán navíc",
+          "priceDelta": 3000
+        },
+        {
+          "id": "spenat",
+          "name": "Baby špenát",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 40
+}

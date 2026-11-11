@@ -1,0 +1,37 @@
+{
+  "name": "Placka Nikam",
+  "category": "burgery",
+  "cuisine": "Smash burgery",
+  "tagline": "Placku umačkáme na plotně. Dál už nepojede.",
+  "description": "Smyšlený smash burger bar, kde se koule hovězího rozmačká na rozpálené plotně a za dvě minuty má kůrčičku. Objednávku ale nikdo nevydá, takže ji dostaneš jako recept a usmažíš si ji sám.",
+  "etaMinutes": 20,
+  "deliveryFee": 3900,
+  "minOrder": 19900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:00",
+    "close": "01:00"
+  },
+  "pickup": true,
+  "tags": [
+    "pikantní"
+  ],
+  "promo": {
+    "type": "free-delivery",
+    "label": "Dopravné 0 Kč"
+  },
+  "isNew": false,
+  "logo": {
+    "text": "PN",
+    "color": "#F28C28",
+    "ink": "dark"
+  },
+  "sections": [
+    "Smash burgery",
+    "Další burgery",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 21,
+  "cover": "rest-placka-nikam"
+}

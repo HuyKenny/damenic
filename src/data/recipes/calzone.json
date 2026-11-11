@@ -1,0 +1,154 @@
+{
+  "title": "Calzone",
+  "keywords": [
+    "calzone recept",
+    "pizza calzone",
+    "plněná pizza calzone"
+  ],
+  "image": "dish-calzone",
+  "category": "pizza",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 35,
+  "cookMinutes": 30,
+  "waitMinutes": 140,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "intro": "Dvě přeložené pizzy plněné ricottou, mozzarellou a šunkou. Práce je asi na 35 minut, rozhoduje dobře uzavřený okraj a náplň, která není mokrá.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 330,
+      "unit": "g",
+      "note": "ideálně typ 00, plus trochu na podsypání",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 210,
+      "unit": "ml",
+      "note": "vlažná",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 8,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "ricotta",
+      "amount": 250,
+      "unit": "g",
+      "note": "okapaná",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 125,
+      "unit": "g",
+      "note": "okapaná, na kostičky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 100,
+      "unit": "g",
+      "note": "na nudličky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 20,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na potření",
+      "group": "Na pečení"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 150,
+      "unit": "ml",
+      "note": "na přelití nebo jako omáčka",
+      "group": "Na pečení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Na pečení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozdrob do vlažné vody a nech ho pár minut rozpustit. Přidej mouku, sůl a olej a hněť asi 8 minut, dokud není těsto hladké, pružné a jen lehce lepivé."
+    },
+    {
+      "section": "Těsto",
+      "text": "Těsto dej do mísy vytřené olejem, zakryj a nech kynout při pokojové teplotě asi 2 hodiny, až zhruba zdvojnásobí objem. Rozděl ho na dva bochánky a nech je ještě 20 minut odpočinout pod utěrkou."
+    },
+    {
+      "section": "Náplň",
+      "text": "Ricottu smíchej s parmazánem a pepřem, pak vmíchej mozzarellu a šunku. Náplň ochutnej, sůl obvykle netřeba, šunka a sýry jsou slané dost."
+    },
+    {
+      "section": "Plnění",
+      "text": "Troubu i s plechem rozpal na 240 až 250 °C. Bochánek roztáhni na placku o průměru asi 28 cm, tentokrát i s tenčím okrajem."
+    },
+    {
+      "section": "Plnění",
+      "text": "Na jednu polovinu placky rozlož polovinu náplně, kolem dokola nech volný okraj asi 2 cm. Druhou polovinu přelož přes náplň, okraje pevně přitiskni prsty a zahni je nahoru, aby se při pečení neotevřely."
+    },
+    {
+      "section": "Pečení",
+      "text": "Na vršku udělej nožem malý zářez na odvod páry a calzone potři olejem. Peč 12 až 15 minut, dokud není zlatohnědé a pevné na poklep."
+    },
+    {
+      "section": "Pečení",
+      "text": "Passatu osol a krátce prohřej. Calzone nech 2 minuty odpočinout, náplň je uvnitř velmi horká, a podávej s rajčatovou omáčkou. Stejně připrav druhé."
+    }
+  ],
+  "tips": [
+    "Ricottu nech aspoň 15 minut okapat v sítku. Mokrá náplň rozmočí těsto zevnitř a spodek zůstane bledý.",
+    "Do náplně nedávej syrovou zeleninu, která pouští vodu. Žampiony nebo špenát nejdřív krátce osmahni a nech vychladnout."
+  ],
+  "substitutions": [
+    "Šunku nahradí pikantní salám nebo osmahnuté žampiony pro verzi bez masa.",
+    "Místo ricotty můžeš použít měkký tvaroh, náplň bude o něco kyselejší."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi calzone a pizzou?",
+      "a": "Calzone je pizza přeložená napůl a uzavřená, takže se náplň peče uvnitř těsta v páře. Rajčata se obvykle dávají navrch nebo bokem jako omáčka."
+    },
+    {
+      "q": "Proč se mi calzone při pečení otevře?",
+      "a": "Okraj je zamaštěný náplní nebo málo přitisknutý. Nech 2 cm volného těsta, přitiskni ho a zahni nahoru, a nezapomeň na zářez na páru."
+    }
+  ]
+}

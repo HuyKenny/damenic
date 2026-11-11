@@ -1,0 +1,81 @@
+{
+  "name": "Burrito s kuřetem, rýží a fazolemi",
+  "restaurant": "taqueria-nic-noveho",
+  "kind": "main",
+  "section": "Burrito a další",
+  "price": 21900,
+  "description": "Velká tortilla s kořeněným kuřetem, rajčatovou rýží, fazolemi, sýrem, salátem a zakysanou smetanou, na závěr opečená.",
+  "about": [
+    "Burrito je celý oběd v jedné placce. Uvnitř je rajčatová rýže, rozmačkané fazole, kuře opečené s kmínem a uzenou paprikou a sýr, který náplň slepí dohromady.",
+    "Na konci se zabalené burrito ještě opeče spojem dolů, takže se nerozbalí ani v ruce. Doma je to nejtěžší krok, a stojí za to ho nevynechat."
+  ],
+  "recipe": "burrito",
+  "image": "dish-burrito",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "normal",
+          "name": "Normální",
+          "priceDelta": 0
+        },
+        {
+          "id": "xl",
+          "name": "XL",
+          "priceDelta": 4900
+        }
+      ]
+    },
+    {
+      "id": "salsa",
+      "name": "Salsa",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "pico",
+          "name": "Rajčatová pico de gallo",
+          "priceDelta": 0
+        },
+        {
+          "id": "verde",
+          "name": "Zelená s limetkou",
+          "priceDelta": 0
+        },
+        {
+          "id": "palava",
+          "name": "Pálivá chipotle",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "guac",
+          "name": "Guacamole dovnitř",
+          "priceDelta": 3500
+        },
+        {
+          "id": "jalapenos",
+          "name": "Jalapeños",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 30
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Focaccia s rozmarýnem",
+  "restaurant": "trattoria-domani",
+  "kind": "side",
+  "section": "Přílohy a nápoje",
+  "description": "Kus nadýchané focaccie s olivovým olejem, hrubou solí a rozmarýnem. Ideální na vytírání omáčky, kterou nikdo nepřiveze.",
+  "price": 6900,
+  "image": "dish-focaccia-domani",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    1
+  ],
+  "order": 70
+}

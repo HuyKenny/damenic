@@ -1,0 +1,61 @@
+{
+  "name": "Bún nem se smaženými závitky",
+  "restaurant": "pho-nebude",
+  "kind": "main",
+  "section": "Nudle a rýže",
+  "description": "Rýžové nudle, salát, okurka a bylinky s nakrájenými křupavými závitky, arašídy a sladkokyselou zálivkou.",
+  "about": [
+    "Bún nem je miska, kde hlavní roli hrají smažené závitky s vepřovou náplní. Krájí se na kousky rovnou do nudlí a zeleniny, aby každé sousto mělo něco křupavého.",
+    "Závitky jsou nejpracnější část, proto se vyplatí udělat jich dvojnásobek a půlku zamrazit. Zbytek misky připravíš za čtvrt hodiny."
+  ],
+  "price": 18900,
+  "image": "dish-bun-nem-nebude",
+  "recipe": "jarni-zavitky",
+  "recipeNote": "Recept je na samotné závitky a dip. Do misky přidej uvařené rýžové nudle, salát, bylinky a arašídy.",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet závitků",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "2ks",
+          "name": "2 závitky",
+          "priceDelta": 0
+        },
+        {
+          "id": "3ks",
+          "name": "3 závitky",
+          "priceDelta": 3500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "arasidu",
+          "name": "Bez arašídů",
+          "priceDelta": 0
+        },
+        {
+          "id": "maty",
+          "name": "Bez máty",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    3,
+    4,
+    5,
+    6
+  ],
+  "order": 40
+}

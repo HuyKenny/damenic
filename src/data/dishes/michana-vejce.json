@@ -1,0 +1,71 @@
+{
+  "name": "Míchaná vejce na másle s pažitkou",
+  "restaurant": "odlozeny-budik",
+  "kind": "main",
+  "section": "Vejce",
+  "description": "Pět vajec pomalu míchaných na másle do měkkých vloček, s pažitkou a opečeným chlebem.",
+  "about": [
+    "Míchaná vejce mají být krémová a lesklá, ne suchá a gumová. Dělají se na mírném plameni a pánev se odstaví dřív, než vypadají hotová, protože zbytek dojdou v horku.",
+    "K vejcím si vybereš pečivo a můžeš přidat slaninu nebo avokádo. Doma je celé jídlo hotové za deset minut."
+  ],
+  "price": 15900,
+  "image": "dish-michana-vejce",
+  "recipe": "michana-vejce",
+  "optionGroups": [
+    {
+      "id": "pecivo",
+      "name": "Pečivo",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kvaskovy",
+          "name": "Kváskový chléb",
+          "priceDelta": 0
+        },
+        {
+          "id": "toust",
+          "name": "Toustový chléb",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez",
+          "name": "Bez pečiva",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "slanina",
+          "name": "Slanina",
+          "priceDelta": 3500
+        },
+        {
+          "id": "avokado",
+          "name": "Avokádo",
+          "priceDelta": 3900
+        },
+        {
+          "id": "cheddar",
+          "name": "Cheddar",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 20
+}

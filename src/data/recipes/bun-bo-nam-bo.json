@@ -1,0 +1,207 @@
+{
+  "title": "Bun bo nam bo",
+  "category": "asijska",
+  "servings": 2,
+  "activeMinutes": 35,
+  "cookMinutes": 5,
+  "waitMinutes": 20,
+  "waitLabel": "marinování masa",
+  "difficulty": "střední",
+  "keywords": [
+    "bun bo nam bo recept",
+    "bun bo nam bo",
+    "vietnamský nudlový salát s hovězím",
+    "recept na bun bo"
+  ],
+  "intro": "Vietnamská miska rýžových nudlí s restovaným hovězím, bylinkami, arašídy a sladkokyselou zálivkou, pro dva asi za hodinu. Chuť stojí na prudce orestovaném mase a vyvážené zálivce nuoc cham.",
+  "ingredients": [
+    {
+      "ingredient": "rybi-omacka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 120,
+      "unit": "ml",
+      "note": "vlažná",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 80,
+      "unit": "g",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "hovezi-rostena",
+      "amount": 300,
+      "unit": "g",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "citronova-trava",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "rybi-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "nudle-ryzove-tenke",
+      "amount": 150,
+      "unit": "g",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "ledovy-salat",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "fazolove-klicky",
+      "amount": 100,
+      "unit": "g",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "arasidy",
+      "amount": 40,
+      "unit": "g",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "cibulka-smazena",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Do misky"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Zálivka",
+      "text": "Na zálivku rozpusť cukr ve vlažné vodě a přidej rybí omáčku, šťávu z limetky, prolisovaný česnek a nasekané chilli. Mrkev nakrájej na tenké nudličky a vlož ji do zálivky, aby se lehce naložila."
+    },
+    {
+      "section": "Maso",
+      "text": "Citronové trávě odstraň tvrdé vnější listy a spodní třetinu nasekej co nejjemněji. Hovězí nakrájej proti vláknu na tenké plátky."
+    },
+    {
+      "section": "Maso",
+      "text": "Maso smíchej s citronovou trávou, prolisovaným česnekem, rybí omáčkou, cukrem a lžící oleje a nech ho 20 minut marinovat."
+    },
+    {
+      "section": "Do misky",
+      "text": "Arašídy opraž na suché pánvi dozlatova a nahrubo je nasekej. Nudle uvař podle obalu, obvykle 3 až 5 minut, propláchni je studenou vodou a nech okapat."
+    },
+    {
+      "section": "Do misky",
+      "text": "Salát a okurku nakrájej na nudličky a bylinky otrhej ze stonků."
+    },
+    {
+      "section": "Maso",
+      "text": "Na pánvi rozpal lžíci oleje téměř do kouře, přidej cibuli nakrájenou na měsíčky a minutu ji opékej. Přidej maso v jedné vrstvě a prudce ho opékej 2 až 3 minuty, má zůstat šťavnaté."
+    },
+    {
+      "section": "Do misky",
+      "text": "Do misek dej salát, okurku, klíčky a bylinky, na ně nudle a horké maso i s výpekem. Posyp arašídy a smaženou cibulkou, přidej mrkev a zalij zálivkou. Před jídlem promíchej."
+    }
+  ],
+  "tips": [
+    "Maso krájej napůl zmražené, plátky budou tenké a rovnoměrné.",
+    "Na pánev dávej maso v jedné vrstvě. Když je ho moc, pustí šťávu a dusí se místo opékání.",
+    "Zálivku ochutnej před podáváním. Má být zároveň slaná, sladká a kyselá, žádná chuť nesmí přebíjet."
+  ],
+  "substitutions": [
+    "Citronovou trávu nahradíš kůrou z půlky limetky, chuť bude méně výrazná.",
+    "Místo rostěny poslouží hovězí svíčková nebo kuřecí stehna."
+  ],
+  "faq": [
+    {
+      "q": "Co je bun bo nam bo?",
+      "a": "Vietnamský nudlový salát z jihu země: rýžové nudle, restované hovězí, čerstvá zelenina, bylinky a arašídy se zálivkou z rybí omáčky. Podává se vlažný a před jídlem se promíchá."
+    },
+    {
+      "q": "Jaké maso je na bun bo nam bo nejlepší?",
+      "a": "Libové a křehké hovězí, které snese krátké prudké opečení, například roštěná nebo svíčková. Krájej ho proti vláknu na tenké plátky."
+    },
+    {
+      "q": "Dá se bun bo nam bo připravit dopředu?",
+      "a": "Zálivku, nudle a nakrájenou zeleninu můžeš připravit den předem a nechat v lednici zvlášť. Maso opeč až těsně před podáváním."
+    }
+  ],
+  "image": "dish-bun-bo-nam-bo",
+  "vegetarian": false
+}

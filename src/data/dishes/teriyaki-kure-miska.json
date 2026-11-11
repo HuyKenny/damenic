@@ -1,0 +1,64 @@
+{
+  "name": "Teriyaki kuře na jasmínové rýži",
+  "restaurant": "poke-prazdna-miska",
+  "kind": "main",
+  "section": "Teplé misky",
+  "description": "Kousky kuřecích stehen v lesklé teriyaki omáčce, brokolice, edamame a mrkev na jasmínové rýži, posypané jarní cibulkou a sezamem.",
+  "about": [
+    "Teplá miska pro ty, kdo syrovou rybu nechtějí. Kuřecí stehna opékáme dozlatova a teprve na konci je obalíme v omáčce ze sójové omáčky, mirinu, medu a zázvoru.",
+    "Omáčku zahušťujeme lžičkou škrobu, takže drží na mase a nestéká na dno misky. Doma ji zvládneš v jedné pánvi za pár minut."
+  ],
+  "price": 24900,
+  "image": "dish-teriyaki-kure-miska",
+  "recipe": "teriyaki-bowl",
+  "optionGroups": [
+    {
+      "id": "zaklad",
+      "name": "Základ",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jasminova",
+          "name": "Jasmínová rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "quinoa",
+          "name": "Quinoa",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "vejce",
+          "name": "Vejce natvrdo",
+          "priceDelta": 1500
+        },
+        {
+          "id": "avokado",
+          "name": "Avokádo",
+          "priceDelta": 3500
+        },
+        {
+          "id": "omacka",
+          "name": "Teriyaki omáčka navíc",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "order": 40
+}

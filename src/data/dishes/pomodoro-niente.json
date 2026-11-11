@@ -1,0 +1,77 @@
+{
+  "name": "Spaghetti al pomodoro",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Klasiky",
+  "description": "Špagety v rajčatové omáčce s česnekem a olivovým olejem, natrhaná bazalka a parmazán.",
+  "about": [
+    "Pomodoro je test každého pasta baru: rajčata, česnek, olej a bazalka, nic dalšího. Omáčka se vaří krátce, aby rajčata zůstala svěží a neztratila sladkost.",
+    "Podáváme ji s parmazánem, ale kdo ho odebere, má jídlo bez živočišných surovin. Doma rozhodne kvalita plechovky rajčat víc než cokoli jiného."
+  ],
+  "price": 16900,
+  "image": "dish-pomodoro-niente",
+  "recipe": "spagety-rajcata-bazalka",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná (350 g)",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (500 g)",
+          "priceDelta": 4000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "parmazan",
+          "name": "Parmazán navíc",
+          "priceDelta": 3000
+        },
+        {
+          "id": "chilli",
+          "name": "Chilli",
+          "priceDelta": 500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "parmazanu",
+          "name": "Bez parmazánu",
+          "priceDelta": 0
+        },
+        {
+          "id": "cesneku",
+          "name": "Bez česneku",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 40
+}

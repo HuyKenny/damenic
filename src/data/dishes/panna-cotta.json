@@ -1,0 +1,52 @@
+{
+  "name": "Panna cotta s malinovou omáčkou",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Studené dezerty",
+  "description": "Vanilková smetanová panna cotta ve skleničce, přelitá malinovou omáčkou.",
+  "about": [
+    "Panna cotta je italsky „vařená smetana“, i když se vlastně nevaří. Smetana se jen zahřeje s vanilkou a cukrem, ztuhne díky želatině a v lednici se změní v krém, který se má na lžičce chvět.",
+    "Omáčku si vybereš z malinové nebo z lesního ovoce. Pozor, kvůli želatině není dezert vegetariánský; záměna za agar je v receptu."
+  ],
+  "price": 11900,
+  "image": "dish-panna-cotta",
+  "recipe": "panna-cotta",
+  "optionGroups": [
+    {
+      "id": "omacka",
+      "name": "Omáčka",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "maliny",
+          "name": "Malinová",
+          "priceDelta": 0
+        },
+        {
+          "id": "lesni",
+          "name": "Z lesního ovoce",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "mandle",
+          "name": "Pražené mandlové lupínky",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ],
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 50
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Pad thai s krevetami",
+  "restaurant": "zadny-tuk-tuk",
+  "kind": "main",
+  "section": "Nudle a rýže",
+  "description": "Rýžové nudle s krevetami, vejcem, jarní cibulkou a praženými arašídy, s limetkou a chilli bokem.",
+  "about": [
+    "Krevety se do pad thai přidávají místo kuřete a opékají se jen krátce, dokud nezrůžoví. Déle by ztuhly.",
+    "Limetku a chilli dostaneš zvlášť, kyselost i pálivost si dolaďuješ až na talíři."
+  ],
+  "price": 22900,
+  "image": "dish-pad-thai-krevety-tuktuk",
+  "recipe": "pad-thai-kureci",
+  "recipeNote": "Recept je s kuřecím masem. Krevety dej na pánev místo masa a opékej je jen 2 minuty.",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredne",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "arasidu",
+          "name": "Bez arašídů",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "order": 20
+}

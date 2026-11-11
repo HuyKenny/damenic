@@ -1,0 +1,160 @@
+{
+  "title": "Hovězí vývar",
+  "keywords": [
+    "hovězí vývar recept",
+    "recept na hovězí vývar",
+    "hovězí polévka s nudlemi",
+    "domácí hovězí vývar"
+  ],
+  "intro": "Asi dva a půl litru čirého hovězího vývaru z kostí a kližky, s nudlemi, masem a zeleninou. Práce je na půl hodiny, zbytek je čtyři hodiny pomalého táhnutí; čirost závisí na sbírání pěny a mírném plameni.",
+  "image": "dish-hovezi-vyvar",
+  "category": "ceska",
+  "servings": 6,
+  "activeMinutes": 30,
+  "cookMinutes": 240,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-kosti",
+      "amount": 1000,
+      "unit": "g",
+      "note": "morkové a masité",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "hovezi-klizka",
+      "amount": 500,
+      "unit": "g",
+      "note": "vcelku",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 3500,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "1 větší, ve slupce",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 200,
+      "unit": "g",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 150,
+      "unit": "g",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 100,
+      "unit": "g",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 6,
+      "unit": "ks",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "až na konci, podle chuti",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "nudle-polevkove",
+      "amount": 150,
+      "unit": "g",
+      "group": "Do talíře"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Do talíře"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Vývar",
+      "text": "Kosti opláchni studenou vodou. Pro co nejčirejší vývar je zalij vodou, přiveď k varu, 2 minuty povař, slij a kosti i hrnec opláchni."
+    },
+    {
+      "section": "Vývar",
+      "text": "Kosti a maso dej do velkého hrnce, zalij 3,5 litru studené vody a pomalu přiveď k varu. Prvních 15 minut průběžně sbírej pěnu."
+    },
+    {
+      "section": "Vývar",
+      "text": "Cibuli rozpůl a na suché pánvi ji opeč řeznou stranou dotmava. Přidej ji do hrnce i se slupkou spolu s novým kořením, pepřem a bobkovým listem."
+    },
+    {
+      "section": "Vývar",
+      "text": "Ztlum plamen tak, aby hladina jen občas probublala, a vývar bez míchání a bez poklice táhni 3 hodiny."
+    },
+    {
+      "section": "Vývar",
+      "text": "Přidej oloupanou mrkev, petržel a celer vcelku a táhni ještě hodinu. Maso by mělo být měkké."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Maso a zeleninu vyndej. Vývar sceď přes síto vyložené čistou utěrkou nebo plátýnkem a osol podle chuti."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Nudle uvař zvlášť v osolené vodě podle obalu a sceď. Maso a zeleninu nakrájej na kostičky."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Do talířů rozděl nudle, maso a zeleninu, zalij horkým vývarem a posyp petrželkou."
+    }
+  ],
+  "tips": [
+    "Nudle nevař přímo ve vývaru, uvolní z nich škrob a vývar zakalí.",
+    "Tuk z vychladlého vývaru se snadno sebere lžící z povrchu.",
+    "Tmavší a výraznější vývar získáš, když kosti předem 30 minut opečeš v troubě na 220 °C."
+  ],
+  "substitutions": [
+    "Místo kližky jde hovězí hrudí nebo plec.",
+    "Nudle můžeš nahradit játrovými knedlíčky, rýží nebo celestýnskými nudlemi z palačinek."
+  ],
+  "faq": [
+    {
+      "q": "Proč je hovězí vývar zakalený?",
+      "a": "Vařil se prudce, míchal se nebo se z něj nesebrala pěna. Vývar má jen táhnout, hladina se smí jen občas pohnout."
+    },
+    {
+      "q": "Jak dlouho vydrží hovězí vývar?",
+      "a": "V lednici 3 až 4 dny, zamražený 3 měsíce. Mraz ho v menších dávkách, ať nemusíš rozmrazovat celý hrnec."
+    },
+    {
+      "q": "Jaké kosti jsou nejlepší na vývar?",
+      "a": "Kombinace morkových a masitých kostí, třeba kolenních nebo z hrudi. Morek dodá chuť, chrupavky plnost."
+    }
+  ]
+}

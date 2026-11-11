@@ -1,0 +1,61 @@
+{
+  "name": "Glazované tofu v teriyaki se sezamem",
+  "restaurant": "miska-nanecisto",
+  "kind": "main",
+  "section": "Teplé misky",
+  "description": "Kostky tofu obalené ve škrobu, opečené dozlatova a obalené v teriyaki omáčce, s rýží, brokolicí a edamame.",
+  "about": [
+    "Teriyaki bez masa. Tofu nejdřív osušíme a obalíme ve škrobu, protože jen tak na něm omáčka drží a kůrka chvíli vydrží.",
+    "Kvůli medu v omáčce je miska vegetariánská, veganskou ji uděláš doma třtinovým cukrem místo medu."
+  ],
+  "price": 19900,
+  "image": "dish-teriyaki-tofu-nanecisto",
+  "recipe": "teriyaki-bowl",
+  "recipeNote": "Varianta s tofu z náhrad v receptu",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká",
+          "priceDelta": 4000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "tofu",
+          "name": "Tofu navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "avokado",
+          "name": "Avokádo",
+          "priceDelta": 3500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "order": 30
+}

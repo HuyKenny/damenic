@@ -1,0 +1,78 @@
+{
+  "name": "Pizza marinara",
+  "restaurant": "pizzerie-na-dobre-slovo",
+  "kind": "main",
+  "section": "Pizza rossa",
+  "description": "Neapolská klasika bez sýra: rajčata, česnek, oregano a olivový olej na měkkém těstě s vysokým okrajem.",
+  "about": [
+    "Marinara je starší než Margherita a nemá v sobě ani kousek sýra, jen rajčata, česnek, oregano a olej. Je to nejčistší způsob, jak ochutnat těsto.",
+    "Proto u ní odkazujeme na základní recept na těsto. Rajčatový základ v něm je přesně ten, který na marinaru patří, stačí ho rozetřít a pizzu upéct."
+  ],
+  "price": 15900,
+  "image": "dish-marinara-dobre-slovo",
+  "recipe": "testo-na-pizzu",
+  "recipeNote": "Rajčatový základ s česnekem a oreganem je součástí receptu na těsto.",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "32cm",
+          "name": "32 cm",
+          "priceDelta": 0
+        },
+        {
+          "id": "40cm",
+          "name": "40 cm",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "olivy",
+          "name": "Černé olivy",
+          "priceDelta": 2000
+        },
+        {
+          "id": "bazalka",
+          "name": "Čerstvá bazalka",
+          "priceDelta": 1500
+        },
+        {
+          "id": "ancovicky",
+          "name": "Ančovičky",
+          "priceDelta": 3500
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cesneku",
+          "name": "Bez česneku",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    1
+  ],
+  "order": 10
+}

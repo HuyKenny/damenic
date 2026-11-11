@@ -1,0 +1,81 @@
+{
+  "name": "Palak paneer",
+  "restaurant": "tandoor-nanecisto",
+  "kind": "main",
+  "section": "Kari",
+  "price": 21900,
+  "description": "Kostky opečeného paneeru v husté špenátové omáčce s česnekem, zázvorem a garam masalou. S rýží basmati.",
+  "about": [
+    "Palak paneer je zelené kari pro ty, kdo nechtějí maso. Špenát se rozmixuje dohladka, provaří se s cibulí, rajčaty a kořením a na konci se do něj vloží opečený paneer, sýr, který se v horku neroztéká.",
+    "Smetany je v omáčce jen trocha, aby špenát zjemnila. Barva má zůstat sytě zelená, takže se po rozmixování už jen krátce prohřívá."
+  ],
+  "recipe": "palak-paneer",
+  "image": "dish-palak-paneer",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "ryze",
+          "name": "Rýže basmati",
+          "priceDelta": 0
+        },
+        {
+          "id": "naan",
+          "name": "Naan",
+          "priceDelta": 3900
+        },
+        {
+          "id": "ryze-naan",
+          "name": "Rýže i naan",
+          "priceDelta": 5900
+        }
+      ]
+    },
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredni",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "paneer",
+          "name": "Paneer navíc",
+          "priceDelta": 4900
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 1,
+  "allergens": [
+    7
+  ],
+  "order": 30
+}

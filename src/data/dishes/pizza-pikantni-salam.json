@@ -84,5 +84,10 @@
   ],
   "kind": "main",
   "restaurant": "prazdna-pec",
-  "image": "dish-pizza-pikantni-salam"
+  "image": "dish-pizza-pikantni-salam",
+  "allergens": [
+    1,
+    7
+  ],
+  "spicy": 1
 }

@@ -1,0 +1,66 @@
+{
+  "name": "Pad thai s tofu",
+  "restaurant": "kokos-nedorazil",
+  "kind": "main",
+  "section": "Kari a nudle",
+  "description": "Rýžové nudle s opečeným tofu, vejcem, klíčky a arašídy, dochucené rybí omáčkou a limetkou.",
+  "about": [
+    "Tofu se do pad thai nejdřív opeče dokřupava, jinak se na pánvi rozpadne. Dochucení zůstává klasické, s rybí omáčkou.",
+    "Bez vejce a rybí omáčky se pad thai dá udělat taky, ale chutná jinak. Tuhle verzi uvádíme poctivě s oběma."
+  ],
+  "price": 18900,
+  "image": "dish-pad-thai-tofu-kokos",
+  "recipe": "pad-thai-kureci",
+  "recipeNote": "Místo kuřete opeč dokřupava 200 g tofu nakrájeného na kostky.",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemné",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredne",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "arasidu",
+          "name": "Bez arašídů",
+          "priceDelta": 0
+        },
+        {
+          "id": "vejce",
+          "name": "Bez vejce",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "order": 60
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Červené kari s kuřecím masem",
+  "restaurant": "kokos-nedorazil",
+  "kind": "main",
+  "section": "Kari a nudle",
+  "description": "Kuřecí stehno v kokosovém mléce s červenou kari pastou, zeleninou a limetkou, s jasmínovou rýží.",
+  "about": [
+    "Červené kari stojí na pastě ze sušených chilli, česneku a šalotky, kterou nejdřív osmažíš v oleji.",
+    "Dochucuje se až na konci rybí omáčkou, cukrem a limetkou. Ochutnávej po lžičkách."
+  ],
+  "price": 20900,
+  "image": "dish-cervene-kari-kokos",
+  "recipe": "cervene-kari-kureci",
+  "optionGroups": [
+    {
+      "id": "palivost",
+      "name": "Pálivost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jemne",
+          "name": "Jemnější",
+          "priceDelta": 0
+        },
+        {
+          "id": "stredne",
+          "name": "Středně pálivé",
+          "priceDelta": 0
+        },
+        {
+          "id": "palive",
+          "name": "Pálivé",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "spicy": 2,
+  "allergens": [
+    2,
+    4
+  ],
+  "order": 50
+}

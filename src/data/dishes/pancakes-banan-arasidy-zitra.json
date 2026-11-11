@@ -1,0 +1,57 @@
+{
+  "name": "Pancakes s banánem a arašídovým máslem",
+  "restaurant": "livancarna-az-zitra",
+  "kind": "main",
+  "section": "Pancakes",
+  "description": "Tři pancakes s plátky banánu, lžící arašídového másla a pramínkem medu.",
+  "about": [
+    "Arašídové máslo na teplé palačince změkne a rozteče se samo, banán k němu dodá sladkost a med lesk. Je to snídaně, po které se do oběda nedá myslet na jídlo.",
+    "Základ jsou stejné americké palačinky z kypřeného těsta. Arašídové máslo vyber jemné nebo s kousky, podle toho, co máš rád."
+  ],
+  "price": 17900,
+  "image": "dish-pancakes-banan-arasidy-zitra",
+  "recipe": "americke-palacinky",
+  "recipeNote": "Recept je na pancakes; banán a arašídové máslo přidáš při podávání.",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet kusů",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "tri",
+          "name": "Tři kusy",
+          "priceDelta": 0
+        },
+        {
+          "id": "pet",
+          "name": "Pět kusů",
+          "priceDelta": 5000
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-medu",
+          "name": "Bez medu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    5,
+    7
+  ],
+  "order": 50
+}

@@ -35,8 +35,9 @@ for (const d of dishes) {
     sheetPhotos.set(d.id, null);
     continue;
   }
-  const ws = [560, 840].filter((w) => w <= p.meta.width);
-  const imgs = await Promise.all(ws.map((w) => getImage({ src: p.meta!, width: w, height: Math.round((w * 9) / 16), fit: 'cover', format: 'webp', quality: 72 })));
+  const meta = p.meta;
+  const ws = [560, 840].filter((w) => w <= meta.width);
+  const imgs = await Promise.all(ws.map((w) => getImage({ src: meta, width: w, height: Math.round((w * 9) / 16), fit: 'cover', format: 'webp', quality: 72 })));
   sheetPhotos.set(d.id, imgs.length ? { src: imgs[0]!.src, srcset: imgs.map((x, i) => `${x.src} ${ws[i]}w`).join(', ') } : null);
 }
 const category = CATEGORY_LABELS[r.data.category]?.label ?? '';

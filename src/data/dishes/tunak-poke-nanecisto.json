@@ -1,0 +1,81 @@
+{
+  "name": "Tuňákový poke na vlažné rýži",
+  "restaurant": "miska-nanecisto",
+  "kind": "main",
+  "section": "Studené misky",
+  "description": "Tuňák v sójovo-sezamové marinádě se zázvorem, červené zelí, okurka, avokádo a edamame na ochucené sushi rýži.",
+  "about": [
+    "Nejdražší položka v naší nabídce, protože tuňák určený k syrové konzumaci prostě není levný. Porci ryby proto nešetříme a omáčky dáváme málo.",
+    "Rýže má být vlažná, ne studená z lednice, a tuňák naopak co nejstudenější. Ten kontrast dělá z obyčejné misky poke."
+  ],
+  "price": 28900,
+  "image": "dish-tunak-poke-nanecisto",
+  "recipe": "poke-tunak",
+  "optionGroups": [
+    {
+      "id": "zaklad",
+      "name": "Základ",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "sushi-ryze",
+          "name": "Sushi rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "jasminova",
+          "name": "Jasmínová rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "quinoa",
+          "name": "Quinoa",
+          "priceDelta": 2000
+        },
+        {
+          "id": "pul-salat",
+          "name": "Půl rýže, půl salátu",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 4,
+      "options": [
+        {
+          "id": "avokado",
+          "name": "Avokádo navíc",
+          "priceDelta": 3500
+        },
+        {
+          "id": "edamame",
+          "name": "Edamame navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "mango",
+          "name": "Mango",
+          "priceDelta": 2500
+        },
+        {
+          "id": "ryba",
+          "name": "Dvojitá porce ryby",
+          "priceDelta": 8900
+        }
+      ]
+    }
+  ],
+  "spicy": 1,
+  "allergens": [
+    1,
+    4,
+    6,
+    11
+  ],
+  "order": 60
+}

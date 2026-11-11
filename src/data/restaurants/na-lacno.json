@@ -1,0 +1,38 @@
+{
+  "name": "Kavárna Na lačno",
+  "category": "snidane",
+  "cuisine": "Brunch a výběrová káva",
+  "tagline": "Odejdeš přesně tak, jak jsi přišel. Na lačno.",
+  "description": "Smyšlená kavárna s celodenním brunchem, kde se šírují vejce, peče granola a v litinové pánvi probublává shakshuka. Objednávka zůstane fiktivní a talíř prázdný, ale recept na každé jídlo dostaneš celý.",
+  "etaMinutes": 30,
+  "deliveryFee": 3900,
+  "minOrder": 19900,
+  "priceLevel": 3,
+  "hours": {
+    "open": "08:00",
+    "close": "15:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bezlepkové možnosti"
+  ],
+  "promo": {
+    "type": "percent",
+    "label": "−15 % nad 350 Kč",
+    "percent": 15,
+    "minSubtotal": 35000
+  },
+  "logo": {
+    "text": "NL",
+    "color": "#2F6F5E",
+    "ink": "light"
+  },
+  "sections": [
+    "Brunch",
+    "Sladké",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 153,
+  "cover": "rest-na-lacno"
+}

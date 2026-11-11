@@ -1,0 +1,185 @@
+{
+  "title": "Chana masala",
+  "keywords": [
+    "chana masala recept",
+    "cizrnové kari",
+    "indická cizrna recept",
+    "chana masala s rýží"
+  ],
+  "intro": "Čtyři porce cizrny v husté rajčatovo-cibulové omáčce s indickým kořením, hotové asi za 55 minut. Recept stojí na opečené cibuli a na tom, aby se cizrna v omáčce pořádně provařila a nasákla.",
+  "image": "dish-chana-masala",
+  "category": "indicka",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 30,
+  "difficulty": "snadné",
+  "tips": [
+    "Garam masala se přidává až na konci, aby nevyvětrala její vůně.",
+    "Omáčka má být hustá, ne vodová. Když je řídká, vař ji odkrytou o pár minut déle.",
+    "Druhý den bývá chana masala výraznější; vydrží v lednici tři dny."
+  ],
+  "substitutions": [
+    "Místo konzervy můžeš použít 250 g sušené cizrny, namočené přes noc a uvařené doměkka, asi 60 až 90 minut.",
+    "Čerstvé chilli nahradí čtvrt lžičky chilli vloček."
+  ],
+  "faq": [
+    {
+      "q": "Je chana masala veganská?",
+      "a": "V tomto receptu ano, neobsahuje žádné živočišné suroviny. Jen ji nepodávej s naanem, ten bývá s jogurtem a máslem."
+    },
+    {
+      "q": "Jak zahustit chana masalu?",
+      "a": "Rozmačkej část cizrny o stěnu hrnce a vař omáčku odkrytou ještě 5 minut. Mouku ani škrob není potřeba přidávat."
+    },
+    {
+      "q": "Čím nahradit garam masalu?",
+      "a": "Nejbližší je kari koření s mletým kmínem a špetkou skořice. Chuť bude jiná, ale jídlo funguje."
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 250,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 20,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nadrobno",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Koření a omáčka"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Koření a omáčka"
+    },
+    {
+      "ingredient": "paprika-paliva",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Koření a omáčka"
+    },
+    {
+      "ingredient": "garam-masala",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Koření a omáčka"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "group": "Koření a omáčka"
+    },
+    {
+      "ingredient": "cizrna-konzerva",
+      "amount": 800,
+      "unit": "g",
+      "note": "2 plechovky, okapané a propláchnuté",
+      "group": "Koření a omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Koření a omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Koření a omáčka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Koření a omáčka"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 300,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaný",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "na tenké plátky, nepovinně",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Základ",
+      "text": "V širším hrnci rozpal olej a nech v něm 30 sekund zavonět římský kmín. Přidej cibuli a opékej ji na středním ohni 10 až 12 minut do zlatohnědé barvy."
+    },
+    {
+      "section": "Základ",
+      "text": "Přidej česnek, zázvor a chilli a opékej minutu. Vmíchej koriandr, kurkumu a pálivou papriku a míchej 30 sekund."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Přidej loupaná rajčata, rozmačkej je vařečkou a vař na středním ohni 5 až 7 minut, dokud se omáčka nezahustí a na okrajích se neodděluje olej."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Vsyp cizrnu, zalij vodou, osol a vař odkrytou na mírném ohni 20 minut za občasného míchání. Několik cizrn rozmačkej o stěnu hrnce, omáčka se tím zahustí."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Vmíchej garam masalu a citronovou šťávu a vař ještě 2 minuty. Dochuť solí."
+    },
+    {
+      "section": "Podávání",
+      "text": "Podávej s rýží basmati nebo naanem, posypané koriandrem a plátky červené cibule."
+    }
+  ],
+  "waitMinutes": 0
+}

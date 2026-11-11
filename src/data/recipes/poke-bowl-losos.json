@@ -1,0 +1,196 @@
+{
+  "title": "Poke bowl s lososem",
+  "category": "poke",
+  "servings": 2,
+  "activeMinutes": 35,
+  "cookMinutes": 15,
+  "waitMinutes": 40,
+  "waitLabel": "okapání a chladnutí rýže, marinování lososa",
+  "difficulty": "střední",
+  "vegetarian": false,
+  "keywords": [
+    "poke bowl recept",
+    "poke bowl s lososem",
+    "domácí poke bowl",
+    "losos poke"
+  ],
+  "intro": "Dvě misky poke bowlu s marinovaným lososem, avokádem, edamame a pikantní majonézou za zhruba hodinu a půl. Výsledek stojí na dobře uvařené ochucené rýži a na rybě určené k syrové konzumaci.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-sushi",
+      "amount": 200,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 260,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "ocet-ryzovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "losos-sushi",
+      "amount": 300,
+      "unit": "g",
+      "note": "bez kůže, určený k syrové konzumaci",
+      "group": "Losos"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Losos"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Losos"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na šťávu",
+      "group": "Losos"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Losos"
+    },
+    {
+      "ingredient": "avokado",
+      "amount": 1,
+      "unit": "ks",
+      "note": "zralé",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "edamame",
+      "amount": 200,
+      "unit": "g",
+      "note": "v luscích, po vyloupání asi 100 g",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "mango",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Do misky"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Pikantní majonéza"
+    },
+    {
+      "ingredient": "sriracha",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "podle chuti",
+      "group": "Pikantní majonéza"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže",
+      "text": "Rýži propírej v míse studenou vodou a vodu měň, dokud nepřestane být mléčná, obvykle čtyřikrát až pětkrát. Nech ji 15 minut okapat na sítu."
+    },
+    {
+      "section": "Rýže",
+      "text": "Rýži zalij v hrnci 260 ml vody, přiveď k varu, stáhni plamen na minimum a pod pokličkou vař 12 minut. Odstav a nech ji 10 minut dojít, pokličku nezvedej."
+    },
+    {
+      "section": "Rýže",
+      "text": "Ocet krátce ohřej s cukrem a solí, aby se rozpustily, a lehce ho vmíchej do teplé rýže. Rýži rozprostři na talíř nebo plech a nech ji vychladnout na vlažnou."
+    },
+    {
+      "section": "Losos",
+      "text": "Lososa zkontroluj prsty, vytáhni případné kosti a nakrájej ho na kostky asi 1,5 cm. Smíchej sójovou omáčku, sezamový olej a šťávu z půlky limetky a rybu v nich obal."
+    },
+    {
+      "section": "Losos",
+      "text": "Přidej nadrobno nakrájenou jarní cibulku a lososa dej marinovat do lednice na 15 až 30 minut. Déle ho nenechávej, povrch ryby by změkl."
+    },
+    {
+      "section": "Zelenina a omáčka",
+      "text": "Edamame vař 3 minuty v osolené vroucí vodě, zchlaď ho studenou vodou a vyloupej z lusků. Okurku nakrájej na tenké plátky, mrkev na nudličky, mango a avokádo na kostky."
+    },
+    {
+      "section": "Zelenina a omáčka",
+      "text": "Majonézu rozmíchej se srirachou. Začni lžičkou a přidávej, dokud není pálivost podle tebe."
+    },
+    {
+      "section": "Podávání",
+      "text": "Rýži rozděl do dvou misek a navrch vedle sebe naskládej lososa i s trochou marinády, avokádo, edamame, okurku, mrkev a mango."
+    },
+    {
+      "section": "Podávání",
+      "text": "Pokapej pikantní majonézou, posyp sezamem a podávej hned, dokud je ryba studená a rýže vlažná."
+    }
+  ],
+  "tips": [
+    "Na syrovou konzumaci kupuj jen rybu, která je tak výslovně označená. Pokud si nejsi jistý, zmraz ji aspoň na 24 hodin při −20 °C, tím se zničí případní paraziti.",
+    "Rýže do poke nemá být studená z lednice, ztvrdne a ztratí chuť. Nejlépe funguje vlažná, ochucená octem.",
+    "Všechny suroviny si nakrájej předem a lososa marinuj až nakonec, ať je v misce co nejčerstvější."
+  ],
+  "substitutions": [
+    "Sushi rýži můžeš nahradit jasmínovou. Bude méně lepivá, ale v misce to nevadí.",
+    "Komu syrová ryba nevoní, může kostky lososa opéct na pánvi z každé strany asi minutu a pak je teprve obalit v marinádě.",
+    "Mango jde vyměnit za ananas nebo ho úplně vynechat."
+  ],
+  "faq": [
+    {
+      "q": "Jaká rýže je nejlepší do poke bowlu?",
+      "a": "Kulatozrnná rýže na sushi, protože drží pohromadě a dobře nasaje octový nálev. Jasmínová rýže je přijatelná náhrada, basmati je na poke příliš sypká."
+    },
+    {
+      "q": "Můžu do poke bowlu použít mraženého lososa?",
+      "a": "Ano, pokud jde o rybu určenou k syrové konzumaci. Rozmrazuj ji pomalu v lednici přes noc, ne ve vodě nebo v mikrovlnce."
+    },
+    {
+      "q": "Jak dlouho vydrží poke bowl v lednici?",
+      "a": "Se syrovou rybou ho sněz ještě ten den. Rýži a nakrájenou zeleninu můžeš připravit den předem, lososa ale marinuj až před podáváním."
+    }
+  ],
+  "image": "dish-poke-bowl-losos"
+}

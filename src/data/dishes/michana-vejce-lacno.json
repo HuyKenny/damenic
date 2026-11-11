@@ -1,0 +1,66 @@
+{
+  "name": "Krémová míchaná vejce na kváskovém toastu",
+  "restaurant": "na-lacno",
+  "kind": "main",
+  "section": "Brunch",
+  "description": "Pomalu míchaná vejce se smetanou a máslem na opečeném kváskovém chlebu, s pažitkou.",
+  "about": [
+    "Kavárenská míchaná vejce jsou měkká, skoro tekutá, a leží na pořádném krajíci kváskového chleba, který z nich vsákne máslo. Všechno záleží na nízkém plameni a stěrce místo vidličky.",
+    "Navrch si můžeš přidat slaninu, avokádo nebo sýr. Doma jde o desetiminutovou snídani, jen ji podávej hned."
+  ],
+  "price": 17900,
+  "image": "dish-michana-vejce-lacno",
+  "recipe": "michana-vejce",
+  "optionGroups": [
+    {
+      "id": "pecivo",
+      "name": "Pečivo",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kvaskovy",
+          "name": "Kváskový toast",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez",
+          "name": "Bez pečiva",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "slanina",
+          "name": "Slanina",
+          "priceDelta": 3500
+        },
+        {
+          "id": "avokado",
+          "name": "Avokádo",
+          "priceDelta": 3900
+        },
+        {
+          "id": "losos",
+          "name": "Uzený losos",
+          "priceDelta": 5500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 30
+}

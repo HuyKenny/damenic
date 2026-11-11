@@ -1,0 +1,16 @@
+{
+  "name": "Jablečný mošt 0,33 l",
+  "restaurant": "prazdna-naberacka",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Neředěný jablečný mošt, kalný a nasládlý, v lahvi, kterou nikdo nevrátí, protože žádnou nedostaneš.",
+  "price": 4900,
+  "image": "dish-jablecny-most-naberacka",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 90
+}

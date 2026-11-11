@@ -1,0 +1,16 @@
+{
+  "name": "Mangové lassi 0,3 l",
+  "restaurant": "tandoor-nanecisto",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 6900,
+  "description": "Hustý jogurtový nápoj s mangem a kardamomem. Vychlazený, nikdy nedoručený.",
+  "recipe": null,
+  "image": "dish-mango-lassi-tandoor",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 90
+}

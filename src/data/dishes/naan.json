@@ -1,0 +1,37 @@
+{
+  "name": "Naan",
+  "restaurant": "tandoor-nanecisto",
+  "kind": "side",
+  "section": "Placky a přílohy",
+  "price": 4900,
+  "description": "Měkká kynutá placka s jogurtem z rozpálené pánve, potřená máslem.",
+  "recipe": "naan",
+  "image": "dish-naan",
+  "optionGroups": [
+    {
+      "id": "typ",
+      "name": "Typ",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "maslovy",
+          "name": "S máslem",
+          "priceDelta": 0
+        },
+        {
+          "id": "cesnekovy",
+          "name": "Česnekový",
+          "priceDelta": 1000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 70
+}

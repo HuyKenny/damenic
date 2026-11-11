@@ -1,0 +1,18 @@
+{
+  "name": "Sáček krutonů",
+  "restaurant": "prazdna-naberacka",
+  "kind": "side",
+  "section": "K polévce",
+  "description": "Kostky chleba opečené na oleji dokřupava, do jakékoli polévky z nabídky.",
+  "price": 2500,
+  "image": "dish-krutony-naberacka",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "order": 80
+}

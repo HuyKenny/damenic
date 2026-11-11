@@ -1,0 +1,15 @@
+{
+  "name": "Miso polévka s tofu",
+  "restaurant": "rolka-priste",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Miska dashi vývaru s miso pastou, tofu a wakame. Teplá, dokud ji nečekáš.",
+  "price": 5900,
+  "image": "dish-miso-polevka-priste",
+  "recipe": "miso-polevka",
+  "allergens": [
+    4,
+    6
+  ],
+  "order": 80
+}

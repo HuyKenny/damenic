@@ -1,0 +1,62 @@
+{
+  "name": "Smažené tofu s jasmínovou rýží",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "main",
+  "section": "Kari a misky",
+  "description": "Tofu osmažené ve škrobovém obalu dozlatova, obalené ve sladkoslané sójové glazuře s česnekem, s jasmínovou rýží a sezamem.",
+  "about": [
+    "Rychlé jídlo z pánve, u kterého nejvíc času zabere lisování tofu. Kostky smažíme v jedné vrstvě a nehýbeme s nimi, dokud se neodlepí samy.",
+    "Glazuru svaříme do sirupu a tofu v ní jen obrátíme. Na talíři je potřeba ho sníst hned, než změkne."
+  ],
+  "price": 19900,
+  "image": "dish-tofu-ryze-zahradka",
+  "recipe": "smazene-tofu",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "jasminova",
+          "name": "Jasmínová rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "quinoa",
+          "name": "Quinoa",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "brokolice",
+          "name": "Brokolice",
+          "priceDelta": 3500
+        },
+        {
+          "id": "vejce",
+          "name": "Sázené vejce",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 1,
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "order": 60
+}

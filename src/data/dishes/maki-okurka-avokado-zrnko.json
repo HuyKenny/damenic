@@ -1,0 +1,61 @@
+{
+  "name": "Maki s okurkou a avokádem, 8 ks",
+  "restaurant": "sushi-bez-zrnka",
+  "kind": "main",
+  "section": "Maki a sety",
+  "description": "Rolky bez ryby s křupavou okurkou, avokádem a praženým sezamem, se sójovou omáčkou.",
+  "about": [
+    "Rolka bez ryby je dobrý začátek pro každého, kdo sushi doma dělá poprvé. Okurka a avokádo se snadno krájejí a rolka drží tvar.",
+    "Okurku zbav semínek, jinak pustí vodu a rýže zvlhne. Avokádo má být zralé, ale ještě pevné."
+  ],
+  "price": 12900,
+  "image": "dish-maki-okurka-avokado-zrnko",
+  "recipe": "domaci-sushi",
+  "recipeNote": "Podle receptu na maki, jen bez lososa a s dvojnásobkem okurky.",
+  "optionGroups": [
+    {
+      "id": "posyp",
+      "name": "Posyp",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "sezam",
+          "name": "Pražený sezam",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez",
+          "name": "Bez posypu",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "wasabi",
+          "name": "Bez wasabi",
+          "priceDelta": 0
+        },
+        {
+          "id": "zazvoru",
+          "name": "Bez zázvoru",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "order": 20
+}
