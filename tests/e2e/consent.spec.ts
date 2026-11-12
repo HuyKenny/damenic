@@ -3,7 +3,7 @@ import { expect, test } from '@playwright/test';
 // Starts with an empty browser: no stored choice.
 test.use({ storageState: { cookies: [], origins: [] } });
 
-const gtm = '**/googletagmanager.com/gtm.js**';
+const gtm = /googletagmanager\.com\/gtm\.js/;
 
 test('nothing is requested from Google until the visitor accepts', async ({ page }, testInfo) => {
   const requested: string[] = [];
