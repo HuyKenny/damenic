@@ -1,0 +1,137 @@
+{
+  "title": "Fazolová polévka",
+  "keywords": [
+    "fazolová polévka",
+    "fazolová polévka recept",
+    "fazolová polévka z konzervy",
+    "fazolová polévka se slaninou"
+  ],
+  "image": "dish-fazolova-polevka-chlebova-dutina",
+  "category": "polevky",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Fazolová polévka z konzervovaných bílých fazolí je hotová za 45 minut, bez namáčení a bez dlouhého vaření. Slanina, majoránka a kapka octa jí dají chuť, kterou čekáš od hospodské fazolačky. Těžké je jen nezahustit ji příliš.",
+  "ingredients": [
+    {
+      "ingredient": "fazole-bile",
+      "amount": 800,
+      "unit": "g",
+      "note": "2 plechovky, slité a propláchnuté"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 120,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 800,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Slaninu opékej v hrnci na středním plameni 4 minuty, dokud nepustí tuk a nezezlátne. Přidej cibuli, mrkev a celer a 5 minut restuj."
+    },
+    {
+      "text": "Vmíchej česnek a protlak a míchej minutu, aby protlak mírně zkaramelizoval. Pak přisyp papriku, ihned zalij vývarem, aby se nespálila."
+    },
+    {
+      "text": "Přidej fazole a bobkový list, přiveď k varu a vař na mírném plameni 20 minut."
+    },
+    {
+      "text": "Polovinu polévky rozmixuj ponorným mixérem na hrubo (nebo rozmačkej fazole vařečkou), vrať do hrnce, aby polévka zhoustla."
+    },
+    {
+      "text": "Přidej majoránku, ocet, sůl a pepř, prohřej 2 minuty a vyndej bobkový list."
+    }
+  ],
+  "tips": [
+    "Fazole z konzervy vždy propláchni. Nálev je slaný a kalí polévku.",
+    "Chceš hustší polévku? Rozmixuj víc. Řidší? Nech fazole celé.",
+    "V lednici vydrží 4 dny, zamrazit ji jde na 3 měsíce. Po ohřevu zhoustne, přilij vývar.",
+    "Z 15 minut práce zbytek jen bublá. Hodí se na přípravu dopředu."
+  ],
+  "substitutions": [
+    "Slaninu vynecháš a dáš uzenou papriku, polévka bude bezmasá.",
+    "Konzervu nahradí 250 g sušených fazolí, které přes noc namočíš a vaříš asi hodinu."
+  ],
+  "faq": [
+    {
+      "q": "Dá se fazolová polévka uvařit z konzervy?",
+      "a": "Dá. Z konzervy je hotová do 45 minut a není potřeba noční namáčení. Fazole jen slij a propláchni."
+    },
+    {
+      "q": "Jak zahustit fazolovou polévku?",
+      "a": "Rozmixuj jednu polovinu polévky a vrať ji do hrnce, nebo fazole částečně rozmačkej vařečkou. Mouku nepotřebuješ."
+    },
+    {
+      "q": "Jde fazolová polévka zamrazit?",
+      "a": "Ano, na 3 měsíce. V lednici vydrží 4 dny, po ohřevu zhoustne, proto přilij vývar nebo vodu."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Bistro Chlebová dutina",
+  "category": "polevky",
+  "cuisine": "Polévky v chlebu a krémové polévky",
+  "tagline": "Chleba je vydlabaný. Polévka v něm zatím chybí.",
+  "description": "Krémové polévky z dýně, brokolice, květáku a mrkve a k nim chlebová miska na vytírání. Bistro je smyšlené, takže dutý bochník zůstane dutý a hlad se nasytí jedině podle receptu.",
+  "etaMinutes": 30,
+  "deliveryFee": 3500,
+  "minOrder": 17900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:00",
+    "close": "20:00"
+  },
+  "pickup": true,
+  "tags": [],
+  "isNew": true,
+  "logo": {
+    "text": "BD",
+    "color": "#E8B04A",
+    "ink": "dark"
+  },
+  "sections": [
+    "Krémové",
+    "Z hrnce",
+    "K polévce",
+    "Nápoje"
+  ],
+  "order": 271,
+  "cover": "rest-chlebova-dutina"
+}

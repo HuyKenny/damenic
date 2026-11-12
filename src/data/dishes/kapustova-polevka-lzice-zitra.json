@@ -1,0 +1,55 @@
+{
+  "name": "Kapustová polévka s uzeným",
+  "section": "Hustší",
+  "price": 10900,
+  "recipe": "kapustova-polevka",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 50,
+  "description": "Hlávková kapusta, brambory a uzené maso se špetkou smetany.",
+  "about": [
+    "Kapustová polévka je zimní polévka pro ty, co si tvrdé listy nenechají líbit. Kapusta vaří jen 15 až 20 minut, takže zůstane měkká a nezhořkne. Uzené maso dodá slanost a smetana ji zakulatí.",
+    "Doma ji uvaříš z jedné hlávky pro celou rodinu. U nás je k dostání jen v receptu, což je nejmenší hrnec na světě."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší 0,3 l",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická 0,45 l",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "chleb",
+          "name": "Krajíc chleba",
+          "priceDelta": 1900
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "lzice-zitra",
+  "image": "dish-kapustova-polevka-lzice-zitra",
+  "allergens": [
+    7
+  ]
+}

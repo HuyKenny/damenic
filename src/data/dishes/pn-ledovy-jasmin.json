@@ -1,0 +1,15 @@
+{
+  "name": "Ledový jasmínový čaj 0,4 l",
+  "restaurant": "perly-nanecisto",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Voňavý jasmínový zelený čaj s ledem, bez cukru a bez překvapení.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-pn-ledovy-jasmin",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 60
+}

@@ -1,0 +1,134 @@
+{
+  "title": "Utopenci (nakládané špekáčky)",
+  "keywords": [
+    "utopenci",
+    "utopenci recept",
+    "nakládané špekáčky",
+    "utopenci domácí"
+  ],
+  "image": "dish-utopenci-pivnice",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 5,
+  "waitMinutes": 7200,
+  "waitLabel": "pět dní v lednici",
+  "difficulty": "snadné",
+  "intro": "Utopenci jsou nakládané špekáčky s cibulí v octovém nálevu, kterým se v české hospodě zakusuje pivo. Recept je pro čtyři porce a pracovně trvá asi 25 minut, pak se čeká pět dní v lednici. Dochucený nálev a čisté sklenice jsou hlavní podmínky trvanlivosti.",
+  "steps": [
+    {
+      "text": "Špekáčky nařízni po délce asi do dvou třetin tloušťky nebo je rozpůl. Ve vodě je 5 minut povař, vyndej, nech okapat a vychladnout."
+    },
+    {
+      "text": "Vodu, ocet, cukr a sůl přiveď k varu, vař 2 minuty a stáhni z plamene. Přidej polovinu koření, nech vychladnout."
+    },
+    {
+      "text": "Do čisté vyvařené sklenice vrstvi špekáčky, cibuli, česnek, chilli a zbytek koření."
+    },
+    {
+      "text": "Zalij vychladlým nálevem tak, aby byly špekáčky zcela pod hladinou. Sklenici uzavři."
+    },
+    {
+      "text": "Nech 5 dní v lednici. Utopenci jsou hotoví, když cibule zesklovatí a špekáčky nasají chuť nálevu."
+    },
+    {
+      "text": "Podávej s chlebem, cibulí a hořčicí."
+    }
+  ],
+  "tips": [
+    "Sklenice musí být vyvařená a nálev zcela vychladlý, jinak špekáčky změknou. Utopence drž v lednici a spotřebuj do týdne.",
+    "Čím silnější nálev, tím rychlejší zrání. Pro jemnější chuť ocet nařeď víc vodou.",
+    "Špekáčky ponoř vždy zcela, vynořené části se kazí."
+  ],
+  "substitutions": [
+    "Špekáčky jde nahradit tlačenkou nebo jitrnicí, tradičně se ale dělá ze špekáčků.",
+    "Kvasný ocet jde nahradit vinným nebo jablečným.",
+    "Bez chilli bude nálev jemnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží utopenci?",
+      "a": "V lednici do týdne, pokud jsou celou dobu zcela v nálevu a sklenice byla čistá. Rozjedlé utopence neprodlužuj."
+    },
+    {
+      "q": "Kolik dní se utopenci nechávají zrát?",
+      "a": "Doporučuje se pět dní v lednici. Po třech dnech jsou jedlé, ale cibule ještě není měkká."
+    },
+    {
+      "q": "Dají se utopenci dělat z jiných uzenin?",
+      "a": "Ano, hodí se tlačenka, jitrnice nebo debrecínky. Klasika jsou ale špekáčky."
+    }
+  ],
+  "category": "ceska",
+  "ingredients": [
+    {
+      "ingredient": "spekacky",
+      "amount": 400,
+      "unit": "g",
+      "note": "4 kusy"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 250,
+      "unit": "ml",
+      "note": "kvasný, 8 %",
+      "group": "Nálev"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Nálev"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Nálev"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Nálev"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Nálev"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Nálev"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 6,
+      "unit": "ks",
+      "group": "Nálev"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "plátky",
+      "group": "Nálev"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "volitelně",
+      "group": "Nálev"
+    }
+  ]
+}

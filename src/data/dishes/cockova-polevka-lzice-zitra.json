@@ -1,0 +1,61 @@
+{
+  "name": "Čočková polévka s bramborami",
+  "section": "Hustší",
+  "price": 10900,
+  "recipe": "cockova-polevka",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "order": 10,
+  "description": "Hnědá čočka, brambory a majoránka v hustém vývaru s kapkou octa na závěr.",
+  "about": [
+    "Čočka je jediná luštěnina, kterou nikdo nemusí namáčet, a proto je polévkou pro ty, kdo mají hlad dřív, než si na něj vzpomenou. Tahle je hustá a vonná po majoránce, brambor ji zahustí a ocet na závěr probudí.",
+    "V simulaci ji dostaneš s extra krajícem chleba. Doma ji uvaříš za hodinu a zbyde na druhý den, kdy je ještě lepší. Naše lžíce zůstává prázdná, ta tvoje to nejspíš nebude."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší 0,3 l",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická 0,45 l",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "chleb",
+          "name": "Krajíc chleba",
+          "priceDelta": 1900
+        },
+        {
+          "id": "smetana",
+          "name": "Lžíce zakysané smetany",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "lzice-zitra",
+  "image": "dish-cockova-polevka-lzice-zitra",
+  "allergens": [
+    9
+  ],
+  "featured": true
+}

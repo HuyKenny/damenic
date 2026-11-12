@@ -1,0 +1,21 @@
+{
+  "name": "Koblihy s marmeládou",
+  "section": "Kynuté a smažené",
+  "price": 5900,
+  "recipe": "koblihy",
+  "vegetarian": true,
+  "order": 40,
+  "description": "Kynuté, smažené a plněné marmeládou. Cukr moučka na prstech zdarma.",
+  "about": [
+    "Kobliha je kynuté těsto uvařené v oleji. Venku zlatá, uvnitř vzdušná, uprostřed marmeláda, která ti stéká po bradě. Světlý proužek kolem obvodu znamená, že se povedla.",
+    "Smaží se po malých dávkách a při 170 až 175 °C. Oleji nevěř, teploměru ano."
+  ],
+  "kind": "main",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "image": "dish-koblihy-s-marmeladou",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

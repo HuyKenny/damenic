@@ -1,0 +1,18 @@
+{
+  "name": "Dorayaki s anko",
+  "restaurant": "perly-nanecisto",
+  "kind": "side",
+  "section": "Sladké",
+  "description": "Dvě houbovité pánvové placky s fazolovou pastou uprostřed.",
+  "about": [],
+  "price": 7900,
+  "image": "dish-pn-dorayaki",
+  "recipe": null,
+  "vegetarian": true,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 40
+}

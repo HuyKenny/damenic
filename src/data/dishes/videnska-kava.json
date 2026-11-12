@@ -1,0 +1,39 @@
+{
+  "name": "Vídeňská káva",
+  "restaurant": "prazirna-pul-hrnku",
+  "kind": "main",
+  "section": "Silné a sladké",
+  "description": "Silné espresso pod kopcem čerstvě šlehané smetany s kakaem a trochou cukru.",
+  "about": [
+    "Vídeňská káva je silné espresso se šlehačkou. Žádná složitost, jen kontrast horkého hořkého nápoje a studené sladké pěny, která se pomalu rozpouští jako sníh na kamnech.",
+    "Šlehačka se šlehá z 31 % smetany jen do měkkých špiček, aby se dala nalít, ne nasypat. Je to nejsladší věc, kterou ti tady nepřivezeme. Ale hodně nás to bolí."
+  ],
+  "price": 8500,
+  "image": "dish-videnska-kava",
+  "recipe": "videnska-kava",
+  "optionGroups": [
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "cokolada",
+          "name": "Strouhaná čokoláda",
+          "priceDelta": 1000
+        },
+        {
+          "id": "skorice",
+          "name": "Skořice navrch",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    7
+  ],
+  "order": 30
+}

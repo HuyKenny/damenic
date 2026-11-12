@@ -1,0 +1,15 @@
+{
+  "name": "Kokosové kuličky",
+  "restaurant": "perly-nanecisto",
+  "kind": "dessert",
+  "section": "Sladké",
+  "description": "Kuličky z kokosu a datlí obalené v kokosovém posypu, malá sladká zastávka.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-pn-kokosove-kulicky",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 50
+}

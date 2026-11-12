@@ -1,0 +1,57 @@
+{
+  "name": "Dýňová polévka z hokkaida",
+  "section": "Krémové",
+  "price": 11900,
+  "recipe": "dynova-polevka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 10,
+  "description": "Sladká dýně hokkaido se zázvorem a praženými semínky v chlebové misce.",
+  "about": [
+    "Hokkaido je jediná dýně, kterou nemusíš loupat, a proto je polévkou pro ty, kdo nechtějí bojovat s nožem. Vyjde sladká, jemně oříšková a krémová, bez mouky. Zázvor ji osvěží a pražená semínka dodají křupnutí.",
+    "V bistru by ji nalévali do vydlabaného bochníku. Ten je smyšlený, takže po něm zbyde jen chuť a recept. Dýni si koupíš v obchodě a polévku uvaříš doma."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší 0,3 l",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická 0,45 l",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "seminka",
+          "name": "Pražená semínka",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "chlebova-dutina",
+  "image": "dish-dynova-polevka-chlebova-dutina",
+  "allergens": [
+    7,
+    9
+  ],
+  "featured": true
+}

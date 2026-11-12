@@ -1,0 +1,16 @@
+{
+  "name": "Sezamová tyčinka s medem",
+  "restaurant": "matcharna-jeste-slehame",
+  "kind": "side",
+  "section": "Sladké",
+  "description": "Křupavá tyčinka ze sezamu a medu, ke každému čaji se hodí.",
+  "about": [],
+  "price": 4500,
+  "image": "dish-mj-sezamova-tycinka",
+  "recipe": null,
+  "vegetarian": true,
+  "allergens": [
+    11
+  ],
+  "order": 40
+}

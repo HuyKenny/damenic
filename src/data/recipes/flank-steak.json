@@ -1,0 +1,114 @@
+{
+  "title": "Flank steak na pánvi nebo grilu",
+  "keywords": [
+    "flank steak",
+    "steak",
+    "hovězí steak recept",
+    "jak udělat steak"
+  ],
+  "image": "dish-flank-steak",
+  "category": "steak",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 8,
+  "waitMinutes": 120,
+  "waitLabel": "marinování v lednici",
+  "difficulty": "střední",
+  "intro": "Flank steak je štíhlý hovězí kus s výrazným chuťovým vláknem, který se nesmí přepéct a musí se správně nakrájet. Tady je marináda na dvě hodiny, doba smažení na pánvi nebo grilu, teploty uvnitř pro všechny stupně propečení a krájení proti vláknům.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-flank",
+      "amount": 600,
+      "unit": "g",
+      "note": "kus asi 2 až 2,5 cm silný"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "do marinády"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva a kůra"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "sušený"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "čerstvě mletý"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na pánev"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "hrubá"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smíchej olivový olej, sojovku, česnek, šťávu a kůru z citronu, tymián a pepř. Flank steak v marinádě obal ze všech stran, zakryj a nech 2 hodiny v lednici, klidně až do druhého dne."
+    },
+    {
+      "text": "Maso vyndej 30 minut před smažením a otři z něj většinu marinády, jinak se bude pálit. Sojovka je slaná, takže steak solit nemusíš, jen po ochutnání po smažení."
+    },
+    {
+      "text": "Rozpal pánev nebo gril na největší žár. Pánev potři olejem, steak smaž 3 až 4 minuty z každé strany. Teploty uvnitř: rare 52 °C, medium rare 55 °C, medium 60 °C, well done 70 °C a víc."
+    },
+    {
+      "text": "Steak nech odpočinout 10 minut pod volně položenou fólií. Flank je štíhlý, takže při krájení ihned ztratí šťávu."
+    },
+    {
+      "text": "Vlákna na steaku jsou dobře vidět. Nakrájej steak ostrým nožem proti směru vláken na plátky silné asi 0,5 cm, šikmo přes steak. Vlákna se tak zkrátí a maso je měkké."
+    }
+  ],
+  "tips": [
+    "Nejčastější chyba je krájení po vláknech: i správně propečený flank pak vypadá jako žvýkačka.",
+    "Maso nemarinuj déle než 24 hodin, citronová šťáva ho začne rozkládat.",
+    "Teploměr zapichuj ze strany do středu steaku, ne shora."
+  ],
+  "substitutions": [
+    "Místo flanku se hodí hovězí kližka (skirt) nebo vykostěná hovězí roštěná stejné tloušťky.",
+    "Citron lze nahradit limetkou, tymián rozmarýnem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit flank steak?",
+      "a": "Při tloušťce 2 až 2,5 cm je to na rozpálené pánvi nebo grilu 3 až 4 minuty z každé strany na medium rare. Správná teplota uvnitř je 55 °C, potom steak 10 minut odpočívá."
+    },
+    {
+      "q": "Jak se krájí flank steak?",
+      "a": "Proti směru vláken, šikmo na plátky široké asi půl centimetru. Vlákna jsou u flanku dlouhá a hrubá, takže správné krájení rozhoduje o tom, jestli bude maso měkké."
+    },
+    {
+      "q": "Dá se flank steak udělat na pánvi místo grilu?",
+      "a": "Ano. Použij tlustou nebo litinovou pánev rozpálenou na největší žár a olej s vysokým bodem kouře. Marinádu z masa otři, aby se nepálila."
+    }
+  ]
+}

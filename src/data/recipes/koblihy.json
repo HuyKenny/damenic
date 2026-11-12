@@ -1,0 +1,138 @@
+{
+  "title": "Koblihy s marmeládou",
+  "keywords": [
+    "koblihy recept",
+    "domácí koblihy",
+    "koblihy z kynutého těsta",
+    "koblihy s marmeládou"
+  ],
+  "image": "dish-koblihy-s-marmeladou",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 40,
+  "cookMinutes": 25,
+  "waitMinutes": 90,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "intro": "Koblihy recept z kynutého těsta: dvanáct kusů, které se smaží při 170 až 175 °C a plní marmeládou. Rozhoduje teplota oleje (měř teploměrem) a dost vykynuté těsto, aby kobliha měla světlý proužek a nebyla mastná.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 500,
+      "unit": "g",
+      "note": "navíc na vál",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 25,
+      "unit": "g",
+      "note": "čerstvé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 5,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "kůra, jemně nastrouhaná",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na smažení, hloubka 5 cm",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "dzem-merunkovy",
+      "amount": 180,
+      "unit": "g",
+      "note": "na plnění",
+      "group": "Dokončení"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 50,
+      "unit": "g",
+      "note": "na posyp",
+      "group": "Dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozmíchej v lehce vlažném mléce s lžící cukru a nech 10 minut nakynout. Přidej mouku, zbytek cukru, vejce, máslo, sůl a citronovou kůru, hnětej 8 až 10 minut do hladkého těsta."
+    },
+    {
+      "text": "Těsto nech zakryté kynout 60 minut, dokud nezdvojnásobí objem."
+    },
+    {
+      "text": "Těsto rozválej na tloušťku asi 1,5 cm a vykrajuj kolečka o průměru 7 cm. Ulož je na pomoučený vál, zakryj a nech 30 minut kynout. Nehýbej s nimi, ať neklesnou."
+    },
+    {
+      "text": "Olej ohřej v hrnci s vysokým okrajem na 170 až 175 °C, ověř kuchyňským teploměrem. Koblihy opatrně klaď po 3 až 4 kusech a smaž 2 až 3 minuty z každé strany, dokud nejsou zlatohnědé. Teplota oleje nesmí klesnout pod 160 °C."
+    },
+    {
+      "text": "Vyjmi děrovanou lžící a ocedí na papírové utěrce. Střed prvního kousku zkontroluj: má být vlahý a prokynutý, s teplotou kolem 90 °C."
+    },
+    {
+      "text": "Marmeládu naplň do cukrářského sáčku s dlouhou špičkou, do koblih ji vstříkni do boku. Posyp cukrem moučkou a podávej do 2 hodin."
+    }
+  ],
+  "tips": [
+    "Olej bez dozoru nenechávej a nikdy ho nehas vodou. V případě požáru pánev zakryj pokličkou a vypni sporák.",
+    "Koblihy kladi do oleje horní stranou dolů. Obracej je jen jednou.",
+    "První kobliha je zkouška: pokud je venku tmavá a uvnitř syrová, olej je moc horký."
+  ],
+  "substitutions": [
+    "Meruňkový džem za rybízový, švestkový nebo vanilkový krém.",
+    "Čerstvé droždí za 8 g sušeného."
+  ],
+  "faq": [
+    {
+      "q": "Při jaké teplotě smažit koblihy?",
+      "a": "Při 170 až 175 °C. Pod 160 °C nasají tuk a jsou mastné, nad 180 °C zhnědnou, zatímco střed zůstane syrový."
+    },
+    {
+      "q": "Proč mají koblihy bílý proužek?",
+      "a": "Vzniká tam, kde je kobliha nad povrchem oleje. Podmínkou je dobře vykynuté, lehké těsto, které na oleji plave a smaží se pozvolna."
+    },
+    {
+      "q": "Proč jsou koblihy mastné?",
+      "a": "Nejčastěji je olej příliš studený, pod 160 °C, nebo těsto málo vykynulo. Teplotu měř teploměrem a koblihy dávej po malých dávkách."
+    }
+  ]
+}

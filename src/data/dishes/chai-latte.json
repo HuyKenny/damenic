@@ -1,0 +1,62 @@
+{
+  "name": "Chai latte",
+  "restaurant": "perly-nanecisto",
+  "kind": "main",
+  "section": "Čajové latte",
+  "description": "Černý čaj vařený s kardamomem, skořicí, zázvorem a mlékem, sladký a voňavý.",
+  "about": [
+    "Chai latte vychází z indického masala chai, čaje vařeného přímo s mlékem a kořením. Skořice, kardamom, zázvor a hřebíček se vaří spolu a při loupání vůně vyplní celou kuchyni.",
+    "Pravá verze se vaří v hrnku, ne ze sirupu. Čaj nesmí vařit dlouho, jinak zhořkne. Můžeš se nadechnout, ale voňavý hrnek ti nedoručíme."
+  ],
+  "price": 8900,
+  "image": "dish-chai-latte",
+  "recipe": "chai-latte",
+  "optionGroups": [
+    {
+      "id": "mleko",
+      "name": "Mléko",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kravske",
+          "name": "Kravské",
+          "priceDelta": 0
+        },
+        {
+          "id": "ovesne",
+          "name": "Ovesné",
+          "priceDelta": 1000
+        },
+        {
+          "id": "kokosove",
+          "name": "Kokosové",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "med",
+          "name": "Med",
+          "priceDelta": 800
+        },
+        {
+          "id": "pena",
+          "name": "Mléčná pěna navrch",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    7
+  ],
+  "order": 20
+}

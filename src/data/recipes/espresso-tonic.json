@@ -1,0 +1,81 @@
+{
+  "title": "Espresso tonic",
+  "keywords": [
+    "espresso tonic",
+    "espresso tonic recept",
+    "espresso tonic doma",
+    "espresso tonic jak na to"
+  ],
+  "image": "dish-espresso-tonic",
+  "category": "kavarna",
+  "vegetarian": true,
+  "servings": 1,
+  "activeMinutes": 8,
+  "cookMinutes": 2,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Espresso tonic je studený nápoj z tonicu, ledu a dvojitého espressa pro jednu osobu za pět minut. Aby vznikly dvě vrstvy, musí být tonic ledově studený a espresso se lije pomalu přes lžičku.",
+  "ingredients": [
+    {
+      "ingredient": "tonik",
+      "amount": 150,
+      "unit": "ml",
+      "note": "vychlazený"
+    },
+    {
+      "ingredient": "led-do-napoju",
+      "amount": 150,
+      "unit": "g",
+      "note": "kostky"
+    },
+    {
+      "ingredient": "kava-mleta",
+      "amount": 18,
+      "unit": "g",
+      "note": "čerstvě namletá na espresso"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "plátek na ozdobu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Sklenici naplň do dvou třetin ledem a na led nalij 150 ml vychlazeného tonicu. Nalévej pomalu u stěny, ať tonic nezpění."
+    },
+    {
+      "text": "Z 18 g kávy připrav 36 až 40 ml espressa nebo stejné množství silné kávy z moka konvičky."
+    },
+    {
+      "text": "Espresso lij na zadní stranu lžičky těsně nad hladinu, aby se vrstvilo na tonic a nepromíchalo."
+    },
+    {
+      "text": "Na okraj sklenice dej plátek citronu, můžeš ho vymáčknout nad nápoj. Pij ihned a před pitím lehce promíchej brčkem."
+    }
+  ],
+  "tips": [
+    "Vychlazený tonic je klíč, teplý by se po espressu zpěnil.",
+    "Citron přidá svěžest, pomeranč dodá sladší chuť.",
+    "Espresso můžeš před nalitím chvíli nechat zchladnout, vrstvení bude výraznější."
+  ],
+  "substitutions": [
+    "Místo espressa lze použít silnou kávu z aeropressu.",
+    "Bezcukrový tonic dá hořčejší a sušší chuť."
+  ],
+  "faq": [
+    {
+      "q": "Proč se espresso tonic pění?",
+      "a": "Pěna vzniká, když se horké espresso nebo teplý tonic setká s oxidem uhličitým. Použij ledově studený tonic, hodně ledu a nalévej espresso pomalu přes lžičku."
+    },
+    {
+      "q": "Jaký tonic je nejlepší do espresso tonicu?",
+      "a": "Hodí se obyčejný tonic s jemnou hořkostí chininu a bez přílišné sladkosti. Příliš sladký tonic překryje chuť kávy."
+    },
+    {
+      "q": "Dá se espresso tonic udělat s cold brew?",
+      "a": "Ano, cold brew dává jemnější a méně kyselou variantu. Nalij ho na tonic s ledem v poměru zhruba 1 : 2."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Espresso tonic",
+  "restaurant": "kavarna-dopiju-zitra",
+  "kind": "main",
+  "section": "Espresso",
+  "description": "Šumivý tonic, led, plátek citronu a espresso, které se pomalu vrství shora.",
+  "about": [
+    "Espresso tonic vypadá jako laboratorní pokus: dole čirý tonic s ledem, nahoře tmavé espresso s pěnou. Chuť je překvapivě svěží, hořkost kávy se potká s hořkostí chininu a citrusem z plátku citronu.",
+    "Pořadí je důležité: tonic do sklenice, led, a espresso až nakonec přes lžičku, aby se vrstvy nepromíchaly hned. Doma stačí moka konvička nebo kávovar. Šumění je opravdové, jen k tobě nedoletí."
+  ],
+  "price": 8900,
+  "image": "dish-espresso-tonic",
+  "recipe": "espresso-tonic",
+  "optionGroups": [
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "shot",
+          "name": "Extra shot espressa",
+          "priceDelta": 1500
+        },
+        {
+          "id": "pomeranc",
+          "name": "Plátek pomeranče",
+          "priceDelta": 800
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 20
+}

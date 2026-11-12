@@ -1,0 +1,56 @@
+{
+  "name": "Květáková polévka s muškátem",
+  "section": "Krémové",
+  "price": 10900,
+  "recipe": "kvetakova-polevka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 30,
+  "description": "Jemná krémová polévka z květáku s muškátovým oříškem a kapkou citronu.",
+  "about": [
+    "Květáková polévka je jedna z těch, které nejsou na první pohled efektní. Je bílá, hladká a tichá. Ale muškátový oříšek a kapka citronu ji promění v polévku, na kterou si vzpomeneš ještě druhý den.",
+    "Květák se vaří jen 15 až 18 minut, jinak začne voňet po síře. Bistro to ví, proto se u nás nevaří vůbec. Je smyšlené."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší 0,3 l",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická 0,45 l",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "chleb",
+          "name": "Chlebová miska",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "chlebova-dutina",
+  "image": "dish-kvetakova-polevka-chlebova-dutina",
+  "allergens": [
+    7,
+    9
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Jablečný mošt 0,3 l",
+  "restaurant": "chlebova-dutina",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Mošt z jablek, která se v naší představě právě lisují. Chutná sladce a čistě.",
+  "price": 3900,
+  "image": "dish-most-chlebova-dutina",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 200,
+  "about": []
+}

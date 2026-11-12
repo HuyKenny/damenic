@@ -1,0 +1,100 @@
+{
+  "title": "Vajíčková pomazánka",
+  "keywords": [
+    "vajíčková pomazánka",
+    "vajíčková pomazánka recept",
+    "domácí vajíčková pomazánka",
+    "pomazánka z vajec"
+  ],
+  "image": "dish-vajeckova-pomazanka-na-krajici",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 10,
+  "waitMinutes": 30,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "intro": "Vajíčková pomazánka z natvrdo uvařených vajec, majonézy a bílého jogurtu vystačí na čtyři porce chlebíčků nebo krajíců. Těžké je jediné: vejce uvařit tak, aby byl žloutek žlutý a ne šedozelený, a pomazánku nenechat vodnatou.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 6,
+      "unit": "ks",
+      "note": "čerstvá, uvařená natvrdo"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 60,
+      "unit": "g",
+      "note": "pro lehčí chuť"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "note": "čerstvě mletý"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce vlož do vroucí vody a vař přesně 10 minut. Pak je hned přelij studenou vodou, aby se přestala dovařovat a žloutek nezezelenal."
+    },
+    {
+      "text": "Vejce oloupej a nech je zchladnout. Teplá vejce smíchaná s majonézou by pomazánku rozředila."
+    },
+    {
+      "text": "Vejce nastrouhej na hrubém struhadle nebo nasekej nožem na kousky velké asi půl centimetru. Nejemná kaše z nich být nemá."
+    },
+    {
+      "text": "Majonézu, jogurt a hořčici promíchej v misce, vmíchej vejce a pažitku. Dochuť solí a pepřem."
+    },
+    {
+      "text": "Pomazánku přikryj a nech ji alespoň 30 minut odležet v lednici, aby se chutě propojily a hmota zhoustla. Před podáváním ji znovu promíchej."
+    }
+  ],
+  "tips": [
+    "Čím čerstvější vejce, tím hůř se loupe. Pro pomazánku jsou lepší vejce asi týden stará.",
+    "Nastrouhaná vejce jsou nadýchanější než nasekaná, nasekaná dávají výraznější kousky. Vyber si, jakou pomazánku chceš.",
+    "Pomazánku skladuj v uzavřené dóze v lednici do 5 °C a spotřebuj ji do 2 dnů. Neuchovávej ji při pokojové teplotě déle než 2 hodiny."
+  ],
+  "substitutions": [
+    "Majonézu můžeš nahradit tvarohem nebo smetanovým sýrem, pomazánka bude hutnější.",
+    "Pažitku nahraď jarní cibulkou, nebo trochou kopru."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží vajíčková pomazánka v lednici?",
+      "a": "V uzavřené dóze v lednici do 5 °C vydrží nejvýše 2 dny. Obsahuje vejce a majonézu, takže ji nedržej při pokojové teplotě déle než 2 hodiny."
+    },
+    {
+      "q": "Proč je žloutek zelený nebo šedý?",
+      "a": "Vejce se vařila příliš dlouho nebo se po uvaření nezchladila. Vař 10 minut od vložení do vroucí vody a hned přelij studenou vodou."
+    },
+    {
+      "q": "Jak udělat vajíčkovou pomazánku, aby nebyla vodnatá?",
+      "a": "Vejce nech úplně vychladnout, nech je oschnout a pomazánku nech půl hodiny odležet v lednici. Pomůže i méně jogurtu a více majonézy."
+    }
+  ]
+}

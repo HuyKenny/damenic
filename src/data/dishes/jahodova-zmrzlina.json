@@ -1,0 +1,19 @@
+{
+  "name": "Jahodová zmrzlina",
+  "section": "Kopečky",
+  "price": 5900,
+  "recipe": "jahodova-zmrzlina-bez-zmrzlinovace",
+  "vegetarian": true,
+  "order": 20,
+  "description": "Šlehačka, jahodové pyré a nic jiného. Hotová za šest hodin v mrazáku.",
+  "about": [
+    "Jahodová zmrzlina z našeho mrazáku se nešlehá a nemíchá, jen se zamrazí. Pyré a šlehačka se spojí a v mrazáku ztuhnou do krémové zmrzliny bez vajec.",
+    "Funguje tam, kde nemáš zmrzlinovač a máš jen trpělivost. Šest hodin je kratší než řada serialů."
+  ],
+  "kind": "main",
+  "restaurant": "zmrzlinarna-led-ledem",
+  "image": "dish-jahodova-zmrzlina",
+  "allergens": [
+    7
+  ]
+}

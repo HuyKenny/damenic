@@ -1,0 +1,120 @@
+{
+  "title": "Bubble tea s tapiokou a hnědým cukrem",
+  "keywords": [
+    "bubble tea recept",
+    "bubble tea",
+    "bubble tea doma",
+    "tapiokové perly"
+  ],
+  "image": "dish-bubble-tea",
+  "category": "matcha",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 20,
+  "waitMinutes": 15,
+  "waitLabel": "dojíždění perel pod pokličkou",
+  "difficulty": "střední",
+  "intro": "Bubble tea doma z 100 g tapiokových perel, černého čaje, mléka a sirupu z hnědého cukru, který se vaří 5 minut. Perly se vaří dle obalu, nechají se dojít a do sirupu se namáčejí 15 minut. Hotové perly sněz do 4 hodin, pak ztvrdnou.",
+  "ingredients": [
+    {
+      "ingredient": "tapiokove-perly",
+      "amount": 100,
+      "unit": "g",
+      "note": "klasické, nepředvařené",
+      "group": "Perly"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření perel",
+      "group": "Perly"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 60,
+      "unit": "g",
+      "note": "hnědý nebo třtinový",
+      "group": "Sirup"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 60,
+      "unit": "ml",
+      "note": "do sirupu",
+      "group": "Sirup"
+    },
+    {
+      "ingredient": "cerny-caj",
+      "amount": 6,
+      "unit": "g",
+      "note": "sypaný, asi 2 lžičky",
+      "group": "Čaj"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "asi 95 °C",
+      "group": "Čaj"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml",
+      "note": "studené",
+      "group": "Čaj"
+    },
+    {
+      "ingredient": "led-do-napoju",
+      "amount": 200,
+      "unit": "g",
+      "note": "kostky",
+      "group": "Čaj"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve velkém hrnci přiveď k varu 1 litr vody. Přidej 100 g perel a míchej, aby se nepřilepily ke dnu. Vař podle obalu, obvykle 15 až 20 minut."
+    },
+    {
+      "text": "Hrnec sundej z plotny, přikryj a nech perly 15 minut dojít. Mají být měkké a žvýkavé, bez tvrdého bílého jádra."
+    },
+    {
+      "text": "Mezitím vař 60 g hnědého cukru s 60 ml vody 5 minut, až vznikne řidký sirup, a sundej z ohně."
+    },
+    {
+      "text": "Perly scedi, krátce opláchni vodou a ještě teplé namoč do sirupu. Nech 15 minut nasát."
+    },
+    {
+      "text": "Černý čaj zalij 300 ml vody o teplotě asi 95 °C a luhuj 4 minuty. Scedi a nech vychladnout."
+    },
+    {
+      "text": "Do dvou sklenic rozděl perly se sirupem, přidej led, čaj a 100 ml mléka do každé. Zamíchej a pij širokým brčkem."
+    }
+  ],
+  "tips": [
+    "Perly vždy dělej čerstvé, po 4 hodinách tvrdnou i v lednici.",
+    "Perly dávej do vroucí vody, ve studené se slepí do hrudek.",
+    "Sirup rozmíchej do čaje, pokud chceš sladší nápoj."
+  ],
+  "substitutions": [
+    "Mléko lze nahradit ovesným nebo kokosovým nápojem.",
+    "Černý čaj nahradíš jasmínovým zeleným čajem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří tapiokové perly?",
+      "a": "Podle obalu, obvykle 15 až 20 minut u klasických a 5 minut u instantních, pak se nechají dojít pod pokličkou dalších 15 minut."
+    },
+    {
+      "q": "Jak dlouho vydrží uvařené tapiokové perly?",
+      "a": "Nejlépe do 4 hodin při pokojové teplotě. V lednici ztvrdnou, v teple se kazí, proto je vždy čerstvě připrav."
+    },
+    {
+      "q": "Čím nahradit tapiokové perly v bubble tea?",
+      "a": "Lze použít ovocné želé, kokosové kousky nebo chia semínka, chuť i textura jsou ale jiné než u klasických perel."
+    }
+  ]
+}

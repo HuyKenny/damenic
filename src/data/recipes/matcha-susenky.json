@@ -1,0 +1,109 @@
+{
+  "title": "Matcha sušenky s bílou čokoládou",
+  "keywords": [
+    "matcha sušenky recept",
+    "matcha sušenky",
+    "sušenky s matchou",
+    "matcha cookies"
+  ],
+  "image": "dish-matcha-susenky",
+  "category": "matcha",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 20,
+  "cookMinutes": 12,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "snadné",
+  "intro": "Matcha sušenky s bílou čokoládou, asi 16 kousků ze 180 g mouky, 120 g másla a 8 g matchy. Těsto musí 30 minut odpočinout v lednici a péct se jen 12 minut při 175 °C, jinak vyschnou a matcha hořkne.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 120,
+      "unit": "g",
+      "note": "měkké"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 70,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 180,
+      "unit": "g"
+    },
+    {
+      "ingredient": "matcha-prasek",
+      "amount": 8,
+      "unit": "g",
+      "note": "asi 2 lžičky"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "bila-cokolada",
+      "amount": 80,
+      "unit": "g",
+      "note": "nasekaná na kousky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Měkké máslo vyšlehej se 70 g cukru a 30 g třtinového cukru do světlé pěny, trvá to asi 3 minuty."
+    },
+    {
+      "text": "Přidej vejce a prošlehej. Poté prosej mouku s matchou, kypřicím práškem a špetkou soli a krátce promíchej, jen aby těsto drželo."
+    },
+    {
+      "text": "Vmíchej nasekanou bílou čokoládu, těsto zakryj a nech 30 minut odležet v lednici."
+    },
+    {
+      "text": "Troubu rozehřej na 175 °C. Z těsta tvoř kuličky velikosti vlašského ořechu, rozlož je na plech s papírem do odstupu 5 cm a mírně přitlač."
+    },
+    {
+      "text": "Peč 11 až 12 minut. Okraje mají být pevné, střed ještě měkký. Nech 5 minut na plechu, pak přendej na mřížku."
+    }
+  ],
+  "tips": [
+    "Matchu přesej, jinak zůstanou zelené tečky.",
+    "Studené těsto se při pečení nerozteče do placek.",
+    "Pečené sušenky vydrží v dóze 4 dny."
+  ],
+  "substitutions": [
+    "Bílou čokoládu lze nahradit tmavou, chuť bude hořčí.",
+    "Máslo nahradíš rostlinným máslem, sušenky budou méně chutné."
+  ],
+  "faq": [
+    {
+      "q": "Proč matcha sušenky hnědnou a hořknou?",
+      "a": "Matcha je citlivá na vysokou teplotu. Peč při 175 °C maximálně 12 minut a vyndej, jakmile jsou okraje pevné."
+    },
+    {
+      "q": "Kolik matchy se dává do sušenek?",
+      "a": "Na 180 g mouky stačí asi 8 g matchy, tedy dvě lžičky. Více matchy dodá hořkost."
+    },
+    {
+      "q": "Jak dlouho vydrží matcha sušenky?",
+      "a": "V uzavřené dóze při pokojové teplotě vydrží asi 4 dny, syrové těsto v lednici 2 dny."
+    }
+  ]
+}

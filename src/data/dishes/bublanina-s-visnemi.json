@@ -1,0 +1,21 @@
+{
+  "name": "Bublanina s višněmi",
+  "section": "Koláče",
+  "price": 6500,
+  "recipe": "bublanina",
+  "vegetarian": true,
+  "order": 30,
+  "description": "Lehké těsto, višně vzadu a cukr moučka navrch. Žádné kynutí.",
+  "about": [
+    "Bublanina je jedna z mála věcí, které se v Česku jmenují podle zvuku: ovoce při pečení bublá. Těsto je lehké, višně v něm zůstávají nahoře a posyp cukrem moučkou přijde nakonec.",
+    "Nejlepší je ještě vlažná, nebo druhý den, kdy je vlhčí. Nanečisto se ani jedno nedá, doma ano."
+  ],
+  "kind": "main",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "image": "dish-bublanina-s-visnemi",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Chlebová miska na polévku",
+  "restaurant": "chlebova-dutina",
+  "kind": "side",
+  "section": "K polévce",
+  "description": "Malý kulatý bochník s vydlabanou dutinou na polévku. Dutina je pravá, polévka v ní ne.",
+  "price": 4900,
+  "image": "dish-chlebova-miska-chlebova-dutina",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "order": 110,
+  "about": []
+}

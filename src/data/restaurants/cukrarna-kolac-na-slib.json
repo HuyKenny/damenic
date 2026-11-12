@@ -1,0 +1,34 @@
+{
+  "name": "Cukrárna Koláč na slib",
+  "category": "pekarna",
+  "cuisine": "Koláče, bublanina a kynuté pečivo",
+  "tagline": "Koláč je vykynutý. Slib taky, jen ten se nedá sníst.",
+  "description": "Jablečný a borůvkový koláč, bublanina s višněmi a koblihy s marmeládou. Celá cukrárna je smyšlená, takže ti nic nedovezeme, ale recepty jsou pravé a těsto doma vykyne i bez nás.",
+  "etaMinutes": 30,
+  "deliveryFee": 3500,
+  "minOrder": 17900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "06:30",
+    "close": "17:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa",
+    "rodinné porce"
+  ],
+  "logo": {
+    "text": "KS",
+    "color": "#B23A5A",
+    "ink": "light"
+  },
+  "sections": [
+    "Koláče",
+    "Kynuté a smažené",
+    "Doplňky",
+    "Nápoje"
+  ],
+  "order": 201,
+  "isNew": true,
+  "cover": "rest-cukrarna-kolac-na-slib"
+}

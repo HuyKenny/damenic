@@ -1,0 +1,110 @@
+{
+  "title": "Zmrzlinový pohár s jahodami",
+  "keywords": [
+    "zmrzlinový pohár",
+    "zmrzlinový pohár recept",
+    "pohár se zmrzlinou a jahodami",
+    "jahodový pohár"
+  ],
+  "image": "dish-zmrzlinovy-pohar-s-jahodami",
+  "category": "zmrzlina",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 5,
+  "waitMinutes": 20,
+  "waitLabel": "vychlazení sklenic",
+  "difficulty": "snadné",
+  "intro": "Zmrzlinový pohár recept pro dva: vanilková zmrzlina, jahody v cukru, šlehačka a horká čokoládová poleva. Nic se nepeče, vše se skládá po vrstvách, takže záleží na pořadí a na tom, aby sklenice byly vymrazené.",
+  "ingredients": [
+    {
+      "ingredient": "zmrzlina-vanilkova",
+      "amount": 300,
+      "unit": "ml",
+      "note": "6 kopečků",
+      "group": "Pohár"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 200,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Pohár"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na jahody",
+      "group": "Pohár"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 100,
+      "unit": "ml",
+      "note": "vychlazená, ušlehaná",
+      "group": "Pohár"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 20,
+      "unit": "g",
+      "note": "nahrubo nasekané, volitelně",
+      "group": "Pohár"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 60,
+      "unit": "g",
+      "note": "nasekaná",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 60,
+      "unit": "ml",
+      "note": "na polevu",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Dvě vysoké sklenice dej na 15 minut do mrazáku. Zmrzlinu zatím nech v mrazáku."
+    },
+    {
+      "text": "Jahody nakrájej na plátky a smíchej s cukrem moučkou, nech 10 minut pustit šťávu."
+    },
+    {
+      "text": "Smetanu na polevu ohřej v malém rendlíku téměř k varu (asi 70 °C) a nalij na nasekanou čokoládu. Po minutě promíchej do hladkého ganache a nech 10 minut zchladnout na vlažný."
+    },
+    {
+      "text": "Smetanu na šlehání ušlehej do pevné šlehačky."
+    },
+    {
+      "text": "Do vymrazených sklenic vrstvi: jahody, 2 kopečky zmrzliny, polevu, další jahody, kopeček zmrzliny a šlehačku. Navrch ořechy a plátek jahody. Podávej hned, než zmrzlina změkne."
+    }
+  ],
+  "tips": [
+    "Poleva musí být vlažná, ne horká, jinak zmrzlinu rozpustí.",
+    "Kopečky nabírej lžící namočenou v horké vodě a vždy po každém kopečku ji osuš.",
+    "Sklenice vymraz předem, zmrzlina se v nich drží déle."
+  ],
+  "substitutions": [
+    "Vanilkovou zmrzlinu lze nahradit jahodovou nebo čokoládovou.",
+    "Jahody za maliny nebo rozmražené lesní ovoce."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat zmrzlinový pohár doma?",
+      "a": "Vychlaď sklenice, nakrájej ovoce, připrav vlažnou čokoládovou polevu a šlehačku a vrstvi je střídavě se zmrzlinou. Podávej ihned."
+    },
+    {
+      "q": "Proč se mi zmrzlina v poháru rychle rozpouští?",
+      "a": "Sklenice jsou teplé, nebo je poleva horká. Sklenici před sestavením vymraz a polevu nech zchladnout na vlažnou."
+    },
+    {
+      "q": "Dá se zmrzlinový pohár připravit předem?",
+      "a": "Ne celý. Můžeš přichystat ovoce, polevu a šlehačku a sklenice vymrazit, zmrzlinu a vrstvy ale skládej těsně před podáváním."
+    }
+  ]
+}

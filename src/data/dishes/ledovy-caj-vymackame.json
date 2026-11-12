@@ -1,0 +1,62 @@
+{
+  "name": "Ledový čaj s citronem 0,5 l",
+  "restaurant": "dzusbar-vymackame-zitra",
+  "kind": "main",
+  "section": "Chladivé",
+  "description": "Černý čaj vychlazený do ledu, s citronem a mátou. Žádné sladidlo z krabice.",
+  "price": 7900,
+  "image": "dish-ledovy-caj-vymackame",
+  "recipe": "ledovy-caj",
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 30,
+  "about": [
+    "Domácí ledový čaj je tak jednoduchý, že se za něj skoro stydíš. Černý čaj, citron, trocha cukru a hlavně trpělivost: musí vychladnout, než přijde na led, jinak se z něj vyklube voda.",
+    "Doma ho uvaříš na dva dny dopředu a lednička udělá zbytek. Kurýr Nikdo ho nedoveze, ale džbán v lednici ti ho vydrží do pozítří."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "04",
+          "name": "0,4 l",
+          "priceDelta": -1000
+        },
+        {
+          "id": "05",
+          "name": "0,5 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "07",
+          "name": "0,7 l",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "mata",
+          "name": "Máta navíc",
+          "priceDelta": 500
+        },
+        {
+          "id": "med",
+          "name": "Med místo cukru",
+          "priceDelta": 1000
+        }
+      ],
+      "max": 2
+    }
+  ]
+}

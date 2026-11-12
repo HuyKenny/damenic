@@ -1,0 +1,40 @@
+{
+  "name": "Domácí ovesné latte",
+  "restaurant": "prazirna-pul-hrnku",
+  "kind": "main",
+  "section": "Mléčné kávy",
+  "description": "Latte z ovesného mléka, které se tu dělá z vloček, vody a špetky soli.",
+  "about": [
+    "Ovesné latte z krabice je dobré, z vlastních vloček je překvapivě jiné: sladší, hladké a bez příchuti, kterou některé balené nápoje mají. Navíc ho uděláš za dvě minuty a levněji.",
+    "Základ je mixér, studená voda a sítko. Studená voda je důležitá, teplá by vytáhla škrob a mléko by bylo slizké. V pražírně ho podávají s espressem, my ti jen předáme postup."
+  ],
+  "price": 8900,
+  "image": "dish-domaci-ovesne-latte",
+  "recipe": "domaci-ovesne-latte",
+  "optionGroups": [
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "shot",
+          "name": "Extra shot espressa",
+          "priceDelta": 1500
+        },
+        {
+          "id": "javor",
+          "name": "Javorový sirup",
+          "priceDelta": 1200
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    1
+  ],
+  "order": 20
+}

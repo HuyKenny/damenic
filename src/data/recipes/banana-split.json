@@ -1,0 +1,110 @@
+{
+  "title": "Banana split",
+  "keywords": [
+    "banana split",
+    "banana split recept",
+    "zmrzlinový pohár s banánem",
+    "banánový pohár"
+  ],
+  "image": "dish-banana-split",
+  "category": "zmrzlina",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 5,
+  "waitMinutes": 15,
+  "waitLabel": "vychlazení misek",
+  "difficulty": "snadné",
+  "intro": "Banana split recept pro dva: půlený banán, tři kopečky zmrzliny, čokoládová poleva, šlehačka a ořechy. Nepeče se a skládá během deseti minut, jen poleva a šlehačka se připravují zvlášť. Banán musí být čerstvý a krájí se až těsně před podáváním.",
+  "ingredients": [
+    {
+      "ingredient": "banan",
+      "amount": 2,
+      "unit": "ks",
+      "note": "zralé, podélně rozpůlené",
+      "group": "Pohár"
+    },
+    {
+      "ingredient": "zmrzlina-vanilkova",
+      "amount": 300,
+      "unit": "ml",
+      "note": "6 kopečků",
+      "group": "Pohár"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 100,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Pohár"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 100,
+      "unit": "ml",
+      "note": "vychlazená, ušlehaná",
+      "group": "Pohár"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 20,
+      "unit": "g",
+      "note": "nahrubo nasekané",
+      "group": "Pohár"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 60,
+      "unit": "g",
+      "note": "nasekaná",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 60,
+      "unit": "ml",
+      "note": "na polevu",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Podlouhlé misky nebo talíře dej na 15 minut do mrazáku."
+    },
+    {
+      "text": "Čokoládu nasekej a polij horkou smetanou (asi 70 °C). Po minutě promíchej do hladkého ganache a nech zchladnout do vlažna."
+    },
+    {
+      "text": "Smetanu vyšlehej do pevné šlehačky. Jahody nakrájej na plátky."
+    },
+    {
+      "text": "Banány oloupej a podélně rozpůl. Do každé vymrazené misky polož dvě půlky banánu a mezi ně 3 kopečky zmrzliny."
+    },
+    {
+      "text": "Pokapej vlažnou čokoládovou polevou, přidej šlehačku, jahody a ořechy. Podávej hned, banán brzy hnědne."
+    }
+  ],
+  "tips": [
+    "Banány použij jen lehce zralé, bez černých skvrn, aby po rozkrojení nebyly kašovité.",
+    "Pokud banán nepojedeš hned, pokapej ho citronem.",
+    "Šlehačku šlehej vychlazenou a vychlazenou mísou."
+  ],
+  "substitutions": [
+    "Vlašské ořechy za pražené arašídy nebo pistácie.",
+    "Vanilkovou zmrzlinu za čokoládovou a jahodovou: klasický banana split má tři příchutě."
+  ],
+  "faq": [
+    {
+      "q": "Z čeho se skládá klasický banana split?",
+      "a": "Z podélně rozpůleného banánu, tří kopečků zmrzliny, čokoládové polevy, šlehačky a ořechů. Doplňuje se ovocem."
+    },
+    {
+      "q": "Proč banán v banana splitu hnědne?",
+      "a": "Reaguje se vzduchem. Řeš to tak, že ho krájíš až těsně před podáváním nebo ho pokapeš citronovou šťávou."
+    },
+    {
+      "q": "Jak udělat čokoládovou polevu na zmrzlinu?",
+      "a": "Nasekanou horkou čokoládu zalij horkou smetanou (asi 70 °C), minutu nech odpočinout a promíchej. Před použitím nech zchladnout do vlažna."
+    }
+  ]
+}

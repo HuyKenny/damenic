@@ -1,0 +1,17 @@
+{
+  "name": "Slané mandle",
+  "restaurant": "limonadovna-nedoslazeno",
+  "kind": "side",
+  "section": "K limonádě",
+  "description": "Pražené mandle s trochou soli. Vydrží déle než slib o doručení.",
+  "price": 5900,
+  "image": "dish-slane-mandle-nedoslazeno",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    8
+  ],
+  "order": 60,
+  "about": []
+}

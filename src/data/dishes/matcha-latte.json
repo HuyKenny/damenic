@@ -1,0 +1,63 @@
+{
+  "name": "Matcha latte",
+  "restaurant": "matcharna-jeste-slehame",
+  "kind": "main",
+  "section": "Matcha",
+  "description": "Prošlehaná matcha s horkým mlékem, hladká, trávově sladká a bez hořkosti.",
+  "about": [
+    "Matcha latte je zelená, protože se pije celý list, ne jen nálev. Čajový prášek se rozšlehá v horké vodě, ne ve vroucí, a až potom se zalije mlékem, jinak zhořkne.",
+    "Základ je malá dávka, přesná teplota a bambusová metlička nebo napěňovač. V simulaci si vybereš mléko a sladidlo. Hrnek tě nenajde, ale poměry ano."
+  ],
+  "price": 8900,
+  "image": "dish-matcha-latte",
+  "recipe": "matcha-latte",
+  "optionGroups": [
+    {
+      "id": "mleko",
+      "name": "Mléko",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kravske",
+          "name": "Kravské",
+          "priceDelta": 0
+        },
+        {
+          "id": "ovesne",
+          "name": "Ovesné",
+          "priceDelta": 1000
+        },
+        {
+          "id": "kokosove",
+          "name": "Kokosové",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "med",
+          "name": "Med",
+          "priceDelta": 800
+        },
+        {
+          "id": "vanilka",
+          "name": "Vanilkový sirup",
+          "priceDelta": 1200
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    7
+  ],
+  "featured": true,
+  "order": 10
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Čokoládová zmrzlina",
+  "section": "Kopečky",
+  "price": 6500,
+  "recipe": "cokoladova-zmrzlina",
+  "vegetarian": true,
+  "order": 30,
+  "description": "Kakao a hořká čokoláda v krému, který nezmizí po prvním kopečku.",
+  "about": [
+    "Čokoládová zmrzlina se dělá z krému, do kterého se po uvaření vmíchá čokoláda. Žloutky ji zaručí hladkou, kakao dodá sytost a sůl zvýrazní chuť.",
+    "Nanečisto ji nedostaneš, ale vzpomínka na ni se po šesti hodinách čekání vyplatí."
+  ],
+  "kind": "main",
+  "restaurant": "zmrzlinarna-led-ledem",
+  "image": "dish-cokoladova-zmrzlina",
+  "allergens": [
+    3,
+    7
+  ]
+}

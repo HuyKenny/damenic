@@ -1,0 +1,104 @@
+{
+  "title": "Domácí vafle z vaflovače",
+  "keywords": [
+    "vafle recept",
+    "domácí vafle",
+    "vafle těsto",
+    "vafle z vaflovače"
+  ],
+  "image": "dish-vafle-se-slehackou",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "intro": "Vafle recept z hladké mouky, mléka a rozpuštěného másla pro čtyři porce (asi 8 kusů). Těsto má být hustší než na palačinky a sníh z bílků ho nadlehčí. Po upečení se vafle nesmí hromadit na sebe, jinak změknou.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "oddělit žloutky od bílků"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "rozpuštěné a vlažné"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g",
+      "note": "1 sáček"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vaflovač nech předehřát. Žloutky rozmíchej s cukrem, vanilkovým cukrem, mlékem a rozpuštěným máslem."
+    },
+    {
+      "text": "Mouku smíchej s práškem do pečiva a solí, přisyp k tekutým surovinám a rozmíchej metlou do hladkého těsta bez hrudek. Nech 15 minut odpočinout."
+    },
+    {
+      "text": "Bílky ušlehej do pevného sněhu a opatrně vmíchej do těsta. Nešlehej, jinak sníh ztratí vzduch."
+    },
+    {
+      "text": "Plotny vaflovače lehce potři máslem nebo olejem. Nalij těsto na střed (asi 1 naběračku), zavři a peč 3 až 4 minuty, dokud nepřestane unikat pára a vafle nejsou zlatohnědé."
+    },
+    {
+      "text": "Hotové vafle pokládej na mřížku vedle sebe nebo drž v troubě při 100 °C. Podávej se šlehačkou, ovocem nebo cukrem moučkou."
+    }
+  ],
+  "tips": [
+    "Vafle na sebe neskládej, v páře změknou. Mřížka je nutnost.",
+    "Pokud se vafle lepí, plotny nejsou dost předehřáté nebo jsou málo namazané.",
+    "Zbylé vafle dej do mrazáku a ohřívej v topince, zase budou křupavé."
+  ],
+  "substitutions": [
+    "Máslo za stejné množství oleje, těsto bude trochu méně chuťové.",
+    "Hladkou mouku lze z poloviny nahradit celozrnnou, vafle budou hutnější."
+  ],
+  "faq": [
+    {
+      "q": "Proč vafle nejsou křupavé?",
+      "a": "Nejčastěji jsou plotny málo rozpálené nebo se vafle skládají na sebe a změknou v páře. Peč, dokud nepřestane unikat pára, a odkládej na mřížku."
+    },
+    {
+      "q": "Kolik těsta nalít do vaflovače?",
+      "a": "Podle velikosti plotny asi 1 naběračku, tedy 80 až 120 ml. Těsto má vyplnit střed, aby se po zavření dostalo k okrajům samo."
+    },
+    {
+      "q": "Dají se vafle zamrazit?",
+      "a": "Ano, vychladlé vafle vlož po jedné do mrazáku. Rozmraž je přímo v topince nebo na 3 minuty v troubě při 180 °C."
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "title": "Sekaná pečeně",
+  "keywords": [
+    "sekaná",
+    "sekaná recept",
+    "sekaná pečeně",
+    "jak udělat sekanou"
+  ],
+  "image": "dish-sekana-jidelna",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 60,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek před krájením",
+  "difficulty": "snadné",
+  "intro": "Sekaná pečeně z vepřového a hovězího masa, pro šest porcí, hotová za hodinu a půl. Pravidlo je jen jedno: jako každé mleté maso se musí propéct dokonale, uvnitř aspoň 75 °C. Jinak se sekaná rozpadá nebo vysychá, a tomu zabrání správný poměr pečiva a vajec.",
+  "steps": [
+    {
+      "text": "Rohlíky nakrájej na kostky, zalij teplým mlékem a nech 10 minut nasáknout. Pak je rukou rozmačkej na kaši."
+    },
+    {
+      "text": "Cibuli nakrájenou najemno krátce osmaž na lžíci oleje, aby změkla, a nech vychladnout. Troubu předehřej na 180 °C."
+    },
+    {
+      "text": "V míse smíchej mleté maso, rohlíky, vejce, cibuli, česnek, hořčici, majoránku, papriku, sůl a pepř. Hnětej asi 3 minuty, dokud se hmota nespojí a nepřilne ke stěnám mísy."
+    },
+    {
+      "text": "Z hmoty vytvaruj bochník, vysyp ho strouhankou a polož do vymaštěné pekáče nebo formy."
+    },
+    {
+      "text": "Peč 55 až 60 minut. Teploměr zapíchnutý doprostřed musí ukázat aspoň 75 °C. Šťáva z vpichu musí být čirá, žádná růžová."
+    },
+    {
+      "text": "Sekanou nech 15 minut odpočinout a krájej na plátky silné asi 1,5 cm."
+    }
+  ],
+  "tips": [
+    "Poměr vepřového a hovězího nech 2 : 1: samotné hovězí je suché, samotné vepřové zase moc mastné.",
+    "Pečivo nahrazuje strouhanku v těstě a drží šťávu uvnitř. Když ho dáš víc, sekaná bude nadýchanější.",
+    "Zbylou sekanou lze krájet za studena na chleba nebo opékat na pánvi."
+  ],
+  "substitutions": [
+    "Rohlíky nahraď houskou nebo toustovým chlebem.",
+    "Hovězí maso může být z poloviny nahrazeno vepřovým.",
+    "Do středu lze zabalit 3 vejce natvrdo nebo klobásu."
+  ],
+  "faq": [
+    {
+      "q": "Při jaké teplotě se peče sekaná?",
+      "a": "Při 180 °C asi 55 až 60 minut pro bochník kolem 1 kg. Uvnitř musí mít maso aspoň 75 °C."
+    },
+    {
+      "q": "Proč se sekaná rozpadá?",
+      "a": "Nejčastěji je málo vajec a pečiva, nebo se maso málo prohnětlo. Hnětej, dokud se hmota nespojí, a po upečení ji nech odpočinout, než ji začneš krájet."
+    },
+    {
+      "q": "Jak poznám, že je sekaná hotová?",
+      "a": "Teploměrem: uvnitř musí být aspoň 75 °C. Bez teploměru zapíchni špejli, šťáva musí být čirá a maso šedohnědé."
+    }
+  ],
+  "category": "ceska",
+  "ingredients": [
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "rohliky",
+      "amount": 2,
+      "unit": "ks",
+      "note": "starší, na kostky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "note": "teplé na namočení rohlíků"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisované"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na vysypání formy a obalení"
+    }
+  ]
+}

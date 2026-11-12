@@ -1,0 +1,16 @@
+{
+  "name": "Horká čokoláda 0,3 l",
+  "restaurant": "prazirna-pul-hrnku",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Hustá čokoláda z hořké čokolády a mléka, lžíce by v ní stála vzpřímeně.",
+  "about": [],
+  "price": 7900,
+  "image": "dish-ph-horka-cokolada",
+  "recipe": null,
+  "vegetarian": true,
+  "allergens": [
+    7
+  ],
+  "order": 70
+}

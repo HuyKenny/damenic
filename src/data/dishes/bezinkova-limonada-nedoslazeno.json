@@ -1,0 +1,67 @@
+{
+  "name": "Bezinková limonáda 0,4 l",
+  "restaurant": "limonadovna-nedoslazeno",
+  "kind": "main",
+  "section": "Limonády",
+  "description": "Domácí bezinkový sirup se sodovkou a citronem. Chutná jako louka v červnu.",
+  "price": 8900,
+  "image": "dish-bezinkova-limonada-nedoslazeno",
+  "recipe": "bezinkova-limonada",
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 20,
+  "about": [
+    "Bezinková limonáda stojí na sirupu z květů černého bezu. Květy se trhají v květnu a červnu a sirup z nich voní jako celé léto zhuštěné do lahve.",
+    "Recept zahrnuje i výrobu sirupu a jeho bezpečné uskladnění, takže si ho uděláš dopředu na celý rok. Ve smyšlené limonádovně sirup nedorazil, u tebe doma bude doopravdy."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "03",
+          "name": "0,3 l",
+          "priceDelta": -1000
+        },
+        {
+          "id": "04",
+          "name": "0,4 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "05",
+          "name": "0,5 l",
+          "priceDelta": 1500
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "led",
+          "name": "Víc ledu",
+          "priceDelta": 0
+        },
+        {
+          "id": "mata",
+          "name": "Máta navíc",
+          "priceDelta": 500
+        },
+        {
+          "id": "citron",
+          "name": "Plátek citronu",
+          "priceDelta": 500
+        }
+      ],
+      "max": 3
+    }
+  ]
+}

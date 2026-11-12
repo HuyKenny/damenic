@@ -1,0 +1,112 @@
+{
+  "title": "Nakládaný hermelín",
+  "keywords": [
+    "nakládaný hermelín",
+    "nakládaný hermelín recept",
+    "hermelín v oleji",
+    "jak naložit hermelín"
+  ],
+  "image": "dish-nakladany-hermelin-pivnice",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 4320,
+  "waitLabel": "tři dny v lednici",
+  "difficulty": "snadné",
+  "intro": "Nakládaný hermelín je klasika hospodských předkrmů: sýr se zalije olejem s cibulí, česnekem a kořením a nechá se uležet. Recept je pro čtyři porce, práce zabere čtvrt hodiny a pak se čeká tři dny. Chuť se vyvíjí, ale sýr musí zůstat celou dobu v lednici a pod olejem.",
+  "steps": [
+    {
+      "text": "Hermelíny podélně rozkroj na 2 až 3 plátky nebo nech celé podle velikosti sklenice. Na dno čisté vyvařené sklenice dej trochu cibule a koření."
+    },
+    {
+      "text": "Sýr skládej do sklenice po vrstvách a proložuj ho kolečky cibule, česnekem, chilli, bobkovým listem, pepřem a nového koření. Posyp sladkou paprikou."
+    },
+    {
+      "text": "Zalij olejem tak, aby byl sýr zcela zakrytý, a lehce sklenicí poklepej, aby unikly bubliny vzduchu."
+    },
+    {
+      "text": "Sklenici uzavři a dej do lednice. Nech aspoň 3 dny uležet, potom je hermelín nejlepší."
+    },
+    {
+      "text": "Sýr vyndej příbory, nechej okapat a podávej s chlebem, cibulí a pivem (nebo bez něj)."
+    }
+  ],
+  "tips": [
+    "Sýr musí být celou dobu zcela pod olejem, jinak se kazí. Čisté, vyvařené sklenice a čistý příbor jsou nutnost.",
+    "Nakládaný hermelín uchovávej výhradně v lednici a spotřebuj do 10 dní. Olej při chladu zhoustne, před podáváním ho nech chvíli stát při pokojové teplotě.",
+    "Po vyjmutí sýra olej nepoužívej na smažení, použij ho jen do zálivek."
+  ],
+  "substitutions": [
+    "Hermelín jde nahradit sýrem camembert nebo feta kostkami.",
+    "Pro jemnější verzi vynech chilli a přidej tymián.",
+    "Slunečnicový olej nahraď řepkovým."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží nakládaný hermelín?",
+      "a": "V lednici do 10 dní, pokud je celou dobu pod olejem a sklenice je čistá. Neuchovávej ho při pokojové teplotě."
+    },
+    {
+      "q": "Musí nakládaný hermelín v lednici zrát tři dny?",
+      "a": "Doporučených je aspoň 3 dny, chuť se pak spojí. Pokud spěcháš, chutná i po 24 hodinách, bude ale méně výrazný."
+    },
+    {
+      "q": "Čím zalít hermelín?",
+      "a": "Neutrálním olejem, nejčastěji slunečnicovým nebo řepkovým. Olivový olej ztuhne v lednici hůř a má výraznější chuť."
+    }
+  ],
+  "category": "ceska",
+  "ingredients": [
+    {
+      "ingredient": "hermelin",
+      "amount": 360,
+      "unit": "g",
+      "note": "3 kusy po 120 g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "plátky"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "půlka nebo celá podle chuti"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 300,
+      "unit": "ml",
+      "note": "tak, aby sýr zakryl"
+    }
+  ]
+}

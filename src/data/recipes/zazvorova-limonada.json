@@ -1,0 +1,99 @@
+{
+  "title": "Zázvorová limonáda",
+  "keywords": [
+    "zázvorová limonáda",
+    "zázvorový sirup",
+    "domácí limonáda recept",
+    "limonáda se zázvorem"
+  ],
+  "image": "dish-zazvorova-limonada-nedoslazeno",
+  "category": "napoje",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Zázvorová limonáda se dělá ze zázvorového sirupu, který se vaří 15 minut s citronem a cukrem. Sirup vydrží v lednici dva týdny, takže jednou uvařený stačí na několik sklenic. Čím jemněji zázvor nastrouháš, tím víc štípe.",
+  "ingredients": [
+    {
+      "ingredient": "zazvor",
+      "amount": 100,
+      "unit": "g",
+      "note": "oloupaný, najemno nastrouhaný",
+      "group": "Zázvorový sirup (asi 350 ml)"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Zázvorový sirup (asi 350 ml)"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Zázvorový sirup (asi 350 ml)"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 2,
+      "unit": "ks",
+      "note": "šťáva a kůra z jednoho, druhý na plátky",
+      "group": "Zázvorový sirup (asi 350 ml)"
+    },
+    {
+      "ingredient": "perliva-voda",
+      "amount": 800,
+      "unit": "ml",
+      "note": "vychlazená",
+      "group": "Limonáda"
+    },
+    {
+      "ingredient": "led",
+      "amount": 200,
+      "unit": "g",
+      "group": "Limonáda"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Sirup",
+      "text": "Zázvor oloupej lžičkou a najemno nastrouhej. Z jednoho citronu otři kůru a vymačkej šťávu."
+    },
+    {
+      "section": "Sirup",
+      "text": "Do hrnce dej vodu, cukr, zázvor a citronovou kůru. Přiveď k varu a vař na mírném plameni 15 minut, bez míchání."
+    },
+    {
+      "section": "Sirup",
+      "text": "Hrnec odstav, přidej citronovou šťávu a nech 10 minut louhovat. Sirup přeceď přes jemné síto do čisté skleněné lahve, zázvor lehce promáčkni."
+    },
+    {
+      "section": "Limonáda",
+      "text": "Do sklenice dej led, plátek citronu a 60 ml vychladlého sirupu. Dolij asi 200 ml perlivé vody a promíchej."
+    }
+  ],
+  "tips": [
+    "Trvanlivost: sirup ve vyvařené uzavřené lahvi v lednici vydrží 2 týdny, bez vaření by byl použitelný jen pár dní.",
+    "Pro silnější štiplavou chuť nech zázvor v sirupu při louhování 30 minut."
+  ],
+  "substitutions": [
+    "Cukr nahraď medem, ale přidej ho až do vlažného sirupu, jinak ztratí aroma.",
+    "Perlivou vodu nahraď ginger beerem pro sladší a koření bohatší verzi."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží zázvorový sirup?",
+      "a": "V čisté zavřené lahvi v lednici vydrží 2 týdny. Když zakalí nebo začne kvasit, vylij ho."
+    },
+    {
+      "q": "Musím zázvor loupat?",
+      "a": "U čerstvého zázvoru je slupka jemná, ale lépe ji lžičkou seškrábat. Chuť pak bude čistší a sirup nebude hořknout."
+    },
+    {
+      "q": "Dá se limonáda udělat bez vaření?",
+      "a": "Ano, zázvor nastrouhej do vody s cukrem a citronem a nech 2 hodiny v lednici. Bude jemnější, ale méně štiplavá a vydrží kratší dobu."
+    }
+  ]
+}

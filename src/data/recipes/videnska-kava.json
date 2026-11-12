@@ -1,0 +1,81 @@
+{
+  "title": "Vídeňská káva",
+  "keywords": [
+    "vídeňská káva recept",
+    "vídeňská káva",
+    "vídeňská káva se šlehačkou",
+    "vídeňská káva doma"
+  ],
+  "image": "dish-videnska-kava",
+  "category": "kavarna",
+  "vegetarian": true,
+  "servings": 1,
+  "activeMinutes": 8,
+  "cookMinutes": 2,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Vídeňská káva je silné espresso se šlehačkou, které doma uděláš za deset minut ze 100 ml smetany ke šlehání a dvojitého espressa. Šlehačka se šlehá jen do měkkých špiček, aby se dala nalít a nezůstala v hrnku jako hrudka.",
+  "ingredients": [
+    {
+      "ingredient": "kava-mleta",
+      "amount": 18,
+      "unit": "g",
+      "note": "čerstvě namletá na espresso"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 100,
+      "unit": "ml",
+      "note": "studená, 31 %"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 8,
+      "unit": "g",
+      "note": "do šlehačky"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 1,
+      "unit": "g",
+      "note": "volitelně na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ze 18 g kávy připrav asi 40 ml silného espressa do předehřátého šálku nebo sklenice."
+    },
+    {
+      "text": "Studenou smetanu se 8 g cukru moučky šlehej v chladné nádobě ručním šlehačem, až drží měkké špičky."
+    },
+    {
+      "text": "Šlehačku lžící nebo cukrářským sáčkem naskládej na espresso v čepici asi 3 cm vysoké. Tu nemíchej, pije se skrz ni."
+    },
+    {
+      "text": "Posyp špetkou kakaa nebo strouhanou čokoládou a podávej hned, dokud je šlehačka studená."
+    }
+  ],
+  "tips": [
+    "Smetana, nádoba i metly mají být studené, jinak se nenašlehá.",
+    "Šlehej do měkkých špiček, tuhá šlehačka se v hrnku nerozplývá.",
+    "Cukr moučka se rozpustí lépe než krystal."
+  ],
+  "substitutions": [
+    "Místo espressa lze použít silnou kávu z moka konvičky.",
+    "Na kopec šlehačky se hodí i kokosová šlehačka z plechovky."
+  ],
+  "faq": [
+    {
+      "q": "Co je vídeňská káva?",
+      "a": "Je to silná černá káva nebo espresso se šlehačkou navrch. Šlehačka se nemíchá, jde se do ní pít horká káva."
+    },
+    {
+      "q": "Jakou smetanu na vídeňskou kávu?",
+      "a": "Smetanu ke šlehání s obsahem tuku 31 až 33 %, vychlazenou. Nižší tučnost šlehačka nedrží."
+    },
+    {
+      "q": "Dá se vídeňská káva udělat bez šlehače?",
+      "a": "Dá. Smetanu s cukrem protřepej v pevně zavřeném kelímku asi 2 minuty, až zhoustne."
+    }
+  ]
+}

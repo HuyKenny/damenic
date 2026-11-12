@@ -1,0 +1,123 @@
+{
+  "title": "Rajská polévka s vlasovými nudlemi",
+  "keywords": [
+    "rajská polévka",
+    "rajská polévka s nudlemi",
+    "rajská polévka recept",
+    "rajská polévka z passaty"
+  ],
+  "image": "dish-rajska-polevka-chlebova-dutina",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Rajská polévka s vlasovými nudlemi z passaty je hotová za 35 minut a chutná jako z jídelny, jen lepší. Těžké je vyvážit kyselost rajčat špetkou cukru a nepřevařit nudle, které rychle nasají polévku.",
+  "ingredients": [
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 700,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "nudle-vlasove",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej olej a na středním plameni 4 minuty restuj cibuli, dokud nezesklovatí. Přidej protlak a míchej minutu."
+    },
+    {
+      "text": "Přilij passatu a vývar, přidej cukr, bobkový list a nové koření. Přiveď k varu a vař na mírném plameni 15 minut."
+    },
+    {
+      "text": "Vyndej bobkový list a nové koření. Dochuť solí, pepřem a případně špetkou cukru navíc, pokud je kyselá."
+    },
+    {
+      "text": "Zvlášť v osolené vodě uvař vlasové nudle podle obalu (obvykle 3 minuty), slij je a rozděl do misek."
+    },
+    {
+      "text": "Zalij horkou polévkou a posyp petrželkou."
+    }
+  ],
+  "tips": [
+    "Nudle vař zvlášť a do polévky je dávej až při podávání. V hrnci by za chvíli nasákly a polévka by byla hustá.",
+    "Špetka cukru není na sladění, ale na zjemnění kyselosti rajčat. Dej tolik, aby se kyselost neztratila úplně.",
+    "Základ bez nudlí vydrží v lednici 4 dny, zamrazit ho jde na 3 měsíce.",
+    "Z 35 minut je práce 10, zbytek vaří sama. Nejrychlejší polévka v téhle dávce."
+  ],
+  "substitutions": [
+    "Vlasové nudle nahradí rýže, krupice nebo malé těstoviny.",
+    "Pro vydatnější polévku přidej lžíci smetany nebo kysané smetany."
+  ],
+  "faq": [
+    {
+      "q": "Z čeho se vaří rajská polévka?",
+      "a": "Z rajčatového protlaku nebo passaty, vývaru, cibule a špetky cukru. Nudle, rýže nebo kuličky se přidávají až do misky."
+    },
+    {
+      "q": "Proč je rajská polévka kyselá a co s tím?",
+      "a": "Rajčata jsou přirozeně kyselá. Pomůže špetka cukru, delší vaření a lžíce smetany do talíře."
+    },
+    {
+      "q": "Jak dlouho vydrží rajská polévka a jde zamrazit?",
+      "a": "V lednici vydrží 4 dny bez nudlí, zamrazit ji můžeš na 3 měsíce. Nudle vař vždy čerstvé."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Brokolicová polévka s krutony",
+  "section": "Krémové",
+  "price": 10900,
+  "recipe": "brokolicova-polevka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 20,
+  "description": "Sytě zelená krémová polévka z brokolice s opečenými krutony.",
+  "about": [
+    "Brokolice umí být nudná, ale v polévce ne. Brambor ji zahustí, smetana zjemní a krutony dodají křupavost. Celé umění je nepřevařit, protože šedá brokolice je smutná brokolice.",
+    "Zelená barva je tu hlavní reklama. V bistru by ji nalévali do chleba, který nikdy nedorazí. Recept ti dá to, co ti nikdo nepřiveze: chuť uvařit si vlastní hrnec."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší 0,3 l",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická 0,45 l",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "kruton",
+          "name": "Krutony navíc",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "chlebova-dutina",
+  "image": "dish-brokolicova-polevka-chlebova-dutina",
+  "allergens": [
+    1,
+    7,
+    9
+  ]
+}

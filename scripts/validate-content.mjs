@@ -120,7 +120,7 @@ for (const [id, d] of dishes) {
 for (const [id, r] of recipes) {
   if (!(r.activeMinutes > 0)) err(`recipe ${id}: activeMinutes must be positive`);
   const total = r.activeMinutes + r.cookMinutes + (r.waitMinutes ?? 0);
-  if (total < 10 || total > 60 * 30) err(`recipe ${id}: total time ${total} min looks wrong`);
+  if (total < 10 || total > 60 * 24 * 7) err(`recipe ${id}: total time ${total} min looks wrong`);
   if ((r.waitMinutes ?? 0) > 0 && !r.waitLabel) err(`recipe ${id}: waitMinutes needs a waitLabel (what is being waited for)`);
   checkAsset(`recipe ${id}`, r.image);
   for (const i of r.ingredients) {

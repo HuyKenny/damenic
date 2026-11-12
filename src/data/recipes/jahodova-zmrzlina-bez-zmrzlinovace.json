@@ -1,0 +1,89 @@
+{
+  "title": "Jahodová zmrzlina bez zmrzlinovače",
+  "keywords": [
+    "jahodová zmrzlina",
+    "jahodová zmrzlina bez zmrzlinovače",
+    "domácí jahodová zmrzlina",
+    "domácí zmrzlina bez vajec"
+  ],
+  "image": "dish-jahodova-zmrzlina",
+  "category": "zmrzlina",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 20,
+  "cookMinutes": 0,
+  "waitMinutes": 360,
+  "waitLabel": "mrazák bez míchání",
+  "difficulty": "snadné",
+  "intro": "Jahodová zmrzlina bez zmrzlinovače a bez vajec: šlehačka, jahodové pyré a cukr moučka stačí. Jednoduchost má háček v počtu hodin, v mrazáku se tvoří pevná zmrzlina bez míchání. Cíl je krémová, ne ledová.",
+  "ingredients": [
+    {
+      "ingredient": "jahody",
+      "amount": 400,
+      "unit": "g",
+      "note": "umyté, bez řapíků"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 90,
+      "unit": "g"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 400,
+      "unit": "ml",
+      "note": "min. 30 % tuku, vychlazená"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Jahody rozmixuj tyčovým mixérem s cukrem moučkou a citronovou šťávou na hladké pyré. Pro hladší zmrzlinu pyré přeceď. Nech chladit v lednici 30 minut."
+    },
+    {
+      "text": "Vychlazenou smetanu se sáčkem vanilkového cukru šlehej do měkkých špiček, tedy dokud se na hladině drží stopa šlehače, ale hmota je ještě lehká. Přešlehaná by se začala srážet."
+    },
+    {
+      "text": "Pyré vmíchej do šlehačky ve třech dávkách špachtlí, jen do spojení. Nešlehej, ať zůstane vzduch."
+    },
+    {
+      "text": "Hmotu přelij do plochého mrazicího boxu, vyhlaď povrch a přikryj pečicím papírem těsně na zmrzlině. Zamraz nejméně na 6 hodin, nejlépe přes noc."
+    },
+    {
+      "text": "Před podáváním vytáhni zmrzlinu z mrazáku 10 minut předem. Nabírej lžicí namočenou v horké vodě."
+    }
+  ],
+  "tips": [
+    "Smetana a nádobí mají být vychlazené, šlehačka pak drží tvar.",
+    "Část jahod můžeš nechat nakrájenou na kousky a vmíchat do zmrzliny.",
+    "Zmrzlina bez vajec je bezpečná i pro děti, bez tepelného zpracování."
+  ],
+  "substitutions": [
+    "Jahody lze nahradit maliny nebo borůvkami (mražené nejdřív rozmraz).",
+    "Cukr moučku nahraď stejným množstvím medu, zmrzlina bude měkčí."
+  ],
+  "faq": [
+    {
+      "q": "Jde udělat jahodová zmrzlina bez zmrzlinovače?",
+      "a": "Ano. Smetana ušlehaná do měkkých špiček a pyré dají lehkou hmotu, která v mrazáku ztuhne bez míchání. Hotovo za 6 hodin."
+    },
+    {
+      "q": "Proč je domácí jahodová zmrzlina ledová?",
+      "a": "Pyré mělo příliš vody nebo málo cukru. Jahody dobře rozmixuj, přeceď, nedávej víc než 400 g na 400 ml smetany a použij cukr moučku."
+    },
+    {
+      "q": "Dá se použít mražené ovoce?",
+      "a": "Ano, nejdřív ho rozmraz a odlej přebytečnou šťávu. Do zmrzliny pak dej vyšší podíl pyré než tekutiny."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Zapečené těstoviny se šunkou a sýrem",
+  "keywords": [
+    "zapečené těstoviny",
+    "zapečené těstoviny se šunkou a sýrem",
+    "zapečené těstoviny s vejci",
+    "zapečené těstoviny recept"
+  ],
+  "image": "dish-zapecene-testoviny-jidelna",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Zapečené těstoviny se šunkou a sýrem pro čtyři, hotové asi za 45 minut. Základ tvoří předvařené těstoviny a zálivka z vajec, smetany a mléka, která se v troubě srazí a drží sýr i šunku pohromadě.",
+  "steps": [
+    {
+      "text": "Těstoviny uvař v osolené vodě o 2 minuty kratší dobu, než udává obal. Slij a nech okapat. Troubu předehřej na 190 °C."
+    },
+    {
+      "text": "Vejce rozšlehej se smetanou, mlékem, solí, pepřem a muškátem."
+    },
+    {
+      "text": "Zapékací misku vymaž máslem. Těstoviny smíchej se šunkou a polovinou sýra a vlož do misky."
+    },
+    {
+      "text": "Zalij zálivkou, posyp zbytkem sýra a peč 25 minut, dokud zálivka není pevná a povrch zlatavý."
+    },
+    {
+      "text": "Před podáváním nech 5 minut odpočinout, aby se zálivka usadila."
+    }
+  ],
+  "tips": [
+    "Těstoviny nesmí být předvařené do měkka, v troubě dojdou.",
+    "Zálivka obsahuje syrová vejce, a proto musí být po upečení pevná, ne tekutá.",
+    "Hodí se zbytky šunky nebo opečená slanina, ale nesol, než je ochutnáš."
+  ],
+  "substitutions": [
+    "Šunku nahraď uzeným masem, klobásou nebo kousky kuřecího.",
+    "Eidam jde nahradit goudou, cheddarem nebo směsí s parmazánem.",
+    "Bez masa vynech šunku a přidej žampiony a hrášek."
+  ],
+  "faq": [
+    {
+      "q": "Je nutné těstoviny před zapečením uvařit?",
+      "a": "Ano, předvař je asi o 2 minuty kratší dobu, než udává obal. V troubě ještě dojdou ve smetanové zálivce."
+    },
+    {
+      "q": "Proč jsou zapečené těstoviny suché?",
+      "a": "Chybí zálivka nebo se přepekly. Těstoviny nasají tekutinu, takže zalij tak, aby byly z poloviny ponořené, a peč jen do zlatova."
+    },
+    {
+      "q": "Dají se zapečené těstoviny připravit dopředu?",
+      "a": "Ano, nech je přikryté v lednici do druhého dne a pečení prodluž o 5 až 10 minut."
+    }
+  ],
+  "category": "ceska",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na vymazání formy"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ]
+}

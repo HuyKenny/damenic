@@ -1,0 +1,108 @@
+{
+  "title": "Steak ribeye na pánvi",
+  "keywords": [
+    "ribeye steak",
+    "jak udělat steak",
+    "steak",
+    "hovězí steak recept"
+  ],
+  "image": "dish-steak-ribeye",
+  "category": "steak",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 10,
+  "waitMinutes": 40,
+  "waitLabel": "temperování masa mimo lednici",
+  "difficulty": "střední",
+  "intro": "Steak ribeye na pánvi stojí na třech věcech: na masu, které je před smažením pokojové teploty, na rozpálené litinové pánvi a na teploměru. Tady je postup se stupni propečení od rare po well done, přesnými teplotami uvnitř a časem odpočinku, který z ribeye udělá šťavnatý kus.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-ribeye",
+      "amount": 500,
+      "unit": "g",
+      "note": "2 steaky, každý asi 250 g a 3 až 4 cm tlustý"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na smažení, snese vysoký žár"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "na zalévání"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen rozdrcený, ve slupce"
+    },
+    {
+      "ingredient": "rozmaryn",
+      "amount": 5,
+      "unit": "g",
+      "note": "2 větvičky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "hrubá, nebo 1 lžička"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 2,
+      "unit": "g",
+      "note": "čerstvě mletý"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vyndej steaky z lednice 40 minut před smažením, aby se maso uvnitř neprudilo. Osuš je papírovou utěrkou, jinak se na pánvi budou dusit místo smažit."
+    },
+    {
+      "text": "Postav na největší plamen litinovou nebo tlustou pánev a nech ji hřát 4 až 5 minut, dokud nezačne lehce kouřit. Vlij olej, nech ho 10 sekund zhorknout žárem a steaky posol z obou stran, až když je pokládáš na pánev."
+    },
+    {
+      "text": "Steaky nech na jedné straně bez hýbání: rare 2 minuty, medium rare 3, medium 4 a well done 5 až 6 minut při tloušťce 3,5 cm. Pak je otoč a smaž stejně dlouho druhou stranu."
+    },
+    {
+      "text": "Za posledních 60 sekund stáhni plamen na střední, přidej máslo, česnek a rozmarýn a nakloněnou pánví polévej steaky zpěněným máslem."
+    },
+    {
+      "text": "Změř teploty uvnitř teploměrem zapíchnutým do středu: rare 52 °C, medium rare 55 °C, medium 60 °C, well done 70 °C a víc. Maso vytahuj o 3 °C dřív, za odpočinku ještě dojde. Well done dodělej v troubě při 180 °C."
+    },
+    {
+      "text": "Nech steaky odpočinout 5 až 8 minut na prkénku pod volně položenou fólií a teprve pak je nakrájej proti směru vláken. Šťáva se mezitím usadí v mase, ne na prkénku."
+    }
+  ],
+  "tips": [
+    "Bez teploměru se na steak spoléhat nedá: tloušťka, žár i původní teplota masa mění čas. Teploměr za pár stovek je nejlepší investice do steaků.",
+    "Do masa nepíchej vidličkou a otáčej ho kleštěmi, jinak z něj odteče šťáva.",
+    "Sůl dej až těsně před pánev. Když posolíš o hodinu dřív, maso začne pouštět vodu a nezhnědne.",
+    "Dobrý steak potřebuje na pánvi rozpálený tuk: máslo samotné by se spálilo, proto se přidává až na konci."
+  ],
+  "substitutions": [
+    "Místo ribeye vezmi sirloin nebo hovězí roštěnou stejné tloušťky, čas smažení bude o minutu kratší.",
+    "Rozmarýn nahraď tymiánem, máslo na zalévání lze vynechat.",
+    "Bez litinové pánve poslouží nejtlustší nerezová, nepřilnavou nepoužívej, nevydrží takový žár."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit ribeye steak?",
+      "a": "U steaku tlustého 3,5 cm je to na rozpálené pánvi asi 2 minuty z každé strany na rare, 3 minuty na medium rare, 4 minuty na medium a 5 až 6 minut na well done. Přesně to ukáže jen teploměr uvnitř masa."
+    },
+    {
+      "q": "Na jaké teplotě je steak medium rare?",
+      "a": "Uvnitř 55 °C. Rare je 52 °C, medium 60 °C a well done 70 °C a víc. Steak vytahuj z pánve o asi 3 °C dřív, za odpočinku ještě dojde."
+    },
+    {
+      "q": "Jak dlouho nechat steak po smažení odpočívat?",
+      "a": "Pět až osm minut u steaku tlustého 3 až 4 cm. Krátký odpočinek nechá šťávu usadit se v mase, takže při krájení nevyteče na prkénko."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Voda s citronem a ledem",
+  "section": "Nápoje",
+  "price": 3900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 70,
+  "description": "Vychlazená voda, plátek citronu a led. Čistá, studená a levná.",
+  "about": [],
+  "kind": "drink",
+  "restaurant": "zmrzlinarna-led-ledem",
+  "image": "dish-voda-s-citronem-a-ledem",
+  "allergens": [],
+  "vegan": true
+}

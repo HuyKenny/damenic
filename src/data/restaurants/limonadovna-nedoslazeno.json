@@ -1,0 +1,33 @@
+{
+  "name": "Limonádovna Nedoslazeno",
+  "category": "napoje",
+  "cuisine": "Domácí limonády a sirupy",
+  "tagline": "Sirupy stojí v řadě. Jen k tobě nedoputují.",
+  "description": "Limonádovna se sirupy z bezu, zázvoru, máty a okurky. Celý podnik je smyšlený, takže ti žádná sklenice nedorazí, ale recepty na sirup i limonádu jsou skutečné.",
+  "etaMinutes": 18,
+  "deliveryFee": 0,
+  "minOrder": 0,
+  "priceLevel": 1,
+  "hours": {
+    "open": "10:00",
+    "close": "20:00"
+  },
+  "pickup": true,
+  "tags": [
+    "veganské",
+    "bez masa"
+  ],
+  "logo": {
+    "text": "LN",
+    "color": "#F2C230",
+    "ink": "dark"
+  },
+  "sections": [
+    "Limonády",
+    "K limonádě",
+    "Nápoje"
+  ],
+  "order": 201,
+  "isNew": true,
+  "cover": "rest-limonadovna-nedoslazeno"
+}

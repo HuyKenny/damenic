@@ -1,0 +1,17 @@
+{
+  "name": "Hrst pražených mandlí",
+  "restaurant": "dzusbar-vymackame-zitra",
+  "kind": "side",
+  "section": "Přídavky",
+  "description": "Pražené mandle na pár soust. Smyšlené, ale křupou doopravdy.",
+  "price": 5900,
+  "image": "dish-hrst-mandli-vymackame",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    8
+  ],
+  "order": 40,
+  "about": []
+}

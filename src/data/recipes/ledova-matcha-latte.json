@@ -1,0 +1,87 @@
+{
+  "title": "Ledová matcha latte",
+  "keywords": [
+    "iced matcha latte",
+    "ledová matcha latte",
+    "ledová matcha latte recept",
+    "iced matcha latte doma"
+  ],
+  "image": "dish-ledova-matcha-latte",
+  "category": "matcha",
+  "vegetarian": true,
+  "servings": 1,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Ledová matcha latte je 2 g matchy rozšlehané v 50 ml vody o teplotě 70 až 80 °C a zalité 150 ml studeného mléka s ledem. Hrudky se tvoří, když se prášek sype rovnou do studeného mléka, proto se nejdřív rozšlehá v teplé vodě.",
+  "ingredients": [
+    {
+      "ingredient": "matcha-prasek",
+      "amount": 2,
+      "unit": "g",
+      "note": "přesítá"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 50,
+      "unit": "ml",
+      "note": "70 až 80 °C"
+    },
+    {
+      "ingredient": "led-do-napoju",
+      "amount": 150,
+      "unit": "g",
+      "note": "kostky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "note": "studené"
+    },
+    {
+      "ingredient": "javorovy-sirup",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "volitelně"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do malé misky přesej 2 g matchy a zalij ji 50 ml vody o teplotě 70 až 80 °C."
+    },
+    {
+      "text": "Šlehej metličkou nebo napěňovačem asi 20 vteřin, až je tekutina hladká a bez hrudek. Případně rozmíchej javorový sirup."
+    },
+    {
+      "text": "Vysokou sklenici naplň 150 g ledu a nalij 150 ml studeného mléka."
+    },
+    {
+      "text": "Rozšlehanou matchu nalij na mléko pomalu přes lžíci, ať vzniknou dvě vrstvy. Před pitím promíchej."
+    }
+  ],
+  "tips": [
+    "Matchu rozpusť teplou vodou, studená by se hůř rozpouštěla.",
+    "Pro víc pěny použij napěňovač na mléko.",
+    "Sirup rozmíchej do teplé matchy, ve studeném mléku se špatně rozpouští."
+  ],
+  "substitutions": [
+    "Mléko lze nahradit ovesným nebo kokosovým nápojem.",
+    "Sirup nahradíš medem rozpuštěným v teplé matche."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat ledovou matchu bez hrudek?",
+      "a": "Matchu nejprve přesej a rozšlehej v 50 ml teplé vody, teprve pak ji nalij na led a studené mléko."
+    },
+    {
+      "q": "Kolik matchy se dává do ledové matcha latte?",
+      "a": "Stačí 2 g, tedy asi lžička prášku. Pro výraznější chuť 3 g, pak ale nápoj víc hořkne."
+    },
+    {
+      "q": "Dá se ledová matcha latte připravit předem?",
+      "a": "Radši ne. Matcha se usazuje a led se rozpustí, pij ji do 15 minut od přípravy."
+    }
+  ]
+}

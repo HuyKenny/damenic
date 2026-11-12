@@ -1,0 +1,143 @@
+{
+  "title": "Jablečný koláč s drobenkou",
+  "keywords": [
+    "jablečný koláč",
+    "jablečný koláč recept",
+    "jednoduchý jablečný koláč",
+    "jablečný koláč s drobenkou"
+  ],
+  "image": "dish-jablecny-kolac-s-drobenkou",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 30,
+  "cookMinutes": 50,
+  "waitMinutes": 30,
+  "waitLabel": "chladnutí v koláčové formě",
+  "difficulty": "snadné",
+  "intro": "Jablečný koláč s drobenkou z rozpuštěného másla: míchá se v jedné míse, do koláčové formy o průměru 24 cm a peče 50 minut. Těžké na tom je jen jediné, nepřehnat to s jablky, aby uprostřed nezůstalo syrové a mokré těsto.",
+  "ingredients": [
+    {
+      "ingredient": "jablko",
+      "amount": 4,
+      "unit": "ks",
+      "note": "větší, pevná kyselkavá (asi 700 g), na kostičky 1,5 cm",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva na jablka",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 130,
+      "unit": "g",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "rozpuštěné a vlažné",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Drobenka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 175 °C (horní a spodní ohřev). Formu o průměru 24 cm vymaž máslem a vysyp moukou. Jablka oloupej, nakrájej na kostičky a pokrop citronovou šťávou, aby nehnědla."
+    },
+    {
+      "text": "Na drobenku mouku, cukr a studené máslo rukou rozmělni na hrubé drobky. Dej stranou do lednice."
+    },
+    {
+      "text": "Vejce vyšlehej s cukrem do pěny, přilij mléko a rozpuštěné máslo. Přisyp mouku smíchanou s práškem do pečiva, skořicí a solí a rozmíchej jen do spojení."
+    },
+    {
+      "text": "Těsto nalij do formy, na něj rovnoměrně rozlož jablka a posyp drobenkou. Peč 45 až 50 minut, dokud špejle zabodnutá do středu nevyjde suchá. Pokud povrch tmavne dřív, přikryj ho alobalem."
+    },
+    {
+      "text": "Koláč nech 30 minut vychladnout ve formě, pak ho vyndej. Posyp skořicí nebo cukrem moučkou."
+    }
+  ],
+  "tips": [
+    "Vezmi jablka, která drží tvar: Idared, Jonagold nebo Granny Smith. Mouku si nepřisypávej na jablka.",
+    "Špejle musí vyjít suchá i z těsta pod jablky, ne jen z okraje.",
+    "Druhý den chutná ještě víc, protože se šťáva rozloží."
+  ],
+  "substitutions": [
+    "Rozpuštěné máslo lze nahradit 100 ml oleje, koláč bude lehčí.",
+    "Hladkou mouku můžeš z poloviny nahradit celozrnnou."
+  ],
+  "faq": [
+    {
+      "q": "Proč je jablečný koláč uprostřed vlhký?",
+      "a": "Jablka jsou moc šťavnatá nebo se koláč peče krátce. Zkontroluj špejlí těsto pod jablky, případně peč dál a povrch přikryj alobalem."
+    },
+    {
+      "q": "Která jablka se nejlépe hodí do koláče?",
+      "a": "Pevná a trochu kyselá, třeba Idared, Jonagold nebo Granny Smith. Drží tvar a sladkost těsta jim sedne."
+    },
+    {
+      "q": "Jak dlouho vydrží jablečný koláč?",
+      "a": "Přikrytý 2 až 3 dny při pokojové teplotě, v lednici až 4 dny. Před podáváním ho nech vyhřát na pokojovou teplotu."
+    }
+  ]
+}

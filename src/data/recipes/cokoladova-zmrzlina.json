@@ -1,0 +1,103 @@
+{
+  "title": "Čokoládová zmrzlina z krému",
+  "keywords": [
+    "čokoládová zmrzlina",
+    "domácí čokoládová zmrzlina",
+    "čokoládová zmrzlina recept",
+    "domácí zmrzlina"
+  ],
+  "image": "dish-cokoladova-zmrzlina",
+  "category": "zmrzlina",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 480,
+  "waitLabel": "chlazení krému a mrazák",
+  "difficulty": "střední",
+  "intro": "Čokoládová zmrzlina recept z krému ze žloutků, mléka, smetany, kakaa a hořké čokolády. Hotová zmrzlina je hustá a sytě čokoládová, bez zmrzlinovače stačí metla a mrazák. Kakao s čokoládou dávají hloubku, žloutky hladkost.",
+  "ingredients": [
+    {
+      "ingredient": "mleko",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 300,
+      "unit": "ml",
+      "note": "min. 30 % tuku"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "jen žloutky"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 30,
+      "unit": "g",
+      "note": "neslazené, prosáté"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "note": "min. 55 % kakaa, nasekaná"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Žloutky vyšlehej s cukrem a kakaem do hladké hmoty bez hrudek."
+    },
+    {
+      "text": "Mléko se smetanou ohřej v hrnci na asi 80 °C (pára, bublinky u okraje, ne var). Za stálého šlehání přilévej do žloutků po troškách."
+    },
+    {
+      "text": "Směs vrať do hrnce a vař na slabém plameni za stálého míchání 6 až 8 minut na 80 až 82 °C, dokud krém neobalí hřbet vařečky. Nesmí se vařit, žloutky by se srazily."
+    },
+    {
+      "text": "Stáhni z plotny, vmíchej nasekanou čokoládu a sůl a míchej, dokud se čokoláda úplně nerozpustí. Přeceď přes sítko, misku postav do ledové lázně a nech vychladnout."
+    },
+    {
+      "text": "Přikryj a nech 4 hodiny nebo přes noc v lednici (do 5 °C). Pak krém nalij do plochého boxu, dej do mrazáku a po 45 minutách metlou rozmíchej. Opakuj 4krát, pak nech zmrazit 2 hodiny."
+    },
+    {
+      "text": "Před podáváním nech zmrzlinu 10 až 15 minut změknout při pokojové teplotě."
+    }
+  ],
+  "tips": [
+    "Čokoláda nad 55 % kakaa dává plnější chuť, ale míň sladkosti, případně přidej lžíci cukru.",
+    "Do krému vkápni lžičku silného espressa, chuť čokolády zesílí.",
+    "Vždy teploměr: při 85 °C se krém sráží."
+  ],
+  "substitutions": [
+    "Hořkou čokoládu lze nahradit mléčnou, ale sniž cukr na 80 g.",
+    "Smetanu lze z části nahradit plnotučným mlékem, zmrzlina bude lehčí a ledovější."
+  ],
+  "faq": [
+    {
+      "q": "Proč je čokoládová zmrzlina tak tvrdá?",
+      "a": "Má méně tuku a vzduchu než zmrzlina z obchodu. Nech ji 10 až 15 minut změknout. Pomůže i vyšší podíl čokolády a smetany."
+    },
+    {
+      "q": "Dá se čokoládová zmrzlina udělat bez vajec?",
+      "a": "Ano, ale chuť i konzistence jsou jiné, bez žloutků je zmrzlina méně hladká. Tento recept žloutky obsahuje a bezpečně se v něm pasterizují při 80 až 82 °C."
+    },
+    {
+      "q": "Proč se mi krém sražel?",
+      "a": "Ohřál se nad 85 °C a žloutky se srazily. Přeceď ho přes jemné sítko a rychle mixuj tyčovým mixérem. Příště vař na slabém plameni a měř teplotu."
+    }
+  ]
+}

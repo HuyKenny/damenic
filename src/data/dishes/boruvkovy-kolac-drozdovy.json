@@ -1,0 +1,21 @@
+{
+  "name": "Borůvkový koláč drožďový",
+  "section": "Koláče",
+  "price": 7900,
+  "recipe": "boruvkovy-kolac",
+  "vegetarian": true,
+  "order": 20,
+  "description": "Kynuté těsto, mražené borůvky a drobenka. Tmavě modrý rozmar.",
+  "about": [
+    "Drožďový koláč s borůvkami je pečivo pro někoho, kdo má rád, že ráno voní kuchyň. Těsto kyne hodinu, borůvky se dávají hned na něj a drobenka dělá z plechu povrch s chutí.",
+    "Mražené borůvky jsou tu schválně: drží tvar a nezbarví těsto. Zbytek je trpělivost."
+  ],
+  "kind": "main",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "image": "dish-boruvkovy-kolac-drozdovy",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

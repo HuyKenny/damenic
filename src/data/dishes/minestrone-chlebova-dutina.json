@@ -1,0 +1,57 @@
+{
+  "name": "Minestrone",
+  "section": "Z hrnce",
+  "price": 12900,
+  "recipe": "minestrone",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 60,
+  "description": "Italská zeleninová polévka s fazolemi, těstovinami a parmazánem.",
+  "about": [
+    "Minestrone je polévka, do které se dá všechno, co ti zbylo v lednici. Cibule, mrkev, cuketa, brambor, rajčata, fazole a krátké těstoviny. Italové jí říkají velká polévka a mají k tomu důvod: sytí.",
+    "Těstoviny dej až na konec a na druhý den je klidně vař zvlášť, jinak nabobtnají. A bistro? To je smyšlené, takže nic nenabobtná."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší 0,3 l",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická 0,45 l",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "parmazan",
+          "name": "Parmazán navíc",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "chlebova-dutina",
+  "image": "dish-minestrone-chlebova-dutina",
+  "allergens": [
+    1,
+    7,
+    9
+  ]
+}

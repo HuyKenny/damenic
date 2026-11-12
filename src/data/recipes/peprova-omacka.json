@@ -1,0 +1,106 @@
+{
+  "title": "Pepřová omáčka ke steaku",
+  "keywords": [
+    "pepřová omáčka",
+    "omáčka k steaku",
+    "steak",
+    "hovězí steak recept"
+  ],
+  "image": "dish-steak-s-peprovou-omackou",
+  "category": "steak",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Pepřová omáčka ke steaku se dělá na stejné pánvi jako maso a zabere deset minut. Rozhoduje opražený a rozdrcený pepř, zredukovaný vývar a smetana, která se jen krátce svaří. Tady je postup s brandy i bez něj, aby omáčka nebyla vodová ani moc hustá.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "rozdrcený v hmoždíři nebo pod dnem hrnce"
+    },
+    {
+      "ingredient": "brandy",
+      "amount": 50,
+      "unit": "ml",
+      "note": "nebo vynech a přidej víc vývaru"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml",
+      "note": "33 %"
+    },
+    {
+      "ingredient": "horcice-dijonska",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "podle chuti"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V rendlíku nebo na pánvi po steaku rozpusť máslo a na střední žár na něm 3 minuty smaž cibuli dosklovata."
+    },
+    {
+      "text": "Přidej rozdrcený pepř a 30 sekund ho opékej, dokud nezavoní. Pepř nesmí zhnědnout."
+    },
+    {
+      "text": "Odstav pánev z plamene, nalij brandy a opatrně ho vrať na žár. Pozor, může vzplanout, drž nad pánví odstup a ne nad plynovým plamenem z lahve. Nech 1 minutu odpařit alkohol."
+    },
+    {
+      "text": "Přilij vývar a na středním žáru ho vař 4 až 5 minut, dokud se neodpaří zhruba na polovinu."
+    },
+    {
+      "text": "Vlij smetanu, přidej hořčici a nech 3 až 4 minuty tiše bublat, až omáčka přilne ke lžíci. Dochuť solí a podávej ke steaku."
+    }
+  ],
+  "tips": [
+    "Pepř rozdrť hrubě, mletý by udělal omáčku šedou a ostrou.",
+    "Smetanu přidávej až do zredukovaného vývaru a nevař ji prudce, jinak se může srazit.",
+    "Omáčka se dobře dělá na pánvi po steaku: ve výpeku je chuť masa."
+  ],
+  "substitutions": [
+    "Bez alkoholu použij o 50 ml víc vývaru a lžičku citronové šťávy na konci.",
+    "Hovězí vývar lze vzít zeleninový, chuť bude jemnější.",
+    "Zelený nakládaný pepř dej místo části černého, bude svěžejší."
+  ],
+  "faq": [
+    {
+      "q": "Čím se zahušťuje pepřová omáčka?",
+      "a": "Redukcí vývaru a smetanou, žádnou mouku ani škrob nepotřebuje. Nech vývar zhruba na polovinu vyvařit a smetanu jen krátce svař, omáčka zhoustne sama."
+    },
+    {
+      "q": "Dá se pepřová omáčka udělat bez alkoholu?",
+      "a": "Ano. Brandy jen přidá chuť a při redukci se odpaří. Vynech ho, přidej 50 ml vývaru navíc a na konci kapku citronové šťávy."
+    },
+    {
+      "q": "Jak dlouho se pepřová omáčka drží?",
+      "a": "V lednici dva dny v uzavřené dóze. Ohřívej ji pomalu, nevař prudce, ať se smetana nesrazí."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Zelené smoothie 0,4 l",
+  "restaurant": "dzusbar-vymackame-zitra",
+  "kind": "main",
+  "section": "Smoothie",
+  "description": "Špenát, jablko, banán a zázvor. Zelené, ale chutná jako ovoce, slibujeme.",
+  "price": 10900,
+  "image": "dish-zelene-smoothie-vymackame",
+  "recipe": "zelene-smoothie",
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 20,
+  "about": [
+    "Zelené smoothie má špatnou pověst kvůli barvě, ne kvůli chuti. Čerstvý baby špenát se v mixéru ztratí úplně: banán a jablko přebijí vše, zázvor přidá štiplavý kopanec a limetka drží svěžest.",
+    "Je vegan a obejde se bez mléka i jogurtu. Doma dej špenát do mixéru k tekutině jako první, ať se rozmixuje hladce. U nás se mixuje jen v představě, ale ta je doopravdy zelená."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "03",
+          "name": "0,3 l",
+          "priceDelta": -1000
+        },
+        {
+          "id": "04",
+          "name": "0,4 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "05",
+          "name": "0,5 l",
+          "priceDelta": 1500
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "chia",
+          "name": "Chia semínka",
+          "priceDelta": 1500
+        },
+        {
+          "id": "zazvor",
+          "name": "Zázvor navíc",
+          "priceDelta": 1000
+        }
+      ],
+      "max": 2
+    }
+  ]
+}

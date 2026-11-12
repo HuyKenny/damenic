@@ -1,0 +1,16 @@
+{
+  "name": "Hojicha latte",
+  "restaurant": "matcharna-jeste-slehame",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Pražený zelený čaj s mlékem, oříšková chuť bez hořkosti matchy.",
+  "about": [],
+  "price": 8500,
+  "image": "dish-mj-hojicha-latte",
+  "recipe": null,
+  "vegetarian": true,
+  "allergens": [
+    7
+  ],
+  "order": 60
+}

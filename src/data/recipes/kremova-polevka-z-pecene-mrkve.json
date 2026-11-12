@@ -1,0 +1,127 @@
+{
+  "title": "Krémová polévka z pečené mrkve",
+  "keywords": [
+    "krémová polévka z pečené mrkve",
+    "mrkvová polévka",
+    "mrkvová polévka s kokosovým mlékem",
+    "pečená mrkev polévka"
+  ],
+  "image": "dish-mrkvova-polevka-chlebova-dutina",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Mrkvová polévka z pečené mrkve se zázvorem a kokosovým mlékem je veganská, sladká a hluboce mrkvová. Pečení v troubě při 200 °C dodá karamelovou chuť, kterou z vaření nedostaneš. Hotová je za hodinu, z toho 15 minut práce.",
+  "ingredients": [
+    {
+      "ingredient": "mrkev",
+      "amount": 800,
+      "unit": "g",
+      "note": "na kousky 2 cm"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na čtvrtky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "ve slupce"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 15,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 700,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "kokosove-mleko",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C. Mrkev, cibuli a česnek ve slupce smíchej na plechu s olejem, kmínem a solí."
+    },
+    {
+      "text": "Peč 35 až 40 minut, v půlce promíchej, až je mrkev měkká a na okrajích zlatohnědá. Česnek vyndej ze slupky."
+    },
+    {
+      "text": "Vše přesypej do hrnce, přidej zázvor a vývar, přiveď k varu a vař 5 minut."
+    },
+    {
+      "text": "Polévku rozmixuj ponorným mixérem do hladka, vlij kokosové mléko a prohřej bez varu."
+    },
+    {
+      "text": "Dochuť solí, pepřem a citronovou šťávou a podávej s petrželkou."
+    }
+  ],
+  "tips": [
+    "Mrkev musí být na plechu v jedné vrstvě, jinak se napaří a nezkaramelizuje.",
+    "Česnek ve slupce se nespálí a změkne do krému. Vymáčkni ho až po upečení.",
+    "V lednici vydrží 4 dny, zamrazit ji jde na 3 měsíce. Kokosové mléko se může po rozmrazení oddělit, prošlehej.",
+    "Práce je 15 minut, 45 minut je pečení bez dozoru."
+  ],
+  "substitutions": [
+    "Kokosové mléko nahradí smetana na vaření (pak není veganská) nebo ovesná smetana.",
+    "Kmín římský zastoupí koriandr mletý nebo kari."
+  ],
+  "faq": [
+    {
+      "q": "Je lepší mrkev péct, nebo vařit?",
+      "a": "Pečená mrkev je sladší a chuťově hlubší, protože se karamelizuje. Vařená je mírnější. Pečení trvá o 20 minut déle."
+    },
+    {
+      "q": "Jak zahustit mrkvovou polévku?",
+      "a": "Rozmixuj ji déle a případně vař bez poklice 5 minut. Hustotu doladíš vývarem po 50 ml."
+    },
+    {
+      "q": "Jde mrkvová polévka zamrazit?",
+      "a": "Ano, na 3 měsíce. V lednici vydrží 4 dny. Po rozmrazení prošlehej, aby se kokosové mléko spojilo."
+    }
+  ]
+}

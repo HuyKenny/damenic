@@ -1,0 +1,107 @@
+{
+  "title": "Škvarková pomazánka",
+  "keywords": [
+    "škvarková pomazánka",
+    "škvarková pomazánka recept",
+    "domácí škvarková pomazánka",
+    "pomazánka ze škvarků"
+  ],
+  "image": "dish-skvarkova-pomazanka-na-krajici",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 5,
+  "waitMinutes": 60,
+  "waitLabel": "ztuhnutí v lednici",
+  "difficulty": "snadné",
+  "intro": "Škvarková pomazánka z vepřových škvarků, sádla, cibule a česneku je klasika k chlebu a pivu. Škvarky se musí pořádně rozdrtit, cibule se opeče do zlatova a sádlo se nesmí rozpustit do tekutého stavu, jinak pomazánka ztuhne rozdělená.",
+  "ingredients": [
+    {
+      "ingredient": "skvarky",
+      "amount": 150,
+      "unit": "g",
+      "note": "nejlépe měkčí, ne zcela tvrdé"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 100,
+      "unit": "g",
+      "note": "při pokojové teplotě změklé"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisované"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "sušená"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "mletý nebo celý rozdrcený"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli nakrájenou nadrobno osmahni na lžíci sádla na mírném plameni 5 minut, dokud nezesklovatí a lehce nezezlátne. Nech ji vychladnout."
+    },
+    {
+      "text": "Škvarky rozmixuj v mixéru na hrubší drť, nebo je nasekej velkým nožem na kousky velké asi 3 mm. Nemixuj je do hladka, pomazánka má mít zrnitou strukturu."
+    },
+    {
+      "text": "Změklé sádlo vymíchej v míse vidličkou nebo ruční metlou do krémova. Přidej škvarky, vychladlou cibuli, česnek, majoránku a kmín."
+    },
+    {
+      "text": "Dochuť pepřem a solí podle slanosti škvarků. Škvarky bývají slané, proto nejdřív ochutnej."
+    },
+    {
+      "text": "Pomazánku přendej do dózy, uhlaď povrch a nech ji ztuhnout v lednici alespoň hodinu. Podávej na chlebu s cibulí nebo okurkou."
+    }
+  ],
+  "tips": [
+    "Sádlo musí být jen změklé, ne rozpuštěné. Rozpuštěné sádlo se po ztuhnutí oddělí od škvarků.",
+    "Pomazánka se zvýrazní s nakládanou okurkou nebo kolečky syrové cibule až na chlebu.",
+    "Pomazánku skladuj v lednici do 5 °C a spotřebuj ji do 4 dnů. Hladký povrch zalitý tenkou vrstvou sádla vydrží trochu déle."
+  ],
+  "substitutions": [
+    "Sádlo můžeš nahradit změklým máslem, chuť bude jemnější.",
+    "Majoránku zkus s trochou sladké papriky."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží škvarková pomazánka?",
+      "a": "V uzavřené dóze v lednici do 5 °C vydrží do 4 dnů. Čerstvý česnek a cibule zkracují trvanlivost, proto ji nevyrábíme do zásoby."
+    },
+    {
+      "q": "Dá se škvarková pomazánka zmrazit?",
+      "a": "Dá, vydrží až 2 měsíce, ale po rozmražení bude struktura trochu měkčí. Rozmrazuj ji v lednici a nezmrazuj podruhé."
+    },
+    {
+      "q": "Z jakých škvarků je nejlepší?",
+      "a": "Z vepřových, ne příliš tvrdých a suchých. Čerstvé a měkčí škvarky dají jemnější pomazánku než staré tvrdé."
+    }
+  ]
+}

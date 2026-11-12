@@ -1,0 +1,91 @@
+{
+  "title": "Mátová limonáda",
+  "keywords": [
+    "mátová limonáda",
+    "domácí limonáda recept",
+    "limonáda s mátou a limetkou",
+    "mátová limonáda recept"
+  ],
+  "image": "dish-matova-limonada-nedoslazeno",
+  "category": "napoje",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Mátová limonáda z čerstvé máty, limetek a cukru je hotová za 15 minut a dělá se bez vaření. Mátu stačí jemně pomačkat, nerozmixovat, jinak zhořkne. Perlivou vodu dolij až těsně před podáváním.",
+  "ingredients": [
+    {
+      "ingredient": "mata",
+      "amount": 1,
+      "unit": "ks",
+      "note": "2 hrsti lístků"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 3,
+      "unit": "ks",
+      "note": "šťáva, jedna na plátky"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "dle chuti"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "note": "vlažná"
+    },
+    {
+      "ingredient": "perliva-voda",
+      "amount": 800,
+      "unit": "ml",
+      "note": "vychlazená"
+    },
+    {
+      "ingredient": "led",
+      "amount": 200,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cukr rozpusť ve 100 ml vlažné vody. Z limetek vymačkej šťávu, jednu nech na plátky."
+    },
+    {
+      "text": "Mátové lístky dej do džbánu a jemně je pomačkej paličkou nebo lžící, ať pustí olej. Nerozbíjej je na kaši."
+    },
+    {
+      "text": "Přidej cukrový roztok a limetkovou šťávu, promíchej a nech 10 minut louhovat. Pak přeceď přes sítko do čistého džbánu."
+    },
+    {
+      "text": "Do sklenic dej led, plátky limetky a trochu máty. Nalij základ do 1/3 sklenice a dolij perlivou vodou. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Základ bez perlivé vody vydrží v lednici 2 dny, ale limonáda s bublinkami je nejlepší hned.",
+    "Máta Mojito (Mentha spicata) je nejjemnější, peprná máta může být ostřejší."
+  ],
+  "substitutions": [
+    "Cukr nahraď medem, rozpusť ho ve vlažné vodě.",
+    "Limetku nahraď citronem, bude lehčí a méně aromatická."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží mátová limonáda?",
+      "a": "Základ bez perlivé vody vydrží 2 dny v lednici. Perlivou vodu přidej vždy až do sklenice, jinak vyprchají bublinky."
+    },
+    {
+      "q": "Proč mi mátová limonáda hořkne?",
+      "a": "Když se máta rozmixuje nebo moc rozdrtí, uvolní hořké látky ze stonků. Stačí lístky jen pomačkat a po 10 minutách přecedit."
+    },
+    {
+      "q": "Dá se použít sušená máta?",
+      "a": "Čerstvá je lepší. Jestli máš jen sušenou, použij 1 lžíci na 4 porce a nech ji 5 minut louhovat ve vlažné vodě."
+    }
+  ]
+}

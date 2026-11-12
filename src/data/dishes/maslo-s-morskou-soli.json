@@ -1,0 +1,16 @@
+{
+  "name": "Máslo s mořskou solí",
+  "section": "K pečivu",
+  "price": 2900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 50,
+  "description": "Kostka másla s flíčkem soli. Na úplně obyčejné pečivo.",
+  "about": [],
+  "kind": "side",
+  "restaurant": "pekarna-zitra-upecem",
+  "image": "dish-maslo-s-morskou-soli",
+  "allergens": [
+    7
+  ]
+}

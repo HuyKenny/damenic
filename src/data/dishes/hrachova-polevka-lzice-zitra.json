@@ -1,0 +1,55 @@
+{
+  "name": "Hrachová polévka s uzeným",
+  "section": "Hustší",
+  "price": 9900,
+  "recipe": "hrachova-polevka",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 40,
+  "description": "Žlutý půlený hrách, uzené maso a majoránka, s krutony z chleba.",
+  "about": [
+    "Hrách je pomalá luštěnina: nejde spěchat, ale jakmile se rozvaří, polévka je hustá jako sametová opona. Půlený hrách se namáčet nemusí, uzené maso dodá kouř a majoránka všechno stáhne dohromady.",
+    "Krutony drží kůrku, i když polévka zhoustne. Uvařená se zamrazí, takže uvaříš jednou a jíš třikrát. Doručit ti ji nedokážeme ani jednou."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší 0,3 l",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická 0,45 l",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "kruton",
+          "name": "Krutony navíc",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "lzice-zitra",
+  "image": "dish-hrachova-polevka-lzice-zitra",
+  "allergens": [
+    1
+  ]
+}

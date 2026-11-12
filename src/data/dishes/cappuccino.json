@@ -1,0 +1,58 @@
+{
+  "name": "Cappuccino",
+  "restaurant": "prazirna-pul-hrnku",
+  "kind": "main",
+  "section": "Mléčné kávy",
+  "description": "Espresso, horké mléko a mléčná pěna ve stejných dílech, klasika s kakaem navrch.",
+  "about": [
+    "Cappuccino má jednoduché pravidlo: třetina espressa, třetina horkého mléka a třetina pěny. Odtud ta hustá čepice, která nehasne po prvním doušku, a vyšší šálek než u flat white.",
+    "Pěnu doma získáš z čerstvého studeného mléka a pár vteřin napěňování. Kakao navrch je tradice, ne povinnost. Pěna tu bohužel stojí jen na papíře, ale recept je skutečný."
+  ],
+  "price": 6900,
+  "image": "dish-cappuccino",
+  "recipe": "cappuccino",
+  "optionGroups": [
+    {
+      "id": "mleko",
+      "name": "Mléko",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kravske",
+          "name": "Kravské",
+          "priceDelta": 0
+        },
+        {
+          "id": "ovesne",
+          "name": "Ovesné",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "shot",
+          "name": "Extra shot espressa",
+          "priceDelta": 1500
+        },
+        {
+          "id": "kakao",
+          "name": "Kakao navrch",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    7
+  ],
+  "featured": true,
+  "order": 10
+}

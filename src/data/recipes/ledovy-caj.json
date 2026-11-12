@@ -1,0 +1,92 @@
+{
+  "title": "Domácí ledový čaj s citronem",
+  "keywords": [
+    "ledový čaj recept",
+    "domácí ledový čaj",
+    "ledový čaj s citronem",
+    "jak udělat ledový čaj"
+  ],
+  "image": "dish-ledovy-caj-vymackame",
+  "category": "napoje",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 5,
+  "waitMinutes": 120,
+  "waitLabel": "chladnutí čaje v lednici",
+  "difficulty": "snadné",
+  "intro": "Domácí ledový čaj z černého čaje a citronu hotový za pár minut práce, ale nejdřív musí vychladnout. Klíčem je neluhovat čaj déle než 4 minuty, jinak zhořkne, a nechat ho vychladnout v lednici, ne na ledu.",
+  "ingredients": [
+    {
+      "ingredient": "caj-cerny",
+      "amount": 6,
+      "unit": "ks",
+      "note": "sáčky"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "vroucí"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "nebo méně, dle chuti"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 2,
+      "unit": "ks",
+      "note": "1 na šťávu, 1 na plátky"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 1,
+      "unit": "ks",
+      "note": "pár lístků na ozdobu"
+    },
+    {
+      "ingredient": "led",
+      "amount": 300,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Převař vodu a nech ji 1 minutu odstát, ať má kolem 95 °C. Sáčky čaje dej do konvice a zalij horkou vodou."
+    },
+    {
+      "text": "Čaj luhuj přesně 4 minuty, pak sáčky vyjmi, nemačkej je. Za horka vmíchej cukr, ať se úplně rozpustí."
+    },
+    {
+      "text": "Čaj nech vychladnout při pokojové teplotě, pak ho zakryj a dej do lednice na aspoň 2 hodiny."
+    },
+    {
+      "text": "Vymačkej šťávu z jednoho citronu, druhý nakrájej na plátky. Do džbánu dej led, čaj, šťávu, plátky citronu a lístky máty. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Čaj dávej do lednice až vychladlý. Horký v lednici zakalí a může se zkazit rychleji.",
+    "Hotový čaj vydrží zakrytý v lednici 2 dny, plátky citronu do něj dej až při podávání."
+  ],
+  "substitutions": [
+    "Černý čaj nahraď zeleným, luhuj pak jen 2 až 3 minuty při 80 °C.",
+    "Cukr nahraď medem, přidej ho až do vlažného čaje, jinak ztratí aroma."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží domácí ledový čaj v lednici?",
+      "a": "Přikrytý v lednici vydrží 2 dny. Citron přidávej až při podávání, jinak čaj zhořkne a zakalí se."
+    },
+    {
+      "q": "Proč je domácí ledový čaj hořký nebo zakalený?",
+      "a": "Hořkne, když se luhuje déle než 4 minuty nebo se sáčky vymačkají. Zakalí se, když se horký čaj hned dá do lednice, proto ho nejdřív nech vychladnout při pokojové teplotě."
+    },
+    {
+      "q": "Dá se ledový čaj udělat studeným způsobem?",
+      "a": "Ano, 6 sáčků na litr studené vody dej na 8 hodin do lednice. Je jemnější a skoro nehořký, jen potřebuje víc času."
+    }
+  ]
+}

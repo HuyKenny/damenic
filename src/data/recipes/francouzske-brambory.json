@@ -1,0 +1,137 @@
+{
+  "title": "Francouzské brambory",
+  "keywords": [
+    "francouzské brambory",
+    "francouzské brambory recept",
+    "francouzské brambory s vejcem a uzeninou",
+    "zapečené francouzské brambory"
+  ],
+  "image": "dish-francouzske-brambory-pivnice",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 60,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Francouzské brambory jsou zapečené vrstvy brambor, vajec natvrdo a uzeniny zalité smetanovou směsí. Recept je pro čtyři porce a trvá asi hodinu a půl. Pozor na to, aby se zálivka celá srazila a brambory nebyly uvnitř tvrdé.",
+  "steps": [
+    {
+      "text": "Brambory uvař ve slupce ve slané vodě asi 20 minut, aby byly téměř měkké. Nech je trochu vychladnout, oloupej a nakrájej na plátky silné asi 5 mm."
+    },
+    {
+      "text": "Vejce natvrdo uvař 10 minut, oloupej a nakrájej na kolečka. Párky nakrájej na kolečka a cibuli na tenká půlkolečka."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C. Zapékací misku vymaž máslem a do vrstev skládej brambory, vejce, párky a cibuli. Každou vrstvu lehce osol. Končí se bramborami."
+    },
+    {
+      "text": "Smetanu rozšlehej se syrovými vejci, solí, pepřem a majoránkou a zalij vrstvy tak, aby byly brambory z poloviny ponořené."
+    },
+    {
+      "text": "Posyp eidamem a peč 35 až 40 minut, dokud zálivka není pevná a sýr zlatavý. Nůž zapíchnutý doprostřed musí vyjít čistý."
+    },
+    {
+      "text": "Před krájením nech zapečené brambory 5 minut odpočinout, ať drží tvar."
+    }
+  ],
+  "tips": [
+    "Brambory nech jen předvařit, v troubě dojdou. Z úplně měkkých by vznikla kaše.",
+    "Zálivka musí být celá srazená, protože obsahuje syrová vejce. Pokud se na povrchu leskne tekutina, peč o pár minut déle.",
+    "Pro silnější chuť použij uzeninu opečenou na pánvi do zlatova."
+  ],
+  "substitutions": [
+    "Párky nahraď šunkovým salámem, klobásou nebo šunkou.",
+    "Místo smetany ke vaření jde 150 ml smetany a 100 ml mléka, zálivka bude lehčí.",
+    "Bez masa vynech párky a přidej opečené žampiony nebo kousky uzeného tofu."
+  ],
+  "faq": [
+    {
+      "q": "Jaké brambory se hodí na francouzské brambory?",
+      "a": "Voskové nebo polovoskové, které se po uvaření nerozpadají. Z moučných vznikne spíš kaše než plátky."
+    },
+    {
+      "q": "Je nutné brambory předvařit?",
+      "a": "Ano. V troubě by se zálivka dřív srazila, než by brambory změkly. Stačí je předvařit asi 20 minut ve slupce."
+    },
+    {
+      "q": "Dá se francouzské brambory připravit dopředu?",
+      "a": "Ano. Poskládej vrstvy do formy, zalij je a přikryté nech v lednici nejdéle den. Pečení pak prodluž o 5 až 10 minut."
+    }
+  ],
+  "category": "ceska",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Vrstvy"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "natvrdo",
+      "group": "Vrstvy"
+    },
+    {
+      "ingredient": "parky",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kolečka",
+      "group": "Vrstvy"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na tenká půlkolečka",
+      "group": "Vrstvy"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 100,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Vrstvy"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "note": "na vymazání formy",
+      "group": "Vrstvy"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "syrová, rozšlehaná",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    }
+  ]
+}

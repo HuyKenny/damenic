@@ -1,0 +1,38 @@
+{
+  "name": "Mochi s fazolovou pastou",
+  "restaurant": "perly-nanecisto",
+  "kind": "main",
+  "section": "Sladké",
+  "description": "Měkké mochi z rýžové mouky s náplní ze sladké fazolové pasty, obalené ve škrobu.",
+  "about": [
+    "Mochi je japonská sladkost z lepivé rýže, která je tak měkká a tažná, že se při jídle příjemně natahuje. Uvnitř bývá sladká fazolová pasta anko, v ovocné verzi celá jahoda.",
+    "Doma se těsto z rýžové mouky vaří v mikrovlnce a pak se tvaruje. Při jídle kousky krájej na menší, mochi je lepivé a hrozí zadušení, hlavně u dětí a starších lidí. K nám nedorazí, ale k tobě se dá doma udělat do půlhodiny."
+  ],
+  "price": 8900,
+  "image": "dish-mochi",
+  "recipe": "mochi",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "3-ks",
+          "name": "3 ks",
+          "priceDelta": 0
+        },
+        {
+          "id": "5-ks",
+          "name": "5 ks",
+          "priceDelta": 5000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 30
+}

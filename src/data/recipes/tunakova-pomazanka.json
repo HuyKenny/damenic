@@ -1,0 +1,105 @@
+{
+  "title": "Tuňáková pomazánka",
+  "keywords": [
+    "tuňáková pomazánka",
+    "tuňáková pomazánka recept",
+    "pomazánka z tuňáka",
+    "tuňáková pomazánka se smetanovým sýrem"
+  ],
+  "image": "dish-tunakova-pomazanka-na-krajici",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "intro": "Tuňáková pomazánka ze smetanového sýru, tuňáka v konzervě, červené cibule a nakládané okurky je hotová za deset minut a před jídlem ještě půl hodiny odpočívá v lednici. Důležité je tuňáka dobře scedit, jinak pomazánka zvodní.",
+  "ingredients": [
+    {
+      "ingredient": "tunak-konzerva",
+      "amount": 160,
+      "unit": "g",
+      "note": "dobře scezený"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 40,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Tuňáka dej do sítka a pořádně ho scezuj, nejlépe ho přitlač lžící. Šťáva by pomazánku rozředila a znatelně změnila její konzistenci."
+    },
+    {
+      "text": "Smetanový sýr a majonézu vyšlehej v míse vidličkou do hladka."
+    },
+    {
+      "text": "Přidej tuňáka a rozdělej ho vidličkou na menší kousky. Vmíchej cibuli a nakládané okurky."
+    },
+    {
+      "text": "Dochuť citronovou šťávou, pepřem a solí. Okurky i tuňák jsou slané, proto soli dávej opatrně a nejdřív ochutnej."
+    },
+    {
+      "text": "Pomazánku přikryj a nech ji alespoň 30 minut odležet v lednici. Před podáváním ji znovu promíchej."
+    }
+  ],
+  "tips": [
+    "Tuňák ve vlastní šťávě je lehčí, v oleji chutnější. Olej ale pořádně scezuj.",
+    "Pomazánka je lepší na lehce opečeném chlebu než na čerstvém měkkém.",
+    "Skladuj ji v lednici do 5 °C a spotřebuj do 2 dnů."
+  ],
+  "substitutions": [
+    "Majonézu nahraď bílým jogurtem pro lehčí verzi.",
+    "Červenou cibuli lze nahradit jarní cibulkou."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží tuňáková pomazánka?",
+      "a": "V uzavřené dóze v lednici do 5 °C vydrží do 2 dnů. Obsahuje rybu a majonézu, proto ji nenechávej při pokojové teplotě déle než 2 hodiny."
+    },
+    {
+      "q": "Jaký tuňák je na pomazánku nejlepší?",
+      "a": "Kousky tuňáka ve vlastní šťávě nebo v oleji. Důležité je, aby byl dobře scezený, jinak bude pomazánka vodnatá."
+    },
+    {
+      "q": "Dá se tuňáková pomazánka dělat bez majonézy?",
+      "a": "Dá. Stačí smetanový sýr nebo tvaroh s trochou citronové šťávy. Pomazánka bude hutnější a o něco kyselejší."
+    }
+  ]
+}

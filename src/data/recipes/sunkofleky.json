@@ -1,0 +1,133 @@
+{
+  "title": "Šunkofleky",
+  "keywords": [
+    "šunkofleky",
+    "šunkofleky recept",
+    "šunkofleky se smetanou",
+    "zapečené šunkofleky"
+  ],
+  "image": "dish-sunkofleky-jidelna",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Šunkofleky jsou zapečené široké těstovinové flíčky se šunkou ve vaječno-smetanové zálivce. Recept je pro čtyři porce a trvá asi hodinu. Fleky se předvaří al dente, aby se v troubě nerozvařily a zálivka se celá srazila.",
+  "steps": [
+    {
+      "text": "Fleky uvař ve vroucí osolené vodě o 2 minuty kratší dobu, než uvádí obal, tedy zhruba 6 až 8 minut. Slij a nech okapat."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C a zapékací misku vymaž máslem."
+    },
+    {
+      "text": "Vejce rozšlehej se smetanou, mlékem, solí, pepřem a muškátovým oříškem. Šunku nakrájej na kostičky."
+    },
+    {
+      "text": "Fleky smíchej s šunkou a přendej do misky. Zalij zálivkou a posyp eidamem."
+    },
+    {
+      "text": "Peč 25 minut, dokud zálivka není pevná a povrch zlatavý. Nůž zapíchnutý doprostřed musí vyjít čistý a suchý."
+    },
+    {
+      "text": "Před podáváním posyp petrželkou a nech 5 minut odpočinout."
+    }
+  ],
+  "tips": [
+    "Zalévej, až když jsou fleky mírně vychladlé, aby se vejce v misce zbytečně nesrazilo.",
+    "Syrová vejce v zálivce se musí upéct celá, takže vlhká středová část znamená dopéct ještě pár minut.",
+    "Hotové šunkofleky se dobře ohřívají na pánvi."
+  ],
+  "substitutions": [
+    "Fleky nahraď těstovinami typu farfalle nebo penne.",
+    "Šunku jde nahradit uzeným masem nebo opečenou slaninou.",
+    "Eidam nahraď goudou nebo niva pro výraznější chuť."
+  ],
+  "faq": [
+    {
+      "q": "Co jsou šunkofleky?",
+      "a": "Zapečené široké těstoviny (fleky) se šunkou, vejci a smetanou. Jsou to klasické české jídlo z jídelen a kuchyní."
+    },
+    {
+      "q": "Jaké těstoviny jsou fleky?",
+      "a": "Široké plochy těstovin, tradičně nakrájené z vaječného těsta. V obchodě je najdeš pod názvem fleky nebo širší nudle."
+    },
+    {
+      "q": "Jak dlouho se šunkofleky pečou?",
+      "a": "Asi 25 minut při 180 °C. Hotové jsou, když je zálivka pevná a povrch zlatavý."
+    }
+  ],
+  "category": "ceska",
+  "ingredients": [
+    {
+      "ingredient": "nudle-fleky",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Směs"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 100,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Zapečení"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "note": "na vymazání formy",
+      "group": "Zapečení"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná na posypání",
+      "group": "Zapečení"
+    }
+  ]
+}

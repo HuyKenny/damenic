@@ -1,0 +1,147 @@
+{
+  "title": "Zelňačka s uzeným masem",
+  "keywords": [
+    "zelňačka",
+    "zelňačka recept",
+    "zelňačka s uzeným",
+    "zelňačka s klobásou"
+  ],
+  "image": "dish-zelnacka-lzice-zitra",
+  "category": "polevky",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Zelňačka s uzeným masem je hustá, kyselá a sytá polévka z kysaného zelí, brambor a uzeniny pro 6 jedlíků. Vaří se z jednoho hrnce za asi hodinu, z toho 25 minut práce. Těžké je vyvážit kyselost zelí malou špetkou cukru.",
+  "ingredients": [
+    {
+      "ingredient": "kysane-zeli",
+      "amount": 400,
+      "unit": "g",
+      "note": "nakrájené nadrobno, s lákem"
+    },
+    {
+      "ingredient": "uzene-maso",
+      "amount": 250,
+      "unit": "g",
+      "note": "na kostky 1 cm"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 400,
+      "unit": "g",
+      "note": "na kostky 1,5 cm"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1800,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 100,
+      "unit": "g",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej olej a na středním plameni 5 minut opékej uzené maso s cibulí, dokud se cibule nezesklovatí a maso nezíská barvu."
+    },
+    {
+      "text": "Přisyp mouku a míchej 1 minutu, pak přidej papriku, kmín a ihned zalij vodou, aby se paprika nespálila. Prošlehej, aby nevznikly hrudky."
+    },
+    {
+      "text": "Přidej zelí i s lákem, bobkový list, nové koření a cukr. Přikryj a vař 20 minut na mírném plameni."
+    },
+    {
+      "text": "Přidej brambory a vař dalších 15 až 20 minut, až jsou měkké a polévka zhoustne."
+    },
+    {
+      "text": "Vmíchej česnek, dochuť solí a pepřem (nejdřív ochutnej, uzené a zelí jsou slané). Vyndej bobkový list a nové koření. Podávej se lžící zakysané smetany."
+    }
+  ],
+  "tips": [
+    "Zelí s lákem rozhoduje o chuti. Pokud je moc kyselé, propláchni ho studenou vodou nebo přidej špetku cukru navíc.",
+    "Sůl přidej až na konci. Uzené maso i zelí mají vlastní slanost.",
+    "V lednici vydrží 4 dny a druhý den bývá lepší. Zamrazit ji jde na 3 měsíce, brambory po rozmrazení trochu změknou.",
+    "Rozdělení: 25 minut práce, polévka pak vaří sama, jen občas zamíchej."
+  ],
+  "substitutions": [
+    "Uzené maso nahradí uzená klobása nebo slanina. Pro bezmasou verzi dej uzenou papriku a houby.",
+    "Zelí můžeš nahradit čerstvým a přidat lžíci octa."
+  ],
+  "faq": [
+    {
+      "q": "Dává se do zelňačky mouka?",
+      "a": "Dává se, 1 až 2 lžíce na 6 porcí, jako zásmažka s cibulí. Polévku zahustí a zjemní kyselost zelí. Bez mouky zhoustnou i brambory."
+    },
+    {
+      "q": "Proč je zelňačka příliš kyselá a co s tím?",
+      "a": "Zelí s lákem je silně kyselé. Propláchni ho vodou, přidej špetku cukru nebo lžíci zakysané smetany do talíře."
+    },
+    {
+      "q": "Jak dlouho vydrží zelňačka a jde zamrazit?",
+      "a": "V lednici vydrží 4 dny, druhý den bývá chuťově lepší. Zamrazit ji můžeš na 3 měsíce, brambory po rozmrazení lehce změknou."
+    }
+  ]
+}

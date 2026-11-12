@@ -1,0 +1,15 @@
+{
+  "name": "Brambůrky s mořskou solí",
+  "restaurant": "limonadovna-nedoslazeno",
+  "kind": "side",
+  "section": "K limonádě",
+  "description": "Křupavé, slané a jednoduché. K sladké limonádě se hodí jako pointa.",
+  "price": 4900,
+  "image": "dish-brambury-morska-sul-nedoslazeno",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 50,
+  "about": []
+}

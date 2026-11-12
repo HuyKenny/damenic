@@ -1,0 +1,18 @@
+{
+  "name": "Kakaový šnek",
+  "restaurant": "prazirna-pul-hrnku",
+  "kind": "side",
+  "section": "K tomu",
+  "description": "Kynutý šnek plněný kakaem a máslem, ještě teplý, když nedorazí.",
+  "about": [],
+  "price": 6500,
+  "image": "dish-ph-kakaovy-snek",
+  "recipe": null,
+  "vegetarian": true,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 50
+}

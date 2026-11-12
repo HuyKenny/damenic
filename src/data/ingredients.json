@@ -1,237 +1,3812 @@
 [
-  {"id": "voda", "name": "Voda", "department": "Ostatní", "baseUnit": "ml", "pack": {"size": 1000, "price": 0, "label": "z kohoutku"}, "priceSource": "illustrative", "priceCheckedAt": null, "staple": true},
-  {"id": "cibule", "name": "Cibule", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 1000, "price": 2500, "label": "síťka 1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "cervena-cibule", "name": "Červená cibule", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 500, "price": 2500, "label": "síťka 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "jarni-cibulka", "name": "Jarní cibulka", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 1800, "label": "svazek"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "cesnek", "name": "Česnek (stroužky)", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 10, "price": 2000, "label": "palice (asi 10 stroužků)"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "rajcata", "name": "Rajčata", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 500, "price": 4000, "label": "vanička 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "cherry-rajcata", "name": "Cherry rajčata", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 250, "price": 3500, "label": "vanička 250 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "okurka-salatova", "name": "Salátová okurka", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 2000, "label": "1 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "paprika-cervena", "name": "Červená paprika", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 1800, "label": "1 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "mrkev", "name": "Mrkev", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 1000, "price": 2500, "label": "sáček 1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "celer-bulva", "name": "Celer (bulva)", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 600, "price": 3000, "label": "bulva asi 600 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "petrzel-koren", "name": "Petržel (kořen)", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 500, "price": 4000, "label": "svazek 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "brambory", "name": "Brambory", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 2000, "price": 4500, "label": "sáček 2 kg"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "zeli-bile", "name": "Bílé zelí", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 1500, "price": 3000, "label": "hlávka asi 1,5 kg"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "zeli-cervene", "name": "Červené zelí", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 1200, "price": 3000, "label": "hlávka asi 1,2 kg"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "zeli-pekingske", "name": "Pekingské zelí", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 700, "price": 3000, "label": "hlávka asi 700 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "ledovy-salat", "name": "Ledový salát", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 3000, "label": "hlávka"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "rukola", "name": "Rukola", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 100, "price": 3500, "label": "sáček 100 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "spenat-baby", "name": "Baby špenát", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 125, "price": 4000, "label": "sáček 125 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "zampiony", "name": "Žampiony", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 250, "price": 3500, "label": "vanička 250 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "cuketa", "name": "Cuketa", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 500, "price": 3000, "label": "asi 2 ks (500 g)"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "lilek", "name": "Lilek", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 3500, "label": "1 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "brokolice", "name": "Brokolice", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 500, "price": 3500, "label": "1 ks (500 g)"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "batat", "name": "Batát", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 1000, "price": 6000, "label": "1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "avokado", "name": "Avokádo", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 3000, "label": "1 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "citron", "name": "Citron", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 1000, "label": "1 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "limetka", "name": "Limetka", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 1000, "label": "1 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "zazvor", "name": "Čerstvý zázvor", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 100, "price": 2000, "label": "kousek 100 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "chilli-papricka", "name": "Chilli paprička", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 1000, "label": "1 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "bazalka", "name": "Bazalka čerstvá", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 3500, "label": "květináč"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "petrzelka", "name": "Petrželová nať", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 2000, "label": "svazek"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "koriandr", "name": "Koriandr čerstvý", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 3500, "label": "květináč"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "mata", "name": "Máta čerstvá", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 3500, "label": "květináč"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "pazitka", "name": "Pažitka", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 2500, "label": "svazek"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kopr", "name": "Kopr čerstvý", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 2500, "label": "svazek"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "fazolove-klicky", "name": "Mungo klíčky", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 200, "price": 3000, "label": "sáček 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "jablko", "name": "Jablko", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 800, "label": "1 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "hovezi-mlete", "name": "Mleté hovězí maso", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 500, "price": 14000, "label": "balení 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "hovezi-zadni", "name": "Hovězí zadní", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 1000, "price": 33000, "label": "1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "hovezi-klizka", "name": "Hovězí kližka", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 1000, "price": 27000, "label": "1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "hovezi-rostena", "name": "Hovězí roštěná", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 400, "price": 26000, "label": "balení 400 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "veprove-plecko", "name": "Vepřové plecko", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 1000, "price": 15000, "label": "1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "veprova-kyta", "name": "Vepřová kýta (plátky)", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 500, "price": 10000, "label": "balení 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "veprova-krkovice", "name": "Vepřová krkovice", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 1000, "price": 17000, "label": "1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "veprovy-bucek", "name": "Vepřový bůček", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 500, "price": 9000, "label": "balení 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kureci-prsa", "name": "Kuřecí prsní řízky", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 500, "price": 11000, "label": "balení 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kureci-stehna", "name": "Kuřecí stehenní řízky", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 500, "price": 10000, "label": "balení 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "slanina", "name": "Anglická slanina", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 100, "price": 3500, "label": "balení 100 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "sunka", "name": "Šunka", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 100, "price": 3000, "label": "balení 100 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "salam-pikantni", "name": "Pikantní salám", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 100, "price": 4500, "label": "balení 100 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "krevety", "name": "Krevety loupané (mražené)", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 250, "price": 13000, "label": "balení 250 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "uzene-maso", "name": "Uzené maso", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 300, "price": 9000, "label": "balení 300 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "vejce", "name": "Vejce", "department": "Mléčné a chlazené", "baseUnit": "ks", "pack": {"size": 10, "price": 5000, "label": "10 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "maslo", "name": "Máslo", "department": "Mléčné a chlazené", "baseUnit": "g", "spoon": 14, "pack": {"size": 250, "price": 6000, "label": "kostka 250 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "mleko", "name": "Mléko polotučné", "department": "Mléčné a chlazené", "baseUnit": "ml", "pack": {"size": 1000, "price": 2200, "label": "1 l"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "smetana-slehacka", "name": "Smetana ke šlehání 31 %", "department": "Mléčné a chlazené", "baseUnit": "ml", "pack": {"size": 250, "price": 3500, "label": "250 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "smetana-vareni", "name": "Smetana na vaření 12 %", "department": "Mléčné a chlazené", "baseUnit": "ml", "pack": {"size": 250, "price": 2200, "label": "250 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "zakysana-smetana", "name": "Zakysaná smetana", "department": "Mléčné a chlazené", "baseUnit": "g", "spoon": 18, "pack": {"size": 200, "price": 2000, "label": "kelímek 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "jogurt-bily", "name": "Bílý jogurt", "department": "Mléčné a chlazené", "baseUnit": "g", "spoon": 18, "pack": {"size": 150, "price": 1200, "label": "kelímek 150 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "jogurt-recky", "name": "Řecký jogurt", "department": "Mléčné a chlazené", "baseUnit": "g", "spoon": 20, "pack": {"size": 400, "price": 4500, "label": "kelímek 400 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "mozzarella", "name": "Mozzarella", "department": "Mléčné a chlazené", "baseUnit": "g", "pack": {"size": 125, "price": 2500, "label": "balení 125 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "parmazan", "name": "Parmazán (Grana Padano)", "department": "Mléčné a chlazené", "baseUnit": "g", "spoon": 6, "pack": {"size": 150, "price": 8000, "label": "klínek 150 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "eidam", "name": "Eidam 30 %", "department": "Mléčné a chlazené", "baseUnit": "g", "pack": {"size": 250, "price": 5000, "label": "blok 250 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "cheddar", "name": "Cheddar (plátky)", "department": "Mléčné a chlazené", "baseUnit": "g", "pack": {"size": 150, "price": 5000, "label": "balení 150 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "hermelin", "name": "Hermelín", "department": "Mléčné a chlazené", "baseUnit": "g", "pack": {"size": 120, "price": 3500, "label": "1 ks 120 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "feta", "name": "Balkánský sýr", "department": "Mléčné a chlazené", "baseUnit": "g", "pack": {"size": 200, "price": 4000, "label": "balení 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "niva", "name": "Niva", "department": "Mléčné a chlazené", "baseUnit": "g", "pack": {"size": 100, "price": 3000, "label": "balení 100 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "halloumi", "name": "Halloumi", "department": "Mléčné a chlazené", "baseUnit": "g", "pack": {"size": 225, "price": 9000, "label": "balení 225 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "tofu", "name": "Tofu natural", "department": "Mléčné a chlazené", "baseUnit": "g", "pack": {"size": 200, "price": 3500, "label": "balení 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "tvaroh", "name": "Tvaroh měkký", "department": "Mléčné a chlazené", "baseUnit": "g", "pack": {"size": 250, "price": 3000, "label": "vanička 250 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "drozdi", "name": "Droždí čerstvé", "department": "Mléčné a chlazené", "baseUnit": "g", "pack": {"size": 42, "price": 600, "label": "kostka 42 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kysane-zeli", "name": "Kysané zelí", "department": "Mléčné a chlazené", "baseUnit": "g", "pack": {"size": 500, "price": 3000, "label": "sáček 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "bulky-burger", "name": "Burgerové bulky", "department": "Pečivo", "baseUnit": "ks", "pack": {"size": 4, "price": 4000, "label": "4 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "tortilly", "name": "Pšeničné tortilly", "department": "Pečivo", "baseUnit": "ks", "pack": {"size": 6, "price": 4500, "label": "6 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "pita", "name": "Pita chléb", "department": "Pečivo", "baseUnit": "ks", "pack": {"size": 5, "price": 4000, "label": "5 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "chleb", "name": "Chléb", "department": "Pečivo", "baseUnit": "g", "pack": {"size": 500, "price": 3500, "label": "půlka 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "rohliky", "name": "Rohlíky", "department": "Pečivo", "baseUnit": "ks", "pack": {"size": 1, "price": 300, "label": "1 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "toustovy-chleb", "name": "Toustový chléb", "department": "Pečivo", "baseUnit": "g", "pack": {"size": 500, "price": 3000, "label": "balení 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "strouhanka", "name": "Strouhanka", "department": "Pečivo", "baseUnit": "g", "spoon": 8, "pack": {"size": 500, "price": 2000, "label": "sáček 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "mouka-hladka", "name": "Hladká mouka", "department": "Trvanlivé", "baseUnit": "g", "spoon": 8, "pack": {"size": 1000, "price": 2000, "label": "1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null, "staple": true},
-  {"id": "mouka-hruba", "name": "Hrubá mouka", "department": "Trvanlivé", "baseUnit": "g", "spoon": 10, "pack": {"size": 1000, "price": 2000, "label": "1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null, "staple": true},
-  {"id": "mouka-polohruba", "name": "Polohrubá mouka", "department": "Trvanlivé", "baseUnit": "g", "spoon": 9, "pack": {"size": 1000, "price": 2000, "label": "1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null, "staple": true},
-  {"id": "skrob", "name": "Kukuřičný škrob", "department": "Trvanlivé", "baseUnit": "g", "spoon": 8, "pack": {"size": 200, "price": 2500, "label": "krabička 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "cukr", "name": "Cukr krystal", "department": "Trvanlivé", "baseUnit": "g", "spoon": 15, "pack": {"size": 1000, "price": 2500, "label": "1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null, "staple": true},
-  {"id": "cukr-trtinovy", "name": "Třtinový cukr", "department": "Trvanlivé", "baseUnit": "g", "spoon": 13, "pack": {"size": 500, "price": 4000, "label": "500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "med", "name": "Med", "department": "Trvanlivé", "baseUnit": "g", "spoon": 20, "pack": {"size": 250, "price": 7000, "label": "sklenice 250 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "ryze-jasminova", "name": "Jasmínová rýže", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 1000, "price": 6000, "label": "1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "ryze-basmati", "name": "Rýže basmati", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 1000, "price": 7000, "label": "1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "ryze-sushi", "name": "Kulatozrnná rýže", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 500, "price": 4500, "label": "500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "nudle-ryzove", "name": "Rýžové nudle", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 250, "price": 4500, "label": "balení 250 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "nudle-vajecne", "name": "Vaječné nudle (čínské)", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 250, "price": 3500, "label": "balení 250 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "nudle-udon", "name": "Nudle udon", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 300, "price": 4500, "label": "balení 300 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "spagety", "name": "Špagety", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 500, "price": 2500, "label": "balení 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kuskus", "name": "Kuskus", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 500, "price": 4000, "label": "balení 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "bulgur", "name": "Bulgur", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 500, "price": 4000, "label": "balení 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "cocka-cervena", "name": "Červená čočka", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 500, "price": 4500, "label": "balení 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "cizrna-konzerva", "name": "Cizrna v nálevu", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 400, "price": 2500, "label": "plechovka 400 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "fazole-cervene", "name": "Červené fazole v nálevu", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 400, "price": 2500, "label": "plechovka 400 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kukurice-konzerva", "name": "Kukuřice v nálevu", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 340, "price": 2500, "label": "plechovka 340 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "rajcata-loupana", "name": "Loupaná rajčata", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 400, "price": 2500, "label": "plechovka 400 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "rajcatove-pyre", "name": "Rajčatový protlak", "department": "Trvanlivé", "baseUnit": "g", "spoon": 16, "pack": {"size": 140, "price": 1500, "label": "plechovka 140 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "passata", "name": "Rajčatová passata", "department": "Trvanlivé", "baseUnit": "ml", "pack": {"size": 500, "price": 3000, "label": "láhev 500 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kokosove-mleko", "name": "Kokosové mléko", "department": "Trvanlivé", "baseUnit": "ml", "pack": {"size": 400, "price": 4500, "label": "plechovka 400 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "olej-slunecnicovy", "name": "Slunečnicový olej", "department": "Trvanlivé", "baseUnit": "ml", "spoon": 15, "pack": {"size": 1000, "price": 4500, "label": "1 l"}, "priceSource": "illustrative", "priceCheckedAt": null, "staple": true},
-  {"id": "olej-olivovy", "name": "Olivový olej", "department": "Trvanlivé", "baseUnit": "ml", "spoon": 15, "pack": {"size": 500, "price": 14000, "label": "500 ml"}, "priceSource": "illustrative", "priceCheckedAt": null, "staple": true},
-  {"id": "olej-sezamovy", "name": "Sezamový olej", "department": "Trvanlivé", "baseUnit": "ml", "spoon": 15, "pack": {"size": 250, "price": 9000, "label": "250 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "sadlo", "name": "Vepřové sádlo", "department": "Trvanlivé", "baseUnit": "g", "spoon": 14, "pack": {"size": 250, "price": 3000, "label": "kostka 250 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "ocet", "name": "Ocet kvasný lihový", "department": "Trvanlivé", "baseUnit": "ml", "spoon": 15, "pack": {"size": 1000, "price": 1500, "label": "1 l"}, "priceSource": "illustrative", "priceCheckedAt": null, "staple": true},
-  {"id": "ocet-ryzovy", "name": "Rýžový ocet", "department": "Trvanlivé", "baseUnit": "ml", "spoon": 15, "pack": {"size": 150, "price": 5500, "label": "150 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "ocet-balsamico", "name": "Balzamikový ocet", "department": "Trvanlivé", "baseUnit": "ml", "spoon": 15, "pack": {"size": 250, "price": 6000, "label": "250 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "sojova-omacka", "name": "Sójová omáčka", "department": "Trvanlivé", "baseUnit": "ml", "spoon": 15, "pack": {"size": 150, "price": 4000, "label": "150 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "rybi-omacka", "name": "Rybí omáčka", "department": "Trvanlivé", "baseUnit": "ml", "spoon": 15, "pack": {"size": 200, "price": 6000, "label": "200 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "ustricova-omacka", "name": "Ústřicová omáčka", "department": "Trvanlivé", "baseUnit": "ml", "spoon": 15, "pack": {"size": 150, "price": 6000, "label": "150 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "sriracha", "name": "Chilli omáčka sriracha", "department": "Trvanlivé", "baseUnit": "ml", "spoon": 15, "pack": {"size": 200, "price": 7000, "label": "200 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kecup", "name": "Kečup", "department": "Trvanlivé", "baseUnit": "g", "spoon": 17, "pack": {"size": 450, "price": 4000, "label": "láhev 450 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "horcice", "name": "Hořčice plnotučná", "department": "Trvanlivé", "baseUnit": "g", "spoon": 17, "pack": {"size": 200, "price": 1500, "label": "kelímek 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "horcice-dijonska", "name": "Dijonská hořčice", "department": "Trvanlivé", "baseUnit": "g", "spoon": 17, "pack": {"size": 200, "price": 4500, "label": "sklenice 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "majoneza", "name": "Majonéza", "department": "Trvanlivé", "baseUnit": "g", "spoon": 15, "pack": {"size": 225, "price": 3500, "label": "sklenice 225 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "tahini", "name": "Tahini", "department": "Trvanlivé", "baseUnit": "g", "spoon": 16, "pack": {"size": 300, "price": 11000, "label": "sklenice 300 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "arasidove-maslo", "name": "Arašídové máslo", "department": "Trvanlivé", "baseUnit": "g", "spoon": 16, "pack": {"size": 350, "price": 8000, "label": "sklenice 350 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kari-pasta-cervena", "name": "Červená kari pasta", "department": "Trvanlivé", "baseUnit": "g", "spoon": 15, "pack": {"size": 110, "price": 5000, "label": "sklenička 110 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "miso-pasta", "name": "Miso pasta", "department": "Trvanlivé", "baseUnit": "g", "spoon": 18, "pack": {"size": 300, "price": 11000, "label": "balení 300 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "okurky-nakladane", "name": "Nakládané okurky", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 340, "price": 3500, "label": "sklenice (pevný podíl 340 g)"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "jalapenos", "name": "Nakládané jalapeños", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 200, "price": 4500, "label": "sklenice 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "olivy", "name": "Černé olivy bez pecky", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 150, "price": 3500, "label": "sklenice (pevný podíl 150 g)"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "brusinky-kompot", "name": "Brusinky (kompot)", "department": "Trvanlivé", "baseUnit": "g", "spoon": 18, "pack": {"size": 200, "price": 4000, "label": "sklenice 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "vyvar-hovezi", "name": "Hovězí vývar (hotový)", "department": "Trvanlivé", "baseUnit": "ml", "pack": {"size": 500, "price": 3500, "label": "500 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "vyvar-zeleninovy", "name": "Zeleninový vývar (hotový)", "department": "Trvanlivé", "baseUnit": "ml", "pack": {"size": 500, "price": 3000, "label": "500 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "vyvar-kureci", "name": "Kuřecí vývar (hotový)", "department": "Trvanlivé", "baseUnit": "ml", "pack": {"size": 500, "price": 3500, "label": "500 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "arasidy", "name": "Arašídy nesolené", "department": "Trvanlivé", "baseUnit": "g", "spoon": 9, "pack": {"size": 200, "price": 3500, "label": "sáček 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "sezam", "name": "Sezamová semínka", "department": "Trvanlivé", "baseUnit": "g", "spoon": 9, "pack": {"size": 100, "price": 2500, "label": "sáček 100 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "vlasske-orechy", "name": "Vlašské ořechy", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 100, "price": 5000, "label": "sáček 100 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "pivo-svetle", "name": "Světlé pivo", "department": "Trvanlivé", "baseUnit": "ml", "pack": {"size": 500, "price": 2000, "label": "láhev 0,5 l"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "vino-bile", "name": "Bílé víno suché", "department": "Trvanlivé", "baseUnit": "ml", "pack": {"size": 750, "price": 9000, "label": "láhev 0,75 l"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "knedlik-houskovy", "name": "Houskový knedlík (hotový)", "department": "Pečivo", "baseUnit": "g", "pack": {"size": 600, "price": 3500, "label": "šiška 600 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "hranolky-mrazene", "name": "Hranolky mražené", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 1000, "price": 6000, "label": "sáček 1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "hrasek-mrazeny", "name": "Hrášek mražený", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 450, "price": 3500, "label": "sáček 450 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "sul", "name": "Sůl", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 18, "pack": {"size": 1000, "price": 1000, "label": "1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null, "staple": true},
-  {"id": "pepr", "name": "Pepř černý mletý", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 7, "pack": {"size": 20, "price": 2000, "label": "sáček 20 g"}, "priceSource": "illustrative", "priceCheckedAt": null, "staple": true},
-  {"id": "pepr-cely", "name": "Pepř černý celý", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 8, "pack": {"size": 20, "price": 2500, "label": "sáček 20 g"}, "priceSource": "illustrative", "priceCheckedAt": null, "staple": true},
-  {"id": "paprika-sladka", "name": "Paprika sladká mletá", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 7, "pack": {"size": 30, "price": 2000, "label": "sáček 30 g"}, "priceSource": "illustrative", "priceCheckedAt": null, "staple": true},
-  {"id": "paprika-uzena", "name": "Paprika uzená mletá", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 7, "pack": {"size": 30, "price": 3500, "label": "sáček 30 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "paprika-paliva", "name": "Paprika pálivá mletá", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 7, "pack": {"size": 30, "price": 2000, "label": "sáček 30 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kmin", "name": "Kmín celý", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 7, "pack": {"size": 30, "price": 1500, "label": "sáček 30 g"}, "priceSource": "illustrative", "priceCheckedAt": null, "staple": true},
-  {"id": "kmin-rimsky", "name": "Římský kmín mletý", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 7, "pack": {"size": 30, "price": 3000, "label": "sáček 30 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "majoranka", "name": "Majoránka", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 2, "pack": {"size": 10, "price": 1500, "label": "sáček 10 g"}, "priceSource": "illustrative", "priceCheckedAt": null, "staple": true},
-  {"id": "oregano", "name": "Oregano sušené", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 3, "pack": {"size": 10, "price": 2000, "label": "sáček 10 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "tymian", "name": "Tymián sušený", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 3, "pack": {"size": 10, "price": 2000, "label": "sáček 10 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "bobkovy-list", "name": "Bobkový list", "department": "Koření a dochucovadla", "baseUnit": "ks", "pack": {"size": 15, "price": 1500, "label": "sáček (asi 15 listů)"}, "priceSource": "illustrative", "priceCheckedAt": null, "staple": true},
-  {"id": "nove-koreni", "name": "Nové koření celé", "department": "Koření a dochucovadla", "baseUnit": "ks", "pack": {"size": 40, "price": 1500, "label": "sáček (asi 40 kuliček)"}, "priceSource": "illustrative", "priceCheckedAt": null, "staple": true},
-  {"id": "koriandr-mlety", "name": "Koriandr mletý", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 6, "pack": {"size": 25, "price": 2500, "label": "sáček 25 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kurkuma", "name": "Kurkuma mletá", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 7, "pack": {"size": 30, "price": 2500, "label": "sáček 30 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kari", "name": "Kari koření", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 7, "pack": {"size": 30, "price": 2000, "label": "sáček 30 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "skorice", "name": "Skořice mletá", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 7, "pack": {"size": 20, "price": 2000, "label": "sáček 20 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "chilli-vlocky", "name": "Chilli vločky", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 5, "pack": {"size": 20, "price": 3000, "label": "sáček 20 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "cesnek-suseny", "name": "Česnek sušený granulovaný", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 9, "pack": {"size": 30, "price": 2500, "label": "sáček 30 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "sumah", "name": "Sumah", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 8, "pack": {"size": 40, "price": 5000, "label": "sáček 40 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "garam-masala", "name": "Garam masala", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 7, "pack": {"size": 30, "price": 3500, "label": "sáček 30 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "prasek-do-peciva", "name": "Kypřicí prášek do pečiva", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 10, "pack": {"size": 12, "price": 500, "label": "sáček 12 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "worcester", "name": "Worcestrová omáčka", "department": "Koření a dochucovadla", "baseUnit": "ml", "spoon": 15, "pack": {"size": 150, "price": 4500, "label": "150 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "houby-susene", "name": "Sušené houby (lesní směs)", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 30, "price": 6500, "label": "sáček 30 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "parky", "name": "Párky", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 300, "price": 5900, "label": "balení 300 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "paprika-zelena", "name": "Zelená paprika", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 1500, "label": "1 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "ryze-dlouhozrnna", "name": "Dlouhozrnná rýže", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 1000, "price": 4500, "label": "1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "nudle-polevkove", "name": "Polévkové nudle (vaječné)", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 250, "price": 2500, "label": "250 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "svestky", "name": "Švestky", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 1000, "price": 6000, "label": "1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "cukr-moucka", "name": "Cukr moučka", "department": "Trvanlivé", "baseUnit": "g", "spoon": 8, "pack": {"size": 500, "price": 3000, "label": "500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "dzem-merunkovy", "name": "Meruňkový džem", "department": "Trvanlivé", "baseUnit": "g", "spoon": 20, "pack": {"size": 340, "price": 4500, "label": "sklenice 340 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "javorovy-sirup", "name": "Javorový sirup", "department": "Trvanlivé", "baseUnit": "ml", "spoon": 15, "pack": {"size": 250, "price": 17000, "label": "lahev 250 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "testoviny-lasagne", "name": "Lasagne (sušené plátky)", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 500, "price": 5000, "label": "krabička 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "testoviny-kratke", "name": "Krátké těstoviny (penne, fusilli)", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 500, "price": 2900, "label": "balení 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "ryze-arborio", "name": "Rýže na rizoto (arborio)", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 500, "price": 6500, "label": "balení 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "hriby-susene", "name": "Sušené hřiby", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 20, "price": 6900, "label": "sáček 20 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "mascarpone", "name": "Mascarpone", "department": "Mléčné a chlazené", "baseUnit": "g", "spoon": 20, "pack": {"size": 250, "price": 5500, "label": "vanička 250 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "ricotta", "name": "Ricotta", "department": "Mléčné a chlazené", "baseUnit": "g", "spoon": 20, "pack": {"size": 250, "price": 4900, "label": "vanička 250 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "gorgonzola", "name": "Gorgonzola", "department": "Mléčné a chlazené", "baseUnit": "g", "pack": {"size": 150, "price": 6500, "label": "balení 150 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "piskoty", "name": "Dlouhé piškoty (savoiardi)", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 200, "price": 4500, "label": "balení 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kava-mleta", "name": "Mletá káva", "department": "Trvanlivé", "baseUnit": "g", "spoon": 6, "pack": {"size": 250, "price": 12900, "label": "balení 250 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kakao", "name": "Kakao holandské", "department": "Trvanlivé", "baseUnit": "g", "spoon": 6, "pack": {"size": 100, "price": 4500, "label": "balení 100 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "piniove-orisky", "name": "Piniové oříšky", "department": "Trvanlivé", "baseUnit": "g", "spoon": 9, "pack": {"size": 50, "price": 6900, "label": "sáček 50 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "muskatovy-orisek", "name": "Muškátový oříšek mletý", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 3, "pack": {"size": 15, "price": 2900, "label": "sáček 15 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "nori", "name": "Řasa nori (pláty)", "department": "Trvanlivé", "baseUnit": "ks", "pack": {"size": 10, "price": 6900, "label": "balení 10 plátů"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "losos-sushi", "name": "Losos určený k syrové konzumaci", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 200, "price": 19900, "label": "balení 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "tunak-konzerva", "name": "Tuňák ve vlastní šťávě", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 160, "price": 4500, "label": "plechovka 160 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "wasabi", "name": "Wasabi pasta", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 15, "pack": {"size": 43, "price": 5900, "label": "tuba 43 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "zazvor-nakladany", "name": "Nakládaný zázvor na sushi", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 190, "price": 6500, "label": "sklenice 190 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "mirin", "name": "Mirin (sladké rýžové víno na vaření)", "department": "Koření a dochucovadla", "baseUnit": "ml", "spoon": 15, "pack": {"size": 300, "price": 9900, "label": "láhev 300 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "dashi-prasek", "name": "Instantní dashi (granule)", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 9, "pack": {"size": 50, "price": 8900, "label": "sáček 50 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "wakame", "name": "Řasa wakame sušená", "department": "Trvanlivé", "baseUnit": "g", "spoon": 3, "pack": {"size": 50, "price": 6900, "label": "sáček 50 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "edamame", "name": "Edamame v luscích mražené", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 400, "price": 6900, "label": "sáček 400 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "nudle-ramen", "name": "Nudle ramen (pšeničné)", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 250, "price": 5500, "label": "balení 250 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "nudle-ryzove-tenke", "name": "Rýžové nudle tenké (vermicelli)", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 200, "price": 3900, "label": "balení 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "placky-jarni-zavitky", "name": "Těsto na jarní závitky (pláty)", "department": "Trvanlivé", "baseUnit": "ks", "pack": {"size": 25, "price": 6900, "label": "mražené balení 25 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "placky-gyoza", "name": "Těsto na gyoza (kulaté plátky)", "department": "Trvanlivé", "baseUnit": "ks", "pack": {"size": 30, "price": 6900, "label": "mražené balení 30 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "veprove-mlete", "name": "Vepřové maso mleté", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 500, "price": 11000, "label": "balení 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "gochugaru", "name": "Gochugaru (korejské chilli vločky)", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 6, "pack": {"size": 100, "price": 9900, "label": "sáček 100 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "gochujang", "name": "Gochujang (korejská chilli pasta)", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 18, "pack": {"size": 200, "price": 7900, "label": "kelímek 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "redkev-bila", "name": "Ředkev bílá (daikon)", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 500, "price": 3500, "label": "1 ks asi 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "citronova-trava", "name": "Citronová tráva (stonky)", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 3, "price": 3900, "label": "balení 3 stonky"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "galangal", "name": "Galangal (thajský zázvor)", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 100, "price": 4900, "label": "kousek 100 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kafirove-listy", "name": "Kafírové listy", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 20, "price": 4900, "label": "balení asi 20 listů"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kari-pasta-zelena", "name": "Zelená kari pasta", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 15, "pack": {"size": 110, "price": 5000, "label": "sklenička 110 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "chilli-pasta-thai", "name": "Thajská chilli pasta (nam prik pao)", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 18, "pack": {"size": 227, "price": 8900, "label": "sklenice 227 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "hovezi-kosti", "name": "Hovězí kosti na vývar", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 1000, "price": 9000, "label": "1 kg"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "badyan", "name": "Badyán (celý)", "department": "Koření a dochucovadla", "baseUnit": "ks", "pack": {"size": 10, "price": 3500, "label": "sáček asi 10 hvězdiček"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "hrebicek", "name": "Hřebíček celý", "department": "Koření a dochucovadla", "baseUnit": "ks", "pack": {"size": 60, "price": 2500, "label": "sáček asi 60 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "skorice-cela", "name": "Skořice celá (svitky)", "department": "Koření a dochucovadla", "baseUnit": "ks", "pack": {"size": 5, "price": 3000, "label": "sáček 5 svitků"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "pak-choi", "name": "Pak choi", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 300, "price": 4900, "label": "balení 300 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "hoisin", "name": "Omáčka hoisin", "department": "Koření a dochucovadla", "baseUnit": "ml", "spoon": 15, "pack": {"size": 250, "price": 6900, "label": "láhev 250 ml"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "cibulka-smazena", "name": "Smažená cibulka", "department": "Trvanlivé", "baseUnit": "g", "spoon": 3, "pack": {"size": 100, "price": 4500, "label": "sáček 100 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "paneer", "name": "Paneer", "department": "Mléčné a chlazené", "baseUnit": "g", "pack": {"size": 200, "price": 8900, "label": "balení 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "spenat-mrazeny", "name": "Listový špenát mražený", "department": "Ostatní", "baseUnit": "g", "pack": {"size": 450, "price": 4000, "label": "balení 450 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kardamom", "name": "Kardamom mletý", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 6, "pack": {"size": 20, "price": 4500, "label": "sáček 20 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "tortilla-chipsy", "name": "Tortilla chipsy solené", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 200, "price": 4500, "label": "sáček 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "cukr-vanilkovy", "name": "Vanilkový cukr", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 20, "price": 900, "label": "sáček 20 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "vanilka-lusk", "name": "Vanilkový lusk", "department": "Koření a dochucovadla", "baseUnit": "ks", "pack": {"size": 1, "price": 7000, "label": "1 lusk"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "cokolada-horka", "name": "Hořká čokoláda 70 %", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 100, "price": 4500, "label": "tabulka 100 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "zelatina", "name": "Želatina", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 20, "price": 3000, "label": "balení 20 g (plátky nebo mletá)"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "ovesne-vlocky", "name": "Ovesné vločky jemné", "department": "Trvanlivé", "baseUnit": "g", "spoon": 6, "pack": {"size": 500, "price": 2500, "label": "sáček 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "pernikove-koreni", "name": "Perníkové koření", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 6, "pack": {"size": 20, "price": 2000, "label": "sáček 20 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "soda-jedla", "name": "Jedlá soda", "department": "Koření a dochucovadla", "baseUnit": "g", "spoon": 15, "pack": {"size": 50, "price": 1500, "label": "sáček 50 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "susenky-maslove", "name": "Máslové sušenky", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 250, "price": 4000, "label": "balení 250 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "smetanovy-syr", "name": "Smetanový sýr (krémový, natural)", "department": "Mléčné a chlazené", "baseUnit": "g", "spoon": 20, "pack": {"size": 200, "price": 5000, "label": "vanička 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "maliny-mrazene", "name": "Maliny mražené", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 300, "price": 7500, "label": "sáček 300 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "banan", "name": "Banán", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 800, "label": "1 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "boruvky", "name": "Borůvky", "department": "Ovoce a zelenina", "baseUnit": "g", "pack": {"size": 125, "price": 6500, "label": "vanička 125 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "mandle", "name": "Mandle loupané", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 100, "price": 5500, "label": "sáček 100 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "slunecnicova-seminka", "name": "Slunečnicová semínka loupaná", "department": "Trvanlivé", "baseUnit": "g", "spoon": 9, "pack": {"size": 150, "price": 2500, "label": "sáček 150 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "kokos-strouhany", "name": "Strouhaný kokos", "department": "Trvanlivé", "baseUnit": "g", "spoon": 5, "pack": {"size": 100, "price": 2500, "label": "sáček 100 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "rozinky", "name": "Rozinky", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 200, "price": 3500, "label": "sáček 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "anglicke-muffiny", "name": "Anglické muffiny", "department": "Pečivo", "baseUnit": "ks", "pack": {"size": 4, "price": 7000, "label": "balení 4 ks"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "tunak-sushi", "name": "Tuňák určený k syrové konzumaci", "department": "Maso a ryby", "baseUnit": "g", "pack": {"size": 200, "price": 22900, "label": "balení 200 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "quinoa", "name": "Quinoa", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 500, "price": 8900, "label": "sáček 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "lasagne-platy", "name": "Lasagne (plátky bez předvaření)", "department": "Trvanlivé", "baseUnit": "g", "pack": {"size": 500, "price": 4900, "label": "krabice 500 g"}, "priceSource": "illustrative", "priceCheckedAt": null},
-  {"id": "mango", "name": "Mango", "department": "Ovoce a zelenina", "baseUnit": "ks", "pack": {"size": 1, "price": 4500, "label": "1 kus"}, "priceSource": "illustrative", "priceCheckedAt": null}
+  {
+    "id": "voda",
+    "name": "Voda",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 1000,
+      "price": 0,
+      "label": "z kohoutku"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "cibule",
+    "name": "Cibule",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 2500,
+      "label": "síťka 1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "cervena-cibule",
+    "name": "Červená cibule",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 2500,
+      "label": "síťka 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "jarni-cibulka",
+    "name": "Jarní cibulka",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 1800,
+      "label": "svazek"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "cesnek",
+    "name": "Česnek (stroužky)",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 10,
+      "price": 2000,
+      "label": "palice (asi 10 stroužků)"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "rajcata",
+    "name": "Rajčata",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 4000,
+      "label": "vanička 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "cherry-rajcata",
+    "name": "Cherry rajčata",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 3500,
+      "label": "vanička 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "okurka-salatova",
+    "name": "Salátová okurka",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 2000,
+      "label": "1 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "paprika-cervena",
+    "name": "Červená paprika",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 1800,
+      "label": "1 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "mrkev",
+    "name": "Mrkev",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 2500,
+      "label": "sáček 1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "celer-bulva",
+    "name": "Celer (bulva)",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 600,
+      "price": 3000,
+      "label": "bulva asi 600 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "petrzel-koren",
+    "name": "Petržel (kořen)",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 4000,
+      "label": "svazek 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "brambory",
+    "name": "Brambory",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 2000,
+      "price": 4500,
+      "label": "sáček 2 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "zeli-bile",
+    "name": "Bílé zelí",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1500,
+      "price": 3000,
+      "label": "hlávka asi 1,5 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "zeli-cervene",
+    "name": "Červené zelí",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1200,
+      "price": 3000,
+      "label": "hlávka asi 1,2 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "zeli-pekingske",
+    "name": "Pekingské zelí",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 700,
+      "price": 3000,
+      "label": "hlávka asi 700 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "ledovy-salat",
+    "name": "Ledový salát",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 3000,
+      "label": "hlávka"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "rukola",
+    "name": "Rukola",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 3500,
+      "label": "sáček 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "spenat-baby",
+    "name": "Baby špenát",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 125,
+      "price": 4000,
+      "label": "sáček 125 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "zampiony",
+    "name": "Žampiony",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 3500,
+      "label": "vanička 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "cuketa",
+    "name": "Cuketa",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 3000,
+      "label": "asi 2 ks (500 g)"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "lilek",
+    "name": "Lilek",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 3500,
+      "label": "1 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "brokolice",
+    "name": "Brokolice",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 3500,
+      "label": "1 ks (500 g)"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "batat",
+    "name": "Batát",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 6000,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "avokado",
+    "name": "Avokádo",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 3000,
+      "label": "1 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "citron",
+    "name": "Citron",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 1000,
+      "label": "1 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "limetka",
+    "name": "Limetka",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 1000,
+      "label": "1 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "zazvor",
+    "name": "Čerstvý zázvor",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 2000,
+      "label": "kousek 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "chilli-papricka",
+    "name": "Chilli paprička",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 1000,
+      "label": "1 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "bazalka",
+    "name": "Bazalka čerstvá",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 3500,
+      "label": "květináč"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "petrzelka",
+    "name": "Petrželová nať",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 2000,
+      "label": "svazek"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "koriandr",
+    "name": "Koriandr čerstvý",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 3500,
+      "label": "květináč"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "mata",
+    "name": "Máta čerstvá",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 3500,
+      "label": "květináč"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "pazitka",
+    "name": "Pažitka",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 2500,
+      "label": "svazek"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kopr",
+    "name": "Kopr čerstvý",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 2500,
+      "label": "svazek"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "fazolove-klicky",
+    "name": "Mungo klíčky",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 3000,
+      "label": "sáček 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "jablko",
+    "name": "Jablko",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 800,
+      "label": "1 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "hovezi-mlete",
+    "name": "Mleté hovězí maso",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 14000,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "hovezi-zadni",
+    "name": "Hovězí zadní",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 33000,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "hovezi-klizka",
+    "name": "Hovězí kližka",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 27000,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "hovezi-rostena",
+    "name": "Hovězí roštěná",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 400,
+      "price": 26000,
+      "label": "balení 400 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "veprove-plecko",
+    "name": "Vepřové plecko",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 15000,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "veprova-kyta",
+    "name": "Vepřová kýta (plátky)",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 10000,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "veprova-krkovice",
+    "name": "Vepřová krkovice",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 17000,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "veprovy-bucek",
+    "name": "Vepřový bůček",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 9000,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kureci-prsa",
+    "name": "Kuřecí prsní řízky",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 11000,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kureci-stehna",
+    "name": "Kuřecí stehenní řízky",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 10000,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "slanina",
+    "name": "Anglická slanina",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 3500,
+      "label": "balení 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "sunka",
+    "name": "Šunka",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 3000,
+      "label": "balení 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "salam-pikantni",
+    "name": "Pikantní salám",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 4500,
+      "label": "balení 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "krevety",
+    "name": "Krevety loupané (mražené)",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 13000,
+      "label": "balení 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "uzene-maso",
+    "name": "Uzené maso",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 300,
+      "price": 9000,
+      "label": "balení 300 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "vejce",
+    "name": "Vejce",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 10,
+      "price": 5000,
+      "label": "10 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "maslo",
+    "name": "Máslo",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "spoon": 14,
+    "pack": {
+      "size": 250,
+      "price": 6000,
+      "label": "kostka 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "mleko",
+    "name": "Mléko polotučné",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 1000,
+      "price": 2200,
+      "label": "1 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "smetana-slehacka",
+    "name": "Smetana ke šlehání 31 %",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 250,
+      "price": 3500,
+      "label": "250 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "smetana-vareni",
+    "name": "Smetana na vaření 12 %",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 250,
+      "price": 2200,
+      "label": "250 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "zakysana-smetana",
+    "name": "Zakysaná smetana",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "spoon": 18,
+    "pack": {
+      "size": 200,
+      "price": 2000,
+      "label": "kelímek 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "jogurt-bily",
+    "name": "Bílý jogurt",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "spoon": 18,
+    "pack": {
+      "size": 150,
+      "price": 1200,
+      "label": "kelímek 150 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "jogurt-recky",
+    "name": "Řecký jogurt",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "spoon": 20,
+    "pack": {
+      "size": 400,
+      "price": 4500,
+      "label": "kelímek 400 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "mozzarella",
+    "name": "Mozzarella",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 125,
+      "price": 2500,
+      "label": "balení 125 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "parmazan",
+    "name": "Parmazán (Grana Padano)",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "spoon": 6,
+    "pack": {
+      "size": 150,
+      "price": 8000,
+      "label": "klínek 150 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "eidam",
+    "name": "Eidam 30 %",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 5000,
+      "label": "blok 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "cheddar",
+    "name": "Cheddar (plátky)",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 150,
+      "price": 5000,
+      "label": "balení 150 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "hermelin",
+    "name": "Hermelín",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 120,
+      "price": 3500,
+      "label": "1 ks 120 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "feta",
+    "name": "Balkánský sýr",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 4000,
+      "label": "balení 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "niva",
+    "name": "Niva",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 3000,
+      "label": "balení 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "halloumi",
+    "name": "Halloumi",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 225,
+      "price": 9000,
+      "label": "balení 225 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "tofu",
+    "name": "Tofu natural",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 3500,
+      "label": "balení 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "tvaroh",
+    "name": "Tvaroh měkký",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 3000,
+      "label": "vanička 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "drozdi",
+    "name": "Droždí čerstvé",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 42,
+      "price": 600,
+      "label": "kostka 42 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kysane-zeli",
+    "name": "Kysané zelí",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 3000,
+      "label": "sáček 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "bulky-burger",
+    "name": "Burgerové bulky",
+    "department": "Pečivo",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 4,
+      "price": 4000,
+      "label": "4 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "tortilly",
+    "name": "Pšeničné tortilly",
+    "department": "Pečivo",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 6,
+      "price": 4500,
+      "label": "6 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "pita",
+    "name": "Pita chléb",
+    "department": "Pečivo",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 5,
+      "price": 4000,
+      "label": "5 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "chleb",
+    "name": "Chléb",
+    "department": "Pečivo",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 3500,
+      "label": "půlka 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "rohliky",
+    "name": "Rohlíky",
+    "department": "Pečivo",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 300,
+      "label": "1 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "toustovy-chleb",
+    "name": "Toustový chléb",
+    "department": "Pečivo",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 3000,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "strouhanka",
+    "name": "Strouhanka",
+    "department": "Pečivo",
+    "baseUnit": "g",
+    "spoon": 8,
+    "pack": {
+      "size": 500,
+      "price": 2000,
+      "label": "sáček 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "mouka-hladka",
+    "name": "Hladká mouka",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 8,
+    "pack": {
+      "size": 1000,
+      "price": 2000,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "mouka-hruba",
+    "name": "Hrubá mouka",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 10,
+    "pack": {
+      "size": 1000,
+      "price": 2000,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "mouka-polohruba",
+    "name": "Polohrubá mouka",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 9,
+    "pack": {
+      "size": 1000,
+      "price": 2000,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "skrob",
+    "name": "Kukuřičný škrob",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 8,
+    "pack": {
+      "size": 200,
+      "price": 2500,
+      "label": "krabička 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "cukr",
+    "name": "Cukr krystal",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 15,
+    "pack": {
+      "size": 1000,
+      "price": 2500,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "cukr-trtinovy",
+    "name": "Třtinový cukr",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 13,
+    "pack": {
+      "size": 500,
+      "price": 4000,
+      "label": "500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "med",
+    "name": "Med",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 20,
+    "pack": {
+      "size": 250,
+      "price": 7000,
+      "label": "sklenice 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "ryze-jasminova",
+    "name": "Jasmínová rýže",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 6000,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "ryze-basmati",
+    "name": "Rýže basmati",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 7000,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "ryze-sushi",
+    "name": "Kulatozrnná rýže",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 4500,
+      "label": "500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "nudle-ryzove",
+    "name": "Rýžové nudle",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 4500,
+      "label": "balení 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "nudle-vajecne",
+    "name": "Vaječné nudle (čínské)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 3500,
+      "label": "balení 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "nudle-udon",
+    "name": "Nudle udon",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 300,
+      "price": 4500,
+      "label": "balení 300 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "spagety",
+    "name": "Špagety",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 2500,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kuskus",
+    "name": "Kuskus",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 4000,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "bulgur",
+    "name": "Bulgur",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 4000,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "cocka-cervena",
+    "name": "Červená čočka",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 4500,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "cizrna-konzerva",
+    "name": "Cizrna v nálevu",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 400,
+      "price": 2500,
+      "label": "plechovka 400 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "fazole-cervene",
+    "name": "Červené fazole v nálevu",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 400,
+      "price": 2500,
+      "label": "plechovka 400 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kukurice-konzerva",
+    "name": "Kukuřice v nálevu",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 340,
+      "price": 2500,
+      "label": "plechovka 340 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "rajcata-loupana",
+    "name": "Loupaná rajčata",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 400,
+      "price": 2500,
+      "label": "plechovka 400 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "rajcatove-pyre",
+    "name": "Rajčatový protlak",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 16,
+    "pack": {
+      "size": 140,
+      "price": 1500,
+      "label": "plechovka 140 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "passata",
+    "name": "Rajčatová passata",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 500,
+      "price": 3000,
+      "label": "láhev 500 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kokosove-mleko",
+    "name": "Kokosové mléko",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 400,
+      "price": 4500,
+      "label": "plechovka 400 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "olej-slunecnicovy",
+    "name": "Slunečnicový olej",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "spoon": 15,
+    "pack": {
+      "size": 1000,
+      "price": 4500,
+      "label": "1 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "olej-olivovy",
+    "name": "Olivový olej",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "spoon": 15,
+    "pack": {
+      "size": 500,
+      "price": 14000,
+      "label": "500 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "olej-sezamovy",
+    "name": "Sezamový olej",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "spoon": 15,
+    "pack": {
+      "size": 250,
+      "price": 9000,
+      "label": "250 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "sadlo",
+    "name": "Vepřové sádlo",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 14,
+    "pack": {
+      "size": 250,
+      "price": 3000,
+      "label": "kostka 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "ocet",
+    "name": "Ocet kvasný lihový",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "spoon": 15,
+    "pack": {
+      "size": 1000,
+      "price": 1500,
+      "label": "1 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "ocet-ryzovy",
+    "name": "Rýžový ocet",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "spoon": 15,
+    "pack": {
+      "size": 150,
+      "price": 5500,
+      "label": "150 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "ocet-balsamico",
+    "name": "Balzamikový ocet",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "spoon": 15,
+    "pack": {
+      "size": 250,
+      "price": 6000,
+      "label": "250 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "sojova-omacka",
+    "name": "Sójová omáčka",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "spoon": 15,
+    "pack": {
+      "size": 150,
+      "price": 4000,
+      "label": "150 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "rybi-omacka",
+    "name": "Rybí omáčka",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "spoon": 15,
+    "pack": {
+      "size": 200,
+      "price": 6000,
+      "label": "200 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "ustricova-omacka",
+    "name": "Ústřicová omáčka",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "spoon": 15,
+    "pack": {
+      "size": 150,
+      "price": 6000,
+      "label": "150 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "sriracha",
+    "name": "Chilli omáčka sriracha",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "spoon": 15,
+    "pack": {
+      "size": 200,
+      "price": 7000,
+      "label": "200 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kecup",
+    "name": "Kečup",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 17,
+    "pack": {
+      "size": 450,
+      "price": 4000,
+      "label": "láhev 450 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "horcice",
+    "name": "Hořčice plnotučná",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 17,
+    "pack": {
+      "size": 200,
+      "price": 1500,
+      "label": "kelímek 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "horcice-dijonska",
+    "name": "Dijonská hořčice",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 17,
+    "pack": {
+      "size": 200,
+      "price": 4500,
+      "label": "sklenice 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "majoneza",
+    "name": "Majonéza",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 15,
+    "pack": {
+      "size": 225,
+      "price": 3500,
+      "label": "sklenice 225 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "tahini",
+    "name": "Tahini",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 16,
+    "pack": {
+      "size": 300,
+      "price": 11000,
+      "label": "sklenice 300 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "arasidove-maslo",
+    "name": "Arašídové máslo",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 16,
+    "pack": {
+      "size": 350,
+      "price": 8000,
+      "label": "sklenice 350 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kari-pasta-cervena",
+    "name": "Červená kari pasta",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 15,
+    "pack": {
+      "size": 110,
+      "price": 5000,
+      "label": "sklenička 110 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "miso-pasta",
+    "name": "Miso pasta",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 18,
+    "pack": {
+      "size": 300,
+      "price": 11000,
+      "label": "balení 300 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "okurky-nakladane",
+    "name": "Nakládané okurky",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 340,
+      "price": 3500,
+      "label": "sklenice (pevný podíl 340 g)"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "jalapenos",
+    "name": "Nakládané jalapeños",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 4500,
+      "label": "sklenice 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "olivy",
+    "name": "Černé olivy bez pecky",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 150,
+      "price": 3500,
+      "label": "sklenice (pevný podíl 150 g)"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "brusinky-kompot",
+    "name": "Brusinky (kompot)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 18,
+    "pack": {
+      "size": 200,
+      "price": 4000,
+      "label": "sklenice 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "vyvar-hovezi",
+    "name": "Hovězí vývar (hotový)",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 500,
+      "price": 3500,
+      "label": "500 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "vyvar-zeleninovy",
+    "name": "Zeleninový vývar (hotový)",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 500,
+      "price": 3000,
+      "label": "500 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "vyvar-kureci",
+    "name": "Kuřecí vývar (hotový)",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 500,
+      "price": 3500,
+      "label": "500 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "arasidy",
+    "name": "Arašídy nesolené",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 9,
+    "pack": {
+      "size": 200,
+      "price": 3500,
+      "label": "sáček 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "sezam",
+    "name": "Sezamová semínka",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 9,
+    "pack": {
+      "size": 100,
+      "price": 2500,
+      "label": "sáček 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "vlasske-orechy",
+    "name": "Vlašské ořechy",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 5000,
+      "label": "sáček 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "pivo-svetle",
+    "name": "Světlé pivo",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 500,
+      "price": 2000,
+      "label": "láhev 0,5 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "vino-bile",
+    "name": "Bílé víno suché",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 750,
+      "price": 9000,
+      "label": "láhev 0,75 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "knedlik-houskovy",
+    "name": "Houskový knedlík (hotový)",
+    "department": "Pečivo",
+    "baseUnit": "g",
+    "pack": {
+      "size": 600,
+      "price": 3500,
+      "label": "šiška 600 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "hranolky-mrazene",
+    "name": "Hranolky mražené",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 6000,
+      "label": "sáček 1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "hrasek-mrazeny",
+    "name": "Hrášek mražený",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 450,
+      "price": 3500,
+      "label": "sáček 450 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "sul",
+    "name": "Sůl",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 18,
+    "pack": {
+      "size": 1000,
+      "price": 1000,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "pepr",
+    "name": "Pepř černý mletý",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 7,
+    "pack": {
+      "size": 20,
+      "price": 2000,
+      "label": "sáček 20 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "pepr-cely",
+    "name": "Pepř černý celý",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 8,
+    "pack": {
+      "size": 20,
+      "price": 2500,
+      "label": "sáček 20 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "paprika-sladka",
+    "name": "Paprika sladká mletá",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 7,
+    "pack": {
+      "size": 30,
+      "price": 2000,
+      "label": "sáček 30 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "paprika-uzena",
+    "name": "Paprika uzená mletá",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 7,
+    "pack": {
+      "size": 30,
+      "price": 3500,
+      "label": "sáček 30 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "paprika-paliva",
+    "name": "Paprika pálivá mletá",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 7,
+    "pack": {
+      "size": 30,
+      "price": 2000,
+      "label": "sáček 30 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kmin",
+    "name": "Kmín celý",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 7,
+    "pack": {
+      "size": 30,
+      "price": 1500,
+      "label": "sáček 30 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "kmin-rimsky",
+    "name": "Římský kmín mletý",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 7,
+    "pack": {
+      "size": 30,
+      "price": 3000,
+      "label": "sáček 30 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "majoranka",
+    "name": "Majoránka",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 2,
+    "pack": {
+      "size": 10,
+      "price": 1500,
+      "label": "sáček 10 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "oregano",
+    "name": "Oregano sušené",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 3,
+    "pack": {
+      "size": 10,
+      "price": 2000,
+      "label": "sáček 10 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "tymian",
+    "name": "Tymián sušený",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 3,
+    "pack": {
+      "size": 10,
+      "price": 2000,
+      "label": "sáček 10 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "bobkovy-list",
+    "name": "Bobkový list",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 15,
+      "price": 1500,
+      "label": "sáček (asi 15 listů)"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "nove-koreni",
+    "name": "Nové koření celé",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 40,
+      "price": 1500,
+      "label": "sáček (asi 40 kuliček)"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "koriandr-mlety",
+    "name": "Koriandr mletý",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 6,
+    "pack": {
+      "size": 25,
+      "price": 2500,
+      "label": "sáček 25 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kurkuma",
+    "name": "Kurkuma mletá",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 7,
+    "pack": {
+      "size": 30,
+      "price": 2500,
+      "label": "sáček 30 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kari",
+    "name": "Kari koření",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 7,
+    "pack": {
+      "size": 30,
+      "price": 2000,
+      "label": "sáček 30 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "skorice",
+    "name": "Skořice mletá",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 7,
+    "pack": {
+      "size": 20,
+      "price": 2000,
+      "label": "sáček 20 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "chilli-vlocky",
+    "name": "Chilli vločky",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 5,
+    "pack": {
+      "size": 20,
+      "price": 3000,
+      "label": "sáček 20 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "cesnek-suseny",
+    "name": "Česnek sušený granulovaný",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 9,
+    "pack": {
+      "size": 30,
+      "price": 2500,
+      "label": "sáček 30 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "sumah",
+    "name": "Sumah",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 8,
+    "pack": {
+      "size": 40,
+      "price": 5000,
+      "label": "sáček 40 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "garam-masala",
+    "name": "Garam masala",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 7,
+    "pack": {
+      "size": 30,
+      "price": 3500,
+      "label": "sáček 30 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "prasek-do-peciva",
+    "name": "Kypřicí prášek do pečiva",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 10,
+    "pack": {
+      "size": 12,
+      "price": 500,
+      "label": "sáček 12 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "worcester",
+    "name": "Worcestrová omáčka",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "ml",
+    "spoon": 15,
+    "pack": {
+      "size": 150,
+      "price": 4500,
+      "label": "150 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "houby-susene",
+    "name": "Sušené houby (lesní směs)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 30,
+      "price": 6500,
+      "label": "sáček 30 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "parky",
+    "name": "Párky",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 300,
+      "price": 5900,
+      "label": "balení 300 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "paprika-zelena",
+    "name": "Zelená paprika",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 1500,
+      "label": "1 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "ryze-dlouhozrnna",
+    "name": "Dlouhozrnná rýže",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 4500,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "nudle-polevkove",
+    "name": "Polévkové nudle (vaječné)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 2500,
+      "label": "250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "svestky",
+    "name": "Švestky",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 6000,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "cukr-moucka",
+    "name": "Cukr moučka",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 8,
+    "pack": {
+      "size": 500,
+      "price": 3000,
+      "label": "500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "dzem-merunkovy",
+    "name": "Meruňkový džem",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 20,
+    "pack": {
+      "size": 340,
+      "price": 4500,
+      "label": "sklenice 340 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "javorovy-sirup",
+    "name": "Javorový sirup",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "spoon": 15,
+    "pack": {
+      "size": 250,
+      "price": 17000,
+      "label": "lahev 250 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "testoviny-lasagne",
+    "name": "Lasagne (sušené plátky)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 5000,
+      "label": "krabička 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "testoviny-kratke",
+    "name": "Krátké těstoviny (penne, fusilli)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 2900,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "ryze-arborio",
+    "name": "Rýže na rizoto (arborio)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 6500,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "hriby-susene",
+    "name": "Sušené hřiby",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 20,
+      "price": 6900,
+      "label": "sáček 20 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "mascarpone",
+    "name": "Mascarpone",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "spoon": 20,
+    "pack": {
+      "size": 250,
+      "price": 5500,
+      "label": "vanička 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "ricotta",
+    "name": "Ricotta",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "spoon": 20,
+    "pack": {
+      "size": 250,
+      "price": 4900,
+      "label": "vanička 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "gorgonzola",
+    "name": "Gorgonzola",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 150,
+      "price": 6500,
+      "label": "balení 150 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "piskoty",
+    "name": "Dlouhé piškoty (savoiardi)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 4500,
+      "label": "balení 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kava-mleta",
+    "name": "Mletá káva",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 6,
+    "pack": {
+      "size": 250,
+      "price": 12900,
+      "label": "balení 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kakao",
+    "name": "Kakao holandské",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 6,
+    "pack": {
+      "size": 100,
+      "price": 4500,
+      "label": "balení 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "piniove-orisky",
+    "name": "Piniové oříšky",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 9,
+    "pack": {
+      "size": 50,
+      "price": 6900,
+      "label": "sáček 50 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "muskatovy-orisek",
+    "name": "Muškátový oříšek mletý",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 3,
+    "pack": {
+      "size": 15,
+      "price": 2900,
+      "label": "sáček 15 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "nori",
+    "name": "Řasa nori (pláty)",
+    "department": "Trvanlivé",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 10,
+      "price": 6900,
+      "label": "balení 10 plátů"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "losos-sushi",
+    "name": "Losos určený k syrové konzumaci",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 19900,
+      "label": "balení 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "tunak-konzerva",
+    "name": "Tuňák ve vlastní šťávě",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 160,
+      "price": 4500,
+      "label": "plechovka 160 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "wasabi",
+    "name": "Wasabi pasta",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 15,
+    "pack": {
+      "size": 43,
+      "price": 5900,
+      "label": "tuba 43 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "zazvor-nakladany",
+    "name": "Nakládaný zázvor na sushi",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 190,
+      "price": 6500,
+      "label": "sklenice 190 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "mirin",
+    "name": "Mirin (sladké rýžové víno na vaření)",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "ml",
+    "spoon": 15,
+    "pack": {
+      "size": 300,
+      "price": 9900,
+      "label": "láhev 300 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "dashi-prasek",
+    "name": "Instantní dashi (granule)",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 9,
+    "pack": {
+      "size": 50,
+      "price": 8900,
+      "label": "sáček 50 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "wakame",
+    "name": "Řasa wakame sušená",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 3,
+    "pack": {
+      "size": 50,
+      "price": 6900,
+      "label": "sáček 50 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "edamame",
+    "name": "Edamame v luscích mražené",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 400,
+      "price": 6900,
+      "label": "sáček 400 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "nudle-ramen",
+    "name": "Nudle ramen (pšeničné)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 5500,
+      "label": "balení 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "nudle-ryzove-tenke",
+    "name": "Rýžové nudle tenké (vermicelli)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 3900,
+      "label": "balení 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "placky-jarni-zavitky",
+    "name": "Těsto na jarní závitky (pláty)",
+    "department": "Trvanlivé",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 25,
+      "price": 6900,
+      "label": "mražené balení 25 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "placky-gyoza",
+    "name": "Těsto na gyoza (kulaté plátky)",
+    "department": "Trvanlivé",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 30,
+      "price": 6900,
+      "label": "mražené balení 30 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "veprove-mlete",
+    "name": "Vepřové maso mleté",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 11000,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "gochugaru",
+    "name": "Gochugaru (korejské chilli vločky)",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 6,
+    "pack": {
+      "size": 100,
+      "price": 9900,
+      "label": "sáček 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "gochujang",
+    "name": "Gochujang (korejská chilli pasta)",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 18,
+    "pack": {
+      "size": 200,
+      "price": 7900,
+      "label": "kelímek 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "redkev-bila",
+    "name": "Ředkev bílá (daikon)",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 3500,
+      "label": "1 ks asi 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "citronova-trava",
+    "name": "Citronová tráva (stonky)",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 3,
+      "price": 3900,
+      "label": "balení 3 stonky"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "galangal",
+    "name": "Galangal (thajský zázvor)",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 4900,
+      "label": "kousek 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kafirove-listy",
+    "name": "Kafírové listy",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 20,
+      "price": 4900,
+      "label": "balení asi 20 listů"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kari-pasta-zelena",
+    "name": "Zelená kari pasta",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 15,
+    "pack": {
+      "size": 110,
+      "price": 5000,
+      "label": "sklenička 110 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "chilli-pasta-thai",
+    "name": "Thajská chilli pasta (nam prik pao)",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 18,
+    "pack": {
+      "size": 227,
+      "price": 8900,
+      "label": "sklenice 227 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "hovezi-kosti",
+    "name": "Hovězí kosti na vývar",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 9000,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "badyan",
+    "name": "Badyán (celý)",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 10,
+      "price": 3500,
+      "label": "sáček asi 10 hvězdiček"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "hrebicek",
+    "name": "Hřebíček celý",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 60,
+      "price": 2500,
+      "label": "sáček asi 60 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "skorice-cela",
+    "name": "Skořice celá (svitky)",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 5,
+      "price": 3000,
+      "label": "sáček 5 svitků"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "pak-choi",
+    "name": "Pak choi",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 300,
+      "price": 4900,
+      "label": "balení 300 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "hoisin",
+    "name": "Omáčka hoisin",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "ml",
+    "spoon": 15,
+    "pack": {
+      "size": 250,
+      "price": 6900,
+      "label": "láhev 250 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "cibulka-smazena",
+    "name": "Smažená cibulka",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 3,
+    "pack": {
+      "size": 100,
+      "price": 4500,
+      "label": "sáček 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "paneer",
+    "name": "Paneer",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 8900,
+      "label": "balení 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "spenat-mrazeny",
+    "name": "Listový špenát mražený",
+    "department": "Ostatní",
+    "baseUnit": "g",
+    "pack": {
+      "size": 450,
+      "price": 4000,
+      "label": "balení 450 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kardamom",
+    "name": "Kardamom mletý",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 6,
+    "pack": {
+      "size": 20,
+      "price": 4500,
+      "label": "sáček 20 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "tortilla-chipsy",
+    "name": "Tortilla chipsy solené",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 4500,
+      "label": "sáček 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "cukr-vanilkovy",
+    "name": "Vanilkový cukr",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 20,
+      "price": 900,
+      "label": "sáček 20 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "vanilka-lusk",
+    "name": "Vanilkový lusk",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 7000,
+      "label": "1 lusk"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "cokolada-horka",
+    "name": "Hořká čokoláda 70 %",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 4500,
+      "label": "tabulka 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "zelatina",
+    "name": "Želatina",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 20,
+      "price": 3000,
+      "label": "balení 20 g (plátky nebo mletá)"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "ovesne-vlocky",
+    "name": "Ovesné vločky jemné",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 6,
+    "pack": {
+      "size": 500,
+      "price": 2500,
+      "label": "sáček 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "pernikove-koreni",
+    "name": "Perníkové koření",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 6,
+    "pack": {
+      "size": 20,
+      "price": 2000,
+      "label": "sáček 20 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "soda-jedla",
+    "name": "Jedlá soda",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 15,
+    "pack": {
+      "size": 50,
+      "price": 1500,
+      "label": "sáček 50 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "susenky-maslove",
+    "name": "Máslové sušenky",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 4000,
+      "label": "balení 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "smetanovy-syr",
+    "name": "Smetanový sýr (krémový, natural)",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "spoon": 20,
+    "pack": {
+      "size": 200,
+      "price": 5000,
+      "label": "vanička 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "maliny-mrazene",
+    "name": "Maliny mražené",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 300,
+      "price": 7500,
+      "label": "sáček 300 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "banan",
+    "name": "Banán",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 800,
+      "label": "1 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "boruvky",
+    "name": "Borůvky",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 125,
+      "price": 6500,
+      "label": "vanička 125 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "mandle",
+    "name": "Mandle loupané",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 5500,
+      "label": "sáček 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "slunecnicova-seminka",
+    "name": "Slunečnicová semínka loupaná",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 9,
+    "pack": {
+      "size": 150,
+      "price": 2500,
+      "label": "sáček 150 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kokos-strouhany",
+    "name": "Strouhaný kokos",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 5,
+    "pack": {
+      "size": 100,
+      "price": 2500,
+      "label": "sáček 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "rozinky",
+    "name": "Rozinky",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 3500,
+      "label": "sáček 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "anglicke-muffiny",
+    "name": "Anglické muffiny",
+    "department": "Pečivo",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 4,
+      "price": 7000,
+      "label": "balení 4 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "tunak-sushi",
+    "name": "Tuňák určený k syrové konzumaci",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 22900,
+      "label": "balení 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "quinoa",
+    "name": "Quinoa",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 8900,
+      "label": "sáček 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "lasagne-platy",
+    "name": "Lasagne (plátky bez předvaření)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 4900,
+      "label": "krabice 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "mango",
+    "name": "Mango",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 4500,
+      "label": "1 kus"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "led-do-napoju",
+    "name": "Led do nápojů",
+    "department": "Ostatní",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 0,
+      "label": "z mrazáku"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "tonik",
+    "name": "Tonic",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 1000,
+      "price": 4500,
+      "label": "láhev 1 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "matcha-prasek",
+    "name": "Matcha prášek",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 30,
+      "price": 22900,
+      "label": "dóza 30 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "spoon": 2
+  },
+  {
+    "id": "irska-whiskey",
+    "name": "Irská whiskey",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 500,
+      "price": 39900,
+      "label": "láhev 0,5 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "cerny-caj",
+    "name": "Černý čaj sypaný",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 50,
+      "price": 5900,
+      "label": "balení 50 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "tapiokove-perly",
+    "name": "Tapiokové perly",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 6900,
+      "label": "balení 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "ryzova-mouka-lepiva",
+    "name": "Lepivá rýžová mouka",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 5500,
+      "label": "balení 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "bila-cokolada",
+    "name": "Bílá čokoláda",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 3500,
+      "label": "tabulka 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "fazolova-pasta-anko",
+    "name": "Sladká fazolová pasta anko",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 5900,
+      "label": "konzerva 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "visne-mrazene",
+    "name": "Višně mražené, bez pecek",
+    "department": "Mražené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 6900,
+      "label": "sáček 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "zmrzlina-vanilkova",
+    "name": "Vanilková zmrzlina",
+    "department": "Mražené",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 900,
+      "price": 8900,
+      "label": "vanička 900 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "rozmaryn",
+    "name": "Rozmarýn čerstvý",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 20,
+      "price": 3500,
+      "label": "sáček 20 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "perliva-voda",
+    "name": "Perlivá voda",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 1500,
+      "price": 1400,
+      "label": "láhev 1,5 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "led",
+    "name": "Led (kostky)",
+    "department": "Ostatní",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 0,
+      "label": "z mrazáku"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "staple": true
+  },
+  {
+    "id": "bezove-kvety",
+    "name": "Květy černého bezu",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 20,
+      "price": 0,
+      "label": "natrháš sám (květen až červen)"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kyselina-citronova",
+    "name": "Kyselina citronová",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 5,
+    "pack": {
+      "size": 100,
+      "price": 2500,
+      "label": "sáček 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "jahody",
+    "name": "Jahody (čerstvé nebo mražené)",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 400,
+      "price": 5500,
+      "label": "vanička nebo sáček 400 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "caj-cerny",
+    "name": "Černý čaj (sáčky)",
+    "department": "Trvanlivé",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 20,
+      "price": 4500,
+      "label": "20 sáčků"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "chia",
+    "name": "Chia semínka",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 10,
+    "pack": {
+      "size": 200,
+      "price": 8500,
+      "label": "sáček 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "acai-pyre",
+    "name": "Açaí pyré (mražené)",
+    "department": "Ostatní",
+    "baseUnit": "g",
+    "pack": {
+      "size": 400,
+      "price": 12900,
+      "label": "4 sáčky po 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "granola",
+    "name": "Granola",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 300,
+      "price": 6900,
+      "label": "sáček 300 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "romaine",
+    "name": "Římský salát (romaine)",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 3500,
+      "label": "hlávka"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "ancovicky",
+    "name": "Ančovičky v oleji",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 50,
+      "price": 4500,
+      "label": "plechovka 50 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "sirene",
+    "name": "Sýr sirene (bílý, slaný)",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 5500,
+      "label": "balení 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "dyne-hokkaido",
+    "name": "Dýně hokkaido",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 4500,
+      "label": "1 kus ca 1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kvetak",
+    "name": "Květák",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 900,
+      "price": 4500,
+      "label": "1 hlávka ca 900 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kapusta",
+    "name": "Kapusta (hlávka)",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 3500,
+      "label": "1 hlávka ca 1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "cocka-hneda",
+    "name": "Hnědá čočka",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 4500,
+      "label": "sáček 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "hrach-zluty",
+    "name": "Žlutý půlený hrách",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 3500,
+      "label": "sáček 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "fazole-bile",
+    "name": "Bílé fazole v nálevu",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 400,
+      "price": 2900,
+      "label": "plechovka 400 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "nudle-vlasove",
+    "name": "Vlasové nudle",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 2200,
+      "label": "balení 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kureci-kridelka",
+    "name": "Kuřecí křidélka",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 9900,
+      "label": "balení 1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kureci-stehna-s-kosti",
+    "name": "Kuřecí stehna s kostí",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 8900,
+      "label": "balení 1 kg, asi 4 stehna"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "skvarky",
+    "name": "Vepřové škvarky",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 5900,
+      "label": "balení 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "losos-uzeny",
+    "name": "Uzený losos (plátky)",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 6900,
+      "label": "balení 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "bulky-hotdog",
+    "name": "Housky na hot dog",
+    "department": "Pečivo",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 6,
+      "price": 3500,
+      "label": "balení 6 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "bagely",
+    "name": "Bagely",
+    "department": "Pečivo",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 4,
+      "price": 5900,
+      "label": "balení 4 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "ostra-omacka",
+    "name": "Ostrá omáčka na křidélka (typ Louisiana)",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "ml",
+    "spoon": 15,
+    "pack": {
+      "size": 150,
+      "price": 8900,
+      "label": "láhev 150 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "hovezi-ribeye",
+    "name": "Hovězí ribeye steak",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 44900,
+      "label": "2 steaky, asi 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "hovezi-flank",
+    "name": "Hovězí flank steak",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 600,
+      "price": 32900,
+      "label": "kus asi 600 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "veprovy-bok",
+    "name": "Vepřový bok bez kosti",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 12900,
+      "label": "kus asi 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kapary",
+    "name": "Kapary",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 5900,
+      "label": "sklenice 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "brandy",
+    "name": "Brandy",
+    "department": "Nápoje",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 200,
+      "price": 11900,
+      "label": "láhev 200 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "bageta",
+    "name": "Bageta (světlá, křupavá)",
+    "department": "Pečivo",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 1500,
+      "label": "1 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "ryzove-valecky",
+    "name": "Rýžové válečky (tteok)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 6900,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "nudle-sladke-batatove",
+    "name": "Skelné nudle ze sladkých brambor (dangmyeon)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 5900,
+      "label": "balení 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "spekacky",
+    "name": "Špekáčky",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 400,
+      "price": 6900,
+      "label": "balení 4 ks, asi 400 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "nudle-fleky",
+    "name": "Těstoviny fleky (široké plátky)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 2900,
+      "label": "balení 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "tarhona",
+    "name": "Tarhoňa",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 2500,
+      "label": "balení 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "hovezi-svickova",
+    "name": "Hovězí svíčková (čistá)",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 300,
+      "price": 18000,
+      "label": "kus ca 300 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  }
 ]

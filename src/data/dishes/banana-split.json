@@ -1,0 +1,20 @@
+{
+  "name": "Banana split",
+  "section": "Poháry",
+  "price": 15900,
+  "recipe": "banana-split",
+  "vegetarian": true,
+  "order": 20,
+  "description": "Banán, tři kopečky, čokoláda, šlehačka a ořechy na dlouhé misce.",
+  "about": [
+    "Banana split je zmrzlinový pohár ze 20. let minulého století, který se servíruje na dlouhém talíři. Banán drží kopečky, čokoláda je vlažná a šlehačka navrch.",
+    "Rozpůl banán těsně před podáváním, jinak zhnědne. Zbytek dohlédneš sám."
+  ],
+  "kind": "main",
+  "restaurant": "zmrzlinovy-bar-posledni-lzicka",
+  "image": "dish-banana-split",
+  "allergens": [
+    7,
+    8
+  ]
+}

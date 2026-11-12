@@ -1,0 +1,47 @@
+{
+  "name": "Vafle se šlehačkou",
+  "section": "Sladké kynuté",
+  "price": 8900,
+  "recipe": "vafle",
+  "vegetarian": true,
+  "order": 40,
+  "description": "Dvě křupavé vafle, šlehačka a cukr moučka. Jen vaflovač musíš mít ty.",
+  "about": [
+    "Vafle jsou těsto, které se uvnitř vaflovače promění v mřížku. Má křupavou kůrku a měkkou střídu a udrží šlehačku, ovoce i sirup.",
+    "V naší pekárně ji dostaneš nanečisto. Doma ji dostaneš, jakmile ti vaflovač přestane unikat pára."
+  ],
+  "kind": "main",
+  "restaurant": "pekarna-zitra-upecem",
+  "image": "dish-vafle-se-slehackou",
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "optionGroups": [
+    {
+      "id": "navic",
+      "name": "Navrch",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "slehacka",
+          "name": "Šlehačka",
+          "priceDelta": 0
+        },
+        {
+          "id": "ovoce",
+          "name": "Čerstvé ovoce",
+          "priceDelta": 2500
+        },
+        {
+          "id": "syrop",
+          "name": "Javorový sirup",
+          "priceDelta": 2000
+        }
+      ],
+      "max": 3
+    }
+  ]
+}

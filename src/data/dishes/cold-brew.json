@@ -1,0 +1,38 @@
+{
+  "name": "Cold brew 0,3 l",
+  "restaurant": "kavarna-dopiju-zitra",
+  "kind": "main",
+  "section": "Studené",
+  "description": "Káva louhovaná za studena přes noc, jemná, nahořklá a skoro bez kyselosti.",
+  "about": [
+    "Cold brew se vaří bez vaření. Hrubě mletá káva stojí v studené vodě půl dne, a výsledkem je koncentrát se sladší a kulatější chutí než u horké kávy a s mnohem méně kyselosti.",
+    "V kavárně ho ředí vodou nebo mlékem a podává s ledem. Doma ho uděláš večer a ráno máš hotovo. Je to jediný nápoj v nabídce, který vznikl tím, že se na něj čekalo, a to se nám tu líbí."
+  ],
+  "price": 8900,
+  "image": "dish-cold-brew",
+  "recipe": "cold-brew",
+  "optionGroups": [
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "mleko",
+          "name": "Studené mléko",
+          "priceDelta": 800
+        },
+        {
+          "id": "tonic",
+          "name": "Tonic místo vody",
+          "priceDelta": 1000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 40
+}

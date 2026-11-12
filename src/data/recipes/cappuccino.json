@@ -1,0 +1,78 @@
+{
+  "title": "Cappuccino",
+  "keywords": [
+    "cappuccino",
+    "cappuccino recept",
+    "jak udělat cappuccino",
+    "cappuccino doma"
+  ],
+  "image": "dish-cappuccino",
+  "category": "kavarna",
+  "vegetarian": true,
+  "servings": 1,
+  "activeMinutes": 8,
+  "cookMinutes": 2,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "intro": "Cappuccino doma z dvojitého espressa a 100 ml mléka, které se napění a ohřeje na 60 až 65 °C. Klasický poměr je třetina espressa, třetina horkého mléka a třetina pěny, těžké je udržet pěnu jemnou a hustou.",
+  "ingredients": [
+    {
+      "ingredient": "kava-mleta",
+      "amount": 18,
+      "unit": "g",
+      "note": "čerstvě namletá na espresso"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "note": "studené, plnotučné; napění se na 100 ml"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 1,
+      "unit": "g",
+      "note": "volitelně na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Z 18 g kávy připrav asi 40 ml espressa do předehřátého šálku o objemu 150 až 180 ml."
+    },
+    {
+      "text": "Do konvičky nalij 150 ml studeného mléka a napěň ho, až se zvětší asi o třetinu. Špička trysky je u hladiny, dokud neuslyšíš tiché syčení."
+    },
+    {
+      "text": "Mléko ohřej na 60 až 65 °C, na dotek teplé, ale ne bolestivé. Hrnec s pěnou lehce klepni o stůl, aby prasklé bubliny zmizely."
+    },
+    {
+      "text": "Pěnu a mléko nalévej do espressa, nejdřív středem, na konec pěnu přidrž lžičkou. Hotové cappuccino má asi 1 cm pěny."
+    },
+    {
+      "text": "Podle chuti posyp špetkou kakaa a pij hned, dokud je pěna hustá."
+    }
+  ],
+  "tips": [
+    "Čerstvé studené mléko z lednice se pění lépe než pokojové.",
+    "Šálek předehřej, cappuccino je malé a chladne rychle.",
+    "Příliš velké bubliny znamenají, že trysku držíš moc nahoře."
+  ],
+  "substitutions": [
+    "Barista ovesný nápoj se pění podobně jako kravské mléko.",
+    "Místo kakaa lze použít skořici."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je poměr cappuccina?",
+      "a": "Klasicky třetina espressa, třetina horkého mléka a třetina mléčné pěny, tedy dohromady asi 150 až 180 ml."
+    },
+    {
+      "q": "Čím se liší cappuccino od latte?",
+      "a": "Cappuccino má víc pěny a menší objem, latte má víc mléka, tenčí pěnu a podává se ve větší sklenici."
+    },
+    {
+      "q": "Jak napěnit mléko bez kávovaru?",
+      "a": "Mléko ohřej na 60 až 65 °C a prošlehej ručním napěňovačem nebo zavíčkovanou sklenicí protřepej 30 vteřin. Pěna bude hrubší než z trysky, ale použitelná."
+    }
+  ]
+}

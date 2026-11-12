@@ -1,0 +1,41 @@
+{
+  "name": "Zmrzlinový pohár s jahodami",
+  "section": "Poháry",
+  "price": 14900,
+  "recipe": "zmrzlinovy-pohar",
+  "vegetarian": true,
+  "order": 10,
+  "description": "Vanilka, jahody v cukru, šlehačka a čokoláda ve vysoké sklenici.",
+  "about": [
+    "Zmrzlinový pohár je sestavení, ne vaření: nejdřív jahody, pak zmrzlina, pak poleva a šlehačka navrch. Aby se nic nerozpustilo, sklenice mají být vymrazené a poleva vlažná.",
+    "Žádný kurýr by ti ho nedovezl v kondici, proto si ho radši poskládej sám, ve vlastní kuchyni a pod vlastním dozorem."
+  ],
+  "kind": "main",
+  "restaurant": "zmrzlinovy-bar-posledni-lzicka",
+  "image": "dish-zmrzlinovy-pohar-s-jahodami",
+  "allergens": [
+    7,
+    8
+  ],
+  "featured": true,
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "klasik",
+          "name": "Klasik",
+          "priceDelta": 0
+        },
+        {
+          "id": "velky",
+          "name": "Velký",
+          "priceDelta": 5000
+        }
+      ]
+    }
+  ]
+}

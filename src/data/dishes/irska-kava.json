@@ -1,0 +1,19 @@
+{
+  "name": "Irská káva",
+  "restaurant": "prazirna-pul-hrnku",
+  "kind": "main",
+  "section": "Silné a sladké",
+  "description": "Horká káva s irskou whiskey, hnědým cukrem a lehkou šlehačkou navrch. Jen pro dospělé.",
+  "about": [
+    "Irská káva se po zimních hodinách v letištní hale stala legendou. Horká černá káva, irská whiskey, cukr a studená smetana navrch, která se nemíchá, jen se prochází hrnkem.",
+    "Smetana má být tekutě lehce našlehaná, aby se dala přelít přes lžíci a plavala po hladině. Pije se skrz ni. Nápoj obsahuje alkohol, takže jen pro dospělé. V naší simulaci ale skutečně nepřijede, takže ani nehrozí."
+  ],
+  "price": 9900,
+  "image": "dish-irska-kava",
+  "recipe": "irska-kava",
+  "vegetarian": true,
+  "allergens": [
+    7
+  ],
+  "order": 40
+}

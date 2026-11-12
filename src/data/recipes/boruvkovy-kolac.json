@@ -1,0 +1,139 @@
+{
+  "title": "Borůvkový koláč drožďový",
+  "keywords": [
+    "borůvkový koláč",
+    "borůvkový koláč recept",
+    "drožďový koláč s borůvkami",
+    "koláč s borůvkami na plech"
+  ],
+  "image": "dish-boruvkovy-kolac-drozdovy",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 35,
+  "cookMinutes": 30,
+  "waitMinutes": 80,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "intro": "Borůvkový koláč recept z kynutého těsta na plech 24 x 35 cm s drobenkou. Těsto kyne asi hodinu a čtvrt, borůvky se kladou rovnou na vykynuté těsto a nesmí se předtím rozmrazovat, aby nepouštěly barvu a šťávu.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 350,
+      "unit": "g",
+      "note": "navíc trochu na vál",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 170,
+      "unit": "ml",
+      "note": "vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 20,
+      "unit": "g",
+      "note": "čerstvé, rozdrobené",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 70,
+      "unit": "g",
+      "note": "rozpuštěné a vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 5,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "boruvky",
+      "amount": 350,
+      "unit": "g",
+      "note": "mražené, nerozmrazené",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "studené",
+      "group": "Drobenka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozmíchej ve vlažném mléce s lžičkou cukru a nech 10 minut nakynout. Přidej mouku, zbytek cukru, vejce, rozpuštěné máslo a sůl. Hnětej 8 minut do hladkého těsta, které se lehce lepí."
+    },
+    {
+      "text": "Těsto zakryj a nech v teple asi 60 minut kynout, dokud nezdvojnásobí objem. Dobře vykynuté těsto po zamáčknutí prstu zpomaleně vrací důlek."
+    },
+    {
+      "text": "Mezitím z mouky, cukru a studeného másla rukou udělej drobenku. Borůvky smíchej se škrobem, ale nerozmrazuj je."
+    },
+    {
+      "text": "Těsto vyválej na plech vyložený pečicím papírem, nech 20 minut kynout a troubu předehřej na 190 °C."
+    },
+    {
+      "text": "Na těsto rovnoměrně rozlož borůvky a posyp drobenkou. Peč 28 až 30 minut do zlatova a nech 10 minut chladnout na plechu."
+    }
+  ],
+  "tips": [
+    "Mražené borůvky používej přímo z mrazáku. Rozmrazené by těsto zbarvily a rozmočily.",
+    "Kynutí v teple 26 až 28 °C, například v troubě s rozsvíceným světlem a miskou teplé vody.",
+    "Škrob váže šťávu, kterou borůvky v troubě pustí."
+  ],
+  "substitutions": [
+    "Borůvky lze nahradit rybízem, švestkami nebo meruňkami.",
+    "Čerstvé droždí za 7 g sušeného."
+  ],
+  "faq": [
+    {
+      "q": "Mražené borůvky nebo čerstvé?",
+      "a": "Obojí funguje. Mražené nerozmrazuj, drží tvar a nezbarví těsto. Čerstvé jemně posyp škrobem, aby pustily méně šťávy."
+    },
+    {
+      "q": "Jak poznám, že je kynuté těsto vykynuté?",
+      "a": "Zvětší objem asi dvojnásobně a když do něj opatrně zatlačíš prst, důlek se vrací pomalu. Pokud se vrátí hned, ještě chvíli počkej."
+    },
+    {
+      "q": "Proč borůvkový koláč zbarví těsto do modra?",
+      "a": "Šťáva z ovoce teče do těsta. Škrob, nerozmrazené borůvky a drobenka navrch to omezí, úplně se tomu nevyhneš, ale chuť to neovlivní."
+    }
+  ]
+}

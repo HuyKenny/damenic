@@ -1,0 +1,34 @@
+{
+  "name": "Zmrzlinový bar Poslední lžička",
+  "category": "zmrzlina",
+  "cuisine": "Pohárové dezerty a sorbety",
+  "tagline": "Pohár je vysoký a lžička dlouhá. Kurýr nikam nejede, takže nic neroztaje.",
+  "description": "Zmrzlinové poháry se šlehačkou a čokoládou, banana split a citronový sorbet. Celý bar je smyšlený, takže se k tobě nic nedoveze, ale recepty jsou skutečné a pohár si poskládáš z doma namíchané zmrzliny.",
+  "etaMinutes": 25,
+  "deliveryFee": 4900,
+  "minOrder": 19900,
+  "priceLevel": 3,
+  "hours": {
+    "open": "11:00",
+    "close": "21:00"
+  },
+  "pickup": false,
+  "tags": [
+    "bez masa",
+    "bezlepkové možnosti"
+  ],
+  "logo": {
+    "text": "PL",
+    "color": "#F6C3D4",
+    "ink": "dark"
+  },
+  "sections": [
+    "Poháry",
+    "Sorbety",
+    "Přísady navíc",
+    "Nápoje"
+  ],
+  "order": 203,
+  "isNew": true,
+  "cover": "rest-zmrzlinovy-bar-posledni-lzicka"
+}

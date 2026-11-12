@@ -1,0 +1,97 @@
+{
+  "title": "Vanilková zmrzlina bez zmrzlinovače",
+  "keywords": [
+    "domácí zmrzlina",
+    "domácí zmrzlina recept",
+    "vanilková zmrzlina",
+    "zmrzlina bez zmrzlinovače"
+  ],
+  "image": "dish-vanilkova-zmrzlina",
+  "category": "zmrzlina",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 480,
+  "waitLabel": "chlazení krému a mrazák",
+  "difficulty": "střední",
+  "intro": "Domácí zmrzlina recept z vanilkového krému (créme anglaise): žloutky, mléko, smetana a vanilkový lusk. Zmrzlinovač nepotřebuješ, krém v mrazáku čtyři hodiny mícháš metlou. Důležité je uvařit ho na 80 až 82 °C a nepřevařit.",
+  "ingredients": [
+    {
+      "ingredient": "mleko",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 300,
+      "unit": "ml",
+      "note": "min. 30 % tuku"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 5,
+      "unit": "ks",
+      "note": "jen žloutky, bílky se nepoužijí"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 110,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vanilka-lusk",
+      "amount": 1,
+      "unit": "ks",
+      "note": "podélně rozříznutý"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do hrnce dej mléko, polovinu smetany, vanilkový lusk i vyškrábaná zrníčka a sůl. Zahřívej na středním plameni, až se objeví pára a první bublinky na okraji (asi 80 °C). Nepřiváděj k varu. Stáhni z plotny a nech 15 minut louhovat."
+    },
+    {
+      "text": "Žloutky vyšlehej s cukrem do světlé hmoty. Za stálého míchání do nich přilévej po troškách horké mléko, aby se žloutky nesrazily."
+    },
+    {
+      "text": "Směs vrať do hrnce a vař na slabém plameni za stálého míchání 6 až 8 minut, dokud nemá teplotu 80 až 82 °C (teploměr) a krém neobalí hřbet vařečky. Při 85 °C se žloutky srazí."
+    },
+    {
+      "text": "Krém přeced přes sítko do mísy, přimíchej zbylou studenou smetanu a misku vlož do ledové lázně. Až vychladne, přikryj fólií a dej na 4 hodiny nebo přes noc do lednice (do 5 °C)."
+    },
+    {
+      "text": "Studený krém nalij do plochého mrazicího boxu a dej do mrazáku. Po 45 minutách promíchej metlou, rozmělni tuhé krystaly od okrajů a vrať do mrazáku. Opakuj celkem 4krát po 45 minutách, pak nech zmrazit alespoň 2 hodiny."
+    },
+    {
+      "text": "Před podáváním vytáhni zmrzlinu 10 minut předem, aby změkla. Nabírej lžící namočenou v horké vodě."
+    }
+  ],
+  "tips": [
+    "Krém vždy chlaď do 5 °C před zmrazením, jinak vzniknou velké ledové krystaly.",
+    "Povrch zmrzliny přikryj pečicím papírem, ať nevznikne ledová krusta.",
+    "Žloutky jsou základ, bílky ti zůstanou: vyrobí se z nich pusinky."
+  ],
+  "substitutions": [
+    "Vanilkový lusk lze nahradit 2 lžičkami vanilkové pasty (ne extraktu s alkoholem).",
+    "Smetanu 30 % lze nahradit smetanou ke šlehání s 33 % tuku."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat domácí zmrzlinu bez zmrzlinovače?",
+      "a": "Zmrazit studený krém v ploché nádobě a po 45 minutách ho metlou rozmíchat. Čtyřikrát za sebou se rozbijí ledové krystaly a zmrzlina je hladká."
+    },
+    {
+      "q": "Proč je domácí zmrzlina tvrdá jako kámen?",
+      "a": "Má méně cukru a vzduchu než zmrzlina z obchodu. Vyndej ji 10 až 15 minut před podáváním, aby změkla na nabírání."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí zmrzlina v mrazáku?",
+      "a": "Při minus 18 °C asi 2 týdny v dobré kvalitě, pak se začnou tvořit ledové krystaly. Dobře ji zakryj a neotvírej příliš často."
+    }
+  ]
+}

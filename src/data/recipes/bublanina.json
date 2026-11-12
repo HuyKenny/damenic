@@ -1,0 +1,113 @@
+{
+  "title": "Bublanina s višněmi",
+  "keywords": [
+    "bublanina",
+    "bublanina recept",
+    "bublanina s ovocem",
+    "jednoduchá bublanina"
+  ],
+  "image": "dish-bublanina-s-visnemi",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 20,
+  "cookMinutes": 35,
+  "waitMinutes": 30,
+  "waitLabel": "chladnutí na plechu",
+  "difficulty": "snadné",
+  "intro": "Bublanina recept na plech 24 x 34 cm: pět surovin, bez kynutí a bez mixéru stačí vyšlehat. Těsto je hustší než na piškot, aby ovoce nespadlo na dno. Višně se do těsta jen sypou, nezamíchávají.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 120,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "visne-mrazene",
+      "amount": 400,
+      "unit": "g",
+      "note": "nerozmrazené"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C (horní a spodní ohřev). Plech 24 x 34 cm vyskládej pečicím papírem nebo vymaž máslem a vysyp moukou."
+    },
+    {
+      "text": "Vejce vyšlehej s cukrem a vanilkovým cukrem 4 minuty do světlé pěny, která po zvednutí šlehače stéká jako stuha."
+    },
+    {
+      "text": "Při pomalém šlehání přilij mléko a olej. Mouku smíchej s práškem do pečiva a solí, prosej a rozmíchej do těsta jen do spojení."
+    },
+    {
+      "text": "Těsto nalij na plech, na povrch rovnoměrně rozsyp mražené višně a nech je klesnout samy. Peč 33 až 35 minut, dokud špejle ze středu nevyjde suchá a povrch není zlatý."
+    },
+    {
+      "text": "Bublaninu nech 30 minut vychladnout na plechu a až pak ji krájej. Před podáváním posyp cukrem moučkou."
+    }
+  ],
+  "tips": [
+    "Višně nerozmrazuj, jinak pustí šťávu a těsto bude u nich mokré.",
+    "Do těsta nepřimíchávej ovoce, jen ho sypej navrch. Klesne mírně sám a zůstane v horní polovině.",
+    "Bublanina je nejlepší druhý den, vlhčí."
+  ],
+  "substitutions": [
+    "Višně lze nahradit třešněmi, meruňkami, švestkami nebo borůvkami.",
+    "Slunečnicový olej za stejné množství rozpuštěného másla."
+  ],
+  "faq": [
+    {
+      "q": "Proč ovoce v bublanině propadne na dno?",
+      "a": "Těsto je moc řídké nebo se ovoce zamíchalo dovnitř. Sypej ho navrch a nech těsto hustší, ovoce se samo zanoří jen do poloviny."
+    },
+    {
+      "q": "Jaké ovoce se do bublaniny hodí?",
+      "a": "Třešně, višně, meruňky, švestky nebo borůvky. Mražené nerozmrazuj, čerstvé dobře osuš."
+    },
+    {
+      "q": "Dá se bublanina péct v menším plechu?",
+      "a": "Ano, ale delší dobu. Ve formě 24 x 24 cm piš 45 až 50 minut a kontroluj špejlí, aby střed nebyl syrový."
+    }
+  ]
+}

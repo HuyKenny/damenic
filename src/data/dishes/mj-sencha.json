@@ -1,0 +1,15 @@
+{
+  "name": "Zelený čaj sencha 0,4 l",
+  "restaurant": "matcharna-jeste-slehame",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Čistý japonský zelený čaj z konvičky, bez mléka a bez cukru.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-mj-sencha",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 70
+}

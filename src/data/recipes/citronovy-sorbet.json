@@ -1,0 +1,82 @@
+{
+  "title": "Citronový sorbet",
+  "keywords": [
+    "citronový sorbet",
+    "sorbet recept",
+    "domácí citronový sorbet",
+    "sorbet bez zmrzlinovače"
+  ],
+  "image": "dish-citronovy-sorbet",
+  "category": "zmrzlina",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 20,
+  "cookMinutes": 5,
+  "waitMinutes": 300,
+  "waitLabel": "mrazák, míchání po 45 minutách",
+  "difficulty": "snadné",
+  "intro": "Citronový sorbet recept z vody, cukru a čerstvé citronové šťávy, bez mléka a bez vajec. Zmrzlinovač nepotřebuješ, stačí vidlička a mrazák. Rozhoduje poměr cukru: kolem 25 až 30 %, jinak je sorbet ledová tříšť.",
+  "ingredients": [
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 5,
+      "unit": "ks",
+      "note": "kůra ze 2 (jen žlutá část) a šťáva z 5, asi 250 ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vodu s cukrem a proužky citronové kůry dej do hrnce a za míchání zahřej, aby se cukr rozpustil. Vař 3 minuty, stáhni z plotny a nech úplně vychladnout."
+    },
+    {
+      "text": "Ze sirupu vyndej kůru, přidej citronovou šťávu a sůl. Dobře promíchej a zchlaď v lednici na 1 hodinu (do 5 °C)."
+    },
+    {
+      "text": "Směs nalij do plochého mrazicího boxu a dej do mrazáku."
+    },
+    {
+      "text": "Po 45 minutách sorbet vidličkou rozmíchej a rozbij krystaly od okrajů. Opakuj celkem 4krát po 45 minutách, aby byl sorbet jemný, a pak nech 1 hodinu dozmrazit."
+    },
+    {
+      "text": "Před podáváním nech 5 až 10 minut stát při pokojové teplotě. Podávej v ochlazených miskách, ozdob lístky máty."
+    }
+  ],
+  "tips": [
+    "Cukr nesnižuj: bez něj sorbet vytvoří tvrdý led.",
+    "Kůru použij jen žlutou, bílá vrstva je hořká.",
+    "Sorbet je nejlepší do 3 dnů, pak začne krystalizovat."
+  ],
+  "substitutions": [
+    "Citrony lze z části nahradit limetkami nebo pomerančovou šťávou.",
+    "Cukr za stejné množství medu, sorbet bude měkčí."
+  ],
+  "faq": [
+    {
+      "q": "Kolik cukru patří do sorbetu?",
+      "a": "Přibližně 25 až 30 % hmotnosti směsi. Méně a sorbet zmrzne na ledovou tříšť, více a nezmrzne vůbec."
+    },
+    {
+      "q": "Dá se sorbet udělat bez zmrzlinovače?",
+      "a": "Ano. Směs dej do ploché nádoby, každých 45 minut ji rozmíchej vidličkou nebo metlou a po čtyřech opakováních nech zmrazit. Struktura bude jemná."
+    },
+    {
+      "q": "Proč je můj sorbet tvrdý jako led?",
+      "a": "Má málo cukru nebo se nemíchal. Vyndej ho z mrazáku 10 minut předem, příště zvyš cukr o 20 až 30 g."
+    }
+  ]
+}

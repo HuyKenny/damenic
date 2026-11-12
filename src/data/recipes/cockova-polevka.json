@@ -1,0 +1,149 @@
+{
+  "title": "Čočková polévka",
+  "keywords": [
+    "čočková polévka",
+    "čočková polévka recept",
+    "čočková polévka z hnědé čočky",
+    "čočková polévka s uzeným"
+  ],
+  "image": "dish-cockova-polevka-lzice-zitra",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 5,
+  "activeMinutes": 20,
+  "cookMinutes": 40,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Čočková polévka z hnědé čočky je poctivá česká klasika, která se vaří bez namáčení a z levných surovin. Na 5 porcí potřebuješ asi hodinu, z toho 20 minut práce. Ocet na závěr dodá polévce tu správnou ostrost, kterou na čočce chceš.",
+  "ingredients": [
+    {
+      "ingredient": "cocka-hneda",
+      "amount": 250,
+      "unit": "g",
+      "note": "propláchnutá"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "uzená papriku dodá chuť uzeniny"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1800,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na závěr"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej olej a na středním plameni 5 minut osmahni cibuli, dokud nezezlátne. Přidej mrkev a celer a míchej další 3 minuty."
+    },
+    {
+      "text": "Vmíchej papriku s kmínem, ihned zalij vodou (paprika se spálí za pár vteřin) a přidej čočku, bobkový list a nové koření."
+    },
+    {
+      "text": "Přiveď k varu, stáhni plamen, polévku přikryj a vař 15 minut. Seber případnou pěnu."
+    },
+    {
+      "text": "Přidej brambory a vař dalších 20 až 25 minut, až je čočka i brambory měkké a polévka je hustší."
+    },
+    {
+      "text": "Vyndej bobkový list a nové koření, přidej česnek, majoránku a sůl, vař ještě 2 minuty. Nakonec dochuť octem a pepřem."
+    }
+  ],
+  "tips": [
+    "Hnědá čočka se vaří 30 až 40 minut. Červená se rozvaří za 15 minut a polévka bude hladká, jiná.",
+    "Ocet přidávej až na konci a po lžičkách. Kyselina vařenou čočku zpevňuje, hotovou polévku jen oživí.",
+    "V lednici vydrží 4 dny, zamrazit ji jde až na 3 měsíce. Po ohřevu zahušťuje, přilij trochu vody.",
+    "Chceš sytější verzi? Dej do polévky kousek uzeného masa nebo opečenou klobásu."
+  ],
+  "substitutions": [
+    "Místo octa dej citronovou šťávu.",
+    "Bez celeru uděláš polévku z petržele nebo pastiňáku."
+  ],
+  "faq": [
+    {
+      "q": "Musím čočku namáčet?",
+      "a": "Hnědou ani zelenou čočku namáčet nemusíš. Stačí ji propláchnout a vařit 30 až 40 minut. Namáčení zkrátí vaření jen o pár minut."
+    },
+    {
+      "q": "Kdy do čočkové polévky dát ocet?",
+      "a": "Až na konci, po lžičkách do ochutnání. Ocet přidaný na začátku zpomalí změknutí čočky a polévka může zůstat tvrdá."
+    },
+    {
+      "q": "Jak dlouho vydrží čočková polévka a jde zamrazit?",
+      "a": "V lednici vydrží 4 dny v uzavřené nádobě. Zamrazit ji můžeš až na 3 měsíce, po rozmrazení ji prohřej a případně zřeď vodou."
+    }
+  ]
+}

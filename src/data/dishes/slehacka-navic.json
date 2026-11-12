@@ -1,0 +1,16 @@
+{
+  "name": "Šlehačka navíc",
+  "section": "Doplňky",
+  "price": 2500,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 50,
+  "description": "Pořádná mísa šlehačky na koláč. Skoro polévková, ale sladká.",
+  "about": [],
+  "kind": "side",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "image": "dish-slehacka-navic",
+  "allergens": [
+    7
+  ]
+}

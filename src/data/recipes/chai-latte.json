@@ -1,0 +1,101 @@
+{
+  "title": "Chai latte",
+  "keywords": [
+    "chai latte recept",
+    "chai latte",
+    "chai latte doma",
+    "masala chai"
+  ],
+  "image": "dish-chai-latte",
+  "category": "matcha",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 5,
+  "cookMinutes": 12,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Chai latte pro dva z černého čaje, mléka a koření, které se vaří 5 minut v 300 ml vody, aby se vytáhlo aroma. Čaj se přidává až nakonec a nevaří se déle než 4 minuty, jinak je hořký.",
+  "ingredients": [
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "skorice-cela",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "hrebicek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "kardamom",
+      "amount": 1,
+      "unit": "g",
+      "note": "mletý, nebo 4 rozdrcené lusky"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "tenké plátky"
+    },
+    {
+      "ingredient": "cerny-caj",
+      "amount": 6,
+      "unit": "g",
+      "note": "sypaný, asi 2 lžičky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "med",
+      "amount": 20,
+      "unit": "g",
+      "note": "nebo cukr podle chuti"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do hrnce dej 300 ml vody, skořici, hřebíček, kardamom a plátky zázvoru. Přiveď k varu a na slabém ohni vař 5 minut."
+    },
+    {
+      "text": "Přidej 6 g sypaného černého čaje a nech 4 minuty louhovat na slabém ohni. Déle čaj hořkne."
+    },
+    {
+      "text": "Přilij 300 ml mléka a ohřívej, dokud nezačne stoupat pára. Nevař, mléko by vykypělo a ztratilo sladkost."
+    },
+    {
+      "text": "Chai přeceď přes sítko do dvou hrnků, osladi medem a podávej horký."
+    }
+  ],
+  "tips": [
+    "Koření v celku nebo čerstvě rozdrcené má víc aroma než hotová směs.",
+    "Med přidávej až do hrnku, ve vaření ztrácí chuť.",
+    "Pro silnější chuť nech koření povařit 8 minut."
+  ],
+  "substitutions": [
+    "Mléko lze nahradit ovesným nebo kokosovým nápojem.",
+    "Černý čaj nahradíš rooibosem pro bezkofeinovou verzi."
+  ],
+  "faq": [
+    {
+      "q": "Jaké koření patří do chai latte?",
+      "a": "Skořice, kardamom, zázvor a hřebíček, někdy i černý pepř nebo badyán. Základ je vždy černý čaj a mléko."
+    },
+    {
+      "q": "Proč je můj chai hořký?",
+      "a": "Čaj se vařil příliš dlouho. Přidej ho až po koření a nech louhovat nejdéle 4 minuty."
+    },
+    {
+      "q": "Chai latte versus masala chai, v čem je rozdíl?",
+      "a": "Masala chai je indický čaj vařený s kořením a mlékem. Chai latte je jeho kavárenská verze, často z koncentrátu a s napěněným mlékem."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Voda s citronem a mátou 0,5 l",
+  "restaurant": "kavarna-dopiju-zitra",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Ledová voda s plátky citronu a mátou, proti kávě i proti žízni.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-dz-voda-citron-mata",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 80
+}

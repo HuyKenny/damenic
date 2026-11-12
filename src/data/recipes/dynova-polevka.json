@@ -1,0 +1,116 @@
+{
+  "title": "Krémová dýňová polévka z hokkaida",
+  "keywords": [
+    "dýňová polévka",
+    "dýňová polévka z hokkaido",
+    "krémová dýňová polévka",
+    "dýňová polévka recept"
+  ],
+  "image": "dish-dynova-polevka-chlebova-dutina",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Dýňová polévka z hokkaida se vaří z dýně i se slupkou, takže odpadá nejhorší práce, loupání. Vychází krémová, sladká a jemně oříšková, pro 4 osoby. Těžké je jen to nepřesolit a včas ji rozmixovat, dokud je dýně úplně měkká.",
+  "ingredients": [
+    {
+      "ingredient": "dyne-hokkaido",
+      "amount": 800,
+      "unit": "g",
+      "note": "očištěná od semínek, se slupkou, na kostky 2 cm"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nahrubo nakrájená"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 700,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na začátek, později dosolit"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "slunecnicova-seminka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej olej a na středním plameni 5 minut restuj cibuli, dokud nezměkne a nezesklovatí. Přidej česnek a zázvor a míchej ještě minutu."
+    },
+    {
+      "text": "Přidej kostky dýně, osol a za občasného míchání je 5 minut restuj, aby se lehce opekly a získaly sladkost."
+    },
+    {
+      "text": "Zalij vývarem, přiveď k varu, přikryj a na mírném plameni vař 20 minut, až se dýně rozpadá pod vidličkou."
+    },
+    {
+      "text": "Mezitím nasuchu opraž slunečnicová semínka na pánvi 2 až 3 minuty, dokud nezavoní a lehce nezezlátnou."
+    },
+    {
+      "text": "Polévku rozmixuj ponorným mixérem dohladka. Vlij smetanu, prohřej bez varu, dochuť solí a pepřem. Podávej se semínky."
+    }
+  ],
+  "tips": [
+    "Hokkaido nemusíš loupat, slupka se při vaření úplně rozpadne a po rozmixování ji nepoznáš. Jiné dýně (máslová, muškátová) se většinou loupou.",
+    "Hustotu doladíš vývarem: po rozmixování přilévej po 50 ml, dokud nemá konzistenci tekutého jogurtu.",
+    "Polévka vydrží 3 dny v lednici v uzavřené nádobě a jde zamrazit bez smetany až na 3 měsíce. Smetanu přidej při ohřevu.",
+    "Práce je zhruba 20 minut, pak polévka bublá sama. Dobrá věc na přípravu den dopředu."
+  ],
+  "substitutions": [
+    "Místo smetany na vaření dej kokosové mléko, polévka bude veganská.",
+    "Hokkaido zastoupí máslová dýně (oloupaná) nebo batát, vařit stačí stejně dlouho."
+  ],
+  "faq": [
+    {
+      "q": "Musí se dýně hokkaido loupat do polévky?",
+      "a": "Ne. Slupka hokkaida je tenká a po 20 minutách vaření a rozmixování zmizí. Stačí dýni umýt a vyřezat semínka."
+    },
+    {
+      "q": "Jak dlouho vydrží dýňová polévka v lednici a jde zamrazit?",
+      "a": "V lednici vydrží v uzavřené nádobě 3 dny. Zamrazit ji můžeš až na 3 měsíce, nejlépe bez smetany, kterou přidáš při ohřevu."
+    },
+    {
+      "q": "Čím zahustit nebo zředit dýňovou polévku?",
+      "a": "Zahustit ji můžeš delším odpařováním bez poklice nebo kouskem brambory vařeným s dýní. Zředit vývarem nebo vodou po 50 ml."
+    }
+  ]
+}

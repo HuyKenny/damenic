@@ -1,0 +1,56 @@
+{
+  "name": "Bramboračka s houbami",
+  "section": "Lehké",
+  "price": 9900,
+  "recipe": "bramboracka",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "order": 60,
+  "description": "Brambory, kořenová zelenina a sušené houby se zásmažkou.",
+  "about": [
+    "Bramboračka je polévka, ve které se sejde všechno, co leží ve spíži: brambory, mrkev, celer, petržel a hrst sušených hub. Houbová voda z namáčení je polovina chuti a zásmažka z mouky ji zahustí do správné konzistence.",
+    "S krajícem chleba na vytírání je z ní celý oběd. Lžíce je u nás čistá a hrnec prázdný, recept je ale pravý."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší 0,3 l",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická 0,45 l",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "chleb",
+          "name": "Krajíc chleba",
+          "priceDelta": 1900
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "lzice-zitra",
+  "image": "dish-bramboracka-lzice-zitra",
+  "allergens": [
+    1,
+    9
+  ]
+}

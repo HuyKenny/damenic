@@ -1,0 +1,15 @@
+{
+  "name": "Espresso doppio",
+  "restaurant": "kavarna-dopiju-zitra",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Dvojitý espresso shot s lískovou pěnou, vypít do tří doušků.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-dz-doppio",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 70
+}

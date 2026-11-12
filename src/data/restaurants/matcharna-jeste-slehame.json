@@ -1,0 +1,39 @@
+{
+  "name": "Matchárna Ještě Šlehám",
+  "category": "matcha",
+  "cuisine": "Matcha bar a čajové sladkosti",
+  "tagline": "Šlehač je rozehřátý. Pěna zatím jen v plánu.",
+  "description": "Matcha latte s hustou pěnou, ledová verze pro horké dny a sušenky s kouskem bílé čokolády. Matchárna je smyšlená, takže ti nic nezašlehá, ale mléko i matcha v receptech vyjdou přesně.",
+  "etaMinutes": 25,
+  "deliveryFee": 3900,
+  "minOrder": 17900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "08:00",
+    "close": "18:00"
+  },
+  "tags": [
+    "bez masa",
+    "veganské"
+  ],
+  "promo": {
+    "type": "percent",
+    "label": "−15 % nad 350 Kč",
+    "percent": 15,
+    "minSubtotal": 35000
+  },
+  "logo": {
+    "text": "MŠ",
+    "color": "#5C8A3A",
+    "ink": "light"
+  },
+  "sections": [
+    "Matcha",
+    "Sladké",
+    "Nápoje"
+  ],
+  "order": 202,
+  "isNew": true,
+  "cover": "rest-matcharna-jeste-slehame",
+  "pickup": true
+}

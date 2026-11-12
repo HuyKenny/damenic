@@ -1,0 +1,15 @@
+{
+  "name": "Domácí ledový čaj 0,4 l",
+  "restaurant": "prazirna-pul-hrnku",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Černý čaj s citronem a medovým sirupem, vychlazený a ještě trochu snový.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-ph-ledovy-caj",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 80
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Fazolová polévka se slaninou",
+  "section": "Z hrnce",
+  "price": 10900,
+  "recipe": "fazolova-polevka",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 50,
+  "description": "Bílé fazole, slanina, majoránka a kapka octa. Hustá, sytá, uvařená za půl hodiny.",
+  "about": [
+    "Fazolová polévka z plechovky vznikla pro ty, kdo nechtějí přes noc namáčet. Bílé fazole, slanina a zelenina se vaří půl hodiny a polovinu polévky rozmixuješ, aby zhoustla. Ocet na závěr ji ozdobí.",
+    "Plechovka fazolí je nejtišší záchrana v kuchyni. V našem bistru je smyšlená stejně jako zbytek, ale tvůj hrnec bude voňet doopravdy."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší 0,3 l",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická 0,45 l",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "chleb",
+          "name": "Chlebová miska",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "chlebova-dutina",
+  "image": "dish-fazolova-polevka-chlebova-dutina",
+  "allergens": [
+    9
+  ]
+}

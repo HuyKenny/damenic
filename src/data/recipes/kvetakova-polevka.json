@@ -1,0 +1,121 @@
+{
+  "title": "Květáková polévka",
+  "keywords": [
+    "květáková polévka",
+    "krémová květáková polévka",
+    "květáková polévka recept",
+    "květáková polévka se smetanou"
+  ],
+  "image": "dish-kvetakova-polevka-chlebova-dutina",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Květáková polévka je jemná krémová polévka z jediné hlávky, hotová za 40 minut. Těžké je udržet ji bílou a nepřevařit, aby nezačala vonět po síře. Muškátový oříšek a špetka citronu jí dodají kulatou chuť.",
+  "ingredients": [
+    {
+      "ingredient": "kvetak",
+      "amount": 700,
+      "unit": "g",
+      "note": "růžičky a oloupaný košťál"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 800,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva na dochucení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozpusť máslo a na mírném plameni 4 minuty restuj cibuli, nesmí zhnědnout, aby polévka zůstala světlá."
+    },
+    {
+      "text": "Přidej brambory a květák, zalij vývarem a přiveď k varu. Přikryj a vař 15 až 18 minut, dokud květák i brambory nezměknou pod vidličkou."
+    },
+    {
+      "text": "Polévku rozmixuj ponorným mixérem do hladka. Pokud je moc hustá, přilij vývar nebo vodu po 50 ml."
+    },
+    {
+      "text": "Vlij smetanu, přidej muškátový oříšek, sůl a pepř a prohřej bez varu. Dochuť pár kapkami citronové šťávy."
+    },
+    {
+      "text": "Podávej posypané petrželkou. Dobře ladí s opečeným chlebem nebo žemlovými krutony."
+    }
+  ],
+  "tips": [
+    "Květák vař jen do změknutí. Dlouhé vaření (přes 25 minut) uvolní sirné látky, polévka začne štípavě zapáchat.",
+    "Citron nejen osvěží, ale i vyrovná sladkost květáku.",
+    "V lednici vydrží 3 dny, zamrazit ji jde na 2 až 3 měsíce bez smetany. Po rozmrazení ji prošlehej.",
+    "Práce je 15 minut, vaření 25 minut bez dozoru."
+  ],
+  "substitutions": [
+    "Máslo můžeš nahradit olivovým olejem a smetanu ovesnou nebo kokosovou, polévka bude veganská.",
+    "Část květáku zastoupí brokolice nebo celer, chuť bude výraznější."
+  ],
+  "faq": [
+    {
+      "q": "Proč květáková polévka zapáchá?",
+      "a": "Dlouhým vařením květák uvolňuje sirné látky. Vař ho 15 až 18 minut jen do změknutí a polévku hned rozmixuj."
+    },
+    {
+      "q": "Čím zahustit květákovou polévku?",
+      "a": "Bramborou vařenou s květákem. Po rozmixování polévku zahustí bez mouky. Případně polévku chvíli vař bez poklice."
+    },
+    {
+      "q": "Jak dlouho vydrží květáková polévka a jde zamrazit?",
+      "a": "V lednici vydrží 3 dny, zamrazit ji můžeš na 2 až 3 měsíce, nejlépe bez smetany. Po rozmrazení ji prošlehej."
+    }
+  ]
+}

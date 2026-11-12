@@ -1,0 +1,126 @@
+{
+  "title": "Bezinková limonáda s bezinkovým sirupem",
+  "keywords": [
+    "bezinkový sirup recept",
+    "bezinková limonáda",
+    "bezinkový sirup z květů",
+    "domácí bezinkový sirup"
+  ],
+  "image": "dish-bezinkova-limonada-nedoslazeno",
+  "category": "napoje",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 30,
+  "cookMinutes": 5,
+  "waitMinutes": 1440,
+  "waitLabel": "louhování v lednici",
+  "difficulty": "střední",
+  "intro": "Bezinková limonáda se dělá z domácího bezinkového sirupu, který se louhuje 24 hodin v lednici. Recept obsahuje výrobu sirupu z květů černého bezu s kyselinou citronovou i zředění na limonádu. U sirupu je důležité správné uskladnění, proto je v receptu uvedená trvanlivost.",
+  "ingredients": [
+    {
+      "ingredient": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na sirup",
+      "group": "Bezinkový sirup (asi 1,3 l)"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1000,
+      "unit": "g",
+      "group": "Bezinkový sirup (asi 1,3 l)"
+    },
+    {
+      "ingredient": "bezove-kvety",
+      "amount": 20,
+      "unit": "ks",
+      "note": "celé úbory, nestříkané, mimo silnice",
+      "group": "Bezinkový sirup (asi 1,3 l)"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na plátky",
+      "group": "Bezinkový sirup (asi 1,3 l)"
+    },
+    {
+      "ingredient": "kyselina-citronova",
+      "amount": 30,
+      "unit": "g",
+      "group": "Bezinkový sirup (asi 1,3 l)"
+    },
+    {
+      "ingredient": "perliva-voda",
+      "amount": 1200,
+      "unit": "ml",
+      "note": "vychlazená",
+      "group": "Limonáda (6 sklenic)"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "plátky na ozdobu",
+      "group": "Limonáda (6 sklenic)"
+    },
+    {
+      "ingredient": "led",
+      "amount": 300,
+      "unit": "g",
+      "group": "Limonáda (6 sklenic)"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na ozdobu",
+      "group": "Limonáda (6 sklenic)"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Sirup",
+      "text": "Květy opatrně protřepej venku, ať vypadnou broučci, a neopírej je. Nemyj je, zničil bys pyl. Citrony nakrájej na plátky."
+    },
+    {
+      "section": "Sirup",
+      "text": "Vodu přiveď k varu, rozpusť v ní cukr a míchej, dokud není čirá. Sundej z plamene a nech vychladnout na asi 40 °C."
+    },
+    {
+      "section": "Sirup",
+      "text": "Do velké nádoby dej květy a plátky citronu, přisyp kyselinu citronovou a zalij vlažným sirupem. Přikryj a nech 24 hodin louhovat v lednici."
+    },
+    {
+      "section": "Sirup",
+      "text": "Sirup přeceď přes plátýnko do kastrolu a krátce ho zahřej na 80 °C. Nevař, ztratil by vůni. Horký nalej do čistých vyvařených lahví a hned zavři."
+    },
+    {
+      "section": "Limonáda",
+      "text": "Do každé sklenice dej led, plátek citronu a 50 ml sirupu. Dolij asi 200 ml perlivé vody a promíchej. Ozdob mátou a podávej hned."
+    }
+  ],
+  "tips": [
+    "Trvanlivost sirupu: pasterovaný na 80 °C a zavřený horký do vyvařených lahví vydrží na tmavém chladném místě až 6 měsíců, jednou otevřený patří do lednice a spotřebuj ho do 3 týdnů.",
+    "Pozná se zkažený sirup: kvasí, zakaluje a má zvláštní vůni. Takový vylij.",
+    "Sirup do limonády ředíš zhruba 1:4, pro slabší verzi 1:6."
+  ],
+  "substitutions": [
+    "Pokud nemáš čerstvé květy, použij sušené, zhruba 15 g.",
+    "Cukr nahraď 700 g cukru plus 100 ml medu pro jemnější chuť."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží domácí bezinkový sirup?",
+      "a": "Při pasteraci na 80 °C a zavření do vyvařených lahví vydrží na chladném, tmavém místě až 6 měsíců. Otevřený patří do lednice a spotřebuj ho do 3 týdnů."
+    },
+    {
+      "q": "Proč se do bezinkového sirupu dává kyselina citronová?",
+      "a": "Okyseluje sirup a pomáhá mu s uchováním i s barvou. Bez ní sirup rychleji kvasí a chutná plošeji."
+    },
+    {
+      "q": "Kdy se trhají květy bezu a jak je poznám?",
+      "a": "Květy černého bezu rozkvétají v květnu a červnu, trhej je za sucha a mimo silnice. Květy mají být čerstvě rozkvetlé, bílé a voňavé, ne hnědé."
+    }
+  ]
+}

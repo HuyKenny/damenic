@@ -1,0 +1,17 @@
+{
+  "name": "Šlehačka a oříšky",
+  "section": "Přísady navíc",
+  "price": 3500,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 40,
+  "description": "Lžíce šlehačky a hrst vlašských ořechů. Navrch na vše.",
+  "about": [],
+  "kind": "side",
+  "restaurant": "zmrzlinovy-bar-posledni-lzicka",
+  "image": "dish-slehacka-a-orisky",
+  "allergens": [
+    7,
+    8
+  ]
+}

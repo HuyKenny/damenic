@@ -1,0 +1,18 @@
+{
+  "name": "Banánový chlebíček",
+  "restaurant": "kavarna-dopiju-zitra",
+  "kind": "dessert",
+  "section": "K tomu",
+  "description": "Vláčný chlebíček z přezrálých banánů s kůrčičkou, ke kávě jako stvořený.",
+  "about": [],
+  "price": 7900,
+  "image": "dish-dz-banany-chlebicek",
+  "recipe": null,
+  "vegetarian": true,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 50
+}

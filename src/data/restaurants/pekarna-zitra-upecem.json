@@ -1,0 +1,38 @@
+{
+  "name": "Pekárna Zítra upečem",
+  "category": "pekarna",
+  "cuisine": "Máslové pečivo, focaccia a kynuté rolky",
+  "tagline": "Pec je rozpálená od půl sedmé. Pečivo ale zůstává ve výloze.",
+  "description": "Máslové croissanty, focaccia s rozmarýnem a skořicové rolky. Celá pekárna je smyšlená, takže vůně zůstane v receptu a k tobě nedorazí ani drobek. Pec ale můžeš rozpálit sám, těsto na to čeká.",
+  "etaMinutes": 25,
+  "deliveryFee": 2900,
+  "minOrder": 14900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "06:30",
+    "close": "17:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa",
+    "rodinné porce"
+  ],
+  "promo": {
+    "type": "free-delivery",
+    "label": "Dopravné 0 Kč"
+  },
+  "logo": {
+    "text": "ZU",
+    "color": "#9A4A12",
+    "ink": "light"
+  },
+  "sections": [
+    "Máslové a slané",
+    "Sladké kynuté",
+    "K pečivu",
+    "Nápoje"
+  ],
+  "order": 200,
+  "isNew": true,
+  "cover": "rest-pekarna-zitra-upecem"
+}

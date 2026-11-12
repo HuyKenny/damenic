@@ -1,0 +1,16 @@
+{
+  "name": "Mléčný koktejl vanilkový",
+  "section": "Nápoje",
+  "price": 8900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 60,
+  "description": "Vanilka, mléko a led v jednom vysokém kelímku. Slámka je zdarma.",
+  "about": [],
+  "kind": "drink",
+  "restaurant": "zmrzlinovy-bar-posledni-lzicka",
+  "image": "dish-mlecny-koktejl-vanilkovy",
+  "allergens": [
+    7
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Domácí ovesné latte",
+  "keywords": [
+    "domácí ovesné latte",
+    "ovesné mléko recept",
+    "ovesné latte",
+    "ovesné mléko doma"
+  ],
+  "image": "dish-domaci-ovesne-latte",
+  "category": "kavarna",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 2,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Domácí ovesné latte pro dva z 80 g ovesných vloček, 500 ml studené vody a dvojitého espressa. Ovesné mléko se mixuje jen 30 vteřin a ze studené vody, jinak se uvolní škrob a mléko je slizké.",
+  "ingredients": [
+    {
+      "ingredient": "ovesne-vlocky",
+      "amount": 80,
+      "unit": "g",
+      "note": "jemné vločky"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 500,
+      "unit": "ml",
+      "note": "ledově studená"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "javorovy-sirup",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "volitelně"
+    },
+    {
+      "ingredient": "kava-mleta",
+      "amount": 36,
+      "unit": "g",
+      "note": "čerstvě namletá, na dvě dvojitá espressa"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do mixéru dej 80 g jemných vloček, 500 ml ledově studené vody, špetku soli a případně lžíci javorového sirupu."
+    },
+    {
+      "text": "Mixuj nejvýš 30 vteřin. Delší mixování zahřeje směs a uvolní škrob, mléko by pak bylo slizké."
+    },
+    {
+      "text": "Směs přelij přes jemné sítko nebo plátno do džbánu, nemačkej a nech volně odkapat, vznikne asi 400 ml mléka."
+    },
+    {
+      "text": "Z 36 g kávy připrav dvě dvojitá espressa po asi 40 ml do dvou šálků."
+    },
+    {
+      "text": "Ovesné mléko ohřej na 60 až 65 °C, nad 70 °C se může srazit. Napěň je napěňovačem a rozlij do šálků s espressem."
+    }
+  ],
+  "tips": [
+    "Domácí ovesné mléko se hůř pění než barista nápoje, ale chuť je jemná.",
+    "Hotové mléko uchovávej zavřené v lednici maximálně 3 dny.",
+    "Před použitím protřepej, vločky se usazují."
+  ],
+  "substitutions": [
+    "Hotový ovesný nápoj barista lze použít místo domácího.",
+    "Sirup nahradíš datlí rozmixovanou s vločkami."
+  ],
+  "faq": [
+    {
+      "q": "Proč je domácí ovesné mléko slizké?",
+      "a": "Z vloček se uvolnil škrob, protože se mixovalo dlouho nebo z teplé vody. Mixuj max 30 vteřin ze studené vody a nemačkej při cezení."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí ovesné mléko?",
+      "a": "V uzavřené láhvi v lednici vydrží zhruba 3 dny. Před použitím ho protřepej."
+    },
+    {
+      "q": "Dá se domácí ovesné mléko napěnit?",
+      "a": "Částečně. Pěna je řidší než u barista nápojů, ale ručním napěňovačem se lehká pěna vytvořit dá."
+    }
+  ]
+}

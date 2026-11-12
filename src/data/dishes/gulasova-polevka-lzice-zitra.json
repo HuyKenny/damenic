@@ -1,0 +1,53 @@
+{
+  "name": "Gulášová polévka z hovězího",
+  "section": "Hustší",
+  "price": 12900,
+  "recipe": "gulasova-polevka",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 30,
+  "description": "Hovězí zadní a hodně cibule ve sladké paprice, s bramborami na lžíci.",
+  "about": [
+    "Gulášová polévka vznikla z nápadu, že guláš by se mohl jíst lžící. Hodně cibule se rozpustí do základu, sladká paprika dodá barvu a hovězí zadní se po hodině vaření rozpadá. Nic složitého, jen je potřeba vydržet.",
+    "Papriku sypej mimo plamen, jinak zhořkne. A pokud ti hrnec něco připálí, naše polévkárna se ti zasměje jen z dálky. Recept je tu, nanečisto zadarmo."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší 0,3 l",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická 0,45 l",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "chleb",
+          "name": "Krajíc chleba",
+          "priceDelta": 1900
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "lzice-zitra",
+  "image": "dish-gulasova-polevka-lzice-zitra",
+  "allergens": []
+}

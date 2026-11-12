@@ -1,0 +1,62 @@
+{
+  "name": "Ledová matcha latte",
+  "restaurant": "matcharna-jeste-slehame",
+  "kind": "main",
+  "section": "Matcha",
+  "description": "Prošlehaná matcha, led a studené mléko, zelená do poloviny sklenice.",
+  "about": [
+    "Ledová matcha latte je nejrychlejší způsob, jak z prášku udělat letní nápoj. Matcha se nejdřív rozšlehá v malém množství teplé vody, aby se rozpustila, a pak se zalije studeným mlékem přes led.",
+    "Bez rozšlehání by se v mléku udělaly hrudky, a ty nic nezachrání. Zelená vrstva a bílá vrstva se pěkně promíchají lžičkou. Led ti ve smyšleném bytě nic nezkazí."
+  ],
+  "price": 9500,
+  "image": "dish-ledova-matcha-latte",
+  "recipe": "ledova-matcha-latte",
+  "optionGroups": [
+    {
+      "id": "mleko",
+      "name": "Mléko",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kravske",
+          "name": "Kravské",
+          "priceDelta": 0
+        },
+        {
+          "id": "ovesne",
+          "name": "Ovesné",
+          "priceDelta": 1000
+        },
+        {
+          "id": "kokosove",
+          "name": "Kokosové",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "javor",
+          "name": "Javorový sirup",
+          "priceDelta": 1000
+        },
+        {
+          "id": "pena",
+          "name": "Mléčná pěna navrch",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    7
+  ],
+  "order": 20
+}

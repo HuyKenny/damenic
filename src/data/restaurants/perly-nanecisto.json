@@ -1,0 +1,33 @@
+{
+  "name": "Bubble Tea Perly Nanečisto",
+  "category": "matcha",
+  "cuisine": "Bubble tea a japonské sladkosti",
+  "tagline": "Perly jsou uvařené. Brčko ti nikdo nepodá.",
+  "description": "Mléčný bubble tea s perlami v hnědém cukru, chai latte plné koření a měkké mochi s fazolovou pastou. Bar je smyšlený a nic nezahřeje, ale recepty z jeho menu jsou skutečné.",
+  "etaMinutes": 25,
+  "deliveryFee": 3500,
+  "minOrder": 14900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "10:00",
+    "close": "19:00"
+  },
+  "tags": [
+    "bez masa"
+  ],
+  "logo": {
+    "text": "PN",
+    "color": "#E58FB4",
+    "ink": "dark"
+  },
+  "sections": [
+    "Bubble tea",
+    "Čajové latte",
+    "Sladké",
+    "Nápoje"
+  ],
+  "order": 203,
+  "isNew": true,
+  "cover": "rest-perly-nanecisto",
+  "pickup": true
+}

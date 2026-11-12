@@ -1,0 +1,92 @@
+{
+  "title": "Zelené smoothie",
+  "keywords": [
+    "zelené smoothie",
+    "smoothie recepty",
+    "smoothie recept",
+    "zelené smoothie se špenátem"
+  ],
+  "image": "dish-zelene-smoothie-vymackame",
+  "category": "napoje",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Zelené smoothie ze špenátu, banánu, jablka a zázvoru chutná po ovoci, ne po trávě. Je veganské, hotové za 10 minut a klíčem je mixovat špenát s tekutinou nejdřív, aby ve sklenici nezůstaly žádné lístky.",
+  "ingredients": [
+    {
+      "ingredient": "spenat-baby",
+      "amount": 60,
+      "unit": "g",
+      "note": "zhruba dvě hrsti"
+    },
+    {
+      "ingredient": "banan",
+      "amount": 1,
+      "unit": "ks",
+      "note": "zralý"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 1,
+      "unit": "ks",
+      "note": "sladké, bez jádřince"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "oloupaný"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen šťáva"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "note": "studená"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Špenát propláchni a nech okapat. Jablko vyjmi jádřinec a nakrájej na kousky, zázvor oloupej."
+    },
+    {
+      "text": "Do mixéru dej nejdřív vodu a špenát a mixuj 30 sekund, dokud nezůstane jediný kousek listu."
+    },
+    {
+      "text": "Přidej banán, jablko, zázvor a šťávu z limetky. Mixuj dalších 45 sekund, dokud není smoothie hladké."
+    },
+    {
+      "text": "Ochutnej, případně přidej kousek jablka na sladkost nebo trochu limetky na svěžest. Rozlij do dvou sklenic a pij hned."
+    }
+  ],
+  "tips": [
+    "Špenát mixuj vždy první s tekutinou, jinak se mixér mezi listy rozjede a nechá hrudky.",
+    "Pro studenější nápoj dej banán předem na kousky do mrazáku."
+  ],
+  "substitutions": [
+    "Místo špenátu vezmi mladý kapustový list nebo salát, chuť bude trochu hořčí.",
+    "Limetku nahraď citronem, vodu kokosovou vodou nebo ovesným nápojem."
+  ],
+  "faq": [
+    {
+      "q": "Chutná zelené smoothie po špenátu?",
+      "a": "Při tomto poměru ne. Banán a jablko chuť špenátu přebijí a zbyde jen mírně zemitý tón, který zázvor a limetka překryjí."
+    },
+    {
+      "q": "Mohu zelené smoothie připravit večer předem?",
+      "a": "Vydrží přes noc v lednici v dobře uzavřené lahvi, ale sedne si a ztmavne. Před pitím protřepej, nejlepší chuť má čerstvé."
+    },
+    {
+      "q": "Je mražený špenát stejný jako čerstvý?",
+      "a": "Pro smoothie se hodí dobře, je dokonce studenější. Použij asi 50 g bez rozmrazení a přidej o trochu víc vody."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "title": "Buřtguláš",
+  "keywords": [
+    "buřtguláš",
+    "buřtguláš recept",
+    "buřtguláš s bramborami",
+    "jak udělat buřtguláš"
+  ],
+  "image": "dish-burtgulas-pivnice",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Buřtguláš je rychlý guláš ze špekáčků, cibule a brambor, hotový za 55 minut pro čtyři porce. Nepotřebuje několikahodinové dušení jako hovězí guláš, ale musí mít spoustu cibule a papriku, kterou nesmíš spálit.",
+  "steps": [
+    {
+      "text": "Na sádle zpěň cibuli na středním plameni 8 až 10 minut dozlatova, občas promíchej."
+    },
+    {
+      "text": "Přidej kmin a česnek, po půl minutě stáhni pánev z plamene, vmíchej papriku a rajčatový protlak. Sladká paprika při vysoké teplotě hořkne."
+    },
+    {
+      "text": "Přilij vodu, přidej bobkový list a majoránku a vař 10 minut."
+    },
+    {
+      "text": "Přidej brambory a vař dalších 15 minut, dokud nezačnou měknout."
+    },
+    {
+      "text": "Přidej špekáčky, osol, opepři a vař ještě 10 minut. Brambory mají být měkké a omáčka zahuštěná z části rozvařenými bramborami."
+    },
+    {
+      "text": "Podávej s chlebem a nakládanou okurkou."
+    }
+  ],
+  "tips": [
+    "Špekáčky nakrájej tlustě, aby se ve vaření nerozpadly. Dříve se nevaří, protože by pustily tuk a ztvrdly.",
+    "Na pěknou hustotu rozmačkej vidličkou pár kousků brambor v omáčce.",
+    "Guláš je lepší druhý den."
+  ],
+  "substitutions": [
+    "Špekáčky nahraď klobásou, uzenými párky nebo debrecínkami.",
+    "Místo sádla použij olej, chuť bude lehčí.",
+    "Pro pálivější verzi přidej chilli nebo špetku pálivé papriky."
+  ],
+  "faq": [
+    {
+      "q": "Co je buřtguláš?",
+      "a": "Guláš, kde místo dušeného masa jsou uzené klobásy, tedy buřty. Vaří se kratší dobu než hovězí guláš a obvykle s bramborami."
+    },
+    {
+      "q": "Jak zahustit buřtguláš?",
+      "a": "Brambory se z části rozvaří a omáčku zahustí samy. Pokud je řídká, rozmačkej vidličkou pár kousků nebo vař chvíli bez poklice."
+    },
+    {
+      "q": "Dá se buřtguláš ohřívat?",
+      "a": "Ano, druhý den je chuťově lepší. Ohřívej pomalu za stálého míchání a dolij trochu vody."
+    }
+  ],
+  "category": "ceska",
+  "ingredients": [
+    {
+      "ingredient": "spekacky",
+      "amount": 400,
+      "unit": "g",
+      "note": "na silnější kolečka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 500,
+      "unit": "g",
+      "note": "na kostky 2 cm"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisované"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 700,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ]
+}

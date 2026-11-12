@@ -1,0 +1,41 @@
+{
+  "name": "Vanilková zmrzlina",
+  "section": "Kopečky",
+  "price": 5900,
+  "recipe": "vanilkova-zmrzlina",
+  "vegetarian": true,
+  "order": 10,
+  "description": "Tři kopečky ze žloutků, smetany a pravého vanilkového lusku.",
+  "about": [
+    "Vanilková zmrzlina je první, co si dáš, a poslední, co ti nikdy nevadí. Stojí na krému ze žloutků, který se vaří jen do 82 °C, a na luscích, které nejdou nahradit ničím jiným.",
+    "Čas je tu hlavní surovina: čtyři hodiny v lednici, čtyři v mrazáku. Doručení by ji stejně roztálo."
+  ],
+  "kind": "main",
+  "restaurant": "zmrzlinarna-led-ledem",
+  "image": "dish-vanilkova-zmrzlina",
+  "allergens": [
+    3,
+    7
+  ],
+  "featured": true,
+  "optionGroups": [
+    {
+      "id": "kopecky",
+      "name": "Počet kopečků",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "3",
+          "name": "3 kopečky",
+          "priceDelta": 0
+        },
+        {
+          "id": "5",
+          "name": "5 kopečků",
+          "priceDelta": 3000
+        }
+      ]
+    }
+  ]
+}

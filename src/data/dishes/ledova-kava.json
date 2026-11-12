@@ -1,0 +1,57 @@
+{
+  "name": "Ledová káva s mlékem",
+  "restaurant": "kavarna-dopiju-zitra",
+  "kind": "main",
+  "section": "Studené",
+  "description": "Silná káva přes led, studené mléko a špetka sladkosti, v zimě i v létě.",
+  "about": [
+    "Ledová káva vypadá jako nejjednodušší nápoj na světě, a přitom bývá vodnatá, protože led zředí slabou kávu. Proto se v kavárně nalévá silný koncentrát a led se počítá do receptu jako ingredience.",
+    "Mléko dodá sladkost a krémovost, sirup je volitelný. Led v téhle verzi roztává pomalu a káva nezvodnatí. Za pár minut ji uděláš doma, doručení by trvalo déle a stejně se nekoná."
+  ],
+  "price": 8500,
+  "image": "dish-ledova-kava",
+  "recipe": "ledova-kava",
+  "optionGroups": [
+    {
+      "id": "mleko",
+      "name": "Mléko",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kravske",
+          "name": "Kravské",
+          "priceDelta": 0
+        },
+        {
+          "id": "ovesne",
+          "name": "Ovesné",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "sirup-karamel",
+          "name": "Karamelový sirup",
+          "priceDelta": 1200
+        },
+        {
+          "id": "smetana",
+          "name": "Šlehačka",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    7
+  ],
+  "order": 30
+}

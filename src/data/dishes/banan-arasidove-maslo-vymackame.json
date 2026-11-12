@@ -1,0 +1,17 @@
+{
+  "name": "Banán s arašídovým máslem",
+  "restaurant": "dzusbar-vymackame-zitra",
+  "kind": "side",
+  "section": "Přídavky",
+  "description": "Půlený banán, arašídové máslo a špetka soli. Svačina z nouze i radosti.",
+  "price": 4900,
+  "image": "dish-banan-arasidove-maslo-vymackame",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    5
+  ],
+  "order": 50,
+  "about": []
+}

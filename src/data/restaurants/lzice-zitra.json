@@ -1,0 +1,37 @@
+{
+  "name": "Polévkárna Lžíce zítra",
+  "category": "polevky",
+  "cuisine": "Domácí polévky na lžíci",
+  "tagline": "Lžíce je připravená. Polévka dorazí, až ji uvaříš.",
+  "description": "Čočková, zelňačka, gulášová a další hustší polévky, na kterých stojí český oběd. Polévkárna je smyšlená, takže ti nic nenaleje a lžíce zůstane čistá. Hrnec ale najdeš u sebe v kuchyni.",
+  "etaMinutes": 25,
+  "deliveryFee": 2900,
+  "minOrder": 14900,
+  "priceLevel": 1,
+  "hours": {
+    "open": "10:30",
+    "close": "19:00"
+  },
+  "pickup": true,
+  "tags": [
+    "rodinné porce"
+  ],
+  "promo": {
+    "type": "free-delivery",
+    "label": "Dopravné 0 Kč"
+  },
+  "isNew": true,
+  "logo": {
+    "text": "LZ",
+    "color": "#B5532A",
+    "ink": "light"
+  },
+  "sections": [
+    "Hustší",
+    "Lehké",
+    "K polévce",
+    "Nápoje"
+  ],
+  "order": 270,
+  "cover": "rest-lzice-zitra"
+}

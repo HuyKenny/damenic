@@ -1,0 +1,16 @@
+{
+  "name": "Čokoládová poleva navíc",
+  "section": "Přísady navíc",
+  "price": 2900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 50,
+  "description": "Teplá hořká čokoláda ve džbánku. Dolévá se samo, když se nedíváš.",
+  "about": [],
+  "kind": "side",
+  "restaurant": "zmrzlinovy-bar-posledni-lzicka",
+  "image": "dish-cokoladova-poleva-navic",
+  "allergens": [
+    7
+  ]
+}

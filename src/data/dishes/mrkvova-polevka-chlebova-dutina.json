@@ -1,0 +1,41 @@
+{
+  "name": "Krémová polévka z pečené mrkve",
+  "section": "Krémové",
+  "price": 11900,
+  "recipe": "kremova-polevka-z-pecene-mrkve",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "order": 40,
+  "description": "Mrkev upečená do karamelu, zázvor a kokosové mléko. Veganská a sladká.",
+  "about": [
+    "Pečená mrkev je jiná než vařená: hnědne, sladne a voní po karamelu. Z plechu putuje do hrnce, kde ji zázvor osvěží a kokosové mléko zakulatí. Výsledek je oranžový krém bez jediného mléčného produktu.",
+    "Pečení trvá 40 minut a během něj nemusíš nic dělat. Přesně tak funguje i naše bistro: v kuchyni se zatím nic neděje."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší 0,3 l",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická 0,45 l",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "chlebova-dutina",
+  "image": "dish-mrkvova-polevka-chlebova-dutina",
+  "allergens": [
+    9
+  ]
+}

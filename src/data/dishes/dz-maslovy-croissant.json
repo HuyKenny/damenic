@@ -1,0 +1,17 @@
+{
+  "name": "Máslový croissant",
+  "restaurant": "kavarna-dopiju-zitra",
+  "kind": "side",
+  "section": "K tomu",
+  "description": "Listové těsto, které křupe do klína. Džem je na straně, klín je tvůj.",
+  "about": [],
+  "price": 6900,
+  "image": "dish-dz-maslovy-croissant",
+  "recipe": null,
+  "vegetarian": true,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 60
+}

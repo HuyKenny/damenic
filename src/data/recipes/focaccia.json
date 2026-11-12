@@ -1,0 +1,108 @@
+{
+  "title": "Focaccia s rajčaty a rozmarýnem",
+  "keywords": [
+    "focaccia recept",
+    "domácí focaccia",
+    "focaccia s rajčaty",
+    "italský chléb focaccia"
+  ],
+  "image": "dish-focaccia-s-rajcaty-a-rozmarynem",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 25,
+  "waitMinutes": 165,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "snadné",
+  "intro": "Focaccia recept na plech 25 x 35 cm s vysokou hydratací: těsto je lepivé, ale skoro se nehněte. Povrch je prolitý olivovým olejem, spodek křupavý a střídka měkká s velkými dírami. Hodí se i pro začátečníky, protože o práci rozhoduje hlavně čas.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 375,
+      "unit": "ml",
+      "note": "vlažná"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 15,
+      "unit": "g",
+      "note": "čerstvé, rozdrobené"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 12,
+      "unit": "g",
+      "note": "z toho 1 lžička na povrch"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 100,
+      "unit": "ml",
+      "note": "3 lžíce do těsta, zbytek na plech a povrch"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 150,
+      "unit": "g",
+      "note": "půlená"
+    },
+    {
+      "ingredient": "rozmaryn",
+      "amount": 5,
+      "unit": "g",
+      "note": "natrhaný"
+    },
+    {
+      "ingredient": "olivy",
+      "amount": 50,
+      "unit": "g",
+      "note": "volitelně, bez pecek"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do velké mísy dej mouku a sůl, přidej vodu s rozdrobeným droždím a 3 lžíce oleje. Míchej 3 až 5 minut vlhkou rukou, dokud není těsto lepivá hladká hmota. Zakryj a nech 30 minut odpočinout."
+    },
+    {
+      "text": "Těsto za mísou třikrát přeložit: sáhni pod okraj, natáhni a přelož ke středu, mísu otáčej. Vždy po 30 minutách, celkem 3 skládání. První kynutí trvá asi 2 hodiny, těsto má být nafouklé a plné bublinek."
+    },
+    {
+      "text": "Plech vymaž olejem (asi 3 lžíce), těsto přesuň na plech a prsty namočenými v oleji jemně natahuj k okrajům. Pokud se vrací, nech 10 minut odpočinout a zkus znovu. Nech 45 minut kynout."
+    },
+    {
+      "text": "Troubu předehřej na 220 °C. Prsty namočenými v oleji udělej do těsta hluboké důlky až ke dnu plechu, do nich vtlač půlená rajčata, rozmarýn a případně olivy. Pokrop zbylým olejem a posyp lžičkou soli."
+    },
+    {
+      "text": "Peč 22 až 25 minut ve spodní třetině trouby, dokud není povrch zlatohnědý a spodek křupavý (poklep zní dutě). Po upečení nech 5 minut na plechu, pak přendej na mřížku, ať spodek nezvlhne."
+    }
+  ],
+  "tips": [
+    "Těsto je lepivé schválně. Místo mouky používej olej na rukou a stěrku.",
+    "Přes noc v lednici (12 až 18 hodin) získáš hlubší chuť. Ráno těsto na plechu nech 1 hodinu ohřát a pokračuj od důlků.",
+    "Rozmarýn dávej až do důlků, ne na povrch, kde by se spálil."
+  ],
+  "substitutions": [
+    "Rozmarýn lze nahradit tymiánem nebo sušeným oreganem (1 lžička).",
+    "Cherry rajčata za cibuli nakrájenou na plátky nebo za nakrájenou mozzarellu."
+  ],
+  "faq": [
+    {
+      "q": "Proč je těsto na focaccii tak lepivé?",
+      "a": "Má vysokou hydrataci, přibližně 75 % vody vůči mouce. To je záměr, díky tomu vzniknou velké dírky ve střídce. Pracuj s mokrýma rukama a olejem, mouku nepřisýpej."
+    },
+    {
+      "q": "Jak poznám, že je focaccia upečená?",
+      "a": "Povrch je zlatohnědý, okraje tmavší a spodek křupavý. Když na spodek poklepeš, zní dutě. V jádru má pečivo mít asi 95 °C."
+    },
+    {
+      "q": "Může focaccia kynout v lednici přes noc?",
+      "a": "Ano, a vyplatí se. Těsto po složení přikryj a dej na 12 až 18 hodin do lednice. Před pečením ho nech na plechu zahřát a nakynout asi hodinu."
+    }
+  ]
+}

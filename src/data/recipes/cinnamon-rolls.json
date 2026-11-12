@@ -1,0 +1,147 @@
+{
+  "title": "Cinnamon rolls (skořicové rolky)",
+  "keywords": [
+    "cinnamon rolls recept",
+    "skořicové rolky",
+    "cinnamon rolls",
+    "kynuté skořicové šneky"
+  ],
+  "image": "dish-skoricova-rolka-s-polevou",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 35,
+  "cookMinutes": 22,
+  "waitMinutes": 100,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "intro": "Cinnamon rolls recept: osm měkkých skořicových rolek z kynutého těsta se skořicovo-máslovou náplní a smetanovou polevou. Rozhoduje měkké těsto, které nepřisypáváš moukou, a pečení do zlatova, ne do hněda. Jinak vyschnou.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 450,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 220,
+      "unit": "ml",
+      "note": "vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 25,
+      "unit": "g",
+      "note": "čerstvé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "rozpuštěné a vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 6,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "měkké",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 100,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 100,
+      "unit": "g",
+      "note": "pokojové teploty",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "měkké",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozmíchej ve vlažném mléce s lžící cukru z odvážených 50 g a nech 10 minut nakynout. Přidej mouku, zbytek cukru, vejce, rozpuštěné máslo a sůl. Hnětej 8 až 10 minut, dokud není těsto hladké, měkké a lehce lepivé."
+    },
+    {
+      "text": "Těsto nech v mísce zakryté utěrkou kynout asi 1 hodinu, dokud nezdvojnásobí objem."
+    },
+    {
+      "text": "Smíchej měkké máslo (80 g) s třtinovým cukrem a skořicí. Těsto rozválej na obdélník asi 30 x 40 cm, natři ho celé náplní a pevně srolujte z delší strany. Roládu nakrájej na 8 stejných kusů."
+    },
+    {
+      "text": "Rolky ulož řezem nahoru do vymazané formy asi 24 x 24 cm nebo do koláčové formy o průměru 26 cm, zakryj a nech 40 minut kynout. Troubu předehřej na 180 °C."
+    },
+    {
+      "text": "Peč 20 až 22 minut do světle zlaté barvy. Střed rolky musí mít 88 až 90 °C, okraje nesmí být tmavé. Mezitím rozmíchej smetanový sýr, máslo a cukr moučku do hladké polevy."
+    },
+    {
+      "text": "Rolky nech 5 až 10 minut vychladnout a teplé pomaž polevou. Jedz co nejdřív, nejlepší jsou do 2 hodin."
+    }
+  ],
+  "tips": [
+    "Těsto pořádně vykynuté a měkké. Pokud se lepí, přidej lžíci mouky, víc ne, jinak budou rolky suché.",
+    "K dělení rolky použij zubní nit nebo zvlhčený nůž, aby se nezmáčkly.",
+    "Po upečení pokaždé přikryj utěrkou, ať nevyschnou."
+  ],
+  "substitutions": [
+    "Smetanový sýr lze nahradit mascarpone nebo hrubým tvarohem rozmixovaným s cukrem.",
+    "Skořici za směs skořice a kardamomu (2 lžičky skořice, 0,5 lžičky kardamomu)."
+  ],
+  "faq": [
+    {
+      "q": "Proč jsou skořicové rolky tvrdé a suché?",
+      "a": "Jsou přepečené nebo moc mouky v těstě. Peč jen do světle zlaté barvy a těsto nech měkké, trochu lepivé."
+    },
+    {
+      "q": "Dají se cinnamon rolls připravit večer předem?",
+      "a": "Ano. Po navinutí a nakrájení rolky ulož do formy, zakryj a dej na noc do lednice. Ráno je nech asi 45 minut ohřát při pokojové teplotě a pak peč."
+    },
+    {
+      "q": "Kdy dát polevu na skořicové rolky?",
+      "a": "Až po 5 až 10 minutách chladnutí. Na horké by se poleva rozpustila a stekla, na úplně studené by se hůř roztírala."
+    }
+  ]
+}

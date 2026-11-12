@@ -1,0 +1,17 @@
+{
+  "name": "Zázvorová limonáda 0,4 l",
+  "restaurant": "chlebova-dutina",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Citron, zázvor a bublinky, které se šumí jen v tvé představě.",
+  "price": 4900,
+  "image": "dish-limonada-chlebova-dutina",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 210,
+  "about": []
+}

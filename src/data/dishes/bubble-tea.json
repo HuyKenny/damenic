@@ -1,0 +1,58 @@
+{
+  "name": "Bubble tea s hnědým cukrem",
+  "restaurant": "perly-nanecisto",
+  "kind": "main",
+  "section": "Bubble tea",
+  "description": "Mléčný černý čaj s tapiokovými perlami v karamelovém sirupu z hnědého cukru.",
+  "about": [
+    "Bubble tea vznikl na Tchaj-wanu a jeho největší hvězdou jsou tapiokové perly, žvýkavé kuličky na dně sklenice. Tady jsou nasáklé hnědým cukrem, takže chutnají jako karamel, který nikdo nespálil.",
+    "Perly se vaří, pak dochází pod pokličkou a nakonec se namáčí do sirupu. Do čaje se dávají vždy čerstvé, po pár hodinách ztvrdnou. Brčko má široký průměr, jinak by ti perly neprošly. Jenže brčko je taky smyšlené."
+  ],
+  "price": 9900,
+  "image": "dish-bubble-tea",
+  "recipe": "bubble-tea",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "04-l",
+          "name": "0,4 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "06-l",
+          "name": "0,6 l",
+          "priceDelta": 2000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "perly",
+          "name": "Perly navíc",
+          "priceDelta": 1500
+        },
+        {
+          "id": "jelly",
+          "name": "Ovocné želé",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    7
+  ],
+  "featured": true,
+  "order": 10
+}

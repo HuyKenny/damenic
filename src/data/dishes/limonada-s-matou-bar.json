@@ -1,0 +1,15 @@
+{
+  "name": "Limonáda s mátou",
+  "section": "Nápoje",
+  "price": 5900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 70,
+  "description": "Citron, mátové lístky, voda a led. Osvěžuje i ten kopeček.",
+  "about": [],
+  "kind": "drink",
+  "restaurant": "zmrzlinovy-bar-posledni-lzicka",
+  "image": "dish-limonada-s-matou-bar",
+  "allergens": [],
+  "vegan": true
+}

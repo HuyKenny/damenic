@@ -1,0 +1,39 @@
+{
+  "name": "Focaccia s rajčaty a rozmarýnem",
+  "section": "Máslové a slané",
+  "price": 11900,
+  "recipe": "focaccia",
+  "vegetarian": true,
+  "order": 20,
+  "description": "Měkká, olejem nasáklá, s důlky plnými rajčat a rozmarýnu.",
+  "about": [
+    "Focaccia je italský plech chleba, který se nepeče, aby se vešel do krabice. Je v ní hodně oleje, hodně vzduchu a dost soli, aby si žádala další kousek.",
+    "Rajčata v důlcích pustí šťávu a rozmarýn voní dřív, než něco ochutnáš. U nás voní jen z popisu."
+  ],
+  "kind": "main",
+  "restaurant": "pekarna-zitra-upecem",
+  "image": "dish-focaccia-s-rajcaty-a-rozmarynem",
+  "allergens": [
+    1
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kus",
+          "name": "Čtvrtka plechu",
+          "priceDelta": 0
+        },
+        {
+          "id": "pul",
+          "name": "Půlka plechu",
+          "priceDelta": 9000
+        }
+      ]
+    }
+  ]
+}

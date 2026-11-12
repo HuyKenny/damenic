@@ -1,0 +1,136 @@
+{
+  "title": "Gulášová polévka",
+  "keywords": [
+    "gulášová polévka",
+    "gulášová polévka recept",
+    "gulášová polévka z hovězího",
+    "hovězí gulášová polévka"
+  ],
+  "image": "dish-gulasova-polevka-lzice-zitra",
+  "category": "polevky",
+  "vegetarian": false,
+  "servings": 5,
+  "activeMinutes": 30,
+  "cookMinutes": 75,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "intro": "Gulášová polévka je gulášová chuť v řidší podobě: hovězí zadní, hodně cibule a hodně sladké papriky v 5 porcích. Celé to trvá asi hodinu a půl, z toho 30 minut práce. Těžké je nespálit papriku a vařit maso, až je opravdu měkké.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-zadni",
+      "amount": 500,
+      "unit": "g",
+      "note": "na kostky 2 cm"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 400,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 400,
+      "unit": "g",
+      "note": "na kostky 1,5 cm"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1800,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej olej a na středním plameni 10 až 12 minut smaž cibuli, dokud nezesklovatí a lehce nezhnědne."
+    },
+    {
+      "text": "Přidej maso, osol a 5 minut opékej. Přidej protlak a kmín a míchej 1 minutu."
+    },
+    {
+      "text": "Stáhni hrnec z plamene, přisyp papriku, promíchej a ihned zalij vodou. Paprika se spálí za pár vteřin a zhořkne."
+    },
+    {
+      "text": "Přidej bobkový list a česnek, přiveď k varu, přikryj a vař na mírném plameni 50 až 60 minut, dokud se maso nerozpadá."
+    },
+    {
+      "text": "Přidej brambory a papriku a vař dalších 15 až 20 minut. Ochutnej, dochuť solí, pepřem a majoránkou."
+    }
+  ],
+  "tips": [
+    "Hodně cibule je základ. Smažit ji musíš pomalu, dokud se nerozpustí do omáčky.",
+    "Papriku vždy sypej mimo plamen a okamžitě zalij tekutinou. Spálená paprika je hořká a nejde zachránit.",
+    "V lednici vydrží 4 dny a druhý den bývá lepší. Zamrazit ji jde na 3 měsíce, brambory po rozmrazení lehce změknou.",
+    "Rozdělení: 30 minut práce, 75 minut vaření bez dozoru."
+  ],
+  "substitutions": [
+    "Hovězí zadní nahradí hovězí pližna nebo vepřová plec, ta se vaří o něco kratší dobu.",
+    "Pro hustší polévku rozmačkej část brambor."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit maso do gulášové polévky?",
+      "a": "Hovězí zadní na kostky 2 cm se vaří 50 až 60 minut na mírném plameni. Maso musí jít lehce rozmáčknout lžící."
+    },
+    {
+      "q": "Jak se liší gulášová polévka od guláše?",
+      "a": "Je řidší, vaří se s větším množstvím vody a s bramborami. Chuť je stejná, ale jí se lžící jako polévka."
+    },
+    {
+      "q": "Jak dlouho vydrží gulášová polévka a jde zamrazit?",
+      "a": "V lednici vydrží 4 dny a druhý den bývá lepší. Zamrazit ji můžeš na 3 měsíce, brambory po rozmrazení lehce změknou."
+    }
+  ]
+}

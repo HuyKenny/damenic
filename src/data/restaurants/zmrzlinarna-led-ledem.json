@@ -1,0 +1,33 @@
+{
+  "name": "Zmrzlinárna Led ledem",
+  "category": "zmrzlina",
+  "cuisine": "Domácí zmrzlina z vlastního krému",
+  "tagline": "Nejdřív šest hodin v mrazáku, potom kopeček. Hlad si zvykne.",
+  "description": "Vanilková, jahodová a čokoládová zmrzlina z pravých receptů. Celá zmrzlinárna je smyšlená, takže ti kopeček nikdo nepřiveze, ale krém si můžeš namíchat a zamrazit doma, i bez zmrzlinovače.",
+  "etaMinutes": 20,
+  "deliveryFee": 3900,
+  "minOrder": 14900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:00",
+    "close": "21:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa",
+    "bezlepkové možnosti"
+  ],
+  "logo": {
+    "text": "LL",
+    "color": "#7FCBE0",
+    "ink": "dark"
+  },
+  "sections": [
+    "Kopečky",
+    "Kornouty a doplňky",
+    "Nápoje"
+  ],
+  "order": 202,
+  "isNew": true,
+  "cover": "rest-zmrzlinarna-led-ledem"
+}

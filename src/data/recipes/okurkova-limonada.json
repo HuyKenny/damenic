@@ -1,0 +1,97 @@
+{
+  "title": "Okurková limonáda",
+  "keywords": [
+    "okurková limonáda",
+    "okurková limonáda recept",
+    "domácí limonáda recept",
+    "limonáda s okurkou a mátou"
+  ],
+  "image": "dish-okurkova-limonada-nedoslazeno",
+  "category": "napoje",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Okurková limonáda z čerstvé okurky, limetky a máty je hotová za 15 minut a nepotřebuje sirup. Rozhodují dvě věci: okurku po rozmixování přecedit a perlivou vodu dolít až těsně před pitím, aby bublinky vydržely.",
+  "ingredients": [
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 1,
+      "unit": "ks",
+      "note": "oloupaná, na kousky"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "šťáva a plátky na ozdobu"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 1,
+      "unit": "ks",
+      "note": "hrst lístků"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "dle chuti"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "note": "studená"
+    },
+    {
+      "ingredient": "perliva-voda",
+      "amount": 800,
+      "unit": "ml",
+      "note": "vychlazená"
+    },
+    {
+      "ingredient": "led",
+      "amount": 200,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Okurku oloupej a nakrájej na kousky. Z limetek vymačkej šťávu, jednu půlku si nech na plátky na ozdobu."
+    },
+    {
+      "text": "V mixéru rozmixuj okurku, cukr, 150 ml studené vody a půlku mátových lístků na hladkou kaši, asi 30 sekund. Cukr se úplně rozpustí."
+    },
+    {
+      "text": "Směs přeceď přes jemné síto nebo čisté plátno do džbánu a lžící promáčkni všechnu šťávu. Přidej limetkovou šťávu a ochutnej, případně dosladi."
+    },
+    {
+      "text": "Do sklenic dej led, zbylou mátu a plátky limetky. Nalij okurkový základ do 1/3 sklenice a dolij perlivou vodou. Jemně promíchej a podávej hned."
+    }
+  ],
+  "tips": [
+    "Základ bez perlivé vody vydrží v lednici 2 dny, dolij ji až při podávání.",
+    "Okurku dobře vychlaď předem, limonáda pak nepotřebuje tolik ledu."
+  ],
+  "substitutions": [
+    "Cukr nahraď medem nebo agáve sirupem, rozpustí se v základu lépe.",
+    "Perlivou vodu nahraď neperlivou nebo tonikem pro hořčejší verzi."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží okurková limonáda?",
+      "a": "Základ bez perlivé vody vydrží v lednici 2 dny. Hotová limonáda s bublinkami je nejlepší do hodiny po smíchání."
+    },
+    {
+      "q": "Musím okurku loupat?",
+      "a": "Pro hladší a světlejší limonádu ano. Ze slupky může zhořknout, hlavně u starší okurky, proto ji loupej."
+    },
+    {
+      "q": "Dá se limonáda udělat bez cukru?",
+      "a": "Ano, ale okurka s limetkou jsou kyselé a bez sladidla chutnají ostře. Zkus 1 lžíci medu nebo kapku sirupu a ochutnej, nejlépe v malých dávkách."
+    }
+  ]
+}

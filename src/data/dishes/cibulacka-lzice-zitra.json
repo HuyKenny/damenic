@@ -1,0 +1,58 @@
+{
+  "name": "Cibulačka s gratinovaným chlebem",
+  "section": "Lehké",
+  "price": 13900,
+  "recipe": "cibulacka",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 70,
+  "description": "Pomalu zkaramelizovaná cibule ve vývaru s krajícem chleba a rozteklým sýrem.",
+  "about": [
+    "Cibulačka je důkaz, že trpělivost se vyplácí. Osmahnutá cibule se mění ze štiplavé na sladkou, vývar ji prohřeje a gratinovaný sýr na krajíci chleba tvoří poklici, kterou se lžící prorazíš.",
+    "Chce to 800 g cibule a půl hodiny míchání. Pokud tě budou štípat oči, je to cibulí, ne dojetím z polévkárny, která je smyšlená."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší 0,3 l",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická 0,45 l",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "eidam",
+          "name": "Sýr navíc",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "lzice-zitra",
+  "image": "dish-cibulacka-lzice-zitra",
+  "allergens": [
+    1,
+    7,
+    9,
+    12
+  ]
+}

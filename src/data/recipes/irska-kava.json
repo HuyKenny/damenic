@@ -1,0 +1,90 @@
+{
+  "title": "Irská káva",
+  "keywords": [
+    "irská káva recept",
+    "irská káva",
+    "irish coffee",
+    "irská káva doma"
+  ],
+  "image": "dish-irska-kava",
+  "category": "kavarna",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 3,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Irská káva pro dva z 300 ml horké filtrované kávy, 60 ml irské whiskey, hnědého cukru a lehce našlehané smetany navrch. Smetana má být jen lehce husté, aby plavala na hladině a nepropadla se do kávy. Nápoj obsahuje alkohol, takže je jen pro dospělé.",
+  "ingredients": [
+    {
+      "ingredient": "kava-mleta",
+      "amount": 25,
+      "unit": "g",
+      "note": "hrubší mletí na filtrovanou kávu"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 400,
+      "unit": "ml",
+      "note": "asi 94 °C"
+    },
+    {
+      "ingredient": "irska-whiskey",
+      "amount": 60,
+      "unit": "ml",
+      "note": "tedy 30 ml na porci"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 14,
+      "unit": "g",
+      "note": "hnědý nebo třtinový"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 100,
+      "unit": "ml",
+      "note": "studená"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Uvař asi 300 ml silné filtrované kávy z 25 g kávy a 400 ml vody o teplotě asi 94 °C, třeba přes filtr nebo ve french pressu."
+    },
+    {
+      "text": "Dva hrnky nebo sklenice na čaj předehřej horkou vodou, vylij je a do každé dej 7 g hnědého cukru."
+    },
+    {
+      "text": "Do každé sklenice nalij 150 ml horké kávy a míchej, až se cukr rozpustí. Přidej 30 ml irské whiskey a krátce promíchej."
+    },
+    {
+      "text": "Studenou smetanu jen lehce našlehej, aby byla tekutě hustá, jako tekutý jogurt. Lžící ji pomalu klaď na hřbet lžičky těsně nad kávou."
+    },
+    {
+      "text": "Hotovou irskou kávu pij skrz smetanu a nemíchej. Podávej ihned."
+    }
+  ],
+  "tips": [
+    "Whiskey nevař, přidává se do horké kávy až na konci, jinak se odpaří chuť i alkohol.",
+    "Pokud smetana klesá ke dnu, byla příliš řídká, nebo káva moc horká.",
+    "Pro nealko variantu vynech whiskey, nebo přidej kapku vanilkového sirupu."
+  ],
+  "substitutions": [
+    "Hnědý cukr nahradíš třtinovým cukrem nebo javorovým sirupem.",
+    "Místo irské whiskey lze použít jiný jemný pálenec, chuť ale bude jiná."
+  ],
+  "faq": [
+    {
+      "q": "Jaká whiskey se hodí do irské kávy?",
+      "a": "Tradičně irská whiskey, protože je jemná a nekouřová. Škotská s kouřovou chutí by přebila kávu."
+    },
+    {
+      "q": "Proč smetana v irské kávě klesá?",
+      "a": "Je buď příliš řídká, nebo moc našlehaná a těžká, nebo káva příliš horká. Smetana má mít konzistenci tekutého jogurtu a lít se přes lžičku."
+    },
+    {
+      "q": "Kolik alkoholu je v irské kávě?",
+      "a": "Obvykle 30 až 40 ml whiskey na porci, tedy zhruba jedna běžná dávka alkoholu. Je určena jen dospělým."
+    }
+  ]
+}

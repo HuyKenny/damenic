@@ -1,0 +1,16 @@
+{
+  "name": "Kornout navíc",
+  "section": "Kornouty a doplňky",
+  "price": 2500,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 40,
+  "description": "Křupavý kornout. Bez něj by zmrzlina stála jen na dlani.",
+  "about": [],
+  "kind": "side",
+  "restaurant": "zmrzlinarna-led-ledem",
+  "image": "dish-kornout-navic",
+  "allergens": [
+    1
+  ]
+}

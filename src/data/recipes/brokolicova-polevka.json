@@ -1,0 +1,126 @@
+{
+  "title": "Brokolicová polévka",
+  "keywords": [
+    "brokolicová polévka",
+    "krémová brokolicová polévka",
+    "brokolicová polévka recept",
+    "brokolicová polévka se smetanou"
+  ],
+  "image": "dish-brokolicova-polevka-chlebova-dutina",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Brokolicová polévka je hotová za 35 minut a vychází sytě zelená, krémová a bez mouky. Těžké je jen jedno: nepřevařit brokolici, jinak zešedne a zhořkne. Brambor v ní dělá práci zahušťovadla.",
+  "ingredients": [
+    {
+      "ingredient": "brokolice",
+      "amount": 600,
+      "unit": "g",
+      "note": "růžičky a oloupaný košťál nadrobno"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 800,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 60,
+      "unit": "g",
+      "note": "na krutony"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na krutony"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozpusť máslo a 4 minuty na mírném plameni restuj cibuli, dokud nezesklovatí. Přidej česnek a míchej půl minuty."
+    },
+    {
+      "text": "Přidej brambory, zalij vývarem, přiveď k varu a vař přikryté 8 minut."
+    },
+    {
+      "text": "Vsyp brokolici (košťál i růžičky) a vař dalších 7 až 8 minut, dokud růžičky nezměknou, ale stále mají sytou zelenou barvu."
+    },
+    {
+      "text": "Mezitím nakrájej chleb na kostky 1 cm a opeč je na oleji na pánvi 3 až 4 minuty dozlatova."
+    },
+    {
+      "text": "Polévku rozmixuj ponorným mixérem do hladka, vlij smetanu a dochuť solí, pepřem a špetkou muškátového oříšku. Nevař znovu. Podávej s krutony."
+    }
+  ],
+  "tips": [
+    "Zelená barva zůstane sytá, když polévku po uvaření hned rozmixuješ a nenecháš ji dlouho stát na plotně.",
+    "Košťál brokolice nevyhazuj. Po oloupání je sladký a polévku zahustí.",
+    "V lednici vydrží 3 dny, zamrazit ji jde na 2 až 3 měsíce bez smetany. Barva po rozmrazení lehce zhnědne, chuť zůstane.",
+    "Práce je zhruba 15 minut, vaření 15 minut bez dozoru. Hodí se na rychlou večeři."
+  ],
+  "substitutions": [
+    "Smetanu na vaření nahradí kysaná smetana (vmíchej mimo plamen) nebo kokosové mléko.",
+    "Brambor můžeš vynechat a zahustit polévku hrstí ovesných vloček."
+  ],
+  "faq": [
+    {
+      "q": "Jak zachovat zelenou barvu brokolicové polévky?",
+      "a": "Vař brokolici jen 7 až 8 minut, polévku hned rozmixuj a nenech ji dlouho stát na teplé plotně. Dlouhé vaření barvu mění na šedozelenou."
+    },
+    {
+      "q": "Čím zahustit brokolicovou polévku?",
+      "a": "Bramborou vařenou s brokolicí, která se po rozmixování promění v krém. Mouku ani zásmažku nepotřebuješ."
+    },
+    {
+      "q": "Jde brokolicová polévka zamrazit?",
+      "a": "Ano, na 2 až 3 měsíce, nejlépe bez smetany. Smetanu přidej při ohřevu, aby se polévka nesrazila."
+    }
+  ]
+}

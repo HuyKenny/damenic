@@ -1,0 +1,120 @@
+{
+  "title": "Cibulačka (cibulová polévka)",
+  "keywords": [
+    "cibulačka",
+    "cibulová polévka",
+    "cibulová polévka gratinovaná",
+    "francouzská cibulová polévka"
+  ],
+  "image": "dish-cibulacka-lzice-zitra",
+  "category": "polevky",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 50,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "intro": "Cibulačka je polévka z pomalu karamelizované cibule s hovězím vývarem, a je to polévka, na které se pozná, kdo spěchal. Na 4 porce potřebuješ 800 g cibule, asi 35 minut mírné smažení a gratinovaný krajíc se sýrem. Nejtěžší je trpělivost, cibule se nesmí spálit.",
+  "ingredients": [
+    {
+      "ingredient": "cibule",
+      "amount": 800,
+      "unit": "g",
+      "note": "na tenké půlkolečka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vino-bile",
+      "amount": 100,
+      "unit": "ml",
+      "note": "suché"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 1000,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 120,
+      "unit": "g",
+      "note": "4 plátky"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 120,
+      "unit": "g",
+      "note": "nastrouhaný"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci s tlustým dnem rozpusť máslo na středním plameni, přidej cibuli a sůl. Za občasného míchání ji 30 až 35 minut smaž, až je hnědě zlatá a sladká. Pokud se lepí ke dnu, přilij lžíci vody."
+    },
+    {
+      "text": "Přisyp mouku a míchej 1 minutu. Zalij vínem a nech 2 minuty odvařit, seškrábni dno."
+    },
+    {
+      "text": "Přidej vývar, tymián a bobkový list, přiveď k varu a vař 10 minut. Dochuť solí a pepřem, vyndej bobkový list."
+    },
+    {
+      "text": "Rozehřej gril v troubě na 220 °C. Polévku rozlij do žáruvzdorných misek, na každou polož plátek chleba a posyp eidamem."
+    },
+    {
+      "text": "Gratinuj 4 až 6 minut, až se sýr rozteče a zezlátne. Misky jsou horké, podávej opatrně."
+    }
+  ],
+  "tips": [
+    "Cibule se nedá uspěchat. Vysoký plamen ji spálí a polévka zhořkne. Pomalu a s trpělivostí vznikne sladká hloubka.",
+    "Použij žáruvzdorné misky nebo hrnky bez plastových částí.",
+    "Základ bez chleba a sýra vydrží v lednici 4 dny, zamrazit ho jde na 3 měsíce. Gratinuj až při podávání.",
+    "Rozdělení: 25 minut aktivní práce, zbytek je pomalé míchání."
+  ],
+  "substitutions": [
+    "Víno nahradíš 100 ml vývaru a lžičkou octa.",
+    "Eidam zastoupí ementál nebo gruyère, hodí se tavitelný sýr."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se smaží cibule na cibulačku?",
+      "a": "30 až 35 minut na středním až mírném plameni za občasného míchání, až je hnědě zlatá. Rychlejším smažením se cibule spálí, ne zkaramelizuje."
+    },
+    {
+      "q": "Dá se cibulačka připravit dopředu?",
+      "a": "Ano. Základ bez chleba a sýra vydrží v lednici 4 dny a jde zamrazit na 3 měsíce. Gratinuj ho až před podáváním."
+    },
+    {
+      "q": "Musí se do cibulačky dávat víno?",
+      "a": "Nemusí. Víno dodá kyselost a hloubku, ale můžeš ho nahradit vývarem a lžičkou octa."
+    }
+  ]
+}

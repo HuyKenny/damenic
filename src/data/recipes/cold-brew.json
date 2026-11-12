@@ -1,0 +1,82 @@
+{
+  "title": "Cold brew",
+  "keywords": [
+    "cold brew",
+    "cold brew recept",
+    "cold brew káva",
+    "cold brew doma"
+  ],
+  "image": "dish-cold-brew",
+  "category": "kavarna",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 840,
+  "waitLabel": "louhování v lednici (12 až 16 h)",
+  "difficulty": "snadné",
+  "intro": "Cold brew je káva louhovaná 12 až 16 hodin ve studené vodě v lednici, z 60 g hrubě mleté kávy a 600 ml vody vznikne koncentrát na čtyři sklenice. Mletí musí být hrubé, jemný prášek vyluhuje hořkost a špatně se cedí.",
+  "ingredients": [
+    {
+      "ingredient": "kava-mleta",
+      "amount": 60,
+      "unit": "g",
+      "note": "hrubé mletí jako na french press"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 600,
+      "unit": "ml",
+      "note": "studená, filtrovaná"
+    },
+    {
+      "ingredient": "led-do-napoju",
+      "amount": 200,
+      "unit": "g",
+      "note": "k podávání"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml",
+      "note": "volitelně k zalití"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do čisté sklenice nebo french pressu nasyp 60 g hrubě mleté kávy a zalij ji 600 ml studené vody. Promíchej, aby se všechna káva smočila."
+    },
+    {
+      "text": "Přikryj a nech louhovat v lednici 12 až 16 hodin. Kratší doba je kyselejší, delší začne chutnat dřevitě."
+    },
+    {
+      "text": "Koncentrát scedi přes jemné sítko vyložené papírovým filtrem nebo plátnem. Nemačkej usazeninu, zakalila by nápoj."
+    },
+    {
+      "text": "K podávání smíchej koncentrát s vodou nebo mlékem 1 : 1, přidej led a zkus. Případně doplň vodou podle chuti."
+    }
+  ],
+  "tips": [
+    "Koncentrát uchovávej zakrytý v lednici maximálně 4 dny.",
+    "Voda by měla být filtrovaná, protože káva je z 98 % voda.",
+    "Kávu nech louhovat v lednici, při pokojové teplotě by se mohla kazit."
+  ],
+  "substitutions": [
+    "Místo vody lze koncentrát ředit tonicem nebo ovesným nápojem.",
+    "Pro jemnější chuť použij světle pražená zrna, pro čokoládovou tmavší."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se louhuje cold brew?",
+      "a": "Optimální doba je 12 až 16 hodin v lednici. Po 18 hodinách se do nápoje začíná dostávat dřevitá a trpká chuť."
+    },
+    {
+      "q": "Jak dlouho vydrží cold brew?",
+      "a": "Hotový koncentrát vydrží v uzavřené láhvi v lednici zhruba 4 dny. Ředěný s mlékem je lepší vypít do druhého dne."
+    },
+    {
+      "q": "Je cold brew silnější než horká káva?",
+      "a": "Koncentrát je silný, ale po naředění vodou 1 : 1 obsahuje podobné množství kofeinu jako běžná káva. Záleží na poměru kávy a vody."
+    }
+  ]
+}

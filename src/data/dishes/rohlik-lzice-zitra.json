@@ -1,0 +1,20 @@
+{
+  "name": "Čerstvý rohlík s máslem",
+  "restaurant": "lzice-zitra",
+  "kind": "side",
+  "section": "K polévce",
+  "description": "Rohlík, který se nepeče, a máslo, které nikdo nekrájí. Zato chutná.",
+  "price": 2900,
+  "image": "dish-rohlik-lzice-zitra",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 100,
+  "about": []
+}

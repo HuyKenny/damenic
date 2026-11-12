@@ -1,0 +1,15 @@
+{
+  "name": "Sodovka 0,5 l",
+  "restaurant": "limonadovna-nedoslazeno",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Studená sodovka bez příchuti. Základ všeho, co tu nedoslazujeme.",
+  "price": 3500,
+  "image": "dish-sodovka-nedoslazeno",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 70,
+  "about": []
+}

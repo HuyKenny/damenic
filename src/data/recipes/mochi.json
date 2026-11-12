@@ -1,0 +1,87 @@
+{
+  "title": "Mochi s fazolovou pastou",
+  "keywords": [
+    "mochi",
+    "mochi recept",
+    "domácí mochi",
+    "mochi z rýžové mouky"
+  ],
+  "image": "dish-mochi",
+  "category": "matcha",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 5,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "intro": "Domácí mochi z 100 g lepivé rýžové mouky, 30 g cukru a 130 ml vody uvařené v mikrovlnné troubě. Těsto je lepivé, proto se tvaruje s kukuřičným škrobem na rukou a na podložce a jí se v den výroby. Kousky krájej na malá sousta, mochi je tažné a hrozí zadušení.",
+  "ingredients": [
+    {
+      "ingredient": "ryzova-mouka-lepiva",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 130,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 30,
+      "unit": "g",
+      "note": "na posypání podložky a rukou"
+    },
+    {
+      "ingredient": "fazolova-pasta-anko",
+      "amount": 100,
+      "unit": "g",
+      "note": "na náplň, 8 kuliček po 12 g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do mikrovlnné nádoby smíchej 100 g rýžové mouky, 30 g cukru a 130 ml vody, dokud nezmizí hrudky. Přikryj poklicí nebo fólií s malým otvorem."
+    },
+    {
+      "text": "Vař v mikrovlnné troubě 1 minutu při 800 W, promíchej a vař znovu 1 minutu. Pak ještě 30 vteřin, dokud není těsto průsvitné a lepivé."
+    },
+    {
+      "text": "Podložku a ruce hojně posyp škrobem. Těsto přendej a nech 2 minuty zchladnout, je horké a lepí."
+    },
+    {
+      "text": "Anko rozděl na 8 kuliček po 12 g. Těsto rozděl na 8 dílů, každý rozplácni a obal kuličku. Spoj okraje a zakulať."
+    },
+    {
+      "text": "Hotové mochi stáhni z podložky, otřepej přebytečný škrob a ihned podávej. Skladuj max 1 den při pokojové teplotě."
+    }
+  ],
+  "tips": [
+    "Na rukou i nožích vždy škrob, těsto se lepí na všechno.",
+    "Mikrovlnka se liší, těsto má být průsvitné a bez bílých jader.",
+    "Mochi neskladuj v lednici, ztvrdne."
+  ],
+  "substitutions": [
+    "Anko lze nahradit čerstvou jahodou nebo arašídovým máslem.",
+    "Škrob lze nahradit bramborovým."
+  ],
+  "faq": [
+    {
+      "q": "Z čeho se dělá mochi?",
+      "a": "Z lepivé rýžové mouky, cukru a vody. Těsto se uvaří (v páře nebo v mikrovlnce) a plní se sladkou fazolovou pastou nebo ovocem."
+    },
+    {
+      "q": "Dá se mochi udělat z obyčejné rýžové mouky?",
+      "a": "Ne, potřebuješ lepivou rýžovou mouku (glutinous rice flour, mochiko). Obyčejná rýžová těsto správně nepropojí."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí mochi?",
+      "a": "Nejlépe do druhého dne při pokojové teplotě, v lednici tvrdne. Lze ho zmrazit a rozmrazit při pokojové teplotě."
+    }
+  ]
+}

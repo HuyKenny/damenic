@@ -1,0 +1,70 @@
+{
+  "name": "Jahodové smoothie 0,4 l",
+  "restaurant": "dzusbar-vymackame-zitra",
+  "kind": "main",
+  "section": "Smoothie",
+  "description": "Jahody, banán a bílý jogurt rozmixované do hladka. Růžové jako ranní optimismus.",
+  "price": 10900,
+  "image": "dish-jahodove-smoothie-vymackame",
+  "recipe": "jahodove-smoothie",
+  "vegetarian": true,
+  "vegan": false,
+  "allergens": [
+    7
+  ],
+  "order": 10,
+  "about": [
+    "Jahodové smoothie je nejrychlejší způsob, jak z hrsti ovoce udělat snídani. Stačí jahody, zralý banán a jogurt. Banán dodá sladkost a hustotu, jogurt krémovost, takže nepotřebuješ žádný cukr.",
+    "U nás je mixér smyšlený, ale u tebe doma si ho spustíš doopravdy. Mražené jahody dělají smoothie studené bez ledu, čerstvé zase voní víc. Vyber si podle toho, co ráno potřebuješ víc: vůni, nebo chlad."
+  ],
+  "featured": true,
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "03",
+          "name": "0,3 l",
+          "priceDelta": -1000
+        },
+        {
+          "id": "04",
+          "name": "0,4 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "05",
+          "name": "0,5 l",
+          "priceDelta": 1500
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "chia",
+          "name": "Chia semínka",
+          "priceDelta": 1500
+        },
+        {
+          "id": "ovesne",
+          "name": "Ovesné vločky",
+          "priceDelta": 1000
+        },
+        {
+          "id": "med",
+          "name": "Med navíc",
+          "priceDelta": 1000
+        }
+      ],
+      "max": 3
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Skořicová rolka s polevou",
+  "section": "Sladké kynuté",
+  "price": 8900,
+  "recipe": "cinnamon-rolls",
+  "vegetarian": true,
+  "order": 30,
+  "description": "Svinutá do spirály, uvnitř skořice a máslo, navrch smetanový sýr.",
+  "about": [
+    "Skořicová rolka je jediné pečivo, které se jí odspodu: nejdřív špička, pak spirála. Těsto je měkké, náplň máslová a poleva se má rozpouštět právě na teplém povrchu.",
+    "Poznáš ji podle vůně, která se nese kuchyní půl hodiny předem. Tu máme smyšlenou, tvoje bude skutečná."
+  ],
+  "kind": "main",
+  "restaurant": "pekarna-zitra-upecem",
+  "image": "dish-skoricova-rolka-s-polevou",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

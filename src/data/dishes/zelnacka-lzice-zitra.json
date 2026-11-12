@@ -1,0 +1,56 @@
+{
+  "name": "Zelňačka s uzeným masem",
+  "section": "Hustší",
+  "price": 11900,
+  "recipe": "zelnacka",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 20,
+  "description": "Kysané zelí, uzené maso a brambory v sytém kyselém základu.",
+  "about": [
+    "Zelňačka je polévka, která chutná jako zima. Kysané zelí vydá kyselost, uzené maso kouř a brambory ji udělají dost hustou, aby se v ní lžíce opřela. Zakysaná smetana na vršku ji uklidní.",
+    "Uvařit ji můžeš ve čtvrtek a jíst do neděle, protože s časem chutná líp. Tady ji dostaneš nanečisto, což je nejlevnější způsob, jak mít zimu na talíři."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší 0,3 l",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická 0,45 l",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "smetana",
+          "name": "Lžíce zakysané smetany",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "lzice-zitra",
+  "image": "dish-zelnacka-lzice-zitra",
+  "allergens": [
+    1,
+    7
+  ]
+}

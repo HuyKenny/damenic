@@ -1,0 +1,17 @@
+{
+  "name": "Posyp z pražených mandlí",
+  "section": "Kornouty a doplňky",
+  "price": 2900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 50,
+  "description": "Drcené mandle na kopečky. Křupou jako sníh pod botami.",
+  "about": [],
+  "kind": "side",
+  "restaurant": "zmrzlinarna-led-ledem",
+  "image": "dish-posyp-z-mandli",
+  "allergens": [
+    8
+  ],
+  "vegan": true
+}

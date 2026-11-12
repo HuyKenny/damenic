@@ -1,0 +1,67 @@
+{
+  "name": "Mátová limonáda 0,4 l",
+  "restaurant": "limonadovna-nedoslazeno",
+  "kind": "main",
+  "section": "Limonády",
+  "description": "Máta, limetka a pár kostek ledu. Jednoduchá, hlavně studená.",
+  "price": 7900,
+  "image": "dish-matova-limonada-nedoslazeno",
+  "recipe": "matova-limonada",
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 40,
+  "about": [
+    "Mátová limonáda je klasika bez zádrhelů: pomačkaná máta, šťáva z limetek, cukr a perlivá voda. Nic složitého, ale všechno se musí udělat ve správném pořadí.",
+    "Máta se jen jemně pomačká, nerozmixuje, jinak zhořkne. Počkej 10 minut a pak ji přeceď. Doručení máme zatím nanečisto, ale limonáda se dělá doopravdy."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "03",
+          "name": "0,3 l",
+          "priceDelta": -1000
+        },
+        {
+          "id": "04",
+          "name": "0,4 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "05",
+          "name": "0,5 l",
+          "priceDelta": 1500
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "led",
+          "name": "Víc ledu",
+          "priceDelta": 0
+        },
+        {
+          "id": "mata",
+          "name": "Máta navíc",
+          "priceDelta": 500
+        },
+        {
+          "id": "citron",
+          "name": "Plátek citronu",
+          "priceDelta": 500
+        }
+      ],
+      "max": 3
+    }
+  ]
+}

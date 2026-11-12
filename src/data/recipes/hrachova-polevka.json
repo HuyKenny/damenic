@@ -1,0 +1,133 @@
+{
+  "title": "Hrachová polévka s uzeným",
+  "keywords": [
+    "hrachová polévka",
+    "hrachová polévka recept",
+    "hrachová polévka s uzeným",
+    "hrachová polévka z půleného hrachu"
+  ],
+  "image": "dish-hrachova-polevka-lzice-zitra",
+  "category": "polevky",
+  "vegetarian": false,
+  "servings": 5,
+  "activeMinutes": 15,
+  "cookMinutes": 60,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Hrachová polévka z půleného žlutého hrachu se vaří bez namáčení z jednoho hrnce, asi hodinu. Uzené maso dodá chuť a majoránka dokončí klasiku. Těžké je jen to, aby se hrách nepřipálil, a sůl přidávat až na závěr.",
+  "ingredients": [
+    {
+      "ingredient": "hrach-zluty",
+      "amount": 300,
+      "unit": "g",
+      "note": "propláchnutý"
+    },
+    {
+      "ingredient": "uzene-maso",
+      "amount": 200,
+      "unit": "g",
+      "note": "vcelku"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 250,
+      "unit": "g",
+      "note": "na kostky 1,5 cm"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2000,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 80,
+      "unit": "g",
+      "note": "na krutony"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej olej a 4 minuty restuj cibuli do zesklovatění. Přidej hrách, uzené maso, bobkový list a zalij vodou."
+    },
+    {
+      "text": "Přiveď k varu, seber pěnu, stáhni plamen a vař přikryté 30 minut. Občas dno protři vařečkou, aby se hrách nepřipálil."
+    },
+    {
+      "text": "Přidej mrkev a brambory a vař dalších 20 až 25 minut, dokud hrách nezačne rozpadat a brambory nezměknou."
+    },
+    {
+      "text": "Mezitím nakrájej chleb na kostky a opeč je na suché pánvi 4 minuty dozlatova."
+    },
+    {
+      "text": "Maso vyndej, nakrájej na kostičky a vrať do polévky. Přidej česnek, majoránku, sůl a pepř, vyndej bobkový list a podávej s krutony."
+    }
+  ],
+  "tips": [
+    "Půlený hrách se vaří 45 až 60 minut a namáčet ho nemusíš. Celý hrách by se namáčel přes noc.",
+    "Sůl dej až na závěr. Včasné solení vaření hrachu zpomaluje.",
+    "V lednici vydrží 4 dny, zamrazit ji jde na 3 měsíce. Po ohřevu zhoustne, přilij vodu.",
+    "Z 15 minut práce zbytek vaří bez dozoru, jen občas protři dno."
+  ],
+  "substitutions": [
+    "Uzené maso nahradí uzená klobása nebo uzená paprika (bezmasá verze).",
+    "Do polévky se hodí i trocha celeru a petržele."
+  ],
+  "faq": [
+    {
+      "q": "Musí se půlený hrách namáčet?",
+      "a": "Žlutý půlený hrách namáčet nemusíš, uvaří se za 45 až 60 minut. Namáčet se doporučuje celý hrách, který vaří déle."
+    },
+    {
+      "q": "Proč se hrach nechce rozvařit?",
+      "a": "Hrách se solí příliš brzo nebo je starý. Sůl dávej až na konci a nepoužívej hrách starý několik let."
+    },
+    {
+      "q": "Jak dlouho vydrží hrachová polévka a jde zamrazit?",
+      "a": "V lednici vydrží 4 dny, zamrazit ji můžeš na 3 měsíce. Po ohřevu zhoustne, proto přilij vodu."
+    }
+  ]
+}

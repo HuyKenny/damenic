@@ -1,0 +1,97 @@
+{
+  "title": "Avokádová pomazánka",
+  "keywords": [
+    "avokádová pomazánka",
+    "avokádová pomazánka recept",
+    "pomazánka z avokáda",
+    "avokádová pomazánka s česnekem"
+  ],
+  "image": "dish-avokadova-pomazanka-na-krajici",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Avokádová pomazánka se smetanovým sýrem, česnekem a citronem se dělá za deset minut bez vaření. Největší problém je hnědnutí: citronová šťáva a vhodné skladování ho zpomalí, ale nezastaví, proto ji dělej těsně před podáváním.",
+  "ingredients": [
+    {
+      "ingredient": "avokado",
+      "amount": 2,
+      "unit": "ks",
+      "note": "zralá"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 100,
+      "unit": "g",
+      "note": "natural"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Avokáda rozkrojíš podél, vyndej pecku a dužinu vydlub lžící do misky. Zralé avokádo se dá lehce zmáčknout a pod tlakem povolí."
+    },
+    {
+      "text": "Dužinu hned zakápni citronovou šťávou, aby nehnědla, a rozmačkej ji vidličkou. Nech v ní drobné kousky, pomazánka nemá být hladká jako pyré."
+    },
+    {
+      "text": "Přidej smetanový sýr, prolisovaný česnek, sůl a pepř a vše promíchej."
+    },
+    {
+      "text": "Vmíchej pažitku, ochutnej a případně dolož šťávou nebo solí. Pomazánku namaž na chléb ihned."
+    }
+  ],
+  "tips": [
+    "Pecku nech v pomazánce, pokud ji uložíš. Plocha, kterou pecka zakrývá, hnědne pomaleji. Hlavní ale je přikrýt pomazánku fólií přímo na povrch.",
+    "Zralost je důležitější než odrůda. Tvrdé avokádo se nerozmačká, přezrálé s hnědými skvrnami zhořkne.",
+    "Pomazánku skladuj v lednici do 5 °C a spotřebuj do 24 hodin."
+  ],
+  "substitutions": [
+    "Smetanový sýr nahraď bílým jogurtem nebo tvarohem.",
+    "Citron můžeš nahradit limetkou, chuť bude svěžejší."
+  ],
+  "faq": [
+    {
+      "q": "Jak zabránit hnědnutí avokádové pomazánky?",
+      "a": "Zakápni ji citronem, přikryj potravinářskou fólií těsně na povrch a dej do lednice. Hnědnutí to jen zpomalí, proto ji spotřebuj do 24 hodin."
+    },
+    {
+      "q": "Jak dlouho vydrží avokádová pomazánka?",
+      "a": "V uzavřené dóze v lednici do 5 °C vydrží do 24 hodin. Pak už ztrácí barvu i chuť."
+    },
+    {
+      "q": "Jaké avokádo na pomazánku?",
+      "a": "Zralé, které se pod prstem mírně promáčkne, ale není měkké a kašovité. Tvrdé zrát nechá, než ho použiješ."
+    }
+  ]
+}

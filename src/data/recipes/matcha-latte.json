@@ -1,0 +1,81 @@
+{
+  "title": "Matcha latte",
+  "keywords": [
+    "matcha latte recept",
+    "matcha latte",
+    "matcha latte doma",
+    "jak připravit matcha latte"
+  ],
+  "image": "dish-matcha-latte",
+  "category": "matcha",
+  "vegetarian": true,
+  "servings": 1,
+  "activeMinutes": 8,
+  "cookMinutes": 2,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Matcha latte doma z 2 g matchy, 60 ml vody o teplotě 70 až 80 °C a 180 ml horkého mléka za pět minut. Voda nesmí vařit, matcha by byla hořká, a prášek je třeba rozšlehat metličkou, jinak vzniknou hrudky.",
+  "ingredients": [
+    {
+      "ingredient": "matcha-prasek",
+      "amount": 2,
+      "unit": "g",
+      "note": "asi lžička, přesíta"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 60,
+      "unit": "ml",
+      "note": "70 až 80 °C"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 180,
+      "unit": "ml",
+      "note": "ohřáté na 60 až 65 °C"
+    },
+    {
+      "ingredient": "med",
+      "amount": 5,
+      "unit": "g",
+      "note": "volitelně"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do misky nebo velkého hrnku přesej 2 g matchy sítkem, aby se rozbily hrudky."
+    },
+    {
+      "text": "Zalij matchu 60 ml vody o teplotě 70 až 80 °C. Voda z konvice, která chvíli odstála, je ideální, vařící voda matchu pálí."
+    },
+    {
+      "text": "Šlehej bambusovou metličkou nebo napěňovačem pohybem do tvaru W asi 20 vteřin, dokud nevznikne hladká pěnivá hladina bez hrudek."
+    },
+    {
+      "text": "Mléko ohřej na 60 až 65 °C a napěň. Pomalu ho přilij k matche, případně posladi lžičkou medu, a podávej hned."
+    }
+  ],
+  "tips": [
+    "Matcha se rychle usazuje, před pitím promíchej.",
+    "Pokud matcha chutná hořce, zkus nižší teplotu vody nebo méně prášku.",
+    "Pro čistější chuť použij matchu kvalitní, ceremoniální stupeň."
+  ],
+  "substitutions": [
+    "Kravské mléko nahradíš ovesným nebo mandlovým nápojem.",
+    "Med lze nahradit javorovým sirupem."
+  ],
+  "faq": [
+    {
+      "q": "Jakou teplotou vodou se zalévá matcha?",
+      "a": "Optimálně 70 až 80 °C. Vroucí voda spálí čajový prášek, nápoj je pak hořký a trpký."
+    },
+    {
+      "q": "Proč se mi v matcha latte dělají hrudky?",
+      "a": "Prášek se nepřesel a nerozšlehal v malém množství vody. Nejdřív matchu přesej, rozšlehej ve 60 ml teplé vody a až pak přidej mléko."
+    },
+    {
+      "q": "Dá se matcha latte udělat bez metličky?",
+      "a": "Ano, použij ruční napěňovač, nebo prášek s vodou protřepej v zavřené lahvi 20 vteřin. Pěna bude řidší, ale prášek se rozpustí."
+    }
+  ]
+}

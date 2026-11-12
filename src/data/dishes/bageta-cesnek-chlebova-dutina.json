@@ -1,0 +1,20 @@
+{
+  "name": "Opečená bageta s česnekem",
+  "restaurant": "chlebova-dutina",
+  "kind": "side",
+  "section": "K polévce",
+  "description": "Křupavá bageta s česnekovým máslem. Vytírá talíř lépe než lžíce.",
+  "price": 3900,
+  "image": "dish-bageta-cesnek-chlebova-dutina",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 100,
+  "about": []
+}

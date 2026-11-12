@@ -1,0 +1,42 @@
+{
+  "name": "Matcha sušenky s bílou čokoládou",
+  "restaurant": "matcharna-jeste-slehame",
+  "kind": "main",
+  "section": "Sladké",
+  "description": "Máslové sušenky s matchou a kousky bílé čokolády, měkké uprostřed, křupavé na krajích.",
+  "about": [
+    "Matcha sušenky jsou zelené, takže vypadají zdravě, a pak jsou z másla, cukru a bílé čokolády. Hořkost čaje a sladká čokoláda spolu vycházejí překvapivě dobře.",
+    "Těsto musí odpočinout v lednici, jinak se rozteče do placek. Pečou se krátce, aby zůstaly uprostřed měkké. Sušenky se nedoručí, ale zbylé těsto přežije v lednici dva dny."
+  ],
+  "price": 7900,
+  "image": "dish-matcha-susenky",
+  "recipe": "matcha-susenky",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "2-ks",
+          "name": "2 ks",
+          "priceDelta": 0
+        },
+        {
+          "id": "4-ks",
+          "name": "4 ks",
+          "priceDelta": 6000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    3,
+    6,
+    7
+  ],
+  "order": 30
+}

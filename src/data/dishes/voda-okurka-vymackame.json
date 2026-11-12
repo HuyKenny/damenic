@@ -1,0 +1,15 @@
+{
+  "name": "Voda s okurkou 0,5 l",
+  "restaurant": "dzusbar-vymackame-zitra",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Čirá voda s plátky okurky a lístkem máty. Spa na pět minut.",
+  "price": 4500,
+  "image": "dish-voda-okurka-vymackame",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 70,
+  "about": []
+}

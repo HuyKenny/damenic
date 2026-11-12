@@ -1,0 +1,68 @@
+{
+  "name": "Okurková limonáda 0,4 l",
+  "restaurant": "limonadovna-nedoslazeno",
+  "kind": "main",
+  "section": "Limonády",
+  "description": "Okurka, limetka a máta s bublinkami. Chutná jako ráno po dešti.",
+  "price": 7900,
+  "image": "dish-okurkova-limonada-nedoslazeno",
+  "recipe": "okurkova-limonada",
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 10,
+  "about": [
+    "Okurková limonáda je nejchladivější věc, kterou umíš vyrobit mixérem. Okurka dodá vodnatost a trávově svěží chuť, limetka kyselost a máta pocit, že sis dal minutu navíc na sebe.",
+    "Záleží na dvou věcech: okurku přecedit, ať limonáda není kašovitá, a perlivou vodu dolít až do sklenice, aby neztratila bublinky. Naše sklenice je smyšlená, ta tvoje může být skutečně studená."
+  ],
+  "featured": true,
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "03",
+          "name": "0,3 l",
+          "priceDelta": -1000
+        },
+        {
+          "id": "04",
+          "name": "0,4 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "05",
+          "name": "0,5 l",
+          "priceDelta": 1500
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "led",
+          "name": "Víc ledu",
+          "priceDelta": 0
+        },
+        {
+          "id": "mata",
+          "name": "Máta navíc",
+          "priceDelta": 500
+        },
+        {
+          "id": "citron",
+          "name": "Plátek citronu",
+          "priceDelta": 500
+        }
+      ],
+      "max": 3
+    }
+  ]
+}

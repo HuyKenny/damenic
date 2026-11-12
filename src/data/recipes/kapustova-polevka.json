@@ -1,0 +1,139 @@
+{
+  "title": "Kapustová polévka s bramborami",
+  "keywords": [
+    "kapustová polévka",
+    "kapustová polévka recept",
+    "kapustová polévka s uzeným",
+    "kapustová polévka s bramborami"
+  ],
+  "image": "dish-kapustova-polevka-lzice-zitra",
+  "category": "polevky",
+  "vegetarian": false,
+  "servings": 5,
+  "activeMinutes": 25,
+  "cookMinutes": 40,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Kapustová polévka s bramborami a uzeným masem je hustá, zimní a hotová za asi hodinu. Hlávková kapusta se vaří jen 15 až 20 minut, takže polévka neztratí barvu ani chuť. Těžké je nepřevařit kapustu, jinak zhořkne.",
+  "ingredients": [
+    {
+      "ingredient": "kapusta",
+      "amount": 500,
+      "unit": "g",
+      "note": "bez košťálu, nakrájená na proužky"
+    },
+    {
+      "ingredient": "uzene-maso",
+      "amount": 120,
+      "unit": "g",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kostky 1,5 cm"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1600,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej olej a 4 minuty restuj cibuli s uzeným masem, dokud cibule nezesklovatí."
+    },
+    {
+      "text": "Přidej kmín a papriku, míchej 20 sekund a ihned zalij vodou. Přidej bobkový list, mrkev a brambory."
+    },
+    {
+      "text": "Přiveď k varu, přikryj a vař 12 minut. Pak přidej kapustu a vař dalších 15 až 20 minut, dokud brambory ani kapusta nejsou měkké."
+    },
+    {
+      "text": "Vlij smetanu, přidej česnek a majoránku a prohřej bez varu. Dochuť solí a pepřem, vyndej bobkový list."
+    }
+  ],
+  "tips": [
+    "Kapustu nepřevařuj. Po 20 minutách ztrácí barvu a získává ostrou kapustovou vůni.",
+    "Košťál z kapusty vyřízni, je tuhý a vaří se déle než listy.",
+    "V lednici vydrží 3 až 4 dny, zamrazit ji jde na 3 měsíce bez smetany.",
+    "Z 25 minut práce zbytek vaří. Hodí se na přípravu dopředu."
+  ],
+  "substitutions": [
+    "Smetanu nahradí lžíce zakysané smetany na talíři.",
+    "Uzené maso zastoupí slanina nebo uzená klobása."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří kapusta v polévce?",
+      "a": "Hlávková kapusta nakrájená na proužky se vaří 15 až 20 minut. Delší vaření ji zahořčí a zbaví barvy."
+    },
+    {
+      "q": "Proč kapustová polévka zapáchá?",
+      "a": "Dlouhým vařením kapusta uvolňuje sirné látky. Vař ji jen do změknutí a okamžitě podávej."
+    },
+    {
+      "q": "Jde kapustová polévka zamrazit?",
+      "a": "Ano, na 3 měsíce, nejlépe bez smetany. V lednici vydrží 3 až 4 dny."
+    }
+  ]
+}

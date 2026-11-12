@@ -1,0 +1,41 @@
+{
+  "name": "Flat white",
+  "section": "Nápoje",
+  "price": 8900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 70,
+  "description": "Dvojitý espresso a jemně našlehané mléko. K croissantu jako stvořený.",
+  "about": [],
+  "kind": "drink",
+  "restaurant": "pekarna-zitra-upecem",
+  "image": "dish-flat-white-zitra-upecem",
+  "allergens": [
+    7
+  ],
+  "optionGroups": [
+    {
+      "id": "mleko",
+      "name": "Mléko",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "plne",
+          "name": "Plnotučné",
+          "priceDelta": 0
+        },
+        {
+          "id": "ovesne",
+          "name": "Ovesné",
+          "priceDelta": 1000
+        },
+        {
+          "id": "sojove",
+          "name": "Sojové",
+          "priceDelta": 1000
+        }
+      ]
+    }
+  ]
+}

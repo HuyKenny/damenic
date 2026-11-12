@@ -1,0 +1,15 @@
+{
+  "name": "Skořicový cukr na posyp",
+  "section": "Doplňky",
+  "price": 2900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 60,
+  "description": "Cukr se skořicí v sáčku. Na posyp všeho, co nechceš nechat obyčejné.",
+  "about": [],
+  "kind": "side",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "image": "dish-skoricovy-cukr-na-posyp",
+  "allergens": [],
+  "vegan": true
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Preclík s máslem",
+  "restaurant": "prazirna-pul-hrnku",
+  "kind": "side",
+  "section": "K tomu",
+  "description": "Měkký preclík s hrubou solí a plátkem másla, ke kávě jako zastávka.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-ph-slany-preclik",
+  "recipe": null,
+  "vegetarian": true,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 60
+}

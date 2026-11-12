@@ -1,0 +1,119 @@
+{
+  "title": "Holandský řízek",
+  "keywords": [
+    "holandský řízek recept",
+    "holandský řízek",
+    "řízek plněný šunkou a sýrem",
+    "holandský řízek se šunkou a eidamem"
+  ],
+  "image": "dish-holandsky-rizek-pivnice",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 12,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek obalených řízků v lednici",
+  "difficulty": "střední",
+  "intro": "Holandský řízek je vepřový řízek plněný šunkou a eidamem, obalený a usmažený dozlatova. Recept je pro čtyři porce a trvá asi hodinu. Nejtěžší je zavřít kapsu tak, aby sýr při smažení nevytekl.",
+  "steps": [
+    {
+      "text": "Z každého plátku masa nařízni nožem kapsu: podélně do boku, skoro až ke kraji, aby zůstal celistvý. Maso lehce naklepej přes fólii na tloušťku asi 1 cm, ať se kapsa nerozpadne."
+    },
+    {
+      "text": "Maso zevnitř i zvenku osol a opepři. Do každé kapsy vlož plátek šunky přeložený napůl a plátek eidamu, aby sýr nevyčníval za okraj."
+    },
+    {
+      "text": "Otevřený okraj zavři 1 až 2 špejlemi nebo ho pevně zatlač. Řízky obal po řadě v mouce (přebytek oklep), ve vejci a ve strouhance a strouhanku lehce přitlač."
+    },
+    {
+      "text": "Obalené řízky nech 15 minut v lednici. Obal se ustálí a sýr nevyteče tak snadno."
+    },
+    {
+      "text": "Do široké pánve nalij olej, rozehřej ho na 170 °C a smaž řízky 4 až 5 minut z každé strany dozlatova. Uvnitř musí mít maso aspoň 70 °C a nesmí být růžové."
+    },
+    {
+      "text": "Hotové řízky vyndej na papírovou utěrku, vytáhni špejle a podávej hned s bramborovým salátem nebo vařenými brambory."
+    }
+  ],
+  "tips": [
+    "Plněné řízky smaž spíš na středním plameni. Při příliš vysoké teplotě obal ztmavne dřív, než se sýr uvnitř rozpustí a maso propeče.",
+    "Plátek sýra vždy nech menší než kapsa, aby se nevytlačil okrajem ven.",
+    "Neuklepej maso do tenka jako na vídeňský řízek: pro kapsu potřebuje větší tloušťku."
+  ],
+  "substitutions": [
+    "Místo vepřové kýty jde stejným způsobem kuřecí prso, doba smažení je podobná a vnitřek musí mít 75 °C.",
+    "Eidam jde nahradit goudou nebo uzeným sýrem.",
+    "Místo mouky, vajec a strouhanky můžeš obal zjednodušit na vajíčko a strouhanku, bude ale hůř držet sýr."
+  ],
+  "faq": [
+    {
+      "q": "Co je holandský řízek?",
+      "a": "Je to vepřový řízek plněný šunkou a eidamem. Maso se nařízne na kapsu, naplní, obalí v trojobalu a usmaží v oleji nebo sádle."
+    },
+    {
+      "q": "Proč z řízku vytekl sýr?",
+      "a": "Většinou byla kapsa špatně zavřená, sýr přečníval okraj nebo se smažilo příliš prudce. Zavři okraj špejlí, nech obalené řízky vychladit a smaž při 170 °C."
+    },
+    {
+      "q": "Jak dlouho se smaží holandský řízek?",
+      "a": "Asi 4 až 5 minut z každé strany při 170 °C. Maso musí mít uvnitř aspoň 70 °C a obal má být zlatý."
+    }
+  ],
+  "category": "ceska",
+  "ingredients": [
+    {
+      "ingredient": "veprova-kyta",
+      "amount": 500,
+      "unit": "g",
+      "note": "4 plátky, asi 125 g kus"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 100,
+      "unit": "g",
+      "note": "4 plátky"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 120,
+      "unit": "g",
+      "note": "4 tenké plátky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "rozšlehaná",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 300,
+      "unit": "ml",
+      "note": "na smažení, vrstva asi 1 cm",
+      "group": "Smažení"
+    }
+  ]
+}

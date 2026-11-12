@@ -1,0 +1,15 @@
+{
+  "name": "Meruňkový džem na namazání",
+  "section": "K pečivu",
+  "price": 3500,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 60,
+  "description": "Sladký, hustý, s kousky ovoce. Nanečisto nemáš čím namazat, my ho aspoň máme.",
+  "about": [],
+  "kind": "side",
+  "restaurant": "pekarna-zitra-upecem",
+  "image": "dish-merunkovy-dzem-na-namazani",
+  "allergens": [],
+  "vegan": true
+}

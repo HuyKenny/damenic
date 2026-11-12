@@ -1,0 +1,72 @@
+{
+  "title": "Flat white",
+  "keywords": [
+    "flat white",
+    "flat white recept",
+    "flat white doma",
+    "jak udělat flat white"
+  ],
+  "image": "dish-flat-white",
+  "category": "kavarna",
+  "vegetarian": true,
+  "servings": 1,
+  "activeMinutes": 8,
+  "cookMinutes": 2,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "intro": "Flat white doma z dvojitého espressa a 120 ml mléka za deset minut. Těžké je mléko: musí mít teplotu 60 až 65 °C a jemnou mikropěnu bez velkých bublin, jinak se z flat white stane obyčejná káva s mlékem.",
+  "ingredients": [
+    {
+      "ingredient": "kava-mleta",
+      "amount": 18,
+      "unit": "g",
+      "note": "čerstvě namletá, jemně na espresso"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "note": "plnotučné nebo polotučné, studené z lednice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do nádobky vsyp 18 g kávy, zarovnej a pevně přitlač. Z kávovaru nebo moka konvičky připrav asi 36 ml silného espressa do předehřátého šálku."
+    },
+    {
+      "text": "Do konvičky nalij 150 ml studeného mléka. Parní tryskou nebo ručním napěňovačem ho ohřej na 60 až 65 °C, nad 70 °C chuť zplihne a zhořkne."
+    },
+    {
+      "text": "Pěnění drž hned pod hladinou jen prvních několik vteřin, aby vznikla tenká jemná pěna, pak trysku ponoř hlouběji a mléko nech točit."
+    },
+    {
+      "text": "Konvičkou lehce klepni o stůl a promíchej krouživým pohybem, aby bylo mléko lesklé a bez bublin."
+    },
+    {
+      "text": "Mléko nalévej do espressa středem nízko u okraje šálku, aby se vytvořila tenká vrstva pěny. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Šálek předehřej horkou vodou, flat white je malý a studený šálek ho ochladí rychle.",
+    "Bez parní trysky nahřej mléko na 60 až 65 °C v hrnci a prošlehej ručním napěňovačem 20 vteřin.",
+    "Použij mléko 3,5 % tuku, tučné se pění nejlépe."
+  ],
+  "substitutions": [
+    "Místo espressa lze použít silnou kávu z moka konvičky nebo aeropressu.",
+    "Rostlinné nápoje označené „barista“ se pění podobně jako mléko."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi flat white a latte?",
+      "a": "Flat white má víc kávy a míň mléka, tedy silnější chuť, a má jen tenkou vrstvu mikropěny. Latte je větší, s více mléka a vyšší pěnou."
+    },
+    {
+      "q": "Kolik mléka patří do flat white?",
+      "a": "Do šálku se dává asi 120 ml napěněného mléka na dvojité espresso, celkový objem je zhruba 160 až 180 ml."
+    },
+    {
+      "q": "Dá se flat white udělat bez kávovaru?",
+      "a": "Ano. Silnou kávu připrav v moka konvičce nebo aeropressu a mléko ohřej na 60 až 65 °C a prošlehej ručním napěňovačem."
+    }
+  ]
+}

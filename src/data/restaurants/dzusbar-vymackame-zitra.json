@@ -1,0 +1,37 @@
+{
+  "name": "Džusbar Vymačkáme zítra",
+  "category": "napoje",
+  "cuisine": "Smoothie a ovocné nápoje",
+  "tagline": "Mixér stojí připravený. Jen v něm zatím nic nehučí.",
+  "description": "Smoothie bar, který je celý smyšlený: ovoce na pultě je jen na obrázku a mixér se točí naprázdno. Skutečné jsou recepty, takže si šťávu nakonec vymačkáš sám.",
+  "etaMinutes": 20,
+  "deliveryFee": 2900,
+  "minOrder": 14900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "08:00",
+    "close": "19:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa"
+  ],
+  "promo": {
+    "type": "free-delivery",
+    "label": "Dopravné 0 Kč"
+  },
+  "logo": {
+    "text": "DV",
+    "color": "#E8446D",
+    "ink": "light"
+  },
+  "sections": [
+    "Smoothie",
+    "Chladivé",
+    "Přídavky",
+    "Nápoje"
+  ],
+  "order": 200,
+  "isNew": true,
+  "cover": "rest-dzusbar-vymackame-zitra"
+}

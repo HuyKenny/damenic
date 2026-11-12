@@ -1,0 +1,15 @@
+{
+  "name": "Pomerančový fresh 0,3 l",
+  "restaurant": "dzusbar-vymackame-zitra",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Šťáva z pomerančů, které nikdy nedorazily. Slibujeme žádnou dužninu.",
+  "price": 7900,
+  "image": "dish-pomerancovy-fresh-vymackame",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 60,
+  "about": []
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Citronový sorbet",
+  "section": "Sorbety",
+  "price": 9900,
+  "recipe": "citronovy-sorbet",
+  "vegetarian": true,
+  "order": 30,
+  "description": "Kyselý jako ráno, studený jako lednice. Bez mléka a bez vajec.",
+  "about": [
+    "Citronový sorbet je led se šťávou, v němž nezbylo nic než voda, cukr a citron. Díky tomu je osvěžující, lehký a vhodný i pro ty, kdo nejedí mléko ani vejce.",
+    "Čtyřikrát za sebou ho musíš promíchat, ale jen jednou si ho vychutnáš. Rozumný poměr."
+  ],
+  "kind": "main",
+  "restaurant": "zmrzlinovy-bar-posledni-lzicka",
+  "image": "dish-citronovy-sorbet",
+  "allergens": [],
+  "vegan": true
+}

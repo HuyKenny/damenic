@@ -1,0 +1,33 @@
+{
+  "name": "Pražírna Půl hrnku",
+  "category": "kavarna",
+  "cuisine": "Pražírna a mléčné kávy",
+  "tagline": "Plný hrnek ti nepřivezeme. Půl taky ne.",
+  "description": "Cappuccino s pěnou, vídeňská káva s kopcem šlehačky a irská káva pro dospělé hrdiny. Pražírna je smyšlená a nic nepraží, jen z jejího menu vznikají recepty, které doopravdy povedou k šálku.",
+  "etaMinutes": 25,
+  "deliveryFee": 2900,
+  "minOrder": 14900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "07:00",
+    "close": "18:00"
+  },
+  "tags": [
+    "bez masa"
+  ],
+  "logo": {
+    "text": "PH",
+    "color": "#B5651D",
+    "ink": "light"
+  },
+  "sections": [
+    "Mléčné kávy",
+    "Silné a sladké",
+    "K tomu",
+    "Nápoje"
+  ],
+  "order": 201,
+  "isNew": true,
+  "cover": "rest-prazirna-pul-hrnku",
+  "pickup": true
+}

@@ -1,0 +1,155 @@
+{
+  "title": "Bramboračka s houbami",
+  "keywords": [
+    "bramboračka",
+    "bramboračka recept",
+    "bramboračka s houbami",
+    "domácí bramboračka"
+  ],
+  "image": "dish-bramboracka-lzice-zitra",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 5,
+  "activeMinutes": 25,
+  "cookMinutes": 35,
+  "waitMinutes": 20,
+  "waitLabel": "namáčení sušených hub",
+  "difficulty": "snadné",
+  "intro": "Bramboračka je česká polévka z brambor, kořenové zeleniny a sušených hub, která se zahušťuje zásmažkou. Na 5 porcí potřebuješ hodinu a čtvrt, z toho 25 minut práce. Těžké je nespálit zásmažku a nepřesolit.",
+  "ingredients": [
+    {
+      "ingredient": "houby-susene",
+      "amount": 20,
+      "unit": "g",
+      "note": "namočené ve 200 ml vlažné vody"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 700,
+      "unit": "g",
+      "note": "na kostičky 1,5 cm"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 120,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na zásmažku"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1800,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Sušené houby zalij 200 ml vlažné vody a nech 20 minut změknout. Pak je vyjmi, nakrájej a vodu přelij přes jemné sítko, použiješ ji do polévky."
+    },
+    {
+      "text": "Ve vodě (1800 ml) vař mrkev, petržel, celer, kmín, bobkový list a nové koření 10 minut. Přidej houby, houbovou vodu a brambory a vař dalších 15 až 20 minut do změknutí brambor."
+    },
+    {
+      "text": "Mezitím udělej zásmažku: na pánvi rozehřej olej, přisyp mouku a 2 až 3 minuty míchej na středním plameni do světle zlatého základu. Ihned přimíchej cibuli, česnek a papriku a míchej půl minuty."
+    },
+    {
+      "text": "Zásmažku rozmíchej s naběračkou horké polévky do hladka, vlij ji do hrnce a míchej. Vař 5 minut, polévka zhoustne."
+    },
+    {
+      "text": "Přidej majoránku, osol, opepři a vyndej bobkový list a nové koření. Ochutnej a případně dosol."
+    }
+  ],
+  "tips": [
+    "Houby namáčej v teplé, ne horké vodě. Houbová voda je polovina chuti, jen ji slij opatrně, na dně bývá písek.",
+    "Zásmažka musí být jen světle zlatá. Tmavá je hořká. Mouku na ni vždy osmahni minimálně 2 minuty, aby nechutnala syrově.",
+    "Polévka vydrží 4 dny v lednici, zamrazit ji jde, brambory ale po rozmrazení trochu změknou. Počítej s tím.",
+    "Rozdělení práce: 20 minut čekání na houby využij ke krájení zeleniny."
+  ],
+  "substitutions": [
+    "Sušené houby nahradíš 150 g čerstvých žampionů, chuť bude mírnější.",
+    "Zásmažku můžeš vynechat a polévku zahustit tím, že pár bramborových kostek rozmačkáš lžící."
+  ],
+  "faq": [
+    {
+      "q": "Je v bramboračce potřeba zásmažka?",
+      "a": "Není nutná, polévku zahustí i rozmačkané brambory. Zásmažka ale dodá klasickou hustotu a chuť, kterou od bramboračky čekáš."
+    },
+    {
+      "q": "Jak dlouho vydrží bramboračka a jde zamrazit?",
+      "a": "V lednici vydrží 4 dny. Zamrazit ji můžeš, ale brambory po rozmrazení změknou. Lepší je zmrazit základ bez brambor a ty uvařit čerstvé."
+    },
+    {
+      "q": "Čím zesílit chuť bramboračky?",
+      "a": "Sušenými houbami včetně vody z namáčení, majoránkou a špetkou kmínu. Vařenou polévku nech dopovídat 10 minut pod poklicí."
+    }
+  ]
+}

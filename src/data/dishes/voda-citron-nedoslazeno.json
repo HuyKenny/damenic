@@ -1,0 +1,15 @@
+{
+  "name": "Voda s citronem 0,5 l",
+  "restaurant": "limonadovna-nedoslazeno",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Voda s plátky citronu a ledem. Limonáda pro asketu.",
+  "price": 3900,
+  "image": "dish-voda-citron-nedoslazeno",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 80,
+  "about": []
+}

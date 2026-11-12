@@ -1,0 +1,19 @@
+{
+  "name": "Kysaná smetana s pažitkou",
+  "restaurant": "lzice-zitra",
+  "kind": "side",
+  "section": "K polévce",
+  "description": "Kopeček zakysané smetany s pažitkou. Na polévku, na chleba, na pocit domova.",
+  "price": 2500,
+  "image": "dish-smetana-bylinky-lzice-zitra",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 110,
+  "about": []
+}

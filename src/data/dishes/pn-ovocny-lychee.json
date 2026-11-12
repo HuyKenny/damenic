@@ -1,0 +1,15 @@
+{
+  "name": "Ovocný čaj s lychee 0,4 l",
+  "restaurant": "perly-nanecisto",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Ovocný čaj s lychee a ledem, sladký a svěží jako malá dovolená.",
+  "about": [],
+  "price": 7900,
+  "image": "dish-pn-ovocny-lychee",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 70
+}

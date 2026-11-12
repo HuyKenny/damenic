@@ -1,0 +1,154 @@
+{
+  "title": "Minestrone",
+  "keywords": [
+    "minestrone",
+    "minestrone recept",
+    "italská zeleninová polévka",
+    "minestrone polévka"
+  ],
+  "image": "dish-minestrone-chlebova-dutina",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Minestrone je italská zeleninová polévka s fazolemi a těstovinami, která využije, co zrovna ve spíži máš. Na 6 porcí vychází za 1 hodinu, z toho 25 minut krájení. Těžké je uvařit těstoviny tak, aby neztloustly, protože polévku možná budeš ohřívat.",
+  "ingredients": [
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cuketa",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "note": "plechovka, rozmačkaná"
+    },
+    {
+      "ingredient": "fazole-bile",
+      "amount": 400,
+      "unit": "g",
+      "note": "1 plechovka, slitá"
+    },
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 100,
+      "unit": "g",
+      "note": "například kolínka"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 1000,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej olivový olej a 6 minut na středním plameni restuj cibuli, mrkev a celer. Přidej česnek a míchej půl minuty."
+    },
+    {
+      "text": "Přidej brambory a cuketu, míchej 2 minuty, pak vlij rajčata, vývar a vodu. Přidej tymián a přiveď k varu."
+    },
+    {
+      "text": "Vař přikryté 15 minut, pak přidej fazole a těstoviny. Vař dalších 8 až 10 minut, až jsou těstoviny al dente."
+    },
+    {
+      "text": "Dochuť solí, pepřem a vmíchej bazalku. Podávej posypané parmazánem a pokapané trochou olivového oleje."
+    }
+  ],
+  "tips": [
+    "Chceš minestrone na zítra? Těstoviny uvař zvlášť a přidej je až při podávání, v polévce by nabobtnaly.",
+    "Zeleninu krájej na stejně velké kostky, uvaří se rovnoměrně.",
+    "V lednici vydrží 3 dny, zamrazit ji jde na 3 měsíce bez těstovin.",
+    "Práce je hlavně krájení, zbytek dělá hrnec. Rozděl ji na dvě fáze."
+  ],
+  "substitutions": [
+    "Zeleninu přizpůsob sezoně: dýně, fenykl, špenát nebo zelené fazolky.",
+    "Bez parmazánu bude polévka veganská."
+  ],
+  "faq": [
+    {
+      "q": "Co všechno patří do minestrone?",
+      "a": "Cibule, mrkev, celer, brambor nebo cuketa, rajčata, fazole a krátké těstoviny. Přesný recept není daný, jde o polévku ze zeleniny, kterou máš."
+    },
+    {
+      "q": "Jak zabránit, aby se těstoviny v minestrone rozvařily?",
+      "a": "Přidej je až posledních 8 až 10 minut vaření a vař do al dente. Pokud polévku ohříváš druhý den, uvař těstoviny zvlášť."
+    },
+    {
+      "q": "Jde minestrone zamrazit?",
+      "a": "Ano, na 3 měsíce, nejlépe bez těstovin. V lednici vydrží 3 dny."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Flat white",
+  "restaurant": "kavarna-dopiju-zitra",
+  "kind": "main",
+  "section": "Espresso",
+  "description": "Dvojité espresso a hedvábné mléko s tenkou vrstvou mikropěny, malý a silný šálek.",
+  "about": [
+    "Flat white je malý šálek pro ty, kdo chtějí cítit kávu, ne pěnu. Dvojité espresso se doplní teplým mlékem s tenkou mikropěnou, která má být jemná jako lesklá barva, ne jako hora z cappuccina.",
+    "Tady si vybereš druh mléka a případně extra shot. Doma rozhodují dvě věci: čerstvě namletá káva a mléko ohřáté jen na 60 až 65 °C. Šálek je malý a pravý, jen ho nikdo nepodá."
+  ],
+  "price": 7900,
+  "image": "dish-flat-white",
+  "recipe": "flat-white",
+  "optionGroups": [
+    {
+      "id": "mleko",
+      "name": "Mléko",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kravske",
+          "name": "Kravské",
+          "priceDelta": 0
+        },
+        {
+          "id": "ovesne",
+          "name": "Ovesné",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "shot",
+          "name": "Extra shot espressa",
+          "priceDelta": 1500
+        },
+        {
+          "id": "sirup-vanilka",
+          "name": "Vanilkový sirup",
+          "priceDelta": 1200
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "allergens": [
+    7
+  ],
+  "featured": true,
+  "order": 10
+}

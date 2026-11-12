@@ -1,0 +1,17 @@
+{
+  "name": "Bílá čokoláda s matchou",
+  "restaurant": "matcharna-jeste-slehame",
+  "kind": "dessert",
+  "section": "Sladké",
+  "description": "Tabulka bílé čokolády poprášená matchou, sladká s hořkým koncem.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-mj-matcha-cokolada",
+  "recipe": null,
+  "vegetarian": true,
+  "allergens": [
+    6,
+    7
+  ],
+  "order": 50
+}

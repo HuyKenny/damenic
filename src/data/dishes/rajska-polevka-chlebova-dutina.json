@@ -1,0 +1,56 @@
+{
+  "name": "Rajská polévka s vlasovými nudlemi",
+  "section": "Z hrnce",
+  "price": 9900,
+  "recipe": "rajska-polevka-s-vlasovymi-nudlemi",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 70,
+  "description": "Hladká rajčatová polévka z passaty s vlasovými nudlemi a petrželkou.",
+  "about": [
+    "Rajská polévka s nudlemi je polévka pro lidi, kteří mají rádi, když je všechno rychle hotové a chutná jako z dětství. Passata, protlak, vývar a špetka cukru, která stáhne kyselost. Nudle se vaří zvlášť.",
+    "Nudle brzy nasají tekutinu, a proto se do polévky dávají až při podávání. Sklad s nudlemi má bistro plný, jenže smyšlený."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší 0,3 l",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická 0,45 l",
+          "priceDelta": 0
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "chleb",
+          "name": "Chlebová miska",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "chlebova-dutina",
+  "image": "dish-rajska-polevka-chlebova-dutina",
+  "allergens": [
+    1,
+    9
+  ]
+}

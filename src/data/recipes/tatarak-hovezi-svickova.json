@@ -1,0 +1,148 @@
+{
+  "title": "Tatarák z hovězí svíčkové",
+  "keywords": [
+    "tatarák",
+    "tatarák z hovězí svíčkové",
+    "tatarák recept",
+    "tatarák z hovězího"
+  ],
+  "image": "dish-tatarak-pivnice",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 30,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "intro": "Tatarák z hovězí svíčkové pro dva, hotový za půl hodiny, bez vaření. Je to jídlo ze syrového masa, takže rozhoduje původ: maso musí být čerstvé, od důvěryhodného řezníka, správně chlazené a zpracované těsně před jídlem. Chuť pak dělá dochucení, ne maso samotné.",
+  "steps": [
+    {
+      "text": "Maso a nástroje drž v lednici do poslední chvíle. Svíčku očisti od blan a šlach a kostku nožem nakrájej na stejnoměrné kousky velikosti asi 3 mm. Nemel ji ve strojku, kde se zahřeje."
+    },
+    {
+      "text": "Cibuli a okurky nakrájej najemno a směs vlož do misky. Přidej hořčici, kečup, worcester, sůl, pepř a chilli a promíchej."
+    },
+    {
+      "text": "Maso vmíchej do ochucené směsi vidličkou. Ochutnej, případně dosol a dochuť. Podávej hned, nenech ho stát."
+    },
+    {
+      "text": "Topinky opeč na pánvi na troše oleje po 2 až 3 minutách z každé strany do zlatova a ještě horké potři půlkou stroužku česneku."
+    },
+    {
+      "text": "Tatarák rozděl na dvě porce, do každé udělej důlek a vlož žloutek. Podávej hned s topinkami."
+    }
+  ],
+  "tips": [
+    "Tatarák ze syrového masa je vhodný jen pro zdravé dospělé. Dětem, těhotným ženám, seniorům a lidem se sníženou imunitou ho nedávej.",
+    "Koupi dělej v den přípravy, maso uchovávej při 0 až 4 °C a zpracuj ho do několika hodin. Vejce na žloutky musí být čerstvá a nepoškozená.",
+    "Mletí ve strojku maso zahřeje a zmaže. Nožem se krájí pomalu, ale chuť i struktura jsou lepší.",
+    "Hotový tatarák nenechávej na druhý den. Co zbyde, vyhoď, syrové maso se skladovat nedá."
+  ],
+  "substitutions": [
+    "Hovězí svíčku jde nahradit hovězí kližkou, která je levnější, ale vyžaduje důkladné očištění od šlach.",
+    "Bez syrových vajec jde použít jen žloutek natvrdo nastrouhaný nebo vynechat žloutek.",
+    "Místo kečupu jde použít špetku sladké papriky."
+  ],
+  "faq": [
+    {
+      "q": "Jaké maso se používá na tatarák?",
+      "a": "Hovězí svíčková nebo jiná jemná část, například zadní. Maso musí být čerstvé, od důvěryhodného zdroje a bez šlach a blan."
+    },
+    {
+      "q": "Je bezpečné jíst syrové maso?",
+      "a": "Vždy je tam riziko bakterií. Čerstvost, chlazení a hygiena riziko snižují, ale nevylučují. Děti, těhotné, senioři a lidé se sníženou imunitou by ho jíst neměli."
+    },
+    {
+      "q": "Jak dlouho vydrží tatarák?",
+      "a": "Hned po přípravě ho sněz. V lednici stát nenech, zejména když je smíchaný s cibulí a vejcem."
+    }
+  ],
+  "category": "ceska",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-svickova",
+      "amount": 300,
+      "unit": "g",
+      "note": "čerstvá, chlazená, od důvěryhodného řezníka",
+      "group": "Tatarák"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen žloutky, čerstvá vejce",
+      "group": "Tatarák"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Tatarák"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 40,
+      "unit": "g",
+      "note": "najemno nakrájené",
+      "group": "Tatarák"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Tatarák"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Tatarák"
+    },
+    {
+      "ingredient": "worcester",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Tatarák"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Tatarák"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "čerstvě mletý",
+      "group": "Tatarák"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Tatarák"
+    },
+    {
+      "ingredient": "toustovy-chleb",
+      "amount": 150,
+      "unit": "g",
+      "note": "na topinky",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na potření topinek",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 20,
+      "unit": "ml",
+      "note": "na opečení topinek",
+      "group": "Podávání"
+    }
+  ]
+}
