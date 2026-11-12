@@ -76,6 +76,60 @@ const INTRO: Record<string, string[]> = {
     'Ovesná kaše, granola, vejce Benedikt, french toast nebo shakshuka. Snídaně na pracovní ráno i na lenivý víkend.',
     'U každého receptu je vidět, kolik minut zabere práce a kolik vaření.',
   ],
+  kavarna: [
+    'Dobrá káva doma stojí na třech věcech: čerstvě namleté zrno, správný poměr vody a trpělivost. Ledová káva, flat white nebo cold brew se dají udělat bez profesionálního kávovaru.',
+    'U každého receptu píšeme, kolik kávy a vody použít, jak dlouho extrahovat a čím nahradit mléko, když ho doma nemáš.',
+  ],
+  matcha: [
+    'Matcha latte, ledová matcha, chai nebo bubble tea. Nápoje, které v kavárnách stojí hodně a doma vyjdou na zlomek, když znáš správnou teplotu vody a poměr mléka.',
+    'Matchu nikdy nezalévej vroucí vodou: zhořkne. U každého receptu najdeš teplotu, poměry a varianty bez mléka.',
+  ],
+  pekarna: [
+    'Croissanty, focaccia, jablečný koláč nebo skořicové rolky. Pečivo a koláče, u kterých rozhoduje čas kynutí, teplota másla a správně rozpálená trouba.',
+    'Čas práce, pečení a kynutí uvádíme odděleně, abys věděl, kdy u těsta opravdu stát a kdy si můžeš číst.',
+  ],
+  zmrzlina: [
+    'Domácí zmrzlina nemusí potřebovat zmrzlinovač. Stačí smetana, ovoce nebo čokoláda, mrazák a občasné promíchání, aby se netvořily krystaly.',
+    'U každého receptu je vidět, kolik času zabere příprava a kolik čekání v mrazáku, protože tahle část trvá nejdéle.',
+  ],
+  napoje: [
+    'Okurková, bezinková nebo zázvorová limonáda, domácí sirupy, smoothie a ledový čaj. Osvěžení, které si namícháš za pár minut a nemá v sobě pytel cukru navíc.',
+    'Sirupy se dají uchovat v lednici několik týdnů, limonády se míchají těsně před podáváním. U každého receptu to píšeme výslovně.',
+  ],
+  kure: [
+    'Křidélka na medu, buffalo wings nebo korejské smažené kuře: křupavá kůže se rodí z dobře osušeného masa, správné teploty trouby a trochy trpělivosti.',
+    'Drůbež musí být uvnitř propečená (75 °C). U každého receptu najdeš čas v troubě i alternativu na pánvi či fritéze.',
+  ],
+  steak: [
+    'Dobrý steak je o kvalitním kusu masa, rozpálené pánvi a odpočinku po vytažení. Pečení trvá minuty, rozdíl dělá načasování a teplota uvnitř.',
+    'U každého receptu uvádíme čas pro medium rare až well done, a také omáčky, které se k masu hodí.',
+  ],
+  salaty: [
+    'Caesar salát, řecký salát, ovesné kaše přes noc nebo avokádový toast. Lehká jídla, která zasytí a dají se připravit za pár minut.',
+    'Dresinky děláme ze surovin, které máš doma. Hotové jsou za pět minut a chutnají lépe než ty z lahve.',
+  ],
+  polevky: [
+    'Dýňová, čočková, bramboračka, zelňačka nebo kulajda. Polévky jsou nejlevnější způsob, jak nasytit celou rodinu, a většina se dá uvařit na dva dny dopředu.',
+    'U každého receptu píšeme, kolik se uvaří na kolik porcí, jak dlouho vydrží v lednici a co přidat, aby byla hustší nebo lehčí.',
+  ],
+  sendvice: [
+    'Vajíčková pomazánka, škvarková pomazánka, wrapy, bagety nebo hot dogy. Svačiny, které se dělají rychle a vydrží cestu do práce.',
+    'U pomazánek píšeme, jak dlouho vydrží v lednici a co je dobré přidat, když máš chuť na trochu jiné.',
+  ],
+};
+
+/** Hub headings and titles for the newer categories, written around the phrase people actually search. */
+const HEADS: Record<string, { h1: string; title: string }> = {
+  kavarna: { h1: 'Recepty na kávu a kavárenské nápoje', title: 'Recepty na kávu: ledová káva, flat white, cold brew' },
+  matcha: { h1: 'Matcha a čaj: recepty na matcha latte a bubble tea', title: 'Matcha latte a bubble tea: recepty na doma' },
+  pekarna: { h1: 'Recepty na pečivo, koláče a kynuté dobroty', title: 'Recepty na pečivo a koláče z pekárny' },
+  zmrzlina: { h1: 'Domácí zmrzlina a ledové dezerty: recepty', title: 'Domácí zmrzlina – recepty bez zmrzlinovače' },
+  napoje: { h1: 'Recepty na limonády, sirupy a smoothie', title: 'Domácí limonády, sirupy a smoothie – recepty' },
+  kure: { h1: 'Kuřecí křidélka a smažené kuře: recepty', title: 'Kuřecí křidélka – recepty na křupavé wings' },
+  steak: { h1: 'Steaky: jak připravit hovězí steak doma', title: 'Jak udělat steak doma – recepty a teploty' },
+  salaty: { h1: 'Saláty a fit recepty na každý den', title: 'Saláty a fit recepty – rychlé a zdravé' },
+  polevky: { h1: 'Recepty na polévky: české i světové', title: 'Recepty na polévky – dýňová, čočková, zelňačka' },
+  sendvice: { h1: 'Pomazánky, sendviče a wrapy: recepty', title: 'Recepty na pomazánky, wrapy a sendviče' },
 };
 
 export async function RECIPE_HUBS(): Promise<Hub[]> {
@@ -88,8 +142,8 @@ export async function RECIPE_HUBS(): Promise<Hub[]> {
     hubs.push({
       slug: `kuchyne/${id}`,
       path: `/recepty/kuchyne/${id}/`,
-      h1: id === 'ceska' ? 'Recepty české kuchyně' : id === 'palacinky' ? 'Recepty na palačinky a lívance' : `${c.label}: recepty`,
-      title: id === 'ceska' ? 'Recepty české kuchyně krok za krokem' : `${c.label} – recepty na doma`,
+      h1: HEADS[id]?.h1 ?? (id === 'ceska' ? 'Recepty české kuchyně' : id === 'palacinky' ? 'Recepty na palačinky a lívance' : `${c.label}: recepty`),
+      title: HEADS[id]?.title ?? (id === 'ceska' ? 'Recepty české kuchyně krok za krokem' : `${c.label} – recepty na doma`),
       description: `${list.length} receptů (${name}) s poctivými časy, přepočtem porcí, odhadem nákladů a nákupním seznamem. ${c.lead}`,
       intro: INTRO[id] ?? [c.lead],
       recipes: list,

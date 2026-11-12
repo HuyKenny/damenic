@@ -27,6 +27,16 @@ export const CATEGORY_LABELS: Record<string, { label: string; lead: string }> = 
   palacinky: { label: 'Palačinky', lead: 'Palačinky, lívance a americké pancakes.' },
   dezerty: { label: 'Dezerty', lead: 'Koláče, bábovky, brownies a krémy.' },
   snidane: { label: 'Snídaně', lead: 'Vejce, kaše, granola a toasty.' },
+  kavarna: { label: 'Kavárny', lead: 'Espresso, ledová káva, flat white a cold brew.' },
+  matcha: { label: 'Matcha a čaj', lead: 'Matcha latte, chai, bubble tea a mochi.' },
+  pekarna: { label: 'Pekárny', lead: 'Croissanty, focaccia, koláče a kynuté dobroty.' },
+  zmrzlina: { label: 'Zmrzlina', lead: 'Domácí zmrzliny, sorbety a ledové dezerty.' },
+  napoje: { label: 'Limonády a smoothie', lead: 'Sirupy, domácí limonády, smoothie a ledové čaje.' },
+  kure: { label: 'Křidélka', lead: 'Křidélka, smažené kuře a pálivé omáčky.' },
+  steak: { label: 'Steaky', lead: 'Hovězí steaky, omáčky a správná teplota.' },
+  salaty: { label: 'Saláty a fit', lead: 'Saláty, bowly, ovesné kaše a lehké snídaně.' },
+  polevky: { label: 'Polévky', lead: 'Hrnec, vývar a lžíce: české i světové polévky.' },
+  sendvice: { label: 'Sendviče a wrapy', lead: 'Pomazánky, bagety, wrapy a toasty.' },
 };
 
 /** Shortens meta text to `max` characters at a word boundary, with an ellipsis (search results cut around 155). */

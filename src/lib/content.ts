@@ -162,6 +162,8 @@ export function brand(name: string): ImageMetadata | null {
   return brandFiles[`/src/assets/brand/${name}.png`] ?? null;
 }
 
+const SVG_ICONS = new Set(['kavarna', 'matcha', 'pekarna', 'zmrzlina', 'napoje', 'kure', 'steak', 'salaty', 'polevky', 'sendvice']);
+
 export interface CategoryIcon {
   id: string;
   label: string;
@@ -178,8 +180,9 @@ export function categoryIcons(): Promise<CategoryIcon[]> {
     for (const [id, c] of Object.entries(CATEGORY_LABELS)) {
       const count = restaurants.filter((r) => r.data.category === id).length;
       const meta = brand(`cat-${id}`);
-      if (!count || !meta) continue;
-      out.push({ id, label: c.label, count, src: (await getImage({ src: meta, width: 112, height: 112, format: 'webp', quality: 80 })).src });
+      // Newer categories ship a hand-drawn SVG from public/icons (no image processing needed).
+      if (!count || (!meta && !SVG_ICONS.has(id))) continue;
+      out.push({ id, label: c.label, count, src: meta ? (await getImage({ src: meta, width: 112, height: 112, format: 'webp', quality: 80 })).src : `/icons/cat-${id}.svg` });
     }
     return out;
   })());

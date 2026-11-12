@@ -11,6 +11,8 @@ const halere = z.number().int().nonnegative();
 export const CATEGORIES = [
   'pizza', 'burgery', 'ceska', 'asijska', 'sushi', 'thajska', 'indicka', 'mexicka',
   'kebab', 'italska', 'vegetarianska', 'poke', 'palacinky', 'dezerty', 'snidane',
+  // v3 (12. 11. 2026): cafés, tea, bakery, ice cream, drinks, wings, steak, salads, soups, sandwiches
+  'kavarna', 'matcha', 'pekarna', 'zmrzlina', 'napoje', 'kure', 'steak', 'salaty', 'polevky', 'sendvice',
 ] as const;
 
 /** EU allergen numbers 1–14 (Regulation 1169/2011, Annex II). */

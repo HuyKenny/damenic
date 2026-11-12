@@ -66,7 +66,8 @@ function checkAsset(owner, id) {
 // Dishes and recipes share the /jidla/ and /recepty/ namespaces separately, but a dish and a restaurant id may not collide in search.
 for (const [id, r] of restaurants) {
   if (!isMoney(r.deliveryFee)) err(`restaurant ${id}: deliveryFee must be a non-negative integer (haléře)`);
-  const CATS = ['pizza', 'burgery', 'ceska', 'asijska', 'sushi', 'thajska', 'indicka', 'mexicka', 'kebab', 'italska', 'vegetarianska', 'poke', 'palacinky', 'dezerty', 'snidane'];
+  // One source of truth: the CATEGORIES list in src/content.config.ts.
+  const CATS = [...readFileSync(new URL('../src/content.config.ts', import.meta.url), 'utf8').match(/export const CATEGORIES = \[([\s\S]*?)\] as const/)[1].matchAll(/'([a-z]+)'/g)].map((m) => m[1]);
   if (!CATS.includes(r.category)) err(`restaurant ${id}: unknown category "${r.category}"`);
   if (!isMoney(r.minOrder ?? 0)) err(`restaurant ${id}: minOrder must be a non-negative integer (haléře)`);
   if (![1, 2, 3].includes(r.priceLevel)) err(`restaurant ${id}: priceLevel must be 1, 2 or 3`);
