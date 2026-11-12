@@ -9,6 +9,8 @@ export interface Hub {
   slug: string;
   path: string;
   h1: string;
+  /** Short name for chips and links between hubs (the h1 is too long for a chip). */
+  label: string;
   title: string;
   description: string;
   intro: string[];
@@ -142,6 +144,7 @@ export async function RECIPE_HUBS(): Promise<Hub[]> {
     hubs.push({
       slug: `kuchyne/${id}`,
       path: `/recepty/kuchyne/${id}/`,
+      label: c.label,
       h1: HEADS[id]?.h1 ?? (id === 'ceska' ? 'Recepty české kuchyně' : id === 'palacinky' ? 'Recepty na palačinky a lívance' : `${c.label}: recepty`),
       title: HEADS[id]?.title ?? (id === 'ceska' ? 'Recepty české kuchyně krok za krokem' : `${c.label} – recepty na doma`),
       description: `${list.length} receptů (${name}) s poctivými časy, přepočtem porcí, odhadem nákladů a nákupním seznamem. ${c.lead}`,
@@ -154,6 +157,7 @@ export async function RECIPE_HUBS(): Promise<Hub[]> {
     hubs.push({
       slug: 'rychle',
       path: '/recepty/rychle/',
+      label: 'Rychlé recepty',
       h1: 'Rychlé recepty do 30 minut',
       title: 'Rychlé recepty do 30 minut včetně vaření',
       description: `${quick.length} receptů, které jsou hotové do 30 minut včetně vaření a čekání. S nákupním seznamem a přepočtem porcí.`,
@@ -168,6 +172,7 @@ export async function RECIPE_HUBS(): Promise<Hub[]> {
     hubs.push({
       slug: 'bez-masa',
       path: '/recepty/bez-masa/',
+      label: 'Bez masa',
       h1: 'Recepty bez masa',
       title: 'Recepty bez masa – vegetariánská jídla na doma',
       description: `${veg.length} vegetariánských receptů napříč kuchyněmi: pizza, těstoviny, kari, bowly, palačinky i dezerty.`,
