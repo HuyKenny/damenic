@@ -23,6 +23,12 @@
       "note": "čerstvě namletá, jemně na espresso"
     },
     {
+      "ingredient": "voda",
+      "amount": 40,
+      "unit": "ml",
+      "note": "na dvojité espresso (kolem 36 g výsledného nápoje)"
+    },
+    {
       "ingredient": "mleko",
       "amount": 150,
       "unit": "ml",
