@@ -53,6 +53,7 @@ if (existsSync(join(DATA, '_extra')))
 const assets = readList('assets.json');
 const partners = readList('partners.json');
 
+const DEPARTMENTS = ['Ovoce a zelenina', 'Maso a ryby', 'Mléčné a chlazené', 'Pečivo', 'Trvanlivé', 'Koření a dochucovadla', 'Ostatní'];
 const isMoney = (n) => Number.isInteger(n) && n >= 0;
 const UNITS = new Set(['g', 'ml', 'ks', 'lzice', 'lzicka', 'spetka']);
 
@@ -142,6 +143,8 @@ for (const [id, r] of recipes) {
 }
 
 for (const [id, i] of ingredients) {
+  if (!DEPARTMENTS.includes(i.department)) err(`ingredient ${id}: unknown department "${i.department}"`);
+  if (!['g', 'ml', 'ks'].includes(i.baseUnit)) err(`ingredient ${id}: baseUnit must be g, ml or ks`);
   if (!isMoney(i.pack?.price)) err(`ingredient ${id}: pack price must be a non-negative integer (haléře)`);
   if (!(i.pack?.size > 0)) err(`ingredient ${id}: pack size must be positive`);
   if (i.priceSource === 'verified' && !i.priceCheckedAt) err(`ingredient ${id}: verified price needs priceCheckedAt`);

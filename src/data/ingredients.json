@@ -3275,7 +3275,7 @@
   {
     "id": "visne-mrazene",
     "name": "Višně mražené, bez pecek",
-    "department": "Mražené",
+    "department": "Ovoce a zelenina",
     "baseUnit": "g",
     "pack": {
       "size": 500,
@@ -3288,7 +3288,7 @@
   {
     "id": "zmrzlina-vanilkova",
     "name": "Vanilková zmrzlina",
-    "department": "Mražené",
+    "department": "Mléčné a chlazené",
     "baseUnit": "ml",
     "pack": {
       "size": 900,
@@ -3708,7 +3708,7 @@
   {
     "id": "brandy",
     "name": "Brandy",
-    "department": "Nápoje",
+    "department": "Ostatní",
     "baseUnit": "ml",
     "pack": {
       "size": 200,
