@@ -1,0 +1,146 @@
+{
+  "title": "Čokoládové kuličky s ořechy bez alkoholu",
+  "keywords": [
+    "nepečené vánoční cukroví",
+    "čokoládové kuličky s ořechy",
+    "rumové kuličky bez alkoholu",
+    "ořechové kuličky",
+    "nepečené cukroví pro děti"
+  ],
+  "intro": "Nepečené vánoční cukroví pro děti: ořechové kuličky ze sušenek, kakaa a másla, obalené v čokoládě. Recept vychází z rumových kuliček, ale rum nahrazuje mléko s vanilkou, takže je bez alkoholu. Vyjde asi 40 kuliček a trouba zůstane studená.",
+  "image": "dish-cokoladove-kulicky-s-orechy",
+  "category": "dezerty",
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "servings": 8,
+  "activeMinutes": 45,
+  "cookMinutes": 0,
+  "waitMinutes": 120,
+  "waitLabel": "chladnutí hmoty a tuhnutí čokolády",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "susenky-maslove",
+      "amount": 200,
+      "unit": "g",
+      "note": "najemno rozdrcené",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno umleté",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 150,
+      "unit": "g",
+      "note": "pro děti klidně mléčná",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na posypání, nepovinný",
+      "group": "Obal"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Hmota",
+      "text": "Sušenky rozdrť v mixéru nebo v sáčku válečkem na jemné drobky. V míse je smíchej s umletými ořechy, moučkovým cukrem, kakaem a vanilkovým cukrem."
+    },
+    {
+      "section": "Hmota",
+      "text": "Přidej změklé máslo a mléko a hněť rukou nebo vařečkou, dokud se hmota nespojí a nedrží tvar. Když se drobí, přidej po lžičce mléka; když se lepí, přisyp lžíci drobků."
+    },
+    {
+      "section": "Hmota",
+      "text": "Hmotu přikryj a dej na 30 minut do lednice ztuhnout, pak se líp tvaruje."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Tvaruj kuličky o průměru 2,5 cm (asi 15 g). Ruce si můžeš navlhčit studenou vodou. Kuličky polož na pečicí papír a dej je na dalších 30 minut do lednice."
+    },
+    {
+      "section": "Obal",
+      "text": "Čokoládu s máslem rozpusť ve vodní lázni tak, aby miska nedosedla na vodu, a míchej do hladka. Nech ji 5 minut mírně zchladnout, ať po kuličkách nestéká."
+    },
+    {
+      "section": "Obal",
+      "text": "Kuličky po jedné ponoř vidličkou do čokolády, nech okapat a polož zpět na papír. Dokud čokoláda neztuhne, můžeš je posypat kokosem."
+    },
+    {
+      "section": "Obal",
+      "text": "Nech čokoládu ztuhnout v chladu asi 1 hodinu a kuličky ulož do košíčků a do dózy."
+    }
+  ],
+  "tips": [
+    "Kvůli máslu a mléku skladuj kuličky v zavřené dóze v lednici. Vydrží tam 2 týdny, takže je stačí udělat v týdnu před Vánocemi.",
+    "Tohle je práce pro děti: drcení sušenek v sáčku a válení kuliček zvládnou samy, horkou čokoládu nech dospělým.",
+    "Pozor na alergie: recept obsahuje lepek, mléko a ořechy. U kamarádů dětí se raději zeptej předem."
+  ],
+  "substitutions": [
+    "Mléko můžeš nahradit stejným množstvím pomerančové šťávy, kuličky budou svěžejší.",
+    "Pro děti s alergií na ořechy vyměň ořechy za 100 g ovesných vloček najemno umletých nebo za další sušenky.",
+    "Místo máslových sušenek se hodí cukrářské piškoty; hmota pak potřebuje o lžíci mléka víc."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží nepečené vánoční cukroví?",
+      "a": "Nepečené kuličky s máslem a mlékem vydrží v zavřené dóze v lednici asi 2 týdny. Při pokojové teplotě je nech jen na stole na pár hodin, ne na celé svátky."
+    },
+    {
+      "q": "Můžou děti jíst rumové kuličky?",
+      "a": "Klasické rumové kuličky obsahují rum, který se nepeče ani nevaří, takže alkohol v nich zůstává a dětem se nedávají. Tahle verze ho nahrazuje mlékem s vanilkou a alkohol v ní není."
+    },
+    {
+      "q": "Proč se kuličky rozpadají?",
+      "a": "Hmota je suchá nebo málo vychlazená. Přidej po lžičce mléka, dokud nedrží tvar, a nech ji 30 minut v lednici. Drobky musí být opravdu jemné, větší kousky sušenek se nespojí."
+    }
+  ]
+}

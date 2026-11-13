@@ -1,0 +1,22 @@
+{
+  "name": "Trdelník se skořicovým cukrem",
+  "restaurant": "stanek-zahrejem-zitra",
+  "kind": "side",
+  "section": "K tomu",
+  "description": "Opečený dozlatova a obalený ve skořicovém cukru. Drobit se bude jen ve tvé představě.",
+  "about": [],
+  "price": 11900,
+  "image": "dish-trdelnik-zahrejem",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 50
+}

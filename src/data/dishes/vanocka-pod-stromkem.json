@@ -1,0 +1,45 @@
+{
+  "name": "Vánočka s rozinkami a mandlemi",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Máslová spletená vánočka s rozinkami, posypaná plátky mandlí. Celá, krájet nebudeme.",
+  "about": [
+    "Vánočka je kynuté máslové těsto spletené z pramenů a upečené do zlatohnědé kůrky. Rozhoduje vlažné mléko, trpělivost při kynutí a pevné pletení, aby se v troubě nerozjela do stran.",
+    "Pletení ze čtyř nebo šesti pramenů se dá naučit podle návodu krok za krokem. U nás je vánočka spletená jen ze slibů. Recept je ale z mouky, másla a droždí."
+  ],
+  "price": 18900,
+  "image": "dish-vanocka-pod-stromkem",
+  "recipe": "vanocka",
+  "optionGroups": [
+    {
+      "id": "rozinky",
+      "name": "Rozinky",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "s-rozinkami",
+          "name": "S rozinkami",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-rozinek",
+          "name": "Bez rozinek",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": true,
+  "order": 10
+}

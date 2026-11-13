@@ -1,0 +1,120 @@
+{
+  "title": "Vanilkové rohlíčky",
+  "keywords": [
+    "vanilkové rohlíčky",
+    "vanilkové rohlíčky recept",
+    "recept na vanilkové rohlíčky",
+    "vánoční cukroví recepty"
+  ],
+  "intro": "Vanilkové rohlíčky z máslového těsta s mletými vlašskými ořechy, obalené ve vanilkovém cukru. Z dávky vyjde asi 60 rohlíčků po 10 g. Těžké jsou na nich dvě věci: těsto musí zůstat studené, aby se rohlíčky nerozpadaly, a z trouby jdou ven ještě světlé.",
+  "image": "dish-vanilkove-rohlicky",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 60,
+  "cookMinutes": 24,
+  "waitMinutes": 60,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 280,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 210,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 100,
+      "unit": "g",
+      "note": "jemně mleté",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Na obalení"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 40,
+      "unit": "g",
+      "note": "2 sáčky",
+      "group": "Na obalení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "V míse promíchej mouku, mleté ořechy, 70 g moučkového cukru a 1 sáček vanilkového cukru. Přidej studené máslo na kostičky a rychle ho prsty nebo hákem robota zpracuj do drobenky."
+    },
+    {
+      "section": "Těsto",
+      "text": "Drobenku krátce spoj v hladké těsto; čím kratší dobu ho hněteš, tím méně se máslo zahřeje. Těsto rozděl na 3 díly, zabal do fólie a nech je 1 hodinu v lednici, klidně i přes noc."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 160 °C) a plechy vylož pečicím papírem. Z jednoho dílu těsta vyvaluj váleček o průměru asi 2 cm a nakrájej ho na kousky po 10 g. Ostatní díly zatím drž v lednici."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Každý kousek prokul v dlaních do válečku dlouhého asi 6 cm s tenčími konci a ohni ho do podkovy. Rohlíčky klaď na plech 2 cm od sebe, příliš nenarostou."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč jeden plech po druhém 10 až 12 minut. Rohlíčky jsou hotové, když mají spodek a špičky lehce zlatavé a vršek zůstává světlý. Tmavé rohlíčky jsou suché a nahořklé."
+    },
+    {
+      "section": "Obalení",
+      "text": "Ve větší misce smíchej 100 g moučkového cukru se 2 sáčky vanilkového cukru. Rohlíčky nech na plechu 2 až 3 minuty zchladnout a pak je po několika opatrně obal v cukru, dokud jsou teplé. Horké se lámou, na studených cukr nedrží."
+    }
+  ],
+  "tips": [
+    "Z dávky vyjde asi 60 rohlíčků po 10 g. Když kousky navážíš, mají rohlíčky stejnou velikost a pečou se stejně dlouho.",
+    "Když se těsto při tvarování drolí, je moc studené: nech ho 5 minut při pokojové teplotě. Když se lepí na ruce, vrať ho na 15 minut do lednice.",
+    "Skladuj je v plechové dóze proložené pečicím papírem na chladném a suchém místě. Vydrží 3 až 4 týdny, zamražené až 3 měsíce."
+  ],
+  "substitutions": [
+    "Vlašské ořechy můžeš nahradit stejným množstvím mletých loupaných mandlí; rohlíčky budou světlejší a jemnější.",
+    "Místo vanilkového cukru na obalení použij dřeň z 1 vanilkového lusku rozetřenou ve 100 g moučkového cukru a nech ji v uzavřené dóze den provonět."
+  ],
+  "faq": [
+    {
+      "q": "Kdy začít péct vánoční cukroví?",
+      "a": "Máslové cukroví jako vanilkové rohlíčky můžeš péct 2 až 3 týdny před Vánoci, v uzavřené dóze v chladu vydrží. Perníčky, které mají změknout, peč dřív, krémové a nepečené cukroví až poslední týden."
+    },
+    {
+      "q": "Na kolik stupňů péct vanilkové rohlíčky?",
+      "a": "Na 170 °C horní a spodní ohřev nebo 160 °C horkovzduch, 10 až 12 minut na jeden plech. Vytáhni je, když jsou světlé a zlátnou jen na spodku a na špičkách."
+    },
+    {
+      "q": "Proč se vanilkové rohlíčky rozpadají?",
+      "a": "Buď je obaluješ moc horké, nebo se těsto dlouho hnětlo a máslo v něm změklo. Rohlíčky nech 2 až 3 minuty na plechu a těsto hněť jen do spojení, pak ho vychlaď."
+    }
+  ]
+}

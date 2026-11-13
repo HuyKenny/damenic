@@ -3810,5 +3810,245 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null
+  },
+  {
+    "id": "piskoty-detske",
+    "name": "Dětské piškoty",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 240,
+      "price": 4500,
+      "label": "balení 240 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kapr-porce",
+    "name": "Kapr (porce s kůží)",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 24900,
+      "label": "porce asi 1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kapr-hlava",
+    "name": "Kapří hlavy a ocasy (na polévku)",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 7900,
+      "label": "asi 1 kg (2 hlavy s ocasy)"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kroupy",
+    "name": "Kroupy ječné",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 2500,
+      "label": "sáček 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "marcipan",
+    "name": "Marcipánová hmota",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 6900,
+      "label": "balení 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "mandle-platky",
+    "name": "Mandlové plátky",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 4500,
+      "label": "sáček 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kandovane-ovoce",
+    "name": "Kandované ovoce (kostičky)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 3500,
+      "label": "sáček 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "dzem-rybizovy",
+    "name": "Rybízový džem",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 20,
+    "pack": {
+      "size": 340,
+      "price": 4900,
+      "label": "sklenice 340 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "vino-cervene",
+    "name": "Červené víno suché (k pití)",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 750,
+      "price": 11900,
+      "label": "láhev 0,75 l"
+    },
+    "alcohol": true,
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "vino-bile-piti",
+    "name": "Bílé víno polosuché (k pití)",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 750,
+      "price": 11900,
+      "label": "láhev 0,75 l"
+    },
+    "alcohol": true,
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "tuzemak",
+    "name": "Tuzemák (tuzemský rum)",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 500,
+      "price": 15900,
+      "label": "láhev 0,5 l"
+    },
+    "alcohol": true,
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "mleko-kondenzovane-slazene",
+    "name": "Kondenzované mléko slazené",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 397,
+      "price": 4900,
+      "label": "plechovka 397 g"
+    },
+    "spoon": 20,
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "mleko-kondenzovane-neslazene",
+    "name": "Kondenzované mléko neslazené 7,5 %",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 310,
+      "price": 3500,
+      "label": "tuba 310 g"
+    },
+    "spoon": 15,
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "pudink-vanilkovy",
+    "name": "Vanilkový pudinkový prášek",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 37,
+      "price": 900,
+      "label": "sáček 37 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "pomeranc",
+    "name": "Pomeranč",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 1200,
+      "label": "1 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "most-jablecny",
+    "name": "Jablečný mošt 100 %",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 1000,
+      "price": 5900,
+      "label": "krabice 1 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "most-hroznovy",
+    "name": "Červený hroznový mošt 100 %",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 1000,
+      "price": 7900,
+      "label": "láhev 1 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "caj-ovocny",
+    "name": "Ovocný čaj (sáčky)",
+    "department": "Trvanlivé",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 20,
+      "price": 4900,
+      "label": "20 sáčků"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
   }
 ]

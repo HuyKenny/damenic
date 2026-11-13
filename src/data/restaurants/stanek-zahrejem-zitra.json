@@ -1,0 +1,33 @@
+{
+  "name": "Stánek Zahřejem zítra",
+  "category": "koktejly",
+  "cuisine": "Vánoční trh, svařák a punč",
+  "tagline": "Kotlík voní skořicí až na náměstí. Nalévat začneme zítra.",
+  "description": "Svařák z červeného i bílého vína, grog a vánoční punč z kotlíku, k tomu trdelník a perníček. Stánek je smyšlený a alkoholické nápoje jsou jen pro 18+, takže nikomu nic nenalijeme. Recepty na doma ale platí.",
+  "etaMinutes": 20,
+  "deliveryFee": 2900,
+  "minOrder": 14900,
+  "priceLevel": 1,
+  "hours": {
+    "open": "14:00",
+    "close": "22:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa"
+  ],
+  "isNew": true,
+  "logo": {
+    "text": "ZZ",
+    "color": "#7A1E2C",
+    "ink": "light"
+  },
+  "cover": "rest-stanek-zahrejem-zitra",
+  "sections": [
+    "Svařáky",
+    "Na zahřátí",
+    "K tomu",
+    "Nápoje"
+  ],
+  "order": 264
+}

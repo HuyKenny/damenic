@@ -1,0 +1,212 @@
+{
+  "title": "Vánoční rybí polévka z kapra",
+  "keywords": [
+    "rybí polévka",
+    "rybí polévka recept",
+    "rybí polévka z kapra",
+    "vánoční rybí polévka",
+    "rybí polévka z hlavy"
+  ],
+  "intro": "Vánoční rybí polévka z kapřích hlav a ocasů: nejdřív se uvaří vývar s kořením a zeleninou, scedí se přes plátno, z hlav se obere maso a do polévky přijde čerstvá kořenová zelenina a světlá jíška. Vyjde 6 talířů. Hořkosti zabrání pečlivě vyříznuté žábry.",
+  "image": "dish-rybi-polevka",
+  "category": "polevky",
+  "occasions": [
+    "vanoce"
+  ],
+  "servings": 6,
+  "activeMinutes": 50,
+  "cookMinutes": 75,
+  "waitMinutes": 15,
+  "waitLabel": "vychladnutí hlav před obíráním",
+  "difficulty": "střední",
+  "vegetarian": false,
+  "ingredients": [
+    {
+      "ingredient": "kapr-hlava",
+      "amount": 1000,
+      "unit": "g",
+      "note": "2 hlavy a ocasy, případně hřbetní kosti",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2500,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "rozpůlená",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "nahrubo",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 100,
+      "unit": "g",
+      "note": "nahrubo",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 80,
+      "unit": "g",
+      "note": "nahrubo",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 5,
+      "unit": "ks",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 15,
+      "unit": "g",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Do polévky"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Do polévky"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Do polévky"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "group": "Do polévky"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Do polévky"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Do polévky"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Do polévky"
+    },
+    {
+      "ingredient": "rohliky",
+      "amount": 3,
+      "unit": "ks",
+      "note": "na krutony",
+      "group": "Krutony"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Krutony"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Z hlav vystřihni nebo vyřízni žábry, červené hřebínky pod skřelemi, a vyškrab zbytky krve. Žábry polévku zakalí a zhořknou. Hlavy, ocasy a kosti opláchni studenou vodou."
+    },
+    {
+      "section": "Vývar",
+      "text": "Ryby dej do velkého hrnce, zalij 2,5 l studené vody, přidej sůl, cibuli, mrkev, petržel a celer na vývar, bobkový list, nové koření a pepř. Přiveď pomalu k varu a sběračkou průběžně sbírej šedou pěnu."
+    },
+    {
+      "section": "Vývar",
+      "text": "Ztlum plamen, aby vývar jen mírně probublával, a vař ho odkrytý 45 minut. Prudký var vývar zakalí a hlavy se rozpadnou na drobné kůstky."
+    },
+    {
+      "section": "Scezení",
+      "text": "Vývar sceď přes jemné sítko vyložené čistou plátěnou utěrkou nebo gázou do druhého hrnce. Hlavy a ocasy nech 15 minut chladnout, aby se daly vzít do ruky."
+    },
+    {
+      "section": "Scezení",
+      "text": "Maso z hlav (hlavně z líček a za hlavou) a z ocasů obírej prsty po malých kouscích a každý kousek prohmatej, kůstky jsou drobné. Kosti, kůži a uvařenou zeleninu vyhoď."
+    },
+    {
+      "section": "Polévka",
+      "text": "Mrkev, petržel a celer na polévku nakrájej na kostičky 5 mm, dej je do přecezeného vývaru a vař 12 až 15 minut doměkka."
+    },
+    {
+      "section": "Polévka",
+      "text": "V kastrůlku rozpusť máslo, vsyp mouku a za stálého míchání ji 2 až 3 minuty opékej na světlou jíšku. Odstav ji, rozmíchej v ní naběračku horkého vývaru a vlij do polévky. Vař 10 minut, aby se mouka provařila."
+    },
+    {
+      "section": "Polévka",
+      "text": "Přidej obrané maso, špetku muškátového oříšku a dochuť solí a pepřem. Polévka už nemá vařit, jen se prohřát. Nakonec vmíchej petrželku."
+    },
+    {
+      "section": "Krutony",
+      "text": "Rohlíky nakrájej na kostičky a na pánvi je na másle opékej asi 5 minut dozlatova. Dávej je do talířů až těsně před podáváním, aby nenasákly."
+    }
+  ],
+  "tips": [
+    "Mlíčí nebo jikry z kapra jsou do vánoční rybí polévky tradiční: nakrájej je na kousky a vař je v polévce posledních 10 minut. Žlučník, zelený váček mezi vnitřnostmi, nesmí prasknout ani se dostat do hrnce.",
+    "Vývar můžeš uvařit 23. prosince; vychladlý vydrží v lednici 2 dny. Hotová polévka vydrží v lednici 2 dny, ohřívej ji jen jednou a krátce.",
+    "Kdo chce čirou polévku, vynechá jíšku a vývar jen zjemní zeleninou a masem."
+  ],
+  "substitutions": [
+    "Místo kapra uvaříš polévku z hlav a kostí candáta nebo amura. Z 400 g filé ji uděláš rychleji: filé vař ve vývaru ze zeleniny jen posledních 10 minut.",
+    "Krutony z rohlíků můžeš nahradit opečenými kostičkami veky nebo chleba.",
+    "Na smetanovou verzi zjemni hotovou polévku 100 ml smetany na vaření a už ji nevař."
+  ],
+  "faq": [
+    {
+      "q": "Jak odstranit hořkost z rybí polévky?",
+      "a": "Hořkost dělají žábry, krev a hlavně porušený žlučník. Hořkou polévku už spravit nejde, smetana nebo špetka cukru ji jen trochu zakryjí. Proto žábry vždy vyřízni a s vnitřnostmi zacházej opatrně."
+    },
+    {
+      "q": "Jak připravit rybí hlavu na polévku?",
+      "a": "Vystřihni nebo vyřízni žábry, vyškrab krev a hlavu opláchni studenou vodou. Velkou hlavu můžeš podélně rozpůlit, maso se pak lépe vyvaří i obírá. Oči se vyndávat nemusí, vývar se stejně cedí přes plátno."
+    },
+    {
+      "q": "Jak dlouho se vaří rybí polévka?",
+      "a": "Vývar z hlav a kostí stačí vařit 40 až 50 minut při mírném varu, delší vaření ho zakalí a chuť nezlepší. Po scezení se zelenina vaří ještě 12 až 15 minut a s jíškou dalších 10 minut."
+    }
+  ]
+}

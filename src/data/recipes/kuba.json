@@ -1,0 +1,146 @@
+{
+  "title": "Kuba z krup a sušených hub",
+  "keywords": [
+    "kuba recept",
+    "houbový kuba recept",
+    "vánoční kuba recept",
+    "staročeský kuba recept",
+    "kroupový kuba recept"
+  ],
+  "intro": "Kuba je staročeské štědrodenní jídlo z ječných krup a sušených hub, s cibulí, česnekem a majoránkou, zapečené dozlatova. Recept je pro 4 hlavní porce. Kroupy musí být měkké a hmota vláčná, ne suchá, jinak se kuba při zapékání drobí.",
+  "image": "dish-kuba",
+  "category": "ceska",
+  "occasions": [
+    "vanoce"
+  ],
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 70,
+  "waitMinutes": 30,
+  "waitLabel": "namáčení sušených hub",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "kroupy",
+      "amount": 300,
+      "unit": "g",
+      "note": "střední nebo drobné"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 900,
+      "unit": "ml",
+      "note": "na vaření krup"
+    },
+    {
+      "ingredient": "houby-susene",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "teplá, na namočení hub"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "nebo sádlo"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na vymazání pekáčku a na povrch"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Sušené houby zalij 300 ml teplé vody a nech je 30 minut namáčet. Kroupy propláchni v sítu studenou vodou, dokud nepoteče čirá."
+    },
+    {
+      "section": "Příprava",
+      "text": "Kroupy dej do hrnce s 900 ml vody a polovinou soli, přiveď k varu a pod pokličkou je vař na mírném plameni 30 až 40 minut, dokud nejsou měkké a vodu nevsáknou. Kdyby se přichytávaly, přilij trochu vody."
+    },
+    {
+      "section": "Houby",
+      "text": "Houby vyjmi z vody a nakrájej nadrobno. Vodu z namáčení sceď přes jemné sítko nebo utěrku, na dně bývá písek, a schovej ji."
+    },
+    {
+      "section": "Houby",
+      "text": "Na másle osmahni cibuli 8 až 10 minut do zlatova. Přidej houby a kmín, 2 minuty je osmahni, zalij vodou z hub a duš asi 10 minut, dokud se tekutina z poloviny neodpaří."
+    },
+    {
+      "section": "Zapékání",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Do krup vmíchej houbovou směs, česnek, majoránku promnutou v dlaních a pepř a dosol. Hmota má být vláčná; když je suchá, přidej pár lžic vody."
+    },
+    {
+      "section": "Zapékání",
+      "text": "Pekáček nebo zapékací misku vymaž máslem, rozprostři kubu ve vrstvě asi 4 cm, povrch uhlaď a poklaď zbytkem másla na kousky."
+    },
+    {
+      "section": "Zapékání",
+      "text": "Zapékej odkrytou 25 až 30 minut, dokud se na povrchu neudělá zlatohnědá kůrčička. Podávej teplou."
+    }
+  ],
+  "tips": [
+    "Kroupy můžeš namočit večer předem do studené vody; vaří se pak jen asi 20 minut.",
+    "Kubu můžeš připravit den předem a zapéct až před jídlem, z lednice ji zapékej o 10 minut déle. Hotová vydrží v lednici 3 dny.",
+    "Ke kubě se hodí kyselé okurky, kysané zelí nebo zelný salát, které vyváží houby a máslo."
+  ],
+  "substitutions": [
+    "Máslo můžeš nahradit sádlem, jak se kuba dělávala na venkově; pak už ale není bezmasá.",
+    "Místo lesní směsi použij 20 g sušených hřibů, kuba bude výraznější.",
+    "Na veganskou verzi nahraď máslo rostlinným olejem."
+  ],
+  "faq": [
+    {
+      "q": "Jaké kroupy jsou na kubu nejlepší?",
+      "a": "Střední nebo drobné ječné kroupy. Uvaří se do 40 minut a dobře se spojí s houbami. Velké kroupy potřebují delší vaření nebo namočení přes noc."
+    },
+    {
+      "q": "Kdy se jí kuba?",
+      "a": "Tradičně na Štědrý den, kdy se do večeře nejedlo maso. Dnes se vaří i jako bezmasé jídlo kdykoli v zimě, nejčastěji jako hlavní jídlo nebo příloha."
+    },
+    {
+      "q": "Proč je kuba suchá?",
+      "a": "Kroupy vsákly všechnu vodu a houbová směs se moc odpařila. Před zapékáním má být hmota vláčná jako hustá kaše; přidej pár lžic vody z hub nebo vývaru a zapékej ji odkrytou jen 25 až 30 minut."
+    }
+  ]
+}

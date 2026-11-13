@@ -1,0 +1,100 @@
+{
+  "title": "Bílková poleva na perníčky",
+  "keywords": [
+    "poleva na perníčky",
+    "bílková poleva na perníčky",
+    "zdobení perníčků",
+    "poleva na perníčky recept",
+    "cukrová poleva na perníčky"
+  ],
+  "intro": "Poleva na perníčky z bílku a moučkového cukru, která zaschne dotvrda a drží tenkou linku. Dávka stačí na ozdobení asi 60 perníčků. Rozhoduje hustota: na obrysy a jemné zdobení má být tuhá, na zalévání ploch ji zředíš pár kapkami vody.",
+  "image": "dish-poleva-na-pernicky",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 45,
+  "cookMinutes": 0,
+  "waitMinutes": 480,
+  "waitLabel": "zasychání polevy (6 až 12 hodin)",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen bílek (asi 30 g), čerstvé vejce s neporušenou skořápkou"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 200,
+      "unit": "g",
+      "note": "prosátý"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "stačí 1 lžička šťávy"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "jen na ředění, po kapkách"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Poleva",
+      "text": "Vejce rozklepni a pečlivě oddělej bílek. Použij čerstvé vejce s čistou a neporušenou skořápkou a dej pozor, aby se do bílku nedostal žloutek; poleva by nebyla bílá a hůř by držela."
+    },
+    {
+      "section": "Poleva",
+      "text": "Moučkový cukr prosej přes jemné sítko. Hrudky by ucpávaly špičku zdobičky."
+    },
+    {
+      "section": "Poleva",
+      "text": "Do bílku přidej 1 lžičku citronové šťávy a po lžících vmíchávej cukr. Pak polevu šlehej ručním šlehačem na nejnižší stupeň nebo vařečkou 5 až 7 minut, dokud není hustá, lesklá a bílá. Poleva na obrysy drží ve špičce a stopa po lžíci se nezalije."
+    },
+    {
+      "section": "Poleva",
+      "text": "Na zalévání ploch odeber část polevy a přidávej do ní vodu po kapkách, dokud se stopa po noži nezalije za 10 až 15 sekund."
+    },
+    {
+      "section": "Zdobení",
+      "text": "Polevu dej do zdobičky nebo do pevného sáčku a ustřihni roh tak, aby otvor měl 1 až 2 mm. Zdob úplně vychladlé perníčky: nejdřív obrysy, po 10 minutách můžeš plochu uvnitř zalít řidší polevou."
+    },
+    {
+      "section": "Zdobení",
+      "text": "Ozdobené perníčky nech zaschnout při pokojové teplotě 6 až 12 hodin, nejlépe přes noc a rozložené vedle sebe. Do dózy je skládej, až poleva nelepí ani po zmáčknutí."
+    }
+  ],
+  "tips": [
+    "Polevu, se kterou zrovna nepracuješ, zakryj fólií přímo na povrchu nebo vlhkou utěrkou, jinak za pár minut udělá škraloup. V lednici v uzavřené misce vydrží 24 hodin; před použitím ji promíchej.",
+    "Barevnou polevu obarvíš gelovou potravinářskou barvou. Tekuté barvy polevu ředí a ta pak hůř drží.",
+    "Polevu nešlehej na vysoké otáčky do pěny jako sníh. Vzduch v ní udělá bublinky a linka se při zdobení trhá."
+  ],
+  "substitutions": [
+    "Místo čerstvého bílku použij 30 g pasterizovaného tekutého bílku. Je to jistější volba, když budou perníčky jíst malé děti, těhotné nebo starší lidé.",
+    "Sušený bílek: 4 g rozmíchej ve 25 ml vlažné vody, nech 10 minut nabobtnat a použij místo 1 bílku.",
+    "Citronovou šťávu nahradíš špetkou kyseliny citronové rozpuštěnou v lžičce vody."
+  ],
+  "faq": [
+    {
+      "q": "Jak zdobit perníčky?",
+      "a": "Polevu dej do zdobičky nebo sáčku s otvorem 1 až 2 mm a zdob úplně vychladlé perníčky. Začni obrysy, plochy zalévej řidší polevou a vše nech zaschnout přes noc."
+    },
+    {
+      "q": "Jak dlouho schne poleva na perníčcích?",
+      "a": "Tenké linky zaschnou na povrchu za 1 až 2 hodiny, zalité plochy potřebují 6 až 12 hodin. Perníčky nedávej do lednice, ve vlhku poleva lepí."
+    },
+    {
+      "q": "Je bílková poleva ze syrového bílku bezpečná?",
+      "a": "S čerstvým vejcem s neporušenou skořápkou a polevou uchovanou v chladu je riziko nízké, ne však nulové. Pro malé děti, těhotné a starší lidi použij pasterizovaný nebo sušený bílek."
+    }
+  ]
+}

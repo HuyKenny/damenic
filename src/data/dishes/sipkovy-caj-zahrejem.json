@@ -1,0 +1,18 @@
+{
+  "name": "Šípkový čaj s medem",
+  "restaurant": "stanek-zahrejem-zitra",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Bez alkoholu, s kolečkem citronu a lžící medu. Hřeje stejně a nalít ho smí každý.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-sipkovy-caj-zahrejem",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 70
+}

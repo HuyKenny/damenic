@@ -1,0 +1,162 @@
+{
+  "title": "Linecký koláč s jablky",
+  "keywords": [
+    "linecký koláč",
+    "linecký koláč s jablky",
+    "křehký linecký koláč s jablky",
+    "linecký jablečný koláč",
+    "linecký mřížkový koláč s jablky"
+  ],
+  "intro": "Linecký koláč s jablky na plech 20 × 30 cm: křehký linecký korpus, strouhaná jablka se skořicí a mřížka navrchu. Vyjde 12 kousků. Aby spodek nezvlhl, korpus se 10 minut předpeče a z jablek se vymačká šťáva.",
+  "image": "dish-linecky-kolac-s-jablky",
+  "category": "dezerty",
+  "occasions": [
+    "vanoce"
+  ],
+  "servings": 12,
+  "activeMinutes": 45,
+  "cookMinutes": 50,
+  "waitMinutes": 120,
+  "waitLabel": "odpočinek těsta v lednici a vychladnutí koláče",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 400,
+      "unit": "g",
+      "group": "Linecké těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 250,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Linecké těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 130,
+      "unit": "g",
+      "group": "Linecké těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "1 celé a 1 žloutek, bílek schovej na potření",
+      "group": "Linecké těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Linecké těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "kůra do těsta, šťáva do jablek",
+      "group": "Linecké těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Linecké těsto"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 8,
+      "unit": "ks",
+      "note": "kyselejší, asi 1,2 kg",
+      "group": "Jablečná náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Jablečná náplň"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Jablečná náplň"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "nebo mleté piškoty, na podsypání",
+      "group": "Jablečná náplň"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na posypání",
+      "group": "Jablečná náplň"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej s moučkovým a vanilkovým cukrem, solí a kůrou z omytého citronu. Přidej studené máslo na kostičky a rozdrob je s moukou na drobenku."
+    },
+    {
+      "section": "Těsto",
+      "text": "Přidej vejce se žloutkem a rychle zpracuj hladké těsto. Odděl z něj asi třetinu na mřížku, obě části zploští, zabal do fólie a nech aspoň 1 hodinu v lednici."
+    },
+    {
+      "section": "Náplň",
+      "text": "Jablka oloupej, nastrouhej nahrubo a pokapej šťávou z citronu. Nech je 10 minut stát a pak je v hrstech důkladně vymačkej. Cukr se skořicí přimíchej až těsně před plněním, jinak jablka pustí další šťávu."
+    },
+    {
+      "section": "Korpus",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Formu 20 × 30 cm vylož pečicím papírem. Větší část těsta vyval na plát silný 4 až 5 mm, přenes ho do formy a vytáhni po stranách okraj vysoký 1,5 cm."
+    },
+    {
+      "section": "Korpus",
+      "text": "Dno propíchej vidličkou a korpus předpeč 10 minut, dokud se nezpevní a nezačne světlat. Nesmí zhnědnout."
+    },
+    {
+      "section": "Mřížka",
+      "text": "Předpečený korpus posyp strouhankou a rozprostři na něj jablka. Zbylé těsto vyval na 4 mm, nakrájej na proužky široké 1,5 cm a polož je na jablka do mřížky. Konce přitiskni k okraji."
+    },
+    {
+      "section": "Pečení",
+      "text": "Mřížku potři rozšlehaným bílkem a peč 35 až 40 minut, dokud není mřížka zlatá a jablka na okrajích nebublají."
+    },
+    {
+      "section": "Pečení",
+      "text": "Koláč nech ve formě vychladnout aspoň 1 hodinu, aby náplň ztuhla. Pak ho posyp moučkovým cukrem a nakrájej na 12 kousků."
+    }
+  ],
+  "tips": [
+    "Šťávu vymačkanou z jablek nevylévej, je to hotový mošt na pití.",
+    "Linecký koláč s jablky vydrží přikrytý při pokojové teplotě 2 dny, v lednici 4 dny. Druhý den těsto od jablek změkne a lépe se krájí.",
+    "Těsto se lepí? Vyvaluj ho mezi dvěma pečicími papíry a s papírem ho do formy přenes."
+  ],
+  "substitutions": [
+    "Strouhanku můžeš nahradit 2 lžícemi mletých ořechů nebo mletých piškotů.",
+    "Část jablek můžeš vyměnit za hrušky, dej jich ale méně, mají víc šťávy.",
+    "Na linecký koláč s tvarohem nahraď jablka náplní z 500 g tvarohu, 1 vejce, 80 g cukru a 1 sáčku vanilkového cukru; peč stejně dlouho."
+  ],
+  "faq": [
+    {
+      "q": "Na kolik stupňů se peče linecký koláč?",
+      "a": "Na 180 °C horní a spodní ohřev, horkovzduchem na 170 °C. Korpus se předpeče 10 minut a s jablky a mřížkou se peče dalších 35 až 40 minut. Drobné linecké cukroví stačí péct 8 až 10 minut na 170 °C."
+    },
+    {
+      "q": "Proč je linecký koláč dole mokrý?",
+      "a": "Jablka pustila šťávu do syrového těsta. Pomáhá korpus 10 minut předpéct, jablka po nastrouhání vymačkat, osladit je až těsně před plněním a dno posypat strouhankou."
+    },
+    {
+      "q": "Jak dlouho vydrží linecký koláč s jablky?",
+      "a": "Přikrytý při pokojové teplotě 2 dny, v lednici 4 dny. Zmrazit se dá nakrájený až na 2 měsíce, rozmrazuj ho volně při pokojové teplotě."
+    }
+  ]
+}

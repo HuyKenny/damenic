@@ -1,0 +1,129 @@
+{
+  "title": "Ořechové rohlíčky s čokoládou",
+  "keywords": [
+    "ořechové rohlíčky",
+    "ořechové rohlíčky recept",
+    "linecké ořechové cukroví recept",
+    "linecké ořechové těsto"
+  ],
+  "intro": "Ořechové rohlíčky mají v těstě víc vlašských ořechů než vanilkové: 150 g ořechů na 250 g mouky. Místo obalení ve vanilkovém cukru se jejich konce namáčejí v hořké čokoládě. Z dávky vyjde asi 50 rohlíčků. Těsto je díky ořechům mastnější a křehčí, proto potřebuje delší odpočinek v lednici.",
+  "image": "dish-orechove-rohlicky",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 60,
+  "cookMinutes": 28,
+  "waitMinutes": 120,
+  "waitLabel": "odpočinek těsta v lednici a tuhnutí čokolády",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 150,
+      "unit": "g",
+      "note": "jemně mleté",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen žloutek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Čokoláda"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "group": "Čokoláda"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 30,
+      "unit": "g",
+      "note": "nasekané nadrobno, na posypání",
+      "group": "Čokoláda"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Promíchej mouku, mleté ořechy, moučkový cukr a vanilkový cukr. Přidej studené máslo na kostičky a žloutek a rychle zpracuj v hladké těsto. Rozděl ho na 3 díly, zabal do fólie a nech 90 minut v lednici."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 160 °C) a plechy vylož pečicím papírem. Z těsta odebírej kousky po 15 g, prokul je do válečku dlouhého asi 7 cm s tenčími konci a ohni do rohlíčku."
+    },
+    {
+      "section": "Pečení",
+      "text": "Rohlíčky klaď na plech 2 cm od sebe a peč jeden plech 12 až 14 minut. Hotové jsou, když mají spodek zlatavý a vršek světlý. Na plechu je nech 5 minut, pak je přesuň na mřížku a nech úplně vychladnout."
+    },
+    {
+      "section": "Čokoláda",
+      "text": "Čokoládu nalámej a s máslem ji rozpusť v misce nad hrncem s horkou vodou; miska se nemá dotýkat vody. Vychladlé rohlíčky namoč oběma konci asi 1 cm do čokolády, posyp nasekanými ořechy a polož na pečicí papír."
+    },
+    {
+      "section": "Čokoláda",
+      "text": "Nech čokoládu ztuhnout v chladu asi 30 minut. Teprve pak rohlíčky skládej do dózy."
+    }
+  ],
+  "tips": [
+    "Na rozdíl od vanilkových rohlíčků je neobaluj za tepla. Do čokolády je namáčej až úplně vychladlé, jinak z nich steče.",
+    "V dóze proložené pečicím papírem na chladném místě vydrží 3 až 4 týdny. Neskladuj je u topení, čokoláda v teple lepí.",
+    "Z dávky vyjde asi 50 rohlíčků po 15 g. Těsto, se kterým zrovna nepracuješ, drž v lednici."
+  ],
+  "substitutions": [
+    "Vlašské ořechy nahradíš lískovými oříšky. Když je předem opražíš a oloupeš, budou rohlíčky voňavější.",
+    "Místo čokolády je můžeš obalit ve směsi 100 g moučkového a 20 g vanilkového cukru; to ale dělej ještě za tepla."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi ořechovými a vanilkovými rohlíčky?",
+      "a": "Ořechové mají víc ořechů (150 g na 250 g mouky proti 100 g na 280 g mouky), žloutek a víc cukru v těstě a konce namočené v čokoládě. Vanilkové jsou bez vajec, jemnější a obalené ve vanilkovém cukru."
+    },
+    {
+      "q": "Na kolik stupňů péct ořechové rohlíčky?",
+      "a": "Na 170 °C horní a spodní ohřev nebo 160 °C horkovzduch, 12 až 14 minut na jeden plech. Vytáhni je, když mají zlatavý spodek a světlý vršek."
+    },
+    {
+      "q": "Jak dlouho vydrží ořechové rohlíčky?",
+      "a": "V uzavřené dóze na chladném místě 3 až 4 týdny, bez čokolády zamražené až 3 měsíce. Čokoládu pak namáčej až po rozmrazení."
+    }
+  ]
+}

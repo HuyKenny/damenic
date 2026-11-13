@@ -1,0 +1,103 @@
+{
+  "title": "Dětský punč bez alkoholu",
+  "keywords": [
+    "dětský punč recept",
+    "nealkoholický punč recept",
+    "nealko punč recept",
+    "vánoční punč bez alkoholu recept"
+  ],
+  "image": "dish-detsky-punc",
+  "category": "napoje",
+  "vegetarian": true,
+  "occasions": [
+    "vanoce",
+    "silvestr"
+  ],
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Dětský punč bez alkoholu z ovocného čaje, červeného hroznového moštu a pomerančů voní stejně vánočně jako ten pro dospělé. Recept je na šest hrnků. Ovocný čaj nemá kofein a med se přidává až do teplého punče.",
+  "ingredients": [
+    {
+      "ingredient": "voda",
+      "amount": 750,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "caj-ovocny",
+      "amount": 3,
+      "unit": "ks",
+      "note": "šípkový nebo s ibiškem"
+    },
+    {
+      "ingredient": "most-hroznovy",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "pomeranc",
+      "amount": 2,
+      "unit": "ks",
+      "note": "neošetřené"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "med",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "nebo cukr, viz tipy"
+    },
+    {
+      "ingredient": "skorice-cela",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "hrebicek",
+      "amount": 3,
+      "unit": "ks"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vodu přiveď k varu, stáhni z plotny, vlož sáčky ovocného čaje a nech louhovat 5 minut. Pak je vyndej."
+    },
+    {
+      "text": "Do čaje nalij hroznový mošt, přidej skořici, hřebíček a šťávu vymačkanou z 1 pomeranče. Zahřívej na mírném plameni 10 minut, punč nemusí vařit."
+    },
+    {
+      "text": "Druhý pomeranč a citron nakrájej na kolečka, přidej do hrnce a nech 5 minut louhovat mimo plotnu."
+    },
+    {
+      "text": "Vylov skořici a hřebíček, aby je děti nespolkly. Vmíchej med, ochutnej a nalij do hrnků. Dětem podávej teplý, ne horký, nech ho chvíli zchladnout."
+    }
+  ],
+  "tips": [
+    "Med nedávej dětem do jednoho roku. Pro ně osladi punč 2 lžícemi cukru.",
+    "Zbytek uchovej v lednici a spotřebuj do 2 dnů. Ohřívej jen do páry, ne do varu."
+  ],
+  "substitutions": [
+    "Místo hroznového moštu můžeš použít 500 ml jablečného nebo černého rybízového moštu.",
+    "Místo ovocného čaje se hodí rooibos, taky je bez kofeinu."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat nealkoholický punč?",
+      "a": "Základem je ovocný čaj a 100% ovocný mošt, třeba hroznový, s pomerančovou šťávou, skořicí a hřebíčkem. Směs se zahřeje bez varu a osladí medem nebo cukrem."
+    },
+    {
+      "q": "Jaký čaj do dětského punče?",
+      "a": "Ovocný, šípkový nebo rooibos, protože nemají kofein. Černý čaj, který bývá v punči pro dospělé, do dětské verze nepatří."
+    },
+    {
+      "q": "Od kolika let můžou děti punč s medem?",
+      "a": "Med se nedoporučuje dětem do jednoho roku. Mladším dětem osladi punč cukrem a podávej ho vlažný."
+    }
+  ]
+}

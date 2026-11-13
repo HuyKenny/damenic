@@ -1,0 +1,24 @@
+{
+  "name": "Domácí vaječný koňak",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Nápoje",
+  "description": "Hustý likér ze žloutků, kondenzovaného mléka a rumu. Sklenička 40 ml, jen pro 18+.",
+  "about": [
+    "Domácí vaječný koňak patří k Vánocům stejně jako cukroví. Žloutky se s kondenzovaným mlékem ohřejí ve vodní lázni na 70 °C, aby byl bezpečný, a teprve vychladlá směs se spojí s rumem. V lednici pak zhoustne do sametové hustoty.",
+    "Nápoj je jen pro dospělé a v receptu najdeš i nealko verzi a samostatný likér bez vajec. Sklenička u nás stojí na pultu prázdná. Plnit ji budeš až doma."
+  ],
+  "price": 6900,
+  "image": "dish-vajecny-konak-pod-stromkem",
+  "recipe": "vajecny-konak",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 70
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Vánoční punč s vínem a rumem",
+  "keywords": [
+    "punč recept",
+    "vánoční punč recept",
+    "domácí punč recept",
+    "recept na punč"
+  ],
+  "image": "dish-vanocni-punc-zahrejem",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "occasions": [
+    "vanoce",
+    "silvestr"
+  ],
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Vánoční punč je na rozdíl od svařáku postavený na čaji, víc citrusech a kapce rumu. Recept je na šest hrnků, takže se hodí na Štědrý večer i na Silvestra. Čaj se louhuje jen krátce a víno s rumem se zahřívají pod bodem varu.",
+  "ingredients": [
+    {
+      "ingredient": "voda",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "caj-cerny",
+      "amount": 3,
+      "unit": "ks",
+      "note": "sáčky"
+    },
+    {
+      "ingredient": "vino-cervene",
+      "amount": 750,
+      "unit": "ml",
+      "note": "suché"
+    },
+    {
+      "ingredient": "tuzemak",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "pomeranc",
+      "amount": 2,
+      "unit": "ks",
+      "note": "neošetřené"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "skorice-cela",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "hrebicek",
+      "amount": 6,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "badyan",
+      "amount": 1,
+      "unit": "ks"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vodu přiveď k varu, stáhni z plotny, vlož čajové sáčky a louhuj přesně 3 minuty. Pak sáčky vyndej, delší louhování by punč zhořklo."
+    },
+    {
+      "text": "Do čaje přidej cukr, skořici, hřebíček, badyán a šťávu vymačkanou z 1 pomeranče a poloviny citronu. Na mírném plameni vař 5 minut."
+    },
+    {
+      "text": "Druhý pomeranč a zbylou půlku citronu nakrájej na kolečka a přidej do hrnce. Stáhni plamen na minimum a nalij víno."
+    },
+    {
+      "text": "Punč zahřívej asi 10 minut na 70 až 80 °C, nevař ho. Jakmile se hladina kouří a u okraje se objeví první bublinky, stáhni hrnec z plotny."
+    },
+    {
+      "text": "Mimo plotnu vmíchej rum, ochutnej a podle potřeby dosladi. Podávej v předehřátých hrncích s kolečkem pomeranče."
+    }
+  ],
+  "tips": [
+    "Na večírek můžeš punč udržovat teplý na nejnižším stupni pod pokličkou, nejvýš hodinu. Citronová kolečka mezitím vylov.",
+    "Čajový základ s kořením si připrav předem, víno a rum přidej až před podáváním.",
+    "Zbytek přeceď a uchovej v lednici nejvýš 2 dny."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo vína použij 750 ml červeného hroznového moštu, rum vynech a cukr sniž na 40 g. Pro děti je lepší samostatný dětský punč s ovocným čajem.",
+    "Místo tuzemáku můžeš dát 100 ml tmavého rumu.",
+    "Černý čaj můžeš nahradit 3 sáčky ovocného čaje, punč bude bez kofeinu a ovocnější."
+  ],
+  "faq": [
+    {
+      "q": "Co je punč?",
+      "a": "Horký míchaný nápoj z čaje, vína nebo ovocné šťávy, cukru, koření a citrusů, v alkoholické verzi s rumem. Název se obvykle odvozuje od hindského slova pro číslo pět, podle pěti původních přísad."
+    },
+    {
+      "q": "Jak se dělá punč?",
+      "a": "Nejdřív se krátce vylouhuje čaj, přidá se do něj cukr, koření a citrusová šťáva a 5 minut se povaří. Pak se přilije víno, zahřeje se pod bod varu a nakonec se mimo plotnu vmíchá rum."
+    },
+    {
+      "q": "Jaký je rozdíl mezi punčem a svařákem?",
+      "a": "Svařák je víno s kořením a cukrem. Punč má navíc čajový nebo ovocný základ, víc citrusů a obvykle i rum. Bývá proto lehčí na víno, ale kořeněnější a ovocnější."
+    }
+  ]
+}

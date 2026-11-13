@@ -1,0 +1,42 @@
+{
+  "name": "Svařák z červeného vína",
+  "restaurant": "stanek-zahrejem-zitra",
+  "kind": "main",
+  "section": "Svařáky",
+  "description": "Červené víno s pomerančem, skořicí a hřebíčkem, zahřáté pod bod varu, aby vůně zůstala v hrnku.",
+  "about": [
+    "Svařák poznáš o tři stánky dřív podle vůně skořice a pomerančové kůry. Základem je obyčejné suché červené víno, které se jen zahřeje na 70 až 80 °C. Koření se povaří zvlášť s vodou a cukrem, takže víno nemusí bublat a nepřijde o aroma.",
+    "Ve stánku se ti hrnek jen zdá a víno je stejně jen pro dospělé. Recept je skutečný a má i nealko verzi s hroznovým moštem pro všechny u stolu. Kotlík si ale postavíš doma sám."
+  ],
+  "price": 8900,
+  "image": "dish-svarak-zahrejem",
+  "recipe": "svarak",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "02l",
+          "name": "0,2 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "03l",
+          "name": "0,3 l",
+          "priceDelta": 3000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    12
+  ],
+  "featured": true,
+  "order": 10
+}

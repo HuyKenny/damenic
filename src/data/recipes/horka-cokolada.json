@@ -1,0 +1,96 @@
+{
+  "title": "Hustá horká čokoláda",
+  "keywords": [
+    "horká čokoláda recept",
+    "hustá horká čokoláda recept",
+    "domácí horká čokoláda recept"
+  ],
+  "image": "dish-horka-cokolada-pod-stromkem",
+  "category": "napoje",
+  "vegetarian": true,
+  "occasions": [
+    "vanoce"
+  ],
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 5,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Domácí horká čokoláda podle tohoto receptu je hustá jako v kavárně: kromě skutečné čokolády a kakaa ji zahustí lžička kukuřičného škrobu. Recept je na dva hrnky a hotový je za čtvrt hodiny. Celou dobu se míchá, protože čokoláda se ode dna snadno připálí.",
+  "ingredients": [
+    {
+      "ingredient": "mleko",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "note": "nebo čokoláda s 50–60 % kakaa"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "podle chuti"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Čokoládu nasekej najemno. Ve 50 ml studeného mléka rozmíchej škrob a kakao dohladka."
+    },
+    {
+      "text": "Zbylé mléko se smetanou a cukrem zahřej v hrnci, dokud se u okraje neobjeví první bublinky. Stáhni z plotny, přidej nasekanou čokoládu, minutu nech stát a pak metlou rozmíchej dohladka."
+    },
+    {
+      "text": "Vrať hrnec na mírný plamen, za stálého míchání vlij škrobovou kaši a vař 1 až 2 minuty, dokud čokoláda nezhoustne a neobalí lžíci. Míchej i u dna, jinak se připálí."
+    },
+    {
+      "text": "Přidej špetku soli, ochutnej a případně dosladi. Nalij do předehřátých hrnků; při chladnutí čokoláda ještě zhoustne."
+    }
+  ],
+  "tips": [
+    "Použij tabulkovou čokoládu, ne čokoládovou polevu. Poleva obsahuje rostlinné tuky a čokoláda by po ní byla mastná.",
+    "Špetka soli chuť čokolády zvýrazní, slanou ji neudělá.",
+    "Kdo chce ještě hustší, přidá třetí lžičku škrobu."
+  ],
+  "substitutions": [
+    "Bez smetany: použij 500 ml mléka a o lžičku škrobu víc.",
+    "Rostlinná verze: ovesný nebo sójový nápoj bez slazení a hořká čokoláda bez mléčného tuku."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat hustou horkou čokoládu?",
+      "a": "Kromě čokolády přidej do mléka lžičku až dvě kukuřičného škrobu rozmíchaného ve studeném mléce a za stálého míchání vař 1 až 2 minuty. Škrob zahustí, smetana přidá krémovost."
+    },
+    {
+      "q": "Jakou čokoládu na horkou čokoládu?",
+      "a": "Hořkou se 60 až 70 % kakaa, případně ji smíchej s mléčnou. Čokoládová poleva se nehodí, obsahuje rostlinné tuky a nápoj by byl mastný a méně čokoládový."
+    },
+    {
+      "q": "Dá se horká čokoláda udělat bez smetany?",
+      "a": "Ano. Použij 500 ml mléka a přidej o lžičku škrobu víc, aby byla stejně hustá. Bude o něco lehčí."
+    }
+  ]
+}

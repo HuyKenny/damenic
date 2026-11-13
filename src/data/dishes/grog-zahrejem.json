@@ -1,0 +1,21 @@
+{
+  "name": "Grog s citronem",
+  "restaurant": "stanek-zahrejem-zitra",
+  "kind": "main",
+  "section": "Na zahřátí",
+  "description": "Tuzemák, horká voda, cukr a kolečko citronu. Čtyři věci a jeden poměr.",
+  "about": [
+    "Grog je horký nápoj, který přežil z britského námořnictva 18. století, kdy se příděl rumu ředil vodou. Recept se od té doby skoro nezměnil: jeden díl rumu na čtyři díly horké vody, cukr a citron.",
+    "Rum se přilévá až do hrnku a nikdy se nevaří. Nápoj je jen pro dospělé, nealko verze s čajem a rumovým aroma je v receptu. Hrnek předehřej, i když ho dnes plníme jen nanečisto."
+  ],
+  "price": 6900,
+  "image": "dish-grog-zahrejem",
+  "recipe": "grog",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 30
+}

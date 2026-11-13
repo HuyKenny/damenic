@@ -1,0 +1,183 @@
+{
+  "title": "Vánoční tvarohová štola",
+  "keywords": [
+    "štola",
+    "vánoční štola",
+    "tvarohová štola",
+    "vánoční štola recept",
+    "štola s marcipánem"
+  ],
+  "intro": "Tvarohová štola je rychlejší podoba vánoční štoly: těsto s tvarohem a práškem do pečiva nekyne, a přesto je vláčné. Uvnitř jsou rozinky, mandle a kandované ovoce, uprostřed volitelně váleček marcipánu. Po upečení se štola hned potře máslem a obalí v cukru, tím se uzavře a vydrží déle.",
+  "image": "dish-stola-pod-stromkem",
+  "category": "pekarna",
+  "occasions": [
+    "vanoce"
+  ],
+  "servings": 12,
+  "activeMinutes": 35,
+  "cookMinutes": 55,
+  "waitMinutes": 80,
+  "waitLabel": "namočení rozinek a vychladnutí",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen nastrouhaná kůra",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "měkký",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 125,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "pokojové teploty",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 150,
+      "unit": "g",
+      "group": "Do těsta"
+    },
+    {
+      "ingredient": "mandle",
+      "amount": 100,
+      "unit": "g",
+      "note": "nahrubo nasekané",
+      "group": "Do těsta"
+    },
+    {
+      "ingredient": "kandovane-ovoce",
+      "amount": 80,
+      "unit": "g",
+      "group": "Do těsta"
+    },
+    {
+      "ingredient": "marcipan",
+      "amount": 200,
+      "unit": "g",
+      "note": "volitelně",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Na povrch"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 80,
+      "unit": "g",
+      "note": "na obalení",
+      "group": "Na povrch"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Rozinky zalij horkou vodou a nech 20 minut namočené, pak je sceď a osuš utěrkou. Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 160 °C) a plech vylož pečicím papírem."
+    },
+    {
+      "section": "Těsto",
+      "text": "V míse smíchej mouku s práškem do pečiva, moučkovým a vanilkovým cukrem, solí a citronovou kůrou. Přidej tvaroh, změklé máslo a vejce a krátce zpracuj hladké těsto. Kdyby bylo suché a praskalo, přidej 1 až 2 lžíce mléka."
+    },
+    {
+      "section": "Těsto",
+      "text": "Rozinky, mandle a kandované ovoce lehce poprašuj moukou a zapracuj do těsta. Hněť jen tak dlouho, než se ovoce rozptýlí; dlouhým hnětením těsto ztvrdne."
+    },
+    {
+      "section": "Tvar",
+      "text": "Těsto vyval na pomoučeném vále na ovál asi 30 × 20 cm, silný 2 cm. Válečkem ho podélně uprostřed promáčkni, aby vznikla rýha."
+    },
+    {
+      "section": "Tvar",
+      "text": "Marcipán vyválej na váleček dlouhý 25 cm a vlož ho do rýhy. Jednu delší stranu těsta přelož přes marcipán tak, aby přesahovala jen do dvou třetin, a okraj přitlač. Vznikne typický schod štoly."
+    },
+    {
+      "section": "Pečení",
+      "text": "Štolu přenes na plech a peč 50 až 60 minut. Když po 30 minutách tmavne, přikryj ji alobalem. Hotová je, když špejle zapíchnutá do nejsilnějšího místa vyjde suchá a spodek je zlatý."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Horkou štolu hned potři polovinou rozpuštěného másla, nech ho 2 minuty vsáknout a potři zbytkem. Silně ji posyp moučkovým cukrem, aby vznikla souvislá vrstva."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Nech štolu vychladnout na mřížce, znovu ji poprašuj cukrem a pevně zabal do fólie nebo alobalu. Nejlépe chutná po 1 až 2 dnech, kdy se chutě spojí."
+    }
+  ],
+  "tips": [
+    "Zabalená štola vydrží na chladném místě asi týden, v lednici 2 týdny. Tvarohová vydrží kratší dobu než kynutá máslová, proto ji peč nejdřív týden před Vánoci.",
+    "Máslo a cukr na povrchu nejsou jen ozdoba: uzavřou štolu, aby nevysychala. Potírej ji opravdu horkou.",
+    "Z této dávky můžeš upéct i 2 menší štoly; peč je 35 až 40 minut."
+  ],
+  "substitutions": [
+    "Bez marcipánu je štola klasická tvarohová; těsto prostě přelož bez náplně.",
+    "Kandované ovoce můžeš nahradit sušenými brusinkami nebo nasekanými meruňkami, citronovou kůru kůrou z pomeranče.",
+    "Tvaroh z vaničky můžeš nahradit tvrdým tvarohem prolisovaným přes síto a 2 lžícemi mléka."
+  ],
+  "faq": [
+    {
+      "q": "Co je štola?",
+      "a": "Štola je vánoční pečivo původem z Německa: oválný bochník s rozinkami, mandlemi a kandovaným ovocem, přeložený do typického tvaru a po upečení obalený máslem a cukrem. Tradiční je kynutá, doma se často peče rychlejší tvarohová."
+    },
+    {
+      "q": "Jak dlouho vydrží vánoční štola?",
+      "a": "Tvarohová štola zabalená ve fólii vydrží na chladném místě asi týden a v lednici 2 týdny. Kynutá máslová štola vydrží v chladu i 3 až 4 týdny."
+    },
+    {
+      "q": "Jak dlouho se peče tvarohová štola?",
+      "a": "Jedna velká štola z 500 g mouky se peče 50 až 60 minut na 170 °C, horkovzduchem na 160 °C. Dvě menší štoly z téže dávky potřebují 35 až 40 minut. Hotovou poznáš podle suché špejle."
+    }
+  ]
+}

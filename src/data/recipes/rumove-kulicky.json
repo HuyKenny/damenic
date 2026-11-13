@@ -1,0 +1,125 @@
+{
+  "title": "Rumové kuličky",
+  "keywords": [
+    "rumové kuličky recept",
+    "rumové kuličky",
+    "nepečené vánoční cukroví",
+    "rumové kuličky s piškoty recept",
+    "recept na rumové kuličky"
+  ],
+  "intro": "Rumové kuličky jsou nepečené vánoční cukroví z namletých dětských piškotů, vlašských ořechů, másla a kakaa, ochucené rumem a obalené v kokosu. Z dávky vyjde asi 40 kuliček. Obsahují 45 ml rumu, který se nevaří ani nepeče, takže alkohol v nich zůstává; nealko variantu najdeš v náhradách.",
+  "image": "dish-rumove-kulicky",
+  "category": "dezerty",
+  "servings": 8,
+  "activeMinutes": 40,
+  "cookMinutes": 0,
+  "waitMinutes": 60,
+  "waitLabel": "zpevnění a ztuhnutí v lednici",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "alcohol": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "piskoty-detske",
+      "amount": 250,
+      "unit": "g",
+      "group": "Kuličky"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 100,
+      "unit": "g",
+      "note": "mleté",
+      "group": "Kuličky"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Kuličky"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Kuličky"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Kuličky"
+    },
+    {
+      "ingredient": "tuzemak",
+      "amount": 45,
+      "unit": "ml",
+      "note": "nebo tmavý rum, 3 lžíce",
+      "group": "Kuličky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 30,
+      "unit": "ml",
+      "note": "jen podle potřeby",
+      "group": "Kuličky"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 50,
+      "unit": "g",
+      "group": "Na obalení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Směs",
+      "text": "Piškoty rozmixuj nebo umel na jemnou drť. Smíchej je s mletými ořechy, moučkovým cukrem a kakaem."
+    },
+    {
+      "section": "Směs",
+      "text": "Přidej změklé máslo a 45 ml rumu a směs propracuj rukama nebo vařečkou. Má být vláčná a držet tvar; když se drolí, přilévej mléko po lžíci."
+    },
+    {
+      "section": "Směs",
+      "text": "Mísu zakryj a směs nech 30 minut v lednici zpevnit. Pak se tvaruje snáz a nelepí."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Navlhčenýma rukama tvaruj kuličky o průměru 2,5 cm (asi 15 g) a hned je obaluj v kokosu. Kuličky dej do papírových košíčků."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Hotové kuličky nech aspoň 30 minut ztuhnout v lednici. Nejlepší jsou po jednom dni, kdy se chuť rumu propojí s kakaem."
+    }
+  ],
+  "tips": [
+    "Rum dej přesně podle receptu, 45 ml. Víc tekutiny kuličky rozměkčí a nedrží tvar.",
+    "Skladuj je v lednici v uzavřené dóze. Kvůli máslu vydrží asi 2 týdny, zamražené 2 měsíce.",
+    "Kuličky obsahují alkohol. Podávej je jen dospělým, ukládej je mimo dosah dětí a nealko variantu označ a skladuj zvlášť."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo 45 ml rumu dej 45 ml mléka a 1 lžičku (5 ml) rumového aroma. Na etiketě aroma zkontroluj, jestli neobsahuje alkohol jako nosič.",
+    "Dětské piškoty nahradíš stejným množstvím máslových sušenek; kuličky budou máslovější, cukru dej o 20 g méně.",
+    "Vlašské ořechy můžeš nahradit lískovými, nebo je vynech a přidej o 100 g piškotů víc."
+  ],
+  "faq": [
+    {
+      "q": "Můžou rumové kuličky jíst děti?",
+      "a": "Ne. Rum se v nich nevaří ani nepeče, takže alkohol v nich zůstává celý a nejsou vhodné pro děti. Pro ně připrav nealko variantu s mlékem a rumovým aroma a skladuj ji odděleně."
+    },
+    {
+      "q": "Jak dlouho vydrží rumové kuličky?",
+      "a": "V lednici v uzavřené dóze asi 2 týdny, zamražené 2 měsíce. Kvůli máslu je nenechávej delší dobu v teple."
+    },
+    {
+      "q": "Kdy dělat nepečené cukroví?",
+      "a": "V posledních 7 až 10 dnech před Vánoci. Nepečené cukroví s máslem vydrží kratší dobu než pečené, které můžeš péct 2 až 4 týdny dopředu."
+    }
+  ]
+}

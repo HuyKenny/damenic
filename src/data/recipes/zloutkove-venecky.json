@@ -1,0 +1,143 @@
+{
+  "title": "Žloutkové věnečky",
+  "keywords": [
+    "žloutkové věnečky",
+    "žloutkové věnečky recept",
+    "věnečky cukroví",
+    "vánoční cukroví recept"
+  ],
+  "intro": "Žloutkové věnečky jsou křehké vykrajované vánoční cukroví z máslového těsta se žloutky, potřené bílkem a posypané mandlemi s cukrem. Z dávky vyjde asi 60 věnečků. Těžké je jen udržet těsto studené a nepřepéct je: mají zůstat světlé, se zlatavým okrajem.",
+  "image": "dish-zloutkove-venecky",
+  "category": "dezerty",
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "servings": 12,
+  "activeMinutes": 50,
+  "cookMinutes": 22,
+  "waitMinutes": 60,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "jen žloutky, bílky schovej",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen nastrouhaná kůra",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mandle",
+      "amount": 60,
+      "unit": "g",
+      "note": "najemno nasekané",
+      "group": "Na posypání"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "krystal",
+      "group": "Na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Mouku prosej do mísy, přidej moučkový a vanilkový cukr, špetku soli a kůru z omytého citronu. Studené máslo nakrájené na kostičky rozdrob s moukou prsty nebo nožem na jemnou drobenku."
+    },
+    {
+      "section": "Těsto",
+      "text": "Přidej 3 žloutky a těsto rychle zpracuj do hladké hroudy. Hněť jen tak dlouho, než se spojí; teplem rukou máslo měkne a věnečky by pak byly tvrdé."
+    },
+    {
+      "section": "Těsto",
+      "text": "Těsto rozděl na dvě placky, zabal je do fólie a nech v lednici odpočinout aspoň 1 hodinu, klidně přes noc."
+    },
+    {
+      "section": "Vykrajování",
+      "text": "Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 160 °C) a plechy vylož pečicím papírem. Jednu placku vyval na lehce pomoučeném vále na plát silný 3 mm, druhá zatím zůstane v lednici."
+    },
+    {
+      "section": "Vykrajování",
+      "text": "Vykrajuj kolečka o průměru asi 4 cm s otvorem uprostřed (vykrajovátkem na věnečky, nebo otvor vypíchni širším koncem zdobicí špičky). Klaď je na plech s rozestupem 1 cm. Zbytky těsta spoj a vyvaluj znovu, vždy jen krátce."
+    },
+    {
+      "section": "Vykrajování",
+      "text": "Jeden ze schovaných bílků prošlehej vidličkou a tence jím věnečky potři. Mandle smíchej s krystalovým cukrem a věnečky jimi posyp, posyp lehce přitlač."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč jeden plech po druhém 9 až 11 minut. Hotové jsou, když je povrch ještě světlý, okraje lehce zlatavé a spodek světle zlatý."
+    },
+    {
+      "section": "Pečení",
+      "text": "Nech věnečky 3 minuty zpevnit na plechu, pak je přesuň na mřížku. Do dózy je ukládej až úplně vychladlé."
+    }
+  ],
+  "tips": [
+    "Věnečky vydrží v dobře zavřené plechové dóze na chladném a suchém místě 3 až 4 týdny. Vrstvy prolož pečicím papírem, ať se nelámou.",
+    "Když se těsto při vykrajování začne lepit, vrať ho na 10 minut do lednice. Přidávání mouky ho dělá tvrdé.",
+    "Zbylé 2 bílky vydrží v zavřené nádobě v lednici 2 dny a stačí na menší dávku sněhových pusinek."
+  ],
+  "substitutions": [
+    "Mandle můžeš nahradit stejným množstvím nasekaných vlašských nebo lískových ořechů.",
+    "Místo citronové kůry dej kůru z pomeranče, nebo ji vynech a nech jen vanilkový cukr.",
+    "Na bezlepkovou verzi použij bezlepkovou směs na pečení ve stejném množství; těsto je křehčí, vyvaluj ho mezi dvěma pečicími papíry."
+  ],
+  "faq": [
+    {
+      "q": "Na kolik stupňů se peče vánoční cukroví?",
+      "a": "Křehké máslové cukroví se peče na 160 až 170 °C horní a spodní ohřev, horkovzduchem o 10 °C méně. Žloutkovým věnečkům stačí 170 °C (horkovzduch 160 °C) a 9 až 11 minut na plech."
+    },
+    {
+      "q": "Kdy začít péct vánoční cukroví?",
+      "a": "Trvanlivé máslové cukroví, jako jsou věnečky, linecké nebo vanilkové rohlíčky, můžeš péct 3 až 4 týdny před Vánocemi. Cukroví s máslovým krémem nebo šlehačkou se dělá nejvýš týden předem a patří do lednice."
+    },
+    {
+      "q": "Jak skladovat vánoční cukroví?",
+      "a": "Každý druh zvlášť v dobře zavřené plechové nebo plastové dóze, na chladném a suchém místě ideálně do 15 °C. Křehké cukroví neskladuj s měkkým, od něj by navlhlo."
+    }
+  ]
+}

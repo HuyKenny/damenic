@@ -1,0 +1,129 @@
+{
+  "title": "Pracny",
+  "keywords": [
+    "pracny cukroví recept",
+    "pracny recept",
+    "pracny ve formičkách",
+    "cukroví pracny recept"
+  ],
+  "intro": "Pracny jsou vánoční cukroví z máslového těsta s vlašskými ořechy a skořicí, vtlačené do vroubkovaných formiček a po upečení obalené ve vanilkovém cukru. Z dávky vyjde asi 50 kusů. Těsto musí být ve formičkách tenké a pracny se vyklápějí, dokud jsou teplé.",
+  "image": "dish-pracny",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 60,
+  "cookMinutes": 30,
+  "waitMinutes": 60,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 100,
+      "unit": "g",
+      "note": "jemně mleté",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "změklé, na vymazání formiček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Na obalení"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Na obalení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Promíchej mouku, mleté ořechy, 100 g moučkového cukru a skořici. Přidej studené máslo na kostičky a vejce a rychle zpracuj v hladké těsto. Zabal ho do fólie a nech 1 hodinu v lednici."
+    },
+    {
+      "section": "Formičky",
+      "text": "Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 160 °C). Formičky na pracny vymaž tenkou vrstvou změklého másla."
+    },
+    {
+      "section": "Formičky",
+      "text": "Do každé formičky vtlač kousek těsta asi 15 g a palcem ho rozprostři do tenké vrstvy 2 až 3 mm. Přebytek na okraji setři. Silné pracny se nepropečou a jsou tvrdé."
+    },
+    {
+      "section": "Pečení",
+      "text": "Formičky dej na plech a peč 12 až 15 minut, dokud okraje lehce nezezlátnou a těsto se nezačne odlepovat od stěn."
+    },
+    {
+      "section": "Obalení",
+      "text": "Smíchej 80 g moučkového cukru s vanilkovým cukrem. Pracny nech 2 minuty zchladnout, formičky obrať a poklepem je vyklop. Ještě teplé je obal v cukru. Formičky otři a před další várkou znovu vymaž."
+    }
+  ],
+  "tips": [
+    "Formiček na pracny bývá v sadě 20 až 30, pečeš tedy na dvě až tři várky. Těsto mezitím drž v lednici.",
+    "V plechové dóze na chladném a suchém místě vydrží pracny 4 týdny a chuť ořechů a skořice se v nich prohloubí. Můžeš je proto péct mezi prvními, 3 až 4 týdny před Vánoci.",
+    "Když se pracny lepí ve formičkách, je těsto moc silné nebo formičky nejsou vymazané. Po každé várce je otři a znovu vymaž."
+  ],
+  "substitutions": [
+    "Vlašské ořechy nahradíš mletými lískovými oříšky nebo mandlemi ve stejném množství.",
+    "Ke skořici můžeš přidat lžičku perníkového koření; pracny pak voní jako perník.",
+    "Bez formiček těsto vyválej na 3 mm a vykrajuj malé hvězdičky. Peč je 8 až 10 minut."
+  ],
+  "faq": [
+    {
+      "q": "Jak dostat pracny z formiček?",
+      "a": "Formičky vymaž máslem, těsto v nich nenechávej silnější než 3 mm a vyklop pracny 2 minuty po vytažení z trouby. Úplně studené se přichytí ke stěnám, horké se lámou."
+    },
+    {
+      "q": "Na kolik stupňů péct pracny?",
+      "a": "Na 170 °C horní a spodní ohřev nebo 160 °C horkovzduch, 12 až 15 minut. Hotové jsou, když okraje lehce zezlátnou."
+    },
+    {
+      "q": "Jak dlouho vydrží pracny?",
+      "a": "V uzavřené plechové dóze na chladném a suchém místě 4 týdny, zamražené 3 měsíce. Obalené v cukru je skladuj odděleně od měkkého cukroví."
+    }
+  ]
+}

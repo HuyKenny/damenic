@@ -1,0 +1,135 @@
+{
+  "title": "Medvědí tlapky",
+  "keywords": [
+    "medvědí tlapky cukroví recept",
+    "medvědí tlapky",
+    "medvědí tlapky recept",
+    "formičky na medvědí tlapky"
+  ],
+  "intro": "Medvědí tlapky jsou vánoční cukroví z kakaového těsta s vlašskými ořechy a skořicí, upečené ve formičkách tvaru tlapky a špičkami namočené v čokoládě. Z dávky vyjde asi 50 kusů. Od pracen se liší kakaem v těstě, tvarem formiček a čokoládovými drápky.",
+  "image": "dish-medvedi-tlapky",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 75,
+  "cookMinutes": 30,
+  "waitMinutes": 90,
+  "waitLabel": "odpočinek těsta v lednici a tuhnutí čokolády",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 100,
+      "unit": "g",
+      "note": "jemně mleté",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen žloutky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "změklé, na vymazání formiček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Čokoláda"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "group": "Čokoláda"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Promíchej mouku, mleté ořechy, moučkový cukr, kakao a skořici. Přidej studené máslo na kostičky a 2 žloutky a rychle zpracuj v hladké těsto. Zabal ho do fólie a nech 1 hodinu v lednici."
+    },
+    {
+      "section": "Formičky",
+      "text": "Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 160 °C). Formičky na medvědí tlapky vymaž tenkou vrstvou změklého másla."
+    },
+    {
+      "section": "Formičky",
+      "text": "Do každé formičky vtlač kousek těsta asi 15 g a palcem ho rozprostři do vrstvy 3 mm, aby vyplnilo i prstíky. Přebytek na okraji setři."
+    },
+    {
+      "section": "Pečení",
+      "text": "Formičky dej na plech a peč 12 až 15 minut. Tlapky jsou hotové, když je okraj na omak suchý a těsto se odlepuje od stěn. Nech je 2 minuty zchladnout a vyklop je poklepem o desku."
+    },
+    {
+      "section": "Čokoláda",
+      "text": "Čokoládu nalámej a s máslem ji rozpusť v misce nad hrncem s horkou vodou; miska se nemá dotýkat vody. Vychladlé tlapky namáčej prstíky asi 5 mm do čokolády a klaď je na pečicí papír. Čokoláda ztuhne v chladu za 30 minut."
+    }
+  ],
+  "tips": [
+    "Formiček bývá v sadě 20 až 30, pečeš tedy na dvě várky. Formičky mezi várkami otři a znovu vymaž.",
+    "Čokoládu nepřehřívej, stačí aby byla tekutá; přehřátá zhoustne a po ztuhnutí zmatní.",
+    "V plechové dóze na chladném místě vydrží medvědí tlapky 4 týdny. Neskladuj je u topení, čokoláda by lepila."
+  ],
+  "substitutions": [
+    "Hořkou čokoládu můžeš nahradit mléčnou nebo bílou ve stejném množství.",
+    "Místo 2 žloutků můžeš dát 1 celé vejce.",
+    "Vlašské ořechy nahradíš mletými lískovými oříšky ve stejném množství."
+  ],
+  "faq": [
+    {
+      "q": "Jaké formičky potřebuju na medvědí tlapky?",
+      "a": "Kovové formičky ve tvaru tlapky se čtyřmi až pěti prstíky, dlouhé asi 5 cm. Bez nich můžeš těsto upéct ve formičkách na pracny, chuť bude stejná."
+    },
+    {
+      "q": "Na kolik stupňů péct medvědí tlapky?",
+      "a": "Na 170 °C horní a spodní ohřev nebo 160 °C horkovzduch, 12 až 15 minut na jednu várku. Kakaové těsto nezezlátne, proto hlídej suchý okraj a to, jak se odlepuje od stěn."
+    },
+    {
+      "q": "Jak dlouho vydrží medvědí tlapky?",
+      "a": "V uzavřené plechové dóze na chladném místě 4 týdny, zamražené bez čokolády 3 měsíce. Čokoládu pak namáčej až po rozmrazení."
+    }
+  ]
+}

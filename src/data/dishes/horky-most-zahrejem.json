@@ -1,0 +1,18 @@
+{
+  "name": "Horký jablečný mošt",
+  "restaurant": "stanek-zahrejem-zitra",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Kalný mošt se skořicí a hřebíčkem, zahřátý těsně pod var. Nealko a voní jako svařák.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-horky-most-zahrejem",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 80
+}

@@ -1,0 +1,142 @@
+{
+  "title": "Išelské dortíčky",
+  "keywords": [
+    "išelské dortíčky",
+    "išelské cukroví recept",
+    "išelské cukroví",
+    "ořechové vánoční cukroví"
+  ],
+  "intro": "Išelské dortíčky jsou ořechové vánoční cukroví ze dvou křehkých koleček slepených rybízovým džemem, s čokoládovou polevou a půlkou ořechu navrchu. Z dávky vyjde asi 35 dortíčků. Těsto je bez vajec, takže se snadno láme: drž ho studené a vyvaluj tence.",
+  "image": "dish-iselske-dortiky",
+  "category": "dezerty",
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "servings": 7,
+  "activeMinutes": 60,
+  "cookMinutes": 20,
+  "waitMinutes": 120,
+  "waitLabel": "odpočinek těsta v lednici a tuhnutí polevy",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 210,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 140,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 70,
+      "unit": "g",
+      "note": "najemno umleté",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "nepovinná",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "dzem-rybizovy",
+      "amount": 150,
+      "unit": "g",
+      "note": "hustý, nejlépe bez zrníček",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 20,
+      "unit": "g",
+      "note": "půlky nebo čtvrtky na ozdobu",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej s moučkovým cukrem, umletými ořechy a skořicí. Přidej studené máslo na kostičky a rychle vypracuj hladké těsto. Kdyby se drobilo, stiskni ho v dlaních k sobě, vodu ani vejce nepřidávej."
+    },
+    {
+      "section": "Těsto",
+      "text": "Těsto zabal do fólie, zploští ho na placku a nech v lednici odpočinout aspoň 1 hodinu."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 160 °C), plechy vylož pečicím papírem. Těsto vyval na pomoučeném vále nebo mezi dvěma papíry na tloušťku 2 až 3 mm."
+    },
+    {
+      "section": "Pečení",
+      "text": "Vykrajuj kolečka o průměru 3,5 cm, ideálně vroubkovaným vykrajovátkem, a klaď je na plech s rozestupem 1 cm. Musí jich být sudý počet, asi 70."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 8 až 10 minut, dokud okraje lehce nezezlátnou. Kolečka jsou zatepla měkká: nech je 5 minut na plechu a pak je přendej na mřížku vychladnout."
+    },
+    {
+      "section": "Slepování",
+      "text": "Džem krátce prohřej a rozmíchej dohladka. Na polovinu vychladlých koleček dej vždy půl lžičky džemu a přiklop je druhým kolečkem hladkou stranou dolů."
+    },
+    {
+      "section": "Poleva",
+      "text": "Čokoládu nalámej do misky, přidej máslo a rozpusť ve vodní lázni tak, aby miska nedosedla na vodu. Míchej, dokud není poleva hladká, a nech ji 5 minut mírně zchladnout."
+    },
+    {
+      "section": "Poleva",
+      "text": "Každý dortíček namoč vrchem do polevy nebo ho polevou přelij lžičkou, nech okapat a hned na něj polož kousek ořechu. Polevu nech ztuhnout na chladném místě asi 1 hodinu."
+    }
+  ],
+  "tips": [
+    "Dortíčky jsou nejlepší po 2 až 3 dnech v dóze, kdy kolečka od džemu trochu změknou.",
+    "V dobře zavřené dóze na chladném a suchém místě vydrží 2 až 3 týdny. Vrstvy prolož papírem, aby se poleva nepoškrábala.",
+    "Když chceš čistší polevu, ponoř do čokolády jen horní kolečko a boky nech holé."
+  ],
+  "substitutions": [
+    "Vlašské ořechy můžeš nahradit mletými mandlemi nebo lískovými ořechy ve stejném množství.",
+    "Místo rybízového džemu se hodí meruňkový nebo malinový; řidší džem nejdřív 2 minuty povař, aby nevytékal.",
+    "Polevu můžeš udělat z 150 g čokolády a 2 lžic oleje místo másla, rychleji ztuhne a víc se leskne."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží vánoční cukroví s džemem?",
+      "a": "Išelské dortíčky vydrží v dobře zavřené dóze na chladném místě 2 až 3 týdny. Péct je můžeš i 3 týdny před Vánocemi, džem je zevnitř udrží vláčné."
+    },
+    {
+      "q": "Proč se išelské těsto drobí?",
+      "a": "Těsto je bez vajec, drží ho jen máslo. Drobí se, když je máslo moc studené nebo moc teplé. Nech ho 10 minut při pokojové teplotě, nebo ho naopak vrať do lednice, a vyvaluj ho mezi dvěma papíry."
+    },
+    {
+      "q": "Jak dlouho se peče išelské cukroví?",
+      "a": "Kolečka silná 2 až 3 mm se pečou 8 až 10 minut na 170 °C, horkovzduchem na 160 °C. Vytáhni je, jakmile okraje začnou zlátnout, střed může být ještě světlý."
+    }
+  ]
+}

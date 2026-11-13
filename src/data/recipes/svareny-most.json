@@ -1,0 +1,98 @@
+{
+  "title": "Svařený jablečný mošt (nealko svařák)",
+  "keywords": [
+    "nealkoholický svařák",
+    "nealko svařák",
+    "svařák bez alkoholu",
+    "svařený jablečný mošt"
+  ],
+  "image": "dish-svareny-most",
+  "category": "napoje",
+  "vegetarian": true,
+  "occasions": [
+    "vanoce"
+  ],
+  "servings": 4,
+  "activeMinutes": 5,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Nealkoholický svařák z jablečného moštu se skořicí, hřebíčkem, zázvorem a pomerančem pro čtyři hrnky. Mošt stačí zahřát těsně pod bod varu a nechat v něm koření vylouhovat. Var by mu dal chuť kompotu.",
+  "ingredients": [
+    {
+      "ingredient": "most-jablecny",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "100 %, nejlépe kalný"
+    },
+    {
+      "ingredient": "skorice-cela",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "hrebicek",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "badyan",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "pomeranc",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "jen když je mošt kyselý"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mošt nalij do hrnce a přidej skořici, hřebíček, badyán a plátky zázvoru."
+    },
+    {
+      "text": "Na mírném plameni zahřívej asi 10 minut, dokud se hladina nezačne kouřit a u okraje se neobjeví drobné bublinky. Nevař."
+    },
+    {
+      "text": "Přidej kolečka pomeranče, stáhni hrnec z plotny a nech pod pokličkou 5 minut louhovat."
+    },
+    {
+      "text": "Přeceď do hrnků, ochutnej a podle potřeby vmíchej med."
+    }
+  ],
+  "tips": [
+    "Kalný mošt má výraznější chuť než čirý a svařený je plnější.",
+    "Zbytek přeceď a uchovej v lednici nejvýš 3 dny."
+  ],
+  "substitutions": [
+    "Místo jablečného moštu můžeš použít 1 l červeného hroznového moštu, chutí bude bližší klasickému svařáku.",
+    "Místo jednotlivého koření stačí 1 sáček směsi koření na svařák."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat nealkoholický svařák?",
+      "a": "Místo vína použij 100% jablečný nebo hroznový mošt, přidej skořici, hřebíček, badyán a pomeranč a zahřej ho těsně pod bod varu. Pak nech 5 minut louhovat a přeceď."
+    },
+    {
+      "q": "Jaký mošt na nealko svařák?",
+      "a": "Neředěný 100% mošt, nejlépe kalný jablečný, nebo červený hroznový. Nektar a ředěné šťávy jsou moc sladké a vodové."
+    },
+    {
+      "q": "Musí se do nealko svařáku dávat cukr?",
+      "a": "Většinou ne, mošt je sladký sám. Med nebo cukr přidej až po ochutnání, jen když je mošt kyselý."
+    }
+  ]
+}

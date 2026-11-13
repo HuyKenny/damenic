@@ -1,0 +1,189 @@
+{
+  "title": "Vánočka",
+  "keywords": [
+    "vánočka",
+    "vánočka recept",
+    "pletení vánočky",
+    "vánočka ze 6 pramenů",
+    "vánočka ze 4 pramenů"
+  ],
+  "intro": "Vánočka z 500 g mouky, s máslem, rozinkami a mandlemi, na jeden velký pletenec. Postup popisuje kynutí, pletení ze 4 i ze 6 pramenů krok za krokem a pečení. Nejtěžší je udržet tvar: tužší těsto, krátké druhé kynutí a špejle zabrání tomu, aby se vánočka v troubě rozjela.",
+  "image": "dish-vanocka-pod-stromkem",
+  "category": "pekarna",
+  "occasions": [
+    "vanoce"
+  ],
+  "servings": 12,
+  "activeMinutes": 50,
+  "cookMinutes": 50,
+  "waitMinutes": 135,
+  "waitLabel": "kynutí těsta a spletené vánočky",
+  "difficulty": "náročnější",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 500,
+      "unit": "g",
+      "note": "nebo hladká speciální",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 30,
+      "unit": "g",
+      "note": "čerstvé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "note": "krystal",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "1 celé a 2 žloutky, pokojové teploty",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 8,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen nastrouhaná kůra",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 100,
+      "unit": "g",
+      "note": "spařené a osušené",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozšlehané na potření",
+      "group": "Na povrch"
+    },
+    {
+      "ingredient": "mandle-platky",
+      "amount": 30,
+      "unit": "g",
+      "group": "Na povrch"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Kvásek",
+      "text": "Rozinky spař horkou vodou, nech 10 minut nabobtnat, sceď a osuš utěrkou. Do hrnku dej 50 ml vlažného mléka (asi 35 °C, na zápěstí příjemně teplé, ne horké), lžičku z odváženého cukru a rozdrobené droždí."
+    },
+    {
+      "section": "Kvásek",
+      "text": "Kvásek promíchej a nech 10 až 15 minut v teple, dokud nezpění a nezvětší objem. Když nezpění vůbec, droždí je staré nebo bylo mléko moc horké."
+    },
+    {
+      "section": "Těsto",
+      "text": "Do mísy prosej mouku, přidej zbytek cukru, vanilkový cukr, sůl a citronovou kůru. Přilij kvásek, zbylých 150 ml vlažného mléka, vejce se žloutky a změklé máslo."
+    },
+    {
+      "section": "Těsto",
+      "text": "Hněť 10 minut robotem s hákem na střední rychlost nebo 15 minut rukou, dokud není těsto hladké, lesklé a nepouští se od mísy. Má zůstat spíš tužší a nelepivé, měkké těsto se při pečení rozteče. Na konci zapracuj rozinky."
+    },
+    {
+      "section": "Kynutí",
+      "text": "Mísu přikryj utěrkou a nech těsto kynout v teple bez průvanu (24 až 28 °C) 60 až 90 minut, dokud nezdvojnásobí objem. Vykynuté těsto po zmáčknutí prstem pomalu pruží zpátky."
+    },
+    {
+      "section": "Pletení ze 4 pramenů",
+      "text": "Těsto krátce promačkej, rozděl na 4 stejné díly (zvaž je) a vyválej prameny dlouhé asi 45 cm, uprostřed silnější a ke koncům tenčí. Polož je vedle sebe, nahoře je spoj a přitiskni."
+    },
+    {
+      "section": "Pletení ze 4 pramenů",
+      "text": "Pozice čísluj zleva 1 až 4 a po každém tahu je čísluj znovu. Pramen z pozice 4 přelož doleva přes dva sousední na pozici 2. Pramen z pozice 1 přelož doprava přes dva na pozici 3. Pramen z pozice 2 přelož doprava přes jeden na pozici 3. Tyto tři tahy opakuj do konce, konce spoj a podehni pod vánočku."
+    },
+    {
+      "section": "Pletení ze 6 pramenů",
+      "text": "Pro šestipramennou vánočku rozděl těsto na 6 dílů a vyválej prameny dlouhé asi 40 cm, spoj je nahoře a pozice čísluj zleva 1 až 6. Na začátku přelož pramen 6 přes všechny na pozici 1 a pramen, který byl první, přesuň úplně doprava na pozici 6."
+    },
+    {
+      "section": "Pletení ze 6 pramenů",
+      "text": "Pak opakuj čtyři tahy, pozice po každém čísluj znovu: pramen z pozice 2 přelož přes ostatní úplně doprava na pozici 6, pramen z pozice 1 přelož na pozici 3, pramen z pozice 5 přelož úplně doleva na pozici 1 a pramen z pozice 6 přelož na pozici 4. Pleť těsně, bez mezer, konce spoj a podehni."
+    },
+    {
+      "section": "Tvar",
+      "text": "Vánočku přenes na plech s pečicím papírem, rukama ji z boků přitlač k sobě a zapíchni do ní svisle 3 až 4 dřevěné špejle skrz všechny prameny až do plechu. Drží pletenec pohromadě, dokud těsto v troubě nezpevní."
+    },
+    {
+      "section": "Kynutí",
+      "text": "Vánočku přikryj utěrkou a nech kynout jen 30 až 40 minut, dokud viditelně nenabere objem. Překynutá vánočka se v troubě rozjede do šířky. Mezitím předehřej troubu na 170 °C horní a spodní ohřev (horkovzduch 160 °C)."
+    },
+    {
+      "section": "Pečení",
+      "text": "Vánočku potři rozšlehaným vejcem, i v záhybech, ale tak, aby vejce nesteklo pod ni. Posyp mandlovými plátky."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 45 až 50 minut. Jakmile je po 20 až 25 minutách pěkně zlatá, přikryj ji alobalem. Hotová je, když špejle zapíchnutá do nejsilnějšího místa vyjde suchá, spodek zní při poklepu dutě a vnitřek má 92 až 95 °C."
+    },
+    {
+      "section": "Pečení",
+      "text": "Vytáhni špejle, nech vánočku vychladnout na mřížce aspoň hodinu a teprve pak ji krájej. Zatepla je střídka ještě lepivá."
+    }
+  ],
+  "tips": [
+    "Aby se vánočka nerozjela: těsto drž tužší, prameny vyválej pevně a stejně silné, pleť těsně, druhé kynutí zkrať na 30 až 40 minut a použij špejle nebo formu na vánočku.",
+    "Mléko, vejce i máslo měj vlažné nebo pokojové teploty. Droždí odumírá nad 45 °C a ze studených surovin těsto kyne pomalu.",
+    "Zabalená v utěrce a sáčku zůstane vánočka vláčná 2 až 3 dny. Den starou použij na žemlovku nebo francouzský toast."
+  ],
+  "substitutions": [
+    "Místo 30 g čerstvého droždí použij 1 sáček (7 g) sušeného a smíchej ho rovnou s moukou, kvásek se nedělá.",
+    "Rozinky můžeš vynechat nebo nahradit 80 g kandovaného ovoce či nasekaných mandlí.",
+    "Tradiční vánočka má tři patra: spodní pletenec ze 4 pramenů, prostřední ze 3 a nahoře 2 stočené prameny. Těsto pak rozděl na 9 dílů, spodní jsou největší."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se peče vánočka?",
+      "a": "Vánočka z 500 g mouky se peče 45 až 50 minut na 170 °C, horkovzduchem na 160 °C. Hotová je, když je špejle z nejsilnějšího místa suchá a vnitřek má 92 až 95 °C. Menší vánočky z poloviční dávky stačí péct 30 až 35 minut."
+    },
+    {
+      "q": "Jak se plete vánočka ze 6?",
+      "a": "Prameny čísluj zleva 1 až 6. Nejdřív přelož 6 na pozici 1 a 1 na pozici 6. Pak opakuj: 2 přes ostatní na 6, 1 na 3, 5 na 1, 6 na 4. Po každém tahu pozice čísluj znovu zleva."
+    },
+    {
+      "q": "Proč se vánočka rozjede?",
+      "a": "Nejčastěji je těsto příliš měkké, vánočka překynula nebo prameny nejsou pevně spletené. Pomáhá tužší těsto, druhé kynutí jen 30 až 40 minut, pevné pletení a 3 až 4 špejle zapíchnuté skrz celý pletenec."
+    }
+  ]
+}

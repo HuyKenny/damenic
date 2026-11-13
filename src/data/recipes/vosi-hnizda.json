@@ -1,0 +1,152 @@
+{
+  "title": "Vosí hnízda s vanilkovým krémem",
+  "keywords": [
+    "vosí hnízda",
+    "vosí hnízda recept",
+    "recept na vosí hnízda",
+    "formičky na vosí hnízda"
+  ],
+  "intro": "Vosí hnízda jsou pečené košíčky z kakaovo-ořechového těsta, naplněné vanilkovým pudinkovým krémem a zespodu uzavřené dětským piškotem. Z dávky vyjde asi 40 kusů. Potřebuješ formičky ve tvaru vosího hnízda a trpělivost s krémem: pudink a máslo musí mít stejnou teplotu, jinak se krém srazí.",
+  "image": "dish-vosi-hnizda",
+  "category": "dezerty",
+  "servings": 8,
+  "activeMinutes": 90,
+  "cookMinutes": 30,
+  "waitMinutes": 150,
+  "waitLabel": "odpočinek těsta, chladnutí krému a ztuhnutí v lednici",
+  "difficulty": "náročnější",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 100,
+      "unit": "g",
+      "note": "jemně mleté",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "změklé, na vymazání formiček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 37,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "změklé na pokojovou teplotu",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "piskoty-detske",
+      "amount": 160,
+      "unit": "g",
+      "note": "asi 40 kusů",
+      "group": "Na uzavření"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Promíchej mouku, mleté ořechy, moučkový cukr a kakao. Přidej studené máslo na kostičky a vejce a rychle zpracuj v hladké těsto. Zabal ho do fólie a nech 30 minut v lednici."
+    },
+    {
+      "section": "Formičky",
+      "text": "Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 160 °C). Formičky na vosí hnízda vymaž tenkou vrstvou změklého másla. Do každé vtlač kousek těsta asi 15 g a palcem ho rozprostři po stěnách do tloušťky 3 mm; nahoře ho zarovnej s okrajem."
+    },
+    {
+      "section": "Pečení",
+      "text": "Formičky postav na plech a peč 12 až 15 minut. Hnízda jsou hotová, když je okraj na omak suchý a těsto začíná povolovat od stěn. Nech je 3 až 5 minut zchladnout a pak je vyklop poklepem formičky o desku. Formičky před další várkou otři a znovu vymaž."
+    },
+    {
+      "section": "Krém",
+      "text": "Ze 300 ml mléka odlij 100 ml a rozmíchej v nich pudinkový prášek. Zbytek mléka s cukrem přiveď k varu, vmíchej rozmíchaný pudink a za stálého míchání vař 1 až 2 minuty do hustého krému. Přelij ho do mísy, zakryj fólií přímo na povrchu, aby se neudělal škraloup, a nech vychladnout na pokojovou teplotu."
+    },
+    {
+      "section": "Krém",
+      "text": "Změklé máslo šlehej asi 3 minuty do světlé pěny. Po lžících k němu zašlehávej vychladlý pudink. Máslo i pudink musí mít pokojovou teplotu, asi 20 °C; studený pudink se s máslem srazí do hrudek."
+    },
+    {
+      "section": "Plnění",
+      "text": "Krém dej do sáčku s hladkou špičkou a plň vychladlá hnízda až po okraj. Na krém přitiskni dětský piškot plochou stranou, ten bude tvořit spodek. Hotová hnízda dej na 1 hodinu do lednice ztuhnout a podávej piškotem dolů."
+    }
+  ],
+  "tips": [
+    "Formičky na vosí hnízda jsou kovové, ve tvaru kuželu s vodorovnými vroubky a s průměrem asi 4 cm. V sadě jich bývá 20 až 30, pečeš tedy na dvě várky a těsto mezitím drž v lednici.",
+    "Kvůli krému s máslem a mlékem patří vosí hnízda do lednice. V uzavřené krabici vydrží asi týden. Prázdná upečená hnízda vydrží v dóze 3 týdny, takže je můžeš upéct dřív a plnit až před Vánoci.",
+    "Krém můžeš ochutit lžící kakaa nebo nastrouhanou kůrou z půl pomeranče."
+  ],
+  "substitutions": [
+    "Dětské piškoty můžeš nahradit kolečky z lineckého těsta o průměru 4 cm; hnízda pak déle zůstanou křupavá.",
+    "Vlašské ořechy nahradíš stejným množstvím mletých lískových oříšků nebo mandlí."
+  ],
+  "faq": [
+    {
+      "q": "Jaké formičky potřebuju na vosí hnízda?",
+      "a": "Kovové formičky ve tvaru vosího hnízda, tedy kužel s vodorovnými vroubky o průměru asi 4 cm. Bez nich můžeš těsto upéct ve formičkách na košíčky, chuť bude stejná, jen tvar ne."
+    },
+    {
+      "q": "Jak vyndat vosí hnízda z formiček?",
+      "a": "Formičky vymaž máslem, upečená hnízda nech 3 až 5 minut zchladnout a vyklop je poklepem hrany formičky o desku. Úplně studená drží ve formičkách víc, horká se lámou."
+    },
+    {
+      "q": "Jak dlouho vydrží vosí hnízda?",
+      "a": "V lednici v uzavřené krabici asi týden. Kvůli máslovému krému je nenechávej v teplé místnosti; prázdná upečená hnízda bez krému vydrží v dóze 3 týdny."
+    }
+  ]
+}

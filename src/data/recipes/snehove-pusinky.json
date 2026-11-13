@@ -1,0 +1,114 @@
+{
+  "title": "Sněhové pusinky",
+  "keywords": [
+    "sněhové pusinky",
+    "pusinky z bílků",
+    "bezé recept",
+    "vánoční cukroví z bílků",
+    "cukroví z bílků"
+  ],
+  "intro": "Sněhové pusinky (bezé) jsou cukroví z bílků a cukru, které se v troubě nepeče, ale pomalu suší při 100 °C. Ze 4 bílků vyjde asi 40 pusinek o průměru 3 cm. Rozhoduje čistá mísa bez tuku, cukr přidávaný po lžících a trpělivost při sušení.",
+  "image": "dish-snehove-pusinky",
+  "category": "dezerty",
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "servings": 8,
+  "activeMinutes": 25,
+  "cookMinutes": 120,
+  "waitMinutes": 60,
+  "waitLabel": "dosušení ve vypnuté troubě",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "jen bílky (asi 120 g), pokojové teploty"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "nebo pár kapek citronové šťávy"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 120,
+      "unit": "g",
+      "note": "krystal, co nejjemnější"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 120,
+      "unit": "g"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "kukuřičný"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Sníh",
+      "text": "Troubu předehřej na 100 °C horní a spodní ohřev (horkovzduch 90 °C) a plechy vylož pečicím papírem. Mísu a metly otři papírovou utěrkou namočenou v octu: i stopa tuku nebo žloutku sníh nenechá ztuhnout."
+    },
+    {
+      "section": "Sníh",
+      "text": "Bílky se špetkou soli šlehej na střední rychlost asi 1 minutu do pěny, přidej ocet a přepni na vyšší rychlost."
+    },
+    {
+      "section": "Sníh",
+      "text": "Jakmile sníh začne držet měkké špičky, přisypávej krystal po lžících, vždy po 20 až 30 sekundách, celkem asi 5 až 7 minut. Šlehej, dokud není sníh hustý a lesklý a cukr mezi prsty nedrhne."
+    },
+    {
+      "section": "Sníh",
+      "text": "Moučkový cukr smíchej se škrobem, prosej ho na sníh a stěrkou ho opatrně vmíchej několika tahy ode dna nahoru. Nemíchej dlouho, sníh by splaskl."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Sníh dej do sáčku s hvězdicovou špičkou a stříkej na papír pusinky o průměru 3 cm s rozestupem 2 cm. Papír v rozích přilep k plechu kapkou sněhu, ať se neposouvá."
+    },
+    {
+      "section": "Sušení",
+      "text": "Suš 1,5 až 2 hodiny. Do dvířek trouby po první půlhodině vlož vařečku, aby mohla unikat pára. Pusinky mají zůstat bílé nebo smetanové; když začnou žloutnout, sniž teplotu o 10 °C."
+    },
+    {
+      "section": "Sušení",
+      "text": "Hotové jsou, když se samy odlepí od papíru a po poklepu zní dutě. Troubu vypni a nech je v ní s pootevřenými dvířky ještě 1 hodinu dosušit a vychladnout."
+    }
+  ],
+  "tips": [
+    "Pusinky ukládej jen úplně vychladlé do dobře zavřené dózy na suché místo. Vydrží 3 až 4 týdny; do lednice nepatří, navlhnou a slepí se.",
+    "Bílky odděluj po jednom do hrnku a teprve pak přelij do mísy. Jeden prasklý žloutek pokazí celou dávku.",
+    "Na pusinky jsou výborné bílky, které zbudou po žloutkových věnečcích nebo vánočce; v lednici vydrží v zavřené nádobě 2 dny."
+  ],
+  "substitutions": [
+    "Do hotového sněhu můžeš vmíchat 60 g nasekaných ořechů nebo strouhaného kokosu; vznikne klasické cukroví z bílků a ořechů.",
+    "Ocet můžeš nahradit špetkou kyseliny citronové.",
+    "Na kakaové pusinky prosej s moučkovým cukrem 1 lžíci kakaa."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho sušit pusinky v troubě?",
+      "a": "Pusinky o průměru 3 cm se suší 1,5 až 2 hodiny při 100 °C, horkovzduchem při 90 °C, a pak ještě hodinu dosychají ve vypnuté troubě. Větší potřebují víc času, rozhoduje to, jestli se samy odlepí od papíru."
+    },
+    {
+      "q": "Proč jsou pusinky lepkavé nebo pláčou?",
+      "a": "Cukr se nestihl rozpustit nebo pusinky nedoschly. Krystal přisypávej po lžících a šlehej, dokud mezi prsty nedrhne, a suš je, dokud nejsou suché skrz. Lepkavé pusinky dosušíš 30 minut v troubě na 90 °C."
+    },
+    {
+      "q": "Jak dlouho vydrží sněhové pusinky?",
+      "a": "V dobře zavřené dóze na suchém místě 3 až 4 týdny. Můžeš je péct mezi prvními druhy vánočního cukroví, jen je drž dál od vlhka a od měkkého cukroví."
+    }
+  ]
+}

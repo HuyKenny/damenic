@@ -1,0 +1,26 @@
+{
+  "name": "Tvarohová štola",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Vláčná tvarohová štola s rozinkami, kandovaným ovocem a mandlemi, zabalená v másle a cukru.",
+  "about": [
+    "Štola je hutnější sestra vánočky. Tahle tvarohová verze nekyne: tvaroh a prášek do pečiva udělají vláčné těsto za zlomek času, uvnitř jsou rozinky, kandované ovoce, mandle a volitelně marcipán. Po upečení se ještě teplá potře máslem a obalí moučkovým cukrem.",
+    "Dobrá štola potřebuje po upečení pár dní odležet, aby se chutě spojily. To u nás zvládá výborně. Odleží si celý advent, protože ji nikdo neupekl."
+  ],
+  "price": 22900,
+  "image": "dish-stola-pod-stromkem",
+  "recipe": "vanocni-stola",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 20
+}

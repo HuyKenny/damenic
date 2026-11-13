@@ -1,0 +1,85 @@
+{
+  "title": "Grog s citronem",
+  "keywords": [
+    "grog",
+    "grog recept",
+    "jak se dělá grog",
+    "co je grog"
+  ],
+  "image": "dish-grog-zahrejem",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "occasions": [
+    "vanoce"
+  ],
+  "servings": 2,
+  "activeMinutes": 5,
+  "cookMinutes": 5,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Grog je nejjednodušší horký nápoj zimy: rum, horká voda, cukr a citron. Recept je na dva hrnky v poměru 1 díl rumu na 4 díly vody. Rum se do hrnku přilévá až nakonec a nikdy se nevaří.",
+  "ingredients": [
+    {
+      "ingredient": "tuzemak",
+      "amount": 80,
+      "unit": "ml",
+      "note": "40 ml na hrnek"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 320,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 4,
+      "unit": "lzicka",
+      "note": "nebo med"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "2 kolečka a šťáva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hrnky předehřej horkou vodou z kohoutku. Vodu na grog přiveď k varu a nech ji minutu odstát, bude mít asi 90 °C."
+    },
+    {
+      "text": "Z citronu odkroj 2 kolečka, zbytek vymačkej. Do každého hrnku dej 2 lžičky cukru, kolečko citronu a lžičku citronové šťávy."
+    },
+    {
+      "text": "Zalij každý hrnek 160 ml horké vody a míchej, dokud se cukr nerozpustí."
+    },
+    {
+      "text": "Přilij do každého hrnku 40 ml rumu, zamíchej a podávej hned."
+    }
+  ],
+  "tips": [
+    "Rum nikdy neohřívej v hrnci na plotně, alkohol i vůně by se odpařily.",
+    "Citron před krájením omyj horkou vodou, kolečko se louhuje i s kůrou.",
+    "Při nachlazení si dej raději nealko verzi s medem. Alkohol tělu se zotavením nepomáhá."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo rumu dej do každého hrnku 40 ml silného černého čaje a 1/4 lžičky rumového aroma.",
+    "Místo cukru můžeš použít 1 lžičku medu na hrnek. Vmíchej ho až do vody, která chvíli stála.",
+    "Místo tuzemáku se hodí 80 ml tmavého třtinového rumu, grog bude jemnější."
+  ],
+  "faq": [
+    {
+      "q": "Co je grog?",
+      "a": "Horký nápoj z rumu, horké vody, cukru a citronu. Pochází z britského námořnictva 18. století, kde se námořníkům příděl rumu ředil vodou, a jméno grog mu zůstalo dodnes."
+    },
+    {
+      "q": "Jak se dělá grog?",
+      "a": "Do předehřátého hrnku dej 2 lžičky cukru, kolečko a lžičku šťávy z citronu, zalij 160 ml vody o teplotě asi 90 °C, rozmíchej a nakonec přilij 40 ml rumu."
+    },
+    {
+      "q": "Kolik rumu do grogu?",
+      "a": "Klasický poměr je 1 díl rumu na 4 díly horké vody, tedy 40 ml rumu na 160 ml vody. Sladkost a kyselost si uprav cukrem a citronem, ne množstvím rumu."
+    }
+  ]
+}

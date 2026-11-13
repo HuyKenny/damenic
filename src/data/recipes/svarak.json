@@ -1,0 +1,115 @@
+{
+  "title": "Svařák z červeného vína",
+  "keywords": [
+    "svařák",
+    "svařák recept",
+    "domácí svařák",
+    "jaké víno na svařák",
+    "koření na svařák"
+  ],
+  "image": "dish-svarak-zahrejem",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "occasions": [
+    "vanoce"
+  ],
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Domácí svařák z červeného vína s pomerančem, skořicí a hřebíčkem na čtyři hrnky. Celé umění je v teplotě: koření se krátce povaří ve vodě s cukrem, ale víno se jen zahřeje na 70 až 80 °C a nevaří se. Jinak z hrnce odejde alkohol i vůně a zůstane hořká sladká voda.",
+  "ingredients": [
+    {
+      "ingredient": "vino-cervene",
+      "amount": 750,
+      "unit": "ml",
+      "note": "suché nebo polosuché"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "note": "nebo 3 lžíce medu, viz náhrady"
+    },
+    {
+      "ingredient": "skorice-cela",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "hrebicek",
+      "amount": 5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "badyan",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "pomeranc",
+      "amount": 1,
+      "unit": "ks",
+      "note": "neošetřený, na kolečka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na kolečka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do širšího nerezového nebo smaltovaného hrnce nalij vodu, přidej cukr, skořici, hřebíček, badyán a nové koření. Přiveď k varu a nech 5 minut mírně probublávat, aby koření pustilo aroma do sirupu."
+    },
+    {
+      "text": "Pomeranč a citron omyj horkou vodou a nakrájej na kolečka. Polovinu pomerančových koleček a všechna citronová vlož do sirupu a stáhni plamen na minimum."
+    },
+    {
+      "text": "Nalij víno a zahřívej ho na mírném plameni asi 10 minut na 70 až 80 °C. Svařák se nesmí vařit: jakmile se hladina začne kouřit a u okraje se objeví první drobné bublinky, stáhni ho z plotny. Varem se odpaří alkohol i vůně a koření zhořkne."
+    },
+    {
+      "text": "Ochutnej a podle kyselosti vína případně dosladi lžící cukru. Citronová kolečka po 15 minutách vylov, jejich kůra by svařák začala hořknout."
+    },
+    {
+      "text": "Svařák přeceď přes sítko do předehřátých hrnků a každý ozdob čerstvým kolečkem pomeranče."
+    }
+  ],
+  "tips": [
+    "Teploměr není nutný, ale pomůže. Bez něj se řiď hladinou: má se kouřit, ne bublat.",
+    "Hliníkový hrnec nepoužívej, kyselé víno s ním reaguje a svařák dostane kovovou pachuť.",
+    "Zbytek přeceď, uzavři a dej do lednice, vydrží 2 dny. Ohřívej znovu jen pod bod varu."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo vína použij 750 ml červeného hroznového nebo černého rybízového moštu a vodu vynech. Cukr přidávej až po ochutnání, mošt je sladký sám.",
+    "Místo cukru můžeš použít 3 lžíce medu. Vmíchej ho až do hotového teplého svařáku, ne do vroucího sirupu.",
+    "Místo jednotlivého koření stačí 1 sáček hotové směsi koření na svařák (asi 10 g)."
+  ],
+  "faq": [
+    {
+      "q": "Jaké víno na svařák?",
+      "a": "Suché nebo polosuché červené víno střední cenové hladiny, ovocné a s mírnými tříslovinami, například Frankovka, Zweigeltrebe, Modrý Portugal nebo Svatovavřinecké. Drahé víno se nevyplatí, koření jeho jemnost přebije. Velmi levné víno bývá kyselé a ploché a cukrem se to nespraví."
+    },
+    {
+      "q": "Jak se dělá svařák z červeného vína?",
+      "a": "Nejdřív se z vody, cukru a koření uvaří krátký sirup (5 minut), pak se přilije víno a zahřeje se na 70 až 80 °C. Víno se už nevaří. Nakonec se svařák přecedí a podává v předehřátých hrncích s kolečkem pomeranče."
+    },
+    {
+      "q": "Smí se svařák vařit?",
+      "a": "Ne. Alkohol se začíná ve velkém odpařovat už kolem 78 °C a s ním odchází i vůně vína. Z vařeného svařáku zbude nasládlá tekutina s hořkou chutí převařeného koření. Drž ho těsně pod bodem varu."
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "title": "Smažený kapr",
+  "keywords": [
+    "kapr recept",
+    "smažený kapr",
+    "smažený kapr recept",
+    "vánoční kapr recept",
+    "kapr v trojobalu"
+  ],
+  "intro": "Smažený kapr je základ štědrovečerní večeře: porce s kůží naříznuté přes kůstky, obalené v trojobalu a usmažené dozlatova při 170 až 175 °C. Recept je pro 4 porce. Nejvíc práce je s nařezáním kostí, díky kterému drobné kůstky v hotové rybě nejsou cítit.",
+  "image": "dish-smazeny-kapr",
+  "category": "ceska",
+  "occasions": [
+    "vanoce"
+  ],
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 20,
+  "waitMinutes": 30,
+  "waitLabel": "odležení osolených porcí v lednici",
+  "difficulty": "střední",
+  "vegetarian": false,
+  "ingredients": [
+    {
+      "ingredient": "kapr-porce",
+      "amount": 800,
+      "unit": "g",
+      "note": "4 porce s kůží z půleného kapra, bez páteře",
+      "group": "Ryba"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 8,
+      "unit": "g",
+      "group": "Ryba"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Ryba"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Trojobal"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Trojobal"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Trojobal"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Trojobal"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 600,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na měsíčky k podávání",
+      "group": "Smažení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Porce opláchni studenou vodou a důkladně osuš papírovou utěrkou. Zkontroluj, jestli na nich nezůstaly šupiny, ploutve nebo černá blána z břišní dutiny; blána je hořká, seškrab ji nožem."
+    },
+    {
+      "section": "Naříznutí",
+      "text": "Polož porci kůží dolů a ostrým tenkým nožem ji nařízni napříč v rozestupech 3 až 5 mm až ke kůži, kůži ale neprořízni. Přetneš tím vidličkovité kůstky na krátké kousky, které se při smažení změkčí."
+    },
+    {
+      "section": "Příprava",
+      "text": "Porce osol z obou stran i do zářezů, opepři a nech 20 až 30 minut v lednici. Sůl vytáhne z masa trochu vody, proto porce před obalováním znovu osuš."
+    },
+    {
+      "section": "Trojobal",
+      "text": "Připrav tři talíře: v prvním mouku, ve druhém vejce rozšlehaná s mlékem, ve třetím strouhanku. Porci obal v mouce i v zářezech a oklep, protáhni vejcem, nech okapat a obal ve strouhance. Strouhanku lehce přitlač."
+    },
+    {
+      "section": "Smažení",
+      "text": "Ve velké pánvi rozehřej olej asi 1,5 cm vysoko na 170 až 175 °C. Bez teploměru: drobek strouhanky hned zašumí a za 30 až 40 sekund zezlátne. Když zčerná rychleji, je olej moc horký."
+    },
+    {
+      "section": "Smažení",
+      "text": "Smaž najednou nejvýš 2 porce, aby olej nevychladl. Porce silné asi 2 cm smaž 4 až 5 minut z každé strany, tenčí filety 3 minuty. Kapr je hotový, když má uvnitř 63 °C nebo když se maso u kůže snadno odděluje a už není sklovité."
+    },
+    {
+      "section": "Podávání",
+      "text": "Usmažené porce nech okapat na mřížce nebo papírové utěrce a drž je v troubě vyhřáté na 80 °C, dokud nedosmažíš zbytek. Podávej s měsíčky citronu."
+    }
+  ],
+  "tips": [
+    "Ke smaženému kaprovi patří na Štědrý večer bramborový salát. Udělej ho ráno nebo den předem, ať se rozleží a je dobře vychlazený.",
+    "Porce kupuj nejlépe 23. prosince nebo ráno 24. a do smažení je drž v lednici při 0 až 4 °C.",
+    "Použitý olej po vychladnutí přeceď do lahve a odnes do sběru, do odpadu ani do záchodu nepatří."
+  ],
+  "substitutions": [
+    "Místo porcí s kůží můžeš použít kapří filety bez kůže; naříznout je třeba stejně a smaží se 3 minuty z každé strany.",
+    "Kdo kapra nemusí, usmaží stejným postupem filety z pstruha, candáta nebo tresky. Mají méně kůstek a nařezávat se nemusí.",
+    "Slunečnicový olej můžeš nahradit řepkovým nebo vepřovým sádlem, teplota smažení zůstává stejná."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží kapr v lednici?",
+      "a": "Syrový kapr vydrží v lednici při 0 až 4 °C 1 až 2 dny, zakrytý na talíři na nejchladnější poličce. Usmažený kapr vydrží v zavřené krabičce 2 až 3 dny, před jídlem ho prohřej v troubě."
+    },
+    {
+      "q": "Jak dlouho se smaží kapr?",
+      "a": "Při 170 až 175 °C se porce silná asi 2 cm smaží 4 až 5 minut z každé strany, tenký filet 3 minuty. Jistotu dá vpichový teploměr: uvnitř má mít 63 °C."
+    },
+    {
+      "q": "Jak dlouho vydrží kapr v mrazáku?",
+      "a": "Kapr je tučnější ryba, při −18 °C si kvalitu udrží 2 až 3 měsíce. Zabal ho bez vzduchu a rozmrazuj pomalu v lednici přes noc, ne ve vodě ani v mikrovlnce."
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "title": "Medové perníčky hned měkké",
+  "keywords": [
+    "perníčky recept",
+    "recept na perníčky",
+    "perníčky hned měkké",
+    "medové perníčky",
+    "těsto na perníčky"
+  ],
+  "intro": "Medové perníčky podle tohoto receptu jsou měkké hned po upečení a nemusí týdny odležet. Z dávky vyjde asi 60 perníčků o průměru 5 cm. Měkkost dělá med, jedlá soda a hlavně krátké pečení: perníčky se vytahují z trouby, dokud jsou na omak ještě měkké.",
+  "image": "dish-pernicky",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 60,
+  "cookMinutes": 24,
+  "waitMinutes": 60,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "med",
+      "amount": 100,
+      "unit": "g",
+      "note": "tekutý",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "zarovnaná",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "pernikove-koreni",
+      "amount": 20,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozšlehané, na potření",
+      "group": "Na potření"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na změkčení v dóze, nepovinné",
+      "group": "Na skladování"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Med s máslem zahřej v kastrůlku jen do rozpuštění, nevař ho. Směs nech zchladnout na vlažnou, aby nesrazila vejce."
+    },
+    {
+      "section": "Těsto",
+      "text": "V míse smíchej mouku, moučkový cukr, perníkové koření a jedlou sodu. Přidej vlažný med s máslem a 2 vejce a zpracuj v hladké, hutné těsto. Když se lepí, přidej lžíci mouky; když se drolí, pár kapek vody."
+    },
+    {
+      "section": "Těsto",
+      "text": "Těsto zabal do fólie a nech 1 hodinu v lednici, aby se dobře válelo. Přes noc mu to neuškodí, jen ho pak nech 20 minut povolit při pokojové teplotě."
+    },
+    {
+      "section": "Vykrajování",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Těsto vyválej na lehce pomoučeném vále na tloušťku 4 až 5 mm, vykrajuj perníčky a klaď je na plech s pečicím papírem 1 cm od sebe. Potři je rozšlehaným vejcem, dostanou lesk."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč jeden plech 6 až 8 minut. Hotové jsou, když mají spodek světle hnědý a povrch po zmáčknutí prstem pruží, ale je pořád měkký. Chladnutím zpevní; přepečené perníčky zůstanou tvrdé."
+    },
+    {
+      "section": "Pečení",
+      "text": "Perníčky nech 2 minuty na plechu, pak je přesuň na mřížku. Zdob je až úplně vychladlé."
+    }
+  ],
+  "tips": [
+    "Jak změkčit perníčky: dej je do plechové dózy, mezi vrstvy pečicího papíru vlož 2 až 3 plátky jablka a dózu zavři. Za 1 až 2 dny změknou; jablko vyměň každý druhý den, aby neplesnivělo.",
+    "Kdy péct: perníčky hned měkké můžeš péct 1 až 2 týdny před Vánoci. Klasické tvrdé perníčky, které mají teprve změknout, se pečou 3 až 4 týdny dopředu.",
+    "V uzavřené dóze na chladném místě vydrží 3 až 4 týdny. Na zdobení použij bílkovou polevu z receptu Poleva na perníčky."
+  ],
+  "substitutions": [
+    "Perníkové koření si namícháš: 2 lžičky skořice, půl lžičky mletého hřebíčku, půl lžičky mletého badyánu, čtvrt lžičky muškátového oříšku a špetka mletého zázvoru.",
+    "Perníčky bez vajec: místo 2 vajec dej do těsta 80 ml mléka a před pečením je potři mlékem. Budou o něco křehčí.",
+    "Polovinu hladké mouky můžeš nahradit žitnou; perníčky budou tmavší a hutnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se pečou perníčky?",
+      "a": "Při tloušťce 4 až 5 mm 6 až 8 minut na jeden plech. Větší perníčky nebo silnější těsto potřebují 9 až 10 minut; vytáhni je, dokud jsou na omak měkké."
+    },
+    {
+      "q": "Na kolik stupňů se pečou perníčky?",
+      "a": "Na 180 °C horní a spodní ohřev nebo 170 °C horkovzduch. Při vyšší teplotě zvenku ztmavnou dřív, než se propečou, a ztvrdnou."
+    },
+    {
+      "q": "Jak zdobit perníčky?",
+      "a": "Až úplně vychladlé, bílkovou polevou z bílku a moučkového cukru v sáčku s otvorem 1 až 2 mm. Poleva zasychá 6 až 12 hodin, perníčky do té doby nedávej na sebe."
+    }
+  ]
+}

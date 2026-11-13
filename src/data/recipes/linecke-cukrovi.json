@@ -1,0 +1,129 @@
+{
+  "title": "Linecké cukroví s rybízovým džemem",
+  "keywords": [
+    "linecké cukroví",
+    "linecké těsto",
+    "linecké cukroví recept",
+    "linecké těsto recept",
+    "linecké cukroví hned měkké"
+  ],
+  "intro": "Linecké cukroví z klasického lineckého těsta v poměru 3 : 2 : 1, tedy 300 g mouky, 200 g másla a 100 g cukru, slepované rybízovým džemem. Z dávky vyjde asi 40 slepených kusů o průměru 5 cm. Rozhoduje studené těsto a krátké pečení, aby linecké zůstalo světlé a křehké.",
+  "image": "dish-linecke-pod-stromkem",
+  "category": "dezerty",
+  "servings": 8,
+  "activeMinutes": 75,
+  "cookMinutes": 30,
+  "waitMinutes": 60,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen žloutky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen nastrouhaná kůra, nejlépe z nestříkaného",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "dzem-rybizovy",
+      "amount": 200,
+      "unit": "g",
+      "note": "bez kousků ovoce",
+      "group": "Na slepení"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "note": "na pocukrování",
+      "group": "Na slepení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "V míse smíchej mouku, 100 g moučkového cukru, vanilkový cukr a nastrouhanou citronovou kůru. Přidej studené máslo na kostičky a 2 žloutky a rychle je zpracuj v hladké těsto, nejlépe hákem robota nebo studenýma rukama."
+    },
+    {
+      "section": "Těsto",
+      "text": "Těsto rozděl na 3 placky, zabal je do fólie a nech v lednici aspoň 1 hodinu, klidně přes noc. Linecké těsto vydrží v lednici 3 dny, zamražené měsíc."
+    },
+    {
+      "section": "Vykrajování",
+      "text": "Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 160 °C). Jednu placku vyválej na lehce pomoučeném vále nebo mezi dvěma pečicími papíry na tloušťku 2 až 3 mm."
+    },
+    {
+      "section": "Vykrajování",
+      "text": "Vykrajuj kolečka nebo hvězdičky o průměru asi 5 cm a klaď je na plech s pečicím papírem. Polovině vykroj uprostřed malý otvor, to budou vršky. Odřezky spoj a znovu vyválej; když začnou lepit, dej je na 10 minut do lednice."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč jeden plech 8 až 10 minut. Linecké je hotové, když mají okraje sotva znatelně zlatavý nádech a střed je ještě světlý. Na plechu ho nech 2 minuty, pak ho přesuň na mřížku; teplé se snadno láme."
+    },
+    {
+      "section": "Slepování",
+      "text": "Džem krátce prohřej v kastrůlku nebo v mikrovlnce a promíchej ho dohladka. Vršky s otvorem pocukruj moučkovým cukrem. Na každé spodní kolečko dej asi půl lžičky džemu a přiklop ho pocukrovaným vrškem."
+    }
+  ],
+  "tips": [
+    "Linecké slepené džemem za 2 až 3 dny v uzavřené dóze změkne. Když ho chceš měkčí dřív, vyválej těsto na 2 mm a slepuj kolečka ještě vlažná.",
+    "Slepené vydrží 3 až 4 týdny v plechové dóze na chladném místě, vrstvy prolož pečicím papírem. Neslepená kolečka můžeš zamrazit a slepit až před Vánoci.",
+    "Ze 2 zbylých bílků upeč kokosky, recept počítá se 4 bílky, takže stačí dávku zmenšit na polovinu."
+  ],
+  "substitutions": [
+    "Rybízový džem můžeš nahradit meruňkovým nebo malinovým džemem bez kousků ovoce; džem s kousky slepuje hůř.",
+    "Na ořechové linecké nahraď 50 g mouky mletými vlašskými ořechy nebo mandlemi. Těsto je pak křehčí, tak ho vyvaluj mezi papíry."
+  ],
+  "faq": [
+    {
+      "q": "Na kolik stupňů a jak dlouho péct linecké cukroví?",
+      "a": "Na 170 °C horní a spodní ohřev nebo 160 °C horkovzduch, 8 až 10 minut na jeden plech při tloušťce 2 až 3 mm. Vytáhni ho, jakmile okraje začnou zlátnout; střed má zůstat světlý."
+    },
+    {
+      "q": "Proč je linecké tvrdé?",
+      "a": "Nejčastěji je přepečené nebo se těsto dlouho hnětlo. Peč ho jen do světla a po slepení mu dej 2 až 3 dny v uzavřené dóze, džem ho provlhčí a změkne."
+    },
+    {
+      "q": "Jak dlouho vydrží linecké cukroví?",
+      "a": "Slepené v plechové dóze na chladném místě 3 až 4 týdny. Samotné linecké těsto vydrží v lednici 3 dny a zamražené asi měsíc."
+    }
+  ]
+}

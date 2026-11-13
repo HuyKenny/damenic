@@ -1,0 +1,18 @@
+{
+  "name": "Espresso k cukroví",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Krátké, silné a hořké, aby linecké vynikla jeho sladkost.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-espresso-pod-stromkem",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 80
+}

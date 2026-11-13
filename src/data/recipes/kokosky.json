@@ -1,0 +1,98 @@
+{
+  "title": "Kokosky z bílků",
+  "keywords": [
+    "kokosky recept",
+    "kokosky cukroví recept",
+    "kokosky z bílků",
+    "cukroví z bílků"
+  ],
+  "intro": "Kokosky jsou vánoční cukroví z bílků, moučkového cukru a strouhaného kokosu, upečené při nízké teplotě. Z dávky vyjde asi 40 kusů a spotřebuješ v nich 4 bílky, které zbudou po cukroví se žloutky. Hlavní je tuhý sníh a pomalé pečení, aby kokosky zvenku ztuhly a uvnitř zůstaly vláčné.",
+  "image": "dish-kokosky",
+  "category": "dezerty",
+  "servings": 8,
+  "activeMinutes": 25,
+  "cookMinutes": 45,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí na plechu",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "jen bílky (asi 130 g)"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "stačí 1 lžička šťávy"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Sníh",
+      "text": "Troubu předehřej na 140 °C horní a spodní ohřev (horkovzduch 130 °C) a dva plechy vylož pečicím papírem."
+    },
+    {
+      "section": "Sníh",
+      "text": "Bílky se špetkou soli vyšlehej v čisté a suché míse do pěny. Po lžících přidávej moučkový cukr a šlehej dál, dokud není sníh tuhý a lesklý a nedrží ve špičce. Nakonec přidej lžičku citronové šťávy."
+    },
+    {
+      "section": "Sníh",
+      "text": "Stěrkou zlehka vmíchej kokos po třetinách, pohybem odspodu nahoru, aby sníh nespadl."
+    },
+    {
+      "section": "Pečení",
+      "text": "Lžičkami nebo sáčkem se širokou špičkou tvoř na papír hromádky o průměru asi 3 cm, 2 cm od sebe."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč jeden plech 20 až 25 minut. Kokosky jsou hotové, když mají světle zlatavé špičky a povrch je suchý a pevný. Nech je vychladnout na papíru, teplé se trhají."
+    }
+  ],
+  "tips": [
+    "Mísa a metly musí být bez mastnoty a v bílcích nesmí být ani kapka žloutku, jinak sníh neztuhne.",
+    "Skladuj je v plechové dóze odděleně od měkkého cukroví, které by je provlhčilo. Vydrží 2 až 3 týdny.",
+    "Zbylé 4 žloutky vystačí na dvě dávky lineckého těsta."
+  ],
+  "substitutions": [
+    "Polovinu kokosu můžeš nahradit mletými mandlemi nebo vlašskými ořechy, vzniknou ořechové pusinky.",
+    "Hromádky můžeš klást na kulaté oplatky místo papíru; kokosky se pak snáz přenášejí.",
+    "Spodky vychladlých kokosek můžeš namočit do 100 g rozpuštěné hořké čokolády."
+  ],
+  "faq": [
+    {
+      "q": "Proč se kokosky roztekly?",
+      "a": "Sníh nebyl dost tuhý, nebo se kokos míchal příliš dlouho. Šlehej, dokud sníh nedrží ve špičce, a kokos vmíchej jen krátce."
+    },
+    {
+      "q": "Na kolik stupňů péct kokosky?",
+      "a": "Na 140 °C horní a spodní ohřev nebo 130 °C horkovzduch, 20 až 25 minut na jeden plech. Při vyšší teplotě zhnědnou dřív, než ztuhnou."
+    },
+    {
+      "q": "Jak dlouho vydrží kokosky?",
+      "a": "V uzavřené dóze na suchém místě 2 až 3 týdny. V lednici ani vedle měkkého cukroví je neskladuj, změknou a lepí."
+    }
+  ]
+}

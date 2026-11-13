@@ -1,0 +1,25 @@
+{
+  "name": "Linecké cukroví s rybízovou marmeládou",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Cukroví",
+  "description": "Křehká máslová kolečka slepená rybízovou marmeládou a poprášená cukrem. Krabička 250 g.",
+  "about": [
+    "Linecké je základ každé krabice cukroví. Křehké těsto z mouky, másla a moučkového cukru musí odpočinout v lednici, péct se jen do světle zlatova a slepit marmeládou až po vychladnutí.",
+    "V cukrárně ho máme naskládané v krabičce na 250 g, bohužel jen obrazně. Recept je skutečný, včetně toho, jak dlouho linecké vydrží a kdy ho začít péct."
+  ],
+  "price": 14900,
+  "image": "dish-linecke-pod-stromkem",
+  "recipe": "linecke-cukrovi",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 30
+}

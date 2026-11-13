@@ -1,0 +1,34 @@
+{
+  "name": "Cukrárna Pod stromkem nic",
+  "category": "dezerty",
+  "cuisine": "Vánoční cukrárna a kavárna",
+  "tagline": "Vánočka je spletená, cukroví nazdobené. Pod stromek ale nic nedáme.",
+  "description": "Vánočka, štola, linecké cukroví a hustá horká čokoláda, k tomu sklenička domácího vaječného koňaku, který je jen pro 18+. Cukrárna je smyšlená, takže krabice na cukroví zůstane prázdná a recepty plné.",
+  "etaMinutes": 30,
+  "deliveryFee": 3500,
+  "minOrder": 17900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "08:00",
+    "close": "19:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa",
+    "rodinné porce"
+  ],
+  "isNew": true,
+  "logo": {
+    "text": "PS",
+    "color": "#1F5C3A",
+    "ink": "light"
+  },
+  "cover": "rest-cukrarna-pod-stromkem-nic",
+  "sections": [
+    "Z trouby",
+    "Cukroví",
+    "Ze šálku",
+    "Nápoje"
+  ],
+  "order": 265
+}

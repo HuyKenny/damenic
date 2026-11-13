@@ -1,0 +1,93 @@
+{
+  "title": "Vaječný likér bez vajec z pudinku",
+  "keywords": [
+    "vaječný koňak bez vajec",
+    "domácí vaječný likér bez vajec",
+    "vaječný koňak z pudinku",
+    "vaječný koňak s pudinkem"
+  ],
+  "image": "dish-vajecny-liker-bez-vajec",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "occasions": [
+    "vanoce"
+  ],
+  "servings": 12,
+  "activeMinutes": 20,
+  "cookMinutes": 5,
+  "waitMinutes": 210,
+  "waitLabel": "chladnutí pudinku a odležení v lednici",
+  "difficulty": "snadné",
+  "intro": "Vaječný koňak bez vajec stojí na vanilkovém pudinku uvařeném v mléce a na slazeném kondenzovaném mléce. Pudink dá likéru hustotu i žlutou barvu, takže se žloutky nemusíš zabývat vůbec. Důležité je pudink nechat vychladnout a rozmixovat dohladka, jinak zůstanou hrudky. Vyjde asi 1 litr.",
+  "ingredients": [
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "note": "plnotučné nebo polotučné"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 37,
+      "unit": "g",
+      "note": "1 sáček"
+    },
+    {
+      "ingredient": "mleko-kondenzovane-slazene",
+      "amount": 397,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "tuzemak",
+      "amount": 200,
+      "unit": "ml",
+      "note": "nebo vodka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve 100 ml studeného mléka rozmíchej pudinkový prášek dohladka, bez hrudek."
+    },
+    {
+      "text": "Zbylých 400 ml mléka přiveď v hrnci k varu, stáhni z plotny a za stálého míchání vlij rozmíchaný pudink. Vrať na mírný plamen a vař za stálého míchání 1 až 2 minuty, dokud nezhoustne."
+    },
+    {
+      "text": "Pudink přelij do mísy, hladinu zakryj potravinovou fólií přímo na pudinku, aby se nevytvořil škraloup, a nech vychladnout na pokojovou teplotu, asi 30 minut."
+    },
+    {
+      "text": "Vychladlý pudink rozmixuj tyčovým mixérem s kondenzovaným mlékem a vanilkovým cukrem dohladka. Za stálého mixování pomalu přilij rum."
+    },
+    {
+      "text": "Likér přeceď přes sítko do čistých lahví vypláchnutých vroucí vodou a dej do lednice aspoň na 3 hodiny. V chladu zhoustne; když je moc hustý, rozřeď ho 50 až 100 ml studeného mléka."
+    }
+  ],
+  "tips": [
+    "Rum přidávej až do vychladlého pudinku. V teplém se vůně alkoholu zbytečně odpaří.",
+    "Likér z mléka a pudinku skladuj v lednici a vypij do 7 dnů. Před naléváním lahev protřepej.",
+    "Čokoládovou verzi uděláš stejně, jen s čokoládovým pudinkem."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo rumu přidej 200 ml studeného mléka a 1 lžičku rumového aroma. Nealko likér vydrží v lednici 3 dny.",
+    "Místo rumu můžeš použít 200 ml vodky, chuť bude čistě vanilková."
+  ],
+  "faq": [
+    {
+      "q": "Dá se udělat vaječný koňak bez vajec?",
+      "a": "Ano. Žloutky nahradí vanilkový pudink uvařený v mléce, který dá likéru hustotu i barvu. Chutí se klasickému koňaku blíží, je jen o něco lehčí a víc vanilkový."
+    },
+    {
+      "q": "Jak dlouho vydrží vaječný likér bez vajec?",
+      "a": "V uzavřené lahvi v lednici asi 7 dnů, protože základem je čerstvé mléko. Nealko verze vydrží 3 dny. Když zkysne nebo se oddělí, vyhoď ho."
+    },
+    {
+      "q": "Proč je likér z pudinku hrudkovitý?",
+      "a": "Pudink se mixoval teplý nebo se na něm udělal škraloup. Nech ho vychladnout pod fólií a mixuj tyčovým mixérem tak dlouho, dokud není úplně hladký. Nakonec likér přeceď přes sítko."
+    }
+  ]
+}

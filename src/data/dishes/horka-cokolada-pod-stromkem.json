@@ -1,0 +1,43 @@
+{
+  "name": "Hustá horká čokoláda",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Ze šálku",
+  "description": "Hořká čokoláda rozpuštěná v mléce se smetanou, zahuštěná tak, že lžička chvíli stojí.",
+  "about": [
+    "Hustá horká čokoláda nevzniká z prášku, ale z tabulky hořké čokolády rozpuštěné v mléce se smetanou. Kavárenskou hustotu jí dá lžička kukuřičného škrobu a minuta vaření za stálého míchání.",
+    "Navrch si v simulaci můžeš přidat šlehačku. Doma pozor na dno hrnce, čokoláda se tam připaluje rychleji, než stihneš říct, že je hotovo. U nás se nepřipálí nic."
+  ],
+  "price": 8900,
+  "image": "dish-horka-cokolada-pod-stromkem",
+  "recipe": "horka-cokolada",
+  "optionGroups": [
+    {
+      "id": "navrch",
+      "name": "Navrch",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "slehacka",
+          "name": "Šlehačka",
+          "priceDelta": 1500
+        },
+        {
+          "id": "skorice",
+          "name": "Špetka skořice",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 50
+}

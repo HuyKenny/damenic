@@ -1,0 +1,42 @@
+{
+  "name": "Vánoční punč z kotlíku",
+  "restaurant": "stanek-zahrejem-zitra",
+  "kind": "main",
+  "section": "Na zahřátí",
+  "description": "Čaj, červené víno, pomeranče a kapka rumu. Kořeněnější a ovocnější než svařák.",
+  "about": [
+    "Punč se od svařáku liší základem. Začíná krátce vylouhovaným černým čajem, přidávají se do něj citrusy a koření, teprve pak víno a nakonec mimo plotnu rum. Na Štědrý večer i na Silvestra se vaří rovnou na šest hrnků.",
+    "Alkoholická verze je jen pro 18+, pro děti je v receptech samostatný punč s ovocným čajem. Kotlík u nás nevychladne nikdy. Nikdo ho totiž nepostavil na oheň."
+  ],
+  "price": 9900,
+  "image": "dish-vanocni-punc-zahrejem",
+  "recipe": "vanocni-punc",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "02l",
+          "name": "0,2 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "03l",
+          "name": "0,3 l",
+          "priceDelta": 3000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    12
+  ],
+  "featured": false,
+  "order": 40
+}

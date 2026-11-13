@@ -1,0 +1,42 @@
+{
+  "name": "Bílý svařák s jablkem a zázvorem",
+  "restaurant": "stanek-zahrejem-zitra",
+  "kind": "main",
+  "section": "Svařáky",
+  "description": "Polosuché bílé víno s medem, zázvorem a měsíčky jablka. Voní spíš ovocem než kořením.",
+  "about": [
+    "Bílý svařák je tichší bratr toho červeného. Nemá třísloviny, takže snese méně hřebíčku, a místo pomeranče ho nese jablko, zázvor a med. Víno se stejně jako u červeného jen zahřeje pod bod varu.",
+    "Hodí se na něj polosuchá aromatická odrůda, ne kyselé suché víno, které by zhořklo. V simulaci si vybereš velikost hrnku, doma rozhoduje hlavně teploměr. Jablko ve sklenici je jediné, co tu doopravdy plave."
+  ],
+  "price": 8900,
+  "image": "dish-bily-svarak-zahrejem",
+  "recipe": "bily-svarak",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "02l",
+          "name": "0,2 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "03l",
+          "name": "0,3 l",
+          "priceDelta": 3000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    12
+  ],
+  "featured": false,
+  "order": 20
+}

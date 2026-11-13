@@ -1,0 +1,133 @@
+{
+  "title": "Marokánky",
+  "keywords": [
+    "marokánky",
+    "marokánky recept",
+    "mandlové vánoční cukroví",
+    "vánoční cukroví recepty"
+  ],
+  "intro": "Marokánky jsou tenké křupavé placičky z karamelu, mandlových plátků, rozinek a kandovaného ovoce, se spodkem namočeným v čokoládě. Z dávky vyjde asi 30 kusů. Těsto se v troubě rozlije, proto dávej malé hromádky s velkými rozestupy a hlídej barvu.",
+  "image": "dish-marokanky",
+  "category": "dezerty",
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "servings": 6,
+  "activeMinutes": 45,
+  "cookMinutes": 30,
+  "waitMinutes": 45,
+  "waitLabel": "zchladnutí hmoty a tuhnutí čokolády",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g",
+      "note": "krystal",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "mandle-platky",
+      "amount": 100,
+      "unit": "g",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 50,
+      "unit": "g",
+      "note": "nahrubo nasekané",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "kandovane-ovoce",
+      "amount": 50,
+      "unit": "g",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 120,
+      "unit": "g",
+      "group": "Spodek"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Hmota",
+      "text": "V menším kastrolu rozpusť máslo s cukrem a smetanou. Za stálého míchání přiveď k varu a vař 2 až 3 minuty, dokud směs mírně nezhoustne a cukr se úplně nerozpustí."
+    },
+    {
+      "section": "Hmota",
+      "text": "Odstav z plotny, vmíchej mouku a pak mandlové plátky, rozinky a kandované ovoce. Nech hmotu 10 minut zchladnout, zhoustne a líp se dávkuje."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C) a plechy vylož pečicím papírem, ne alobalem ani vymazaným plechem."
+    },
+    {
+      "section": "Pečení",
+      "text": "Na papír dávej hromádky po vrchovaté lžičce s rozestupy aspoň 6 cm, na jeden plech asi 10 kusů. Navlhčenou vidličkou je rozprostři na tenká kolečka o průměru 5 cm."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 8 až 10 minut, dokud nejsou marokánky zlatohnědé po celé ploše a okraje nekaramelizují. Světlé jsou po vychladnutí gumové, tmavě hnědé hořknou."
+    },
+    {
+      "section": "Pečení",
+      "text": "Hned po vytažení můžeš rozteklé okraje zarovnat kovovým kroužkem nebo nožem do kruhu. Pak nech marokánky na papíře úplně vychladnout, až ztvrdnou a samy se od papíru odlepí."
+    },
+    {
+      "section": "Spodek",
+      "text": "Čokoládu rozpusť ve vodní lázni a nech ji mírně zchladnout. Každou marokánku namoč hladkým spodkem do čokolády, přebytek setři o okraj misky a polož ji čokoládou nahoru na papír. Vidličkou můžeš udělat vlnky."
+    },
+    {
+      "section": "Spodek",
+      "text": "Nech čokoládu ztuhnout na chladném místě asi 30 minut, pak marokánky ulož do dózy."
+    }
+  ],
+  "tips": [
+    "Marokánky vydrží v dobře zavřené dóze na suchém a chladném místě 2 týdny. Vlhkost jim škodí, v lednici by zvlhly a lepily se.",
+    "Peč vždy jen jeden plech a na zkoušku nejdřív 3 kusy: uvidíš, jak moc se hmota rozteče a kolik minut tvá trouba potřebuje.",
+    "Kdyby marokánky na plechu ztvrdly dřív, než je zarovnáš, vrať je na minutu do trouby a znovu změknou."
+  ],
+  "substitutions": [
+    "Kandované ovoce můžeš nahradit stejným množstvím nasekaných brusinek nebo více rozinkami.",
+    "Místo mandlových plátků se hodí nasekané lískové ořechy nebo směs mandlí a pistácií.",
+    "Hmotu můžeš rozprostřít na kolečka oplatek o průměru 5 cm; pak se tolik nerozteče a spodek se do čokolády máčet nemusí."
+  ],
+  "faq": [
+    {
+      "q": "Proč se marokánky lepí a nejsou křupavé?",
+      "a": "Jsou nedopečené nebo navlhly. Peč je, dokud nejsou zlatohnědé po celé ploše, a ukládej je do dobře zavřené dózy jen úplně vychladlé. Lepivé marokánky můžeš zachránit 2 minutami v troubě na 160 °C."
+    },
+    {
+      "q": "Jak dlouho vydrží marokánky?",
+      "a": "V dobře zavřené dóze na chladném a suchém místě asi 2 týdny. Péct je proto stačí v půlce prosince, ne s trvanlivým máslovým cukrovím na začátku adventu."
+    },
+    {
+      "q": "Na kolik stupňů se pečou marokánky?",
+      "a": "Na 180 °C horní a spodní ohřev, horkovzduchem na 170 °C, 8 až 10 minut. Rozhoduje barva: mají být zlatohnědé, ne světle žluté."
+    }
+  ]
+}
