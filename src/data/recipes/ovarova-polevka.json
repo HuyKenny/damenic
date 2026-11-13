@@ -1,0 +1,169 @@
+{
+  "title": "Ovarová polévka s kroupami",
+  "keywords": [
+    "ovarová polévka",
+    "ovarová polévka s kroupami",
+    "polévka z ovaru",
+    "masopustní polévka"
+  ],
+  "intro": "Ovarová polévka z vývaru, ve kterém se pomalu vařilo vepřové koleno a bůček, zahuštěná kroupami a dochucená česnekem a majoránkou. Vývar se vaří asi 3 hodiny. Uvařené maso je zároveň ovar k jídlu, takže z jednoho hrnce je polévka i hlavní chod.",
+  "image": "dish-ovarova-polevka",
+  "category": "polevky",
+  "occasions": [
+    "masopust"
+  ],
+  "servings": 6,
+  "activeMinutes": 30,
+  "cookMinutes": 220,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "vegetarian": false,
+  "ingredients": [
+    {
+      "ingredient": "veprove-koleno",
+      "amount": 1200,
+      "unit": "g",
+      "note": "s kostí",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "veprovy-bucek",
+      "amount": 500,
+      "unit": "g",
+      "note": "s kůží",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 3000,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "1 kus i se slupkou",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 100,
+      "unit": "g",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 100,
+      "unit": "g",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "kroupy",
+      "amount": 120,
+      "unit": "g",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "podle chuti",
+      "group": "Polévka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Vývar",
+      "text": "Koleno a bůček opláchni, dej je do hrnce o objemu aspoň 5 l, zalij 3 l studené vody a pomalu přiveď k varu. Šedou pěnu, která se vytvoří na povrchu, sbírej děrovanou lžící, dokud se netvoří nová."
+    },
+    {
+      "section": "Vývar",
+      "text": "Přidej cibuli rozkrojenou napůl i se slupkou, bobkový list, nové koření, celý pepř, kmín a 1 lžičku soli. Vař na mírném ohni pod pootevřenou pokličkou, voda má jen lehce probublávat."
+    },
+    {
+      "section": "Vývar",
+      "text": "Po 1,5 hodině přidej oloupanou mrkev, petržel a celer v celku. Bůček je měkký asi po 2 hodinách, koleno po 2,5 až 3 hodinách, kdy se maso samo pouští od kosti. Měkké maso a zeleninu postupně vyjmi."
+    },
+    {
+      "section": "Polévka",
+      "text": "Vývar sceď přes jemné sítko do čistého hrnce, mělo by ho být asi 2 l. Lžící z povrchu sesbírej část tuku podle chuti. Přidej propláchnuté kroupy a vař 35 až 40 minut doměkka."
+    },
+    {
+      "section": "Polévka",
+      "text": "Zeleninu nakrájej na kostičky. Z kolena a bůčku odřízni asi 200 g masa bez kůže a nakrájej ho na kousky, zbytek podávej jako ovar s křenem, hořčicí a chlebem."
+    },
+    {
+      "section": "Polévka",
+      "text": "Do polévky vrať zeleninu a maso, přidej prolisovaný česnek a majoránku promnutou mezi dlaněmi, osol a opepři. Povař už jen 2 až 3 minuty, aby česnek nezhořkl."
+    }
+  ],
+  "tips": [
+    "Ovar je vařené vepřové maso, tradičně z hlavy, kolínek a bůčku, které se o zabijačce a na masopust vaří ve velkém kotli. Vývar z něj je základ ovarové polévky.",
+    "Polévka vydrží v lednici 3 dny. Po vychladnutí na ní ztuhne vrstva sádla, kterou snadno sebereš.",
+    "Kroupy ve vývaru dál bobtnají, druhý den polévku zřeď trochou vody."
+  ],
+  "substitutions": [
+    "Místo kolena se hodí půlka vepřové hlavy, ocásky nebo kolínka, vývar bude ještě sytější a víc rosolovitý.",
+    "Kroupy můžeš nahradit 300 g brambor na kostičky, ty stačí vařit ve vývaru 15 minut.",
+    "Pro jemnější chuť vynech kmín a přidej víc majoránky."
+  ],
+  "faq": [
+    {
+      "q": "Co je ovarová polévka?",
+      "a": "Polévka z vývaru, který zbude po vaření ovaru, tedy vepřového masa z hlavy, kolínek a bůčku. Dochucuje se česnekem, majoránkou a kmínem a zahušťuje kroupami. Patří k zabijačce a masopustu."
+    },
+    {
+      "q": "Jaký je rozdíl mezi ovarovou polévkou a prdelačkou?",
+      "a": "Prdelačka se vaří z vývaru, ve kterém se vařila jelita a jitrnice, a obvykle obsahuje krev a kroupy, proto je tmavá. Ovarová polévka je světlý vývar z vařeného masa s kroupami a česnekem, bez krve."
+    },
+    {
+      "q": "Jak dlouho se vaří ovar?",
+      "a": "Vepřové koleno 2,5 až 3 hodiny, bůček asi 2 hodiny, hlava 3 až 4 hodiny, vždy jen na mírném varu. Maso je hotové, když se samo pouští od kosti a vidlička jím projde bez odporu."
+    }
+  ]
+}

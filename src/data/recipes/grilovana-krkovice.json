@@ -1,0 +1,130 @@
+{
+  "title": "Grilovaná krkovice s česnekovou marinádou",
+  "keywords": [
+    "grilovaná krkovice",
+    "krkovice na grilu",
+    "marináda na krkovici",
+    "grilování recepty krkovice"
+  ],
+  "image": "dish-grilovana-krkovice",
+  "category": "ceska",
+  "occasions": [
+    "grilovani"
+  ],
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 15,
+  "waitMinutes": 720,
+  "waitLabel": "marinování v lednici přes noc",
+  "difficulty": "snadné",
+  "intro": "Grilovaná krkovice je díky prorostlému tuku nejvděčnější maso na gril, přesto umí vyschnout nebo zůstat syrová u středu. Recept má marinádu na noc, gril rozdělený na přímý a nepřímý žár a jasný cíl: 70 °C uprostřed plátku.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-krkovice",
+      "amount": 800,
+      "unit": "g",
+      "note": "4 plátky asi 2 cm silné"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "plnotučná"
+    },
+    {
+      "ingredient": "worcester",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "nahrubo podrcený"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "čerstvě mletý"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "až před grilováním"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Plátky krkovice nenaklepávej, jen je dlaní srovnej na stejnou tloušťku. Tuk na okraji nařízni na dvou až třech místech asi 1 cm hluboko, aby se maso na grilu nekroutilo."
+    },
+    {
+      "text": "V misce smíchej olej, česnek, hořčici, worcestrovou omáčku, papriku, kmín, tymián a pepř. Maso marinádou potři ze všech stran, prolož ho kolečky cibule, přikryj a dej do lednice nejméně na 4 hodiny, ideálně přes noc (12 hodin). Déle než 24 hodin maso nenechávej."
+    },
+    {
+      "text": "Půl hodiny před grilováním vyndej maso z lednice. Gril rozpal na dvě zóny: jedna strana s přímým žárem asi 230 °C, druhá bez uhlí nebo s vypnutým hořákem. Rošt vyčisti kartáčem a potři olejem."
+    },
+    {
+      "text": "Z masa setři kousky česneku a cibule, na prudkém žáru by se spálily a zhořkly. Plátky osol z obou stran."
+    },
+    {
+      "text": "Griluj nad přímým žárem 3 minuty z každé strany. Plátek otáčej, až když se sám pustí roštu, dřív se trhá. Pak ho přesuň na nepřímou stranu, zavři víko a dopékej 5 až 8 minut, dokud teploměr v nejsilnějším místě neukáže 70 °C."
+    },
+    {
+      "text": "Hotové plátky polož na prkénko, volně přikryj alobalem a nech 5 minut odpočinout, aby se šťáva usadila. Podávej s chlebem, hořčicí a okurkou."
+    }
+  ],
+  "tips": [
+    "Vpichový teploměr je u krkovice spolehlivější než odhad podle barvy. Bez něj nařízni nejsilnější plátek: šťáva má být čirá a maso uprostřed bez syrové růžové.",
+    "Plátky silné 2 cm jsou ideální. Tenčí vyschnou dřív, než se na nich udělá kůrka, silnější potřebují delší dobu na nepřímé straně.",
+    "Na kontaktním grilu nebo grilovací pánvi peč plátky na středně vysoký ohřev 4 až 5 minut z každé strany a teplotu hlídej stejně."
+  ],
+  "substitutions": [
+    "Místo krkovice se hodí vepřová kýta, je ale libovější a dopéká se o 2 až 3 minuty kratší dobu, jinak vyschne.",
+    "Kmín můžeš nahradit 1 lžící sušené majoránky, krkovice pak chutná jako z pekáče.",
+    "Kuřecí stehenní řízky marinuj stejně, griluj je ale do 75 °C uvnitř."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho grilovat krkovici?",
+      "a": "Plátek silný 2 cm potřebuje 3 minuty z každé strany nad přímým žárem a pak 5 až 8 minut pod víkem na nepřímé straně, celkem kolem 12 až 15 minut. Hotový je při 70 °C uprostřed."
+    },
+    {
+      "q": "Jak dlouho marinovat krkovici?",
+      "a": "Nejméně 4 hodiny, nejlépe přes noc, tedy asi 12 hodin. Maso vždy marinuj v lednici a nenechávej ho v marinádě déle než 24 hodin."
+    },
+    {
+      "q": "Kdy osolit maso na gril?",
+      "a": "Krkovici osol až těsně před grilováním, nebo nejpozději 30 minut předem. Pak maso stihne sůl přijmout a povrch zůstane suchý, takže se na něm udělá kůrka."
+    }
+  ]
+}

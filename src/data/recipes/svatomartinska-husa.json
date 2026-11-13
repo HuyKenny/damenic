@@ -1,0 +1,133 @@
+{
+  "title": "Svatomartinská husa pečená pomalu",
+  "keywords": [
+    "svatomartinská husa",
+    "svatomartinská husa recept",
+    "svatomartinská husa recept pomalé pečení",
+    "svatomartinská husa s jablky",
+    "kdy je svatomartinská husa"
+  ],
+  "intro": "Svatomartinská husa pečená pomalu na 150 °C pod poklicí, s jablky a cibulí v břiše, kmínem a majoránkou. Na husu 4 kg počítej asi 4 hodiny pečení a solení přes noc. Rozhoduje teplota ve stehně: aspoň 75 °C, ideálně 80 °C, aby se maso pouštělo od kosti. Na konci se peče odkrytá do křupava.",
+  "image": "dish-svatomartinska-husa",
+  "category": "ceska",
+  "occasions": [
+    "svatomartinske"
+  ],
+  "servings": 6,
+  "activeMinutes": 40,
+  "cookMinutes": 255,
+  "waitMinutes": 735,
+  "waitLabel": "solení přes noc v lednici a odpočinek po upečení",
+  "difficulty": "střední",
+  "vegetarian": false,
+  "ingredients": [
+    {
+      "ingredient": "husa",
+      "amount": 4000,
+      "unit": "g",
+      "note": "kuchaná, bez drobů"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "asi 35 g"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "lehce podrcený"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 2,
+      "unit": "ks",
+      "note": "kyselejší"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "2 menší"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 500,
+      "unit": "ml",
+      "note": "na podlévání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Den předem",
+      "text": "Husu opláchni, osuš papírovými utěrkami a odstraň zbytky brků. Z otvoru břicha a krku vytrhej volný tuk a dej ho stranou, dá se z něj vyškvařit sádlo. Konce křídel odřízni."
+    },
+    {
+      "section": "Den předem",
+      "text": "Sůl smíchej s kmínem, pepřem a majoránkou a husu směsí důkladně vetři zvenku i uvnitř. Polož ji do pekáče, nezakrývej ji a nech ji přes noc, aspoň 12 hodin, v lednici. Kůže oschne a v troubě lépe zkřupne."
+    },
+    {
+      "section": "Pečení",
+      "text": "Husu vyndej z lednice hodinu před pečením. Troubu předehřej na 150 °C horní a spodní ohřev (horkovzduch 140 °C). Jablka nakrájej na čtvrtky, cibuli na půlky a vlož je do břišní dutiny."
+    },
+    {
+      "section": "Pečení",
+      "text": "Do pekáče nalij 250 ml vody a husu polož prsy nahoru. Kůži na stehnech a pod křídly propíchej šikmo vidličkou, aby tuk lépe vytékal, ale maso nepropíchni. Pekáč přikryj poklicí nebo alobalem."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč přikrytou 50 až 60 minut na každý kilogram, husu 4 kg tedy 3,5 až 4 hodiny. Každých 30 až 40 minut ji přelij výpekem z pekáče. Když se voda odpaří, podlij trochou horké vody, aby se výpek nepřipálil."
+    },
+    {
+      "section": "Pečení",
+      "text": "Během pečení odlévej přebytečný tuk do žáruvzdorné misky, na dně pekáče nech jen asi 1 cm výpeku. Odlitý tuk po vychladnutí ztuhne na husí sádlo a pod ním zůstane tmavý rosol."
+    },
+    {
+      "section": "Pečení",
+      "text": "Teplotu měř vpichovacím teploměrem v nejsilnějším místě stehna u kosti, kosti se ale nedotýkej. Husa je bezpečně propečená při 75 °C. Aby bylo maso měkké a pouštělo se od kosti, peč ji, dokud stehno nemá 80 °C a víc a noha se v kloubu snadno pohne."
+    },
+    {
+      "section": "Pečení",
+      "text": "Pak husu odkryj, zvyš teplotu na 220 °C (horkovzduch 200 °C) a peč ještě 15 až 25 minut, dokud kůže není zlatohnědá a křupavá. Hlídej ji, na konci se kůže připálí rychle."
+    },
+    {
+      "section": "Podávání",
+      "text": "Husu nech 15 minut odpočinout volně přikrytou alobalem, pak ji naporcuj na stehna, prsa a křídla. Podávej s červeným zelím, knedlíkem nebo lokšemi a přelij trochou výpeku."
+    }
+  ],
+  "tips": [
+    "Rozhoduje teplota ve stehně, čas podle hmotnosti je jen orientační. Větší husu peč déle při stejné teplotě, ne při vyšší.",
+    "Sádlo s rosolem slij do sklenice. Uzavřené vydrží v lednici 2 až 3 týdny a hodí se na chleba nebo na potření lokší.",
+    "Žaludek a srdce můžeš přidat do pekáče na posledních 90 minut. Játra stačí opéct 10 minut na pánvi, v troubě by ztvrdla."
+  ],
+  "substitutions": [
+    "Místo jablek dej do břicha 2 pomeranče na čtvrtky, nebo jen cibuli a pár stroužků česneku.",
+    "Kachnu (2 až 2,5 kg) připravíš stejně: peč ji přikrytou 2 až 2,5 hodiny na 150 °C, pak odkrytou na 220 °C. Ve stehně musí mít také aspoň 75 °C.",
+    "Pro menší počet lidí upeč jen 4 husí stehna: přikrytá 2 až 2,5 hodiny na 150 °C, pak 15 minut odkrytá na 220 °C."
+  ],
+  "faq": [
+    {
+      "q": "Kdy je svatomartinská husa?",
+      "a": "Svátek svatého Martina je 11. listopadu. Husa se peče přímo na svatého Martina nebo o víkendu kolem něj, sezóna svatomartinských hodů trvá zhruba první polovinu listopadu."
+    },
+    {
+      "q": "Jak dlouho péct husu na kilo?",
+      "a": "Při pomalém pečení na 150 °C pod poklicí počítej 50 až 60 minut na kilogram a pak 15 až 25 minut odkrytou na 220 °C. Husa 4 kg se tak peče asi 4 až 4,5 hodiny. Hotová je, když má stehno uvnitř aspoň 75 °C, ideálně 80 °C."
+    },
+    {
+      "q": "Proč se na svatého Martina jí husa?",
+      "a": "Podle legendy se Martin schoval v husníku, aby nemusel přijmout biskupský úřad, a husy ho kejháním prozradily. Prakticky šlo o konec zemědělského roku, kdy byly husy vykrmené a čeleď dostávala mzdu."
+    }
+  ]
+}

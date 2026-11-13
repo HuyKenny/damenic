@@ -1,0 +1,159 @@
+{
+  "title": "Tvarohový mazanec bez kynutí",
+  "keywords": [
+    "tvarohový mazanec",
+    "tvarohový mazanec bez kynutí",
+    "tvarohový mazanec recept",
+    "mazanec z tvarohu",
+    "mazanec bez kynutí"
+  ],
+  "intro": "Tvarohový mazanec bez kynutí kypří prášek do pečiva, takže je i s pečením hotový zhruba za hodinu a čtvrt. Z dávky vyjdou dva menší mazance. Těsto je lepivé a nesmí se dlouho hníst ani zasypávat moukou, jinak je mazanec tvrdý a suchý.",
+  "image": "dish-tvarohovy-mazanec",
+  "category": "pekarna",
+  "occasions": [
+    "velikonoce"
+  ],
+  "servings": 12,
+  "activeMinutes": 25,
+  "cookMinutes": 40,
+  "waitMinutes": 30,
+  "waitLabel": "chladnutí na mřížce",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen nastrouhaná kůra",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "nejlépe tučný, okapaný",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 125,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "pokojové teploty",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 50,
+      "unit": "ml",
+      "note": "jen když se těsto drolí",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 100,
+      "unit": "g",
+      "note": "spařené a osušené",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozšlehané na potření",
+      "group": "Na povrch"
+    },
+    {
+      "ingredient": "mandle-platky",
+      "amount": 30,
+      "unit": "g",
+      "group": "Na povrch"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Předehřej troubu na 170 °C horní a spodní ohřev (horkovzduch 160 °C) a plech vylož pečicím papírem. Rozinky spař horkou vodou, nech 10 minut nabobtnat, sceď a osuš."
+    },
+    {
+      "text": "V míse smíchej mouku s práškem do pečiva, moučkovým a vanilkovým cukrem, solí a nastrouhanou citronovou kůrou."
+    },
+    {
+      "text": "Přidej tvaroh, změklé máslo na kousky a 2 vejce. Zpracuj vařečkou a pak krátce rukama na hladké, mírně lepivé těsto, stačí 2 až 3 minuty. Pokud se těsto drolí, přilij po lžících mléko. Nakonec zapracuj rozinky."
+    },
+    {
+      "text": "Těsto rozděl na 2 díly a navlhčenýma nebo lehce pomoučenýma rukama z nich vytvaruj 2 kulaté bochníky. Polož je na plech s odstupem aspoň 10 cm, při pečení se rozšíří."
+    },
+    {
+      "text": "Bochníky potři rozšlehaným vejcem, ostrým nožem do nich nařízni kříž hluboký asi 1 cm a posyp je mandlovými plátky."
+    },
+    {
+      "text": "Peč 35 až 45 minut, dokud mazance nejsou dozlatova a špejle zapíchnutá do středu nevyjde suchá. Když povrch tmavne moc rychle, přikryj je po 25 minutách alobalem."
+    },
+    {
+      "text": "Nech je vychladnout na mřížce aspoň 30 minut. Zatepla se drolí, po vychladnutí se krájí čistě."
+    }
+  ],
+  "tips": [
+    "Mokrý tvaroh nech nejdřív 15 minut okapat v sítku. Jinak by těsto potřebovalo víc mouky a mazanec by zhutněl.",
+    "Těsto hněť jen tak dlouho, než se spojí. Prášek do pečiva nepotřebuje lepek a dlouhým hnětením se mazanec utáhne.",
+    "Zabalený v sáčku zůstane tvarohový mazanec vláčný 2 až 3 dny. Nejlepší je první den, kdy je střídka ještě vlhká."
+  ],
+  "substitutions": [
+    "Polohrubou mouku můžeš nahradit hladkou, těsto pak bude jemnější a o něco víc lepivé.",
+    "Místo rozinek se hodí 80 g kandovaného ovoce, sušených brusinek nebo nasekaných vlašských ořechů.",
+    "Z dávky můžeš upéct i jeden velký mazanec. Peč ho 50 až 55 minut a po 25 minutách ho přikryj alobalem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se peče tvarohový mazanec?",
+      "a": "Dva menší mazance z této dávky se pečou 35 až 45 minut na 170 °C, horkovzduchem na 160 °C. Jeden velký potřebuje 50 až 55 minut. Hotový je, když špejle ze středu vyjde suchá."
+    },
+    {
+      "q": "Proč je tvarohový mazanec tvrdý?",
+      "a": "Nejčastěji kvůli příliš velkému množství mouky přidanému do lepivého těsta, dlouhému hnětení nebo přepečení. Těsto má zůstat mírně lepivé, ruce si raději navlhči nebo pomouč a mazanec vytáhni, jakmile je špejle suchá."
+    },
+    {
+      "q": "Musí tvarohový mazanec kynout?",
+      "a": "Ne. Tento mazanec kypří prášek do pečiva, takže se tvaruje a peče hned. Kynutý mazanec s droždím je jiný recept a potřebuje asi dvě hodiny kynutí."
+    }
+  ]
+}

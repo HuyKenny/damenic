@@ -4374,5 +4374,99 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null
+  },
+  {
+    "id": "husa",
+    "name": "Husa celá (kuchaná)",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 4000,
+      "price": 79900,
+      "label": "1 ks asi 4 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "husi-sadlo",
+    "name": "Husí sádlo",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 14,
+    "pack": {
+      "size": 250,
+      "price": 8900,
+      "label": "kelímek 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "koprivy",
+    "name": "Kopřivy (mladé lístky)",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 0,
+      "label": "natrháš sám (březen až květen)"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "veprove-koleno",
+    "name": "Vepřové koleno s kostí",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1200,
+      "price": 11900,
+      "label": "1 ks asi 1,2 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "mandlova-mouka",
+    "name": "Mandlová mouka (jemně mletá, z loupaných mandlí)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 7,
+    "pack": {
+      "size": 200,
+      "price": 14900,
+      "label": "sáček 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kukurice-klas",
+    "name": "Kukuřice cukrová (klasy)",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 2,
+      "price": 4900,
+      "label": "balení 2 klasy"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "dynova-seminka",
+    "name": "Dýňová semínka loupaná",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 9,
+    "pack": {
+      "size": 100,
+      "price": 3900,
+      "label": "sáček 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
   }
 ]

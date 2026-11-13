@@ -1,0 +1,119 @@
+{
+  "title": "Grilovaný hermelín s česnekem a chilli",
+  "keywords": [
+    "grilovaný hermelín",
+    "hermelín na grilu",
+    "marinovaný hermelín na gril",
+    "grilovaný hermelín recept"
+  ],
+  "image": "dish-grilovany-hermelin",
+  "category": "vegetarianska",
+  "occasions": [
+    "grilovani"
+  ],
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 120,
+  "waitLabel": "odležení v marinádě v lednici",
+  "difficulty": "snadné",
+  "intro": "Grilovaný hermelín plněný česnekem, cibulí a chilli, marinovaný v oleji a pečený v misce nebo alobalu. Celé umění je vytáhnout ho z grilu ve chvíli, kdy je uvnitř měkký, ale kůrka ho ještě drží pohromadě.",
+  "ingredients": [
+    {
+      "ingredient": "hermelin",
+      "amount": 480,
+      "unit": "g",
+      "note": "4 kusy po 120 g, spíš mladší a pevné"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "na tenké plátky"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "1 menší, na tenká kolečka"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kolečka, bez semínek pro mírnější verzi"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "čerstvě mletý"
+    },
+    {
+      "ingredient": "bageta",
+      "amount": 1,
+      "unit": "ks",
+      "note": "k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Každý hermelín rozkroj ostrým nožem vodorovně napůl. Na spodní polovinu poskládej plátky česneku, kolečka cibule a chilli a přiklop horní polovinou."
+    },
+    {
+      "text": "V misce smíchej olej, papriku, tymián a pepř. Sýry ze všech stran potři kořeněným olejem, zbytek nalij navrch."
+    },
+    {
+      "text": "Každý hermelín polož do hliníkové grilovací misky, nebo do čtverce dvojitého alobalu se zvednutými okraji, aby olej nevytekl. Přikryj a dej do lednice nejméně na 2 hodiny, nejlépe přes noc, nejdéle na 24 hodin."
+    },
+    {
+      "text": "Gril rozpal na asi 180 až 200 °C a připrav si nepřímou zónu, kde pod roštem nehoří uhlí. Misky se sýrem postav na nepřímou stranu, zavři víko a griluj 8 až 10 minut. Sýr neotáčej."
+    },
+    {
+      "text": "Hermelín je hotový, když se uprostřed při jemném stisknutí lžící poddává a z kraje začíná vytékat. Pokud se kůrka trhá a sýr teče do misky, je přepečený a příště ho stáhni o 2 minuty dřív."
+    },
+    {
+      "text": "Bagetu nakrájej šikmo na plátky a opeč je na přímém žáru 1 minutu z každé strany. Hermelín podávej hned v misce, dokud je tekutý."
+    }
+  ],
+  "tips": [
+    "Na gril se hodí mladší hermelín těsně před datem minimální trvanlivosti spíš vzdáleným. Plně zralý chutná výrazněji, ale rozteče se během pár minut.",
+    "Vychlazený sýr dej na gril rovnou z lednice. Teplý sýr zvenku teče dřív, než se prohřeje uvnitř.",
+    "V troubě peč hermelín v misce při 200 °C (horkovzduch 180 °C) 10 až 12 minut."
+  ],
+  "substitutions": [
+    "Místo čerstvého chilli použij špetku chilli vloček, nebo ho vynech.",
+    "Tymián můžeš nahradit 1 snítkou čerstvého rozmarýnu nasekanou najemno.",
+    "Místo hermelínu se hodí camembert stejné velikosti, postup i čas jsou stejné."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho grilovat hermelín?",
+      "a": "V misce nebo alobalu na nepřímém žáru 180 až 200 °C pod víkem 8 až 10 minut. Na přímém žáru stačí 6 až 8 minut, ale sýr pak víc hlídej."
+    },
+    {
+      "q": "Musí být hermelín na grilu v alobalu?",
+      "a": "Běžný hermelín ano, nebo v hliníkové misce. Přímo na roštu se po pár minutách protrhne a vyteče mezi pruty. Bez misky se griluje jen sýr určený na gril s pevnější kůrkou."
+    },
+    {
+      "q": "Jak dlouho nechat hermelín v marinádě?",
+      "a": "Nejméně 2 hodiny, aby česnek a chilli prostoupily sýr. Přes noc v lednici je chuť nejvýraznější. Marinovaný sýr spotřebuj do 24 hodin."
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "title": "Svatomartinské rohlíčky s mákem a tvarohem",
+  "keywords": [
+    "svatomartinské rohlíčky",
+    "svatomartinské rohlíčky recept",
+    "kynuté rohlíčky s mákem",
+    "kynuté rohlíčky s tvarohem"
+  ],
+  "intro": "Svatomartinské rohlíčky z kynutého těsta, napůl s makovou a napůl s tvarohovou náplní s ořechy. Z dávky vyjde 16 rohlíčků ve tvaru podkovy. Aby náplň nevytekla, musí být vychladlá a hustá a rohlíčky se stáčejí pevně a kladou špičkou dolů.",
+  "image": "dish-svatomartinske-rohlicky",
+  "category": "pekarna",
+  "occasions": [
+    "svatomartinske"
+  ],
+  "servings": 8,
+  "activeMinutes": 50,
+  "cookMinutes": 35,
+  "waitMinutes": 95,
+  "waitLabel": "kynutí těsta a vytvarovaných rohlíčků",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 25,
+      "unit": "g",
+      "note": "čerstvé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 220,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen žloutky, pokojové teploty",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 6,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mak-mlety",
+      "amount": 100,
+      "unit": "g",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 120,
+      "unit": "ml",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 40,
+      "unit": "g",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "okapaný",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen žloutek",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 50,
+      "unit": "g",
+      "note": "nasekané",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozšlehané na potření",
+      "group": "Na povrch"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na posypání",
+      "group": "Na povrch"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Do hrnku dej 50 ml vlažného mléka (asi 35 °C), lžičku z odváženého cukru a rozdrobené droždí, promíchej a nech 10 až 15 minut v teple, dokud kvásek nezpění."
+    },
+    {
+      "section": "Těsto",
+      "text": "Do mísy prosej mouku, přidej zbytek cukru, vanilkový cukr a sůl. Přilij kvásek, zbylých 170 ml vlažného mléka, 2 žloutky a změklé máslo a hněť 10 minut robotem nebo 15 minut rukou na hladké, nelepivé těsto. Přikryté ho nech v teple kynout 60 minut, dokud nezdvojnásobí objem."
+    },
+    {
+      "section": "Náplně",
+      "text": "Mezitím uvař makovou náplň: mléko s cukrem přiveď k varu, vsyp mák a za stálého míchání vař na mírném ohni 3 až 5 minut, dokud nezhoustne tak, že drží na lžíci. Vmíchej máslo a nech vychladnout."
+    },
+    {
+      "section": "Náplně",
+      "text": "Na tvarohovou náplň rozmíchej tvaroh s moučkovým cukrem a žloutkem dohladka a vmíchej nasekané ořechy. Dej ji do lednice."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Těsto rozděl na 2 díly. Každý vyválej na kruh o průměru asi 32 cm a tloušťce 4 mm a rozkrájej ho jako pizzu na 8 trojúhelníků."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Na širší okraj každého trojúhelníku dej asi 1 lžíci náplně, z jednoho kruhu makovou a z druhého tvarohovou. Okraje boků přehni přes náplň, trojúhelník pevně stoč ke špičce a ohni do tvaru podkovy. Polož ho špičkou dolů na plech s pečicím papírem."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Rohlíčky přikryj utěrkou a nech kynout ještě 20 minut. Mezitím předehřej troubu na 180 °C horní a spodní ohřev (horkovzduch 170 °C)."
+    },
+    {
+      "section": "Pečení",
+      "text": "Rohlíčky potři rozšlehaným vejcem a peč každý plech zvlášť 15 až 18 minut, dokud nejsou dozlatova a zespodu světle hnědé. Horkovzduchem můžeš péct oba plechy najednou. Po vychladnutí je posyp moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Tvar rohlíčku má připomínat podkovu koně, na kterém podle legendy svatý Martin přijíždí, a proto se pečou právě kolem 11. listopadu.",
+    "Náplně připrav dřív, než těsto vykyne, a nech je vychladnout. Teplá náplň těsto rozměkčí a při pečení vyteče.",
+    "Zabalené v sáčku vydrží rohlíčky vláčné 2 dny. Starší prohřej 3 minuty v troubě na 150 °C."
+  ],
+  "substitutions": [
+    "Místo makové náplně se hodí ořechová: 100 g mletých vlašských ořechů svař se 100 ml mléka a 40 g cukru do zhoustnutí.",
+    "Do tvarohové náplně můžeš místo ořechů dát 40 g spařených rozinek.",
+    "Místo 25 g čerstvého droždí použij 1 sáček (7 g) sušeného a smíchej ho rovnou s moukou."
+  ],
+  "faq": [
+    {
+      "q": "Kdy se pečou svatomartinské rohlíčky?",
+      "a": "Na svátek svatého Martina 11. listopadu, často den předem, aby byly čerstvé na svatomartinskou večeři. Podávají se ke kávě nebo jako sladká tečka po huse."
+    },
+    {
+      "q": "Proč mají svatomartinské rohlíčky tvar podkovy?",
+      "a": "Připomínají podkovu bílého koně, na kterém podle lidového rčení svatý Martin přijíždí se sněhem. Podle tradice se dávaly dětem a čeledi."
+    },
+    {
+      "q": "Jak zabránit, aby náplň z rohlíčků vytekla?",
+      "a": "Dej na každý trojúhelník jen asi lžíci náplně k širokému okraji, boky přehni přes ni, rohlíček stoč pevně a polož ho špičkou dolů. Náplň musí být vychladlá a hustá, maková má po uvaření držet na lžíci."
+    }
+  ]
+}

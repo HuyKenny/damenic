@@ -1,0 +1,144 @@
+{
+  "title": "Grilovaná zelenina s balzamikem a bylinkami",
+  "keywords": [
+    "grilovaná zelenina",
+    "zelenina na grilu",
+    "grilování zeleniny recepty",
+    "marináda na grilovanou zeleninu"
+  ],
+  "image": "dish-grilovana-zelenina",
+  "category": "vegetarianska",
+  "occasions": [
+    "grilovani"
+  ],
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 20,
+  "waitMinutes": 30,
+  "waitLabel": "marinování",
+  "difficulty": "snadné",
+  "intro": "Grilovaná zelenina je hotová za tři čtvrtě hodiny a hodí se jako příloha i samostatné jídlo pro čtyři. Každý druh potřebuje jinou dobu na roštu, proto níže najdeš, jak silně krájet a kolik minut grilovat cuketu, lilek, papriky, cibuli i žampiony.",
+  "ingredients": [
+    {
+      "ingredient": "cuketa",
+      "amount": 500,
+      "unit": "g",
+      "note": "asi 2 menší"
+    },
+    {
+      "ingredient": "lilek",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "paprika-zelena",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "2 menší"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 250,
+      "unit": "g",
+      "note": "větší, celé"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 6,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "ocet-balsamico",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná, na dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V misce smíchej olej, balzamikový ocet, česnek, tymián, sůl a pepř. Dvě lžíce marinády odlož stranou na dokončení."
+    },
+    {
+      "text": "Cuketu nakrájej podélně na plátky 1 cm silné, lilek na kolečka 1 cm. Papriky zbav semínek a nakrájej na čtvrtky, cibuli na měsíčky tak, aby každý držel pohromadě u kořene. Žampiony nech celé."
+    },
+    {
+      "text": "Cuketu, papriky, cibuli a žampiony promíchej s marinádou a nech 30 minut stát při pokojové teplotě. Lilek do marinády nenamáčej, vsákl by všechen olej: kolečka jen tence potři štětcem těsně před grilováním."
+    },
+    {
+      "text": "Gril rozpal na přímý žár asi 200 až 220 °C a rošt potři olejem. Žampiony a cibuli dej do grilovací misky nebo je napíchni na špejle, aby nepropadly roštem."
+    },
+    {
+      "text": "Griluj podle druhu: cuketu 3 až 4 minuty z každé strany, lilek 4 až 5 minut z každé strany, papriky 6 až 8 minut slupkou dolů a pak 2 minuty z druhé strany, cibuli 8 až 10 minut a žampiony 6 až 8 minut s otáčením. Hotová zelenina má tmavé pruhy, je měkká, ale nerozpadá se, a lilek je uvnitř krémový."
+    },
+    {
+      "text": "Hotovou zeleninu dej na mísu, pokapej odloženou marinádou, posyp petrželkou a nech 5 minut odležet, aby nasála chuť. Podávej teplou nebo vlažnou."
+    }
+  ],
+  "tips": [
+    "Zeleninu krájej na stejně silné kousky. Tenké plátky se na roštu spálí a propadnou, příliš silné zůstanou uvnitř tvrdé.",
+    "Na kontaktním grilu nebo grilovací pánvi peč zeleninu po dávkách, aby se nedusila ve vlastní šťávě.",
+    "Grilovaná zelenina vydrží v uzavřené krabičce v lednici 3 dny. Zalitá olejem se hodí do sendvičů a na těstoviny."
+  ],
+  "substitutions": [
+    "Sušený tymián nahradí 2 snítky čerstvého rozmarýnu, nasekané jehličky přidej do marinády.",
+    "Místo žampionů se hodí cherry rajčata na špejli, griluj je jen 3 až 4 minuty.",
+    "Balzamikový ocet můžeš nahradit šťávou z poloviny citronu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho grilovat zeleninu?",
+      "a": "Podle druhu a tloušťky. Cuketa a lilek v plátcích 1 cm potřebují 3 až 5 minut z každé strany, papriky 8 až 10 minut, cibule 8 až 10 minut a celé žampiony 6 až 8 minut."
+    },
+    {
+      "q": "Jakou zeleninu dát na gril?",
+      "a": "Nejlépe snáší gril cuketa, lilek, papriky, cibule, žampiony, kukuřice a cherry rajčata. Tvrdou zeleninu, třeba mrkev nebo brambory, je lepší nejdřív 5 až 8 minut předvařit."
+    },
+    {
+      "q": "Musí se zelenina před grilováním marinovat?",
+      "a": "Nemusí, ale 30 minut v oleji s kořením jí dodá chuť a olej zabrání přichycení k roštu. Lilek jen potři olejem těsně před grilováním, jinak nasaje příliš mnoho tuku."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "title": "Čokoládové fondue s ovocem",
+  "keywords": [
+    "čokoládové fondue",
+    "čokoládové fondue recept",
+    "fondue z čokolády",
+    "jak udělat čokoládové fondue"
+  ],
+  "image": "dish-cokoladove-fondue",
+  "category": "dezerty",
+  "occasions": [
+    "valentyn"
+  ],
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 5,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Čokoládové fondue z hořké čokolády a smetany ke šlehání v poměru 1 : 1, k tomu jahody, banán, jablko a piškoty. Čokoláda se nesmí přehřát ani dostat do kontaktu s vodou, jinak zhoustne a zrní. Pro čtyři je hotové za 25 minut.",
+  "ingredients": [
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 200,
+      "unit": "g",
+      "note": "50 až 70 %, nebo půl na půl s mléčnou"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 200,
+      "unit": "ml",
+      "note": "plus pár lžic na zředění"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé",
+      "group": "Na namáčení"
+    },
+    {
+      "ingredient": "banan",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Na namáčení"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Na namáčení"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva na jablko a banán",
+      "group": "Na namáčení"
+    },
+    {
+      "ingredient": "piskoty-detske",
+      "amount": 100,
+      "unit": "g",
+      "group": "Na namáčení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Jahody opláchni s natí a nech je na utěrce úplně oschnout. Jablko nakrájej na měsíčky a banán na kolečka 2 cm až těsně před podáváním a obojí pokapej citronovou šťávou, aby nezhnědlo."
+    },
+    {
+      "text": "Čokoládu nasekej nožem najemno, aby se rozpustila rovnoměrně a rychle."
+    },
+    {
+      "text": "Smetanu zahřej v malém kastrůlku, dokud se u okraje neobjeví první bublinky, tedy asi na 80 až 90 °C. Nevař ji."
+    },
+    {
+      "text": "Kastrůlek stáhni z plotny, vsyp čokoládu a sůl a nech 2 minuty stát. Pak stěrkou míchej od středu ke krajům, dokud nevznikne hladká lesklá hmota."
+    },
+    {
+      "text": "Fondue přelij do fondue hrnku nad čajovou svíčkou, nebo nech misku stát nad hrncem s horkou vodou na nejnižším ohřevu. Čokoláda má být teplá kolem 45 °C, ne horká, jinak houstne a připaluje se. Když zhoustne, vmíchej 1 až 2 lžíce teplé smetany."
+    },
+    {
+      "text": "Ovoce a piškoty napichuj na fondue vidličky nebo špejle a namáčej. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Kapka vody nebo pára v suché rozpuštěné čokoládě způsobí, že zhoustne a zrní. Tady ji chrání smetana, i tak ale ovoce před namáčením osuš.",
+    "Zbylé fondue přelij do misky a dej do lednice. Ztuhne na ganache, která vydrží 5 dní a hodí se jako náplň nebo na palačinky.",
+    "Bez fondue sady postav keramickou misku nad hrnec s horkou vodou, dno misky se nesmí vody dotýkat."
+  ],
+  "substitutions": [
+    "Místo smetany ke šlehání použij 250 ml plnotučného mléka a 20 g másla, fondue bude řidší.",
+    "Veganská verze: hořká čokoláda bez mléka a 200 ml plnotučného kokosového mléka z plechovky.",
+    "K namáčení se hodí také hrozny, mandarinky, ananas, marshmallow nebo kousky bábovky."
+  ],
+  "faq": [
+    {
+      "q": "Jakou čokoládu použít na fondue?",
+      "a": "Kvalitní hořkou čokoládu na vaření nebo na jídlo s 50 až 70 % kakaa. Mléčná a bílá čokoláda jsou sladší a snadněji se přehřejí, potřebují menší oheň a o čtvrtinu méně smetany."
+    },
+    {
+      "q": "Co namáčet do čokoládového fondue?",
+      "a": "Jahody, banán, jablko, hrušky, mandarinky, ananas, piškoty, kousky bábovky nebo marshmallow. Ovoce má být suché a pokojové teploty, studené ovoce čokoládu rychle zahustí."
+    },
+    {
+      "q": "Proč se čokoládové fondue srazilo?",
+      "a": "Čokoláda se přehřála nebo do ní kápla voda. Stáhni ji z tepla a po lžících vmíchej teplou smetanu nebo mléko, dokud se znovu nespojí v hladkou hmotu."
+    }
+  ]
+}

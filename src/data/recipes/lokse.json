@@ -1,0 +1,92 @@
+{
+  "title": "Bramborové lokše",
+  "keywords": [
+    "lokše",
+    "lokše recept",
+    "bramborové lokše",
+    "bramborové lokše k huse",
+    "tradiční lokše"
+  ],
+  "intro": "Lokše jsou tenké bramborové placky pečené na suché pánvi, které se potírají husím sádlem nebo výpekem a podávají k pečené huse. Z 1 kg brambor a 250 g mouky jich vyjde 12. Těsto musí být z vychladlých brambor a zpracované rychle, jinak řídne a lepí se.",
+  "image": "dish-lokse",
+  "category": "ceska",
+  "occasions": [
+    "svatomartinske"
+  ],
+  "servings": 6,
+  "activeMinutes": 45,
+  "cookMinutes": 30,
+  "waitMinutes": 180,
+  "waitLabel": "vychladnutí uvařených brambor",
+  "difficulty": "střední",
+  "vegetarian": false,
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 1000,
+      "unit": "g",
+      "note": "moučné, typ C"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "note": "a trochu na vál"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "husi-sadlo",
+      "amount": 60,
+      "unit": "g",
+      "note": "nebo výpek z husy, na potření"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory umyj a uvař ve slupce v osolené vodě doměkka, podle velikosti 25 až 30 minut. Sceď je a nech chvíli odpařit."
+    },
+    {
+      "text": "Ještě teplé brambory oloupej a prolisuj nebo najemno nastrouhej. Nech je úplně vychladnout, aspoň 3 hodiny, nejlépe přikryté v lednici přes noc. Studené brambory pojmou méně mouky a lokše jsou vláčnější."
+    },
+    {
+      "text": "K bramborám přidej sůl a mouku a rychle je zpracuj na hladké, vláčné těsto. Nehněť dlouho, těsto by řídlo. Když se lepí, přidej ještě 20 až 50 g mouky."
+    },
+    {
+      "text": "Z těsta vyválej váleček a rozděl ho na 12 dílů. Každý díl vyválej na pomoučeném válu na tenkou placku o průměru asi 22 cm a tloušťce 2 mm. Přebytečnou mouku smeť štětcem, na pánvi by se pálila."
+    },
+    {
+      "text": "Velkou pánev bez tuku nebo litinovou plotnu rozpal na středně vysokou teplotu. Lokši peč 1 až 2 minuty z každé strany, dokud se na ní neudělají bublinky a hnědé puntíky. Déle ji nepeč, ztvrdla by."
+    },
+    {
+      "text": "Hotové lokše hned potři rozehřátým husím sádlem nebo výpekem, skládej je na sebe a přikryj utěrkou, aby změkly v páře. Podávej teplé, přeložené na čtvrtky, k pečené huse nebo kachně."
+    }
+  ],
+  "tips": [
+    "Na lokše se hodí moučné brambory, které se rozvaří. Pevné salátové brambory dávají tuhé, lepivé těsto.",
+    "Těsto zpracuj hned po smíchání s moukou a lokše peč průběžně. Když těsto stojí, brambory pouští vodu.",
+    "Upečené lokše vydrží zabalené v lednici 2 dny. Ohřej je na suché pánvi nebo zabalené v alobalu v troubě na 150 °C asi 10 minut."
+  ],
+  "substitutions": [
+    "Na sladko je potři rozpuštěným máslem a naplň povidly nebo mákem s cukrem, podávají se pak jako dezert.",
+    "Místo husího sádla použij kachní výpek nebo rozpuštěné máslo. S máslem jsou lokše vegetariánské.",
+    "Asi 50 g hladké mouky můžeš nahradit hrubou, těsto se pak méně lepí, lokše jsou ale o něco tužší."
+  ],
+  "faq": [
+    {
+      "q": "Co jsou lokše?",
+      "a": "Tenké placky z vařených brambor a mouky, pečené na suché pánvi nebo plotně. Pocházejí ze Slovenska a jižní Moravy a tradičně se podávají k pečené huse nebo kachně, potřené sádlem nebo výpekem."
+    },
+    {
+      "q": "Proč jsou lokše tvrdé nebo se lámou?",
+      "a": "Jsou moc silné, mají v těstě moc mouky nebo se pekly příliš dlouho. Vyválej je na 2 mm, peč jen 1 až 2 minuty z každé strany a hned je potři tukem a přikryj utěrkou, aby změkly."
+    },
+    {
+      "q": "Jak dlouho péct lokše?",
+      "a": "Na suché, dobře rozpálené pánvi 1 až 2 minuty z každé strany, dokud nemají bublinky a hnědé puntíky. Delším pečením vyschnou a ztvrdnou."
+    }
+  ]
+}

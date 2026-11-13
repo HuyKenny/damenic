@@ -1,0 +1,134 @@
+{
+  "title": "Boží milosti",
+  "keywords": [
+    "boží milosti",
+    "boží milosti recept",
+    "masopustní boží milosti",
+    "smažené boží milosti"
+  ],
+  "intro": "Boží milosti jsou tenké křehké placičky z máslového těsta se zakysanou smetanou, smažené v oleji a obalené v cukru. Patří k masopustu a z dávky jich vyjde asi 40. Těsto se válí na 1 až 2 mm a smaží při 170 °C, jinak nasáknou tukem nebo zhnědnou dřív, než se propečou.",
+  "image": "dish-bozi-milosti",
+  "category": "dezerty",
+  "occasions": [
+    "masopust"
+  ],
+  "servings": 8,
+  "activeMinutes": 50,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "note": "a trochu na vál",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "studené",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "2 žloutky a 1 celé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "lihový",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Na smažení"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 50,
+      "unit": "g",
+      "group": "Na obalení"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Na obalení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku smíchej s moučkovým cukrem a solí, přidej studené máslo na kostičky a prsty ho rozetři s moukou na jemnou drobenku."
+    },
+    {
+      "text": "Přidej 2 žloutky, celé vejce, zakysanou smetanu a ocet a rychle zpracuj na hladké, pevné těsto. Zabal ho do fólie a nech 30 minut odpočinout v lednici."
+    },
+    {
+      "text": "Těsto rozděl na 2 díly a na pomoučeném válu každý vyválej co nejtenčeji, na 1 až 2 mm. Radýlkem nakrájej obdélníky asi 6 × 10 cm a do každého uprostřed udělej 2 až 3 podélné zářezy dlouhé asi 4 cm, okraje nech celé."
+    },
+    {
+      "text": "V širokém hrnci rozehřej olej ve vrstvě aspoň 4 cm na 170 °C. Bez teploměru to poznáš tak, že kousek těsta hned vybublá, vyplave a zezlátne asi za 30 vteřin."
+    },
+    {
+      "text": "Smaž po 3 až 4 kusech asi 1 minutu z každé strany, dokud se nenafouknou a nejsou světle zlaté. Otáčej je vidličkou nebo dřevěnými hůlkami. Mezi dávkami nech olej znovu prohřát na 170 °C."
+    },
+    {
+      "text": "Usmažené boží milosti nech okapat na papírové utěrce a ještě teplé je obal ve směsi moučkového a vanilkového cukru."
+    }
+  ],
+  "tips": [
+    "Olej nenechávej bez dozoru a hrnec plň nejvýš do třetiny. Kdyby olej vzplál, přikryj hrnec poklicí, vypni plotýnku a nikdy ho nehas vodou.",
+    "Ocet v těstě zabrání nasáknutí tuku a pomáhá křehkosti. V hotových milostech ho necítíš.",
+    "V plechovce nebo dóze vydrží křehké 4 až 5 dní. Cukrem je posyp znovu těsně před podáváním."
+  ],
+  "substitutions": [
+    "Zakysanou smetanu můžeš nahradit stejným množstvím bílého jogurtu nebo smetany ke šlehání.",
+    "Místo slunečnicového oleje se hodí řepkový olej nebo vepřové sádlo, se sádlem mají boží milosti tradiční chuť.",
+    "Kdo nechce smažit, upeče je na plechu s pečicím papírem na 190 °C 10 až 12 minut. Nenafouknou se tolik, ale zůstanou křehké."
+  ],
+  "faq": [
+    {
+      "q": "Co se peče na masopust?",
+      "a": "Na masopust se smaží koblihy, boží milosti a vdolky a jí se zabijačkové speciality jako ovar, jitrnice, jelita a ovarová polévka. Masopust končí v úterý před Popeleční středou, kdy začíná postní doba."
+    },
+    {
+      "q": "Proč jsou boží milosti nasáklé tukem?",
+      "a": "Olej byl moc studený nebo je těsto příliš silné. Drž teplotu 170 °C, smaž jen pár kusů najednou, aby olej nevychladl, a těsto vyválej na 1 až 2 mm."
+    },
+    {
+      "q": "Jak dlouho vydrží boží milosti?",
+      "a": "V uzavřené plechovce nebo dóze při pokojové teplotě 4 až 5 dní. V lednici navlhnou a ztratí křehkost, proto je tam nedávej."
+    }
+  ]
+}

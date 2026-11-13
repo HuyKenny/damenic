@@ -1,0 +1,172 @@
+{
+  "title": "Mazanec",
+  "keywords": [
+    "mazanec recept",
+    "mazanec",
+    "velikonoční mazanec",
+    "kynutý mazanec",
+    "jak dlouho péct mazanec"
+  ],
+  "intro": "Kynutý mazanec z 500 g polohrubé mouky, s máslem, žloutky, rozinkami a mandlemi, na jeden velký bochník. Recept vede přes kvásek, dvě kynutí a pečení na 170 °C. Nejtěžší je udržet mazanec kulatý a vysoký: těsto musí být tužší a druhé kynutí krátké, jinak se v troubě rozteče do placky.",
+  "image": "dish-mazanec",
+  "category": "pekarna",
+  "occasions": [
+    "velikonoce"
+  ],
+  "servings": 12,
+  "activeMinutes": 40,
+  "cookMinutes": 45,
+  "waitMinutes": 135,
+  "waitLabel": "kynutí těsta a vytvarovaného bochníku",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 500,
+      "unit": "g",
+      "note": "nebo hladká speciální",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 30,
+      "unit": "g",
+      "note": "čerstvé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "1 celé a 2 žloutky, pokojové teploty",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 7,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen nastrouhaná kůra",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 80,
+      "unit": "g",
+      "note": "spařené a osušené",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozšlehané na potření",
+      "group": "Na povrch"
+    },
+    {
+      "ingredient": "mandle-platky",
+      "amount": 30,
+      "unit": "g",
+      "group": "Na povrch"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Kvásek",
+      "text": "Rozinky spař horkou vodou, nech je 10 minut nabobtnat, sceď a osuš utěrkou. Do hrnku dej 50 ml vlažného mléka (asi 35 °C, na zápěstí příjemně teplé, ne horké), lžičku z odváženého cukru a rozdrobené droždí."
+    },
+    {
+      "section": "Kvásek",
+      "text": "Kvásek promíchej a nech 10 až 15 minut v teple, dokud nezpění a nezvětší objem. Když nezpění vůbec, droždí je staré nebo bylo mléko moc horké."
+    },
+    {
+      "section": "Těsto",
+      "text": "Do mísy prosej mouku, přidej zbytek cukru, vanilkový cukr, sůl a nastrouhanou citronovou kůru. Přilij kvásek, zbylých 150 ml vlažného mléka, celé vejce, 2 žloutky a změklé máslo."
+    },
+    {
+      "section": "Těsto",
+      "text": "Hněť 10 minut robotem s hákem na střední rychlost nebo 15 minut rukou, dokud těsto není hladké, lesklé a nepouští se od mísy. Má být spíš tužší a nelepivé. Nakonec krátce zapracuj rozinky, aby se nerozmačkaly."
+    },
+    {
+      "section": "Kynutí",
+      "text": "Mísu přikryj utěrkou a nech těsto kynout v teple bez průvanu (24 až 28 °C) 60 až 90 minut, dokud nezdvojnásobí objem. Vykynuté těsto po zmáčknutí prstem pomalu pruží zpátky."
+    },
+    {
+      "section": "Tvar",
+      "text": "Těsto vyklop na lehce pomoučený vál a krátce promačkej. Okraje přehýbej do středu, bochník otoč švem dolů a dlaněmi ho krouživým pohybem po válu stáhni do pevné, napnuté koule. Polož ho na plech s pečicím papírem."
+    },
+    {
+      "section": "Kynutí",
+      "text": "Bochník přikryj utěrkou a nech kynout jen 30 až 45 minut, dokud viditelně nenabere objem. Mezitím předehřej troubu na 170 °C horní a spodní ohřev (horkovzduch 160 °C)."
+    },
+    {
+      "section": "Pečení",
+      "text": "Mazanec potři rozšlehaným vejcem, ostrým nožem do něj nahoře nařízni kříž hluboký asi 1 cm a posyp ho mandlovými plátky."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 40 až 50 minut. Když je po 20 až 25 minutách pěkně zlatý, přikryj ho alobalem, aby se mandle nespálily. Hotový je, když špejle zapíchnutá do středu vyjde suchá, spodek při poklepu zní dutě a střed má 92 až 95 °C."
+    },
+    {
+      "section": "Pečení",
+      "text": "Nech mazanec vychladnout na mřížce aspoň hodinu a teprve pak ho krájej. Zatepla je střídka lepivá a nůž ji zmačká."
+    }
+  ],
+  "tips": [
+    "Aby se mazanec nerozlil do placky: drž těsto tužší, bochník napni do pevné koule a druhé kynutí nepřetahuj. Kdo chce jistotu, peče ho v dortové formě o průměru 22 cm.",
+    "Mléko, vejce i máslo měj vlažné nebo pokojové teploty. Droždí nad 45 °C odumírá a ze studených surovin těsto kyne pomalu.",
+    "Zabalený v utěrce a sáčku zůstane mazanec vláčný 2 až 3 dny. Z dávky můžeš upéct i 2 menší mazance, ty stačí péct 30 až 35 minut."
+  ],
+  "substitutions": [
+    "Místo 30 g čerstvého droždí použij 1 sáček (7 g) sušeného a smíchej ho rovnou s moukou, kvásek se nedělá.",
+    "Rozinky můžeš nahradit 80 g kandovaného ovoce nebo nasekaných mandlí, případně je vynech úplně.",
+    "Pro pletený mazanec rozděl těsto na 3 nebo 4 prameny, spleť je jako vánočku a pletenec stoč do kruhu. Peče se stejně, jen o 5 až 10 minut kratší dobu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct mazanec?",
+      "a": "Mazanec z 500 g mouky se peče 40 až 50 minut na 170 °C, horkovzduchem na 160 °C. Hotový je, když je špejle ze středu suchá a vnitřek má 92 až 95 °C. Dva menší mazance z poloviční dávky stačí péct 30 až 35 minut."
+    },
+    {
+      "q": "Kdy se peče mazanec?",
+      "a": "Tradičně na Bílou sobotu, tedy den před Velikonoční nedělí. V neděli se mazanec nesl posvětit do kostela a jedl se k velikonoční snídani. Upečený vydrží vláčný 2 až 3 dny, takže ho můžeš upéct i v pátek."
+    },
+    {
+      "q": "Jak zaplést mazanec?",
+      "a": "Klasický mazanec se nezaplétá, je to kulatý bochník s naříznutým křížem. Pletený mazanec uděláš tak, že těsto rozdělíš na 3 až 4 prameny, spleteš je jako vánočku, pletenec stočíš do kruhu a konce spojíš a podehneš."
+    }
+  ]
+}

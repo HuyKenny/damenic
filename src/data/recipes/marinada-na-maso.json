@@ -1,0 +1,122 @@
+{
+  "title": "Marináda na maso na grilování",
+  "keywords": [
+    "marináda na maso",
+    "marináda na grilování",
+    "marinády na grilování recepty",
+    "nakládání masa na grilování"
+  ],
+  "image": "dish-marinada-na-maso",
+  "category": "ceska",
+  "occasions": [
+    "grilovani"
+  ],
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 240,
+  "waitLabel": "marinování masa v lednici (nejméně 4 h)",
+  "difficulty": "snadné",
+  "intro": "Univerzální marináda na maso na grilování z oleje, sójové omáčky, medu, hořčice a česneku, dávka na 1 kg masa pro čtyři. Hodí se na vepřové, kuřecí i hovězí. Rozhoduje doba marinování podle druhu masa, ta je v receptu rozepsaná.",
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "med",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "plnotučná nebo dijonská"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "jen šťáva, asi 2 lžíce"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "čerstvě mletý"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V misce prošlehej metlou olej, sójovou omáčku, med, hořčici a citronovou šťávu, až se spojí v hustou emulzi."
+    },
+    {
+      "text": "Vmíchej česnek, obě papriky, tymián a pepř. Marinádu nesol, sójová omáčka jí dává dost soli; maso dosolíš až po grilování, pokud bude potřeba."
+    },
+    {
+      "text": "Marinádou obal 1 kg masa, nejlépe v uzavíratelném sáčku, ze kterého vymačkáš vzduch. Maso marinuj vždy v lednici, nikdy na lince."
+    },
+    {
+      "text": "Doba marinování podle masa: kuřecí 2 až 12 hodin, vepřová krkovice a kýta 4 až 24 hodin, hovězí steaky 2 až 12 hodin, hovězí na špízy a žebra 6 až 24 hodin, ryby a krevety jen 15 až 30 minut, zelenina 30 minut až 2 hodiny."
+    },
+    {
+      "text": "Půl hodiny před grilováním maso vyndej z lednice a papírovou utěrkou z něj setři přebytečnou marinádu a kousky česneku. Med a česnek na prudkém žáru rychle černají, proto maso nejdřív opeč na přímém žáru a dopékej na nepřímé straně grilu."
+    },
+    {
+      "text": "Marinádu, ve které leželo syrové maso, nepoužívej jako omáčku. Pokud chceš omáčku, odlij si čtvrtinu marinády stranou ještě předtím, než do ní dáš maso."
+    }
+  ],
+  "tips": [
+    "Bezpečné teploty uvnitř masa: drůbež 75 °C, vepřové 70 °C, mleté maso propečené skrz, hovězí steak podle stupně propečení (medium rare 55 °C, medium 60 °C).",
+    "Dávka vystačí na 1 kg masa. Na 2 kg připrav dvojnásobek, sáček s masem během marinování jednou otoč.",
+    "Marináda bez masa vydrží v uzavřené sklenici v lednici 3 dny."
+  ],
+  "substitutions": [
+    "Bez sójové omáčky přidej do marinády 1 lžičku soli a maso už před grilováním nesol.",
+    "Med nahradíš 2 lžícemi javorového sirupu nebo třtinového cukru.",
+    "Na kuřecí můžeš uzenou papriku vyměnit za 1 lžičku kari koření."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho marinovat maso na gril?",
+      "a": "Kuřecí 2 až 12 hodin, vepřové 4 až 24 hodin, hovězí steaky 2 až 12 hodin a ryby jen 15 až 30 minut. Marinády s citronem nebo octem nenechávej na masu déle než 12 až 24 hodin, maso by zmoučnatělo."
+    },
+    {
+      "q": "Může maso v marinádě zůstat přes noc?",
+      "a": "Ano, vepřové, kuřecí i hovězí, pokud je v lednici do 5 °C. Výjimkou jsou ryby a mořské plody, ty marinuj nejvýš 30 minut."
+    },
+    {
+      "q": "Dá se marináda použít znovu?",
+      "a": "Ne. Marináda, ve které bylo syrové maso, obsahuje jeho šťávu a bakterie. Vylij ji, nebo ji před použitím jako omáčku aspoň 1 minutu povař."
+    }
+  ]
+}

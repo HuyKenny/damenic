@@ -1,0 +1,84 @@
+{
+  "title": "Jahody v čokoládě",
+  "keywords": [
+    "jahody v čokoládě",
+    "jahody v čokoládě recept",
+    "jak udělat jahody v čokoládě",
+    "temperování čokolády"
+  ],
+  "image": "dish-jahody-v-cokolade",
+  "category": "dezerty",
+  "occasions": [
+    "valentyn"
+  ],
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 0,
+  "waitMinutes": 20,
+  "waitLabel": "tuhnutí čokolády",
+  "difficulty": "střední",
+  "intro": "Jahody v čokoládě se lesklou, křupavou krustou: asi 20 kusů z hořké čokolády s proužky z bílé. Aby čokoláda nestékala a nebyla matná, musí být jahody suché a čokoláda vytemperovaná, postup je tu krok za krokem.",
+  "ingredients": [
+    {
+      "ingredient": "jahody",
+      "amount": 400,
+      "unit": "g",
+      "note": "asi 20 větších, s natí"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "bila-cokolada",
+      "amount": 50,
+      "unit": "g",
+      "note": "na proužky, nepovinné"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Jahody opláchni i s natí a rozlož je na utěrku. Nech je oschnout aspoň 30 minut a každou ještě osuš papírovou utěrkou, i malá kapka vody čokoládu sesráží. Jahody mají mít pokojovou teplotu, ne z lednice."
+    },
+    {
+      "text": "Plech nebo prkénko vylož pečicím papírem. Hořkou čokoládu nasekej najemno a odděl třetinu stranou."
+    },
+    {
+      "text": "Dvě třetiny čokolády rozpusť v misce nad hrncem s mírně vroucí vodou, dno misky se vody nedotýká. Míchej, dokud nemá čokoláda 45 až 50 °C, pak misku sundej a utři dno do sucha."
+    },
+    {
+      "text": "Do rozpuštěné čokolády vsyp odloženou třetinu a míchej, dokud se nerozpustí a čokoláda nezchladne na 31 až 32 °C. Zkouška: proužek čokolády na kousku papíru má do 5 minut při pokojové teplotě ztuhnout lesklý a bez šmouh."
+    },
+    {
+      "text": "Jahodu chyť za nať, ponoř ji do čokolády asi do tří čtvrtin, nech okapat přebytek a pootoč s ní, aby nekápala. Polož ji na papír na bok."
+    },
+    {
+      "text": "Bílou čokoládu rozpusť ve vodní lázni, ne nad 40 °C, nalij ji do sáčku, ustřihni malý roh a přes jahody stříkej tenké proužky. Jahody nech při pokojové teplotě 15 až 20 minut ztuhnout."
+    }
+  ],
+  "tips": [
+    "Jahody v čokoládě jsou nejlepší do 6 hodin od výroby. V lednici vydrží do druhého dne, ale jahody pouštějí šťávu a čokoláda se orosí.",
+    "Když se ti temperovat nechce, čokoládu jen rozpusť a jahody nech ztuhnout 10 minut v lednici. Polevě pak chybí lesk a v ruce rychle měkne.",
+    "Zbylou čokoládu nalij na papír, nech ztuhnout a použij ji znovu, nebo do ní namoč piškoty."
+  ],
+  "substitutions": [
+    "Místo hořké čokolády použij mléčnou, temperuj ji na 45 °C a pak schlaď na 29 až 30 °C.",
+    "Bílé proužky nahradí posyp z nasekaných pistácií, kokosu nebo mandlí, přidej ho, dokud je čokoláda tekutá."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží jahody v čokoládě?",
+      "a": "Při pokojové teplotě nejlépe do 6 hodin, v lednici volně přikryté do druhého dne. Pak jahody pouštějí šťávu a změknou, proto je dělej v den podávání."
+    },
+    {
+      "q": "Proč čokoláda na jahodách nedrží?",
+      "a": "Jahody byly mokré nebo studené z lednice. Vlhkost a kondenzace odpuzují čokoládu, ta pak stéká nebo se sesráží. Jahody nech úplně oschnout a ohřát na pokojovou teplotu."
+    },
+    {
+      "q": "Musí se čokoláda na jahody temperovat?",
+      "a": "Nemusí, ale temperovaná čokoláda ztuhne lesklá, při kousnutí křupne a netaje v prstech. Netemperovaná je matná, měkká a musí tuhnout v lednici."
+    }
+  ]
+}

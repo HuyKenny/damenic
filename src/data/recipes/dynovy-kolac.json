@@ -1,0 +1,177 @@
+{
+  "title": "Dýňový koláč (pumpkin pie)",
+  "keywords": [
+    "dýňový koláč",
+    "pumpkin pie",
+    "pumpkin pie recept",
+    "dýňový koláč z hokkaido"
+  ],
+  "image": "dish-dynovy-kolac",
+  "category": "dezerty",
+  "occasions": [
+    "halloween"
+  ],
+  "vegetarian": true,
+  "servings": 10,
+  "activeMinutes": 50,
+  "cookMinutes": 115,
+  "waitMinutes": 285,
+  "waitLabel": "odpočinek těsta, chladnutí a ztuhnutí v lednici",
+  "difficulty": "střední",
+  "intro": "Dýňový koláč neboli pumpkin pie z máslového křehkého těsta a hladké kořeněné náplně z pečené dýně hokkaido nebo máslové. Recept je na formu 24 cm a deset dílků. Náplň nesmí být vodnatá ani přepečená, jinak koláč praská, proto je tu postup na pyré i jasný test, kdy vytáhnout koláč z trouby.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 120,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen žloutek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 30,
+      "unit": "ml",
+      "note": "ledová",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "dyne-hokkaido",
+      "amount": 900,
+      "unit": "g",
+      "note": "1 menší dýně, na 450 g pyré; nebo máslová dýně",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 130,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mleko-kondenzovane-neslazene",
+      "amount": 300,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pernikove-koreni",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 250,
+      "unit": "ml",
+      "note": "ušlehaná, k podávání",
+      "group": "K podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C horní a spodní ohřev (horkovzduch 190 °C). Dýni rozpul, vydlabej semínka a nakrájej na měsíčky. Peč je na plechu s pečicím papírem 35 až 40 minut, dokud nůž neprojde dužninou bez odporu.",
+      "section": "Dýňové pyré"
+    },
+    {
+      "text": "Dužninu seškrab lžící ze slupky a rozmixuj tyčovým mixérem dohladka. Odvaž 450 g. Pokud je pyré vodnaté, odpař ho 5 až 10 minut na pánvi za stálého míchání, až drží tvar na lžíci. Nech vychladnout.",
+      "section": "Dýňové pyré"
+    },
+    {
+      "text": "V míse smíchej mouku, cukr moučku a sůl. Přidej studené máslo a rychle ho konečky prstů rozmělni na drobenku. Přidej žloutek a ledovou vodu a těsto jen krátce spoj do koule, dlouhým hnětením by ztvrdlo. Zabal ho do fólie a dej na 30 minut do lednice.",
+      "section": "Těsto"
+    },
+    {
+      "text": "Těsto vyválej na pomoučené ploše na kruh asi 30 cm a 3 mm silný. Přenes ho do koláčové formy o průměru 24 cm, přitiskni ke dnu i okrajům a přečnívající těsto odřízni. Dno propíchej vidličkou a formu dej na 15 minut do lednice.",
+      "section": "Těsto"
+    },
+    {
+      "text": "Troubu nastav na 190 °C (horkovzduch 175 °C). Těsto vylož pečicím papírem, zatěž sušenými fazolemi nebo rýží a peč 15 minut. Zátěž s papírem odstraň a peč dalších 5 až 8 minut, dokud dno nezesvětle zezlátne. Teplotu sniž na 170 °C (horkovzduch 160 °C).",
+      "section": "Předpečení"
+    },
+    {
+      "text": "Pyré, třtinový cukr, vejce, kondenzované mléko, skořici, perníkové koření, muškátový oříšek a sůl promíchej metlou dohladka. Nešlehej, bubliny by se při pečení zvedly a náplň by popraskala.",
+      "section": "Náplň a pečení"
+    },
+    {
+      "text": "Formu s předpečeným korpusem postav na vysunutou mřížku trouby a nalij do ní náplň, tak se nejlépe nevylije. Peč 45 až 55 minut. Koláč je hotový, když jsou okraje náplně pevné a střed o průměru asi 5 cm se při jemném zatřesení formou jen chvěje jako želé. Teploměr ve středu ukáže 80 až 82 °C. Když okraje těsta tmavnou moc rychle, překryj je proužky alobalu.",
+      "section": "Náplň a pečení"
+    },
+    {
+      "text": "Koláč nech chladnout na mřížce aspoň 2 hodiny a pak ho dej na 2 hodiny do lednice, náplň dotuhne. Krájej nožem namočeným v horké vodě a podávej se šlehačkou.",
+      "section": "Náplň a pečení"
+    }
+  ],
+  "tips": [
+    "Dýňový koláč obsahuje vejce a mléko, proto patří do lednice. Přikrytý vydrží 3 až 4 dny, nejlépe chutná druhý den.",
+    "Koláč se dá upéct den předem. Pyré můžeš připravit až 3 dny dopředu, nebo ho zamrazit na 3 měsíce.",
+    "Prasklina uprostřed znamená přepečenou náplň nebo prudké chladnutí. Příště vytáhni koláč dřív, dokud se střed chvěje, a nech ho chladnout v pootevřené vypnuté troubě."
+  ],
+  "substitutions": [
+    "Místo kondenzovaného mléka použij 250 ml smetany ke šlehání 31 %, náplň bude jemnější a o něco těžší.",
+    "Máslová dýně je sladší a méně vláknitá než hokkaido. Oloupej ji, nakrájej na kostky a peč stejně dlouho.",
+    "Perníkové koření nahradí 1 lžička mletého zázvoru a špetka mletého hřebíčku."
+  ],
+  "faq": [
+    {
+      "q": "Jakou dýni použít na dýňový koláč?",
+      "a": "Nejlépe hokkaido nebo máslovou dýni. Mají hustou, sladkou a málo vodnatou dužninu. Halloweenské dýně na vyřezávání jsou vodnaté a bez chuti, na koláč se nehodí."
+    },
+    {
+      "q": "Jak dlouho vydrží dýňový koláč?",
+      "a": "V lednici přikrytý 3 až 4 dny. Při pokojové teplotě ho nenechávej déle než 2 hodiny, náplň je z vajec a mléka. Zamrazit se dá na 1 měsíc, rozmrazuj ho v lednici."
+    },
+    {
+      "q": "Proč dýňový koláč praská?",
+      "a": "Náplň je přepečená, trouba moc horká nebo koláč chladl příliš rychle. Vytáhni ho, dokud se střed lehce chvěje, dopeče se zbytkovým teplem."
+    }
+  ]
+}

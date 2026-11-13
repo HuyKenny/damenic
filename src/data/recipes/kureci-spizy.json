@@ -1,0 +1,147 @@
+{
+  "title": "Kuřecí špízy na grilu",
+  "keywords": [
+    "kuřecí špízy",
+    "kuřecí špízy na grilu",
+    "špízy na grilu",
+    "marináda na kuřecí špízy",
+    "recepty na grilování kuřecího masa"
+  ],
+  "image": "dish-kureci-spizy",
+  "category": "kure",
+  "occasions": [
+    "grilovani"
+  ],
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 14,
+  "waitMinutes": 120,
+  "waitLabel": "marinování v lednici",
+  "difficulty": "snadné",
+  "intro": "Kuřecí špízy na grilu se zeleninou a citronovou marinádou, z jednoho receptu osm kusů. Nejčastější chyba je suché maso, proto stehenní řízky, kostky stejné velikosti a teploměr: kuře je hotové při 75 °C uvnitř.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 700,
+      "unit": "g",
+      "note": "stehenní řízky bez kosti"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "paprika-zelena",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "asi 2 menší"
+    },
+    {
+      "ingredient": "cuketa",
+      "amount": 250,
+      "unit": "g",
+      "note": "1 menší"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "kůra a šťáva",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Marináda"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V misce smíchej olej, nastrouhanou citronovou kůru, 2 lžíce citronové šťávy, česnek, papriku, oregano, med, sůl a pepř."
+    },
+    {
+      "text": "Kuřecí maso nakrájej na kostky asi 3 cm, ať jsou všechny stejně velké a propečou se najednou. Obal je v marinádě, přikryj a dej do lednice na 2 hodiny, nejdéle na 12 hodin. Citronová šťáva by maso při delším marinování změnila na moučné."
+    },
+    {
+      "text": "Dřevěné špejle namoč aspoň na 30 minut do vody, aby na grilu nechytly. Papriky zbav semínek a nakrájej na čtverce 3 cm, cibuli na osminky, cuketu na půlkolečka 1,5 cm silná."
+    },
+    {
+      "text": "Na špejle napichuj střídavě maso a zeleninu. Kousky nemačkej natěsno k sobě, mezi nimi má zůstat malá mezera, jinak se maso uprostřed propeče pomaleji. Zbytek marinády, která byla v kontaktu se syrovým masem, vylij."
+    },
+    {
+      "text": "Gril rozpal na přímý žár asi 200 až 220 °C a rošt potři olejem. Špízy griluj 10 až 14 minut a každé 2 až 3 minuty je pootoč, aby se opekly ze všech stran."
+    },
+    {
+      "text": "Teploměrem změř největší kousek masa: hotové je při 75 °C uvnitř, šťáva je čirá a maso na řezu bílé bez růžové. Špízy nech 3 minuty odpočinout a podávej s tzatziki, chlebem nebo rýží."
+    }
+  ],
+  "tips": [
+    "Stehenní maso snese na grilu o pár minut víc a zůstane šťavnaté. Prsa vyschnou rychleji, griluj je 8 až 10 minut a hlídej 75 °C.",
+    "Kovové jehlice nemusíš namáčet a vedou teplo i dovnitř masa, špízy jsou pak hotové o minutu dřív.",
+    "Když se med a paprika začnou připalovat dřív, než je maso hotové, přesuň špízy na chladnější část roštu a zavři víko."
+  ],
+  "substitutions": [
+    "Místo kuřecích stehen použij kuřecí prsa nakrájená na kostky 3 cm, griluj je kratší dobu.",
+    "Zeleninu vyměň za žampiony, cherry rajčata nebo kousky ananasu. Rajčata a ananas napichuj až na konec, změknou rychleji.",
+    "Med můžeš nahradit 1 lžičkou třtinového cukru."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho grilovat kuřecí špízy?",
+      "a": "Kostky 3 cm na přímém žáru 200 až 220 °C potřebují 10 až 14 minut s otáčením každé 2 až 3 minuty. Hotové jsou při 75 °C uvnitř největšího kousku."
+    },
+    {
+      "q": "Jak dlouho marinovat kuře na špízy?",
+      "a": "S citronovou marinádou 2 až 12 hodin v lednici. Kratší marinování dá chuť jen povrchu, delší než 12 hodin udělá z masa kvůli kyselině moučnatou hmotu."
+    },
+    {
+      "q": "Jak udělat kuřecí špízy v troubě?",
+      "a": "Polož je na mřížku nad plech s papírem a peč při 220 °C (horkovzduch 200 °C) 18 až 22 minut, v polovině je otoč. I v troubě platí 75 °C uvnitř masa."
+    }
+  ]
+}

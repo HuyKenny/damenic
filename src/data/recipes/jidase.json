@@ -1,0 +1,150 @@
+{
+  "title": "Jidáše",
+  "keywords": [
+    "jidáše",
+    "jidáše recept",
+    "velikonoční jidáše",
+    "jidáše tvary",
+    "kdy se pečou jidáše"
+  ],
+  "intro": "Jidáše jsou kynuté pečivo stočené do šneka, esíčka nebo provázku, které se peče na Zelený čtvrtek a jí potřené medem. Z 500 g mouky vyjde 16 kusů. Hlavní práce je v tvarování: válečky musí být stejně silné a pevně stočené, aby se v troubě nerozvinuly.",
+  "image": "dish-jidase",
+  "category": "pekarna",
+  "occasions": [
+    "velikonoce"
+  ],
+  "servings": 8,
+  "activeMinutes": 45,
+  "cookMinutes": 35,
+  "waitMinutes": 105,
+  "waitLabel": "kynutí těsta a vytvarovaných jidášů",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 25,
+      "unit": "g",
+      "note": "čerstvé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen žloutky, pokojové teploty",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 7,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen nastrouhaná kůra",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozšlehané na potření",
+      "group": "Na povrch"
+    },
+    {
+      "ingredient": "med",
+      "amount": 80,
+      "unit": "g",
+      "note": "vlažný, na potření po upečení",
+      "group": "Na povrch"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Do hrnku dej 50 ml vlažného mléka (asi 35 °C), lžičku z odváženého cukru a rozdrobené droždí. Promíchej a nech 10 až 15 minut v teple, dokud kvásek nezpění."
+    },
+    {
+      "section": "Těsto",
+      "text": "Do mísy prosej mouku, přidej zbytek cukru, sůl a nastrouhanou citronovou kůru. Přilij kvásek, zbylých 200 ml vlažného mléka, 2 žloutky a změklé máslo."
+    },
+    {
+      "section": "Těsto",
+      "text": "Hněť 10 minut robotem s hákem nebo 15 minut rukou, dokud těsto není hladké, pružné a nelepí se. Mísu přikryj utěrkou a nech těsto v teple (24 až 28 °C) kynout 60 až 75 minut, dokud nezdvojnásobí objem."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Vykynuté těsto vyklop na vál a rozděl na 16 dílů po asi 60 g, nejlépe je zvaž. Každý díl dlaněmi vyválej na váleček dlouhý 35 až 40 cm, stejně silný po celé délce."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Šneka uděláš tak, že váleček stočíš od jednoho konce do ploché spirály a konec přitiskneš zespodu. Esíčko stočíš z obou konců proti sobě. Provázek vznikne z válečku přeloženého napůl a zakrouceného jako šňůra, uzlík z jednoduchého uzlu s konci zastrčenými pod pečivo."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Jidáše rozlož na 2 plechy s pečicím papírem s rozestupy asi 4 cm, přikryj utěrkou a nech kynout ještě 25 až 30 minut. Mezitím předehřej troubu na 180 °C horní a spodní ohřev (horkovzduch 170 °C)."
+    },
+    {
+      "section": "Pečení",
+      "text": "Jidáše potři rozšlehaným vejcem a peč každý plech zvlášť 15 až 18 minut, dokud nejsou dozlatova a zespodu světle hnědé. Horkovzduchem můžeš péct oba plechy najednou, v polovině pečení je prohoď."
+    },
+    {
+      "section": "Pečení",
+      "text": "Ještě teplé jidáše potři vlažným medem, aby se vsákl a povrch se leskl. Nech je vychladnout na mřížce."
+    }
+  ],
+  "tips": [
+    "Med ohřej jen do vlažna, třeba ve vodní lázni. Přivedený k varu ztrácí aroma a jidáše by se lepily.",
+    "Válečky válej bez mouky na suchém válu, lépe drží a nekloužou. Když se těsto smršťuje, nech ho 5 minut odpočinout a pak válej dál.",
+    "Jidáše jsou nejlepší v den upečení. Zabalené v sáčku vydrží vláčné 2 dny, potom je prohřej 3 minuty v troubě na 150 °C."
+  ],
+  "substitutions": [
+    "Místo 25 g čerstvého droždí použij 1 sáček (7 g) sušeného a smíchej ho rovnou s moukou.",
+    "Kdo nemá med, potře jidáše po upečení rozpuštěným máslem a posype je moučkovým cukrem.",
+    "Polovinu polohrubé mouky můžeš nahradit celozrnnou špaldovou, těsto pak potřebuje o 20 až 30 ml mléka víc."
+  ],
+  "faq": [
+    {
+      "q": "Kdy se pečou jidáše?",
+      "a": "Na Zelený čtvrtek, tedy ve čtvrtek před Velikonocemi. Podle tradice se jedly ráno potřené medem, aby byl člověk celý rok zdravý."
+    },
+    {
+      "q": "Jak udělat jidáše?",
+      "a": "Z kynutého těsta z polohrubé mouky, mléka, droždí, másla, žloutků a cukru. Vykynuté těsto rozděl na 16 dílů, vyválej válečky a stoč je do šneků, esíček nebo provázků. Po druhém kynutí je potři vejcem, peč 15 až 18 minut na 180 °C a teplé potři medem."
+    },
+    {
+      "q": "Proč mají jidáše tvar provazu?",
+      "a": "Pečivo je pojmenované po Jidášovi, který podle evangelia zradil Ježíše. Stočené tvary mají připomínat provaz, na kterém se podle tradice oběsil."
+    }
+  ]
+}

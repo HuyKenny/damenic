@@ -1,0 +1,126 @@
+{
+  "title": "Dušené červené zelí",
+  "keywords": [
+    "červené zelí",
+    "dušené červené zelí",
+    "červené zelí k huse",
+    "červené zelí recept"
+  ],
+  "intro": "Dušené červené zelí na sladkokyselo s cibulí, jablkem a sádlem, klasická příloha ke svatomartinské huse. Dusí se asi hodinu. Ocet se přidává hned na začátku, protože udrží zelí sytě červené, bez něj zmodrá.",
+  "image": "dish-cervene-zeli",
+  "category": "ceska",
+  "occasions": [
+    "svatomartinske"
+  ],
+  "servings": 6,
+  "activeMinutes": 20,
+  "cookMinutes": 65,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "vegetarian": false,
+  "ingredients": [
+    {
+      "ingredient": "zeli-cervene",
+      "amount": 1000,
+      "unit": "g",
+      "note": "1 menší hlávka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "husi-sadlo",
+      "amount": 40,
+      "unit": "g",
+      "note": "nebo vepřové sádlo"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "lihový"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "dzem-rybizovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na zahuštění"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ze zelí odstraň vnější listy, hlávku rozkroj na čtvrtky, vykroj košťál a zelí nakrájej na tenké nudličky asi 3 mm. Cibuli nakrájej nadrobno, jablko oloupej a nastrouhej nahrubo."
+    },
+    {
+      "text": "V širokém hrnci rozehřej sádlo a cibuli na něm za občasného míchání 5 až 7 minut smaž dozlatova. Přisyp cukr a nech ho minutu lehce zkaramelizovat."
+    },
+    {
+      "text": "Přidej zelí, hned ho zakápni octem a promíchej. Pak přidej jablko, kmín, sůl a podlij vodou."
+    },
+    {
+      "text": "Duš pod pokličkou na mírném ohni 50 až 60 minut, dokud zelí není měkké. Občas promíchej, a když se voda vyvaří, podlij 2 až 3 lžícemi vody."
+    },
+    {
+      "text": "Vmíchej rybízový džem. Mouku rozmíchej ve 3 lžících studené vody, vlij do zelí, promíchej a povař ještě 5 minut, aby šťáva zhoustla a mouka ztratila syrovou chuť."
+    },
+    {
+      "text": "Ochutnej a dochuť solí, cukrem nebo octem, zelí má být příjemně sladkokyselé. Podávej k pečené huse, kachně nebo vepřovému s knedlíkem či lokšemi."
+    }
+  ],
+  "tips": [
+    "Červené zelí je druhý den ještě lepší. V uzavřené nádobě vydrží v lednici 4 až 5 dní a dá se zamrazit na 3 měsíce.",
+    "Když máš výpek z husy, vmíchej na konci 2 lžíce, zelí bude chutnat po huse.",
+    "Najemno nastrouhané zelí se dusí rychleji, stačí mu asi 40 minut."
+  ],
+  "substitutions": [
+    "Pro vegetariánskou verzi nahraď sádlo 40 g másla.",
+    "Místo octa použij šťávu z 1 citronu nebo 100 ml jablečného moštu a 1 lžíci octa.",
+    "Místo mouky můžeš zelí zahustit 1 syrovým bramborem nastrouhaným najemno, vař ho pak ještě 10 minut."
+  ],
+  "faq": [
+    {
+      "q": "Proč červené zelí zmodrá?",
+      "a": "Barvivo v červeném zelí mění barvu podle kyselosti: v kyselém prostředí je červené, v zásaditém, třeba s tvrdou vodou, modré až zelenomodré. Přidej ocet nebo citron hned na začátku dušení."
+    },
+    {
+      "q": "Jak dlouho dusit červené zelí?",
+      "a": "Nudličky silné asi 3 mm se duší 50 až 60 minut pod pokličkou na mírném ohni, najemno strouhané zelí asi 40 minut. Hotové je, když je měkké, ale nudličky drží tvar."
+    },
+    {
+      "q": "Dá se červené zelí uvařit předem?",
+      "a": "Ano, dokonce chutná lépe. Uvař ho den nebo dva předem, v lednici vydrží 4 až 5 dní. Ohřívej ho pomalu v hrnci, případně s lžící vody."
+    }
+  ]
+}

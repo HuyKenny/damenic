@@ -1,0 +1,140 @@
+{
+  "title": "Francouzské makronky s čokoládovou ganache",
+  "keywords": [
+    "makronky",
+    "makronky recept",
+    "francouzské makronky",
+    "jak upéct makronky"
+  ],
+  "image": "dish-makronky",
+  "category": "dezerty",
+  "occasions": [
+    "valentyn"
+  ],
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 60,
+  "cookMinutes": 32,
+  "waitMinutes": 1485,
+  "waitLabel": "zaschnutí skořápek a zrání v lednici přes noc",
+  "difficulty": "náročnější",
+  "intro": "Makronky z mandlové mouky, bílků a cukru s náplní z hořké čokolády, z dávky vyjde asi 24 kusů. Těžké na nich jsou tři věci: odležené bílky, makaronáž (správně dlouhé vmíchání mandlí do sněhu) a zaschnutí skořápek před pečením. Bílky odděl den předem.",
+  "ingredients": [
+    {
+      "ingredient": "mandlova-mouka",
+      "amount": 100,
+      "unit": "g",
+      "note": "jemně mletá",
+      "group": "Skořápky"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Skořápky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "jen bílky, odvaž 75 g, oddělené 1 až 2 dny předem",
+      "group": "Skořápky"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 75,
+      "unit": "g",
+      "note": "jemný krystal",
+      "group": "Skořápky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Skořápky"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Čokoládová náplň (ganache)"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Čokoládová náplň (ganache)"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "group": "Čokoládová náplň (ganache)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Den nebo dva předem odděl bílky, odvaž 75 g a v misce přikryté fólií je nech v lednici. Dvě hodiny před pečením je vyndej, ať mají pokojovou teplotu. Odležený bílek je řidší a sníh z něj je pevnější a stabilnější.",
+      "section": "Skořápky"
+    },
+    {
+      "text": "Mandlovou mouku s cukrem moučkou rozmixuj pulzně 10 až 15 sekund, déle ne, mandle by pustily olej. Směs dvakrát prosej přes jemné sítko. Hrubé zbytky, nejvýš lžíci, vyhoď.",
+      "section": "Skořápky"
+    },
+    {
+      "text": "Bílky se špetkou soli šlehej na střední rychlost do pěny, pak po lžících přisypávej krystal. Přepni na vysokou rychlost a šlehej 5 až 8 minut na tuhý lesklý sníh, který na obrácené metle drží rovnou špičku. Barvu, pokud chceš, přidej teď v podobě gelového potravinářského barviva.",
+      "section": "Skořápky"
+    },
+    {
+      "text": "Makaronáž: do sněhu vsyp třetinu mandlové směsi a stěrkou ji vmíchej. Přidej zbytek a skládej hmotu stěrkou podél stěny mísy a přes střed, mísou přitom otáčej a hmotu občas roztírej o stěnu, aby ze sněhu odešla část vzduchu. Po každých 5 tazích zkontroluj: hotovo je, když hmota stéká ze stěrky souvislým lesklým pruhem a stopa na povrchu se do 15 až 20 sekund zarovná. Přemíchanou řídkou hmotu už zachránit nejde.",
+      "section": "Skořápky"
+    },
+    {
+      "text": "Dva plechy vylož pečicím papírem. Hmotu naplň do sáčku s kulatou špičkou 1 cm a stříkej kolmo shora kolečka o průměru 3,5 cm s rozestupy 2 cm. Plechem čtyřikrát pořádně ťukni o linku, aby z hmoty vyšly bubliny, zbylé propíchni párátkem.",
+      "section": "Skořápky"
+    },
+    {
+      "text": "Skořápky nech při pokojové teplotě zaschnout 30 až 60 minut, dokud se na povrchu neudělá kůrka, která se při lehkém dotyku prstem nelepí. Ve vlhké kuchyni to trvá déle.",
+      "section": "Skořápky"
+    },
+    {
+      "text": "Troubu předehřej na 150 °C horní a spodní ohřev (horkovzduch 140 °C). Peč vždy jen jeden plech uprostřed trouby 14 až 16 minut. Hotové skořápky mají nožičky, tedy zvlněný okraj u spodu, a při jemném posunutí prstem se na nožičce nehýbou.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Skořápky nech na plechu úplně vychladnout, pak se samy odlepí od papíru. Pokud se drží, jsou nedopečené, a další plech peč o 2 minuty déle.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Smetanu zahřej k varu, zalij jí nalámanou čokoládu, nech 2 minuty stát a pak stěrkou od středu hladce rozmíchej, vmíchej máslo. Ganache nech při pokojové teplotě tuhnout asi 1 hodinu, až má konzistenci husté pasty, která drží tvar.",
+      "section": "Náplň a zrání"
+    },
+    {
+      "text": "Skořápky spáruj podle velikosti. Na polovinu nastříkej kopeček náplně, přiklop druhou skořápkou a lehce stiskni, až náplň dojde k okraji. Makronky dej do uzavřené dózy do lednice na 24 hodin: náplň skořápky provlhčí a ty budou uvnitř jemné a vláčné. Před podáváním je nech 20 minut při pokojové teplotě.",
+      "section": "Náplň a zrání"
+    }
+  ],
+  "tips": [
+    "Všechno važ na gramy, u makronek rozhoduje přesný poměr. Odměrky a počet bílků tu nestačí.",
+    "Hotové makronky vydrží v uzavřené dóze v lednici 4 až 5 dní, v mrazáku 1 měsíc. Rozmrazuj je v lednici, ne na lince, jinak se orosí.",
+    "Při barvení používej jen gelové nebo práškové barvivo. Tekuté přidá vodu a skořápky se rozteklí."
+  ],
+  "substitutions": [
+    "Malinová verze pro Valentýna: místo hořké čokolády použij 100 g bílé čokolády, smetanu sniž na 40 ml a do hotové ganache vmíchej 2 lžíce propasírovaných rozmražených malin.",
+    "Mandlovou mouku si umeleš sám ze 100 g loupaných mandlí s cukrem moučkou, skořápky budou ale o něco méně hladké."
+  ],
+  "faq": [
+    {
+      "q": "Proč makronky nemají nožičky?",
+      "a": "Nejčastěji je hmota přemíchaná a příliš řídká, skořápky před pečením nezaschly nebo je trouba studená. Pomůže kratší makaronáž, zaschnutí do suché kůrky a teploměr v troubě."
+    },
+    {
+      "q": "Proč jsou makronky duté?",
+      "a": "Dutina vzniká, když je sníh přešlehaný nebo podšlehaný, trouba moc horká nebo skořápky nejsou dopečené. Zkus teplotu o 10 °C nižší a pečení o 2 minuty delší."
+    },
+    {
+      "q": "Jak dlouho vydrží makronky?",
+      "a": "Plněné makronky v uzavřené dóze v lednici 4 až 5 dní, nejlépe chutnají druhý a třetí den. Nenaplněné skořápky vydrží v dóze 3 dny nebo 1 měsíc v mrazáku."
+    }
+  ]
+}

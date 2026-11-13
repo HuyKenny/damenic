@@ -1,0 +1,145 @@
+{
+  "title": "Zelená polévka ze špenátu nebo kopřiv",
+  "keywords": [
+    "zelená polévka",
+    "špenátová polévka",
+    "kopřivová polévka",
+    "zelená polévka na Zelený čtvrtek"
+  ],
+  "intro": "Zelená polévka ze špenátu nebo mladých kopřiv, zahuštěná bramborami a dokončená smetanou. Patří k Zelenému čtvrtku, ale uvaříš ji kdykoli za 45 minut. Aby zůstala sytě zelená, vaří se listy jen 2 minuty a polévka se hned rozmixuje.",
+  "image": "dish-zelena-polevka",
+  "category": "polevky",
+  "occasions": [
+    "velikonoce"
+  ],
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "1 menší",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 300,
+      "unit": "g",
+      "note": "moučné",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 1000,
+      "unit": "ml",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "spenat-baby",
+      "amount": 250,
+      "unit": "g",
+      "note": "nebo 150 g mladých kopřiv",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "podle slanosti vývaru",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "jen šťáva",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "natvrdo",
+      "group": "K podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli nakrájej nadrobno, česnek nasekej. Brambory oloupej a nakrájej na kostky asi 1,5 cm."
+    },
+    {
+      "text": "V hrnci rozpusť máslo a cibuli na něm na mírném ohni 5 minut zpěňuj doměkka, nesmí zhnědnout. Přidej česnek a míchej ještě 30 vteřin."
+    },
+    {
+      "text": "Přidej brambory, zalij vývarem, přiveď k varu a vař pod pokličkou 15 až 18 minut, dokud brambory nejsou úplně měkké."
+    },
+    {
+      "text": "Přidej špenát a vař jen 2 minuty, dokud listy nezvadnou. Kopřivy předtím v cedníku spař vroucí vodou a vymačkej. Delším varem polévka zešedne."
+    },
+    {
+      "text": "Polévku hned rozmixuj ponorným mixérem dohladka, vmíchej smetanu, osol, opepři a okořeň muškátovým oříškem. Už ji nevař, jen prohřej, a těsně před podáváním dochuť citronovou šťávou."
+    },
+    {
+      "text": "Vejce vař 9 až 10 minut od varu, zchlaď ve studené vodě a oloupej. Do každého talíře dej rozpůlené vejce a zalij polévkou."
+    }
+  ],
+  "tips": [
+    "Zelenou barvu udrží krátký var listů a rychlé rozmixování. Druhý den polévku jen zahřej, nevař ji.",
+    "Na Zelený čtvrtek se podle tradice jí zelená jídla, aby byl člověk celý rok zdravý. K polévce se hodí jidáše s medem.",
+    "V lednici vydrží polévka 2 dny v uzavřené nádobě."
+  ],
+  "substitutions": [
+    "Místo špenátu použij 150 g mladých kopřivových lístků: natrhej je v rukavicích, spař vroucí vodou, vymačkej a přidej ve stejném kroku.",
+    "Mražený listový špenát (300 g) přidej rozmražený a vymačkaný, stačí ho povařit 3 minuty.",
+    "Pro veganskou verzi nahraď máslo olejem, smetanu 100 ml kokosového mléka a vejce vynech."
+  ],
+  "faq": [
+    {
+      "q": "Co se jí na Zelený čtvrtek?",
+      "a": "Podle tradice zelená jídla: polévka ze špenátu nebo kopřiv, nádivka s jarními bylinkami, špenát nebo salát. Ráno se jedly jidáše potřené medem."
+    },
+    {
+      "q": "Jak udělat kopřivovou polévku?",
+      "a": "Na másle zpěň cibuli, přidej brambory a vývar a vař doměkka. Pak přidej 150 g spařených a vymačkaných mladých kopřiv, 2 minuty povař a rozmixuj se smetanou. Sbírej jen mladé vrcholky, dokud kopřivy nekvetou."
+    },
+    {
+      "q": "Proč špenátová polévka zhnědne?",
+      "a": "Chlorofyl se dlouhým varem a v kyselém prostředí mění na olivově šedou barvu. Špenát vař jen 2 minuty, polévku hned rozmixuj a citronovou šťávu přidej až těsně před podáváním."
+    }
+  ]
+}

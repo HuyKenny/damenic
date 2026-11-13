@@ -1,0 +1,140 @@
+{
+  "title": "Dýňové muffiny se skořicí",
+  "keywords": [
+    "dýňové muffiny",
+    "dýňové muffiny recept",
+    "muffiny z dýně hokkaido",
+    "dýňové muffiny s čokoládou"
+  ],
+  "image": "dish-dynove-muffiny",
+  "category": "dezerty",
+  "occasions": [
+    "halloween"
+  ],
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 25,
+  "cookMinutes": 37,
+  "waitMinutes": 15,
+  "waitLabel": "chladnutí",
+  "difficulty": "snadné",
+  "intro": "Dýňové muffiny z pyré z dýně hokkaido, se skořicí a perníkovým kořením, vyjde jich dvanáct. Pyré drží muffiny vláčné i třetí den. Těsto se jen krátce promíchá, dlouhým mícháním by muffiny ztvrdly a uvnitř se udělaly tunely.",
+  "ingredients": [
+    {
+      "ingredient": "dyne-hokkaido",
+      "amount": 450,
+      "unit": "g",
+      "note": "na 250 g pyré"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 3,
+      "unit": "g",
+      "note": "asi půl lžičky"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pernikove-koreni",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 60,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 80,
+      "unit": "g",
+      "note": "nasekaná, nepovinné"
+    },
+    {
+      "ingredient": "dynova-seminka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Dýni rozpul, vydlabej semínka a nakrájej i se slupkou na kostky 2 cm. Vař ji v páře nebo v malém množství vody pod pokličkou 12 až 15 minut doměkka, slij, rozmixuj dohladka a nech vychladnout. Odvaž 250 g pyré."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Do plechu na 12 muffinů vlož papírové košíčky."
+    },
+    {
+      "text": "V jedné míse smíchej mouku, prášek do pečiva, jedlou sodu, skořici, perníkové koření a sůl."
+    },
+    {
+      "text": "Ve druhé míse prošlehej metlou vejce s třtinovým cukrem, přilij olej a mléko a vmíchej vychladlé dýňové pyré."
+    },
+    {
+      "text": "Mokrou směs nalij do suché a stěrkou míchej jen tak dlouho, než zmizí suchá mouka, nejvýš 15 tahů. Hrudky v těstě nevadí. Nakonec krátce vmíchej čokoládu."
+    },
+    {
+      "text": "Těsto rozděl do košíčků do tří čtvrtin výšky a posyp dýňovými semínky. Peč 20 až 24 minut. Muffiny jsou hotové, když vršek po stisknutí pruží a špejle zapíchnutá do středu vyjde čistá."
+    },
+    {
+      "text": "Nech je 5 minut ve formě, pak je přendej na mřížku a nech vychladnout."
+    }
+  ],
+  "tips": [
+    "Hotové pyré může být až 3 dny staré z lednice, jen ho nech ohřát na pokojovou teplotu.",
+    "Muffiny vydrží v uzavřené dóze při pokojové teplotě 3 dny, v mrazáku 3 měsíce. Rozmrazené prohřej 5 minut při 150 °C.",
+    "Do těsta se hodí i 60 g nasekaných vlašských ořechů místo čokolády."
+  ],
+  "substitutions": [
+    "Místo pyré můžeš použít 200 g syrové dýně hokkaido nastrouhané najemno. Muffiny budou vlhčí, peč je o 3 až 5 minut déle.",
+    "Polovinu hladké mouky nahraď celozrnnou, muffiny budou hutnější a ořechové.",
+    "Mléko nahradí stejné množství bílého jogurtu, muffiny budou vláčnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct dýňové muffiny?",
+      "a": "Při 180 °C (horkovzduch 170 °C) 20 až 24 minut. Hotové jsou, když špejle zapíchnutá do středu vyjde čistá a vršek po stisknutí pruží zpátky."
+    },
+    {
+      "q": "Můžu do muffinů dát syrovou dýni?",
+      "a": "Ano, 200 g najemno nastrouhané hokkaido. Muffiny budou vlhčí a s kousky dýně, péct je potřeba o 3 až 5 minut déle."
+    },
+    {
+      "q": "Jak dlouho vydrží dýňové muffiny?",
+      "a": "V uzavřené dóze při pokojové teplotě 3 dny, v lednici 5 dní a v mrazáku 3 měsíce."
+    }
+  ]
+}

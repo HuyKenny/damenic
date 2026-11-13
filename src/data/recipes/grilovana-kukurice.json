@@ -1,0 +1,105 @@
+{
+  "title": "Grilovaná kukuřice s bylinkovým máslem",
+  "keywords": [
+    "grilovaná kukuřice",
+    "kukuřice na grilu",
+    "jak grilovat kukuřici",
+    "grilovaná kukuřice recept"
+  ],
+  "image": "dish-grilovana-kukurice",
+  "category": "vegetarianska",
+  "occasions": [
+    "grilovani"
+  ],
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Grilovaná kukuřice potřebuje jen klasy cukrové kukuřice, rozpálený gril a česnekovo-bylinkové máslo. Recept popisuje grilování bez listů i v listech a jak poznat, že jsou zrna měkká a šťavnatá, ne vysušená.",
+  "ingredients": [
+    {
+      "ingredient": "kukurice-klas",
+      "amount": 4,
+      "unit": "ks",
+      "note": "cukrová, s listy"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "změklé"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "najemno nasekaná"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "jemná"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na dílky, k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Změklé máslo vidličkou rozmíchej s česnekem, petrželkou, uzenou paprikou a půlkou soli. Nech ho při pokojové teplotě, aby se dalo roztírat."
+    },
+    {
+      "text": "Z klasů sloupni listy a vytrhej vlákna. Gril rozpal na přímý žár asi 200 °C a rošt potři olejem."
+    },
+    {
+      "text": "Klasy griluj 12 až 15 minut a každé 2 až 3 minuty je pootoč o čtvrt otáčky. Hotové jsou, když zrna zezlátnou, místy zčernají a při propíchnutí nožem pustí šťávu."
+    },
+    {
+      "text": "Horké klasy hned potři bylinkovým máslem, osol zbytkem soli a podávej s dílky limetky na pokapání."
+    },
+    {
+      "text": "Grilování v listech: klasy s listy namoč na 15 minut do studené vody, aby listy nechytly. Griluj je na přímém žáru 20 až 25 minut s otáčením. Pak listy stáhni, klas na 2 minuty vrať na rošt pro opečení a potři máslem."
+    }
+  ],
+  "tips": [
+    "Kupuj klasy se zelenými, vlhkými listy a hnědými, ale ne suchými vlákny. Zrno má být plné a po zmáčknutí nehtem pustit mléčnou šťávu.",
+    "Starší klasy s tužšími zrny nejdřív 5 minut povař v osolené vodě a pak griluj jen 6 až 8 minut.",
+    "Kukuřici nesol před grilováním, sůl z povrchu zrn vytahuje vodu a zrna tvrdnou."
+  ],
+  "substitutions": [
+    "Petrželku můžeš nahradit pažitkou nebo koriandrem.",
+    "Veganská verze: místo másla potři klasy olivovým olejem smíchaným s česnekem a bylinkami.",
+    "Uzenou papriku vyměň za špetku chilli vloček, pokud chceš kukuřici pikantní."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho grilovat kukuřici?",
+      "a": "Bez listů 12 až 15 minut na přímém žáru kolem 200 °C s otáčením každé 2 až 3 minuty. V listech 20 až 25 minut. Předvařená kukuřice stačí 6 až 8 minut."
+    },
+    {
+      "q": "Musí se kukuřice před grilováním vařit?",
+      "a": "Mladá cukrová kukuřice ne, na grilu změkne sama. Předvařit 5 minut se vyplatí u starších klasů s tuhými zrny nebo když potřebuješ grilování zkrátit."
+    },
+    {
+      "q": "Jakou kukuřici koupit na gril?",
+      "a": "Cukrovou kukuřici v klasech, nejlépe s listy. Krmná kukuřice z pole je tvrdá a málo sladká, na gril se nehodí."
+    }
+  ]
+}

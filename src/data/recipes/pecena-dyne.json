@@ -1,0 +1,132 @@
+{
+  "title": "Pečená dýně hokkaido s rozmarýnem",
+  "keywords": [
+    "pečená dýně hokkaido",
+    "pečená dýně",
+    "dýně hokkaido v troubě",
+    "hokkaido recept"
+  ],
+  "image": "dish-pecena-dyne",
+  "category": "vegetarianska",
+  "occasions": [
+    "halloween"
+  ],
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Pečená dýně hokkaido v měsíčcích s olivovým olejem, česnekem, rozmarýnem a uzenou paprikou, k tomu jogurtový dip. Hokkaido se neloupe, slupka v troubě změkne. Aby dýně zkaramelizovala a nedusila se, musí ležet na plechu v jedné vrstvě.",
+  "ingredients": [
+    {
+      "ingredient": "dyne-hokkaido",
+      "amount": 1000,
+      "unit": "g",
+      "note": "1 dýně"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "3 neloupané a rozmáčknuté, 1 do dipu"
+    },
+    {
+      "ingredient": "rozmaryn",
+      "amount": 5,
+      "unit": "g",
+      "note": "2 snítky"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "nepovinné"
+    },
+    {
+      "ingredient": "dynova-seminka",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "jogurt-recky",
+      "amount": 200,
+      "unit": "g",
+      "group": "Dip"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Dip"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Dip"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C horní a spodní ohřev (horkovzduch 190 °C). Plech vylož pečicím papírem."
+    },
+    {
+      "text": "Dýni umyj kartáčkem, rozpul ji, vydlabej semínka a nakrájej na měsíčky asi 2 cm silné. Hokkaido neloupej."
+    },
+    {
+      "text": "V míse promíchej dýni s olejem, uzenou paprikou, solí, pepřem, rozmáčknutým česnekem a jehličkami rozmarýnu. Rozlož ji na plech v jedné vrstvě, měsíčky se nemají překrývat."
+    },
+    {
+      "text": "Peč 25 až 30 minut, v polovině měsíčky otoč. Posledních 5 minut je pokapej medem a posyp dýňovými semínky."
+    },
+    {
+      "text": "Dýně je hotová, když nůž projde dužninou bez odporu a okraje jsou zkaramelizované do hnědé. Mezitím smíchej jogurt s prolisovaným stroužkem česneku, citronovou šťávou a solí a podávej s dýní."
+    }
+  ],
+  "tips": [
+    "Na dva plechy rozlož dýni raději než na jeden přeplněný. Natěsno položená dýně pustí páru a místo opečení se dusí.",
+    "Zbylá pečená dýně vydrží v uzavřené krabičce v lednici 3 dny, hodí se do salátu nebo rozmixovaná do polévky.",
+    "Dýňová semínka z vydlabané dýně můžeš opláchnout, osušit a upéct s trochou oleje a soli při 160 °C 15 až 20 minut."
+  ],
+  "substitutions": [
+    "Máslovou dýni oloupej, nakrájej na kostky 3 cm a peč 30 až 35 minut.",
+    "Rozmarýn nahradí 1 lžička sušeného tymiánu. Med vynech, pokud chceš dýni slanou, nebo ho nahraď javorovým sirupem.",
+    "Místo jogurtového dipu se hodí rozdrobený balkánský sýr přímo na horkou dýni."
+  ],
+  "faq": [
+    {
+      "q": "Musí se dýně hokkaido loupat?",
+      "a": "Nemusí. Slupka hokkaida je tenká a při pečení i vaření změkne, stačí dýni dobře umýt. Loupat se musí máslová a další dýně s tvrdou slupkou."
+    },
+    {
+      "q": "Jak dlouho péct dýni hokkaido?",
+      "a": "Měsíčky 2 cm silné při 200 °C (horkovzduch 190 °C) 25 až 30 minut, kostky 3 cm asi 30 až 35 minut. Hotová je, když ji nůž propíchne bez odporu."
+    },
+    {
+      "q": "Jak poznat zralou dýni hokkaido?",
+      "a": "Zralá dýně je sytě oranžová, tvrdá, při poklepu zní dutě a má suchou zdřevnatělou stopku. Celá vydrží v suchu a chladu kolem 12 °C několik měsíců."
+    }
+  ]
+}
