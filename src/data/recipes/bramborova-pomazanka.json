@@ -1,0 +1,107 @@
+{
+  "title": "Bramborová pomazánka na chlebíčky",
+  "keywords": [
+    "bramborová pomazánka na chlebíčky",
+    "bramborová pomazánka",
+    "bramborová pomazánka recept",
+    "výborná bramborová pomazánka na chlebíčky"
+  ],
+  "image": "dish-bramborova-pomazanka",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 10,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 150,
+  "waitLabel": "vychladnutí brambor a odležení",
+  "difficulty": "snadné",
+  "intro": "Bramborová pomazánka na chlebíčky z brambor uvařených ve slupce, pomazánkového másla, cibule a česneku. Z dávky je asi 850 g, tedy na 30 chlebíčků. Brambory musí být úplně studené a nastrouhané, ne rozmačkané, jinak je pomazánka mazlavá a lepí.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 600,
+      "unit": "g",
+      "note": "varné typu B nebo A"
+    },
+    {
+      "ingredient": "pomazankove-maslo",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "stroužek"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař ve slupce v osolené vodě doměkka, 20 až 25 minut podle velikosti. Sceď je a nech úplně vychladnout, nejlépe 2 hodiny v lednici nebo přes noc."
+    },
+    {
+      "text": "Studené brambory oloupej a nastrouhej na jemném struhadle. Nemačkej je ani nemixuj, škrob by se uvolnil a pomazánka by byla lepivá."
+    },
+    {
+      "text": "Cibuli nakrájej co nejjemněji nebo ji nastrouhej, česnek prolis. Pažitku nakrájej najemno."
+    },
+    {
+      "text": "Pomazánkové máslo promíchej s hořčicí, cibulí a česnekem. Vmíchej brambory a pažitku, osol a opepři. Míchej lehce vidličkou, ne šlehačem."
+    },
+    {
+      "text": "Nech pomazánku 30 minut odležet v lednici, cibule a česnek se do ní rozejdou. Pak ochutnej a případně dosol, brambory sůl hodně spolknou."
+    }
+  ],
+  "tips": [
+    "Pomazánka vydrží v uzavřené dóze v lednici 2 dny. Třetí den už cibule začne kysnout.",
+    "Majonéza, vejce i mléčné pomazánky patří do lednice. Na stole při pokojové teplotě je nenechávej déle než 2 hodiny.",
+    "Na chlebíčku jí dodá barvu kolečko ředkvičky, proužek uzeného masa nebo pár kousků nakládané okurky."
+  ],
+  "substitutions": [
+    "Místo pomazánkového másla můžeš použít 120 g majonézy nebo napůl majonézu a bílý jogurt.",
+    "Pikantnější verze: přidej 50 g najemno nakrájené slaniny osmažené dokřupava a lžičku sladké papriky."
+  ],
+  "faq": [
+    {
+      "q": "Proč je bramborová pomazánka lepivá?",
+      "a": "Brambory byly teplé nebo rozmačkané. Studené a nastrouhané brambory nepustí tolik škrobu a pomazánka zůstane nadýchaná."
+    },
+    {
+      "q": "Jaké brambory na bramborovou pomazánku?",
+      "a": "Varné typu B, které jsou trochu moučnější, dají jemnější pomazánku. Typ A drží tvar a pomazánka je hrubší, ale lépe se nastrouhá."
+    },
+    {
+      "q": "Jak dlouho vydrží bramborová pomazánka v lednici?",
+      "a": "V uzavřené dóze v lednici 2 dny. Mimo lednici ji nenechávej déle než 2 hodiny."
+    }
+  ],
+  "occasions": [
+    "silvestr",
+    "narozeniny"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Mechový dort",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Krémové a ovocné",
+  "description": "Zelený citronový korpus se špenátem, mascarpone krém a maliny s borůvkami navrch.",
+  "price": 13900,
+  "image": "dish-mechovy-dort-dilek",
+  "recipe": "mechovy-dort",
+  "about": [
+    "Mechový dort vypadá jako kus lesa a chutná po citronu. Zelenou barvu dává rozmixovaný špenát, který v korpusu nepoznáš, a drobky z horní vrstvy dělají na krému měkký mech.",
+    "Děti se obvykle ptají, z čeho je zelený, až u druhého kousku. Tady se nezeptá nikdo, protože kousek nedorazí. Recept ale ano."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "dilek",
+          "name": "Dílek",
+          "priceDelta": 0
+        },
+        {
+          "id": "cely",
+          "name": "Celý dort 24 cm (12 dílků)",
+          "priceDelta": 95000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 50
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Tequila sunrise",
+  "keywords": [
+    "tequila sunrise",
+    "tequila sunrise recept",
+    "tequila s pomerančovým džusem",
+    "tequila sunrise grenadina"
+  ],
+  "image": "dish-tequila-sunrise",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "servings": 1,
+  "activeMinutes": 3,
+  "cookMinutes": 0,
+  "waitMinutes": 7,
+  "waitLabel": "vychlazení sklenice v mrazáku",
+  "difficulty": "snadné",
+  "intro": "Tequila sunrise je long drink z tequily, pomerančového džusu a grenadiny, který ve sklenici vytvoří přechod od červené ke žluté jako východ slunce. Vrstvy vznikají samy, protože hustá grenadina klesá ke dnu: stačí ji nalít až nakonec a nemíchat. Recept je na jednu vysokou sklenici: 45 ml tequily, 90 ml džusu a 15 ml grenadiny.",
+  "ingredients": [
+    {
+      "ingredient": "led",
+      "amount": 200,
+      "unit": "g",
+      "note": "kostky"
+    },
+    {
+      "ingredient": "tequila",
+      "amount": 45,
+      "unit": "ml",
+      "note": "stříbrná"
+    },
+    {
+      "ingredient": "dzus-pomerancovy",
+      "amount": 90,
+      "unit": "ml",
+      "note": "dobře vychlazený"
+    },
+    {
+      "ingredient": "grenadina",
+      "amount": 15,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "pomeranc",
+      "amount": 0.2,
+      "unit": "ks",
+      "note": "1 kolečko na ozdobu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vysokou sklenici (highball, asi 300 ml) dej na 5 až 10 minut do mrazáku."
+    },
+    {
+      "text": "Sklenici naplň ledem, nalij 45 ml tequily a 90 ml vychlazeného pomerančového džusu a lžící promíchej."
+    },
+    {
+      "text": "Nakonec pomalu nalij 15 ml grenadiny po lžíci nebo po stěně sklenice. Klesne ke dnu a vytvoří červenou vrstvu, která nahoru přechází do oranžové. Už nemíchej."
+    },
+    {
+      "text": "Ozdob kolečkem pomeranče a podávej s brčkem. Vrstvy se promíchají až při pití."
+    }
+  ],
+  "tips": [
+    "Čerstvě vymačkaný džus chutná nejlépe: 90 ml dají asi 1 až 2 pomeranče. Před použitím ho vychlaď.",
+    "Grenadina z granátového jablka je kyselejší a tmavší, levnější verze bývá jen sladký červený sirup.",
+    "Když grenadinu naleješ zprudka, rozmíchá se a drink bude růžový bez přechodu."
+  ],
+  "substitutions": [
+    "Nealko varianta (sunrise bez alkoholu): tequilu vynech, pomerančového džusu dej 120 ml a dolij 30 ml sodovky. Grenadinu nalij stejně nakonec.",
+    "Místo grenadiny se hodí 15 ml malinového nebo višňového sirupu, vrstvy budou podobné."
+  ],
+  "faq": [
+    {
+      "q": "Co je v tequila sunrise?",
+      "a": "Tequila, pomerančový džus a grenadina: 45 ml tequily, 90 ml džusu a 15 ml grenadiny na led ve vysoké sklenici."
+    },
+    {
+      "q": "Proč se v tequila sunrise neudělají vrstvy?",
+      "a": "Grenadina se nalila moc rychle, nebo se drink po ní promíchal. Nalévej ji pomalu po lžíci nebo po stěně sklenice jako poslední a už nemíchej, klesne ke dnu sama."
+    },
+    {
+      "q": "Jaká tequila do tequila sunrise?",
+      "a": "Stříbrná (blanco) tequila, nejlépe ze 100 % agáve. Má čistou chuť, která se k pomerančovému džusu hodí. Zrající tequila je zbytečně výrazná."
+    }
+  ]
+}

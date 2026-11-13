@@ -1,0 +1,154 @@
+{
+  "title": "Tvarohová buchta na plech",
+  "keywords": [
+    "tvarohová buchta recept",
+    "recept na tvarohovou buchtu",
+    "buchta s tvarohem recept",
+    "recept na buchtu s tvarohem"
+  ],
+  "intro": "Tvarohová buchta recept bez kynutí: světlé hrnkové těsto a uprostřed vrstva vanilkového tvarohu, upečené na plechu 25 × 35 cm. Vyjde 15 kusů. Aby tvaroh nepropadl ke dnu, rozetře se na spodní vrstvu těsta opatrně a zbytek těsta se na něj jen rozloží po lžících.",
+  "image": "dish-tvarohova-buchta",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 25,
+  "cookMinutes": 40,
+  "waitMinutes": 60,
+  "waitLabel": "chladnutí a ztuhnutí tvarohu",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 300,
+      "unit": "g",
+      "note": "2 hrnky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 500,
+      "unit": "g",
+      "note": "měkký, 2 vaničky",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 40,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen nastrouhaná kůra",
+      "group": "Tvarohová náplň"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Předehřej troubu na 175 °C, horní a spodní ohřev (horkovzduch 165 °C). Plech 25 × 35 cm s vyšším okrajem vylož pečicím papírem."
+    },
+    {
+      "section": "Náplň",
+      "text": "Tvaroh rozmíchej s cukrem, vejcem, pudinkovým práškem a citronovou kůrou dohladka. Náplň má být hustá jako zakysaná smetana."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vejce s cukrem a vanilkovým cukrem rozšlehej metlou do pěny, přilij mléko a olej. Mouku smíchej s práškem do pečiva a solí a vmíchej ji jen dohladka."
+    },
+    {
+      "section": "Sestavení",
+      "text": "Dvě třetiny těsta rozetři po plechu. Na ně lžící rozlož tvarohovou náplň a opatrně ji rozetři až ke krajům. Zbytek těsta rozkapej po lžících na tvaroh; nemusí ho celý zakrýt, při pečení se rozteče."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 35 až 40 minut, dokud není povrch zlatavý a špejle zapíchnutá do těsta nevyjde suchá. Tvaroh uprostřed se může ještě lehce chvět, při chladnutí ztuhne."
+    },
+    {
+      "section": "Krájení",
+      "text": "Nech buchtu na plechu vychladnout aspoň hodinu; teplá tvarohová vrstva se při krájení maže. Nakrájej na 15 kusů."
+    }
+  ],
+  "tips": [
+    "Vlhký tvaroh nech před mícháním 15 minut okapat v sítku, náplň pak nepovolí.",
+    "Tvarohová buchta patří po vychladnutí do lednice, kde vydrží 3 dny. Před podáváním ji nech 20 minut ohřát na pokojovou teplotu.",
+    "Do tvarohu můžeš zatlačit půlky meruněk nebo hrst borůvek, buchta bude šťavnatější."
+  ],
+  "substitutions": [
+    "Pudinkový prášek v náplni nahradíš 2 lžícemi kukuřičného škrobu a vanilkovým cukrem.",
+    "Tvaroh v bloku nejdřív prolisuj nebo jemně nastrouhej, jinak bude náplň hrudkovitá.",
+    "Olej nahradíš 100 g rozpuštěného másla."
+  ],
+  "faq": [
+    {
+      "q": "Proč tvaroh v buchtě propadl ke dnu?",
+      "a": "Těsto bylo příliš řídké nebo tvaroh moc vlhký. Těsto má být hustší než na bublaninu, tvaroh okapej a zahusti pudinkem. Pomůže i to, že tvaroh nerozléváš, ale lžící rozkládáš a opatrně rozetřeš."
+    },
+    {
+      "q": "Jak poznám, že je tvarohová buchta upečená?",
+      "a": "Povrch je zlatavý, okraje se lehce odtahují od plechu a špejle zapíchnutá do těsta vyjde suchá. Tvaroh uprostřed se smí ještě trochu chvět, dopeče se a ztuhne při chladnutí."
+    },
+    {
+      "q": "Musí tvarohová buchta do lednice?",
+      "a": "Ano, po vychladnutí. První den může zůstat zakrytá na chladném místě, pak ji ulož do lednice, kde vydrží 3 dny."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Jednohubky s uzeným lososem",
+  "kind": "main",
+  "section": "Jednohubky",
+  "description": "Opečená bageta, smetanový sýr s koprem a citronovou kůrou, vlnka lososa a dva kapary navrch.",
+  "about": [
+    "Losos se na jednohubku nepokládá, skládá se. Proužek široký dva centimetry složený do vlnky nebo stočený do růžičky vypadá dvakrát bohatěji než plátek naplocho a přitom ho je stejně. Pod ním smetanový sýr s koprem, který chutná po lososu ještě víc.",
+    "Opečená kolečka drží křupavost, dokud jsou suchá, proto se skládá až pár hodin před oslavou. V receptu najdeš i variantu bez pečiva na okurce. Uzený losos je to nejdražší na celém tácu. Proto u nás žádný není."
+  ],
+  "price": 22900,
+  "recipe": "jednohubky-s-lososem",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "10ks",
+          "name": "10 kusů",
+          "priceDelta": 0
+        },
+        {
+          "id": "20ks",
+          "name": "20 kusů",
+          "priceDelta": 19900
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "allergens": [
+    1,
+    4,
+    7
+  ],
+  "order": 30,
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "image": "dish-lososove-jednohubky-oblozeno",
+  "spicy": 0,
+  "vegan": false
+}

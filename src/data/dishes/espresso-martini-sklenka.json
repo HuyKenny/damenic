@@ -1,0 +1,40 @@
+{
+  "name": "Espresso martini",
+  "restaurant": "koktejlbar-prazdna-sklenka",
+  "kind": "main",
+  "section": "Klasiky",
+  "description": "Vodka, kávový likér a čerstvé espresso protřepané do husté pěny se třemi zrnky kávy.",
+  "about": [
+    "Espresso martini je koktejl na večer, kdy se nemůžeš rozhodnout mezi kávou a drinkem. Vodka, kávový likér a čerstvé espresso se protřepou s ledem tak silně, až navrchu vznikne hustá hnědá pěna se třemi zrnky kávy.",
+    "Pěnu ošidit nejde, káva z rána ji neudělá. U nás si vybereš i bezkofeinové espresso, alkohol je jen pro 18+ a celý bar je smyšlený. Šejkr chrastí jen v tvé hlavě."
+  ],
+  "price": 18900,
+  "image": "dish-espresso-martini-sklenka",
+  "recipe": "espresso-martini",
+  "optionGroups": [
+    {
+      "id": "kava",
+      "name": "Káva",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "klasicke",
+          "name": "Klasické espresso",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-kofeinu",
+          "name": "Bezkofeinové espresso",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 30
+}

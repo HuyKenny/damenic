@@ -1,0 +1,25 @@
+{
+  "name": "Míša řez",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Řezy z plechu",
+  "description": "Kakaový korpus, vysoká vrstva sladkého tvarohu se šlehačkou a čokoláda navrch. Studený jako vitrína.",
+  "about": [
+    "Míša řez znají všechny školní jídelny i cukrárny: kakaový korpus, vysoká vrstva sladkého tvarohu a tenká čokoládová poleva. Tvaroh zpevňuje želatina se šlehačkou, aby řez držel rovnou hranu.",
+    "Ve vitríně ho krájíme nožem namočeným v horké vodě. Doma to platí stejně, jen ho pak opravdu sníš. Počítej se 4 hodinami v lednici; rychleji to nejde ani nám, a to nemáme vůbec nic."
+  ],
+  "price": 5900,
+  "image": "dish-misa-rez-z-vitriny",
+  "recipe": "misa-rezy",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 50
+}

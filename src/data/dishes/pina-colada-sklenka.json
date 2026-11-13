@@ -1,0 +1,40 @@
+{
+  "name": "Piña colada",
+  "restaurant": "koktejlbar-prazdna-sklenka",
+  "kind": "main",
+  "section": "Klasiky",
+  "description": "Bílý rum, ananasový džus a kokosové mléko rozmixované s ledem do husté studené pěny.",
+  "about": [
+    "Piña colada je dovolená v mixéru: bílý rum, ananasový džus a kokosové mléko rozmixované s ledem do husté studené pěny. Doma nepotřebuješ slazený kokosový krém, stačí plechovka kokosového mléka a lžíce cukru.",
+    "Podáváme ji s kouskem ananasu na okraji sklenice a na přání i bez rumu. Pláž si musíš představit sám. Mixér si pustíš taky sám, my ho máme jen na obrázku."
+  ],
+  "price": 17900,
+  "image": "dish-pina-colada-sklenka",
+  "recipe": "pina-colada",
+  "optionGroups": [
+    {
+      "id": "varianta",
+      "name": "Varianta",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "s-alkoholem",
+          "name": "S alkoholem (jen 18+)",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-alkoholu",
+          "name": "Bez alkoholu",
+          "priceDelta": -4000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 20
+}

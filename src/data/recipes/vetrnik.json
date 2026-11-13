@@ -1,0 +1,180 @@
+{
+  "title": "Větrník s karamelovým krémem",
+  "keywords": [
+    "větrník",
+    "větrník na plech",
+    "větrník recept",
+    "karamelový větrník recept"
+  ],
+  "intro": "Větrník je klasický zákusek z cukrárny: korpus z odpalovaného těsta plněný karamelovým krémem a šlehačkou, navrchu karamelová poleva. Z dávky vyjde 12 větrníků. Nejtěžší je odpalované těsto: musí se na plotně pořádně „odpálit“ a prvních 20 minut pečení nesmíš otevřít troubu, jinak větrníky spadnou.",
+  "image": "dish-vetrnik-z-vitriny",
+  "category": "dorty",
+  "servings": 12,
+  "activeMinutes": 75,
+  "cookMinutes": 35,
+  "waitMinutes": 180,
+  "waitLabel": "chladnutí korpusů a krému, tuhnutí polevy",
+  "difficulty": "náročnější",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Odpalované těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "group": "Odpalované těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Odpalované těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g",
+      "note": "prosetá",
+      "group": "Odpalované těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "velká, rozšlehaná v hrnku",
+      "group": "Odpalované těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 120,
+      "unit": "g",
+      "note": "na karamel",
+      "group": "Karamelový krém"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Karamelový krém"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 40,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Karamelový krém"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "změklé, pokojové teploty",
+      "group": "Karamelový krém"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 250,
+      "unit": "ml",
+      "note": "dobře vychlazená",
+      "group": "Šlehačka"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Šlehačka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "note": "na karamel",
+      "group": "Karamelová poleva"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 60,
+      "unit": "ml",
+      "note": "horká",
+      "group": "Karamelová poleva"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 220,
+      "unit": "g",
+      "note": "prosátý",
+      "group": "Karamelová poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Odpalované těsto",
+      "text": "V kastrolu přiveď k varu vodu s máslem a solí. Jakmile se máslo rozpustí a voda vře, stáhni plamen na minimum, nasyp najednou všechnu mouku a rázně míchej vařečkou."
+    },
+    {
+      "section": "Odpalované těsto",
+      "text": "Míchej na mírném ohni 1 až 2 minuty, dokud se těsto nespojí v hladkou kouli, nepouští se od stěn a na dně kastrolu nezůstane tenký povlak. Tomu se říká odpálení."
+    },
+    {
+      "section": "Odpalované těsto",
+      "text": "Těsto přendej do mísy a nech 5 až 10 minut zchladnout, aby se v něm vejce nesrazila. Pak zašlehávej vejce po jednom a další přidej, až se předchozí úplně spojí. Hotové těsto je lesklé a z vařečky padá v širokém trojúhelníku; poslední vejce přidávej po částech, možná ho nespotřebuješ celé."
+    },
+    {
+      "section": "Pečení",
+      "text": "Předehřej troubu na 200 °C, horní a spodní ohřev (horkovzduch 180 °C), a plech vylož pečicím papírem. Těsto dej do sáčku s hladkou širokou špičkou a nastříkej 12 kopečků o průměru asi 6 cm s rozestupy 4 cm. Špičky uhlaď mokrým prstem."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 20 minut a troubu přitom neotvírej. Pak ji stáhni na 180 °C (horkovzduch 160 °C) a peč ještě 12 až 15 minut, dokud nejsou větrníky zlatohnědé, suché a v ruce lehké. Nech je vychladnout v pootevřené vypnuté troubě, aby nesplaskly."
+    },
+    {
+      "section": "Karamelový krém",
+      "text": "V širokém kastrolu rozpusť na středním ohni 120 g cukru a nech ho zkaramelizovat do jantarové barvy. Opatrně přilij 400 ml horkého mléka (bude prskat) a míchej, dokud se karamel úplně nerozpustí."
+    },
+    {
+      "section": "Karamelový krém",
+      "text": "Ve zbylých 100 ml studeného mléka rozmíchej pudinkový prášek, vlij ho do karamelového mléka a za stálého míchání vař 1 až 2 minuty do zhoustnutí. Přikryj fólií položenou přímo na povrch a nech vychladnout na pokojovou teplotu, asi 2 hodiny."
+    },
+    {
+      "section": "Karamelový krém",
+      "text": "Změklé máslo šlehej 3 minuty do světlé pěny a po lžících do něj zašlehávej vychladlý pudink. Máslo i pudink musí mít stejnou teplotu, jinak se krém srazí."
+    },
+    {
+      "section": "Karamelová poleva",
+      "text": "Na polevu zkaramelizuj 80 g cukru do jantarové barvy, odstav a opatrně přilij 60 ml horké vody. Míchej, dokud se karamel nerozpustí, a nech sirup vychladnout. Pak ho po lžičkách přidávej do moučkového cukru, až vznikne hustá hladká poleva, která z lžíce pomalu stéká."
+    },
+    {
+      "section": "Sestavení",
+      "text": "Vychladlé větrníky vodorovně rozřízni. Víčka namoč vrchem do polevy a nech 30 minut zaschnout. Spodky naplň karamelovým krémem, navrch nastříkej šlehačku ušlehanou s lžící moučkového cukru a přiklop víčkem. Do podávání ulož do lednice."
+    }
+  ],
+  "tips": [
+    "Prázdné upečené korpusy můžeš zamrazit až na měsíc. Před plněním je rozmraz a 5 minut přepeč při 180 °C, aby znovu zkřupaly.",
+    "Naplněné větrníky skladuj v lednici a sněz do 2 dnů; šlehačka a krém s mlékem dlouho nevydrží.",
+    "Když se krém srazí, nádobu krátce nahřej nad párou a znovu prošlehej. Obvykle stačí, aby se obě složky srovnaly teplotou."
+  ],
+  "substitutions": [
+    "Šlehačku můžeš vynechat a plnit větrníky jen karamelovým krémem; udělej ho pak o polovinu víc.",
+    "Vanilkový pudinkový prášek nahradíš 40 g kukuřičného škrobu a semínky z půlky vanilkového lusku.",
+    "Místo karamelové polevy můžeš víčka jen hustě pocukrovat moučkovým cukrem."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat větrník na plech?",
+      "a": "Stejné odpalované těsto rozetři na plech asi 30 × 40 cm vyložený papírem a peč 25 až 30 minut při 200 °C (horkovzduch 180 °C), prvních 20 minut bez otevírání trouby. Vychladlý plát potři karamelovým krémem, pak šlehačkou a polij polevou. Po hodině v lednici ho nakrájej na 12 až 15 řezů."
+    },
+    {
+      "q": "Proč větrník po upečení spadl?",
+      "a": "Nejčastěji kvůli otevřené troubě v prvních 20 minutách nebo kvůli nedopečení. Korpus musí být zvenku zlatohnědý a suchý; bledý má uvnitř ještě páru a po vytažení se propadne. Pomůže i chladnutí v pootevřené vypnuté troubě."
+    },
+    {
+      "q": "Kolik kalorií má větrník?",
+      "a": "Větrník podle tohoto receptu má zhruba 450 až 500 kcal na kus, hlavně kvůli máslu v krému a cukru v polevě. Když ze stejné dávky nastříkáš 18 menších větrníků, vyjde jeden asi na 300 až 330 kcal."
+    }
+  ]
+}

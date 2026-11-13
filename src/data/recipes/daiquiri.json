@@ -1,0 +1,90 @@
+{
+  "title": "Daiquiri",
+  "keywords": [
+    "daiquiri",
+    "daiquiri recept",
+    "frozen daiquiri",
+    "jahodové daiquiri"
+  ],
+  "image": "dish-daiquiri",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "servings": 1,
+  "activeMinutes": 5,
+  "cookMinutes": 0,
+  "waitMinutes": 5,
+  "waitLabel": "vychlazení sklenice v mrazáku",
+  "difficulty": "střední",
+  "intro": "Daiquiri je klasický kubánský koktejl ze tří surovin: bílého rumu, čerstvé limetkové šťávy a cukrového sirupu v poměru asi 60 : 25 : 15 ml, protřepaný s ledem a podávaný bez ledu ve vychlazené sklenici. Nejde o mraženou ovocnou kaši z mixéru, i když i ta nese stejné jméno. Celé umění je ve vyvážení kyselého a sladkého.",
+  "ingredients": [
+    {
+      "ingredient": "cukr",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 10,
+      "unit": "ml",
+      "note": "horká, na sirup"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na 25 ml šťávy"
+    },
+    {
+      "ingredient": "rum-bily",
+      "amount": 60,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "led",
+      "amount": 200,
+      "unit": "g",
+      "note": "kostky do šejkru"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Koktejlovou sklenici (coupe nebo martini) dej na 5 minut do mrazáku."
+    },
+    {
+      "text": "V malé sklenici rozmíchej 10 g cukru v 10 ml horké vody, až je roztok čirý. Vznikne asi 15 ml cukrového sirupu, nech ho minutu vychladnout."
+    },
+    {
+      "text": "Vymačkej 25 ml limetkové šťávy, to je asi jedna limetka. Do šejkru dej 200 g ledu, nalij 60 ml rumu, limetkovou šťávu a sirup."
+    },
+    {
+      "text": "Šejkr pevně zavři a protřepávej 12 až 15 sekund, dokud neorosí a nestudí do dlaní."
+    },
+    {
+      "text": "Přeceď přes sítko šejkru a jemné čajové sítko do vychlazené sklenice bez ledu. Ozdob tenkým kolečkem limetky a podávej hned."
+    }
+  ],
+  "tips": [
+    "Frozen daiquiri: všechny suroviny rozmixuj se 150 g ledu do hladké ledové tříště a nalij bez cezení.",
+    "Sirup si můžeš připravit do zásoby: 100 g cukru rozpusť ve 100 ml horké vody. V uzavřené lahvi v lednici vydrží asi 2 týdny.",
+    "Ochutnej šťávu z limetky: některé jsou kyselejší. Kdo chce drink sušší, ubere sirup na 10 ml."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo rumu dej 60 ml bílého hroznového džusu, limetku a sirup nech. Protřepej s ledem stejně a přeceď do vychlazené sklenice.",
+    "Jahodové daiquiri: v šejkru rozmačkej 4 jahody, přidej ostatní suroviny a přeceď jemným sítkem, aby v drinku nezůstala semínka."
+  ],
+  "faq": [
+    {
+      "q": "Co je daiquiri?",
+      "a": "Kubánský koktejl z bílého rumu, limetkové šťávy a cukrového sirupu, protřepaný s ledem a podávaný bez ledu ve vychlazené sklenici. Mixovaná verze s ledem se jmenuje frozen daiquiri."
+    },
+    {
+      "q": "Jaký je poměr v daiquiri?",
+      "a": "Na jednu sklenici 60 ml bílého rumu, 25 ml čerstvé limetkové šťávy a 15 ml cukrového sirupu (1 : 1 cukr a voda). Sirup uprav podle kyselosti limetky."
+    },
+    {
+      "q": "Jak udělat frozen daiquiri?",
+      "a": "Rum, limetkovou šťávu a sirup dej do mixéru se 150 g ledu a mixuj na nejvyšší výkon do hladké tříště. Na jahodovou verzi přidej 100 g jahod a sirup ubírej podle sladkosti ovoce."
+    }
+  ]
+}

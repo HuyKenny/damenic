@@ -1,0 +1,134 @@
+{
+  "title": "Nepečený dort ze zakysané smetany a piškotů",
+  "keywords": [
+    "nepečený dort",
+    "nepečený dort ze zakysané smetany a piškotů",
+    "nepečený dort ze zakysané smetany",
+    "nepečený dort s piškoty a ovocem",
+    "nepečený piškotový dort"
+  ],
+  "image": "dish-nepeceny-dort",
+  "category": "dorty",
+  "vegetarian": false,
+  "servings": 10,
+  "activeMinutes": 30,
+  "cookMinutes": 0,
+  "waitMinutes": 360,
+  "waitLabel": "tuhnutí v lednici (nejlépe přes noc)",
+  "difficulty": "snadné",
+  "intro": "Nepečený dort ze zakysané smetany, šlehačky a dětských piškotů namočených v mléce, skládaný v dortové formě s odnímatelným okrajem o průměru 22 cm. Trouba není potřeba, krém drží želatina. Jediné, co se nedá urychlit, je tuhnutí v lednici: aspoň 6 hodin, nejlépe přes noc.",
+  "ingredients": [
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 400,
+      "unit": "g",
+      "note": "vychlazená",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vychlazená",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "kůra a 1 lžíce šťávy",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "zelatina",
+      "amount": 15,
+      "unit": "g",
+      "note": "prášková",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 60,
+      "unit": "ml",
+      "note": "studená, na želatinu",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "piskoty-detske",
+      "amount": 240,
+      "unit": "g",
+      "note": "kulaté cukrářské",
+      "group": "Piškoty a ovoce"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml",
+      "note": "na namáčení",
+      "group": "Piškoty a ovoce"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 400,
+      "unit": "g",
+      "note": "nebo jiné ovoce",
+      "group": "Piškoty a ovoce"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Dno dortové formy o průměru 22 cm s odnímatelným okrajem vylož pečicím papírem a okraj pruhem papíru. Želatinu zasyp do 60 ml studené vody a nech 10 minut nabobtnat."
+    },
+    {
+      "text": "Jahody omyj a osuš. Polovinu nakrájej na čtvrtky, zbytek nech na ozdobu. Mléko nalij do mělkého talíře."
+    },
+    {
+      "text": "Šlehačku ušlehej do pevné pěny. V druhé míse prošlehej zakysanou smetanu s moučkovým a vanilkovým cukrem, citronovou kůrou a šťávou do hladka. Krém má mít pokojovou teplotu, ne ledovou."
+    },
+    {
+      "text": "Nabobtnalou želatinu rozpusť v hrnku na mírném ohni nebo 15 vteřin v mikrovlnce. Nesmí se vařit. Vmíchej do ní 2 lžíce smetanového krému, aby se teploty srovnaly, a pak ji rychle vmíchej do zbytku krému. Nakonec stěrkou vmíchej šlehačku."
+    },
+    {
+      "text": "Piškoty na vteřinu namoč v mléce a skládej je na dno formy těsně vedle sebe. Rozetři na ně třetinu krému a poklaď polovinou nakrájených jahod. Zopakuj vrstvu piškotů, krému a jahod a navrch rozetři poslední třetinu krému."
+    },
+    {
+      "text": "Formu zakryj a dej do lednice aspoň na 6 hodin, nejlépe přes noc. Ztuhlý dort obejdi nožem namočeným v horké vodě, sundej okraj formy a ozdob zbylými jahodami."
+    }
+  ],
+  "tips": [
+    "Piškoty namáčej opravdu krátce. Nasáklé se rozpadnou a dort pod krémem teče.",
+    "Želatina se do ledového krému srazí do gumových nitek. Proto ji nejdřív smíchej s trochou krému a krém nech před tím ohřát na pokojovou teplotu.",
+    "Dort vydrží v lednici 2 dny, zakrytý, aby nenasál pachy. Mrazit ho nedoporučujeme, krém po rozmražení pouští vodu."
+  ],
+  "substitutions": [
+    "Polovinu zakysané smetany můžeš nahradit měkkým tvarohem nebo mascarpone, dort bude hutnější.",
+    "Pro děti můžeš piškoty místo mléka namáčet v ovocném džusu, pro dospělé ve vychladlé slabé kávě.",
+    "Místo jahod se hodí broskve z kompotu, borůvky nebo maliny. Čerstvý ananas a kiwi nepoužívej, jejich enzymy rozkládají želatinu a krém by neztuhl."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho musí tuhnout nepečený dort?",
+      "a": "S želatinou aspoň 6 hodin v lednici, nejjistější je nechat ho přes noc. Krájej ho až úplně ztuhlý, jinak se vrstvy rozjedou."
+    },
+    {
+      "q": "Jde nepečený dort udělat bez želatiny?",
+      "a": "Jde, krém ale bude měkčí. Místo zakysané smetany použij 250 g mascarpone a 250 g měkkého tvarohu se šlehačkou. Tahle směs v lednici ztuhne i bez želatiny."
+    },
+    {
+      "q": "Kolik piškotů je potřeba na nepečený dort?",
+      "a": "Na formu o průměru 22 cm a dvě vrstvy stačí asi 240 g kulatých piškotů. Do formy o průměru 26 cm počítej s 350 g piškotů a s krémem o polovinu větším."
+    }
+  ]
+}

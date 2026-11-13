@@ -1,0 +1,142 @@
+{
+  "title": "Kremrole se sněhem",
+  "keywords": [
+    "kremrole",
+    "kremrole recept",
+    "sníh do kremrolí",
+    "kremrole z listového těsta"
+  ],
+  "intro": "Kremrole recept z hotového listového těsta navinutého na kovové trubičky, plněné hustým bílkovým sněhem s cukrovým rozvarem. Z jednoho plátu těsta vyjde asi 16 kremrolí. Klíčový je sníh do kremrolí: horký sirup nalitý do šlehaných bílků z něj udělá stabilní italskou pěnu, která drží tvar a bílky se v ní horkým sirupem prohřejí.",
+  "image": "dish-kremrole-z-vitriny",
+  "category": "dorty",
+  "servings": 8,
+  "activeMinutes": 60,
+  "cookMinutes": 15,
+  "waitMinutes": 30,
+  "waitLabel": "chladnutí kremrolí před plněním",
+  "difficulty": "náročnější",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "listove-testo",
+      "amount": 275,
+      "unit": "g",
+      "note": "chlazené, 1 válený plát",
+      "group": "Kremrole"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "rozpuštěné, na trubičky",
+      "group": "Kremrole"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozšlehané, na potření",
+      "group": "Kremrole"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na posypání",
+      "group": "Kremrole"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "jen bílky (asi 130 g), čerstvé, pokojové teploty",
+      "group": "Sníh s rozvarem"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 250,
+      "unit": "g",
+      "group": "Sníh s rozvarem"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 80,
+      "unit": "ml",
+      "group": "Sníh s rozvarem"
+    },
+    {
+      "ingredient": "kyselina-citronova",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Sníh s rozvarem"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Sníh s rozvarem"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Kremrole",
+      "text": "Předehřej troubu na 200 °C, horní a spodní ohřev (horkovzduch 180 °C). Kovové trubičky vymaž rozpuštěným máslem a plech vylož pečicím papírem."
+    },
+    {
+      "section": "Kremrole",
+      "text": "Listové těsto rozviň a kolečkem nebo ostrým nožem ho nakrájej na proužky široké 1,5 cm. Z plátu asi 24 × 40 cm vyjde 16 proužků dlouhých 40 cm."
+    },
+    {
+      "section": "Kremrole",
+      "text": "Proužek navíjej na trubičku od užšího konce tak, aby se okraje překrývaly asi o třetinu, a konec přitiskni. Potři vejcem jen těsto, ne kov, posyp cukrem a polož spojem dolů na plech."
+    },
+    {
+      "section": "Kremrole",
+      "text": "Peč 12 až 15 minut, dokud nejsou kremrole zlatohnědé i zespodu. Ještě teplé je otáčivým pohybem stáhni z trubiček a nech úplně vychladnout na mřížce."
+    },
+    {
+      "section": "Sníh s rozvarem",
+      "text": "Do malého kastrolu dej cukr s vodou, jednou zamíchej a vař na středním ohni už bez míchání. Když sirup dosáhne asi 110 °C, začni v čisté odmaštěné míse šlehat bílky se špetkou kyseliny citronové do pevného sněhu."
+    },
+    {
+      "section": "Sníh s rozvarem",
+      "text": "Sirup vař na 118 až 120 °C. Bez teploměru poznáš správnou hustotu tak, že kapka sirupu ve studené vodě vytvoří měkkou kuličku; od varu to trvá zhruba 8 až 10 minut."
+    },
+    {
+      "section": "Sníh s rozvarem",
+      "text": "Horký sirup lij tenkým pramínkem do sněhu za stálého šlehání na nejvyšší rychlost. Lij ho po stěně mísy, ne na metly, kde by se rozstříkl a ztuhl. Horký rozvar bílky prohřeje: vznikne italská pěna, bezpečnější a stabilnější než sníh ze syrových bílků s moučkovým cukrem."
+    },
+    {
+      "section": "Sníh s rozvarem",
+      "text": "Šlehej dál 8 až 10 minut, dokud mísa nevychladne na vlažnou a sníh není hustý, lesklý a nedrží na metle ostrou špičku. Nakonec zašlehej vanilkový cukr."
+    },
+    {
+      "section": "Plnění",
+      "text": "Sníh dej do cukrářského sáčku s hvězdičkovou špičkou a vychladlé kremrole naplň z obou stran. Naplněné ulož do lednice a sněz ještě týž den nebo nejpozději druhý den."
+    }
+  ],
+  "tips": [
+    "Trubičky nemáš? Smotej alobal do pevných válečků o průměru 2 cm, nebo obal alobalem kornoutky z tvrdého papíru. Kremrole budou mít jen trochu nepravidelnější tvar.",
+    "Prázdné upečené kremrole vydrží v uzavřené dóze 3 až 4 dny křupavé. Plň je až v den podávání, sníh těsto postupně změkčuje.",
+    "Pro těhotné, malé děti a seniory použij místo čerstvých bílků 130 ml pasterovaných bílků z krabičky; postup se nemění."
+  ],
+  "substitutions": [
+    "Sníh nahradíš šlehačkovým krémem: 250 ml smetany ke šlehání ušlehej s 250 g mascarpone a 40 g moučkového cukru.",
+    "Krystal na posypání můžeš nahradit třtinovým cukrem, kremrole budou o odstín tmavší a karamelovější.",
+    "Kyselinu citronovou nahradíš 3 až 4 kapkami citronové šťávy."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho šlehat sníh do kremrolí?",
+      "a": "Bílky šlehej do pevného sněhu asi 3 až 4 minuty, pak během lití horkého sirupu a ještě 8 až 10 minut, dokud mísa nevychladne na vlažnou. Hotový sníh je lesklý, hustý a na metle drží ostrou špičku."
+    },
+    {
+      "q": "Je sníh do kremrolí bezpečný?",
+      "a": "Se svařeným rozvarem ano: sirup zahřátý na 118 až 120 °C bílky prohřeje a pěna vydrží v lednici do druhého dne. Sníh jen ze syrových bílků a moučkového cukru nese riziko salmonely. Pro těhotné, malé děti a seniory použij pasterované bílky z krabičky."
+    },
+    {
+      "q": "Jak skladovat kremrole?",
+      "a": "Prázdné kremrole skladuj v uzavřené dóze při pokojové teplotě 3 až 4 dny, nebo je zamraz až na měsíc a před plněním 3 minuty přepeč při 180 °C. Naplněné patří do lednice a sníst je máš do 24 hodin."
+    }
+  ]
+}

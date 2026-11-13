@@ -1,0 +1,92 @@
+{
+  "title": "Margarita",
+  "keywords": [
+    "margarita drink",
+    "margarita drink recept",
+    "drink margarita",
+    "margarita ingredience"
+  ],
+  "image": "dish-margarita",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "servings": 1,
+  "activeMinutes": 5,
+  "cookMinutes": 0,
+  "waitMinutes": 5,
+  "waitLabel": "vychlazení sklenice v mrazáku",
+  "difficulty": "střední",
+  "intro": "Margarita drink je mexický koktejl z tequily, pomerančového likéru a čerstvé limetkové šťávy v poměru 2 : 1 : 1, protřepaný s ledem a podávaný ve sklenici se slaným okrajem. Recept je na jednu sklenici. Rozhoduje čerstvá limetka: šťáva z lahvičky dá drinku nepříjemnou pachuť.",
+  "ingredients": [
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na 25 ml šťávy a dílek na okraj"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "hrubá, na okraj sklenice"
+    },
+    {
+      "ingredient": "led",
+      "amount": 200,
+      "unit": "g",
+      "note": "kostky do šejkru"
+    },
+    {
+      "ingredient": "tequila",
+      "amount": 50,
+      "unit": "ml",
+      "note": "stříbrná"
+    },
+    {
+      "ingredient": "pomerancovy-liker",
+      "amount": 25,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Koktejlovou nebo nízkou širokou sklenici dej na 5 minut do mrazáku."
+    },
+    {
+      "text": "Okraj vychlazené sklenice potři dílkem limetky a otoč ho v talířku s hrubou solí. Sůl nanes jen z vnější strany a jen na polovinu obvodu, ať si každý vybere, jestli pít přes sůl."
+    },
+    {
+      "text": "Vymačkej 25 ml limetkové šťávy, to je asi jedna limetka. Do šejkru dej 200 g ledu, nalij 50 ml tequily, 25 ml pomerančového likéru a limetkovou šťávu."
+    },
+    {
+      "text": "Šejkr pevně zavři a protřepávej 12 až 15 sekund, dokud neorosí."
+    },
+    {
+      "text": "Přeceď do připravené sklenice, buď bez ledu, nebo na čerstvé kostky. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Frozen margarita: všechny tekuté suroviny rozmixuj se 150 g ledu do hladka a nalij bez cezení.",
+    "Kdo chce drink sladší, přidá do šejkru 10 ml cukrového sirupu (stejný díl cukru a horké vody).",
+    "Tequilu vybírej se 100 % agáve na etiketě. Levné směsné tequily mají ostřejší chuť."
+  ],
+  "substitutions": [
+    "Nealko varianta: tequilu i likér vynech a s ledem protřepej 25 ml limetkové šťávy, 60 ml pomerančového džusu a 10 ml cukrového sirupu. Přeceď do sklenice se slaným okrajem a dolij 40 ml sodovky.",
+    "Místo pomerančového likéru můžeš použít 15 ml agávového sirupu. Drink bude méně sladký a slabší.",
+    "Mango margarita: přidej 60 g zralého nebo mraženého manga a rozmixuj s ledem."
+  ],
+  "faq": [
+    {
+      "q": "Co je v drinku margarita?",
+      "a": "Tequila, pomerančový likér a čerstvá limetková šťáva v poměru 2 : 1 : 1, tedy 50 ml, 25 ml a 25 ml, protřepané s ledem. Okraj sklenice se obaluje hrubou solí."
+    },
+    {
+      "q": "Jak udělat slaný okraj sklenice?",
+      "a": "Okraj potři dílkem limetky, aby byl vlhký, a otoč ho v talířku s hrubou solí. Sůl dávej jen z vnější strany, aby nepadala do drinku, a klidně jen na polovinu obvodu."
+    },
+    {
+      "q": "Jaká tequila je nejlepší do margarity?",
+      "a": "Stříbrná (blanco) tequila ze 100 % agáve. Má čistou, svěží chuť, která se k limetce hodí nejvíc. Zrající tequila (reposado) dá drinku tóny dřeva a vanilky."
+    }
+  ]
+}

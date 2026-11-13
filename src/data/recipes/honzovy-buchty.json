@@ -1,0 +1,144 @@
+{
+  "title": "Honzovy buchty z hrnku",
+  "keywords": [
+    "honzovy buchty recept",
+    "honzovy buchty hrnkový recept",
+    "recept na honzovy buchty",
+    "recept na hrnkovou buchtu"
+  ],
+  "intro": "Honzovy buchty recept bez vážení: hrnková buchta z polohrubé mouky, mléka a oleje, s povidly a máslovou drobenkou, upečená na plechu 25 × 35 cm. Vyjde 15 kusů a těsto zamícháš za 10 minut. Odměrkou je hrnek o objemu 250 ml; u každé suroviny máš kvůli přesnosti i gramy.",
+  "image": "dish-honzovy-buchty",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 20,
+  "cookMinutes": 35,
+  "waitMinutes": 30,
+  "waitLabel": "chladnutí na plechu",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 300,
+      "unit": "g",
+      "note": "2 hrnky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 200,
+      "unit": "g",
+      "note": "1 hrnek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "1 hrnek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 125,
+      "unit": "ml",
+      "note": "půl hrnku",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "povidla",
+      "amount": 300,
+      "unit": "g",
+      "note": "hustá",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "studené",
+      "group": "Drobenka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Předehřej troubu na 180 °C, horní a spodní ohřev (horkovzduch 170 °C). Plech 25 × 35 cm s vyšším okrajem vymaž tukem a vysyp moukou, nebo ho vylož pečicím papírem."
+    },
+    {
+      "section": "Drobenka",
+      "text": "Hladkou mouku, cukr a studené máslo na kostičky zpracuj prsty na hrubé drobky. Dej je do lednice, dokud nebude těsto na plechu."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vejce s cukrem rozšlehej metlou asi 2 minuty, přilij mléko a olej a promíchej. Polohrubou mouku smíchej s práškem do pečiva a solí a vmíchej ji do tekuté části jen dohladka; dlouhým mícháním by buchta ztuhla."
+    },
+    {
+      "section": "Sestavení",
+      "text": "Těsto vlij na plech a rozetři. Povidla rozmíchej dohladka a lžičkou je rozlož po těstě v pravidelných řadách asi 30 kopečků; od okrajů drž 2 cm. Kopečky lehce vtlač a celé posyp drobenkou."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 30 až 35 minut, dokud není drobenka zlatavá a špejle zapíchnutá do těsta mezi povidly nevyjde suchá."
+    },
+    {
+      "section": "Krájení",
+      "text": "Nech buchtu 30 minut vychladnout na plechu a pak ji nakrájej na 15 kusů. Teplá povidla se při krájení roztírají."
+    }
+  ],
+  "tips": [
+    "U hrnkového receptu drž celou dobu jeden hrnek. Mouku do něj sypej lžící a neudusávej ji, jinak jí bude víc a buchta vyjde suchá.",
+    "Povidla nedávej až k okraji plechu, tam se připalují.",
+    "Buchta vydrží zakrytá utěrkou nebo v dóze 3 dny; povidla ji drží vláčnou."
+  ],
+  "substitutions": [
+    "Povidla nahradíš 500 g půlených švestek nebo meruněk řezem nahoru.",
+    "Olej můžeš nahradit stejným objemem rozpuštěného másla, buchta bude máslovější.",
+    "Polovinu mléka nahraď bílým jogurtem, těsto bude vláčnější."
+  ],
+  "faq": [
+    {
+      "q": "Kolik gramů je hrnek mouky?",
+      "a": "V hrnku o objemu 250 ml je zhruba 150 g polohrubé mouky, 140 g hladké mouky, 200 g krupicového cukru a 130 g moučkového cukru. Proto je u tohoto receptu vedle hrnků uvedená i váha."
+    },
+    {
+      "q": "Proč povidla v buchtě klesla ke dnu?",
+      "a": "Byla řídká, nebo bylo řídké těsto. Použij hustá povidla, rozmíchej je jen dohladka bez vody a pokládej je na těsto až na plechu, nemíchej je do něj."
+    },
+    {
+      "q": "Jak dlouho péct buchtu na plech?",
+      "a": "Při 180 °C (horkovzduch 170 °C) 30 až 35 minut. Hotová je, když je povrch zlatavý a špejle vyjde suchá; u vyššího pekáče počítej s 40 minutami."
+    }
+  ]
+}

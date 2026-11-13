@@ -1,0 +1,20 @@
+{
+  "name": "Okrajky korpusu v kelímku",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "dessert",
+  "section": "Malé sladké",
+  "description": "Odřezky ze zarovnávání dortů. Nejlepší část pečení, kterou doma sníš potají u linky.",
+  "price": 4500,
+  "image": "dish-okrajky-korpusu-ani-patro",
+  "recipe": null,
+  "about": [],
+  "optionGroups": [],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 80
+}

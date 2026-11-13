@@ -1,0 +1,136 @@
+{
+  "title": "Hraběnčiny řezy",
+  "keywords": [
+    "hraběnčiny řezy recept",
+    "recept na hraběnčiny řezy",
+    "hraběnčiny řezy",
+    "řezy recept"
+  ],
+  "intro": "Hraběnčiny řezy recept na klasický český zákusek ze tří vrstev: křehké máslové těsto, rybízový džem a sněhová pěna s vlašskými ořechy. Na plech 25 × 35 cm vyjde 20 řezů. Těsto se nejdřív předpeče, aby pod džemem nezůstalo syrové, a sníh pak potřebuje nižší teplotu, aby zezlátl a nespálil se.",
+  "image": "dish-hrabencin-rez-z-vitriny",
+  "category": "dorty",
+  "servings": 12,
+  "activeMinutes": 40,
+  "cookMinutes": 45,
+  "waitMinutes": 90,
+  "waitLabel": "chlazení těsta a chladnutí řezů",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Křehké těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Křehké těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Křehké těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "žloutky do těsta, bílky na sníh",
+      "group": "Křehké těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 6,
+      "unit": "g",
+      "note": "půl sáčku",
+      "group": "Křehké těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen nastrouhaná kůra",
+      "group": "Křehké těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Křehké těsto"
+    },
+    {
+      "ingredient": "dzem-rybizovy",
+      "amount": 250,
+      "unit": "g",
+      "group": "Džem"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 200,
+      "unit": "g",
+      "group": "Ořechový sníh"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 150,
+      "unit": "g",
+      "note": "nahrubo nasekané",
+      "group": "Ořechový sníh"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej s moučkovým cukrem, práškem do pečiva, solí a citronovou kůrou. Přidej studené máslo a prsty ho rychle zpracuj na drobky. Přidej 4 žloutky a spoj hladké těsto; dlouho nehněť, máslo by se rozteklo. Zabal ho do fólie a dej na 30 minut do lednice."
+    },
+    {
+      "section": "Těsto",
+      "text": "Předehřej troubu na 180 °C, horní a spodní ohřev (horkovzduch 170 °C). Těsto rozválej nebo rozmačkej prsty na plech 25 × 35 cm vyložený pečicím papírem a hustě ho propíchej vidličkou."
+    },
+    {
+      "section": "Těsto",
+      "text": "Předpeč 12 až 15 minut do světle zlatové barvy. Pak stáhni troubu na 160 °C (horkovzduch 150 °C) a teplý korpus potři rybízovým džemem."
+    },
+    {
+      "section": "Sníh",
+      "text": "Bílky ušlehej do tuha, po lžících přidávej cukr a šlehej asi 5 minut, dokud není sníh pevný, lesklý a cukr mezi prsty neskřípe. Stěrkou do něj vmíchej nasekané ořechy."
+    },
+    {
+      "section": "Pečení",
+      "text": "Sníh rozetři na džem až k okrajům a lžící na něm udělej vlnky. Peč 25 až 30 minut, dokud sníh nemá zlatavou kůrčičku a při lehkém dotyku se nelepí."
+    },
+    {
+      "section": "Krájení",
+      "text": "Nech řezy úplně vychladnout na plechu, aspoň hodinu. Krájej ostrým nožem namáčeným v horké vodě na 20 kusů; nůž veď jedním tahem dolů, ne pilováním."
+    }
+  ],
+  "tips": [
+    "Rybízový džem dává potřebnou kyselost proti sladkému sněhu. Když ho nemáš, funguje i meruňkový nebo brusinkový.",
+    "Ořechy si nasucho opraž 5 minut na pánvi a nech vychladnout. Chutnají výrazněji a ve sněhu nezvlhnou.",
+    "Řezy skladuj v uzavřené dóze při pokojové teplotě 3 až 4 dny. V lednici sníh vlhne a lepí se."
+  ],
+  "substitutions": [
+    "Vlašské ořechy nahradíš lískovými ořechy nebo nasekanými mandlemi.",
+    "Moučkový cukr v těstě nahradíš krupicovým, těsto bude jen o něco hrubší.",
+    "Polovinu rybízového džemu můžeš nahradit hustými švestkovými povidly; řezy budou sladší a tmavší."
+  ],
+  "faq": [
+    {
+      "q": "Proč sníh na hraběnčiných řezech slzí?",
+      "a": "Cukr se ve sněhu nerozpustil, nebo jsou řezy uložené ve vlhku. Cukr přidávej po lžících a šlehej, dokud sníh není lesklý a hladký, a peč při nižší teplotě, dokud nemá suchou kůrčičku. Hotové řezy nedávej do lednice."
+    },
+    {
+      "q": "Jak krájet hraběnčiny řezy, aby se sníh nedrolil?",
+      "a": "Až po úplném vychladnutí a ostrým nožem namočeným v horké vodě. Nůž po každém řezu otři a veď ho jedním tahem dolů. Teplý sníh se trhá a drobí."
+    },
+    {
+      "q": "Jak dlouho vydrží hraběnčiny řezy?",
+      "a": "Při pokojové teplotě v uzavřené dóze 3 až 4 dny. Druhý den je těsto od džemu nejvláčnější. Zamrazit je nedoporučujeme, sníh po rozmražení měkne."
+    }
+  ]
+}

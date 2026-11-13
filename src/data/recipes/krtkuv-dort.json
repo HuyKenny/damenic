@@ -1,0 +1,167 @@
+{
+  "title": "Krtkův dort",
+  "keywords": [
+    "krtkův dort recept",
+    "recept na krtkův dort",
+    "narozeninový krtkův dort",
+    "krtkův dort na plech recept"
+  ],
+  "image": "dish-krtkuv-dort",
+  "category": "dorty",
+  "occasions": [
+    "narozeniny"
+  ],
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 40,
+  "cookMinutes": 35,
+  "waitMinutes": 240,
+  "waitLabel": "chladnutí korpusu a tuhnutí v lednici",
+  "difficulty": "snadné",
+  "intro": "Krtkův dort recept bez hotové směsi z krabice: kakaový korpus ve formě o průměru 24 cm, banány a šlehačkový krém s nastrouhanou čokoládou, celé obalené drobky do tvaru krtince. Krém drží díky mascarpone. Korpus musí úplně vychladnout, jinak se krém na banánech rozteče.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 200,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 25,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "banan",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva, aby banány nehnědly",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 500,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mascarpone",
+      "amount": 250,
+      "unit": "g",
+      "note": "studené",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "note": "vychlazená, nastrouhaná",
+      "group": "Náplň"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpus",
+      "text": "Troubu předehřej na 180 °C (horkovzduch 170 °C), dno formy o průměru 24 cm vylož papírem a boky vymaž."
+    },
+    {
+      "text": "Vejce s cukrem šlehej 5 minut do světlé pěny. Za stálého šlehání přilij olej a mléko. Mouku, kakao, prášek do pečiva a sůl smíchej a stěrkou vmíchej do těsta jen do spojení."
+    },
+    {
+      "text": "Těsto nalij do formy a peč 30 až 35 minut, dokud špejle nevyjde suchá. Nech úplně vychladnout, aspoň 2 hodiny."
+    },
+    {
+      "section": "Krtinec",
+      "text": "Lžící vydlabej střed korpusu, dno a okraj nech silné asi 1 cm. Vydlabaný korpus rozdrob mezi prsty na jemné drobky a dej stranou."
+    },
+    {
+      "text": "Banány rozpůl podélně, pokapej citronovou šťávou a skládej je řezem dolů na dno vydlabaného korpusu."
+    },
+    {
+      "text": "Studenou smetanu, mascarpone, moučkový a vanilkový cukr šlehej 2 až 3 minuty do pevného krému. Stěrkou vmíchej strouhanou čokoládu."
+    },
+    {
+      "text": "Krém navrš na banány do vysoké kopule a uhlaď ji. Celou kopuli obal drobky z korpusu a jemně je přitlač dlaní. Dort dej aspoň na 2 hodiny do lednice."
+    }
+  ],
+  "tips": [
+    "Čokoládu strouhej vychlazenou. Z teplé se dělají mazlavé kousky.",
+    "Krtkův dort vydrží v lednici 2 dny, pak začínají banány tmavnout. Nejlepší je první den.",
+    "Krtkův dort na plech: zdvojnásob korpus i krém a korpus peč na hlubokém plechu 30 × 40 cm asi 25 minut. Vršek seškrab lžící na drobky, poklaď banány, rozetři krém a posyp drobky."
+  ],
+  "substitutions": [
+    "Místo mascarpone můžeš použít 250 g měkkého tvarohu. Krém bude lehčí a kyselejší, přidej o 20 g cukru víc.",
+    "Hořkou čokoládu nahraď mléčnou, pro děti je jemnější."
+  ],
+  "faq": [
+    {
+      "q": "Proč se krém na krtkův dort rozteče?",
+      "a": "Smetana nebyla dost studená nebo dost tučná, nebo šel krém na teplý korpus. Používej smetanu ke šlehání aspoň 31 % přímo z lednice a mascarpone, které krém zpevní."
+    },
+    {
+      "q": "Jak udělat krtkův dort bez krabice?",
+      "a": "Stačí obyčejný kakaový korpus, který vydlabeš, banány a šlehačka s nastrouhanou čokoládou. Hotová směs obsahuje totéž, jen v prášku a se ztužovačem."
+    },
+    {
+      "q": "Kolik banánů dát do krtkova dortu?",
+      "a": "Do formy o průměru 24 cm 3 až 4 banány podle velikosti. Mají pokrýt celé dno vydlabaného korpusu v jedné vrstvě."
+    }
+  ]
+}

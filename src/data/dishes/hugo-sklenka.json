@@ -1,0 +1,42 @@
+{
+  "name": "Hugo",
+  "restaurant": "koktejlbar-prazdna-sklenka",
+  "kind": "main",
+  "section": "Spritzy a long drinky",
+  "description": "Prosecco s bezinkovým sirupem, mátou a limetkou. Spritz pro ty, kdo nemají rádi hořké.",
+  "about": [
+    "Hugo je spritz pro ty, kdo nemají rádi hořké. Prosecco, bezinkový sirup, sodovka, lístky máty a dvě kolečka limetky. Voní jako louka v červnu a na sklenici stačí 20 ml sirupu, víc by z něj udělalo limonádu.",
+    "Bezinka kvete jen pár týdnů, sirup vydrží celý rok. Náš bar nevydrží ani do zítřka, protože je smyšlený a alkohol nalévá jen plnoletým. Recept ale funguje na každé terase."
+  ],
+  "price": 15900,
+  "image": "dish-hugo-sklenka",
+  "recipe": "hugo",
+  "optionGroups": [
+    {
+      "id": "varianta",
+      "name": "Varianta",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "s-alkoholem",
+          "name": "S alkoholem (jen 18+)",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-alkoholu",
+          "name": "Bez alkoholu",
+          "priceDelta": -3000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    12
+  ],
+  "featured": false,
+  "order": 50
+}

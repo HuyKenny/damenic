@@ -1,0 +1,142 @@
+{
+  "title": "Cuketová buchta s kakaem a ořechy",
+  "keywords": [
+    "cuketová buchta recept",
+    "recept na cuketovou buchtu",
+    "buchta z cukety recept",
+    "recept na buchtu z cukety"
+  ],
+  "intro": "Cuketová buchta recept na šťavnatou kakaovou buchtu s vlašskými ořechy a čokoládovou polevou. Cuketa v ní není cítit, jen drží těsto vlhké. Vyjde 15 kusů z pekáče 20 × 30 cm; cuketu stačí najemno nastrouhat a jen lehce vymačkat.",
+  "image": "dish-cuketova-buchta",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 25,
+  "cookMinutes": 40,
+  "waitMinutes": 60,
+  "waitLabel": "chladnutí a ztuhnutí polevy",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "cuketa",
+      "amount": 350,
+      "unit": "g",
+      "note": "najemno nastrouhaná se slupkou",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 180,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 120,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 80,
+      "unit": "g",
+      "note": "nahrubo nasekané",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Předehřej troubu na 180 °C, horní a spodní ohřev (horkovzduch 170 °C). Pekáč 20 × 30 cm vylož pečicím papírem. Cuketu nastrouhej najemno a v dlaních ji lehce vymačkej, aby z ní netekla voda; úplně suchá být nemá."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vejce s cukrem rozšlehej metlou do pěny a přilij olej. Mouku smíchej s kakaem, práškem do pečiva, skořicí a solí."
+    },
+    {
+      "section": "Těsto",
+      "text": "Do vajec vmíchej střídavě mouku a cuketu, jen dohladka. Nakonec vmíchej ořechy. Těsto je hustší a cuketa ho během pečení zvláční."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto rozetři v pekáči a peč 35 až 40 minut, dokud povrch nepruží a špejle zapíchnutá doprostřed nevyjde suchá, jen s pár vlhkými drobky."
+    },
+    {
+      "section": "Poleva",
+      "text": "Čokoládu rozpusť s olejem ve vodní lázni nebo v mikrovlnce po 20 sekundách. Rozetři ji na vlažnou buchtu, nech ztuhnout aspoň 30 minut a nakrájej na 15 kusů."
+    }
+  ],
+  "tips": [
+    "Mladou cuketu strouhej i se slupkou. Velkou přerostlou oloupej a vydlabej z ní semínka.",
+    "Cuketová buchta vydrží v uzavřené dóze 3 až 4 dny, v teplém počasí ji ulož do lednice. Bez polevy se dá zamrazit na 2 měsíce.",
+    "Nastrouhanou cuketu můžeš zamrazit na zimu po 350 g. Po rozmražení ji vymačkej důkladněji, pouští víc vody."
+  ],
+  "substitutions": [
+    "Ořechy nahradíš 80 g kousků hořké čokolády.",
+    "Na světlou buchtu vynech kakao a přidej nastrouhanou kůru z jednoho citronu.",
+    "Olej nahradíš 120 g rozpuštěného másla."
+  ],
+  "faq": [
+    {
+      "q": "Je cuketa v buchtě cítit?",
+      "a": "Není. Najemno nastrouhaná cuketa se při pečení rozpadne a v těstě zůstane jen vlhkost; kakao a skořice případnou zeleninovou chuť úplně překryjí."
+    },
+    {
+      "q": "Musím cuketu na buchtu loupat?",
+      "a": "Mladou cuketu ne, slupka je tenká a po nastrouhání zmizí. Velkou přerostlou cuketu oloupej a odstraň semínka, která jsou tvrdá a vodnatá."
+    },
+    {
+      "q": "Proč je cuketová buchta uvnitř mazlavá?",
+      "a": "Cuketa byla příliš vodnatá, nebo buchta nebyla dopečená. Cuketu lehce vymačkej a peč, dokud špejle nevyjde suchá. U rozmražené cukety to platí dvojnásob, pouští víc vody."
+    }
+  ]
+}

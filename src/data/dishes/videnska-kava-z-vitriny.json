@@ -1,0 +1,40 @@
+{
+  "name": "Vídeňská káva",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Silná černá káva pod čepicí šlehačky, poprášená kakaem. Čepice drží, káva nedorazí.",
+  "about": [],
+  "price": 7900,
+  "image": "dish-videnska-kava-z-vitriny",
+  "recipe": null,
+  "optionGroups": [
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "slehacka",
+          "name": "Šlehačka navíc",
+          "priceDelta": 1500
+        },
+        {
+          "id": "cokolada",
+          "name": "Strouhaná čokoláda",
+          "priceDelta": 1000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 90
+}

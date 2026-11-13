@@ -1,0 +1,33 @@
+{
+  "name": "Koktejlbar Prázdná sklenka",
+  "category": "koktejly",
+  "cuisine": "Koktejly, spritzy a nealko drinky",
+  "tagline": "Máta voní, led chrastí. Sklenka zůstane prázdná.",
+  "description": "Mojito, spritz, gin tonic a espresso martini s přesností na mililitry, k tomu olivy a pražené mandle. Bar je smyšlený a alkohol je jen pro 18+, takže nikomu nic nenalijeme. Recepty na doma platí, i ty bez alkoholu.",
+  "etaMinutes": 25,
+  "deliveryFee": 3900,
+  "minOrder": 19900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "17:00",
+    "close": "02:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa"
+  ],
+  "isNew": true,
+  "logo": {
+    "text": "PS",
+    "color": "#1F3A4D",
+    "ink": "light"
+  },
+  "cover": "rest-koktejlbar-prazdna-sklenka",
+  "sections": [
+    "Klasiky",
+    "Spritzy a long drinky",
+    "K tomu",
+    "Nápoje"
+  ],
+  "order": 270
+}

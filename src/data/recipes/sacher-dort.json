@@ -1,0 +1,144 @@
+{
+  "title": "Sacher dort s meruňkovým džemem",
+  "keywords": [
+    "sacher dort recept",
+    "sachrův dort recept",
+    "čokoládový dort s meruňkovým džemem"
+  ],
+  "image": "dish-sacher-dort-dilek",
+  "category": "dorty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 50,
+  "cookMinutes": 55,
+  "waitMinutes": 300,
+  "waitLabel": "chladnutí korpusu a tuhnutí polevy",
+  "difficulty": "náročnější",
+  "intro": "Sacher dort recept na vídeňskou klasiku: hutný čokoládový korpus z másla a hořké čokolády, tenká vrstva meruňkového džemu a lesklá čokoládová poleva. Peče se ve formě o průměru 22 cm. Korpus nekypří prášek do pečiva, ale sníh z bílků, takže rozhoduje, jak opatrně se do těsta vmíchá.",
+  "ingredients": [
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 130,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 130,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 6,
+      "unit": "ks",
+      "note": "žloutky a bílky zvlášť",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 130,
+      "unit": "g",
+      "note": "prosátá",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "dzem-merunkovy",
+      "amount": 200,
+      "unit": "g",
+      "group": "Džem"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpus",
+      "text": "Troubu předehřej na 170 °C (horkovzduch 160 °C). Dno formy o průměru 22 cm vylož papírem, boky vymaž máslem a vysyp moukou. Čokoládu rozpusť nad vodní lázní a nech ji zchladnout na vlažnou, asi 30 °C."
+    },
+    {
+      "text": "Změklé máslo šlehej s moučkovým a vanilkovým cukrem 3 minuty do světla. Přidávej po jednom žloutky a každý zapracuj, nakonec vmíchej vlažnou čokoládu."
+    },
+    {
+      "text": "Bílky se solí ušlehej do měkkých špiček, postupně přisyp krystal a šlehej do pevného lesklého sněhu, který se ještě neláme."
+    },
+    {
+      "text": "Do čokoládové hmoty vmíchej třetinu sněhu, aby povolila. Pak střídavě vmíchávej prosátou mouku a zbytek sněhu, stěrkou ode dna nahoru, jen do spojení."
+    },
+    {
+      "text": "Těsto rozetři do formy a peč 50 až 60 minut. Hotový korpus je na povrchu suchý, při stisku pruží a špejle vyjde suchá. Nech ho 10 minut ve formě, pak vyklop na mřížku a nech vychladnout, nejlépe přes noc."
+    },
+    {
+      "section": "Džem a poleva",
+      "text": "Korpus rozkroj vodorovně na dva pláty. Džem prohřej s lžící vody a propasíruj. Spodní plát potři polovinou džemu, přiklop horním a zbytkem horkého džemu potři vršek i boky. Nech 30 minut zaschnout."
+    },
+    {
+      "text": "Smetanu zahřej těsně pod var, nalij ji na nalámanou čokoládu, nech 2 minuty stát a pak míchej s máslem do lesklé hmoty. Při asi 35 °C ji nalij najednou doprostřed dortu, jedním až dvěma tahy rozetři po vršku a nech stéct po bocích. Nech ztuhnout aspoň 2 hodiny v chladné místnosti."
+    }
+  ],
+  "tips": [
+    "Sacher dort se podává s neslazenou šlehačkou, která vyvažuje hutný korpus a sladkou polevu.",
+    "Dort vydrží v chladu pod poklopem 4 až 5 dní, druhý den je korpus vláčnější. Krájej ho nožem namočeným v horké vodě a osušeným.",
+    "Klasická poleva se vaří z cukru, vody a čokolády na teplotu asi 110 °C. Poleva ze smetany a čokolády je doma spolehlivější, jen je měkčí."
+  ],
+  "substitutions": [
+    "Meruňkový džem můžeš nahradit rybízovým, dort bude kyselejší.",
+    "Část mouky (30 g) nahraď mletými mandlemi, korpus bude vláčnější.",
+    "Polevu můžeš udělat napůl z hořké a mléčné čokolády. Pak dej o 30 ml smetany méně."
+  ],
+  "faq": [
+    {
+      "q": "Čím se liší Sacher dort od obyčejného čokoládového dortu?",
+      "a": "Sacher dort má hutný korpus kypřený jen sněhem z bílků, meruňkový džem mezi pláty i pod polevou a tenkou čokoládovou polevu. Krém nemá žádný."
+    },
+    {
+      "q": "Proč je Sacher dort suchý?",
+      "a": "Pekl se moc dlouho, nebo se málo potřel džemem. Džem na všech plochách drží vlhkost, proto ho nevynechávej ani na bocích. Korpus zkoušej špejlí už po 45 minutách."
+    },
+    {
+      "q": "Musí Sacher dort odležet?",
+      "a": "Nemusí, ale druhý den je lepší. Korpus vsákne vlhkost z džemu, chutě se propojí a dort se lépe krájí."
+    }
+  ]
+}

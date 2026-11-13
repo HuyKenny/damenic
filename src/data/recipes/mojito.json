@@ -1,0 +1,104 @@
+{
+  "title": "Mojito",
+  "keywords": [
+    "mojito",
+    "mojito recept",
+    "recept na mojito",
+    "jak se dělá mojito",
+    "bílý rum na mojito"
+  ],
+  "image": "dish-mojito-sklenka",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "occasions": [
+    "grilovani"
+  ],
+  "servings": 1,
+  "activeMinutes": 5,
+  "cookMinutes": 0,
+  "waitMinutes": 5,
+  "waitLabel": "vychlazení sklenice v mrazáku",
+  "difficulty": "snadné",
+  "intro": "Mojito je kubánský long drink z bílého rumu, limetky, třtinového cukru, čerstvé máty a sodovky na drceném ledu. Recept je na jednu sklenici. Nejčastější chyba je máta utlučená na kaši: lístky se mají jen lehce přitlačit, aby pustily vůni, jinak drink zhořkne.",
+  "ingredients": [
+    {
+      "ingredient": "limetka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na 4 dílky"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 0.2,
+      "unit": "ks",
+      "note": "asi 10 lístků a snítka na ozdobu"
+    },
+    {
+      "ingredient": "led",
+      "amount": 200,
+      "unit": "g",
+      "note": "drcený"
+    },
+    {
+      "ingredient": "rum-bily",
+      "amount": 50,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "perliva-voda",
+      "amount": 80,
+      "unit": "ml",
+      "note": "sodovka, vychlazená"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vysokou sklenici (highball, asi 350 ml) dej na 5 minut do mrazáku."
+    },
+    {
+      "text": "Do sklenice dej půlku limetky nakrájenou na 4 dílky a 2 lžičky třtinového cukru. Tloučkem limetku 4 až 5krát pevně přitlač, aby pustila šťávu a cukr se v ní začal rozpouštět."
+    },
+    {
+      "text": "Přidej asi 10 lístků máty. Nejdřív je jednou plácni mezi dlaněmi, pak je tloučkem jen 2 až 3krát lehce přitlač ke dnu. Lístky mají zůstat celé, ne rozdrcené na kaši."
+    },
+    {
+      "text": "Ledové kostky zabal do čisté utěrky a paličkou na maso nebo dnem rendlíku je rozdrť. Sklenici naplň drceným ledem do tří čtvrtin."
+    },
+    {
+      "text": "Nalij 50 ml bílého rumu a dlouhou lžící promíchej zdola nahoru, aby se máta a limetka rozprostřely mezi ledem."
+    },
+    {
+      "text": "Dolij 60 až 80 ml vychlazené sodovky, dosyp drcený led nad okraj a ozdob snítkou máty. Podávej s brčkem."
+    }
+  ],
+  "tips": [
+    "Snítku máty na ozdobu plácni o hřbet ruky, než ji zapíchneš do ledu. Uvolní se vůně a cítíš ji při každém napití.",
+    "Třtinový cukr se v rumu rozpouští pomalu. Kdo nechce cukr na dně, použije místo něj 20 ml cukrového sirupu (stejný díl cukru a horké vody).",
+    "Na džbán pro šest lidí suroviny vynásob šesti, ale limetku a mátu mačkej po dávkách a sodovku dolévej až do jednotlivých sklenic."
+  ],
+  "substitutions": [
+    "Nealko mojito: rum vynech a místo něj dolij dalších 60 ml sodovky, nebo 40 ml sodovky a 20 ml jablečného moštu. Podrobně je to v receptu na virgin mojito.",
+    "Jahodové mojito: s limetkou a cukrem rozmačkej 3 jahody, zbytek postupu je stejný.",
+    "Místo třtinového cukru můžeš použít 2 lžičky bílého cukru. Mojito pak má čistší chuť bez karamelového tónu."
+  ],
+  "faq": [
+    {
+      "q": "Co se dává do mojita?",
+      "a": "Bílý rum, limetka, třtinový cukr, čerstvá máta, sodovka a drcený led. Na jednu sklenici 50 ml rumu, půl limetky, 2 lžičky cukru, asi 10 lístků máty a 60 až 80 ml sodovky."
+    },
+    {
+      "q": "Jak se dělá mojito?",
+      "a": "Ve sklenici rozmačkej limetku s cukrem, přidej mátu a jen ji lehce přitlač, nasyp drcený led, nalij rum, promíchej zdola nahoru a dolij sodovkou. Celé to trvá asi pět minut."
+    },
+    {
+      "q": "Jaký rum je nejlepší na mojito?",
+      "a": "Bílý lehký rum, který nepřebije mátu a limetku. Tmavý rum mojito ztmaví a dodá mu karamelovou chuť. Tuzemák není rum, ale lihovina s rumovým aroma, a do mojita se nehodí."
+    }
+  ]
+}

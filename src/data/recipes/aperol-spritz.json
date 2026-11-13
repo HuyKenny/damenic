@@ -1,0 +1,96 @@
+{
+  "title": "Aperol Spritz",
+  "keywords": [
+    "aperol spritz",
+    "aperol spritz recept",
+    "aperol spritz poměr",
+    "jak se dělá aperol spritz",
+    "nealko aperol spritz"
+  ],
+  "image": "dish-oranzovy-spritz-sklenka",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "occasions": [
+    "grilovani"
+  ],
+  "servings": 1,
+  "activeMinutes": 3,
+  "cookMinutes": 0,
+  "waitMinutes": 7,
+  "waitLabel": "vychlazení sklenice v mrazáku",
+  "difficulty": "snadné",
+  "intro": "Aperol Spritz je italský aperitiv z prosecca, hořkého pomerančového aperitivu a sodovky v poměru 3 : 2 : 1, tedy 90 ml, 60 ml a 30 ml na jednu sklenici. Těžké na něm není nic kromě pořadí a teploty: všechno musí být vychlazené, ledu má být sklenice plná a prosecco se nalévá jako první, aby se drink skoro nemusel míchat a neztratil bublinky.",
+  "ingredients": [
+    {
+      "ingredient": "led",
+      "amount": 150,
+      "unit": "g",
+      "note": "kostky, sklenice plná po okraj"
+    },
+    {
+      "ingredient": "prosecco",
+      "amount": 90,
+      "unit": "ml",
+      "note": "dobře vychlazené"
+    },
+    {
+      "ingredient": "horky-pomerancovy-aperitiv",
+      "amount": 60,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "perliva-voda",
+      "amount": 30,
+      "unit": "ml",
+      "note": "sodovka, vychlazená"
+    },
+    {
+      "ingredient": "pomeranc",
+      "amount": 0.2,
+      "unit": "ks",
+      "note": "1 kolečko na ozdobu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Velkou sklenici na víno (balonek, asi 400 ml) dej na 5 až 10 minut do mrazáku. Kdo spěchá, naplní ji ledem s vodou a před mícháním vodu vylije."
+    },
+    {
+      "text": "Sklenici naplň ledovými kostkami až po okraj. Čím víc ledu, tím pomaleji taje a drink se méně ředí."
+    },
+    {
+      "text": "Po stěně sklenice nalij 90 ml vychlazeného prosecca, pak 60 ml hořkého pomerančového aperitivu a nakonec 30 ml sodovky. Poměr 3 : 2 : 1 platí i pro větší sklenici, jen se násobí."
+    },
+    {
+      "text": "Jednou zlehka promíchej lžící zdola nahoru, aby těžší aperitiv nezůstal na dně. Víc nemíchej, bublinky by vyprchaly."
+    },
+    {
+      "text": "Kolečko pomeranče zasuň mezi led a stěnu sklenice a podávej hned."
+    }
+  ],
+  "tips": [
+    "Prosecco nalévej po stěně sklenice jako pivo, ne zprudka doprostřed. Zůstane v něm víc bublinek.",
+    "Otevřené prosecco vydrží v lednici se zátkou na šumivé víno 1 až 2 dny, pak už nešumí.",
+    "Komu je drink moc hořký, ubere aperitiv na 45 ml a přidá 15 ml sodovky. Sladší a méně hořký bude i s plátkem pomeranče rozmačkaným na dně."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo prosecca nalij 90 ml nealkoholického šumivého vína a místo aperitivu 60 ml nealko hořkého aperitivu (prodává se jako nealko bitter nebo spritz). Když ho nemáš, poslouží 50 ml růžového grepového džusu a 10 ml grenadiny.",
+    "Místo prosecca se hodí jakékoli suché šumivé víno (brut nebo extra dry), třeba cava nebo český sekt.",
+    "Místo sodovky můžeš dolít perlivou minerálku, jen ne výrazně slanou."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je poměr na Aperol Spritz?",
+      "a": "Klasický poměr je 3 : 2 : 1: tři díly prosecca, dva díly hořkého pomerančového aperitivu a jeden díl sodovky. Na jednu sklenici to je 90 ml prosecca, 60 ml aperitivu a 30 ml sodovky, k tomu sklenice plná ledu."
+    },
+    {
+      "q": "Jak se dělá Aperol Spritz?",
+      "a": "Do vychlazené sklenice na víno dej led až po okraj, nalij prosecco, pak aperitiv a nakonec sodovku. Jednou zlehka promíchej zdola nahoru a ozdob kolečkem pomeranče. Celé to trvá asi tři minuty."
+    },
+    {
+      "q": "Kolik procent alkoholu má Aperol Spritz?",
+      "a": "Asi 8 až 9 %. Aperitiv i prosecco mají kolem 11 % a sodovka s tajícím ledem drink ředí. Jedna sklenice podle tohoto receptu obsahuje zhruba 16 ml čistého alkoholu, tedy asi 13 g. Drink je jen pro dospělé."
+    }
+  ]
+}

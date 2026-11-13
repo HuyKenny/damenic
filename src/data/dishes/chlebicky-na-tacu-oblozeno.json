@@ -1,0 +1,45 @@
+{
+  "name": "Obložené chlebíčky na tácu",
+  "kind": "main",
+  "section": "Chlebíčky",
+  "description": "Šikmá veka, jemný bramborový salát, zamotaná šunka nebo sýr, vajíčko a vějířek okurky. Půl tácu šunkového, půl sýrového.",
+  "about": [
+    "Chlebíček se pozná podle šunky. Plátek se přeloží napůl, stočí do kornoutku a sedí na kopečku salátu jako klobouk. Vedle něj kolečko vejce, vějířek okurky a tečka majonézy, nic víc. Zbytek práce dělá veka, která se krájí šikmo, aby byl plátek delší.",
+    "Doma je nejtěžší načasování: salát den předem, skládat nejvýš 3 až 4 hodiny před oslavou a hned do lednice. V receptu je podkladový salát i skládání krok za krokem. Tác máme připravený. Obložený je zatím ničím."
+  ],
+  "price": 17900,
+  "recipe": "chlebicky",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "6ks",
+          "name": "6 kusů",
+          "priceDelta": 0
+        },
+        {
+          "id": "12ks",
+          "name": "12 kusů",
+          "priceDelta": 15900
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "allergens": [
+    1,
+    3,
+    7,
+    10
+  ],
+  "featured": true,
+  "order": 10,
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "image": "dish-chlebicky-na-tacu-oblozeno",
+  "spicy": 0,
+  "vegan": false
+}

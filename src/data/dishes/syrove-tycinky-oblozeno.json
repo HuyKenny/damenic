@@ -1,0 +1,22 @@
+{
+  "name": "Sýrové tyčinky ve sklenici",
+  "kind": "side",
+  "section": "Saláty a slané",
+  "description": "Kroucené tyčinky z listového těsta s eidamem, kmínem a sezamem. Ve sklenici na výšku, ať se berou samy.",
+  "price": 6900,
+  "recipe": null,
+  "vegetarian": true,
+  "allergens": [
+    1,
+    3,
+    7,
+    11
+  ],
+  "order": 60,
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "image": "dish-syrove-tycinky-oblozeno",
+  "about": [],
+  "optionGroups": [],
+  "spicy": 0,
+  "vegan": false
+}

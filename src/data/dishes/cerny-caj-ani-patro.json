@@ -1,0 +1,17 @@
+{
+  "name": "Černý čaj s citronem",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Konvička černého čaje s plátkem citronu, aby dort na talíři nebyl tak sám.",
+  "price": 5900,
+  "image": "dish-cerny-caj-ani-patro",
+  "recipe": null,
+  "about": [],
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 100
+}

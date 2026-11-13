@@ -1,0 +1,56 @@
+{
+  "name": "Red velvet",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Krémové a ovocné",
+  "description": "Sametový červený korpus s podmáslím a krém ze smetanového sýra, okraj posypaný drobky.",
+  "price": 14900,
+  "image": "dish-red-velvet-dilek",
+  "recipe": "red-velvet-dort",
+  "about": [
+    "Red velvet vypadá jako čokoládový dort, který se začervenal. Kakaa má jen lžíci, chuť dělá kyselost podmáslí a octa a krém ze smetanového sýra, který vyvažuje sladký korpus.",
+    "Barvu dodává gelové barvivo, protože tekuté by těsto zředilo. U nás je dílek červený jen v popisu. Doma bude i na talíři."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "dilek",
+          "name": "Dílek",
+          "priceDelta": 0
+        },
+        {
+          "id": "cely",
+          "name": "Celý dort 20 cm (12 dílků)",
+          "priceDelta": 90000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "svicky",
+          "name": "Dortové svíčky (10 ks)",
+          "priceDelta": 2900
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 30
+}

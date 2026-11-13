@@ -1,0 +1,42 @@
+{
+  "name": "Jednohubky na párátku, čtyři druhy",
+  "kind": "main",
+  "section": "Jednohubky",
+  "description": "Kolečka bagety s česnekovou pomazánkou: šunka s okurkou, eidam s olivou, mozzarella s rajčátkem a salám s paprikou.",
+  "about": [
+    "Jednohubka má jedno pravidlo, má ho v názvu. Kolečko bagety, lžička pomazánky a nahoře tři věci na párátku, které se vejdou do pusy najednou. Čtyři druhy po dvanácti kusech stačí, aby si každý našel svůj a tác vypadal pestře.",
+    "Pomazánka tu nedělá jen chuť, je to lepidlo a zároveň ochrana, aby pečivo nenasáklo. Recept ti řekne, kolik kusů počítat na osobu a kdy začít skládat. Párátka máme nachystaná. Napíchnout na ně není co."
+  ],
+  "price": 18900,
+  "recipe": "jednohubky",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "12ks",
+          "name": "12 kusů (3 od každého)",
+          "priceDelta": 0
+        },
+        {
+          "id": "24ks",
+          "name": "24 kusů",
+          "priceDelta": 16900
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 20,
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "image": "dish-jednohubky-tac-oblozeno",
+  "spicy": 0,
+  "vegan": false
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Mascarpone krém na dort",
+  "keywords": [
+    "mascarpone krém na dort",
+    "pevný krém na dort",
+    "krém na dort z mascarpone",
+    "krém z mascarpone na dort",
+    "krém na dort z mascarpone a šlehačky"
+  ],
+  "image": "dish-mascarpone-krem-na-dort",
+  "category": "dorty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "chlazení krému před potahováním",
+  "difficulty": "snadné",
+  "intro": "Mascarpone krém na dort ze šlehačky a mascarpone je pevný krém, který drží tvar: dá se jím dort potáhnout dohladka i zdobit sáčkem. Hotový je za 5 minut a vyjde ho asi 1 kg, tedy na dort o průměru 24 cm. Všechno musí být studené z lednice a šlehá se jen do chvíle, kdy krém drží špičku.",
+  "ingredients": [
+    {
+      "ingredient": "mascarpone",
+      "amount": 500,
+      "unit": "g",
+      "note": "studené"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 400,
+      "unit": "ml",
+      "note": "studená, co nejtučnější"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mísu a metly šlehače dej na 15 minut do lednice nebo mrazáku. Mascarpone a smetanu vyndej z lednice až těsně před šleháním."
+    },
+    {
+      "text": "Do studené mísy dej mascarpone, moučkový a vanilkový cukr a krátce je prošlehej na nízké otáčky dohladka, asi 20 vteřin."
+    },
+    {
+      "text": "Přilij studenou smetanu a šlehej nejdřív na nízké, pak na střední otáčky. Za 2 až 3 minuty krém zhoustne."
+    },
+    {
+      "text": "Od té chvíle ho kontroluj každých 15 vteřin. Hotový je, když drží pevnou špičku a stopy po metlách zůstávají ostré. Pak hned přestaň, o chvíli déle a krém zrní a pouští tuk."
+    },
+    {
+      "text": "Na náplň ho použij hned. Na hladké potažení a zdobení sáčkem ho nech 30 minut v lednici, ještě ztuhne."
+    }
+  ],
+  "tips": [
+    "Ještě pevnější krém na zdobení: rozpusť 100 g bílé čokolády, nech ji vychladnout na vlažnou a vmíchej ji do mascarpone dřív, než přidáš smetanu.",
+    "Přešlehaný krém zachráníš tak, že do něj stěrkou vmícháš 3 až 4 lžíce studené tekuté smetany. Znovu ho nešlehej.",
+    "Dort s mascarpone krémem vydrží v lednici 2 až 3 dny. Mascarpone je čerstvý sýr, při pokojové teplotě ho nenechávej déle než 2 hodiny."
+  ],
+  "substitutions": [
+    "Čokoládový mascarpone krém: přidej 30 g prosátého kakaa a o 20 g cukru víc.",
+    "Ovocný krém: na konci vmíchej 3 lžíce hustého džemu nebo ovocného pyré. Víc ne, krém by změkl.",
+    "Polovinu mascarpone můžeš nahradit smetanovým sýrem. Krém bude o něco kyselejší a stejně pevný."
+  ],
+  "faq": [
+    {
+      "q": "Proč se mascarpone krém srazil?",
+      "a": "Byl přešlehaný nebo teplý. Mascarpone má hodně tuku, který se dlouhým šleháním odděluje do zrníček. Šlehej jen do pevné špičky a se studenými surovinami."
+    },
+    {
+      "q": "Drží mascarpone krém tvar i mimo lednici?",
+      "a": "Při běžné pokojové teplotě asi 1 až 2 hodiny, v horku změkne dřív. Na venkovní letní oslavu je jistější máslový krém nebo mascarpone krém s bílou čokoládou."
+    },
+    {
+      "q": "Kolik mascarpone krému je potřeba na dort?",
+      "a": "Na náplň a potažení dortu o průměru 24 cm se dvěma až třemi vrstvami stačí 500 g mascarpone a 400 ml smetany. Na dort o průměru 20 cm dvě třetiny."
+    }
+  ]
+}

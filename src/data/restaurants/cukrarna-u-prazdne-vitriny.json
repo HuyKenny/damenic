@@ -1,0 +1,33 @@
+{
+  "name": "Cukrárna U Prázdné vitríny",
+  "category": "dorty",
+  "cuisine": "Klasická česká cukrárna",
+  "tagline": "Vitrína svítí a chladí. Jen v ní nic neleží.",
+  "description": "Větrníky, kremrole, laskonky a míša řezy jako z cukrárny za rohem, ke každému zákusku celý recept. Cukrárna je smyšlená, takže se ve vitríně nic nezkazí. Jen se v ní taky nic neobjeví.",
+  "etaMinutes": 25,
+  "deliveryFee": 2900,
+  "minOrder": 14900,
+  "priceLevel": 1,
+  "hours": {
+    "open": "08:00",
+    "close": "18:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa"
+  ],
+  "isNew": true,
+  "logo": {
+    "text": "PV",
+    "color": "#7A4A2A",
+    "ink": "light"
+  },
+  "cover": "rest-cukrarna-u-prazdne-vitriny",
+  "sections": [
+    "Zákusky z vitríny",
+    "Řezy z plechu",
+    "Ke kávě",
+    "Nápoje"
+  ],
+  "order": 280
+}

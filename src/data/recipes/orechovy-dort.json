@@ -1,0 +1,148 @@
+{
+  "title": "Ořechový dort s máslovým krémem",
+  "keywords": [
+    "ořechový dort",
+    "ořechový dort recept",
+    "klasický ořechový dort",
+    "ořechový dort s máslovým krémem",
+    "babiččin ořechový dort"
+  ],
+  "image": "dish-orechovy-dort",
+  "category": "dorty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 50,
+  "cookMinutes": 40,
+  "waitMinutes": 240,
+  "waitLabel": "chladnutí korpusu a pudinku, odležení v lednici",
+  "difficulty": "střední",
+  "intro": "Ořechový dort s korpusem z mletých vlašských ořechů a pudinkovým máslovým krémem s ořechy, pečený ve formě o průměru 24 cm. Korpus má jen trochu mouky, takže je vláčný a voní po ořeších. Bílky se šlehají zvlášť a vmíchávají se opatrně, aby korpus nespadl.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 6,
+      "unit": "ks",
+      "note": "žloutky a bílky zvlášť",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 160,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 150,
+      "unit": "g",
+      "note": "najemno umleté",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 6,
+      "unit": "g",
+      "note": "půl sáčku",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 37,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 250,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 100,
+      "unit": "g",
+      "note": "umleté",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 50,
+      "unit": "g",
+      "note": "půlky na ozdobu",
+      "group": "Ozdoba"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpus",
+      "text": "Troubu předehřej na 170 °C (horkovzduch 160 °C), dno formy o průměru 24 cm vylož papírem a boky nevymazávej. Ořechy na korpus i krém krátce opraž na suché pánvi do vůně, nech vychladnout a umel najemno."
+    },
+    {
+      "text": "Žloutky šlehej s polovinou cukru 5 minut do světlé husté pěny. V čisté míse ušlehej bílky se solí do měkkých špiček, přisyp zbytek cukru a šlehej do pevného lesklého sněhu."
+    },
+    {
+      "text": "Mleté ořechy smíchej s moukou a práškem do pečiva. Do žloutků vmíchej třetinu sněhu, pak střídavě po částech ořechovou směs a zbytek sněhu, stěrkou ode dna nahoru."
+    },
+    {
+      "text": "Těsto nalij do formy a peč 35 až 40 minut, dokud špejle nevyjde suchá. Nech vychladnout ve formě dnem vzhůru, pak korpus vyndej."
+    },
+    {
+      "section": "Krém",
+      "text": "Z mléka, pudinkového prášku a cukru uvař hustý pudink, přikryj ho fólií přímo na povrchu a nech vychladnout na pokojovou teplotu. Změklé máslo šlehej 3 až 5 minut do bíla, po lžících zapracuj pudink a nakonec vmíchej mleté ořechy."
+    },
+    {
+      "section": "Skládání",
+      "text": "Korpus rozkroj na dva pláty a spoj je třetinou krému. Zbytek krému rozetři po vršku a bocích a ozdob půlkami ořechů. Před krájením nech dort aspoň 2 hodiny v lednici."
+    }
+  ],
+  "tips": [
+    "Ořechy mel po krátkých pulzech. Při dlouhém mletí pouštějí olej a z korpusu je těžká pasta.",
+    "Ořechový dort vydrží v lednici 4 až 5 dní a druhý den je nejlepší. Vyndej ho 30 minut před podáváním, máslový krém změkne.",
+    "Krém i korpus musí mít před skládáním pokojovou teplotu, na studeném korpusu krém tuhne nerovnoměrně."
+  ],
+  "substitutions": [
+    "Vlašské ořechy můžeš nahradit lískovými oříšky. Před mletím je opraž a otři z nich slupky.",
+    "Bez mouky: nahraď ji 60 g dalších mletých ořechů. Korpus bude vlhčí.",
+    "Lehčí krém: místo máslového použij 500 g mascarpone ušlehaného s 200 ml smetany, 80 g moučkového cukru a 100 g mletých ořechů."
+  ],
+  "faq": [
+    {
+      "q": "Proč ořechový korpus spadl?",
+      "a": "Sníh se při vmíchávání ořechů zničil, nebo se korpus vyndal z trouby moc brzy. Míchej stěrkou ode dna jen do spojení a peč, dokud špejle nevyjde suchá."
+    },
+    {
+      "q": "Jaké ořechy na ořechový dort?",
+      "a": "Tradičně vlašské ořechy. Musí být čerstvé, staré jsou hořké a zkazí celý dort, proto jeden předem ochutnej. Lískové oříšky dávají sladší a výraznější chuť."
+    },
+    {
+      "q": "Jak dlouho vydrží ořechový dort?",
+      "a": "S máslovým krémem 4 až 5 dní v lednici, zakrytý. Korpus bez krému zabalený ve fólii vydrží v mrazáku měsíc."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Rybízová limonáda",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Rybízový sirup, citron a perlivá voda s ledem. Kyselá přesně tak, aby srovnala sladký zákusek.",
+  "about": [],
+  "price": 6500,
+  "image": "dish-rybizova-limonada-z-vitriny",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 100
+}

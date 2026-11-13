@@ -1,0 +1,85 @@
+{
+  "title": "Caipirinha",
+  "keywords": [
+    "caipirinha",
+    "caipirinha recept",
+    "caipiroska",
+    "jak udělat caipirinhu"
+  ],
+  "image": "dish-caipirinha",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "servings": 1,
+  "activeMinutes": 5,
+  "cookMinutes": 0,
+  "waitMinutes": 5,
+  "waitLabel": "vychlazení sklenice v mrazáku",
+  "difficulty": "snadné",
+  "intro": "Caipirinha je brazilský národní koktejl z cachaçi, limetky a cukru na drceném ledu. Cachaça je pálenka z čerstvé šťávy cukrové třtiny, ne z melasy jako většina rumů, a proto chutná trávověji a ovocněji. Limetku rozmačkáš s cukrem přímo ve sklenici, jen aby pustila šťávu; rozdrcená bílá dužina by drink zahořkla.",
+  "ingredients": [
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na 8 dílků"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "led",
+      "amount": 200,
+      "unit": "g",
+      "note": "drcený"
+    },
+    {
+      "ingredient": "cachaca",
+      "amount": 50,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nízkou širokou sklenici (old fashioned, asi 300 ml) dej na 5 minut do mrazáku."
+    },
+    {
+      "text": "Limetku omyj, odkroj konce, podélně ji rozpůl a vykroj z ní bílý středový proužek, který hořkne. Každou půlku nakrájej na 4 dílky."
+    },
+    {
+      "text": "Dílky dej do sklenice slupkou dolů, zasyp 2 lžičkami cukru a tloučkem je 5 až 6krát pevně přitlač, aby pustily šťávu a cukr se začal rozpouštět. Nedrť je na kaši."
+    },
+    {
+      "text": "Ledové kostky rozdrť v utěrce paličkou na maso. Sklenici naplň drceným ledem, nalij 50 ml cachaçi a lžící promíchej zdola nahoru, aby se cukr ze dna rozmíchal."
+    },
+    {
+      "text": "Dosyp drcený led po okraj a podávej s krátkým brčkem."
+    }
+  ],
+  "tips": [
+    "Bez tloučku poslouží konec vařečky. Tlač, nemlať.",
+    "Bílý cukr se v caipirinze rozpouští rychleji než třtinový a nepřebije limetku.",
+    "Dílky limetky omyj horkou vodou, slupka se v drinku mačká a jde do pití."
+  ],
+  "substitutions": [
+    "Nealko varianta: cachaçu vynech a limetku s cukrem zalij 80 ml sodovky nebo zázvorové limonády. Postup s drceným ledem je stejný.",
+    "Caipiroska: místo cachaçi nalij 50 ml vodky. Chuť je neutrálnější a víc vynikne limetka.",
+    "S bílým rumem místo cachaçi vznikne caipirissima, sladší a méně travnatá."
+  ],
+  "faq": [
+    {
+      "q": "Co je caipirinha?",
+      "a": "Brazilský koktejl z cachaçi, limetky a cukru na drceném ledu. Na jednu sklenici jedna limetka nakrájená na 8 dílků, 2 lžičky cukru a 50 ml cachaçi."
+    },
+    {
+      "q": "Čím nahradit cachaçu?",
+      "a": "Nejčastěji vodkou, pak se drink jmenuje caipiroska, nebo bílým rumem. Ani jedno ale nemá trávovou chuť cachaçi z čerstvé šťávy cukrové třtiny."
+    },
+    {
+      "q": "Proč je caipirinha hořká?",
+      "a": "Limetka se rozmačkala moc nebo v ní zůstal bílý střed. Ten i bílá dužina pod slupkou hořknou, proto střed vykroj a dílky jen pevně přitlač, nedrť je."
+    }
+  ]
+}

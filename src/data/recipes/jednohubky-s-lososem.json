@@ -1,0 +1,113 @@
+{
+  "title": "Jednohubky s uzeným lososem, smetanovým sýrem a koprem",
+  "keywords": [
+    "jednohubky s lososem",
+    "jednohubky s uzeným lososem",
+    "lososové jednohubky",
+    "chlebíčky s lososem",
+    "silvestrovské jednohubky"
+  ],
+  "image": "dish-lososove-jednohubky-oblozeno",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 10,
+  "activeMinutes": 30,
+  "cookMinutes": 6,
+  "waitMinutes": 10,
+  "waitLabel": "vychladnutí opečeného pečiva",
+  "difficulty": "snadné",
+  "intro": "Jednohubky s uzeným lososem na opečených kolečkách bagety se smetanovým sýrem, koprem a citronem. Z jedné bagety vyjde asi 30 kusů. Losos má být na jednohubce složený do vlnky nebo růžičky, ne položený naplocho, a celé to musí zůstat studené až do chvíle podávání.",
+  "ingredients": [
+    {
+      "ingredient": "bageta",
+      "amount": 1,
+      "unit": "ks",
+      "note": "asi 25 cm"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 1,
+      "unit": "ks",
+      "note": "svazek"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "kůra a šťáva"
+    },
+    {
+      "ingredient": "losos-uzeny",
+      "amount": 200,
+      "unit": "g",
+      "note": "plátky, studeně uzený"
+    },
+    {
+      "ingredient": "kapary",
+      "amount": 20,
+      "unit": "g",
+      "note": "volitelně"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "čerstvě mletý"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C. Bagetu nakrájej na kolečka silná 8 mm, potři je tence olivovým olejem a opékej na plechu 5 až 6 minut, dokud nejsou na okrajích světle zlatá. Nech je úplně vychladnout."
+    },
+    {
+      "text": "Kopr nasekej, několik vršků si nech na ozdobu. Smetanový sýr promíchej s nasekaným koprem, najemno nastrouhanou kůrou z půlky citronu, lžičkou citronové šťávy a pepřem."
+    },
+    {
+      "text": "Plátky lososa nakrájej na proužky široké asi 2 cm. Každý proužek slož do vlnky nebo ho volně stoč do růžičky."
+    },
+    {
+      "text": "Na každé kolečko dej lžičku sýrové pomazánky, navrch lososa, vršek kopru a případně 2 kapary. Těsně před podáváním můžeš pokapat citronem."
+    },
+    {
+      "text": "Skládej nejvýš 2 hodiny předem a do té doby drž jednohubky přikryté v lednici. Opečené pečivo by v lednici dlouho změklo."
+    }
+  ],
+  "tips": [
+    "Otevřený uzený losos spotřebuj do 2 dnů, i když má na obalu delší datum. Hotové jednohubky na stole nenechávej déle než 2 hodiny.",
+    "Studeně uzený losos se v těhotenství nedoporučuje kvůli riziku listerie. Pro těhotné hosty připrav pár kousků bez lososa, třeba s vejcem.",
+    "Opečená kolečka bagety vydrží v uzavřené dóze 2 dny, sýrová pomazánka s koprem v lednici také 2 dny. Skládá se až v den oslavy."
+  ],
+  "substitutions": [
+    "Bez pečiva: použij jako základ kolečka salátové okurky silná 1 cm, osušená papírovou utěrkou.",
+    "Na chlebíčky s lososem: šikmý plátek veky potři stejnou pomazánkou v silnější vrstvě, přidej plátek lososa, vejce natvrdo a kopr.",
+    "Smetanový sýr můžeš nahradit tvarohem promíchaným s lžící zakysané smetany a kopr pažitkou."
+  ],
+  "faq": [
+    {
+      "q": "Co se dává na chlebíčky s lososem?",
+      "a": "Pod lososa smetanový sýr nebo máslo s koprem a citronovou kůrou, navrch kopr, kapary, plátek vejce nebo kolečko okurky. Výrazné pomazánky jako česneková nebo majonézový salát lososa přebijí."
+    },
+    {
+      "q": "Jak dlouho dopředu připravit jednohubky s lososem?",
+      "a": "Pečivo opeč a pomazánku udělej den předem, skládej až v den oslavy nejvýš 2 hodiny před podáváním a do té doby drž jednohubky v lednici."
+    },
+    {
+      "q": "Jaký losos na jednohubky?",
+      "a": "Studeně uzený losos v plátcích, který se dá skládat. Teple uzený losos se drolí, ten se víc hodí do pomazánky, rozmíchaný se smetanovým sýrem."
+    }
+  ],
+  "occasions": [
+    "silvestr",
+    "narozeniny"
+  ]
+}

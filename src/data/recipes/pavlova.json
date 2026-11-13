@@ -1,0 +1,140 @@
+{
+  "title": "Dort Pavlova",
+  "keywords": [
+    "dort pavlova recept",
+    "pavlova dort recept",
+    "dort pavlova originál recept",
+    "dezert pavlova recept"
+  ],
+  "image": "dish-pavlova-s-ovocem",
+  "category": "dorty",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 30,
+  "cookMinutes": 90,
+  "waitMinutes": 120,
+  "waitLabel": "chladnutí ve vypnuté troubě",
+  "difficulty": "střední",
+  "intro": "Dort Pavlova je velká pusinka z bílků s křupavou skořápkou a měkkým žvýkavým středem, navrchu šlehačka s mascarpone a čerstvé ovoce. Kruh má průměr asi 22 cm. Bílky se s cukrem šlehají tak dlouho, až se cukr úplně rozpustí, a upečená pusinka musí vychladnout ve vypnuté troubě, jinak praskne a splaskne.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "jen bílky, asi 140 g",
+      "group": "Pusinka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Pusinka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 220,
+      "unit": "g",
+      "note": "jemný krystal",
+      "group": "Pusinka"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 10,
+      "unit": "g",
+      "group": "Pusinka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Pusinka"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 300,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Krém a ovoce"
+    },
+    {
+      "ingredient": "mascarpone",
+      "amount": 150,
+      "unit": "g",
+      "note": "studené",
+      "group": "Krém a ovoce"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "group": "Krém a ovoce"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 250,
+      "unit": "g",
+      "group": "Krém a ovoce"
+    },
+    {
+      "ingredient": "maliny",
+      "amount": 125,
+      "unit": "g",
+      "group": "Krém a ovoce"
+    },
+    {
+      "ingredient": "boruvky",
+      "amount": 125,
+      "unit": "g",
+      "group": "Krém a ovoce"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Pusinka",
+      "text": "Troubu předehřej na 150 °C, horní a spodní ohřev (horkovzduch 130 °C). Na pečicí papír obkresli kruh o průměru 22 cm a papír polož na plech tužkou dolů."
+    },
+    {
+      "text": "Bílky odděl tak, aby v nich nebyla ani stopa žloutku. Mísa i metly musí být čisté a bez tuku. Bílky se solí šlehej na střední rychlost do měkkých špiček."
+    },
+    {
+      "text": "Pak přidávej cukr po lžících, každou asi 30 vteřin, a šlehej na vysokou rychlost ještě 5 až 8 minut. Sníh je hotový, když je hustý, lesklý, drží pevné špičky a mezi prsty v něm necítíš zrnka cukru."
+    },
+    {
+      "text": "Nakonec stěrkou zlehka vmíchej škrob a ocet. Sníh navrš do obkresleného kruhu, okraje vytáhni lžící trochu výš a uprostřed udělej mělký důlek na krém."
+    },
+    {
+      "text": "Vlož plech do trouby a hned stáhni teplotu na 120 °C (horkovzduch 100 °C). Peč 75 až 90 minut. Hotová pavlova je na povrchu suchá, krémově bílá až slabě béžová a lehce se odlepí od papíru."
+    },
+    {
+      "text": "Troubu vypni, pootevři dvířka na šířku vařečky a nech pavlovu v troubě úplně vychladnout, aspoň 2 hodiny. Pomalé chladnutí brání velkým prasklinám."
+    },
+    {
+      "section": "Krém a ovoce",
+      "text": "Těsně před podáváním ušlehej studenou smetanu s mascarpone a moučkovým cukrem do pevného krému. Navrš ho na pavlovu a poklaď ovocem. Podávej do hodiny, krém skořápku postupně změkčuje."
+    }
+  ],
+  "tips": [
+    "Upečenou pavlovu bez krému skladuj v uzavřené krabici při pokojové teplotě až 2 dny. V lednici navlhne a zmazlavatí.",
+    "Malé prasklinky na povrchu jsou normální a krém je zakryje. Velké praskliny a splasknutí způsobuje rychlé chladnutí nebo příliš vysoká teplota.",
+    "Zbylé žloutky vydrží zakryté v lednici 2 dny. Hodí se do vaječné pomazánky nebo do těsta na palačinky."
+  ],
+  "substitutions": [
+    "Místo krému se šlehačkou a mascarpone můžeš použít jen 400 ml ušlehané smetany nebo hustý řecký jogurt napůl se šlehačkou.",
+    "Ovoce podle sezóny: jahody, maliny, borůvky, mango nebo kiwi. Kyselé ovoce sladkou pusinku vyvažuje nejlépe.",
+    "Ocet můžeš nahradit lžičkou citronové šťávy, obojí sníh stabilizuje."
+  ],
+  "faq": [
+    {
+      "q": "Proč pavlova pouští sirup?",
+      "a": "Cukr se ve sněhu úplně nerozpustil, nebo pavlova nebyla dopečená. Přidávej cukr po lžících a šlehej, dokud mezi prsty necítíš zrnka. Kapky sirupu se objevují i za vlhkého počasí."
+    },
+    {
+      "q": "Jak dlouho dopředu jde pavlova upéct?",
+      "a": "Samotnou pusinku až 2 dny dopředu, v uzavřené krabici při pokojové teplotě. Krém a ovoce na ni dávej až těsně před podáváním."
+    },
+    {
+      "q": "Proč pavlova praskla a splaskla?",
+      "a": "Nejčastěji kvůli rychlému chladnutí nebo vysoké teplotě. Nech ji vychladnout v pootevřené vypnuté troubě. Malé praskliny jsou normální, krém je zakryje."
+    }
+  ]
+}

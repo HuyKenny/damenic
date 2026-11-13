@@ -1,0 +1,122 @@
+{
+  "title": "Piškotová roláda s džemem",
+  "keywords": [
+    "piškotová roláda recept",
+    "roláda recept",
+    "recept na piškotovou roládu",
+    "sladká roláda recept"
+  ],
+  "intro": "Piškotová roláda recept na rychlý zákusek: tenký piškot ze 4 vajec upečený za 10 minut, ještě horký stočený do utěrky a plněný meruňkovým džemem. Vyjde roláda na 10 plátků. Celé tajemství je stočit piškot hned po vytažení z trouby; vychladlý by při rolování praskal.",
+  "image": "dish-piskotova-rolada",
+  "category": "dorty",
+  "servings": 10,
+  "activeMinutes": 25,
+  "cookMinutes": 10,
+  "waitMinutes": 30,
+  "waitLabel": "chladnutí stočeného piškotu",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "pokojové teploty",
+      "group": "Piškot"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 120,
+      "unit": "g",
+      "group": "Piškot"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "horká",
+      "group": "Piškot"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Piškot"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Piškot"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 20,
+      "unit": "g",
+      "group": "Piškot"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na utěrku a na posypání",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "dzem-merunkovy",
+      "amount": 250,
+      "unit": "g",
+      "group": "Náplň"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Piškot",
+      "text": "Předehřej troubu na 200 °C, horní a spodní ohřev (horkovzduch 180 °C). Plech asi 30 × 40 cm vylož pečicím papírem; okraje papíru nemaž."
+    },
+    {
+      "section": "Piškot",
+      "text": "Celá vejce se solí, cukrem a horkou vodou šlehej na nejvyšší rychlost 8 až 10 minut, dokud hmota nezbělá, nezvětší objem zhruba třikrát a z metly nepadá stužka, která chvíli zůstane ležet na povrchu."
+    },
+    {
+      "section": "Piškot",
+      "text": "Mouku prosej se škrobem a po třetinách ji stěrkou vmíchávej zespodu nahoru, jen dokud nezmizí bílé ostrůvky. Dlouhým mícháním by pěna spadla."
+    },
+    {
+      "section": "Pečení",
+      "text": "Hmotu rozetři po plechu do stejnoměrné vrstvy a peč 8 až 10 minut, dokud není povrch světle zlatý a při lehkém dotyku pruží."
+    },
+    {
+      "section": "Rolování",
+      "text": "Na čistou utěrku nasyp 2 lžíce moučkového cukru. Horký piškot na ni hned vyklop, stáhni papír a i s utěrkou ho od kratší strany pevně stoč. Nech ho stočený vychladnout, asi 30 minut."
+    },
+    {
+      "section": "Plnění",
+      "text": "Piškot rozbal, potři džemem rozmíchaným dohladka a na konci nech 2 cm volný okraj. Stoč ho zpátky už bez utěrky a polož spojem dolů. Pocukruj a nakrájej na 10 plátků."
+    }
+  ],
+  "tips": [
+    "Tvrdé přepečené okraje piškotu odkroj ještě před rolováním, roláda pak nepraskne.",
+    "Když roluješ od kratší strany, roláda bude vyšší a kratší. Od delší strany vyjde tenčí roláda s víc plátky.",
+    "Roláda s džemem vydrží zabalená ve fólii 2 dny při pokojové teplotě. Se šlehačkou patří do lednice a sníst ji máš do druhého dne."
+  ],
+  "substitutions": [
+    "Šlehačková náplň: 250 ml smetany ke šlehání ušlehej s 250 g mascarpone a 40 g moučkového cukru a přidej 200 g nakrájených jahod. Plní se až do vychladlého piškotu.",
+    "Na kakaovou roládu nahraď 20 g mouky kakaem.",
+    "Meruňkový džem nahradíš rybízovým, malinovým nebo švestkovými povidly."
+  ],
+  "faq": [
+    {
+      "q": "Jak rolovat roládu, aby nepraskla?",
+      "a": "Piškot stoč hned po vytažení z trouby, dokud je horký a pružný, do utěrky posypané moučkovým cukrem. Nech ho tak vychladnout, pak rozbal, naplň a stoč znovu. Praská hlavně přepečený nebo vychladlý piškot."
+    },
+    {
+      "q": "Jak ozdobit roládu?",
+      "a": "Nejjednodušeji moučkovým cukrem přes sítko nebo papírovou šablonu. Slavnostněji ji polij čokoládou rozpuštěnou se lžící oleje (na roládu stačí 100 g) nebo navrch nastříkej kopečky šlehačky a polož na ně ovoce."
+    },
+    {
+      "q": "Proč piškot na roládu splaskl?",
+      "a": "Vejce nebyla ušlehaná dost dlouho, nebo se mouka míchala příliš dlouho a pěna spadla. Šlehej 8 až 10 minut do husté stužky a mouku jen opatrně vmíchej stěrkou."
+    }
+  ]
+}

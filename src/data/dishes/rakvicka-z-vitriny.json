@@ -1,0 +1,25 @@
+{
+  "name": "Rakvička se šlehačkou",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Zákusky z vitríny",
+  "description": "Piškotová lodička s cukrovou krustou a vrchovatou šlehačkou. Retro kousek, který nikdo neodnese.",
+  "about": [
+    "Rakvička je retro zákusek, na který se v cukrárnách skoro zapomnělo. Podlouhlý piškot s tenkou cukrovou krustou má uprostřed důlek a v něm vrchovatou šlehačku, nic víc. Celé umění je v tom, aby korpus zůstal světlý a nevyschl.",
+    "Jméno má podle tvaru, ne podle nálady. Doma ji upečeš ve formičkách nebo nastříkáš na papír a do teplých korpusů vtlačíš důlek lžičkou. U nás v ní leží šlehačka a nic zároveň."
+  ],
+  "price": 4900,
+  "image": "dish-rakvicka-z-vitriny",
+  "recipe": "rakvicky-se-slehackou",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 40
+}

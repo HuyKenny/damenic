@@ -1,0 +1,159 @@
+{
+  "title": "Mrkvový dort se smetanovým krémem",
+  "keywords": [
+    "mrkvový dort recept",
+    "recept na mrkvový dort",
+    "mrkvový dort s ořechy",
+    "krém na mrkvový dort"
+  ],
+  "image": "dish-mrkvovy-dort-dilek",
+  "category": "dorty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 35,
+  "cookMinutes": 50,
+  "waitMinutes": 180,
+  "waitLabel": "chladnutí korpusu a krému",
+  "difficulty": "snadné",
+  "intro": "Mrkvový dort recept na vláčný korpus s vlašskými ořechy a skořicí a krém ze smetanového sýra, pečený ve formě o průměru 24 cm. Těsto se jen smíchá, nešlehá. Vláčnost dává olej a jemně nastrouhaná mrkev, kterou nevymačkáváš.",
+  "ingredients": [
+    {
+      "ingredient": "mrkev",
+      "amount": 300,
+      "unit": "g",
+      "note": "oloupaná, najemno nastrouhaná",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 200,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 10,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 5,
+      "unit": "g",
+      "note": "1 lžička",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 100,
+      "unit": "g",
+      "note": "nasekané",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 300,
+      "unit": "g",
+      "note": "studený",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Krém"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpus",
+      "text": "Troubu předehřej na 170 °C (horkovzduch 160 °C). Dno formy o průměru 24 cm vylož papírem a boky vymaž máslem. Ořechy krátce opraž na suché pánvi do vůně a nahrubo nasekej."
+    },
+    {
+      "text": "V míse prošlehej metličkou vejce s třtinovým cukrem a olejem do hladka, asi minutu. V druhé míse smíchej mouku, prášek do pečiva, sodu, skořici, muškátový oříšek a sůl."
+    },
+    {
+      "text": "Suchou směs vmíchej do vajec jen do spojení. Pak vmíchej mrkev i se šťávou a ořechy a těsto rozetři do formy."
+    },
+    {
+      "text": "Peč 45 až 55 minut. Hotový korpus je tmavě zlatý a špejle zapíchnutá doprostřed vyjde suchá. Když povrch tmavne moc rychle, přikryj ho po 35 minutách alobalem."
+    },
+    {
+      "text": "Nech korpus 15 minut ve formě, pak ho vyndej na mřížku a nech úplně vychladnout, aspoň 2 hodiny."
+    },
+    {
+      "section": "Krém",
+      "text": "Změklé máslo šlehej s moučkovým cukrem 2 minuty do světla. Přidej studený smetanový sýr a šlehej jen do spojení, asi 30 vteřin. Dlouhým šleháním krém zřídne."
+    },
+    {
+      "text": "Korpus rozkroj na dva pláty, spoj je třetinou krému a zbytkem potři vršek a boky. Před krájením nech dort hodinu v lednici."
+    }
+  ],
+  "tips": [
+    "Mrkev strouhej na jemné straně struhadla. Hrubé kousky zůstanou v korpusu tvrdé.",
+    "Dort s krémem ze smetanového sýra skladuj v lednici, vydrží 3 až 4 dny. Samotný korpus zabalený ve fólii vydrží v mrazáku měsíc.",
+    "Krém ze smetanového sýra je měkký. Na ostré hrany nebo zdobení sáčkem přidej o 50 g víc másla a o 50 g víc cukru."
+  ],
+  "substitutions": [
+    "Mrkvový dort bez ořechů: ořechy vynech, nebo je nahraď 80 g rozinek spařených horkou vodou.",
+    "Polovinu oleje (100 ml) můžeš nahradit bílým jogurtem. Korpus bude lehčí a méně mastný.",
+    "Místo smetanového sýra se do krému hodí mascarpone. Krém bude pevnější a méně kyselý."
+  ],
+  "faq": [
+    {
+      "q": "Jaký krém na mrkvový dort?",
+      "a": "Klasický je krém ze smetanového sýra s máslem a moučkovým cukrem. Jeho jemná kyselost vyvažuje sladký kořeněný korpus. Funguje i krém z mascarpone a šlehačky."
+    },
+    {
+      "q": "Musí se mrkev do dortu vymačkat?",
+      "a": "Nemusí. Šťáva z mrkve patří k tekutině v těstě a dělá korpus vláčný. Z vymačkané mrkve je korpus sušší."
+    },
+    {
+      "q": "Jak ozdobit mrkvový dort?",
+      "a": "Stačí okraj posypat nasekanými opraženými ořechy a navrch položit pár půlek vlašských ořechů. Hodí se i malé mrkvičky z marcipánu obarveného do oranžova."
+    }
+  ]
+}

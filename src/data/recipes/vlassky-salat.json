@@ -1,0 +1,133 @@
+{
+  "title": "Domácí vlašský salát",
+  "keywords": [
+    "vlašský salát",
+    "domácí vlašský salát na chlebíčky",
+    "vlašský salát recept",
+    "salát na chlebíčky",
+    "výborný salát na chlebíčky"
+  ],
+  "image": "dish-vlassky-salat-v-misce-oblozeno",
+  "category": "salaty",
+  "vegetarian": false,
+  "servings": 12,
+  "activeMinutes": 40,
+  "cookMinutes": 25,
+  "waitMinutes": 180,
+  "waitLabel": "vychladnutí zeleniny a odležení salátu",
+  "difficulty": "střední",
+  "intro": "Domácí vlašský salát na chlebíčky ze šunky, brambor, kořenové zeleniny, hrášku a kyselých okurek v majonéze. Vyjde asi 1,6 kg, tedy na 60 chlebíčků nebo 12 porcí do misky. Na kvalitě se pozná, jestli je všechno nakrájené stejně drobně a jestli měl salát čas odležet.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 400,
+      "unit": "g",
+      "note": "varné typu A"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 300,
+      "unit": "g",
+      "note": "nebo šunkový salám v celku"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 200,
+      "unit": "g",
+      "note": "plus 3 lžíce nálevu"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař ve slupce doměkka, asi 20 až 25 minut. Mrkev, celer a petržel oloupej a uvař vcelku v osolené vodě, mrkev a petržel asi 15 minut, celer asi 20 minut. Mají být měkké, ale ne rozvařené."
+    },
+    {
+      "text": "Hrášek spař 2 minuty ve vroucí osolené vodě, sceď a zchlaď studenou vodou, aby zůstal zelený."
+    },
+    {
+      "text": "Brambory a zeleninu nech úplně vychladnout, nejlépe v lednici. Teplá zelenina by majonézu rozpustila a salát by zvodnatěl."
+    },
+    {
+      "text": "Brambory, zeleninu, šunku a okurky nakrájej na drobné nudličky nebo kostičky asi 5 mm. Stejná velikost všech kousků je to, co dělá lahůdkářský vzhled."
+    },
+    {
+      "text": "Majonézu promíchej s hořčicí, 3 lžícemi okurkového nálevu, solí, pepřem a cukrem. Vmíchej všechny nakrájené suroviny a hrášek a lehce promíchej."
+    },
+    {
+      "text": "Salát přikryj a nech ho alespoň 2 hodiny, nejlépe přes noc, odležet v lednici. Před podáváním ochutnej, okurkovým nálevem případně doostři."
+    }
+  ],
+  "tips": [
+    "Vlašský salát vydrží v uzavřené dóze v lednici do 5 °C 2 dny. Na chlebíčky ho udělej den předem, druhý den drží tvar nejlépe.",
+    "Majonéza, vejce i šunka patří do lednice. Na stole při pokojové teplotě je nenechávej déle než 2 hodiny, v teplé místnosti radši kratší dobu.",
+    "Na chlebíček stačí asi 25 g salátu. Ozdob ho plátkem vejce, kouskem šunky a proužkem okurky."
+  ],
+  "substitutions": [
+    "Šunku můžeš nahradit vařeným vepřovým nebo kuřecím masem nakrájeným na nudličky.",
+    "Lehčí verze: třetinu majonézy nahraď bílým jogurtem. Salát pak vydrží kratší dobu, spotřebuj ho do druhého dne.",
+    "Mražený hrášek lze vyměnit za sterilovaný, ten jen sceď a nespařuj."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi vlašským a pařížským salátem?",
+      "a": "Vlašský salát má šunku, brambory, kořenovou zeleninu a hrášek. Pařížský je jednodušší: vařené hovězí maso, kyselé okurky a cibule v majonéze, bez brambor."
+    },
+    {
+      "q": "Jak dlouho vydrží vlašský salát v lednici?",
+      "a": "Domácí vlašský salát s majonézou vydrží v uzavřené dóze v lednici 2 dny. Při pokojové teplotě ho nenechávej déle než 2 hodiny."
+    },
+    {
+      "q": "Kolik vlašského salátu je potřeba na chlebíčky?",
+      "a": "Na jeden chlebíček z veky počítej 25 g salátu. Z této dávky vyjde asi 60 chlebíčků, na 30 kusů stačí polovina."
+    }
+  ],
+  "occasions": [
+    "silvestr",
+    "narozeniny"
+  ]
+}

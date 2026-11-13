@@ -1,0 +1,181 @@
+{
+  "title": "Míša řezy s tvarohovou náplní",
+  "keywords": [
+    "míša řezy recept",
+    "recept na míša řezy",
+    "míša řezy",
+    "tvarohové řezy recept"
+  ],
+  "intro": "Míša řezy recept na plech 25 × 35 cm: kakaový korpus, vysoká vrstva sladké tvarohové náplně se šlehačkou a tenká čokoládová poleva. Vyjde 15 řezů. Pečení trvá jen 20 minut, ale náplň musí v lednici ztuhnout aspoň 4 hodiny, jinak se řezy při krájení rozjedou.",
+  "image": "dish-misa-rez-z-vitriny",
+  "category": "dorty",
+  "servings": 12,
+  "activeMinutes": 40,
+  "cookMinutes": 22,
+  "waitMinutes": 300,
+  "waitLabel": "chladnutí korpusu a tuhnutí náplně v lednici",
+  "difficulty": "střední",
+  "vegetarian": false,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Kakaový korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Kakaový korpus"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Kakaový korpus"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Kakaový korpus"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 220,
+      "unit": "g",
+      "group": "Kakaový korpus"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Kakaový korpus"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Kakaový korpus"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 750,
+      "unit": "g",
+      "note": "měkký, 3 vaničky",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 120,
+      "unit": "g",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "kůra a šťáva z poloviny",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "zelatina",
+      "amount": 15,
+      "unit": "g",
+      "note": "prášková",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 75,
+      "unit": "ml",
+      "note": "studená, na želatinu",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 250,
+      "unit": "ml",
+      "note": "dobře vychlazená",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Čokoládová poleva"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Čokoládová poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpus",
+      "text": "Předehřej troubu na 180 °C, horní a spodní ohřev (horkovzduch 170 °C). Plech 25 × 35 cm s vyšším okrajem vylož pečicím papírem."
+    },
+    {
+      "section": "Korpus",
+      "text": "Vejce s cukrem šlehej 3 minuty do světlé pěny, přilij olej a mléko a krátce promíchej. Mouku prosej s kakaem a práškem do pečiva a vmíchej ji metlou jen dohladka."
+    },
+    {
+      "section": "Korpus",
+      "text": "Těsto vlij na plech, uhlaď a peč 20 až 22 minut. Hotový korpus při dotyku pruží a špejle z něj vyjde suchá. Nech ho úplně vychladnout na plechu, asi hodinu; náplň potřebuje okraj, takže korpus z plechu nevyndávej, nebo kolem něj postav nastavitelný rámeček."
+    },
+    {
+      "section": "Náplň",
+      "text": "Želatinu zasyp do 75 ml studené vody a nech 10 minut nabobtnat. Pak ji v malém kastrůlku nebo v mikrovlnce zahřívej jen do rozpuštění; vařit se nesmí, ztratila by sílu."
+    },
+    {
+      "section": "Náplň",
+      "text": "Tvaroh rozmíchej s moučkovým cukrem, vanilkovým cukrem, citronovou kůrou a šťávou dohladka. Do teplé želatiny vmíchej 3 lžíce tvarohu, aby se srovnala teplota, a teprve tuto směs rychle zamíchej do zbytku tvarohu. Nakonec stěrkou vmíchej šlehačku ušlehanou do pevné pěny."
+    },
+    {
+      "section": "Náplň",
+      "text": "Náplň rozetři na vychladlý korpus, uhlaď a dej na 3 hodiny do lednice ztuhnout."
+    },
+    {
+      "section": "Poleva",
+      "text": "Čokoládu nalámej a s olejem ji rozpusť ve vodní lázni nebo v mikrovlnce po 20 sekundách. Nech ji 5 minut zchladnout, aby nerozpustila tvaroh, rozetři tenkou vrstvou po ztuhlé náplni a vrať plech na hodinu do lednice."
+    },
+    {
+      "section": "Krájení",
+      "text": "Řezy krájej ostrým nožem, který po každém řezu namočíš do horké vody a otřeš. Vyjde 15 řezů asi 7 × 8 cm."
+    }
+  ],
+  "tips": [
+    "Tvaroh v bloku nejdřív prolisuj nebo rozmixuj, jinak bude náplň hrudkovitá.",
+    "Míša řezy skladuj zakryté v lednici a sněz do 3 dnů. Mrazit se nehodí, tvaroh po rozmražení pouští vodu.",
+    "Olej v polevě zabrání tomu, aby čokoláda při krájení praskala a odlupovala se od náplně."
+  ],
+  "substitutions": [
+    "Místo želatiny použij agar: 4 g agaru povař 2 minuty ve 100 ml vody a vlažný vmíchej do tvarohu. Řezy pak budou vhodné i pro vegetariány.",
+    "Čtvrtinu tvarohu (250 g) můžeš nahradit mascarpone, náplň bude krémovější a jemnější.",
+    "Polevu můžeš udělat z mléčné čokolády; bude sladší a o něco měkčí."
+  ],
+  "faq": [
+    {
+      "q": "Proč se míša řezy při krájení rozpadají?",
+      "a": "Náplň buď neztuhla, nebo se želatina nevmíchala rovnoměrně a v náplni zůstaly želatinové hrudky. Želatinu vždy nejdřív smíchej s trochou tvarohu, řezy nech v lednici aspoň 4 hodiny a krájej nožem namočeným v horké vodě."
+    },
+    {
+      "q": "Dá se míša řezy udělat bez želatiny?",
+      "a": "Ano. Místo šlehačky a želatiny vyšlehej 200 g změklého másla s cukrem a vmíchej do něj tvaroh. Náplň ztuhne v lednici díky máslu, je ale těžší a sytější. Druhou možností je agar."
+    },
+    {
+      "q": "Jak dlouho vydrží míša řezy?",
+      "a": "V lednici zakryté fólií 3 dny. Nejlépe chutnají druhý den, kdy korpus trochu nasaje vlhkost z náplně."
+    }
+  ]
+}

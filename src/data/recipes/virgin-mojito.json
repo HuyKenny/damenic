@@ -1,0 +1,95 @@
+{
+  "title": "Virgin mojito (nealko mojito)",
+  "keywords": [
+    "virgin mojito",
+    "nealko mojito",
+    "nealkoholické mojito",
+    "nealko mojito recept",
+    "virgin mojito recept"
+  ],
+  "image": "dish-virgin-mojito-sklenka",
+  "category": "napoje",
+  "vegetarian": true,
+  "occasions": [
+    "grilovani"
+  ],
+  "servings": 1,
+  "activeMinutes": 5,
+  "cookMinutes": 0,
+  "waitMinutes": 5,
+  "waitLabel": "vychlazení sklenice v mrazáku",
+  "difficulty": "snadné",
+  "intro": "Virgin mojito je nealko mojito z limetky, třtinového cukru, čerstvé máty, drceného ledu a sodovky. Dělá se úplně stejně jako klasické mojito, jen místo rumu přijde víc sodovky, a proto chutná jako drink, ne jako náhrada. Recept je na jednu sklenici a hodí se pro řidiče, těhotné i děti.",
+  "ingredients": [
+    {
+      "ingredient": "limetka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na 4 dílky"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 0.2,
+      "unit": "ks",
+      "note": "asi 10 lístků a snítka na ozdobu"
+    },
+    {
+      "ingredient": "led",
+      "amount": 200,
+      "unit": "g",
+      "note": "drcený"
+    },
+    {
+      "ingredient": "perliva-voda",
+      "amount": 150,
+      "unit": "ml",
+      "note": "sodovka, vychlazená"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vysokou sklenici (highball, asi 350 ml) dej na 5 minut do mrazáku."
+    },
+    {
+      "text": "Do sklenice dej půlku limetky nakrájenou na 4 dílky a 2 lžičky třtinového cukru. Tloučkem limetku 4 až 5krát pevně přitlač, aby pustila šťávu."
+    },
+    {
+      "text": "Lístky máty jednou plácni mezi dlaněmi, dej je do sklenice a tloučkem je jen 2 až 3krát lehce přitlač. Lístky mají zůstat celé."
+    },
+    {
+      "text": "Ledové kostky rozdrť v utěrce paličkou na maso a sklenici jimi naplň do tří čtvrtin. Lžící promíchej zdola nahoru, aby se cukr ze dna rozpustil."
+    },
+    {
+      "text": "Dolij 150 ml vychlazené sodovky, dosyp drcený led nad okraj, ozdob snítkou máty a podávej s brčkem."
+    }
+  ],
+  "tips": [
+    "Pro děti stačí 1 lžička cukru, limetka s mátou chutnají výrazně i tak.",
+    "Na džbán pro šest lidí rozmačkej limetky, cukr a mátu po dávkách na dně džbánu, sodovku a led přidej až těsně před podáváním.",
+    "Snítku máty na ozdobu plácni o hřbet ruky, vůně se uvolní a drink bude vonět ještě víc."
+  ],
+  "substitutions": [
+    "Místo části sodovky můžeš dolít 50 ml jablečného moštu nebo zázvorové limonády. Drink bude plnější a sladší.",
+    "Jahodové nealko mojito: s limetkou rozmačkej 3 jahody.",
+    "Místo třtinového cukru se hodí 15 ml cukrového sirupu, rozpustí se hned."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat mojito bez alkoholu?",
+      "a": "Stejně jako klasické, jen bez rumu: ve sklenici rozmačkej půl limetky s 2 lžičkami třtinového cukru, přidej lehce přitlačenou mátu, drcený led a dolij 150 ml sodovky."
+    },
+    {
+      "q": "Co je virgin mojito?",
+      "a": "Nealkoholická verze mojita. Obsahuje limetku, třtinový cukr, čerstvou mátu, drcený led a sodovku. Neobsahuje žádný alkohol, takže ho můžou pít i děti a řidiči."
+    },
+    {
+      "q": "Dá se nealko mojito připravit dopředu?",
+      "a": "Základ z rozmačkané limetky, cukru a máty vydrží v lednici 2 až 3 hodiny. Sodovku a led přidej až těsně před podáváním, jinak drink vyprchá a máta zhnědne."
+    }
+  ]
+}

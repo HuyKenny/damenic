@@ -1,0 +1,45 @@
+{
+  "name": "Gin tonic",
+  "restaurant": "koktejlbar-prazdna-sklenka",
+  "kind": "main",
+  "section": "Spritzy a long drinky",
+  "description": "Gin a vychlazený tonic v poměru 1 : 3 ve sklenici plné ledu, s ozdobou podle tvé volby.",
+  "about": [
+    "Gin tonic je drink, který se nedá schovat za sirup. Gin, tonic, sklenice plná ledu a poměr 1 : 3. Rozdíl dělá teplota: vychlazený tonic nalitý pomalu po lžíci si nechá bublinky až do posledního doušku.",
+    "Ozdobu si vybereš sám: limetku, okurku, nebo snítku rozmarýnu. Nalijeme smyšleně a jen plnoletým. Led ti v ní neroztaje nikdy, protože žádný nemáme."
+  ],
+  "price": 14900,
+  "image": "dish-gin-tonic-sklenka",
+  "recipe": "gin-tonic",
+  "optionGroups": [
+    {
+      "id": "ozdoba",
+      "name": "Ozdoba",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "limetka",
+          "name": "Limetka",
+          "priceDelta": 0
+        },
+        {
+          "id": "okurka",
+          "name": "Okurka",
+          "priceDelta": 0
+        },
+        {
+          "id": "rozmaryn",
+          "name": "Rozmarýn",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 60
+}

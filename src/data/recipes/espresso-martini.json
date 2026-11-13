@@ -1,0 +1,99 @@
+{
+  "title": "Espresso martini",
+  "keywords": [
+    "espresso martini",
+    "espresso martini recept",
+    "jak udělat espresso martini",
+    "espresso martini doma"
+  ],
+  "image": "dish-espresso-martini-sklenka",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "occasions": [
+    "silvestr"
+  ],
+  "servings": 1,
+  "activeMinutes": 5,
+  "cookMinutes": 0,
+  "waitMinutes": 5,
+  "waitLabel": "vychlazení sklenice a espressa",
+  "difficulty": "střední",
+  "intro": "Espresso martini je koktejl z vodky, kávového likéru a čerstvého espressa, protřepaný s ledem tak dlouho, až má navrchu hustou pěnu. Pěnu dělá čerstvé espresso a energické třepání, studená káva z rána ji neudělá. Recept je na jednu koktejlovou sklenici a drink obsahuje alkohol i kofein.",
+  "ingredients": [
+    {
+      "ingredient": "kava-mleta",
+      "amount": 8,
+      "unit": "g",
+      "note": "jemně mletá, na 1 espresso"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 40,
+      "unit": "ml",
+      "note": "na espresso"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vodka",
+      "amount": 50,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "kavovy-liker",
+      "amount": 30,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "led",
+      "amount": 200,
+      "unit": "g",
+      "note": "kostky do šejkru"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Koktejlovou sklenici (martini nebo coupe) dej na 5 minut do mrazáku."
+    },
+    {
+      "text": "Připrav jedno espresso, asi 30 ml, z 8 g jemně mleté kávy v kávovaru nebo v moka konvičce. Ještě v horkém rozmíchej 5 g cukru a nech ho 2 až 3 minuty odstát, ať není vařící."
+    },
+    {
+      "text": "Do šejkru nasyp 200 g ledu, nalij 50 ml vodky, 30 ml kávového likéru a 30 ml espressa. Šejkr pevně zavři."
+    },
+    {
+      "text": "Protřepávej energicky 15 až 20 sekund, dokud šejkr neorosí a nezačne studit do dlaní. Silné třepání vytvoří pěnu."
+    },
+    {
+      "text": "Přeceď přes sítko šejkru a ještě přes jemné čajové sítko do vychlazené sklenice, aby v drinku nebyly úlomky ledu. Na pěnu polož 3 zrnka kávy a podávej hned."
+    }
+  ],
+  "tips": [
+    "Pěna drží jen s čerstvým espressem. Z instantní kávy nebo kávy z lednice nevznikne.",
+    "Bez šejkru poslouží zavařovací sklenice aspoň na 500 ml s pevným víčkem. Při třepání ji drž přes utěrku.",
+    "Bezkofeinová káva funguje úplně stejně a večer tě nenechá vzhůru."
+  ],
+  "substitutions": [
+    "Nealko varianta (shakerato): vodku i likér vynech a s 200 g ledu protřepej 60 ml čerstvého espressa s 10 g cukru. Pěna vznikne stejně, jen je drink hořčí a kratší.",
+    "Místo kávového likéru můžeš dát 15 ml cukrového sirupu a o 15 ml víc espressa. Drink bude sušší a výrazněji kávový.",
+    "Kdo nemá kávovar ani moka konvičku, uvaří 30 ml velmi silné kávy ve french pressu z 8 g kávy a 40 ml vody o teplotě 94 °C, pěna bude menší."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat espresso martini?",
+      "a": "Do šejkru s ledem nalij 50 ml vodky, 30 ml kávového likéru a 30 ml čerstvého espressa oslazeného 5 g cukru. Energicky protřepej 15 až 20 sekund a přeceď přes dvě sítka do vychlazené koktejlové sklenice."
+    },
+    {
+      "q": "Proč espresso martini nemá pěnu?",
+      "a": "Nejčastěji kvůli staré nebo studené kávě, málo ledu v šejkru nebo krátkému třepání. Pěnu tvoří oleje a bublinky z čerstvého espressa, které vzniknou jen při silném třepání aspoň 15 sekund."
+    },
+    {
+      "q": "Je v espresso martini kofein?",
+      "a": "Ano, jedno espresso má asi 60 až 80 mg kofeinu a kávový likér přidá další. Kdo nechce kofein večer, použije bezkofeinovou kávu, postup i pěna zůstávají stejné."
+    }
+  ]
+}

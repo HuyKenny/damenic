@@ -1,0 +1,110 @@
+{
+  "title": "Jednohubky z tortilly se sýrovou pomazánkou a šunkou",
+  "keywords": [
+    "jednohubky z tortilly",
+    "tortillové jednohubky",
+    "jednohubky z tortilly recept",
+    "tortilla jednohubky",
+    "tortillové rolky"
+  ],
+  "image": "dish-tortillove-rolky-oblozeno",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 10,
+  "activeMinutes": 25,
+  "cookMinutes": 0,
+  "waitMinutes": 120,
+  "waitLabel": "ztuhnutí rolek v lednici",
+  "difficulty": "snadné",
+  "intro": "Jednohubky z tortilly jsou rolky z pšeničné placky se sýrovou pomazánkou, šunkou, salátem a paprikou nakrájené na kolečka. Ze čtyř tortill vyjde asi 36 kusů. Bez čekání to nejde: zabalené rolky musí alespoň 2 hodiny ztuhnout v lednici, jinak se při krájení rozjedou.",
+  "ingredients": [
+    {
+      "ingredient": "tortilly",
+      "amount": 4,
+      "unit": "ks",
+      "note": "průměr asi 25 cm"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "stroužek"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 200,
+      "unit": "g",
+      "note": "8 tenkých plátků"
+    },
+    {
+      "ingredient": "spenat-baby",
+      "amount": 40,
+      "unit": "g",
+      "note": "nebo listy ledového salátu"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smetanový sýr promíchej s prolisovaným česnekem, najemno nakrájenou pažitkou a špetkou soli. Papriku nakrájej na tenké nudličky, špenát omyj a důkladně osuš, mokré listy by tortillu rozmáčely."
+    },
+    {
+      "text": "Každou tortillu potři v rovnoměrné vrstvě čtvrtinou pomazánky až k okrajům, jen na protější straně nech volný pruh asi 2 cm. Pomazánka slouží jako lepidlo."
+    },
+    {
+      "text": "Na pomazánku polož 2 plátky šunky, vrstvu špenátu a u bližšího okraje do řady nudličky papriky. Tortillu pevně stoč od strany s paprikou, aby uprostřed nezůstala vzduchová díra."
+    },
+    {
+      "text": "Každou rolku pevně zabal do potravinové fólie a konce zakruť jako bonbón. Dej je švem dolů alespoň na 2 hodiny, nejlépe přes noc, do lednice."
+    },
+    {
+      "text": "Těsně před podáváním odkrájej nerovné konce a rolky nakrájej ostrým nožem na kolečka silná asi 2 cm, z každé vyjde 9 až 10 kusů. Pokud se rozvírají, napíchni je párátkem."
+    }
+  ],
+  "tips": [
+    "Zabalené rolky vydrží v lednici 24 hodin. Nakrájené jednohubky podávej do 4 hodin, potom tortilla od pomazánky vlhne.",
+    "Majonéza, vejce i šunka patří do lednice. Na stole při pokojové teplotě je nenechávej déle než 2 hodiny, v teplé místnosti radši kratší dobu.",
+    "Na barevný tác udělej dvě rolky se šunkou a dvě s uzeným lososem a koprem, nebo část tortill vyměň za špenátové či rajčatové."
+  ],
+  "substitutions": [
+    "Místo smetanového sýra se hodí pomazánkové máslo nebo krémový tvaroh s 50 g strouhaného eidamu.",
+    "Bezmasá verze: šunku vyměň za plátky okurky a nastrouhanou mrkev, nebo za 150 g strouhaného eidamu."
+  ],
+  "faq": [
+    {
+      "q": "Proč se tortillové rolky při krájení rozpadají?",
+      "a": "Rolka nebyla dost pevně stočená nebo neztuhla v lednici. Stoč ji těsně, zabal do fólie a nech alespoň 2 hodiny chladit. Krájej ostrým nožem, ne tlakem."
+    },
+    {
+      "q": "Můžu jednohubky z tortilly udělat den předem?",
+      "a": "Ano, rolky zabalené ve fólii vydrží v lednici 24 hodin. Krájej je až v den oslavy, nejvýš 4 hodiny před podáváním."
+    },
+    {
+      "q": "Jaké tortilly na jednohubky?",
+      "a": "Pšeničné tortilly o průměru 25 cm. Menší se špatně rolují, kukuřičné praskají. Studené z lednice jsou křehké, nech je chvíli při pokojové teplotě."
+    }
+  ],
+  "occasions": [
+    "silvestr",
+    "narozeniny"
+  ]
+}

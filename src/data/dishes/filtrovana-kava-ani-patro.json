@@ -1,0 +1,36 @@
+{
+  "name": "Filtrovaná káva",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Jemná filtrovaná káva, která čokoládu nepřebije. Hrnek máme, kávu ne.",
+  "price": 6900,
+  "image": "dish-filtrovana-kava-ani-patro",
+  "recipe": null,
+  "about": [],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "250ml",
+          "name": "250 ml",
+          "priceDelta": 0
+        },
+        {
+          "id": "400ml",
+          "name": "400 ml",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 90
+}

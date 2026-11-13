@@ -1,0 +1,201 @@
+{
+  "title": "Obložené chlebíčky se šunkou, vejcem a sýrem",
+  "keywords": [
+    "chlebíčky",
+    "obložené chlebíčky",
+    "chlebíčky recept",
+    "jak ozdobit chlebíčky",
+    "bramborový salát na chlebíčky"
+  ],
+  "image": "dish-chlebicky-na-tacu-oblozeno",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 12,
+  "activeMinutes": 75,
+  "cookMinutes": 25,
+  "waitMinutes": 180,
+  "waitLabel": "vychladnutí brambor a odležení salátu v lednici",
+  "difficulty": "střední",
+  "intro": "Obložené chlebíčky z veky s jemným bramborovým salátem, šunkou, vejcem, sýrem a okurkou. Ze dvou vek vyjde asi 36 chlebíčků, tedy tři na osobu pro dvanáct lidí. Těžké na nich není nic kromě načasování: salát se dělá den předem, skládá se nejvýš 3 až 4 hodiny před podáváním.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 700,
+      "unit": "g",
+      "note": "varné typu A, stejně velké",
+      "group": "Podkladový salát"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 120,
+      "unit": "g",
+      "note": "plus 2 lžíce nálevu",
+      "group": "Podkladový salát"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 60,
+      "unit": "g",
+      "group": "Podkladový salát"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 200,
+      "unit": "g",
+      "group": "Podkladový salát"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Podkladový salát"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Podkladový salát"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Podkladový salát"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Podkladový salát"
+    },
+    {
+      "ingredient": "veka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "nejlépe den stará",
+      "group": "Chlebíčky"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Chlebíčky"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 300,
+      "unit": "g",
+      "note": "18 tenkých plátků",
+      "group": "Chlebíčky"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 250,
+      "unit": "g",
+      "note": "18 plátků",
+      "group": "Chlebíčky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 8,
+      "unit": "ks",
+      "note": "čerstvá, natvrdo",
+      "group": "Chlebíčky"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 150,
+      "unit": "g",
+      "note": "na vějířky",
+      "group": "Chlebíčky"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Chlebíčky"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 60,
+      "unit": "g",
+      "note": "na zdobení",
+      "group": "Chlebíčky"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "svazek na ozdobu",
+      "group": "Chlebíčky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař ve slupce v osolené vodě doměkka, podle velikosti 20 až 25 minut. Sceď je, nech vychladnout a ideálně přes noc odpočinout v lednici, pak se krájejí na čisté kostičky a nerozpadají se.",
+      "section": "Podkladový salát (den předem)"
+    },
+    {
+      "text": "Brambory oloupej a nakrájej na kostičky asi 5 mm. Okurky a cibuli nakrájej co nejjemněji. Na chlebíčky má být salát drobnější a bez velkých kusů zeleniny, aby držel na vece a dal se krájet.",
+      "section": "Podkladový salát (den předem)"
+    },
+    {
+      "text": "Majonézu promíchej s hořčicí, 2 lžícemi okurkového nálevu, solí, pepřem a špetkou cukru. Vmíchej brambory, okurky a cibuli, salát přikryj a nech ho alespoň 2 hodiny, nejlépe přes noc, odležet v lednici.",
+      "section": "Podkladový salát (den předem)"
+    },
+    {
+      "text": "Vejce vlož do vroucí vody a vař 10 minut, pak je zchlaď ve studené vodě. Oloupaná je nakrájej kráječem na plátky. Na chlebíčky se hodí prostřední pravidelné plátky, krajní spotřebuj jinde.",
+      "section": "Skládání"
+    },
+    {
+      "text": "Veku krájej ostrým vlnitým nožem šikmo na plátky silné asi 1 cm, z jedné veky vyjde 18 až 20 kusů. Každý plátek tence potři změklým máslem. Máslo nedá salátu nasáknout do pečiva, takže veka zůstane pevná.",
+      "section": "Skládání"
+    },
+    {
+      "text": "Na každý plátek dej kopeček podkladového salátu, asi 25 g, a uhlaď ho nožem do mírné vlny, okraje veky nech volné asi 5 mm. Na polovinu chlebíčků polož zamotanou šunku, na druhou polovinu plátek eidamu přeložený do trojúhelníku.",
+      "section": "Skládání"
+    },
+    {
+      "text": "Šunku zamotáš takhle: plátek přelož podélně napůl, pak ho volně stoč od jednoho konce do rolky a horní okraj trochu rozevři jako kornoutek. Rychlejší je složit plátek do harmoniky ve tvaru vlnky a položit ho napříč chlebíčkem.",
+      "section": "Skládání"
+    },
+    {
+      "text": "Ke šunce nebo sýru polož plátek vejce, vějířek okurky (kolečko nebo podélný plátek nařízni a rozevři), proužek papriky a lístek petrželky. Majonézu na zdobení dej do sáčku, ustřihni malý roh a udělej na každý chlebíček jednu tečku nebo vlnku.",
+      "section": "Skládání"
+    },
+    {
+      "text": "Hotové chlebíčky dej na tác nebo do krabice tak, aby se nedotýkaly, přikryj je fólií a hned je ulož do lednice. Vyndej je až těsně před podáváním.",
+      "section": "Skládání"
+    }
+  ],
+  "tips": [
+    "Den předem: brambory, podkladový salát a vejce. V den oslavy: krájení veky a skládání, nejvýš 3 až 4 hodiny před podáváním. Dřív složené chlebíčky v lednici vysychají a veka pod salátem měkne.",
+    "Složené chlebíčky vydrží v lednici do druhého dne, ale nejlepší jsou ten den. Podkladový salát sám vydrží v uzavřené dóze v lednici 2 dny.",
+    "Majonéza, vejce i šunka patří do lednice. Na stole při pokojové teplotě je nenechávej déle než 2 hodiny, v teplé místnosti radši kratší dobu.",
+    "Klasický bramborový salát se zeleninou máme jako samostatný recept. Na chlebíčky ho můžeš použít také, jen zeleninu nakrájej drobněji."
+  ],
+  "substitutions": [
+    "Místo podkladového salátu můžeš použít jemnou pomazánku na chlebíčky, bramborovou nebo celerovou pomazánku, vlašský nebo pařížský salát, na jeden chlebíček vždy asi 25 g.",
+    "Šunku lze vyměnit za vysočinu nebo jiný trvanlivý salám v tenkých plátcích, eidam za jiný plátkový sýr.",
+    "Bezmasá verze: šunku vynech a dej dvojitou porci sýra a vejce, ozdob cherry rajčátkem."
+  ],
+  "faq": [
+    {
+      "q": "Jak zamotat šunku na chlebíčky?",
+      "a": "Plátek šunky přelož podélně napůl, volně ho stoč od jednoho konce do rolky a horní okraj rozevři do kornoutku. Jednodušší je složit plátek do vlnky jako harmoniku. Tenké plátky se motají líp než silné."
+    },
+    {
+      "q": "Jak ozdobit chlebíčky?",
+      "a": "Stačí tři barvy: plátek vejce, vějířek kyselé okurky a proužek červené papriky nebo kousek rajčete. K tomu lístek petrželky a tečka majonézy ze sáčku s ustřiženým rohem. Zdobení drž malé, chlebíček se pak dobře kouše."
+    },
+    {
+      "q": "Kolik hodin předem dělat chlebíčky?",
+      "a": "Skládej je nejvýš 3 až 4 hodiny před podáváním a do té doby je drž přikryté v lednici. Salát a vejce připrav klidně den předem. Na stole je nenechávej déle než 2 hodiny."
+    }
+  ],
+  "occasions": [
+    "silvestr",
+    "narozeniny"
+  ]
+}

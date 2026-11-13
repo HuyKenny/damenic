@@ -1,0 +1,170 @@
+{
+  "title": "Narozeninový dort s mascarpone a ovocem",
+  "keywords": [
+    "narozeninový dort",
+    "narozeninový dort s mascarpone a ovocem",
+    "narozeninový dort recept jednoduchý",
+    "narozeninový dort s ovocem",
+    "jednoduchý narozeninový dort"
+  ],
+  "image": "dish-narozeninovy-dort",
+  "category": "dorty",
+  "occasions": [
+    "narozeniny"
+  ],
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 60,
+  "cookMinutes": 35,
+  "waitMinutes": 420,
+  "waitLabel": "chladnutí korpusu a odležení dortu v lednici",
+  "difficulty": "střední",
+  "intro": "Narozeninový dort se třemi pláty piškotu, pevným krémem z mascarpone a šlehačky a čerstvým ovocem uvnitř i navrchu. Peče se ve formě o průměru 24 cm a vystačí na 12 dílků. Korpus je nejlepší upéct den předem, hotový dort pak potřebuje aspoň 4 hodiny v lednici, aby se vrstvy spojily.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 6,
+      "unit": "ks",
+      "note": "pokojové teploty",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 180,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 30,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Sirup"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Sirup"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Sirup"
+    },
+    {
+      "ingredient": "mascarpone",
+      "amount": 500,
+      "unit": "g",
+      "note": "studené",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 400,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 400,
+      "unit": "g",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "maliny",
+      "amount": 250,
+      "unit": "g",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "boruvky",
+      "amount": 250,
+      "unit": "g",
+      "group": "Ovoce"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpus",
+      "text": "Troubu předehřej na 170 °C (horkovzduch 160 °C) a dno formy o průměru 24 cm vylož papírem. Vejce s cukrem a solí šlehej 10 až 12 minut na nejvyšší rychlost, dokud nemají trojnásobný objem a stuha ze šlehače nezůstává ležet na povrchu."
+    },
+    {
+      "text": "Prosátou mouku se škrobem vmíchej stěrkou ve třech dávkách, pohybem ode dna nahoru. Peč 30 až 35 minut, dokud povrch nepruží a špejle nevyjde suchá. Formu obrať dnem vzhůru a nech korpus vychladnout, nejlépe přes noc zabalený ve fólii."
+    },
+    {
+      "section": "Sirup",
+      "text": "Vodu s cukrem povař minutu, aby se cukr rozpustil, odstav a přidej citronovou šťávu. Nech vychladnout."
+    },
+    {
+      "section": "Krém",
+      "text": "Do vychlazené mísy dej studené mascarpone, studenou smetanu, moučkový a vanilkový cukr. Šlehej nejdřív na nízké, pak na střední otáčky 2 až 3 minuty, dokud krém nedrží pevné špičky. Pak hned přestaň, přešlehaný krém se srazí."
+    },
+    {
+      "section": "Skládání",
+      "text": "Korpus rozkroj na tři pláty. Spodní polož na podnos, nasaď kolem něj okraj formy nebo dortový ráfek a pokapej ho třetinou sirupu. Rozetři na něj čtvrtinu krému a poklaď třetinou ovoce, jahody rozpůlené."
+    },
+    {
+      "text": "Stejně udělej druhé patro a přiklop třetím plátem řezem dolů. Pokapej ho zbytkem sirupu. Dort dej i s ráfkem na 2 hodiny do lednice, aby se usadil."
+    },
+    {
+      "text": "Sundej ráfek, zbylý krém rozetři po vršku a bocích a navrch nasyp zbylé ovoce. Před podáváním nech dort ještě aspoň 2 hodiny v lednici. Svíčky zapichuj až těsně před přinesením ke stolu."
+    }
+  ],
+  "tips": [
+    "Mascarpone a smetana musí být přímo z lednice. Teplé se nevyšlehají a krém zůstane řídký.",
+    "Dort s mascarpone a čerstvým ovocem vydrží v lednici 2 dny. Ovoce navrch dávej až v den oslavy, jinak pouští šťávu.",
+    "Na dort o průměru 20 cm pro 8 lidí stačí dvě třetiny surovin. Korpus ze 4 vajec peč 25 až 30 minut."
+  ],
+  "substitutions": [
+    "Polovinu mascarpone můžeš nahradit tvarohem. Krém bude lehčí, ale méně pevný, proto ho drž v lednici až do podávání.",
+    "Pro dětskou oslavu ochuť sirup místo citronu 2 lžícemi ovocného sirupu.",
+    "Mražené ovoce dovnitř dortu nedávej, při rozmrazení pouští vodu a krém zřídne."
+  ],
+  "faq": [
+    {
+      "q": "Kolik dortu je potřeba na oslavu?",
+      "a": "Dort o průměru 24 cm se dá nakrájet na 12 dílků, o průměru 20 cm na 8 a o průměru 26 cm na 14 až 16. Když se podává i jiné sladké, stačí menší dílky."
+    },
+    {
+      "q": "Můžu narozeninový dort připravit den předem?",
+      "a": "Ano, den předem je ideální. Korpus upeč dva dny předem, dort slož den předem a ovoce navrch dej až v den oslavy."
+    },
+    {
+      "q": "Jak ozdobit narozeninový dort jednoduše?",
+      "a": "Krém uhlaď stěrkou, vršek pokryj ovocem nasypaným do kopečku a okraj posyp nasekanými pistáciemi nebo strouhanou čokoládou. Víc dort s ovocem nepotřebuje."
+    }
+  ]
+}

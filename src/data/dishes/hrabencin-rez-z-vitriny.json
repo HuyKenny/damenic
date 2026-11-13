@@ -1,0 +1,26 @@
+{
+  "name": "Hraběnčin řez",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Řezy z plechu",
+  "description": "Křehké máslové těsto, rybízový džem a zlatavý sníh s ořechy. Drobí se jen ve vzpomínkách.",
+  "about": [
+    "Hraběnčiny řezy jsou tři vrstvy, které se doplňují: křehké máslové těsto, kyselý rybízový džem a sladký sníh s vlašskými ořechy upečený dozlatova. Džem tu není ozdoba, vyvažuje cukr ve sněhu.",
+    "U nás leží na tácku v rohu vitríny a čekají na hraběnku, která nepřijde. Doma je upečeš na jednom plechu a dvacet řezů vydrží pár dní v dóze. Jen je nedávej do lednice, sníh by se rozplakal."
+  ],
+  "price": 5500,
+  "image": "dish-hrabencin-rez-z-vitriny",
+  "recipe": "hrabenciny-rezy",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 60
+}

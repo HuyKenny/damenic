@@ -1,0 +1,95 @@
+{
+  "title": "Máslový krém na dort",
+  "keywords": [
+    "krém na dort",
+    "máslový krém na dort",
+    "jednoduchý máslový krém na dort",
+    "pudinkový krém na dort",
+    "pudinkovo máslový krém na dort"
+  ],
+  "image": "dish-maslovy-krem-na-dort",
+  "category": "dorty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 25,
+  "cookMinutes": 5,
+  "waitMinutes": 120,
+  "waitLabel": "chladnutí pudinku na pokojovou teplotu",
+  "difficulty": "snadné",
+  "intro": "Klasický krém na dort z vanilkového pudinku a másla stačí na náplň i potažení jednoho dortu o průměru 24 cm. Je pevný, dobře se maže i stříká ze sáčku a v chladu drží tvar. Srazí se jen tehdy, když pudink a máslo nemají stejnou teplotu.",
+  "ingredients": [
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 37,
+      "unit": "g",
+      "note": "1 sáček"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 250,
+      "unit": "g",
+      "note": "změklé, pokojové teploty"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Pudink",
+      "text": "Z mléka odlij asi 100 ml a rozmíchej v nich pudinkový prášek dohladka. Zbytek mléka přiveď s cukrem k varu."
+    },
+    {
+      "text": "Odstav, za stálého míchání vlij rozmíchaný pudink, vrať hrnec na plotnu a za míchání vař asi minutu, dokud pudink nezhoustne a nezačne bublat."
+    },
+    {
+      "text": "Pudink přelij do mísy a hned ho přikryj potravinovou fólií přímo na povrchu, aby se nevytvořil škraloup. Nech ho vychladnout na pokojovou teplotu, asi 20 °C. Trvá to 1,5 až 2 hodiny, do lednice ho nedávej."
+    },
+    {
+      "section": "Krém",
+      "text": "Máslo pokojové teploty šlehej s vanilkovým cukrem 3 až 5 minut, dokud nezbělá a nezvětší objem."
+    },
+    {
+      "text": "Za stálého šlehání přidávej pudink po lžících, každou další až po zapracování předchozí. Hotový krém je hladký, lesklý a nadýchaný."
+    },
+    {
+      "text": "Krém použij hned na náplň i potažení. Natřený dort dej aspoň na hodinu do lednice, krém ztuhne a dort se dá rovně krájet."
+    }
+  ],
+  "tips": [
+    "Když se krém srazí do hrudek, má jedna ze složek jinou teplotu. Postav mísu na pár vteřin nad hrnec s teplou vodou a šlehej dál, krém se spojí.",
+    "Jednoduchý máslový krém bez vaření: 250 g změklého másla ušlehej se 150 g moučkového cukru a 2 lžícemi mléka do bíla. Je sladší a těžší, ale hotový za 10 minut.",
+    "Krém vydrží v lednici 3 dny. Před použitím ho nech povolit na pokojovou teplotu a znovu prošlehej."
+  ],
+  "substitutions": [
+    "Čokoládový krém: do horkého pudinku rozpusť 100 g hořké čokolády.",
+    "Ořechový krém: do hotového krému vmíchej 100 g mletých vlašských ořechů nebo lískových oříšků.",
+    "Lehčí krém: polovinu másla nahraď mascarpone pokojové teploty a šlehej ho s máslem jen krátce."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat krém na dort, aby se nesrazil?",
+      "a": "Máslo i pudink musí mít stejnou pokojovou teplotu kolem 20 °C a pudink se do ušlehaného másla přidává po lžících. Studený pudink z lednice je nejčastější důvod, proč se krém srazí."
+    },
+    {
+      "q": "Jak zahustit krém na dort?",
+      "a": "Vychlaď ho 15 až 20 minut v lednici a znovu prošlehej. Když je řídký kvůli teplému pudinku, pomůže přidat 50 g změklého másla nebo 2 lžíce moučkového cukru."
+    },
+    {
+      "q": "Kolik krému je potřeba na dort?",
+      "a": "Na náplň a potažení dortu o průměru 24 cm se třemi pláty počítej s krémem z 500 ml mléka a 250 g másla, tedy asi s 900 g. Na dort o průměru 20 cm stačí dvě třetiny."
+    }
+  ]
+}

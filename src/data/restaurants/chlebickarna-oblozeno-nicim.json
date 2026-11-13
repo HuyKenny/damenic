@@ -1,0 +1,33 @@
+{
+  "name": "Chlebíčkárna Obloženo ničím",
+  "category": "sendvice",
+  "cuisine": "Chlebíčky, jednohubky a lahůdkové saláty",
+  "tagline": "Šunka zamotaná, vajíčko na kolečka. Obloženo je to ničím.",
+  "description": "Obložené chlebíčky, jednohubky na párátku, tortillové rolky a vlašský salát na oslavu. Chlebíčkárna je smyšlená, takže tác přijede prázdný a skládat budeš doma podle receptu.",
+  "etaMinutes": 25,
+  "deliveryFee": 2900,
+  "minOrder": 14900,
+  "priceLevel": 1,
+  "hours": {
+    "open": "08:00",
+    "close": "19:00"
+  },
+  "pickup": true,
+  "tags": [
+    "rodinné porce"
+  ],
+  "isNew": true,
+  "logo": {
+    "text": "ON",
+    "color": "#F4D35E",
+    "ink": "dark"
+  },
+  "cover": "rest-chlebickarna-oblozeno-nicim",
+  "sections": [
+    "Chlebíčky",
+    "Jednohubky",
+    "Saláty a slané",
+    "Nápoje"
+  ],
+  "order": 285
+}

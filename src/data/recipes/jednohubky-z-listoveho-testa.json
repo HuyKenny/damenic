@@ -1,0 +1,108 @@
+{
+  "title": "Jednohubky z listového těsta: šunkoví šnečci se sýrem",
+  "keywords": [
+    "jednohubky z listového těsta",
+    "slané jednohubky z listového těsta",
+    "silvestrovské pohoštění z listového těsta",
+    "šnečci z listového těsta"
+  ],
+  "image": "dish-jednohubky-z-listoveho-testa",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 12,
+  "activeMinutes": 25,
+  "cookMinutes": 18,
+  "waitMinutes": 20,
+  "waitLabel": "ztuhnutí rolek v lednici",
+  "difficulty": "snadné",
+  "intro": "Jednohubky z listového těsta ve tvaru šnečků se šunkou a sýrem. Ze dvou plátů vyjde asi 60 kusů, tedy pět na osobu pro 12 lidí. Aby šnečci drželi kulatý tvar, musí rolka před krájením 20 minut ztuhnout v lednici a těsto musí zůstat studené až do trouby.",
+  "ingredients": [
+    {
+      "ingredient": "listove-testo",
+      "amount": 550,
+      "unit": "g",
+      "note": "2 pláty, chlazené"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "volitelně"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 200,
+      "unit": "g",
+      "note": "tenké plátky"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na potření"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "volitelně"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C, horkovzduch na 180 °C. Dva plechy vylož pečicím papírem."
+    },
+    {
+      "text": "Plát těsta rozviň i s papírem, na kterém je zabalený, a tence ho potři lžící hořčice. Podél jedné delší strany nech 2 cm volný okraj, ten se pak přilepí."
+    },
+    {
+      "text": "Těsto poklaď šunkou v jedné vrstvě, posyp polovinou sýra a lehce paprikou. Pak ho pevně stoč od delší strany do rolky, volný okraj potři rozšlehaným vejcem a přimáčkni. Stejně udělej i druhý plát."
+    },
+    {
+      "text": "Rolky zabal do papíru nebo fólie a dej je na 20 minut do lednice. Studené těsto se krájí čistě a šnečci se nezplacatí."
+    },
+    {
+      "text": "Ostrým nožem krájej kolečka silná asi 1,2 cm a klaď je na plech řeznou stranou nahoru s mezerami 2 cm. Z každé rolky vyjde asi 30 kusů. Potři je rozšlehaným vejcem."
+    },
+    {
+      "text": "Peč 15 až 18 minut, dokud nejsou zlatohnědé i zespodu a těsto po stranách viditelně nevyběhne do vrstev. Peč po jednom plechu, s horkovzduchem můžeš dát oba najednou a vyměnit je v polovině."
+    },
+    {
+      "text": "Nech je 5 minut zchladnout na plechu, pak je přendej na mřížku. Podávají se teplé i vychladlé, na tácu je můžeš napíchnout na párátka."
+    }
+  ],
+  "tips": [
+    "Upečené šnečky skladuj vychladlé v uzavřené dóze v lednici, vydrží 2 dny. Před podáváním je rozpeč 5 minut na 180 °C, znovu zkřupavějí.",
+    "Neupečené rolky zabalené ve fólii vydrží v lednici do druhého dne, nebo je zamraz až na měsíc a krájej je zmrazené, jen přidej 3 minuty pečení.",
+    "Šunka a sýr i upečené pohoštění snesou na stole nejvýš 2 hodiny, pak je dej do lednice."
+  ],
+  "substitutions": [
+    "Místo hořčice potři těsto pestem nebo rajčatovým protlakem, šunku můžeš nahradit slaninou nebo pikantním salámem.",
+    "Bezmasá verze: 150 g nastrouhané nivy nebo eidamu s 2 lžícemi nasekaného špenátu.",
+    "Sladké jednohubky z listového těsta: místo šunky a sýra těsto potři 100 g meruňkového džemu a posyp skořicovým cukrem, pečení je stejné."
+  ],
+  "faq": [
+    {
+      "q": "Proč se šnečci z listového těsta rozjedou?",
+      "a": "Těsto bylo při krájení teplé nebo rolka nebyla dost pevně stočená. Rolku dej na 20 minut do lednice a krájej ostrým nožem, ne pilkou."
+    },
+    {
+      "q": "Můžu jednohubky z listového těsta upéct den předem?",
+      "a": "Ano. Vychladlé je dej do dózy do lednice a před podáváním je 5 minut rozpeč na 180 °C. Vydrží 2 dny."
+    },
+    {
+      "q": "Jaké listové těsto koupit?",
+      "a": "Nejpohodlnější je chlazené válené těsto na papíře, jeden plát má obvykle 275 g. Mražené v bloku je nutné nechat povolit a vyválet na tloušťku asi 3 mm."
+    }
+  ],
+  "occasions": [
+    "silvestr",
+    "narozeniny"
+  ]
+}

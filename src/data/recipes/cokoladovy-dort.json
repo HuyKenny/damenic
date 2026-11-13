@@ -1,0 +1,162 @@
+{
+  "title": "Čokoládový dort s ganache",
+  "keywords": [
+    "čokoládový dort",
+    "čokoládový dort recept",
+    "vláčný čokoládový dort",
+    "čokoládový dort s malinami",
+    "čokoládová ganache na dort"
+  ],
+  "image": "dish-cokoladovy-dort-dilek",
+  "category": "dorty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 45,
+  "cookMinutes": 50,
+  "waitMinutes": 240,
+  "waitLabel": "chladnutí korpusu a tuhnutí ganache",
+  "difficulty": "střední",
+  "intro": "Čokoládový dort z vláčného kakaového korpusu a hladké ganache z hořké čokolády a smetany, pečený ve formě o průměru 24 cm. Těsto se míchá jen metličkou a horká voda v něm udělá vlhkou, hutnou střídu. Těžké je jen jedno: nechat korpus úplně vychladnout, než ho rozkrojíš a namažeš.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 300,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 75,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 8,
+      "unit": "g",
+      "note": "1,5 lžičky",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 6,
+      "unit": "g",
+      "note": "půl sáčku",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "pokojové teploty",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 240,
+      "unit": "ml",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do mléka, vznikne náhrada podmáslí",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 120,
+      "unit": "ml",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 240,
+      "unit": "ml",
+      "note": "horká, nebo horká silná káva",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Ganache"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Ganache"
+    },
+    {
+      "ingredient": "maliny",
+      "amount": 150,
+      "unit": "g",
+      "note": "volitelně, do náplně a navrch",
+      "group": "Ganache"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpus",
+      "text": "Troubu předehřej na 175 °C (horkovzduch 165 °C). Dno dortové formy o průměru 24 cm vylož pečicím papírem, boky vymaž máslem a vysyp kakaem. Do mléka vmíchej lžíci octa a nech ho 5 minut stát, lehce zhoustne."
+    },
+    {
+      "text": "Do velké mísy prosej mouku, kakao, jedlou sodu a prášek do pečiva, přidej cukr a sůl a promíchej metličkou."
+    },
+    {
+      "text": "Přidej vejce, okyselené mléko a olej a metličkou míchej asi minutu do hladka. Nakonec za stálého míchání přilij horkou vodu nebo kávu. Těsto bude řídké jako na palačinky, to je v pořádku."
+    },
+    {
+      "text": "Těsto nalij do formy a peč 45 až 55 minut. Prvních 30 minut troubu neotvírej. Hotový korpus má pružný povrch a špejle zapíchnutá doprostřed vyjde suchá, nanejvýš s pár vlhkými drobky."
+    },
+    {
+      "text": "Nech korpus 15 minut ve formě, pak ho nožem uvolni od okraje, vyklop na mřížku a nech úplně vychladnout, aspoň 2 hodiny. Teplý korpus se při krájení drolí a krém na něm teče."
+    },
+    {
+      "section": "Ganache",
+      "text": "Čokoládu nalámej do misky. Smetanu zahřej těsně pod bod varu, nalij ji na čokoládu, nech 2 minuty stát a pak stěrkou míchej od středu, dokud nevznikne hladká lesklá ganache. Nech ji tuhnout při pokojové teplotě 1 až 2 hodiny, dokud nemá konzistenci měkkého másla."
+    },
+    {
+      "section": "Skládání",
+      "text": "Vychladlý korpus vodorovně rozkroj na dva pláty. Spodní plát potři třetinou ganache, podle chuti poklaď malinami a přiklop druhým plátem. Zbytek ganache rozetři po vršku a bocích a dort nech aspoň hodinu ztuhnout v chladu."
+    }
+  ],
+  "tips": [
+    "Když je ganache moc tekutá, dej ji na 10 až 15 minut do lednice a pak ji promíchej. Když ztuhne moc, ohřej ji pár vteřin nad párou.",
+    "Korpus upečený den předem a zabalený ve fólii se krájí nejlépe a drží vlhkost.",
+    "Čokoládový dort vydrží v lednici pod poklopem 3 až 4 dny. Před podáváním ho nech 30 minut při pokojové teplotě, ganache změkne a chuť vynikne."
+  ],
+  "substitutions": [
+    "Místo mléka s octem použij 240 ml podmáslí.",
+    "Hořkou čokoládu můžeš v ganache nahradit napůl mléčnou. Krém bude sladší a měkčí, proto k 300 g čokolády dej jen 250 ml smetany.",
+    "Místo horké vody se hodí horká káva. Chuť čokolády prohloubí a v hotovém dortu ji nepoznáš."
+  ],
+  "faq": [
+    {
+      "q": "Jak ozdobit čokoládový dort?",
+      "a": "Nejjednodušší je hladká vrstva ganache a čerstvé maliny nebo jahody. Hezky vypadá i ganache stékající po okraji: nalij ji vlažnou na vychladlý dort a lžící ji postrkuj přes hranu. Hobliny uděláš škrabkou na zeleninu z kousku čokolády pokojové teploty."
+    },
+    {
+      "q": "Proč je čokoládový dort suchý?",
+      "a": "Nejčastěji se pekl moc dlouho. Zkoušej ho špejlí už 10 minut před koncem a vyndej ho, jakmile vyjde suchá nebo jen s pár vlhkými drobky. Vláčnost drží i olej místo másla a horká tekutina v těstě."
+    },
+    {
+      "q": "Kolik ganache potřebuji na dort o průměru 24 cm?",
+      "a": "Na náplň a potažení dortu o průměru 24 cm stačí ganache z 300 g čokolády a 300 ml smetany. Na dort o průměru 20 cm počítej s 200 g čokolády a 200 ml smetany."
+    }
+  ]
+}

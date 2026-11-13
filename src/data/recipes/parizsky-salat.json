@@ -1,0 +1,145 @@
+{
+  "title": "Pařížský salát s hovězím masem",
+  "keywords": [
+    "pařížský salát",
+    "pařížský salát na chlebíčky",
+    "pařížský salát recept",
+    "salát na chlebíčky"
+  ],
+  "image": "dish-parizsky-salat",
+  "category": "salaty",
+  "vegetarian": false,
+  "servings": 10,
+  "activeMinutes": 30,
+  "cookMinutes": 150,
+  "waitMinutes": 180,
+  "waitLabel": "vychladnutí masa a odležení salátu",
+  "difficulty": "střední",
+  "intro": "Pařížský salát na chlebíčky z vařeného hovězího masa, kyselých okurek a cibule v majonéze s hořčicí. Vyjde asi 900 g, na 35 chlebíčků. Nejvíc času zabere maso: vaří se pomalu 2 až 2,5 hodiny a chladne přímo ve vývaru, aby zůstalo šťavnaté.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-zadni",
+      "amount": 600,
+      "unit": "g",
+      "note": "v celku",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do vody",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 200,
+      "unit": "g",
+      "note": "plus 2 lžíce nálevu",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 250,
+      "unit": "g",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Salát"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso vlož do hrnce, zalij asi 2 litry studené vody, přidej bobkový list, nové koření, celý pepř a sůl. Přiveď k varu, sesbírej pěnu a vař mírně pod pokličkou 2 až 2,5 hodiny, dokud maso nejde snadno propíchnout vidličkou.",
+      "section": "Maso"
+    },
+    {
+      "text": "Maso nech vychladnout přímo ve vývaru, pak ho vyndej a dej na 2 hodiny nebo přes noc do lednice. Vychladlé maso se dá nakrájet na tenké nudličky a nerozpadá se.",
+      "section": "Maso"
+    },
+    {
+      "text": "Maso nakrájej proti vláknu na tenké plátky a ty na nudličky dlouhé 2 až 3 cm. Okurky nakrájej na stejné nudličky, cibuli co nejjemněji na kostičky.",
+      "section": "Salát"
+    },
+    {
+      "text": "Majonézu promíchej s hořčicí, octem, okurkovým nálevem, cukrem a pepřem. Vmíchej maso, okurky a cibuli a teprve teď osol podle chuti, maso už sůl má.",
+      "section": "Salát"
+    },
+    {
+      "text": "Salát přikryj a nech ho alespoň hodinu odležet v lednici. Na chlebíček ho dávej asi 25 g a ozdob plátkem vejce nebo kouskem okurky.",
+      "section": "Salát"
+    }
+  ],
+  "tips": [
+    "Pařížský salát vydrží v uzavřené dóze v lednici 2 dny. Samotné uvařené maso ve vývaru vydrží v lednici 3 dny, takže ho můžeš uvařit s předstihem.",
+    "Majonéza, vejce i šunka patří do lednice. Na stole při pokojové teplotě je nenechávej déle než 2 hodiny, v teplé místnosti radši kratší dobu.",
+    "Vývar z masa nevylévej, je to hotový základ na polévku. Přeceď ho a do 3 dnů spotřebuj nebo zamraz."
+  ],
+  "substitutions": [
+    "Rychlá verze bez vaření: místo hovězího použij 400 g šunky nebo dušené vepřové kýty nakrájené na nudličky.",
+    "Jemnější chuť: polovinu majonézy nahraď zakysanou smetanou a cibuli vyměň za jarní cibulku."
+  ],
+  "faq": [
+    {
+      "q": "Jaké maso do pařížského salátu?",
+      "a": "Klasicky vařené hovězí zadní, třeba válec nebo kýta, které se dobře krájí na nudličky. Kdo spěchá, použije šunku, chuť pak bude jemnější."
+    },
+    {
+      "q": "Patří do pařížského salátu brambory?",
+      "a": "Ne. Pařížský salát je maso, okurky a cibule v majonéze. Brambory, mrkev a hrášek patří do salátu vlašského."
+    },
+    {
+      "q": "Jak dlouho vydrží pařížský salát v lednici?",
+      "a": "V uzavřené dóze v lednici 2 dny. Kvůli majonéze ho na stole nenechávej déle než 2 hodiny."
+    }
+  ],
+  "occasions": [
+    "silvestr",
+    "narozeniny"
+  ]
+}

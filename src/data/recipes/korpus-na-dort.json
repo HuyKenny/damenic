@@ -1,0 +1,110 @@
+{
+  "title": "Piškotový korpus na dort",
+  "keywords": [
+    "korpus na dort",
+    "nadýchaný piškotový korpus na dort",
+    "piškotový korpus na dort",
+    "jednoduchý korpus na dort",
+    "korpus na dort recept"
+  ],
+  "image": "dish-korpus-na-dort",
+  "category": "dorty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 25,
+  "cookMinutes": 35,
+  "waitMinutes": 180,
+  "waitLabel": "chladnutí korpusu dnem vzhůru",
+  "difficulty": "střední",
+  "intro": "Nadýchaný piškotový korpus na dort ze 6 vajec do formy o průměru 24 až 26 cm, bez kypřicího prášku. Všechnu výšku mu dává vzduch vyšlehaný do vajec, takže rozhoduje šlehání a jemné vmíchání mouky. Postup ukazuje, jak poznat dost ušlehaná vejce a co udělat, aby korpus po upečení nepropadl.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 6,
+      "unit": "ks",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 180,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 30,
+      "unit": "ml",
+      "note": "2 lžíce horké"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 30,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Vejce nech 30 minut odpočinout při pokojové teplotě. Troubu předehřej na 170 °C, horní a spodní ohřev (horkovzduch 160 °C). Dno formy o průměru 24 až 26 cm vylož pečicím papírem a boky nevymazávej: těsto se o ně při pečení opírá a šplhá nahoru."
+    },
+    {
+      "text": "Mouku se škrobem dvakrát prosej, aby byla bez hrudek a provzdušněná."
+    },
+    {
+      "section": "Šlehání vajec",
+      "text": "Celá vejce, cukr a sůl dej do velké čisté mísy a šlehej elektrickým šlehačem na nejvyšší rychlost 10 až 12 minut. Nejdřív vznikne žlutá řídká pěna, postupně zbělá a zhoustne."
+    },
+    {
+      "text": "Jak poznat, že je pěna hotová: má asi trojnásobný objem, je světle krémová a stuha, která steče ze šlehače, zůstane na povrchu ležet aspoň 3 vteřiny. Když hned zmizí, šlehej dál. Nakonec přilij horkou vodu a šlehej ještě 30 vteřin."
+    },
+    {
+      "section": "Mouka",
+      "text": "Mouku přisívej ve třech dávkách přímo na pěnu a vmíchávej ji velkou stěrkou: zajeď ke dnu, otoč mísou a stěrku vytáhni po stěně nahoru. Nemíchej dokola a nešlehej, z pěny by unikl vzduch. Přestaň, jakmile zmizí suchá mouka."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto hned nalij do formy, povrch jemně urovnej a peč 30 až 35 minut. Prvních 25 minut troubu neotvírej, náhlý chlad by korpus srazil. Hotový je zlatohnědý, při lehkém stisku pruží zpátky a špejle vyjde suchá."
+    },
+    {
+      "section": "Aby nepropadl",
+      "text": "Formu hned po vytažení pusť z výšky asi 30 cm na linku, uvolní se horká pára. Pak ji obrať dnem vzhůru a polož okrajem na dva hrnky nebo na mřížku, aby korpus chladl vzhůru nohama. Tak nesplaskne vlastní vahou."
+    },
+    {
+      "text": "Po úplném vychladnutí, asi za 2 až 3 hodiny, korpus nožem uvolni od okraje a vyndej. Nejlépe se krájí druhý den: zabal ho do fólie a nech přes noc v chladu. Na tři pláty ho rozkroj dlouhým nožem nebo nití."
+    }
+  ],
+  "tips": [
+    "Do vajec se nesmí dostat tuk. Mísa i metly musí být čisté a suché, jinak pěna nenaroste.",
+    "Na formu o průměru 20 cm stačí 4 vejce, 120 g cukru, 100 g mouky a 20 g škrobu. Peč 25 až 30 minut.",
+    "Proč korpus propadne: nedošlehaná vejce, moc dlouho míchaná mouka, otevřená trouba v první půlce pečení nebo nedopečený střed. Když po stisku zůstane důlek, peč ještě 5 minut.",
+    "Zabalený korpus vydrží v lednici 2 až 3 dny, v mrazáku asi měsíc. Rozmrazuj ho přes noc v lednici."
+  ],
+  "substitutions": [
+    "Místo hladké mouky se škrobem můžeš použít 180 g hladké mouky. Korpus bude o něco pevnější.",
+    "Kakaový korpus: nahraď 30 g mouky kakaem a prosej ho spolu s moukou.",
+    "Bezlepkový korpus: místo mouky a škrobu použij 180 g bezlepkové směsi na pečení. Šlehání vajec zůstává stejné."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží korpus na dort?",
+      "a": "Zabalený ve fólii vydrží při pokojové teplotě 1 den, v lednici 2 až 3 dny a v mrazáku asi měsíc. Zmrzlý se láme, proto ho před krájením nech povolit."
+    },
+    {
+      "q": "Proč piškotový korpus propadl?",
+      "a": "Vejce nebyla dost ušlehaná, mouka se do pěny míchala moc dlouho, nebo se trouba otevřela v první půlce pečení. Propadne i nedopečený korpus. Pomáhá pečení do chvíle, kdy povrch pruží, a chladnutí dnem vzhůru."
+    },
+    {
+      "q": "Musím korpus péct den předem?",
+      "a": "Nemusíš, ale pomůže to. Odležený korpus se méně drolí, rovněji se krájí a lépe nasaje sirup. Rozkrojit ho jde nejdřív po úplném vychladnutí, tedy asi za 3 hodiny."
+    }
+  ]
+}

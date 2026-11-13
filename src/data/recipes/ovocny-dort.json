@@ -1,0 +1,177 @@
+{
+  "title": "Ovocný dort se želé",
+  "keywords": [
+    "ovocný dort",
+    "ovocný dort recept",
+    "jednoduchý ovocný dort",
+    "ovocný dort s mascarpone",
+    "ovocný dort se želatinou"
+  ],
+  "image": "dish-ovocny-dort",
+  "category": "dorty",
+  "vegetarian": false,
+  "servings": 12,
+  "activeMinutes": 50,
+  "cookMinutes": 25,
+  "waitMinutes": 240,
+  "waitLabel": "chladnutí korpusu a tuhnutí želé",
+  "difficulty": "střední",
+  "intro": "Ovocný dort s tenkým piškotovým korpusem, krémem z mascarpone a tvarohu a čerstvým ovocem pod lesklým želé. Peče se ve formě o průměru 26 cm, takže je nízký a vejde se na něj hodně ovoce. Želé se lije, až když začíná houstnout, jinak proteče krémem.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "pokojové teploty",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 120,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 20,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mascarpone",
+      "amount": 250,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 300,
+      "unit": "g",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "maliny",
+      "amount": 125,
+      "unit": "g",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "boruvky",
+      "amount": 125,
+      "unit": "g",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "pomeranc",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Želé"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 30,
+      "unit": "g",
+      "group": "Želé"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "1 lžíce šťávy",
+      "group": "Želé"
+    },
+    {
+      "ingredient": "zelatina",
+      "amount": 8,
+      "unit": "g",
+      "note": "prášková",
+      "group": "Želé"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpus",
+      "text": "Troubu předehřej na 170 °C (horkovzduch 160 °C), dno formy o průměru 26 cm vylož papírem a boky nevymazávej."
+    },
+    {
+      "text": "Vejce s cukrem a solí šlehej na nejvyšší rychlost 8 až 10 minut do husté světlé pěny, která drží stopu. Prosátou mouku se škrobem vmíchej stěrkou ve dvou dávkách, pohybem ode dna nahoru."
+    },
+    {
+      "text": "Těsto rozetři do formy a peč 20 až 25 minut do zlatova, dokud povrch nepruží a špejle nevyjde suchá. Nech vychladnout, pak korpus uvolni, vrať na dno formy, nasaď okraj a vylož ho pruhem papíru."
+    },
+    {
+      "section": "Krém",
+      "text": "Mascarpone, tvaroh, moučkový a vanilkový cukr prošlehej na nízké otáčky do hladka, asi minutu. Déle nešlehej, mascarpone by se mohlo srazit. Krém rozetři na korpus v rovné vrstvě."
+    },
+    {
+      "section": "Ovoce a želé",
+      "text": "Jahody rozpůl. Pomeranč oloupej i s bílou slupkou a vykroj z něj dílky bez blan. Suché ovoce skládej na krém v soustředných kruzích těsně k sobě."
+    },
+    {
+      "text": "Želatinu zasyp do 50 ml z odměřené studené vody a nech 10 minut nabobtnat. Zbytek vody přiveď s cukrem k varu, odstav, vmíchej citronovou šťávu a nabobtnalou želatinu a míchej, dokud se nerozpustí. Nech chladnout asi 30 minut, až začne mírně houstnout."
+    },
+    {
+      "text": "Želé nalévej lžící od středu po celém ovoci v tenké vrstvě. Dort dej aspoň na 2 hodiny do lednice, pak obejdi okraj nožem a formu sundej."
+    }
+  ],
+  "tips": [
+    "Na želé nepoužívej čerstvý ananas, kiwi ani papáju. Obsahují enzymy, které želatinu rozkládají. Ovoce z kompotu je v pořádku.",
+    "Ovoce musí být suché. Kapky vody pod želé dělají šmouhy a ovoce sjíždí.",
+    "Ovocný dort vydrží v lednici 2 dny. Krájej ho nožem namočeným v horké vodě."
+  ],
+  "substitutions": [
+    "Místo krému z mascarpone a tvarohu se hodí vanilkový pudinkový krém z 500 ml mléka, 1 sáčku pudinku a 60 g cukru, vychladlý pod fólií.",
+    "Želé jde udělat z džusu: vodu a cukr nahraď 250 ml jablečného nebo hroznového džusu, želatiny je potřeba stejně.",
+    "Bez lepku: v korpusu nahraď mouku a škrob 120 g bezlepkové směsi na pečení."
+  ],
+  "faq": [
+    {
+      "q": "Jak ozdobit ovocný dort, aby ovoce nesjíždělo?",
+      "a": "Skládej suché ovoce na krém, který není tekutý, a přelij ho houstnoucím želé. Želé ovoce přichytí a zároveň ho chrání před vysycháním a hnědnutím."
+    },
+    {
+      "q": "Proč želé na dortu neztuhlo?",
+      "a": "Bylo málo želatiny, želatina se vařila, nebo pod ní bylo syrové kiwi či ananas. Na 250 ml tekutiny počítej s 8 g práškové želatiny a rozpouštěj ji v horké, ne vroucí tekutině."
+    },
+    {
+      "q": "Kolik ovoce je potřeba na ovocný dort?",
+      "a": "Na dort o průměru 26 cm asi 700 g ovoce. Na dort o průměru 22 cm stačí zhruba 500 g."
+    }
+  ]
+}

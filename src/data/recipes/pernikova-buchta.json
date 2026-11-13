@@ -1,0 +1,152 @@
+{
+  "title": "Perníková buchta s povidly na plech",
+  "keywords": [
+    "perníková buchta recept",
+    "recept na perníkovou buchtu",
+    "buchta na plech recept",
+    "hrnková buchta recept"
+  ],
+  "intro": "Perníková buchta recept na velký plech: hrnkové těsto s kakaem, perníkovým kořením a povidly přímo v těstě, navrchu vlašské ořechy a citronová glazura. Vyjde 20 kusů. Na rozdíl od klasického perníku ve formě je buchta nižší, díky povidlům vláčnější a čokoládovou polevu nepotřebuje.",
+  "image": "dish-pernikova-buchta",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 20,
+  "cookMinutes": 28,
+  "waitMinutes": 45,
+  "waitLabel": "chladnutí a zaschnutí glazury",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 300,
+      "unit": "g",
+      "note": "2 hrnky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "note": "3/4 hrnku",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "pernikove-koreni",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "1 hrnek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 125,
+      "unit": "ml",
+      "note": "půl hrnku",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "povidla",
+      "amount": 200,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 80,
+      "unit": "g",
+      "note": "nahrubo nasekané",
+      "group": "Navrch"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Citronová glazura"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva, asi 3 lžíce",
+      "group": "Citronová glazura"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Předehřej troubu na 180 °C, horní a spodní ohřev (horkovzduch 170 °C). Plech 25 × 35 cm s vyšším okrajem vylož pečicím papírem."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vejce s cukrem rozšlehej metlou do pěny, přilij mléko a olej a vmíchej povidla, aby se rozpustila v tekuté části."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej s kakaem, perníkovým kořením, práškem do pečiva a sodou a vmíchej ji do tekuté části jen dohladka."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto vlij na plech, rozetři a posyp nasekanými ořechy. Peč 25 až 30 minut, dokud povrch při dotyku nepruží a špejle zapíchnutá doprostřed nevyjde suchá."
+    },
+    {
+      "section": "Glazura",
+      "text": "Moučkový cukr rozmíchej s citronovou šťávou po lžících na hustou hladkou glazuru. Na vlažnou buchtu ji pokapej nebo rozetři a nech 30 minut zaschnout. Pak nakrájej na 20 kusů."
+    }
+  ],
+  "tips": [
+    "Perníková buchta vydrží v uzavřené dóze 4 až 5 dnů a třetí den je nejvláčnější, protože koření se rozleží.",
+    "Na zamražení se hodí bez glazury, zabalená po kusech ve fólii; vydrží 2 měsíce.",
+    "Nepřepékej ji: tenká buchta na plechu vysychá rychleji než perník ve vysoké formě."
+  ],
+  "substitutions": [
+    "Povidla nahradíš 3 lžícemi medu a 2 lžícemi mléka navíc; buchta bude o něco sušší.",
+    "Citronovou glazuru můžeš nahradit čokoládovou polevou ze 100 g hořké čokolády a 30 g másla.",
+    "Ořechy můžeš vynechat nebo nahradit mandlovými plátky."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi perníkovou buchtou a perníkem?",
+      "a": "Perníková buchta se peče na velkém plechu, je nižší a rychleji upečená. Povidla v těstě ji drží vláčnou několik dní a místo čokoládové polevy má citronovou glazuru. Perník se peče ve vyšší formě a bývá hutnější."
+    },
+    {
+      "q": "Proč perníková buchta ztvrdla?",
+      "a": "Byla přepečená, nebo ležela nezakrytá. Na plechu jí stačí 25 až 30 minut; vyndej ji, jakmile je špejle suchá, a po vychladnutí ji ulož do uzavřené dózy."
+    },
+    {
+      "q": "Jak dlouho vydrží perníková buchta?",
+      "a": "V uzavřené dóze při pokojové teplotě 4 až 5 dnů. Do lednice ji dávat nemusíš, vysychá tam rychleji."
+    }
+  ]
+}

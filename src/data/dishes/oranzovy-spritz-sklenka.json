@@ -1,0 +1,42 @@
+{
+  "name": "Oranžový spritz",
+  "restaurant": "koktejlbar-prazdna-sklenka",
+  "kind": "main",
+  "section": "Spritzy a long drinky",
+  "description": "Prosecco, hořký pomerančový aperitiv a sodovka v poměru 3 : 2 : 1 na plné sklenici ledu.",
+  "about": [
+    "Oranžový spritz je aperitiv z italských náměstí: tři díly prosecca, dva díly hořkého pomerančového aperitivu a jeden díl sodovky ve sklenici plné ledu. Poměr 3 : 2 : 1 si zapamatuješ rychleji než PIN.",
+    "Objednat si ho můžeš i bez alkoholu, s nealko šumivým vínem a nealko bitterem. Sklenka je ale smyšlená, a tak zůstane prázdná. Slunce na terase si zajisti sám."
+  ],
+  "price": 15900,
+  "image": "dish-oranzovy-spritz-sklenka",
+  "recipe": "aperol-spritz",
+  "optionGroups": [
+    {
+      "id": "varianta",
+      "name": "Varianta",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "s-alkoholem",
+          "name": "S alkoholem (jen 18+)",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-alkoholu",
+          "name": "Bez alkoholu",
+          "priceDelta": -3000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    12
+  ],
+  "featured": false,
+  "order": 40
+}

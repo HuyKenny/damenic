@@ -1,0 +1,138 @@
+{
+  "title": "Laskonky s ořechovým krémem",
+  "keywords": [
+    "laskonky",
+    "laskonky recept",
+    "oříškový krém na laskonky",
+    "krém na laskonky",
+    "kokosové laskonky"
+  ],
+  "intro": "Laskonky recept na klasické cukrářské laskonky: dva kokosové bílkové korpusy a mezi nimi máslový krém s praženými ořechy. Vyjde asi 20 laskonek. Korpusy se pečou při nízké teplotě: mají zůstat světlé, zvenku křehké a uvnitř lehce žvýkavé.",
+  "image": "dish-laskonka-z-vitriny",
+  "category": "dorty",
+  "servings": 10,
+  "activeMinutes": 50,
+  "cookMinutes": 36,
+  "waitMinutes": 180,
+  "waitLabel": "chladnutí pudinku a zrání laskonek v lednici",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "jen bílky, pokojové teploty",
+      "group": "Korpusy"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 200,
+      "unit": "g",
+      "group": "Korpusy"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 150,
+      "unit": "g",
+      "group": "Korpusy"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Korpusy"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Ořechový krém"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 40,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Ořechový krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "group": "Ořechový krém"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "změklé, pokojové teploty",
+      "group": "Ořechový krém"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 80,
+      "unit": "g",
+      "note": "nasucho opražené a jemně namleté",
+      "group": "Ořechový krém"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpusy",
+      "text": "Předehřej troubu na 150 °C, horní a spodní ohřev (horkovzduch 140 °C). Na dva pečicí papíry nakresli tužkou ovály 7 × 5 cm s rozestupy 2 cm a papíry otoč kresbou dolů. Pokud máš šablonu na laskonky, polož ji rovnou na papír."
+    },
+    {
+      "section": "Korpusy",
+      "text": "Bílky v odmaštěné míse ušlehej do tuha, pak po lžících přisypávej cukr a šlehej ještě asi 5 minut, dokud se cukr nerozpustí a sníh není pevný a lesklý."
+    },
+    {
+      "section": "Korpusy",
+      "text": "Kokos promíchej s moukou a stěrkou ho opatrně vmíchej do sněhu, jen aby se spojil a sníh nespadl."
+    },
+    {
+      "section": "Korpusy",
+      "text": "Hmotu nanes do oválů sáčkem s hladkou špičkou nebo lžičkou ve vrstvě asi 5 mm; se šablonou ji přetáhni stěrkou a šablonu zvedni. Vyjde asi 40 korpusů."
+    },
+    {
+      "section": "Korpusy",
+      "text": "Peč každý plech zvlášť 16 až 18 minut, dokud nejsou korpusy na okrajích světle zlatavé, na povrchu suché a nepouštějí se snadno od papíru. Nech je vychladnout na papíře."
+    },
+    {
+      "section": "Krém",
+      "text": "Pudinkový prášek rozmíchej ve 100 ml studeného mléka. Zbytek mléka přiveď s cukrem k varu, vlij pudink a za stálého míchání vař 2 minuty do husta. Přikryj fólií přímo na povrchu a nech vychladnout na pokojovou teplotu, asi 2 hodiny."
+    },
+    {
+      "section": "Krém",
+      "text": "Máslo šlehej 3 minuty do světlé pěny a po lžících do něj zašlehej pudink stejné teploty. Nakonec vmíchej mleté ořechy."
+    },
+    {
+      "section": "Sestavení",
+      "text": "Krém nastříkej na plochou stranu poloviny korpusů a přiklop je druhými korpusy. Dej laskonky aspoň na hodinu do lednice; nejlepší jsou druhý den, kdy korpusy od krému lehce změknou."
+    }
+  ],
+  "tips": [
+    "Bílky nesmí obsahovat ani stopu žloutku a mísa musí být odmaštěná, jinak sníh neztuhne.",
+    "Hotové laskonky vydrží v lednici v uzavřené dóze 4 až 5 dnů. Samotné korpusy vydrží v suché dóze týden.",
+    "Na mini laskonky nakresli ovály 4 × 3 cm a peč je 12 až 14 minut. Vyjde asi 40 kusů."
+  ],
+  "substitutions": [
+    "Kokos v korpusech nahradíš stejným množstvím mletých vlašských nebo lískových ořechů; korpusy budou tmavší a ořechovější.",
+    "Na kávový krém vynech ořechy a zašlehej 2 lžičky instantní kávy rozpuštěné v lžíci horkého mléka.",
+    "Vanilkový pudinkový prášek nahradíš 40 g kukuřičného škrobu a vanilkovým cukrem."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat laskonky bez šablony?",
+      "a": "Nakresli tužkou na pečicí papír ovály asi 7 × 5 cm, papír otoč a hmotu do nich nastříkej sáčkem s hladkou špičkou o průměru 1 cm, nebo ji rozetři lžičkou. Korpusy budou o něco méně pravidelné, chuť se nezmění."
+    },
+    {
+      "q": "Jak se pečou laskonky?",
+      "a": "Při 150 °C (horkovzduch 140 °C) 16 až 18 minut, vždy jen jeden plech. Hotové korpusy jsou světle zlatavé, na povrchu suché a samy se pouštějí od papíru. Tmavě hnědé korpusy jsou přepečené a budou tvrdé."
+    },
+    {
+      "q": "Proč se korpusy na laskonky lepí na papír?",
+      "a": "Jsou nedopečené, nebo sníh nebyl dost ušlehaný a cukr se v něm nerozpustil. Dopeč je 3 až 5 minut. Když se drží i upečené, potři papír zespodu vlhkou utěrkou a za minutu je sloupneš."
+    }
+  ]
+}

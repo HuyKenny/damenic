@@ -1,0 +1,20 @@
+{
+  "name": "Pražené mandle se solí",
+  "restaurant": "koktejlbar-prazdna-sklenka",
+  "kind": "side",
+  "section": "K tomu",
+  "description": "Mandle opražené dozlatova a osolené mořskou solí. Křupou nahlas, i když je miska prázdná.",
+  "about": [],
+  "price": 7900,
+  "image": "dish-mandle-sklenka",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    8
+  ],
+  "featured": false,
+  "order": 80
+}

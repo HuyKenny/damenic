@@ -1,0 +1,203 @@
+{
+  "title": "Kynuté buchty s povidly, tvarohem a mákem",
+  "keywords": [
+    "buchty recept",
+    "kynuté buchty recept",
+    "recept na buchty",
+    "české buchty recept",
+    "buchty s povidly recept"
+  ],
+  "intro": "Buchty recept na klasické české kynuté buchty se třemi náplněmi: povidla, tvaroh a mák. Do pekáče asi 25 × 35 cm vyjde 20 buchet. Těsto potřebuje teplo a čas na dvojí kynutí; buchty se skládají těsně k sobě a boky se potírají máslem, aby se po upečení daly hezky odtrhnout.",
+  "image": "dish-kynute-buchty",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 60,
+  "cookMinutes": 35,
+  "waitMinutes": 105,
+  "waitLabel": "kynutí těsta a buchet, chladnutí",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 21,
+      "unit": "g",
+      "note": "půl kostky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "rozpuštěné a vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "povidla",
+      "amount": 200,
+      "unit": "g",
+      "group": "Povidlová náplň"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "měkký",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen žloutek",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "mak-mlety",
+      "amount": 100,
+      "unit": "g",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "rozpuštěné, na potírání",
+      "group": "Dokončení"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na posypání",
+      "group": "Dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Do hrnku dej 50 ml vlažného mléka (asi 35 °C, na zápěstí příjemně teplé, ne horké), lžičku cukru a rozdrobené droždí. Nech 10 minut stát, dokud kvásek nezpění."
+    },
+    {
+      "section": "Těsto",
+      "text": "Do mísy dej mouku, zbytek cukru, vanilkový cukr, sůl, vejce, kvásek, zbytek mléka a rozpuštěné máslo. Hněť 10 minut, dokud není těsto hladké, lesklé a nepouští se od mísy i rukou."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mísu přikryj utěrkou a nech těsto v teple kynout asi 60 minut, dokud nezdvojnásobí objem."
+    },
+    {
+      "section": "Náplně",
+      "text": "Mák s mlékem a cukrem vař za stálého míchání 3 až 5 minut do husté kaše, vmíchej máslo a skořici a nech vychladnout. Tvaroh rozmíchej s cukrem, žloutkem a vanilkovým cukrem. Povidla rozmíchej dohladka."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Vykynuté těsto rozválej na pomoučeném vále na obdélník asi 32 × 40 cm a rozkrájej na 20 čtverců 8 × 8 cm. Doprostřed každého dej vrchovatou lžičku náplně, cípy přelož nad náplň a okraje pevně spoj, aby náplň při pečení nevytekla."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Buchty skládej spojem dolů těsně vedle sebe do pekáče vymazaného máslem a každou na bocích potři rozpuštěným máslem. Náplně skládej po řadách, ať víš, která je která. Nech je přikryté kynout ještě 30 minut a mezitím předehřej troubu na 180 °C, horní a spodní ohřev (horkovzduch 170 °C)."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 30 až 35 minut do zlatohnědé barvy. Špejle zapíchnutá do buchty uprostřed pekáče má vyjít suchá, bez lepivého těsta. Hned po upečení buchty potři zbylým máslem, nech 15 minut vychladnout a pocukruj."
+    }
+  ],
+  "tips": [
+    "Mléko na kvásek měj kolem 35 °C. Horké mléko droždí spálí a těsto nevykyne, studené kynutí jen zpomalí.",
+    "Buchty vydrží přikryté utěrkou nebo v dóze 2 dny měkké; tvarohové ulož na chladné místo. Zamrazit se dají až na 3 měsíce a rozmrazené je stačí na 5 minut prohřát v troubě.",
+    "Když pekáč přikryješ v posledních 10 minutách pečicím papírem, buchty nahoře příliš neztmavnou."
+  ],
+  "substitutions": [
+    "Čerstvé droždí nahradíš 7 g sušeného, které přimícháš rovnou do mouky bez kvásku.",
+    "Povidla můžeš nahradit hustým džemem; řídký džem při pečení vyteče.",
+    "Místo máku použij 100 g mletých vlašských ořechů uvařených stejným postupem s mlékem a cukrem."
+  ],
+  "faq": [
+    {
+      "q": "Proč buchty nevykynuly?",
+      "a": "Nejčastěji kvůli příliš horkému mléku, které droždí spálilo, nebo kvůli chladu v kuchyni. Mléko měj kolem 35 °C a těsto nech kynout v teple bez průvanu, třeba v troubě zahřáté na 30 °C s rozsvícenou žárovkou."
+    },
+    {
+      "q": "Jak poznám, že jsou buchty upečené?",
+      "a": "Jsou zlatohnědé i na bocích a špejle zapíchnutá do buchty uprostřed pekáče vyjde suchá. Prostřední buchty se pečou nejdéle, proto zkoušej vždy je."
+    },
+    {
+      "q": "Jak dlouho vydrží kynuté buchty?",
+      "a": "Přikryté utěrkou nebo v uzavřené dóze 2 dny měkké, s tvarohovou náplní na chladném místě. Na déle je zamraz, vydrží až 3 měsíce."
+    }
+  ]
+}

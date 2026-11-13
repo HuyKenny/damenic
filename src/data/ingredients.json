@@ -4050,5 +4050,329 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null
+  },
+  {
+    "id": "horky-pomerancovy-aperitiv",
+    "name": "Hořký pomerančový aperitiv (asi 11 %)",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 700,
+      "price": 27900,
+      "label": "láhev 0,7 l"
+    },
+    "alcohol": true,
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "prosecco",
+    "name": "Prosecco (suché šumivé víno)",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 750,
+      "price": 19900,
+      "label": "láhev 0,75 l"
+    },
+    "alcohol": true,
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "rum-bily",
+    "name": "Bílý rum",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 700,
+      "price": 29900,
+      "label": "láhev 0,7 l"
+    },
+    "alcohol": true,
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "gin",
+    "name": "Gin",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 700,
+      "price": 39900,
+      "label": "láhev 0,7 l"
+    },
+    "alcohol": true,
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "vodka",
+    "name": "Vodka",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 500,
+      "price": 19900,
+      "label": "láhev 0,5 l"
+    },
+    "alcohol": true,
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "tequila",
+    "name": "Tequila stříbrná (blanco)",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 700,
+      "price": 49900,
+      "label": "láhev 0,7 l"
+    },
+    "alcohol": true,
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "cachaca",
+    "name": "Cachaça (brazilská třtinová pálenka)",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 700,
+      "price": 44900,
+      "label": "láhev 0,7 l"
+    },
+    "alcohol": true,
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "pomerancovy-liker",
+    "name": "Pomerančový likér (triple sec)",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 500,
+      "price": 29900,
+      "label": "láhev 0,5 l"
+    },
+    "alcohol": true,
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kavovy-liker",
+    "name": "Kávový likér",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 700,
+      "price": 34900,
+      "label": "láhev 0,7 l"
+    },
+    "alcohol": true,
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "dzus-ananasovy",
+    "name": "Ananasový džus 100 %",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 1000,
+      "price": 4900,
+      "label": "krabice 1 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "dzus-pomerancovy",
+    "name": "Pomerančový džus 100 %",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 1000,
+      "price": 4500,
+      "label": "krabice 1 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kola",
+    "name": "Kola (kolová limonáda)",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 1500,
+      "price": 3900,
+      "label": "láhev 1,5 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "zazvorove-pivo",
+    "name": "Zázvorové pivo (nealko, ginger beer)",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 330,
+      "price": 3900,
+      "label": "láhev 0,33 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "grenadina",
+    "name": "Grenadina (sirup z granátového jablka)",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 700,
+      "price": 8900,
+      "label": "láhev 0,7 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "bezinkovy-sirup",
+    "name": "Bezinkový sirup",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 700,
+      "price": 8900,
+      "label": "láhev 0,7 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "maliny",
+    "name": "Maliny čerstvé",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 125,
+      "price": 5990,
+      "label": "vanička 125 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "podmasli",
+    "name": "Podmáslí",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 500,
+      "price": 2290,
+      "label": "kelímek 0,5 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "barvivo-cervene",
+    "name": "Potravinářské barvivo červené (gelové)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 20,
+      "price": 7990,
+      "label": "tuba 20 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "povidla",
+    "name": "Švestková povidla",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 20,
+    "pack": {
+      "size": 350,
+      "price": 6900,
+      "label": "sklenice 350 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kefir",
+    "name": "Kefír",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 500,
+      "price": 2900,
+      "label": "láhev 500 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "listove-testo",
+    "name": "Listové těsto (chlazené, válené)",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 275,
+      "price": 3990,
+      "label": "275 g (1 plát)"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "mak-mlety",
+    "name": "Mák modrý mletý",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 8,
+    "pack": {
+      "size": 200,
+      "price": 3900,
+      "label": "sáček 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "veka",
+    "name": "Veka (bílá, na chlebíčky)",
+    "department": "Pečivo",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 2900,
+      "label": "1 ks (asi 400 g)"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "pomazankove-maslo",
+    "name": "Pomazánkové máslo",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "spoon": 18,
+    "pack": {
+      "size": 150,
+      "price": 3290,
+      "label": "150 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
   }
 ]

@@ -1,0 +1,41 @@
+{
+  "name": "Pavlova s lesním ovocem",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Krémové a ovocné",
+  "description": "Křupavá pusinka s měkkým středem, krém z mascarpone a jahody, maliny a borůvky.",
+  "price": 15900,
+  "image": "dish-pavlova-s-ovocem",
+  "recipe": "pavlova",
+  "about": [
+    "Pavlova je pusinka, která se rozhodla být dortem. Bílky se šlehají s cukrem, dokud mezi prsty necítíš ani zrnko, peče se pomalu při 120 °C a chladne ve vypnuté troubě, aby nepraskla.",
+    "Krém a ovoce na ni přijdou až těsně před podáváním, jinak skořápka změkne. My je nedáváme vůbec, takže zůstane křupavá napořád."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "dilek",
+          "name": "Dílek",
+          "priceDelta": 0
+        },
+        {
+          "id": "cely",
+          "name": "Celá pavlova 22 cm (8 dílků)",
+          "priceDelta": 99000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7
+  ],
+  "order": 60
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Mojito",
+  "restaurant": "koktejlbar-prazdna-sklenka",
+  "kind": "main",
+  "section": "Klasiky",
+  "description": "Bílý rum, limetka, třtinový cukr a máta, která se jen přitlačí, na drceném ledu se sodovkou.",
+  "about": [
+    "Mojito se pozná podle zvuku: drcený led chrastí o sklo a máta voní dřív, než sklenici zvedneš. Základem je bílý rum, půlka limetky, dvě lžičky třtinového cukru a deset lístků máty, které se jen lehce přitlačí. Rozmačkané na kaši by zhořkly.",
+    "Vybrat si můžeš i verzi bez alkoholu a přidat jahody. Nalejeme ji ale jen pomyslně, protože bar je smyšlený a alkohol je jen pro 18+. Recept na doma je skutečný, máta v květináči na okně taky."
+  ],
+  "price": 16900,
+  "image": "dish-mojito-sklenka",
+  "recipe": "mojito",
+  "optionGroups": [
+    {
+      "id": "varianta",
+      "name": "Varianta",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "s-alkoholem",
+          "name": "S alkoholem (jen 18+)",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-alkoholu",
+          "name": "Bez alkoholu",
+          "priceDelta": -4000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "jahody",
+          "name": "Rozmačkané jahody",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": true,
+  "order": 10
+}

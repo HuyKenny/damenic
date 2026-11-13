@@ -1,0 +1,166 @@
+{
+  "title": "Luxusní kokosové řezy s čokoládou",
+  "keywords": [
+    "luxusní kokosové řezy recept",
+    "kokosové řezy recept",
+    "kokosové řezy",
+    "luxusní řezy recept"
+  ],
+  "intro": "Luxusní kokosové řezy recept na plech 25 × 35 cm: kakaový korpus, hustý kokosový krém z mléka, pudinku a másla a čokoládová poleva ze smetany. Vyjde 20 řezů. Krém musí úplně vychladnout, než se do něj zašlehá máslo, a hotové řezy potřebují noc v lednici.",
+  "image": "dish-kokosove-rezy",
+  "category": "dorty",
+  "servings": 12,
+  "activeMinutes": 45,
+  "cookMinutes": 25,
+  "waitMinutes": 360,
+  "waitLabel": "chladnutí krému a tuhnutí řezů v lednici",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Kakaový korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Kakaový korpus"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Kakaový korpus"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Kakaový korpus"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 200,
+      "unit": "g",
+      "group": "Kakaový korpus"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Kakaový korpus"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Kakaový korpus"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Kokosový krém"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 40,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Kokosový krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 120,
+      "unit": "g",
+      "group": "Kokosový krém"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 150,
+      "unit": "g",
+      "group": "Kokosový krém"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 250,
+      "unit": "g",
+      "note": "změklé, pokojové teploty",
+      "group": "Kokosový krém"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Čokoládová poleva"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Čokoládová poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpus",
+      "text": "Předehřej troubu na 180 °C, horní a spodní ohřev (horkovzduch 170 °C). Plech 25 × 35 cm s vyšším okrajem vylož pečicím papírem."
+    },
+    {
+      "section": "Korpus",
+      "text": "Vejce s cukrem šlehej 3 až 4 minuty do světlé pěny, přilij olej a mléko. Mouku prosej s kakaem a práškem do pečiva a vmíchej ji jen dohladka."
+    },
+    {
+      "section": "Korpus",
+      "text": "Peč 22 až 25 minut, dokud špejle zapíchnutá doprostřed nevyjde suchá. Korpus nech vychladnout v plechu."
+    },
+    {
+      "section": "Krém",
+      "text": "Pudinkový prášek rozmíchej ve 100 ml studeného mléka. Zbylých 400 ml mléka přiveď s cukrem k varu, vlij pudink a za stálého míchání vař asi minutu do husta. Odstav a vmíchej kokos."
+    },
+    {
+      "section": "Krém",
+      "text": "Kokosový pudink přikryj fólií přímo na povrchu a nech vychladnout na pokojovou teplotu, asi 2 hodiny. Do lednice ho nedávej: studený pudink by se s máslem srazil."
+    },
+    {
+      "section": "Krém",
+      "text": "Máslo šlehej 3 minuty do světlé pěny a po lžících do něj zašlehávej vychladlý kokosový pudink. Krém rozetři na korpus, uhlaď a dej na hodinu do lednice."
+    },
+    {
+      "section": "Poleva",
+      "text": "Smetanu zahřej téměř k varu a zalij jí nalámanou čokoládu. Nech 2 minuty stát a pak míchej, dokud není poleva hladká a lesklá. Vlažnou ji nalij na ztuhlý krém a rozetři."
+    },
+    {
+      "section": "Krájení",
+      "text": "Řezy dej do lednice aspoň na 3 hodiny, nejlépe přes noc. Krájej je studené nožem namočeným v horké vodě na 20 kusů."
+    }
+  ],
+  "tips": [
+    "Pro výraznější chuť opraž polovinu kokosu nasucho na pánvi dozlatova a teprve pak ho vmíchej do pudinku.",
+    "Kokosové řezy vydrží v lednici zakryté 4 dny. Zamrazit se dají až na měsíc; rozmrazuj je přes noc v lednici.",
+    "Poleva ze smetany zůstává měkká a při krájení nepraská. Řezy proto krájej vždy studené, rovnou z lednice."
+  ],
+  "substitutions": [
+    "Na světlý korpus nahraď kakao 2 lžícemi hladké mouky.",
+    "Polovinu másla v krému můžeš nahradit mascarpone; krém bude lehčí, ale řezy pak sněz do 3 dnů.",
+    "Hořkou čokoládu nahradíš mléčnou, smetany pak dej jen 70 ml, jinak poleva neztuhne."
+  ],
+  "faq": [
+    {
+      "q": "Proč se krém na kokosové řezy srazil?",
+      "a": "Máslo a pudink měly různou teplotu, nejčastěji byl pudink ze studené lednice. Obě složky musí mít pokojovou teplotu. Sražený krém zachráníš tak, že mísu krátce nahřeješ nad párou a krém znovu prošleháš."
+    },
+    {
+      "q": "Musí kokosové řezy přes noc do lednice?",
+      "a": "Nemusí, ale je to lepší. Aspoň 3 hodiny v lednici potřebují, aby krém i poleva ztuhly a řezy šly čistě krájet. Přes noc se navíc korpus spojí s krémem."
+    },
+    {
+      "q": "Jak dlouho vydrží kokosové řezy?",
+      "a": "V lednici zakryté fólií 4 dny. Při pokojové teplotě je nenechávej déle než 2 hodiny, máslový krém měkne."
+    }
+  ]
+}

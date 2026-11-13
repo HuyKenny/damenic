@@ -1,0 +1,108 @@
+{
+  "title": "Sýrové tyčinky z listového těsta",
+  "keywords": [
+    "sýrové tyčinky",
+    "sýrové tyčinky z listového těsta",
+    "slané tyčinky z listového těsta",
+    "silvestrovské pohoštění z listového těsta",
+    "slané pečivo z listového těsta"
+  ],
+  "image": "dish-syrove-tycinky",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 25,
+  "cookMinutes": 30,
+  "waitMinutes": 15,
+  "waitLabel": "vychlazení těsta před pečením",
+  "difficulty": "snadné",
+  "intro": "Sýrové tyčinky z listového těsta s eidamem, kmínem a sezamem, kroucené do spirálky. Ze dvou plátů vyjde asi 80 tyčinek dlouhých 12 cm. Křupavé budou jen tehdy, když jde těsto do trouby studené a peče se do sytě zlaté barvy, ne do světle žluté.",
+  "ingredients": [
+    {
+      "ingredient": "listove-testo",
+      "amount": 550,
+      "unit": "g",
+      "note": "2 pláty, chlazené"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na potření"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaný najemno"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "hrubá, na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C, horkovzduch na 180 °C. Dva plechy vylož pečicím papírem."
+    },
+    {
+      "text": "Plát těsta rozviň a celý ho potři rozšlehaným vejcem. Rovnoměrně ho posyp polovinou sýra, kmínem, sezamem, paprikou a trochou hrubé soli a posyp lehce přitlač dlaní nebo válečkem, aby držel."
+    },
+    {
+      "text": "Těsto rozpůl napříč a každou polovinu nakrájej nožem nebo kolečkem na proužky široké 2 cm. Z jednoho plátu vyjde asi 40 proužků dlouhých 12 cm."
+    },
+    {
+      "text": "Každý proužek chyť za oba konce a zakruť ho dvakrát až třikrát do spirálky. Klaď je na plech s rozestupy 1,5 cm a konce lehce přimáčkni k papíru, aby se při pečení nerozkroutily."
+    },
+    {
+      "text": "Plech s tyčinkami dej na 15 minut do lednice. Mezitím stejně připrav druhý plát. Vychlazené těsto v troubě víc vyběhne do vrstev."
+    },
+    {
+      "text": "Peč každý plech 12 až 15 minut, dokud nejsou tyčinky sytě zlatohnědé i zespodu. Světlé tyčinky po vychladnutí změknou. Nech je vychladnout na mřížce, teplé se lámou."
+    }
+  ],
+  "tips": [
+    "Vychladlé tyčinky skladuj v plechové krabici nebo uzavřené dóze v chladu, vydrží 2 až 3 dny. Když změknou, rozpeč je 3 minuty na 180 °C.",
+    "Tyčinky se sýrem a vejcem nejsou choulostivé jako majonézové saláty, ale v teplé místnosti je nenechávej odkryté celý večer, za pár hodin navlhnou a ztratí křupavost.",
+    "Na stůl je dej ve sklenicích nebo hrnečcích na výšku, zaberou málo místa a berou se samy."
+  ],
+  "substitutions": [
+    "Místo eidamu můžeš použít 60 g parmazánu, tyčinky budou slanější a křupavější, nebo ostřejší cheddar.",
+    "Kmín a sezam vyměň za mák, hrubou sůl a sušené oregano. S nivou nebo slaninou vyjdou výraznější."
+  ],
+  "faq": [
+    {
+      "q": "Proč nejsou sýrové tyčinky křupavé?",
+      "a": "Byly málo propečené nebo těsto přišlo do trouby teplé. Peč je do sytě zlatohnědé barvy a před pečením je dej na 15 minut do lednice."
+    },
+    {
+      "q": "Jak dlouho vydrží sýrové tyčinky?",
+      "a": "V uzavřené dóze v chladu 2 až 3 dny. Upečené se dají zamrazit až na měsíc a rozpéct 5 minut na 180 °C."
+    },
+    {
+      "q": "Můžu sýrové tyčinky upéct den předem?",
+      "a": "Ano. Nech je úplně vychladnout a ulož je do dózy. Před oslavou je 3 minuty rozpeč v troubě, aby zase křupaly."
+    }
+  ],
+  "occasions": [
+    "silvestr",
+    "narozeniny"
+  ]
+}

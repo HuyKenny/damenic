@@ -1,0 +1,26 @@
+{
+  "name": "Laskonka s ořechovým krémem",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Zákusky z vitríny",
+  "description": "Dva kokosové korpusy a mezi nimi máslový krém s praženými ořechy. Nejlepší druhý den, u nás nikdy.",
+  "about": [
+    "Laskonka je zákusek, který chutná nejlépe den po upečení. Kokosové bílkové korpusy od krému trochu změknou, uvnitř zežvýkavějí a máslový krém s praženými ořechy se s nimi spojí v jedno.",
+    "Ve vitríně jich máme celou řadu, všechny oválné a stejně velké, protože neexistují. Doma ti na stejný tvar stačí tužka a pečicí papír místo šablony. Zítra budou lepší než dnes, a to je u laskonek dobrá zpráva."
+  ],
+  "price": 5500,
+  "image": "dish-laskonka-z-vitriny",
+  "recipe": "laskonky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 30
+}

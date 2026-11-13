@@ -1,0 +1,137 @@
+{
+  "title": "Kefírová buchta se švestkami",
+  "keywords": [
+    "kefírová buchta recept",
+    "recept na kefírovou buchtu",
+    "rychlá buchta recept",
+    "recept na buchtu s ovocem"
+  ],
+  "intro": "Kefírová buchta recept na rychlou, vláčnou buchtu z jedné mísy: kyselý kefír s práškem do pečiva těsto nakypří a drží ho vlhké ještě druhý den. Na plech 25 × 35 cm vyjde 15 kusů s půlkami švestek a skořicovým cukrem. Těsto se jen krátce promíchá, dlouhé míchání by z buchty udělalo tuhou.",
+  "image": "dish-kefirova-buchta",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 20,
+  "cookMinutes": 40,
+  "waitMinutes": 20,
+  "waitLabel": "chladnutí na plechu",
+  "difficulty": "snadné",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "kefir",
+      "amount": 500,
+      "unit": "ml",
+      "note": "pokojové teploty",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 180,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 120,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 400,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen nastrouhaná kůra",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "svestky",
+      "amount": 500,
+      "unit": "g",
+      "note": "vypeckované, na půlky",
+      "group": "Navrch"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Navrch"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Navrch"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Předehřej troubu na 180 °C, horní a spodní ohřev (horkovzduch 170 °C). Plech 25 × 35 cm s vyšším okrajem vylož pečicím papírem."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vejce s cukrem rozšlehej metlou do pěny, přilij kefír a olej a přidej citronovou kůru."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej s práškem do pečiva a solí a vmíchej ji do tekuté části jen tolik, aby nezůstaly hrudky. Těsto má být hustší, ale tekoucí."
+    },
+    {
+      "section": "Sestavení",
+      "text": "Těsto vlij na plech a rozetři. Švestky na něj rozlož řezem nahoru těsně vedle sebe a posyp je cukrem smíchaným se skořicí."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 35 až 40 minut, dokud není buchta mezi švestkami zlatavá a špejle zapíchnutá mezi ovoce nevyjde suchá. Nech ji 20 minut vychladnout na plechu a nakrájej na 15 kusů."
+    }
+  ],
+  "tips": [
+    "Kefír i vejce vyndej z lednice 30 minut předem. Těsto ze studených surovin kyne pomaleji a buchta bývá uprostřed mazlavá.",
+    "Mražené ovoce nerozmrazuj a pokládej ho na těsto zmrzlé; pečení se prodlouží asi o 5 minut.",
+    "Kefírová buchta vydrží zakrytá 3 dny. Švestky ji drží vlhkou, takže druhý den chutná ještě lépe."
+  ],
+  "substitutions": [
+    "Kefír nahradíš stejným množstvím podmáslí, nebo 350 g bílého jogurtu rozmíchaného se 150 ml mléka.",
+    "Švestky můžeš nahradit meruňkami, 300 g borůvek nebo dvěma jablky nakrájenými na tenké plátky.",
+    "Olej nahradíš 120 g rozpuštěného vlažného másla."
+  ],
+  "faq": [
+    {
+      "q": "Čím nahradit kefír v buchtě?",
+      "a": "Nejlépe podmáslím ve stejném množství. Funguje i bílý jogurt rozředěný mlékem v poměru asi 2 : 1 nebo acidofilní mléko. Obyčejné mléko nedá buchtě kyselost a vláčnost."
+    },
+    {
+      "q": "Proč je kefírová buchta uvnitř mazlavá?",
+      "a": "Je nedopečená, nebo bylo těsto příliš řídké a ovoce ho zatížilo. Zkoušej špejlí mezi ovocem, ne do švestky, a když buchta nahoře tmavne a uvnitř je syrová, přikryj ji papírem a peč dalších 5 až 10 minut."
+    },
+    {
+      "q": "Můžu do kefírové buchty dát mražené ovoce?",
+      "a": "Ano. Ovoce dej na těsto zmrzlé, nerozmrazuj ho, jinak pustí šťávu a těsto bude kolem něj mokré. Počítej s delším pečením asi o 5 minut."
+    }
+  ]
+}

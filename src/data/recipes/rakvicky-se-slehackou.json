@@ -1,0 +1,135 @@
+{
+  "title": "Rakvičky se šlehačkou",
+  "keywords": [
+    "rakvičky se šlehačkou",
+    "rakvičky recept",
+    "retro zákusky recepty",
+    "zákusky recepty"
+  ],
+  "intro": "Rakvičky se šlehačkou jsou retro zákusek z cukráren: podlouhlé piškotové lodičky s tenkou cukrovou krustou, vyplněné šlehačkou. Z dávky vyjde asi 16 rakviček. Těsto se peče při nižší teplotě, aby zůstalo světlé, a důlek na šlehačku se dělá do ještě teplých korpusů.",
+  "image": "dish-rakvicka-z-vitriny",
+  "category": "dorty",
+  "servings": 8,
+  "activeMinutes": 40,
+  "cookMinutes": 18,
+  "waitMinutes": 40,
+  "waitLabel": "zasychání cukrové krusty a chladnutí korpusů",
+  "difficulty": "střední",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "rozdělená na žloutky a bílky",
+      "group": "Korpusy"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Korpusy"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Korpusy"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 90,
+      "unit": "g",
+      "group": "Korpusy"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 30,
+      "unit": "g",
+      "group": "Korpusy"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "note": "na formičky",
+      "group": "Korpusy"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na poprášení",
+      "group": "Korpusy"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 400,
+      "unit": "ml",
+      "note": "dobře vychlazená",
+      "group": "Šlehačka"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "group": "Šlehačka"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Šlehačka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpusy",
+      "text": "Předehřej troubu na 160 °C, horní a spodní ohřev (horkovzduch 150 °C). Formičky na rakvičky vymaž máslem a vysyp moukou. Bez formiček vylož plech pečicím papírem."
+    },
+    {
+      "section": "Korpusy",
+      "text": "Bílky se solí ušlehej do tuha, pak po lžících přidej polovinu moučkového cukru a šlehej do pevného lesklého sněhu. Žloutky vyšlehej se zbytkem cukru do světlé hustoty."
+    },
+    {
+      "section": "Korpusy",
+      "text": "Žloutky vmíchej stěrkou do sněhu, pak po částech přisyp mouku prosetou se škrobem a jemně promíchej, jen dokud nezmizí bílá místa."
+    },
+    {
+      "section": "Korpusy",
+      "text": "Hmotu naplň do formiček asi do tří čtvrtin, nebo ji stříkej sáčkem s hladkou špičkou na papír v oválech 8 × 3 cm. Hustě ji popraš moučkovým cukrem přes sítko a nech 10 minut zaschnout; z cukru vznikne typická krusta."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 15 až 18 minut, dokud nejsou korpusy světle zlatavé a při dotyku pevné. Ještě teplé je vyklop, otoč krustou nahoru a lžičkou do nich vmáčkni podélný důlek, aby vznikla lodička. Nech je vychladnout na mřížce."
+    },
+    {
+      "section": "Plnění",
+      "text": "Vychlazenou smetanu ušlehej s moučkovým a vanilkovým cukrem do pevné pěny, která drží špičku. Nastříkej ji do důlků vrchovatě a rakvičky dej do lednice. Nejlepší jsou do 2 hodin od plnění."
+    }
+  ],
+  "tips": [
+    "Smetanu šlehej rovnou z lednice ve vychlazené míse a přestaň, jakmile drží špičku. Přešlehaná se mění v máslo.",
+    "Prázdné korpusy vydrží v uzavřené dóze 3 až 4 dny. Plň je až v den podávání, šlehačka je postupně rozmočí.",
+    "Bez formiček budou rakvičky plošší. Ovály stříkej vyšší, asi 1,5 cm, a důlek do nich jen opatrně vtlač."
+  ],
+  "substitutions": [
+    "Pro stabilnější náplň ušlehej smetanu s 250 g mascarpone; plněné rakvičky pak vydrží v lednici do druhého dne.",
+    "Kukuřičný škrob nahradíš stejným množstvím hladké mouky, korpusy budou jen o něco pevnější.",
+    "Do šlehačky můžeš vmíchat 150 g nakrájených jahod nebo malin."
+  ],
+  "faq": [
+    {
+      "q": "Proč jsou rakvičky tvrdé?",
+      "a": "Pekly se příliš dlouho nebo při vysoké teplotě. Rakvičky mají zůstat světlé, jen lehce zlatavé; při 160 °C (horkovzduch 150 °C) jim stačí 15 až 18 minut. Tvrdé jsou i druhý den v otevřené dóze, proto je ukládej uzavřené."
+    },
+    {
+      "q": "Jak dlouho vydrží rakvičky se šlehačkou?",
+      "a": "Naplněné v lednici do druhého dne, nejlepší jsou ale do 2 hodin, než šlehačka změkčí krustu. Prázdné korpusy vydrží v uzavřené dóze 3 až 4 dny."
+    },
+    {
+      "q": "Musím mít na rakvičky formičky?",
+      "a": "Nemusíš. Hmotu můžeš stříkat sáčkem na papír v oválech 8 × 3 cm a důlek do nich vtlačit po upečení. Ve formičkách vyjdou vyšší a pravidelnější."
+    }
+  ]
+}

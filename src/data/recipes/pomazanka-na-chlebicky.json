@@ -1,0 +1,116 @@
+{
+  "title": "Jemná pomazánka na chlebíčky se šunkou a sýrem",
+  "keywords": [
+    "pomazánka na chlebíčky",
+    "pomazánky na chlebíčky",
+    "jemná pomazánka na chlebíčky",
+    "klasická pomazánka na chlebíčky",
+    "luxusní pomazánka na chlebíčky"
+  ],
+  "image": "dish-pomazanka-na-chlebicky",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 10,
+  "activeMinutes": 25,
+  "cookMinutes": 10,
+  "waitMinutes": 30,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "intro": "Klasická jemná pomazánka na chlebíčky z pomazánkového másla, najemno nasekané šunky, eidamu a vajec. Vyjde jí asi 800 g, tedy na 30 chlebíčků nebo 50 jednohubek. Celý trik je v jemnosti: šunka a sýr musí být nasekané tak drobně, aby se pomazánka dala natírat v tenké souvislé vrstvě.",
+  "ingredients": [
+    {
+      "ingredient": "pomazankove-maslo",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "změklé"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 200,
+      "unit": "g",
+      "note": "nejlépe výběrová"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "čerstvá, natvrdo"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "jen podle chuti, šunka i sýr jsou slané"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "volitelně"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce vař 10 minut od vložení do vroucí vody, zchlaď je ve studené vodě a oloupej. Musí úplně vychladnout, teplá by pomazánku rozpustila."
+    },
+    {
+      "text": "Šunku nakrájej na proužky a rozmixuj ji v sekáčku nebo mixéru krátkými pulzy najemno, asi 20 až 30 sekund. Nemixuj ji do kaše, má zůstat drobná, ale vláčná."
+    },
+    {
+      "text": "Eidam a vejce nastrouhej na nejjemnějším struhadle. Pažitku nakrájej co nejjemněji."
+    },
+    {
+      "text": "Změklé máslo vyšlehej s pomazánkovým máslem a hořčicí do hladka. Vmíchej šunku, sýr, vejce a pažitku, opepři a teprve teď ochutnej, jestli je potřeba sůl."
+    },
+    {
+      "text": "Pomazánku přikryj a nech ji 30 minut odležet v lednici, aby zavláčněla a ztuhla. Na veku ji natírej v rovnoměrné vrstvě asi 5 mm."
+    }
+  ],
+  "tips": [
+    "Pomazánka vydrží v uzavřené dóze v lednici do 5 °C 2 dny. Na chlebíčky ji klidně udělej den předem, druhý den se natírá líp.",
+    "Majonéza, vejce i šunka patří do lednice. Na stole při pokojové teplotě je nenechávej déle než 2 hodiny, v teplé místnosti radši kratší dobu.",
+    "Na chlebíčky z ní stačí tenká vrstva a nahoru plátek vejce, kolečko ředkvičky nebo vějířek okurky. Je výrazná, nepotřebuje k sobě salát."
+  ],
+  "substitutions": [
+    "Pomazánkové máslo můžeš nahradit smetanovým sýrem nebo měkkým tvarohem, máslo pak vynech.",
+    "Šunku lze vyměnit za drůbeží šunku nebo uzené maso. Bezmasá verze: místo šunky přidej další 2 vejce a 50 g nivy."
+  ],
+  "faq": [
+    {
+      "q": "Jaká pomazánka na chlebíčky se hodí na oslavu?",
+      "a": "Nejjistější je jemná šunková se sýrem a vejci, protože chutná skoro všem a dá se natírat v tenké vrstvě. K ní můžeš přidat jednu zeleninovou, třeba celerovou nebo bramborovou, ať je na tácu výběr."
+    },
+    {
+      "q": "Kolik pomazánky je potřeba na jeden chlebíček?",
+      "a": "Na šikmý plátek veky stačí 20 až 25 g pomazánky. Z této dávky asi 800 g tedy vyjde zhruba 30 chlebíčků."
+    },
+    {
+      "q": "Jak dlouho vydrží pomazánka na chlebíčky v lednici?",
+      "a": "V uzavřené dóze v lednici 2 dny, protože obsahuje vejce a šunku. Pokojovou teplotu snese nejvýš 2 hodiny, potom ji vyhoď."
+    }
+  ],
+  "occasions": [
+    "silvestr",
+    "narozeniny"
+  ]
+}

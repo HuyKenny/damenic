@@ -1,0 +1,42 @@
+{
+  "name": "Tortillové rolky se šunkou",
+  "kind": "main",
+  "section": "Jednohubky",
+  "description": "Pšeničná tortilla se sýrovou pomazánkou, šunkou, špenátem a paprikou, stočená a nakrájená na kolečka.",
+  "about": [
+    "Tortillová rolka je jednohubka pro lidi, kteří nemají čas zdobit. Placku namažeš, obložíš, stočíš a všechnu parádu udělá řez nožem: na každém kolečku je spirála ze sýra, šunky a zelených listů.",
+    "Jediná věc, kterou nejde přeskočit, je lednice. Zabalená rolka musí dvě hodiny tuhnout, jinak se při krájení rozjede. Recept počítá s 36 kusy ze čtyř tortill. My máme nakrájeno. Jen nemáme co."
+  ],
+  "price": 15900,
+  "recipe": "jednohubky-z-tortilly",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "9ks",
+          "name": "9 kusů",
+          "priceDelta": 0
+        },
+        {
+          "id": "18ks",
+          "name": "18 kusů",
+          "priceDelta": 13900
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 40,
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "image": "dish-tortillove-rolky-oblozeno",
+  "spicy": 0,
+  "vegan": false
+}

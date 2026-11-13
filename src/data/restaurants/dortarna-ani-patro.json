@@ -1,0 +1,33 @@
+{
+  "name": "Dortárna Ani patro",
+  "category": "dorty",
+  "cuisine": "Dorty a zákusky na dílky",
+  "tagline": "Stavíme dorty do výšky. Zatím jsme v přízemí.",
+  "description": "Čokoládový dort s ganache, Sacher s meruňkovým džemem a pavlova s ovocem, na dílek i celé. Dortárna je smyšlená, takže krém si vyšleháš sám podle receptu a největší kousek zůstane tobě.",
+  "etaMinutes": 35,
+  "deliveryFee": 3900,
+  "minOrder": 14900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "09:00",
+    "close": "19:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa"
+  ],
+  "isNew": true,
+  "logo": {
+    "text": "AP",
+    "color": "#5B2A3C",
+    "ink": "light"
+  },
+  "sections": [
+    "Čokoládové",
+    "Krémové a ovocné",
+    "Malé sladké",
+    "Nápoje"
+  ],
+  "order": 275,
+  "cover": "rest-dortarna-ani-patro"
+}

@@ -1,0 +1,157 @@
+{
+  "title": "Mechový dort ze špenátu",
+  "keywords": [
+    "mechový dort recept",
+    "mechový dort",
+    "mechový dort ze špenátu"
+  ],
+  "image": "dish-mechovy-dort-dilek",
+  "category": "dorty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 40,
+  "cookMinutes": 45,
+  "waitMinutes": 240,
+  "waitLabel": "chladnutí korpusu a tuhnutí krému",
+  "difficulty": "snadné",
+  "intro": "Mechový dort ze špenátu má zelený korpus, který vypadá jako lesní mech a chutná po citronu, ne po zelenině. Peče se ve formě o průměru 24 cm a horní vrstvu korpusu rozdrobíš na posyp. Špenát musí být s olejem rozmixovaný úplně dohladka, jinak budou v těstě vidět kousky listů.",
+  "ingredients": [
+    {
+      "ingredient": "spenat-baby",
+      "amount": 200,
+      "unit": "g",
+      "note": "nebo 250 g mraženého, rozmraženého a vymačkaného",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "kůra a šťáva",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 200,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mascarpone",
+      "amount": 250,
+      "unit": "g",
+      "note": "studené",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 250,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "maliny",
+      "amount": 125,
+      "unit": "g",
+      "group": "Ozdoba"
+    },
+    {
+      "ingredient": "boruvky",
+      "amount": 125,
+      "unit": "g",
+      "group": "Ozdoba"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpus",
+      "text": "Troubu předehřej na 175 °C (horkovzduch 165 °C), dno formy o průměru 24 cm vylož papírem a boky vymaž. Špenát umyj a nech dobře okapat."
+    },
+    {
+      "text": "Špenát rozmixuj tyčovým mixérem s olejem, citronovou šťávou a kůrou na úplně hladké zelené pyré, asi 2 minuty."
+    },
+    {
+      "text": "Vejce s cukrem šlehej 5 minut do světlé pěny. Vmíchej špenátové pyré a nakonec mouku smíchanou s práškem do pečiva a solí. Míchej jen do spojení."
+    },
+    {
+      "text": "Těsto nalij do formy a peč 40 až 45 minut, dokud špejle nevyjde suchá. Déle nepeč, přepečený korpus ztrácí zelenou barvu a hnědne."
+    },
+    {
+      "text": "Nech korpus vychladnout na mřížce aspoň 2 hodiny. Z vršku tence seřízni hnědou kůrku a odlož ji. Pak seřízni ještě asi 1 cm silnou zelenou vrstvu a rozdrob ji mezi prsty na jemné drobky."
+    },
+    {
+      "section": "Krém a mech",
+      "text": "Mascarpone, studenou smetanu a oba cukry šlehej 2 až 3 minuty do pevného krému. Rozetři ho na zbylý korpus v silné vrstvě."
+    },
+    {
+      "text": "Krém celý zasyp zelenými drobky a lehce je přitlač dlaní. Navrch rozsyp maliny a borůvky a dort dej aspoň na 2 hodiny do lednice."
+    }
+  ],
+  "tips": [
+    "Mražený špenát rozmraz a důkladně vymačkej, jinak je korpus vlhký a těžký. Čerstvý baby špenát se jen umyje.",
+    "Mechový dort vydrží v lednici 3 dny. Drobky na povrchu postupně vlhnou, proto je při přípravě dopředu skladuj v uzavřené krabičce a posyp dort až v den podávání.",
+    "Špenát v korpusu není cítit, chuť přebije citron. Děti často nepoznají, z čeho je dort zelený."
+  ],
+  "substitutions": [
+    "Místo krému z mascarpone se hodí 400 g měkkého tvarohu ušlehaného s 250 ml smetany a 60 g moučkového cukru.",
+    "Místo malin a borůvek můžeš použít zrníčka granátového jablka nebo nakrájené jahody."
+  ],
+  "faq": [
+    {
+      "q": "Je mechový dort cítit špenátem?",
+      "a": "Není. Špenát dává hlavně barvu a vlhkost, chuť přebije citron a cukr. Výrazněji ho poznáš jen v přepečeném korpusu."
+    },
+    {
+      "q": "Proč mechový dort zhnědl?",
+      "a": "Pekl se moc dlouho nebo při vyšší teplotě. Zelený chlorofyl se teplem a časem mění na olivově hnědý. Vyndej korpus, jakmile špejle vyjde suchá."
+    },
+    {
+      "q": "Můžu použít mražený špenát?",
+      "a": "Můžeš. Vezmi 250 g mraženého listového špenátu, rozmraz ho, vymačkej z něj vodu a rozmixuj s olejem stejně jako čerstvý."
+    }
+  ]
+}

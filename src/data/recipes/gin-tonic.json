@@ -1,0 +1,87 @@
+{
+  "title": "Gin tonic",
+  "keywords": [
+    "gin tonic",
+    "gin tonic recept",
+    "gin tonic poměr",
+    "jak namíchat gin tonic",
+    "sklenice na gin tonic"
+  ],
+  "image": "dish-gin-tonic-sklenka",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "servings": 1,
+  "activeMinutes": 3,
+  "cookMinutes": 0,
+  "waitMinutes": 7,
+  "waitLabel": "vychlazení sklenice v mrazáku",
+  "difficulty": "snadné",
+  "intro": "Gin tonic je nejjednodušší long drink: gin, tonic a hodně ledu. Osvědčený poměr ginu a toniku je 1 : 3, tedy 50 ml ginu na 150 ml toniku; s poměrem 1 : 2 je drink výraznější, s 1 : 4 lehčí. Rozhoduje teplota a bublinky, proto se tonic nalévá vychlazený a pomalu po lžíci.",
+  "ingredients": [
+    {
+      "ingredient": "led",
+      "amount": 200,
+      "unit": "g",
+      "note": "kostky"
+    },
+    {
+      "ingredient": "gin",
+      "amount": 50,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "tonik",
+      "amount": 150,
+      "unit": "ml",
+      "note": "dobře vychlazený"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "1 klínek"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Velkou sklenici na víno (balonek) nebo vysokou sklenici dej na 5 až 10 minut do mrazáku."
+    },
+    {
+      "text": "Sklenici naplň ledovými kostkami až po okraj. Plná sklenice ledu taje pomaleji než pár kostek, které plavou v toniku."
+    },
+    {
+      "text": "Nalij 50 ml ginu a lžící krátce promíchej, aby se gin i led ochladily."
+    },
+    {
+      "text": "Vychlazený tonic (150 ml) nalévej pomalu po dlouhé lžíci nebo po stěně sklenice, aby neztratil bublinky. Jednou zlehka promíchej zdola nahoru."
+    },
+    {
+      "text": "Nad drinkem vymačkej klínek limetky, vhoď ho dovnitř a podávej hned."
+    }
+  ],
+  "tips": [
+    "Ke květinovým ginům se víc hodí 2 tenké plátky salátové okurky než limetka, k bylinkovým snítka rozmarýnu.",
+    "Tonic kupuj v malých lahvích. Otevřený litr ztratí bublinky do druhého dne a gin tonic pak chutná ploše.",
+    "Led dávej z mrazáku těsně před použitím. Mokrý, napůl roztátý led drink rychle rozředí."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo ginu nalij 50 ml nealkoholického ginu (bylinný destilát bez alkoholu s jalovcem), nebo jen 200 ml toniku s limetkou a 2 plátky okurky.",
+    "Místo limetky se hodí kolečko citronu nebo plátek růžového grepu.",
+    "Kdo chce méně hořký drink, použije tonic se sníženým obsahem chininu nebo ho z poloviny nahradí sodovkou."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je poměr ginu a toniku?",
+      "a": "Osvědčený je poměr 1 : 3, tedy 50 ml ginu na 150 ml toniku. Poměr 1 : 2 dá výraznější drink s víc alkoholu, 1 : 4 lehčí a osvěžující. Vždy na sklenici plnou ledu."
+    },
+    {
+      "q": "Do jaké sklenice se nalévá gin tonic?",
+      "a": "Nejlépe do velké sklenice na víno (balonku), do které se vejde hodně ledu a vůně se drží nad hladinou. Poslouží i vysoká sklenice na long drink, asi 350 ml."
+    },
+    {
+      "q": "Okurka, nebo limetka do gin toniku?",
+      "a": "Záleží na ginu. Ke klasickému jalovcovému ginu se hodí limetka, ke květinovým ginům plátek okurky, k bylinkovým rozmarýn. Ozdoba má drink podtrhnout, ne přebít."
+    }
+  ]
+}

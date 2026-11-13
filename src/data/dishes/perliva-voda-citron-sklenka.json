@@ -1,0 +1,18 @@
+{
+  "name": "Sodovka s citronem",
+  "restaurant": "koktejlbar-prazdna-sklenka",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Sodovka, led a kolečko citronu. Pro toho, kdo dnes řídí, a pro každého, kdo prostě chce vodu.",
+  "about": [],
+  "price": 3900,
+  "image": "dish-perliva-voda-citron-sklenka",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 110
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Jablečný mošt 0,33 l",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Stoprocentní mošt z jablek, kalný a vychlazený. Sladký přesně tolik, aby přebil sůl z tyčinek.",
+  "price": 4900,
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 80,
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "image": "dish-jablecny-most-oblozeno",
+  "about": [],
+  "optionGroups": [],
+  "spicy": 0
+}

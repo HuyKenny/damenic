@@ -1,0 +1,19 @@
+{
+  "name": "Kyselé okurky v misce",
+  "kind": "side",
+  "section": "Saláty a slané",
+  "description": "Malé sterilované okurky s hořčičným semínkem. Na zahnání majonézy mezi třetím a čtvrtým chlebíčkem.",
+  "price": 3900,
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [
+    10
+  ],
+  "order": 70,
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "image": "dish-kysele-okurky-oblozeno",
+  "about": [],
+  "optionGroups": [],
+  "spicy": 0
+}

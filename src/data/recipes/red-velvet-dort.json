@@ -1,0 +1,157 @@
+{
+  "title": "Red velvet dort",
+  "keywords": [
+    "red velvet dort recept",
+    "dort red velvet recept",
+    "red velvet dort"
+  ],
+  "image": "dish-red-velvet-dilek",
+  "category": "dorty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 45,
+  "cookMinutes": 30,
+  "waitMinutes": 180,
+  "waitLabel": "chladnutí korpusů a dortu v lednici",
+  "difficulty": "střední",
+  "intro": "Red velvet dort recept na dva sametové červené korpusy s podmáslím a krém ze smetanového sýra. Pečou se ve dvou formách o průměru 20 cm. Kakaa je v těstě jen trochu, takže chuť je jemná a lehce nakyslá. Barvu dělá gelové barvivo, tekuté by těsto zředilo.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 300,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 10,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 5,
+      "unit": "g",
+      "note": "1 lžička",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "pokojové teploty",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "podmasli",
+      "amount": 250,
+      "unit": "ml",
+      "note": "pokojové teploty",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "barvivo-cervene",
+      "amount": 5,
+      "unit": "g",
+      "note": "gelové",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 400,
+      "unit": "g",
+      "note": "studený",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Krém"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpus",
+      "text": "Troubu předehřej na 175 °C (horkovzduch 165 °C). Dna dvou forem o průměru 20 cm vylož papírem a boky vymaž. Vejce a podmáslí nech ohřát na pokojovou teplotu."
+    },
+    {
+      "text": "V míse smíchej mouku, cukr, kakao, sodu a sůl. V druhé míse prošlehej vejce, olej, podmáslí, vanilkový cukr a barvivo, aby měla směs sytě červenou barvu."
+    },
+    {
+      "text": "Tekutou směs vlij do suché a míchej metličkou jen do spojení. Nakonec vmíchej ocet, těsto se trochu zpění."
+    },
+    {
+      "text": "Těsto rozděl rovnoměrně do obou forem a peč 28 až 32 minut, dokud špejle nevyjde suchá a povrch nepruží. Nech 10 minut ve formách, pak vyklop na mřížku a nech úplně vychladnout."
+    },
+    {
+      "section": "Krém",
+      "text": "Změklé máslo šlehej s moučkovým cukrem 2 minuty do světla. Přidej studený smetanový sýr a šlehej jen do spojení, asi 30 vteřin."
+    },
+    {
+      "section": "Skládání",
+      "text": "Z korpusů seřízni klenuté vršky, aby byly rovné, a odřezky rozdrob na ozdobu. Korpusy spoj třetinou krému, zbytek rozetři po vršku a bocích a okraj posyp červenými drobky. Před krájením nech dort hodinu v lednici."
+    }
+  ],
+  "tips": [
+    "Gelové barvivo barví mnohem víc než tekuté. Tekutého by bylo potřeba až 30 ml a těsto by zředilo.",
+    "Červená při pečení trochu ztmavne, takže těsto barvi o odstín sytěji, než chceš mít výsledek.",
+    "Dort skladuj v lednici, vydrží 3 až 4 dny. Krájej ho studený, krém se méně maže."
+  ],
+  "substitutions": [
+    "Místo podmáslí použij 250 ml mléka s 1 lžící octa nebo citronové šťávy a nech 5 minut stát.",
+    "Bez barviva: nahraď 150 ml podmáslí šťávou z vařené červené řepy. Barva bude spíš vínová a chuť lehce zemitá.",
+    "Místo smetanového sýra se hodí mascarpone. Krém bude pevnější a méně kyselý."
+  ],
+  "faq": [
+    {
+      "q": "Čím se liší red velvet od čokoládového dortu?",
+      "a": "Red velvet má jen trochu kakaa, takže chutná jemně, spíš vanilkově s náznakem kakaa. Typická je kyselost z podmáslí a octa, sametová střída a krém ze smetanového sýra."
+    },
+    {
+      "q": "Proč je red velvet hnědý, a ne červený?",
+      "a": "Bylo málo barviva nebo moc kakaa. Kakao barvu ztmaví, proto ho dávej jen 10 g. Gelové barvivo je spolehlivější než tekuté."
+    },
+    {
+      "q": "Jak dlouho vydrží red velvet dort?",
+      "a": "S krémem ze smetanového sýra 3 až 4 dny v lednici, zakrytý. Při pokojové teplotě ho nenechávej déle než pár hodin."
+    }
+  ]
+}

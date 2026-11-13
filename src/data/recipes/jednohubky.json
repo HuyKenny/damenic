@@ -1,0 +1,163 @@
+{
+  "title": "Jednohubky na párátku: čtyři klasické nápady",
+  "keywords": [
+    "jednohubky",
+    "nápady na jednohubky",
+    "jednohubky recepty",
+    "jednohubky zdobení",
+    "jednohubky na oslavu"
+  ],
+  "image": "dish-jednohubky-tac-oblozeno",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 12,
+  "activeMinutes": 50,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Klasické jednohubky na párátku z koleček bagety s česnekovou pomazánkou a čtyřmi druhy ozdob: šunka s okurkou, eidam s olivou, mozzarella s rajčátkem a pikantní salám s paprikou. Vyjde 48 kusů, na oslavu pro 12 lidí po čtyřech. Jednohubka má jít do pusy na jedno kousnutí, takže nic na ní nesmí být větší než kolečko pod ní.",
+  "ingredients": [
+    {
+      "ingredient": "bageta",
+      "amount": 2,
+      "unit": "ks",
+      "note": "asi 25 cm, nejlépe den stará",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 250,
+      "unit": "g",
+      "group": "Česneková pomazánka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "stroužky",
+      "group": "Česneková pomazánka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Česneková pomazánka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Česneková pomazánka"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 120,
+      "unit": "g",
+      "note": "6 plátků",
+      "group": "Ozdoby"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 100,
+      "unit": "g",
+      "note": "malé okurky",
+      "group": "Ozdoby"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g",
+      "note": "v kusu",
+      "group": "Ozdoby"
+    },
+    {
+      "ingredient": "olivy",
+      "amount": 60,
+      "unit": "g",
+      "note": "12 ks",
+      "group": "Ozdoby"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 125,
+      "unit": "g",
+      "group": "Ozdoby"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 150,
+      "unit": "g",
+      "note": "12 ks",
+      "group": "Ozdoby"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "lístky",
+      "group": "Ozdoby"
+    },
+    {
+      "ingredient": "salam-pikantni",
+      "amount": 100,
+      "unit": "g",
+      "note": "tenká kolečka",
+      "group": "Ozdoby"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Ozdoby"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smetanový sýr promíchej s prolisovaným česnekem, najemno nakrájenou pažitkou a špetkou soli. Dej ho do lednice, než připravíš ozdoby."
+    },
+    {
+      "text": "Bagety nakrájej na kolečka silná asi 1 cm, ze dvou vyjde 48 kusů. Den stará bageta se krájí čistě a nedrolí se. Kdo chce křupavější základ, opeče kolečka 5 minut v troubě na 180 °C a nechá je vychladnout."
+    },
+    {
+      "text": "Připrav ozdoby: plátky šunky rozpůl a stoč do malých rolek, okurky nakrájej na kolečka, eidam na kostky 1,5 cm, mozzarellu na kostky stejné velikosti, papriku na čtverečky 1,5 cm."
+    },
+    {
+      "text": "Každé kolečko bagety potři lžičkou česnekové pomazánky, asi 5 g. Pomazánka drží ozdoby na místě a zároveň brání tomu, aby pečivo nasáklo."
+    },
+    {
+      "text": "Na párátka napichuj ozdoby odshora dolů a pak je zapíchni do kolečka: 12 kusů okurka a rolka šunky, 12 kusů oliva a kostka eidamu, 12 kusů rajčátko, lístek bazalky a mozzarella, 12 kusů čtvereček papriky a přeložené kolečko salámu."
+    },
+    {
+      "text": "Jednohubky skládej na tác po druzích v řadách, přikryj fólií a do podávání drž v lednici, nejdéle 3 hodiny. Vyndej je těsně před příchodem hostů."
+    }
+  ],
+  "tips": [
+    "Na oslavu počítej 4 až 6 jednohubek na osobu, když jsou k tomu i chlebíčky nebo teplé jídlo. Jako jediné pohoštění na celý večer 10 až 12 kusů.",
+    "Majonéza, vejce i šunka patří do lednice. Na stole při pokojové teplotě je nenechávej déle než 2 hodiny, v teplé místnosti radši kratší dobu.",
+    "Zdobení: střídej barvy v řadách, na tác dej lístky petrželky nebo bazalky a různé druhy odděl. Napichovátka s ozdobným koncem vypadají líp než holá párátka, ale stačí i ta obyčejná.",
+    "Pomazánka i nakrájené ozdoby vydrží v uzavřených dózách v lednici do druhého dne. Složené jednohubky jsou nejlepší do 3 hodin, potom pečivo měkne."
+  ],
+  "substitutions": [
+    "Bez pečiva: napichuj ozdoby rovnou na párátko a jako základ použij kolečko salátové okurky nebo kostku sýra. Vhodné pro hosty, kteří nejí lepek.",
+    "Česnekovou pomazánku můžeš vyměnit za jemnou pomazánku na chlebíčky, pomazánku z nivy (smetanový sýr a 80 g nivy) nebo lososovou.",
+    "Bezmasá verze: místo šunky a salámu přidej další mozzarellu s rajčátky a kostky sýra s hroznem."
+  ],
+  "faq": [
+    {
+      "q": "Jak ozdobit jednohubky?",
+      "a": "Dej na každou jednohubku nejvýš tři věci a střídej barvy: červené rajčátko nebo paprika, zelená okurka, oliva nebo bylinka a světlý sýr. Na tácu je seřaď po druzích do řad a mezery vyplň bylinkami."
+    },
+    {
+      "q": "Kolik jednohubek počítat na osobu?",
+      "a": "K dalšímu jídlu 4 až 6 kusů na osobu. Když jsou jednohubky hlavní pohoštění na celý večer, počítej 10 až 12 kusů."
+    },
+    {
+      "q": "Jak dlouho dopředu dělat jednohubky?",
+      "a": "Pomazánku a ozdoby připrav den předem, skládej nejvýš 3 hodiny před podáváním a do té doby je drž v lednici. Na stole by neměly být déle než 2 hodiny."
+    }
+  ],
+  "occasions": [
+    "silvestr",
+    "narozeniny"
+  ]
+}

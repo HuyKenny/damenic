@@ -1,0 +1,43 @@
+{
+  "name": "Vlašský salát v misce",
+  "kind": "main",
+  "section": "Saláty a slané",
+  "description": "Šunka, brambory, mrkev, celer, petržel, hrášek a kyselé okurky v majonéze, všechno nakrájené na stejně drobné nudličky.",
+  "about": [
+    "Vlašský salát je to, co drží chlebíček pohromadě. Šunka, brambory, kořenová zelenina a hrášek, všechno stejně drobné, protože salát, ve kterém plave kostka mrkve velká jako kostka cukru, na veku nepatří.",
+    "Doma potřebuje hlavně čas, uvařená zelenina musí úplně vychladnout a hotový salát odležet přes noc. Recept vystačí na 60 chlebíčků nebo dvanáct misek. Lžíci máme. Misku taky. Salát ne."
+  ],
+  "price": 12900,
+  "recipe": "vlassky-salat",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "200g",
+          "name": "200 g",
+          "priceDelta": 0
+        },
+        {
+          "id": "400g",
+          "name": "400 g",
+          "priceDelta": 8900
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "allergens": [
+    3,
+    9,
+    10
+  ],
+  "order": 50,
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "image": "dish-vlassky-salat-v-misce-oblozeno",
+  "spicy": 0,
+  "vegan": false
+}

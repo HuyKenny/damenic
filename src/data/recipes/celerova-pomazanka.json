@@ -1,0 +1,105 @@
+{
+  "title": "Celerová pomazánka na chlebíčky",
+  "keywords": [
+    "celerová pomazánka na chlebíčky",
+    "celerová pomazánka",
+    "celerová pomazánka recept",
+    "pomazánky na chlebíčky"
+  ],
+  "image": "dish-celerova-pomazanka",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 10,
+  "activeMinutes": 20,
+  "cookMinutes": 0,
+  "waitMinutes": 60,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "intro": "Celerová pomazánka na chlebíčky ze syrového celeru nastrouhaného najemno, eidamu a majonézy s jogurtem. Dávka asi 650 g stačí na 25 chlebíčků. Celer musí být strouhaný opravdu jemně a pokapaný citronem, jinak pomazánka zhnědne a je v ní cítit tvrdá vlákna.",
+  "ingredients": [
+    {
+      "ingredient": "celer-bulva",
+      "amount": 300,
+      "unit": "g",
+      "note": "oloupaný"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 120,
+      "unit": "g"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Celer oloupej, odkrájej tmavá místa a nastrouhej ho na nejjemnějším struhadle. Hned ho pokapej citronovou šťávou a promíchej, aby nezhnědl."
+    },
+    {
+      "text": "Eidam nastrouhej také najemno. Majonézu promíchej s jogurtem, solí, pepřem a špetkou cukru."
+    },
+    {
+      "text": "Do majonézy vmíchej celer a sýr. Pomazánka má být hustá. Kdyby byla řídká, celer pustil šťávu: příště ho po nastrouhání lehce vymačkej."
+    },
+    {
+      "text": "Pomazánku přikryj a nech ji alespoň hodinu odležet v lednici. Celer za tu dobu změkne a chuť se srovná. Před natíráním ji promíchej a dochuť."
+    }
+  ],
+  "tips": [
+    "Pomazánka vydrží v uzavřené dóze v lednici 2 dny. Nejlepší je druhý den, kdy celer změkne úplně.",
+    "Majonéza, vejce i šunka patří do lednice. Na stole při pokojové teplotě je nenechávej déle než 2 hodiny, v teplé místnosti radši kratší dobu.",
+    "Na chlebíčku ji ozdob půlkou vlašského ořechu, plátkem vejce nebo kouskem červené papriky.",
+    "Celer je jeden ze 14 hlavních alergenů. Na oslavě u tácu napiš, která pomazánka je celerová."
+  ],
+  "substitutions": [
+    "Kdo nemá rád syrový celer, může ho po nastrouhání na 2 minuty spařit vroucí vodou, scedit a nechat vychladnout. Pomazánka bude jemnější a méně výrazná.",
+    "Místo eidamu můžeš dát 1 nastrouhané kyselé jablko a 50 g nasekaných vlašských ořechů. Majonézu lze celou nahradit řeckým jogurtem."
+  ],
+  "faq": [
+    {
+      "q": "Musí se celer do pomazánky vařit?",
+      "a": "Nemusí. Syrový celer stačí nastrouhat najemno a nechat hodinu odležet v majonéze. Jemnější chuť má po krátkém spaření, asi 2 minuty."
+    },
+    {
+      "q": "Proč celerová pomazánka zhnědne?",
+      "a": "Nastrouhaný celer oxiduje na vzduchu. Pokapej ho citronovou šťávou hned po nastrouhání a pomazánku drž přikrytou."
+    },
+    {
+      "q": "Jak dlouho vydrží celerová pomazánka?",
+      "a": "V uzavřené dóze v lednici 2 dny. Mimo lednici ji nenechávej déle než 2 hodiny, obsahuje majonézu."
+    }
+  ],
+  "occasions": [
+    "silvestr",
+    "narozeniny"
+  ]
+}

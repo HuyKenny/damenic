@@ -1,0 +1,88 @@
+{
+  "title": "Piña colada",
+  "keywords": [
+    "piña colada",
+    "piña colada recept",
+    "nealko piña colada",
+    "piña colada bez alkoholu"
+  ],
+  "image": "dish-pina-colada-sklenka",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "servings": 2,
+  "activeMinutes": 5,
+  "cookMinutes": 0,
+  "waitMinutes": 5,
+  "waitLabel": "vychlazení sklenice v mrazáku",
+  "difficulty": "snadné",
+  "intro": "Piña colada je karibský koktejl z bílého rumu, ananasového džusu a kokosu, rozmixovaný s ledem do husté studené pěny. Recept je na dvě sklenice a místo těžko sehnatelného slazeného kokosového krému používá obyčejné kokosové mléko z plechovky a trochu cukru. Rozhoduje poměr: na 50 ml rumu 100 ml ananasového džusu a 60 ml kokosového mléka.",
+  "ingredients": [
+    {
+      "ingredient": "rum-bily",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "dzus-ananasovy",
+      "amount": 200,
+      "unit": "ml",
+      "note": "vychlazený"
+    },
+    {
+      "ingredient": "kokosove-mleko",
+      "amount": 120,
+      "unit": "ml",
+      "note": "plnotučné, před otevřením protřepané"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "led",
+      "amount": 300,
+      "unit": "g",
+      "note": "kostky do mixéru"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Dvě vysoké sklenice (asi 350 ml) dej na 5 minut do mrazáku. Plechovku kokosového mléka před otevřením důkladně protřepej, aby se hustá a řídká část spojily."
+    },
+    {
+      "text": "Do mixéru nalij 100 ml bílého rumu, 200 ml ananasového džusu a 120 ml kokosového mléka, přisyp 20 g cukru a přidej 300 g ledových kostek."
+    },
+    {
+      "text": "Mixuj na nejvyšší výkon 30 až 45 sekund, dokud není směs hladká a bez kousků ledu. Ochutnej, případně přisladni a krátce promixuj."
+    },
+    {
+      "text": "Rozlij do vychlazených sklenic, okraj ozdob kouskem ananasu a podávej hned, než se pěna usadí."
+    }
+  ],
+  "tips": [
+    "Kokosové mléko ber plnotučné, ne light. S řidším bude drink vodový a pěna se rychle rozpadne.",
+    "Bez silného mixéru můžeš všechno protřepat v šejkru s ledem a přecedit na čerstvý led. Drink bude řidší, chuť zůstane.",
+    "Zbytek kokosového mléka přelij do uzavíratelné nádoby a spotřebuj ho z lednice do 3 dnů."
+  ],
+  "substitutions": [
+    "Nealko piña colada: rum vynech a místo něj přidej 100 ml ananasového džusu navíc a 2 lžíce limetkové šťávy, aby drink nebyl jen sladký. Postup je stejný.",
+    "Místo kokosového mléka a cukru můžeš použít 120 ml slazeného kokosového krému na koktejly. Cukr pak vynech.",
+    "Když část ledu (150 g) nahradíš mraženým ananasem, bude drink hustší a méně ředěný."
+  ],
+  "faq": [
+    {
+      "q": "Co je v piña coladě?",
+      "a": "Bílý rum, ananasový džus a kokos, buď slazený kokosový krém, nebo kokosové mléko s cukrem, rozmixované s ledem. Na jednu sklenici 50 ml rumu, 100 ml ananasového džusu a 60 ml kokosového mléka."
+    },
+    {
+      "q": "Jak udělat piña coladu bez alkoholu?",
+      "a": "Rum vynech a nahraď ho ananasovým džusem, asi 50 ml na sklenici, a přidej lžíci limetkové šťávy. Zbytek postupu je stejný: všechno rozmixuj s ledem do hladka."
+    },
+    {
+      "q": "Jaký rum se hodí do piña colady?",
+      "a": "Klasicky bílý rum, který kokos a ananas nepřebije. Tmavý rum dá drinku tóny karamelu a je výraznější. Kokosový likér s rumem je sladší a slabší, cukr pak vynech."
+    }
+  ]
+}

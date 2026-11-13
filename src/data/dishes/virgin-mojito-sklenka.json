@@ -1,0 +1,54 @@
+{
+  "name": "Virgin mojito",
+  "restaurant": "koktejlbar-prazdna-sklenka",
+  "kind": "main",
+  "section": "Nápoje",
+  "description": "Limetka, třtinový cukr, máta, drcený led a sodovka. Všechno z mojita kromě rumu.",
+  "about": [
+    "Virgin mojito je mojito, které můžou pít všichni u stolu: řidič, těhotná kamarádka i děti. Limetka s třtinovým cukrem, máta, drcený led a sodovka místo rumu. Dělá se úplně stejně, takže chutná jako drink, ne jako náhradní řešení.",
+    "Vybereš si velikost a můžeš přidat jahody. Přinést ti ho nemůžeme, bar je smyšlený. Doma si ho ale namícháš za pět minut i bez barmana."
+  ],
+  "price": 12900,
+  "image": "dish-virgin-mojito-sklenka",
+  "recipe": "virgin-mojito",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "03l",
+          "name": "0,3 l",
+          "priceDelta": 0
+        },
+        {
+          "id": "05l",
+          "name": "0,5 l",
+          "priceDelta": 3000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 1,
+      "options": [
+        {
+          "id": "jahody",
+          "name": "Rozmačkané jahody",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 90
+}

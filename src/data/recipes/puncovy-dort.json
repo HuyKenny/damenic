@@ -1,0 +1,175 @@
+{
+  "title": "Punčový dort",
+  "keywords": [
+    "punčový dort",
+    "punčový dort recept",
+    "jednoduchý punčový dort"
+  ],
+  "image": "dish-puncovy-dort",
+  "category": "dorty",
+  "alcohol": true,
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 60,
+  "cookMinutes": 35,
+  "waitMinutes": 720,
+  "waitLabel": "odležení pod zátěží v lednici (přes noc)",
+  "difficulty": "náročnější",
+  "intro": "Punčový dort má světlý piškotový korpus, střed z kostek korpusu nasáklých rumovým sirupem s džemem a růžovou polevu. Peče se ve formě o průměru 24 cm a pak odleží přes noc pod zátěží v lednici, aby se vrstvy spojily. V sirupu je 80 ml tuzemáku nebo tmavého rumu, který se nevaří, takže dort obsahuje alkohol.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 6,
+      "unit": "ks",
+      "note": "pokojové teploty",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 180,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 30,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Punčový sirup"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "group": "Punčový sirup"
+    },
+    {
+      "ingredient": "tuzemak",
+      "amount": 80,
+      "unit": "ml",
+      "note": "nebo tmavý rum",
+      "group": "Punčový sirup"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva, trochu nech na polevu",
+      "group": "Punčový sirup"
+    },
+    {
+      "ingredient": "pomeranc",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Punčový sirup"
+    },
+    {
+      "ingredient": "dzem-rybizovy",
+      "amount": 150,
+      "unit": "g",
+      "group": "Punčový sirup"
+    },
+    {
+      "ingredient": "barvivo-cervene",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "na špičku nože",
+      "group": "Punčový sirup"
+    },
+    {
+      "ingredient": "dzem-merunkovy",
+      "amount": 100,
+      "unit": "g",
+      "note": "na potření vršku",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 40,
+      "unit": "ml",
+      "note": "horká",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "barvivo-cervene",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpus",
+      "text": "Troubu předehřej na 170 °C (horkovzduch 160 °C), dno formy o průměru 24 cm vylož papírem. Vejce s cukrem a solí šlehej 10 až 12 minut do husté pěny s trojnásobným objemem, pak stěrkou vmíchej prosátou mouku se škrobem ve třech dávkách."
+    },
+    {
+      "text": "Peč 30 až 35 minut, dokud povrch nepruží a špejle nevyjde suchá. Nech korpus vychladnout dnem vzhůru, nejlépe přes noc zabalený ve fólii."
+    },
+    {
+      "section": "Punč",
+      "text": "Vodu s cukrem povař 2 minuty, odstav a nech zchladnout na vlažnou. Vmíchej šťávu z citronu a pomeranče, 80 ml tuzemáku a tolik barviva, aby byl sirup sytě růžový. Alkohol přidávej až do vlažného sirupu, nevař ho."
+    },
+    {
+      "text": "Korpus rozkroj na tři pláty. Prostřední nakrájej na kostky asi 1,5 cm, dej je do mísy, přidej rybízový džem a postupně přilévej sirup. Míchej, dokud nejsou kostky rovnoměrně nasáklé a lepivé, ale ne rozmočené na kaši. Asi 3 lžíce sirupu si nech stranou."
+    },
+    {
+      "section": "Skládání",
+      "text": "Spodní plát vrať do formy s okrajem vyloženým papírem a pokapej ho odloženým sirupem. Rozprostři na něj punčovou směs, uhlaď ji a přiklop horním plátem řezem dolů."
+    },
+    {
+      "text": "Dort zakryj papírem, polož na něj plochý talíř a zatiž ho asi 1 kg, třeba sklenicí s vodou. Dej ho do lednice aspoň na 12 hodin, nejlépe přes noc."
+    },
+    {
+      "section": "Poleva",
+      "text": "Druhý den sundej okraj formy a vršek potři tenkou vrstvou prohřátého meruňkového džemu. Moučkový cukr smíchej s horkou vodou, kapkou citronové šťávy a špetkou barviva do husté růžové polevy, která pomalu stéká ze lžíce. Nalij ji doprostřed a rozetři nožem namočeným v horké vodě. Nech hodinu zaschnout."
+    }
+  ],
+  "tips": [
+    "Kostky korpusu nesmí v sirupu plavat. Přilévej ho postupně, jinak bude střed mokrý a dort se rozjede.",
+    "Punčový dort vydrží zakrytý v lednici 4 až 5 dní a odležený chutná lépe. Krájej ho nožem namočeným v horké vodě.",
+    "Poleva má být hustá. Když stéká z dortu, přidej lžíci moučkového cukru, když se nedá roztírat, kapku vody."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo 80 ml tuzemáku použij 75 ml vody nebo vychladlého černého čaje a 1 lžičku (5 ml) rumového aroma. Takový dort mohou jíst i děti.",
+    "Rybízový džem můžeš nahradit malinovým nebo meruňkovým. Kyselejší džem lépe vyvažuje sladkou polevu.",
+    "Místo růžové polevy můžeš dort potáhnout 150 g hořké čokolády rozpuštěné se 150 ml smetany."
+  ],
+  "faq": [
+    {
+      "q": "Je v punčovém dortu cítit alkohol?",
+      "a": "Ano. Rum se přidává do vychladlého sirupu a nevaří se, takže v dortu zůstává. Na celý dort je ho 80 ml, na jeden z 12 dílků asi 7 ml. Pro děti, těhotné a řidiče udělej nealko variantu s rumovým aroma."
+    },
+    {
+      "q": "Jak dlouho musí punčový dort odležet?",
+      "a": "Pod zátěží v lednici aspoň 12 hodin, nejlépe přes noc. Kostky korpusu se za tu dobu spojí se sirupem a džemem a dort se dá krájet na rovné dílky."
+    },
+    {
+      "q": "Jaký rum dát do punčového dortu?",
+      "a": "Tradičně tuzemák nebo jiný tmavý rum, na dort o průměru 24 cm stačí 80 ml. Bílý rum funguje taky, chuť je ale slabší."
+    }
+  ]
+}

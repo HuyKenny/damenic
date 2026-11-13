@@ -1,0 +1,36 @@
+{
+  "name": "Citronová limonáda s mátou 0,4 l",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Citronová šťáva, cukrový sirup, perlivá voda a lístky máty. Kyselá tak, jak to chlebíčky potřebují.",
+  "optionGroups": [
+    {
+      "id": "led",
+      "name": "Led",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "s-ledem",
+          "name": "S ledem",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-ledu",
+          "name": "Bez ledu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "price": 5900,
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 90,
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "image": "dish-citronova-limonada-oblozeno",
+  "about": [],
+  "spicy": 0
+}

@@ -1,0 +1,158 @@
+{
+  "title": "Jednoduchý dětský dort s ovocem",
+  "keywords": [
+    "dětský dort",
+    "dětský dort recept",
+    "dětský dort s ovocem",
+    "dětský narozeninový dort"
+  ],
+  "image": "dish-detsky-dort",
+  "category": "dorty",
+  "occasions": [
+    "narozeniny"
+  ],
+  "vegetarian": true,
+  "servings": 10,
+  "activeMinutes": 40,
+  "cookMinutes": 35,
+  "waitMinutes": 240,
+  "waitLabel": "chladnutí korpusu a tuhnutí krému",
+  "difficulty": "snadné",
+  "intro": "Jednoduchý dětský dort s olejovým korpusem, tvarohovým krémem se šlehačkou a ovocem, bez alkoholu, kávy a barviv. Peče se ve formě o průměru 22 cm a zvládneš ho i bez zkušeností s piškotem, těsto se jen smíchá. Ozdobu z ovoce, třeba obličej nebo číslo věku, skládej až těsně před oslavou.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 220,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 500,
+      "unit": "g",
+      "note": "měkký",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 250,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 300,
+      "unit": "g",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "banan",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "boruvky",
+      "amount": 125,
+      "unit": "g",
+      "group": "Ovoce"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpus",
+      "text": "Troubu předehřej na 175 °C (horkovzduch 165 °C), dno formy o průměru 22 cm vylož papírem a boky vymaž."
+    },
+    {
+      "text": "Vejce s cukrem a solí šlehej 3 minuty do světlé pěny. Přilij olej a mléko a krátce prošlehej. Mouku smíchej s práškem do pečiva a stěrkou ji vmíchej jen do spojení."
+    },
+    {
+      "text": "Těsto nalij do formy a peč 30 až 35 minut, dokud špejle nevyjde suchá. Nech 10 minut ve formě, pak vyklop na mřížku a nech úplně vychladnout, asi 2 hodiny."
+    },
+    {
+      "section": "Krém",
+      "text": "Šlehačku ušlehej do pevné pěny. Tvaroh prošlehej s moučkovým a vanilkovým cukrem dohladka a stěrkou do něj vmíchej šlehačku."
+    },
+    {
+      "section": "Skládání",
+      "text": "Korpus rozkroj na dva pláty. Na spodní rozetři třetinu krému a poklaď nakrájenými banány a polovinou jahod. Přiklop druhým plátem a zbytek krému rozetři po vršku a bocích."
+    },
+    {
+      "text": "Dort dej aspoň na 2 hodiny do lednice. Těsně před podáváním z jahod a borůvek poskládej navrch obrázek, třeba obličej, sluníčko nebo číslo podle věku."
+    }
+  ],
+  "tips": [
+    "Pro děti do 3 let borůvky rozpůl nebo rozmačkej. Celé malé kulaté plody jsou pro ně riziko zadušení.",
+    "Dort vydrží v lednici 2 dny, banány pak tmavnou. Krém z tvarohu a šlehačky nenechávej při pokojové teplotě déle než 2 hodiny.",
+    "Svíčky zapichuj až před přinesením ke stolu, ať vosk nekape na krém."
+  ],
+  "substitutions": [
+    "Čokoládový korpus: nahraď 30 g mouky kakaem.",
+    "Bez lepku: místo polohrubé mouky použij stejné množství bezlepkové směsi na pečení a bezlepkový prášek do pečiva.",
+    "Tvaroh můžeš nahradit mascarpone. Krém bude pevnější a sladší, proto uber 20 g cukru."
+  ],
+  "faq": [
+    {
+      "q": "Jak ozdobit dětský dort?",
+      "a": "Nejjednodušší je ovoce: z jahod, borůvek a banánu poskládej obličej, zvířátko nebo číslo věku. Hodí se i strouhaná čokoláda nebo barevný posyp, který přidáš až těsně před podáváním."
+    },
+    {
+      "q": "Jaký dort pro roční dítě?",
+      "a": "Co nejjednodušší: korpus s menším množstvím cukru, krém z tvarohu nebo jogurtu a měkké ovoce. Vynech alkohol, kávu a celé ořechy a malé kulaté plody vždycky rozpůl."
+    },
+    {
+      "q": "Jak upéct dětský dort den předem?",
+      "a": "Korpus upeč den nebo dva předem a zabal ho do fólie. Krém a skládání nech na den před oslavou a ozdobu z ovoce dej navrch až těsně před podáváním, aby nepouštělo šťávu."
+    }
+  ]
+}

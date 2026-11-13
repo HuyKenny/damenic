@@ -1,0 +1,62 @@
+{
+  "name": "Čokoládový dort s ganache",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Čokoládové",
+  "description": "Vláčný kakaový korpus, hustá ganache z hořké čokolády a pár malin mezi pláty.",
+  "price": 13900,
+  "image": "dish-cokoladovy-dort-dilek",
+  "recipe": "cokoladovy-dort",
+  "about": [
+    "Čokoládový dort má jednu povinnost: nebýt suchý. Tenhle drží vlhkost díky oleji a horké vodě v těstě a navrch dostává ganache z čokolády a smetany v poměru jedna ku jedné, která se maže jako měkké máslo.",
+    "V simulaci si vybereš dílek, nebo rovnou celý dort o průměru 24 cm. Doma se rozhoduješ jen jednou, a to mezi trpělivostí a rozkrojením teplého korpusu. Trpělivost vyhrává."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "dilek",
+          "name": "Dílek",
+          "priceDelta": 0
+        },
+        {
+          "id": "cely",
+          "name": "Celý dort 24 cm (12 dílků)",
+          "priceDelta": 99000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 2,
+      "options": [
+        {
+          "id": "slehacka",
+          "name": "Neslazená šlehačka",
+          "priceDelta": 2500
+        },
+        {
+          "id": "svicky",
+          "name": "Dortové svíčky (10 ks)",
+          "priceDelta": 2900
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": true,
+  "order": 10
+}

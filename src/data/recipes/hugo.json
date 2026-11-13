@@ -1,0 +1,102 @@
+{
+  "title": "Hugo",
+  "keywords": [
+    "hugo drink",
+    "hugo drink recept",
+    "hugo spritz",
+    "hugo s proseccem"
+  ],
+  "image": "dish-hugo-sklenka",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "occasions": [
+    "grilovani"
+  ],
+  "servings": 1,
+  "activeMinutes": 3,
+  "cookMinutes": 0,
+  "waitMinutes": 7,
+  "waitLabel": "vychlazení sklenice v mrazáku",
+  "difficulty": "snadné",
+  "intro": "Hugo drink je lehký spritz z jižního Tyrolska: prosecco, bezinkový sirup, sodovka, čerstvá máta a limetka na ledu. Na jednu sklenici stačí 20 ml sirupu na 120 ml prosecca, víc sirupu z drinku udělá limonádu. Mátu jen lehce plácni v dlaních, rozmačkaná by hořkla.",
+  "ingredients": [
+    {
+      "ingredient": "mata",
+      "amount": 0.15,
+      "unit": "ks",
+      "note": "6 až 8 lístků a snítka na ozdobu"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "2 tenká kolečka"
+    },
+    {
+      "ingredient": "bezinkovy-sirup",
+      "amount": 20,
+      "unit": "ml",
+      "note": "kupovaný nebo domácí"
+    },
+    {
+      "ingredient": "led",
+      "amount": 150,
+      "unit": "g",
+      "note": "kostky"
+    },
+    {
+      "ingredient": "prosecco",
+      "amount": 120,
+      "unit": "ml",
+      "note": "dobře vychlazené"
+    },
+    {
+      "ingredient": "perliva-voda",
+      "amount": 40,
+      "unit": "ml",
+      "note": "sodovka, vychlazená"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Velkou sklenici na víno dej na 5 až 10 minut do mrazáku."
+    },
+    {
+      "text": "Lístky máty jednou plácni mezi dlaněmi a dej je do sklenice spolu se 2 kolečky limetky. Nic nemačkej, máta má jen pustit vůni."
+    },
+    {
+      "text": "Nalij 20 ml bezinkového sirupu a sklenici naplň ledem."
+    },
+    {
+      "text": "Pomalu po stěně dolij 120 ml vychlazeného prosecca a 40 ml sodovky. Jednou zlehka promíchej zdola nahoru, aby se sirup ze dna rozptýlil."
+    },
+    {
+      "text": "Ozdob snítkou máty a podávej hned, dokud drink šumí."
+    }
+  ],
+  "tips": [
+    "Domácí bezinkový sirup bývá sladší a voňavější než kupovaný. Začni na 15 ml a ochutnej.",
+    "Sirup se v ledovém proseccu špatně rozmíchává, proto jde do sklenice jako první, ještě před ledem.",
+    "Na džbán pro šest lidí smíchej 120 ml sirupu s mátou a limetkou, prosecco a sodovku dolévej až do sklenic."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo prosecca nalij 120 ml nealkoholického šumivého vína, nebo 100 ml sodovky a 20 ml bílého hroznového džusu. Sirupu stačí 15 ml.",
+    "Místo prosecca se hodí jakékoli suché šumivé víno. Se suchým bílým vínem a sodovkou v poměru 1 : 1 vznikne bezinkový střik.",
+    "Místo limetky můžeš použít kolečko citronu."
+  ],
+  "faq": [
+    {
+      "q": "Co je v drinku Hugo?",
+      "a": "Prosecco nebo jiné suché šumivé víno, bezinkový sirup, sodovka, čerstvá máta, limetka a led. Na jednu sklenici 120 ml prosecca, 20 ml sirupu a 40 ml sodovky."
+    },
+    {
+      "q": "Jaký je rozdíl mezi Hugem a bezinkovou limonádou?",
+      "a": "Hugo je spritz na základu prosecca, takže obsahuje alkohol a je sušší. Bezinková limonáda je sirup ředěný vodou nebo sodovkou, bez alkoholu a sladší."
+    },
+    {
+      "q": "Kolik alkoholu má Hugo?",
+      "a": "Asi 6 až 7 %, protože prosecco s přibližně 11 % ředí sirup, sodovka a led. Jedna sklenice podle receptu obsahuje kolem 13 ml čistého alkoholu. Drink je jen pro dospělé."
+    }
+  ]
+}
