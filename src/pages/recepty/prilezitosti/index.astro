@@ -1,0 +1,41 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import RecipeCard from '@/components/RecipeCard.astro';
+import Icon from '@/components/Icon.astro';
+import { occasionHubs } from '@/lib/hubs';
+
+// Occasions in season come first; the order is decided at build time (CI rebuilds weekly).
+const hubs = await occasionHubs(new Date());
+const count = new Set(hubs.flatMap((h) => h.recipes.map((r) => r.id))).size;
+---
+
+<Base
+  title="Recepty na svátky a oslavy – Vánoce, Velikonoce, Silvestr"
+  description={`${count} receptů na svátky a oslavy: vánoční cukroví, štědrovečerní večeře, Velikonoce, Silvestr, masopust i narozeniny. S časy, porcemi a nákupním seznamem.`}
+>
+  <Breadcrumbs items={[{ label: 'Recepty', href: '/recepty/' }, { label: 'Svátky a oslavy' }]} />
+  <div class="wrap">
+    <div class="pagehead">
+      <h1>Recepty na svátky a oslavy</h1>
+      <p>Jídla, která se vaří jednou za rok, a proto je dobré mít je napsaná přesně. Nahoře je vždycky to, co se zrovna peče.</p>
+    </div>
+    <ul class="fpanel__chips" aria-label="Svátky a oslavy">
+      {hubs.map((h) => <li><a class="fchip" href={h.path}>{h.label}</a></li>)}
+    </ul>
+    {
+      hubs.map((h) => (
+        <section class="section" aria-labelledby={`h-${h.slug.replace('/', '-')}`} style="padding-bottom:0">
+          <div class="section__head">
+            <div>
+              <h2 id={`h-${h.slug.replace('/', '-')}`}><a href={h.path}>{h.label}</a></h2>
+              <p>{h.recipes.length} receptů</p>
+            </div>
+            <a class="section__more" href={h.path}>Všechny <Icon name="arrow" size={18} /></a>
+          </div>
+          <div class="grid grid--dishes">{h.recipes.slice(0, 4).map((r) => <RecipeCard recipe={r} />)}</div>
+        </section>
+      ))
+    }
+  </div>
+</Base>

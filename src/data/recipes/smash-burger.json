@@ -149,5 +149,8 @@
       "a": "Klasický burger se tvaruje do silného plátku předem, smash burger se rozmačká až na pánvi do tenké placky. Má proto víc opečené kůrky a propeče se celý za pár minut."
     }
   ],
-  "image": "dish-smash-burger"
+  "image": "dish-smash-burger",
+  "occasions": [
+    "grilovani"
+  ]
 }

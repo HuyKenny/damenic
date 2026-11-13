@@ -143,5 +143,9 @@
       "a": "Brambory byly rozvařené nebo ještě teplé, když se míchaly se zálivkou. Nech je úplně vychladnout a míchej jemně."
     }
   ],
-  "vegetarian": true
+  "vegetarian": true,
+  "occasions": [
+    "vanoce",
+    "silvestr"
+  ]
 }

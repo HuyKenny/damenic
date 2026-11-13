@@ -162,7 +162,7 @@ export function brand(name: string): ImageMetadata | null {
   return brandFiles[`/src/assets/brand/${name}.png`] ?? null;
 }
 
-const SVG_ICONS = new Set(['kavarna', 'matcha', 'pekarna', 'zmrzlina', 'napoje', 'kure', 'steak', 'salaty', 'polevky', 'sendvice']);
+const SVG_ICONS = new Set(['kavarna', 'matcha', 'pekarna', 'zmrzlina', 'napoje', 'kure', 'steak', 'salaty', 'polevky', 'sendvice', 'koktejly', 'dorty']);
 
 export interface CategoryIcon {
   id: string;

@@ -118,6 +118,10 @@ for (const [id, d] of dishes) {
   }
 }
 
+// One source of truth for occasions: OCCASION_IDS in src/lib/occasions.ts.
+const OCCASIONS = [...readFileSync(new URL('../src/lib/occasions.ts', import.meta.url), 'utf8').match(/export const OCCASION_IDS = \[([\s\S]*?)\] as const/)[1].matchAll(/'([a-z-]+)'/g)].map((m) => m[1]);
+const RESERVED_RECIPE_SLUGS = ['kuchyne', 'prilezitosti', 'rychle', 'bez-masa'];
+
 for (const [id, r] of recipes) {
   if (!(r.activeMinutes > 0)) err(`recipe ${id}: activeMinutes must be positive`);
   const total = r.activeMinutes + r.cookMinutes + (r.waitMinutes ?? 0);
@@ -140,6 +144,11 @@ for (const [id, r] of recipes) {
     if (!convertible) err(`recipe ${id}: ${i.ingredient} is given in "${i.unit}" but is sold by "${ing.baseUnit}"${spoonUnit ? ' and has no spoon weight' : ''}`);
   }
   if (![...dishes.values()].some((d) => d.recipe === id)) warnings.push(`recipe ${id}: not linked from any dish`);
+  for (const o of r.occasions ?? []) if (!OCCASIONS.includes(o)) err(`recipe ${id}: unknown occasion "${o}" (see src/lib/occasions.ts)`);
+  const boozy = r.ingredients.filter((i) => ingredients.get(i.ingredient)?.alcohol).map((i) => i.ingredient);
+  if (boozy.length && typeof r.alcohol !== 'boolean') err(`recipe ${id}: uses ${boozy.join(', ')} (alcohol): set "alcohol": true, or false only when it is cooked off`);
+  if (r.alcohol && !boozy.length) err(`recipe ${id}: "alcohol": true but no ingredient is marked "alcohol"`);
+  if (RESERVED_RECIPE_SLUGS.includes(id)) err(`recipe ${id}: slug collides with a hub path /recepty/${id}/`);
 }
 
 for (const [id, i] of ingredients) {

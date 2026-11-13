@@ -126,5 +126,8 @@
       "a": "Ano, buď s jogurtovou zálivkou, nebo jen s octem, olejem, cukrem a hořčicí. Octová verze vydrží v lednici déle."
     }
   ],
-  "image": "dish-coleslaw"
+  "image": "dish-coleslaw",
+  "occasions": [
+    "grilovani"
+  ]
 }

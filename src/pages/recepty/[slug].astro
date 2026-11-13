@@ -13,6 +13,7 @@ import { CATEGORY_LABELS, SITE } from '@/lib/site';
 import { photo } from '@/lib/content';
 import { getImage } from 'astro:assets';
 import { RECIPE_HUBS } from '@/lib/hubs';
+import { OCCASIONS } from '@/lib/occasions';
 
 export async function getStaticPaths() {
   return (await allRecipes()).map((recipe) => ({ params: { slug: recipe.id }, props: { recipe } }));
@@ -52,7 +53,13 @@ const images = p.meta
       ].map(async ([w, h]) => new URL((await getImage({ src: p.meta!, width: Math.min(w!, p.meta!.width), height: Math.round((Math.min(w!, p.meta!.width) * h!) / w!), fit: 'cover', format: 'jpg', quality: 78 })).src, SITE.url).href),
     )
   : [];
-const hub = (await RECIPE_HUBS()).find((h) => h.slug === `kuchyne/${r.data.category}`);
+const allHubs = await RECIPE_HUBS();
+const hub = allHubs.find((h) => h.slug === `kuchyne/${r.data.category}`);
+const occasionLinks = r.data.occasions.map((o) => ({ label: OCCASIONS[o].label, hub: allHubs.find((h) => h.slug === `prilezitosti/${o}`) }));
+const RECIPE_CATEGORY: Record<string, string> = {
+  dezerty: 'Dezert', dorty: 'Dezert', zmrzlina: 'Dezert', snidane: 'Snídaně', polevky: 'Polévka', salaty: 'Salát',
+  kavarna: 'Nápoj', matcha: 'Nápoj', napoje: 'Nápoj', koktejly: 'Nápoj', pekarna: 'Pečivo', sendvice: 'Předkrm',
+};
 // Structured data mirrors only what is visible on the page: no ratings, no nutrition, no reviews.
 const ld = {
   '@context': 'https://schema.org',
@@ -61,8 +68,8 @@ const ld = {
   description: r.data.intro,
   ...(images.length ? { image: images } : {}),
   recipeCuisine: CATEGORY_LABELS[r.data.category]?.label,
-  recipeCategory: r.data.category === 'dezerty' ? 'Dezert' : r.data.category === 'snidane' ? 'Snídaně' : 'Hlavní jídlo',
-  ...(r.data.keywords.length ? { keywords: r.data.keywords.join(', ') } : {}),
+  recipeCategory: RECIPE_CATEGORY[r.data.category] ?? 'Hlavní jídlo',
+  ...(r.data.keywords.length || r.data.occasions.length ? { keywords: [...r.data.keywords, ...r.data.occasions.map((o) => OCCASIONS[o].label)].join(', ') } : {}),
   datePublished: '2026-11-10',
   recipeYield: `${r.data.servings} porce`,
   prepTime: iso(r.data.activeMinutes + r.data.waitMinutes),
@@ -90,9 +97,18 @@ const metaTitle = `${r.data.title} – recept krok za krokem`;
         <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px">
           {hub ? <a class="tag" href={hub.path}>{CATEGORY_LABELS[r.data.category]?.label}</a> : <span class="tag">{CATEGORY_LABELS[r.data.category]?.label}</span>}
           {r.data.vegetarian && <span class="tag tag--veg">Bez masa</span>}
+          {occasionLinks.map((o) => (o.hub ? <a class="tag" href={o.hub.path}>{o.label}</a> : <span class="tag">{o.label}</span>))}
+          {r.data.alcohol && <span class="tag tag--adult">Obsahuje alkohol · 18+</span>}
         </div>
         <h1>{h1}</h1>
         <p style="font-size:1.125rem;margin-top:12px">{r.data.intro}</p>
+        {
+          r.data.alcohol && (
+            <p class="adultnote">
+              Recept obsahuje alkohol a je určený jen lidem starším 18 let. Nepij, když řídíš, jsi těhotná nebo bereš léky, které se s alkoholem nesnášejí. Nealko variantu najdeš v náhradách.
+            </p>
+          )
+        }
         <dl class="times">
           <div><dt>Porce</dt><dd>{r.data.servings}</dd></div>
           <div><dt>Vlastní práce</dt><dd>{formatDuration(r.data.activeMinutes)}</dd></div>

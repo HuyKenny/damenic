@@ -1,6 +1,7 @@
 import { defineCollection, reference } from 'astro:content';
 import { z } from 'astro/zod';
 import { glob, file } from 'astro/loaders';
+import { OCCASION_IDS } from './lib/occasions';
 
 // Shape validation happens here at build time; cross-file rules (unique slugs, references,
 // required recipes, existing images) are checked by scripts/validate-content.mjs.
@@ -13,6 +14,8 @@ export const CATEGORIES = [
   'kebab', 'italska', 'vegetarianska', 'poke', 'palacinky', 'dezerty', 'snidane',
   // v3 (12. 11. 2026): cafés, tea, bakery, ice cream, drinks, wings, steak, salads, soups, sandwiches
   'kavarna', 'matcha', 'pekarna', 'zmrzlina', 'napoje', 'kure', 'steak', 'salaty', 'polevky', 'sendvice',
+  // v3.1 (13. 11. 2026): cocktails and drinks, cakes
+  'koktejly', 'dorty',
 ] as const;
 
 /** EU allergen numbers 1–14 (Regulation 1169/2011, Annex II). */
@@ -131,6 +134,11 @@ const recipes = defineCollection({
     keywords: z.array(z.string()).default([]),
     /** Short Q&A shown on the page and only then usable in structured data. */
     faq: z.array(z.object({ q: z.string(), a: z.string().min(20) })).default([]),
+    /** Holidays and occasions (src/lib/occasions.ts); each one with enough recipes gets a hub. */
+    occasions: z.array(z.enum(OCCASION_IDS)).default([]),
+    /** Contains alcohol: the page shows an 18+ note. Required (true, or false when it is cooked off, e.g. flambé)
+     *  as soon as an ingredient is marked alcoholic; see scripts/validate-content.mjs. */
+    alcohol: z.boolean().optional(),
   }),
 });
 
@@ -155,6 +163,8 @@ const ingredients = defineCollection({
     priceSource: z.enum(['illustrative', 'verified']),
     priceCheckedAt: z.string().nullable(),
     staple: z.boolean().default(false),
+    /** Alcoholic drink or spirit (rum, wine, gin…): recipes using it must set `alcohol: true`. */
+    alcohol: z.boolean().default(false),
   }),
 });
 

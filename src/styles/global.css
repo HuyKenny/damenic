@@ -311,6 +311,19 @@ button {
   background: var(--green-tint);
   color: var(--green);
 }
+.tag--adult {
+  background: var(--ink);
+  color: #fff;
+}
+.adultnote {
+  margin-top: 12px;
+  padding: 10px 14px;
+  border-radius: var(--radius-sm);
+  background: var(--paper);
+  border: 1px solid var(--paper-line);
+  color: var(--ink-2);
+  font-size: 0.9375rem;
+}
 .tag--red {
   background: var(--red-tint);
   color: var(--red-dark);

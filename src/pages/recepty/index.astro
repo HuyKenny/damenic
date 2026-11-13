@@ -3,11 +3,17 @@ import Base from '@/layouts/Base.astro';
 import Breadcrumbs from '@/components/Breadcrumbs.astro';
 import RecipeCard from '@/components/RecipeCard.astro';
 import { allRecipes } from '@/lib/content';
-import { RECIPE_HUBS } from '@/lib/hubs';
+import Icon from '@/components/Icon.astro';
+import { RECIPE_HUBS, seasonalHub } from '@/lib/hubs';
 import { CATEGORY_LABELS } from '@/lib/site';
 
 const recipes = await allRecipes();
 const hubs = await RECIPE_HUBS();
+const season = await seasonalHub(new Date());
+const occasionHubs = hubs.filter((h) => h.slug.startsWith('prilezitosti/'));
+const cuisineHubs = hubs.filter((h) => !h.slug.startsWith('prilezitosti/'));
+// With hundreds of recipes one page cannot show them all: each group shows the first PER_GROUP and links to its hub.
+const PER_GROUP = 8;
 const groups = Object.entries(CATEGORY_LABELS)
   .map(([id, c]) => ({ id, ...c, recipes: recipes.filter((r) => r.data.category === id) }))
   .filter((g) => g.recipes.length);
@@ -15,7 +21,7 @@ const groups = Object.entries(CATEGORY_LABELS)
 
 <Base
   title="Recepty na jídla z rozvozu – uvař si doma"
-  description={`${recipes.length} receptů na pizzu, burgery, českou klasiku, asijská jídla, kebab a vegetariánská jídla. S poctivými časy, přepočtem porcí, odhadem nákladů a nákupním seznamem.`}
+  description={`${recipes.length} receptů: česká klasika, polévky, pizza, dorty, cukroví, koktejly i asijská jídla. S poctivými časy, přepočtem porcí, odhadem nákladů a nákupním seznamem.`}
 >
   <Breadcrumbs items={[{ label: 'Recepty' }]} />
   <div class="wrap">
@@ -27,8 +33,30 @@ const groups = Object.entries(CATEGORY_LABELS)
       </p>
     </div>
     <ul class="fpanel__chips" aria-label="Kategorie receptů">
-      {hubs.map((h) => <li><a class="fchip" href={h.path}>{h.label}</a></li>)}
+      {cuisineHubs.map((h) => <li><a class="fchip" href={h.path}>{h.label}</a></li>)}
     </ul>
+    {
+      occasionHubs.length > 0 && (
+        <ul class="fpanel__chips" aria-label="Svátky a oslavy" style="margin-top:8px">
+          <li><a class="fchip" href="/recepty/prilezitosti/">Svátky a oslavy</a></li>
+          {occasionHubs.map((h) => <li><a class="fchip" href={h.path}>{h.label}</a></li>)}
+        </ul>
+      )
+    }
+    {
+      season && (
+        <section class="section" aria-labelledby="h-sezona" style="padding-bottom:0">
+          <div class="section__head">
+            <div>
+              <h2 id="h-sezona"><a href={season.hub.path}>{season.rail}</a></h2>
+              <p>{season.note}</p>
+            </div>
+            <a class="section__more" href={season.hub.path}>Všech {season.hub.recipes.length} <Icon name="arrow" size={18} /></a>
+          </div>
+          <div class="grid grid--dishes">{season.hub.recipes.slice(0, 4).map((r) => <RecipeCard recipe={r} />)}</div>
+        </section>
+      )
+    }
     {
       groups.map((g) => (
         <section class="section" id={g.id} aria-labelledby={`h-${g.id}`} style="padding-bottom:0">
@@ -39,8 +67,13 @@ const groups = Object.entries(CATEGORY_LABELS)
             </div>
           </div>
           <div class="grid grid--dishes">
-            {g.recipes.map((r) => <RecipeCard recipe={r} />)}
+            {g.recipes.slice(0, PER_GROUP).map((r) => <RecipeCard recipe={r} />)}
           </div>
+          {g.recipes.length > PER_GROUP && hubs.some((h) => h.slug === `kuchyne/${g.id}`) && (
+            <p style="margin-top:16px">
+              <a class="section__more" href={`/recepty/kuchyne/${g.id}/`}>Všech {g.recipes.length} receptů ({g.label.toLowerCase()}) <Icon name="arrow" size={18} /></a>
+            </p>
+          )}
         </section>
       ))
     }

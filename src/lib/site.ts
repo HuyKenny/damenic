@@ -37,6 +37,8 @@ export const CATEGORY_LABELS: Record<string, { label: string; lead: string }> = 
   salaty: { label: 'Saláty a fit', lead: 'Saláty, bowly, ovesné kaše a lehké snídaně.' },
   polevky: { label: 'Polévky', lead: 'Hrnec, vývar a lžíce: české i světové polévky.' },
   sendvice: { label: 'Sendviče a wrapy', lead: 'Pomazánky, bagety, wrapy a toasty.' },
+  koktejly: { label: 'Koktejly a drinky', lead: 'Míchané drinky, svařák, punč a nealko varianty. Alkohol jen pro 18+.' },
+  dorty: { label: 'Dorty a zákusky', lead: 'Dorty, řezy, větrníky a zákusky z cukrárny.' },
 };
 
 /** Shortens meta text to `max` characters at a word boundary, with an ellipsis (search results cut around 155). */

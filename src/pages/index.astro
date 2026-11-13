@@ -6,6 +6,7 @@ import RecipeCard from '@/components/RecipeCard.astro';
 import { RestaurantTile } from '@/islands/RestaurantTile';
 import { allRecipes, brand, categoryIcons, restaurantSummaries } from '@/lib/content';
 import { CATEGORY_LABELS, SITE } from '@/lib/site';
+import { seasonalHub } from '@/lib/hubs';
 
 const summaries = await restaurantSummaries();
 const cats = await categoryIcons();
@@ -26,6 +27,8 @@ const recipePick = Object.keys(CATEGORY_LABELS)
   .map((c) => recipes.find((r) => r.data.category === c))
   .filter((r) => r !== undefined)
   .slice(0, 8);
+// Seasonal recipes (Christmas cookies in November, Easter in spring); chosen at build time, CI rebuilds weekly.
+const season = await seasonalHub(new Date());
 const jsonld = [
   {
     '@context': 'https://schema.org',
@@ -132,6 +135,23 @@ const jsonld = [
       <a class="btn btn--lg" href="/restaurace/">Všech {summaries.length} restaurací s filtry</a>
     </p>
   </section>
+
+  {
+    season && (
+      <section class="wrap section cv" aria-labelledby="h-sezona">
+        <div class="section__head">
+          <div>
+            <h2 id="h-sezona">{season.rail}</h2>
+            <p>{season.note} Recepty jsou skutečné.</p>
+          </div>
+          <a class="section__more" href={season.hub.path}>
+            Všech {season.hub.recipes.length} receptů <Icon name="arrow" size={18} />
+          </a>
+        </div>
+        <div class="rail rail--recipes">{season.hub.recipes.slice(0, 8).map((r) => <RecipeCard recipe={r} />)}</div>
+      </section>
+    )
+  }
 
   <section class="wrap section cv" aria-labelledby="h-recepty">
     <div class="section__head">

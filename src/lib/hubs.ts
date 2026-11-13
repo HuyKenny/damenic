@@ -1,7 +1,8 @@
-// Recipe hub pages: one per cuisine plus "quick" and "meat-free". Each has its own intro text; hubs with fewer than
+// Recipe hub pages: one per cuisine, one per occasion (holidays) plus "quick" and "meat-free". Each has its own intro text; hubs with fewer than
 // MIN_RECIPES recipes are not generated, so no thin pages exist.
 import { allRecipes, totalMinutes, type Recipe } from './content';
 import { CATEGORY_LABELS } from './site';
+import { OCCASION_IDS, OCCASIONS, occasionsInSeason, type OccasionId } from './occasions';
 
 export const MIN_RECIPES = 3;
 
@@ -118,6 +119,14 @@ const INTRO: Record<string, string[]> = {
     'Vajíčková pomazánka, škvarková pomazánka, wrapy, bagety nebo hot dogy. Svačiny, které se dělají rychle a vydrží cestu do práce.',
     'U pomazánek píšeme, jak dlouho vydrží v lednici a co je dobré přidat, když máš chuť na trochu jiné.',
   ],
+  koktejly: [
+    'Mojito, Aperol Spritz, piña colada, svařák nebo punč: míchané drinky s přesným množstvím v mililitrech, protože od oka se dělá jen kocovina. Ke každému drinku je nealko varianta.',
+    'Recepty s alkoholem jsou jen pro dospělé. Kdo řídí, je těhotná nebo prostě nechce, najde u každého koktejlu verzi bez alkoholu, která chutná jako drink, ne jako omluva.',
+  ],
+  dorty: [
+    'Narozeninový, čokoládový, ořechový nebo nepečený dort, větrníky, kremrole a řezy. U dortů rozhoduje korpus, krém, který drží tvar, a čas v lednici, a proto ho píšeme zvlášť.',
+    'Velikost formy je u každého receptu uvedená. Kdo peče do jiné, přepočítá suroviny tlačítkem porcí a čas pečení si ohlídá špejlí.',
+  ],
 };
 
 /** Hub headings and titles for the newer categories, written around the phrase people actually search. */
@@ -132,6 +141,8 @@ const HEADS: Record<string, { h1: string; title: string }> = {
   salaty: { h1: 'Saláty a fit recepty na každý den', title: 'Saláty a fit recepty – rychlé a zdravé' },
   polevky: { h1: 'Recepty na polévky: české i světové', title: 'Recepty na polévky – dýňová, čočková, zelňačka' },
   sendvice: { h1: 'Pomazánky, sendviče a wrapy: recepty', title: 'Recepty na pomazánky, wrapy a sendviče' },
+  koktejly: { h1: 'Koktejly a míchané drinky: recepty', title: 'Koktejly recepty – mojito, spritz, svařák, nealko' },
+  dorty: { h1: 'Dorty a zákusky: recepty krok za krokem', title: 'Recepty na dorty a zákusky – narozeninový i nepečený' },
 };
 
 export async function RECIPE_HUBS(): Promise<Hub[]> {
@@ -149,6 +160,21 @@ export async function RECIPE_HUBS(): Promise<Hub[]> {
       title: HEADS[id]?.title ?? (id === 'ceska' ? 'Recepty české kuchyně krok za krokem' : `${c.label} – recepty na doma`),
       description: `${list.length} receptů (${name}) s poctivými časy, přepočtem porcí, odhadem nákladů a nákupním seznamem. ${c.lead}`,
       intro: INTRO[id] ?? [c.lead],
+      recipes: list,
+    });
+  }
+  for (const id of OCCASION_IDS) {
+    const o = OCCASIONS[id];
+    const list = recipes.filter((r) => r.data.occasions.includes(id));
+    if (list.length < MIN_RECIPES) continue;
+    hubs.push({
+      slug: `prilezitosti/${id}`,
+      path: `/recepty/prilezitosti/${id}/`,
+      label: o.label,
+      h1: o.h1,
+      title: o.title,
+      description: `${list.length} receptů (${o.label.toLowerCase()}) s poctivými časy, přepočtem porcí, odhadem nákladů a nákupním seznamem.`,
+      intro: o.intro,
       recipes: list,
     });
   }
@@ -183,4 +209,26 @@ export async function RECIPE_HUBS(): Promise<Hub[]> {
       recipes: veg,
     });
   return hubs;
+}
+
+/** Occasion hubs, the ones in season on `now` first (then the fixed order of OCCASION_IDS). */
+export async function occasionHubs(now: Date): Promise<Hub[]> {
+  const hubs = (await RECIPE_HUBS()).filter((h) => h.slug.startsWith('prilezitosti/'));
+  const ids = hubs.map((h) => h.slug.slice('prilezitosti/'.length));
+  const live = occasionsInSeason(now, ids);
+  const rank = (h: Hub) => {
+    const i = live.indexOf(h.slug.slice('prilezitosti/'.length) as OccasionId);
+    return i === -1 ? 100 + OCCASION_IDS.indexOf(h.slug.slice('prilezitosti/'.length) as OccasionId) : i;
+  };
+  return hubs.sort((a, b) => rank(a) - rank(b));
+}
+
+/** The hub to feature on the home page and /recepty/ right now, if any occasion is in season. */
+export async function seasonalHub(now: Date): Promise<{ hub: Hub; rail: string; note: string } | null> {
+  const hubs = await occasionHubs(now);
+  const ids = hubs.map((h) => h.slug.slice('prilezitosti/'.length));
+  const [first] = occasionsInSeason(now, ids);
+  if (!first) return null;
+  const hub = hubs.find((h) => h.slug === `prilezitosti/${first}`)!;
+  return { hub, rail: OCCASIONS[first].rail, note: OCCASIONS[first].railNote };
 }

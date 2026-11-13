@@ -8,7 +8,9 @@ import { SITE } from '@/lib/site';
 export const GET: APIRoute = async () => {
   const recipes = await allRecipes();
   const urls: SitemapUrl[] = [{ loc: `${SITE.url}/recepty/`, lastmod: lastmod('src/data/recipes') }];
-  for (const hub of await RECIPE_HUBS()) urls.push({ loc: `${SITE.url}/recepty/${hub.slug}/`, lastmod: lastmod('src/data/recipes') });
+  const hubs = await RECIPE_HUBS();
+  if (hubs.some((h) => h.slug.startsWith('prilezitosti/'))) urls.push({ loc: `${SITE.url}/recepty/prilezitosti/`, lastmod: lastmod('src/data/recipes') });
+  for (const hub of hubs) urls.push({ loc: `${SITE.url}/recepty/${hub.slug}/`, lastmod: lastmod('src/data/recipes') });
   for (const r of recipes) {
     const p = await photo(r.data.image);
     const img = p.meta ? new URL((await getImage({ src: p.meta, width: 1200, format: 'jpg' })).src, SITE.url).href : null;

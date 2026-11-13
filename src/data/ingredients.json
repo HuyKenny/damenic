@@ -3205,7 +3205,8 @@
       "label": "láhev 0,5 l"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "alcohol": true
   },
   {
     "id": "cerny-caj",
@@ -3716,7 +3717,8 @@
       "label": "láhev 200 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "alcohol": true
   },
   {
     "id": "bageta",

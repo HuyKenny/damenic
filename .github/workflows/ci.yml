@@ -5,6 +5,9 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # Weekly rebuild at night so the seasonal recipe rail (src/lib/occasions.ts) follows the calendar without a commit.
+  schedule:
+    - cron: '15 2 * * 1'
 concurrency:
   group: ci-${{ github.ref }}
   cancel-in-progress: true
