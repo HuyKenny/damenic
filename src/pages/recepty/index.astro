@@ -37,11 +37,10 @@ const occasions = occasionHubs.map((h) => {
 >
   <Breadcrumbs items={[{ label: 'Recepty' }]} />
   <div class="wrap">
-    <div class="pagehead">
+    <div class="pagehead" style="max-width:640px">
       <h1>Recepty na doma</h1>
       <p>
-        Ke každému hlavnímu jídlu ze simulátoru patří skutečný recept. Filtruj podle toho, na co máš chuť, čas, stravu i to, co máš doma. Časy rozlišují
-        vlastní práci, tepelnou úpravu a čekání, ceny surovin jsou ilustrační odhady.
+        Skutečné recepty k jídlům ze simulátoru. Vyber podle času, stravy nebo toho, co máš doma. Ceny surovin jsou ilustrační odhady.
       </p>
     </div>
     <RecipeBrowser client:load categories={categories} occasions={occasions} total={recipes.length} initial={initial} initialCounts={initialCounts} />

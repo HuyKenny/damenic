@@ -31,7 +31,15 @@ import banknote from 'lucide-static/icons/banknote.svg?raw';
 import smartphone from 'lucide-static/icons/smartphone.svg?raw';
 import mail from 'lucide-static/icons/mail.svg?raw';
 
-const ICONS = { bag, search, pin, plus, minus, trash, x, check, pencil, printer, copy, bike, chef, info, wallet, list, chevron, store, utensils, phone, message, clock, tag, walk, card, banknote, smartphone, bell, bellOff, door, mail };
+import leaf from 'lucide-static/icons/leaf.svg?raw';
+import wheatOff from 'lucide-static/icons/wheat-off.svg?raw';
+import piggy from 'lucide-static/icons/piggy-bank.svg?raw';
+import sparkles from 'lucide-static/icons/sparkles.svg?raw';
+import fridge from 'lucide-static/icons/refrigerator.svg?raw';
+import timer from 'lucide-static/icons/timer.svg?raw';
+import sliders from 'lucide-static/icons/sliders-horizontal.svg?raw';
+
+const ICONS = { leaf, wheatOff, piggy, sparkles, fridge, timer, sliders, bag, search, pin, plus, minus, trash, x, check, pencil, printer, copy, bike, chef, info, wallet, list, chevron, store, utensils, phone, message, clock, tag, walk, card, banknote, smartphone, bell, bellOff, door, mail };
 export type IconName = keyof typeof ICONS;
 
 export function Icon({ name, size = 20 }: { name: IconName; size?: number }) {

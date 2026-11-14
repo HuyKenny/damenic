@@ -32,7 +32,7 @@ import {
 import { occasionsInSeason } from '@/lib/occasions';
 import { formatDuration } from '@/lib/units';
 import { Dialog } from './Dialog';
-import { Icon } from './icons';
+import { Icon, type IconName } from './icons';
 
 interface Props {
   categories: { id: string; label: string }[];
@@ -214,145 +214,161 @@ export default function RecipeBrowser({ categories, occasions, total, initial, i
   const actives = useMemo(() => activeFilters(f, labels), [f, labels]);
   const help = useMemo(() => (idx && now && list && list.length === 0 && n > 0 ? removalSuggestions(idx.recipes, f, labels, now) : []), [idx, now, list, n, f, labels]);
 
+  const panel = () => <FilterGroups f={f} set={set} counts={counts} categories={categories} occasions={occasions} />;
+  const presetIcon: Record<string, IconName> = { dnes: 'utensils', '30': 'timer', veg: 'leaf', vegan: 'leaf', gf: 'wheatOff', levne: 'piggy', sezona: 'sparkles' };
+
   return (
     <div class="rb" data-testid="recipe-browser">
-      <div class="rb__bar">
-        <div class="rb__row">
-          <div class="rb__search">
-            <Icon name="search" size={18} />
-            <input
-              type="search"
-              value={f.q}
-              maxLength={80}
-              autocomplete="off"
-              aria-label="Hledat recept nebo surovinu"
-              onInput={(e) => {
-                set({ q: e.currentTarget.value });
-                setTyping(true);
-              }}
-              onFocus={() => setTyping(true)}
-              onBlur={() => window.setTimeout(() => setTyping(false), 150)}
-              onKeyDown={(e) => {
-                if (e.key === 'Escape') setTyping(false);
-              }}
-              placeholder="Svíčková, bez lepku, kuře, mojito…"
-              data-testid="recipe-search"
-            />
-            {f.q && (
-              <button type="button" class="rb__clear" aria-label="Smazat hledání" onClick={() => set({ q: '' })}>
-                <Icon name="x" size={16} />
-              </button>
-            )}
-            {suggestions.length > 0 && (
-              <ul class="rb__suggest" aria-label="Návrhy">
-                {suggestions.map((r) => (
-                  <li key={r.id}>
-                    <a href={`/recepty/${r.id}/`}>
-                      <span>{r.title}</span>
-                      <small>{r.categoryLabel}</small>
-                    </a>
-                  </li>
-                ))}
-              </ul>
-            )}
-          </div>
-          <button type="button" class={`fchip fchip--main rb__filterbtn ${n ? 'is-on' : ''}`} onClick={() => setSheet(true)} data-testid="open-recipe-filters">
-            <Icon name="list" size={18} /> Filtry{n ? ` (${n})` : ''}
-          </button>
-          <label class="sortsel">
-            <span class="sr-only">Řazení</span>
-            <select value={f.sort} onChange={(e) => set({ sort: e.currentTarget.value as RecipeSort })} data-testid="recipe-sort">
-              {RECIPE_SORTS.map((s) => (
-                <option value={s.key} key={s.key}>
-                  {s.label}
-                </option>
-              ))}
-            </select>
-          </label>
-        </div>
-        <div class="rb__quick" role="group" aria-label="Rychlé volby">
-          {presets.map((p) => {
-            const on = presetOn(f, p);
-            return (
-              <button type="button" key={p.id} class={`fchip ${on ? 'is-on' : ''}`} aria-pressed={on} onClick={() => setF(on ? presetOff(f, p) : { ...f, ...p.patch })}>
-                {p.label}
-              </button>
-            );
-          })}
-          <button type="button" class={`fchip ${haveOpen || f.have.length ? 'is-on' : ''}`} aria-expanded={haveOpen} onClick={() => setHaveOpen(!haveOpen)} data-testid="have-toggle">
-            Mám doma{f.have.length ? ` (${f.have.length})` : '…'}
-          </button>
-        </div>
-      </div>
-
-      {haveOpen && (
-        <section class="rb__have" aria-label="Co mám doma">
-          <label class="search__field">
-            <span class="sr-only">Surovina, kterou máš doma</span>
-            <input type="search" value={pick} onInput={(e) => setPick(e.currentTarget.value)} placeholder="Napiš surovinu: vejce, mouka, kuřecí…" data-testid="have-input" />
-          </label>
-          {ingSuggestions.length > 0 && (
-            <div class="fpanel__chips">
-              {ingSuggestions.map((s) => (
-                <button
-                  type="button"
-                  class="fchip"
-                  key={s.id}
-                  onClick={() => {
-                    set({ have: [...f.have, s.id] });
-                    setPick('');
-                  }}
-                >
-                  + {s.name}
-                </button>
-              ))}
-            </div>
-          )}
-          {f.have.length > 0 && (
-            <div class="fpanel__chips">
-              {f.have.map((id) => (
-                <button type="button" class="fchip is-on" key={id} onClick={() => set({ have: f.have.filter((x) => x !== id), maxMissing: f.have.length === 1 ? null : f.maxMissing })}>
-                  {labels.ingredients[id] ?? id} <Icon name="x" size={14} />
-                </button>
-              ))}
-              {[0, 2].map((m) => (
-                <button type="button" class={`fchip ${f.maxMissing === m ? 'is-on' : ''}`} key={m} aria-pressed={f.maxMissing === m} onClick={() => set({ maxMissing: f.maxMissing === m ? null : m })}>
-                  {m === 0 ? 'Mám všechno' : 'Chybí max 2'}
-                </button>
-              ))}
-            </div>
-          )}
-          <p class="small muted">Recepty se seřadí podle toho, kolik surovin ti chybí. Sůl, olej a voda se nepočítají.</p>
-        </section>
-      )}
-
-      <div class="rb__status">
-        <p role="status" aria-live="polite" data-testid="recipe-count" class="rb__count">
-          {resultCount === null ? 'Hledám…' : failed && !idx && filtered ? 'Recepty se nepodařilo načíst.' : recipesWord(resultCount)}
-        </p>
-        {actives.length > 0 && (
-          <ul class="rb__active" aria-label="Aktivní filtry">
-            {actives.map((a) => (
-              <li key={a.id}>
-                <button type="button" class="fchip is-on" onClick={() => setF(a.without(f))} aria-label={`Odebrat filtr ${a.label}`}>
-                  {a.label} <Icon name="x" size={14} />
-                </button>
-              </li>
-            ))}
-            <li>
+      <div class="rb__layout">
+        <aside class="rb__side" aria-label="Filtry receptů">
+          <div class="rb__sidehead">
+            <h2>Filtry</h2>
+            {n > 0 && (
               <button type="button" class="link-btn small" onClick={reset}>
                 Zrušit vše
               </button>
-            </li>
-          </ul>
-        )}
-      </div>
-
-      <div class="rb__layout">
-        <aside class="rb__side" aria-label="Filtry receptů">
-          <FilterGroups f={f} set={set} counts={counts} categories={categories} occasions={occasions} />
+            )}
+          </div>
+          {panel()}
         </aside>
+
         <div class="rb__main" ref={top}>
+          <div class="rb__bar">
+            <div class="rb__row">
+              <div class="rb__search">
+                <Icon name="search" size={20} />
+                <input
+                  type="search"
+                  value={f.q}
+                  maxLength={80}
+                  autocomplete="off"
+                  aria-label="Hledat recept nebo surovinu"
+                  onInput={(e) => {
+                    set({ q: e.currentTarget.value });
+                    setTyping(true);
+                  }}
+                  onFocus={() => setTyping(true)}
+                  onBlur={() => window.setTimeout(() => setTyping(false), 150)}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Escape') setTyping(false);
+                  }}
+                  placeholder="Najdi recept nebo surovinu: svíčková, kuře, mojito…"
+                  data-testid="recipe-search"
+                />
+                {f.q && (
+                  <button type="button" class="rb__clear" aria-label="Smazat hledání" onClick={() => set({ q: '' })}>
+                    <Icon name="x" size={16} />
+                  </button>
+                )}
+                {suggestions.length > 0 && (
+                  <ul class="rb__suggest" aria-label="Návrhy">
+                    {suggestions.map((r) => (
+                      <li key={r.id}>
+                        <a href={`/recepty/${r.id}/`}>
+                          <span>{r.title}</span>
+                          <small>{r.categoryLabel}</small>
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </div>
+              <button type="button" class="rb__filterbtn" onClick={() => setSheet(true)} data-testid="open-recipe-filters" aria-label={n ? `Filtry, aktivních ${n}` : 'Filtry'}>
+                <Icon name="sliders" size={20} /> Filtry{n ? <b>{n}</b> : null}
+              </button>
+            </div>
+            <div class="rb__quick" role="group" aria-label="Rychlé volby">
+              {presets.map((p) => {
+                const on = presetOn(f, p);
+                return (
+                  <button type="button" key={p.id} class={`fchip ${on ? 'is-on' : ''}`} aria-pressed={on} onClick={() => setF(on ? presetOff(f, p) : { ...f, ...p.patch })}>
+                    <Icon name={presetIcon[p.id] ?? 'tag'} size={16} />
+                    {p.label}
+                  </button>
+                );
+              })}
+              <button type="button" class={`fchip ${haveOpen || f.have.length ? 'is-on' : ''}`} aria-expanded={haveOpen} onClick={() => setHaveOpen(!haveOpen)} data-testid="have-toggle">
+                <Icon name="fridge" size={16} />
+                Mám doma{f.have.length ? ` (${f.have.length})` : ''}
+              </button>
+            </div>
+          </div>
+
+          {haveOpen && (
+            <section class="rb__have" aria-label="Co mám doma">
+              <label class="search__field">
+                <span class="sr-only">Surovina, kterou máš doma</span>
+                <input type="search" value={pick} onInput={(e) => setPick(e.currentTarget.value)} placeholder="Napiš surovinu: vejce, mouka, kuřecí…" data-testid="have-input" />
+              </label>
+              {ingSuggestions.length > 0 && (
+                <div class="fpanel__chips">
+                  {ingSuggestions.map((s) => (
+                    <button
+                      type="button"
+                      class="fchip"
+                      key={s.id}
+                      onClick={() => {
+                        set({ have: [...f.have, s.id] });
+                        setPick('');
+                      }}
+                    >
+                      + {s.name}
+                    </button>
+                  ))}
+                </div>
+              )}
+              {f.have.length > 0 && (
+                <div class="fpanel__chips">
+                  {f.have.map((id) => (
+                    <button type="button" class="fchip is-on" key={id} onClick={() => set({ have: f.have.filter((x) => x !== id), maxMissing: f.have.length === 1 ? null : f.maxMissing })}>
+                      {labels.ingredients[id] ?? id} <Icon name="x" size={14} />
+                    </button>
+                  ))}
+                  {[0, 2].map((m) => (
+                    <button type="button" class={`fchip ${f.maxMissing === m ? 'is-on' : ''}`} key={m} aria-pressed={f.maxMissing === m} onClick={() => set({ maxMissing: f.maxMissing === m ? null : m })}>
+                      {m === 0 ? 'Mám všechno' : 'Chybí max 2'}
+                    </button>
+                  ))}
+                </div>
+              )}
+              <p class="small muted" style="margin:0">Recepty se seřadí podle toho, kolik surovin ti chybí. Sůl, olej a voda se nepočítají.</p>
+            </section>
+          )}
+
+          <div class="rb__status">
+            <p role="status" aria-live="polite" data-testid="recipe-count" class="rb__count">
+              {resultCount === null ? 'Hledám…' : failed && !idx && filtered ? 'Recepty se nepodařilo načíst.' : recipesWord(resultCount)}
+            </p>
+            {actives.length > 0 ? (
+              <ul class="rb__active" aria-label="Aktivní filtry">
+                {actives.map((a) => (
+                  <li key={a.id}>
+                    <button type="button" class="fchip" onClick={() => setF(a.without(f))} aria-label={`Odebrat filtr ${a.label}`}>
+                      {a.label} <Icon name="x" size={14} />
+                    </button>
+                  </li>
+                ))}
+                <li>
+                  <button type="button" class="link-btn small" onClick={reset}>
+                    Zrušit vše
+                  </button>
+                </li>
+              </ul>
+            ) : (
+              <span class="rb__active" />
+            )}
+            <label class="sortsel">
+              <span class="sr-only">Řazení</span>
+              <select value={f.sort} onChange={(e) => set({ sort: e.currentTarget.value as RecipeSort })} data-testid="recipe-sort">
+                {RECIPE_SORTS.map((s) => (
+                  <option value={s.key} key={s.key}>
+                    {s.label}
+                  </option>
+                ))}
+              </select>
+            </label>
+          </div>
+
           <h2 class="sr-only">Nalezené recepty</h2>
           {loading && (
             <div class="grid grid--dishes" aria-hidden="true">
@@ -418,7 +434,7 @@ export default function RecipeBrowser({ categories, occasions, total, initial, i
 
       <Dialog open={sheet} title="Filtry receptů" onClose={() => setSheet(false)} variant="sheet">
         <div class="fpanel">
-          <FilterGroups f={f} set={set} counts={counts} categories={categories} occasions={occasions} />
+          {panel()}
           <div class="dlg__actions">
             <button type="button" class="btn btn--ghost" onClick={reset}>
               Zrušit vše
@@ -437,7 +453,7 @@ function Group({ title, open, children }: { title: string; open?: boolean; child
   return (
     <details class="rb__group" open={open}>
       <summary>{title}</summary>
-      <div class="fpanel__chips">{children}</div>
+      <div class="rb__opts">{children}</div>
     </details>
   );
 }
@@ -445,9 +461,10 @@ function Group({ title, open, children }: { title: string; open?: boolean; child
 function Opt({ label, on, count, flip }: { label: string; on: boolean; count?: number; flip: () => void }) {
   const dead = count === 0 && !on;
   return (
-    <button type="button" class={`fchip ${on ? 'is-on' : ''}`} aria-pressed={on} disabled={dead} onClick={flip}>
-      {label}
-      {count !== undefined ? <small> {count}</small> : null}
+    <button type="button" class="rb__opt" aria-pressed={on} disabled={dead} onClick={flip}>
+      <span class="rb__box" aria-hidden="true" />
+      <span>{label}</span>
+      {count !== undefined ? <small>{count}</small> : null}
     </button>
   );
 }
@@ -531,7 +548,7 @@ function Tile({ r, have, names, eager }: { r: RecipeSummary; have: string[]; nam
           <img
             src={r.img.src}
             srcset={r.img.srcset}
-            sizes="(min-width: 1000px) 300px, (min-width: 560px) 50vw, 100vw"
+            sizes="(min-width: 1000px) 230px, (min-width: 560px) 45vw, 100vw"
             alt={r.img.alt}
             width="420"
             height="262"
@@ -541,37 +558,32 @@ function Tile({ r, have, names, eager }: { r: RecipeSummary; have: string[]; nam
         ) : (
           <div class="photo--empty" role="img" aria-label="Fotografie se připravuje" />
         )}
-        <div class="card__badges">
-          {r.diets.includes('veg') && <span class="tag tag--veg">Bez masa</span>}
-          {r.alcohol && <span class="tag tag--adult">18+</span>}
-        </div>
+        {(r.alcohol || r.diets.includes('vegan')) && (
+          <div class="card__badges">
+            {r.diets.includes('vegan') && <span class="tag tag--veg">Veganské</span>}
+            {r.alcohol && <span class="tag tag--adult">18+</span>}
+          </div>
+        )}
       </div>
       <div class="card__body">
         <h3 class="card__title">
           <a href={`/recepty/${r.id}/`}>{r.title}</a>
         </h3>
-        <ul class="card__meta">
+        <ul class="rb__meta">
           <li>
-            <span>
-              <Icon name="clock" size={16} />
-              {formatDuration(r.min)}
-            </span>
+            <Icon name="clock" size={15} />
+            {formatDuration(r.min)}
           </li>
           <li>
-            <span>
-              <Icon name="wallet" size={16} />
-              {r.cost} Kč / porce
-            </span>
-          </li>
-          <li>
-            <span>
-              <Icon name="chef" size={16} />
-              {r.difficulty}
-            </span>
+            <Icon name="wallet" size={15} />
+            {r.cost} Kč / porce
           </li>
         </ul>
+        <p class="rb__sub">
+          {r.categoryLabel} · {r.difficulty}
+        </p>
         {m && (
-          <p class="small muted" style="margin-top:6px">
+          <p class="small muted" style="margin:6px 0 0">
             {m.got === m.total ? 'Máš všechno doma' : `Máš ${m.got} z ${m.total} surovin, chybí: ${missing.map((i) => names[i] ?? i).join(', ')}${m.total - m.got > 3 ? '…' : ''}`}
           </p>
         )}

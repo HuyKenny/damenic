@@ -3473,37 +3473,30 @@ dialog.dlg--drawer {
   color: inherit;
 }
 
-/* recipe filters (/recepty/) */
-.rbrowser {
+/* ---------- recipe browser (/recepty/) ---------- */
+a.fchip {
+  text-decoration: none;
+}
+.rb {
   margin-bottom: 8px;
 }
-.rbrowser__meals {
-  flex-wrap: nowrap;
-  overflow-x: auto;
-  padding: 0 0 6px;
-  scrollbar-width: thin;
+.rb__layout {
+  display: block;
 }
-.rbrowser__meals li {
-  flex: 0 0 auto;
-  list-style: none;
+.rb__side {
+  display: none;
 }
-.rbrowser .fpanel fieldset small {
-  opacity: 0.7;
-}
-
-/* recipe browser v2 (/recepty/): sticky bar, side panel on desktop, sheet on phones */
 .rb__bar {
   position: sticky;
   top: var(--header-h);
   z-index: 15;
   background: var(--bg);
   margin-inline: calc(-1 * var(--gutter));
-  padding: 8px var(--gutter) 6px;
-  border-bottom: 1px solid var(--line);
+  padding: 10px var(--gutter) 4px;
 }
 .rb__row {
   display: flex;
-  gap: 8px;
+  gap: 10px;
   align-items: center;
 }
 .rb__search {
@@ -3512,15 +3505,18 @@ dialog.dlg--drawer {
   min-width: 0;
   display: flex;
   align-items: center;
-  gap: 8px;
-  min-height: 46px;
-  padding: 0 12px;
-  border: 1.5px solid var(--line-strong);
-  border-radius: 999px;
+  gap: 10px;
+  height: 54px;
+  padding: 0 8px 0 18px;
+  border: 1.5px solid transparent;
+  border-radius: 16px;
   background: #fff;
+  box-shadow: var(--shadow);
+  color: var(--muted);
 }
 .rb__search:focus-within {
   border-color: var(--ink);
+  color: var(--ink);
 }
 .rb__search input {
   flex: 1;
@@ -3529,39 +3525,71 @@ dialog.dlg--drawer {
   outline: 0;
   background: transparent;
   font: inherit;
-  min-height: 44px;
+  font-size: 1.0625rem;
+  color: var(--ink);
+  height: 100%;
 }
 .rb__clear {
   display: inline-grid;
   place-items: center;
-  width: 32px;
-  height: 32px;
+  width: 36px;
+  height: 36px;
   border-radius: 50%;
   border: 0;
   background: var(--pink);
+  color: var(--ink);
+}
+.rb__filterbtn {
+  position: relative;
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 54px;
+  padding: 0 18px;
+  border-radius: 16px;
+  border: 0;
+  background: var(--ink);
+  color: #fff;
+  font-weight: 700;
+  box-shadow: var(--shadow);
+}
+.rb__filterbtn b {
+  display: inline-grid;
+  place-items: center;
+  min-width: 22px;
+  height: 22px;
+  padding: 0 6px;
+  border-radius: 99px;
+  background: var(--yellow);
+  color: var(--ink);
+  font-size: 0.8125rem;
 }
 .rb__suggest {
   position: absolute;
   left: 0;
   right: 0;
-  top: calc(100% + 6px);
+  top: calc(100% + 8px);
   z-index: 30;
   margin: 0;
   padding: 6px;
   list-style: none;
   background: #fff;
-  border: 1px solid var(--line-strong);
-  border-radius: var(--radius-sm);
+  border: 1px solid var(--line);
+  border-radius: 16px;
   box-shadow: var(--shadow-lift);
+  color: var(--ink);
 }
 .rb__suggest a {
   display: flex;
   justify-content: space-between;
   gap: 12px;
-  padding: 10px 12px;
-  border-radius: 8px;
-  min-height: 44px;
   align-items: center;
+  min-height: 46px;
+  padding: 0 12px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 600;
 }
 .rb__suggest a:hover,
 .rb__suggest a:focus-visible {
@@ -3569,38 +3597,61 @@ dialog.dlg--drawer {
 }
 .rb__suggest small {
   color: var(--muted);
+  font-weight: 500;
   white-space: nowrap;
 }
 .rb__quick {
   display: flex;
   gap: 8px;
   overflow-x: auto;
-  padding: 8px 0 4px;
+  padding: 10px var(--gutter) 6px;
+  margin-inline: calc(-1 * var(--gutter));
   scrollbar-width: none;
 }
 .rb__quick::-webkit-scrollbar {
   display: none;
 }
+.rb__quick .fchip {
+  min-height: 40px;
+  padding: 0 14px 0 12px;
+  gap: 7px;
+  font-size: 0.9375rem;
+  border-color: transparent;
+  background: #fff;
+  box-shadow: var(--shadow);
+}
+.rb__quick .fchip .icon {
+  color: var(--red);
+}
+.rb__quick .fchip.is-on {
+  background: var(--ink);
+  color: #fff;
+}
+.rb__quick .fchip.is-on .icon {
+  color: var(--yellow);
+}
 .rb__have {
   display: grid;
   gap: 10px;
-  padding: 14px;
-  margin-top: 12px;
-  border: 1px solid var(--paper-line);
-  border-radius: var(--radius-sm);
+  padding: 16px;
+  margin: 10px 0 4px;
+  border-radius: 16px;
   background: var(--paper);
+  border: 1px solid var(--paper-line);
 }
 .rb__status {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 8px 14px;
-  margin: 12px 0;
+  gap: 10px 12px;
+  margin: 14px 0 18px;
 }
 .rb__count {
   margin: 0;
-  font-weight: 700;
-  min-width: 7ch;
+  font-family: var(--font-head);
+  font-weight: 750;
+  font-size: 1.25rem;
+  letter-spacing: -0.01em;
 }
 .rb__active {
   display: flex;
@@ -3610,26 +3661,38 @@ dialog.dlg--drawer {
   padding: 0;
   list-style: none;
   align-items: center;
+  flex: 1 1 260px;
 }
 .rb__active .fchip {
-  min-height: 36px;
-  padding: 0 10px;
-  font-size: 0.9rem;
+  min-height: 34px;
+  padding: 0 10px 0 12px;
+  font-size: 0.875rem;
+  background: var(--pink);
+  border-color: var(--pink-2);
+  color: var(--red-dark);
 }
-.rb__layout {
-  display: block;
+.rb__status .sortsel {
+  margin-left: auto;
 }
-.rb__side {
-  display: none;
+.rb__status .sortsel select {
+  min-height: 42px;
+  border: 0;
+  background: #fff;
+  box-shadow: var(--shadow);
+  border-radius: 12px;
 }
+/* filter groups: rows with a checkbox, like a shop sidebar, not a wall of pills */
 .rb__group {
   border-bottom: 1px solid var(--line);
-  padding: 10px 0;
+  padding: 4px 0;
+}
+.rb__group:last-child {
+  border-bottom: 0;
 }
 .rb__group summary {
   cursor: pointer;
   font-weight: 750;
-  min-height: 44px;
+  min-height: 48px;
   display: flex;
   align-items: center;
   list-style: none;
@@ -3638,29 +3701,163 @@ dialog.dlg--drawer {
   display: none;
 }
 .rb__group summary::after {
-  content: '+';
-  margin-left: auto;
-  font-size: 1.25rem;
-  color: var(--muted);
+  content: '';
+  width: 9px;
+  height: 9px;
+  margin: 0 4px 3px auto;
+  border: solid var(--muted);
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+  transition: transform 0.15s;
 }
 .rb__group[open] summary::after {
-  content: '–';
+  transform: rotate(-135deg) translate(-2px, -2px);
 }
-.rb__group .fpanel__chips {
-  padding: 4px 0 8px;
+.rb__opts {
+  display: grid;
+  gap: 2px;
+  padding: 0 0 10px;
 }
-.rb__note {
-  flex-basis: 100%;
-  margin: 4px 0 0;
+.rb__opt {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  min-height: 42px;
+  padding: 0 8px;
+  border: 0;
+  border-radius: 10px;
+  background: transparent;
+  text-align: left;
+  font-weight: 560;
+  color: var(--ink);
 }
-.fchip:disabled {
+.rb__opt:hover:not(:disabled) {
+  background: var(--pink);
+}
+.rb__opt:disabled {
   opacity: 0.38;
   cursor: not-allowed;
-  border-style: dashed;
+}
+.rb__box {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 6px;
+  border: 1.5px solid var(--line-strong);
+  background: #fff;
+}
+.rb__opt[aria-pressed='true'] .rb__box {
+  background: var(--ink);
+  border-color: var(--ink);
+}
+.rb__opt[aria-pressed='true'] .rb__box::after {
+  content: '';
+  width: 5px;
+  height: 10px;
+  margin-top: -2px;
+  border: solid #fff;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+.rb__opt small {
+  margin-left: auto;
+  color: var(--muted);
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+}
+.rb__note {
+  margin: 4px 8px 8px;
+}
+.rb__sidehead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 8px 4px;
+}
+.rb__sidehead h2 {
+  font-size: 1.125rem;
+  margin: 0;
+}
+/* recipe cards in the browser: photo first, calm text, whole card is one link */
+.rb .grid--dishes {
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 220px), 1fr));
+  gap: 26px 20px;
+}
+.rb .card {
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  overflow: visible;
+}
+.rb .card:has(a:hover) {
+  box-shadow: none;
+  transform: none;
+}
+.rb .card__media {
+  aspect-ratio: 3 / 2;
+  border-radius: 16px;
+}
+.rb .card__media img,
+.rb .card__media .photo--empty {
+  transition: transform 0.4s ease;
+}
+.rb .card:hover .card__media img {
+  transform: scale(1.045);
+}
+.rb .card__body {
+  padding: 12px 2px 0;
+}
+.rb .card__title {
+  margin: 0;
+  font-size: 1.0625rem;
+  line-height: 1.25;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 2.5em;
+}
+.rb .card__title a {
+  text-decoration: none;
+}
+.rb .card:hover .card__title a {
+  color: var(--red-dark);
+}
+.rb__meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2px 12px;
+  margin: 8px 0 0;
+  padding: 0;
+  list-style: none;
+  color: var(--ink-2);
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+.rb__meta li {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+.rb__meta .icon {
+  color: var(--muted);
+}
+.rb__sub {
+  margin: 4px 0 0;
+  font-size: 0.8125rem;
+  color: var(--muted);
+}
+.rb .card__badges {
+  top: 10px;
+  left: 10px;
 }
 .rb__skel {
-  aspect-ratio: 16 / 13;
-  border-radius: var(--radius);
+  aspect-ratio: 3 / 2.6;
+  border-radius: 16px;
   background: linear-gradient(100deg, #f0ebe5 30%, #f8f4ef 50%, #f0ebe5 70%);
   background-size: 200% 100%;
   animation: rbshine 1.2s linear infinite;
@@ -3674,35 +3871,17 @@ dialog.dlg--drawer {
   .rb__skel {
     animation: none;
   }
-}
-@media (min-width: 960px) {
-  .rb__layout {
-    display: grid;
-    grid-template-columns: 280px minmax(0, 1fr);
-    gap: 28px;
-    align-items: start;
-  }
-  .rb__side {
-    display: block;
-    position: sticky;
-    top: calc(var(--header-h) + 150px);
-    max-height: calc(100vh - var(--header-h) - 170px);
-    overflow-y: auto;
-    padding-right: 6px;
-    scrollbar-width: thin;
-  }
-  .rb__filterbtn {
-    display: none;
+  .rb .card__media img {
+    transition: none;
   }
 }
-
 .rb__pager {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   gap: 8px;
-  margin: 28px 0 8px;
+  margin: 36px 0 8px;
 }
 .rb__pager ul {
   display: flex;
@@ -3713,12 +3892,71 @@ dialog.dlg--drawer {
   list-style: none;
   align-items: center;
 }
-.rb__pager li .fchip {
+.rb__pager .fchip {
   min-width: 44px;
+  min-height: 44px;
   justify-content: center;
-  padding: 0 8px;
+  padding: 0 12px;
+  border-radius: 12px;
+  border-color: transparent;
+  background: #fff;
+  box-shadow: var(--shadow);
+}
+.rb__pager .fchip.is-on {
+  background: var(--ink);
+}
+.rb__pager .fchip:disabled {
+  opacity: 0.4;
+  box-shadow: none;
 }
 .rb__pager [aria-hidden='true'] {
   padding: 0 4px;
   color: var(--muted);
+}
+/* phones: the filter sheet lists options in two columns when there is room */
+.dlg .rb__opts {
+  grid-template-columns: 1fr;
+}
+@media (min-width: 480px) {
+  .dlg .rb__opts {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (min-width: 960px) {
+  .rb__layout {
+    display: grid;
+    grid-template-columns: 252px minmax(0, 1fr);
+    gap: 36px;
+    align-items: start;
+  }
+  .rb__side {
+    display: block;
+    position: sticky;
+    top: calc(var(--header-h) + 16px);
+    max-height: calc(100vh - var(--header-h) - 32px);
+    overflow-y: auto;
+    scrollbar-width: none;
+    background: #fff;
+    border-radius: 18px;
+    padding: 0 14px 6px;
+    box-shadow: var(--shadow);
+  }
+  .rb__side::-webkit-scrollbar {
+    display: none;
+  }
+  .rb__bar {
+    position: static;
+    margin: 0;
+    padding: 0;
+    background: none;
+  }
+  .rb__quick {
+    margin: 0;
+    padding: 12px 0 4px;
+    flex-wrap: wrap;
+    overflow: visible;
+  }
+  .rb__filterbtn {
+    display: none;
+  }
 }
