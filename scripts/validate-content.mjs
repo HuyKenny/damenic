@@ -149,6 +149,7 @@ for (const [id, r] of recipes) {
     if (!convertible) err(`recipe ${id}: ${i.ingredient} is given in "${i.unit}" but is sold by "${ing.baseUnit}"${spoonUnit ? ' and has no spoon weight' : ''}`);
   }
   if (![...dishes.values()].some((d) => d.recipe === id)) warnings.push(`recipe ${id}: not linked from any dish`);
+  for (const [k, st] of (r.steps ?? []).entries()) if (typeof st !== 'object' || typeof st?.text !== 'string') err(`recipe ${id}: steps[${k}] must be an object {"text": ...}`);
   if (!MEALS.includes(r.meal)) err(`recipe ${id}: "meal" must be one of ${MEALS.join(', ')}`);
   for (const o of r.occasions ?? []) if (!OCCASIONS.includes(o)) err(`recipe ${id}: unknown occasion "${o}" (see src/lib/occasions.ts)`);
   const boozy = r.ingredients.filter((i) => ingredients.get(i.ingredient)?.alcohol).map((i) => i.ingredient);
