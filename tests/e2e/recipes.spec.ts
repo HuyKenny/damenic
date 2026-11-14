@@ -97,29 +97,41 @@ test('Rohlik.cz call to action: short /go/ link, still labelled as an ad, only o
   }
 });
 
-test('recipe filters: facets narrow the list, URL keeps the state, static sections come back', async ({ page }) => {
+test('recipe browser: results first, filters narrow the list and keep state in the URL', async ({ page }) => {
   await page.goto('/recepty/');
+  await expect(page.getByTestId('recipe-results').locator('article').first()).toBeVisible();
   await hydrated(page.locator('body'));
-  await expect(page.locator('#recipe-static')).toBeVisible();
-  await page.getByTestId('show-all-recipes').click();
-  await expect(page.locator('#recipe-static')).toBeHidden();
-  const all = await page.getByTestId('recipe-count').innerText();
-  expect(parseInt(all, 10)).toBeGreaterThan(100);
-  await page.getByRole('button', { name: 'Bez masa', exact: true }).first().click();
-  await page.getByRole('button', { name: 'Do 30 minut' }).click();
-  await expect(page).toHaveURL(/dieta=veg/);
+  const all = parseInt(await page.getByTestId('recipe-count').innerText(), 10);
+  expect(all).toBeGreaterThan(100);
+  await page.getByRole('button', { name: 'Do 30 minut', exact: true }).first().click();
+  await page.getByRole('button', { name: 'Bez lepku', exact: true }).first().click();
+  await expect(page).toHaveURL(/dieta=gf/);
   await expect(page).toHaveURL(/cas=30/);
   const narrowed = parseInt(await page.getByTestId('recipe-count').innerText(), 10);
   expect(narrowed).toBeGreaterThan(0);
-  expect(narrowed).toBeLessThan(parseInt(all, 10));
-  await page.getByTestId('recipe-search').fill('zzzneexistuje');
-  await expect(page.getByTestId('recipe-empty')).toBeVisible();
-  await page.getByRole('button', { name: 'Zrušit filtry' }).first().click();
-  await page.getByTestId('recipe-search').fill('');
-  await expect(page.locator('#recipe-static')).toBeVisible();
+  expect(narrowed).toBeLessThan(all);
+  await page.reload();
+  await expect(page.getByTestId('recipe-count')).toHaveText(new RegExp(`^${narrowed} `));
+  // an active filter can be removed with its own chip
+  await page.getByRole('button', { name: /Odebrat filtr Do 30 min/ }).click();
+  expect(parseInt(await page.getByTestId('recipe-count').innerText(), 10)).toBeGreaterThan(narrowed);
 });
 
-test('recipe filters: alcohol facet separates drinks, "co mám doma" ranks by missing ingredients', async ({ page }) => {
+test('recipe browser: search forgives typos and a dead end offers a way out', async ({ page }) => {
+  await page.goto('/recepty/');
+  await hydrated(page.locator('body'));
+  await page.getByTestId('recipe-search').fill('svickova');
+  await expect(page.getByTestId('recipe-results')).toContainText('Svíčková');
+  await page.getByTestId('recipe-search').fill('svickvoa');
+  await expect(page.getByTestId('recipe-results')).toContainText('Svíčková');
+  await page.getByTestId('recipe-search').fill('');
+  await page.goto('/recepty/?typ=napoj&alkohol=no&cas=15&surovina=hovezi');
+  await expect(page.getByTestId('recipe-empty')).toBeVisible();
+  await page.getByTestId('recipe-empty').getByRole('button', { name: /^Odebrat/ }).first().click();
+  await expect(page.getByTestId('recipe-results')).toBeVisible();
+});
+
+test('recipe browser: alcohol facet separates drinks, "co mám doma" ranks by missing ingredients', async ({ page }) => {
   await page.goto('/recepty/?alkohol=only&typ=napoj');
   await hydrated(page.locator('body'));
   const n = parseInt(await page.getByTestId('recipe-count').innerText(), 10);

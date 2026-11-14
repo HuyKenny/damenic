@@ -1,7 +1,12 @@
 import { describe, expect, it } from 'vitest';
 import {
   EMPTY_RECIPE_FILTERS,
+  activeFilters,
   applyRecipeFilters,
+  facetCounts,
+  removalSuggestions,
+  suggestTitles,
+  wordMatches,
   deriveFacets,
   haveMatch,
   parseRecipeQuery,
@@ -117,5 +122,45 @@ describe('recipe filter URL state', () => {
     const junk = parseRecipeQuery('?typ=neexistuje&dieta=xx&cas=-5&alkohol=jo&razeni=cokoli&doma=<script>');
     expect(junk).toEqual(EMPTY_RECIPE_FILTERS);
     expect(recipeFilterCount(f)).toBe(6);
+  });
+});
+
+describe('faceted counts and dead-end help', () => {
+  const all = [
+    r({ id: 'a', title: 'Svíčková', meal: 'hlavni', min: 150, diets: [] }),
+    r({ id: 'b', title: 'Aglio olio', meal: 'hlavni', min: 15, diets: ['veg', 'vegan'] }),
+    r({ id: 'c', title: 'Gazpacho', meal: 'polevka', min: 10, diets: ['veg', 'vegan'] }),
+    r({ id: 'd', title: 'Tiramisu', meal: 'dezert', min: 40, diets: ['veg'] }),
+  ];
+  const labels = { categories: {}, occasions: {}, ingredients: {} };
+  const now = new Date('2026-06-15T12:00:00+02:00');
+  it('ignores the value\'s own group, applies the others', () => {
+    const f = { ...EMPTY_RECIPE_FILTERS, meals: ['hlavni'], diets: ['vegan' as const] };
+    const c = facetCounts(all, f);
+    expect(c.meal).toEqual({ hlavni: 1, polevka: 1 }); // meals ignore the meal filter, but keep the vegan one
+    expect(c.diet.vegan).toBe(1); // diets ignore the diet filter, keep meal = hlavni
+    expect(c.diet.veg).toBe(1);
+    expect(c.time[15]).toBe(1);
+  });
+  it('shows cumulative time counts and alcohol split', () => {
+    const c = facetCounts(all, EMPTY_RECIPE_FILTERS);
+    expect(c.time[15]).toBe(2);
+    expect(c.time[60]).toBe(3);
+    expect(c.alcohol).toEqual({ no: 4, only: 0 });
+  });
+  it('suggests which filter to drop on a dead end', () => {
+    const f = { ...EMPTY_RECIPE_FILTERS, meals: ['dezert'], maxMin: 15 };
+    expect(applyRecipeFilters(all, f, now)).toHaveLength(0);
+    const help = removalSuggestions(all, f, labels, now);
+    expect(help.length).toBe(2);
+    expect(help[0]!.count).toBeGreaterThan(0);
+    expect(activeFilters(f, labels).map((a) => a.id)).toEqual(['meals:dezert', 'maxMin']);
+  });
+  it('forgives one typo in longer words and suggests titles', () => {
+    expect(wordMatches('svickova na smetane', 'svickvoa')).toBe(true); // swapped letters
+    expect(wordMatches('svickova na smetane', 'svickoba')).toBe(true);
+    expect(wordMatches('svickova na smetane', 'smetana')).toBe(true);
+    expect(wordMatches('gulas', 'guly')).toBe(false); // short words must match exactly
+    expect(suggestTitles(all, 'tira').map((x) => x.id)).toEqual(['d']);
   });
 });

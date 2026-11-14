@@ -128,7 +128,7 @@ export function deriveFacets(r: RecipeFacetInput, info: Record<string, Ingredien
 export interface RecipeSummary {
   id: string;
   title: string;
-  /** Folded searchable text: title, keywords, category. */
+  /** Folded searchable text: title, keywords, category, ingredient names and synonyms. */
   q: string;
   category: string;
   categoryLabel: string;
@@ -176,6 +176,8 @@ export interface RecipeFilters {
   maxCost: number | null;
   alcohol: 'any' | 'no' | 'only';
   have: string[];
+  /** With "have": at most this many ingredients may be missing. */
+  maxMissing: number | null;
   sort: RecipeSort;
 }
 
@@ -193,6 +195,7 @@ export const EMPTY_RECIPE_FILTERS: RecipeFilters = {
   maxCost: null,
   alcohol: 'any',
   have: [],
+  maxMissing: null,
   sort: 'doporucene',
 };
 
@@ -202,31 +205,94 @@ export const recipeFilterCount = (f: RecipeFilters): number =>
 
 export const foldText = fold;
 
+/** Words people type that are not in the recipe text, appended to the search text by the index builder. */
+export const SYNONYMS: Record<string, string> = {
+  kure: 'kure kureci drubez maso',
+  veprove: 'vepro veprove veprovy maso',
+  hovezi: 'hovezi hovezi maso',
+  'husa-kachna': 'husa kachna drubez',
+  ryba: 'ryba ryby rybi',
+  'morske-plody': 'morske plody krevety',
+  veg: 'bezmasa bezmasa vegetarianske vegetarian',
+  vegan: 'vegansky vegansko vegan rostlinne',
+  gf: 'bezlepkove bezlepku',
+  lf: 'bezlaktozove bezlaktozy',
+};
+
 /** How many of a recipe's non-staple ingredients are at home: matched count and total. */
 export function haveMatch(r: RecipeSummary, have: string[]): { got: number; total: number } {
   const set = new Set(have);
   return { got: r.ing.filter((i) => set.has(i)).length, total: r.ing.length };
 }
 
-export function applyRecipeFilters(all: RecipeSummary[], f: RecipeFilters, now: Date): RecipeSummary[] {
-  const words = fold(f.q).split(/\s+/).filter(Boolean);
-  const out = all.filter((r) => {
-    if (words.length && !words.every((w) => r.q.includes(w))) return false;
-    if (f.meals.length && !f.meals.includes(r.meal)) return false;
-    if (f.categories.length && !f.categories.includes(r.category)) return false;
-    if (f.families.length && !(r.family && f.families.includes(r.family))) return false;
-    if (f.diets.length && !f.diets.every((d) => r.diets.includes(d))) return false;
-    if (f.methods.length && !f.methods.some((m) => r.methods.includes(m))) return false;
-    if (f.occasions.length && !f.occasions.some((o) => r.occasions.includes(o))) return false;
-    if (f.difficulties.length && !f.difficulties.includes(r.difficulty)) return false;
-    if (f.maxMin !== null && r.min > f.maxMin) return false;
-    if (f.maxAct !== null && r.act > f.maxAct) return false;
-    if (f.maxCost !== null && r.cost > f.maxCost) return false;
+/** Edit distance up to 1 (substitution, insertion or deletion); cheap, used only for words of 5+ letters. */
+function withinOne(a: string, b: string): boolean {
+  if (Math.abs(a.length - b.length) > 1) return false;
+  if (a.length === b.length) {
+    // two neighbouring letters swapped counts as one typo ("svickvoa")
+    const d: number[] = [];
+    for (let k = 0; k < a.length && d.length < 3; k++) if (a[k] !== b[k]) d.push(k);
+    if (d.length === 2 && d[1] === d[0]! + 1 && a[d[0]!] === b[d[1]!] && a[d[1]!] === b[d[0]!]) return true;
+  }
+  let i = 0;
+  let j = 0;
+  let edits = 0;
+  while (i < a.length && j < b.length) {
+    if (a[i] === b[j]) {
+      i++;
+      j++;
+      continue;
+    }
+    if (++edits > 1) return false;
+    if (a.length > b.length) i++;
+    else if (a.length < b.length) j++;
+    else {
+      i++;
+      j++;
+    }
+  }
+  return edits + (a.length - i) + (b.length - j) <= 1;
+}
+
+/** A word matches when it is part of the recipe text or, for words of 5+ letters, one typo away from a word of it. */
+export function wordMatches(q: string, word: string): boolean {
+  if (q.includes(word)) return true;
+  if (word.length < 5) return false;
+  return q.split(' ').some((t) => t.length >= 4 && (withinOne(t, word) || (word.length >= 6 && t.length >= 6 && withinOne(t.slice(0, word.length), word))));
+}
+
+export type FilterGroup = 'meal' | 'category' | 'family' | 'diet' | 'method' | 'occasion' | 'difficulty' | 'time' | 'act' | 'cost' | 'alcohol';
+
+/** Does the recipe pass every active filter except those of the `skip` group? (Used for faceted counts.) */
+export function passes(r: RecipeSummary, f: RecipeFilters, words: string[], skip?: FilterGroup): boolean {
+  if (words.length && !words.every((w) => wordMatches(r.q, w))) return false;
+  if (skip !== 'meal' && f.meals.length && !f.meals.includes(r.meal)) return false;
+  if (skip !== 'category' && f.categories.length && !f.categories.includes(r.category)) return false;
+  if (skip !== 'family' && f.families.length && !(r.family && f.families.includes(r.family))) return false;
+  if (skip !== 'diet' && f.diets.length && !f.diets.every((d) => r.diets.includes(d))) return false;
+  if (skip !== 'method' && f.methods.length && !f.methods.some((m) => r.methods.includes(m))) return false;
+  if (skip !== 'occasion' && f.occasions.length && !f.occasions.some((o) => r.occasions.includes(o))) return false;
+  if (skip !== 'difficulty' && f.difficulties.length && !f.difficulties.includes(r.difficulty)) return false;
+  if (skip !== 'time' && f.maxMin !== null && r.min > f.maxMin) return false;
+  if (skip !== 'act' && f.maxAct !== null && r.act > f.maxAct) return false;
+  if (skip !== 'cost' && f.maxCost !== null && r.cost > f.maxCost) return false;
+  if (skip !== 'alcohol') {
     if (f.alcohol === 'no' && r.alcohol) return false;
     if (f.alcohol === 'only' && !r.alcohol) return false;
-    if (f.have.length && haveMatch(r, f.have).got === 0) return false;
-    return true;
-  });
+  }
+  if (f.have.length) {
+    const m = haveMatch(r, f.have);
+    if (m.got === 0) return false;
+    if (f.maxMissing !== null && m.total - m.got > f.maxMissing) return false;
+  }
+  return true;
+}
+
+const searchWords = (q: string) => fold(q).split(/\s+/).filter(Boolean);
+
+export function applyRecipeFilters(all: RecipeSummary[], f: RecipeFilters, now: Date): RecipeSummary[] {
+  const words = searchWords(f.q);
+  const out = all.filter((r) => passes(r, f, words));
   const season = new Set<string>(occasionsInSeason(now));
   const seasonal = (r: RecipeSummary) => (r.occasions.some((o) => season.has(o)) ? 1 : 0);
   const byTitle = (a: RecipeSummary, b: RecipeSummary) => a.title.localeCompare(b.title, 'cs');
@@ -252,14 +318,103 @@ export function applyRecipeFilters(all: RecipeSummary[], f: RecipeFilters, now: 
   }
 }
 
-/** Counts per facet value among `all` (ignoring the facet's own filter is left to the UI; this is the plain total). */
-export function countBy<T extends string>(all: RecipeSummary[], pick: (r: RecipeSummary) => T | T[] | null): Map<T, number> {
-  const m = new Map<T, number>();
+export interface FacetCounts {
+  meal: Record<string, number>;
+  category: Record<string, number>;
+  family: Record<string, number>;
+  diet: Record<string, number>;
+  method: Record<string, number>;
+  occasion: Record<string, number>;
+  difficulty: Record<string, number>;
+  /** Cumulative: how many recipes would remain with "max N minutes" (keys are the step values). */
+  time: Record<number, number>;
+  act: Record<number, number>;
+  cost: Record<number, number>;
+  alcohol: { no: number; only: number };
+}
+
+export const ACT_STEPS = [10, 20, 30] as const;
+
+/**
+ * Faceted counts: for every value, how many recipes the result would contain if that value were chosen, with all the
+ * other groups' filters applied but the value's own group ignored. Zero means the choice would be a dead end.
+ */
+export function facetCounts(all: RecipeSummary[], f: RecipeFilters): FacetCounts {
+  const words = searchWords(f.q);
+  const out: FacetCounts = { meal: {}, category: {}, family: {}, diet: {}, method: {}, occasion: {}, difficulty: {}, time: {}, act: {}, cost: {}, alcohol: { no: 0, only: 0 } };
+  const bump = (m: Record<string, number>, k: string | null | undefined) => {
+    if (k) m[k] = (m[k] ?? 0) + 1;
+  };
   for (const r of all) {
-    const v = pick(r);
-    for (const x of v === null ? [] : Array.isArray(v) ? v : [v]) m.set(x, (m.get(x) ?? 0) + 1);
+    if (passes(r, f, words, 'meal')) bump(out.meal, r.meal);
+    if (passes(r, f, words, 'category')) bump(out.category, r.category);
+    if (passes(r, f, words, 'family')) bump(out.family, r.family);
+    if (passes(r, f, words, 'difficulty')) bump(out.difficulty, r.difficulty);
+    if (passes(r, f, words, 'diet')) for (const d of r.diets) bump(out.diet, d);
+    if (passes(r, f, words, 'method')) for (const m of r.methods) bump(out.method, m);
+    if (passes(r, f, words, 'occasion')) for (const o of r.occasions) bump(out.occasion, o);
+    if (passes(r, f, words, 'time')) for (const s of TIME_STEPS) if (r.min <= s) out.time[s] = (out.time[s] ?? 0) + 1;
+    if (passes(r, f, words, 'act')) for (const s of ACT_STEPS) if (r.act <= s) out.act[s] = (out.act[s] ?? 0) + 1;
+    if (passes(r, f, words, 'cost')) for (const s of COST_STEPS) if (r.cost <= s) out.cost[s] = (out.cost[s] ?? 0) + 1;
+    if (passes(r, f, words, 'alcohol')) out.alcohol[r.alcohol ? 'only' : 'no']++;
   }
-  return m;
+  return out;
+}
+
+// ---------------- active filters, dead-end help, suggestions ----------------
+
+export interface ActiveFilter {
+  id: string;
+  label: string;
+  /** The filters with just this one removed. */
+  without: (f: RecipeFilters) => RecipeFilters;
+}
+
+export interface FilterLabels {
+  categories: Record<string, string>;
+  occasions: Record<string, string>;
+  ingredients: Record<string, string>;
+}
+
+export function activeFilters(f: RecipeFilters, labels: FilterLabels): ActiveFilter[] {
+  const out: ActiveFilter[] = [];
+  const list = <T extends string>(key: keyof RecipeFilters, values: T[], label: (v: T) => string) => {
+    for (const v of values) out.push({ id: `${String(key)}:${v}`, label: label(v), without: (g) => ({ ...g, [key]: (g[key] as T[]).filter((x) => x !== v) }) as RecipeFilters });
+  };
+  if (f.q.trim()) out.push({ id: 'q', label: `„${f.q.trim()}“`, without: (g) => ({ ...g, q: '' }) });
+  list('meals', f.meals, (v) => MEAL_LABELS[v] ?? v);
+  list('categories', f.categories, (v) => labels.categories[v] ?? v);
+  list('families', f.families, (v) => FAMILY_LABELS[v] ?? v);
+  list('diets', f.diets, (v) => DIET_FACETS.find((d) => d.key === v)?.label ?? v);
+  list('methods', f.methods, (v) => METHOD_FACETS.find((m) => m.key === v)?.label ?? v);
+  list('occasions', f.occasions, (v) => labels.occasions[v] ?? v);
+  list('difficulties', f.difficulties, (v) => v[0]!.toUpperCase() + v.slice(1));
+  if (f.maxMin !== null) out.push({ id: 'maxMin', label: f.maxMin < 60 ? `Do ${f.maxMin} min` : `Do ${f.maxMin / 60} h`, without: (g) => ({ ...g, maxMin: null }) });
+  if (f.maxAct !== null) out.push({ id: 'maxAct', label: `Práce do ${f.maxAct} min`, without: (g) => ({ ...g, maxAct: null }) });
+  if (f.maxCost !== null) out.push({ id: 'maxCost', label: `Do ${f.maxCost} Kč na porci`, without: (g) => ({ ...g, maxCost: null }) });
+  if (f.alcohol !== 'any') out.push({ id: 'alcohol', label: f.alcohol === 'no' ? 'Bez alkoholu' : 'S alkoholem', without: (g) => ({ ...g, alcohol: 'any' }) });
+  if (f.have.length) out.push({ id: 'have', label: `Doma: ${f.have.map((i) => labels.ingredients[i] ?? i).slice(0, 3).join(', ')}${f.have.length > 3 ? ` +${f.have.length - 3}` : ''}`, without: (g) => ({ ...g, have: [], maxMissing: null }) });
+  return out;
+}
+
+/** For a dead end: which single filter, once removed, brings back the most recipes. */
+export function removalSuggestions(all: RecipeSummary[], f: RecipeFilters, labels: FilterLabels, now: Date, limit = 3): { filter: ActiveFilter; count: number }[] {
+  return activeFilters(f, labels)
+    .map((filter) => ({ filter, count: applyRecipeFilters(all, filter.without(f), now).length }))
+    .filter((x) => x.count > 0)
+    .sort((a, b) => b.count - a.count)
+    .slice(0, limit);
+}
+
+/** Title suggestions while typing: titles with a word that starts with the typed text, best first. */
+export function suggestTitles(all: RecipeSummary[], text: string, limit = 6): RecipeSummary[] {
+  const t = fold(text.trim());
+  if (t.length < 2) return [];
+  const starts = (r: RecipeSummary) => fold(r.title).split(/[\s,()-]+/).some((w) => w.startsWith(t));
+  return all
+    .filter((r) => fold(r.title).includes(t))
+    .sort((a, b) => Number(starts(b)) - Number(starts(a)) || b.w - a.w || a.title.localeCompare(b.title, 'cs'))
+    .slice(0, limit);
 }
 
 // ---------------- URL state ----------------
@@ -286,6 +441,7 @@ export function recipeFiltersToQuery(f: RecipeFilters): string {
   if (f.maxCost !== null) p.set('cena', String(f.maxCost));
   if (f.alcohol !== 'any') p.set('alkohol', f.alcohol);
   if (f.have.length) p.set('doma', CSV(f.have));
+  if (f.have.length && f.maxMissing !== null) p.set('chybi', String(f.maxMissing));
   if (f.sort !== 'doporucene') p.set('razeni', f.sort);
   const s = p.toString();
   return s ? `?${s}` : '';
@@ -297,6 +453,8 @@ export function parseRecipeQuery(search: string): RecipeFilters {
   const alcohol = p.get('alkohol');
   const dietKeys = DIET_FACETS.map((d) => d.key) as string[];
   const methodKeys = METHOD_FACETS.map((m) => m.key) as string[];
+  const have = SPLIT(p.get('doma')).filter((x) => /^[a-z0-9-]+$/.test(x)).slice(0, 40);
+  const missing = p.get('chybi');
   return {
     q: (p.get('q') ?? '').slice(0, 80),
     meals: SPLIT(p.get('typ')).filter((x) => x in MEAL_LABELS),
@@ -310,7 +468,8 @@ export function parseRecipeQuery(search: string): RecipeFilters {
     maxAct: NUM(p.get('prace')),
     maxCost: NUM(p.get('cena')),
     alcohol: alcohol === 'no' || alcohol === 'only' ? alcohol : 'any',
-    have: SPLIT(p.get('doma')).filter((x) => /^[a-z0-9-]+$/.test(x)).slice(0, 40),
+    have,
+    maxMissing: have.length && missing !== null && /^[0-9]$/.test(missing) ? Number(missing) : null,
     sort: RECIPE_SORTS.some((s) => s.key === sort) ? (sort as RecipeSort) : 'doporucene',
   };
 }

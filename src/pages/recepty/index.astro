@@ -1,26 +1,27 @@
 ---
 import Base from '@/layouts/Base.astro';
 import Breadcrumbs from '@/components/Breadcrumbs.astro';
-import RecipeCard from '@/components/RecipeCard.astro';
-import { allRecipes } from '@/lib/content';
-import Icon from '@/components/Icon.astro';
 import RecipeBrowser from '@/islands/RecipeBrowser';
-import { OCCASIONS, OCCASION_IDS } from '@/lib/occasions';
-import { RECIPE_HUBS, seasonalHub } from '@/lib/hubs';
+import { recipeIndex } from '@/lib/content';
+import { RECIPE_HUBS } from '@/lib/hubs';
+import { OCCASIONS, type OccasionId } from '@/lib/occasions';
 import { CATEGORY_LABELS } from '@/lib/site';
+import { EMPTY_RECIPE_FILTERS, applyRecipeFilters, facetCounts } from '@/lib/recipe-facets';
 
-const recipes = await allRecipes();
+const { recipes } = await recipeIndex();
 const hubs = await RECIPE_HUBS();
-const season = await seasonalHub(new Date());
 const occasionHubs = hubs.filter((h) => h.slug.startsWith('prilezitosti/'));
-const cuisineHubs = hubs.filter((h) => !h.slug.startsWith('prilezitosti/'));
-// With hundreds of recipes one page cannot show them all: each group shows the first PER_GROUP and links to its hub.
-const PER_GROUP = 8;
-const groups = Object.entries(CATEGORY_LABELS)
-  .map(([id, c]) => ({ id, ...c, recipes: recipes.filter((r) => r.data.category === id) }))
-  .filter((g) => g.recipes.length);
-const filterCategories = groups.map((g) => ({ id: g.id, label: g.label }));
-const filterOccasions = occasionHubs.map((h) => ({ id: h.slug.slice('prilezitosti/'.length), label: OCCASIONS[h.slug.slice('prilezitosti/'.length) as (typeof OCCASION_IDS)[number]].label }));
+const otherHubs = hubs.filter((h) => !h.slug.startsWith('prilezitosti/'));
+// First page for the server-rendered HTML (crawlable, no layout jump); the island takes over after hydration.
+const initial = applyRecipeFilters(recipes, EMPTY_RECIPE_FILTERS, new Date()).slice(0, 24);
+const initialCounts = facetCounts(recipes, EMPTY_RECIPE_FILTERS);
+const categories = Object.entries(CATEGORY_LABELS)
+  .filter(([id]) => recipes.some((r) => r.category === id))
+  .map(([id, c]) => ({ id, label: c.label }));
+const occasions = occasionHubs.map((h) => {
+  const id = h.slug.slice('prilezitosti/'.length);
+  return { id, label: OCCASIONS[id as OccasionId].label };
+});
 ---
 
 <Base
@@ -32,57 +33,24 @@ const filterOccasions = occasionHubs.map((h) => ({ id: h.slug.slice('prilezitost
     <div class="pagehead">
       <h1>Recepty na doma</h1>
       <p>
-        Ke každému hlavnímu jídlu ze simulátoru patří skutečný recept. Časy rozlišují vlastní práci, tepelnou úpravu a čekání. Ceny surovin jsou
-        ilustrační odhady.
+        Ke každému hlavnímu jídlu ze simulátoru patří skutečný recept. Filtruj podle toho, na co máš chuť, čas, stravu i to, co máš doma. Časy rozlišují
+        vlastní práci, tepelnou úpravu a čekání, ceny surovin jsou ilustrační odhady.
       </p>
     </div>
-    <RecipeBrowser client:load categories={filterCategories} occasions={filterOccasions} total={recipes.length} />
-    <div id="recipe-static">
-    <ul class="fpanel__chips" aria-label="Kategorie receptů">
-      {cuisineHubs.map((h) => <li><a class="fchip" href={h.path}>{h.label}</a></li>)}
-    </ul>
-    {
-      occasionHubs.length > 0 && (
-        <ul class="fpanel__chips" aria-label="Svátky a oslavy" style="margin-top:8px">
-          <li><a class="fchip" href="/recepty/prilezitosti/">Svátky a oslavy</a></li>
-          {occasionHubs.map((h) => <li><a class="fchip" href={h.path}>{h.label}</a></li>)}
-        </ul>
-      )
-    }
-    {
-      season && (
-        <section class="section" aria-labelledby="h-sezona" style="padding-bottom:0">
-          <div class="section__head">
-            <div>
-              <h2 id="h-sezona"><a href={season.hub.path}>{season.rail}</a></h2>
-              <p>{season.note}</p>
-            </div>
-            <a class="section__more" href={season.hub.path}>Všech {season.hub.recipes.length} <Icon name="arrow" size={18} /></a>
-          </div>
-          <div class="grid grid--dishes">{season.hub.recipes.slice(0, 4).map((r) => <RecipeCard recipe={r} />)}</div>
-        </section>
-      )
-    }
-    {
-      groups.map((g) => (
-        <section class="section" id={g.id} aria-labelledby={`h-${g.id}`} style="padding-bottom:0">
-          <div class="section__head">
-            <div>
-              <h2 id={`h-${g.id}`}>{hubs.some((h) => h.slug === `kuchyne/${g.id}`) ? <a href={`/recepty/kuchyne/${g.id}/`}>{g.label}</a> : g.label}</h2>
-              <p>{g.lead}</p>
-            </div>
-          </div>
-          <div class="grid grid--dishes">
-            {g.recipes.slice(0, PER_GROUP).map((r) => <RecipeCard recipe={r} />)}
-          </div>
-          {g.recipes.length > PER_GROUP && hubs.some((h) => h.slug === `kuchyne/${g.id}`) && (
-            <p style="margin-top:16px">
-              <a class="section__more" href={`/recepty/kuchyne/${g.id}/`}>Všech {g.recipes.length} receptů ({g.label.toLowerCase()}) <Icon name="arrow" size={18} /></a>
-            </p>
-          )}
-        </section>
-      ))
-    }
-    </div>
+    <RecipeBrowser client:load categories={categories} occasions={occasions} total={recipes.length} initial={initial} initialCounts={initialCounts} />
+    <nav class="section" aria-label="Kategorie receptů" style="padding-top:8px">
+      <h2 style="font-size:1.25rem;margin-bottom:12px">Procházej podle kuchyně a příležitosti</h2>
+      <ul class="fpanel__chips">
+        {otherHubs.map((h) => <li><a class="fchip" href={h.path}>{h.label}</a></li>)}
+      </ul>
+      {
+        occasionHubs.length > 0 && (
+          <ul class="fpanel__chips" aria-label="Svátky a oslavy" style="margin-top:8px">
+            <li><a class="fchip" href="/recepty/prilezitosti/">Svátky a oslavy</a></li>
+            {occasionHubs.map((h) => <li><a class="fchip" href={h.path}>{h.label}</a></li>)}
+          </ul>
+        )
+      }
+    </nav>
   </div>
 </Base>

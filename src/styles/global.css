@@ -3490,3 +3490,208 @@ dialog.dlg--drawer {
 .rbrowser .fpanel fieldset small {
   opacity: 0.7;
 }
+
+/* recipe browser v2 (/recepty/): sticky bar, side panel on desktop, sheet on phones */
+.rb__bar {
+  position: sticky;
+  top: var(--header-h);
+  z-index: 15;
+  background: var(--bg);
+  margin-inline: calc(-1 * var(--gutter));
+  padding: 8px var(--gutter) 6px;
+  border-bottom: 1px solid var(--line);
+}
+.rb__row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+.rb__search {
+  position: relative;
+  flex: 1 1 auto;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 46px;
+  padding: 0 12px;
+  border: 1.5px solid var(--line-strong);
+  border-radius: 999px;
+  background: #fff;
+}
+.rb__search:focus-within {
+  border-color: var(--ink);
+}
+.rb__search input {
+  flex: 1;
+  min-width: 0;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  font: inherit;
+  min-height: 44px;
+}
+.rb__clear {
+  display: inline-grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 0;
+  background: var(--pink);
+}
+.rb__suggest {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(100% + 6px);
+  z-index: 30;
+  margin: 0;
+  padding: 6px;
+  list-style: none;
+  background: #fff;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-lift);
+}
+.rb__suggest a {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 12px;
+  border-radius: 8px;
+  min-height: 44px;
+  align-items: center;
+}
+.rb__suggest a:hover,
+.rb__suggest a:focus-visible {
+  background: var(--pink);
+}
+.rb__suggest small {
+  color: var(--muted);
+  white-space: nowrap;
+}
+.rb__quick {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 8px 0 4px;
+  scrollbar-width: none;
+}
+.rb__quick::-webkit-scrollbar {
+  display: none;
+}
+.rb__have {
+  display: grid;
+  gap: 10px;
+  padding: 14px;
+  margin-top: 12px;
+  border: 1px solid var(--paper-line);
+  border-radius: var(--radius-sm);
+  background: var(--paper);
+}
+.rb__status {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 14px;
+  margin: 12px 0;
+}
+.rb__count {
+  margin: 0;
+  font-weight: 700;
+  min-width: 7ch;
+}
+.rb__active {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  align-items: center;
+}
+.rb__active .fchip {
+  min-height: 36px;
+  padding: 0 10px;
+  font-size: 0.9rem;
+}
+.rb__layout {
+  display: block;
+}
+.rb__side {
+  display: none;
+}
+.rb__group {
+  border-bottom: 1px solid var(--line);
+  padding: 10px 0;
+}
+.rb__group summary {
+  cursor: pointer;
+  font-weight: 750;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+.rb__group summary::-webkit-details-marker {
+  display: none;
+}
+.rb__group summary::after {
+  content: '+';
+  margin-left: auto;
+  font-size: 1.25rem;
+  color: var(--muted);
+}
+.rb__group[open] summary::after {
+  content: '–';
+}
+.rb__group .fpanel__chips {
+  padding: 4px 0 8px;
+}
+.rb__note {
+  flex-basis: 100%;
+  margin: 4px 0 0;
+}
+.fchip:disabled {
+  opacity: 0.38;
+  cursor: not-allowed;
+  border-style: dashed;
+}
+.rb__skel {
+  aspect-ratio: 16 / 13;
+  border-radius: var(--radius);
+  background: linear-gradient(100deg, #f0ebe5 30%, #f8f4ef 50%, #f0ebe5 70%);
+  background-size: 200% 100%;
+  animation: rbshine 1.2s linear infinite;
+}
+@keyframes rbshine {
+  to {
+    background-position: -200% 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .rb__skel {
+    animation: none;
+  }
+}
+@media (min-width: 960px) {
+  .rb__layout {
+    display: grid;
+    grid-template-columns: 280px minmax(0, 1fr);
+    gap: 28px;
+    align-items: start;
+  }
+  .rb__side {
+    display: block;
+    position: sticky;
+    top: calc(var(--header-h) + 150px);
+    max-height: calc(100vh - var(--header-h) - 170px);
+    overflow-y: auto;
+    padding-right: 6px;
+    scrollbar-width: thin;
+  }
+  .rb__filterbtn {
+    display: none;
+  }
+}

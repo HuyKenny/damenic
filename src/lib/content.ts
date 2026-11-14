@@ -7,7 +7,7 @@ import type { SearchEntry } from './search';
 import { CATEGORY_LABELS } from './site';
 import { recipeCost } from './costs';
 import type { RestaurantSummary } from './filters';
-import { deriveFacets, foldText, type IngredientFacetInfo, type RecipeSummary } from './recipe-facets';
+import { SYNONYMS, deriveFacets, foldText, type IngredientFacetInfo, type RecipeSummary } from './recipe-facets';
 import { toBase } from './units';
 
 export type Restaurant = CollectionEntry<'restaurants'>;
@@ -270,7 +270,17 @@ export function recipeIndex(): Promise<{ recipes: RecipeSummary[]; ingredients: 
       recipes.push({
         id: r.id,
         title: r.data.title,
-        q: foldText(`${r.data.title} ${r.data.keywords.join(' ')} ${CATEGORY_LABELS[r.data.category]?.label ?? ''} ${r.data.occasions.join(' ')}`),
+        q: foldText(
+          [
+            r.data.title,
+            r.data.keywords.join(' '),
+            CATEGORY_LABELS[r.data.category]?.label ?? '',
+            r.data.occasions.join(' '),
+            lite.ingredients.map((i) => info[i.ingredient]?.name ?? '').join(' '),
+            f.family ? SYNONYMS[f.family] ?? '' : '',
+            f.diets.filter((d) => d === 'veg' || d === 'vegan' || d === 'gf' || d === 'lf').map((d) => SYNONYMS[d] ?? '').join(' '),
+          ].join(' '),
+        ),
         category: r.data.category,
         categoryLabel: CATEGORY_LABELS[r.data.category]?.label ?? '',
         meal: r.data.meal,

@@ -109,6 +109,13 @@ const metaTitle = `${r.data.title} – recept krok za krokem`;
             </p>
           )
         }
+        {
+          alkLink && (
+            <p class="muted" style="margin:8px 0 0">
+              Víc o surovinách a výběru lihovin najdeš na našem sesterském webu <a href="https://alkoholicky.cz/">alkoholicky.cz</a>: <a href={alkLink.url}>{alkLink.title}</a>.
+            </p>
+          )
+        }
         <dl class="times">
           <div><dt>Porce</dt><dd>{r.data.servings}</dd></div>
           <div><dt>Vlastní práce</dt><dd>{formatDuration(r.data.activeMinutes)}</dd></div>
