@@ -39,6 +39,14 @@ Read results with `gh run view --repo HuyKenny/damenic`, download screenshots wi
   (`src/pages/sitemap-*.xml.ts`, git lastmod, recipe images), one indexed dish page per recipe (`primaryDishForRecipe`).
 - Tests pin the browser clock to Prague noon (`atNoon`) because restaurants have opening hours.
 
+## v3.1 (14. 11. 2026): holidays, drinks, cakes
+- 340 recipes, 65 restaurants. Occasions (`src/lib/occasions.ts`, recipe `occasions`) give hubs `/recepty/prilezitosti/<id>/` and a
+  seasonal rail; CI rebuilds weekly so the season follows the calendar. Categories `koktejly` and `dorty` added.
+- Alcohol: flag the ingredient (`alcohol: true`), set the recipe's `alcohol`, always add a non-alcoholic substitution; places
+  selling alcohol say 18+. Never joke about drinking.
+- Content agents write new ingredients to `src/data/_extra/<batch>.json`; merge them into `ingredients.json` before committing
+  (CI builds without `_extra`). Recipes linked from a dish reuse the dish photo.
+
 Voice: `COPY_GUIDE.md` (creative, simulation always obvious, recipes are facts). Restaurant descriptions must contain "smyšlen" or "fiktivn" (validator).
 
 ## Security / SEO guardrails (v2.5)

@@ -1,6 +1,24 @@
 # Implementation status
 
-Updated: 2026-11-11. Only results that actually ran are recorded here.
+Updated: 2026-11-14. Only results that actually ran are recorded here.
+
+## v3.1 (2026-11-13/14): holidays, drinks incl. alcohol, cakes (Kenny: "co nejvíc receptů")
+- Keyword research: `scripts/damenic/content-gap-2.py` in the workspace (Marketing Miner, 4 580 keywords with monthly peaks,
+  `reports/damenic/keyword-map-2.json`). Christmas went first because cookie searches peak Nov–Dec.
+- Occasions: `src/lib/occasions.ts` (10 ids, season windows, Easter computed), recipe field `occasions`, hubs at
+  `/recepty/prilezitosti/<id>/` plus `/recepty/prilezitosti/`; home and /recepty/ show the occasion in season (build time,
+  weekly scheduled CI rebuild on Monday 02:15 UTC). Unit tests in `tests/unit/occasions.test.ts`.
+- Alcohol: ingredient flag `alcohol`, recipe field `alcohol` (validator requires it when a flagged ingredient is used; false
+  only when cooked off, e.g. pepper sauce flambé). Pages show an "18+" tag and note; every boozy recipe has a non-alcoholic
+  substitution. Bars and stalls mention 18+ in their description.
+- New categories `koktejly`, `dorty` (own SVG icons). /recepty/ shows 8 recipes per group and links to the hub.
+- Content: 150 new recipes in 4 waves (Christmas cookies and table, winter drinks, 14 cocktails, 16 cakes, 14 pastries and
+  buns, party food, Easter, St Martin, Shrovetide, grilling, Valentine, Halloween, Czech classics, wings, sandwiches, salads,
+  Asian) and 9 new places. Totals: 65 restaurants, 619 menu items, 340 recipes, 341 ingredients, 792 asset records.
+- Photos: `scripts/damenic/fetch-pexels.py` (generic; `missing` lists gaps). Picks were checked by alt text and obviously
+  wrong ones removed; 10 recipes stay without a photo (placeholder) rather than show a different dish: mechový dort,
+  boží milosti, čočka na kyselo, hrachová kaše, koprová omáčka, pařížský salát, perníková buchta, smažený hermelín,
+  svatomartinská husa, tarhoňa.
 
 ## v2 (2026-11-11): delivery-app redesign
 - Look: Canva logo (retraced as SVG), favicons, 16 category icons, 4 illustrations; Bricolage Grotesque + Figtree; red/pink/yellow tokens.
