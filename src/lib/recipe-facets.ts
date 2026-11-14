@@ -426,7 +426,7 @@ const NUM = (v: string | null) => {
   return Number.isFinite(n) && n > 0 ? n : null;
 };
 
-export function recipeFiltersToQuery(f: RecipeFilters): string {
+export function recipeFiltersToQuery(f: RecipeFilters, page = 1): string {
   const p = new URLSearchParams();
   if (f.q.trim()) p.set('q', f.q.trim());
   if (f.meals.length) p.set('typ', CSV(f.meals));
@@ -443,6 +443,7 @@ export function recipeFiltersToQuery(f: RecipeFilters): string {
   if (f.have.length) p.set('doma', CSV(f.have));
   if (f.have.length && f.maxMissing !== null) p.set('chybi', String(f.maxMissing));
   if (f.sort !== 'doporucene') p.set('razeni', f.sort);
+  if (page > 1) p.set('strana', String(page));
   const s = p.toString();
   return s ? `?${s}` : '';
 }
@@ -472,4 +473,23 @@ export function parseRecipeQuery(search: string): RecipeFilters {
     maxMissing: have.length && missing !== null && /^[0-9]$/.test(missing) ? Number(missing) : null,
     sort: RECIPE_SORTS.some((s) => s.key === sort) ? (sort as RecipeSort) : 'doporucene',
   };
+}
+
+/** Page number from `?strana=`; anything that is not a sane positive integer means page 1. */
+export function parsePageParam(search: string): number {
+  const v = new URLSearchParams(search).get('strana');
+  return v !== null && /^[0-9]{1,3}$/.test(v) && Number(v) >= 1 ? Number(v) : 1;
+}
+
+/** Page numbers to show in the pager: first, last and a window around the current page, with 0 standing for "…". */
+export function pagerItems(current: number, total: number): number[] {
+  if (total <= 7) return Array.from({ length: total }, (_, i) => i + 1);
+  const set = new Set([1, total, current - 1, current, current + 1].filter((n) => n >= 1 && n <= total));
+  const sorted = [...set].sort((a, b) => a - b);
+  const out: number[] = [];
+  for (const n of sorted) {
+    if (out.length && n - out[out.length - 1]! > 1) out.push(0);
+    out.push(n);
+  }
+  return out;
 }

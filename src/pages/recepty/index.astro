@@ -11,8 +11,8 @@ import { EMPTY_RECIPE_FILTERS, applyRecipeFilters, facetCounts } from '@/lib/rec
 const { recipes } = await recipeIndex();
 const hubs = await RECIPE_HUBS();
 const occasionHubs = hubs.filter((h) => h.slug.startsWith('prilezitosti/'));
-// First page for the server-rendered HTML (crawlable, no layout jump); the island takes over after hydration.
-const initial = applyRecipeFilters(recipes, EMPTY_RECIPE_FILTERS, new Date()).slice(0, 24);
+// First page (18 recipes) for the server-rendered HTML (crawlable, no layout jump); the island takes over after hydration.
+const initial = applyRecipeFilters(recipes, EMPTY_RECIPE_FILTERS, new Date()).slice(0, 18);
 const initialCounts = facetCounts(recipes, EMPTY_RECIPE_FILTERS);
 const categories = Object.entries(CATEGORY_LABELS)
   .filter(([id]) => recipes.some((r) => r.category === id))

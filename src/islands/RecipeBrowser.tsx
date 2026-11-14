@@ -15,6 +15,8 @@ import {
   applyRecipeFilters,
   facetCounts,
   haveMatch,
+  pagerItems,
+  parsePageParam,
   parseRecipeQuery,
   recipeFilterCount,
   recipeFiltersToQuery,
@@ -47,7 +49,7 @@ interface Index {
   ingredients: { id: string; name: string }[];
 }
 
-const PAGE = 24;
+const PAGE = 18;
 const STORE = 'damenic:recipes:v1';
 const toggle = <T,>(list: T[], v: T): T[] => (list.includes(v) ? list.filter((x) => x !== v) : [...list, v]);
 const cz = (n: number, one: string, few: string, many: string) => (n === 1 ? one : n >= 2 && n <= 4 ? few : many);
@@ -68,12 +70,12 @@ const presetOff = (f: RecipeFilters, p: Preset): RecipeFilters => {
   return next as unknown as RecipeFilters;
 };
 
-function readSaved(): { search: string; pages: number; y: number } | null {
+function readSaved(): { search: string; y: number } | null {
   try {
-    const v = JSON.parse(sessionStorage.getItem(STORE) ?? 'null') as { search?: unknown; pages?: unknown; y?: unknown; t?: unknown } | null;
-    if (!v || typeof v.search !== 'string' || typeof v.pages !== 'number' || typeof v.y !== 'number' || typeof v.t !== 'number') return null;
-    if (Date.now() - v.t > 30 * 60_000 || v.pages < 1 || v.pages > 60) return null;
-    return { search: v.search, pages: v.pages, y: v.y };
+    const v = JSON.parse(sessionStorage.getItem(STORE) ?? 'null') as { search?: unknown; y?: unknown; t?: unknown } | null;
+    if (!v || typeof v.search !== 'string' || typeof v.y !== 'number' || typeof v.t !== 'number') return null;
+    if (Date.now() - v.t > 30 * 60_000 || v.y < 0 || v.y > 200_000) return null;
+    return { search: v.search, y: v.y };
   } catch {
     return null;
   }
@@ -91,13 +93,12 @@ export default function RecipeBrowser({ categories, occasions, total, initial, i
   const [haveOpen, setHaveOpen] = useState(false);
   const [pick, setPick] = useState('');
   const [typing, setTyping] = useState(false);
-  const [pages, setPages] = useState(1);
+  const [page, setPage] = useState(1);
   const [ready, setReady] = useState(false);
   const [now, setNow] = useState<Date | null>(null);
-  const pagesRef = useRef(1);
-  const sentinel = useRef<HTMLDivElement>(null);
   const restored = useRef(false);
-  pagesRef.current = pages;
+  const prevKey = useRef<string | null>(null);
+  const top = useRef<HTMLDivElement>(null);
 
   const n = recipeFilterCount(f);
   const labels = useMemo(
@@ -111,7 +112,10 @@ export default function RecipeBrowser({ categories, occasions, total, initial, i
 
   // state from the URL, then the index in the background
   useEffect(() => {
-    setF(parseRecipeQuery(location.search));
+    const parsed = parseRecipeQuery(location.search);
+    prevKey.current = recipeFiltersToQuery(parsed);
+    setF(parsed);
+    setPage(parsePageParam(location.search));
     setNow(new Date());
     setReady(true);
     const load = () =>
@@ -128,20 +132,28 @@ export default function RecipeBrowser({ categories, occasions, total, initial, i
   useEffect(() => {
     if (!ready) return;
     const t = window.setTimeout(() => {
-      const q = recipeFiltersToQuery(f);
+      const q = recipeFiltersToQuery(f, page);
       if (q !== location.search) history.replaceState(null, '', `${location.pathname}${q}${location.hash}`);
     }, 250);
     return () => window.clearTimeout(t);
-  }, [f, ready]);
+  }, [f, page, ready]);
 
+  // a changed filter or sort starts again from page 1 (the first run after the URL was read does not count)
   useEffect(() => {
-    setPages(1);
-  }, [f]);
+    if (!ready) return;
+    const key = recipeFiltersToQuery(f);
+    if (key !== prevKey.current) {
+      prevKey.current = key;
+      setPage(1);
+    }
+  }, [f, ready]);
 
   const filtered = n > 0 || f.sort !== 'doporucene';
   const list = useMemo(() => (idx && now ? applyRecipeFilters(idx.recipes, f, now) : null), [idx, f, now]);
   const counts = useMemo<FacetCounts>(() => (idx ? facetCounts(idx.recipes, f) : initialCounts), [idx, f, initialCounts]);
-  const shown = list ? list.slice(0, pages * PAGE) : filtered ? [] : initial;
+  const pageCount = Math.max(1, Math.ceil((list ? list.length : total) / PAGE));
+  const current = Math.min(page, pageCount);
+  const shown = list ? list.slice((current - 1) * PAGE, current * PAGE) : filtered ? [] : initial;
   const loading = !list && filtered;
   const resultCount = list ? list.length : filtered ? null : total;
 
@@ -150,15 +162,12 @@ export default function RecipeBrowser({ categories, occasions, total, initial, i
     if (!idx || restored.current) return;
     restored.current = true;
     const s = readSaved();
-    if (s && s.search === location.search) {
-      setPages(s.pages);
-      window.requestAnimationFrame(() => window.scrollTo(0, s.y));
-    }
+    if (s && s.search === location.search) window.requestAnimationFrame(() => window.scrollTo(0, s.y));
   }, [idx]);
   useEffect(() => {
     const save = () => {
       try {
-        sessionStorage.setItem(STORE, JSON.stringify({ search: location.search, pages: pagesRef.current, y: Math.round(window.scrollY), t: Date.now() }));
+        sessionStorage.setItem(STORE, JSON.stringify({ search: location.search, y: Math.round(window.scrollY), t: Date.now() }));
       } catch {
         /* private mode: nothing to remember */
       }
@@ -174,19 +183,13 @@ export default function RecipeBrowser({ categories, occasions, total, initial, i
     };
   }, []);
 
-  // endless scroll; the button below stays for keyboards and screen readers
-  useEffect(() => {
-    const el = sentinel.current;
-    if (!el || !list || typeof IntersectionObserver === 'undefined') return;
-    const io = new IntersectionObserver(
-      (entries) => {
-        if (entries.some((e) => e.isIntersecting)) setPages((p) => (p * PAGE < list.length ? p + 1 : p));
-      },
-      { rootMargin: '700px 0px' },
-    );
-    io.observe(el);
-    return () => io.disconnect();
-  }, [list, pages]);
+  const goPage = (n: number) => {
+    setPage(n);
+    window.requestAnimationFrame(() => {
+      const y = (top.current?.getBoundingClientRect().top ?? 0) + window.scrollY - 150;
+      window.scrollTo({ top: Math.max(0, y) });
+    });
+  };
 
   const set = (patch: Partial<RecipeFilters>) => setF((prev) => ({ ...prev, ...patch }));
   const reset = () => setF({ ...EMPTY_RECIPE_FILTERS, sort: f.sort });
@@ -349,7 +352,7 @@ export default function RecipeBrowser({ categories, occasions, total, initial, i
         <aside class="rb__side" aria-label="Filtry receptů">
           <FilterGroups f={f} set={set} counts={counts} categories={categories} occasions={occasions} />
         </aside>
-        <div class="rb__main">
+        <div class="rb__main" ref={top}>
           <h2 class="sr-only">Nalezené recepty</h2>
           {loading && (
             <div class="grid grid--dishes" aria-hidden="true">
@@ -365,12 +368,28 @@ export default function RecipeBrowser({ categories, occasions, total, initial, i
               ))}
             </div>
           )}
-          {list && list.length > shown.length && (
-            <div ref={sentinel} style="text-align:center;margin-top:24px">
-              <button type="button" class="btn btn--ghost" onClick={() => setPages((p) => p + 1)} data-testid="more-recipes">
-                Zobrazit dalších {Math.min(PAGE, list.length - shown.length)}
+          {list && pageCount > 1 && (
+            <nav class="rb__pager" aria-label="Stránkování" data-testid="recipe-pager">
+              <button type="button" class="fchip" disabled={current <= 1} onClick={() => goPage(current - 1)}>
+                ‹ Předchozí
               </button>
-            </div>
+              <ul>
+                {pagerItems(current, pageCount).map((n, i) => (
+                  <li key={`${n}-${i}`}>
+                    {n === 0 ? (
+                      <span aria-hidden="true">…</span>
+                    ) : (
+                      <button type="button" class={`fchip ${n === current ? 'is-on' : ''}`} aria-current={n === current ? 'page' : undefined} aria-label={`Strana ${n}`} onClick={() => goPage(n)}>
+                        {n}
+                      </button>
+                    )}
+                  </li>
+                ))}
+              </ul>
+              <button type="button" class="fchip" disabled={current >= pageCount} onClick={() => goPage(current + 1)} data-testid="next-page">
+                Další ›
+              </button>
+            </nav>
           )}
           {list && list.length === 0 && (
             <div class="empty" data-testid="recipe-empty">

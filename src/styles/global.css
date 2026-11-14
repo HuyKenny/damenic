@@ -3695,3 +3695,30 @@ dialog.dlg--drawer {
     display: none;
   }
 }
+
+.rb__pager {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin: 28px 0 8px;
+}
+.rb__pager ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  align-items: center;
+}
+.rb__pager li .fchip {
+  min-width: 44px;
+  justify-content: center;
+  padding: 0 8px;
+}
+.rb__pager [aria-hidden='true'] {
+  padding: 0 4px;
+  color: var(--muted);
+}

@@ -9,6 +9,8 @@ import {
   wordMatches,
   deriveFacets,
   haveMatch,
+  pagerItems,
+  parsePageParam,
   parseRecipeQuery,
   recipeFilterCount,
   recipeFiltersToQuery,
@@ -162,5 +164,22 @@ describe('faceted counts and dead-end help', () => {
     expect(wordMatches('svickova na smetane', 'smetana')).toBe(true);
     expect(wordMatches('gulas', 'guly')).toBe(false); // short words must match exactly
     expect(suggestTitles(all, 'tira').map((x) => x.id)).toEqual(['d']);
+  });
+});
+
+describe('paging', () => {
+  it('builds a compact pager with gaps', () => {
+    expect(pagerItems(1, 5)).toEqual([1, 2, 3, 4, 5]);
+    expect(pagerItems(1, 32)).toEqual([1, 2, 0, 32]);
+    expect(pagerItems(10, 32)).toEqual([1, 0, 9, 10, 11, 0, 32]);
+    expect(pagerItems(32, 32)).toEqual([1, 0, 31, 32]);
+  });
+  it('keeps the page in the URL and ignores junk', () => {
+    expect(recipeFiltersToQuery(EMPTY_RECIPE_FILTERS, 3)).toBe('?strana=3');
+    expect(recipeFiltersToQuery(EMPTY_RECIPE_FILTERS, 1)).toBe('');
+    expect(parsePageParam('?strana=4&cas=30')).toBe(4);
+    expect(parsePageParam('?strana=-2')).toBe(1);
+    expect(parsePageParam('?strana=abc')).toBe(1);
+    expect(parsePageParam('')).toBe(1);
   });
 });

@@ -150,3 +150,20 @@ test('facet hubs: diet, main ingredient and meal pages exist, list recipes and l
     await expect(page.getByRole('link', { name: /Doladit filtry/ })).toHaveAttribute('href', /\/recepty\/\?/);
   }
 });
+
+test('recipe browser: 18 recipes per page with a numbered pager and the page in the URL', async ({ page }) => {
+  await page.goto('/recepty/');
+  await hydrated(page.locator('body'));
+  await expect(page.getByTestId('recipe-pager')).toBeVisible();
+  await expect(page.getByTestId('recipe-results').locator('article')).toHaveCount(18);
+  const first = await page.getByTestId('recipe-results').locator('article h3').first().innerText();
+  await page.getByTestId('next-page').click();
+  await expect(page).toHaveURL(/strana=2/);
+  await expect(page.getByTestId('recipe-results').locator('article')).toHaveCount(18);
+  expect(await page.getByTestId('recipe-results').locator('article h3').first().innerText()).not.toBe(first);
+  await page.reload();
+  await expect(page.getByRole('button', { name: 'Strana 2' })).toHaveAttribute('aria-current', 'page');
+  // a new filter goes back to page 1
+  await page.getByRole('button', { name: 'Do 30 minut', exact: true }).first().click();
+  await expect(page).not.toHaveURL(/strana=/);
+});
