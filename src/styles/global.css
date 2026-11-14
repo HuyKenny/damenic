@@ -3613,9 +3613,9 @@ a.fchip {
 }
 .rb__quick .fchip {
   min-height: 40px;
-  padding: 0 14px 0 12px;
-  gap: 7px;
-  font-size: 0.9375rem;
+  padding: 0 12px 0 10px;
+  gap: 6px;
+  font-size: 0.9rem;
   border-color: transparent;
   background: #fff;
   box-shadow: var(--shadow);

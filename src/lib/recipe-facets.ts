@@ -314,7 +314,8 @@ export function applyRecipeFilters(all: RecipeSummary[], f: RecipeFilters, now: 
     case 'abeceda':
       return out.sort(byTitle);
     default:
-      return out.sort((a, b) => seasonal(b) - seasonal(a) || b.w - a.w || byTitle(a, b));
+      // helper recipes (a glaze, a dressing) are rarely what someone browsing wants to cook first
+      return out.sort((a, b) => seasonal(b) - seasonal(a) || b.w - (b.meal === 'omacka' ? 4 : 0) - (a.w - (a.meal === 'omacka' ? 4 : 0)) || byTitle(a, b));
   }
 }
 

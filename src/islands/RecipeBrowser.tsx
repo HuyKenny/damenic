@@ -201,7 +201,6 @@ export default function RecipeBrowser({ categories, occasions, total, initial, i
     { id: 'veg', label: 'Bez masa', patch: { diets: ['veg'] } },
     { id: 'vegan', label: 'Veganské', patch: { diets: ['vegan'] } },
     { id: 'gf', label: 'Bez lepku', patch: { diets: ['gf'] } },
-    { id: 'levne', label: 'Levně', patch: { maxCost: 40 } },
     ...(seasonIds.length ? [{ id: 'sezona', label: 'Svátky teď', patch: { occasions: seasonIds } }] : []),
   ];
 
