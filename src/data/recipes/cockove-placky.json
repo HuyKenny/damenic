@@ -1,0 +1,128 @@
+{
+  "title": "Čočkové placky z červené čočky",
+  "keywords": [
+    "čočkové placky",
+    "placky z červené čočky",
+    "čočkové placky recept",
+    "veganské placky"
+  ],
+  "image": "dish-cockove-placky-nula",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 20,
+  "cookMinutes": 15,
+  "waitMinutes": 60,
+  "waitLabel": "namáčení čočky a odpočinek těsta",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Čočkové placky z červené čočky jsou lehké placky bez mouky a bez vajec, které se smaží na pánvi dozlatova. Čočka se předem namočí, rozmixuje na řídké těsto a ochutí kmínem a kurkumou. Hlavní věc je správná hustota těsta, aby se placky daly otočit a nerozpadly se.",
+  "ingredients": [
+    {
+      "ingredient": "cocka-cervena",
+      "amount": 200,
+      "unit": "g",
+      "note": "suchá, půl hodiny namočená"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "note": "na namáčení a mixování"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "najemno nastrouhaná"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "na smažení"
+    },
+    {
+      "ingredient": "jogurt-recky",
+      "amount": 150,
+      "unit": "g",
+      "note": "k podávání, nebo rostlinný jogurt"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva do jogurtu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Čočku propláchni na sítku, dej do mísy, zalij 250 ml vlažné vody a nech 30 minut nabobtnat. Červená čočka je loupaná, proto nepotřebuje namáčet přes noc."
+    },
+    {
+      "text": "Čočku i s vodou dej do vysokého hrnku, přidej cibuli, česnek, kmín, kurkumu a sůl a rozmixuj tyčovým mixérem na hladké řídké těsto, podobné hustší palačinkové směsi. Nech ho 15 minut odpočinout, ať čočka ještě trochu zhoustne."
+    },
+    {
+      "text": "Jogurt promíchej se špetkou soli, citronovou šťávou a pažitkou. Dej stranou do lednice."
+    },
+    {
+      "text": "Na pánvi rozehřej 1 lžíci oleje na středně vysoký plamen. Nalij 1 naběračku těsta, kruhovým pohybem pánve rozlij placku na průměr asi 12 cm a smaž 2 až 3 minuty, dokud okraje nezezlátnou a povrch nevyschne."
+    },
+    {
+      "text": "Placku otoč a smaž ještě 1 až 2 minuty. Hotová je, když je z obou stran skvrnitě zlatá a uprostřed pevná. Postupuj dál, na každou další placku podle potřeby přidej trochu oleje, a hotové drž v teple v troubě na 80 °C."
+    },
+    {
+      "text": "Podávej horké s jogurtovým dipem nebo salátem z rajčat a okurky."
+    }
+  ],
+  "tips": [
+    "Pánev musí být dobře rozehřátá, ale ne kouřící. Když je moc studená, placka se rozpadne, když je přehřátá, zhnědne zvenku a uvnitř zůstane syrová.",
+    "Těsto před každou plackou promíchej, čočka se na dně usazuje.",
+    "Placky se dají ráno ohřát na suché pánvi a hodí se i studené do krabičky."
+  ],
+  "substitutions": [
+    "Červenou čočku můžeš nahradit žlutou loupanou, doba namáčení zůstává.",
+    "Pro veganskou variantu použij rostlinný jogurt s citronem.",
+    "Do těsta můžeš přidat hrst strouhané mrkve nebo špenátu."
+  ],
+  "faq": [
+    {
+      "q": "Proč se čočkové placky rozpadají?",
+      "a": "Většinou je těsto moc řídké nebo pánev příliš studená. Těsto má stékat z naběračky pomalu, ne téct jako voda. Přidej lžíci čočkové mouky nebo vloček a nech těsto 10 minut odpočinout."
+    },
+    {
+      "q": "Jde čočku nahradit hnědou?",
+      "a": "Hnědá čočka potřebuje namáčet přes noc a placky z ní mají tmavší a hrubší povrch. Lepší je červená nebo žlutá loupaná."
+    },
+    {
+      "q": "Jak dlouho se čočkové placky skladují?",
+      "a": "V lednici 2 dny, uložené v krabičce mezi papírem. Ohřej je na suché pánvi, v mikrovlnce změknou."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "title": "Tomahawk steak z trouby a pánve",
+  "category": "steak",
+  "servings": 3,
+  "activeMinutes": 30,
+  "cookMinutes": 85,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek steaku",
+  "difficulty": "náročnější",
+  "meal": "hlavni",
+  "keywords": [
+    "tomahawk steak",
+    "tomahawk steak recept",
+    "tomahawk steak v troubě",
+    "jak udělat tomahawk"
+  ],
+  "intro": "Tomahawk steak je silný hovězí žebrový steak s dlouhou kostí, který se peče reverse sear metodou: pomalu v troubě při 110 °C a nakonec zprudka na pánvi. Díky tomu je uvnitř rovnoměrně růžový. Řídíš se teploměrem: medium rare je 55 °C, hotové po odpočinku.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-tomahawk",
+      "amount": 1000,
+      "unit": "g",
+      "note": "jeden kus, tloušťka 5 cm, v pokojové teplotě",
+      "group": "Steak"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Steak"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Steak"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Steak"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "group": "Máslo"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "rozmáčknuté",
+      "group": "Máslo"
+    },
+    {
+      "ingredient": "rozmaryn",
+      "amount": 3,
+      "unit": "g",
+      "note": "2 snítky",
+      "group": "Máslo"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Máslo"
+    },
+    {
+      "ingredient": "fazolky-zelene",
+      "amount": 300,
+      "unit": "g",
+      "group": "Příloha"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Steak vyndej z lednice 1 hodinu předem. Osuš ho, osol celý ze všech stran a opepři. Troubu předehřej na 110 °C (horkovzduch 100 °C)."
+    },
+    {
+      "section": "Pomalé pečení",
+      "text": "Polož steak na rošt nad plechem, zapíchni teploměr do nejsilnějšího místa a peč 60 až 80 minut. Pro medium rare vytáhni při 48 až 50 °C, pro medium při 53 °C."
+    },
+    {
+      "section": "Příloha",
+      "text": "Mezitím vař fazolky 5 minut v osolené vodě a scedi. Dohotov je na másle až těsně před podáváním."
+    },
+    {
+      "section": "Zprudka",
+      "text": "Steak vyndej, pánev nech rozpálit do kouře. Přidej olej a smaž steak po 1,5 až 2 minutách z každé strany i na hranách, do hluboké hnědé kůrky."
+    },
+    {
+      "section": "Máslo",
+      "text": "Ztlum oheň, přidej máslo, česnek, rozmarýn a tymián a 30 sekund steak přelévej máslem."
+    },
+    {
+      "section": "Odpočinek",
+      "text": "Nech steak 15 minut odpočinout pod volným alobalem. Konečná teplota vzroste o 3 až 5 °C: rare 52, medium rare 55, medium 60, well done 70 a víc. Nakrájej proti vláknům."
+    }
+  ],
+  "tips": [
+    "Teploměr není luxus. Silný kus se oko neodhadne.",
+    "Sůl na povrchu steaku vytáhne trochu vlhkosti, kterou před pečením osuš. Proto steak solíš dřív, ne až na pánvi.",
+    "Steak řež od kosti na plátky proti vláknům, bude měkčí."
+  ],
+  "substitutions": [
+    "Tomahawk nahradíš silným ribeye bez kosti, bude hotový o 15 až 20 minut dřív.",
+    "Rozmarýn nahradíš čerstvým tymiánem nebo šalvějí.",
+    "Fazolky nahradíš pečenými bramborami nebo salátem."
+  ],
+  "faq": [
+    {
+      "q": "Při jaké teplotě je tomahawk hotový?",
+      "a": "Rare 52 °C, medium rare 55 °C, medium 60 °C, well done 70 °C a víc. Teplota vzroste o 3 až 5 stupňů při odpočinku."
+    },
+    {
+      "q": "Co je reverse sear?",
+      "a": "Steak se nejdřív pomalu dopeče v troubě a teprve potom krátce a prudce opečeš na pánvi. Je rovnoměrně propečený."
+    },
+    {
+      "q": "Dá se tomahawk upéct jen na pánvi?",
+      "a": "Silný kus ne, vnitřek by zůstal studený. Potřebuješ troubu nebo gril."
+    }
+  ],
+  "image": "dish-tomahawk-steak",
+  "vegetarian": false
+}

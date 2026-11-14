@@ -1,0 +1,93 @@
+{
+  "title": "Domácí vanilkový pudink",
+  "keywords": [
+    "domácí pudink",
+    "domácí vanilkový pudink",
+    "vanilkový pudink recept",
+    "pudink ze škrobu"
+  ],
+  "image": "dish-domaci-pudink-sladke",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 8,
+  "waitMinutes": 120,
+  "waitLabel": "vychladnutí a ztuhnutí",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Domácí vanilkový pudink recept bez prášku z pytlíku: mléko, žloutky, cukr a škrob stačí na 4 porce za deset minut. Pudink je hustý, hladký a voní po skutečné vanilce. Při vaření je důležité míchat a chvíli ho nechat bublat, aby škrob zhoustl.",
+  "ingredients": [
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 40,
+      "unit": "g",
+      "note": "asi 5 lžic"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen žloutky"
+    },
+    {
+      "ingredient": "vanilka-lusk",
+      "amount": 1,
+      "unit": "ks",
+      "note": "podélně rozříznutý"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Z 100 ml studeného mléka vyšlehej škrob a žloutky do hladka. Zbytek mléka dej do hrnce s cukrem, špetkou soli a rozřízlým luskem vanilky, vyškrábanými semínky vrať do mléka."
+    },
+    {
+      "text": "Mléko přiveď k varu, lusk vyndej a hrnec stáhni z plamene. Do žloutkové směsi přilij 2 naběračky horkého mléka a rychle prošlehej, aby se žloutky srovnaly s teplotou."
+    },
+    {
+      "text": "Směs vlej zpět do hrnce a za stálého míchání šlehačem vař na mírném plameni, dokud pudink nezhoustne a 1 minutu nebublá, asi 3 až 4 minuty. Škrob musí povařit, jinak chutná syrově."
+    },
+    {
+      "text": "Nalij do skleniček nebo misek, povrch přikryj fólií, aby nevznikla blána, a nech vychladnout. V lednici ztuhne za 2 hodiny."
+    }
+  ],
+  "tips": [
+    "Škrob se musí vyšlehat se studeným mlékem, horké mléko ho srazí do hrudek.",
+    "Chceš čokoládový pudink? Vmíchej 2 lžíce kakaa se škrobem a přidej 30 g čokolády.",
+    "V lednici vydrží 3 dny, přikrytý fólií."
+  ],
+  "substitutions": [
+    "Lusk vanilky nahraď 10 g vanilkového cukru a zmenši cukr na 40 g.",
+    "Mléko nahraď ovesným nápojem a žloutky vynech, přidej ještě 10 g škrobu.",
+    "Škrob nahraď kukuřičným, pudink bude jemnější."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi pudink zhrudkovatěl?",
+      "a": "Škrob se přidal do horkého mléka nebo se málo míchalo. Vždy ho rozmíchej ve studeném mléce a při vaření stále šlehej."
+    },
+    {
+      "q": "Dá se domácí pudink podávat teplý?",
+      "a": "Ano. Hned po uvaření je krémový a lehce tekutý, v lednici dozahušťuje. Pro polévání buchet se hodí teplý."
+    },
+    {
+      "q": "Jak zabránit tvorbě blány?",
+      "a": "Povrch ještě teplého pudinku přikryj potravinářskou fólií tak, aby se dotýkala povrchu. Blána se tak nevytvoří."
+    }
+  ]
+}

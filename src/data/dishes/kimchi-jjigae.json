@@ -1,0 +1,24 @@
+{
+  "name": "Kimchi jjigae s tofu",
+  "section": "Rýže a knedlíčky",
+  "price": 17900,
+  "recipe": "kimchi-jjigae",
+  "vegetarian": false,
+  "order": 240,
+  "description": "Ostrý korejský guláš z kyselého kimchi, bůčku a tofu, podávaný s rýží.",
+  "about": [
+    "Kimchi jjigae je jídlo, které vzniklo z kimchi, jež už nebylo čerstvé. Čím kyselejší, tím lepší vývar.",
+    "Je to jednohrncové jídlo, které zůstane horké po celou dobu, co ho jíš."
+  ],
+  "spicy": 3,
+  "kind": "main",
+  "restaurant": "ramen-nedojde",
+  "image": "dish-kimchi-jjigae",
+  "allergens": [
+    1,
+    4,
+    6,
+    9,
+    11
+  ]
+}

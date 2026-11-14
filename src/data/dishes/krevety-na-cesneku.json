@@ -1,0 +1,21 @@
+{
+  "name": "Krevety na česneku",
+  "kind": "main",
+  "section": "Ryby a mořské plody",
+  "price": 31900,
+  "recipe": "krevety-na-cesneku",
+  "vegetarian": false,
+  "order": 60,
+  "description": "Krevety v olivovém oleji s česnekem, chilli a citronem. S chlebem na olej.",
+  "about": [
+    "Krevety jsou hotové za pár minut a nesnesou přepečení: stačí 2 až 3 minuty z jedné strany a stočí se do písmene C. Česnek se nesmí spálit, jinak zhořkne.",
+    "Steakárna Rare Příště ti krevety nepřiveze, ale chleba, olej a česnek najdeš doma. Pozor jen na čas, krevety nepočkají."
+  ],
+  "spicy": 1,
+  "restaurant": "steakarna-rare-priste",
+  "image": "dish-krevety-na-cesneku",
+  "allergens": [
+    1,
+    2
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Perníková chaloupka, stavebnice z těsta",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Těsto na stěny a střechu, karamel na lepení. Stavět se musí na vlastní zodpovědnost.",
+  "about": [
+    "Perníková chaloupka je projekt na odpoledne, ne dezert na pět minut. Tvrdé těsto z medu, másla a mouky odleží přes noc, rozválí se na pět milimetrů a vykrojí podle šablon. Po vychladnutí se lepí horkým karamelem, který tuhne rychleji než dobré úmysly.",
+    "Pod Stromkem se nic nedoručuje, takže stavba začíná u tebe v kuchyni. Doporučujeme asistenta s nůžkami a děti k dozoru."
+  ],
+  "price": 14900,
+  "image": "dish-pernikova-chaloupka-stromek",
+  "recipe": "testo-na-pernikovou-chaloupku",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 40
+}

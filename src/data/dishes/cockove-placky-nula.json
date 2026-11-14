@@ -1,0 +1,22 @@
+{
+  "name": "Čočkové placky s jogurtovým dipem",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Teplá jídla",
+  "price": 15900,
+  "recipe": "cockove-placky",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 200,
+  "description": "Zlaté placky z červené čočky s kmínem, k tomu chladivý jogurt s citronem a pažitkou.",
+  "about": [
+    "Červená čočka se namočí, rozmixuje a smaží na pánvi do zlata, a to bez mouky a bez vejce. Placky jsou jemné, lehce kořeněné kmínem a kurkumou a jogurtový dip s citronem dodá potřebnou kyselost.",
+    "V Zelené Nule je zelenina plná lednice, jen ty placky k tobě nedoletí. Recept ale funguje doma i bez kurýra a hotový bývá za dvacet minut aktivní práce."
+  ],
+  "optionGroups": [],
+  "image": "dish-cockove-placky-nula",
+  "allergens": [
+    7
+  ]
+}

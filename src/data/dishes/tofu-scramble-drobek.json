@@ -1,0 +1,23 @@
+{
+  "name": "Tofu scramble s kurkumou a špenátem",
+  "restaurant": "ani-drobek",
+  "kind": "main",
+  "section": "Misky",
+  "price": 13900,
+  "recipe": "tofu-scramble",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "order": 200,
+  "description": "Rozdrobené tofu opečené s paprikou a špenátem, žluté jako vajíčka, ale bez nich.",
+  "about": [
+    "Tofu scramble je veganská snídaně, která vypadá jako míchaná vejce, ale vejce v ní nenajdeš. Kurkuma dává barvu, kvasnicové vločky sýrovou chuť a uzená paprika kouřovou hloubku. Podává se s opečeným chlebem.",
+    "Ani drobek je smyšlený podnik, takže ani jeden drobek nedorazí. Recept je ovšem skutečný a funguje na pánvi za deset minut."
+  ],
+  "optionGroups": [],
+  "image": "dish-tofu-scramble-drobek",
+  "allergens": [
+    1,
+    6
+  ]
+}

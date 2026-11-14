@@ -1,0 +1,40 @@
+{
+  "name": "Kapustnice se švestkami a houbami",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Polévky",
+  "price": 11900,
+  "recipe": "kapustnice",
+  "vegetarian": false,
+  "order": 300,
+  "description": "Kysané zelí, uzené, klobáska a pár sušených švestek na zaoblení. Kyselost se tu učí slušnému chování.",
+  "about": [
+    "Kapustnice stojí na kysaném zelí, které se vaří aspoň 40 minut, aby změklo, a na uzeném, které dává polévce kouřový základ. Pár sušených švestek a hrst hub zaoblí kyselost, mouka zahustí.",
+    "Dobrá kapustnice se vaří den předem, protože druhý den je lepší. Doma vydrží 4 dny. U nás vydrží napořád, protože neexistuje."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "K polévce",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "chleb",
+          "name": "Krajíc chleba",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez",
+          "name": "Bez pečiva",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "image": "dish-kapustnice-prazdna-naberacka",
+  "allergens": [
+    1
+  ],
+  "spicy": 0
+}

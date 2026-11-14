@@ -1,0 +1,152 @@
+{
+  "title": "Domácí jitrnice z plecka, jater a krup",
+  "keywords": [
+    "jitrnice",
+    "domácí jitrnice",
+    "jitrnice recept",
+    "jitrnice z jater",
+    "zabijačkové jitrnice"
+  ],
+  "image": "dish-jitrnice-vycep-zitra",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 60,
+  "cookMinutes": 120,
+  "waitMinutes": 0,
+  "difficulty": "náročnější",
+  "meal": "hlavni",
+  "intro": "Domácí jitrnice je zabijačková specialita z vařeného vepřového plecka, jater a krup, plněná do střívek a prohřátá ve vodě. Recept na jitrnice je pracný, ale vyplatí se: výsledek je jemný, plný majoránky a bez chemie. Rozhodují dvě věci: kroupy musí být předvařené a jitrnice se nikdy nevaří prudce, jinak prasknou.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-plecko",
+      "amount": 400,
+      "unit": "g",
+      "note": "nakrájené na kusy",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "veprova-jatra",
+      "amount": 200,
+      "unit": "g",
+      "note": "očištěná od blan",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "kroupy",
+      "amount": 150,
+      "unit": "g",
+      "note": "namočené přes noc",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "čerstvě mletý",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 4,
+      "unit": "ks",
+      "note": "rozdrcené",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "na vaření",
+      "group": "Vaření"
+    },
+    {
+      "ingredient": "veprove-strevo",
+      "amount": 1,
+      "unit": "ks",
+      "note": "střívko na 6 jitrnic, namočené",
+      "group": "Vaření"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kolečka, na osmažení",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kroupy namočené přes noc uvař v osolené vodě 40 minut do změknutí, slij a nech vychladnout. Plecko vař ve vodě s polovinou cibule 60 minut, až je měkké."
+    },
+    {
+      "text": "Vařené plecko a očištěná játra nech projít hrubším nástavcem mlýnku na maso. Přidej kroupy, zbylou cibuli, česnek, majoránku, pepř, nové koření a sůl a důkladně promíchej."
+    },
+    {
+      "text": "Střívko natáhni na nástavec nebo lijku a hmotu naplň jen do dvou třetin, protože kroupy ve vodě bobtnají. Střívko po 12 cm zavaž nití a několikrát propíchni jehlou."
+    },
+    {
+      "text": "Ve velkém hrnci ohřej vodu na 80 až 85 °C, nesmí vřít. Jitrnice vlož a prohřívej 40 minut. Uvnitř musí mít aspoň 75 °C."
+    },
+    {
+      "text": "Vyndej a nech 10 minut vychladnout. Jitrnice opeč na pánvi na sádle s cibulí dozlatova, aby pukla kůže a voněla majoránka. Podávej s chlebem a kysaným zelím."
+    }
+  ],
+  "tips": [
+    "Vodu nikdy nevař prudce, jitrnice by praskly. Teploměr s ostrým hrotem je nejjistější.",
+    "Náplň ochutnej před plněním: opeč lžičku na pánvi a dosol, pak ještě jednou.",
+    "Nenaplň střívko na doraz, kroupy a maso ještě nabobtnají.",
+    "Jitrnice v lednici vydrží 3 dny, v mrazáku 2 měsíce vařené."
+  ],
+  "substitutions": [
+    "Střívko lze vynechat: hmotu naplň do formy a zapékej při 160 °C 45 minut, vzniká jitrnový paštikový bochánek.",
+    "Plecko nahraď částí kolenního masa, bude želatinovitější.",
+    "Kroupy nahraď staršími rohlíky namočenými v mléce 100 g."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří jitrnice?",
+      "a": "Prohřívají se 40 minut ve vodě o teplotě 80 až 85 °C. Uvnitř musí dosáhnout 75 °C."
+    },
+    {
+      "q": "Proč jitrnice praskají?",
+      "a": "Voda vřela příliš prudce nebo bylo střívko přeplněné. Prohřívej jen pod bodem varu a plň do dvou třetin."
+    },
+    {
+      "q": "Dá se jitrnice zamrazit?",
+      "a": "Ano, uvařené a vychladlé vydrží 2 měsíce. Rozmrazuj v lednici a před podáváním opeč."
+    }
+  ]
+}

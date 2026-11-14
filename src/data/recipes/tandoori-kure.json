@@ -1,0 +1,160 @@
+{
+  "title": "Tandoori kuře z trouby",
+  "keywords": [
+    "tandoori kuře",
+    "tandoori recept",
+    "kuře tandoori z trouby",
+    "marináda tandoori"
+  ],
+  "image": "dish-tandoori-kure",
+  "category": "indicka",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 45,
+  "waitMinutes": 240,
+  "waitLabel": "marinování v lednici (4 až 24 hodin)",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Tandoori kuře je indické kuře marinované v jogurtu a koření, které se peče při vysoké teplotě v troubě. Kůže se opeče do červena a maso zůstane šťavnaté. Marinuj aspoň 4 hodiny, ideálně přes noc.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna-s-kosti",
+      "amount": 1000,
+      "unit": "g",
+      "note": "nebo 4 stehna, 3 hluboké zářezy do masa",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 200,
+      "unit": "g",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 20,
+      "unit": "g",
+      "note": "najemno nastrouhaný",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 5,
+      "unit": "ks",
+      "note": "prolisované",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "garam-masala",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "pro barvu",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kolečka",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na podávání",
+      "group": "K podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuřecí kousky osuš, do každého nařízni 3 hluboké zářezy až k masu, aby marináda pronikla do hloubky."
+    },
+    {
+      "text": "Všechny suroviny na marinádu smíchej do hladké pasty. Kuře důkladně potři, i do zářezů, přikryj a nech marinovat v lednici 4 až 24 hodin."
+    },
+    {
+      "text": "Troubu předehřej na 230 °C (horkovzduch 210 °C). Kuře ulož na rošt nad plech, aby okolo cirkulovalo teplo. Marinádu neotírej."
+    },
+    {
+      "text": "Peč 35 až 40 minut a v polovině otoč. Maso je hotové, když má v nejtlustším místě 75 °C a šťáva je čirá, u stehen s kostí je dobré 80 až 85 °C."
+    },
+    {
+      "text": "Na posledních 3 až 5 minut zapni gril pro tmavé skvrny na povrchu. Nech 5 minut odpočinout a podávej s cibulí a limetkou."
+    }
+  ],
+  "tips": [
+    "Jogurt musí být bílý, neslazený a plnotučný. Řidší jogurt marináda stéká.",
+    "Syrové maso nikdy neomývej, rozstřikuješ bakterie. Marinádu z mísy nepoužívej na podávání.",
+    "Kuřecí maso lze marinovat až 24 hodin, delší dobu už kyselina vadí."
+  ],
+  "substitutions": [
+    "Garam masalu lze nahradit směsí 1 lžička mletého kmínu a 1 lžička koriandru.",
+    "Stehna nahradí kuřecí prsa na kostky, peč je jen 20 minut do 75 °C.",
+    "Jogurt bílý lze nahradit řeckým jogurtem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho marinovat tandoori kuře?",
+      "a": "Minimálně 4 hodiny, ideálně přes noc. Do 24 hodin je kuře šťavnaté, delší marinování rozmělní strukturu."
+    },
+    {
+      "q": "Proč není moje tandoori kuře červené?",
+      "a": "Pravé tandoori má barvu z papriky a chilli. Dej do marinády dost sladké papriky (2 lžíce) a na závěr pečení zapni gril."
+    },
+    {
+      "q": "Jde tandoori kuře udělat bez trouby?",
+      "a": "Ano, na grilu 25 až 30 minut při nepřímém žáru, občas otoč. Vnitřních 75 °C je pravidlo."
+    }
+  ]
+}

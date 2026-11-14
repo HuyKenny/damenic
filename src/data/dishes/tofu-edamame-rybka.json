@@ -1,0 +1,23 @@
+{
+  "name": "Poke bowl s tofu a edamame",
+  "restaurant": "aloha-ani-rybka",
+  "kind": "main",
+  "section": "Losos a další",
+  "price": 21900,
+  "recipe": "poke-bowl-tofu",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "order": 200,
+  "description": "Opečené marinované tofu na sushi rýži s edamame, avokádem, okurkou a sezamem.",
+  "about": [
+    "Tofu se marinuje v sójové omáčce, sezamovém oleji a zázvoru a pak se opeče do zlatova. Na sushi rýži se k němu skládá edamame, avokádo, okurka, mrkev a nori. Je to poke bez ryby.",
+    "Aloha ani rybka je smyšlená, tak ryba není ani v názvu, ani v misce. Tofu ji ale nahradí docela zdařile."
+  ],
+  "optionGroups": [],
+  "image": "dish-tofu-edamame-rybka",
+  "allergens": [
+    6,
+    11
+  ]
+}

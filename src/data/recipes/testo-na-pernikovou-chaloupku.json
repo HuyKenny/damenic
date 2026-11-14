@@ -1,0 +1,124 @@
+{
+  "title": "Těsto na perníkovou chaloupku",
+  "keywords": [
+    "perníková chaloupka",
+    "těsto na perníkovou chaloupku",
+    "perníková chaloupka recept",
+    "perníková chaloupka těsto"
+  ],
+  "image": "dish-pernikova-chaloupka-stromek",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 60,
+  "cookMinutes": 40,
+  "waitMinutes": 720,
+  "waitLabel": "odležení těsta přes noc",
+  "difficulty": "náročnější",
+  "meal": "dezert",
+  "intro": "Těsto na perníkovou chaloupku recept na domek o základně asi 18 × 14 cm: tvrdé perníkové těsto z medu, másla a mouky, které při pečení nezměkne ani nenabobtná a drží tvar. Těsto musí přes noc odležet. Je to těsto na stavbu, ne na jídlo, takže se nehodí k jídlu hned po upečení, ale po dvou dnech zvláční.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "ingredient": "med",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "pernikove-koreni",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 5,
+      "unit": "g",
+      "note": "asi 1 lžička"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "note": "na karamel k lepení"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "do karamelu"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "V hrnci rozehřej med s cukrem a máslem, dokud se cukr nerozpustí. Nech 10 minut vychladnout. Mouku smíchej s kakaem, perníkovým kořením a sodou."
+    },
+    {
+      "section": "Těsto",
+      "text": "Do teplé medové směsi vmíchej vejce a suché suroviny. Zpracuj do hladkého těsta, zabal do fólie a nech přes noc, nejméně 12 hodin, odležet v chladu."
+    },
+    {
+      "section": "Těsto",
+      "text": "Troubu předehřej na 180 °C (horkovzduch 165 °C). Těsto rozválej na plech s pečicím papírem na plát silný 5 mm. Na plát přilož šablony stěn (2 × 18 × 12 cm, 2 × 14 × 12 cm, 2 střechy 20 × 12 cm) a ořízni je nožem."
+    },
+    {
+      "section": "Těsto",
+      "text": "Plát peč 10 až 12 minut. Ještě horký přilož šablony a ořízni přesné tvary, pak nech na mřížce úplně vychladnout a zatvrdnout."
+    },
+    {
+      "section": "Lepení",
+      "text": "Cukr s vodou vař na středním plameni, dokud nezíská světle jantarovou barvu, asi 6 minut. Pozor na horký karamel, je nad 160 °C a způsobí těžké popáleniny. Okraje stěn rychle namoč a přitiskni k sobě na 30 sekund. Karamel rychle tuhne, pracuj po jedné stěně."
+    }
+  ],
+  "tips": [
+    "Šablony vystřihni z kartonu a vyzkoušej si je, než začneš péct. Stěny musí do sebe zapadnout.",
+    "Těsto se po upečení zvětší jen minimálně, ale při horku se rozšíří. Proto ořezávej ještě horký plát.",
+    "Hotová chaloupka vydrží v suchu 2 týdny jako dekorace, po ní už se hodí spíš na drobení."
+  ],
+  "substitutions": [
+    "Med nahraď stejným množstvím tmavého sirupu nebo melasy.",
+    "Perníkové koření nahraď směsí skořice, zázvoru a hřebíčku.",
+    "Karamel na lepení nahraď rozehřátou čokoládou, drží pomaleji, ale je bezpečnější pro děti."
+  ],
+  "faq": [
+    {
+      "q": "Proč perníková chaloupka praskne?",
+      "a": "Těsto je moc tenké nebo prasklo při lepení. Rozválej na 5 mm a lep jen vychladlé díly."
+    },
+    {
+      "q": "Jak dlouho se těsto na perník nechává odležet?",
+      "a": "Aspoň 12 hodin v lednici. Těsto pak lépe drží tvar a pečivo je pevnější."
+    },
+    {
+      "q": "Dá se chaloupka sníst?",
+      "a": "Ano, ale tvrdá chaloupka je primárně dekorace. Po několika dnech v suchu zvláční a dá se jíst jako perník."
+    }
+  ],
+  "occasions": [
+    "vanoce"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Ořechová bábovka s čokoládou",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Vláčná bábovka z mletých vlašských ořechů, na vrchu čokoládová poleva.",
+  "about": [
+    "Ořechová bábovka se pozná podle vůně dřív než podle chuti. Mleté vlašské ořechy dodají těstu vláčnost a tmavší barvu, skořice ji podpoří a čokoládová poleva na konci utvrdí dojem, že jsi na to čekal celé odpoledne.",
+    "Nedortík dorty jen krájí ve vzduchu, bábovka je ale skutečná. Až ji vyklopíš z formy, dej si pozor, ať se nerozlomí, a pak ji nech klidně vydržet do druhého dne."
+  ],
+  "price": 7500,
+  "image": "dish-orechova-babovka-nedortik",
+  "recipe": "orechova-babovka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "order": 22
+}

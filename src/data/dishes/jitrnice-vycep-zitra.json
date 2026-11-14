@@ -1,0 +1,41 @@
+{
+  "name": "Jitrnice s cibulkou a chlebem",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "price": 17900,
+  "recipe": "jitrnice",
+  "vegetarian": false,
+  "order": 310,
+  "description": "Domácí jitrnice z plecka a jater, opečená s cibulí. Zabijačka bez vepře na dvoře.",
+  "about": [
+    "Jitrnice je zabijačková klasika z vařeného plecka, jater a krup, ochucená majoránkou, pepřem a česnekem. Plní se do střívka jen do dvou třetin, prohřívá se při 80 až 85 °C a nikdy nevaří prudce, jinak praskne.",
+    "Pak se opeče na pánvi s cibulí a podává s chlebem a zelím. Doma je to odpoledne práce a odměna. Tady je to odpoledne a odměna chybí."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Doplnit",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "zeli",
+          "name": "Kysané zelí",
+          "priceDelta": 1500
+        },
+        {
+          "id": "okurka",
+          "name": "Kyselá okurka",
+          "priceDelta": 800
+        }
+      ],
+      "max": 2
+    }
+  ],
+  "image": "dish-jitrnice-vycep-zitra",
+  "allergens": [
+    1
+  ],
+  "spicy": 0
+}

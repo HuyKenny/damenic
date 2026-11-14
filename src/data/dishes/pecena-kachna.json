@@ -1,0 +1,19 @@
+{
+  "name": "Pečená kachna se zelím a knedlíky",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "price": 31900,
+  "recipe": "pecena-kachna",
+  "vegetarian": false,
+  "order": 170,
+  "description": "Celá kachna pečená 2,5 hodiny, s dušeným zelím a houskovými knedlíky.",
+  "about": [
+    "Pečená kachna je sváteční jídlo, které se vyplatí připravit den předem: kůže se osolí, vysuší a v troubě pak zkřupe. Tuk se musí průběžně odlévat.",
+    "Výčep Zítra ji slibuje, ale kachna se peče pomalu a nikdy nedorazí. Doma budeš čekat 3 hodiny a dostaneš se zelím i knedlíky."
+  ],
+  "restaurant": "vycep-zitra",
+  "image": "dish-pecena-kachna",
+  "allergens": [
+    1
+  ]
+}

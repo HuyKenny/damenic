@@ -1,0 +1,20 @@
+{
+  "name": "Tandoori kuře",
+  "section": "Biryani a předkrmy",
+  "price": 22900,
+  "recipe": "tandoori-kure",
+  "vegetarian": false,
+  "order": 110,
+  "description": "Kuřecí stehna marinovaná v jogurtu a koření, pečená do červena a opečená na grilu.",
+  "about": [
+    "Tandoori kuře dostane barvu z papriky a chuť z jogurtové marinády, ve které leželo přes noc. V domácí troubě se tandúr nahrazuje horkým vzduchem a grilem.",
+    "Rozhoduje čas v marinádě, ne kuchařský um. Kuře si zaslouží aspoň čtyři hodiny, ty ale vzít nelze."
+  ],
+  "spicy": 2,
+  "kind": "main",
+  "restaurant": "tandoor-nanecisto",
+  "image": "dish-tandoori-kure",
+  "allergens": [
+    7
+  ]
+}

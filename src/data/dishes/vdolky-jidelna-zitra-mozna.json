@@ -1,0 +1,23 @@
+{
+  "name": "Vdolky s povidly a tvarohem",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Sladké jídlo",
+  "price": 12900,
+  "recipe": "vdolky",
+  "vegetarian": true,
+  "order": 330,
+  "description": "Kynuté placky smažené dozlatova, povidla, tvaroh a cukr. Hodina čekání stojí za to.",
+  "about": [
+    "Vdolky jsou ploché kynuté placky smažené v oleji při 170 °C, 2 až 3 minuty z každé strany. Po usmažení se potírají povidly a sypou tvarohem s cukrem a vanilkou. Těsto kyne hodinu a nemá se přemoučit.",
+    "Jedí se teplé, druhý den ztvrdnou. Doma je to svátek na odpoledne. U nás je to svátek bez vdolků."
+  ],
+  "optionGroups": [],
+  "image": "dish-vdolky-jidelna-zitra-mozna",
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "spicy": 0
+}

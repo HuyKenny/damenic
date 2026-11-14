@@ -1,0 +1,20 @@
+{
+  "name": "Pečená vepřová panenka s bylinkami",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "price": 25900,
+  "recipe": "pecena-veprova-panenka",
+  "vegetarian": false,
+  "order": 150,
+  "description": "Celá panenka v hořčici a bylinkách, pečená na bramborách a cibuli.",
+  "about": [
+    "Celá pečená panenka potřená hořčicí, česnekem a bylinkami je podobná jako jiné pečeně, jen se peče kratší dobu a je citlivější. Řídí se teploměrem, ne hodinami.",
+    "Výčep Zítra ji sice nenaservíruje, ale dnes to nevadí, protože dobrá panenka potřebuje 10 minut odpočinku, a to máš v receptu."
+  ],
+  "restaurant": "vycep-zitra",
+  "image": "dish-pecena-veprova-panenka",
+  "allergens": [
+    7,
+    10
+  ]
+}

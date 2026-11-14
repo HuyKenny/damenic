@@ -1,0 +1,122 @@
+{
+  "title": "Škubánky z brambor se škvarky a zelím",
+  "keywords": [
+    "škubánky",
+    "škubánky recept",
+    "bramborové škubánky",
+    "škubánky se škvarky",
+    "škubánky s mákem"
+  ],
+  "image": "dish-skubanky-vycep-zitra",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Škubánky jsou bramborové noky z vařených brambor, které se před vařením doslova škubou z těsta na kousky. Tenhle recept na škubánky je slaný, se škvarky, osmaženou cibulkou a kysaným zelím, a hotový za hodinu. Klíčem je moučná brambora a málo mouky, jinak jsou škubánky těžké jako cihla.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "moučné, oloupané, na čtvrtky",
+      "group": "Škubánky"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g",
+      "note": "plus na vál",
+      "group": "Škubánky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Škubánky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Škubánky"
+    },
+    {
+      "ingredient": "skvarky",
+      "amount": 100,
+      "unit": "g",
+      "note": "nahrubo nasekané",
+      "group": "Doprovod"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na půlkolečka",
+      "group": "Doprovod"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Doprovod"
+    },
+    {
+      "ingredient": "kysane-zeli",
+      "amount": 300,
+      "unit": "g",
+      "group": "Doprovod"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Doprovod"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař v osolené vodě asi 20 minut, až jsou měkké. Slij je, nech 3 minuty odpařit a prolisuj nebo rozmačkej do hladka. Nech vychladnout asi na 40 °C."
+    },
+    {
+      "text": "Do brambor přidej mouku, vejce a sůl. Zpracuj těsto jen do spojení. Má být měkké, ale držet tvar. Pokud lepí, přidej lžíci mouky."
+    },
+    {
+      "text": "V hrnci přiveď k varu osolenou vodu. Z těsta odškubávej kousky velikosti vlašského ořechu a vhazuj je do vody. Jakmile vyplavou, vař je ještě 4 minuty."
+    },
+    {
+      "text": "Mezitím na pánvi v sádle osmahni cibuli dozlatova, přidej škvarky a krátce prohřej. Zelí zvlášť ohřej s kmínem a trochou vody asi 8 minut."
+    },
+    {
+      "text": "Škubánky vyndej děrovanou naběračkou, smíchej je s cibulkou a škvarky a podávej s horkým zelím."
+    }
+  ],
+  "tips": [
+    "Použij moučné brambory a těsto neprohnětávej, glutenová síť dělá škubánky gumové.",
+    "Zkušební kousek vař dřív. Rozpadá-li se, přidej do těsta lžíci mouky.",
+    "Zbylé škubánky druhý den opeč na pánvi na sádle do křupava.",
+    "Zelí je lepší když je trochu nakyslé, osladit ho můžeš lžičkou cukru."
+  ],
+  "substitutions": [
+    "Škvarky nahraď osmaženou slaninou 80 g.",
+    "Sladká verze: škubánky obal v 70 g mletého máku a 50 g cukru a polij rozpuštěným máslem.",
+    "Vejce vynech, těsto bude jemnější, ale k vaření potřebuje o lžíci mouky víc."
+  ],
+  "faq": [
+    {
+      "q": "Proč se škubánky rozpadají?",
+      "a": "V těstě je málo mouky, nebo jsou brambory příliš vlhké. Brambory nech před smícháním odpařit a vyzkoušej zkušební kousek."
+    },
+    {
+      "q": "Čím se liší škubánky od šišek?",
+      "a": "Škubánky se odškubávají z těsta na nepravidelné kousky, šišky se válí do válečků. Těsto je podobné, tvar a podání se liší."
+    },
+    {
+      "q": "Jak dlouho se vaří škubánky?",
+      "a": "4 minuty od vyplavání, celkem asi 6 minut. Delší vaření je zbytečné a změkčí je."
+    }
+  ]
+}

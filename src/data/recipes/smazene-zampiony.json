@@ -1,0 +1,133 @@
+{
+  "title": "Smažené žampiony v trojobalu s tatarkou",
+  "keywords": [
+    "smažené žampiony",
+    "smažené žampiony recept",
+    "žampiony v trojobalu",
+    "smažené žampiony s tatarkou",
+    "smažené houby"
+  ],
+  "image": "dish-smazene-zampiony-u-prazdneho-talire",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Smažené žampiony jsou celé nebo půlené houby obalené v mouce, vejci a strouhance a osmažené dozlatova během 3 minut. Recept na smažené žampiony je hospodská klasika, která se obejde bez masa. Aby se žampiony nerozmočily, kupuj pevné a suché a neomývej je pod proudem vody.",
+  "ingredients": [
+    {
+      "ingredient": "zampiony",
+      "amount": 500,
+      "unit": "g",
+      "note": "menší, celé nebo půlené",
+      "group": "Žampiony"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "rozšlehaná",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 120,
+      "unit": "g",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Žampiony"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Žampiony"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 400,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Žampiony"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 120,
+      "unit": "g",
+      "group": "Tatarka"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 60,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Tatarka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 30,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Tatarka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "jen šťáva",
+      "group": "Tatarka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Žampiony otři vlhkým hadříkem, nemoč je. Menší nech celé, větší rozpůl. Osol a opepři a 5 minut nech odležet na papírové utěrce, ať pustí vodu."
+    },
+    {
+      "text": "Připrav tři talíře: mouku, rozšlehaná vejce a strouhanku. Houby obal v mouce, pak ve vejci a nakonec ve strouhance. Strouhanku jemně přitlač dlaní."
+    },
+    {
+      "text": "Olej rozehřej v hrnci nebo pánvi na 175 °C do hloubky 3 cm. Po dávkách smaž 2 až 3 minuty, dokud obal není zlatý."
+    },
+    {
+      "text": "Vyndej na papírovou utěrku. Majonézu smíchej s okurkami, cibulí a citronem na tatarku a podávej hned, dokud jsou žampiony křupavé."
+    }
+  ],
+  "tips": [
+    "Žampiony neomývej pod vodou, nasají ji a obal se oddělí.",
+    "Smaž po malých dávkách. Příliš mnoho najednou sníží teplotu oleje.",
+    "Pokud smažíš větší množství, drž hotové v troubě při 100 °C.",
+    "Smažené žampiony nevydrží křupavé déle než 20 minut."
+  ],
+  "substitutions": [
+    "Žampiony nahraď hlívou ústřičnou, trhej na pásky.",
+    "Pro bezlepkovou variantu použij kukuřičnou strouhanku a místo mouky kukuřičný škrob.",
+    "Tatarku nahraď kyselou smetanou s pažitkou."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se smaží žampiony?",
+      "a": "2 až 3 minuty při 175 °C. Obal má být zlatý, houba uvnitř měkká a šťavnatá."
+    },
+    {
+      "q": "Proč se obal ze žampionů odlupuje?",
+      "a": "Houby byly vlhké nebo se obalení nepřitlačilo. Osuš je a nech po obalení 5 minut odležet."
+    },
+    {
+      "q": "Dají se žampiony upéct místo smažení?",
+      "a": "Ano, při 220 °C (horkovzduch 200 °C) 12 až 15 minut po potření olejem. Obal nebude tak křupavý."
+    }
+  ]
+}

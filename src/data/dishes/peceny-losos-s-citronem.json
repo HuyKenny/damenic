@@ -1,0 +1,20 @@
+{
+  "name": "Pečený losos s citronem a koprem",
+  "kind": "main",
+  "section": "Ryby a mořské plody",
+  "price": 32900,
+  "recipe": "peceny-losos-s-citronem",
+  "vegetarian": false,
+  "order": 20,
+  "description": "Filet lososa pečený na plechu s bramborami, citronem a koprem.",
+  "about": [
+    "Losos je hotový při 63 °C, což u filetu trvá kolem 12 minut. Kůže chrání maso před vyschnutím, brambory se pečou napřed a vše je hotové ve stejnou chvíli.",
+    "Steakárna Rare Příště ti lososa nepřiveze, ale plech, citron a kopr zvládneš sám. Rybu jíš vlastně už tehdy, když se maso dělí na plátky."
+  ],
+  "restaurant": "steakarna-rare-priste",
+  "image": "dish-peceny-losos-s-citronem",
+  "allergens": [
+    4,
+    7
+  ]
+}

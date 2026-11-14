@@ -1,0 +1,101 @@
+{
+  "title": "Proteinový shake s banánem a arašídovým máslem",
+  "keywords": [
+    "proteinový shake",
+    "proteinový koktejl",
+    "shake s banánem",
+    "proteinový shake recept"
+  ],
+  "image": "dish-proteinovy-shake-vymackame",
+  "category": "napoje",
+  "vegetarian": true,
+  "servings": 1,
+  "activeMinutes": 5,
+  "cookMinutes": 0,
+  "waitMinutes": 5,
+  "waitLabel": "bobtnání vloček v mléce",
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "intro": "Proteinový shake s banánem, ovesnými vločkami a arašídovým máslem je hustý koktejl na snídani nebo po tréninku. Sytí na několik hodin. Aby nebyl hrudkovitý, nech vločky chvíli nabobtnat v mléce.",
+  "ingredients": [
+    {
+      "ingredient": "mleko",
+      "amount": 300,
+      "unit": "ml",
+      "note": "studené"
+    },
+    {
+      "ingredient": "ovesne-vlocky",
+      "amount": 30,
+      "unit": "g",
+      "note": "jemné"
+    },
+    {
+      "ingredient": "banan",
+      "amount": 1,
+      "unit": "ks",
+      "note": "zralý, nejlépe zmrazený"
+    },
+    {
+      "ingredient": "protein-prasek",
+      "amount": 30,
+      "unit": "g",
+      "note": "vanilkový, jedna odměrka"
+    },
+    {
+      "ingredient": "arasidove-maslo",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "hladké, bez cukru"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "led-do-napoju",
+      "amount": 60,
+      "unit": "g",
+      "note": "pokud není banán mražený"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vločky zalij polovinou mléka (150 ml) a nech 5 minut nabobtnat. Vločky změknou a koktejl bude hladší."
+    },
+    {
+      "text": "Banán oloupej a nakrájej na kolečka. Dej do mixéru spolu s vločkami, zbylým mlékem, proteinovým práškem, arašídovým máslem a skořicí."
+    },
+    {
+      "text": "Mixuj 45 až 60 sekund na nejvyšší stupeň, dokud není směs hladká a bez hrudek. Podle hustoty přidej led nebo 2 lžíce mléka."
+    },
+    {
+      "text": "Ochutnej, případně dosládi banánem nebo lžičkou medu. Nalij do sklenice a vypij hned, v mixéru se koktejl usazuje."
+    }
+  ],
+  "tips": [
+    "Zmrazený banán dá koktejlu zmrzlinovou konzistenci a nepotřebuješ led.",
+    "Proteinový prášek přidej až po mléku, jinak se přilepí ke dnu mixéru a vytvoří hrudky.",
+    "Jeden shake nenahradí plné jídlo, ale hodí se na rychlou snídani nebo svačinu."
+  ],
+  "substitutions": [
+    "Mléko nahraď ovesným nebo sójovým, bílkoviny se trochu změní.",
+    "Bez proteinového prášku použij 150 g bílého tvarohu nebo jogurtu.",
+    "Arašídové máslo můžeš zaměnit za mandlové nebo tahini."
+  ],
+  "faq": [
+    {
+      "q": "Kolik bílkovin má tento proteinový shake?",
+      "a": "Zhruba 35 až 40 g. Prášek dodá kolem 24 g, mléko, vločky a arašídové máslo dalších asi 15 g."
+    },
+    {
+      "q": "Dá se shake připravit dopředu?",
+      "a": "Nejlíp ho vypij hned. V lednici vydrží několik hodin, ale oddělí se a zhoustne. Před pitím ho protřepej."
+    },
+    {
+      "q": "Proč je můj proteinový shake hrudkovitý?",
+      "a": "Prášek nebyl dostatečně rozmixovaný nebo se slepil se suchými vločkami. Mixuj déle a nejdřív nalij tekutinu."
+    }
+  ]
+}

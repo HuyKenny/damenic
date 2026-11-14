@@ -1,0 +1,158 @@
+{
+  "title": "Poke bowl s marinovaným tofu a edamame",
+  "keywords": [
+    "poke bowl tofu",
+    "veganský poke bowl",
+    "poke bowl bez ryby",
+    "poke bowl s tofu"
+  ],
+  "image": "dish-tofu-edamame-rybka",
+  "category": "poke",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 30,
+  "waitLabel": "marinování tofu",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Poke bowl s tofu je veganská varianta havajské misky, kde syrovou rybu nahrazuje marinované a opečené tofu. Základem je sushi rýže, edamame, avokádo a čerstvá zelenina, polité sójovo-sezamovou marinádou. Tofu musí být pevné a dobře vymačkané, aby se opeklo a vsáklo marinádu.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-sushi",
+      "amount": 180,
+      "unit": "g"
+    },
+    {
+      "ingredient": "tofu",
+      "amount": 300,
+      "unit": "g",
+      "note": "pevné, vymačkané"
+    },
+    {
+      "ingredient": "edamame",
+      "amount": 120,
+      "unit": "g",
+      "note": "loupané, rozmražené"
+    },
+    {
+      "ingredient": "avokado",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 0.5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 80,
+      "unit": "g",
+      "note": "na tenké hobliny"
+    },
+    {
+      "ingredient": "redkev-bila",
+      "amount": 40,
+      "unit": "g",
+      "note": "nepovinná"
+    },
+    {
+      "ingredient": "nori",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na proužky"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "zazvor-nakladany",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "ocet-ryzovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "javorovy-sirup",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na opečení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýži propláchni 4 až 5krát studenou vodou, dokud voda není skoro čirá. Uvař ji podle návodu, nech 10 minut odpočinout pod pokličkou a pak rozprostři do mísy."
+    },
+    {
+      "text": "Tofu zabal do utěrky a na 10 minut zatěžkej, ať odtéká tekutina. Pak ho nakrájej na kostky o hraně 2 cm."
+    },
+    {
+      "text": "Marinádu promíchej v misce: sójová omáčka, sezamový olej, ocet, javorový sirup a zázvor. Tofu v ní nech 30 minut marinovat, občas převrať."
+    },
+    {
+      "text": "Tofu vyndej a osuš. Na pánvi rozehřej slunečnicový olej na středně vysoký plamen a opékej 6 až 8 minut, dokud nejsou kostky ze všech stran zlatavé. Zbylou marinádu přidej na poslední minutu, ať zkaramelizuje."
+    },
+    {
+      "text": "Edamame krátce spař horkou vodou nebo prohřej v pánvi. Avokádo a okurku nakrájej, mrkev oloupej na hobliny."
+    },
+    {
+      "text": "Rýži rozděl do dvou misek, naskládej tofu, edamame a zeleninu a posyp sezamem, proužky nori a nakládaným zázvorem."
+    }
+  ],
+  "tips": [
+    "Rýže na sushi má být vlažná, ne horká, jinak změkne avokádo.",
+    "Tofu můžeš marinovat přes noc v lednici. Čím déle, tím je slanější.",
+    "Zbylou marinádu můžeš použít jako dresink na rýži, ale nejdřív ji 2 minuty povař."
+  ],
+  "substitutions": [
+    "Sushi rýži zastoupí jasmínová nebo rýže natural.",
+    "Edamame nahraď zeleným hráškem nebo kukuřicí.",
+    "Do misky přidej mango nebo ananas pro sladkokyselý kontrast."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat tofu křupavé do poke bowlu?",
+      "a": "Dobře ho vymačkej, osuš a opékej na vysoké teplotě bez míchání, dokud se nevytvoří kůrka. Lžička kukuřičného škrobu v marinádě na pánvi pomůže."
+    },
+    {
+      "q": "Čím nahradit sushi rýži?",
+      "a": "Kulatozrnnou rýží nebo jasmínovou. Hlavní je, aby lepila, jinak bowl ztratí tvar."
+    },
+    {
+      "q": "Je tento poke bowl bez lepku?",
+      "a": "Ne, sójová omáčka obvykle obsahuje pšenici. Pro bezlepkovou variantu použij tamari s označením bez lepku."
+    }
+  ]
+}

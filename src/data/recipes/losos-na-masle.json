@@ -1,0 +1,136 @@
+{
+  "title": "Losos na másle s kapary",
+  "category": "steak",
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 12,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "losos na másle",
+    "losos na pánvi",
+    "losos s křupavou kůží",
+    "losos s kapary a citronem"
+  ],
+  "intro": "Losos na másle s kapary je filet lososa opečený na pánvi kůží dolů, aby zkřupala, a nakonec zalitý nahnědlým máslem s česnekem, kapary a citronem. Losos je hotový při 63 °C a pánev musí být na začátku opravdu horká.",
+  "ingredients": [
+    {
+      "ingredient": "losos-filet",
+      "amount": 300,
+      "unit": "g",
+      "note": "2 filety po 150 g, s kůží",
+      "group": "Losos"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Losos"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Losos"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Losos"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "group": "Máslo"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "rozmáčknuté",
+      "group": "Máslo"
+    },
+    {
+      "ingredient": "kapary",
+      "amount": 10,
+      "unit": "g",
+      "group": "Máslo"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Máslo"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Máslo"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 200,
+      "unit": "g",
+      "group": "Příloha"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 400,
+      "unit": "ml",
+      "group": "Příloha"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příloha",
+      "text": "Rýži propláchni, dej s vodou do hrnce, osol, přiveď k varu, ztlum a vař pod pokličkou 12 minut, potom ji nech 10 minut odstát."
+    },
+    {
+      "section": "Příprava",
+      "text": "Filety důkladně osuš papírovou utěrkou, hlavně kůži. Osol a opepři."
+    },
+    {
+      "section": "Opečení",
+      "text": "Pánev rozpal na vysokou, přidej olej a polož filety kůží dolů. Tlač je pár vteřin lžící, ať se nekroutí. Opékej 5 minut na středním ohni, dokud kůže nezkřupe."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Otoč filety, přidej máslo, česnek a kapary a lžící máslo přelévej přes rybu 2 až 3 minuty. Uvnitř má mít losos 63 °C."
+    },
+    {
+      "section": "Podávání",
+      "text": "Vymačkej na rybu citron, posyp petrželkou a podávej s rýží a máslem z pánve."
+    }
+  ],
+  "tips": [
+    "Kůže musí být suchá, jinak se bude pařit a nezkřupe.",
+    "Máslo přidávej až po obrácení, aby se nespálilo.",
+    "Rybu neobracej dřív, než se kůže sama odlepí od pánve."
+  ],
+  "substitutions": [
+    "Kapary nahradíš nakrájenou nakládanou okurkou.",
+    "Rýži nahradíš bramborami nebo bramborovou kaší.",
+    "Losos nahradíš pstruhem, upeč ho o minutu kratší."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat křupavou kůži na lososu?",
+      "a": "Kůži osuš, pánev rozpal a rybu opékej kůží dolů 5 minut bez otáčení."
+    },
+    {
+      "q": "Jak dlouho smažit lososa na pánvi?",
+      "a": "Asi 5 minut na kůži a 2 až 3 minuty z druhé strany. Uvnitř 63 °C."
+    },
+    {
+      "q": "Smí být losos uvnitř mírně průsvitný?",
+      "a": "Při 63 °C je střed vlhký a jemně růžový, což je v pořádku. Syrová ryba průsvitná a studená není."
+    }
+  ],
+  "image": "dish-losos-na-masle",
+  "vegetarian": false
+}

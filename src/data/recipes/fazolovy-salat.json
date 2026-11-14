@@ -1,0 +1,122 @@
+{
+  "title": "Fazolový salát s cibulí a nakládanými okurkami",
+  "keywords": [
+    "fazolový salát",
+    "fazolový salát recept",
+    "salát z fazolí",
+    "fazolový salát s okurkou",
+    "fazolový salát s cibulí"
+  ],
+  "image": "dish-fazolovy-salat",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "odležení v nálevu",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Fazolový salát je studená příloha z bílých fazolí, červené cibule, nakládaných okurek a paprik v lehkém octovém dresinku. Recept na fazolový salát využije fazole z plechovky, takže hotový bude za 15 minut práce a půlhodinu odležení. Salát je lepší druhý den, kdy dresink propojí chutě.",
+  "ingredients": [
+    {
+      "ingredient": "fazole-bile",
+      "amount": 400,
+      "unit": "g",
+      "note": "sceděné a propláchnuté"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "na tenká půlkolečka"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nakrájená"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fazole slij na sítu a důkladně propláchni studenou vodou, aby zmizel škrobovitý nálev. Nech 2 minuty okapat."
+    },
+    {
+      "text": "V misce prošlehej olej, ocet, hořčici, cukr, sůl a pepř. Dresink má být výrazně kyselý, fazole ho zjemní."
+    },
+    {
+      "text": "Do mísy dej fazole, cibuli, okurky a papriku. Zalij dresinkem a promíchej lžící tak, aby se fazole nerozmačkaly."
+    },
+    {
+      "text": "Nech salát 30 minut v lednici odležet, pak dochuť solí, octem a posyp pažitkou. Podávej k uzenému, klobásám nebo s chlebem."
+    }
+  ],
+  "tips": [
+    "Cibuli před přidáním zalij vroucí vodou na 30 sekund, ztratí pálivost.",
+    "Dresink dávej na teplé fazole. Nasají ho a chuť je výraznější.",
+    "V lednici vydrží 3 dny, třetí den ale změknou okurky.",
+    "Z konzervy zůstanou fazole měkké, z vařených suchých jsou pevnější."
+  ],
+  "substitutions": [
+    "Konzervované fazole nahraď 150 g suchých, namočených přes noc a vařených 60 minut.",
+    "Červenou cibuli nahraď jarní, bude jemnější.",
+    "Olej smíchej se lžící olivového pro výraznější chuť."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží fazolový salát?",
+      "a": "V lednici 3 dny v uzavřené nádobě. Třetí den už okurky změknou."
+    },
+    {
+      "q": "Jaké fazole se hodí do salátu?",
+      "a": "Bílé fazole z konzervy jsou nejrychlejší. Použít jdou i červené nebo smíchané, suché potřebují namočit a vařit 60 minut."
+    },
+    {
+      "q": "Dá se fazolový salát připravit den předem?",
+      "a": "Ano, je pak lepší. Dresink prosákne fazole. Čerstvé bylinky přidej až před podáním."
+    }
+  ]
+}

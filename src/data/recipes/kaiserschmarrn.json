@@ -1,0 +1,113 @@
+{
+  "title": "Kaiserschmarrn",
+  "keywords": [
+    "kaiserschmarrn",
+    "císařská trhanka",
+    "trhanka s rozinkami",
+    "rakouská sladká trhanka"
+  ],
+  "image": "dish-kaiserschmarrn",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Kaiserschmarrn, česky císařská trhanka, je rakouská nadýchaná palačinka z ušlehaných bílků, která se v pánvi rozdrtí na kousky a pocukruje. Stačí jedna pánev, nadýchaná konzistence vzniká z ušlehaného sněhu a kousky se podávají s povidly nebo kompotem.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "oddělené žloutky a bílky"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 40,
+      "unit": "g",
+      "note": "spařené horkou vodou"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "15 g do těsta, zbytek na pečení"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na posypání"
+    },
+    {
+      "ingredient": "povidla",
+      "amount": 100,
+      "unit": "g",
+      "note": "švestková, na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozinky zalij horkou vodou a nech 10 minut změknout, pak je okapej. Vejce rozděl na žloutky a bílky."
+    },
+    {
+      "text": "Žloutky smíchej s mlékem, moukou a 20 g cukru do hladkého těsta bez hrudek. Bílky ušlehej se špetkou soli a zbývajícím cukrem na tuhý sníh a opatrně je zapracuj do těsta."
+    },
+    {
+      "text": "Na pánvi o průměru 26 cm rozpusť 15 g másla na mírnější plamen. Nalij těsto, posyp rozinkami a peč 3 až 4 minuty, dokud spodek není zlatý a povrch začíná tuhnout."
+    },
+    {
+      "text": "Těsto nakrájej lopatkou na čtvrtky, otoč a peč další 3 minuty, aby se zcela dopeklo uvnitř. Vejce musí být všude zatuhlé."
+    },
+    {
+      "text": "Kousky rozdrob dvěma vidličkami, přidej zbylé máslo a 1 až 2 minuty je karamelizuj. Podávej posypané moučkovým cukrem a s povidly."
+    }
+  ],
+  "tips": [
+    "Nech těsto 10 minut odpočinout, mouka nabobtná a trhanka bude jemnější.",
+    "Peč na mírném plameni. Při vysokém spodek zhnědne dřív, než se těsto uvnitř dopeče.",
+    "Na hostinu zdvojnásob množství a peč na dvou pánvích."
+  ],
+  "substitutions": [
+    "Rozinky lze nahradit sušenými brusinkami nebo čerstvými švestkami.",
+    "Povidla nahradí jablečný kompot nebo švestkový kompot.",
+    "Mléko lze nahradit ovesným nápojem, chuť bude o něco plošší."
+  ],
+  "faq": [
+    {
+      "q": "Proč je kaiserschmarrn uvnitř syrový?",
+      "a": "Pánev byla příliš žhavá, nebo je těsto moc silné. Peč ho na mírném plameni a po otočení ještě 3 minuty, než ho natrháš."
+    },
+    {
+      "q": "Jde kaiserschmarrn dělat bez bílků ušlehaných na sníh?",
+      "a": "Jde, bude ale hutnější. Sníh dává nadýchanost, nevynechávej ho."
+    },
+    {
+      "q": "Jak dlouho vydrží hotový kaiserschmarrn?",
+      "a": "Nejlépe se jí hned, protože měkne a ztrácí kůrku. Zbytek vydrží zabalený 1 den v lednici, ohřej ho na pánvi s máslem."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "title": "Ceviche z tuňáka",
+  "keywords": [
+    "ceviche recept",
+    "ceviche z tuňáka",
+    "ceviche s limetkou",
+    "latinskoamerické ceviche"
+  ],
+  "image": "dish-ceviche-s-tunakem",
+  "category": "mexicka",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 0,
+  "waitMinutes": 15,
+  "waitLabel": "marinování v limetkové šťávě",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Ceviche z tuňáka je syrová ryba nakrájená na kostky a krátce marinovaná v limetkové šťávě s červenou cibulí, chilli a koriandrem. Používej výhradně tuňáka v kvalitě určené k přímé konzumaci syrového (sashimi), uchovávaného v chladu, a spotřebuj ho tentýž den.",
+  "ingredients": [
+    {
+      "ingredient": "tunak-sushi",
+      "amount": 300,
+      "unit": "g",
+      "note": "kvalita sashimi, na kostky 1 cm"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 5,
+      "unit": "ks",
+      "note": "asi 100 ml šťávy"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "na tenké půlkolečka"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "bez semínek, najemno"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaný"
+    },
+    {
+      "ingredient": "avokado",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "tortilla-chipsy",
+      "amount": 60,
+      "unit": "g",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli namoč na 10 minut do studené vody, odstraní ostrost, pak ji dobře okapej. Limetky vymačkej a šťávu přecedit."
+    },
+    {
+      "text": "Tuňáka nakrájej na kostky 1 cm, ostrým nožem. Do mísy dej kostky, sůl a chilli a promíchej."
+    },
+    {
+      "text": "Zalij limetkovou šťávou tak, aby byly kostky skoro zakryté, a nech 10 až 15 minut v lednici. Povrch zesvětlá, střed zůstane růžový. Déle nemarinuj, ryba by se rozvařila a zešedla."
+    },
+    {
+      "text": "Přidej cibuli, koriandr a olej, promíchej a okamžitě podávej s avokádem a tortilla chipsy."
+    }
+  ],
+  "tips": [
+    "Ceviche nepřipravuj dopředu. Limetková šťáva ryby mění strukturu a po hodině je suchá.",
+    "Před marinováním nech tuňáka v lednici, aby byl pořád studený. Syrovou rybu nikdy nenechávej při pokojové teplotě.",
+    "Ceviche není vhodné pro těhotné, malé děti, seniory a osoby se sníženou imunitou."
+  ],
+  "substitutions": [
+    "Tuňáka nahradí čerstvý losos v kvalitě pro syrovou konzumaci.",
+    "Pro verzi bez ryb použij 250 g vařených krevet.",
+    "Koriandr nahradí mladá petrželka nebo máta."
+  ],
+  "faq": [
+    {
+      "q": "Je ceviche syrové nebo vařené?",
+      "a": "Kyselina z limetky mění strukturu bílkovin a maso zbělá, ale bakterie tím nezabije. Proto se používá jen ryba vhodná k syrové konzumaci."
+    },
+    {
+      "q": "Jak dlouho marinovat ceviche?",
+      "a": "Pro tuňáka 10 až 15 minut, pro jemné bílé ryby 20 až 30 minut. Pak hned jíst."
+    },
+    {
+      "q": "Kde koupit tuňáka na ceviche?",
+      "a": "Ve specializovaném obchodě s rybami, kde potvrdí, že je ryba určená na sashimi a byla zmrazená při dodání nebo čerstvá."
+    }
+  ]
+}

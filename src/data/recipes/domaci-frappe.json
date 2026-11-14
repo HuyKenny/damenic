@@ -1,0 +1,93 @@
+{
+  "title": "Domácí ledové frappé z instantní kávy",
+  "keywords": [
+    "domácí frappé",
+    "frappé recept",
+    "ledové frappé",
+    "jak udělat frappé"
+  ],
+  "image": "dish-frappe-dopiju-zitra",
+  "category": "kavarna",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 15,
+  "waitLabel": "vychlazení mléka a sklenic",
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "intro": "Frappé je ledová pěnivá káva z instantní kávy, cukru, vody a mléka. Pěna vznikne rozšlehaním kávy, ne z mléka. Pro hustou pěnu potřebuješ studenou vodu, dobře vychlazené mléko a sklenice a 30 sekund třepání.",
+  "ingredients": [
+    {
+      "ingredient": "kava-instantni",
+      "amount": 4,
+      "unit": "g",
+      "note": "dvě zarovnané lžičky"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 60,
+      "unit": "ml",
+      "note": "studená"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml",
+      "note": "vychlazené"
+    },
+    {
+      "ingredient": "led-do-napoju",
+      "amount": 200,
+      "unit": "g",
+      "note": "kostky"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 40,
+      "unit": "ml",
+      "note": "nepovinné, na ozdobu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Sklenice a mléko dej na 15 minut do lednice, nebo sklenice do mrazáku. Studený základ drží led déle a pěna je stabilnější."
+    },
+    {
+      "text": "Instantní kávu, cukr a studenou vodu dej do šejkru nebo dobře zavíratelné sklenice. Třepej 30 sekund, nebo šlehej ručním šlehačem, dokud nevznikne hustá světlá pěna."
+    },
+    {
+      "text": "Sklenice naplň ledem a nalij do nich mléko do tří čtvrtin. Vrch pak zaplň pěnou z kávy."
+    },
+    "Nepovinně navrch dej lžíci šlehačky. Podávej s brčkem a pij hned, dokud je pěna hustá."
+  ],
+  "tips": [
+    "Rozhoduje poměr: na 1 lžičku kávy 1 lžička cukru a 30 ml vody pro pěnu.",
+    "Pěna se drží jen pár minut, připrav ji až těsně před podáním.",
+    "Pro verzi bez cukru použij vanilkový sirup nebo vynech cukr, pěna bude řidší."
+  ],
+  "substitutions": [
+    "Instantní kávu zastoupí 60 ml silného vychlazeného espressa, ale pěna nebude tak hustá.",
+    "Mléko nahraď ovesným nebo mandlovým, funguje bez problému.",
+    "Cukr můžeš zaměnit za javorový sirup nebo med."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat hustou pěnu na frappé?",
+      "a": "Šlehej instantní kávu, cukr a studenou vodu aspoň 30 sekund, nejlépe ručním šlehačem. Voda musí být studená, horká pěnu nevytvoří."
+    },
+    {
+      "q": "Jde frappé udělat bez šejkru?",
+      "a": "Ano. Dej všechny suroviny do zavařovací sklenice, pevně zavři víčko a třepej."
+    },
+    {
+      "q": "Kolik kofeinu má frappé?",
+      "a": "Dvě lžičky instantní kávy dají zhruba 60 až 80 mg kofeinu, podobně jako malý šálek kávy."
+    }
+  ]
+}

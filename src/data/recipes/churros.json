@@ -1,0 +1,120 @@
+{
+  "title": "Churros s čokoládou",
+  "keywords": [
+    "churros recept",
+    "domácí churros",
+    "churros s čokoládou",
+    "španělské churros"
+  ],
+  "image": "dish-churros",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 15,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek těsta v mrazáku nebo lednici",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Churros jsou španělské smažené tyčky z vařeného těsta, které se obalí ve skořicovém cukru a namáčejí do horké čokolády. Z této dávky vyjde asi 16 kusů dlouhých 12 cm. Těsto musí být dost husté, aby v sáčku drželo hvězdičku.",
+  "ingredients": [
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g",
+      "note": "prosátá",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 600,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Obalení"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Obalení"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 150,
+      "unit": "g",
+      "note": "nasekaná",
+      "group": "Čokoláda na namáčení"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Čokoláda na namáčení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vodu, sůl a 2 lžíce oleje přiveď v hrnci k varu. Hrnec sundej z plamene, najednou nasyp mouku a míchej varechou, až vznikne hladká koule bez hrudek."
+    },
+    {
+      "text": "Těsto nech 5 minut vychladnout, přendej do cukrářského sáčku s velkou hvězdicovou špičkou. Na pečicí papír vytlač pruhy dlouhé asi 12 cm. Dej je na 15 minut do mrazáku, aby se při smažení nerozbíjely."
+    },
+    {
+      "text": "Do širokého hrnce nalij 600 ml oleje a rozehřej na 175 °C. Teplotu měř teploměrem, nebo vlož dřevěnou lžíci, kolem které se mají rychle tvořit bublinky. Hrnec nikdy nenechávej bez dozoru."
+    },
+    {
+      "text": "Smaž po 4 až 5 kusech 3 až 4 minuty, jednou otoč, až jsou zlatě hnědé. Vylov děrovanou lžící a nech okapat na papírové utěrce."
+    },
+    {
+      "text": "Cukr s mletou skořicí smíchej na talíři a horké churros v něm obal. Čokoládu nasekej do mísy, smetanu zahřej těsně pod bod varu, nalij na čokoládu, 1 minutu počkej a promíchej do lesklé hladké omáčky."
+    }
+  ],
+  "tips": [
+    "Hotové churros jez do 30 minut, potom ztrácí křupavost.",
+    "Při teplotě oleje pod 160 °C nasáknou tuk, nad 190 °C zhnědnou zvenku a uvnitř zůstanou syrové.",
+    "Těsto nesmí být řídké. Když ho stiskneš, drží hřeben hvězdičky."
+  ],
+  "substitutions": [
+    "Místo čokolády lze podávat dulce de leche nebo vařené kondenzované mléko.",
+    "Do těsta lze přidat 1 vejce pro měkčí střed, těsto pak bude lehčí a nadýchanější.",
+    "Skořici můžeš vynechat a obalit churros jen v cukru."
+  ],
+  "faq": [
+    {
+      "q": "Proč se churros při smažení trhají nebo praskají?",
+      "a": "Těsto bylo příliš horké při plnění sáčku, voda se rychle odpařila a tyčky vybuchly. Nech těsto nejdřív vychladnout a před smažením krátce zchladit v mrazáku."
+    },
+    {
+      "q": "Jak dlouho smažit churros?",
+      "a": "Při 175 °C 3 až 4 minuty, dokud nejsou zlatohnědé. Příliš tmavé znamená příliš horký olej."
+    },
+    {
+      "q": "Jde těsto na churros připravit předem?",
+      "a": "Ano, těsto vydrží vložené v sáčku a zavřené v lednici do druhého dne. Vytlačené tyčky lze zmrazit a smažit zmrazené, jen o minutu déle."
+    }
+  ]
+}

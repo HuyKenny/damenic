@@ -1,0 +1,153 @@
+{
+  "title": "Vařené hovězí maso s jablečným křenem",
+  "keywords": [
+    "vařené hovězí maso",
+    "hovězí maso vařené s křenem",
+    "vařené hovězí s křenem",
+    "jak uvařit hovězí maso",
+    "vařené hovězí"
+  ],
+  "image": "dish-hovezi-varene-s-krenem-u-prazdneho-talire",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 150,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Vařené hovězí s křenem je klasika z hospodského menu: kus hovězího zadního uvařený do měkka v kořenové zelenině a podávaný s jablečným křenem. Recept na vařené hovězí maso potřebuje jen trpělivost: maso se vaří 2 až 2,5 hodiny na mírném plameni, jinak je žilnaté a suché. Výsledný vývar se využije na polévku.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-zadni",
+      "amount": 900,
+      "unit": "g",
+      "note": "vcelku",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "se slupkou, přepůlená",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kusy",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kusy",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kusy",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 1,
+      "unit": "g",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "do vody",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2500,
+      "unit": "ml",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "kren-strouhany",
+      "amount": 80,
+      "unit": "g",
+      "group": "Jablečný křen"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 1,
+      "unit": "ks",
+      "note": "kyselé, nastrouhané",
+      "group": "Jablečný křen"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "jen šťáva",
+      "group": "Jablečný křen"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Jablečný křen"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vodu přiveď k varu s cibulí, mrkví, petrželí, celerem, bobkovým listem, kořením a solí. Do vroucího vývaru vlož maso, aby se povrch hned zatáhl a šťáva zůstala uvnitř."
+    },
+    {
+      "text": "Sniž plamen tak, aby se hladina jen mírně chvěla. Maso vař odkryté 2 až 2,5 hodiny. Pěnu v prvních 15 minutách sbírej. Maso je měkké, když špejle projde bez odporu a uvnitř má asi 90 °C."
+    },
+    {
+      "text": "Jablečný křen: nastrouhej jablko, smíchej s křenem, citronovou šťávou a cukrem. Nech 15 minut odležet, ať se chutě propojí."
+    },
+    {
+      "text": "Maso vyndej, nech 10 minut odpočinout a krájej napříč vlákny na plátky silné asi 1 cm. Podávej s křenem, kořenovou zeleninou z vývaru a houskovým knedlíkem nebo bramborami."
+    }
+  ],
+  "tips": [
+    "Nikdy nevař maso ve vroucím varu, vlákna se stáhnou a maso bude tvrdé.",
+    "Maso krájej vždy napříč vlákny. Plátek se pak rozpadá na jazyku.",
+    "Vývar sceď a použij na polévku s nudlemi, vydrží 4 dny v lednici nebo 3 měsíce v mrazáku.",
+    "Nastrouhaný křen pouštěj až těsně před podáváním, ztrácí ostrost."
+  ],
+  "substitutions": [
+    "Hovězí zadní nahraď hovězí kližkou nebo žebry, vaří se o půl hodiny déle.",
+    "Jablečný křen nahraď křenovou omáčkou se smetanou nebo rajskou omáčkou.",
+    "Čerstvý křen nahraď strouhaným ze skleničky, ubyde 50 % ostrosti."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří hovězí maso?",
+      "a": "Kus o váze 900 g potřebuje 2 až 2,5 hodiny na mírném varu. Je hotové, když špejle projde bez odporu."
+    },
+    {
+      "q": "Dá se hovězí uvařit v tlakovém hrnci?",
+      "a": "Ano, 45 až 60 minut po dosažení tlaku. Maso bude měkké, vývar o něco kalnější."
+    },
+    {
+      "q": "Jak uchovat vařené hovězí?",
+      "a": "V lednici 3 dny v zavřené nádobě ve vývaru. Ve vývaru nevyschne a po ohřátí chutná stejně."
+    }
+  ]
+}

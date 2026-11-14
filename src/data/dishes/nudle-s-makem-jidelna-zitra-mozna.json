@@ -1,0 +1,23 @@
+{
+  "name": "Nudle s mákem a máslem",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Sladké jídlo",
+  "price": 11900,
+  "recipe": "nudle-s-makem",
+  "vegetarian": true,
+  "order": 320,
+  "description": "Široké nudle, čerstvě mletý mák, cukr a horké máslo. Sladká rychlovka bez omluvy.",
+  "about": [
+    "Nudle s mákem jsou nejrychlejší sladké jídlo české kuchyně: široké vaječné nudle uvařené al dente, přelité horkým máslem a posypané mákem s cukrem a vanilkovým cukrem. Mák se mele čerstvý, jinak hořkne.",
+    "Hotové je to za 25 minut. Za tu dobu ti nedoručíme ani trochu. Máš čas si je udělat sám."
+  ],
+  "optionGroups": [],
+  "image": "dish-nudle-s-makem-jidelna-zitra-mozna",
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "spicy": 0
+}

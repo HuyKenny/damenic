@@ -1,0 +1,108 @@
+{
+  "title": "Ovesné sušenky s rozinkami",
+  "keywords": [
+    "ovesné sušenky",
+    "ovesné sušenky recept",
+    "sušenky z ovesných vloček",
+    "ovesné cookies"
+  ],
+  "image": "dish-ovesne-susenky-zitra",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 20,
+  "cookMinutes": 26,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Ovesné sušenky recept z jedné mísy: máslo, třtinový cukr, vločky a rozinky. Vyjde asi 24 sušenek, které jsou zvenku křupavé a uvnitř trochu žvýkací. Rozhoduje poměr cukru a vloček a to, že těsto před pečením krátce odpočine.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 125,
+      "unit": "g",
+      "note": "změklé"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 120,
+      "unit": "g"
+    },
+    {
+      "ingredient": "ovesne-vlocky",
+      "amount": 150,
+      "unit": "g",
+      "note": "jemné nebo trhané"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 5,
+      "unit": "g",
+      "note": "asi 1 lžička"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Máslo s cukrem prošlehej do světlé pěny, 2 až 3 minuty. Vmíchej vejce a špetku soli."
+    },
+    {
+      "text": "Mouku smíchej s práškem do pečiva a skořicí, přidej k máslu spolu s vločkami a rozinkami. Zamíchej vařečkou, dokud není těsto celé vlhké. Nech 15 minut odpočinout."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 165 °C). Vlhkýma rukama tvaruj kuličky velikosti vlašského ořechu, rozlož je po 5 cm na dva plechy s pečicím papírem a lehce zploštěj."
+    },
+    {
+      "text": "Peč 12 až 14 minut. Hotové jsou, když mají zlatavé okraje a střed je ještě trochu měkký. Nech je 5 minut na plechu ztuhnout a přendej na mřížku."
+    }
+  ],
+  "tips": [
+    "Máslo musí být změklé, ne rozpuštěné. Z rozpuštěného se sušenky rozlijí na tenké placky.",
+    "Chceš žvýkací sušenky? Peč je o 2 minuty kratší dobu. Chceš křupavé? O 2 minuty déle.",
+    "V dóze vydrží 5 dní, těsto lze v kuličkách zmrazit až na 2 měsíce a péct rovnou ze mrazáku o 2 minuty déle."
+  ],
+  "substitutions": [
+    "Rozinky nahraď kousky čokolády nebo sušenými brusinkami.",
+    "Mouku hladkou můžeš nahradit polovinou celozrnné.",
+    "Třtinový cukr nahraď běžným krupicovým, sušenky budou světlejší."
+  ],
+  "faq": [
+    {
+      "q": "Proč se mi ovesné sušenky rozlily?",
+      "a": "Nejčastěji je máslo moc teplé nebo se těsto nenechalo odpočinout. Dej těsto na 15 minut do lednice a formuj chladnější kuličky."
+    },
+    {
+      "q": "Jak poznám, že jsou ovesné sušenky upečené?",
+      "a": "Okraje jsou zlatavé, střed vypadá ještě lehce měkce. Dozrají dochladnutím na plechu."
+    },
+    {
+      "q": "Dají se ovesné sušenky udělat bez vajec?",
+      "a": "Ano, vejce nahraď 3 lžícemi mléka a jednou lžící oleje. Sušenky budou o trochu křehčí."
+    }
+  ]
+}

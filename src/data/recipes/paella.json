@@ -1,0 +1,151 @@
+{
+  "title": "Paella s kuřecím masem a krevetami",
+  "keywords": [
+    "paella recept",
+    "paella s kuřecím",
+    "španělská paella",
+    "paella s krevetami"
+  ],
+  "image": "dish-paella",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 45,
+  "waitMinutes": 5,
+  "waitLabel": "odpočinek pod utěrkou",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Paella je španělská pánev kulatozrnné rýže s kuřecím masem, krevetami a šafránem. Nesmíš ji míchat a rýže musí nasát 2,5 až 3násobek vývaru. Na dně tak vznikne křupavá vrstvička, socarrat, která je pro ni typická.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna-s-kosti",
+      "amount": 600,
+      "unit": "g",
+      "note": "rozseknutá nebo na menší kusy"
+    },
+    {
+      "ingredient": "krevety",
+      "amount": 250,
+      "unit": "g",
+      "note": "oloupané, rozmrazené"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 5,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na proužky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "nastrouhaná"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "ryze-kulatozrnna",
+      "amount": 300,
+      "unit": "g",
+      "note": "nemyj"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 900,
+      "unit": "ml",
+      "note": "horký"
+    },
+    {
+      "ingredient": "safran",
+      "amount": 0.3,
+      "unit": "g",
+      "note": "asi 20 nití"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na podávání"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Šafrán rozetři mezi prsty do 100 ml horkého vývaru a nech ho 10 minut louhovat. Zbytek vývaru udržuj horký."
+    },
+    {
+      "text": "Do široké pánve (průměr 32 až 36 cm) dej olej a na středním plameni opeč osolené kuřecí kousky 10 minut, aby se zlatě opekly. Vyndej je na talíř."
+    },
+    {
+      "text": "V tom tuku osmahni 3 minuty papriku a česnek, přidej rajčata a mísi 5 minut, dokud se nezredukují na hustou pastu. Vmíchej obě papriky."
+    },
+    {
+      "text": "Přidej rýži a minutu ji míchej v pastě. Zalij horkým vývarem se šafránem, osol, srovnej kuře do pánve a rýži rozprostři do rovné vrstvy. Od teď nemíchej. Vař 8 minut na silnějším plameni."
+    },
+    {
+      "text": "Sniž plamen na mírný, přidej krevety a hrášek a vař dalších 10 minut. Kuře má uvnitř mít aspoň 75 °C, krevety jsou růžové a neprůsvitné."
+    },
+    {
+      "text": "Na poslední minutu plamen zesil, aby se na dně vytvořila křupavá kůrka (uslyšíš lehké praskání), ale nesmí se spálit. Pánev přikryj utěrkou, nech 5 minut odpočinout a podávej s citronem a petrželkou."
+    }
+  ],
+  "tips": [
+    "Rýži neprémývej. Škrob je ten, který pomáhá vázat vývar a vytvořit socarrat.",
+    "Rýže má ve vrstvě ležet nejvýš 1,5 cm vysoko, jinak se rovnoměrně nedovaří.",
+    "Šafrán koupíš v nitkách, nikoli v prášku, jehož pravost je těžké poznat."
+  ],
+  "substitutions": [
+    "Šafrán lze nahradit 0,5 lžičky kurkumy, barva bude podobná, chuť ne.",
+    "Rýže arborio nebo sushi vydrží také, nasaje ale méně vývaru, začni 800 ml a případně dolij.",
+    "Bez krevet přidej 200 g chorizo nebo nech jen kuře."
+  ],
+  "faq": [
+    {
+      "q": "Proč se paella nemíchá?",
+      "a": "Mícháním se z rýže uvolňuje škrob a vznikne rizoto, kašovitá konzistence. V paelle chceš oddělená zrna a křupavou vrstvu na dně."
+    },
+    {
+      "q": "Jakou rýži použít na paellu?",
+      "a": "Kulatozrnnou, která nasaje hodně tekutiny a drží tvar. V obchodech ji najdeš jako rýži na paellu, na rizoto nebo kulatozrnnou. Dlouhozrnná by se rozsypala."
+    },
+    {
+      "q": "Jak poznám socarrat?",
+      "a": "Je to zlatohnědá křupavá vrstva na dně, kterou uslyšíš: pánev lehce praská a voní po opečené rýži. Vzniká v poslední minutě na silnějším plameni."
+    }
+  ]
+}

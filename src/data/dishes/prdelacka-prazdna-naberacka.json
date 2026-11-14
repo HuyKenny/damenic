@@ -1,0 +1,40 @@
+{
+  "name": "Prdelačka s kroupami",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Polévky",
+  "price": 12900,
+  "recipe": "prdelacka",
+  "vegetarian": false,
+  "order": 320,
+  "description": "Zabijačková polévka z plecka, jater a krup, majoránka navrch. Hustá jako dohoda.",
+  "about": [
+    "Prdelačka je zabijačková polévka z vepřového masa, jater a krup, ochucená kmínem a majoránkou. Maso a kroupy se vaří hodinu, brambory čtvrt hodiny a játra až posledních 5 až 7 minut, jinak by zhořkla.",
+    "Je hustá a sytá, takže za hlavní jídlo stačí s chlebem. Doma ti vydrží 3 dny. Tady ti nevydrží ani chvíli, protože ji nemáme."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "K polévce",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "chleb",
+          "name": "Krajíc chleba",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez",
+          "name": "Bez pečiva",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "image": "dish-prdelacka-prazdna-naberacka",
+  "allergens": [
+    1
+  ],
+  "spicy": 0
+}

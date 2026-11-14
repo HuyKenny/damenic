@@ -1,0 +1,106 @@
+{
+  "title": "Čokoládové rolky z listového těsta s lískovými ořechy",
+  "keywords": [
+    "čokoládové rolky",
+    "rolky z listového těsta",
+    "čokoládové rolky z listového těsta",
+    "rolky s čokoládou"
+  ],
+  "image": "dish-cokoladove-rolky-na-slib",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 20,
+  "cookMinutes": 18,
+  "waitMinutes": 20,
+  "waitLabel": "ztuhnutí náplně",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Čokoládové rolky z listového těsta recept na hotový plát: náplň z horké čokolády, másla a lískových ořechů se rozetře, zarolkuje a nakrájí. Vyjde 12 rolek, které jsou křupavé, vrstevnaté a hotové za necelou hodinu. Náplň musí před rolováním chvíli ztuhnout, jinak vyteče.",
+  "ingredients": [
+    {
+      "ingredient": "listove-testo",
+      "amount": 275,
+      "unit": "g",
+      "note": "1 plát, vyndat z lednice 10 minut předem"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "liskove-orechy",
+      "amount": 50,
+      "unit": "g",
+      "note": "nahrubo namleté"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "do náplně"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na potření"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Čokoládu s máslem rozehřej ve vodní lázni nebo v mikrovlnce po 20 sekundách, míchej do hladka. Vmíchej kakao, moučkový cukr a ořechy a nech 20 minut zhoustnout, aby se dala roztírat."
+    },
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 185 °C). Listové těsto rozbal i s papírem a rozlož na pracovní plochu."
+    },
+    {
+      "text": "Náplň rovnoměrně rozetři na těsto a nech okraj 1 cm. Svinuj od užší strany do pevné rolky a dej na 10 minut do mrazáku, aby se lépe krájela."
+    },
+    {
+      "text": "Rolku nakrájej na 12 plátků silných asi 2 cm. Ulož na plech, potři vejcem a posyp cukrem. Peč 15 až 18 minut do sytě zlatavé barvy."
+    }
+  ],
+  "tips": [
+    "Rolku před krájením nech krátce prochladit v mrazáku. Nůž pak kolečka nerozmáčkne.",
+    "Pečicí papír nech rozložit, listové těsto se na něm neroztahuje.",
+    "Nejlepší jsou teplé. Druhý den je stačí 5 minut dohřát na 160 °C."
+  ],
+  "substitutions": [
+    "Lískové ořechy nahraď mandlemi nebo rozmělněnými sušenkami.",
+    "Horkou čokoládu nahraď mléčnou, rolky budou sladší.",
+    "Do náplně můžeš přidat 1 lžičku skořice nebo kůru z pomeranče."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi čokolády z rolek vytéká?",
+      "a": "Náplň byla moc tekutá nebo teplá. Nech ji ztuhnout asi 20 minut a rolku před krájením zchlaď v mrazáku."
+    },
+    {
+      "q": "Dají se rolky udělat předem?",
+      "a": "Ano, nakrájené nepečené rolky zamraz a peč je ze zmrazených o 3 až 4 minuty déle."
+    },
+    {
+      "q": "Jak dlouho vydrží čokoládové rolky?",
+      "a": "Čerstvé jsou nejlepší do dvou dnů v dóze. Pak ztratí křupavost, ale dají se oživit v troubě."
+    }
+  ]
+}

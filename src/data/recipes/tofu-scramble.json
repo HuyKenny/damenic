@@ -1,0 +1,126 @@
+{
+  "title": "Tofu scramble s kurkumou a špenátem",
+  "keywords": [
+    "tofu scramble",
+    "míchané tofu",
+    "veganská vajíčka",
+    "tofu na snídani"
+  ],
+  "image": "dish-tofu-scramble-drobek",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 10,
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Tofu scramble je veganská snídaně, která vzhledem i konzistencí připomíná míchaná vejce. Tofu se na pánvi rozmačká, obarví kurkumou a ochutí kvasnicovými vločkami. Důležité je tofu pořádně vymačkat, jinak se místo opečení dusí ve vlastní vodě.",
+  "ingredients": [
+    {
+      "ingredient": "tofu",
+      "amount": 400,
+      "unit": "g",
+      "note": "dvě balení natural, pevné"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "spenat-baby",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kvasnicove-vlocky",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 120,
+      "unit": "g",
+      "note": "na toasty k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Tofu vyjmi z obalu a zabal do čisté utěrky. Na 10 minut ho zatěžkej prkénkem a hrncem s vodou, aby vytekla co nejvíc tekutiny. Čím sušší tofu, tím lépe se opéká."
+    },
+    {
+      "text": "Na pánvi rozehřej olej na středním plameni. Cibuli a papriku smaž 4 minuty, dokud cibule není sklovitá."
+    },
+    {
+      "text": "Tofu rozdrob do pánve rukama na kousky velké asi 1 až 2 cm. Smaž 3 minuty za občasného míchání a nech jen lehce zezlátnout."
+    },
+    {
+      "text": "Přidej kurkumu, kvasnicové vločky, uzenou papriku, sůl a pepř a prohřej 2 minuty. Tofu se zbarví žlutě a vytvoří drobivou strukturu."
+    },
+    {
+      "text": "Vmíchej špenát a vař 1 minutu, jen aby zavadl. Ochutnej, dosol a posyp pažitkou. Podávej ihned s opečeným chlebem."
+    }
+  ],
+  "tips": [
+    "Černou sůl kala namak (sirnatá, vajíčková vůně) přidej na závěr, pokud ji máš. Je ale nepovinná.",
+    "Nemíchej tofu příliš silně, jinak z něj bude kaše. Nech ho 20 až 30 sekund bez hnutí, ať se opeče.",
+    "Zbytek se dá do druhého dne ohřát na pánvi, ale špenát raději přidej čerstvý."
+  ],
+  "substitutions": [
+    "Kvasnicové vločky můžeš vynechat, bude to méně sýrové. Pomůže špetka uzené papriky navíc.",
+    "Místo špenátu dej cherry rajčata nebo hrst hrášku.",
+    "Kdo nechce veganskou verzi, může na konci vmíchat 2 rozšlehaná vejce a míchat do sražení."
+  ],
+  "faq": [
+    {
+      "q": "Proč je tofu scramble vodnaté?",
+      "a": "Tofu nebylo dost vymačkané nebo bylo na pánvi příliš malé množství tepla. Zatěžkej ho 10 minut a smaž na středně vysokém plameni, aby se voda rychle odpařila."
+    },
+    {
+      "q": "Čím nahradit kvasnicové vločky?",
+      "a": "Jemně nastrouhaným parmazánem, pokud nevadí mléčné, nebo špetkou česnekového prášku s trochou soli. Chuť bude jiná, ale stále dobrá."
+    },
+    {
+      "q": "Jak dlouho se tofu scramble skladuje?",
+      "a": "V lednici 2 dny v uzavřené nádobě. Ohřívej na pánvi, v mikrovlnce bývá gumové."
+    }
+  ]
+}

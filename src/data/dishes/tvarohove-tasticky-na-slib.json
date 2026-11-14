@@ -1,0 +1,24 @@
+{
+  "name": "Tvarohové taštičky s meruňkovým džemem",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "description": "Měkké tvarohové těsto, uvnitř lžička džemu. Posypané moučkovým cukrem, jako by sněžilo.",
+  "about": [
+    "Tvarohové taštičky jsou z těch věcí, co zvládne i člověk, který kynuté těsto bere jako osobní urážku. Tvaroh, mouka a máslo se spojí rychle, těsto odpočine v lednici a pak se plní džemem. Pečou se jen čtvrt hodiny.",
+    "Koláč na slib doručuje jen v nadpisu. Taštičky ti ale upečeš za dvacet minut a jejich vůni ti kurýr stejně nepřebije."
+  ],
+  "price": 5900,
+  "image": "dish-tvarohove-tasticky-na-slib",
+  "recipe": "tvarohove-tasticky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 15
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Perlivá voda s limetkou",
+  "section": "Nápoje",
+  "price": 3900,
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "order": 310,
+  "description": "Ledová perlivá voda s plátkem limetky.",
+  "about": [],
+  "kind": "drink",
+  "restaurant": "tapas-siesta-nanecisto",
+  "image": "dish-perliva-voda-s-limetkou-siesta",
+  "allergens": []
+}

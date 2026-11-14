@@ -1,0 +1,147 @@
+{
+  "title": "Mac and cheese zapečené",
+  "keywords": [
+    "mac and cheese",
+    "mac and cheese recept",
+    "zapečené makarony se sýrem",
+    "makarony se sýrem"
+  ],
+  "image": "dish-mac-and-cheese",
+  "category": "burgery",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Mac and cheese jsou zapečené makarony v hladké sýrové omáčce z bešamelu a cheddaru, posypané strouhankou. Omáčka nesmí být zrnitá, takže sýr se přidává až mimo plamen po částech.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 300,
+      "unit": "g",
+      "note": "kolínka nebo makarony"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 600,
+      "unit": "ml",
+      "note": "teplé",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cheddar",
+      "amount": 200,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 100,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Posyp"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Posyp"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Posyp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C). Těstoviny uvař o 2 minuty méně, než uvádí obal, slij je, nepřeplachuj."
+    },
+    {
+      "text": "V hrnci rozpusť 50 g másla, zamíchej mouku a 1 minutu ji opékej. Za stálého míchání po částech přilévej teplé mléko, aby nevznikly hrudky."
+    },
+    {
+      "text": "Vař 5 minut na mírném plameni, dokud omáčka nezhoustne, aby obalila lžíci. Sundej z plamene, vmíchej hořčici, muškát, sůl a pepř."
+    },
+    {
+      "text": "Sýr přidávej po hrstech mimo plamen a míchej, až se rozpustí. Přehřátý sýr by byl zrnitý. Vmíchej uvařené těstoviny."
+    },
+    {
+      "text": "Směs dej do zapékací mísy. Strouhanku smíchej s rozpuštěným máslem a paprikou, nasyp navrch. Peč 15 až 20 minut, až je povrch zlatý a okraje bublají."
+    },
+    {
+      "text": "Nech 5 minut odpočinout, aby omáčka zhoustla, a podávej."
+    }
+  ],
+  "tips": [
+    "Sýr nastrouhej sám. Předtrouhaný obsahuje škrob proti slepování a omáčka je zrnitější.",
+    "Těstoviny nedovařuj, v troubě ještě změknou.",
+    "Pro více chuti dej na dno trochu ostrého čedaru a nahoru eidam."
+  ],
+  "substitutions": [
+    "Cheddar lze nahradit ementálem nebo goudou.",
+    "Bez lepku použij kukuřičné těstoviny a rýžovou mouku.",
+    "Pro lehčí verzi nahraď polovinu mléka zeleninovým vývarem."
+  ],
+  "faq": [
+    {
+      "q": "Proč je omáčka na mac and cheese zrnitá?",
+      "a": "Sýr byl přehřátý nebo se přidal do vařící omáčky. Přidávej ho mimo plamen po částech."
+    },
+    {
+      "q": "Dá se mac and cheese připravit dopředu?",
+      "a": "Ano, slož ji do formy, dej do lednice a druhý den peč o 10 minut déle. Přidej lžíci mléka, aby nebyla suchá."
+    },
+    {
+      "q": "Jaký sýr se hodí?",
+      "a": "Cheddar kvůli chuti, eidam nebo gouda pro roztékání. Dobře se doplňují."
+    }
+  ]
+}

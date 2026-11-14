@@ -1,0 +1,127 @@
+{
+  "title": "Kuřecí prsa se špenátem a mozzarellou",
+  "category": "kure",
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 25,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "keywords": [
+    "kuřecí prsa se špenátem a mozzarellou",
+    "plněná kuřecí prsa",
+    "kuřecí prsa plněná špenátem",
+    "kuřecí prsa v troubě se sýrem"
+  ],
+  "intro": "Kuřecí prsa se špenátem a mozzarellou jsou kapsy z prsou plněné česnekovým špenátem a sýrem, opečené na pánvi a dopečené v troubě. Trik je v dobře odpařeném špenátu, jinak se prsa uvnitř vaří a plnění vyteče.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 600,
+      "unit": "g",
+      "note": "4 prsa po asi 150 g",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "spenat-baby",
+      "amount": 150,
+      "unit": "g",
+      "group": "Plnění"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "nadrobno",
+      "group": "Plnění"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 125,
+      "unit": "g",
+      "note": "okapaná, nakrájená na plátky",
+      "group": "Plnění"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Plnění"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Plnění",
+      "text": "Na pánvi rozehřej lžíci oleje, přidej česnek a po 20 sekundách špenát. Za míchání ho 2 až 3 minuty nech svadnout, osol, přidej muškát a vymáčkni z něj přebytečnou vodu. Nech zchladnout."
+    },
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 190 °C (horkovzduch 170 °C). Do každého prsa zboku nařízni hlubokou kapsu, ale nepropíchni ji skrz."
+    },
+    {
+      "section": "Příprava",
+      "text": "Do kapes vlož špenát a plátky mozzarelly. Otvor sepni párátky, ať se plnění neztratí. Prsa osol a opepři."
+    },
+    {
+      "section": "Opečení",
+      "text": "Na pánvi rozpal zbytek oleje a prsa opékej po 3 minutách z každé strany do zlatova. Přendej je do zapékací mísy."
+    },
+    {
+      "section": "Pečení",
+      "text": "Do pánve s pečenými šťávami nalej smetanu, prohřej ji a vlij kolem prsou. Piš 15 až 18 minut. Uvnitř musí být 75 °C."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Prsa nech 5 minut odpočinout, vytáhni párátka a podávej s omáčkou z mísy."
+    }
+  ],
+  "tips": [
+    "Špenát vymáčkni opravdu důkladně. Vlhké plnění je hlavní příčina, proč kapsa vytéká.",
+    "Teploměr zapichuj do nejsilnějšího místa, ale ne do plnění. Syrový sýr by ukázal nižší číslo.",
+    "Mozzarellu nech chvíli okapat na utěrce, ať nepustí vodu do masa."
+  ],
+  "substitutions": [
+    "Místo čerstvého špenátu použij 150 g rozmraženého a vymačkaného mraženého špenátu.",
+    "Mozzarellu nahradíš eidamem nebo ementálem, plnění pak bude pevnější.",
+    "Smetanu na vaření nahradíš zakysanou smetanou, přidej ji až po stažení z ohně."
+  ],
+  "faq": [
+    {
+      "q": "Jak plnit kuřecí prsa, aby plnění nevytékalo?",
+      "a": "Nařízni kapsu zboku, nepropíchni ji skrz, nepřeplňuj a otvor sepni párátky. Plnění má být suché."
+    },
+    {
+      "q": "Kolik stupňů mají mít plněná kuřecí prsa uvnitř?",
+      "a": "Nejsilnější část masa musí mít 75 °C. U plněných prsou měř vedle plnění, ne v něm."
+    },
+    {
+      "q": "Dá se použít zmrazený špenát?",
+      "a": "Ano. Rozmraz ho, vymačkej v utěrce a krátce ho prohřej s česnekem, aby se odpařila zbylá voda."
+    }
+  ],
+  "image": "dish-kureci-prsa-se-spenatem-a-mozzarellou",
+  "vegetarian": false
+}

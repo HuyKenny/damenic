@@ -1,0 +1,82 @@
+{
+  "title": "Mangový sorbet s limetkou",
+  "keywords": [
+    "mangový sorbet",
+    "mangový sorbet recept",
+    "ovocný sorbet",
+    "sorbet bez zmrzlinovače"
+  ],
+  "image": "dish-mangovy-sorbet-lzicka",
+  "category": "zmrzlina",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 270,
+  "waitLabel": "mražení a míchání",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Mangový sorbet recept bez zmrzlinovače pro 4 porce: dvě zralá manga, limetka a trochu cukrového sirupu. Sorbet je hladký, intenzivně ovocný a vegan. Aby nebyl tvrdý jako led, během mražení se několikrát prošlehá vidličkou.",
+  "ingredients": [
+    {
+      "ingredient": "mango",
+      "amount": 2,
+      "unit": "ks",
+      "note": "velmi zralá, asi 600 g dužiny"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "kůra a šťáva"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 70,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cukr s vodou ohřej v hrnci, dokud se cukr nerozpustí, a nech vychladnout. Sirup udrží sorbet hladký."
+    },
+    {
+      "text": "Mango oloupej, dužinu odkroj od pecky a nakrájej na kousky. Rozmixuj spolu se šťávou a kůrou z limetky a sirupem do hladkého pyré."
+    },
+    {
+      "text": "Pyré nalij do ploché dózy a dej do mrazáku. Po 1 hodině ho vyndej a vidličkou rozmíchej krystalky, stejně tak po dalších 45 minutách a ještě jednou."
+    },
+    {
+      "text": "Po dalších 2 hodinách je sorbet tuhý. Před podáváním nech 10 minut měknout při pokojové teplotě."
+    }
+  ],
+  "tips": [
+    "Mango musí být zralé, to znamená že povolí při stisku. Nezralé je kyselé a vláknité.",
+    "Rychlá verze: mražené kousky manga rozmixuj s 2 lžícemi sirupu a šťávou z limetky, sorbet je hotový za 5 minut.",
+    "Dóza musí být plochá, sorbet rychleji zamrzne a vzniknou menší krystalky."
+  ],
+  "substitutions": [
+    "Mango nahraď ananasem nebo broskvemi, množství cukru uprav podle sladkosti.",
+    "Limetku nahraď citronem.",
+    "Cukr nahraď medem v poměru 1 : 1, sorbet už pak nebude vegan."
+  ],
+  "faq": [
+    {
+      "q": "Proč je domácí sorbet tvrdý?",
+      "a": "Obsahuje málo cukru nebo se během mražení nemíchal. Dodrž množství sirupu a občas ho prošlehej."
+    },
+    {
+      "q": "Dá se mangový sorbet udělat z konzervy?",
+      "a": "Ano, použij 600 g dobře odkapané mangové dužiny z konzervy a cukr sniž na 40 g, protože konzerva je slazená."
+    },
+    {
+      "q": "Jak dlouho vydrží mangový sorbet v mrazáku?",
+      "a": "Do dvou týdnů v dobře zavřené dóze."
+    }
+  ]
+}

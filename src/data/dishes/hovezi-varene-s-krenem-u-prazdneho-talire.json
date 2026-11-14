@@ -1,0 +1,45 @@
+{
+  "name": "Vařené hovězí s jablečným křenem",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "price": 23900,
+  "recipe": "hovezi-varene-s-krenem",
+  "vegetarian": false,
+  "order": 320,
+  "description": "Hovězí uvařené do měkka, jablečný křen a houskový knedlík. Trpělivost je v ceně.",
+  "about": [
+    "Vařené hovězí je jídlo, které se nedá uspěchat: kus zadního se vaří 2 až 2,5 hodiny na mírném varu, dokud špejle neprojde bez odporu. Pak se krájí napříč vlákny a podává s jablečným křenem, který je ostrý a sladký zároveň.",
+    "Doma ti vývar zbude na polévku, takže z jednoho kusu masa máš dvě jídla. U nás zbyde jen příběh o tom, jak voní celý byt. Ten si ale musíš uvařit sám."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "houskovy-knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "chleb",
+          "name": "Chléb",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "image": "dish-hovezi-varene-s-krenem-u-prazdneho-talire",
+  "allergens": [
+    9
+  ],
+  "spicy": 0
+}

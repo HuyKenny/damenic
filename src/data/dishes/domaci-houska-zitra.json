@@ -1,0 +1,23 @@
+{
+  "name": "Houska s křupavou kůrkou",
+  "restaurant": "pekarna-zitra-upecem",
+  "kind": "main",
+  "section": "Máslové a slané",
+  "description": "Kulatá houska s hvězdou na vrchu, lesklá kůrka, uvnitř měkká. Pro ranní máslo.",
+  "about": [
+    "Houska je pečivo, které se pozná podle hvězdy. Kulaté těsto se přehne do pěti hran, stiskne a po upečení se rozevře. V páře dostane lesklou křupavou kůrku a uvnitř zůstane vláčná, takže unese máslo, sýr i šunku najednou.",
+    "Pekárna Zítra upečem tentokrát nezítra. Recept máš dnes, hlad taky, a pec stačí rozpálit doma."
+  ],
+  "price": 2900,
+  "image": "dish-domaci-houska-zitra",
+  "recipe": "domaci-houska",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    11
+  ],
+  "order": 17
+}

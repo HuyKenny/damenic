@@ -1,0 +1,170 @@
+{
+  "title": "Kynuté koláče s tvarohem a drobenkou",
+  "keywords": [
+    "koláče s tvarohem",
+    "domácí koláče",
+    "tvarohové koláčky",
+    "kynuté koláče s tvarohem"
+  ],
+  "image": "dish-kolace-s-tvarohem-nedortik",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 7,
+  "activeMinutes": 45,
+  "cookMinutes": 18,
+  "waitMinutes": 90,
+  "waitLabel": "kynutí těsta a koláčků",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Koláče s tvarohem recept na 14 domácích koláčků: kynuté máslové těsto, sladká tvarohová náplň a drobenka. Vyjde plech koláčů, které jsou ještě druhý den měkké. Náplň se nesmí příliš oplachovat mlékem a těsto se tvaruje, když je vykynuté, ale ne přerostlé.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 25,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "rozpuštěné a vychladlé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 500,
+      "unit": "g",
+      "note": "hrudkovitý, měkký",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen kůra",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 40,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "studené",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na potření",
+      "group": "Drobenka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozdrol do vlažného mléka s lžičkou cukru a nech 10 minut vzejít. Mouku smíchej se solí a cukrem, přidej kvásek, vejce a máslo. Hnětej 10 minut do hladkého těsta. Nech 50 minut nakynout."
+    },
+    {
+      "section": "Náplň",
+      "text": "Tvaroh prošlehej s moučkovým cukrem, vejcem, vanilkovým cukrem a kůrou z citronu do hladké hmoty. Pokud je tvaroh moc vlhký, nech ho předem 30 minut okapat v sítku."
+    },
+    {
+      "section": "Drobenka",
+      "text": "Mouku s cukrem a studeným máslem rozdrol prsty do drobenky."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Těsto rozdělej na 14 dílů, z každého vytvaruj kouli a ulož na plech s papírem. Do každého zatlač prohlubeň a naplň 2 lžícemi tvarohu. Nech 30 minut kynout."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Troubu předehřej na 190 °C (horkovzduch 175 °C). Okraje koláčků potři mlékem a plochu posyp drobenkou. Peč 15 až 18 minut. Hotové jsou, když okraje zlatnou a tvaroh se nehýbe při zatřesení."
+    }
+  ],
+  "tips": [
+    "Tvarohová náplň se po upečení trochu nafoukne a pak sedne, to je v pořádku.",
+    "Nepřekyň koláčky. Přerostlé těsto se propadne a náplň se z něj vylije.",
+    "V dóze vydrží 2 dny, v lednici 4 dny. Před jídlem je dobré je 10 minut ohřát na 150 °C."
+  ],
+  "substitutions": [
+    "Tvaroh můžeš nahradit směsí tvarohu a mascarpone.",
+    "Do náplně přidej rozinky nebo drcenou ostružinu.",
+    "Máslo v těstě nahraď 4 lžícemi oleje."
+  ],
+  "faq": [
+    {
+      "q": "Proč se tvaroh v koláčcích vylil?",
+      "a": "Byl moc vlhký nebo se koláčky přeplnily. Tvaroh nech okapat a dej jen 2 lžíce na koláček."
+    },
+    {
+      "q": "Jak dlouho vydrží koláče s tvarohem?",
+      "a": "V lednici 4 dny. Pokojová teplota 2 dny maximálně, kvůli tvarohové náplni."
+    },
+    {
+      "q": "Dají se koláče zmrazit?",
+      "a": "Ano, upečené a vychladlé je zmraz na 2 měsíce. Rozmrazuj při pokojové teplotě a krátce dopeč."
+    }
+  ]
+}

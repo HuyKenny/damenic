@@ -1,0 +1,22 @@
+{
+  "name": "Domácí mandlové mléko",
+  "restaurant": "dzusbar-vymackame-zitra",
+  "kind": "main",
+  "section": "Chladivé",
+  "price": 8900,
+  "recipe": "domaci-mandlove-mleko",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "order": 210,
+  "description": "Studené mandlové mléko s kapkou javorového sirupu a vanilky.",
+  "about": [
+    "Mandle se namáčejí přes noc, rozmixují s vodou a přecedí přes plátno. Z 150 g mandlí vyjde zhruba 700 ml mléka. Je jemné, lehce sladké a bez přísad.",
+    "Vymačkáme zítra znamená, že mandle jsou už namočené, jen se ještě nikdo nevymáčkl. Doma to zvládneš za čtvrt hodiny."
+  ],
+  "optionGroups": [],
+  "image": "dish-mandlove-mleko-vymackame",
+  "allergens": [
+    8
+  ]
+}

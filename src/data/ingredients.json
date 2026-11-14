@@ -2231,7 +2231,8 @@
     "diet": "plant",
     "allergens": [
       1
-    ]
+    ],
+    "alcohol": true
   },
   {
     "id": "vino-bile",
@@ -2248,7 +2249,8 @@
     "diet": "plant",
     "allergens": [
       12
-    ]
+    ],
+    "alcohol": true
   },
   {
     "id": "knedlik-houskovy",
@@ -6022,5 +6024,521 @@
       4
     ],
     "family": "ryba"
+  },
+  {
+    "id": "rybi-file",
+    "name": "Rybí filé bez kůže (mražené)",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 400,
+      "price": 8900,
+      "label": "balení 400 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      4
+    ],
+    "family": "ryba"
+  },
+  {
+    "id": "hovezi-jazyk",
+    "name": "Hovězí jazyk",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 17900,
+      "label": "kus asi 1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "hovezi"
+  },
+  {
+    "id": "veprova-jatra",
+    "name": "Vepřová játra",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 5500,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
+  },
+  {
+    "id": "veprove-nozicky",
+    "name": "Vepřové nožičky",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 6900,
+      "label": "balení 1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
+  },
+  {
+    "id": "veprova-hlava",
+    "name": "Vepřová hlava (půlka)",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 5900,
+      "label": "půlka asi 1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
+  },
+  {
+    "id": "veprove-strevo",
+    "name": "Vepřové střívko na jitrnice",
+    "department": "Maso a ryby",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 3900,
+      "label": "svazek asi 3 m"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
+  },
+  {
+    "id": "veprove-sadlo-hrbetni",
+    "name": "Vepřové hřbetní sádlo (syrové)",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 7900,
+      "label": "kus 1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
+  },
+  {
+    "id": "nudle-siroke",
+    "name": "Široké vaječné nudle (sušené)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 4900,
+      "label": "balení 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "egg",
+    "allergens": [
+      1,
+      3
+    ],
+    "family": "testoviny"
+  },
+  {
+    "id": "svestky-susene",
+    "name": "Sušené švestky bez pecek",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 4900,
+      "label": "balení 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
+  },
+  {
+    "id": "tavene-syr-blok",
+    "name": "Tavený sýr (bloček)",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 3900,
+      "label": "balení 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
+  },
+  {
+    "id": "veprova-panenka",
+    "name": "Vepřová panenka",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 13900,
+      "label": "panenka cca 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
+  },
+  {
+    "id": "kachni-prsa",
+    "name": "Kachní prsa s kůží",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 600,
+      "price": 24900,
+      "label": "2 prsa cca 600 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "husa-kachna"
+  },
+  {
+    "id": "kachna-cela",
+    "name": "Kachna celá (kuchaná)",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 2200,
+      "price": 32900,
+      "label": "kachna cca 2,2 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "husa-kachna"
+  },
+  {
+    "id": "kruti-prsa",
+    "name": "Krůtí prsa",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 700,
+      "price": 16900,
+      "label": "kus cca 700 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "kure"
+  },
+  {
+    "id": "hovezi-tomahawk",
+    "name": "Hovězí tomahawk steak",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 79900,
+      "label": "kus cca 1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "hovezi"
+  },
+  {
+    "id": "losos-filet",
+    "name": "Losos filet s kůží",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 300,
+      "price": 14900,
+      "label": "filet cca 300 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      4
+    ],
+    "family": "ryba"
+  },
+  {
+    "id": "treska-filet",
+    "name": "Treska filet",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 400,
+      "price": 13900,
+      "label": "filet cca 400 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      4
+    ],
+    "family": "ryba"
+  },
+  {
+    "id": "pstruh-cely",
+    "name": "Pstruh duhový (kuchaný)",
+    "department": "Maso a ryby",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 2,
+      "price": 9900,
+      "label": "2 ks cca 600 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      4
+    ],
+    "family": "ryba"
+  },
+  {
+    "id": "fazolky-zelene",
+    "name": "Zelené fazolky",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 400,
+      "price": 5900,
+      "label": "balení 400 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
+  },
+  {
+    "id": "kozi-syr",
+    "name": "Kozí sýr (kulatý, zrající)",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 150,
+      "price": 5900,
+      "label": "váleček 150 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
+  },
+  {
+    "id": "protein-prasek",
+    "name": "Proteinový prášek (vanilka)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 10,
+    "pack": {
+      "size": 500,
+      "price": 49900,
+      "label": "sáček 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ]
+  },
+  {
+    "id": "kava-instantni",
+    "name": "Instantní káva",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 6,
+    "pack": {
+      "size": 100,
+      "price": 8900,
+      "label": "sklenice 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
+  },
+  {
+    "id": "kvasnicove-vlocky",
+    "name": "Kvasnicové vločky",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 6,
+    "pack": {
+      "size": 100,
+      "price": 7900,
+      "label": "sáček 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
+  },
+  {
+    "id": "mouka-bezlepkova",
+    "name": "Mouka bezlepková chlebová směs",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 6900,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "spoon": 8,
+    "diet": "plant",
+    "allergens": [],
+    "family": "testo-pecivo"
+  },
+  {
+    "id": "psyllium",
+    "name": "Psyllium (vláknina z jitrocele)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 8900,
+      "label": "balení 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "spoon": 5,
+    "diet": "plant",
+    "allergens": []
+  },
+  {
+    "id": "safran",
+    "name": "Šafrán",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1,
+      "price": 9900,
+      "label": "dóza 1 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
+  },
+  {
+    "id": "testo-filo",
+    "name": "Filo těsto",
+    "department": "Pečivo",
+    "baseUnit": "g",
+    "pack": {
+      "size": 270,
+      "price": 4500,
+      "label": "balení 270 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
+  },
+  {
+    "id": "kysane-zeli-hlava",
+    "name": "Kysaná zelná hlávka",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 7900,
+      "label": "1 hlávka (asi 1,5 kg)"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
+  },
+  {
+    "id": "ajvar",
+    "name": "Ajvar",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 20,
+    "pack": {
+      "size": 190,
+      "price": 5900,
+      "label": "sklenice 190 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
+  },
+  {
+    "id": "ryzova-mouka",
+    "name": "Rýžová mouka",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 10,
+    "pack": {
+      "size": 400,
+      "price": 4500,
+      "label": "balení 400 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
+  },
+  {
+    "id": "kimchi",
+    "name": "Kimchi",
+    "department": "Ostatní",
+    "baseUnit": "g",
+    "pack": {
+      "size": 300,
+      "price": 8900,
+      "label": "sklenice 300 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      4
+    ]
   }
 ]

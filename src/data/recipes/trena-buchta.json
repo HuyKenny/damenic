@@ -1,0 +1,124 @@
+{
+  "title": "Třená buchta s jablky",
+  "keywords": [
+    "třená buchta",
+    "třená buchta recept",
+    "buchta s ovocem",
+    "třená buchta s jablky"
+  ],
+  "image": "dish-trena-buchta-nedortik",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 25,
+  "cookMinutes": 45,
+  "waitMinutes": 20,
+  "waitLabel": "vychladnutí",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Třená buchta recept na formu 22 × 30 cm: máslo se vytře s cukrem a žloutky do pěny, a proto je těsto vláčné bez kynutí. Vyjde 12 kousků a hodí se na ni jakékoli ovoce, tady jablka se skořicí. Důležité je, aby všechny suroviny měly pokojovou teplotu.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "oddělené žloutky a bílky"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 120,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen kůra"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 3,
+      "unit": "ks",
+      "note": "oloupaná, na plátky"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 175 °C (horkovzduch 160 °C). Formu 22 × 30 cm vymaž máslem a vysyp moukou, nebo ji vylož pečicím papírem."
+    },
+    {
+      "text": "Máslo vyšlehej s cukrem a vanilkovým cukrem do světlé pěny, asi 4 minuty. Po jednom přidávej žloutky a nech je vždy zapracovat."
+    },
+    {
+      "text": "Mouku smíchej s práškem do pečiva a vmíchej střídavě s mlékem do těsta. Přidej strouhanou kůru z citronu."
+    },
+    {
+      "text": "Z bílků ušlehej tuhý sníh a lehce ho vmíchej do těsta. Těsto rozlož do formy, na něj poskládej plátky jablek a posyp skořicí."
+    },
+    {
+      "text": "Peč 40 až 45 minut. Dřevěná špejle zapíchnutá doprostřed musí vyjít suchá. Buchtu nech 20 minut vychladnout ve formě a posyp moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Všechny suroviny vytáhni z lednice aspoň hodinu předem. Studená vejce máslovou pěnu srazí.",
+    "Ovoce se do těsta lehce zaboří, proto ho nech naležato a netlač ho dovnitř.",
+    "Zabalená v dóze vydrží 3 dny, třetí den je nejvláčnější."
+  ],
+  "substitutions": [
+    "Jablka nahraď 400 g švestek, třešní nebo rybízu. Šťavnaté ovoce posyp lžící krupice, aby nepromočilo těsto.",
+    "Mléko nahraď kefírem, buchta bude ještě měkčí.",
+    "Mouku hladkou můžeš nahradit polohrubou, bude hutnější."
+  ],
+  "faq": [
+    {
+      "q": "Proč třená buchta spadla?",
+      "a": "Těsto se příliš míchalo po přidání sněhu nebo se brzy otevřela trouba. Sníh vmíchávej jen krátce a troubu neotvírej prvních 30 minut."
+    },
+    {
+      "q": "Dá se třená buchta péct bez vajec?",
+      "a": "Dá, ale změní se. Na jedno vejce počítej s 3 lžícemi jogurtu. Buchta je pak vlhčí a méně nadýchaná."
+    },
+    {
+      "q": "Jak dlouho vydrží třená buchta?",
+      "a": "V dóze nebo pod utěrkou 3 dny, v lednici týden. Před podáváním ji nech vytemperovat."
+    }
+  ]
+}

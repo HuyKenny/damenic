@@ -1,0 +1,133 @@
+{
+  "title": "Kimchi jjigae (korejský kimchi guláš)",
+  "keywords": [
+    "kimchi jjigae",
+    "kimchi polévka",
+    "korejská polévka s kimchi",
+    "kimchi guláš"
+  ],
+  "image": "dish-kimchi-jjigae",
+  "category": "asijska",
+  "vegetarian": false,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Kimchi jjigae je ostrý korejský guláš z kysaného kimchi, vepřového bůčku a tofu, který se vaří v jednom hrnci. Čím je kimchi kyselejší a starší, tím lepší vývar vznikne. Podává se s rýží.",
+  "ingredients": [
+    {
+      "ingredient": "kimchi",
+      "amount": 300,
+      "unit": "g",
+      "note": "kyselé, na kousky + 3 lžíce šťávy"
+    },
+    {
+      "ingredient": "veprovy-bok",
+      "amount": 200,
+      "unit": "g",
+      "note": "na tenké plátky"
+    },
+    {
+      "ingredient": "tofu",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "gochugaru",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "gochujang",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 700,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "ryze-jasminova",
+      "amount": 200,
+      "unit": "g",
+      "note": "uvařená, na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej sezamový olej a na středním plameni opékej vepřový bůček 4 minuty do zlatova."
+    },
+    {
+      "text": "Přidej cibuli a česnek a smaž 2 minuty. Vmíchej kimchi a 3 lžíce šťávy a opékej 5 minut, až jemně zkaramelizuje."
+    },
+    {
+      "text": "Přidej gochugaru, gochujang, sójovou omáčku a cukr, promíchej, zalij vývarem a přiveď k varu."
+    },
+    {
+      "text": "Přikryj a vař 20 minut na středním plameni. Maso musí být měkké a propečené."
+    },
+    {
+      "text": "Přidej tofu a vař dalších 5 minut. Ochutnej, případně dosol sójovou omáčkou. Posyp jarní cibulkou a podávej s rýží."
+    }
+  ],
+  "tips": [
+    "Použij staré kyselé kimchi. Čerstvé nemá dost chuti.",
+    "Pokrm je lepší, když ho necháš po uvaření 10 minut odstát.",
+    "Jde zamrazit bez tofu."
+  ],
+  "substitutions": [
+    "Bůček nahradí vepřové plece nebo tuňák z konzervy.",
+    "Pro vegetariánskou verzi vynech maso a použij zeleninový vývar, sójová omáčka dodá slanost.",
+    "Gochujang nahradí 1 lžíce sriracha."
+  ],
+  "faq": [
+    {
+      "q": "Jaké kimchi se používá na jjigae?",
+      "a": "Starší, kyselé, které už jednou vyfermentovalo. Z čerstvého bude polévka plochá."
+    },
+    {
+      "q": "Jak je kimchi jjigae ostrá?",
+      "a": "Střední až ostrá. Pro mírnější verzi dej méně gochugaru a víc gochujangu."
+    },
+    {
+      "q": "Co s ním podávat?",
+      "a": "Vařenou rýži a pár příloh, třeba vejce nebo zeleninu."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Bramborové šišky s mákem",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Sladké jídlo",
+  "price": 13900,
+  "recipe": "bramborove-sisky-s-makem",
+  "vegetarian": true,
+  "order": 300,
+  "description": "Vařené šišky z brambor obalené v mletém máku s cukrem a másle. Sladký oběd na světě, který nepřijede.",
+  "about": [
+    "Bramborové šišky jsou válečky z těsta z vychladlých vařených brambor, mouky a vejce, které se vaří 5 až 6 minut po vyplavání. Obalují se v rozpuštěném másle a mletém máku s cukrem a vanilkou.",
+    "Aby se nerozpadly, musí být brambory moučné a těsto se nesmí přehnětat. Zkušební šišku vař předem. Doma se vyplatí, tady je to jen příběh k obědu."
+  ],
+  "optionGroups": [
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "maslo",
+          "name": "Máslo navíc",
+          "priceDelta": 1000
+        },
+        {
+          "id": "smetana",
+          "name": "Šlehačka",
+          "priceDelta": 1500
+        }
+      ],
+      "max": 2
+    }
+  ],
+  "image": "dish-bramborove-sisky-s-makem-jidelna-zitra-mozna",
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "spicy": 0
+}

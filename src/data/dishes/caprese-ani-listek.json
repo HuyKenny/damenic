@@ -1,0 +1,22 @@
+{
+  "name": "Caprese s mozzarellou a bazalkou",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "price": 16900,
+  "recipe": "caprese",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 230,
+  "description": "Plátky rajčat a mozzarelly, listy bazalky, olivový olej a hrubá sůl. Nic navíc.",
+  "about": [
+    "Caprese je tři suroviny a olivový olej. Proto záleží na tom, aby rajčata byla zralá a pokojové teploty, mozzarella dobře odkapaná a bazalka čerstvá.",
+    "Zítra bude tahle porce stejně prázdná jako dnes. Recept na ni ale pořád platí a k tomu stačí deset minut."
+  ],
+  "optionGroups": [],
+  "image": "dish-caprese-ani-listek",
+  "allergens": [
+    7
+  ]
+}

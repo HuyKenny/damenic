@@ -1,0 +1,96 @@
+{
+  "title": "Kurkumové latte (zlaté mléko)",
+  "keywords": [
+    "kurkumové latte",
+    "zlaté mléko",
+    "golden milk",
+    "kurkumové mléko"
+  ],
+  "image": "dish-kurkumove-latte-jeste-slehame",
+  "category": "kavarna",
+  "vegetarian": true,
+  "servings": 1,
+  "activeMinutes": 5,
+  "cookMinutes": 5,
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "intro": "Kurkumové latte, také zlaté mléko, je hřejivý nápoj z mléka, kurkumy, skořice a zázvoru bez kávy. Chutná lehce zemitě a dlouho drží teplo. Aby se kurkuma nesrazila, mléko se jen zahřívá a směs se promíchá metličkou.",
+  "ingredients": [
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "nebo rostlinné"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 5,
+      "unit": "g",
+      "note": "čerstvý, najemno nastrouhaný"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "nepovinné, pro lepší vstřebání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do malého hrnku vsyp kurkumu, skořici, zázvor a pepř. Přidej 2 lžíce mléka a rozmíchej na hladkou pastu, aby se koření rozpustilo a nehrudkovatělo."
+    },
+    {
+      "text": "Zbylé mléko nalij do hrnce, přidej pastu a za stálého míchání zahřívej na středním plameni, dokud se nezačne tvořit pára, asi 3 až 4 minuty. Nevař, mléko by se přichytilo."
+    },
+    {
+      "text": "Stáhni z plamene, vmíchej med a případně olej. Přeceď přes jemné sítko do hrnku."
+    },
+    {
+      "text": "Podávej horké. Při pomalém popíjení chvilku míchej, koření se usazuje."
+    }
+  ],
+  "tips": [
+    "Pepř nevynechávej, pomáhá tělu vstřebávat kurkumin.",
+    "Rostlinné mléko, zejména ovesné nebo kokosové, dává krémovější výsledek.",
+    "Kurkuma barví textil i dřevěné desky. Hned umyj lžíci i hrnek."
+  ],
+  "substitutions": [
+    "Med nahraď javorovým sirupem pro veganskou variantu.",
+    "Zázvor můžeš zaměnit za špetku mletého zázvoru.",
+    "Přidej kardamom a hřebíček pro chai chuť."
+  ],
+  "faq": [
+    {
+      "q": "Proč má kurkumové latte hrudky?",
+      "a": "Kurkuma se nerozpustila. Nejdřív ji rozmíchej s trochou tekutiny na pastu a pak teprve přidej zbytek."
+    },
+    {
+      "q": "Kdy se kurkumové latte pije?",
+      "a": "Nejčastěji večer, protože neobsahuje kofein. Hodí se jako hřejivý nápoj před spaním."
+    },
+    {
+      "q": "Dá se kurkumové latte připravit předem?",
+      "a": "Můžeš si namíchat suchou směs kurkumy, skořice a zázvoru do sklenice a pak ji jen rozmíchat s mlékem."
+    }
+  ]
+}

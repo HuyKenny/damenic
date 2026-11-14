@@ -1,0 +1,143 @@
+{
+  "title": "Rybí filé v trojobalu s tatarskou omáčkou",
+  "keywords": [
+    "rybí filé",
+    "rybí filé v trojobalu",
+    "smažené rybí filé",
+    "rybí filé recept",
+    "rybí filé s tatarkou"
+  ],
+  "image": "dish-rybi-file-v-trojobalu-u-prazdneho-talire",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Smažené rybí filé v trojobalu je kus bílé ryby obalený v mouce, vejci a strouhance a osmažený dozlatova. Recept na rybí filé je hotový za půl hodiny a připravuje se z mražených i čerstvých filetů, které stačí 3 minuty z každé strany. Jediná past je vlhkost: nechceš-li obal, který se odlupuje, musíš filé dobře osušit.",
+  "ingredients": [
+    {
+      "ingredient": "rybi-file",
+      "amount": 600,
+      "unit": "g",
+      "note": "4 kusy po 150 g, rozmražené",
+      "group": "Ryba"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "rozšlehaná",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Ryba"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Ryba"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 400,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Ryba"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na podávání",
+      "group": "Ryba"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 120,
+      "unit": "g",
+      "group": "Tatarská omáčka"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 60,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Tatarská omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 30,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Tatarská omáčka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "jen šťáva",
+      "group": "Tatarská omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozmražené filé osuš z obou stran papírovou utěrkou, jinak se obal sloupne. Osol a opepři."
+    },
+    {
+      "text": "Připrav tři talíře: hladkou mouku, rozšlehaná vejce a strouhanku. Každý kus obal nejprve v mouce, přebytek oklepej, potom ve vejci a nakonec ve strouhance. Strouhanku jemně přitlač."
+    },
+    {
+      "text": "Olej nalij do pánve do výšky asi 1 cm a rozpal na 170 až 175 °C. Pokud nemáš teploměr, strouhanka v něm musí hned pěnit."
+    },
+    {
+      "text": "Smaž filé po dvou kusech 3 minuty z každé strany, dokud nejsou zlatavé a uvnitř mají aspoň 63 °C. Vyndej na papírovou utěrku."
+    },
+    {
+      "text": "Na tatarku smíchej majonézu s nasekanými okurkami, cibulí a citronovou šťávou. Podávej s rybou, citronem a bramborami nebo bramborovým salátem."
+    }
+  ],
+  "tips": [
+    "Filé musí být suché. Při smažení z mraženého vzniká voda a obal se oddělí.",
+    "Olej nesmí být ani příliš horký, ani vlažný. Při 160 °C nasákne a obal bude mastný.",
+    "Hotové filé odkládej na rošt, ne na talíř, jinak ztratí křupavost.",
+    "Zbylý olej přecedíš a použiješ znovu jednou, jen na ryby."
+  ],
+  "substitutions": [
+    "Strouhanku nahraď panko nebo mletými cornflakes pro větší křupavost.",
+    "Majonézu v tatarce nahraď řeckým jogurtem, bude lehčí.",
+    "Do trouby: filé potřené olejem upeč na plechu při 200 °C 15 minut, obal bude méně křupavý."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se smaží rybí filé?",
+      "a": "3 minuty z každé strany při 170 až 175 °C. Silnější kusy potřebují o minutu víc."
+    },
+    {
+      "q": "Proč se obal odlupuje od ryby?",
+      "a": "Filé bylo vlhké nebo se po obalení hýbalo v oleji dřív než za minutu. Osuš ho a neobracej dřív než za 3 minuty."
+    },
+    {
+      "q": "Můžu smažit rybí filé z mrazáku?",
+      "a": "Ne. Rozmraž je v lednici přes noc, jinak se obal oddělí a uvnitř nebude propečené."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Uzené s kysaným zelím a bramborem",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "price": 19900,
+  "recipe": "uzene-s-kysanym-zelim",
+  "vegetarian": false,
+  "order": 330,
+  "description": "Uzené maso, dušené kysané zelí a brambory. Zima na talíři, jen bez zimy za oknem.",
+  "about": [
+    "Uzené s kysaným zelím je jedno z nejjednodušších jídel hospody: uzené se vaří 60 minut, zelí se dusí s cibulí a kmínem 35 až 40 minut a brambory se vaří vedle. Soli není třeba, uzené a zelí ji pouštějí samy.",
+    "Pravidlo, které si zapiš: nesol dřív, než ochutnáš. Zbytek je jen čekání u plotny, a to je u nás zadarmo, protože nic nevaříme."
+  ],
+  "optionGroups": [],
+  "image": "dish-uzene-s-kysanym-zelim-u-prazdneho-talire",
+  "allergens": [],
+  "spicy": 0
+}

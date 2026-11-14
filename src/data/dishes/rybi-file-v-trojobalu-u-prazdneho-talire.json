@@ -1,0 +1,48 @@
+{
+  "name": "Smažené rybí filé s tatarkou",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Minutky",
+  "price": 18900,
+  "recipe": "rybi-file-v-trojobalu",
+  "vegetarian": false,
+  "order": 300,
+  "description": "Zlatý trojobal, bílá ryba pod ním a tatarka. Citron si vymačkej sám, to ti kurýr nepřebere.",
+  "about": [
+    "Rybí filé v trojobalu je hospodská minutka, která stojí na jedné věci: suchý povrch. Rozmražené filé se musí osušit, obalit v mouce, ve vejci a ve strouhance a smažit 3 minuty z každé strany při 175 °C. Tatarka z majonézy, okurek a cibule patří k tomu.",
+    "Domácí verze je stejně dobrá jako hospodská a stojí za to ji zkusit. Recept má časy, teploty i trik, aby se obal neodlupoval. Citron ti tu dáme, rybu ti nepřivezeme."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 1500
+        },
+        {
+          "id": "salat",
+          "name": "Bramborový salát",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "image": "dish-rybi-file-v-trojobalu-u-prazdneho-talire",
+  "allergens": [
+    1,
+    3,
+    4,
+    10
+  ],
+  "spicy": 0
+}

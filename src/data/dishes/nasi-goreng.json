@@ -1,0 +1,22 @@
+{
+  "name": "Nasi goreng s kuřetem",
+  "section": "Rýže a kari",
+  "price": 16900,
+  "recipe": "nasi-goreng",
+  "vegetarian": false,
+  "order": 230,
+  "description": "Smažená rýže s kuřetem, česnekem, chilli a smaženým vejcem, s okurkou a cibulkou.",
+  "about": [
+    "Nasi goreng je indonéská smažená rýže. Dělá se ze včerejší rýže, která je suchá a oddělená, a to je tajemství.",
+    "Hodí se skvěle na zbytky, a tak se na ni v domácnosti vždy někdo těší."
+  ],
+  "spicy": 2,
+  "kind": "main",
+  "restaurant": "wok-nic-moc",
+  "image": "dish-nasi-goreng",
+  "allergens": [
+    1,
+    3,
+    6
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Chia pudink s kokosem a malinami",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Fit snídaně",
+  "price": 12900,
+  "recipe": "chia-pudink",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "order": 210,
+  "description": "Chia semínka nabobtnaná v kokosovém mléku, polévaná malinami a opraženými mandlemi.",
+  "about": [
+    "Chia pudink se připravuje večer, ráno je hotový. Semínka vstřebají kokosové mléko a vytvoří lehký gelový pudink. Maliny dodají kyselost a kokos s mandlemi křupavost.",
+    "Večer promícháš semínka s mlékem, ráno máš snídani. Ani lístek je smyšlený, tak ti ji nepřiveze, ale doma ji připravíš za osm minut."
+  ],
+  "optionGroups": [],
+  "image": "dish-chia-pudink-ani-listek",
+  "allergens": [
+    8
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Zapečené kuřecí s brokolicí",
+  "kind": "main",
+  "section": "Kuře",
+  "price": 20900,
+  "recipe": "zapecene-kureci-s-brokolici",
+  "vegetarian": false,
+  "order": 140,
+  "description": "Kuřecí kostky, brokolice a eidam v jedné míse. Mísa existuje jen v receptu.",
+  "about": [
+    "Zapečené kuřecí s brokolicí je jídlo, které se nemusí hlídat: všechno jde do jedné mísy a trouba udělá zbytek. Důležité je jen předvařit brokolici a omáčku nechat řidší.",
+    "Rychlá večeře, která se na stole objeví až po upečení. Tady ne, ale recept to vynahradí."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "rize",
+          "name": "Rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "restaurant": "bistro-uletelo",
+  "image": "dish-zapecene-kureci-s-brokolici",
+  "allergens": [
+    1,
+    7,
+    10
+  ]
+}

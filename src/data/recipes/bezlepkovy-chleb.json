@@ -1,0 +1,106 @@
+{
+  "title": "Bezlepkový chléb s psylliem",
+  "keywords": [
+    "bezlepkový chléb",
+    "bezlepkový chléb recept",
+    "bezlepkový chléb z trouby",
+    "chléb bez lepku"
+  ],
+  "image": "dish-bezlepkovy-chleb-zitra",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 10,
+  "activeMinutes": 25,
+  "cookMinutes": 50,
+  "waitMinutes": 90,
+  "waitLabel": "kynutí",
+  "difficulty": "střední",
+  "meal": "pecivo",
+  "intro": "Bezlepkový chléb recept z bezlepkové chlebové směsi, psyllia a droždí. Psyllium nahrazuje lepek a drží těsto pohromadě, takže chléb nepraská a nedrolí se. Těsto je spíš hustá kaše než pružné těsto a míchá se jen krátce. Při nákupu zkontroluj, že mouka i droždí jsou označené jako bezlepkové.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-bezlepkova",
+      "amount": 400,
+      "unit": "g",
+      "note": "bezlepková směs na chleba"
+    },
+    {
+      "ingredient": "psyllium",
+      "amount": 20,
+      "unit": "g",
+      "note": "celé šupiny nebo mleté"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 450,
+      "unit": "ml",
+      "note": "vlažná, asi 35 °C"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozmíchej ve vlažné vodě s medem a nech 10 minut vzejít. Mouku smíchej s psylliem a solí."
+    },
+    {
+      "text": "Do suchých surovin vlij kvásek, olej a ocet. Vařečkou míchej 3 minuty. Nech 10 minut odpočinout, psyllium nasákne a těsto zhoustne."
+    },
+    {
+      "text": "Formu o objemu 1,5 l vylož pečicím papírem. Těsto naplň vlhkou lžící, uhlaď mokrou rukou a nech kynout 50 až 60 minut, dokud nenakyne asi o třetinu."
+    },
+    {
+      "text": "Troubu předehřej na 210 °C (horkovzduch 195 °C). Chléb peč 10 minut, pak sniž na 190 °C a dopékej dalších 40 minut. Hotový je, když po poklepání na spodek zní dutě."
+    },
+    {
+      "text": "Nech ho na mřížce zcela vychladnout, aspoň 2 hodiny. Střída teprve potom dozraje a přestane se lepit."
+    }
+  ],
+  "tips": [
+    "Krájej až úplně vychladlý. Teplý je uvnitř vlhký a lepí se.",
+    "Pro lepší chuť přidej do těsta 2 lžíce slunečnicových semínek nebo lžíci kmínu.",
+    "Bezlepkový chléb tvrdne rychleji než běžný. Plátky zmraz a rozmrazuj v toustovači."
+  ],
+  "substitutions": [
+    "Psyllium nahraď 30 g mletých lněných semínek, chléb bude hutnější.",
+    "Med nahraď cukrem.",
+    "Ocet nahraď šťávou z půlky citronu."
+  ],
+  "faq": [
+    {
+      "q": "Proč bezlepkový chléb nenakyne tolik jako běžný?",
+      "a": "Bez lepku těsto nedrží plyn tak dobře. Nech ho nakynout jen o třetinu, další kynutí už chléb jen zhutní."
+    },
+    {
+      "q": "K čemu je psyllium?",
+      "a": "Je to vláknina ze semen jitrocele, která na sebe váže vodu a vytváří gel. Nahrazuje lepek a drží těsto pohromadě."
+    },
+    {
+      "q": "Je každá mouka označená jako bezlepková bezpečná pro celiaky?",
+      "a": "Pro celiaky je bezpečná jen mouka s označením bez lepku (přeškrtnutý klas). Zkontroluj to i u droždí a dalších surovin."
+    }
+  ]
+}

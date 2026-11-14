@@ -1,0 +1,23 @@
+{
+  "name": "Pirohy se slaninou a smetanou",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "price": 16900,
+  "recipe": "pirohy",
+  "vegetarian": false,
+  "order": 330,
+  "description": "Taštičky s bramborami a tvarohem, osmažená slanina a zakysaná smetana. Čtyři minuty po vyplavání.",
+  "about": [
+    "Pirohy jsou plněné taštičky z nekynutého těsta s bramborovo-tvarohovou náplní. Vaří se na mírném varu 4 minuty od vyplavání a podávají se se škvarky a zakysanou smetanou. Okraje musí být suché od mouky, jinak se nepřilepí.",
+    "Doma je zvládneš za hodinu a půl. Zbylé zamrazíš a máš hotovo na příště. U nás nezbude nic, ale ani nebude co zamrazit."
+  ],
+  "optionGroups": [],
+  "image": "dish-pirohy-vycep-zitra",
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "spicy": 0
+}

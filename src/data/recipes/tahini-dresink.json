@@ -1,0 +1,99 @@
+{
+  "title": "Tahini dresink s citronem a česnekem",
+  "keywords": [
+    "tahini dresink",
+    "tahini omáčka",
+    "dresink z tahini",
+    "tahini dresink recept"
+  ],
+  "image": "dish-tahini-dresink",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 5,
+  "cookMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Tahini dresink je hladká sezamová omáčka s citronem a česnekem, která se hodí k bowlům, pečené zelenině a falafelu. Hotová je za pět minut z pěti surovin. Trik je v ledové vodě, kterou se tahini po lžících ředí, dokud nezbělá a neztuhne do krému.",
+  "ingredients": [
+    {
+      "ingredient": "tahini",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný stroužek"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 60,
+      "unit": "ml",
+      "note": "ledová"
+    },
+    {
+      "ingredient": "javorovy-sirup",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "note": "mletý, nepovinný"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Tahini dej do misky nebo malého mixéru, vlej citronovou šťávu a rychle promíchej. Směs na chvíli ztuhne a zhrubne, to je v pořádku."
+    },
+    {
+      "text": "Přidej česnek, javorový sirup, sůl a případně kmín a míchej metličkou."
+    },
+    {
+      "text": "Po lžících přilévej ledovou vodu a vždy dobře promíchej. Dresink se nejdřív zhustí a pak se vyhladí a zesvětlí."
+    },
+    {
+      "text": "Ředěním dostaneš hustotu: pro polévání bowlu stačí 4 lžíce vody, pro dip méně, pro dresink do salátu víc. Dosol a dochuť citronem."
+    }
+  ],
+  "tips": [
+    "Tahini se ve sklenici rozděluje na olej a pastu. Před odměřením ji důkladně promíchej.",
+    "V uzavřené sklenici v lednici vydrží dresink 5 dní a po vychladnutí ztuhne, před použitím ho rozmíchej vodou.",
+    "Dresink je výrazně sytý. K salátu stačí 1 až 2 lžíce na porci."
+  ],
+  "substitutions": [
+    "Místo javorového sirupu dej med nebo vynech.",
+    "Citron může nahradit limetková šťáva.",
+    "Pro pikantní verzi přidej špetku chilli vloček nebo kapku sriracha."
+  ],
+  "faq": [
+    {
+      "q": "Proč tahini dresink ztuhne?",
+      "a": "Při míchání s citronem tahini zhoustne. Je to normální. Pokračuj s přidáváním vody po lžících a směs se vyhladí."
+    },
+    {
+      "q": "Je tahini dresink hořký?",
+      "a": "Kvalitní tahini hořké není. Hořkost dává starý nebo tmavý sezam, proto vybírej světlé, čerstvé tahini."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí tahini dresink?",
+      "a": "5 dní v lednici v uzavřené sklenici. Před použitím rozmíchej, případně zřeď trochou vody."
+    }
+  ],
+  "waitMinutes": 10,
+  "waitLabel": "odležení v lednici"
+}

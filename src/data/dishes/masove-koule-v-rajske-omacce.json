@@ -1,0 +1,21 @@
+{
+  "name": "Masové koule v rajské omáčce",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "price": 17900,
+  "recipe": "masove-koule-v-rajske-omacce",
+  "vegetarian": false,
+  "order": 180,
+  "description": "Koule z hovězího a vepřového v rajčatové omáčce se spagetami.",
+  "about": [
+    "Masové koule v rajské omáčce se dělají ze směsi hovězího a vepřového masa, aby byly šťavnaté i chutné. Vaří se přímo v omáčce a propečené musí být až do 75 °C.",
+    "V jídelním lístku je to klasika, v praxi spíš sen o klasice. Recept ti ale dá koule, které se rozpadnou jen na vidličce."
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-masove-koule-v-rajske-omacce",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

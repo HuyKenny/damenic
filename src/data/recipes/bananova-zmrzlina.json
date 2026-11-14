@@ -1,0 +1,82 @@
+{
+  "title": "Banánová zmrzlina ze čtyř surovin",
+  "keywords": [
+    "banánová zmrzlina",
+    "banánová zmrzlina recept",
+    "zmrzlina z banánů",
+    "zmrzlina bez cukru"
+  ],
+  "image": "dish-bananova-zmrzlina-led",
+  "category": "zmrzlina",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 240,
+  "waitLabel": "mražení banánů",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Banánová zmrzlina recept pro 3 porce: mražené zralé banány se rozmixují s trochou mléka do hladkého krému, který chutná jako smetanová zmrzlina. Nepotřebuješ zmrzlinovač ani cukr, jen silný mixér. Banány musí být opravdu zralé a zmražené aspoň 4 hodiny.",
+  "ingredients": [
+    {
+      "ingredient": "banan",
+      "amount": 4,
+      "unit": "ks",
+      "note": "velmi zralé, s hnědými tečkami"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 60,
+      "unit": "ml",
+      "note": "studené"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Banány oloupej, nakrájej na kolečka silná asi 1,5 cm a rozlož na plech s pečicím papírem tak, aby se nedotýkala. Zmraz aspoň na 4 hodiny, nejlépe přes noc."
+    },
+    {
+      "text": "Zmražená kolečka dej do výkonného mixéru nebo kuchyňského robota, přidej mléko, vanilkový cukr a sůl."
+    },
+    {
+      "text": "Mixuj nejprve na nízký stupeň a postupně přidávej výkon, přitom směs zatlačuj do nožů. Po 2 až 3 minutách se banány změní v hladký krém."
+    },
+    {
+      "text": "Zmrzlinu podávej hned jako měkkou, nebo ji přendej do dózy a nech 30 minut ztuhnout v mrazáku."
+    }
+  ],
+  "tips": [
+    "Čím zralejší banány, tím sladší zmrzlina. Zelenější banány dávají hrudky a hořkou chuť.",
+    "Pro čokoládovou variantu přidej při mixování 1 lžíci kakaa a lžičku medu.",
+    "Zmrzlina je nejlepší hned. Po zmrazení do tvrdého bloku ji před podáváním nech 10 minut měknout."
+  ],
+  "substitutions": [
+    "Mléko nahraď ovesným nebo mandlovým nápojem a zmrzlina bude veganská.",
+    "Přidej 2 lžíce arašídového másla pro sytější chuť (pozor na alergeny).",
+    "Místo vanilkového cukru použij 1 lžičku medu."
+  ],
+  "faq": [
+    {
+      "q": "Proč banánová zmrzlina chutná hlavně po banánu?",
+      "a": "Je to nevyhnutelné, banán je skoro jediná surovina. Dochutit ji můžeš kakaem, kávou nebo kousky ovoce."
+    },
+    {
+      "q": "Dá se banánová zmrzlina udělat bez silného mixéru?",
+      "a": "Slabší mixér zmražené banány nezvládne. Nech je 5 minut rozmrznout a mixuj po malých dávkách, případně je rozmačkej vidličkou. Nejhladší je výsledek z výkonného mixéru."
+    },
+    {
+      "q": "Jak dlouho vydrží banánová zmrzlina v mrazáku?",
+      "a": "Do týdne v uzavřené dóze. Čím déle leží, tím víc tvrdne a krystalizuje."
+    }
+  ]
+}

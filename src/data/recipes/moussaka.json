@@ -1,0 +1,195 @@
+{
+  "title": "Moussaka",
+  "keywords": [
+    "moussaka recept",
+    "řecká musaka",
+    "moussaka s lilkem",
+    "musaka"
+  ],
+  "image": "dish-moussaka",
+  "category": "kebab",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 50,
+  "cookMinutes": 70,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek po upečení, aby se vrstvy držely",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Moussaka je řecký zapečený pekáč z lilku, brambor, mleté masové omáčky a hustého bešamelu. Aby se řezala na čisté porce, musí být lilek předpečený, omáčka dohusta zredukovaná a hotový pekáč musí před krájením 15 minut odpočinout.",
+  "ingredients": [
+    {
+      "ingredient": "lilek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "asi 900 g, na plátky silné 1 cm",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 500,
+      "unit": "g",
+      "note": "oloupané, na plátky 5 mm",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 90,
+      "unit": "ml",
+      "note": "na potření lilku",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 500,
+      "unit": "g",
+      "group": "Masová omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "najemno",
+      "group": "Masová omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Masová omáčka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Masová omáčka"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Masová omáčka"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "note": "konzerva, rozmačkaná",
+      "group": "Masová omáčka"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "mletá",
+      "group": "Masová omáčka"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Masová omáčka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Masová omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Masová omáčka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Masová omáčka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 70,
+      "unit": "g",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 700,
+      "unit": "ml",
+      "note": "vlažné",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen žloutky, bílky použij jinde",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 60,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Bešamel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 220 °C (horkovzduch 200 °C). Lilek nakrájej na plátky silné 1 cm, rozlož je na dva plechy s pečicím papírem, z obou stran je potři 90 ml olivového oleje a lehce osol. Peč 20 až 25 minut, do zlatohnědé a měkké."
+    },
+    {
+      "text": "Brambory vař v osolené vodě 6 až 8 minut, aby byly poloměkké, pak je dobře osuš. Syrové by se v pekáči nedopekly."
+    },
+    {
+      "text": "Na 3 lžících oleje osmahni cibuli 8 minut do sklovata, přidej česnek a po minutě mleté maso. Smaž ho 8 až 10 minut a rozdrobuj, dokud nezmizí syrová barva a nevypaří se šťáva."
+    },
+    {
+      "text": "Vmíchej protlak, za dvě minuty rajčata, skořici, oregano, bobkový list, sůl a pepř. Duš na mírném plameni 25 minut bez poklice, až je omáčka hustá a nevodnatá. Vyndej bobkový list."
+    },
+    {
+      "text": "Na bešamel rozpusť máslo, zamíchej mouku a 2 minuty ji smaž. Po částech přilévej mléko a stále šlehej metlou, aby nevznikly hrudky. Vař 8 minut do hustoty hustší smetany. Sundej z ohně, nech 3 minuty vychladnout, vmíchej žloutky, polovinu parmazánu, muškát a sůl."
+    },
+    {
+      "text": "V pekáči 20 × 30 cm skládej vrstvy: brambory, polovina lilku, masová omáčka, zbylý lilek. Zalij bešamelem, posypej zbylým parmazánem. Peč na 180 °C (horkovzduch 170 °C) 40 až 45 minut, až je povrch zlatý a v rohách bublá. Před krájením nech 15 minut odpočinout."
+    }
+  ],
+  "tips": [
+    "Lilek není třeba solit a vymačkávat. Předpečený v troubě nehořkne a nepije tolik oleje jako smažený.",
+    "Bešamel musí být hustý, ne tekutý. Z tekutého se pekáč při krájení rozjede.",
+    "Moussaka je druhý den ještě lepší. Do trouby ji vrať na 20 minut při 170 °C."
+  ],
+  "substitutions": [
+    "Místo hovězího použij mleté jehněčí, jak se dělá v Řecku, nebo směs hovězího a vepřového.",
+    "Bez masa nahraď omáčku 300 g červené čočky uvařené s rajčaty, stejným kořením a 1 lžící tomatového protlaku navíc.",
+    "Parmazán může nahradit starší pecorino nebo tvrdý eidam."
+  ],
+  "faq": [
+    {
+      "q": "Proč se moussaka při krájení rozpadá?",
+      "a": "Většinou je řídký bešamel nebo vodnatá masová omáčka. Omáčku nech zredukovat, bešamel vař do hustoty a hotový pekáč nech 15 minut odpočinout, než ho nakrájíš."
+    },
+    {
+      "q": "Je potřeba lilek před pečením solit?",
+      "a": "Ne. Dnešní lilky jsou málo hořké a při pečení na 220 °C hořkost zmizí. Solení šetří jen to, že lilek pak pije méně oleje, ale předpečení v troubě to řeší taky."
+    },
+    {
+      "q": "Jde moussaka připravit den předem?",
+      "a": "Ano. Slož ji celou, zakryj a dej do lednice, druhý den peč o 10 minut déle. Hotovou lze zamrazit na 2 měsíce, rozmrazuj v lednici."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "title": "Buchtičky se šodó",
+  "keywords": [
+    "buchtičky se šodó",
+    "buchtičky se šodó recept",
+    "šodó recept",
+    "buchtičky s vanilkovým krémem"
+  ],
+  "image": "dish-buchticky-se-sodo-sladke",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 40,
+  "cookMinutes": 25,
+  "waitMinutes": 60,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Buchtičky se šodó recept pro 6 osob: vláčné kynuté buchtičky z trouby, zalité teplým vanilkovým krémem ze žloutků. Krém se vaří pomalu na 80 °C, aby se nesrazil, a zároveň zaručuje bezpečné zahřátí vajec. Buchtičky jsou nejlepší hned, čerstvé a teplé.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Buchtičky"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 20,
+      "unit": "g",
+      "group": "Buchtičky"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 40,
+      "unit": "g",
+      "group": "Buchtičky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C",
+      "group": "Buchtičky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Buchtičky"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "rozpuštěné a vychladlé",
+      "group": "Buchtičky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Buchtičky"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "na vymazání a polití",
+      "group": "Buchtičky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Šodó"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "jen žloutky",
+      "group": "Šodó"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Šodó"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 8,
+      "unit": "g",
+      "note": "1 lžíce",
+      "group": "Šodó"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Šodó"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Buchtičky",
+      "text": "Droždí rozdrol do vlažného mléka s lžičkou cukru a nech 10 minut vzejít. Smíchej mouku se solí a zbytkem cukru, přidej kvásek, vejce a rozpuštěné máslo a vypracuj hladké těsto. Přikryj a nech kynout 45 až 60 minut do dvojnásobku."
+    },
+    {
+      "section": "Buchtičky",
+      "text": "Troubu předehřej na 190 °C (horkovzduch 175 °C). Zapékací mísu vymaž máslem. Z těsta odtrhávej kousky velikosti vlašského ořechu, tvaruj kuličky a rovnoměrně je skládej do mísy těsně vedle sebe. Nech 15 minut kynout."
+    },
+    {
+      "section": "Buchtičky",
+      "text": "Přelij je rozpuštěným máslem a peč 20 až 25 minut, dokud nejsou zlatavé a po zapíchnutí špejle nezůstane těsto."
+    },
+    {
+      "section": "Šodó",
+      "text": "Zatímco se pečou, rozšlehej žloutky se cukrem, škrobem a vanilkovým cukrem. Mléko zahřej v hrnci skoro k varu a tenkým proudem ho přilévej do žloutků za stálého šlehání."
+    },
+    {
+      "section": "Šodó",
+      "text": "Směs vrať do hrnce a za stálého míchání vařečkou ohřívej na mírném plameni, dokud nezhoustne a nedosáhne 80 °C, asi 5 minut. Nesmí se vařit, žloutky by se srazily. Krém hned sundej a podávej k buchtičkám."
+    }
+  ],
+  "tips": [
+    "Pokud nemáš teploměr, krém je hotový, když ulpívá na vařečce a prstem po ní jde nakreslit čára.",
+    "Srazí-li se šodó, přelij ho přes sítko a ještě tyčovým mixérem 20 sekund prošlehej. Většinou se zachrání.",
+    "Buchtičky podávej do 30 minut po upečení. Ztvrdnou a krém je už nespraví."
+  ],
+  "substitutions": [
+    "Vanilkový cukr nahraď semínky z poloviny lusku vanilky.",
+    "Šodó můžeš zahustit i 1 lžičkou mouky místo škrobu.",
+    "Buchtičky jdou plnit povidly nebo tvarohem, ale s krémem se jí lépe klasické prázdné."
+  ],
+  "faq": [
+    {
+      "q": "Co je šodó?",
+      "a": "Teplý vanilkový krém ze žloutků, cukru a mléka. Je to varianta anglické vanilkové omáčky a podává se k buchtičkám, knedlíkům a štrúdlu."
+    },
+    {
+      "q": "Proč se mi šodó sráží?",
+      "a": "Hřálo se při příliš vysoké teplotě. Přidávej mléko pomalu a krém nikdy nevař. Zastav ohřev na 80 °C."
+    },
+    {
+      "q": "Dá se šodó udělat dopředu?",
+      "a": "Ano, vydrží v lednici 2 dny. Před podáváním ho jemně zahřej v hrnci na mírném plameni a nevař."
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "title": "Pirohy s bramborovo-tvarohovou náplní a slaninou",
+  "keywords": [
+    "pirohy",
+    "pirohy recept",
+    "bramborové pirohy",
+    "pirohy s tvarohem",
+    "pirohy se slaninou"
+  ],
+  "image": "dish-pirohy-vycep-zitra",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 60,
+  "cookMinutes": 15,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Pirohy jsou plněné taštičky z nekynutého těsta s bramborovo-tvarohovou náplní, vařené ve vodě a podávané s opečenou slaninou a zakysanou smetanou. Recept na pirohy se dá zvládnout za hodinu a půl i s odpočinkem těsta. Rozhodují dvě věci: těsto musí být měkké, ne tvrdé, a okraje se musí dobře přilepit.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 300,
+      "unit": "g",
+      "note": "plus na vál",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 130,
+      "unit": "ml",
+      "note": "vlažná",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 400,
+      "unit": "g",
+      "note": "uvařené, rozmačkané",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 150,
+      "unit": "g",
+      "note": "měkký",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "osmažená dozlatova",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na cibuli",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 150,
+      "unit": "g",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Těsto: smíchej mouku se solí, přidej vejce, olej a vodu a hnětej 8 minut do hladka. Zabal do fólie a nech 30 minut odpočinout."
+    },
+    {
+      "text": "Náplň: brambory uvař a rozmačkej, nech vychladnout. Cibuli osmahni na másle dozlatova, přidej k bramborám s tvarohem, solí a pepřem. Vymíchej do hladka."
+    },
+    {
+      "text": "Těsto rozválej na vále na tloušťku 2 mm a vykrajuj kolečka o průměru asi 7 cm. Doprostřed dej lžičku náplně, přehni na půlměsíc a okraje pevně přitiskni, případně potři vodou."
+    },
+    {
+      "text": "Pirohy vař po dávkách v osolené vodě na mírném varu. Po vyplavání je vař ještě 4 minuty. Vyndej děrovanou lžící."
+    },
+    {
+      "text": "Slaninu s cibulí opeč dochruda. Pirohy přelij škvarky a podávej se zakysanou smetanou."
+    }
+  ],
+  "tips": [
+    "Okraje musí být suché od mouky, jinak se nepřilepí. Potři je kapkou vody.",
+    "Náplň nesmí být vlhká, jinak protrhne těsto. Brambory nech odpařit.",
+    "Neuvařené pirohy zamraz na plechu a pak v sáčku, drží 3 měsíce.",
+    "Vyplav je ve slaněné vodě na mírném varu, prudký var je trhá."
+  ],
+  "substitutions": [
+    "Tvaroh nahraď 100 g strouhaného sýra.",
+    "Slaninu nahraď osmaženou cibulkou na másle pro bezmasou variantu.",
+    "Pirohy mohou být sladké: tvaroh s cukrem a vanilkou, podávej s rozpuštěným máslem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří pirohy?",
+      "a": "Po vyplavání na hladinu ještě 4 minuty na mírném varu. Celkem asi 6 minut."
+    },
+    {
+      "q": "Čím se liší pirohy od knedlíků?",
+      "a": "Pirohy jsou plněné taštičky z nekynutého těsta, knedlíky se vaří z nadýchaného těsta bez plnění nebo s plněním ovoce."
+    },
+    {
+      "q": "Dají se pirohy zamrazit?",
+      "a": "Ano, syrové na plechu zamraz, pak přesyp do sáčku. Vař ze zmrazených 8 minut."
+    }
+  ]
+}

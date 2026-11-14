@@ -1,0 +1,15 @@
+{
+  "name": "Olivy s citronem a česnekem",
+  "section": "Tapas a studené polévky",
+  "price": 6900,
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "order": 110,
+  "description": "Marinované olivy s citronovou kůrou a plátky česneku.",
+  "about": [],
+  "kind": "side",
+  "restaurant": "tapas-siesta-nanecisto",
+  "image": "dish-olivy-s-citronem-siesta",
+  "allergens": []
+}

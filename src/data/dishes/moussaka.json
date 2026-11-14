@@ -1,0 +1,21 @@
+{
+  "name": "Moussaka z pekáče",
+  "section": "Talíře",
+  "price": 22900,
+  "recipe": "moussaka",
+  "vegetarian": false,
+  "order": 110,
+  "description": "Vrstvy lilku, brambor a mleté masové omáčky pod hustým bešamelem, zapečené do zlatova.",
+  "about": [
+    "Moussaka je řecký pekáč, který se skládá jako stavba: brambory, lilek, maso, bešamel. Každá vrstva má svou práci a když ji někde odbudeš, rozpadne se.",
+    "V simulaci kurýr vyrazí hned, ale pekáč k tobě stejně nedojde. Doma ho krájej až po 15 minutách odpočinku, jinak se rozjede po talíři."
+  ],
+  "kind": "main",
+  "restaurant": "taverna-prazdny-stul",
+  "image": "dish-moussaka",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

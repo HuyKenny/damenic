@@ -1,0 +1,103 @@
+{
+  "title": "Zázvorový shot s citronem a kurkumou",
+  "keywords": [
+    "zázvorový shot",
+    "zázvorový shot recept",
+    "zázvor s citronem",
+    "shot ze zázvoru a kurkumy"
+  ],
+  "image": "dish-zazvorovy-shot-vymackame",
+  "category": "napoje",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "odležení a scezení",
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "intro": "Zázvorový shot je ostrý koncentrát ze zázvoru, citronu a kurkumy, který se pije po malých douškách (asi 30 ml). Připravuje se v mixéru a scedí přes plátno. Je velmi štiplavý, proto se nepije na lačno ve velkém množství a nepoužívá se jako lék.",
+  "ingredients": [
+    {
+      "ingredient": "zazvor",
+      "amount": 100,
+      "unit": "g",
+      "note": "oloupaný"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 2,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "čerstvě mletý"
+    },
+    {
+      "ingredient": "med",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "note": "studená"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 1,
+      "unit": "ks",
+      "note": "menší, bez jádřince"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zázvor oloupej lžičkou a nakrájej na kousky. Jablko nakrájej na měsíčky bez jádřince."
+    },
+    {
+      "text": "Dej do mixéru zázvor, jablko, vodu a citronovou šťávu. Mixuj 1 minutu, dokud není směs jemná."
+    },
+    {
+      "text": "Přeceď přes plátno nebo jemné sítko a vymačkej co nejvíc šťávy. Mělo by vyjít zhruba 250 ml."
+    },
+    {
+      "text": "Do šťávy vmíchej kurkumu, pepř a med, dokud se nerozpustí. Pepř zvyšuje vstřebávání kurkuminu."
+    },
+    {
+      "text": "Nalij do lahve, uzavři a nech 30 minut v lednici. Pij malé množství, 30 ml (jedna štamprle), nejlépe po jídle."
+    }
+  ],
+  "tips": [
+    "Shot vydrží v uzavřené lahvi v lednici 3 až 4 dny, nebo ho zamraz do kostek.",
+    "Kurkuma barví. Používej sklo a dřevěnou lžíci, plast se zabarví.",
+    "Je to potravina, ne lék. Při užívání léků na ředění krve nebo při těhotenství se poraď s lékařem."
+  ],
+  "substitutions": [
+    "Med nahraď javorovým sirupem, pokud chceš veganskou verzi.",
+    "Jablko můžeš zaměnit za pomerančový džus pro jemnější chuť.",
+    "Čerstvou kurkumu (2 cm kořene) nahradí mletá, ale chuť je zemitější."
+  ],
+  "faq": [
+    {
+      "q": "Kolik zázvorového shotu denně pít?",
+      "a": "Stačí jedna malá porce, asi 30 ml. Zázvor je silně štiplavý a ve větším množství dráždí žaludek."
+    },
+    {
+      "q": "Jak dlouho vydrží zázvorový shot?",
+      "a": "3 až 4 dny v uzavřené lahvi v lednici. Déle ho zamraz v silikonové formě na led."
+    },
+    {
+      "q": "Je nutné zázvor loupat?",
+      "a": "U čerstvého, šťavnatého zázvoru stačí kartáčkem omýt. Starší zázvor s tlustou slupkou radši oloupej, aby shot nebyl hořký."
+    }
+  ]
+}

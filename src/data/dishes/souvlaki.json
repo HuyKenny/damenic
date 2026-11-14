@@ -1,0 +1,20 @@
+{
+  "name": "Souvlaki v pitě",
+  "section": "Talíře",
+  "price": 18900,
+  "recipe": "souvlaki",
+  "vegetarian": false,
+  "order": 120,
+  "description": "Špíz z vepřové krkovice marinované v citronu a oreganu, tzatziki, rajčata a červená cibule.",
+  "about": [
+    "Souvlaki je nejrychlejší řecká večeře: kostky masa na špejli, pita a tzatziki. Rozhoduje marináda, která zkrátí čekání na to, jak šťavnatý bude výsledek.",
+    "Maso se grilu nebojí. Doma ho před opékáním nech chvíli ohřát na pokojovou teplotu a otáčej ho, ať má všechny strany stejnou kůrku."
+  ],
+  "kind": "main",
+  "restaurant": "taverna-prazdny-stul",
+  "image": "dish-souvlaki",
+  "allergens": [
+    1,
+    7
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Churros s čokoládou",
+  "section": "Dezerty",
+  "price": 11900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 200,
+  "description": "Smažené těsto ve skořicovém cukru a hustá horká čokoláda na namáčení.",
+  "about": [],
+  "kind": "dessert",
+  "restaurant": "tapas-siesta-nanecisto",
+  "image": "dish-churros-s-cokoladou-siesta",
+  "allergens": [
+    1,
+    7
+  ]
+}

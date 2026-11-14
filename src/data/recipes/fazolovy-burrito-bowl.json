@@ -1,0 +1,161 @@
+{
+  "title": "Fazolový burrito bowl s rýží a avokádem",
+  "keywords": [
+    "burrito bowl",
+    "fazolový burrito bowl",
+    "burrito bowl s fazolemi",
+    "mexická miska s rýží"
+  ],
+  "image": "dish-burrito-bowl-nanecisto",
+  "category": "poke",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 25,
+  "cookMinutes": 20,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Fazolový burrito bowl je burrito bez tortilly: rýže, kořeněné fazole, kukuřice, rajčata, avokádo a limetkový jogurt v jedné misce. Bowl se dá připravit z věcí z plechovek za půl hodiny. Fazole se krátce poduší s kmínem a uzenou paprikou, aby neměly chuť konzervy.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-dlouhozrnna",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "fazole-cervene",
+      "amount": 400,
+      "unit": "g",
+      "note": "plechovka, scezené",
+      "group": "Fazole"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Fazole"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Fazole"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "mletý",
+      "group": "Fazole"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Fazole"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Fazole"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Fazole"
+    },
+    {
+      "ingredient": "kukurice-konzerva",
+      "amount": 100,
+      "unit": "g",
+      "note": "scezená"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "avokado",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "na tenké půlkroužky"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaný"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 120,
+      "unit": "g",
+      "note": "nebo zakysaná smetana"
+    },
+    {
+      "ingredient": "tortilla-chipsy",
+      "amount": 30,
+      "unit": "g",
+      "note": "na posyp"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýži propláchni a uvař v osolené vodě podle návodu, asi 12 až 15 minut. Nech odpočinout pod pokličkou."
+    },
+    {
+      "text": "Na pánvi rozehřej olej na středním plameni, přidej česnek, kmín a uzenou papriku a 30 sekund opékej. Přidej rajčatové pyré a fazole."
+    },
+    {
+      "text": "Zalij 100 ml vody a duš 8 až 10 minut, dokud tekutina nezhoustne. Hrubě rozmačkej zhruba čtvrtinu fazolí, aby omáčka držela. Dosol."
+    },
+    {
+      "text": "Jogurt promíchej s polovinou limetkové šťávy a špetkou soli. Rajčata smíchej s cibulí, koriandrem a zbylou šťávou z limetky."
+    },
+    {
+      "text": "Do dvou misek dej rýži, vedle fazole, kukuřici a rajčatový salsa mix. Přidej plátky avokáda, lžíci jogurtu a posyp rozdrcenými chipsy."
+    }
+  ],
+  "tips": [
+    "Rýži můžeš na konci promíchat s limetkovou šťávou a koriandrem, bude chutnat jako v taqueríi.",
+    "Fazole se dají udělat na 3 dny dopředu. Misky sestavuj těsně před jídlem.",
+    "Pro víc pálivosti přidej nakrájený jalapeño nebo kapku pálivé omáčky."
+  ],
+  "substitutions": [
+    "Červené fazole nahraď černými nebo pintovými.",
+    "Místo jogurtu dej rostlinný jogurt a bowl bude veganský.",
+    "Přidej opečenou papriku, kuřecí maso nebo tofu pro víc bílkovin."
+  ],
+  "faq": [
+    {
+      "q": "Čím nahradit tortillu v burrito bowlu?",
+      "a": "Nic nemusíš. Rýže tvoří základ a chipsy dodají křupavost. Kdo chce, může misku podávat s teplou tortillou."
+    },
+    {
+      "q": "Dá se burrito bowl připravit do krabičky?",
+      "a": "Ano. Rýži a fazole skladuj zvlášť od salsy a avokáda. V lednici vydrží 3 dny, avokádo přidej až na místě."
+    },
+    {
+      "q": "Kolik bílkovin má fazolový burrito bowl?",
+      "a": "Jedna porce má zhruba 20 g bílkovin díky fazolím a jogurtu. Přesnost závisí na surovinách."
+    }
+  ]
+}

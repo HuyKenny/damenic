@@ -1,0 +1,94 @@
+{
+  "title": "Nudle s mákem a máslem",
+  "keywords": [
+    "nudle s mákem",
+    "nudle s mákem recept",
+    "domácí nudle s mákem",
+    "nudle s mákem a cukrem"
+  ],
+  "image": "dish-nudle-s-makem-jidelna-zitra-mozna",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Nudle s mákem jsou nejrychlejší sladké hlavní jídlo, hotové do čtvrt hodiny. Stačí široké vaječné nudle, čerstvě mletý mák, cukr a rozpuštěné máslo. Nejčastější chyba je mák mlít předem nebo ho zalít vlhkými nudlemi, mák pak ztmavne a zhořkne.",
+  "ingredients": [
+    {
+      "ingredient": "nudle-siroke",
+      "amount": 300,
+      "unit": "g",
+      "note": "široké vaječné, sušené"
+    },
+    {
+      "ingredient": "mak-mlety",
+      "amount": 80,
+      "unit": "g",
+      "note": "čerstvě mletý"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na vaření"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve velkém hrnci přiveď k varu 3 litry osolené vody. Nudle vhoď do vroucí vody a vař podle obalu, zpravidla 7 až 9 minut, aby byly al dente."
+    },
+    {
+      "text": "Mák promíchej s cukrem moučkou a vanilkovým cukrem v misce. Máslo rozpusť v malém kastrolku, aby bylo horké, ale nehnědlo."
+    },
+    {
+      "text": "Nudle slij a nech 20 sekund okapat, nepropírej je. Vrať je do hrnce, zalij máslem a promíchej."
+    },
+    {
+      "text": "Nudle rozděl na talíře a hojně posyp makovou směsí. Podávej ihned, dokud je máslo horké a mák vůní vyvolá chuť."
+    }
+  ],
+  "tips": [
+    "Mák si namel až před vařením. Mletý mák rychle ztrácí vůni a hořkne.",
+    "Nepropírej nudle studenou vodou, škrob pomáhá, aby se mák na nudle chytil.",
+    "Dej posypat z poloviny cukrem navrch a z poloviny uvnitř, makové zrnko pak drží všude.",
+    "Zbytek ohřej s lžící mléka na pánvi, nepřesouší se."
+  ],
+  "substitutions": [
+    "Mák nahraď mletými vlašskými ořechy nebo strouhaným perníkem.",
+    "Cukr moučku nahraď cukrem krystal rozdrceným v hmoždíři, ale hrubší krystaly křupou.",
+    "Vaječné nudle nahraď plochými těstovinami bez vajec, třeba linguine."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří nudle s mákem?",
+      "a": "Podle obalu 7 až 9 minut. Vaječné široké nudle musí zůstat al dente, protože po zalití máslem ještě chvíli dojdou."
+    },
+    {
+      "q": "Jak namlít mák doma?",
+      "a": "Nejlépe v ručním mlýnku na mák nebo v mlýnku na kávu v dávkách po 3 sekundách. Mák musí být suchý, ne zmáčený."
+    },
+    {
+      "q": "Jde mák smíchat s cukrem předem?",
+      "a": "Ano, cukr s mákem vydrží ve skleněné nádobě týden na suchém tmavém místě, ale chuť je nejvýraznější čerstvá."
+    }
+  ]
+}

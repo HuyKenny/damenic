@@ -1,0 +1,112 @@
+{
+  "title": "Gazpacho",
+  "keywords": [
+    "gazpacho recept",
+    "španělská studená polévka",
+    "studená rajčatová polévka",
+    "gazpacho z čerstvých rajčat"
+  ],
+  "image": "dish-gazpacho",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 120,
+  "waitLabel": "vychlazení v lednici",
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Gazpacho je španělská studená rajčatová polévka z čerstvé zeleniny, kterou mixuješ s kouskem chleba a olivovým olejem. Chuť závisí na zralých rajčatech, takže ji dělej v létě a před podáváním dobře vychlaď.",
+  "ingredients": [
+    {
+      "ingredient": "rajcata",
+      "amount": 1000,
+      "unit": "g",
+      "note": "velmi zralá"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 1,
+      "unit": "ks",
+      "note": "oloupaná"
+    },
+    {
+      "ingredient": "paprika-zelena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "bez semínek"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen 1 stroužek"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 60,
+      "unit": "g",
+      "note": "bez kůrky, ze včerejška"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "extra panenský"
+    },
+    {
+      "ingredient": "ocet-vinny",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "note": "studená, podle hustoty"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Chleb nalámej a zalij 50 ml studené vody, nech 5 minut změknout. Rajčata nakrájej na čtvrtky, zbytek zeleniny na menší kusy."
+    },
+    {
+      "text": "Všechny suroviny kromě oleje vlož do mixéru a rozmixuj na hladké pyré, 1 až 2 minuty. Za stálého mixování pomalu přilévej olej, aby vznikla hladká, mírně zhoustlá polévka."
+    },
+    {
+      "text": "Polévku přecedit přes sítko, jestli chceš hladkou konzistenci. Ochutnej, dosol a podle chuti přidej ocet nebo vodu."
+    },
+    {
+      "text": "Nech vychladnout v lednici aspoň 2 hodiny, ideálně přes noc. Podávej studenou, s kapkou oleje a nakrájenou okurkou nebo kostičkami chleba."
+    }
+  ],
+  "tips": [
+    "Rajčata na gazpacho musí být voňavá a zralá. Z tvrdých zimních rajčat je polévka kyselá a bez chuti.",
+    "Studená chuť potlačuje sůl, proto dochucuj až po vychlazení.",
+    "Vydrží 3 dny v lednici, je vhodná do skleniček s sebou."
+  ],
+  "substitutions": [
+    "Chléb lze nahradit 40 g mletých mandlí, polévka bude krémovější a bez lepku.",
+    "Zelenou papriku nahraď červenou, polévka bude sladší.",
+    "Ocet vinný nahraď šťávou z poloviny citronu."
+  ],
+  "faq": [
+    {
+      "q": "Jde gazpacho jíst teplé?",
+      "a": "Ne. Je určena na studenou, v lednici dozrává. Teplé by chutnalo jako syrová zelenina."
+    },
+    {
+      "q": "Jak dlouho vydrží gazpacho v lednici?",
+      "a": "Do 3 dnů ve zavřené nádobě. Před podáváním ho promíchej, protože se může oddělit."
+    },
+    {
+      "q": "Musí se rajčata loupat?",
+      "a": "Pro hladkou polévku ano, slupka se ale rozmixuje i tak a po přecezení zbude v sítku. Stačí tedy rajčata nakrájet a po rozmixování polévku přecedit."
+    }
+  ]
+}

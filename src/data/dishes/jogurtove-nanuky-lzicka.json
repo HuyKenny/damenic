@@ -1,0 +1,22 @@
+{
+  "name": "Jogurtový nanuk s jahodami",
+  "restaurant": "zmrzlinovy-bar-posledni-lzicka",
+  "kind": "main",
+  "section": "Poháry",
+  "description": "Hustý jogurt, jahody a med, na špejli a v čokoládě. Rychleji snědený než roztál.",
+  "about": [
+    "Nanuk z jogurtu je jednoduchý trik: jogurt, ovoce a trocha medu se zmrazí na špejli. Nepotřebuješ nic jiného než formičky a šest hodin. Čokoládová poleva z domácího nanuku udělá nanuk, který vypadá jako z kiosku.",
+    "Poslední lžička zůstává prázdná, ale špejle se ti doma najdou. A formičky možná už máš."
+  ],
+  "price": 4900,
+  "image": "dish-jogurtove-nanuky-lzicka",
+  "recipe": "domaci-nanuky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 30
+}

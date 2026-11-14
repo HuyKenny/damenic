@@ -1,0 +1,116 @@
+{
+  "title": "Bramborové šišky s mákem a cukrem",
+  "keywords": [
+    "bramborové šišky",
+    "šišky s mákem",
+    "bramborové šišky s mákem",
+    "bramborové šišky recept"
+  ],
+  "image": "dish-bramborove-sisky-s-makem-jidelna-zitra-mozna",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 25,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí brambor",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Bramborové šišky s mákem jsou sladké hlavní jídlo z vařených brambor, mouky a vejce, tvarované do prstů a obalené v mletém máku s cukrem. Aby šišky nebyly ani těžké ani rozpadlé, potřebuješ moučné brambory vařené ve slupce a vychladlé. Čerstvě uvařené těsto je lepkavé a mouka se do něj nasaje zbytečně.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 600,
+      "unit": "g",
+      "note": "moučné, vařené ve slupce, vychladlé",
+      "group": "Šišky"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 150,
+      "unit": "g",
+      "note": "plus na vál",
+      "group": "Šišky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "velikost M",
+      "group": "Šišky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Šišky"
+    },
+    {
+      "ingredient": "mak-mlety",
+      "amount": 70,
+      "unit": "g",
+      "note": "čerstvě mletý",
+      "group": "Obalení"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 50,
+      "unit": "g",
+      "group": "Obalení"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Obalení"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Obalení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař ve slupce asi 25 minut, až je špejle projde bez odporu. Nech je zcela vychladnout, nejlépe přes noc v lednici, pak je oloupej a prolisuj."
+    },
+    {
+      "text": "Do brambor vmíchej mouku, vejce a sůl. Těsto zpracuj rychle, jen aby se spojilo. Mělo by být lehce lepivé, ale držet tvar."
+    },
+    {
+      "text": "Vál lehce poprášej moukou. Z těsta vyválej válečky tlusté jako prst a nakrájej je na kusy dlouhé asi 5 cm. Mezi dlaněmi je zakulať na koncích."
+    },
+    {
+      "text": "Ve velkém hrnci přiveď k varu osolenou vodu, sniž na mírný var a šišky vařte po dávkách. Vařte je 5 až 6 minut po vynoření, až jsou na povrchu hladké a pevné."
+    },
+    {
+      "text": "Mák smíchej s cukrem moučkou a vanilkovým cukrem. Šišky lžící vyndej, obal je v rozpuštěném másle a pak v máku. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Brambory musí být moučné. Salátové se při vaření rozmočí a těsto bude lepit.",
+    "Zkušební šišku vař sama. Rozpadá-li se, přidej do těsta 2 lžíce mouky.",
+    "Mák mel těsně před použitím, ztrácí vůni a hořkne rychle.",
+    "Zbylé šišky jdou druhý den ohřát na pánvi na másle. Zamrazit je lze syrové na 2 měsíce."
+  ],
+  "substitutions": [
+    "Mák nahraď mletými ořechy nebo strouhaným perníkem.",
+    "Máslo můžeš zčásti nahradit sádlem, jak se dělalo na vsi."
+  ],
+  "faq": [
+    {
+      "q": "Proč se šišky rozpadají ve vodě?",
+      "a": "Nejčastěji je v těstě příliš málo mouky nebo vařily příliš prudce. Vař na mírném varu a vyzkoušej jednu šišku předem."
+    },
+    {
+      "q": "Jak dlouho se vaří bramborové šišky?",
+      "a": "5 až 6 minut od chvíle, kdy vyplavou. Šišky vyplavou až po 2 až 3 minutách ve vroucí vodě."
+    },
+    {
+      "q": "Můžu šišky připravit den dopředu?",
+      "a": "Ano. Uvař je, vychlaď a před podáváním ohřej na pánvi na másle, pak teprve obal v máku."
+    }
+  ]
+}

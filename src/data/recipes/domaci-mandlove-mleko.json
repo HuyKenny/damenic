@@ -1,0 +1,90 @@
+{
+  "title": "Domácí mandlové mléko",
+  "keywords": [
+    "domácí mandlové mléko",
+    "mandlové mléko recept",
+    "jak udělat mandlové mléko",
+    "rostlinné mléko z mandlí"
+  ],
+  "image": "dish-mandlove-mleko-vymackame",
+  "category": "napoje",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 480,
+  "waitLabel": "namáčení mandlí přes noc",
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "intro": "Domácí mandlové mléko se dělá z mandlí, vody a špetky soli a vyjde asi 700 ml. Mandle se namáčí přes noc, rozmixují a vymačkají přes plátno nebo sítko. Čím víc vody, tím řidší mléko, poměr 1 díl mandlí na 5 dílů vody je dobrý začátek.",
+  "ingredients": [
+    {
+      "ingredient": "mandle",
+      "amount": 150,
+      "unit": "g",
+      "note": "neloupané nebo loupané, syrové"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 750,
+      "unit": "ml",
+      "note": "studená, k mixování"
+    },
+    {
+      "ingredient": "javorovy-sirup",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mandle zalij vodou, aby byly ponořené aspoň o 3 cm, a nech 8 hodin nebo přes noc namáčet. Voda z namáčení se vylije."
+    },
+    {
+      "text": "Namočené mandle propláchni studenou vodou a dej do mixéru s 750 ml čerstvé studené vody."
+    },
+    {
+      "text": "Mixuj 2 minuty na plný výkon, dokud nezůstanou jen jemné částečky."
+    },
+    {
+      "text": "Směs přeceď přes plátno nebo jemné sítko do džbánu a vymačkej všechnu tekutinu. Zbylá mandlová dužina je jedlá, použij ji do granoly nebo sušenek."
+    },
+    {
+      "text": "Do mléka vmíchej javorový sirup, vanilkový cukr a sůl. Přelij do čisté lahve a dej do lednice."
+    }
+  ],
+  "tips": [
+    "Mléko v lednici vydrží 3 dny, před pitím ho protřepej, protože se rozdělí.",
+    "Chceš ho krémovější? Dej jen 600 ml vody na stejné množství mandlí.",
+    "Domácí mléko nepění stejně jako kupované, do kávy se hodí méně."
+  ],
+  "substitutions": [
+    "Místo mandlí můžeš použít kešu, nemusí se přeceďovat tak důkladně.",
+    "Javorový sirup nahraď medem nebo 2 datlemi namočenými s mandlemi.",
+    "Pro čokoládovou verzi přimixuj lžíci kakaa."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží domácí mandlové mléko?",
+      "a": "3 dny v uzavřené lahvi v lednici. Když začne kysele vonět nebo hrudkovatět, vylij ho."
+    },
+    {
+      "q": "Co s mandlovou dužinou po scezení?",
+      "a": "Rozlož ji na plech a usuš v troubě při 90 °C, dokud nevyschne. Nebo přidej do ovesné kaše, sušenek či granoly."
+    },
+    {
+      "q": "Musím mandle namáčet?",
+      "a": "Doporučeně ano. Namočené se snadněji mixují, mléko je jemnější a lépe stravitelné. Minimum je 4 hodiny."
+    }
+  ]
+}

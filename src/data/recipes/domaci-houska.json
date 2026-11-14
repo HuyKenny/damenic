@@ -1,0 +1,100 @@
+{
+  "title": "Domácí houska",
+  "keywords": [
+    "domácí houska",
+    "houska recept",
+    "houska z kynutého těsta",
+    "jak upéct housku"
+  ],
+  "image": "dish-domaci-houska-zitra",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 35,
+  "cookMinutes": 22,
+  "waitMinutes": 110,
+  "waitLabel": "kynutí",
+  "difficulty": "střední",
+  "meal": "pecivo",
+  "intro": "Domácí houska recept na 8 kusů: pšeničné kynuté těsto, tvarování zabalením do hvězdy a pečení v páře. Výsledkem je houska s lesklou křupavou kůrkou a vláčným středem. Nejdůležitější je pořádně vypracované těsto a pára v troubě v prvních minutách.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "vlažná, asi 35 °C"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozdrol do vody s cukrem a nech 10 minut vzejít. Mouku smíchej se solí, přidej kvásek a olej. Hnětej 10 minut, dokud není těsto hladké a pružné."
+    },
+    {
+      "text": "Těsto nech v míse přikryté 50 minut kynout do dvojnásobku."
+    },
+    {
+      "text": "Těsto rozděl na 8 dílů po asi 100 g. Z každého vytvaruj kouli a nech 10 minut odpočinout. Pak každou vyválej na kruh o průměru asi 12 cm, pět okrajů po obvodu přehni do středu a pevně stiskni. Ulož na plech stehem nahoru, hvězda se po upečení otevře, a nech 30 minut kynout."
+    },
+    {
+      "text": "Troubu předehřej na 230 °C (horkovzduch 215 °C), na dno dej misku s vroucí vodou. Housky potři vodou, posyp sezamem a peč 20 až 22 minut, po 10 minutách sniž teplotu na 200 °C. Hotové mají zlatou kůrku a na spodku zní dutě."
+    },
+    {
+      "text": "Nech je na mřížce 15 minut vychladnout."
+    }
+  ],
+  "tips": [
+    "Housku tvaruj pevně. Když je volná, rozplyne se do placky.",
+    "Rychlejší varianta: těsto uválej na kuličky a nožem zařízni do kříže.",
+    "Chceš lesklou kůrku? Potři housky vodou těsně před pečením a ještě jednou po 5 minutách v troubě."
+  ],
+  "substitutions": [
+    "Mouku polohrubou nahraď hladkou, houska bude jemnější.",
+    "Sezam nahraď mákem nebo kmínem.",
+    "Vodu můžeš z poloviny nahradit mlékem, kůrka bude měkčí."
+  ],
+  "faq": [
+    {
+      "q": "Proč houska netvoří hvězdu?",
+      "a": "Nejspíš nebyly pevně stisknuty okraje nebo těsto příliš nakynulo. Po tvarování nech kynout jen 30 minut."
+    },
+    {
+      "q": "Čím se houska liší od rohlíku?",
+      "a": "Tvarem a těstem. Houska je kulatá a má pevnější těsto, rohlík je zahnutý a měkčí."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí houska?",
+      "a": "Čerstvá je nejlepší první den, v sáčku vydrží 2 dny. Starší housku osvěž v troubě."
+    }
+  ]
+}

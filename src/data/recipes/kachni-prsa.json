@@ -1,0 +1,126 @@
+{
+  "title": "Kachní prsa s pomerančovou omáčkou",
+  "category": "ceska",
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 5,
+  "waitLabel": "odpočinek masa",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "keywords": [
+    "kachní prsa",
+    "kachní prsa na pánvi",
+    "kachní prsa s pomerančem",
+    "kachní prsa recept"
+  ],
+  "intro": "Kachní prsa s pomerančovou omáčkou jsou prsa s křupavou kůží opečená nejdřív na studené pánvi a pak v troubě. Tuk z kůže se vypeče pomalu, proto začínáme se studenou pánví. Uvnitř musí mít maso 75 °C, v omáčce brusinky a med.",
+  "ingredients": [
+    {
+      "ingredient": "kachni-prsa",
+      "amount": 600,
+      "unit": "g",
+      "note": "2 prsa s kůží",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pomeranc",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva a kůra",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "med",
+      "amount": 20,
+      "unit": "g",
+      "note": "1 lžíce",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "brusinky-kompot",
+      "amount": 80,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 500,
+      "unit": "g",
+      "note": "vařené",
+      "group": "Příloha"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 180 °C (horkovzduch 160 °C). Kůži prsou nařízni do mřížky, nesmíš zasáhnout maso. Osol a opepři."
+    },
+    {
+      "section": "Opečení",
+      "text": "Polož prsa kůží dolů na studenou suchou pánev, zapni střední oheň a opékej 10 až 12 minut, dokud se tuk nevypeče a kůže nezezlátne. Tuk průběžně slévej do misky."
+    },
+    {
+      "section": "Pečení",
+      "text": "Otoč prsa na maso a opékej 2 minuty. Přendej je kůží nahoru na plech a piš 8 až 10 minut, dokud teploměr neukáže 75 °C."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Do pánve nech 1 lžíci tuku, přidej pomerančovou šťávu, kůru, med a vývar. Redukuj 4 až 5 minut do poloviny, přidej brusinky a máslo."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Prsa nech 5 minut odpočinout, nakrájej na plátky a podávej s omáčkou a vařenými bramborami."
+    }
+  ],
+  "tips": [
+    "Studená pánev je klíč. Kůže se zahřívá pomalu a tuk se stihne vypéct.",
+    "Řezy do kůže dělej v mřížce, ale nezasekni do masa, jinak vyteče šťáva.",
+    "Prsa vždy nech odpočinout 5 minut, jinak ztratí šťávu na prkénku."
+  ],
+  "substitutions": [
+    "Pomeranč nahradíš 100 ml pomerančového džusu a lžičkou citronové šťávy.",
+    "Brusinky nahradíš višněmi z kompotu.",
+    "Med nahradíš javorovým sirupem."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat křupavou kůži na kachních prsou?",
+      "a": "Začni na studené pánvi kůží dolů a nech tuk pomalu vypéct 10 až 12 minut. Kůže musí být suchá a nařezaná."
+    },
+    {
+      "q": "Jak dlouho péct kachní prsa?",
+      "a": "Asi 10 až 12 minut na pánvi a 8 až 10 minut v troubě při 180 °C. Uvnitř musí být 75 °C."
+    },
+    {
+      "q": "Mohou být kachní prsa uvnitř růžová?",
+      "a": "Restaurace je často podávají růžová, doma raději hlídej 75 °C. Při odpočinku zůstanou šťavnatá."
+    }
+  ],
+  "image": "dish-kachni-prsa",
+  "vegetarian": false
+}

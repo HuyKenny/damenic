@@ -1,0 +1,46 @@
+{
+  "name": "Kuřecí na medu se sójovkou",
+  "kind": "main",
+  "section": "Rýže a kari",
+  "price": 17900,
+  "recipe": "kureci-na-medu",
+  "vegetarian": false,
+  "order": 220,
+  "description": "Kuřecí maso v lesklé glazuře z medu, sójovky a zázvoru s jasmínovou rýží.",
+  "about": [
+    "Med a sójová omáčka dělají glazuru, která se na pánvi během tří minut změní z tekuté na lesklou. Právě tehdy je třeba stáhnout oheň, jinak z ní bude karamel.",
+    "Wok Nic Moc je smyšlený, takže glazura zůstane na papíře. V tvé kuchyni se ale opravdu zalesknou kousky masa i rýže."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "rize",
+          "name": "Rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "restaurant": "wok-nic-moc",
+  "image": "dish-kureci-na-medu",
+  "allergens": [
+    1,
+    6,
+    11
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Sarma",
+  "section": "Balkán",
+  "price": 19900,
+  "recipe": "sarma",
+  "vegetarian": false,
+  "order": 360,
+  "description": "Závitky z kysaného zelí plněné mletým masem a rýží, dušené s uzeným masem.",
+  "about": [
+    "Sarma jsou zelné závitky, které se dusí tak pomalu, že dům voní, než jsou hotové. Maso s rýží je uvnitř a kyselé zelí kolem.",
+    "Doma na to potřebuješ dvě hodiny a trpělivost. V simulaci stačí hlad, který je skutečný, a doručení, které není."
+  ],
+  "kind": "main",
+  "restaurant": "hostinec-za-hranici-nic",
+  "image": "dish-sarma",
+  "allergens": []
+}

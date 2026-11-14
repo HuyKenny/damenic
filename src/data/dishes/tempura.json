@@ -1,0 +1,23 @@
+{
+  "name": "Tempura z krevet a zeleniny",
+  "section": "Rýže a knedlíčky",
+  "price": 21900,
+  "recipe": "tempura",
+  "vegetarian": false,
+  "order": 250,
+  "description": "Krevety a zelenina v ledovém těstíčku, smažené do světlezlatých a křupavých, s omáčkou tsuyu.",
+  "about": [
+    "Tempura vyžaduje ledovou vodu a rychlost. Těsto se míchá jen pár vteřin a smaží se okamžitě.",
+    "Čerstvě usmažená křupe. Doručená by změkla, ale simulace tě tohoto zklamání ušetří."
+  ],
+  "kind": "main",
+  "restaurant": "ramen-nedojde",
+  "image": "dish-tempura",
+  "allergens": [
+    1,
+    2,
+    3,
+    4,
+    6
+  ]
+}

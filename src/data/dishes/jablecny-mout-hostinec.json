@@ -1,0 +1,15 @@
+{
+  "name": "Jablečný mošt",
+  "section": "Nápoje",
+  "price": 4900,
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "order": 310,
+  "description": "Neslazený jablečný mošt, vychlazený.",
+  "about": [],
+  "kind": "drink",
+  "restaurant": "hostinec-za-hranici-nic",
+  "image": "dish-jablecny-mout-hostinec",
+  "allergens": []
+}

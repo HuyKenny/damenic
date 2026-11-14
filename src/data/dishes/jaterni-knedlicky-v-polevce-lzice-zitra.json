@@ -1,0 +1,24 @@
+{
+  "name": "Játrová polévka s knedlíčky",
+  "restaurant": "lzice-zitra",
+  "kind": "main",
+  "section": "Lehké",
+  "price": 10900,
+  "recipe": "jaterni-knedlicky-v-polevce",
+  "vegetarian": false,
+  "order": 310,
+  "description": "Čistý vývar a jaterní knedlíčky s majoránkou. Lehké a voňavé, jen ne skutečné.",
+  "about": [
+    "Jaterní knedlíčky se dělají z vepřových jater rozmixovaných do hladka, rohlíků namočených v mléce, vejce a majoránky. Těsto odpočívá 15 minut a knedlíčky se vaří přímo ve vývaru 8 minut na mírném varu.",
+    "Aby se nerozpadly, vždy se nejdřív uvaří zkušební. Do polévky patří nasekaná petrželka. Do tvé kuchyně patří jen návod."
+  ],
+  "optionGroups": [],
+  "image": "dish-jaterni-knedlicky-v-polevce-lzice-zitra",
+  "allergens": [
+    1,
+    3,
+    7,
+    9
+  ],
+  "spicy": 0
+}

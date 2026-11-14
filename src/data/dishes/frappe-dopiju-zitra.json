@@ -1,0 +1,46 @@
+{
+  "name": "Ledové frappé s pěnou",
+  "restaurant": "kavarna-dopiju-zitra",
+  "kind": "main",
+  "section": "Studené",
+  "price": 8900,
+  "recipe": "domaci-frappe",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 210,
+  "description": "Ledová káva s hustou pěnou z instantní kávy a studeným mlékem.",
+  "about": [
+    "Frappé má pěnu z rozšlehané kávy, cukru a studené vody, ne z mléka. Podává se nad ledem a mlékem. Dobře se pije v létě, ale chutná celý rok.",
+    "Dopiju zítra znamená, že se nic nepřilévá, až se zítra dopije. Doma si frappé uděláš za deset minut."
+  ],
+  "optionGroups": [
+    {
+      "id": "mleko",
+      "name": "Mléko",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kravske",
+          "name": "Kravské",
+          "priceDelta": 0
+        },
+        {
+          "id": "ovesne",
+          "name": "Ovesné",
+          "priceDelta": 1500
+        },
+        {
+          "id": "mandlove",
+          "name": "Mandlové",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "image": "dish-frappe-dopiju-zitra",
+  "allergens": [
+    7
+  ]
+}

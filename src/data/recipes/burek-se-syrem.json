@@ -1,0 +1,123 @@
+{
+  "title": "Burek se sýrem",
+  "keywords": [
+    "burek recept",
+    "burek se sýrem",
+    "balkánský burek",
+    "burek z filo těsta"
+  ],
+  "image": "dish-burek-se-syrem",
+  "category": "kebab",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 40,
+  "cookMinutes": 40,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek pod utěrkou po upečení",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Burek se sýrem je balkánský závin z tenkých vrstev filo těsta, naplněný solenými sýry a vejci. Aby zůstal křupavý navrchu a uvnitř šťavnatý, pečeš ho stočený do spirály a přelitý vaječno-jogurtovou směsí. Z dávky se najedí 6 lidí.",
+  "ingredients": [
+    {
+      "ingredient": "testo-filo",
+      "amount": 400,
+      "unit": "g",
+      "note": "listy rozmrazené podle návodu",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sirene",
+      "amount": 250,
+      "unit": "g",
+      "note": "rozdrobený",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 100,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml",
+      "note": "na potírání",
+      "group": "Pečení"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Přelití"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 100,
+      "unit": "g",
+      "group": "Přelití"
+    },
+    {
+      "ingredient": "perliva-voda",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Přelití"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C). Sýr smíchej s tvarohem, 2 vejci a jogurtem. Sýr je slaný, proto nesol."
+    },
+    {
+      "text": "Filo listy rozprostři a přikryj vlhkou utěrkou, aby nezaschly. Plech nebo kulatou formu o průměru 28 cm vymaž olejem."
+    },
+    {
+      "text": "Na jeden list rozetři 3 lžíce náplně v pruhu podél delší strany. Zroluj pevně do dlouhého válečku a lehce ho potři olejem."
+    },
+    {
+      "text": "Váleček stoč do spirály, začni ve středu formy. Další válečky přilož k prvnímu, až je forma plná."
+    },
+    {
+      "text": "Vejce, jogurt a perlivou vodu prošlehej, zalij spirálu a potři zbylým olejem. Peč 35 až 40 minut, až je burek zlatohnědý a křupavý."
+    },
+    {
+      "text": "Po upečení přikryj čistou utěrkou na 10 minut, aby změkl, a pak krájej na trojúhelníky. Podávej teplý."
+    }
+  ],
+  "tips": [
+    "Filo vždy zakrývej vlhkou utěrkou, na vzduchu zaschne za pár minut.",
+    "Burek nech po upečení krátce odpočinout, jinak se řeže špatně.",
+    "Studený podávej s jogurtem, v Bosně se pije s kefírem."
+  ],
+  "substitutions": [
+    "Sirene lze nahradit fetou stejného množství.",
+    "Pro verzi se špenátem přidej k náplni 200 g uvařeného vymačkaného špenátu.",
+    "Perlivou vodu nahradí mléko, burek bude trochu těžší."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi burek při pečení vysychá?",
+      "a": "Listy filo zaschly nebo nebyly potřené olejem. Potři všechny vrstvy olejem a nepoužité listy zakrývej vlhkou utěrkou."
+    },
+    {
+      "q": "Lze burek připravit den předem?",
+      "a": "Ano. Slož ho ve formě, přikryj a dej do lednice. Zalij směsí těsně před pečením a peč o 5 minut déle."
+    },
+    {
+      "q": "Jak dlouho vydrží upečený burek?",
+      "a": "V lednici 2 dny. Ohřej ho v troubě při 180 °C 10 minut, aby zase zkřehnul."
+    }
+  ]
+}

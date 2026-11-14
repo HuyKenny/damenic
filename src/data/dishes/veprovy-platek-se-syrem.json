@@ -1,0 +1,45 @@
+{
+  "name": "Vepřový plátek se sýrem a šunkou",
+  "kind": "main",
+  "section": "Minutky",
+  "price": 18900,
+  "recipe": "veprovy-platek-se-syrem",
+  "vegetarian": false,
+  "order": 160,
+  "description": "Plátek kýty zapečený se šunkou, rajčetem a eidamem. Bez trojobalu.",
+  "about": [
+    "Tenký plátek kýty, krátce opečený a zapečený s šunkou, rajčetem a sýrem. Jednodušeji se vepřové večeře dělat nedá a nepotřebuje žádný trojobal.",
+    "Je to minutka, která u prázdného talíře trvá nekonečně, protože se nikdy nevaří. Doma se vejdeš do 40 minut."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "kase",
+          "name": "Bramborová kaše",
+          "priceDelta": 1000
+        },
+        {
+          "id": "rize",
+          "name": "Rýže",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-veprovy-platek-se-syrem",
+  "allergens": [
+    7,
+    10
+  ]
+}

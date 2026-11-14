@@ -1,0 +1,134 @@
+{
+  "title": "Dýňové rizoto s hokkaido",
+  "keywords": [
+    "dýňové rizoto",
+    "rizoto z dýně",
+    "rizoto s hokkaido",
+    "dýňové rizoto recept"
+  ],
+  "image": "dish-dynove-rizoto-zahradka",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 20,
+  "cookMinutes": 40,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Dýňové rizoto z hokkaido je podzimní jídlo, kde se část dýně rozvaří do krémového základu a část zůstane na kostičkách jako sousta. Hokkaido se nemusí loupat, kůra při vaření změkne. Důležité je upéct kostičky předem, aby zkaramelizovaly a rizoto nebylo vodnaté.",
+  "ingredients": [
+    {
+      "ingredient": "dyne-hokkaido",
+      "amount": 500,
+      "unit": "g",
+      "note": "očištěná, s kůrou"
+    },
+    {
+      "ingredient": "ryze-arborio",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 850,
+      "unit": "ml",
+      "note": "horký"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "dynova-seminka",
+      "amount": 20,
+      "unit": "g",
+      "note": "opražená, na ozdobu"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C, horkovzduch 180 °C. Dýni nakrájej na kostky o hraně 1,5 cm, polovinu smíchej s lžící oleje, solí a tymiánem a rozlož na plech."
+    },
+    {
+      "text": "Pečení dýně trvá 20 až 25 minut, v polovině ji obrať. Hotová je, když je měkká a na okrajích lehce zhnědlá. Zbylou polovinu dýně rozmixuj s 200 ml vývaru na hladké pyré."
+    },
+    {
+      "text": "Vývar zahřej v hrnci a udržuj ho těsně pod bodem varu. V širokém hrnci rozehřej zbylý olej a polovinu másla, cibuli smaž 5 minut a přidej česnek."
+    },
+    {
+      "text": "Přidej rýži, míchej 2 minuty, dokud nezprůsvitní. Přilévej vývar po naběračkách a míchej, vždy až předchozí vsákne. Po 10 minutách přidej dýňové pyré."
+    },
+    {
+      "text": "Po 18 až 20 minutách má být rýže al dente a rizoto krémové. Stáhni z plamene, vmíchej zbylé máslo, parmazán, muškát a upečené kostky dýně."
+    },
+    {
+      "text": "Nech 2 minuty odpočinout a podávej s opraženými dýňovými semínky."
+    }
+  ],
+  "tips": [
+    "Kůra hokkaido je jedlá. U jiných dýní, např. máslové, ji ale odkrájej.",
+    "Dýně je sladká, citronová šťáva nebo kapka octa na závěr rizoto vyváží.",
+    "Rizoto z dýně hustne rychleji než jiná, měj po ruce horký vývar na dolití."
+  ],
+  "substitutions": [
+    "Parmazán nahraď pecorinem nebo veganskými kvasnicovými vločkami.",
+    "Místo hokkaido dej batát, rizoto bude sladší.",
+    "Přidej hrst nasekané šalvěje, osmaženou v másle, pro podzimní chuť."
+  ],
+  "faq": [
+    {
+      "q": "Musím hokkaido loupat?",
+      "a": "Ne. Kůra hokkaido je po upečení nebo uvaření měkká a jedlá. Stačí dýni omýt a odstranit semínka."
+    },
+    {
+      "q": "Proč je rizoto lepkavé?",
+      "a": "Rýže se příliš míchala nebo se vařila moc dlouho. Vyber ji v okamžiku, kdy je uprostřed zrna jemně tuhá. Rizoto ještě po stažení dohoustne."
+    },
+    {
+      "q": "Jde rizoto zamrazit?",
+      "a": "Nedoporučuje se, rýže po rozmražení změkne. Můžeš zamrazit samotné dýňové pyré."
+    }
+  ]
+}

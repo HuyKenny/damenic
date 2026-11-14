@@ -1,0 +1,106 @@
+{
+  "title": "Domácí toastový chléb",
+  "keywords": [
+    "toastový chléb",
+    "domácí toastový chléb",
+    "toastový chléb recept",
+    "jak upéct toastový chléb"
+  ],
+  "image": "dish-toastovy-chleb-zitra",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 10,
+  "activeMinutes": 30,
+  "cookMinutes": 35,
+  "waitMinutes": 100,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "meal": "pecivo",
+  "intro": "Toastový chléb recept do formy 25 × 11 cm: měkký, jemně sladký bochník s tenkou kůrkou a drobnou pórovitou střídou. Z jednoho bochníku vyjde asi 14 krajíců. Je to mléčné těsto, které po vykynutí nesmí přerůst, jinak se po upečení propadne.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vlažné"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 50,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "rozpuštěné a vychladlé"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na vymazání formy"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozmíchej s cukrem v mléce a nech 10 minut vzejít. Mouku smíchej se solí, přidej kvásek, vodu a rozpuštěné máslo. Hnětej 10 minut do hladkého a pružného těsta."
+    },
+    {
+      "text": "Těsto nech přikryté nakynout asi 50 minut na dvojnásobek."
+    },
+    {
+      "text": "Vyválej obdélník asi 25 × 35 cm, přelož ho do třetin a pevně svinout od užší strany. Vlož stehem dolů do vymazané formy. Nech nakynout, dokud těsto nepřečnívá přes okraj formy asi o 1 cm, asi 40 minut."
+    },
+    {
+      "text": "Troubu předehřej na 190 °C (horkovzduch 175 °C). Chléb peč 33 až 35 minut. Hotový je, když po poklepání na spodek zní dutě nebo teploměr uvnitř ukáže 95 °C."
+    },
+    {
+      "text": "Vyklop ho z formy, potři zbytkem másla a nech 1 hodinu vychladnout. Teprve pak krájej."
+    }
+  ],
+  "tips": [
+    "Chléb krájej až po úplném vychladnutí. Horký je uvnitř těžký a lepí se na nůž.",
+    "Pro rovný vršek přikryj formu plechem s pečicím papírem. Střecha pak vyjde rovná.",
+    "Plátky zmraz a toastuj je přímo ze zmrazeného stavu."
+  ],
+  "substitutions": [
+    "Mléko nahraď vodou, chléb bude méně sladký.",
+    "Mouku hladkou nahraď z poloviny celozrnnou.",
+    "Máslo nahraď 2 lžícemi oleje."
+  ],
+  "faq": [
+    {
+      "q": "Proč toastový chléb po upečení spadl?",
+      "a": "Těsto přerostlo při druhém kynutí. Peč ho, když přečnívá přes okraj formy asi o 1 cm."
+    },
+    {
+      "q": "Jak poznám, že je chléb upečený?",
+      "a": "Po poklepání na spodek zní dutě, nebo vnitřní teplota dosáhne 95 °C."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí toastový chléb?",
+      "a": "V sáčku 3 dny, zmrazený 2 měsíce."
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "title": "Prdelačka, zabijačková polévka z masa a jater",
+  "keywords": [
+    "prdelačka",
+    "prdelačka recept",
+    "zabijačková polévka",
+    "domácí prdelačka",
+    "prdelačka s kroupami"
+  ],
+  "image": "dish-prdelacka-prazdna-naberacka",
+  "category": "polevky",
+  "vegetarian": false,
+  "servings": 5,
+  "activeMinutes": 30,
+  "cookMinutes": 100,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "polevka",
+  "intro": "Prdelačka je zabijačková polévka z vepřového masa, jater a krup, hustá a výrazně kořeněná majoránkou a kmínem. Recept na prdelačku se hodí, když zbyde maso po domácím vaření nebo si koupíš vepřové plecko a játra. Hotová je za hodinu a půl a podává se s chlebem. Játra se přidávají až na konec, jinak ztuhnou a zhořknou.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-plecko",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kostky 1,5 cm"
+    },
+    {
+      "ingredient": "veprova-jatra",
+      "amount": 150,
+      "unit": "g",
+      "note": "očištěná, nakrájená na kostičky"
+    },
+    {
+      "ingredient": "kroupy",
+      "amount": 80,
+      "unit": "g",
+      "note": "namočené 2 hodiny"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostky 1 cm"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1700,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej sádlo a 5 minut opékej cibuli a kostky plecka, dokud maso nezíská barvu. Přisyp kmín a nové koření a míchej 20 sekund."
+    },
+    {
+      "text": "Zalij vodou, přidej bobkový list, kroupy a sůl. Přiveď k varu, sniž plamen a vař pod pokličkou 60 minut, až je maso skoro měkké."
+    },
+    {
+      "text": "Přidej brambory a vař dalších 15 minut. Poté vmíchej játra a papriku a vař 5 až 7 minut, až jsou játra pevná a uvnitř nejsou růžová."
+    },
+    {
+      "text": "Přidej česnek a majoránku, dochuť solí a pepřem. Nech 10 minut odstát, aby kroupy dobobtnaly. Podávej s chlebem."
+    }
+  ],
+  "tips": [
+    "Játra přidávej až na konci. Dlouhým vařením zhořknou a zrnitě se rozpadnou.",
+    "Kroupy namoč aspoň 2 hodiny, jinak se vaří dvakrát déle.",
+    "Polévka zhoustne, druhý den přidej při ohřevu 100 ml vody.",
+    "V lednici vydrží 3 dny, zamrazit ji jde na 2 měsíce."
+  ],
+  "substitutions": [
+    "Vepřové plecko nahraď bůčkem 200 g a plecko 100 g.",
+    "Kroupy nahraď rýží, vaří se 15 minut.",
+    "Játra vynech pro jemnější chuť a přidej 100 g uzeného masa."
+  ],
+  "faq": [
+    {
+      "q": "Co je prdelačka?",
+      "a": "Hustá zabijačková polévka z vepřového masa, jater a krup, ochucená majoránkou, kmínem a česnekem."
+    },
+    {
+      "q": "Jak dlouho se vaří prdelačka?",
+      "a": "Maso s kroupami 60 minut, brambory dalších 15 a játra posledních 5 až 7 minut. Celkem asi 90 minut."
+    },
+    {
+      "q": "Dá se prdelačka zamrazit?",
+      "a": "Ano, na 2 měsíce. Brambory po rozmrazení změknou, ale chuť zůstane."
+    }
+  ]
+}

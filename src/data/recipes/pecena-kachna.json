@@ -1,0 +1,150 @@
+{
+  "title": "Pečená kachna se zelím a knedlíky",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 170,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek kachny",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "keywords": [
+    "pečená kachna",
+    "pečená kachna recept",
+    "pečená kachna se zelím",
+    "kachna v troubě"
+  ],
+  "intro": "Pečená kachna se zelím a houskovými knedlíky je celá kachna pečená 2,5 hodiny pod pokličkou a pak ještě krátce na vysoké teplotě pro křupavou kůži. Stehno má mít uvnitř alespoň 80 °C a prsa 75 °C. Hodně tuku se vypeče, takže kachnu piš na roštu nebo ho průběžně odlévej.",
+  "ingredients": [
+    {
+      "ingredient": "kachna-cela",
+      "amount": 2200,
+      "unit": "g",
+      "note": "kuchaná, osušená",
+      "group": "Kachna"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "36 g",
+      "group": "Kachna"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Kachna"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kachna"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Kachna"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na čtvrtky, do dutiny",
+      "group": "Kachna"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 200,
+      "unit": "ml",
+      "note": "na dno pekáče",
+      "group": "Kachna"
+    },
+    {
+      "ingredient": "kysane-zeli",
+      "amount": 600,
+      "unit": "g",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "knedlik-houskovy",
+      "amount": 600,
+      "unit": "g",
+      "note": "hotový",
+      "group": "Knedlíky"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Kachnu den předem nebo alespoň 2 hodiny před pečením osuš a potři solí, kmínem a majoránkou i uvnitř. V dutině nech česnek a jablka. Kůži propíchej v silných místech, ale nepropíchni maso."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 180 °C (horkovzduch 160 °C). Polož kachnu prsy dolů do pekáče s vodou, přikryj a peč 1 hodinu."
+    },
+    {
+      "section": "Pečení",
+      "text": "Kachnu otoč prsy nahoru, odlij nahromaděný tuk (uschovej na zelí a brambory) a peč dalších 1 hodinu 15 minut, v polovině polij šťávou z pekáče."
+    },
+    {
+      "section": "Zelí",
+      "text": "Mezitím na 2 lžících kachního tuku osmahni cibuli, přidej zelí, cukr a kmín a duš pod pokličkou 30 minut dozlatova."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Odkryj kachnu, zvyš na 220 °C (horkovzduch 200 °C) a peč 10 až 15 minut, dokud kůže nezezlátne. Teploměr ve stehně ukáže 80 °C a v prsou 75 °C."
+    },
+    {
+      "section": "Podávání",
+      "text": "Kachnu nech 15 minut odpočinout pod fólií, mezitím ohřej knedlíky v páře podle návodu. Podávej se zelím a šťávou z pekáče."
+    }
+  ],
+  "tips": [
+    "Kachna je tučná. Tuk průběžně odlévej do misky, kachna se nesmí smažit v tuku.",
+    "Kůži propíchej opatrně, jen do tuku, jinak z masa vyteče šťáva.",
+    "Zbylý kachní tuk dej do lednice, vydrží několik týdnů a skvěle se na něm opékají brambory."
+  ],
+  "substitutions": [
+    "Kysané zelí nahradíš červeným zelím dušeným s jablkem.",
+    "Knedlíky nahradíš bramborovými nebo vařenými bramborami.",
+    "Majoránku nahradíš tymiánem, pokud ho máš radši."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct kachnu v troubě?",
+      "a": "Kachna o hmotnosti 2,2 kg se peče asi 2,5 až 3 hodiny: 2 hodiny a 15 minut pod pokličkou při 180 °C a pak 10 až 15 minut při 220 °C."
+    },
+    {
+      "q": "Při jaké teplotě je kachna hotová?",
+      "a": "V prsou musí být 75 °C a ve stehně 80 °C. Stehno je zdravé i při vyšší teplotě."
+    },
+    {
+      "q": "Co s kachním tukem?",
+      "a": "Přeceď ho a skladuj v lednici v uzavřené sklenici. Hodí se na zelí, pečené brambory nebo smažení."
+    }
+  ],
+  "image": "dish-pecena-kachna",
+  "vegetarian": false
+}

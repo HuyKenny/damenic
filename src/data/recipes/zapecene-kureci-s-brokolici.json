@@ -1,0 +1,130 @@
+{
+  "title": "Zapečené kuřecí s brokolicí",
+  "category": "kure",
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 30,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "zapečené kuřecí s brokolicí",
+    "kuřecí s brokolicí a sýrem",
+    "zapečená kuřecí prsa s brokolicí",
+    "kuře s brokolicí ve smetaně"
+  ],
+  "intro": "Zapečené kuřecí s brokolicí je jedna zapékací mísa: kousky prsou, krátce povařená brokolice, smetanová omáčka a eidam navrch. Bez přílohy je to lehká večeře, s rýží nebo bramborami sytý oběd, a hotové je za hodinu.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 500,
+      "unit": "g",
+      "note": "na kostky 2 cm",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "brokolice",
+      "amount": 400,
+      "unit": "g",
+      "note": "na malé růžičky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisované",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Navrch"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C). Brokolici 3 minuty povař ve vroucí osolené vodě, scedi a přelij studenou vodou, ať zůstane zelená."
+    },
+    {
+      "section": "Maso",
+      "text": "Kostky kuřecího osol, opepři a na rozpáleném oleji je 4 až 5 minut opékej, dokud nezezlátnou. Uvnitř ještě nemusí být propečené."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Do pánve k masu přidej česnek a mouku a míchej půl minuty. Zalij smetanou, přidej hořčici a za stálého míchání nech 2 minuty zhoustnout."
+    },
+    {
+      "section": "Zapečení",
+      "text": "Brokolici a maso s omáčkou smíchej v zapékací míse, posyp eidamem a piš 20 až 25 minut. Maso uvnitř musí mít 75 °C a sýr má být zlatý."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Před servírováním nech mísu 5 minut odstát, omáčka se uleží a nespálí jazyk."
+    }
+  ],
+  "tips": [
+    "Krátké povaření brokolice je důležité. Syrová by v troubě zůstala tvrdá, přepečená by zešedla.",
+    "Kostky nakrájej stejně velké, upečou se najednou.",
+    "Omáčka má před pečením vypadat řidší, než ji chceš mít. V troubě zhoustne."
+  ],
+  "substitutions": [
+    "Eidam nahradíš goudou nebo ementálem, pro výraznější chuť přidej trochu parmazánu.",
+    "Smetanu na vaření nahradíš směsí 100 ml mléka a 100 ml zakysané smetany.",
+    "Brokolici můžeš vyměnit za květák, povař ho 5 minut."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct kuřecí s brokolicí v troubě?",
+      "a": "Při 200 °C asi 20 až 25 minut. Maso musí mít uvnitř 75 °C a sýr zlatou krustu."
+    },
+    {
+      "q": "Musí se brokolice předvařit?",
+      "a": "Doporučuju ano, 3 minuty. Syrová brokolice se v omáčce nedopeče rovnoměrně."
+    },
+    {
+      "q": "Dá se zapékaná mísa připravit den předem?",
+      "a": "Ano. Slož ji a nech v lednici, pak ji piš o 5 až 10 minut déle, aby se prohřála až do středu."
+    }
+  ],
+  "image": "dish-zapecene-kureci-s-brokolici",
+  "vegetarian": false
+}

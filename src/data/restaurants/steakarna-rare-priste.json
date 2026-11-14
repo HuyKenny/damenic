@@ -1,0 +1,31 @@
+{
+  "name": "Steakárna Rare Příště",
+  "category": "steak",
+  "cuisine": "Steaky, ryby a krevety z pánve",
+  "tagline": "Rare, medium nebo well done. Příště nám řekneš, jak to chceš.",
+  "description": "Tomahawk, losos s křupavou kůží a krevety na česneku, to všechno z pánve a z trouby. Steakárna Rare Příště je smyšlená, takže ti nic nepřiveze, ale recepty jsou skutečné a mají teploty na stupeň přesně.",
+  "etaMinutes": 40,
+  "deliveryFee": 4900,
+  "minOrder": 24900,
+  "priceLevel": 3,
+  "hours": {
+    "open": "12:00",
+    "close": "23:00"
+  },
+  "pickup": false,
+  "tags": [],
+  "isNew": true,
+  "logo": {
+    "text": "RP",
+    "color": "#7A1F2B",
+    "ink": "light"
+  },
+  "cover": "rest-steakarna-rare-priste",
+  "sections": [
+    "Steaky",
+    "Ryby a mořské plody",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 420
+}

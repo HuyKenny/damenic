@@ -1,0 +1,23 @@
+{
+  "name": "Domácí vanilkový pudink",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Studené dezerty",
+  "description": "Hustý pudink z mléka, žloutků a skutečné vanilky. Žádný sáček, jen lžíce a trpělivost.",
+  "about": [
+    "Domácí pudink je dezert, který zná každý a umí málokdo. Mléko, škrob, žloutky a vanilka se spojí do hladké hmoty za pár minut a v lednici z ní vznikne vláčný dezert, který drží tvar. Hlavní pravidlo: škrob nesmí do horkého mléka.",
+    "Sladké nic podává pudink ve smyšlené skleničce. Recept ale potřebuje jen hrnec, šlehač a dvě hodiny trpělivosti."
+  ],
+  "price": 6500,
+  "image": "dish-domaci-pudink-sladke",
+  "recipe": "domaci-vanilkovy-pudink",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7
+  ],
+  "order": 42
+}

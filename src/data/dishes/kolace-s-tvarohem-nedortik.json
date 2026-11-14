@@ -1,0 +1,24 @@
+{
+  "name": "Koláč s tvarohem a drobenkou",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Kynutý koláček s vanilkovým tvarohem a máslovou drobenkou.",
+  "about": [
+    "Tvarohový koláč je klasika, která prošla desítkami babiček a stovkami nedělí. Kynuté máslové těsto, prohlubeň uprostřed a vanilkový tvaroh s citronovou kůrou, navrch drobenka, která křupe. Plech s koláčky se z trouby vyndává s hrdostí.",
+    "V nedortíku ti nic nepřivezou. Ale tvaroh máš v lednici a mouku taky. Zbytek je trpělivost."
+  ],
+  "price": 5500,
+  "image": "dish-kolace-s-tvarohem-nedortik",
+  "recipe": "kolace-s-tvarohem",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 16
+}

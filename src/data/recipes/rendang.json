@@ -1,0 +1,170 @@
+{
+  "title": "Hovězí rendang",
+  "keywords": [
+    "rendang",
+    "rendang recept",
+    "hovězí rendang",
+    "indonéské hovězí na kokosovém mléce"
+  ],
+  "image": "dish-rendang",
+  "category": "asijska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 40,
+  "cookMinutes": 180,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Rendang je indonéské hovězí maso dušené 3 hodiny v kokosovém mléku s citronovou trávou, galangalem a kořením, dokud se tekutina nevyvaří a maso se nezačne smažit v kokosovém oleji. Výsledkem je tmavé, tuhé a aromatické kari, které vydrží několik dní.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-klizka",
+      "amount": 900,
+      "unit": "g",
+      "note": "na kostky 4 cm"
+    },
+    {
+      "ingredient": "kokosove-mleko",
+      "amount": 800,
+      "unit": "ml",
+      "note": "2 plechovky"
+    },
+    {
+      "ingredient": "citronova-trava",
+      "amount": 2,
+      "unit": "ks",
+      "note": "rozdrcená"
+    },
+    {
+      "ingredient": "kafirove-listy",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "nasucho opražený"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "pasta",
+      "group": "Pasta"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 5,
+      "unit": "ks",
+      "group": "Pasta"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 20,
+      "unit": "g",
+      "group": "Pasta"
+    },
+    {
+      "ingredient": "galangal",
+      "amount": 20,
+      "unit": "g",
+      "group": "Pasta"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Pasta"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Pasta"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Pasta"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Pasta"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Pasta"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kokos opraž na suché pánvi 3 minuty do zlata a hned přesyp, ať nezhořkne. Cibuli, česnek, zázvor, galangal, chilli, kurkumu, koriandr a kmin rozmixuj na hladkou pastu."
+    },
+    {
+      "text": "V širokém hrnci rozehřej olej, pastu smaž 5 minut na středním plameni, dokud nezačne vonět a nezhoustne."
+    },
+    {
+      "text": "Přidej hovězí a míchej 5 minut, aby se obalilo. Přilij kokosové mléko a vodu, přidej citronovou trávu, kafírové listy, cukr a sůl a přiveď k varu."
+    },
+    {
+      "text": "Duš bez poklice na mírném plameni 2,5 až 3 hodiny a občas míchej. Tekutina se postupně vyvaří, omáčka zhoustne."
+    },
+    {
+      "text": "Až zbude málo omáčky a olej se začne oddělovat, přidej opražený kokos a míchej dalších 10 až 15 minut, aby maso zhnědlo v oleji. Maso se má rozpadat vidličkou."
+    },
+    {
+      "text": "Přidej limetkovou šťávu, ochutnej a podávej s rýží."
+    }
+  ],
+  "tips": [
+    "Ve finále míchej často, aby se dno nepřipálilo.",
+    "Rendang je druhý den ještě lepší, chuť se zakulatí. Vydrží 4 dny v lednici.",
+    "Použij hovězí kližku nebo hovězí plec, libové maso je suché."
+  ],
+  "substitutions": [
+    "Galangal nahradí stejné množství zázvoru.",
+    "Kafírové listy nahradí kůra z jedné limetky.",
+    "Pro jemnější chuť použij jen 2 chilli."
+  ],
+  "faq": [
+    {
+      "q": "Proč se rendang vaří tak dlouho?",
+      "a": "Maso musí změknout a tekutina se vyvařit. Až poslední fáze, kdy se maso smaží v oleji z kokosového mléka, dává rendangu jeho typickou chuť."
+    },
+    {
+      "q": "Jde rendang připravit v tlakovém hrnci?",
+      "a": "Jde, 45 minut pod tlakem a pak 20 minut dovařit bez poklice, aby omáčka zhoustla."
+    },
+    {
+      "q": "Je rendang ostrý?",
+      "a": "Střední. Pro mírnější verzi zmenši počet chilli papriček a odstraň semínka."
+    }
+  ]
+}

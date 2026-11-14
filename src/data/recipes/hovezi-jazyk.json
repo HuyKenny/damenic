@@ -1,0 +1,157 @@
+{
+  "title": "Vařený hovězí jazyk s hořčičnou omáčkou",
+  "keywords": [
+    "hovězí jazyk",
+    "hovězí jazyk recept",
+    "vařený hovězí jazyk",
+    "hovězí jazyk na smetaně",
+    "jak uvařit hovězí jazyk"
+  ],
+  "image": "dish-hovezi-jazyk-u-prazdneho-talire",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 5,
+  "activeMinutes": 30,
+  "cookMinutes": 180,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Hovězí jazyk je libové a jemné maso, které se vaří v osolené vodě s kořením asi 3 hodiny, než je měkké jako máslo. Recept na hovězí jazyk řeší dvě věci, které lidi trápí: jak jazyk oloupat, aby kůže sama sjela, a jak ho podat. Hotový se krájí na plátky a dává se s hořčičnou omáčkou nebo studený na chlebíček.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-jazyk",
+      "amount": 1000,
+      "unit": "g",
+      "note": "vcelku, omytý",
+      "group": "Jazyk"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "se slupkou",
+      "group": "Jazyk"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "group": "Jazyk"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 80,
+      "unit": "g",
+      "group": "Jazyk"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Jazyk"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 5,
+      "unit": "ks",
+      "group": "Jazyk"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 1.5,
+      "unit": "g",
+      "group": "Jazyk"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Jazyk"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 3000,
+      "unit": "ml",
+      "group": "Jazyk"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "plnotučná",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Jazyk opláchni studenou vodou. V hrnci přiveď k varu vodu se zeleninou, kořením a solí a vlož do ní jazyk. Sniž plamen a vař pod pokličkou 2,5 až 3 hodiny, aby se hladina jen chvěla."
+    },
+    {
+      "text": "Jazyk je hotový, když špejle projde kořenem bez odporu a kůže na špičce praská. Vyndej ho a okamžitě na 20 sekund ponoř do studené vody."
+    },
+    {
+      "text": "Dokud je teplý, stáhni kůži nožem od špičky ke kořeni. Odřízni kořenovou část s kostmi a tukem. Studený jazyk se loupe špatně."
+    },
+    {
+      "text": "Omáčka: v kastrolku rozehřej máslo, zasyp moukou a 1 minutu míchej. Zalij 150 ml vývaru z jazyka a smetanou, vař 5 minut do zhoustnutí. Vmíchej hořčici, ocet a sůl."
+    },
+    {
+      "text": "Jazyk nakrájej napříč na plátky široké 5 mm a podávej s omáčkou, bramborami nebo houskovým knedlíkem."
+    }
+  ],
+  "tips": [
+    "Čím čerstvější jazyk, tím lépe se loupe. Ještě teplý, jinak kůže drží.",
+    "Neprobodávej jazyk vidličkou během vaření, vytékají šťávy.",
+    "Vývar je silný, použij ho do omáčky nebo na čočku.",
+    "Plátky v lednici vydrží 3 dny, nejlépe zalité vývarem."
+  ],
+  "substitutions": [
+    "Smetanu v omáčce nahraď 150 ml mléka a 50 g zakysané smetany.",
+    "Hořčičnou omáčku nahraď křenovou nebo houbovou.",
+    "Studený jazyk krájej na chlebíčky s okurkou a křenem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří hovězí jazyk?",
+      "a": "Celý jazyk o váze kolem 1 kg se vaří 2,5 až 3 hodiny na mírném varu. V tlakovém hrnci 60 až 75 minut."
+    },
+    {
+      "q": "Jak oloupat hovězí jazyk?",
+      "a": "Po uvaření ho na 20 sekund ponoř do studené vody a kůži stáhni ještě teplou nožem od špičky. Studený jazyk se špatně loupe."
+    },
+    {
+      "q": "Jak poznám, že je jazyk uvařený?",
+      "a": "Špejle projde kořenem bez odporu a kůže na špičce praská. Pokud je maso tuhé, vař dalších 30 minut."
+    }
+  ]
+}

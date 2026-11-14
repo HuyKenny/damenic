@@ -1,0 +1,133 @@
+{
+  "title": "Vepřové medailonky ve slanině",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "keywords": [
+    "vepřové medailonky",
+    "vepřové medailonky ve slanině",
+    "medailonky z panenky",
+    "vepřové medailonky na pánvi"
+  ],
+  "intro": "Vepřové medailonky ve slanině jsou kolečka z panenky obalená plátkem slaniny, opečená na pánvi a dopečená v troubě. Slanina drží maso pohromadě a hlídá, aby neuschlo. Uvnitř musí mít maso 70 °C.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-panenka",
+      "amount": 600,
+      "unit": "g",
+      "note": "na 8 medailonků po 3 cm",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 100,
+      "unit": "g",
+      "note": "8 tenkých plátků",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "fazolky-zelene",
+      "amount": 300,
+      "unit": "g",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 600,
+      "unit": "g",
+      "note": "vařené, oloupané",
+      "group": "Příloha"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 190 °C (horkovzduch 170 °C). Panenku zbav blan a nakrájej na 8 medailonků vysokých asi 3 cm. Lehce je zformuj dlaní do kulatého tvaru."
+    },
+    {
+      "section": "Příprava",
+      "text": "Každý medailonek opepři, posyp tymiánem a obtoč plátkem slaniny. Konec slaniny zajisti párátkem. Slanina je slaná, maso nesol."
+    },
+    {
+      "section": "Opečení",
+      "text": "Na rozpáleném oleji opékej medailonky po 2 minutách z každé strany a ještě krátce na bocích, aby slanina zezlátla."
+    },
+    {
+      "section": "Pečení",
+      "text": "Přendej medailonky na plech a piš 8 až 10 minut. Uvnitř mají mít 70 °C a střed jemně narůžovělý."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Fazolky 5 minut vař ve vroucí osolené vodě a scedi. Na másle zprudka orestuj česnek, přidej fazolky a nech 2 minuty prohřát."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Medailonky nech 5 minut odpočinout, vytáhni párátka a podávej s fazolkami a vařenými bramborami."
+    }
+  ],
+  "tips": [
+    "Medailonky nakrájej příčně, kolečka s plochým řezem se opečou rovnoměrně.",
+    "Slanina se při opékání smrští. Dej ji napřed svým koncem dolů, spoj drží lépe.",
+    "Panenka je libová a z trouby vytáhni medailonky o 2 až 3 stupně dřív, dohřejí se během odpočinku."
+  ],
+  "substitutions": [
+    "Slaninu nahradíš plátkem parmské šunky nebo anglické slaniny.",
+    "Fazolky nahradíš brokolicí nebo mraženým hrášky.",
+    "Tymián nahradíš rozmarýnem, ale pouze špetkou, je silnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct vepřové medailonky?",
+      "a": "Po opečení 8 až 10 minut při 190 °C. Rozhoduje teplota: uvnitř 70 °C."
+    },
+    {
+      "q": "Jak zabránit, aby slanina odpadla?",
+      "a": "Obtoč ji těsně a zajisti párátkem nebo nití. Při opékání začni stranou spoje."
+    },
+    {
+      "q": "Dají se medailonky připravit dopředu?",
+      "a": "Ano, obalené medailonky vydrží den v lednici. Opékej je až těsně před jídlem."
+    }
+  ],
+  "image": "dish-veprove-medailonky",
+  "vegetarian": false
+}

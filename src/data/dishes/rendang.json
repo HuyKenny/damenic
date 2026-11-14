@@ -1,0 +1,18 @@
+{
+  "name": "Hovězí rendang s rýží",
+  "section": "Rýže a kari",
+  "price": 24900,
+  "recipe": "rendang",
+  "vegetarian": false,
+  "order": 240,
+  "description": "Hovězí kližka vařená 3 hodiny v kokosovém mléku s citronovou trávou a kořením.",
+  "about": [
+    "Rendang je maso, které se vaří, dokud nezmizí omáčka. Končí smažením v kokosovém oleji a je tmavé, tuhé a aromatické.",
+    "Doma ho uděláš na tři hodiny a pak ho budeš jíst čtyři dny. V simulaci tě tolik čekání nezdrží."
+  ],
+  "spicy": 2,
+  "kind": "main",
+  "restaurant": "wok-nic-moc",
+  "image": "dish-rendang",
+  "allergens": []
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Kuře na smetaně a houbách",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "price": 17900,
+  "recipe": "kure-na-smetane-a-houbach",
+  "vegetarian": false,
+  "order": 160,
+  "description": "Kuřecí prsa v smetanové omáčce se žampiony, podávaná s rýží.",
+  "about": [
+    "Kuře na smetaně a houbách patří k jídlům, která jsou za 40 minut hotová a chutnají jako z velké hospody. Hlavní věc je nechat houby na pánvi vypéct dosucha.",
+    "U prázdného talíře je podává prázdnému talíři. Ty si ho uvaříš doma a talíř bude plný."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "rize",
+          "name": "Rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-kure-na-smetane-a-houbach",
+  "allergens": [
+    1,
+    7,
+    9
+  ]
+}

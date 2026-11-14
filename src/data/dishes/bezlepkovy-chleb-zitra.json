@@ -1,0 +1,20 @@
+{
+  "name": "Bezlepkový chléb",
+  "restaurant": "pekarna-zitra-upecem",
+  "kind": "main",
+  "section": "Máslové a slané",
+  "description": "Bochník z bezlepkové směsi a psyllia, kůrka křupe a střída se nedrolí.",
+  "about": [
+    "Bezlepkový chléb nevyžaduje magii, jen pořádnou náhradu lepku. Psyllium s vodou vytvoří gel, který drží těsto pohromadě, a ocet pomáhá kynutí. Těsto je spíš hustá kaše než pružné těsto, takže se neválí, ale míchá.",
+    "Chleba z Zítra upečem je bohužel zítřejší, ale recept máš už dnes. Hlavně si pohlídej, že všechno, co do něj dáš, je označené bez lepku."
+  ],
+  "price": 7900,
+  "image": "dish-bezlepkovy-chleb-zitra",
+  "recipe": "bezlepkovy-chleb",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "order": 27
+}

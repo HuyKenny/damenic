@@ -1,0 +1,23 @@
+{
+  "name": "Žemle s kmínem",
+  "restaurant": "pekarna-zitra-upecem",
+  "kind": "main",
+  "section": "Máslové a slané",
+  "description": "Oválná žemle se zářezem, kmínem a křupavou kůrkou. Čerstvá jen dokud ji nevyndáš.",
+  "about": [
+    "Žemle je pečivo, kolem kterého se hádají celé regiony. V Čechách je to oválný nebo kulatý kus pšeničného těsta se zářezem, tady s kmínem. Křupavá kůrka vznikne jen s párou v troubě, měkké jádro jen s pořádným vykynutím.",
+    "Pekárna Zítra upečem pec rozpálenou má. Dnes ti žemle nedovezou, ale upečeš si je za dvě hodiny sám."
+  ],
+  "price": 2900,
+  "image": "dish-domaci-zemle-zitra",
+  "recipe": "domaci-zemle",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 12
+}

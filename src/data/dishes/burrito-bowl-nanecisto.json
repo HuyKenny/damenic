@@ -1,0 +1,22 @@
+{
+  "name": "Fazolový burrito bowl s avokádem",
+  "restaurant": "miska-nanecisto",
+  "kind": "main",
+  "section": "Teplé misky",
+  "price": 19900,
+  "recipe": "fazolovy-burrito-bowl",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 1,
+  "order": 200,
+  "description": "Rýže, kořeněné fazole, kukuřice, salsa, avokádo a limetkový jogurt v jedné míse.",
+  "about": [
+    "Burrito bez tortilly: rýže, fazole s uzenou paprikou a kmínem, kukuřice, rajčata a avokádo. Limetkový jogurt a rozdrcené chipsy dodají kyselost a křupání. Dá se udělat z plechovek za půl hodiny.",
+    "Miska nanečisto je smyšlená, ale fazole k ní jsou skutečné. Zkus je doma a ušetříš dopravné."
+  ],
+  "optionGroups": [],
+  "image": "dish-burrito-bowl-nanecisto",
+  "allergens": [
+    7
+  ]
+}

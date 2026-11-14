@@ -1,0 +1,115 @@
+{
+  "title": "Krevety na česneku",
+  "category": "steak",
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 8,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "krevety na česneku",
+    "krevety na česneku recept",
+    "krevety na másle",
+    "krevety na pánvi"
+  ],
+  "intro": "Krevety na česneku jsou loupané krevety krátce opečené v olivovém oleji s hodně česneku, chilli a citronem. Celé jídlo je hotové za 18 minut a stojí na dvou věcech: pánev musí být rozpálená a krevety se smějí smažit jen 2 až 3 minuty z každé strany, jinak zgumovatí.",
+  "ingredients": [
+    {
+      "ingredient": "krevety",
+      "amount": 400,
+      "unit": "g",
+      "note": "loupané, rozmražené",
+      "group": "Krevety"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Krevety"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 60,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 5,
+      "unit": "ks",
+      "note": "na tenké plátky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 120,
+      "unit": "g",
+      "note": "opečený",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Krevety nech rozmrazit v lednici, scedi a důkladně osuš papírovou utěrkou. Osol."
+    },
+    {
+      "section": "Česnek",
+      "text": "Na pánvi rozehřej olej na středním ohni, přidej česnek a chilli a nech 30 až 60 sekund, aby voněl. Česnek nesmí zhnědnout, zhořkne."
+    },
+    {
+      "section": "Smažení",
+      "text": "Zvyš oheň, přidej krevety v jedné vrstvě a smaž 2 až 3 minuty z jedné a 1 až 2 minuty z druhé strany. Krevety jsou hotové, když zrůžoví a stočí se do písmene C. Uvnitř 63 °C."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Stáhni z ohně, vymačkej citron, posyp petrželkou a podávej s opečeným chlebem na olej s česnekem."
+    }
+  ],
+  "tips": [
+    "Krevety osuš, jinak se budou dusit v šťávě místo smažení.",
+    "Smaž je po menších dávkách, pánev nesmí být přeplněná.",
+    "Krevety jsou hotové rychle. Když se stočí do písmene O, jsou přepečené."
+  ],
+  "substitutions": [
+    "Olivový olej můžeš nahradit polovinou másla.",
+    "Chilli nahradíš špetkou uzené papriky.",
+    "Krevety nahradíš kousky kuřecích prsou, smaž je 5 až 6 minut do 75 °C."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit krevety?",
+      "a": "Loupané krevety 2 až 3 minuty z jedné strany a 1 až 2 minuty z druhé. Jsou růžové a stočené do C."
+    },
+    {
+      "q": "Jak rozmrazit mražené krevety?",
+      "a": "V lednici přes noc nebo 10 minut v misce se studenou vodou. Pak je dobře osuš."
+    },
+    {
+      "q": "Proč jsou krevety gumové?",
+      "a": "Byly přepečené. Vyndej je hned, jakmile zrůžoví a jsou pevné."
+    }
+  ],
+  "image": "dish-krevety-na-cesneku",
+  "vegetarian": false
+}

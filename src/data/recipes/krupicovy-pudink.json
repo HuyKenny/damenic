@@ -1,0 +1,118 @@
+{
+  "title": "Krupicový pudink s malinovou omáčkou",
+  "keywords": [
+    "krupicový pudink",
+    "griesspudink",
+    "krupicový pudink s malinami",
+    "krupicový dezert"
+  ],
+  "image": "dish-krupicovy-pudink-sladke",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 8,
+  "waitMinutes": 180,
+  "waitLabel": "ztuhnutí v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Krupicový pudink recept (griesspudink) je ochlazená vařená krupice ve formě, která se vyklopí a podává s ovocnou omáčkou. Vyjde 4 porce za deset minut práce a několik hodin chlazení. Aby byl pudink pevný a nelepivý, krupice se musí povařit a nechat odtáhnout pod pokličkou.",
+  "ingredients": [
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Pudink"
+    },
+    {
+      "ingredient": "krupice",
+      "amount": 60,
+      "unit": "g",
+      "note": "hrubá nebo jemná",
+      "group": "Pudink"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 40,
+      "unit": "g",
+      "group": "Pudink"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Pudink"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Pudink"
+    },
+    {
+      "ingredient": "maliny-mrazene",
+      "amount": 200,
+      "unit": "g",
+      "group": "Malinová omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 30,
+      "unit": "g",
+      "group": "Malinová omáčka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "jen šťáva",
+      "group": "Malinová omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Pudink",
+      "text": "Mléko s cukrem, vanilkovým cukrem a špetkou soli přiveď k varu. Do vroucího mléka nasyp za stálého míchání krupici tenkým proudem, aby se nevytvořily hrudky."
+    },
+    {
+      "section": "Pudink",
+      "text": "Na mírném plameni míchej 3 až 4 minuty, dokud kaše nezhoustne. Hrnec stáhni, přikryj pokličkou a nech 5 minut odtáhnout."
+    },
+    {
+      "section": "Pudink",
+      "text": "Kaši nalij do 4 vodou vypláchnutých formiček nebo hrnečků a nech vychladnout. Pak dej aspoň na 3 hodiny do lednice."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Maliny dej s cukrem do hrnce a vař 5 minut na středním plameni, dokud se nerozpadnou. Přidej citronovou šťávu a rozmixuj. Pro hladkou omáčku propasíruj."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Formičky okraje opatrně obtáhni nožem a vyklop na talíř. Přelij chladnou malinovou omáčkou."
+    }
+  ],
+  "tips": [
+    "Pudink před vyklopením ponoř formičku na 5 sekund do teplé vody. Vyklopí se celý.",
+    "Pokud chceš vzdušnější verzi, do vychladlé kaše vmíchej 100 ml našlehané smetany.",
+    "V lednici vydrží 3 dny bez omáčky."
+  ],
+  "substitutions": [
+    "Maliny nahraď jahodami, rybízem nebo švestkovými povidly.",
+    "Mléko nahraď polovinou mléka a polovinou vody, pudink bude lehčí.",
+    "Vanilkový cukr nahraď kapkou vanilkového extraktu."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi krupicový pudink netuhne?",
+      "a": "Krupice se nedovařila nebo bylo málo krupice. Dodrž 60 g na 500 ml mléka a nech ji aspoň 3 minuty povařit."
+    },
+    {
+      "q": "Jaký je rozdíl mezi krupicovou kaší a pudinkem?",
+      "a": "Kaše se jí teplá a je tekutější. Pudink je hustší, vychladne a drží tvar formy."
+    },
+    {
+      "q": "Dá se pudink dochutit kakaem?",
+      "a": "Ano. Na 500 ml mléka přidej 2 lžíce kakaa a 15 g cukru navíc, kakao rozmíchej s krupicí."
+    }
+  ]
+}

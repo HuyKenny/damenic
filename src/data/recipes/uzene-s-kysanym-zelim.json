@@ -1,0 +1,125 @@
+{
+  "title": "Uzené maso s kysaným zelím a bramborem",
+  "keywords": [
+    "uzené s kysaným zelím",
+    "uzené maso s kysaným zelím",
+    "uzené s bramborem a zelím",
+    "uzené maso recept",
+    "uzené kolínko se zelím"
+  ],
+  "image": "dish-uzene-s-kysanym-zelim-u-prazdneho-talire",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 75,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Uzené maso s kysaným zelím a bramborem je zimní hospodské jídlo bez složitostí: uzené se vaří 60 minut, zelí se dusí s cibulí a kmínem a brambory se vaří zvlášť. Recept na uzené s kysaným zelím je hotový za hodinu a čtvrt a za pozornost stojí jen jedno: nepřesol, protože uzené sůl pouští.",
+  "ingredients": [
+    {
+      "ingredient": "uzene-maso",
+      "amount": 700,
+      "unit": "g",
+      "note": "vcelku, uzená krkovice nebo kolínko"
+    },
+    {
+      "ingredient": "kysane-zeli",
+      "amount": 700,
+      "unit": "g",
+      "note": "lehce vymačkané"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "oloupané, vařené"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "na zelí"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na brambory"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Uzené maso vlož do hrnce, zalij studenou vodou a přiveď k varu. Sniž plamen a vař pod pokličkou 60 minut, aby bylo měkké a šťavnaté. Maso je hotové, když špejle projde snadno."
+    },
+    {
+      "text": "Na sádle v hrnci zpěn cibuli 5 minut, přidej kmín, bobkový list a nové koření a promíchej. Přidej zelí a cukr a podlij 300 ml vody nebo vývarem z uzeného."
+    },
+    {
+      "text": "Zelí duš pod pokličkou 35 až 40 minut, občas promíchej. Vařit má pomalu, až změkne, ale zůstane chuťově kyselé."
+    },
+    {
+      "text": "Brambory uvař v osolené vodě 20 až 25 minut do měkka. Maso nakrájej na plátky."
+    },
+    {
+      "text": "Na talíř dej plátky uzeného, zelí a brambory. Podávej s hořčicí."
+    }
+  ],
+  "tips": [
+    "Sůl do zelí nedávej. Uzené a zelí ji pouštějí samy.",
+    "Zelí z nálevu vymačkej jen částečně, ať si zachová chuť.",
+    "Zelí je lepší druhý den, ohřej ho na pánvi.",
+    "Pokud je zelí příliš kyselé, přidej na konci 1 strouhanou syrovou bramboru."
+  ],
+  "substitutions": [
+    "Uzenou krkovici nahraď uzeným žebírkem nebo kolenem.",
+    "Brambory nahraď houskovým knedlíkem.",
+    "Zelí zahustí lžíce mouky nebo strouhaná brambora."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří uzené maso?",
+      "a": "Kus o váze 700 g se vaří 60 minut na mírném varu. Příliš dlouhé vaření ho vysuší."
+    },
+    {
+      "q": "Jak dlouho se dusí kysané zelí?",
+      "a": "35 až 40 minut pod pokličkou. Pro měkčí zelí dej 50 minut."
+    },
+    {
+      "q": "Je potřeba uzené před vařením namočit?",
+      "a": "Pokud je extrémně slané, namoč je na 30 minut do studené vody. Jinak stačí opláchnout."
+    }
+  ]
+}

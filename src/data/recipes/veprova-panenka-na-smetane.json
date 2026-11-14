@@ -1,0 +1,157 @@
+{
+  "title": "Vepřová panenka na smetaně",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "vepřová panenka na smetaně",
+    "panenka na smetaně",
+    "vepřová panenka se smetanou a houbami",
+    "vepřová panenka na žampionech"
+  ],
+  "intro": "Vepřová panenka na smetaně je plátky panenky krátce opečené a dodělané v jemné smetanové omáčce se žampiony. Panenka je libová, takže se nesmí vařit dlouho: stačí pár minut v omáčce a maso zůstane měkké. Hotovo za 45 minut.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-panenka",
+      "amount": 600,
+      "unit": "g",
+      "note": "na kolečka 2 cm",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 250,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 240,
+      "unit": "g",
+      "group": "Příloha"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 480,
+      "unit": "ml",
+      "group": "Příloha"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příloha",
+      "text": "Rýži propláchni, dej s vodou do hrnce, osol a přiveď k varu. Ztlum na minimum a vař pod pokličkou 12 minut, pak ji nech 10 minut odstát."
+    },
+    {
+      "section": "Maso",
+      "text": "Panenku zbav blan a šlach, nakrájej na kolečka a lehce je naklepej na asi 1,5 cm. Osol, opepři a obal v mouce."
+    },
+    {
+      "section": "Maso",
+      "text": "Na rozpáleném oleji opékej kolečka po 1,5 až 2 minutách z každé strany do zlatova. Přendej na talíř, maso zatím není propečené."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Na pánvi rozehřej máslo, osmahni cibuli, přidej houby a smaž 6 až 8 minut, dokud se neodpaří voda. Přidej česnek, zalij vývarem a nech 2 minuty probublat."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Vlij smetanu, vmíchej hořčici a nech 3 minuty zahušťovat. Vrať maso i s vypuštěnou šťávou."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Maso nech v omáčce 4 až 5 minut při slabém varu. Uvnitř má mít 70 °C a mírně růžový střed je u prasete při této teplotě v pořádku. Podávej s rýží."
+    }
+  ],
+  "tips": [
+    "Kolečka měj stejně silná, jinak se budou propékat nerovnoměrně.",
+    "Panenku nepeč a nevař nadlouho. V omáčce se dodělá, a pokud ji tam necháš dlouho, bude suchá.",
+    "Sůl z hovězího vývaru je dost, solit omáčku radši až na konec."
+  ],
+  "substitutions": [
+    "Panenku nahradíš vepřovou kýtou, ale potřebuje o 10 minut delší vaření v omáčce.",
+    "Hovězí vývar nahradíš zeleninovým nebo vodou s kapkou citronové šťávy.",
+    "Žampiony nahradíš hlívou ústřičnou nebo směsí lesních hub."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří panenka na smetaně?",
+      "a": "Po opečení stačí 4 až 5 minut v omáčce. Panenka je libová a při delším vaření vyschne."
+    },
+    {
+      "q": "Při jaké teplotě je vepřová panenka hotová?",
+      "a": "Bezpečná vnitřní teplota vepřového masa je 70 °C. Panenka může mít při ní jemně narůžovělý střed."
+    },
+    {
+      "q": "Čím nahradit smetanu na vaření?",
+      "a": "Použij směs mléka a zakysané smetany nebo kysanou smetanu zředěnou mlékem. Přidej ji mimo oheň, aby se nesrazila."
+    }
+  ],
+  "image": "dish-veprova-panenka-na-smetane",
+  "vegetarian": false
+}

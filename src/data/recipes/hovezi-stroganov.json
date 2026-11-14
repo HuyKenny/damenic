@@ -1,0 +1,160 @@
+{
+  "title": "Hovězí stroganov",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "keywords": [
+    "hovězí stroganov",
+    "stroganov recept",
+    "hovězí stroganov s rýží",
+    "boeuf stroganoff"
+  ],
+  "intro": "Hovězí stroganov je rychlé jídlo z proužků hovězího masa, cibule, žampionů a nakládané okurky ve smetanové omáčce s paprikou. Maso se opéká po dávkách na vysokém ohni a v omáčce se jen prohřeje, díky tomu zůstane měkké. Hotovo za 40 minut.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-zadni",
+      "amount": 500,
+      "unit": "g",
+      "note": "na proužky 1 cm silné",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na tenké plátky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 250,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 150,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 240,
+      "unit": "g",
+      "group": "Příloha"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 480,
+      "unit": "ml",
+      "group": "Příloha"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příloha",
+      "text": "Rýži propláchni, dej s vodou do hrnce, osol, přiveď k varu a vař pod pokličkou na minimu 12 minut. Pak ji nech 10 minut odstát."
+    },
+    {
+      "section": "Maso",
+      "text": "Proužky osuš, osol a opepři. Na velmi horké pánvi s lžící oleje je opékej po dávkách 1 až 2 minuty, aby se opekly, ne vařily. Přendej na talíř, uvnitř zůstane maso růžové, což je v pořádku."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Do stejné pánve přidej zbytek oleje, osmahni cibuli 3 minuty, přidej houby a smaž 6 až 8 minut, dokud se neodpaří voda. Přidej česnek, papriku a protlak."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Zalij vývarem, vmíchej hořčici a nech 3 minuty probublat. Stáhni z ohně a vmíchej zakysanou smetanu a okurky."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Vrať maso i s vypuštěnou šťávou, prohřej 1 až 2 minuty (nevař, smetana by se srazila). Podávej na rýži."
+    }
+  ],
+  "tips": [
+    "Maso krájej proti vláknům, bude měkčí.",
+    "Pánev nesmí být přeplněná, jinak se maso dusí a zůstane šedé.",
+    "Zakysanou smetanu přidávej až mimo oheň, jinak se sráží."
+  ],
+  "substitutions": [
+    "Zadní můžeš nahradit svíčkovou, bude jemnější a stačí ji ještě kratší dobu.",
+    "Zakysanou smetanu nahradíš smetanou na vaření 12 %.",
+    "Rýži nahradíš bramborovou kaší nebo širokými nudlemi."
+  ],
+  "faq": [
+    {
+      "q": "Z jakého masa se dělá stroganov?",
+      "a": "Klasicky z hovězí svíčkové nebo zadního. Důležitější než druh masa je rychlé opečení při vysoké teplotě."
+    },
+    {
+      "q": "Proč se smetana v omáčce srazila?",
+      "a": "Omáčka se po přidání zakysané smetany přehřála. Přidej ji mimo oheň a jen krátce prohřej."
+    },
+    {
+      "q": "Je stroganov ruský, nebo francouzský recept?",
+      "a": "Pochází z ruské kuchyně a vaří se v mnoha podobách. Tento postup je zjednodušená domácí verze s hovězím a smetanou."
+    }
+  ],
+  "image": "dish-hovezi-stroganov",
+  "vegetarian": false
+}

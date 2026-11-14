@@ -1,0 +1,118 @@
+{
+  "title": "Ořechová bábovka",
+  "keywords": [
+    "ořechová bábovka",
+    "ořechová bábovka recept",
+    "bábovka s ořechy",
+    "bábovka z vlašských ořechů"
+  ],
+  "image": "dish-orechova-babovka-nedortik",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 25,
+  "cookMinutes": 55,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí v formě",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Ořechová bábovka recept na formu o objemu 2 litry: těsto s mletými vlašskými ořechy je vláčné, vonné a vydrží několik dní. Vyjde 12 plátků. Aby se bábovka držela pohromadě, formu pořádně vymaž a vysyp a nech ji 30 minut po upečení stát, než ji vyklopíš.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 150,
+      "unit": "g",
+      "note": "namleté"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "note": "na polevu"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 50,
+      "unit": "ml",
+      "note": "na polevu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 170 °C (horkovzduch 155 °C). Bábovkovou formu 2 l vymaž máslem a vysyp moukou nebo mletými ořechy."
+    },
+    {
+      "text": "Máslo vyšlehej s cukrem do světlé pěny. Po jednom přidávej vejce a po každém prošlehej asi minutu."
+    },
+    {
+      "text": "Mouku smíchej s práškem do pečiva, mletými ořechy a skořicí. Vmíchej střídavě s mlékem do hladkého těsta. Těsto nalij do formy a uhlaď."
+    },
+    {
+      "text": "Peč 50 až 55 minut, dokud špejle zapíchnutá do středu nevyjde suchá. Bábovku nech 30 minut ve formě, pak ji vyklop na mřížku."
+    },
+    {
+      "text": "Čokoládu rozehřej se smetanou ve vodní lázni a míchej do hladka. Bábovku, až úplně vychladne, přelij polevou a nech ji ztuhnout."
+    }
+  ],
+  "tips": [
+    "Ořechy namel těsně před použitím, stará mleté ořechy mají hořkou příchuť a těsto olejem těžkne.",
+    "Bábovku vyklápěj až po 30 minutách. Horká se rozlomí, studená se přilepí.",
+    "V dóze vydrží 5 dní. Druhý den je ještě lepší."
+  ],
+  "substitutions": [
+    "Vlašské ořechy nahraď lískovými, chuť bude jemnější.",
+    "Mléko můžeš nahradit kefírem nebo podmáslím.",
+    "Polevu nahraď moučkovým cukrem rozmíchaným s citronovou šťávou."
+  ],
+  "faq": [
+    {
+      "q": "Proč ořechová bábovka spadla?",
+      "a": "Příčinou bývá otevřená trouba v prvních 30 minutách nebo moc prášku do pečiva. Dodrž množství a troubu neotvírej."
+    },
+    {
+      "q": "Jak namlít ořechy bez mlýnku?",
+      "a": "Použij mixér nebo kuchyňský robot s krátkými pulzy. Nemixuj dlouho, jinak se ořechy změní na pastu."
+    },
+    {
+      "q": "Dá se bábovka zamrazit?",
+      "a": "Ano. Bez polevy ji zabal do fólie a zmraz na 2 měsíce. Rozmrazuj při pokojové teplotě asi 3 hodiny."
+    }
+  ]
+}

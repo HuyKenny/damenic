@@ -1,0 +1,124 @@
+{
+  "title": "Zapečené knedlíky se šunkou a sýrem",
+  "keywords": [
+    "zapečené knedlíky",
+    "zapečené knedlíky se šunkou",
+    "zapečené knedlíky s vejci",
+    "zapečené knedlíky recept",
+    "zapečené houskové knedlíky"
+  ],
+  "image": "dish-zapecene-knedliky-u-prazdneho-talire",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Zapečené knedlíky jsou způsob, jak využít zbylé houskové knedlíky ze včerejška. Nakrájíš je na plátky, prolijíš směsí vajec, mléka a šunky a zapečeš se sýrem v troubě 30 minut. Recept na zapečené knedlíky se šunkou je rychlý a vyjde i z hotových knedlíků, jen musí být vychladlé, jinak se rozpadnou.",
+  "ingredients": [
+    {
+      "ingredient": "knedlik-houskovy",
+      "amount": 500,
+      "unit": "g",
+      "note": "vychladlý, na plátky 1 cm"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na vymazání a smažení"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 100,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 190 °C (horkovzduch 175 °C). Zapékací misku o rozměru asi 24 x 18 cm vymaž máslem."
+    },
+    {
+      "text": "Na pánvi na zbylém másle 4 minuty osmahni cibuli, přidej šunku a krátce prohřej. Stáhni z plotny."
+    },
+    {
+      "text": "Plátky knedlíku skládej do misky jako šupiny, mezi ně vkládej směs cibule a šunky a posyp polovinou sýra."
+    },
+    {
+      "text": "Vejce rozšlehej s mlékem, solí, pepřem, majoránkou a muškátem a zalij knedlíky. Posyp zbylým sýrem."
+    },
+    {
+      "text": "Zapékej 25 až 30 minut, až se vejce srazí a povrch je zlatý. Vyzkoušej špejlí: musí vyjít suchá. Nech 5 minut odpočinout a krájej."
+    }
+  ],
+  "tips": [
+    "Knedlíky z předchozího dne drží tvar. Čerstvé se rozpadají a jsou lepkavé.",
+    "Směs vajec a mléka nalij až po rozložení knedlíků, jinak se plátky rozmočí.",
+    "Zapečené knedlíky jsou dobré i druhý den, opeč je na pánvi na másle.",
+    "Podávej s kysanou okurkou nebo rajčatovým salátem."
+  ],
+  "substitutions": [
+    "Šunku nahraď uzeným masem nebo opečenou slaninou.",
+    "Eidam nahraď goudou nebo ementálem.",
+    "Bezmasá varianta: místo šunky přidej 150 g žampionů osmahnutých na cibuli."
+  ],
+  "faq": [
+    {
+      "q": "Dají se zapéct i nedělané knedlíky?",
+      "a": "Ano, ale vychladlé a ideálně ze dne předtím. Čerstvé knedlíky jsou lepkavé a plátky se trhají."
+    },
+    {
+      "q": "Jak dlouho se zapékají knedlíky?",
+      "a": "25 až 30 minut při 190 °C. Hotové jsou, když se vejce srazí a povrch zezlátne."
+    },
+    {
+      "q": "Lze zapečené knedlíky připravit předem?",
+      "a": "Ano, sestav je a nech v lednici do 12 hodin, před pečením přidej 5 minut navíc."
+    }
+  ]
+}

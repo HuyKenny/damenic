@@ -1,0 +1,24 @@
+{
+  "name": "Buchtičky se šodó",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Teplé dezerty",
+  "description": "Teplé kynuté buchtičky utopené ve vanilkovém krému ze žloutků. Lžíce se ztratí jako první.",
+  "about": [
+    "Buchtičky se šodó jsou dezert, ve kterém se utopí všechno kromě lžíce. Kynuté buchtičky se pečou na másle a přelijí teplým vanilkovým krémem ze žloutků, který se nesmí vařit. Přesně tohle je rozdíl mezi dobrým a zákeřně sraženým šodó.",
+    "Do sladkého ničeho se šodó nedoveze. Recept si ale můžeš nechat ve snech a upéct ho klidně dnes večer."
+  ],
+  "price": 8900,
+  "image": "dish-buchticky-se-sodo-sladke",
+  "recipe": "buchticky-se-sodo",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 12
+}

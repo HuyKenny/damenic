@@ -1,0 +1,33 @@
+{
+  "name": "Hostinec Za hranicí nic",
+  "category": "ceska",
+  "cuisine": "Střední Evropa a Balkán: Polsko, Rakousko, Balkán",
+  "tagline": "Přes hranici dojdeš pěšky. Jídlo ne.",
+  "description": "Fiktivní hostinec s kuchyní od Vídně po Sarajevo: pierogi, bigos, burek a sarma. Nic z toho nepřijede, ale všechny recepty jsou skutečné a funkční.",
+  "etaMinutes": 40,
+  "deliveryFee": 3500,
+  "minOrder": 17900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:00",
+    "close": "22:00"
+  },
+  "pickup": true,
+  "tags": [
+    "rodinné porce"
+  ],
+  "isNew": true,
+  "logo": {
+    "text": "ZH",
+    "color": "#4F5D2F",
+    "ink": "light"
+  },
+  "cover": "rest-hostinec-za-hranici-nic",
+  "sections": [
+    "Polsko a Rakousko",
+    "Balkán",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 481
+}

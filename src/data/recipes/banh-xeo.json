@@ -1,0 +1,195 @@
+{
+  "title": "Bánh xèo (vietnamské křupavé palačinky)",
+  "keywords": [
+    "bánh xèo",
+    "vietnamské palačinky",
+    "banh xeo recept",
+    "palačinky s krevetami a klíčky"
+  ],
+  "image": "dish-banh-xeo",
+  "category": "asijska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 45,
+  "cookMinutes": 30,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Bánh xèo jsou vietnamské tenké křupavé palačinky z rýžové mouky a kokosového mléka, které se plní krevetami, vepřovým masem a fazolovými klíčky a jedí se zabalené v listech salátu s bylinkami. Z dávky vyjde asi 6 palačinek o průměru 24 cm.",
+  "ingredients": [
+    {
+      "ingredient": "ryzova-mouka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "kokosove-mleko",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "nakrájená, do těsta",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "krevety",
+      "amount": 250,
+      "unit": "g",
+      "note": "oloupané",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "veprove-plecko",
+      "amount": 200,
+      "unit": "g",
+      "note": "na tenké plátky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na tenké plátky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "fazolove-klicky",
+      "amount": 200,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 6,
+      "unit": "lzice",
+      "note": "na pečení",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "ledovy-salat",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na podávání",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 1,
+      "unit": "ks",
+      "note": "lístky",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 1,
+      "unit": "ks",
+      "note": "lístky",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "rybi-omacka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka nuoc cham"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Omáčka nuoc cham"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka nuoc cham"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Omáčka nuoc cham"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Omáčka nuoc cham"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Omáčka nuoc cham"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýžovou mouku, kurkumu, sůl, kokosové mléko a vodu rozmíchej metlou do řídkého těsta, jako je smetana. Vmíchej jarní cibulku a nech 30 minut odpočinout."
+    },
+    {
+      "text": "Na omáčku rozpusť cukr ve vodě, přidej rybí omáčku, limetkovou šťávu, prolisovaný česnek a nakrájené chilli. Nech uležet."
+    },
+    {
+      "text": "Pánev o průměru 26 cm rozpal, dej 1 lžíci oleje. Opeč krevety a maso s cibulí 3 minuty do zrůžovění, maso musí být uvnitř propečené. Dej je stranou."
+    },
+    {
+      "text": "Do horké pánve nalej asi 100 ml těsta a rychle jím otoč, aby tvořilo tenkou vrstvu. Na polovinu dej krevety, maso a hrst fazolových klíčků. Přikryj poklicí na 2 minuty."
+    },
+    {
+      "text": "Poklici sundej a peč 4 až 5 minut na středním plameni, dokud okraje nejsou zlatohnědé a křupavé. Přehni na půl a přendej na talíř. Těsto před každou další palačinkou promíchej."
+    },
+    {
+      "text": "Podávej s listy salátu, mátou, koriandrem a omáčkou. Kousky palačinky zabal do listu salátu s bylinkami a namáčej do omáčky."
+    }
+  ],
+  "tips": [
+    "Těsto před každou palačinkou promíchej, mouka se usazuje.",
+    "Pánev musí být rozpálená, jinak palačinka nebude křupavá.",
+    "Fazolové klíčky vyber čerstvé a čisté, před použitím je opláchni."
+  ],
+  "substitutions": [
+    "Bez vepřového maso nahraď dalšími 150 g krevet nebo uzeným tofu.",
+    "Rýžovou mouku nelze nahradit pšeničnou, palačinka by nebyla křupavá.",
+    "Kokosové mléko lze nahradit stejným množstvím vody, těsto bude méně chuťově plné."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi bánh xèo není křupavé?",
+      "a": "Pánev nebyla dost horká, těsto bylo příliš husté, nebo se palačinka nepekla dost dlouho. Peč na středním až silnějším plameni, aby okraje zkřehly."
+    },
+    {
+      "q": "Čím se bánh xèo plní?",
+      "a": "Krevetami, vepřovým masem a klíčky, ve verzi bez masa tofu a houbami. Podává se v listu salátu."
+    },
+    {
+      "q": "Jak bánh xèo jíst?",
+      "a": "Kus palačinky zabal do listu salátu s mátou a koriandrem a namoč do omáčky nuoc cham."
+    }
+  ]
+}

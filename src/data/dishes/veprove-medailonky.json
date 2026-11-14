@@ -1,0 +1,19 @@
+{
+  "name": "Vepřové medailonky ve slanině",
+  "kind": "main",
+  "section": "Minutky",
+  "price": 25900,
+  "recipe": "veprove-medailonky",
+  "vegetarian": false,
+  "order": 150,
+  "description": "Medailonky z panenky ve slanině s fazolkami a vařenými bramborami.",
+  "about": [
+    "Medailonky z panenky ve slanině jsou jídlo, které vypadá, že ho dělal kuchař, a přitom je hlavní jen správné krájení. Slanina drží maso pohromadě a hlídá šťávu.",
+    "Z minutek U prázdného talíře k tobě nikdy neodjede ani jeden. Doma ale dostaneš teploměr, 70 °C a maso, které se krájí vidličkou."
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-veprove-medailonky",
+  "allergens": [
+    7
+  ]
+}

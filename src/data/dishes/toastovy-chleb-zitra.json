@@ -1,0 +1,23 @@
+{
+  "name": "Toastový chléb, bochník",
+  "restaurant": "pekarna-zitra-upecem",
+  "kind": "main",
+  "section": "Máslové a slané",
+  "description": "Měkký mléčný bochník ve tvaru krabičky. Na toast, na sýr a na ráno.",
+  "about": [
+    "Toastový chléb z pekárny se pozná podle toho, že se nedrolí. Mléko, máslo a trocha cukru dají střídě jemnost a kůrce barvu, forma určí obdélníkový tvar. Jediné, co se nesmí: přerůst při druhém kynutí.",
+    "Pekárna Zítra upečem prodává bochník, který se prodá zítra. Ten tvůj může být hotový dnes večer a nezbude z něj ani drobek."
+  ],
+  "price": 6900,
+  "image": "dish-toastovy-chleb-zitra",
+  "recipe": "toastovy-chleb",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 22
+}

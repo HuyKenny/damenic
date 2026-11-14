@@ -1,0 +1,162 @@
+{
+  "title": "Makovec, kynutý makový závin",
+  "keywords": [
+    "makovec",
+    "makovec recept",
+    "makový závin",
+    "kynutý makový závin"
+  ],
+  "image": "dish-makovec-nedortik",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 10,
+  "activeMinutes": 40,
+  "cookMinutes": 35,
+  "waitMinutes": 90,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Makovec recept (kynutý makový závin) na jeden plech: měkké máslové těsto stočené s hustou makovou náplní z napařeného máku, cukru a rozinek. Vyjde asi 10 plátků. Mák se mele těsně před použitím, aby nezahořkl, a náplň musí být hustá, aby při pečení neprosákla těsto.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 400,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 20,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "rozpuštěné a vychladlé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen kůra",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mak-mlety",
+      "amount": 200,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 50,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na potření",
+      "group": "Dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozdrol do vlažného mléka s lžičkou cukru a nech 10 minut vzejít. Mouku smíchej se solí a zbylým cukrem, přidej kvásek, vejce, rozpuštěné máslo a kůru z citronu. Hnětej 10 minut do hladkého těsta. Nech 50 minut nakynout."
+    },
+    {
+      "section": "Náplň",
+      "text": "V hrnci svař mléko s cukrem a skořicí, přidej mák a rozinky. Za stálého míchání vař na mírném plameni 5 minut, dokud směs nezhoustne. Vmíchej máslo a nech zcela vychladnout."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Těsto rozválej na obdélník 30 × 40 cm a rovnoměrně na něj rozetři vychladlou náplň, 2 cm od okraje nechej volné. Svinuj pevně od delší strany a okraj dobře přitiskni."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Rolku ulož stehem dolů na plech s pečicím papírem, přikryj a nech 30 minut kynout. Troubu předehřej na 180 °C (horkovzduch 165 °C). Povrch potři mlékem a peč 35 minut do zlatohnědé barvy. Špejle vyjde bez těsta."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Makovec nech na plechu 20 minut vychladnout, pak ho krájej na kolečka silná 2 cm."
+    }
+  ],
+  "tips": [
+    "Mák nech namlít těsně před použitím. Starý mák zahořkne a náplň je pak nepoužitelná.",
+    "Náplň musí být hustá a studená, jinak se při válení vyleje a těsto se zalepí.",
+    "Potři ho při pečení po 15 minutách ještě jednou mlékem, bude lesklejší."
+  ],
+  "substitutions": [
+    "Mletý mák nahraď 250 g hotové makové náplně z balení, upravíš cukr podle chuti.",
+    "Rozinky vynech nebo nahraď drobně nasekanými ořechy.",
+    "Mléko v těstě můžeš nahradit vodou a olejem místo másla."
+  ],
+  "faq": [
+    {
+      "q": "Proč makovec při pečení praskl?",
+      "a": "Rolka byla slabě svinutá nebo byla náplň horká. Svinuj pevně a okraj dobře přitiskni."
+    },
+    {
+      "q": "Dá se makovec péct dopředu?",
+      "a": "Ano. Po upečení ho zabal do fólie a nech v chladu 3 dny. Druhý den je nejlepší."
+    },
+    {
+      "q": "Jak poznám, že je kynutý závin upečený?",
+      "a": "Povrch je zlatohnědý, spodek zní dutě při klepnutí a špejle zapíchnutá do středu vyjde suchá."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "title": "Nasi goreng",
+  "keywords": [
+    "nasi goreng",
+    "nasi goreng recept",
+    "indonéská smažená rýže",
+    "smažená rýže s kuřetem"
+  ],
+  "image": "dish-nasi-goreng",
+  "category": "asijska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Nasi goreng je indonéská smažená rýže se sladkokyselou sójovou omáčkou, kuřetem, česnekem a smaženým vejcem. Nejlepší je z rýže uvařené den předem, protože je suchá a nelepí.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-jasminova",
+      "amount": 200,
+      "unit": "g",
+      "note": "suchá váha, uvařená den předem a vychlazená"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "2 do rýže a 2 na smažení"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sriracha",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na podávání"
+    },
+    {
+      "ingredient": "cibulka-smazena",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýži uvař den předem, nech vychladnout a dej na noc do lednice. Čerstvě uvařená by se při smažení lepila."
+    },
+    {
+      "text": "V pánvi nebo woku rozehřej 2 lžíce oleje na vyšší plamen. Opeč kuře 5 až 6 minut, aby uvnitř mělo 75 °C a nebylo růžové. Vyndej."
+    },
+    {
+      "text": "Do pánve přidej 1 lžíci oleje a osmahni cibuli, česnek a chilli 2 minuty. Přidej rýži a smaž 3 až 4 minuty, dokud nezačne praskat."
+    },
+    {
+      "text": "Na jednu stranu pánve odsuň rýži, rozšlehej 2 vejce a míchej je, až zatuhnou. Vmíchej kuře, sójovou omáčku, cukr a srirachu a smaž další minutu."
+    },
+    {
+      "text": "V jiné pánvi usmaž na zbylém oleji zbylá 2 vejce, 2 až 3 minuty, bílek má být zcela zatuhlý. Podávej rýži s vejcem, okurkou, jarní cibulkou a smaženou cibulkou."
+    }
+  ],
+  "tips": [
+    "Na prudkém ohni smaž po menších dávkách. V přeplněné pánvi se rýže spíš dusí než smaží.",
+    "Sladkou sójovou omáčku (kecap manis) nahradí sójová omáčka s cukrem.",
+    "Rýže má být oddělená zrnka, jinak vznikne kaše."
+  ],
+  "substitutions": [
+    "Kuře nahradí 200 g krevet, smaž je 2 až 3 minuty do zrůžovění.",
+    "Pro vegetariánskou verzi použij místo kuřete 200 g tofu na kostky.",
+    "Rýži jasmínovou nahradí basmati nebo dlouhozrnná."
+  ],
+  "faq": [
+    {
+      "q": "Proč na nasi goreng potřebuji staré rýže?",
+      "a": "Čerstvá rýže obsahuje hodně vlhkosti a lepí se. Vychlazená je pevnější a při smažení se rozpadne na jednotlivá zrnka."
+    },
+    {
+      "q": "Je nasi goreng ostrá?",
+      "a": "Jak kdo chce. Chilli a srirachu lze zmírnit nebo vynechat."
+    },
+    {
+      "q": "Lze rýži uvařenou den předem bezpečně skladovat?",
+      "a": "Ano, pokud ji rychle vychladíš a ihned dáš do lednice. Použij ji do 24 hodin a při smažení ji dobře prohřej."
+    }
+  ]
+}

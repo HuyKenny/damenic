@@ -1,0 +1,15 @@
+{
+  "name": "Limonáda citron a máta",
+  "section": "Nápoje",
+  "price": 5900,
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "order": 300,
+  "description": "Domácí limonáda z citronu a máty, čerstvě ochucená a ledová.",
+  "about": [],
+  "kind": "drink",
+  "restaurant": "tapas-siesta-nanecisto",
+  "image": "dish-limonada-citron-mata-siesta",
+  "allergens": []
+}

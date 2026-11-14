@@ -1,0 +1,38 @@
+{
+  "name": "Bramborový guláš s chlebem",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Hustší jídla",
+  "price": 15900,
+  "recipe": "bramborovy-gulas",
+  "vegetarian": false,
+  "order": 310,
+  "description": "Brambory, cibule, špekáčky a paprika v hustém soku. Škrob to zahustí sám.",
+  "about": [
+    "Bramborový guláš je guláš chudých: brambory, hodně cibule, špekáčky, slanina a paprika, která se přidává mimo plotnu, aby nezhořkla. Hustotu dodá škrob z brambor, mouka není potřeba.",
+    "Je hotový za půl hodiny v jednom hrnci, a to je jeho největší výhoda. Brambory a cibule se najdou skoro v každé spíži. Skoro."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Pečivo",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "chleb",
+          "name": "Chléb",
+          "priceDelta": 0
+        },
+        {
+          "id": "knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "image": "dish-bramborovy-gulas-prazdna-naberacka",
+  "allergens": [],
+  "spicy": 0
+}

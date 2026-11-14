@@ -1,0 +1,165 @@
+{
+  "title": "Sarma (zelné závitky s mletým masem)",
+  "keywords": [
+    "sarma recept",
+    "balkánská sarma",
+    "plněné zelné závitky",
+    "sarma v kysaném zelí"
+  ],
+  "image": "dish-sarma",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 60,
+  "cookMinutes": 110,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Sarma jsou balkánské závitky z kysaných zelných listů plněné směsí mletého masa a rýže, které se pomalu dusí s uzeninou. Je důležité listy nezničit při vykrajování tuhého řapíku a závitky dusit velmi pomalu, aby maso i rýže byly dobře propečené.",
+  "ingredients": [
+    {
+      "ingredient": "kysane-zeli-hlava",
+      "amount": 1,
+      "unit": "ks",
+      "note": "asi 16 celých listů"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 300,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 300,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "ryze-kulatozrnna",
+      "amount": 80,
+      "unit": "g",
+      "note": "propláchnutá",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "najemno",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "uzene-maso",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostky",
+      "group": "Dušení"
+    },
+    {
+      "ingredient": "kysane-zeli",
+      "amount": 300,
+      "unit": "g",
+      "note": "nakrájené na dno",
+      "group": "Dušení"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Dušení"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Dušení"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Dušení"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 400,
+      "unit": "ml",
+      "group": "Dušení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Z kysané hlávky vyřízni košťál a opatrně oddělej 16 celých listů. Z každého ořízni tlustý řapík. Jsou-li listy příliš slané, namoč je na 30 minut do studené vody."
+    },
+    {
+      "text": "Cibuli osmahni na oleji 6 minut do sklovata, nech trochu vychladnout. Smíchej s oběma druhy masa, rýží, česnekem, paprikami, solí a pepřem a dobře prohněť."
+    },
+    {
+      "text": "Na každý list dej 2 lžíce náplně, přeložením boků a zarolováním vytvoř pevný závitek."
+    },
+    {
+      "text": "Do hrnce dej na dno nakrájené zelí a uzené maso. Závitky ukládej těsně vedle sebe švem dolů a mezi ně dej bobkový list."
+    },
+    {
+      "text": "Rozmíchej protlak s vodou, zalij závitky, aby byly téměř zakryté. Přiveď k varu, přikryj a duš na velmi mírném plameni 100 až 110 minut. Mleté maso musí být uvnitř propečené, 75 °C a rýže měkká."
+    },
+    {
+      "text": "Hrnec sundej z plamene a nech 15 minut odpočinout. Podávej s chlebem nebo bramborovou kaší."
+    }
+  ],
+  "tips": [
+    "Na dno hrnce dej vrstvu zelí, závitky se nepřipálí.",
+    "Plamen nezvyšuj. Při prudkém varu se závitky rozpadnou.",
+    "Sarma je druhý den ještě lepší."
+  ],
+  "substitutions": [
+    "Mleté maso lze nahradit celé hovězím nebo vepřovým.",
+    "Pro bezmasou variantu nahraď maso 200 g uvařené čočky nebo hub a přidej víc rýže.",
+    "Uzené maso nahradí údená klobása."
+  ],
+  "faq": [
+    {
+      "q": "Čím nahradit kysané zelné listy?",
+      "a": "Použij čerstvé zelí. Listy spař ve vroucí vodě 3 minuty. Kyselost doplň lžící octa nebo kysaným zelím na dno hrnce."
+    },
+    {
+      "q": "Proč se mi sarma rozpadá?",
+      "a": "Voda bublala příliš prudce, nebo nebyl závitek pevně zarolovaný a švem dolů. Duš na velmi slabém plameni."
+    },
+    {
+      "q": "Lze sarmu zamrazit?",
+      "a": "Ano, i hotovou. V mrazáku vydrží 3 měsíce, ohřívej pomalu s trochou vody."
+    }
+  ]
+}

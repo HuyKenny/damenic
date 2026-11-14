@@ -1,0 +1,44 @@
+{
+  "name": "Kuřecí prsa se špenátem a mozzarellou",
+  "kind": "main",
+  "section": "Kuře",
+  "price": 22900,
+  "recipe": "kureci-prsa-se-spenatem-a-mozzarellou",
+  "vegetarian": false,
+  "order": 130,
+  "description": "Prsa plněná česnekovým špenátem a mozzarellou, dopečená ve smetaně.",
+  "about": [
+    "Plněná prsa se dělají snadno, když víš, kde se láme: špenát musí být dosucha, kapsa nařízlá zboku a mozzarella okapaná. Pak plnění zůstane tam, kam patří.",
+    "Bistro Uletělo plní, peče i servíruje na papíře. Doma si je opravdu upečeš a na talíři nezůstane po špenátu ani zelená stopa."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "rize",
+          "name": "Rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "restaurant": "bistro-uletelo",
+  "image": "dish-kureci-prsa-se-spenatem-a-mozzarellou",
+  "allergens": [
+    7
+  ]
+}

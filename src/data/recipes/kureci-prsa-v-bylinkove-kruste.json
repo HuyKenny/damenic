@@ -1,0 +1,144 @@
+{
+  "title": "Kuřecí prsa v bylinkové krustě",
+  "category": "kure",
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek masa",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "kuřecí prsa v bylinkové krustě",
+    "kuřecí prsa v troubě",
+    "pečená kuřecí prsa",
+    "kuřecí prsa s bylinkami"
+  ],
+  "intro": "Kuřecí prsa v bylinkové krustě jsou pečená prsa potřená hořčicí a obalená strouhankou s máslem, bylinkami a parmazánem. Krusta zůstane křupavá a maso pod ní šťavnaté, pokud ho vytáhneš z trouby přesně při 75 °C uvnitř.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 600,
+      "unit": "g",
+      "note": "4 řízky po asi 150 g",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 34,
+      "unit": "g",
+      "note": "2 lžíce",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Krusta"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Krusta"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 30,
+      "unit": "g",
+      "note": "najemno nastrouhaný",
+      "group": "Krusta"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "hrst natě, nasekané",
+      "group": "Krusta"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Krusta"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisované",
+      "group": "Krusta"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C). Prsa osuš papírovou utěrkou a podélně je rozříznutím vyrovnej, aby měla všude stejnou tloušťku asi 2 cm."
+    },
+    {
+      "section": "Příprava",
+      "text": "Prsa z obou stran osol, opepři a potři olivovým olejem. Polož je na plech vyložený pečicím papírem."
+    },
+    {
+      "section": "Krusta",
+      "text": "Strouhanku smíchej s rozpuštěným máslem, parmazánem, petrželkou, tymiánem a prolisovaným česnekem. Hmota má držet, když ji stiskneš v hrsti."
+    },
+    {
+      "section": "Krusta",
+      "text": "Každé prso potři tenkou vrstvou hořčice a na ni přitiskni krustu, aby držela, i když prso přenášíš."
+    },
+    {
+      "section": "Pečení",
+      "text": "Piš 22 až 25 minut. Maso je hotové, když teploměr uprostřed ukáže 75 °C a šťáva, která vyteče, je čirá. Krusta má být zlatá, ne tmavě hnědá."
+    },
+    {
+      "section": "Pečení",
+      "text": "Prsa nech 10 minut odpočinout na prkénku, než je nakrojíš. Maso se uvnitř ještě proteplí a šťáva se vrátí do vláken."
+    }
+  ],
+  "tips": [
+    "Hořčice tu funguje jako lepidlo i ochucovadlo. Nanes ji tence, silná vrstva by přebila bylinky.",
+    "Prsa vyrovnej na stejnou tloušťku. Tenčí konec jinak vyschne dřív, než se ten tlustší propeče.",
+    "Maso z lednice nech 20 minut vydechnout, upeče se rovnoměrněji."
+  ],
+  "substitutions": [
+    "Parmazán nahradíš stejným množstvím tvrdého sýra, třeba pecorina nebo ementálu.",
+    "Strouhanku nahradíš namletými ovesnými vločkami nebo drcenými kukuřičnými lupínky.",
+    "Čerstvé bylinky můžeš vyměnit za sušenou směs, použij jen polovinu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct kuřecí prsa v troubě?",
+      "a": "Při 200 °C trvá pečení prsou o tloušťce asi 2 cm 22 až 25 minut. Rozhoduje teploměr, uvnitř musí být 75 °C."
+    },
+    {
+      "q": "Jak udělat, aby krusta nespadla?",
+      "a": "Prsa osuš, potři je hořčicí a strouhanku s máslem přitiskni rukou. Při pečení se pak krusta slepí a drží."
+    },
+    {
+      "q": "Dá se bylinková krusta připravit dopředu?",
+      "a": "Ano. Krustu smíchej a nech až dva dny v lednici. Prsa obal až těsně před pečením, jinak strouhanka zvlhne."
+    }
+  ],
+  "image": "dish-kureci-prsa-v-bylinkove-kruste",
+  "vegetarian": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Paella s kuřetem a krevetami",
+  "section": "Pánve",
+  "price": 28900,
+  "recipe": "paella",
+  "vegetarian": false,
+  "order": 320,
+  "description": "Rýže na pánvi s kuřecím masem, krevetami, hráškem a šafránem, s křupavým spodkem.",
+  "about": [
+    "Paella je rýže, která se u stolu nemíchá. To je celé tajemství. Na dně pánve se vytvoří křupavá vrstva a vrch zůstane vláčný, jak má být.",
+    "V simulaci se dá objednat za pár vteřin, ve skutečnosti potřebuješ pánev, vývar a trpělivost. A pak se u stolu hádáš o poslední škrábanec ze dna."
+  ],
+  "kind": "main",
+  "restaurant": "tapas-siesta-nanecisto",
+  "image": "dish-paella",
+  "allergens": [
+    2,
+    9
+  ]
+}

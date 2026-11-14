@@ -1,0 +1,46 @@
+{
+  "name": "Kurkumové latte (zlaté mléko)",
+  "restaurant": "matcharna-jeste-slehame",
+  "kind": "main",
+  "section": "Matcha",
+  "price": 8900,
+  "recipe": "kurkumove-latte",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 200,
+  "description": "Hřejivé mléko s kurkumou, skořicí, zázvorem a medem. Bez kávy a bez matchy.",
+  "about": [
+    "Kurkumové latte, neboli zlaté mléko, se dělá z teplého mléka, kurkumy, skořice, zázvoru a špetky pepře. Je lehce zemité, sladké a bez kofeinu.",
+    "Matcharna ještě šlehá, ale tohle latte bez šlehání vystačí. Večer se k němu hodí deka."
+  ],
+  "optionGroups": [
+    {
+      "id": "mleko",
+      "name": "Mléko",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kravske",
+          "name": "Kravské",
+          "priceDelta": 0
+        },
+        {
+          "id": "ovesne",
+          "name": "Ovesné",
+          "priceDelta": 1500
+        },
+        {
+          "id": "mandlove",
+          "name": "Mandlové",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "image": "dish-kurkumove-latte-jeste-slehame",
+  "allergens": [
+    7
+  ]
+}

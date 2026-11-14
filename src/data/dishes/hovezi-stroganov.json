@@ -1,0 +1,46 @@
+{
+  "name": "Hovězí stroganov s rýží",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "price": 21900,
+  "recipe": "hovezi-stroganov",
+  "vegetarian": false,
+  "order": 160,
+  "description": "Proužky hovězího, žampiony a okurka ve smetanové omáčce s paprikou.",
+  "about": [
+    "Stroganov je rychlé jídlo, které se hlídá po vteřinách: proužky hovězího se opékají na vysokém ohni po dávkách a v omáčce se jen prohřejí. Zakysaná smetana se přidává mimo oheň.",
+    "Výčep Zítra ho sice slibuje, ale hlad je skutečný a recept také. Hotovo je za 40 minut, než se dovaří rýže."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "rize",
+          "name": "Rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "restaurant": "vycep-zitra",
+  "image": "dish-hovezi-stroganov",
+  "allergens": [
+    7,
+    9,
+    10
+  ]
+}

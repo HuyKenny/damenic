@@ -1,0 +1,145 @@
+{
+  "title": "Pečená krůtí prsa se zeleninou",
+  "category": "kure",
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 50,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek masa",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "krůtí prsa",
+    "pečená krůtí prsa",
+    "krůtí prsa v troubě",
+    "krůtí prsa se zeleninou"
+  ],
+  "intro": "Pečená krůtí prsa se zeleninou jsou celý kus krůtích prsou potřený hořčicí a paprikou, upečený na plechu s bramborami a mrkví. Krůtí maso je velmi libové a snadno vyschne, takže ho pečeš přikryté a pak odkryté a řídíš se teploměrem: 75 °C uvnitř.",
+  "ingredients": [
+    {
+      "ingredient": "kruti-prsa",
+      "amount": 700,
+      "unit": "g",
+      "note": "jeden kus",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 17,
+      "unit": "g",
+      "note": "1 lžíce",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 600,
+      "unit": "g",
+      "note": "na měsíčky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 300,
+      "unit": "g",
+      "note": "na silnější kolečka",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na čtvrtky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Zelenina"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 190 °C (horkovzduch 170 °C). Maso osuš. Smíchej hořčici, papriku, tymián, sůl, pepř a 1 lžíci oleje a prsa tím potři."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Brambory, mrkev, cibuli a česnek promíchej se zbylým olejem, solí a rozlož na velký plech. Přilij vývar."
+    },
+    {
+      "section": "Pečení",
+      "text": "Maso polož doprostřed zeleniny a plech přikryj alobalem. Piš 30 minut."
+    },
+    {
+      "section": "Pečení",
+      "text": "Odkryj a piš dalších 15 až 20 minut, dokud teploměr uprostřed prsou neukáže 75 °C a zelenina nezezlátne."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Maso nech 10 minut odpočinout pod fólií, nakrájej na plátky silné 1 cm a podávej s pečenou zeleninou a šťávou z plechu."
+    }
+  ],
+  "tips": [
+    "Krůta je libová. Teploměr je spolehlivější než čas, nepřepeč o víc než pár stupňů.",
+    "Alobal v první půlce pečení udrží šťávu, odkryté maso potom zezlátne.",
+    "Šťávu z plechu přelij přes plátky, nebude suché."
+  ],
+  "substitutions": [
+    "Brambory nahradíš batáty, ať je příloha sladší.",
+    "Krůtí prsa nahradíš kuřecím prsem, peče se o 10 minut kratší dobu.",
+    "Hořčici nahradíš směsí medu a sójové omáčky."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct krůtí prsa?",
+      "a": "Při 190 °C asi 45 až 50 minut u kusu 700 g. Hotová jsou při 75 °C uvnitř."
+    },
+    {
+      "q": "Jak zabránit, aby byla krůtí prsa suchá?",
+      "a": "Peč je zakrytá a nepřepeč. Po upečení nech maso 10 minut odpočinout."
+    },
+    {
+      "q": "Dá se krůta marinovat?",
+      "a": "Ano, v jogurtu s bylinkami a česnekem 2 až 12 hodin v lednici. Maso bude šťavnatější."
+    }
+  ],
+  "image": "dish-kruti-prsa-se-zeleninou",
+  "vegetarian": false
+}

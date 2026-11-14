@@ -1,0 +1,20 @@
+{
+  "name": "Mangový sorbet s limetkou",
+  "restaurant": "zmrzlinovy-bar-posledni-lzicka",
+  "kind": "main",
+  "section": "Sorbety",
+  "description": "Dvě manga, limetka a nic navíc. Studené, žluté a bez mléka.",
+  "about": [
+    "Mangový sorbet má jednu surovinu, která odvádí práci za všechny, a to zralé mango. Limetka přidá kyselost, sirup udrží sorbet hladký a mrazák se postará o zbytek. Pokud ho během mražení třikrát prošleháš vidličkou, bude jemný jako z kavárny.",
+    "Poslední lžička je u nás vždycky prázdná. Ale mango koupíš v obchodě a sorbet máš doma za chvilku."
+  ],
+  "price": 6900,
+  "image": "dish-mangovy-sorbet-lzicka",
+  "recipe": "mangovy-sorbet",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 35
+}

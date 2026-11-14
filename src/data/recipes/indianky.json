@@ -1,0 +1,124 @@
+{
+  "title": "Indiánky s čokoládovou polevou a šlehačkou",
+  "keywords": [
+    "indiánky",
+    "indiánky recept",
+    "indiánky se šlehačkou",
+    "indiánky domácí"
+  ],
+  "image": "dish-indianky-s-cokoladou-vitrina",
+  "category": "dorty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 60,
+  "cookMinutes": 24,
+  "waitMinutes": 60,
+  "waitLabel": "vychladnutí a ztuhnutí polevy",
+  "difficulty": "náročnější",
+  "meal": "dort",
+  "intro": "Indiánky recept na 12 kusů: lehké piškotové polokoule slepené šlehačkou a polité čokoládovou polevou. Těsto se peče po lžících na plechu, takže nepotřebuješ speciální formu. Stačí ušlehat pevný sníh a vmíchat mouku opatrně, aby se vzduch neztratil.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "oddělené žloutky a bílky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 30,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 300,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Troubu předehřej na 180 °C (horkovzduch 165 °C). Dva plechy vylož pečicím papírem. Žloutky vyšlehej s polovinou cukru do světlé a husté pěny, asi 5 minut."
+    },
+    {
+      "section": "Těsto",
+      "text": "Bílky se špetkou soli ušlehej do měkkého sněhu, po lžících přidávej zbylý cukr a šlehej do lesklého tuhého sněhu. Třetinu sněhu vmíchej do žloutků, pak přidej zbytek a prosátou mouku se škrobem. Míchej jen do spojení."
+    },
+    {
+      "section": "Těsto",
+      "text": "Těsto dávej do cukrářského sáčku s hladkou špičkou a na plech stříkej kopečky o průměru 5 cm, 24 kusů. Peč 10 až 12 minut dozlatova. Nech vychladnout a lehce odloupni od papíru."
+    },
+    {
+      "section": "Poleva",
+      "text": "Čokoládu nasekej a polij horkou, ne vroucí smetanou na vaření. Nech 1 minutu stát a promíchej do lesklé polevy. Nech trochu zchladnout, až zhoustne."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Smetanu s vanilkovým cukrem ušlehej do tuhé šlehačky. Spodní stranu 12 kopečků namaž vrstvou šlehačky a přilož k nim zbylé kopečky. Každý indiánek ponoř polovinou do polevy nebo ho polij. Dej na 30 minut do lednice ztuhnout."
+    }
+  ],
+  "tips": [
+    "Šlehaná smetana musí být studená. Zahřátá se sráží a indiánek ztratí tvar.",
+    "Poleva nesmí být horká, jinak odpadne. Dobře drží při 35 °C.",
+    "Indiánky jsou nejlepší do 24 hodin po naplnění. Nenaplněné půlky vydrží v dóze 3 dny."
+  ],
+  "substitutions": [
+    "Šlehačku nahraď vanilkovým pudinkovým krémem nebo mascarpone s cukrem.",
+    "Čokoládovou polevu nahraď moučkovým cukrem rozmíchaným s kakaem a trochou mléka.",
+    "Kdo nechce šlehačku, může použít vanilkový máslový krém."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi indiánky po upečení spadly?",
+      "a": "Těsto se příliš míchalo a sníh povolil. Mouku vmíchávej jen do spojení a těsto hned stříkej na plech."
+    },
+    {
+      "q": "Dá se těsto na indiánky péct dopředu?",
+      "a": "Ano, nenaplněné půlky vydrží 3 dny v dóze nebo týden v mrazáku. Plň je až při podávání."
+    },
+    {
+      "q": "Jak dlouho vydrží hotové indiánky?",
+      "a": "Se šlehačkou do 24 hodin v lednici. Po tom změknou."
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "title": "Masové koule v rajské omáčce",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 30,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "keywords": [
+    "masové koule v rajské omáčce",
+    "rajská omáčka s masovými koulemi",
+    "masové kuličky v rajské omáčce",
+    "koule z mletého masa"
+  ],
+  "intro": "Masové koule v rajské omáčce jsou koule z mletého hovězího a vepřového masa, které se dopečou přímo v rajčatové omáčce. Mleté maso musí být propečené až do 75 °C, takže se koule vaří pod pokličkou do měkka. Podávej s těstovinami nebo bramborem.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 250,
+      "unit": "g",
+      "group": "Koule"
+    },
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 250,
+      "unit": "g",
+      "group": "Koule"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Koule"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Koule"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 50,
+      "unit": "ml",
+      "group": "Koule"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "najemno",
+      "group": "Koule"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Koule"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Koule"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "spetka",
+      "group": "Koule"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Koule"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 60,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "spagety",
+      "amount": 320,
+      "unit": "g",
+      "group": "Příloha"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Koule",
+      "text": "Strouhanku nech 5 minut nasáknout v mléce. Smíchej ji s mletým masem, vejcem, cibulí, česnekem, majoránkou, solí a pepřem. Hnětej 2 minuty, ať hmota drží."
+    },
+    {
+      "section": "Koule",
+      "text": "S vlhkýma rukama tvaruj koule velké jako vlašský ořech, asi 20 kusů."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Na pánvi s vyšším okrajem rozehřej olej, osmahni cibuli 3 minuty, přidej passatu, cukr, oregano a špetku soli. Přiveď k varu."
+    },
+    {
+      "section": "Vaření",
+      "text": "Koule opatrně polož do omáčky, přikryj a vař na slabém ohni 20 až 25 minut. V půlce je jednou obrať. Mleté maso musí mít uvnitř 75 °C, žádný růžový střed."
+    },
+    {
+      "section": "Příloha",
+      "text": "Spagety uvař podle návodu v osolené vodě, scedi a promíchej s trochou omáčky."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Koule s omáčkou rozděl na spagety a podávej hned."
+    }
+  ],
+  "tips": [
+    "Koule tvaruj s vlhkýma rukama, maso se nelepí.",
+    "Koule neobracej, dokud nepustí z pánve. Syrové se rozpadají.",
+    "Pokud chceš pevnější hmotu, přidej další lžíci strouhanky."
+  ],
+  "substitutions": [
+    "Mleté maso může být jen hovězí nebo jen vepřové.",
+    "Passatu nahradíš rozmixovanými loupanými rajčaty z plechovky.",
+    "Spagety nahradíš bramborovou kaší nebo knedlíkem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit masové koule v omáčce?",
+      "a": "Asi 20 až 25 minut na slabém ohni pod pokličkou. Uvnitř musí mít koule 75 °C."
+    },
+    {
+      "q": "Proč se masové koule rozpadají?",
+      "a": "Chybí pojivo (vejce, strouhanka) nebo je hmota moc vlhká. Hnětej ji, až drží, a koule v omáčce zbytečně neobracej."
+    },
+    {
+      "q": "Dají se koule předem uvařit a zmrazit?",
+      "a": "Ano. Vychladlé koule v omáčce se zamrazí až na 3 měsíce a ohřejí se v hrnci."
+    }
+  ],
+  "image": "dish-masove-koule-v-rajske-omacce",
+  "vegetarian": false
+}

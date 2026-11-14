@@ -1,0 +1,146 @@
+{
+  "title": "Pečená vepřová panenka s bylinkami",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 40,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek masa",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "pečená vepřová panenka",
+    "vepřová panenka v troubě",
+    "vepřová panenka s bylinkami",
+    "pečená panenka s bramborami"
+  ],
+  "intro": "Pečená vepřová panenka s bylinkami je vcelku pečená panenka potřená hořčicí, česnekem a bylinkami, která se dopeče na lůžku brambor. Panenka je libová a snadno ji přepečeš, takže teploměr je tu nejlepší pomocník. Hotová je při 70 °C uvnitř.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-panenka",
+      "amount": 700,
+      "unit": "g",
+      "note": "2 kusy",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 34,
+      "unit": "g",
+      "note": "2 lžíce",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisované",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "rozmaryn",
+      "amount": 3,
+      "unit": "g",
+      "note": "nasekaný",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "na měsíčky",
+      "group": "Brambory"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na měsíčky",
+      "group": "Brambory"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Brambory"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Brambory",
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C). Brambory a cibuli promíchej s olivovým olejem a solí, rozlož na plech a peč 15 minut."
+    },
+    {
+      "section": "Maso",
+      "text": "Panenku zbav blan a šlach. Smíchej hořčici, česnek, rozmarýn, tymián, sůl a pepř a maso tím potři."
+    },
+    {
+      "section": "Opečení",
+      "text": "Na rozpálené pánvi s olejem opeč panenku ze všech stran, asi 4 minuty celkem, aby získala barvu."
+    },
+    {
+      "section": "Pečení",
+      "text": "Panenku polož doprostřed plechu mezi brambory a piš 15 až 20 minut. Teploměr uprostřed má ukázat 70 °C."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Maso nech 10 minut odpočinout pod fólií, přidej na něj kousek másla a nakrájej na plátky silné 1,5 cm. Podávej s bramborami."
+    }
+  ],
+  "tips": [
+    "Panenka se bez teploměru snadno přepeče. Zapichuj ho do nejsilnějšího místa.",
+    "Tenký konec panenky přehni a zajisti nití, upeče se stejně jako zbytek.",
+    "Odpočinek masa nevynechávej, šťáva zůstane uvnitř a plátky nevyschnou."
+  ],
+  "substitutions": [
+    "Rozmarýn nahradíš majoránkou nebo směsí provensálských bylinek.",
+    "Hořčici nahradíš medem rozmíchaným s kapkou sójové omáčky pro sladší krustu.",
+    "Brambory nahradíš batáty, upeč je stejně dlouho."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct vepřovou panenku v troubě?",
+      "a": "Při 200 °C asi 15 až 20 minut po opečení. Hotová je při 70 °C uvnitř."
+    },
+    {
+      "q": "Proč je panenka suchá?",
+      "a": "Nejčastěji je přepečená. Je libová a už při 75 až 80 °C vyschne. Řiď se teploměrem a nech maso odpočinout."
+    },
+    {
+      "q": "Může být panenka uvnitř růžová?",
+      "a": "Ano, při 70 °C je jemně narůžovělá a bezpečná, šťáva ale musí být čirá."
+    }
+  ],
+  "image": "dish-pecena-veprova-panenka",
+  "vegetarian": false
+}

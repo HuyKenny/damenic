@@ -1,0 +1,14 @@
+{
+  "name": "Domácí ledový čaj s citronem",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 5900,
+  "order": 100,
+  "description": "Studený černý čaj s citronem a ledem, jen lehce oslazený.",
+  "about": [],
+  "vegetarian": true,
+  "vegan": true,
+  "restaurant": "steakarna-rare-priste",
+  "image": "dish-domaci-ledovy-caj-steakarna",
+  "allergens": []
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Burek se sýrem",
+  "section": "Balkán",
+  "price": 14900,
+  "recipe": "burek-se-syrem",
+  "vegetarian": true,
+  "order": 350,
+  "description": "Spirála z filo těsta plněná solenými sýry a tvarohem, zapečená dokřupava.",
+  "about": [
+    "Burek je balkánská snídaně, oběd i večeře najednou. Tenké filo se zrolovává se sýrem a peče se do zlatova.",
+    "Doma budeš s filem zápasit, protože schne před očima. Zakrývej ho vlhkou utěrkou a nebude to tak zlé."
+  ],
+  "kind": "main",
+  "restaurant": "hostinec-za-hranici-nic",
+  "image": "dish-burek-se-syrem",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

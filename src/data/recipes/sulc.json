@@ -1,0 +1,149 @@
+{
+  "title": "Domácí sulc z vepřových nožiček",
+  "keywords": [
+    "sulc",
+    "sulc recept",
+    "domácí sulc",
+    "jak udělat sulc",
+    "hospodský sulc"
+  ],
+  "image": "dish-sulc-vycep-zitra",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 40,
+  "cookMinutes": 150,
+  "waitMinutes": 480,
+  "waitLabel": "tuhnutí v lednici",
+  "difficulty": "střední",
+  "meal": "predkrm",
+  "intro": "Sulc je vepřová huspenina z nožiček, plecka a zeleniny zalitá vlastním vývarem, která po vychladnutí v lednici zatuhne. Recept na domácí sulc nepotřebuje želatinu, protože nožičky jsou plné kolagenu a vývar sám ztuhne. Nejčastější chyba je příliš mnoho vody: na kilogram masa počítej 1,5 litru, jinak sulc nezatuhne.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-nozicky",
+      "amount": 800,
+      "unit": "g",
+      "group": "Sulc"
+    },
+    {
+      "ingredient": "veprove-plecko",
+      "amount": 400,
+      "unit": "g",
+      "note": "na větší kusy",
+      "group": "Sulc"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kolečka",
+      "group": "Sulc"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kolečka",
+      "group": "Sulc"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "note": "se slupkou, půlená",
+      "group": "Sulc"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Sulc"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Sulc"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 5,
+      "unit": "ks",
+      "group": "Sulc"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 1.5,
+      "unit": "g",
+      "group": "Sulc"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Sulc"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1800,
+      "unit": "ml",
+      "group": "Sulc"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "do vývaru a k podávání",
+      "group": "Sulc"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kolečka, k podávání",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nožičky a plecko dobře omyj. Dej je do hrnce, zalij 1,8 litru studené vody a přiveď k varu. Pěnu sbírej 10 minut."
+    },
+    {
+      "text": "Přidej cibuli, česnek, bobkový list, nové koření, pepř a sůl. Vař na mírném plameni 2 až 2,5 hodiny, až se maso odděluje od kosti. Mrkev a petržel přidej poslední půlhodinu."
+    },
+    {
+      "text": "Maso vyndej, odděl od kostí a nakrájej na kousky. Zeleninu nakrájej na kolečka. Vývar sceď a nech 10 minut klidně odstát, aby se tuk usadil."
+    },
+    {
+      "text": "Do misek nebo formy poskládej maso a zeleninu. Vývar dochuť octem a solí, mírně přeslaň, zalij maso a nech 8 hodin v lednici ztuhnout. Zkouška: lžíce vývaru na talíři po 5 minutách v lednici zatuhne."
+    },
+    {
+      "text": "Sulc vyklop a podávej s cibulí, octem a chlebem."
+    }
+  ],
+  "tips": [
+    "Zkouška gelu: lžíci vývaru dej na talíř do lednice. Pokud nezatuhne za 5 minut, vývar ještě zredukuj.",
+    "Příliš vody je hlavní příčina nezatuhlého sulcu. Dodržuj 1,8 litru na 1,2 kg masa.",
+    "Sulc vydrží v lednici 4 dny. Zamrazit ho nelze.",
+    "Tuk seber z povrchu až po ztuhnutí, tvoří bílou vrstvu, a sulc je pak čistý."
+  ],
+  "substitutions": [
+    "Pro jistotu přidej 1 lžíci želatiny rozpuštěné ve 100 ml teplého vývaru.",
+    "Vepřové plecko nahraď kolenem, vývar bude želatinovitější.",
+    "Ocet nahraď šťávou z kyselých okurek 3 lžíce."
+  ],
+  "faq": [
+    {
+      "q": "Proč sulc nezatuhl?",
+      "a": "Vývar je příliš zředěný nebo je málo nožiček. Zredukuj ho nebo přidej želatinu 1 lžíci."
+    },
+    {
+      "q": "Jak dlouho tuhne sulc?",
+      "a": "Aspoň 8 hodin v lednici. Nejlépe přes noc."
+    },
+    {
+      "q": "Jak dlouho vydrží sulc v lednici?",
+      "a": "Až 4 dny v zakryté nádobě. Zamrazit ho nelze, struktura se rozpadne."
+    }
+  ]
+}

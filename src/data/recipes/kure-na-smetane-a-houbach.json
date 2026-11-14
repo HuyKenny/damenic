@@ -1,0 +1,160 @@
+{
+  "title": "Kuře na smetaně a houbách",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 20,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "kuře na smetaně a houbách",
+    "kuřecí na smetaně se žampiony",
+    "kuřecí prsa na žampionech",
+    "kuře se smetanou a houbami"
+  ],
+  "intro": "Kuře na smetaně a houbách je pánev kuřecích prsou ve smetanové omáčce se žampiony, hotová za 40 minut. Houby se musí nejdřív vypéct dosucha, jinak zředí omáčku, a maso se vaří jen krátce, aby nevyschlo.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 600,
+      "unit": "g",
+      "note": "na plátky 1 cm",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 400,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Dokončení"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 240,
+      "unit": "g",
+      "group": "Příloha"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 480,
+      "unit": "ml",
+      "group": "Příloha"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příloha",
+      "text": "Rýži propláchni, dej s vodou do hrnce, osol, přiveď k varu, ztlum a vař pod pokličkou 12 minut. Pak ji nech 10 minut odstát."
+    },
+    {
+      "section": "Maso",
+      "text": "Plátky osol, opepři a obal v mouce. Na oleji je opékej po 2 až 3 minutách z každé strany do zlatova a přendej na talíř."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Na pánvi rozehřej máslo, osmahni cibuli do sklovata a přidej houby. Smaž je 6 až 8 minut, dokud se neodpaří voda a nezačnou hnědnout. Přidej česnek a majoránku."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Zalij vývarem, seškrab ze dna připečené kousky a nech 2 minuty probublat. Vlij smetanu a nech 3 minuty probublat, aby mírně zhoustla."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Vrať maso s jeho šťávou do omáčky a vař 4 až 5 minut, dokud není uvnitř 75 °C. Dochuť solí a pepřem, posyp petrželkou a podávej s rýží."
+    }
+  ],
+  "tips": [
+    "Houby nesol na začátku, sůl z nich vytáhne vodu a místo hnědnutí se budou dusit.",
+    "Mouka na masu omáčku lehce zahustí, ale neobaluj plátky v tlusté vrstvě.",
+    "Omáčku nepřiváděj k varu prudce, smetana by se mohla srazit."
+  ],
+  "substitutions": [
+    "Žampiony nahradíš směsí hlívy ústřičné a žampionů, bude výraznější.",
+    "Smetanu na vaření nahradíš směsí 125 ml zakysané smetany a 125 ml mléka, přidej ji až mimo oheň.",
+    "Rýži nahradíš vařenými bramborami nebo těstovinami."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat smetanovou omáčku, aby se nesrazila?",
+      "a": "Nepřiváděj ji k prudkému varu a nepřidávej kyselé přísady (víno, citron) přímo do horké smetany. Zakysanou smetanu přidej až mimo oheň."
+    },
+    {
+      "q": "Kolik minut vařit kuřecí na smetaně?",
+      "a": "Plátky se v omáčce vaří jen 4 až 5 minut po opečení. Uvnitř musí mít 75 °C."
+    },
+    {
+      "q": "Dají se použít mražené houby?",
+      "a": "Ano, ale nech je rozmrazit a odkapat. Smaž je na horké pánvi dosucha, jinak vypustí hodně vody."
+    }
+  ],
+  "image": "dish-kure-na-smetane-a-houbach",
+  "vegetarian": false
+}

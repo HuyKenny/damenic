@@ -1,0 +1,151 @@
+{
+  "title": "Játrová polévka s jaterními knedlíčky",
+  "keywords": [
+    "jaterní knedlíčky",
+    "játrové knedlíčky do polévky",
+    "jaterní knedlíčky recept",
+    "polévka s jaterními knedlíčky",
+    "játrová polévka"
+  ],
+  "image": "dish-jaterni-knedlicky-v-polevce-lzice-zitra",
+  "category": "polevky",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 25,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek těsta na knedlíčky",
+  "difficulty": "střední",
+  "meal": "polevka",
+  "intro": "Jaterní knedlíčky do polévky jsou malé noky z vepřových jater, rohlíku, vejce a majoránky, které se vaří přímo ve vývaru. Recept na jaterní knedlíčky stojí na tom, že těsto musí chvíli odpočinout a játra se mají mlít nebo mixovat do hladka. Hotové jsou za hodinu a vývar je podávací polévka sama o sobě.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-jatra",
+      "amount": 150,
+      "unit": "g",
+      "note": "očištěná, bez blan",
+      "group": "Knedlíčky"
+    },
+    {
+      "ingredient": "rohliky",
+      "amount": 2,
+      "unit": "ks",
+      "note": "den staré, namočené v mléce",
+      "group": "Knedlíčky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 80,
+      "unit": "ml",
+      "note": "na namočení rohlíků",
+      "group": "Knedlíčky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Knedlíčky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Knedlíčky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Knedlíčky"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Knedlíčky"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 30,
+      "unit": "g",
+      "note": "podle potřeby",
+      "group": "Knedlíčky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Knedlíčky"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "group": "Knedlíčky"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 1200,
+      "unit": "ml",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 60,
+      "unit": "g",
+      "note": "na kolečka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Polévka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rohlíky nakrájej na kostky a zalij vlažným mlékem. Nech 10 minut nasáknout, pak vymačkej."
+    },
+    {
+      "text": "Játra se zbytkem cibule a česnekem rozmixuj nebo umelte do hladké hmoty. Smíchej s rohlíky, vejcem, majoránkou, solí a pepřem. Pokud je těsto příliš řídké, přidej strouhanku. Nech 15 minut odpočinout."
+    },
+    {
+      "text": "Vývar přiveď k varu s mrkví a nech 10 minut vařit. Sniž plamen, aby se hladina jen chvěla."
+    },
+    {
+      "text": "Mokrou lžičkou odebírej z těsta noky velikosti malého ořechu a vkládej je do vývaru. Zkušební knedlíček vař 5 minut. Pokud drží, vař celou dávku 8 minut, dokud knedlíčky nevyplavou a nejsou uvnitř pevné."
+    },
+    {
+      "text": "Ochutnej, dosol a posyp petrželkou. Podávej ihned."
+    }
+  ],
+  "tips": [
+    "Zkušební knedlíček vař vždy první. Rozpadá-li se, přidej do hmoty lžíci strouhanky.",
+    "Játra mixuj do hladka, aby knedlíčky neměly zrnitou strukturu.",
+    "Vývar nevař prudce, knedlíčky by se rozpadly.",
+    "Knedlíčky vydrží ve vývaru v lednici 2 dny."
+  ],
+  "substitutions": [
+    "Vepřová játra nahraď kuřecími, budou jemnější.",
+    "Rohlíky nahraď houskou nebo toustovým chlebem.",
+    "Hovězí vývar nahraď kuřecím nebo zeleninovým."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří jaterní knedlíčky?",
+      "a": "8 minut na mírném varu, dokud nevyplavou a nejsou uvnitř pevné."
+    },
+    {
+      "q": "Proč se jaterní knedlíčky rozpadají?",
+      "a": "Těsto je moc řídké nebo vařily příliš prudce. Přidej lžíci strouhanky a vař jen na mírném varu."
+    },
+    {
+      "q": "Dají se jaterní knedlíčky zamrazit?",
+      "a": "Ano, uvařené a vychladlé vydrží 2 měsíce. Do polévky je dej přímo ze zmrazeného a prohřej 5 minut."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "title": "Krkonošské kyselo s bramborami a houbami",
+  "keywords": [
+    "kyselo",
+    "krkonošské kyselo",
+    "kyselo recept",
+    "bramborové kyselo",
+    "kyselo s houbami"
+  ],
+  "image": "dish-kyselo-lzice-zitra",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Kyselo je horská polévka z bramborového vývaru s houbami, kmínem a kyselým kvaskem, na horách ji jedí s vejcem a chlebem. Tento recept na kyselo je rychlý: kvásek nahrazuje žitná mouka a ocet, takže se obejdeš bez několikadenního kvašení. Důležité je kyselo nevařit po přidání smetany, jinak se sráží.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 400,
+      "unit": "g",
+      "note": "na kostky 1 cm"
+    },
+    {
+      "ingredient": "houby-susene",
+      "amount": 20,
+      "unit": "g",
+      "note": "spařené 200 ml vody, namočené 20 minut"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mouka-zitna",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "rozmíchaná v 100 ml studené vody"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "natvrdo uvařená"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej máslo a 4 minuty restuj cibuli. Přidej kmín a česnek a míchej 30 sekund."
+    },
+    {
+      "text": "Zalij vodou a houbami i s vodou z namáčení. Přidej brambory, bobkový list a sůl. Vař na mírném plameni 20 minut, až jsou brambory skoro měkké."
+    },
+    {
+      "text": "Žitnou mouku rozmíchanou s vodou vlij do polévky za stálého míchání. Vař 8 minut, ať polévka zhoustne a mouka se prohřeje."
+    },
+    {
+      "text": "Stáhni hrnec z plotny. Rozmíchej zakysanou smetanu s naběračkou polévky a vrať do hrnce spolu s octem a majoránkou. Dochuť pepřem a solí, už nevař."
+    },
+    {
+      "text": "Podávej s půlkou vejce natvrdo na talíři a krajícem chleba."
+    }
+  ],
+  "tips": [
+    "Po přidání smetany už kyselo nevař. Vařením se sráží a polévka je hrudkovitá.",
+    "Kyselost dolaď octem po lžičkách, polévka má být zřetelně nakyslá, ale ne pálivá.",
+    "Pravé kyselo se dělá s kvaskem z žitné mouky 1 až 2 dny. Rychlá verze je blízká, ale jemnější.",
+    "V lednici vydrží 3 dny, ohřívej jen mírně."
+  ],
+  "substitutions": [
+    "Žitnou mouku nahraď hladkou, bude trochu jemnější.",
+    "Zakysanou smetanu nahraď kysaným mlékem 100 ml.",
+    "Vejce můžeš nahradit osmaženými houbami z čerstvých hřibů."
+  ],
+  "faq": [
+    {
+      "q": "Co je kyselo a odkud pochází?",
+      "a": "Kyselo je tradiční kyselá polévka z podkrkonošského a horského regionu, vařená z brambor, hub, kmínu a kyselého základu. Podává se s vejcem."
+    },
+    {
+      "q": "Jak dlouho se vaří kyselo?",
+      "a": "Asi 35 minut: 20 minut brambory, 8 minut zahuštění žitnou moukou a zbytek dochucení. Po smetaně už nevař."
+    },
+    {
+      "q": "Jde kyselo zamrazit?",
+      "a": "Nedoporučuje se, smetana se po rozmrazení sráží. V lednici vydrží 3 dny."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "title": "Fazolové chilli bez masa",
+  "keywords": [
+    "fazolové chilli",
+    "chilli sin carne",
+    "chilli bez masa",
+    "veganské chilli"
+  ],
+  "image": "dish-fazolove-chilli-drobek",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 40,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Fazolové chilli bez masa je sytý jednohrncový oběd z červených fazolí, kukuřice a rajčat, ochucený uzenou paprikou a kmínem. Maso nahrazují fazole a dlouhé dušení, takže se chuť pořádně propojí. Hlavní rozdíl proti klasickému chilli con carne je v tom, že základ dostává chuť z opečené cibule a koření, ne z masa.",
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "mletý"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "nebo podle chuti"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "note": "jedna plechovka"
+    },
+    {
+      "ingredient": "fazole-cervene",
+      "amount": 400,
+      "unit": "g",
+      "note": "plechovka, scezené"
+    },
+    {
+      "ingredient": "fazole-bile",
+      "amount": 250,
+      "unit": "g",
+      "note": "scezené"
+    },
+    {
+      "ingredient": "kukurice-konzerva",
+      "amount": 150,
+      "unit": "g",
+      "note": "scezená"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 250,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 10,
+      "unit": "g",
+      "note": "kostička, nepovinná"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva na závěr"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve velkém hrnci rozehřej olej na středním plameni a 5 minut opékej cibuli, dokud není měkká a zlatavá. Přidej papriku a česnek a smaž další 3 minuty."
+    },
+    {
+      "text": "Vsyp kmín, uzenou papriku a chilli a míchej 30 sekund, aby koření uvolnilo vůni. Pak vmíchej rajčatové pyré a nech 1 minutu opékat."
+    },
+    {
+      "text": "Přidej loupaná rajčata, rozmačkej je vařečkou, přilij vývar a přidej obě fazole a kukuřici. Přiveď k varu."
+    },
+    {
+      "text": "Přikryj pokličkou odklopenou o štěrbinu a duš na mírném plameni 30 až 35 minut, občas promíchej. Chilli má zhoustnout, ale ne se přichytávat. Když je moc husté, přilij trochu vody."
+    },
+    {
+      "text": "Na závěr vmíchej čokoládu a limetkovou šťávu, dosol a dochuť. Podávej s rýží, chlebem nebo tortillovými chipsy a kysanou smetanou či jogurtem."
+    }
+  ],
+  "tips": [
+    "Uzená paprika je klíč. Nahrazuje kouřovou chuť masa, proto ji nešetři.",
+    "Chilli je druhý den lepší. Uvař ho předem a pomalu ohřej.",
+    "V lednici vydrží 4 dny, v mrazáku až 3 měsíce. Rozmrazuj přes noc v lednici."
+  ],
+  "substitutions": [
+    "Místo bílých fazolí dej černé nebo další plechovku červených.",
+    "Přidej 100 g červené čočky, která se v omáčce rozvaří a zahustí chilli.",
+    "Ostřejší chilli dostaneš nasekanou čerstvou chilli paprikou, jemnější vynecháním vloček."
+  ],
+  "faq": [
+    {
+      "q": "Jak zahustit fazolové chilli?",
+      "a": "Část fazolí v hrnci rozmačkej vařečkou nebo ji rozmixuj tyčákem. Dalších 10 minut nech dusit bez pokličky, a chilli zhoustne samo."
+    },
+    {
+      "q": "Proč se do chilli dává čokoláda?",
+      "a": "Hořká čokoláda doladí kyselost rajčat a prohloubí chuť. Stačí malý kousek, chilli nebude chutnat sladce."
+    },
+    {
+      "q": "Můžu použít sušené fazole?",
+      "a": "Ano, ale musí se přes noc namočit a před přidáním do omáčky předvařit 45 až 60 minut do měkka. Sušené červené fazole vždy vař pořádně, syrové jsou nestravitelné."
+    }
+  ]
+}

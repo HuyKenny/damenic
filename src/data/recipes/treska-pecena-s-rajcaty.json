@@ -1,0 +1,137 @@
+{
+  "title": "Treska pečená s rajčaty a olivami",
+  "category": "steak",
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 18,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "treska pečená",
+    "treska v troubě",
+    "treska s rajčaty",
+    "treska recept"
+  ],
+  "intro": "Treska pečená s rajčaty a olivami je filet z tresky pečený na plechu s cherry rajčaty, česnekem a olivami. Treska je libová a snadno vyschne, proto se peče jen krátce, do 63 °C uvnitř. Hotové jídlo je za 35 minut.",
+  "ingredients": [
+    {
+      "ingredient": "treska-filet",
+      "amount": 600,
+      "unit": "g",
+      "note": "4 filety po 150 g",
+      "group": "Ryba"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "spetka",
+      "group": "Ryba"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Ryba"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Ryba"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 300,
+      "unit": "g",
+      "note": "půlky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "olivy",
+      "amount": 50,
+      "unit": "g",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "na plátky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Dokončení"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 120,
+      "unit": "g",
+      "note": "opečený",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C). Rajčata, olivy, česnek a oregano promíchej s polovinou oleje a špetkou soli a rozlož na plech."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Zeleninu peč 8 minut, až začne pouštět šťávu."
+    },
+    {
+      "section": "Ryba",
+      "text": "Filety osuš, osol, opepři a potři zbylým olejem. Polož je na zeleninu a přelij šťávou z poloviny citronu."
+    },
+    {
+      "section": "Pečení",
+      "text": "Piš dalších 10 minut. Hotová je, když se maso v nejsilnějším místě dělí na plátky a teploměr ukáže 63 °C."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Posyp petrželkou, podávej s plátky citronu a opečeným chlebem na šťávu."
+    }
+  ],
+  "tips": [
+    "Filety měj stejně silné, tenký ocas přehni nebo podlož, jinak vyschne.",
+    "Zeleninu krátce předpeč, ryba by byla hotová dřív, než pustí šťávu.",
+    "Mražené filety rozmraz v lednici a před pečením je osuš."
+  ],
+  "substitutions": [
+    "Treska se dá nahradit mintajem nebo rybou s pevným bílým masem.",
+    "Olivy nahradíš kapary.",
+    "Oregano nahradíš bazalkou, přidej ji po pečení."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct tresku v troubě?",
+      "a": "Filety o síle 2 až 3 cm při 200 °C asi 10 až 12 minut. Hotová je při 63 °C."
+    },
+    {
+      "q": "Jak poznám, že je treska hotová?",
+      "a": "Maso zbělá, nepatrně se roztahuje na plátky a je šťavnaté. Nesmí být gumové."
+    },
+    {
+      "q": "Dají se použít mražené filety?",
+      "a": "Ano, rozmraz je v lednici přes noc a osuš. Mražené přímo se pečou nerovnoměrně."
+    }
+  ],
+  "image": "dish-treska-pecena-s-rajcaty",
+  "vegetarian": false
+}

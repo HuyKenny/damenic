@@ -1,0 +1,124 @@
+{
+  "title": "Salát s pečeným kozím sýrem a medem",
+  "keywords": [
+    "salát s kozím sýrem",
+    "teplý kozí sýr",
+    "pečený kozí sýr",
+    "salát s kozím sýrem a medem"
+  ],
+  "image": "dish-kozi-syr-medem-zahradka",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 8,
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Salát s pečeným kozím sýrem je bistrový klasik: rukola, ořechy a teplá kolečka kozího sýra zapečená na chlebu s medem. Sýr se peče jen pár minut, aby změkl, ale neroztekl. Chuť drží pohromadě kyselý dresink, který vyvažuje sladký med a výrazný kozí sýr.",
+  "ingredients": [
+    {
+      "ingredient": "kozi-syr",
+      "amount": 150,
+      "unit": "g",
+      "note": "zrající váleček, 4 kolečka"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 80,
+      "unit": "g",
+      "note": "4 tenké plátky bagety nebo chleba"
+    },
+    {
+      "ingredient": "rukola",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 30,
+      "unit": "g",
+      "note": "nahrubo nasekané"
+    },
+    {
+      "ingredient": "med",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "ocet-balsamico",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "horcice-dijonska",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C, horkovzduch 180 °C. Plech vylož pečicím papírem."
+    },
+    {
+      "text": "Sýr nakrájej na 4 kolečka silná asi 1,5 cm. Plátky chleba pokapej polovinou olivového oleje (1,5 lžíce), na každý polož kolečko sýra, posyp tymiánem a pokapej polovinou medu."
+    },
+    {
+      "text": "Peč 7 až 8 minut, dokud sýr nezačne na okrajích zlátnout a nezměkne. Nenechávej ho v troubě déle, rozteče se a vyteče z chleba."
+    },
+    {
+      "text": "Mezitím promíchej dresink: zbylé 1,5 lžíce oleje, balzamikum, hořčici, sůl a pepř. Rukolu a rozpůlená rajčata promíchej s dresinkem a rozděl na talíře."
+    },
+    {
+      "text": "Na salát polož teplé topinky se sýrem, posyp ořechy a pokapej zbylým medem. Podávej hned, dokud je sýr teplý."
+    }
+  ],
+  "tips": [
+    "Zrající kozí sýr s kůrkou drží tvar. Čerstvý měkký se rozpadá a lépe se hodí do dipů.",
+    "Ořechy můžeš krátce opražit na suché pánvi, vůně se výrazně zlepší.",
+    "Salát dochucuj až těsně před podáváním, rukola rychle zvadne."
+  ],
+  "substitutions": [
+    "Vlašské ořechy nahraď pekanovými, pistáciemi nebo dýňovými semínky.",
+    "Med můžeš zaměnit za fíkový džem nebo javorový sirup.",
+    "Rukola jde zastoupit baby špenátem nebo směsí listových salátů."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct kozí sýr v troubě?",
+      "a": "Při 200 °C 7 až 8 minut. Sýr má změknout a zlátnout na okrajích, ale nesmí téct."
+    },
+    {
+      "q": "Jaký kozí sýr je nejlepší do salátu?",
+      "a": "Zrající váleček s tenkou bílou kůrkou. Drží tvar při pečení a má jemně kyselou chuť."
+    },
+    {
+      "q": "Dá se sýr připravit předem?",
+      "a": "Ano. Naskládej ho na chléb a nech v lednici až 4 hodiny, před podáváním ho jen zapeč."
+    }
+  ]
+}

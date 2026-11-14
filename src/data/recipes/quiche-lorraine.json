@@ -1,0 +1,137 @@
+{
+  "title": "Quiche Lorraine",
+  "keywords": [
+    "quiche lorraine",
+    "quiche recept",
+    "slaný koláč se slaninou",
+    "francouzský slaný koláč"
+  ],
+  "image": "dish-quiche-lorraine",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 55,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Quiche Lorraine je francouzský slaný koláč s křehkým máslovým těstem a náplní ze slaniny, vajec a smetany. Aby spodek nebyl rozmočený, musí se těsto nejdřív samostatně předpéct. Formu používej o průměru 24 cm.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "studené, na kostky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 45,
+      "unit": "ml",
+      "note": "ledová",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml",
+      "note": "31 až 33 %",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 80,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "group": "Náplň"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku, sůl a studené máslo rychle prstami rozetři na drobenku. Přidej ledovou vodu a zpracuj hladké těsto, nepřemělňuj. Zabal do fólie a dej na 30 minut do lednice."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 170 °C). Těsto vyválej na 3 mm, vlož do formy o průměru 24 cm včetně okraje, propíchej vidličkou, pokryj pečicím papírem a zatěž luštěninami."
+    },
+    {
+      "text": "Peč naslepo 15 minut, pak papír s luštěninami sundej a peč ještě 5 minut, dokud dno není lehce zlatavé."
+    },
+    {
+      "text": "Slaninu opékej na suché pánvi 5 minut do zlatova, odlij tuk. Rozlož ji na předpečené těsto s nastrouhaným sýrem."
+    },
+    {
+      "text": "Vejce prošlehej se smetanou, mlékem, muškátem a pepřem (sůl nedávej, slanina je slaná). Nalij na slaninu. Peč 30 až 35 minut, až je střed zatuhlý a jen mírně se chvěje, povrch je zlatý."
+    },
+    {
+      "text": "Nech 10 minut odpočinout, aby se náplň ustálila, a pak teprve krájej. Podávej teplé nebo studené."
+    }
+  ],
+  "tips": [
+    "Máslo musí být studené, těsto pak zůstane křehké.",
+    "Předpečení těsta je nutné. Kvůli němu je spodek pečený a nepropustí vlhkost.",
+    "Quiche dobře drží 2 dny v lednici, ohřej ji v troubě na 160 °C 10 minut."
+  ],
+  "substitutions": [
+    "Slaninu lze nahradit uzenou šunkou nebo uzeným tofu a pro verzi bez masa přidej 150 g špenátu.",
+    "Eidam nahradí ementál nebo gruyère.",
+    "Smetanu na vaření lze zčásti nahradit mlékem, quiche bude lehčí a méně sytá."
+  ],
+  "faq": [
+    {
+      "q": "Proč má quiche rozmočený spodek?",
+      "a": "Těsto se nepředpeklo nebo byla náplň příliš vlhká. Předpeč těsto naslepo a slaninu před přidáním zbav tuku."
+    },
+    {
+      "q": "Jak poznám, že je quiche upečená?",
+      "a": "Okraje jsou pevné a zlaté, střed se při zatřesení jen lehce chvěje, ale už nevlní. Po vychladnutí zcela zatuhne."
+    },
+    {
+      "q": "Dá se quiche zamrazit?",
+      "a": "Ano, upečenou nakrájenou na porce zabal a zamraž na 2 měsíce. Rozmraz v lednici a ohřej v troubě na 170 °C 15 minut."
+    }
+  ]
+}

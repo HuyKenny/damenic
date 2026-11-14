@@ -1,0 +1,121 @@
+{
+  "title": "Avokádový salát s rajčaty a limetkou",
+  "keywords": [
+    "avokádový salát",
+    "salát s avokádem",
+    "avokádový salát s rajčaty",
+    "rychlý avokádový salát"
+  ],
+  "image": "dish-avokadovy-salat-ani-listek",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 12,
+  "cookMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Avokádový salát s rajčaty, červenou cibulí a limetkou je svěží salát, který se dělá za deset minut bez vaření. Avokádo má být zralé, ale pevné, a salát se dochucuje těsně před podáváním, aby avokádo nezhnědlo. Hodí se jako lehký oběd nebo příloha ke grilování.",
+  "ingredients": [
+    {
+      "ingredient": "avokado",
+      "amount": 2,
+      "unit": "ks",
+      "note": "zralá, ale pevná"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 0.5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "na tenké půlkroužky"
+    },
+    {
+      "ingredient": "kukurice-konzerva",
+      "amount": 80,
+      "unit": "g",
+      "note": "scezená"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nebo petrželka, nasekané"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva a kůra"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Červenou cibuli nakrájej na tenké půlkroužky, zalij 1 lžící limetkové šťávy a nech 10 minut odstát. Zjemní tak štiplavost a zbarví se do růžova."
+    },
+    {
+      "text": "Rajčata rozpůl, okurku nakrájej na půlkolečka a dej do mísy spolu s kukuřicí."
+    },
+    {
+      "text": "Dresink: limetkovou šťávu, kůru, olej, sůl, pepř a chilli promíchej ve sklenici. Ochutnej, má být výrazně kyselý, protože avokádo ho zjemní."
+    },
+    {
+      "text": "Avokádo rozpůl, vyndej pecku, dužinu nakrájej v pokožce na kostičky o hraně 2 cm a lžící vyndej do mísy. Nezačínej s ním moc brzy."
+    },
+    {
+      "text": "Přidej cibuli, bylinky a dresink. Promíchej opatrně dvěma lžícemi, aby se avokádo nerozmačkalo, a podávej hned."
+    }
+  ],
+  "tips": [
+    "Zralé avokádo poznáš tak, že po lehkém stlačení mírně povolí. Příliš měkké se v salátu rozpadá.",
+    "Zbylé avokádo s peckou uchovej ve vzduchotěsné dóze se šťávou z limetky, ztmavne pomaleji.",
+    "Salát nechystej víc než hodinu předem, rajčata pustí vodu."
+  ],
+  "substitutions": [
+    "Limetku můžeš nahradit citronem, chuť bude klasičtější.",
+    "Pro sytější salát přidej scezenou cizrnu nebo kostky fety.",
+    "Koriandr nahraď čerstvou mátou nebo pažitkou, pokud ho nemáš rád."
+  ],
+  "faq": [
+    {
+      "q": "Jak zabránit tomu, aby avokádo zhnědlo?",
+      "a": "Zakápni ho citrusovou šťávou hned po nakrájení a salát chystej těsně před jídlem. Kyselina zpomaluje oxidaci, takže avokádo hnědne mnohem později."
+    },
+    {
+      "q": "Jak dlouho vydrží avokádový salát?",
+      "a": "Nejlíp ho sněz hned. V lednici vydrží nejvýš 4 hodiny a pak začne pouštět vodu."
+    },
+    {
+      "q": "Jak poznám zralé avokádo?",
+      "a": "Zmáčkni ho dlaní, ne prsty. Zralé mírně povolí, tvrdé nepovolí vůbec a příliš zralé se promáčkne a zevnitř je hnědé."
+    }
+  ]
+}

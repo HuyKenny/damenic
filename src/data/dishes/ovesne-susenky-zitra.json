@@ -1,0 +1,25 @@
+{
+  "name": "Ovesné sušenky s rozinkami",
+  "restaurant": "zitra-upecem",
+  "kind": "main",
+  "section": "Brownies a muffiny",
+  "description": "Máslové, vločkové a s rozinkami. Zvenku křupnou, uvnitř trochu táhnou.",
+  "about": [
+    "Ovesné sušenky jsou jedno z mála pečení, které se dá stihnout cestou mezi dvěma serialy. Máslo, třtinový cukr, vločky, rozinky a skořice se zamíchají v jedné míse a po 14 minutách v troubě voní celý byt.",
+    "Zítra upečeme, říká jméno podniku. Tahle dávka je ale dnes, doma, u tebe. My zatím jen hlídáme prázdnou tašku."
+  ],
+  "price": 5500,
+  "image": "dish-ovesne-susenky-zitra",
+  "recipe": "ovesne-susenky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    12
+  ],
+  "order": 32
+}

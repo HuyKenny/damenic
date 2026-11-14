@@ -1,0 +1,23 @@
+{
+  "name": "Arašídové sušenky bez mouky",
+  "restaurant": "zitra-upecem",
+  "kind": "main",
+  "section": "Brownies a muffiny",
+  "description": "Tři suroviny, jedenáct minut v troubě. Okraje křupou, střed je měkký.",
+  "about": [
+    "Arašídové sušenky jsou důkazem, že dobré pečení nepotřebuje mouku ani složitý postup. Arašídové máslo, cukr a vejce se smíchají v jedné míse, zploští vidličkou a za jedenáct minut jsou hotové. Okraje chrupou, střed zůstává měkký a vonící po opečených arašídech.",
+    "Zítra upečem, protože dneska nic. Tyhle sušenky ale upečeš dnes a zbytek dne se bude hodit na pochvalu."
+  ],
+  "price": 5500,
+  "image": "dish-arasidove-susenky-zitra",
+  "recipe": "arasidove-susenky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    5
+  ],
+  "order": 38
+}

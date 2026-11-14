@@ -1,0 +1,141 @@
+{
+  "title": "Pljeskavica",
+  "keywords": [
+    "pljeskavica recept",
+    "balkánský burger",
+    "pljeskavica z mletého masa",
+    "srbská pljeskavica"
+  ],
+  "image": "dish-pljeskavica",
+  "category": "kebab",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 12,
+  "waitMinutes": 30,
+  "waitLabel": "odležení masa v lednici",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Pljeskavica je balkánský plochý burger z mletého hovězího a vepřového masa, který se opeče na grilu a podává v placce s ajvarem a cibulí. Aby zůstala šťavnatá, hněť maso do pevné směsi a nech ho odležet.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 350,
+      "unit": "g",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 350,
+      "unit": "g",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "nastrouhaná a vymačkaná",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisované",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "perliva-voda",
+      "amount": 50,
+      "unit": "ml",
+      "note": "ledová",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na pánev",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "pita",
+      "amount": 4,
+      "unit": "ks",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "ajvar",
+      "amount": 80,
+      "unit": "g",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "K podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso smíchej s cibulí, česnekem, solí a pepřem. Postupně přidávej ledovou perlivou vodu a maso 3 minuty hněť, až je lepivé."
+    },
+    {
+      "text": "Zakryj a nech v lednici 30 minut odležet, aby se chutě propojily a směs lépe držela tvar."
+    },
+    {
+      "text": "Rozděl na 4 díly po asi 180 g. Každý zformuj na placku o průměru 12 cm a tloušťce 1,5 cm, uprostřed lehce prohni palcem."
+    },
+    {
+      "text": "Pánev nebo gril rozpal na vyšší plamen. Peč placky 5 až 6 minut z každé strany, jen jednou je otoč. Mleté maso musí být uvnitř propečené, 75 °C, šťáva čirá."
+    },
+    {
+      "text": "Pity krátce ohřej. Dej do nich pljeskavici, ajvar, rajčata a cibuli a ihned podávej."
+    }
+  ],
+  "tips": [
+    "Placky při pečení netlač lopatkou, vytlačíš z nich šťávu.",
+    "Maso nesmí být příliš libové, ideální je poměr 20 % tuku.",
+    "Pljeskavice lze zmrazit syrové mezi papíry na 2 měsíce."
+  ],
+  "substitutions": [
+    "Ajvar nahradí pečená paprika rozmixovaná s olejem a česnekem.",
+    "Pro jemnější chuť přidej 50 g strouhaného sýra do směsi.",
+    "Pita nahradí bulka na burger nebo pečivo lepinja."
+  ],
+  "faq": [
+    {
+      "q": "Čím se pljeskavica liší od hamburgeru?",
+      "a": "Je plošší, tvarovaná z hovězího a vepřového mletého masa a ochucená cibulí a česnekem. Podává se v placce, ne v bulce."
+    },
+    {
+      "q": "Proč se pljeskavice rozpadá na grilu?",
+      "a": "Maso bylo málo prohnětené, příliš libové nebo teplé. Hněť ho do lepivé hmoty a nech ho před grilováním vychladnout v lednici."
+    },
+    {
+      "q": "Jak dlouho péct pljeskavici?",
+      "a": "5 až 6 minut z každé strany, aby mělo maso uvnitř 75 °C."
+    }
+  ]
+}

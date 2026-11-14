@@ -1,0 +1,141 @@
+{
+  "title": "Poke bowl s krevetami, mangem a avokádem",
+  "keywords": [
+    "poke bowl s krevetami",
+    "poke bowl krevety",
+    "poke bowl recept",
+    "poke bowl s mangem"
+  ],
+  "image": "dish-krevety-mango-poke-miska",
+  "category": "poke",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 25,
+  "cookMinutes": 10,
+  "waitMinutes": 15,
+  "waitLabel": "marinování krevet",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Poke bowl s krevetami je misky ze sushi rýže, mango, avokáda a krátce opečených krevet v limetkové marinádě. Krevety se nejí syrové, na pánvi se dělají za 3 minuty. Hlavní věc je nepřevařit je, jinak jsou gumové.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-sushi",
+      "amount": 180,
+      "unit": "g"
+    },
+    {
+      "ingredient": "krevety",
+      "amount": 250,
+      "unit": "g",
+      "note": "loupané, očištěné, rozmražené"
+    },
+    {
+      "ingredient": "mango",
+      "amount": 1,
+      "unit": "ks",
+      "note": "zralé"
+    },
+    {
+      "ingredient": "avokado",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 0.5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "edamame",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "nori",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "sriracha",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na pánev"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýži propláchni, uvař podle návodu a nech vlažnou. Při chladnutí ji občas prokypři vidličkou."
+    },
+    {
+      "text": "Marinádu promíchej: šťáva z poloviny limetky, sójová omáčka, sezamový olej, sriracha a med. Krevety osuš, přidej do marinády a nech 15 minut v lednici, ne déle, kyselina by je začala vařit."
+    },
+    {
+      "text": "Na pánvi rozehřej olej na vysokém plameni. Krevety vyndej z marinády a opékej 1,5 až 2 minuty z každé strany, dokud nejsou růžové a neprůsvitné. Krevety jsou hotové, když jsou sytě růžové s jemně stočeným tvarem."
+    },
+    {
+      "text": "Mango, avokádo a okurku nakrájej na kostičky. Edamame spař horkou vodou."
+    },
+    {
+      "text": "Rýži rozděl do misek, naskládej krevety a zeleninu. Pokapej zbylou limetkovou šťávou a posyp sezamem a proužky nori."
+    }
+  ],
+  "tips": [
+    "Krevety se nesmí vařit déle než 4 minuty celkem, pak tuhnou.",
+    "Zralé mango se při stlačení lehce prohne a voní u stopky. Tvrdé je kyselé.",
+    "Misku sestavuj těsně před jídlem, jinak rýže vysychá a avokádo hnědne."
+  ],
+  "substitutions": [
+    "Krevety zastoupí losos, kuře nebo tofu.",
+    "Mango můžeš nahradit ananasem.",
+    "Sriracha nahraď chilli omáčkou nebo vynech."
+  ],
+  "faq": [
+    {
+      "q": "Jsou krevety v poke bowlu syrové?",
+      "a": "V tomto receptu ne. Krevety se opékají 3 až 4 minuty, tedy jsou bezpečné. Syrové krevety se neservírují."
+    },
+    {
+      "q": "Můžu použít mražené krevety?",
+      "a": "Ano. Rozmraz je v lednici nebo 10 minut ve studené vodě, osuš a pak marinuj. Mokré krevety se nesmaží, ale dusí."
+    },
+    {
+      "q": "Jak dlouho vydrží poke bowl v lednici?",
+      "a": "Hotová miska nejvýš 1 den. Rýži, krevety a zeleninu je lepší skladovat zvlášť."
+    }
+  ]
+}

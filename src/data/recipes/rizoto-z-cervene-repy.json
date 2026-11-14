@@ -1,0 +1,135 @@
+{
+  "title": "Rizoto z červené řepy s kozím sýrem",
+  "keywords": [
+    "rizoto z červené řepy",
+    "řepové rizoto",
+    "rizoto z řepy",
+    "červené rizoto"
+  ],
+  "image": "dish-rizoto-repa-zahradka",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 20,
+  "cookMinutes": 35,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Rizoto z červené řepy má sytě purpurovou barvu a jemně sladkou zemitou chuť, kterou vyvažuje citron a kozí sýr. Řepa se strouhá najemno a vaří se přímo s rýží, takže barva prostoupí každé zrnko. Hlavní práce je trpělivé přilévání vývaru.",
+  "ingredients": [
+    {
+      "ingredient": "cervena-repa",
+      "amount": 300,
+      "unit": "g",
+      "note": "uvařená, loupaná"
+    },
+    {
+      "ingredient": "ryze-arborio",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 900,
+      "unit": "ml",
+      "note": "horký"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva a kůra"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 30,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "kozi-syr",
+      "amount": 80,
+      "unit": "g",
+      "note": "rozdrobený, na ozdobu"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vývar zahřej v hrnci a drž ho těsně pod bodem varu. Řepu nastrouhej na jemném struhadle nebo rozmixuj s půlkou hrnku vývaru na hladké pyré."
+    },
+    {
+      "text": "V široké pánvi nebo hrnci rozehřej olej a polovinu másla. Cibuli smaž 5 minut na mírném plameni do měkka, přidej česnek a 30 sekund opékej."
+    },
+    {
+      "text": "Přidej rýži a míchej 2 minuty, dokud zrna nezprůsvitní. Neomývej ji, škrob je pro rizoto důležitý."
+    },
+    {
+      "text": "Přilévej vývar po naběračkách a míchej. Další dolij, až předchozí vsákne, celkem asi 18 až 20 minut. Po 10 minutách vmíchej řepu a tymián."
+    },
+    {
+      "text": "Rizoto je hotové, když je rýže al dente, tedy uvnitř jemně tvrdá, a směs krémová a tekoucí. Stáhni z plamene."
+    },
+    {
+      "text": "Vmíchej zbylé máslo, parmazán, citronovou kůru a šťávu a dosol. Nech 2 minuty odpočinout pod pokličkou. Rozděl na talíře a posyp drobenkou kozího sýra."
+    }
+  ],
+  "tips": [
+    "Citron je důležitý, zjemní sladkou řepu a oživí barvu.",
+    "Rizoto podávej hned, rýže dál nasává tekutinu. Pokud zhoustne, přilij trochu horkého vývaru.",
+    "Řepu raději použij vakuovanou a vařenou, ne nakládanou. Syrovou řepu před použitím uvař nebo upeč."
+  ],
+  "substitutions": [
+    "Kozí sýr můžeš nahradit fetou nebo smetanovým sýrem.",
+    "Pro veganskou verzi nahraď máslo olivovým olejem, parmazán kvasnicovými vločkami a kozí sýr vlašskými ořechy.",
+    "Arborio zastoupí rýže carnaroli nebo vialone nano. Dlouhozrnná rýže se hodí méně."
+  ],
+  "faq": [
+    {
+      "q": "Jak uvařit rizoto, aby bylo krémové?",
+      "a": "Použij rýži arborio, přilévej vývar postupně a míchej. Škrob se uvolní a spojí rýži do hedvábné omáčky. Na závěr vyšlehej máslo a sýr."
+    },
+    {
+      "q": "Proč rizoto z řepy hnědne?",
+      "a": "Barvu ztrácí při dlouhém vaření. Přidej část řepy až v polovině a na závěr trochu citronové šťávy, která ji oživí."
+    },
+    {
+      "q": "Dá se rizoto ohřát?",
+      "a": "Ano, v pánvi s trochou vody nebo vývaru. Rýže ale změkne, lepší je ho jíst čerstvé."
+    }
+  ]
+}

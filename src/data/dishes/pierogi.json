@@ -1,0 +1,21 @@
+{
+  "name": "Pierogi s bramborami a tvarohem",
+  "section": "Polsko a Rakousko",
+  "price": 16900,
+  "recipe": "pierogi",
+  "vegetarian": true,
+  "order": 330,
+  "description": "Vařené taštičky s bramborou, tvarohem a cibulkou, opečené na másle se zakysanou smetanou.",
+  "about": [
+    "Pierogi ruskie mají s Ruskem společné jen jméno, náplň je bramborová a tvarohová. Taštičky se nejdřív vaří a pak opečou na másle.",
+    "Z dávky vyjde asi 30 kusů. To je dobré číslo, protože při lepení budeš ztrácet trpělivost už po desátém."
+  ],
+  "kind": "main",
+  "restaurant": "hostinec-za-hranici-nic",
+  "image": "dish-pierogi",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

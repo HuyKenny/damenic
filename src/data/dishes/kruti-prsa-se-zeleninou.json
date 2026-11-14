@@ -1,0 +1,20 @@
+{
+  "name": "Pečená krůtí prsa se zeleninou",
+  "kind": "main",
+  "section": "Polední menu",
+  "price": 16900,
+  "recipe": "kruti-prsa-se-zeleninou",
+  "vegetarian": false,
+  "order": 130,
+  "description": "Krůtí prsa pečená na plechu s bramborami, mrkví a cibulí.",
+  "about": [
+    "Krůtí prsa jsou libová a odpouštějí jen málo. Proto se pečou zakrytá a pak odkrytá, s teploměrem 75 °C uvnitř. Na plechu se všechno dopeče najednou.",
+    "Jídelna Zítra možná ukončí menu včas, ale krůtí prsa ti určitě ne. Doma upečeš všechno najednou a umyješ jen jeden plech."
+  ],
+  "restaurant": "jidelna-zitra-mozna",
+  "image": "dish-kruti-prsa-se-zeleninou",
+  "allergens": [
+    9,
+    10
+  ]
+}

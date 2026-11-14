@@ -1,0 +1,106 @@
+{
+  "title": "Tvarohové taštičky s meruňkovým džemem",
+  "keywords": [
+    "tvarohové taštičky",
+    "tvarohové taštičky recept",
+    "taštičky s džemem",
+    "tvarohové taštičky s marmeládou"
+  ],
+  "image": "dish-tvarohove-tasticky-na-slib",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 35,
+  "cookMinutes": 18,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Tvarohové taštičky recept z těsta, které nekyne: tvaroh, mouka a máslo v poměru 1 : 1 : ½. Vyjde 24 malých taštiček, které jsou měkké, křehké a dobře se plní džemem, povidly nebo makem. Těsto ale musí odpočinout v lednici, jinak se lepí.",
+  "ingredients": [
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "hrudkovitý, tučný"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 125,
+      "unit": "g",
+      "note": "změklé"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 5,
+      "unit": "g",
+      "note": "asi 1 lžička"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "dzem-merunkovy",
+      "amount": 150,
+      "unit": "g",
+      "note": "hustý"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na potření"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Tvaroh smíchej s moukou, práškem do pečiva a solí. Přidej máslo na kousky a zpracuj rychle do hladkého těsta, aby se máslo nezahřálo. Zabal do fólie a nech 30 minut v lednici."
+    },
+    {
+      "text": "Troubu předehřej na 190 °C (horkovzduch 175 °C). Těsto rozválej na 3 mm silný plát a nakrájej na čtverce 8 × 8 cm."
+    },
+    {
+      "text": "Doprostřed každého čtverce dej lžičku hustého džemu. Dva protilehlé rohy přehni ke středu a slep, nebo čtverec přelož na trojúhelník a okraj přitiskni vidličkou."
+    },
+    {
+      "text": "Taštičky ulož na plech s pečicím papírem, potři rozšlehaným vejcem a peč 15 až 18 minut dozlatova. Ještě teplé posyp moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Džem musí být hustý, ideálně z lžičky nestéká. Tekutý džem se při pečení vylévá a karamelizuje na plechu.",
+    "Okraje taštiček pořádně přitiskni, nejlépe vidličkou. Jinak se otevřou.",
+    "Vydrží 2 dny v dóze. Druhý den je dobré je zahřát 5 minut na 150 °C."
+  ],
+  "substitutions": [
+    "Meruňkový džem nahraď povidly, mákem s cukrem nebo tvarohem s vanilkou.",
+    "Máslo můžeš nahradit sádlem na maso, taštičky budou křehčí.",
+    "Tvaroh polotučný funguje taky, těsto bude jen o něco hůř držet tvar."
+  ],
+  "faq": [
+    {
+      "q": "Proč se tvarohové taštičky otevírají?",
+      "a": "Náplně bylo moc nebo okraje nebyly pořádně slepené. Dej jen lžičku náplně a okraj přitiskni vidličkou."
+    },
+    {
+      "q": "Musí tvaroh na taštičky být hrudkovitý?",
+      "a": "Je to lepší. Hladký měkký tvaroh obsahuje víc vody a těsto se lepí. Když ho máš, nech ho 30 minut okapat v sítku."
+    },
+    {
+      "q": "Dají se taštičky předpéct a zmrazit?",
+      "a": "Syrové je zmraz na plechu a po tuhnutí je přesuň do sáčku. Peč je ze zmrazených o 3 minuty déle."
+    }
+  ]
+}

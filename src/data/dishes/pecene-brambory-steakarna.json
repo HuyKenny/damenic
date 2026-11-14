@@ -1,0 +1,14 @@
+{
+  "name": "Pečené brambory s tymiánem",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 7900,
+  "order": 80,
+  "description": "Brambory pečené v troubě s olivovým olejem a tymiánem.",
+  "about": [],
+  "vegetarian": true,
+  "vegan": true,
+  "restaurant": "steakarna-rare-priste",
+  "image": "dish-pecene-brambory-steakarna",
+  "allergens": []
+}

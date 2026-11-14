@@ -1,0 +1,106 @@
+{
+  "title": "Menemen",
+  "keywords": [
+    "menemen recept",
+    "turecká vajíčka s rajčaty",
+    "menemen s paprikou",
+    "vejce s rajčaty a paprikou"
+  ],
+  "image": "dish-menemen",
+  "category": "kebab",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Menemen je turecká snídaně z rajčat, papriky a vajec, které se vaří na jedné pánvi. Aby nebyla vodnatá, musí se rajčata nejdřív zredukovat na hustou omáčku a vejce se pak jen pomalu míchají, dokud nejsou zatuhlá.",
+  "ingredients": [
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "paprika-zelena",
+      "amount": 2,
+      "unit": "ks",
+      "note": "menší, na kolečka"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 400,
+      "unit": "g",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 120,
+      "unit": "g",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V pánvi rozehřej olej na středním plameni a 4 minuty na něm osmahni cibuli, aby změkla, nezhnědla."
+    },
+    {
+      "text": "Přidej papriku a smaž 5 minut, dokud nezměkne a nezačne mírně hnědnout."
+    },
+    {
+      "text": "Přidej rajčata, chilli a sůl a vař bez poklice 10 až 12 minut, dokud se tekutina nevypaří a vznikne hustá omáčka."
+    },
+    {
+      "text": "Vejce rozbij přímo do omáčky, rozmíchej je lžící a 3 až 4 minuty pomalu míchej, dokud nejsou zatuhlá a ne tekutá. Jestli je máš v oblibě měkčí, sundej pánev z plamene o chvíli dřív."
+    },
+    {
+      "text": "Podávej ihned přímo z pánve s čerstvým chlebem na dopáčení."
+    }
+  ],
+  "tips": [
+    "Rajčata nech zredukovat. Jinak je pánev vodnatá a vejce se zřídí.",
+    "Vejce nemíchej příliš intenzivně, jinak budou jako míchaná vejce.",
+    "Pro děti, těhotné a seniory je třeba vejce vždy zcela zatuhlé."
+  ],
+  "substitutions": [
+    "Zelenou papriku nahradí 1 červená, bude sladší.",
+    "Chilli vločky nahradí špetka sladké papriky a trochu čerstvého chilli.",
+    "Vejce lze doplnit 50 g strouhané fety."
+  ],
+  "faq": [
+    {
+      "q": "Jaká je správná konzistence menemenu?",
+      "a": "Rajčatová omáčka má být hustá a vejce jemně zatuhlá, ne suchá. Pro bezpečí je vejce zcela hotové, bez tekutého bílku."
+    },
+    {
+      "q": "Dává se do menemenu cibule?",
+      "a": "V Turecku se vede spor, zda s cibulí, nebo bez. Obě verze jsou správné, s cibulí je chuť sladší."
+    },
+    {
+      "q": "Čím menemen podávat?",
+      "a": "S čerstvým chlebem, olivami a sýrem. Chléb se používá k namáčení omáčky."
+    }
+  ]
+}

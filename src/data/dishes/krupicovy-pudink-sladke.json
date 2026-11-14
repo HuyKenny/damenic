@@ -1,0 +1,23 @@
+{
+  "name": "Krupicový pudink s malinovou omáčkou",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Studené dezerty",
+  "description": "Vyklopený krupicový pudink, k němu malinová omáčka s kapkou citronu.",
+  "about": [
+    "Krupicový pudink je dětství, které se vrací v tvaru formičky. Vařená krupice se nechá vychladnout, vyklopí a přelije malinovou omáčkou, která vyrovná sladkost. Němci mu říkají griesspudink a jedí ho s ovocem celé generace.",
+    "Ve Sladkém ničem ti ho nikdo nenalije. Doma ho ale uvaříš za deset minut, pak už jen čekáš, až vyroste v lednici."
+  ],
+  "price": 6900,
+  "image": "dish-krupicovy-pudink-sladke",
+  "recipe": "krupicovy-pudink",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 52
+}

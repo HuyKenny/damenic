@@ -1,0 +1,21 @@
+{
+  "name": "Bánh xèo",
+  "section": "Nudle a rýže",
+  "price": 18900,
+  "recipe": "banh-xeo",
+  "vegetarian": false,
+  "order": 230,
+  "description": "Křupavá rýžová palačinka s krevetami, vepřovým a fazolovými klíčky, v salátu s bylinkami.",
+  "about": [
+    "Bánh xèo je vietnamská palačinka, která při vlití do pánve syčí, odtud název. Hotová je křupavá a zabalená do listu salátu s mátou.",
+    "K jídlu patří omáčka nuoc cham a pořádný hlad."
+  ],
+  "spicy": 1,
+  "kind": "main",
+  "restaurant": "pho-nebude",
+  "image": "dish-banh-xeo",
+  "allergens": [
+    2,
+    4
+  ]
+}

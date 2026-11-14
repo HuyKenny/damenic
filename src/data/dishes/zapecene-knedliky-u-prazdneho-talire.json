@@ -1,0 +1,23 @@
+{
+  "name": "Zapečené knedlíky se šunkou a sýrem",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "price": 15900,
+  "recipe": "zapecene-knedliky",
+  "vegetarian": false,
+  "order": 350,
+  "description": "Včerejší knedlíky, vajíčka, šunka a eidam do zlatova. Recyklace s chutí.",
+  "about": [
+    "Zapečené knedlíky jsou jídlo ze zbytků, které je lepší než originál: plátky vychladlých houskových knedlíků se prolijí vajíčky s mlékem, šunkou a sýrem a zapečou 25 až 30 minut při 190 °C. Povrch zlatne, uvnitř zůstane měkké a vláčné.",
+    "Podmínkou jsou knedlíky ze dne předtím, čerstvé se rozpadají. Máš-li doma zbylé, máš hotovou večeři. My nemáme nic, ale aspoň to nezbyde."
+  ],
+  "optionGroups": [],
+  "image": "dish-zapecene-knedliky-u-prazdneho-talire",
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "spicy": 0
+}

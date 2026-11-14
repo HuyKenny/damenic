@@ -1,0 +1,22 @@
+{
+  "name": "Domácí rybí prsty s tatarkou",
+  "kind": "main",
+  "section": "Polední menu",
+  "price": 15900,
+  "recipe": "rybi-prsty",
+  "vegetarian": false,
+  "order": 140,
+  "description": "Pruhy tresky v křupavém obalu s tatarskou omáčkou.",
+  "about": [
+    "Domácí rybí prsty se od mražených liší hlavně tím, že je uvnitř skutečná ryba a ne směs. Treska je hotová při 63 °C a vystačí jí 2 až 3 minuty smažení.",
+    "V Jídelně Zítra možná jsou ve středu. Doma je máš dnes večer, s tatarkou, která se dělá za 5 minut."
+  ],
+  "restaurant": "jidelna-zitra-mozna",
+  "image": "dish-rybi-prsty",
+  "allergens": [
+    1,
+    3,
+    4,
+    10
+  ]
+}

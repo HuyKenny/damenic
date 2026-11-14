@@ -1,0 +1,164 @@
+{
+  "title": "Tempura z krevet a zeleniny",
+  "keywords": [
+    "tempura recept",
+    "tempura z krevet",
+    "tempura těsto",
+    "japonská tempura"
+  ],
+  "image": "dish-tempura",
+  "category": "asijska",
+  "vegetarian": false,
+  "servings": 3,
+  "activeMinutes": 35,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Tempura jsou japonské krevety a zelenina obalené v ledovém řídkém těstíčku a smažené do světle zlatých a křupavých. Těsto se míchá jen pár vteřin, ledová voda a nízká teplota těsta brání nasáknutí olejem, a smaží se při 170 až 180 °C.",
+  "ingredients": [
+    {
+      "ingredient": "krevety",
+      "amount": 200,
+      "unit": "g",
+      "note": "oloupané, ocásek ponech",
+      "group": "Co smažit"
+    },
+    {
+      "ingredient": "cuketa",
+      "amount": 150,
+      "unit": "g",
+      "note": "na tyčky",
+      "group": "Co smažit"
+    },
+    {
+      "ingredient": "batat",
+      "amount": 200,
+      "unit": "g",
+      "note": "na plátky 5 mm",
+      "group": "Co smažit"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na pruhy",
+      "group": "Co smažit"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 100,
+      "unit": "g",
+      "note": "celé",
+      "group": "Co smažit"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 30,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "studené",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 180,
+      "unit": "ml",
+      "note": "ledová",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 800,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "dashi-prasek",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka tsuyu"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Omáčka tsuyu"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka tsuyu"
+    },
+    {
+      "ingredient": "mirin",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka tsuyu"
+    },
+    {
+      "ingredient": "redkev-bila",
+      "amount": 80,
+      "unit": "g",
+      "note": "nastrouhaná",
+      "group": "Omáčka tsuyu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na omáčku svař vodu s dashi, sójovou omáčkou a mirinem, 2 minuty. Nech vychladnout a podávej s nastrouhanou ředkví."
+    },
+    {
+      "text": "Krevety po břišní straně 3 až 4 krát nařízni, aby se při smažení nezkroutily, a osuš. Zeleninu nakrájej na stejně velké kousky a také osuš."
+    },
+    {
+      "text": "Olej v hrnci rozehřej na 170 až 180 °C. Teplotu měř teploměrem. Hrnec nikdy nenechávej bez dozoru."
+    },
+    {
+      "text": "Těsto udělej těsně před smažením. Do ledové vody zašlehej vejce, přisyp mouku se škrobem a promíchej hůlkami 10 sekund. Hrudky nevadí."
+    },
+    {
+      "text": "Zeleninu a krevety namáčej do těsta a smaž po několika kusech 2 až 4 minuty, krevety tak 2 minuty, batat a paprika 4 minuty, až jsou světle zlaté. Vylov a nech na mřížce okapat."
+    },
+    {
+      "text": "Podávej ihned, než zvlhnou, s omáčkou tsuyu."
+    }
+  ],
+  "tips": [
+    "Těsto míchej jen krátce. Když se mouka rozmíchá do hladka, vznikne lepek a tempura bude žvýkavá.",
+    "Mezi dávkami vylov z oleje zbytky těsta, aby nehořely.",
+    "Olej po smažení nech vychladnout a přecedit, jednou ho lze použít znovu."
+  ],
+  "substitutions": [
+    "Dashi lze nahradit zeleninovým vývarem.",
+    "Mirin nahradí lžička cukru ve 2 lžících vody.",
+    "Pro verzi bez ryb vynech krevety a přidej tofu."
+  ],
+  "faq": [
+    {
+      "q": "Proč tempura není křupavá?",
+      "a": "Těsto nebylo dost studené, příliš moc se míchalo nebo byl olej málo horký. Použij ledovou vodu a olej 170 až 180 °C."
+    },
+    {
+      "q": "Proč se do těsta dává ledová voda?",
+      "a": "Studená voda zpomalí tvorbu lepku a těsto je lehčí a křehčí."
+    },
+    {
+      "q": "Může se tempura ohřívat?",
+      "a": "Nejlépe se jí hned. Zbytky ohřej 5 minut v troubě při 200 °C na mřížce, částečně zkřehnou."
+    }
+  ]
+}

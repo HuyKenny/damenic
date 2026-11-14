@@ -1,0 +1,136 @@
+{
+  "title": "Vdolky s povidly a tvarohem",
+  "keywords": [
+    "vdolky",
+    "vdolky recept",
+    "kynuté vdolky",
+    "vdolky s povidly",
+    "vdolky s tvarohem"
+  ],
+  "image": "dish-vdolky-jidelna-zitra-mozna",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 15,
+  "waitMinutes": 60,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Vdolky jsou kynuté placičky z těsta smažené v oleji dozlatova a pomazané povidly, tvarohem a cukrem. Recept na vdolky je lehčí než se zdá: kvásek, hodina kynutí a 3 minuty smažení z jedné strany. Těsto má být měkké a lepivé, přidáváním mouky ho pokazíš.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 15,
+      "unit": "g",
+      "note": "čerstvé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 180,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 20,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "žloutek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 300,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "povidla",
+      "amount": 120,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 150,
+      "unit": "g",
+      "note": "měkký",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 5,
+      "unit": "g",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do vlažného mléka rozdrol droždí s lžičkou cukru z celkového množství a nech 10 minut vzejít, až vznikne pěna."
+    },
+    {
+      "text": "Mouku smíchej se zbylým cukrem a solí. Přidej kvásek a žloutek a hnětej 8 minut do hladkého těsta, které se jen mírně lepí. Nech 60 minut kynout přikryté na teplém místě."
+    },
+    {
+      "text": "Těsto přendej na hojně pomoučený vál a rozděl na 8 kusů. Každý rozválej nebo roztáhni rukama na placku o průměru asi 10 cm a nech 10 minut dokynout."
+    },
+    {
+      "text": "Olej rozehřej v pánvi na 170 °C do výšky 1 cm. Vdolky smaž po dvou až třech 2 až 3 minuty z každé strany, až jsou zlaté. Vyndej na papírovou utěrku."
+    },
+    {
+      "text": "Teplé vdolky potři povidly, posyp tvarohem smíchaným s cukrem moučkou a vanilkovým cukrem a podávej ihned."
+    }
+  ],
+  "tips": [
+    "Olej nesmí být příliš horký, vdolky zhnědnou a uvnitř zůstanou syrové. Při 170 °C jsou hotové za 5 minut.",
+    "Těsto ruce nepřetěžuj moukou, vdolky by byly suché.",
+    "Vdolky jedz čerstvé, druhý den ztvrdnou.",
+    "Povidla zředěná lžící vody se lépe roztírají."
+  ],
+  "substitutions": [
+    "Povidla nahraď džemem nebo rozvařenými švestkami.",
+    "Tvaroh nahraď zakysanou smetanou 100 g.",
+    "Mléko nahraď ovesným nápojem, těsto bude fungovat stejně."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se smaží vdolky?",
+      "a": "2 až 3 minuty z každé strany v oleji o teplotě 170 °C. Hotové jsou zlaté a nadýchané."
+    },
+    {
+      "q": "Dá se těsto na vdolky připravit večer předem?",
+      "a": "Ano, nech ho kynout v lednici přes noc a ráno ho 20 minut vytemperuj."
+    },
+    {
+      "q": "Čím se liší vdolky od koblih?",
+      "a": "Vdolky jsou ploché a smažené na pánvi v mělkém oleji, koblihy jsou kulaté a smažené ve větším množství tuku."
+    }
+  ]
+}

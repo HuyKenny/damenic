@@ -1,0 +1,124 @@
+{
+  "title": "Pečený losos s citronem a koprem",
+  "category": "steak",
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "pečený losos",
+    "losos pečený v troubě",
+    "losos s citronem",
+    "pečený losos s bramborami"
+  ],
+  "intro": "Pečený losos s citronem a koprem je filet lososa pečený v troubě na plechu s bramborami a citronem. Losos je hotový při 63 °C uvnitř, což trvá asi 12 minut. Brambory se pečou napřed, losos až na konci, aby se obojí dokončilo najednou.",
+  "ingredients": [
+    {
+      "ingredient": "losos-filet",
+      "amount": 600,
+      "unit": "g",
+      "note": "4 filety po 150 g, s kůží",
+      "group": "Losos"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Losos"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "půl na šťávu, půl na plátky",
+      "group": "Losos"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nasekaný",
+      "group": "Losos"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Losos"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "spetka",
+      "group": "Losos"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Losos"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 700,
+      "unit": "g",
+      "note": "nové, na půlky",
+      "group": "Brambory"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Brambory"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Brambory",
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C). Brambory promíchej s olejem a solí, rozlož na plech a peč 25 minut do zlatova."
+    },
+    {
+      "section": "Losos",
+      "text": "Filety osuš, osol, opepři a potři olivovým olejem, citronovou šťávou a česnekem. Polož na ně plátky citronu."
+    },
+    {
+      "section": "Pečení",
+      "text": "Brambory posuň na kraj plechu, doprostřed polož ryby kůží dolů a piš dalších 12 minut. Uvnitř má mít losos 63 °C a maso se v nejsilnějším místě dělí na plátky."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Rybu posyp koprem, přidej na brambory kousek másla a podávej na plechu."
+    },
+    {
+      "section": "Podávání",
+      "text": "K lososu se hodí studený jogurtový dip nebo čerstvý okurkový salát."
+    }
+  ],
+  "tips": [
+    "Losos je hotový, když se v nejsilnějším místě dělí na plátky a je ještě mírně vlhký. Při 63 °C je bezpečný a šťavnatý.",
+    "Při pečení nech kůži, drží filet pohromadě.",
+    "Koprem nešetři a přidej ho až po pečení, aby voněl."
+  ],
+  "substitutions": [
+    "Kopr nahradíš petrželkou nebo pažitkou.",
+    "Brambory nahradíš zeleným chřestem, losos pak peč o 2 minuty kratší dobu.",
+    "Citron nahradíš limetkou."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct lososa v troubě?",
+      "a": "Filety o síle 3 cm 12 až 15 minut při 200 °C. Hotový je při 63 °C."
+    },
+    {
+      "q": "Jak poznám, že je losos propečený?",
+      "a": "Maso se v nejsilnějším místě dělí na plátky a je z něj nepatrně průsvitné jádro. Teploměr ukáže 63 °C."
+    },
+    {
+      "q": "Péct s kůží, nebo bez?",
+      "a": "S kůží. Chrání maso před vyschnutím a z kůže se dá pak snadno sloupnout."
+    }
+  ],
+  "image": "dish-peceny-losos-s-citronem",
+  "vegetarian": false
+}

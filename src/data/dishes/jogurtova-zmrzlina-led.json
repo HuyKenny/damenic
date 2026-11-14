@@ -1,0 +1,22 @@
+{
+  "name": "Jogurtová zmrzlina s citronovou kůrou",
+  "restaurant": "zmrzlinarna-led-ledem",
+  "kind": "main",
+  "section": "Kopečky",
+  "description": "Svěží řecký jogurt, šlehačka a citronová kůra. Kopeček, co se nerozteče, než ho sníš.",
+  "about": [
+    "Jogurtová zmrzlina je lehčí bratr té smetanové. Řecký jogurt dá kyselost, šlehačka krémovost a citronová kůra všechno ostřeji ohraničí. Bez zmrzlinovače to jde díky šlehané smetaně, která do hmoty zavede vzduch.",
+    "Když v zmrzlinárně Led ledem zavřeš oči, uslyšíš jen prázdný mrazák. Doma ji ale máš za šest hodin."
+  ],
+  "price": 6500,
+  "image": "dish-jogurtova-zmrzlina-led",
+  "recipe": "jogurtova-zmrzlina",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 25
+}

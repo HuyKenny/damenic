@@ -1,0 +1,14 @@
+{
+  "name": "Perlivá voda s citronem",
+  "kind": "drink",
+  "section": "Nápoje",
+  "price": 5900,
+  "order": 90,
+  "description": "Voda s bublinkami a plátkem citronu. Pobublává sama.",
+  "about": [],
+  "vegetarian": true,
+  "vegan": true,
+  "restaurant": "steakarna-rare-priste",
+  "image": "dish-perliva-voda-steakarna",
+  "allergens": []
+}

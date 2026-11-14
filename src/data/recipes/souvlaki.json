@@ -1,0 +1,141 @@
+{
+  "title": "Souvlaki z vepřové krkovice",
+  "keywords": [
+    "souvlaki recept",
+    "řecké souvlaki",
+    "souvlaki špízy",
+    "vepřové souvlaki"
+  ],
+  "image": "dish-souvlaki",
+  "category": "kebab",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 15,
+  "waitMinutes": 120,
+  "waitLabel": "marinování v lednici (2 až 12 hodin)",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Souvlaki jsou řecké špízy z kostek vepřové krkovice marinované v citronu, olivovém oleji a oreganu. Maso zůstane šťavnaté, když zvolíš krkovici s trochou tuku a marinuješ aspoň 2 hodiny, a podává se v pitě s tzatziki, cibulí a rajčaty.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-krkovice",
+      "amount": 800,
+      "unit": "g",
+      "note": "bez kosti, na kostky 3 cm",
+      "group": "Špízy"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 2,
+      "unit": "ks",
+      "note": "šťáva z obou a kůra z jednoho",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisované",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "sušené",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "pita",
+      "amount": 4,
+      "unit": "ks",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "jogurt-recky",
+      "amount": 200,
+      "unit": "g",
+      "note": "na rychlé tzatziki",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nastrouhaná a vymačkaná",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na tenké půlkolečka",
+      "group": "K podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do mísy dej olej, šťávu ze 2 citronů, kůru z jednoho, prolisovaný česnek, oregano, sůl a pepř a promíchej. Vmíchej maso na kostkách, zakryj a nech v lednici marinovat 2 až 12 hodin."
+    },
+    {
+      "text": "Dřevěné špejle namoč na 30 minut do vody, aby na grilu nebo pánvi neshořely. Maso napíchej na špejle, na každou 4 až 5 kostek těsně u sebe."
+    },
+    {
+      "text": "Rychlé tzatziki: jogurt smíchej s nastrouhanou okurkou, kapkou oleje, rozetřeným česnekem a špetkou soli. Zakryj a dej do lednice."
+    },
+    {
+      "text": "Gril, grilovací pánev nebo velkou pánev rozpal na vysoký plamen. Špízy peč 10 až 12 minut a otáčej je každé 2 až 3 minuty, aby se opekly ze všech stran. Maso je hotové při 70 °C uvnitř, šťáva z řezu je čirá."
+    },
+    {
+      "text": "Pity 20 sekund ohřej na suché pánvi. Do každé dej tzatziki, rajčata, cibuli a stáhni maso ze špejle. Ihned podávej."
+    }
+  ],
+  "tips": [
+    "Krkovici nedávej na gril chladnou z lednice. Nech ji 20 minut ohřát na pokojovou teplotu, opeče se rovnoměrněji.",
+    "Když marináda obsahuje hodně kyseliny, nedržej maso v ní déle než 12 hodin, začne být kašovité."
+  ],
+  "substitutions": [
+    "Místo krkovice se hodí kuřecí stehna bez kůže na kostky, peč je do 75 °C uvnitř.",
+    "Bez pity dej souvlaki na rýži s rajčatovým salátem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho marinovat maso na souvlaki?",
+      "a": "Nejméně 2 hodiny, ideálně 4 až 8 hodin v lednici. Déle než 12 hodin už citron maso rozvaří a zkazí strukturu."
+    },
+    {
+      "q": "Jaké maso je na souvlaki nejlepší?",
+      "a": "Vepřová krkovice, protože má mramorování a nevyschne. Kuřecí prsa jsou méně odpustitelná a snadno vyschnou, proto je peč jen krátce."
+    },
+    {
+      "q": "Jde souvlaki upéct v troubě?",
+      "a": "Ano. Špízy dej na rošt nad plech, peč na 230 °C (horkovzduch 210 °C) 15 až 18 minut a v půlce je otoč. Na konci dej na 3 minuty gril pro kůrku."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Kaiserschmarrn s povidly",
+  "section": "Polsko a Rakousko",
+  "price": 13900,
+  "recipe": "kaiserschmarrn",
+  "vegetarian": true,
+  "order": 320,
+  "description": "Nadýchaná trhaná palačinka s rozinkami, posypaná cukrem, s povidly na boku.",
+  "about": [
+    "Kaiserschmarrn je palačinka, která se rozpadne schválně. Těsto s ušlehaným sněhem se nejdřív upeče vcelku a potom natrhá na kousky a karamelizuje.",
+    "Podle legendy vznikla pro císaře. Doma ji uděláš za čtvrt hodiny, na rozdíl od rozvozu, který tu nejede."
+  ],
+  "kind": "main",
+  "restaurant": "hostinec-za-hranici-nic",
+  "image": "dish-kaiserschmarrn",
+  "allergens": [
+    1,
+    3,
+    7,
+    12
+  ]
+}

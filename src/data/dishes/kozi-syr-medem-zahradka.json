@@ -1,0 +1,24 @@
+{
+  "name": "Salát s pečeným kozím sýrem a medem",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "main",
+  "section": "Z trouby",
+  "price": 19900,
+  "recipe": "salat-s-kozim-syrem",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 200,
+  "description": "Teplé topinky s kozím sýrem a medem na rukole s rajčaty a vlašskými ořechy.",
+  "about": [
+    "Kozí sýr se na topinkách peče jen 7 až 8 minut, aby změkl a nezačal téct. Rukola s balzamikem dodá hořkost a kyselost, med sladkost a ořechy křupavost. Je to bistro klasika, která zabere čtvrt hodiny.",
+    "Zahrádka naprázdno je smyšlená zahrada. Salát ale můžeš sklidit doma, stačí trouba a poctivý kozí sýr."
+  ],
+  "optionGroups": [],
+  "image": "dish-kozi-syr-medem-zahradka",
+  "allergens": [
+    1,
+    7,
+    8
+  ]
+}

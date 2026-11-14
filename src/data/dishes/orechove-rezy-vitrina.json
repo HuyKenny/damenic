@@ -1,0 +1,25 @@
+{
+  "name": "Ořechové řezy s karamelem",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Řezy z plechu",
+  "description": "Máslový základ, hustý karamel a hrst vlašských ořechů. Krájí se po vychladnutí, ne dřív.",
+  "about": [
+    "Ořechové řezy stojí na kontrastu. Dole křehký máslový korpus, nahoře karamel s vlašskými ořechy, který se na okrajích kouše a uprostřed táhne. Jediný háček je trpělivost: krájet se smějí až po vychladnutí a dvou hodinách v lednici.",
+    "Vitrína je prázdná, ale recept je skutečný. Vyjde z něj dvacet řezů, což je dost na to, aby ses o ně nemusel dělit s nikým, kdo ti nic nepřivezl."
+  ],
+  "price": 6500,
+  "image": "dish-orechove-rezy-vitrina",
+  "recipe": "orechove-rezy",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "order": 58
+}

@@ -1,0 +1,125 @@
+{
+  "title": "Cizrnová pomazánka s cibulkou a okurkou",
+  "keywords": [
+    "cizrnová pomazánka",
+    "pomazánka z cizrny",
+    "veganská pomazánka",
+    "cizrnová pomazánka na chleba"
+  ],
+  "image": "dish-cizrnova-pomazanka",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 12,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek v lednici",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Cizrnová pomazánka je veganská pomazánka na chleba z plechovky cizrny, nakládané okurky a cibulky. Na rozdíl od hummusu v ní není tahini, zůstává hrubší a chutná spíš jako domácí vajíčková. Rozhoduje, jak moc cizrnu rozmačkáš a kolik nálevu z plechovky použiješ místo oleje.",
+  "ingredients": [
+    {
+      "ingredient": "cizrna-konzerva",
+      "amount": 400,
+      "unit": "g",
+      "note": "jedna plechovka, scezená, nálev si nech"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 60,
+      "unit": "g",
+      "note": "najemno nakrájené"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "plnotučná"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný stroužek"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nakrájená na kolečka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cizrnu vylej na sítko a nálev zachyť do misky. Propláchni ji studenou vodou, nech okapat a nech si 4 lžíce nálevu na doladění hustoty."
+    },
+    {
+      "text": "Cizrnu dej do mísy a vidličkou nebo tlukadlem na brambory ji rozmačkej na hrubou kaši. Asi čtvrtina zrnek ať zůstane celá, pomazánka má mít strukturu, ne být hladká jako hummus."
+    },
+    {
+      "text": "Přidej cibuli, okurky, hořčici, olej, citronovou šťávu, česnek a papriku. Důkladně promíchej a podle potřeby zřeď 1 až 2 lžícemi nálevu z cizrny, dokud se pomazánka dobře maže a nerozpadá."
+    },
+    {
+      "text": "Dosol, opepři a ochutnej. Má být lehce kyselá a pikantní, protože v lednici chuť trochu zakulatí."
+    },
+    {
+      "text": "Přikryj a dej na 30 minut do lednice, aby se chutě propojily. Před podáváním posyp pažitkou a natři na chléb nebo podávej s tyčinkami z čerstvé zeleniny."
+    }
+  ],
+  "tips": [
+    "Nálev z cizrny (aquafaba) je neutrální a pomazánku nadýchá. Nevylévej ho celý, stačí po lžících.",
+    "Chceš ji hladší? Nech ji chvíli mixovat tyčovým mixérem, ale ne déle než 10 sekund, jinak ztratí hrubost.",
+    "V lednici vydrží v uzavřené dóze 3 dny. Před podáváním ji promíchej a případně dochuť citronem."
+  ],
+  "substitutions": [
+    "Místo červené cibule dej jarní cibulku nebo šalotku.",
+    "Chceš ji sytější? Přidej 1 lžíci tahini nebo 30 g rozmačkaného avokáda.",
+    "Nakládané okurky můžeš nahradit 1 lžící kapar a špetkou kurkumy pro vajíčkovou barvu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží cizrnová pomazánka v lednici?",
+      "a": "V uzavřené nádobě 3 dny. Jakmile pomazánka začne kysele vonět nebo vypouští vodu, vyhoď ji."
+    },
+    {
+      "q": "Jak udělat cizrnovou pomazánku hladší?",
+      "a": "Cizrnu před mačkáním 5 minut povař v osolené vodě, potom jde snadno rozmačkat a s mixérem dostaneš krémovou konzistenci. U plechovkové cizrny stačí přidat víc nálevu."
+    },
+    {
+      "q": "Můžu cizrnovou pomazánku zamrazit?",
+      "a": "Nedoporučuje se. Po rozmrazení se oddělí voda a cibule i okurky změknou. Připravuj ji čerstvou na dva až tři dny."
+    }
+  ]
+}

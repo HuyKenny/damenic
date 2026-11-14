@@ -1,0 +1,89 @@
+{
+  "title": "Domácí jogurtové nanuky s jahodami",
+  "keywords": [
+    "domácí nanuky",
+    "nanuky recept",
+    "jogurtové nanuky",
+    "nanuky z jogurtu a ovoce"
+  ],
+  "image": "dish-jogurtove-nanuky-lzicka",
+  "category": "zmrzlina",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 20,
+  "cookMinutes": 0,
+  "waitMinutes": 360,
+  "waitLabel": "mražení",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Domácí nanuky recept na 6 kusů: jogurt s jahodami a medem, zmrazený ve formičkách a politý čokoládou. Nanuky jsou ovocné, lehké a bez konzervantů. Rozhoduje, aby jogurt byl hustý a ovoce rozmixované, jinak vzniknou ledové krystaly.",
+  "ingredients": [
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 300,
+      "unit": "g",
+      "note": "hustý, tučný"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 200,
+      "unit": "g",
+      "note": "čerstvé nebo mražené"
+    },
+    {
+      "ingredient": "med",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "note": "na polevu"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do polevy"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Jahody rozmixuj s medem na hladké pyré. Smíchej s jogurtem a ochutnej. Pokud je směs málo sladká, přidej ještě lžíci medu."
+    },
+    {
+      "text": "Směs nalij do 6 formiček na nanuky (každá pojme asi 90 ml), zasuň dřívka nebo špejle a zamraz na 6 hodin."
+    },
+    {
+      "text": "Čokoládu rozpusť ve vodní lázni s olejem a nech chvíli prochladnout, aby nebyla horká."
+    },
+    {
+      "text": "Formičky ponoř na 10 sekund do teplé vody a nanuk vyndej. Pokapej ho čokoládou, poleva ztuhne okamžitě. Hotové nanuky dej ještě aspoň na 10 minut do mrazáku."
+    }
+  ],
+  "tips": [
+    "Formičky můžeš nahradit kelímky od jogurtu s dřívky.",
+    "Čokoládová poleva ztuhne během pár vteřin, proto polévej nanuky po jednom.",
+    "V mrazáku vydrží měsíc, zabalené po kusech."
+  ],
+  "substitutions": [
+    "Jahody nahraď malinami, borůvkami nebo broskvemi.",
+    "Jogurt nahraď kokosovým mlékem a med javorovým sirupem pro veganskou verzi.",
+    "Čokoládovou polevu vynech, nanuky jsou ještě lehčí."
+  ],
+  "faq": [
+    {
+      "q": "Proč se mi nanuk nechce vyndat z formy?",
+      "a": "Formu ponoř do teplé vody na 10 sekund. Led se uvolní a nanuk vyklouzne bez lámání."
+    },
+    {
+      "q": "Dají se nanuky vyrobit bez formiček?",
+      "a": "Ano, v kelímcích od jogurtu nebo v papírových kelímcích s dřívkem. Kelímek po zmrznutí stačí stáhnout."
+    },
+    {
+      "q": "Je domácí nanuk zdravější než kupovaný?",
+      "a": "Má méně cukru a žádné přísady navíc. Pořád je to ale sladký dezert, takže míru drž."
+    }
+  ]
+}

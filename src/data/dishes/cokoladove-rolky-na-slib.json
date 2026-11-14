@@ -1,0 +1,25 @@
+{
+  "name": "Čokoládové rolky s lískovými ořechy",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "description": "Vrstevnaté listové těsto, uvnitř ořechová čokoláda. Z trouby s čokoládou na prstech.",
+  "about": [
+    "Rolka z listového těsta je důkaz, že dobrý dezert nemusí být složitý. Plát těsta z chladicího pultu, náplň z čokolády, másla a lískových ořechů, tři pohyby nožem a čtvrt hodiny v troubě. Čokoláda musí před rolováním ztuhnout, jinak vyteče a uvidíš ji až na plechu.",
+    "Z trouby by měla přijít vůně, která zasáhne i souseda. Kurýr s prázdnou taškou ji bohužel nedoveze, ale tobě se do kuchyně vejde."
+  ],
+  "price": 7900,
+  "image": "dish-cokoladove-rolky-na-slib",
+  "recipe": "cokoladove-rolky-z-listoveho-testa",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "order": 50
+}

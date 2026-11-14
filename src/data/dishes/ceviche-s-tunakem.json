@@ -1,0 +1,20 @@
+{
+  "name": "Ceviche z tuňáka",
+  "section": "Burrito a další",
+  "price": 24900,
+  "recipe": "ceviche-s-tunakem",
+  "vegetarian": false,
+  "order": 110,
+  "description": "Kostky tuňáka v limetkové šťávě s červenou cibulí, chilli, avokádem a koriandrem.",
+  "about": [
+    "Ceviche je latinskoamerický předkrm z čerstvé ryby, která se krátce marinuje v limetce. Tuňák musí být v kvalitě na syrové jedení.",
+    "Hotové je za 15 minut a nepočká. V simulaci počká, protože nic nepřijede."
+  ],
+  "spicy": 1,
+  "kind": "main",
+  "restaurant": "taqueria-nic-noveho",
+  "image": "dish-ceviche-s-tunakem",
+  "allergens": [
+    4
+  ]
+}

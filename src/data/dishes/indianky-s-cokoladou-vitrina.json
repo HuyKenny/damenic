@@ -1,0 +1,24 @@
+{
+  "name": "Dva indiánky s čokoládovou polevou",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Zákusky z vitríny",
+  "description": "Dvě měkké piškotové polokoule slepené šlehačkou, celé v čokoládě.",
+  "about": [
+    "Indiánek je zákusek, který skoro není ze sladkého těsta, ale ze vzduchu. Žloutky a bílky se šlehají zvlášť, mouka se vmíchá krátce a těsto se peče po lžících. Pak přijde šlehačka mezi dva kopečky a čokoládová poleva přes všechno.",
+    "Vitrína je prázdná jako vždy. Ale piškot upečeš za dvanáct minut, a to je rychlejší než jakékoliv doručení."
+  ],
+  "price": 7900,
+  "image": "dish-indianky-s-cokoladou-vitrina",
+  "recipe": "indianky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 55
+}

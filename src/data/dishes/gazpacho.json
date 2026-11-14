@@ -1,0 +1,20 @@
+{
+  "name": "Gazpacho",
+  "section": "Tapas a studené polévky",
+  "price": 10900,
+  "recipe": "gazpacho",
+  "vegetarian": true,
+  "order": 340,
+  "description": "Studená polévka z čerstvých rajčat, okurky a papriky, s kapkou olivového oleje.",
+  "about": [
+    "Gazpacho se nevaří, jen mixuje. Je to polévka pro dny, kdy se u sporáku nechceš ani rozsvítit, a na stole je za 15 minut.",
+    "Chutná podle rajčat. Zimní rajčata ji pokazí, proto je v simulaci vždy léto."
+  ],
+  "vegan": true,
+  "kind": "main",
+  "restaurant": "tapas-siesta-nanecisto",
+  "image": "dish-gazpacho",
+  "allergens": [
+    1
+  ]
+}

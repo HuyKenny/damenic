@@ -1,0 +1,16 @@
+{
+  "name": "Ayran",
+  "section": "Nápoje",
+  "price": 5900,
+  "recipe": null,
+  "vegetarian": true,
+  "order": 300,
+  "description": "Osolený jogurtový nápoj, studený a osvěžující.",
+  "about": [],
+  "kind": "drink",
+  "restaurant": "hostinec-za-hranici-nic",
+  "image": "dish-ayran-hostinec",
+  "allergens": [
+    7
+  ]
+}

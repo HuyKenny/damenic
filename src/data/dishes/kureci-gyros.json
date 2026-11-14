@@ -1,0 +1,40 @@
+{
+  "name": "Kuřecí gyros v pitě",
+  "kind": "main",
+  "section": "Kuře",
+  "price": 18900,
+  "recipe": "kureci-gyros",
+  "vegetarian": false,
+  "order": 150,
+  "description": "Marinovaná stehna s tzatziki, rajčaty a cibulí v teplé pitě.",
+  "about": [
+    "Marináda z jogurtu, oregana a česneku dělá z kuřecích stehen gyros, který se chutí blíží tomu z rožně. Rozdíl je v pánvi: musí být horká a maso se nesmí hromadit.",
+    "Pita se ohřeje, tzatziki se zchladí a Bistro Uletělo ti ho nepřiveze. Alespoň máš čas na dobré tzatziki."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "pita",
+          "name": "Jen pita",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "S hranolky",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "restaurant": "bistro-uletelo",
+  "image": "dish-kureci-gyros",
+  "allergens": [
+    1,
+    7
+  ]
+}

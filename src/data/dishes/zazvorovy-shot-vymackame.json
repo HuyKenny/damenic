@@ -1,0 +1,20 @@
+{
+  "name": "Zázvorový shot s citronem",
+  "restaurant": "dzusbar-vymackame-zitra",
+  "kind": "main",
+  "section": "Chladivé",
+  "price": 6900,
+  "recipe": "zazvorovy-shot",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 1,
+  "order": 220,
+  "description": "Malý ostrý koncentrát ze zázvoru, citronu, jablka a kurkumy. Pije se po lokách.",
+  "about": [
+    "Zázvor, citron a jablko se rozmixují, přecedí a dochutí kurkumou, pepřem a medem. Shot je velmi štiplavý, proto se pije jen asi 30 ml najednou, nejlépe po jídle.",
+    "Shot do tašky nedáme. Doma stačí mixér, plátno a sklenice."
+  ],
+  "optionGroups": [],
+  "image": "dish-zazvorovy-shot-vymackame",
+  "allergens": []
+}

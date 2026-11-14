@@ -1,0 +1,17 @@
+{
+  "name": "Chléb s olivovým olejem a solí",
+  "section": "Tapas a studené polévky",
+  "price": 5900,
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "order": 100,
+  "description": "Pečivo, olivový olej a hrubá sůl. Začátek, kterého se nedá bát.",
+  "about": [],
+  "kind": "side",
+  "restaurant": "tapas-siesta-nanecisto",
+  "image": "dish-chleb-s-olivovym-olejem-siesta",
+  "allergens": [
+    1
+  ]
+}

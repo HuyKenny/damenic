@@ -1,0 +1,144 @@
+{
+  "title": "Kuřecí na medu se sójovkou",
+  "category": "asijska",
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "kuřecí na medu",
+    "kuřecí na medu a sojové omáčce",
+    "kuřecí stehna na medu",
+    "kuřecí maso s medem"
+  ],
+  "intro": "Kuřecí na medu se sójovkou je kuřecí maso opečené na pánvi a glazované směsí medu, sójové omáčky, česneku a zázvoru. Podává se s jasmínovou rýží, hotové je do 35 minut a omáčka musí zhoustnout až úplně na konci, jinak se med připálí.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 700,
+      "unit": "g",
+      "note": "vykostěná, na větší kusy",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "med",
+      "amount": 60,
+      "unit": "g",
+      "note": "3 lžíce",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 45,
+      "unit": "ml",
+      "note": "3 lžíce",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisované",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "ryze-jasminova",
+      "amount": 250,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 400,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Dokončení"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže",
+      "text": "Rýži propláchni, dej s vodou do hrnce, přiveď k varu, ztlum na minimum a vař pod pokličkou 12 minut. Pak ji nech 10 minut stát pod pokličkou."
+    },
+    {
+      "section": "Glazura",
+      "text": "Med, sójovku, česnek, zázvor a limetkovou šťávu promíchej v misce."
+    },
+    {
+      "section": "Maso",
+      "text": "Maso osuš, opepři a opékej na rozpáleném oleji 6 až 7 minut ze všech stran, až zhnědne. Nesolíme, sójovka je dost slaná."
+    },
+    {
+      "section": "Glazura",
+      "text": "Sniž oheň na střední, vlij glazuru a vař 3 až 4 minuty a přelévej, dokud omáčka nezhoustne a maso se neleskne. Uvnitř musí mít 75 °C."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Rýži rozděl do misek, přidej maso, přelij omáčkou z pánve a posyp sezamem a jarní cibulkou."
+    }
+  ],
+  "tips": [
+    "Med přidávej až k opečenému masu. Ve vysoké teplotě od začátku zhořkne.",
+    "Pokud omáčka tuhne moc, přidej lžíci vody. Když je řídká, nech ji ještě minutu probublat.",
+    "Kousky nech pěkně velké, aby se do vaření nerozpadly a neosušily."
+  ],
+  "substitutions": [
+    "Med nahradíš stejným množstvím javorového sirupu.",
+    "Kuřecí stehna nahradíš prsy, krájej je na kostky a opékej o 2 minuty kratší dobu.",
+    "Limetku nahradíš lžící citronové šťávy nebo rýžového octa."
+  ],
+  "faq": [
+    {
+      "q": "Proč se med na pánvi pálí?",
+      "a": "Med obsahuje hodně cukru a při vysoké teplotě rychle karamelizuje a zhořkne. Přidávej ho k masu až při středním ohni."
+    },
+    {
+      "q": "Jak dlouho smažit kuřecí na medu?",
+      "a": "Maso opékej 6 až 7 minut a pak 3 až 4 minuty s glazurou. Uvnitř musí být 75 °C."
+    },
+    {
+      "q": "Dá se kuřecí na medu připravit v troubě?",
+      "a": "Ano. Maso s glazurou rozlož na plech a piš při 200 °C asi 25 minut, jednou promíchej."
+    }
+  ],
+  "image": "dish-kureci-na-medu",
+  "vegetarian": false
+}

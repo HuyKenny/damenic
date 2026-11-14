@@ -1,0 +1,19 @@
+{
+  "name": "Tlačenka s cibulí a octem",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Studená kuchyně",
+  "price": 12900,
+  "recipe": "tlacenka-v-octe",
+  "vegetarian": false,
+  "order": 300,
+  "description": "Domácí tlačenka na plátky, kolečka cibule v octě a pepř. Klasika ke sklenici nealka.",
+  "about": [
+    "Tlačenka je zabijačkový pokrm z vařené hlavy a nožiček, které po slisování a vychladnutí v lednici zatuhnou díky přírodnímu kolagenu. Podává se na plátcích s cibulí, octem, olejem a pepřem.",
+    "Největší práce je čekání: vaření 3 hodiny a tuhnutí přes noc. Naše tlačenka je rychlejší, protože neexistuje."
+  ],
+  "optionGroups": [],
+  "image": "dish-tlacenka-v-octe-vycep-zitra",
+  "allergens": [],
+  "spicy": 0
+}

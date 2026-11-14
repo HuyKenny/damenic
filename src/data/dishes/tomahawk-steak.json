@@ -1,0 +1,49 @@
+{
+  "name": "Tomahawk steak (asi 1 kg)",
+  "kind": "main",
+  "section": "Steaky",
+  "price": 69900,
+  "recipe": "tomahawk-steak",
+  "vegetarian": false,
+  "order": 10,
+  "description": "Hovězí žebrový steak s kostí, pečený pomalu a dokončený na pánvi s máslem.",
+  "about": [
+    "Tomahawk je tak velký, že se nedá upéct oko: pomalu v troubě a pak zprudka na pánvi. Při 52, 55, 60 nebo 70 °C a víc jsi u hotového steaku podle stupně.",
+    "Steakárna Rare Příště ti ho nepřiveze, ale kost, máslo a teploměr si pořídíš sám. Stejně se hodí na sváteční večeři."
+  ],
+  "optionGroups": [
+    {
+      "id": "propeceni",
+      "name": "Propečení",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "rare",
+          "name": "Rare (52 °C)",
+          "priceDelta": 0
+        },
+        {
+          "id": "medium-rare",
+          "name": "Medium rare (55 °C)",
+          "priceDelta": 0
+        },
+        {
+          "id": "medium",
+          "name": "Medium (60 °C)",
+          "priceDelta": 0
+        },
+        {
+          "id": "well-done",
+          "name": "Well done (70 °C a víc)",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "steakarna-rare-priste",
+  "image": "dish-tomahawk-steak",
+  "allergens": [
+    7
+  ]
+}

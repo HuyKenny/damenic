@@ -1,0 +1,84 @@
+{
+  "title": "Arašídové sušenky ze tří surovin",
+  "keywords": [
+    "arašídové sušenky",
+    "arašídové sušenky recept",
+    "sušenky z arašídového másla",
+    "sušenky bez mouky"
+  ],
+  "image": "dish-arasidove-susenky-zitra",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 11,
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Arašídové sušenky recept ze tří základních surovin: arašídové máslo, cukr a vejce. Vyjde asi 16 sušenek bez mouky, křehkých po okrajích a měkkých uprostřed. Těsto se smíchá za pět minut a upeče za jedenáct. Hodí se i pro bezlepkovou dietu, pokud je arašídové máslo bez lepku.",
+  "ingredients": [
+    {
+      "ingredient": "arasidove-maslo",
+      "amount": 250,
+      "unit": "g",
+      "note": "hladké, ne tekuté"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 175 °C (horkovzduch 160 °C). Plech vyloží pečicím papírem."
+    },
+    {
+      "text": "V míse smíchej arašídové máslo, cukr, vanilkový cukr, sůl a vejce, dokud nevznikne hladké a lepivé těsto."
+    },
+    {
+      "text": "Z těsta tvaruj kuličky velikosti vlašského ořechu, ulož je po 5 cm na plech a každou zploštěj vidličkou do mřížky."
+    },
+    {
+      "text": "Peč 10 až 11 minut. Sušenky jsou po vyndání ještě měkké, na plechu ztuhnou. Nech je 10 minut vychladnout a až pak přendej."
+    }
+  ],
+  "tips": [
+    "Použij hladké arašídové máslo s nízkým podílem oleje. Z tekutého se sušenky rozlijí.",
+    "Sušenky jsou po vyndání měkké, neupeč je dotvrda, jinak budou suché.",
+    "V dóze vydrží 5 dní. Těsto lze zmrazit v kuličkách."
+  ],
+  "substitutions": [
+    "Arašídové máslo můžeš nahradit mandlovým nebo lískooříškovým.",
+    "Cukr můžeš nahradit třtinovým.",
+    "Přidej 50 g čokoládových kapek nebo posyp mořskou solí."
+  ],
+  "faq": [
+    {
+      "q": "Jsou arašídové sušenky bez lepku?",
+      "a": "Ano, tento recept neobsahuje mouku. Ověř jen, že arašídové máslo na obale nemá označení lepku a není vyrobeno s pšenicí."
+    },
+    {
+      "q": "Proč se arašídové sušenky rozpadají?",
+      "a": "Arašídové máslo bylo příliš tekuté nebo sušenky ještě nezatuhly. Nech je 10 minut ztuhnout na plechu."
+    },
+    {
+      "q": "Dá se recept udělat bez vajec?",
+      "a": "Dá. Vejce nahraď 3 lžícemi vody a 1 lžičkou kypřicího prášku, sušenky budou křehčí."
+    }
+  ]
+}

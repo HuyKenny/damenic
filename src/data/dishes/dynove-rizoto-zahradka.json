@@ -1,0 +1,23 @@
+{
+  "name": "Dýňové rizoto s opraženými semínky",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "main",
+  "section": "Kari a misky",
+  "price": 18900,
+  "recipe": "dynove-rizoto",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 220,
+  "description": "Krémové rizoto z dýně hokkaido s parmazánem a dýňovými semínky.",
+  "about": [
+    "Dýně se do rizota dává dvakrát: pyré rozvaří rýži do krémové základny a pečené kostky zůstanou jako sousta. Parmazán a muškát dodají chuť, dýňová semínka křupnutí.",
+    "Hokkaido se nemusí loupat a Zahrádka naprázdno je smyšlená, takže ani kurýr neloupe nic. Recept má ale poctivé kroky."
+  ],
+  "optionGroups": [],
+  "image": "dish-dynove-rizoto-zahradka",
+  "allergens": [
+    7,
+    9
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "title": "Proteinové palačinky z ovesných vloček",
+  "keywords": [
+    "proteinové palačinky",
+    "fit palačinky",
+    "palačinky z ovesných vloček",
+    "palačinky s tvarohem a vločkami"
+  ],
+  "image": "dish-proteinove-palacinky-ani-listek",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Proteinové palačinky z ovesných vloček, tvarohu a banánu jsou fit snídaně bez mouky a bez přidaného cukru. Těsto se rozmixuje za minutu a palačinky se smaží menší, aby se daly otočit. ",
+  "ingredients": [
+    {
+      "ingredient": "ovesne-vlocky",
+      "amount": 80,
+      "unit": "g",
+      "note": "jemné"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 125,
+      "unit": "g",
+      "note": "jemný, polotučný"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "banan",
+      "amount": 1,
+      "unit": "ks",
+      "note": "zralý"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na pánev"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 100,
+      "unit": "g",
+      "note": "k podávání"
+    },
+    {
+      "ingredient": "maliny-mrazene",
+      "amount": 80,
+      "unit": "g",
+      "note": "k podávání"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na polevu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vločky, tvaroh, vejce, banán, prášek do pečiva, skořici a sůl dej do mixéru a rozmixuj na hladké těsto. Nech ho 5 minut odpočinout, aby vločky nabobtnaly a těsto zhoustlo."
+    },
+    {
+      "text": "Na nepřilnavé pánvi rozehřej trochu másla na středně nízkém plameni. Pánev musí být teplá, ne rozpálená, jinak palačinky vně spálíš a uvnitř zůstanou syrové."
+    },
+    {
+      "text": "Nalévej lžíci po lžíci do kruhů o průměru asi 8 cm. Smaž 2 až 3 minuty, dokud se na povrchu netvoří bublinky a okraje neztuhnou."
+    },
+    {
+      "text": "Otoč špachtlí a smaž ještě 1 až 2 minuty. Hotové jsou, když je střed pružný a po zmáčknutí se vrátí."
+    },
+    {
+      "text": "Podávej s bílým jogurtem, maliny nech chvíli rozmrazit a polij medem."
+    }
+  ],
+  "tips": [
+    "Nedělej příliš velké palačinky, bez mouky se špatně otáčejí. Menší kolečka vydrží.",
+    "Banán dodá sladkost. Když je tvrdý a zelený, přidej 1 lžičku medu do těsta.",
+    "Hotové palačinky se dají zamrazit a ohřát v toustovači."
+  ],
+  "substitutions": [
+    "Tvaroh můžeš nahradit řeckým jogurtem, těsto bude řidší, přidej 1 lžíci vloček.",
+    "Pro bezlepkovou verzi použij ovesné vločky s označením bez lepku.",
+    "Místo malin dej borůvky, jahody nebo plátky banánu."
+  ],
+  "faq": [
+    {
+      "q": "Proč se proteinové palačinky rozpadají?",
+      "a": "Obvykle je těsto moc řídké nebo palačinka příliš velká. Nech těsto 5 minut odstát a dělej menší kolečka na nepřilnavé pánvi s trochou tuku."
+    },
+    {
+      "q": "Kolik bílkovin mají proteinové palačinky?",
+      "a": "Přesné množství bílkovin tu neuvádíme, protože závisí na použitých surovinách a jejich značkách. Zdrojem jsou tvaroh, vejce a ovesné vločky; přesnou hodnotu najdeš na obalech surovin."
+    },
+    {
+      "q": "Můžu těsto připravit večer?",
+      "a": "Ano, v lednici vydrží do rána, vločky ještě víc nabobtnají. Před smažením ho promíchej, případně přidej lžíci mléka."
+    }
+  ]
+}

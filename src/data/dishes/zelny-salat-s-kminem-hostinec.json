@@ -1,0 +1,15 @@
+{
+  "name": "Zelný salát s kmínem",
+  "section": "Přílohy",
+  "price": 4900,
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "order": 100,
+  "description": "Jemně nakrájené zelí, kmín a kapka octa.",
+  "about": [],
+  "kind": "side",
+  "restaurant": "hostinec-za-hranici-nic",
+  "image": "dish-zelny-salat-s-kminem-hostinec",
+  "allergens": []
+}

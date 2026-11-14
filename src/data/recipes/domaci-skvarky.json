@@ -1,0 +1,85 @@
+{
+  "title": "Domácí škvarky ze sádla",
+  "keywords": [
+    "škvarky",
+    "domácí škvarky",
+    "škvarky recept",
+    "jak udělat škvarky",
+    "škvarky z hřbetního sádla"
+  ],
+  "image": "dish-domaci-skvarky",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 8,
+  "activeMinutes": 20,
+  "cookMinutes": 75,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Domácí škvarky vznikají pomalým pražením hřbetního sádla na mírném plameni, až z něj vyteče tuk a zbyde křupavý zlatý zbytek. Recept na škvarky vyžaduje hlavně trpělivost: 1 kg tuku dá asi 600 ml sádla a 300 g škvarků. Nespěchej a nepřidávej plamen, škvarky by zhořkly.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-sadlo-hrbetni",
+      "amount": 1000,
+      "unit": "g",
+      "note": "na kostky 1,5 cm"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "note": "na začátek"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na dosolení"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "volitelně"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Tuk nakrájej na kostky velké asi 1,5 cm, aby se vařily rovnoměrně. Vlož do širokého hrnce a zalij 100 ml vody, ta zabrání přichycení na začátku."
+    },
+    {
+      "text": "Zahřívej na středním plameni, dokud se voda neodpaří, asi 15 minut. Poté stáhni na nízký plamen a občas promíchej."
+    },
+    {
+      "text": "Smaž 50 až 60 minut, dokud tuk nevytopí a kostky nejsou zlaté a křupavé. Při míchání šustí a ve vytopeném tuku se už nepění."
+    },
+    {
+      "text": "Škvarky sceď přes sítko do misky, trochu je přitlač lžící, aby vytekl zbytek tuku, a ihned osol. Sádlo nech sednout a přelij do zavařovací sklenice."
+    }
+  ],
+  "tips": [
+    "Nepřidávej vyšší plamen. Škvarky se přepálí zvenku a uvnitř zůstanou měkké.",
+    "Výtěžnost: z 1 kg tuku asi 600 ml sádla a 300 g škvarků.",
+    "Škvarky skladuj v lednici 1 týden, sádlo 3 měsíce.",
+    "Tvrdé škvarky použij na škvarkovou pomazánku nebo škvarkové placky."
+  ],
+  "substitutions": [
+    "Do hrnce přidej jablko nebo cibuli, tuk bude aromatický.",
+    "Hřbetní sádlo nahraď vepřovým bokem a získáš masovější škvarky.",
+    "Sůl nahraď uzenou solí."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se dělají škvarky?",
+      "a": "Celkem asi 75 minut na mírném plameni. Pokud spěcháš, škvarky se spálí."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí škvarky?",
+      "a": "V lednici 1 týden v uzavřené nádobě, v mrazáku 3 měsíce. Sádlo vydrží v chladu až 3 měsíce."
+    },
+    {
+      "q": "Z čeho se dělají škvarky?",
+      "a": "Z vepřového hřbetního sádla nebo z kůže a tuku z bůčku, smaží se na mírném plameni do zlatova."
+    }
+  ]
+}

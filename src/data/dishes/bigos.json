@@ -1,0 +1,17 @@
+{
+  "name": "Bigos z kysaného zelí",
+  "section": "Polsko a Rakousko",
+  "price": 17900,
+  "recipe": "bigos",
+  "vegetarian": false,
+  "order": 340,
+  "description": "Dušené zelí s vepřovým, uzeninou, sušenými houbami a švestkami.",
+  "about": [
+    "Bigos je polský lovecký hrnec, který se vaří dvakrát: poprvé aby byl hotový a podruhé aby byl dobrý. Kyselé zelí se mísí s čerstvým a s masem se pomalu rozpadá.",
+    "Chutná nejlépe třetí den. V simulaci to znamená, že se kurýr zdrží přesně tak, jak bigos potřebuje."
+  ],
+  "kind": "main",
+  "restaurant": "hostinec-za-hranici-nic",
+  "image": "dish-bigos",
+  "allergens": []
+}

@@ -1,0 +1,115 @@
+{
+  "title": "Pivní sýr, hospodská pomazánka z taveného sýra",
+  "keywords": [
+    "pivní sýr",
+    "pivní sýr recept",
+    "pivní sýr pomazánka",
+    "domácí pivní sýr",
+    "pomazánka z taveného sýra"
+  ],
+  "image": "dish-pivni-syr",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 240,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Pivní sýr je hospodská pomazánka z taveného sýra, másla, cibule a piva, která se mazala na chleba k pivu. Recept na pivní sýr je rychlý: 15 minut práce a pak 4 hodiny v lednici, aby se chutě spojily. Obsahuje syrové pivo, takže je jen pro dospělé, a pro děti si udělej nealko verzi podle poznámek.",
+  "ingredients": [
+    {
+      "ingredient": "tavene-syr-blok",
+      "amount": 250,
+      "unit": "g",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "změklé"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "jemně nastrouhaná"
+    },
+    {
+      "ingredient": "pivo-svetle",
+      "amount": 80,
+      "unit": "ml",
+      "note": "světlé, odlité a bez pěny"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "namletý"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "note": "jen na dochucení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Tavený sýr nakrájej na kostky a nech 30 minut vytemperovat. Změklé máslo a sýr rozmačkej vidličkou nebo v mixéru do hladka."
+    },
+    {
+      "text": "Přidej jemně nastrouhanou cibuli, česnek, hořčici, papriku a kmín a důkladně promíchej."
+    },
+    {
+      "text": "Za stálého míchání postupně přiléváj pivo po lžících, dokud pomazánka není hladká a drží tvar. Dochuť solí."
+    },
+    {
+      "text": "Přenes do misky, přikryj a nech 4 hodiny v lednici odležet. Podávej na chlebu, s kolečky cibule a kyselou okurkou."
+    }
+  ],
+  "tips": [
+    "Pivo přilévej postupně. Příliš mnoho tekutiny a pomazánka se rozteče.",
+    "Cibuli nastrouhej na jemno, kousky by pomazánku zhrubly.",
+    "V lednici vydrží 5 dní v uzavřené nádobě.",
+    "Nejlepší k hnědému chlebu a nakládané cibulce."
+  ],
+  "substitutions": [
+    "Pivo nahraď nealkoholickým pivem nebo mlékem 80 ml, pak je pomazánka vhodná pro děti.",
+    "Tavený sýr nahraď směsí 150 g strouhaného eidamu a 100 g tvarohu.",
+    "Máslo nahraď sádlem pro hospodštější chuť."
+  ],
+  "faq": [
+    {
+      "q": "Je pivní sýr jen pro dospělé?",
+      "a": "Ano, obsahuje 80 ml syrového piva. Pro děti použij nealkoholické pivo nebo mléko."
+    },
+    {
+      "q": "Jak dlouho vydrží pivní sýr?",
+      "a": "V lednici v uzavřené nádobě 5 dní. Zamrazit ho nejde, pomazánka se rozpadne."
+    },
+    {
+      "q": "Dá se pivní sýr udělat bez piva?",
+      "a": "Ano, mléko 80 ml pomazánku udělá jemnější a chuť bude mírnější. Nealko pivo zachová pivní aroma."
+    }
+  ],
+  "alcohol": true
+}

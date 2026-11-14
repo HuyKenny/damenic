@@ -1,0 +1,107 @@
+{
+  "title": "Domácí žemle s kmínem",
+  "keywords": [
+    "žemle recept",
+    "domácí žemle",
+    "žemle z kynutého těsta",
+    "žemle na snídani"
+  ],
+  "image": "dish-domaci-zemle-zitra",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 30,
+  "cookMinutes": 18,
+  "waitMinutes": 100,
+  "waitLabel": "kynutí těsta a tvarů",
+  "difficulty": "střední",
+  "meal": "pecivo",
+  "intro": "Žemle recept pro 8 kusů: kynuté pečivo z pšeničné mouky s chrupavou kůrkou a měkkým jádrem. Těsto se vypracuje za 10 minut, nakyne dvakrát a peče se v silně rozpálené troubě s párou. Žemle je v různých regionech trochu jiné pečivo, tady jde o oválnou verzi se zářezem, kmínem a solí.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 10,
+      "unit": "g",
+      "note": "asi 2 lžičky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 170,
+      "unit": "ml",
+      "note": "vlažná"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozdrol do vlažného mléka s cukrem a nech 10 minut vzejít. Mouku smíchej se solí, přidej kvásek, vodu a olej. Těsto hnětej 10 minut, dokud není hladké a pružné a nelepí se na ruce."
+    },
+    {
+      "text": "Nech v míse přikryté utěrkou nakynout na dvojnásobek, asi 50 minut na teplém místě."
+    },
+    {
+      "text": "Těsto rozděl na 8 dílů po asi 100 g. Z každého vytvaruj kouli, vyválej oválný tvar a podélně zařízni. Ulož na plech s papírem, potři vodou a posyp kmínem. Nech 30 minut kynout."
+    },
+    {
+      "text": "Troubu předehřej na 230 °C (horkovzduch 215 °C) a na dno dej misku s vroucí vodou. Žemle peč 15 až 18 minut do zlatohnědé barvy. Hotové zní na spodku dutě."
+    },
+    {
+      "text": "Nech je 10 minut vychladnout na mřížce. Teprve pak se krájí, jinak jsou uvnitř vlhké."
+    }
+  ],
+  "tips": [
+    "Pára v troubě je klíč ke křupavé kůrce. Miska s vodou nebo 5 kostek ledu na dno stačí.",
+    "Těsto má být jemně lepkavé, ne tuhé. Moc mouky na vál znamená suché pečivo.",
+    "Nejlepší jsou čerstvé. Druhý den je osvěž 5 minut v troubě na 180 °C."
+  ],
+  "substitutions": [
+    "Mouku hladkou nahraď polohrubou, žemle budou hrubší.",
+    "Kmín nahraď sezamem nebo makem.",
+    "Mléko nahraď vodou, kůrka bude křupavější."
+  ],
+  "faq": [
+    {
+      "q": "Čím se liší žemle od rohlíku?",
+      "a": "Rohlík se vytáčí do půlměsíce, žemle je oválná nebo kulatá se zářezem. Těsto je podobné, ale žemle má méně tuku a je tvrdší."
+    },
+    {
+      "q": "Proč žemle nenakynuly?",
+      "a": "Droždí bylo staré nebo mléko moc horké, nad 40 °C. Mléko dej vlažné a droždí vždy nech vzejít."
+    },
+    {
+      "q": "Dají se žemle zmrazit?",
+      "a": "Ano. Vychladlé je dej do sáčku a zmraz na 1 měsíc. Rozmrazuj a 5 minut dopékej na 180 °C."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Menemen se zeleninou",
+  "section": "Talíře",
+  "price": 13900,
+  "recipe": "menemen",
+  "vegetarian": true,
+  "order": 110,
+  "description": "Rajčata, paprika a vejce z jedné pánve, s čerstvým chlebem na maznání.",
+  "about": [
+    "Menemen je turecká snídaně, která se jí i večer. Vejce se vaří přímo v hustém rajčatovém základu a pánev jde rovnou na stůl.",
+    "V Turecku se vede spor, jestli do něj patří cibule. Tady patří, a hotovo."
+  ],
+  "spicy": 1,
+  "kind": "main",
+  "restaurant": "kebab-zitra",
+  "image": "dish-menemen",
+  "allergens": [
+    1,
+    3
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Makovec, kynutý závin",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Máslové kynuté těsto zavinuté kolem husté makové náplně s rozinkami.",
+  "about": [
+    "Makovec je koláč, který se skládá do rolky, takže v řezu vidíš spirálu. Mák se napaří v mléce s cukrem, přidají se rozinky a skořice a hustá náplň se zavine do kynutého těsta. Při pečení se mák zarousí do těsta a každý plátek voní po ráji a po vánočním trhu zároveň.",
+    "Nedortík dorty krájí ve vzduchu, ale makovec je hmatatelný. Dej mu aspoň den odpočinku a krájej ho ještě mírně teplý."
+  ],
+  "price": 7900,
+  "image": "dish-makovec-nedortik",
+  "recipe": "makovec",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    12
+  ],
+  "order": 18
+}

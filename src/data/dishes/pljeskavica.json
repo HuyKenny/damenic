@@ -1,0 +1,19 @@
+{
+  "name": "Pljeskavica s ajvarem",
+  "section": "Balkán",
+  "price": 17900,
+  "recipe": "pljeskavica",
+  "vegetarian": false,
+  "order": 370,
+  "description": "Plochý burger z hovězího a vepřového masa v pitě s ajvarem, rajčaty a cibulí.",
+  "about": [
+    "Pljeskavica je balkánská odpověď na burger: plošší, kořeněná a v placce místo bulky. Důležité je maso dlouho hníst a nechat odležet.",
+    "Nejlépe chutná z grilu, ale zvládne i pánev. Hlavně ji neotáčej víc než jednou."
+  ],
+  "kind": "main",
+  "restaurant": "hostinec-za-hranici-nic",
+  "image": "dish-pljeskavica",
+  "allergens": [
+    1
+  ]
+}

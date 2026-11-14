@@ -1,0 +1,97 @@
+{
+  "title": "Tortilla española",
+  "keywords": [
+    "tortilla española",
+    "španělská tortilla",
+    "bramborová omeleta",
+    "španělská omeleta"
+  ],
+  "image": "dish-tortilla-espanola",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 30,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek směsi s vejci a po upečení",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Tortilla española je španělská tlustá omeleta z brambor, cibule a vajec. Brambory se nesmaží do křupava, ale pomalu změknou v oleji. Těžké je otočit ji na talíři, aby se nerozlomila a vnitřek zůstal hotový.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 500,
+      "unit": "g",
+      "note": "na plátky 3 mm"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na tenké plátky"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 150,
+      "unit": "ml",
+      "note": "na změknutí brambor"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 6,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na pánev při pečení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V pánvi o průměru 24 cm zahřej 150 ml oleje na mírný plamen. Přidej brambory a cibuli, osol a 15 až 20 minut je občas promíchej. Mají být měkké, ale bez hnědé barvy."
+    },
+    {
+      "text": "Brambory s cibulí vyndej děrovanou lžící do cedníku, nech okapat. Olej slij do misky, použiješ ho příště."
+    },
+    {
+      "text": "Vejce rozšlehej v míse se špetkou soli, vmíchej brambory a cibuli a nech 10 minut odpočinout, aby se vejce prosákla."
+    },
+    {
+      "text": "Do čisté pánve dej 1 lžíci oleje, rozehřej na střední plamen a vlij směs. Peč 5 až 6 minut, dokud okraje nezačnou pevnět a spodek nezezlátne."
+    },
+    {
+      "text": "Přikryj pánev velkým plochým talířem, otoč a opatrně tortillu vsuň zpět. Peč na mírném plameni 3 až 4 minuty. Pro uvnitř šťavnatou tortillu stačí, pro děti a těhotné ji nech péct o 4 až 5 minut déle, až je vejce zcela zatuhlé."
+    }
+  ],
+  "tips": [
+    "Brambory krájej stejně tence, ideálně na mandolíně. Jinak nezměknou naráz.",
+    "Pánev musí být nepřilnavá, jinak se tortilla při otáčení rozlomí.",
+    "Pečená tortilla je dobrá i studená, vydrží 2 dny v lednici."
+  ],
+  "substitutions": [
+    "Místo olivového oleje lze použít slunečnicový, chuť bude jemnější.",
+    "Do směsi lze přidat 100 g nakrájené šunky nebo chorizo.",
+    "Cibuli lze vynechat, vznikne tortilla bez cibule, o které se ve Španělsku vede spor."
+  ],
+  "faq": [
+    {
+      "q": "Má být tortilla uvnitř syrová?",
+      "a": "Ve Španělsku ji mnoho lidí nechává uvnitř šťavnatou (jugosa). Jestli máš pochybnost o čerstvosti vajec, nebo ji jí děti, těhotné ženy a senioři, peč ji, dokud vejce uprostřed zcela nezatuhne."
+    },
+    {
+      "q": "Jak otočit tortillu, aby se nerozlomila?",
+      "a": "Pánev přikryj plochým talířem o něco větším než pánev, otoč je rychle jedním pohybem a pak tortillu opatrně posuň zpět do pánve. Pomůže, když je spodek už pevný."
+    },
+    {
+      "q": "Jak dlouho tortilla vydrží?",
+      "a": "V lednici 2 dny pod fólií. Ohřívat ji nemusíš, ve Španělsku se jí i studená nebo pokojové teploty."
+    }
+  ]
+}

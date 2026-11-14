@@ -1,0 +1,131 @@
+{
+  "title": "Ořechové řezy s karamelem",
+  "keywords": [
+    "ořechové řezy",
+    "ořechové řezy recept",
+    "řezy s vlašskými ořechy",
+    "ořechové řezy s karamelem"
+  ],
+  "image": "dish-orechove-rezy-vitrina",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 10,
+  "activeMinutes": 30,
+  "cookMinutes": 35,
+  "waitMinutes": 120,
+  "waitLabel": "vychladnutí a ztuhnutí karamelu",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Ořechové řezy recept na plech 20 × 30 cm: křehký máslový základ a na něm vrstva vlašských ořechů v hustém karamelu. Vyjde asi 20 řezů, vydrží týden a po dni odležení se krájejí nejlíp. Nejdůležitější je karamel nepřevařit, jinak po vychladnutí zatvrdne jako lízátko.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Křehký základ"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "studené, na kostky",
+      "group": "Křehký základ"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Křehký základ"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "žloutek i bílek",
+      "group": "Křehký základ"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Křehký základ"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 120,
+      "unit": "g",
+      "group": "Ořechový karamel"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "group": "Ořechový karamel"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Ořechový karamel"
+    },
+    {
+      "ingredient": "med",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Ořechový karamel"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 220,
+      "unit": "g",
+      "note": "nahrubo nasekané",
+      "group": "Ořechový karamel"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Základ",
+      "text": "Mouku, moučkový cukr a sůl smíchej v míse, přidej studené máslo na kostky a prsty rozpracuj na drobenku. Přidej vejce a rychle zpracuj v hladké těsto. Zabal do fólie a dej na 30 minut do lednice."
+    },
+    {
+      "section": "Základ",
+      "text": "Troubu předehřej na 180 °C (horkovzduch 165 °C). Plech 20 × 30 cm vylož pečicím papírem, těsto do něj rovnoměrně vtlač prsty a několikrát propíchej vidličkou. Peč 15 minut, až je světle zlatavé."
+    },
+    {
+      "section": "Karamel",
+      "text": "Do hrnce dej cukr a 3 lžíce vody. Na středním plameni nech cukr rozpustit bez míchání a protřepávej hrncem, dokud nezíská barvu jantaru, asi 6 minut. Opatrně vmíchej máslo, potom smetanu a med. Zpění se, proto stáhni z plamene a míchej, až je karamel hladký."
+    },
+    {
+      "section": "Karamel",
+      "text": "Do karamelu vmíchej ořechy a hned ho rozlož na teplý základ. Peč ještě 15 až 18 minut na 180 °C, dokud karamel po okrajích nebublá."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Plech nech zcela vychladnout, pak ho na 2 hodiny dej do lednice. Teprve potom vyndej celý korpus z plechu a nakrájej ostrým nožem na 20 řezů. Nůž zahřej horkou vodou, karamel se pak nedrolí."
+    }
+  ],
+  "tips": [
+    "Karamel vař jen do jantarové barvy. Když ztmavne a začne vonět po spáleném, je hořký a nezachrání ho ani smetana.",
+    "Po upečení řezy nekrájej teplé. Karamel musí úplně ztuhnout, jinak se vylévá z řezů.",
+    "Uchovávej je v dóze mezi vrstvami pečicího papíru. V chladu vydrží týden, v lednici 10 dní."
+  ],
+  "substitutions": [
+    "Vlašské ořechy nahraď půl na půl lískovými nebo pekanovými.",
+    "Smetanu na vaření můžeš nahradit stejným množstvím kokosového mléka, karamel bude mít kokosový nádech.",
+    "Med nahraď javorovým sirupem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží ořechové řezy?",
+      "a": "V dóze v chladu přibližně týden, v lednici až 10 dní. Karamel mírně změkne, takže je lepší je vyndat 15 minut před podáváním."
+    },
+    {
+      "q": "Proč se karamel v řezech drolí?",
+      "a": "Buď se vařil moc dlouho do tmavé barvy, nebo byl použit málo smetany. Přesně odměř smetanu a karamel vař jen do jantarové barvy."
+    },
+    {
+      "q": "Dají se ořechové řezy zmrazit?",
+      "a": "Ano. Nakrájené je zabal po kusech do fólie a zmraz až na 2 měsíce. Rozmrazuj v lednici přes noc."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "title": "Pierogi ruskie (plněné bramborem a tvarohem)",
+  "keywords": [
+    "pierogi recept",
+    "polské pierogi",
+    "pierogi s bramborami",
+    "pirohy s tvarohem a bramborami"
+  ],
+  "image": "dish-pierogi",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 60,
+  "cookMinutes": 15,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta pod mísou",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Pierogi ruskie jsou polské vařené taštičky plněné bramborou, tvarohem a smaženou cibulkou, z této dávky vyjde asi 30 kusů. Těsto je pružné a dá se vyválet tence, taštičky se nejdřív vaří a potom pro chuť opečou na másle.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 120,
+      "unit": "ml",
+      "note": "vlažná, kolem 40 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 400,
+      "unit": "g",
+      "note": "vařené v osolené vodě",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 200,
+      "unit": "g",
+      "note": "hrudkovitý",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "najemno",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "na cibuli",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "na opečení",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 100,
+      "unit": "g",
+      "group": "K podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do mísy dej mouku, sůl, vejce, olej a vlažnou vodu a zpracuj hladké těsto, 5 až 7 minut. Přikryj mísou a nech 30 minut odpočinout, aby se lépe vyvalovalo."
+    },
+    {
+      "text": "Brambory uvař do měkka, 20 minut, slij a ještě horké prolisuj. Cibuli osmahni na 30 g másla 8 minut do zlatova."
+    },
+    {
+      "text": "Smíchej brambory s tvarohem, polovinou cibule, solí a pepřem. Náplň má být pevná a chutná, ochutnej ji."
+    },
+    {
+      "text": "Těsto vyválej na 2 mm, vykrajuj kolečka o průměru 8 cm. Na každé dej lžičku náplně, přeložením vytvoř půlměsíc a okraje pevně přitiskni."
+    },
+    {
+      "text": "Pierogi vař po dávkách ve vroucí osolené vodě. Jakmile vyplavou, vař ještě 3 až 4 minuty. Vyndej děrovanou lžící."
+    },
+    {
+      "text": "Pierogi opeč na 40 g másla z obou stran do zlatova, 2 až 3 minuty. Podávej se zbylou smaženou cibulí a zakysanou smetanou."
+    }
+  ],
+  "tips": [
+    "Okraje pevně přitiskni, jinak se při vaření otevřou. Pro jistotu je přitiskni vidličkou.",
+    "Nepřeplňuj. Víc než 1 lžička náplně znamená riziko prasknutí.",
+    "Nevařená pierogi lze zmrazit na plechu a pak sbalit, vař je rovnou ze zmrazeného stavu o 2 minuty déle."
+  ],
+  "substitutions": [
+    "Tvaroh nahradí stejné množství ricotty nebo tvarohu z mléka s vyšším tukem.",
+    "Pro verzi s masem vyměň náplň za 300 g uvařeného mletého masa s cibulí.",
+    "Zakysanou smetanu nahradí řecký jogurt."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi pierogi při vaření praskají?",
+      "a": "Okraje nebyly dobře slepené, nebo je náplň příliš vlhká. Brambory dobře osuš, okraje slep pevně a vař v mírně vroucí, ne prudce bublající vodě."
+    },
+    {
+      "q": "Jak dlouho se vaří pierogi?",
+      "a": "Po vyplavení na hladinu ještě 3 až 4 minuty. Mražená pierogi o 2 minuty déle."
+    },
+    {
+      "q": "Mohu pierogi připravit dopředu?",
+      "a": "Ano. Nevařená zmraz na plechu, po ztuhnutí je sbal do sáčku a drž v mrazáku až 2 měsíce."
+    }
+  ]
+}

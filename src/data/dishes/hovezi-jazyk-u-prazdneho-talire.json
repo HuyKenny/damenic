@@ -1,0 +1,42 @@
+{
+  "name": "Hovězí jazyk s hořčičnou omáčkou",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "price": 22900,
+  "recipe": "hovezi-jazyk",
+  "vegetarian": false,
+  "order": 340,
+  "description": "Jazyk vařený tři hodiny do měkka, plátky a hořčičná omáčka. Odvaha stojí navíc nic.",
+  "about": [
+    "Hovězí jazyk se vaří 2,5 až 3 hodiny, dokud špejle neprojde kořenem bez odporu. Aby se dal oloupat, vkládá se na 20 sekund do studené vody a kůže se stahuje ještě teplá. Plátky se podávají s hořčičnou smetanovou omáčkou.",
+    "Je to jídlo pro ty, kdo ho zkusili a nelitují. Maso je libové a jemné jako šunka, jen se nedá rychle koupit. Rychle ti nepřivezeme nic, tenhle jazyk ale umí aspoň počkat."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "houskovy-knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "image": "dish-hovezi-jazyk-u-prazdneho-talire",
+  "allergens": [
+    1,
+    7,
+    10
+  ],
+  "spicy": 0
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Treska pečená s rajčaty a olivami",
+  "kind": "main",
+  "section": "Ryby a mořské plody",
+  "price": 28900,
+  "recipe": "treska-pecena-s-rajcaty",
+  "vegetarian": false,
+  "order": 40,
+  "description": "Treska pečená na rajčatech, olivách a česneku, s opečeným chlebem.",
+  "about": [
+    "Treska je libová ryba, která snadno vyschne, proto se peče jen krátce, do 63 °C. Rajčata s olivami pustí šťávu a vyrobí omáčku sama.",
+    "Steakárna Rare Příště je smyšlená, ale rajčata a oliv bude doma dost. A omáčku vyzobeš chlebem."
+  ],
+  "restaurant": "steakarna-rare-priste",
+  "image": "dish-treska-pecena-s-rajcaty",
+  "allergens": [
+    1,
+    4
+  ]
+}

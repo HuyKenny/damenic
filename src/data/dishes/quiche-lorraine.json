@@ -1,0 +1,21 @@
+{
+  "name": "Quiche Lorraine",
+  "section": "Z teplé vitríny",
+  "price": 15900,
+  "recipe": "quiche-lorraine",
+  "vegetarian": false,
+  "order": 110,
+  "description": "Křehký koláč se slaninou, vejci a smetanou, zapečený dozlatova.",
+  "about": [
+    "Quiche Lorraine je francouzský slaný koláč, který se bez slaniny nemá jmenovat Lorraine. Základem je křehké máslové těsto a tekutá náplň, která v troubě zatuhne.",
+    "Doma vyhraje ten, kdo dno předpeče. V simulaci je dno vždycky suché, protože se nic nepeče."
+  ],
+  "kind": "main",
+  "restaurant": "lahudky-pozitri",
+  "image": "dish-quiche-lorraine",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

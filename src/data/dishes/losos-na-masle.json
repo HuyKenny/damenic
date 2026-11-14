@@ -1,0 +1,20 @@
+{
+  "name": "Losos na másle s kapary",
+  "kind": "main",
+  "section": "Ryby a mořské plody",
+  "price": 34900,
+  "recipe": "losos-na-masle",
+  "vegetarian": false,
+  "order": 30,
+  "description": "Losos s křupavou kůží polévaný máslem s česnekem, kapary a citronem.",
+  "about": [
+    "Křupavá kůže na lososu se dělá suchou pánví, horkým olejem a trpělivostí: nehýbej s rybou, dokud se sama neuvolní. Máslo se přidává až nakonec.",
+    "Rare Příště ti lososa nepřiveze, ale pět minut u pánve ti dá víc než čekání na kurýra, který nevyjel."
+  ],
+  "restaurant": "steakarna-rare-priste",
+  "image": "dish-losos-na-masle",
+  "allergens": [
+    4,
+    7
+  ]
+}

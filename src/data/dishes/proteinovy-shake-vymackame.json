@@ -1,0 +1,48 @@
+{
+  "name": "Proteinový shake s banánem",
+  "restaurant": "dzusbar-vymackame-zitra",
+  "kind": "main",
+  "section": "Smoothie",
+  "price": 11900,
+  "recipe": "proteinovy-shake",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 200,
+  "description": "Hustý koktejl z banánu, ovesných vloček, arašídového másla a vanilkového proteinu.",
+  "about": [
+    "Shake z banánu, vloček, mléka, arašídového másla a proteinového prášku obsahuje kolem 35 g bílkovin a dlouho zasytí. Vločky se nechají pět minut nabobtnat, aby byl nápoj hladký.",
+    "Výčepní Vymačkáme zítra by ho vymixoval hned, ale dnes ne. Doma mixér zabere minutu."
+  ],
+  "optionGroups": [
+    {
+      "id": "mleko",
+      "name": "Mléko",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kravske",
+          "name": "Kravské",
+          "priceDelta": 0
+        },
+        {
+          "id": "ovesne",
+          "name": "Ovesné",
+          "priceDelta": 1500
+        },
+        {
+          "id": "mandlove",
+          "name": "Mandlové",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "image": "dish-proteinovy-shake-vymackame",
+  "allergens": [
+    1,
+    5,
+    7
+  ]
+}

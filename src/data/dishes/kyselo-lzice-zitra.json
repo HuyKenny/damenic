@@ -1,0 +1,23 @@
+{
+  "name": "Kyselo s vejcem",
+  "restaurant": "lzice-zitra",
+  "kind": "main",
+  "section": "Hustší",
+  "price": 10900,
+  "recipe": "kyselo",
+  "vegetarian": true,
+  "order": 300,
+  "description": "Horská polévka s bramborami, houbami a kmínem, trochu nakyslá. Vejce plave navrch.",
+  "about": [
+    "Kyselo je kyselá polévka z horských oblastí, uvařená z brambor, sušených hub a kmínu a zahuštěná žitnou moukou. Kyselost dodá ocet nebo kvásek a zakysaná smetana ji zjemní. Na talíři ji doplňuje vejce natvrdo a chléb.",
+    "Po přidání smetany se už nevaří, jinak se sráží. To je celá lekce. Naše kyselo je v tomhle ohledu dokonalé: nic se v něm nesrazí, protože v něm nic není."
+  ],
+  "optionGroups": [],
+  "image": "dish-kyselo-lzice-zitra",
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "spicy": 0
+}

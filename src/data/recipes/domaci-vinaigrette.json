@@ -1,0 +1,98 @@
+{
+  "title": "Domácí vinaigrette s dijonskou hořčicí",
+  "keywords": [
+    "vinaigrette",
+    "domácí vinaigrette",
+    "francouzský dresink",
+    "dresink na salát"
+  ],
+  "image": "dish-domaci-vinaigrette",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 5,
+  "cookMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Vinaigrette je základní francouzský dresink z oleje, octa a hořčice, který ladí s většinou listových salátů. Osvědčený poměr je 3 díly oleje na 1 díl kyseliny. Hořčice slouží jako pojivo, díky ní se olej s octem nerozdělí.",
+  "ingredients": [
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 90,
+      "unit": "ml",
+      "note": "extra panenský"
+    },
+    {
+      "ingredient": "ocet-vinny",
+      "amount": 30,
+      "unit": "ml",
+      "note": "bílý nebo červený"
+    },
+    {
+      "ingredient": "horcice-dijonska",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 15,
+      "unit": "g",
+      "note": "najemno nasekaná, nebo šalotka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do misky nebo zavařovací sklenice dej ocet, hořčici, med, sůl, pepř a cibulku. Nech 5 minut odležet, aby cibule zjemněla."
+    },
+    {
+      "text": "Pomalu po malých dávkách přilévej olej za neustálého šlehání metličkou. Dresink zhoustne a spojí se."
+    },
+    {
+      "text": "Jestli používáš sklenici, přilij všechen olej najednou, zavři víčkem a 20 sekund energicky třepej."
+    },
+    {
+      "text": "Ochutnej na lístku salátu, ne na lžíci. Má být svěží a mírně kyselý. Případně dolad medem nebo octem."
+    }
+  ],
+  "tips": [
+    "Poměr 3:1 je základ. Pro jemnější chuť jdi na 4:1, pro výraznější na 2:1.",
+    "Dresink z lednice při chladu ztuhne, nech ho před použitím 15 minut při pokojové teplotě.",
+    "V uzavřené sklenici vydrží v lednici 10 dní, bez čerstvé cibule i déle."
+  ],
+  "substitutions": [
+    "Místo vinného octa použij jablečný, balzamikový nebo citronovou šťávu.",
+    "Pro veganskou verzi nahraď med javorovým sirupem.",
+    "Přidej bylinky: tymián, pažitku nebo pár lístků bazalky."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je poměr oleje a octa ve vinaigrette?",
+      "a": "Klasicky 3 díly oleje na 1 díl octa. Podle chuti lze jít od 2:1 do 4:1."
+    },
+    {
+      "q": "Proč se vinaigrette rozdělí?",
+      "a": "Olej a ocet se přirozeně nemísí. Hořčice funguje jako emulgátor, ale dresink stejně po chvíli oddělí. Před použitím jednoduše protřepej."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí vinaigrette?",
+      "a": "V uzavřené sklenici v lednici asi 10 dní. S čerstvou cibulkou nebo česnekem raději do týdne."
+    }
+  ],
+  "waitMinutes": 15,
+  "waitLabel": "odležení, aby se chutě spojily"
+}

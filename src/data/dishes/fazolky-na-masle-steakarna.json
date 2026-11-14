@@ -1,0 +1,15 @@
+{
+  "name": "Zelené fazolky na másle",
+  "kind": "side",
+  "section": "Přílohy",
+  "price": 7900,
+  "order": 70,
+  "description": "Fazolky krátce povařené a orestované na másle s česnekem.",
+  "about": [],
+  "vegetarian": true,
+  "restaurant": "steakarna-rare-priste",
+  "image": "dish-fazolky-na-masle-steakarna",
+  "allergens": [
+    7
+  ]
+}

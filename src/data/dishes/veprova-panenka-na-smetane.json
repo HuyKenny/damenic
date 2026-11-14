@@ -1,0 +1,47 @@
+{
+  "name": "Vepřová panenka na smetaně",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "price": 24900,
+  "recipe": "veprova-panenka-na-smetane",
+  "vegetarian": false,
+  "order": 170,
+  "description": "Kolečka panenky v jemné smetanové omáčce se žampiony. Libové a šťavnaté.",
+  "about": [
+    "Panenka je nejjemnější vepřové maso a dá se zkazit jediným způsobem: vařením. V omáčce se proto jen krátce prohřívá a kolečka zůstanou měkká.",
+    "U prázdného talíře ti ji nepřiveze ani na vidličku. Ale omáčka dělá z rýže jídlo a vyplatí se ji uvařit."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "rize",
+          "name": "Rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "Hranolky",
+          "priceDelta": 2500
+        }
+      ]
+    }
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-veprova-panenka-na-smetane",
+  "allergens": [
+    1,
+    7,
+    9,
+    10
+  ]
+}

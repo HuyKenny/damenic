@@ -1,0 +1,152 @@
+{
+  "title": "Bigos (polský zelný guláš)",
+  "keywords": [
+    "bigos recept",
+    "polský bigos",
+    "bigos se zelím a masem",
+    "zelný guláš s uzeninou"
+  ],
+  "image": "dish-bigos",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 8,
+  "activeMinutes": 40,
+  "cookMinutes": 150,
+  "waitMinutes": 720,
+  "waitLabel": "odležení v lednici přes noc (doporučeno)",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Bigos je polský dušený hrnec z kyselého a čerstvého zelí, masa a uzenin, který se vaří dlouho a chutná nejlépe třetí den. Kyselé zelí se doplní čerstvým a sladkost zajistí sušené švestky a houby. Recept vyjde na 8 porcí.",
+  "ingredients": [
+    {
+      "ingredient": "kysane-zeli",
+      "amount": 800,
+      "unit": "g",
+      "note": "okapané"
+    },
+    {
+      "ingredient": "zeli-bile",
+      "amount": 500,
+      "unit": "g",
+      "note": "nakrájené"
+    },
+    {
+      "ingredient": "veprove-plecko",
+      "amount": 400,
+      "unit": "g",
+      "note": "na kostky 3 cm"
+    },
+    {
+      "ingredient": "uzene-maso",
+      "amount": 250,
+      "unit": "g",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "spekacky",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredient": "houby-susene",
+      "amount": 20,
+      "unit": "g",
+      "note": "namočené na 30 minut"
+    },
+    {
+      "ingredient": "svestky",
+      "amount": 60,
+      "unit": "g",
+      "note": "sušené, na kousky"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 500,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Sušené houby zalij horkou vodou a nech 30 minut. Slaninu osmahni v hrnci 5 minut do zlatova, přidej cibuli a smaž ji 8 minut."
+    },
+    {
+      "text": "Přidej vepřové a uzené maso a opékej na středním plameni 8 minut. Vmíchej papriku a protlak, po minutě přidej obě zelí, houby i s trochou vody z namáčení, švestky a koření."
+    },
+    {
+      "text": "Zalij vodou, přiveď k varu, přikryj a duš na mírném plameni 2 hodiny, občas promíchej. Vepřové maso musí být měkké."
+    },
+    {
+      "text": "Přidej spekáčky a vař ještě 30 minut s odkrytou poklicí. Má vzniknout hustý pokrm bez tekutiny. Sůl přidej až nakonec, zelí i uzeniny jsou slané."
+    },
+    {
+      "text": "Bigos nech vychladnout a dej přes noc do lednice. Druhý den ho ohřej, chuť bude hlubší a zelí jemnější."
+    }
+  ],
+  "tips": [
+    "Bigos se zlepšuje s každým ohříváním, v Polsku se prý ohřívá třikrát.",
+    "Když je zelí příliš kyselé, propláchni ho studenou vodou.",
+    "Vařit lze i v tlakovém hrnci 45 minut."
+  ],
+  "substitutions": [
+    "Uzené maso nahradí údená klobása nebo žebírko.",
+    "Houby lze nahradit 150 g čerstvých žampionů.",
+    "Švestky nahradí 1 lžíce medu nebo jablko."
+  ],
+  "faq": [
+    {
+      "q": "Proč má bigos chutnat až druhý den?",
+      "a": "Chutě se během odležení prolnou a zelí změkne a zjemní. Proto se tradičně vaří v dávce na několik dní."
+    },
+    {
+      "q": "Jde bigos zamrazit?",
+      "a": "Ano, vydrží v mrazáku 3 měsíce. Rozmrazuj v lednici a ohřívej pomalu s trochou vody."
+    },
+    {
+      "q": "S čím se bigos jí?",
+      "a": "S chlebem, nejlépe žitným, nebo s vařenými bramborami."
+    }
+  ]
+}

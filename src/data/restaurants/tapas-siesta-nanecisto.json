@@ -1,0 +1,33 @@
+{
+  "name": "Tapas bar Siesta nanečisto",
+  "category": "italska",
+  "cuisine": "Španělská kuchyně: tapas, paella, studené polévky",
+  "tagline": "Siestu máme, večeře až po ní.",
+  "description": "Smyšlený tapas bar se španělskou pánví, tortillou a studenou polévkou. Paellu u nás nikdo nemíchá, recept ale najdeš a hlad se zatím objednává naprázdno.",
+  "etaMinutes": 35,
+  "deliveryFee": 3900,
+  "minOrder": 17900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "12:00",
+    "close": "23:00"
+  },
+  "pickup": true,
+  "tags": [
+    "rodinné porce"
+  ],
+  "isNew": true,
+  "logo": {
+    "text": "TS",
+    "color": "#B5412A",
+    "ink": "light"
+  },
+  "cover": "rest-tapas-siesta-nanecisto",
+  "sections": [
+    "Tapas a studené polévky",
+    "Pánve",
+    "Dezerty",
+    "Nápoje"
+  ],
+  "order": 480
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sulc s octem a cibulí",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Studená kuchyně",
+  "price": 11900,
+  "recipe": "sulc",
+  "vegetarian": false,
+  "order": 310,
+  "description": "Vepřová huspenina s mrkví, cibule a ocet. Chvěje se jen na talíři, nikdy ne hlady.",
+  "about": [
+    "Sulc je vepřová huspenina z nožiček a plecka zalitá vlastním vývarem, který po 8 hodinách v lednici zatuhne. Kolagen z nožiček stačí, želatina není třeba, jen nesmíš přehnat s vodou.",
+    "Podává se s cibulí, octem a chlebem a krájí se na plátky. Doma ho necháš v lednici přes noc. U nás ztuhne jen to nic."
+  ],
+  "optionGroups": [],
+  "image": "dish-sulc-vycep-zitra",
+  "allergens": [],
+  "spicy": 0
+}

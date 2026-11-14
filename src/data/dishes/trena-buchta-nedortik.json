@@ -1,0 +1,24 @@
+{
+  "name": "Třená buchta s jablky",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Máslová buchta bez kynutí, plátky jablek a skořice, moučkový cukr navrch.",
+  "about": [
+    "Třená buchta je babiččina odpověď na dotaz, co upéct, když není čas na kynutí. Máslo se vytře do pěny, těsto se nechá odpočinout jen v myšlenkách a ovoce se položí navrch. Výsledek je vláčný, mastný tak akorát a nikdy se nepovede dvakrát stejně.",
+    "Do nedortíku si ji nepřivezeš. Ale recept je v pořádku a jablka dojedou z nejbližšího trhu, ne od kurýra."
+  ],
+  "price": 6200,
+  "image": "dish-trena-buchta-nedortik",
+  "recipe": "trena-buchta",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 14
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Salát caprese s mozzarellou a bazalkou",
+  "keywords": [
+    "caprese salát",
+    "caprese",
+    "mozzarella s rajčaty",
+    "caprese recept"
+  ],
+  "image": "dish-caprese-ani-listek",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 15,
+  "waitLabel": "odležení při pokojové teplotě",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Caprese je italský salát ze tří surovin: rajčat, mozzarelly a bazalky, jen s olivovým olejem a solí. Nedá se za nic schovat, proto stojí na kvalitě. Dobrá rajčata mají být zralá a pokojové teploty, ne ledová z lednice.",
+  "ingredients": [
+    {
+      "ingredient": "rajcata",
+      "amount": 400,
+      "unit": "g",
+      "note": "velká, zralá, pokojové teploty"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 250,
+      "unit": "g",
+      "note": "kulatá, v nálevu, scezená"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "listy z jedné půlky květináče"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "extra panenský"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "hrubá, mořská"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "note": "čerstvě mletý"
+    },
+    {
+      "ingredient": "ocet-balsamico",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "nepovinné"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mozzarellu vyndej z nálevu, nech 10 minut okapat a osuš papírovou utěrkou. Příliš mokrá sýr zřeďuje olej na talíři."
+    },
+    {
+      "text": "Rajčata nakrájej na plátky silné asi 7 mm a mozzarellu na stejně silné kolečka. Střídavě je skládej na talíř, každý plátek lehce překrývá předchozí."
+    },
+    {
+      "text": "Mezi plátky vkládej celé listy bazalky. Salát posyp solí a opepři."
+    },
+    {
+      "text": "Pokapej olejem a případně balzamikem. Nech 10 až 15 minut při pokojové teplotě, aby rajčata pustila trochu šťávy a spojila se s olejem."
+    },
+    {
+      "text": "Podávej s křupavým chlebem na vytírání."
+    }
+  ],
+  "tips": [
+    "Sůl dej na rajčata až těsně před podáváním, jinak z nich vytáhne šťávu a salát zplihne.",
+    "Bazalku netrhej dopředu, rychle tmavne. Zakládej ji až na talíř.",
+    "Nejlepší je sezóna rajčat od července do září, v zimě raději vyber cherry rajčata."
+  ],
+  "substitutions": [
+    "Kulatou mozzarellu můžeš nahradit mini kuličkami bocconcini, nebo burratou.",
+    "Bazalku zastoupí čerstvé oregano nebo rukola.",
+    "Místo balzamika použij kapku citronové šťávy."
+  ],
+  "faq": [
+    {
+      "q": "Proč se caprese nedává do lednice?",
+      "a": "Studená rajčata ztrácejí chuť a mozzarella ztvrdne. Při pokojové teplotě jsou aroma i textura nejlepší."
+    },
+    {
+      "q": "Jak dlouho se caprese uchová?",
+      "a": "Nejlíp se podává hned. Zbytek vydrží v lednici do druhého dne, ale rajčata vodnatí a salát ztratí chuť."
+    },
+    {
+      "q": "Jaké mozzarelly použít na caprese?",
+      "a": "Čerstvou kulatou kuličku z kravského nebo buvolího mléka v nálevu, ne strouhanou na pizzu. Ta se v salátu nehodí."
+    }
+  ]
+}

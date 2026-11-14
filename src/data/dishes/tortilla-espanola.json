@@ -1,0 +1,19 @@
+{
+  "name": "Tortilla española",
+  "section": "Tapas a studené polévky",
+  "price": 14900,
+  "recipe": "tortilla-espanola",
+  "vegetarian": true,
+  "order": 330,
+  "description": "Tlustá omeleta z pomalu měkčených brambor, cibule a vajec, v řezu šťavnatá a pevná.",
+  "about": [
+    "Tortilla je důkaz, že z tří surovin může být večeře. Brambory se pomalu měknou v oleji, vejce je spojí a pánev dodá kůrku.",
+    "Nejtěžší je otočení. Doma na to budeš potřebovat plochý talíř a trochu odvahy, v simulaci stačí kliknout."
+  ],
+  "kind": "main",
+  "restaurant": "tapas-siesta-nanecisto",
+  "image": "dish-tortilla-espanola",
+  "allergens": [
+    3
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Fazolové chilli bez masa",
+  "restaurant": "ani-drobek",
+  "kind": "main",
+  "section": "Kari a dál",
+  "price": 16900,
+  "recipe": "fazolove-chilli-bez-masa",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 2,
+  "order": 210,
+  "description": "Hrnec červených a bílých fazolí s uzenou paprikou, kukuřicí a limetkou. Maso nechybí ani trochu.",
+  "about": [
+    "Fazolové chilli bez masa stojí na třech věcech: na uzené paprice, na dlouhém dušení a na kapce limetky na konci. Fazole dodají sytost a bílkoviny, kukuřice sladkost, a lehce pálivé koření všechno spojí. Je to jídlo, které je druhý den ještě lepší.",
+    "V simulaci si ho můžeš přilepšit chipsy nebo smetanou. Doma je to hrnec, vařečka a tři čtvrtě hodiny času."
+  ],
+  "optionGroups": [],
+  "image": "dish-fazolove-chilli-drobek",
+  "allergens": [
+    9
+  ]
+}

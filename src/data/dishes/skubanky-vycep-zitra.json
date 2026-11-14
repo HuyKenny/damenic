@@ -1,0 +1,22 @@
+{
+  "name": "Škubánky se škvarky a zelím",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "price": 15900,
+  "recipe": "skubanky",
+  "vegetarian": false,
+  "order": 320,
+  "description": "Škubané bramborové noky, škvarky, osmažená cibulka a zelí. Škubání je nejlepší část.",
+  "about": [
+    "Škubánky se jmenují podle toho, jak se dělají: z bramborového těsta se odškubávají kousky a vhazují do vroucí vody. Vyplavou a po čtyřech minutách jsou hotové. Slaná verze se škvarky, cibulkou a zelím je nejhutnější.",
+    "Recept používá moučné brambory a málo mouky, jinak jsou škubánky těžké. Doma se při škubání vyřádíš. U nás se nevyřádí nikdo, protože nemáme těsto."
+  ],
+  "optionGroups": [],
+  "image": "dish-skubanky-vycep-zitra",
+  "allergens": [
+    1,
+    3
+  ],
+  "spicy": 0
+}

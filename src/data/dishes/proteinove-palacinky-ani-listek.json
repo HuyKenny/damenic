@@ -1,0 +1,24 @@
+{
+  "name": "Proteinové palačinky s malinami",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Fit snídaně",
+  "price": 14900,
+  "recipe": "proteinove-palacinky",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 200,
+  "description": "Menší palačinky z vloček, tvarohu a banánu s jogurtem a malinami. Bez mouky, ne bez chuti.",
+  "about": [
+    "Těsto se rozmixuje z ovesných vloček, tvarohu, vajec a banánu. Palačinky jsou menší a plnější než klasické, a proto se snadno otáčejí. Zhruba 18 g bílkovin na porci z nich dělá fit snídani, která nechutná jako dieta.",
+    "V Ani lístku platí, že salát je hlavní jídlo, snídaně ale nikoho nevyhazuje. Doma je máš za čtvrt hodiny."
+  ],
+  "optionGroups": [],
+  "image": "dish-proteinove-palacinky-ani-listek",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

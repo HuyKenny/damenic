@@ -1,0 +1,46 @@
+{
+  "name": "Pstruh na másle s citronem",
+  "kind": "main",
+  "section": "Ryby a mořské plody",
+  "price": 29900,
+  "recipe": "pstruh-na-masle",
+  "vegetarian": false,
+  "order": 50,
+  "description": "Celý pstruh smažený do zlatova a polévaný citronovým máslem.",
+  "about": [
+    "Celý pstruh smažený na másle je jednoduché jídlo, které se vyplatí jíst hned. Hotový je, když se hřbetní ploutev vytáhne bez odporu a uvnitř je 63 °C.",
+    "Rare Příště ti pstruha nepřiveze, ale pánev a pět minut u ní ti stačí. Máslo s citronem dopadne na stůl samo."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "kase",
+          "name": "Bramborová kaše",
+          "priceDelta": 1000
+        },
+        {
+          "id": "rize",
+          "name": "Rýže",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "steakarna-rare-priste",
+  "image": "dish-pstruh-na-masle",
+  "allergens": [
+    1,
+    4,
+    7
+  ]
+}

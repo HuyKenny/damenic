@@ -1,0 +1,22 @@
+{
+  "name": "Banánová zmrzlina bez cukru",
+  "restaurant": "zmrzlinarna-led-ledem",
+  "kind": "main",
+  "section": "Kopečky",
+  "description": "Tři kopečky z mražených banánů a trochy mléka. Smetanová bez smetany.",
+  "about": [
+    "Banánová zmrzlina je trik, který zvládne i největší lenoch. Mražené banány se v mixéru promění v hustý krém, který chutná jako zmrzlina a nepotřebuje cukr. Jediná podmínka: banány musí být zralé a zmražené aspoň čtyři hodiny předem.",
+    "Led ledem nic nedoveze, ale banány máš v misce na stole možná už teď. Nakrájej je, zmraz a trpělivost se ti vyplatí."
+  ],
+  "price": 6900,
+  "image": "dish-bananova-zmrzlina-led",
+  "recipe": "bananova-zmrzlina",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 15
+}

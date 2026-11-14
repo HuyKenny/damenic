@@ -1,0 +1,116 @@
+{
+  "title": "Domácí caesar dresink s ančovičkami",
+  "keywords": [
+    "caesar dresink",
+    "domácí caesar dresink",
+    "dresink na caesar salát",
+    "caesar dresink recept"
+  ],
+  "image": "dish-caesar-dresink",
+  "category": "salaty",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Domácí caesar dresink je krémová omáčka s česnekem, citronem, parmazánem a ančovičkami. Místo syrového žloutku se používá majonéza, takže je bezpečnější a snadno se dělá. Ančovičky v ní nechutnají rybí, jen dodají slanou hloubku.",
+  "ingredients": [
+    {
+      "ingredient": "majoneza",
+      "amount": 90,
+      "unit": "g"
+    },
+    {
+      "ingredient": "jogurt-recky",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "ancovicky",
+      "amount": 15,
+      "unit": "g",
+      "note": "3 až 4 filetky, nasekané"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva a trocha kůry"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 30,
+      "unit": "g",
+      "note": "jemně nastrouhaný"
+    },
+    {
+      "ingredient": "horcice-dijonska",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "worcester",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "čerstvě mletý"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ančovičky nasekej na kaši, nebo je v hmoždíři rozetři spolu s česnekem na hladkou pastu."
+    },
+    {
+      "text": "V misce rozmíchej majonézu s jogurtem a dijonskou hořčicí. Přidej pastu z ančoviček a česneku."
+    },
+    {
+      "text": "Vmíchej citronovou šťávu, worcester, olivový olej a parmazán. Dochuť pepřem."
+    },
+    {
+      "text": "Dresink ochutnej. Má být výrazně slaný a kyselý, protože se rozptýlí po salátu. Případně přilij 1 až 2 lžíce vody, pokud je moc hustý."
+    },
+    {
+      "text": "Přikryj a nech aspoň 30 minut v lednici, aby se chutě propojily. Před podáváním promíchej."
+    }
+  ],
+  "tips": [
+    "Dresink vydrží v uzavřené sklenici v lednici 4 dny.",
+    "Ančovičky v oleji osuš a drž se menšího množství, pokud nejsi zvyklý, chuť je koncentrovaná.",
+    "Salát s dresinkem promíchej až těsně před jídlem, romaine rychle zvadne."
+  ],
+  "substitutions": [
+    "Pro verzi bez ryb nahraď ančovičky 1 lžičkou kapar a lžičkou sojové omáčky. Worcester ale obsahuje ančovičky, vynech ho nebo dej sójovou omáčku.",
+    "Řecký jogurt můžeš zaměnit za zakysanou smetanu.",
+    "Parmazán zastoupí pecorino nebo grana padano."
+  ],
+  "faq": [
+    {
+      "q": "Dá se caesar dresink udělat bez ančoviček?",
+      "a": "Dá, ale chuť je plošší. Nahraď je kaparami a trochou sójové omáčky. Worcester vynech, obsahuje ančovičky."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí caesar dresink?",
+      "a": "V uzavřené sklenici v lednici 4 dny. Mimo lednici ho nenechávej déle než 2 hodiny."
+    },
+    {
+      "q": "Na co se caesar dresink hodí kromě salátu?",
+      "a": "Jako dip k zelenině a kuřecím špízům nebo do wrapu s kuřecím masem. Je to vlastně lehčí majonézový dip s výraznou chutí."
+    }
+  ]
+}

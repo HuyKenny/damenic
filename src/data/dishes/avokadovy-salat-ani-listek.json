@@ -1,0 +1,20 @@
+{
+  "name": "Avokádový salát s limetkou",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "price": 15900,
+  "recipe": "avokadovy-salat",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "order": 220,
+  "description": "Kostky avokáda, cherry rajčata, červená cibule a koriandr. Dresink: limetka a olivový olej.",
+  "about": [
+    "Avokádový salát vzniká za deset minut a nic se při něm nevaří. Kostky zralého avokáda se promíchají s rajčaty, okurkou, kukuřicí a červenou cibulí, která je předem krátce naložená v limetce. Dochucuje se až na konci, aby avokádo nezhnědlo.",
+    "Ani lístek ti salát neodveze, to je celá pointa. Chuť si můžeš dopřát doma, jen nezapomeň limetku."
+  ],
+  "optionGroups": [],
+  "image": "dish-avokadovy-salat-ani-listek",
+  "allergens": []
+}

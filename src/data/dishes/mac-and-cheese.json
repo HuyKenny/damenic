@@ -1,0 +1,21 @@
+{
+  "name": "Mac and cheese",
+  "section": "Z pekáče",
+  "price": 16900,
+  "recipe": "mac-and-cheese",
+  "vegetarian": true,
+  "order": 110,
+  "description": "Makarony v hladké omáčce z cheddaru a eidamu s křupavou strouhankou navrchu.",
+  "about": [
+    "Mac and cheese je sýrová omáčka s těstovinami. Základem je bešamel, do kterého se sýr přidává mimo plamen, jinak se z omáčky stane zrnitá hmota.",
+    "Nejlepší je okraj pekáče. Doma se o něj dělíš, v simulaci ho dostaneš celý."
+  ],
+  "kind": "main",
+  "restaurant": "udirna-odnikud",
+  "image": "dish-mac-and-cheese",
+  "allergens": [
+    1,
+    7,
+    10
+  ]
+}

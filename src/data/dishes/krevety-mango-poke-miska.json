@@ -1,0 +1,24 @@
+{
+  "name": "Poke bowl s krevetami a mangem",
+  "restaurant": "poke-prazdna-miska",
+  "kind": "main",
+  "section": "Poke bowly",
+  "price": 25900,
+  "recipe": "poke-bowl-krevety",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 1,
+  "order": 200,
+  "description": "Krátce opečené krevety v limetce a sójové omáčce, mango, avokádo a edamame na rýži.",
+  "about": [
+    "Krevety se marinují 15 minut a opékají jen 3 až 4 minuty. Mango dodá sladkost, avokádo krémovost a sezam křupání. Sriracha dává jemné pálivé tečky.",
+    "Poke prázdná miska je smyšlená, a proto ti krevety nepřijedou. Jako recept ale platí."
+  ],
+  "optionGroups": [],
+  "image": "dish-krevety-mango-poke-miska",
+  "allergens": [
+    2,
+    6,
+    11
+  ]
+}

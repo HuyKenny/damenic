@@ -1,0 +1,132 @@
+{
+  "title": "Vepřový plátek se sýrem a šunkou",
+  "category": "ceska",
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 20,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "vepřový plátek se sýrem",
+    "vepřové maso se sýrem a šunkou",
+    "zapečený vepřový plátek",
+    "vepřová kýta se sýrem"
+  ],
+  "intro": "Vepřový plátek se sýrem a šunkou je tenký plátek kýty opečený na pánvi a zapečený se šunkou, rajčetem a eidamem. Je to rychlá večeře bez trojobalu: maso se opeče za pár minut a v troubě jen sýr rozpustí. Hotovo do 40 minut.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-kyta",
+      "amount": 600,
+      "unit": "g",
+      "note": "4 plátky po 150 g, silné 1 cm",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 34,
+      "unit": "g",
+      "note": "2 lžíce",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 100,
+      "unit": "g",
+      "note": "4 plátky",
+      "group": "Navrch"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kolečka",
+      "group": "Navrch"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 120,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Navrch"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Navrch"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "vařené s máslem a petrželkou",
+      "group": "Příloha"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 220 °C (horkovzduch 200 °C). Plátky lehce naklepej na rovnoměrnou tloušťku asi 1 cm, osol a opepři."
+    },
+    {
+      "section": "Opečení",
+      "text": "Na rozpáleném oleji opékej plátky 2 minuty z jedné strany a 1 minutu z druhé do zlatova. Maso zatím není hotové."
+    },
+    {
+      "section": "Zapečení",
+      "text": "Plátky polož na plech, potři je hořčicí a přikryj šunkou, kolečky rajčete a eidamem. Posyp oreganem."
+    },
+    {
+      "section": "Zapečení",
+      "text": "Zapékej 8 až 10 minut, dokud sýr nezezlátne a maso uvnitř nemá 70 °C."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Podávej s vařenými brambory a čerstvou zeleninou."
+    }
+  ],
+  "tips": [
+    "Při zapékání nenech maso moc dlouho, tenký plátek snadno vyschne.",
+    "Rajčata odsolíš a necháš odkapat, nebo se pod nimi nahromadí voda.",
+    "Hořčice pod šunkou maso zvýrazní, ale nanes ji tence."
+  ],
+  "substitutions": [
+    "Kýtu nahradíš krkovicí bez kosti, upeč ji o 3 minuty déle.",
+    "Eidam nahradíš goudou nebo mozzarellou.",
+    "Šunku můžeš vynechat, maso bude jen se sýrem a rajčetem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho zapékat vepřové se sýrem?",
+      "a": "Při 220 °C 8 až 10 minut, dokud sýr nezezlátne. Uvnitř musí mít maso 70 °C."
+    },
+    {
+      "q": "Musí se maso před zapékáním opéct?",
+      "a": "Je to lepší. Maso se krátce opeče a v troubě už jen sýr roztaje."
+    },
+    {
+      "q": "Čím podávat vepřový plátek se sýrem?",
+      "a": "Dobře jdou vařené brambory, bramborová kaše nebo rýže a čerstvá zelenina."
+    }
+  ],
+  "image": "dish-veprovy-platek-se-syrem",
+  "vegetarian": false
+}

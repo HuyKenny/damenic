@@ -1,0 +1,23 @@
+{
+  "name": "Rizoto z červené řepy s kozím sýrem",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "main",
+  "section": "Kari a misky",
+  "price": 18900,
+  "recipe": "rizoto-z-cervene-repy",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 210,
+  "description": "Růžovofialové krémové rizoto s citronem a drobenkou z kozího sýra.",
+  "about": [
+    "Červená řepa se vaří přímo v rizotu, takže barva zasáhne každé zrnko rýže. Sladkost řepy vyvažuje citron a kozí sýr dodá slanou, lehce kyselou tečku. Rýže arborio se vaří 18 až 20 minut za stálého míchání a přilévání vývaru.",
+    "Takhle barevné jídlo by v kurýrově tašce udělalo pozdvižení. V simulaci tam ale nic není, doma stačí hrnec a trpělivost."
+  ],
+  "optionGroups": [],
+  "image": "dish-rizoto-repa-zahradka",
+  "allergens": [
+    7,
+    9
+  ]
+}

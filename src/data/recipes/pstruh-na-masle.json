@@ -1,0 +1,123 @@
+{
+  "title": "Pstruh na másle s citronem",
+  "category": "steak",
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 15,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "pstruh na másle",
+    "pstruh na pánvi",
+    "pstruh recept",
+    "smažený pstruh"
+  ],
+  "intro": "Pstruh na másle s citronem je celá kuchaná ryba obalená v mouce, usmažená do zlatova a podlitá nahnědlým máslem. Pstruh je hotový při 63 °C uvnitř a když se hřbetní ploutev vytáhne bez odporu. Smaží se 5 až 6 minut z každé strany.",
+  "ingredients": [
+    {
+      "ingredient": "pstruh-cely",
+      "amount": 2,
+      "unit": "ks",
+      "note": "kuchaný, každý asi 300 g",
+      "group": "Ryba"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "spetka",
+      "group": "Ryba"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Ryba"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Ryba"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "group": "Máslo"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Máslo"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Máslo"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 500,
+      "unit": "g",
+      "note": "vařené",
+      "group": "Příloha"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Pstruhy opláchni, osuš a uvnitř i zvenku osol a opepři. Do dutiny dej plátek citronu a snítku petrželky. Lehce je obal v mouce a přebytek oklepej."
+    },
+    {
+      "section": "Smažení",
+      "text": "Na široké pánvi rozehřej olej se 20 g másla. Pstruhy smaž na středním ohni 5 až 6 minut z každé strany, aby měly zlatou kůži."
+    },
+    {
+      "section": "Ověření",
+      "text": "Ryba je hotová při 63 °C uvnitř a hřbetní ploutev se dá snadno vytáhnout."
+    },
+    {
+      "section": "Máslo",
+      "text": "Zbylé máslo rozehřej na malé pánvi do oříškové barvy, přidej citronovou šťávu a petrželku."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Rybu polij máslem a podávej s vařenými brambory."
+    }
+  ],
+  "tips": [
+    "Rybu obal v mouce těsně před smažením, jinak zvlhne.",
+    "Při obracení ji podebírej širokou obracečkou, jinak se přetrhne kůže.",
+    "Ryba je hotová, když se maso odděluje od kosti."
+  ],
+  "substitutions": [
+    "Pstruha nahradíš sivenem nebo malým lososem, doba smažení bude podobná.",
+    "Brambory nahradíš máslovou rýží nebo bramborovým salátem.",
+    "Citron nahradíš kapkou bílého octa."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit pstruha?",
+      "a": "Asi 5 až 6 minut z každé strany na středním ohni. Uvnitř 63 °C."
+    },
+    {
+      "q": "Jak očistit a upravit pstruha?",
+      "a": "Kupuj ho kuchaného, uvnitř ho opláchni studenou vodou a důkladně osuš. Šupiny jsou drobné a kůže se smaží i s nimi."
+    },
+    {
+      "q": "Jak dlouho vydrží čerstvý pstruh v lednici?",
+      "a": "Čerstvá celá ryba vydrží v lednici 1 až 2 dny. Po tomto čase ji raději zamraz."
+    }
+  ],
+  "image": "dish-pstruh-na-masle",
+  "vegetarian": false
+}

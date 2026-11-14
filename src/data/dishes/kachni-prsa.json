@@ -1,0 +1,20 @@
+{
+  "name": "Kachní prsa s pomerančovou omáčkou",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "price": 32900,
+  "recipe": "kachni-prsa",
+  "vegetarian": false,
+  "order": 180,
+  "description": "Prsa s křupavou kůží a omáčkou z pomeranče, medu a brusinek.",
+  "about": [
+    "Kachní prsa se opékají kůží dolů na studené pánvi. Tuk se pomalu vypéče, kůže zkřupe a maso zůstane šťavnaté. Pak se dopečou v troubě na 75 °C.",
+    "Výčep Zítra ti prsa nepřiveze, ale pomeranč, med a brusinky najdeš v každém obchodě. Doma budeš mít kůži, která křupe naplno."
+  ],
+  "restaurant": "vycep-zitra",
+  "image": "dish-kachni-prsa",
+  "allergens": [
+    7,
+    9
+  ]
+}

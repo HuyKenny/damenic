@@ -1,0 +1,102 @@
+{
+  "title": "Chia pudink s kokosovým mlékem a malinami",
+  "keywords": [
+    "chia pudink",
+    "chia pudink recept",
+    "chia semínka pudink",
+    "chia pudink s kokosovým mlékem"
+  ],
+  "image": "dish-chia-pudink-ani-listek",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 8,
+  "cookMinutes": 0,
+  "waitMinutes": 240,
+  "waitLabel": "bobtnání v lednici (aspoň 4 hodiny, ideálně přes noc)",
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Chia pudink je studená snídaně nebo dezert z chia semínek nabobtnaných v kokosovém mléku. Semínka za pár hodin vstřebají tekutinu a vytvoří gelovou, pudinkovou konzistenci. Aby pudink nebyl hrudkovitý, musí se semínka po 10 minutách znovu promíchat.",
+  "ingredients": [
+    {
+      "ingredient": "chia",
+      "amount": 50,
+      "unit": "g",
+      "note": "zhruba 5 lžic"
+    },
+    {
+      "ingredient": "kokosove-mleko",
+      "amount": 400,
+      "unit": "ml",
+      "note": "jedna plechovka, protřepaná"
+    },
+    {
+      "ingredient": "javorovy-sirup",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maliny-mrazene",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na ozdobu"
+    },
+    {
+      "ingredient": "mandle-platky",
+      "amount": 15,
+      "unit": "g",
+      "note": "opražené, na ozdobu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Plechovku kokosového mléka důkladně protřepej a nalij do mísy nebo dózy. Přidej javorový sirup a vanilkový cukr a promíchej, dokud není mléko hladké."
+    },
+    {
+      "text": "Vsyp chia semínka a energicky promíchej metlou nebo lžící. Nech 10 minut stát a pak znovu promíchej, aby se semínka nespojila v hrudky na dně."
+    },
+    {
+      "text": "Přikryj a dej do lednice nejméně na 4 hodiny, nejlépe přes noc. Pudink je hotový, když lžíce stojí ve směsi chvíli zpříma."
+    },
+    {
+      "text": "Maliny nech 30 minut rozmrazit a polovinu rozmačkej vidličkou na rychlou omáčku. Mandlové plátky krátce opraž na suché pánvi do zlatova."
+    },
+    {
+      "text": "Pudink rozděl do dvou sklenic, navrch dej maliny, rozmačkané ovoce a posyp kokosem a mandlemi."
+    }
+  ],
+  "tips": [
+    "Poměr 1 díl semínek na 6 až 7 dílů tekutiny dává pudinkovou konzistenci. Víc semínek znamená hustší výsledek.",
+    "Chia semínka vždy nech nabobtnat v tekutině a nejez je suchá ve větším množství, nasávají vodu.",
+    "Hotový pudink vydrží v uzavřené sklenici v lednici 4 dny."
+  ],
+  "substitutions": [
+    "Kokosové mléko můžeš nahradit mandlovým, ovesným nebo polotučným mlékem. Bude řidší a méně sytý.",
+    "Místo javorového sirupu dej med nebo 2 lžíce rozmačkaného banánu.",
+    "Do směsi můžeš přidat 1 lžičku kakaa pro čokoládovou variantu."
+  ],
+  "faq": [
+    {
+      "q": "Proč je chia pudink hrudkovitý?",
+      "a": "Semínka se slepila, protože se nepromíchala po prvních minutách. Promíchej je po 10 minutách znovu a před lednicí ještě jednou zkontroluj dno."
+    },
+    {
+      "q": "Kolik chia semínek dát na pudink?",
+      "a": "Na 400 ml tekutiny asi 50 g, to je zhruba 5 lžic. Pro řidší pudink ubereš na 40 g."
+    },
+    {
+      "q": "Jde chia pudink udělat bez kokosového mléka?",
+      "a": "Ano, funguje s jakýmkoli mlékem, i kravským. Kokosové dává krémovější a sytější konzistenci."
+    }
+  ]
+}

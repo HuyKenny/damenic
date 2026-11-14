@@ -1,0 +1,46 @@
+{
+  "name": "Kuřecí prsa v bylinkové krustě",
+  "kind": "main",
+  "section": "Kuře",
+  "price": 21900,
+  "recipe": "kureci-prsa-v-bylinkove-kruste",
+  "vegetarian": false,
+  "order": 120,
+  "description": "Prsa pod křupavou krustou z másla, bylin a parmazánu. Křupe jen v receptu.",
+  "about": [
+    "Bylinková krusta má jedno pravidlo: musí držet na masu, ne v talíři. Pomáhá hořčice jako lepidlo, máslo ve strouhance a prso vyrovnané na stejnou tloušťku.",
+    "Doma to trvá hodinu, v Bistru Uletělo ještě o něco déle, protože k tobě nikdy nedorazí. Recept je ale pravdivý a teploměr ukáže 75 °C přesně tam, kde má."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "kase",
+          "name": "Bramborová kaše",
+          "priceDelta": 1000
+        },
+        {
+          "id": "rize",
+          "name": "Rýže",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "bistro-uletelo",
+  "image": "dish-kureci-prsa-v-bylinkove-kruste",
+  "allergens": [
+    1,
+    7,
+    10
+  ]
+}

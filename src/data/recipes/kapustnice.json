@@ -1,0 +1,164 @@
+{
+  "title": "Kapustnice se sušenými houbami a švestkami",
+  "keywords": [
+    "kapustnice",
+    "kapustnice recept",
+    "domácí kapustnice",
+    "kapustnice s klobásou",
+    "kapustnice se švestkami"
+  ],
+  "image": "dish-kapustnice-prazdna-naberacka",
+  "category": "polevky",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 30,
+  "cookMinutes": 75,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Kapustnice z kysaného zelí je hustá, kyselá a kouřová polévka, která je na druhý den ještě lepší. Tenhle recept na kapustnici počítá s uzeným masem, klobásou, sušenými houbami a pár sušenými švestkami, které zaoblí kyselost. Těžké je jediné: dát zelí dost času a nepřesolit, protože uzené sůl pustí samo.",
+  "ingredients": [
+    {
+      "ingredient": "uzene-maso",
+      "amount": 250,
+      "unit": "g",
+      "note": "na větší kostky"
+    },
+    {
+      "ingredient": "spekacky",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "kysane-zeli",
+      "amount": 600,
+      "unit": "g",
+      "note": "z pytlíku, nepropírat"
+    },
+    {
+      "ingredient": "houby-susene",
+      "amount": 20,
+      "unit": "g",
+      "note": "spařené 100 ml vody, namočené 20 minut"
+    },
+    {
+      "ingredient": "svestky-susene",
+      "amount": 40,
+      "unit": "g",
+      "note": "bez pecek"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 250,
+      "unit": "g",
+      "note": "na kostky 1,5 cm"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na zahuštění"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1800,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "jen na dochucení"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej 1 lžíci sádla a 5 minut opékej cibuli s uzeným masem, dokud cibule nezezlátne. Přidej zelí a míchej další 3 minuty, aby trochu zpeklo."
+    },
+    {
+      "text": "Zalij vodou a houbami i s vodou z namáčení. Přidej bobkový list, nové koření, kmín, papriku, cukr a švestky. Přiveď k varu, přikryj a vař na mírném plameni 40 minut."
+    },
+    {
+      "text": "Přidej brambory a klobásu a vař dalších 20 minut, dokud brambory nejsou měkké a zelí se nerozpadá na vlákna."
+    },
+    {
+      "text": "Na pánvi rozehřej zbylé sádlo, přisyp mouku a 2 minuty míchej, až voní oříšky. Přidej česnek, rozmíchej se 100 ml polévky a zpět do hrnce. Vař 5 minut."
+    },
+    {
+      "text": "Dochuť pepřem a až nakonec solí. Vyndej bobkový list a nech 10 minut odstát, chuť se srovná. Podávej s krajícem chleba."
+    }
+  ],
+  "tips": [
+    "Sůl přidávej až úplně na konec. Uzené maso i klobása ji pouštějí a zelí taky.",
+    "Je-li zelí příliš kyselé, krátce ho propláchni studenou vodou, ale ne dočista, ztratilo by chuť.",
+    "Na druhý den je lepší. V lednici vydrží 4 dny, zamrazit ji jde na 3 měsíce.",
+    "Švestky nejsou nutnost, ale ubírají kyselosti a dávají polévce klasický sváteční tón."
+  ],
+  "substitutions": [
+    "Uzené maso nahraď uzeným žebírkem nebo uzenou krkovicí, klobásu můžeš vynechat.",
+    "Bez masa: vynech maso i klobásu, přidej 2 lžíce olivového oleje a 1 lžičku uzené papriky.",
+    "Místo mouky zahusti jednou strouhanou syrovou bramborou."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří kapustnice?",
+      "a": "Základ se vaří 40 minut, s bramborami celkem asi hodinu. Kysané zelí potřebuje čas, jinak zůstane tvrdé a kyselé."
+    },
+    {
+      "q": "Jak odstranit přílišnou kyselost kapustnice?",
+      "a": "Přidej lžičku cukru, pár sušených švestek nebo kousek strouhané brambory. Kyselost zmírní i lžíce smetany na talíři."
+    },
+    {
+      "q": "Dá se kapustnice zamrazit?",
+      "a": "Ano, vydrží 3 měsíce. Rozmrazuj v lednici přes noc a v hrnci prohřej bez varu."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "title": "Domácí tlačenka s cibulí v octě",
+  "keywords": [
+    "tlačenka",
+    "tlačenka v octě",
+    "domácí tlačenka",
+    "tlačenka recept",
+    "tlačenka s cibulí"
+  ],
+  "image": "dish-tlacenka-v-octe-vycep-zitra",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 45,
+  "cookMinutes": 180,
+  "waitMinutes": 720,
+  "waitLabel": "tuhnutí a lisování v lednici",
+  "difficulty": "náročnější",
+  "meal": "predkrm",
+  "intro": "Tlačenka je zabijačková klasika z vařené vepřové hlavy a nožiček, kterou po vychladnutí a slisování krájíš na plátky a podáváš s cibulí a octem. Recept na tlačenku je dlouhý hlavně kvůli čekání: vaření trvá 3 hodiny a tuhnutí přes noc. Všechny želírující látky jsou v kůži a nožičkách, proto je nevynechávej.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-hlava",
+      "amount": 700,
+      "unit": "g",
+      "note": "půlená, očištěná, osmahnutá",
+      "group": "Tlačenka"
+    },
+    {
+      "ingredient": "veprove-nozicky",
+      "amount": 400,
+      "unit": "g",
+      "group": "Tlačenka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "půlená",
+      "group": "Tlačenka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Tlačenka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Tlačenka"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 5,
+      "unit": "ks",
+      "group": "Tlačenka"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 1.5,
+      "unit": "g",
+      "group": "Tlačenka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "sušená",
+      "group": "Tlačenka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Tlačenka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2500,
+      "unit": "ml",
+      "group": "Tlačenka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "na tenká kolečka",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hlavu a nožičky dobře omyj a opal od chlupů. Vlož do hrnce, zalij studenou vodou, přidej cibuli, česnek, bobkový list, nové koření, pepř a sůl. Přiveď k varu a vař na mírném plameni 2,5 až 3 hodiny, dokud se maso nesvlékne z kosti."
+    },
+    {
+      "text": "Maso vyndej, nech trochu vychladnout a odděl maso a kůži od kostí. Maso, kůži a kousky tukové vrstvy nasekej na kostičky velké 1 cm, nožičkovou kůži nakrájej na proužky."
+    },
+    {
+      "text": "Vývar zredukuj na třetinu, aby vznikla gelovitá tekutina. Smíchej ji s masem, majoránkou a dochuť solí a pepřem, hmota má být výrazně slaná, protože studená chuť slábne."
+    },
+    {
+      "text": "Směs nalij do formy vyložené potravinovou fólií nebo naplň do vypraných střívek, překryj prkénkem a zatěž 1 kg. Nech 12 hodin vychladnout v lednici."
+    },
+    {
+      "text": "Tlačenku nakrájej na plátky 1 cm a podávej s kolečky cibule zalitými octem, olejem a pepřem. Cibule ať se marinuje 15 minut."
+    }
+  ],
+  "tips": [
+    "Bez nožiček a kůže tlačenka nezatuhne. Kolagen je to, co ji drží.",
+    "Hmotu vždy dochucuj trochu slaněji, studená jídla chutnají méně slaně.",
+    "Tlačenka vydrží v lednici 5 dní zalitá v octovém nálevu až týden.",
+    "Na krájení použij ostrý nůž namočený ve vodě, plátky pak nesmrskne."
+  ],
+  "substitutions": [
+    "Ocet nahraď 2 lžícemi citronové šťávy a 2 lžícemi vody.",
+    "Hlavu nahraď vepřovým bůčkem 400 g a plecko, tlačenka bude jemnější.",
+    "Majoránku doplň mletou paprikou 1 lžičku pro červenější barvu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří tlačenka?",
+      "a": "Hlava s nožičkami se vaří 2,5 až 3 hodiny, než se maso svlékne z kosti. Pak následuje 12 hodin tuhnutí."
+    },
+    {
+      "q": "Proč tlačenka nedrží tvar?",
+      "a": "Chybí želírující vývar, nožičky nebo kůže, nebo nebyla zatížená. Vývar zredukuj a tlačenku slisuj."
+    },
+    {
+      "q": "Jak dlouho vydrží tlačenka?",
+      "a": "V lednici 5 dní, v octovém nálevu až týden. Zamrazit se nehodí, kůže po rozmrazení změkne."
+    }
+  ]
+}
