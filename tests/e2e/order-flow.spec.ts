@@ -135,6 +135,7 @@ test.describe('checkout and tracking', () => {
     await expect(finale).toBeVisible();
     await expect(finale).toContainText('DámeNic doručilo přesně to, co slíbilo. Nic.');
     await expect(page.getByTestId('finale-compare')).toBeVisible();
+    await expect(page.getByTestId('share-empty')).toBeVisible();
 
     await page.reload();
     await expect(page.getByTestId('finale')).toBeVisible();

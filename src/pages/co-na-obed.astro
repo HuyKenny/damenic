@@ -1,0 +1,9 @@
+---
+import HubPage from '@/components/HubPage.astro';
+import { ideaHubs } from '@/lib/hubs';
+
+const hub = (await ideaHubs()).find((h) => h.path === '/co-na-obed/');
+if (!hub) return Astro.redirect('/recepty/');
+---
+
+<HubPage hub={hub} />

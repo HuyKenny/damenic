@@ -547,6 +547,23 @@ function Finale({ order, recipes }: { order: OrderSnapshot; recipes: Record<stri
   const home = withRecipe.reduce((s, l) => s + recipes[l.recipe!]!.perServing * l.qty, 0);
   const diff = simulated - home;
 
+  const [shared, setShared] = useState<'' | 'shared' | 'copied'>('');
+  async function share() {
+    const url = `${location.origin}/dopaminove-objednavani/`;
+    const text = 'Objednal jsem nanečisto. Dopamin dorazil, jídlo ne.';
+    try {
+      if (navigator.share) {
+        await navigator.share({ title: 'DámeNic', text, url });
+        setShared('shared');
+      } else {
+        await navigator.clipboard.writeText(`${text} ${url}`);
+        setShared('copied');
+      }
+    } catch {
+      /* the visitor closed the share sheet or the browser refused: nothing to do */
+    }
+  }
+
   function toShoppingList() {
     // Idempotent: opening the finished order again and clicking twice never duplicates recipes.
     let state = $shopping.get();
@@ -564,6 +581,11 @@ function Finale({ order, recipes }: { order: OrderSnapshot; recipes: Record<stri
           </span>
           <h1 style="margin-top:12px">DámeNic doručilo přesně to, co slíbilo. Nic.</h1>
           <p>{order.mode === 'pickup' ? 'Taška je vyzvednutá a prázdná.' : 'Otevřel jsi dveře a taška je prázdná.'} Zaplaceno nanečisto, z účtu neodešlo nic a jídlo ti ani nevystydlo. Jestli máš hlad doopravdy, tohle všechno si můžeš uvařit.</p>
+          <p style="margin-top:12px">
+            <button type="button" class="btn btn--ghost" onClick={share} data-testid="share-empty">
+              {shared === 'copied' ? 'Odkaz zkopírován' : 'Sdílej prázdný oběd'}
+            </button>
+          </p>
         </div>
         <svg class="finale__bag" viewBox="0 0 240 220" aria-hidden="true" style="width:180px">
           <path d="M52 70h136l14 122a8 8 0 0 1-8 9H46a8 8 0 0 1-8-9z" fill="#fff" stroke="#8f1418" stroke-width="4" stroke-linejoin="round" />

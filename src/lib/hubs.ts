@@ -19,6 +19,10 @@ export interface Hub {
   recipes: Recipe[];
   /** Query string for /recepty/ that reproduces this hub with the filters ('Doladit filtry'). */
   filterQuery?: string;
+  /** Visible questions and answers (also emitted as FAQPage data). */
+  faq?: { q: string; a: string }[];
+  /** One call to action under the intro. */
+  cta?: { href: string; label: string };
 }
 
 const INTRO: Record<string, string[]> = {
@@ -303,4 +307,99 @@ export async function seasonalHub(now: Date): Promise<{ hub: Hub; rail: string; 
   if (!first) return null;
   const hub = hubs.find((h) => h.slug === `prilezitosti/${first}`)!;
   return { hub, rail: OCCASIONS[first].rail, note: OCCASIONS[first].railNote };
+}
+
+
+// ---------- "What to cook" landing pages: they answer what people type (co k večeři, co na oběd, nápady na večeři, co dnes vařit) ----------
+
+/** ISO week number, so the weekly pick changes every Monday after the scheduled rebuild. */
+function isoWeek(d: Date): number {
+  const t = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()));
+  const day = t.getUTCDay() || 7;
+  t.setUTCDate(t.getUTCDate() + 4 - day);
+  const y0 = new Date(Date.UTC(t.getUTCFullYear(), 0, 1));
+  return Math.ceil(((t.getTime() - y0.getTime()) / 86400000 + 1) / 7);
+}
+const hash = (s: string) => [...s].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7);
+
+export async function ideaHubs(now = new Date()): Promise<Hub[]> {
+  const entries = new Map((await allRecipes()).map((r) => [r.id, r]));
+  const idx = (await recipeIndex()).recipes.filter((r) => !r.alcohol);
+  const pick = (list: typeof idx, n: number) => list.slice(0, n).map((r) => entries.get(r.id)).filter((r): r is Recipe => !!r);
+  const byQuality = (a: (typeof idx)[number], b: (typeof idx)[number]) => b.w - a.w || a.title.localeCompare(b.title, 'cs');
+  const week = isoWeek(now);
+  const cta = { href: '/restaurace/', label: 'Nejdřív si objednej nanečisto' };
+
+  const dinner = idx.filter((r) => ['hlavni', 'polevka', 'salat'].includes(r.meal) && r.min <= 60).sort(byQuality);
+  const lunch = idx.filter((r) => ['hlavni', 'polevka'].includes(r.meal) && r.min <= 90 && r.cost <= 70).sort((a, b) => a.cost - b.cost || byQuality(a, b));
+  const ideas = idx.filter((r) => ['hlavni', 'salat', 'predkrm', 'snidane'].includes(r.meal) && r.min <= 30).sort((a, b) => a.act - b.act || byQuality(a, b));
+  const poolToday = idx.filter((r) => r.meal === 'hlavni').sort(byQuality).slice(0, 60);
+  const today = [...poolToday].sort((a, b) => hash(`${week}${a.id}`) - hash(`${week}${b.id}`));
+
+  const make = (slug: string, h1: string, title: string, description: string, intro: string[], list: typeof idx, faq: { q: string; a: string }[]): Hub => ({
+    slug: `napady/${slug}`,
+    path: `/${slug}/`,
+    label: h1.split(':')[0]!,
+    h1,
+    title,
+    description,
+    intro,
+    recipes: pick(list, slug === 'co-dnes-varit' ? 12 : 24),
+    faq,
+    cta,
+  });
+  return [
+    make(
+      'co-k-veceri',
+      'Co k večeři: nápady, které zvládneš dnes',
+      'Co k večeři? Nápady na dnešní večeři s recepty',
+      'Co k večeři? 24 receptů na hlavní jídla, polévky a saláty do hodiny, s časem práce, cenou na porci a nákupním seznamem.',
+      ['Hlad už je tady, nápad ne. Tyhle recepty jsou vybrané tak, aby večeře stála na stole do hodiny: hlavní jídla, polévky a saláty s přesnými časy.', 'Nemůžeš se rozhodnout? Nejdřív si objednej nanečisto, ať se rozhodneš očima. Potom si jídlo uvař doopravdy.'],
+      dinner,
+      [
+        { q: 'Co k večeři, když nemám moc času?', a: 'Vyber recepty do 30 minut: omelety, těstoviny nebo jídla z jedné pánve. U každého receptu je zvlášť čas vlastní práce a celkový čas, takže víš, kolik se u sporáku opravdu strávíš.' },
+        { q: 'Jak vybrat levnou večeři?', a: 'Na stránce receptů seřaď výsledky podle ceny na porci. Cena je ilustrační odhad ze surovin, ne nabídka obchodu, ale k porovnání jídel stačí.' },
+        { q: 'Dá se večeře připravit dopředu?', a: 'Polévky, omáčky a zapékaná jídla se dají připravit den předem a ohřát. Hotové jídlo dej do lednice nejpozději do dvou hodin po uvaření a ohřívej ho důkladně.' },
+      ],
+    ),
+    make(
+      'co-na-obed',
+      'Co na oběd: levné a sytící nápady',
+      'Co na oběd? Levné nápady na oběd s recepty',
+      'Co na oběd? Levná a sytá jídla a polévky s receptem, cenou na porci a nákupním seznamem. Vyber si podle ceny a času.',
+      ['Oběd má být sytý, hotový včas a nemá rozbít rozpočet. Tyhle recepty jsou seřazené od nejlevnějších a mají odhad ceny na porci.', 'U polévek a omáček se vyplatí uvařit víc: druhý den je oběd hotový za pět minut.'],
+      lunch,
+      [
+        { q: 'Co na oběd, když chci něco levného?', a: 'Hledej luštěniny, brambory, těstoviny a polévky. Cena na porci je u každého receptu vidět hned na kartě.' },
+        { q: 'Co na oběd do práce?', a: 'Dobře se vozí gulášové polévky, těstovinové saláty a zapékané těstoviny. Do krabičky je dej až vychladlé a v kanceláři je důkladně ohřej.' },
+        { q: 'Kolik obědů z jednoho vaření vyjde?', a: 'U většiny receptů je počet porcí nahoře a jde přepočítat jedním tlačítkem. Pro dva dny vař na čtyři porce.' },
+      ],
+    ),
+    make(
+      'napady-na-veceri',
+      'Nápady na večeři: hotovo do půl hodiny',
+      'Nápady na večeři do 30 minut – recepty krok za krokem',
+      'Nápady na večeři, které jsou hotové do 30 minut včetně vaření. Rychlé recepty s časem práce, cenou na porci a nákupním seznamem.',
+      ['Večeře na poslední chvíli: vše, co je hotové do půl hodiny včetně vaření. Řazeno od receptů s nejmíň práce.', 'Čas počítáme od chvíle, kdy máš suroviny na lince. Nákup do něj nepatří, na ten je nákupní seznam.'],
+      ideas,
+      [
+        { q: 'Jaká večeře je opravdu rychlá?', a: 'Taková, kde se nic nemarinuje ani nekyne. Tady jsou jen recepty, jejichž práce, vaření i čekání dohromady nepřesáhnou 30 minut.' },
+        { q: 'Dá se rychlá večeře udělat bez masa?', a: 'Ano. Zúž výběr filtrem „Bez masa“ na stránce receptů, najdeš těstoviny, vejce, placky i saláty.' },
+        { q: 'Jak ušetřit čas při vaření?', a: 'Nejdřív si přečti celý recept, nachystej suroviny a pak teprve zapni sporák. Většina zdržení vzniká hledáním a krájením za pochodu.' },
+      ],
+    ),
+    make(
+      'co-dnes-varit',
+      'Co dnes vařit: tip na tento týden',
+      'Co dnes vařit? Tip na tento týden s recepty',
+      'Co dnes vařit? Dvanáct hlavních jídel vybraných na tento týden. Každé pondělí se výběr změní, recepty jsou krok za krokem.',
+      ['Nechce se ti rozhodovat? Tady je dvanáct hlavních jídel na tento týden, která vybírá náhoda z těch nejpropracovanějších receptů. Každé pondělí se výběr promíchá.', 'Líbí se ti něco? Objednej si to nejdřív nanečisto, ať zjistíš, jestli na to máš chuť.'],
+      today.slice(0, 12),
+      [
+        { q: 'Jak se vybírá tip na tento týden?', a: 'Z hlavních jídel s nejpropracovanějším receptem a pak náhodně. Výběr se mění každé pondělí.' },
+        { q: 'Co dnes vařit, když doma nic není?', a: 'Zkus na stránce receptů volbu „Mám doma“: zadáš, co v lednici máš, a recepty se seřadí podle toho, kolik surovin ti chybí.' },
+        { q: 'Je to doporučení, nebo reklama?', a: 'Je to náhodný výběr z našich receptů. Žádný z nich není placená reklama, partnerský odkaz na Rohlik.cz je u receptů vždy označený.' },
+      ],
+    ),
+  ];
 }

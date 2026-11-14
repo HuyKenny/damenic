@@ -1,0 +1,116 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import { SITE } from '@/lib/site';
+
+const faq = [
+  {
+    q: 'Je dopaminové nakupování závislost?',
+    a: 'Tohle ne: DámeNic je hra a nic se tu nekupuje. Skutečné impulzivní nakupování ale může být problém. Pokud zjistíš, že nakupuješ víc, než chceš, nebo tě to trápí, promluv si s praktickým lékařem nebo psychologem. Tenhle web nic neléčí a nic nenahrazuje.',
+  },
+  {
+    q: 'Proč mě láká objednávat, když nemám hlad?',
+    a: 'Často láká samotný proces: listovat menu, plnit košík, odeslat objednávku a čekat. Výzkum dopaminu ukazuje, že očekávání odměny je pro motivaci silné samo o sobě. Přesně tuhle část DámeNic hraje, a to bez jídla.',
+  },
+  {
+    q: 'Dorazí mi jídlo?',
+    a: 'Ne. Restaurace, kurýři i ceny jsou smyšlené a platba je nanečisto za 0 Kč. Kurýr jede po ilustrační mapě v reálném čase a na konci otevřeš dveře prázdné tašce.',
+  },
+  {
+    q: 'Co mám dělat, když dostanu opravdu hlad?',
+    a: 'U každého jídla je skutečný recept s časy, přepočtem porcí a nákupním seznamem. Nápady na dnešek najdeš na stránce Co k večeři.',
+  },
+];
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: 'Dopaminové objednávání',
+    url: `${SITE.url}/dopaminove-objednavani/`,
+    inLanguage: 'cs',
+    isPartOf: { '@type': 'WebSite', name: SITE.name, url: SITE.url },
+    about: 'Dopaminové objednávání a nakupování nanečisto: hra, ve které se objednává, čeká na kurýra a nic nedorazí.',
+  },
+  { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+];
+---
+
+<Base
+  title="Dopaminové objednávání nanečisto"
+  description="Dopaminové nakupování bez následků: vybereš, objednáš nanečisto za 0 Kč a čekáš na zvonek. Co o tom říká věda a proč nic nedorazí."
+  jsonld={jsonld}
+>
+  <Breadcrumbs items={[{ label: 'Dopaminové objednávání' }]} />
+  <article class="wrap prose" style="max-width:760px">
+    <div class="pagehead">
+      <h1>Dopaminové objednávání</h1>
+      <p>
+        Dopaminové nakupování, které nestojí nic: vybereš, objednáš, čekáš na zvonek a na konci držíš prázdnou tašku. Nejlepší část objednávání bez té části s
+        jídlem.
+      </p>
+    </div>
+
+    <h2>Co to je</h2>
+    <p>
+      Dopaminové objednávání je ta část objednávání jídla, která je zábava sama o sobě: listování menu, plnění košíku, odeslání a sledování kurýra na mapě.
+      Jídlo je až třetí v pořadí. Říkáme tomu také dopaminové nakupování, protože stejná smyčka funguje u každého košíku.
+    </p>
+    <p>DámeNic ji nabízí bez kupování. Restaurace jsou smyšlené, platba je nanečisto a hodnota objednávky je vidět, ale platíš nulu.</p>
+
+    <h2>Smyčka v pěti krocích</h2>
+    <ol>
+      <li><strong>Vybereš.</strong> {SITE.name} má desítky smyšlených podniků s filtry, akcemi a menu jako ve skutečné aplikaci.</li>
+      <li><strong>Naplníš košík.</strong> Přidáváš, měníš velikost a hlídáš minimální objednávku. Ta je simulovaná.</li>
+      <li><strong>Zaplatíš nanečisto.</strong> Pokladna se na kartu ani jméno neptá. Z účtu neodejde nic.</li>
+      <li><strong>Čekáš.</strong> Smyšlený kurýr jede po ilustrační mapě. Odpočet je skutečný, doručení ne.</li>
+      <li><strong>Zazvoní zvonek.</strong> Otevřeš dveře a taška je prázdná. Konec hry a začátek chuti na něco doopravdy.</li>
+    </ol>
+    <p>
+      Hlad po té hře nezmizí, proto k jídlům patří <a href="/recepty/">skutečné recepty</a>. Nevíš, co uvařit? Zkus
+      <a href="/co-k-veceri/">Co k večeři</a>, <a href="/co-na-obed/">Co na oběd</a> nebo <a href="/napady-na-veceri/">nápady na rychlou večeři</a>.
+    </p>
+
+    <h2>Co o tom říká věda (stručně a opatrně)</h2>
+    <p>
+      Dopamin se běžně přezdívá hormon štěstí, výzkum ale ukazuje jemnější obraz. Ve slavné studii na opicích ukázali Schultz, Dayan a Montague, že
+      dopaminové neurony reagují hlavně na rozdíl mezi očekávanou a skutečnou odměnou, ne na odměnu samotnou.
+      Berridge a Robinson pak shrnuli, že dopamin souvisí spíš s <em>chtěním</em> (motivací jít za odměnou) než s <em>libostí</em> z ní.
+    </p>
+    <p>
+      Co z toho plyne pro objednávání? Čekání na kurýra může být silnější než jídlo, které přijede. To je naše interpretace, ne měření: DámeNic nic
+      neměří, nic neléčí a nic neslibuje. Je to hra, která stojí na tomhle jednom triku.
+    </p>
+    <h3>Zdroje</h3>
+    <ul class="small">
+      <li>
+        Schultz W, Dayan P, Montague PR (1997). A neural substrate of prediction and reward. <em>Science</em> 275(5306), 1593–1599.
+        <a href="https://pubmed.ncbi.nlm.nih.gov/9054347/" rel="noopener">PubMed</a>
+      </li>
+      <li>
+        Berridge KC, Robinson TE (1998). What is the role of dopamine in reward: hedonic impact, reward learning, or incentive salience?
+        <em>Brain Research Reviews</em> 28(3), 309–369. <a href="https://pubmed.ncbi.nlm.nih.gov/9858756/" rel="noopener">PubMed</a>
+      </li>
+    </ul>
+
+    <h2>Čeho se to netýká</h2>
+    <p>
+      DámeNic není terapie, léčba ani rada. Pokud tě impulzivní nakupování nebo jídlo trápí, obrať se na lékaře nebo psychologa. Tohle je místo, kde si
+      můžeš objednat z nic za nic.
+    </p>
+
+    <h2>Časté otázky</h2>
+    {
+      faq.map((f) => (
+        <details style="margin:8px 0">
+          <summary style="font-weight:700;cursor:pointer;min-height:44px;display:flex;align-items:center">{f.q}</summary>
+          <p>{f.a}</p>
+        </details>
+      ))
+    }
+
+    <p class="hero__cta" style="margin-top:28px">
+      <a class="btn btn--lg" href="/restaurace/">Objednat nanečisto</a>
+      <a class="btn btn--ghost btn--lg" href="/jak-to-funguje/">Jak to funguje</a>
+    </p>
+  </article>
+</Base>

@@ -5,7 +5,7 @@ export const SITE = {
   claim: 'Objednej si na chuť. Uvař si doopravdy.',
   simNotice: 'Simulace rozvozu. Žádné skutečné platby ani doručení.',
   description:
-    'Rozvoz jídla, který nic nepřiveze: smyšlené restaurace, objednávka nanečisto za 0 Kč a kurýr s prázdnou taškou. A skutečné recepty, ať nezůstaneš o hladu.',
+    'Dopaminové objednávání bez následků: smyšlené restaurace, objednávka nanečisto za 0 Kč a kurýr s prázdnou taškou. A skutečné recepty, ať nezůstaneš o hladu.',
 } as const;
 
 /** Google Tag Manager container. Loaded only after the visitor agrees (src/islands/Consent.tsx). */

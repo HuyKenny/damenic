@@ -7,6 +7,7 @@ import { RestaurantTile } from '@/islands/RestaurantTile';
 import { allRecipes, brand, categoryIcons, restaurantSummaries } from '@/lib/content';
 import { CATEGORY_LABELS, SITE } from '@/lib/site';
 import { seasonalHub } from '@/lib/hubs';
+import { BRAND } from '@/lib/brand';
 
 const summaries = await restaurantSummaries();
 const cats = await categoryIcons();
@@ -45,18 +46,21 @@ const jsonld = [
     name: SITE.name,
     url: SITE.url,
     logo: `${SITE.url}/icon-512.png`,
+    alternateName: [...BRAND.alternateNames],
+    slogan: BRAND.line,
+    description: SITE.description,
     founder: { '@type': 'Person', '@id': 'https://huy.cz/#kenny', name: 'Ha Duy Huy', alternateName: 'Kenny', url: 'https://huy.cz/', jobTitle: 'SEO konzultant' },
   },
 ];
 ---
 
-<Base title="DámeNic – rozvoz jídla nanečisto. Nic nepřijede, recept ano" description={SITE.description} jsonld={jsonld}>
+<Base title="DámeNic – dopaminové objednávání nanečisto, recepty doopravdy" description={SITE.description} jsonld={jsonld}>
   <section class="hero2">
     <div class="wrap hero2__in">
       <div class="hero2__text">
-        <span class="sticker sticker--tilt">Simulátor rozvozu</span>
+        <span class="sticker sticker--tilt">Dopaminové objednávání</span>
         <h1>Všechno, na co máš chuť. Nic, co by přijelo.</h1>
-        <p>Vyber si z {summaries.length} smyšlených restaurací, objednej nanečisto za 0 Kč a sleduj kurýra. Až dostaneš opravdu hlad, máme i recept.</p>
+        <p>Vyber si z {summaries.length} smyšlených restaurací, objednej nanečisto za 0 Kč a sleduj kurýra. Dopamin dorazí, jídlo ne. Až dostaneš opravdu hlad, máme i recept.</p>
         <div class="hero__cta">
           <a class="btn btn--lg" href="#restaurace">Vybrat jídlo</a>
           <a class="btn btn--ghost btn--lg" href="/recepty/">Radši si uvařím</a>
@@ -66,6 +70,22 @@ const jsonld = [
         <Image src={kuryr} alt="" widths={[240, 360, 480]} sizes="(min-width: 900px) 360px, 0px" width={360} loading="eager" fetchpriority="high" />
       </div>
     </div>
+  </section>
+
+  <section class="wrap section section--tight" aria-labelledby="h-dopamin">
+    <div class="section__head">
+      <div>
+        <h2 id="h-dopamin">Co se stane v hlavě, když objednáváš</h2>
+        <p>Nejlepší část objednávání je ta před jídlem. Tady ji máš bez jídla.</p>
+      </div>
+      <a class="section__more" href="/dopaminove-objednavani/">Dopaminové objednávání <Icon name="arrow" size={18} /></a>
+    </div>
+    <ol class="how">
+      <li><h3>Vybereš</h3><p>Desítky smyšlených podniků. Vybírat se dá donekonečna.</p></li>
+      <li><h3>Naplníš košík</h3><p>Hodnota roste, tvoje peněženka ne.</p></li>
+      <li><h3>Zaplatíš nanečisto</h3><p>Nula korun. Pocit odeslané objednávky je zadarmo.</p></li>
+      <li><h3>Zazvoní zvonek</h3><p>Na konci otevřeš dveře prázdné tašce. Dopamin dorazil, jídlo ne.</p></li>
+    </ol>
   </section>
 
   <section class="wrap section section--tight" aria-labelledby="h-kategorie">

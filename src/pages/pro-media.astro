@@ -1,0 +1,39 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import { CONTACT_EMAIL, mailto } from '@/lib/contact';
+import { BRAND } from '@/lib/brand';
+import { allRecipes, allRestaurants, allDishes } from '@/lib/content';
+
+const [recipes, restaurants, dishes] = await Promise.all([allRecipes(), allRestaurants(), allDishes()]);
+---
+
+<Base title="Pro média: DámeNic v kostce" description="DámeNic je dopaminové objednávání bez následků: simulátor rozvozu jídla se skutečnými recepty. Fakta, logo a kontakt pro média.">
+  <Breadcrumbs items={[{ label: 'Pro média' }]} />
+  <article class="wrap prose" style="max-width:760px">
+    <div class="pagehead">
+      <h1>DámeNic pro média</h1>
+      <p>{BRAND.line}</p>
+    </div>
+    <h2>V jedné větě</h2>
+    <p>
+      DámeNic je zábavný simulátor rozvozu jídla, ve kterém si můžeš objednat nanečisto za 0 Kč, sledovat smyšleného kurýra a na konci otevřít prázdnou tašku.
+      K jídlům patří skutečné recepty.
+    </p>
+    <h2>Fakta</h2>
+    <ul>
+      <li>{restaurants.length} smyšlených restaurací a {dishes.length} jídel v nabídce, žádná skutečná restaurace ani kurýr.</li>
+      <li>{recipes.length} skutečných receptů s časem práce, vaření a čekání, přepočtem porcí, odhadem nákladů a nákupním seznamem.</li>
+      <li>Žádné platby, žádné osobní údaje, žádná hodnocení. Odpočet doručení běží v reálném čase.</li>
+      <li>Pojem „dopaminové objednávání“ a „dopaminové nakupování“ vysvětluje <a href={BRAND.manifestPath}>samostatná stránka</a>.</li>
+    </ul>
+    <h2>Logo a obrázky</h2>
+    <ul>
+      <li><a href="/favicon.svg">Logo (SVG)</a></li>
+      <li><a href="/icon-512.png">Ikona 512 × 512 (PNG)</a></li>
+      <li><a href="/og-default.png">Sdílecí obrázek (PNG)</a></li>
+    </ul>
+    <h2>Kontakt</h2>
+    <p>Rozhovor, otázka nebo spolupráce: <a href={mailto('DámeNic pro média')}>{CONTACT_EMAIL}</a>.</p>
+  </article>
+</Base>

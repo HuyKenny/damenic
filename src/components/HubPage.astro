@@ -3,7 +3,7 @@ import Base from '@/layouts/Base.astro';
 import Breadcrumbs from '@/components/Breadcrumbs.astro';
 import RecipeCard from '@/components/RecipeCard.astro';
 import type { Hub } from '@/lib/hubs';
-import { RECIPE_HUBS } from '@/lib/hubs';
+import { RECIPE_HUBS, ideaHubs } from '@/lib/hubs';
 import { SITE } from '@/lib/site';
 
 interface Props {
@@ -12,7 +12,11 @@ interface Props {
 const { hub } = Astro.props;
 // Chips link to hubs of the same kind (cuisines with cuisines, ...) so 70+ hubs do not become one wall of links.
 const kind = (h: Hub) => (h.slug.includes('/') ? h.slug.split('/')[0] : 'misc');
-const others = (await RECIPE_HUBS()).filter((h) => h.slug !== hub.slug && kind(h) === kind(hub));
+const pool = kind(hub) === 'napady' ? await ideaHubs() : await RECIPE_HUBS();
+const others = pool.filter((h) => h.slug !== hub.slug && kind(h) === kind(hub));
+const faqLd = hub.faq?.length
+  ? { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: hub.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) }
+  : null;
 const jsonld = [
   {
     '@context': 'https://schema.org',
@@ -20,6 +24,7 @@ const jsonld = [
     name: hub.h1,
     itemListElement: hub.recipes.map((r, i) => ({ '@type': 'ListItem', position: i + 1, url: `${SITE.url}/recepty/${r.id}/`, name: r.data.title })),
   },
+  ...(faqLd ? [faqLd] : []),
 ];
 ---
 
@@ -29,6 +34,7 @@ const jsonld = [
     <div class="pagehead prose">
       <h1>{hub.h1}</h1>
       {hub.intro.map((p) => <p>{p}</p>)}
+      {hub.cta && <p><a class="btn btn--ghost" href={hub.cta.href}>{hub.cta.label}</a></p>}
     </div>
     <h2 class="sr-only">Recepty v této kategorii</h2>
     <div class="grid grid--dishes">
@@ -39,6 +45,19 @@ const jsonld = [
         <p style="margin-top:24px">
           <a class="btn btn--ghost" href={`/recepty/${hub.filterQuery}`}>Doladit filtry: čas, strava, obtížnost</a>
         </p>
+      )
+    }
+    {
+      hub.faq && hub.faq.length > 0 && (
+        <section class="section prose" aria-labelledby="h-faq" style="max-width:760px">
+          <h2 id="h-faq" style="font-size:1.25rem">Časté otázky</h2>
+          {hub.faq.map((f) => (
+            <details style="margin:8px 0">
+              <summary style="font-weight:700;cursor:pointer;min-height:44px;display:flex;align-items:center">{f.q}</summary>
+              <p>{f.a}</p>
+            </details>
+          ))}
+        </section>
       )
     }
     <nav class="section" aria-label="Další kategorie receptů">
