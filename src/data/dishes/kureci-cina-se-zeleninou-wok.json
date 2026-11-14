@@ -1,0 +1,21 @@
+{
+  "name": "Kuřecí čína se zeleninou a rýží",
+  "restaurant": "wok-nic-moc",
+  "kind": "main",
+  "section": "Rýže a kari",
+  "description": "Nudličky kuřete v sójové omáčce s pekingským zelím, mrkví, paprikou a žampiony, jasmínová rýže.",
+  "about": [
+    "Čína ve smyslu české jídelny není z Číny, je to česká představa o woku. Kuře, zelenina, hustá sójová omáčka a hromada rýže. Funguje to od doby, co někdo zjistil, že se zelí dá orestovat.",
+    "Wok máme rozpálený, zelenina křupe a rýže voní. Jen to všechno zůstává v kuchyni, kde ses rozhodl, že večeře nepřijede. Dobrá zpráva: celé to doma stihneš za půl hodiny."
+  ],
+  "price": 18900,
+  "image": "dish-kureci-cina-se-zeleninou-wok",
+  "recipe": "kureci-cina-se-zeleninou",
+  "allergens": [
+    1,
+    6,
+    9,
+    14
+  ],
+  "order": 200
+}

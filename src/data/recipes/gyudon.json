@@ -1,0 +1,146 @@
+{
+  "title": "Gyudon",
+  "category": "asijska",
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 15,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "gyudon",
+    "gyudon recept",
+    "japonské hovězí s rýží",
+    "hovězí na cibuli s rýží"
+  ],
+  "intro": "Gyudon je japonská miska rýže s tence nakrájeným hovězím, které se dusí s cibulí v sladké sójové omáčce. Je rychlý, sytý a hotový za 35 minut. Maso se krájí tence, aby se obalilo omáčkou a zůstalo měkké.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-sushi",
+      "amount": 200,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 240,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "hovezi-rostena",
+      "amount": 250,
+      "unit": "g",
+      "note": "krájená co nejtenčeji",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na tenká půlkolečka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "dashi-prasek",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mirin",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "zazvor-nakladany",
+      "amount": 20,
+      "unit": "g",
+      "group": "Na talíř"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nakrájená",
+      "group": "Na talíř"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže",
+      "text": "Rýži propírej ve studené vodě, dokud není voda skoro čirá. Dej ji do hrnce s 240 ml vody, přiveď k varu, zakryj, stáhni na minimum a vař 12 minut. Pak ji nech 10 minut stát pod pokličkou."
+    },
+    {
+      "section": "Maso",
+      "text": "Hovězí dej na 30 minut do mrazáku, aby ztuhlo, pak ho nakrájej na plátky silné maximálně 2 mm."
+    },
+    {
+      "section": "Omáčka",
+      "text": "V pánvi rozpusť dashi ve 150 ml horké vody. Přidej sójovku, mirin, cukr a zázvor a přiveď k varu."
+    },
+    {
+      "section": "Maso",
+      "text": "Přidej cibuli a vař 5 minut, dokud nezměkne a nezprůhlední. Pak přidej hovězí, rozděl ho vidličkou a vař 3 až 4 minuty, dokud není hnědé bez růžových míst."
+    },
+    {
+      "section": "Maso",
+      "text": "Z hladiny seber pěnu. Pokud je omáčky hodně, nech ji 1 minutu odpařit, ale maso nepřevařuj, ztvrdne."
+    },
+    {
+      "section": "Rýže",
+      "text": "Rýži rozděl do misek, na ni naskládej maso s cibulí a zalij omáčkou. Přidej nakládaný zázvor a jarní cibulku."
+    }
+  ],
+  "tips": [
+    "Tenké plátky se dají koupit u řezníka, jinak je nakrájej na zmrzlém masu.",
+    "Pokud chceš gyudon po japonsku, vyklepni na něj žloutek nebo vejce uvařené na měkko.",
+    "Cibule dodá sladkost, nepřidávej víc cukru, dokud ji neochutnáš."
+  ],
+  "substitutions": [
+    "Mirin nahraď lžící cukru a lžící rýžového octa.",
+    "Dashi prášek lze vynechat a nahradit zeleninovým vývarem.",
+    "Rostenou můžeš zaměnit za hovězí z kýty nebo roštěnku, pokud ji dobře nakrájíš na tenko."
+  ],
+  "faq": [
+    {
+      "q": "Jak se krájí maso na gyudon?",
+      "a": "Tence, asi 2 mm, a proti vláknům. Hovězí napůl zmrazené se krájí nejsnáze."
+    },
+    {
+      "q": "Co je gyudon?",
+      "a": "Japonská miska s rýží, hovězím a cibulí v sladké sójové omáčce. Slovo gyu znamená hovězí a don miska."
+    },
+    {
+      "q": "Dá se gyudon ohřát?",
+      "a": "Ano, maso s cibulí vydrží v lednici 2 dny. Ohřívej ho na mírném ohni a rýži raději uvař čerstvou."
+    }
+  ],
+  "image": "dish-gyudon-ramen",
+  "vegetarian": false
+}

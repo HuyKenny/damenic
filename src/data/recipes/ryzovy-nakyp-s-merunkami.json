@@ -1,0 +1,125 @@
+{
+  "title": "Rýžový nákyp s meruňkami",
+  "keywords": [
+    "rýžový nákyp",
+    "rýžový nákyp s meruňkami",
+    "rýžový nákyp recept",
+    "zapékaná rýže s ovocem"
+  ],
+  "intro": "Rýžový nákyp s meruňkami je zapečená mléčná rýže se sněhem z bílků a vrstvou meruněk, ve formě 22 × 30 cm. Vyjde 6 velkých porcí. Rýže se nejdřív uvaří v mléce do měkka a bílky se šlehají zvlášť, protože na nich závisí vzdušnost nákypu.",
+  "image": "dish-ryzovy-nakyp-sladke",
+  "category": "dezerty",
+  "servings": 6,
+  "activeMinutes": 30,
+  "cookMinutes": 60,
+  "waitMinutes": 15,
+  "waitLabel": "vychladnutí rýže před přidáním vajec",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "ryze-kulatozrnna",
+      "amount": 200,
+      "unit": "g",
+      "note": "na mléčnou rýži"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 800,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 90,
+      "unit": "g",
+      "note": "+ 20 g do bílků"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "+ 10 g na formu"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "oddělené žloutky a bílky"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen kůra"
+    },
+    {
+      "ingredient": "merunky",
+      "amount": 500,
+      "unit": "g",
+      "note": "čerstvé, rozpůlené bez pecek"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 10,
+      "unit": "g",
+      "note": "na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže",
+      "text": "Mléko se solí, vanilkovým cukrem a 90 g cukru přiveď k varu. Přisyp opláchnutou rýži, sniž oheň a vař 25 až 30 minut pod pokličkou, občas promíchej, rýže má být měkká a mléko skoro vsáknuté."
+    },
+    {
+      "section": "Rýže",
+      "text": "Rýži sundej z ohně, vmíchej 40 g másla a kůru z citronu a nech 15 minut vychladnout. Žloutky vmíchej do rýže, teplá rýže by je uvařila na kousky."
+    },
+    {
+      "section": "Sníh",
+      "text": "Bílky ušlehej do pevného sněhu a postupně přisypej 20 g cukru. Sníh vmíchej do rýže lžící ve třech dávkách a jemně, aby nezmizel."
+    },
+    {
+      "section": "Sestavení",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Formu vymaž 10 g másla, dej do ní polovinu rýže, rozlož meruňky řezem nahoru a přikryj zbytkem rýže."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 30 až 35 minut, dokud není povrch zlatý a nákyp při zatřesení formou pevný. Po vychladnutí posyp moučkovým cukrem a podávej teplý nebo studený."
+    }
+  ],
+  "tips": [
+    "Kulatozrnná rýže se líp rozvaří a nákyp drží pohromadě. Dlouhozrnná zůstane sypká.",
+    "Meruňky odzdola nepustí tolik šťávy, když je dáš řezem nahoru a těsně k sobě.",
+    "Nákyp vydrží v lednici 3 dny, ohřívej ho v troubě při 160 °C 10 minut."
+  ],
+  "substitutions": [
+    "Meruňky nahraď kompotovanými, dobře odkapanými, nebo 400 g švestek či jablek.",
+    "Mléko můžeš z poloviny nahradit smetanou ke vaření, nákyp bude plnější.",
+    "Cukr sniž na 70 g, pokud sladíš ovocem z kompotu."
+  ],
+  "faq": [
+    {
+      "q": "Jakou rýži na rýžový nákyp?",
+      "a": "Kulatozrnnou, třeba mléčnou rýži. Nechá se rozvařit do krémová a drží pohromadě. Dlouhozrnná by zůstala sypká."
+    },
+    {
+      "q": "Jak dlouho péct rýžový nákyp?",
+      "a": "30 až 35 minut při 180 °C horní a spodní ohřev (horkovzduch 170 °C), dokud povrch nezezlátne a nákyp není při zatřesení pevný."
+    },
+    {
+      "q": "Dá se nákyp připravit den předem?",
+      "a": "Ano. Uvař rýži den dopředu a dej ji do lednice. Před sestavením ji prohřej s trochou mléka a nech zchladnout."
+    }
+  ]
+}

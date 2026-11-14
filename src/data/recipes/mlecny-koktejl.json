@@ -1,0 +1,91 @@
+{
+  "title": "Mléčný koktejl s jahodami",
+  "keywords": [
+    "mléčný koktejl",
+    "mléčný koktejl recept",
+    "jahodový koktejl recept",
+    "domácí milkshake"
+  ],
+  "image": "dish-mlecny-koktejl-vymackame",
+  "category": "napoje",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "intro": "Mléčný koktejl z mléka, vanilkové zmrzliny a čerstvých jahod je hotový za 10 minut. Poměr 1,5 dílu mléka na 1 díl zmrzliny drží koktejl hustý, ale ještě pitelný. Z uvedeného množství vyjdou dvě sklenice po 300 ml.",
+  "ingredients": [
+    {
+      "ingredient": "mleko",
+      "amount": 300,
+      "unit": "ml",
+      "note": "dobře vychlazené",
+      "group": "Koktejl"
+    },
+    {
+      "ingredient": "zmrzlina-vanilkova",
+      "amount": 200,
+      "unit": "ml",
+      "note": "4 kopečky",
+      "group": "Koktejl"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 150,
+      "unit": "g",
+      "note": "čerstvé nebo mražené",
+      "group": "Koktejl"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "podle sladkosti jahod",
+      "group": "Koktejl"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Jahody opláchni, odstraň stopky a nakrájej na půlky. Zmrzlinu vyndej z mrazáku 5 minut předem."
+    },
+    {
+      "section": "Mixování",
+      "text": "Do mixéru dej mléko, zmrzlinu, jahody a cukr. Mixuj 30 až 40 sekund do hladka."
+    },
+    {
+      "section": "Hustota",
+      "text": "Chceš-li koktejl hustší, přidej kopeček zmrzliny, řidší dosáhneš lžící mléka."
+    },
+    {
+      "section": "Podávání",
+      "text": "Nalij do vychlazených sklenic a podávej ihned. Pěna při stání rychle klesá."
+    }
+  ],
+  "tips": [
+    "Mléko a sklenice dej předem do lednice, koktejl déle zůstane studený a hustý.",
+    "Banán nebo maliny dají koktejlu jinou chuť, množství zůstává stejné.",
+    "Mixuj jen do hladka, příliš dlouhé šlehání zmrzlinu rozpustí."
+  ],
+  "substitutions": [
+    "Zmrzlinu nahraď 2 zmraženými banány, koktejl bude lehčí.",
+    "Mléko nahraď ovesným nebo mandlovým nápojem.",
+    "Jahody zaměň za borůvky, maliny nebo kus čokolády."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je poměr mléka a zmrzliny na milkshake?",
+      "a": "Přibližně 1,5 dílu mléka na 1 díl zmrzliny. Více zmrzliny dává hustý koktejl, více mléka řidší."
+    },
+    {
+      "q": "Proč je koktejl řídký?",
+      "a": "Obvykle je zmrzlina příliš rozpuštěná nebo mléka příliš mnoho. Přidej kopeček zmrzliny nebo hrst ledu a krátce mixuj."
+    },
+    {
+      "q": "Dá se mléčný koktejl připravit dopředu?",
+      "a": "Nejlépe hned. V lednici vydrží asi 1 hodinu, potom se rozdělí a zřídne."
+    }
+  ]
+}

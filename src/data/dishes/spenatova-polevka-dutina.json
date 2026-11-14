@@ -1,0 +1,23 @@
+{
+  "name": "Špenátová polévka s vejcem",
+  "restaurant": "chlebova-dutina",
+  "kind": "main",
+  "section": "Krémové",
+  "description": "Hladká zelená polévka z brambor a špenátu, půlka vejce natvrdo. Zelená a hladká, vejce natvrdo navrch.",
+  "about": [
+    "Špenátová polévka je jedno z jídel, které děti odmítají a dospělí si potají doma dělají. Stojí na bramborách, které polévku zahustí bez mouky, a na špenátu, který se nesmí přepařit.",
+    "Půlka vejce natvrdo je tradiční zakončení. Bistro pečivo nemá, polévku doručí jen na papíře. Tvůj hrnec ale sedí na plotně."
+  ],
+  "price": 9900,
+  "image": "dish-spenatova-polevka-dutina",
+  "recipe": "spenatova-polevka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    9
+  ],
+  "order": 100
+}

@@ -1,0 +1,127 @@
+{
+  "title": "Rychlý švestkový koláč",
+  "keywords": [
+    "švestkový koláč",
+    "rychlý švestkový koláč",
+    "švestkový koláč recept",
+    "koláč se švestkami"
+  ],
+  "intro": "Rychlý švestkový koláč z jednoduchého máslového těsta, které se jen utře a rozetře na plech 25 × 35 cm. Švestky se do něj zapíchnou řezem nahoru a při pečení se do těsta zabořují. Vyjde 12 kousků a nic nekyne.",
+  "image": "dish-svestkovy-kolac-nedortik",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 25,
+  "cookMinutes": 45,
+  "waitMinutes": 20,
+  "waitLabel": "vychladnutí před krájením",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "svestky",
+      "amount": 800,
+      "unit": "g",
+      "note": "rozpůlené, bez pecek"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 20,
+      "unit": "g",
+      "note": "na posyp"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Plech o rozměrech 25 × 35 cm vylož pečicím papírem. Švestky umyj, rozpůl a vyndej pecky."
+    },
+    {
+      "section": "Těsto",
+      "text": "Máslo šlehej s cukrem a vanilkovým cukrem 3 minuty do světlého krému. Přidej vejce, po jednom, vždy prošlehej."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej s práškem do pečiva a střídavě s mlékem zašlehej do těsta. Mělo by být husté a plynule stékat z lžíce."
+    },
+    {
+      "section": "Sestavení",
+      "text": "Těsto rozetři po celém plechu. Švestky poklaď řezem nahoru v řadách těsně vedle sebe. Smíchej cukr se skořicí a posyp koláč."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 40 až 45 minut, dokud těsto není na okrajích zlatavé a po zapíchnutí špejle mezi švestkami je suché. Pokud koláč tmavne, přikryj ho alobalem."
+    },
+    {
+      "section": "Chladnutí",
+      "text": "Nech 20 minut vychladnout na plechu. Švestková šťáva zhoustne a koláč půjde krájet na čisté kousky."
+    }
+  ],
+  "tips": [
+    "Zralé, ale pevné švestky pustí méně šťávy. Měkké a přezrálé se rozpadají.",
+    "Mražené švestky nerozmrazuj, jen jim před pečením odeber šťávu a přidej 10 minut pečení.",
+    "Koláč vydrží zakrytý při pokojové teplotě 2 dny, v lednici 4."
+  ],
+  "substitutions": [
+    "Švestky nahraď meruňkami, broskvemi nebo třešněmi bez pecek.",
+    "Mléko nahraď kefírem nebo podmáslím a prášek do pečiva zmenši na 8 g.",
+    "Máslo nahraď 120 ml oleje, těsto bude vláčnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct švestkový koláč?",
+      "a": "40 až 45 minut při 180 °C horní a spodní ohřev (horkovzduch 170 °C). Špejle zapíchnutá do těsta mezi švestkami má vyjít suchá."
+    },
+    {
+      "q": "Proč jsou švestky v koláči na dně?",
+      "a": "Těsto bylo příliš řídké nebo švestky těžké. Těsto má být husté a švestky klaď řezem nahoru, ať se pomalu zanořují."
+    },
+    {
+      "q": "Dají se použít mražené švestky?",
+      "a": "Ano. Nechej je odkapat a poklaď na těsto. Pečení se prodlouží asi o 10 minut a koláč bude vlhčí."
+    }
+  ]
+}

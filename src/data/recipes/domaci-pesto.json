@@ -1,0 +1,92 @@
+{
+  "title": "Domácí pesto",
+  "keywords": [
+    "domácí pesto",
+    "bazalkové pesto",
+    "pesto recept",
+    "jak udělat pesto"
+  ],
+  "image": "dish-domaci-pesto",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Domácí bazalkové pesto je zelená pasta z čerstvé bazalky, piniových oříšků, parmazánu a olivového oleje. Připraví se za 10 minut v tyčovém mixéru nebo v hmoždíři. Zeleň a chuť udrží, když se nesmí zahřát, a proto se mixuje krátce.",
+  "ingredients": [
+    {
+      "ingredient": "bazalka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "2 květináče, asi 60 g lístků"
+    },
+    {
+      "ingredient": "piniove-orisky",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 50,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "stroužek"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 100,
+      "unit": "ml",
+      "note": "extra panenský"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Piniové oříšky opraž na suché pánvi 2 až 3 minuty do světle zlaté barvy. Nech vychladnout."
+    },
+    {
+      "text": "Bazalkové lístky otrhej od stonků. Do mixéru dej bazalku, oříšky, česnek, polovinu parmazánu a polovinu oleje."
+    },
+    {
+      "text": "Mixuj krátkými pulzy, dokud nevznikne hrubá pasta. Přidej zbytek oleje a parmazánu."
+    },
+    {
+      "text": "Dosol a dochuť. Pesto přelij vrstvou oleje a skladuj v zavřené sklenici."
+    }
+  ],
+  "tips": [
+    "Aby pesto zůstalo zelené, před mixováním nech bazalku 5 sekund v horké vodě a okamžitě ji zchlaď ledovou vodou. ",
+    "V lednici vydrží 5 dní, přelité olejem až týden. Dá se zamrazit na 3 měsíce.",
+    "Na těstoviny nech pesto rozředit lžící vody z vaření, ať neslepí."
+  ],
+  "substitutions": [
+    "Piniové oříšky nahradíš vlašskými ořechy, slunečnicovými semínky nebo mandlemi.",
+    "Veganská verze: parmazán nahraď 2 lžícemi droždí v lupíncích."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží domácí pesto?",
+      "a": "5 až 7 dní v lednici, ve sklenici přelité olejem. V mrazáku 3 měsíce."
+    },
+    {
+      "q": "Proč pesto zhnědlo?",
+      "a": "Bazalka oxiduje. Pomůže krátké mixování, přelití olejem a skladování v uzavřené sklenici."
+    },
+    {
+      "q": "Dá se pesto ohřát?",
+      "a": "Ne. Teplem se zničí chuť. Smíchej ho s horkými těstovinami až na talíři."
+    }
+  ]
+}

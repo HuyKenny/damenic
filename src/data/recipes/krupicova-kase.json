@@ -1,0 +1,112 @@
+{
+  "title": "Krupicová kaše bez hrudek",
+  "keywords": [
+    "krupicová kaše",
+    "krupicová kaše bez hrudek",
+    "recept na krupicovou kaši",
+    "kaše z krupice"
+  ],
+  "image": "dish-krupicova-kase-budik",
+  "category": "snidane",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 5,
+  "cookMinutes": 8,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Krupicová kaše z mléka a hrubé krupice je hotová za deset minut. Aby byla hladká a bez hrudek, krupici se zašlehá do teplého mléka tenkým proudem a kaše se pak chvíli vaří za stálého míchání. Poměr na středně hustou kaši je 50 g krupice na 500 ml mléka.",
+  "ingredients": [
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "krupice",
+      "amount": 50,
+      "unit": "g",
+      "note": "hrubá nebo jemná, jedno",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 14,
+      "unit": "g",
+      "note": "1 lžíce",
+      "group": "Na podávání"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Na podávání"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na posypání, dle chuti",
+      "group": "Na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Mléko",
+      "text": "Do hrnce s tlustším dnem nalij mléko, přidej cukr a sůl a ohřej ho na středním ohni, až se na okraji začnou tvořit bublinky. Nevař ho, jen ať je horké (asi 80 °C)."
+    },
+    {
+      "section": "Krupice",
+      "text": "Stáhni hrnec na mírnější žár a za stálého šlehání metlou vsypávej krupici tenkým proudem. Šlehej dál, dokud se v kaši neztratí všechny hrudky."
+    },
+    {
+      "section": "Vaření",
+      "text": "Vař na mírném ohni 3 až 5 minut a neustále míchej, aby kaše nepřilnula ke dnu. Hotová je, když zhoustne a krupice nechrupe mezi zuby."
+    },
+    {
+      "section": "Dozrání",
+      "text": "Stáhni z plotny, přikryj a nech 2 minuty nabobtnat. Kaše při stání ještě houstne, takže ji nevař na hustotu, kterou chceš na talíři."
+    },
+    {
+      "section": "Podávání",
+      "text": "Rozděl do misek, doprostřed dej máslo a posyp kakaem smíchaným s cukrem. Podávej hned, dokud je kaše teplá."
+    }
+  ],
+  "tips": [
+    "Krupici vždy sypej do horkého, ne vroucího mléka a pořád šlehej metlou. Kdyby se přesto objevily hrudky, protlač kaši sítem nebo ji prošlehej ponorným mixérem.",
+    "Hrnec po vaření hned namoč studenou vodou, jinak se ke dnu přilepí vrstva, kterou je těžké odrhnout.",
+    "Pro hustší kaši, kterou jíš lžící, dej 60 g krupice na 500 ml mléka. Pro řidší, kterou piješ z hrnku, stačí 40 g."
+  ],
+  "substitutions": [
+    "Místo kravského mléka funguje ovesný nebo mandlový nápoj, kaše bude o něco řidší, proto přidej 5 g krupice navíc.",
+    "Kakao nahraď skořicí s cukrem, strouhanou čokoládou nebo lžící džemu, který doprostřed vmíchej.",
+    "Z hotové kaše vychladlé do formy se dá nakrájet kostky a opéct na pánvi na másle."
+  ],
+  "faq": [
+    {
+      "q": "Kolik krupice na litr mléka?",
+      "a": "Na středně hustou kaši 100 g krupice na 1 litr mléka, na hustou kaši na lžíci 120 g. Kaše při chladnutí zhoustne, proto nevař do husta."
+    },
+    {
+      "q": "Jak udělat krupicovou kaši bez hrudek?",
+      "a": "Krupici sypej tenkým proudem do horkého, ne vroucího mléka a při tom šlehej metlou. Kdyby hrudky zůstaly, zbylé protlač sítem."
+    },
+    {
+      "q": "Jak dlouho se vaří krupicová kaše?",
+      "a": "Po zašlehání krupice stačí 3 až 5 minut na mírném ohni za stálého míchání. Pak ji nech 2 minuty pod pokličkou nabobtnat."
+    }
+  ]
+}

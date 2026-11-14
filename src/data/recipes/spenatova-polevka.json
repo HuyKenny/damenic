@@ -1,0 +1,136 @@
+{
+  "title": "Špenátová polévka",
+  "keywords": [
+    "špenátová polévka",
+    "krémová špenátová polévka",
+    "špenátová polévka se smetanou",
+    "polévka ze špenátu"
+  ],
+  "image": "dish-spenatova-polevka-dutina",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Špenátová polévka z mraženého špenátu s bramborem je krémová a zelená. Brambor ji zahustí, smetana zjemní a špenát se vaří jen krátce, aby zůstala barva. Hotová je za 35 minut a vyjde na 4 porce.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "nakrájená",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 250,
+      "unit": "g",
+      "note": "na kostky 1 cm",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 800,
+      "unit": "ml",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "spenat-mrazeny",
+      "amount": 300,
+      "unit": "g",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "uvařená natvrdo",
+      "group": "Na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Základ",
+      "text": "V hrnci rozpusť máslo a na mírném ohni na něm 4 minuty restuj cibuli, dokud nezesklovatí. Přidej česnek a restuj další minutu."
+    },
+    {
+      "section": "Brambory",
+      "text": "Přidej brambory, zalij vývarem a přiveď k varu. Vař na mírném ohni 12 až 15 minut, dokud brambory nezměknou."
+    },
+    {
+      "section": "Špenát",
+      "text": "Vlož mražený špenát, přikryj a vař 5 minut, dokud se nerozmrazí a nezvadne. Déle ho nevař, ztratí barvu."
+    },
+    {
+      "section": "Mixování",
+      "text": "Polévku rozmixuj ponorným mixérem do hladka. Vlij smetanu, dochuť muškátovým oříškem, solí a pepřem a krátce prohřej, ale už nevař."
+    },
+    {
+      "section": "Vejce",
+      "text": "Vejce vař natvrdo 9 až 10 minut, opláchni, oloupej a rozpůl. Přidej do misek s polévkou."
+    }
+  ],
+  "tips": [
+    "Mražený špenát nemusíš rozmrazovat, rozmrzne přímo v polévce. Pokud používáš čerstvý, dej ho o 300 g víc a vař jen 2 minuty.",
+    "Aby polévka zůstala zelená, nepřikrývej ji dlouho po přidání špenátu.",
+    "Chceš-li polévku řidší, přilij horký vývar po 100 ml."
+  ],
+  "substitutions": [
+    "Smetanu nahraď kokosovým mlékem nebo ovesnou smetanou.",
+    "Brambor nahraď 40 g rýže, polévka bude trochu hustší.",
+    "Místo vejce podávej opečené krutony nebo lžíci zakysané smetany."
+  ],
+  "faq": [
+    {
+      "q": "Dá se špenátová polévka zamrazit?",
+      "a": "Ano, bez smetany vydrží v mrazáku 2 měsíce. Smetanu přidej až po rozmražení a zahřátí."
+    },
+    {
+      "q": "Použít čerstvý nebo mražený špenát?",
+      "a": "Obojí funguje. Mražený je dostupný celoročně a stále stejně chutný, čerstvý přidej jen na posledních 2 minut."
+    },
+    {
+      "q": "Jak zahustit špenátovou polévku?",
+      "a": "Nejlépe bramborem, který se rozmixuje. Další možnost je lžíce hladké mouky osmahnuté na másle před zalitím vývarem."
+    }
+  ]
+}

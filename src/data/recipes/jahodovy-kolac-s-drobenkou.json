@@ -1,0 +1,149 @@
+{
+  "title": "Jahodový koláč s drobenkou",
+  "keywords": [
+    "jahodový koláč s drobenkou",
+    "jahodový koláč",
+    "koláč s jahodami",
+    "jahodový koláč recept"
+  ],
+  "intro": "Jahodový koláč s drobenkou na plech 22 × 30 cm: máslové těsto, vrstva jahod a posyp z drobenky. Těsto se jen smíchá, takže koláč zvládneš za hodinu i s pečením. Aby nebyl vodnatý, jahody se obalí v troše škrobu. Vyjde 12 kousků.",
+  "image": "dish-jahodovy-kolac-drobenka-nedortik",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 30,
+  "cookMinutes": 45,
+  "waitMinutes": 20,
+  "waitLabel": "vychladnutí před krájením",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "rozpuštěné a vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 500,
+      "unit": "g",
+      "note": "čerstvé nebo mražené",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 15,
+      "unit": "g",
+      "note": "asi 2 lžíce",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "studené, nakrájené na kostky",
+      "group": "Drobenka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Plech nebo formu 22 × 30 cm vylož pečicím papírem. Jahody omyj, odstraň stopky a větší rozpůl."
+    },
+    {
+      "section": "Drobenka",
+      "text": "Mouku, cukr a studené máslo prsty rozmělni na hrubou drobenku s kousky velikosti hrachu. Dej na pár minut do lednice, aby zůstala drobivá."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej s cukrem, vanilkovým cukrem a práškem do pečiva. Přidej vejce, mléko a vlažné rozpuštěné máslo a promíchej jen do spojení. Těsto je husté a lepivé. Rozetři ho do formy."
+    },
+    {
+      "section": "Sestavení",
+      "text": "Jahody obal ve škrobu a rozlož je na těsto. Mražené nerozmrazuj, jen je lehce obal. Posyp drobenkou rovnoměrně po celé ploše."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 40 až 45 minut. Drobenka má být zlatavá a šťáva z jahod bublat po okrajích. Pokud tmavne dřív, přikryj koláč alobalem."
+    },
+    {
+      "section": "Chladnutí",
+      "text": "Nech koláč 20 minut vychladnout ve formě. Šťáva zhoustne a koláč půjde krájet na čisté kousky."
+    }
+  ],
+  "tips": [
+    "Mražené jahody pusť na těsto rovnou, rozmrazené by těsto zalily šťávou.",
+    "Drobenka bude křupavější, když ji před pečením nechá chvíli v mrazáku.",
+    "Koláč je nejlepší první den. Druhý den ho ohřej při 150 °C 8 minut, aby drobenka zase zkřupla."
+  ],
+  "substitutions": [
+    "Jahody nahraď borůvkami, malinami nebo rybízem. U kyselejšího ovoce přidej 20 g cukru.",
+    "Máslo v těstě můžeš nahradit 80 ml oleje, těsto bude vláčnější a méně máslové.",
+    "Do drobenky přidej 30 g mletých mandlí nebo ovesných vloček."
+  ],
+  "faq": [
+    {
+      "q": "Proč je jahodový koláč vodnatý?",
+      "a": "Jahody pustily šťávu. Obal je ve škrobu, nepřidávej víc než 500 g a nech koláč 20 minut vychladnout, než ho nakrájíš."
+    },
+    {
+      "q": "Dají se použít mražené jahody?",
+      "a": "Ano. Nerozmrazuj je, jen je obal ve škrobu a rovnou je poklaď na těsto. Prodluž pečení o 5 minut."
+    },
+    {
+      "q": "Jak dlouho vydrží jahodový koláč?",
+      "a": "Při pokojové teplotě 1 den, v lednici zakrytý 3 dny. Před podáváním ho nech chvíli postát, aby změkl."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "title": "Sněhové řezy s meruňkovým džemem",
+  "keywords": [
+    "sněhové řezy",
+    "sněhové řezy recept",
+    "řezy ze sněhu",
+    "křehké řezy s džemem"
+  ],
+  "intro": "Sněhové řezy jsou plech křehkého těsta, tenká vrstva meruňkového džemu a vzdušný sníh z bílků s mandlemi. Vyjde 12 řezů z plechu 25 × 35 cm. Sníh se nepeče vysokou teplotou, ale pomalu se suší, aby nezhnědl a nepraskal.",
+  "image": "dish-snehova-rez-z-vitriny",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 40,
+  "cookMinutes": 45,
+  "waitMinutes": 30,
+  "waitLabel": "chlazení těsta a vychladnutí",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "studené, na kostky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "jen žloutky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "dzem-merunkovy",
+      "amount": 250,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "jen bílky, pokojové teploty",
+      "group": "Sníh"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 160,
+      "unit": "g",
+      "group": "Sníh"
+    },
+    {
+      "ingredient": "mandle-platky",
+      "amount": 40,
+      "unit": "g",
+      "group": "Sníh"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Mouku, moučkový cukr, sůl a máslo rozmělni prsty na drobenku. Přidej žloutky a rychle zpracuj na hladké těsto. Zabal do fólie a nech 30 minut v lednici."
+    },
+    {
+      "section": "Pečení těsta",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Těsto vyval na plech 25 × 35 cm vyložený papírem nebo ho do něj vtlač. Propíchej vidličkou a peč 15 až 18 minut dozlatova."
+    },
+    {
+      "section": "Náplň",
+      "text": "Meruňkový džem rozmíchej a rovnoměrně potři jím horké těsto. Plech nech chvíli zchladnout, než naneseš sníh."
+    },
+    {
+      "section": "Sníh",
+      "text": "Bílky se špetkou soli vyšlehej do pěny a po lžících přidávej moučkový cukr. Šlehej, dokud sníh není tuhý, lesklý a drží ve špičce. Žádná kapka tuku, jinak sníh neztuhne."
+    },
+    {
+      "section": "Pečení sněhu",
+      "text": "Sníh rozetři na džem a posyp plátky mandlí. Troubu sniž na 140 °C horní a spodní ohřev (horkovzduch 130 °C) a peč 25 až 30 minut. Sníh má vyschnout a lehce zezlátnout, ne zhnědnout."
+    },
+    {
+      "section": "Krájení",
+      "text": "Vychladlé řezy krájej ostrým nožem namočeným do horké vody. Pilovitým pohybem, aby sníh nepraskal."
+    }
+  ],
+  "tips": [
+    "Pokud sníh začne tmavnout, přikryj ho alobalem. Pomalé pečení je klíč.",
+    "Řezy skladuj v dóze s papírem mezi vrstvami. Vydrží 3 dny.",
+    "Žloutky zpracuj jen do těsta a bílky vezmi z vajec pokojové teploty. Vyšlehají se vyšší."
+  ],
+  "substitutions": [
+    "Meruňkový džem nahraď rybízovým, nejlépe řidším. Kyselost vyváží sladký sníh.",
+    "Mandle nahraď kokosem nebo nasekanými vlašskými ořechy.",
+    "Sníh můžeš dochutit lžičkou citronové šťávy, bude stabilnější."
+  ],
+  "faq": [
+    {
+      "q": "Proč sníh na řezech praskl?",
+      "a": "Pekl se na příliš vysokou teplotu. Sněhovou vrstvu suš při 140 °C horní a spodní ohřev (horkovzduch 130 °C) 25 až 30 minut."
+    },
+    {
+      "q": "Jak nakrájet sněhové řezy bez rozlámání?",
+      "a": "Řezy nech úplně vychladnout a krájej ostrým nožem namočeným do horké vody, pilovitým pohybem a bez tlaku."
+    },
+    {
+      "q": "Co s žloutky nebo bílky?",
+      "a": "Do těsta jdou jen žloutky. Bílky z jiných receptů zmrazíš v nádobce až na 6 měsíců a rozmrazíš v lednici."
+    }
+  ]
+}

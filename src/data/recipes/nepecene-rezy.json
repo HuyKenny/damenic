@@ -1,0 +1,113 @@
+{
+  "title": "Nepečené řezy s pudinkem a sušenkami",
+  "keywords": [
+    "nepečené řezy",
+    "nepečené řezy s pudinkem",
+    "řezy bez pečení",
+    "nepečené sušenkové řezy"
+  ],
+  "intro": "Nepečené řezy jsou tři vrstvy sušenek, vanilkový pudinkový krém s máslem a čokoládová poleva ve formě 22 × 30 cm. Nepotřebují troubu, jen trpělivost: pudink musí vychladnout na stejnou teplotu jako máslo a řezy pak 6 hodin ztuhnout. Vyjde 12 kousků.",
+  "image": "dish-nepecena-rez-z-vitriny",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 40,
+  "cookMinutes": 0,
+  "waitMinutes": 360,
+  "waitLabel": "ztuhnutí v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 74,
+      "unit": "g",
+      "note": "2 sáčky",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 750,
+      "unit": "ml",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "pokojové teploty",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "susenky-maslove",
+      "amount": 300,
+      "unit": "g",
+      "note": "obdélníkové, na 3 vrstvy",
+      "group": "Skládání"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Pudink",
+      "text": "Z mléka odlij 150 ml a rozmíchej v něm pudinkový prášek. Zbylé mléko s cukrem přiveď k varu, vlij rozmíchaný pudink a za stálého míchání povař 1 až 2 minuty, až zhoustne."
+    },
+    {
+      "section": "Chladnutí",
+      "text": "Pudink přelij do mísy, přikryj povrch potravinářskou fólií, aby se netvořila blána, a nech zchladnout na pokojovou teplotu. Ještě vlažný pudink by máslo rozpustil."
+    },
+    {
+      "section": "Krém",
+      "text": "Máslo našlehej do světlé pěny. Po lžících přidávej vychladlý pudink a stále šlehej. Pokud se krém sráží, je pudink studenější nebo teplejší než máslo, krém se dá zachránit krátkým šleháním nad párou."
+    },
+    {
+      "section": "Skládání",
+      "text": "Formu 22 × 30 cm vylož fólií. Na dno dej vrstvu sušenek těsně vedle sebe, na ně polovinu krému. Zopakuj a přikryj poslední vrstvou sušenek."
+    },
+    {
+      "section": "Poleva",
+      "text": "Čokoládu rozpusť s máslem ve vodní lázni a rozetři na povrch. Nech 6 hodin, nejlépe přes noc, ztuhnout v lednici. Krájej ostrým nožem namočeným do horké vody."
+    }
+  ],
+  "tips": [
+    "Pudink i máslo musí mít pokojovou teplotu. Je to to nejdůležitější pravidlo.",
+    "Sušenky můžeš krátce namočit do mléka s kakaem pro vláčnější řezy.",
+    "Řezy vydrží v lednici 4 dny, zmrazit se dají v jednotlivých kouscích na 1 měsíc."
+  ],
+  "substitutions": [
+    "Vanilkový pudink nahraď smetanovým nebo čokoládovým.",
+    "Máslové sušenky nahraď piškoty nebo kakaovými sušenkami.",
+    "Poleva může být jen z 3 lžic kakaa, 3 lžic cukru a 2 lžic mléka s máslem."
+  ],
+  "faq": [
+    {
+      "q": "Proč se krém z pudinku sráží?",
+      "a": "Pudink a máslo neměly stejnou teplotu. Obě mají mít pokojovou, asi 20 °C. Zachrání ho krátké šlehání nad vodní lázní."
+    },
+    {
+      "q": "Jak dlouho musí nepečené řezy ztuhnout?",
+      "a": "Minimálně 6 hodin v lednici, lépe přes noc. Sušenky během té doby změknou a řezy půjdou krájet na čisté kousky."
+    },
+    {
+      "q": "Dají se nepečené řezy zmrazit?",
+      "a": "Ano. Nakrájené zabal do fólie a zmraz na 1 měsíc. Rozmrazuj je v lednici 3 hodiny."
+    }
+  ]
+}

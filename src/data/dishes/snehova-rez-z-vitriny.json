@@ -1,0 +1,24 @@
+{
+  "name": "Sněhový řez s meruňkovým džemem",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Řezy z plechu",
+  "description": "Křehké těsto, meruňkový džem a vrstva sušeného sněhu s mandlemi. Křupe a pak se rozplyne.",
+  "about": [
+    "Sněhový řez má tři vrstvy: křehký spodek, kyselý džem a sníh z bílků, který se v troubě pomalu suší. Mandle navrch jsou ozdoba i křupnutí.",
+    "Dostaneš jeden řez z plechu 25 × 35 cm. Sníh vyschl pomalu a vitrína zůstala prázdná, až na recept."
+  ],
+  "price": 4900,
+  "image": "dish-snehova-rez-z-vitriny",
+  "recipe": "snehove-rezy",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "order": 65
+}

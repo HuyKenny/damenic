@@ -1,0 +1,146 @@
+{
+  "title": "Karamelový sušenkový cheesecake bez pečení",
+  "keywords": [
+    "karamelový sušenkový cheesecake",
+    "karamelový sušenkový dort",
+    "nepečený karamelový sušenkový cheesecake",
+    "nepečený dort z karamelových sušenek"
+  ],
+  "intro": "Karamelový sušenkový cheesecake recept bez pečení na formu o průměru 22 cm: spodek z karamelových sušenek, krém z mascarpone a smetanového sýra s karamelovou pastou a polevou nahoře. Krém zpevňuje želatina, takže se dá krájet. Hlavní práce je počkat, až dort 6 hodin ztuhne. Vyjde 12 kousků.",
+  "image": "dish-lotus-cheesecake-dilek",
+  "category": "dorty",
+  "servings": 12,
+  "activeMinutes": 35,
+  "cookMinutes": 0,
+  "waitMinutes": 360,
+  "waitLabel": "ztuhnutí v lednici",
+  "difficulty": "střední",
+  "meal": "dort",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "susenky-karamelove",
+      "amount": 220,
+      "unit": "g",
+      "note": "bez ozdobení, 30 g na posyp navíc",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 90,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "mascarpone",
+      "amount": 250,
+      "unit": "g",
+      "note": "studené",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 250,
+      "unit": "g",
+      "note": "pokojové teploty",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 250,
+      "unit": "ml",
+      "note": "min. 33 %, vychlazená",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "karamelova-pasta",
+      "amount": 150,
+      "unit": "g",
+      "note": "hladká",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "zelatina",
+      "amount": 10,
+      "unit": "g",
+      "note": "mletá",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 50,
+      "unit": "ml",
+      "note": "studená na rozmíchání želatiny",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "karamelova-pasta",
+      "amount": 80,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 30,
+      "unit": "ml",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Základ",
+      "text": "Dno formy s odnímatelným okrajem 22 cm vylož pečicím papírem. 220 g sušenek rozdrť v mixéru na jemný písek a smíchej s rozpuštěným máslem. Vlhkou směs pevně přitlač ke dnu lžící a dej na 15 minut do lednice."
+    },
+    {
+      "section": "Želatina",
+      "text": "Mletou želatinu rozmíchej v 50 ml studené vody a nech 5 minut nabobtnat. Pak ji ohřej pod bodem varu (asi 60 °C, např. 20 sekund v mikrovlnce) a míchej do rozpuštění. Nesmí se vařit."
+    },
+    {
+      "section": "Krém",
+      "text": "Mascarpone, smetanový sýr, moučkový cukr a 150 g karamelové pasty prošlehej do hladka. Přidej 3 lžíce krému k želatině, promíchej a vmíchej ji zpět do zbytku. Tak se nevytvoří hrudky."
+    },
+    {
+      "section": "Krém",
+      "text": "Šlehačku ušlehej do tuhého a jemně vmíchej do krému. Hotový krém nalij na základ, uhlaď a klepni formou o stůl, aby unikly bubliny."
+    },
+    {
+      "section": "Ztuhnutí",
+      "text": "Formu dej do lednice na minimálně 6 hodin, nejlépe přes noc. Krém má být pevný, na dotek nesmí lepit."
+    },
+    {
+      "section": "Poleva",
+      "text": "80 g pasty rozehřej s mlékem a rozmíchej do tekuté polevy. Nech chvíli zchladnout, nalij na dort a posyp zbylými rozdrcenými sušenkami. Okraj formy odendej nožem namočeným do horké vody."
+    }
+  ],
+  "tips": [
+    "Vyndej smetanový sýr z lednice 30 minut předem, jinak v krému zůstanou hrudky.",
+    "Dort krájej ostrým nožem namočeným do horké vody a mezi řezy ho otírej.",
+    "Zmrazený dort vydrží 1 měsíc. Rozmrazuj ho přes noc v lednici."
+  ],
+  "substitutions": [
+    "Karamelovou pastu nahraď 120 g domácí karamelové omáčky vychladlé na pokojovou teplotu.",
+    "Mascarpone nahraď stejným množstvím dalšího smetanového sýra.",
+    "Želatinu nahraď 4 g agar-agaru povařeného 2 minuty ve 100 ml vody, pak ztuhne vegetariánsky."
+  ],
+  "faq": [
+    {
+      "q": "Je potřeba do karamelového sušenkového cheesecaku želatina?",
+      "a": "Ano, pro dort, který se dá krájet. Bez ní bude krém měkký jako mousse a hodí se spíš do sklenic. Na 22 cm formu dej 10 g mleté želatiny."
+    },
+    {
+      "q": "Jak dlouho musí karamelový sušenkový cheesecake ztuhnout?",
+      "a": "Minimálně 6 hodin v lednici, lépe přes noc. Krájet ho můžeš, až je krém pevný a při potřesení formou se nehýbe."
+    },
+    {
+      "q": "Dá se dort zmrazit?",
+      "a": "Ano. Bez polevy ho zmraz zabalený na 1 měsíc. Rozmrazuj přes noc v lednici a polevu přidej až před podáváním."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Smažený květák",
+  "keywords": [
+    "smažený květák",
+    "smažený květák recept",
+    "smažený květák v trojobalu",
+    "smažený květák se sýrem"
+  ],
+  "image": "dish-smazeny-kvetak-nula",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Smažený květák v trojobalu je klasické české bezmasé jídlo. Květák se krátce předvaří, aby byl uvnitř měkký a zvenku vydržel obal. Smaží se v pánvi na oleji dozlatova.",
+  "ingredients": [
+    {
+      "ingredient": "kvetak",
+      "amount": 900,
+      "unit": "g",
+      "note": "1 velká hlávka, na růžičky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "1 do vody a 1 do obalu"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "rozšlehaná"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 300,
+      "unit": "ml",
+      "note": "na smažení"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Květák vař v osolené vodě 5 minut od chvíle, kdy se začne vařit. Má být polotvrdý. Slij, nech okapat a osuš papírovou utěrkou."
+    },
+    {
+      "text": "Připrav 3 talíře: na prvním mouku, na druhém rozšlehaná vejce se špetkou soli, na třetím strouhanku."
+    },
+    {
+      "text": "Každou růžičku obal nejdřív v mouce, pak ve vejci a nakonec ve strouhance. Jemně přitiskni."
+    },
+    {
+      "text": "Olej v pánvi rozehřej na 170 °C. Poznáš to tak, že kousek chleba v něm do 30 sekund zezlátne."
+    },
+    {
+      "text": "Smaž růžičky 2 až 3 minuty z každé strany do zlaté barvy. Odkapej na papírové utěrce a podávej s citronem a tatarkou nebo bramborem."
+    }
+  ],
+  "tips": [
+    "Květák musí být suchý. Mokrý povrch nedrží obal a při smažení stříká.",
+    "Vařečku zkus nabodnout: do okrajů růžiček by měla jít bez většího odporu, ale střed musí držet.",
+    "Pro lehčí verzi dej obalený květák na plech s pečicím papírem, pokrop olejem a peč při 200 °C 20 minut."
+  ],
+  "substitutions": [
+    "Strouhanku můžeš nahradit drcenými cornflakes, obal bude křupavější.",
+    "Veganská verze: vejce nahraď směsí 100 g mouky a 150 ml vody, vznikne hustá těstíčková vazba."
+  ],
+  "faq": [
+    {
+      "q": "Musí se květák před smažením předvařit?",
+      "a": "Ano, 5 minut. Syrový by uvnitř zůstal tvrdý, než se obal zlatavě usmaží."
+    },
+    {
+      "q": "Jak dlouho se smaží květák v trojobalu?",
+      "a": "2 až 3 minuty z každé strany při 170 °C, dohromady asi 5 minut."
+    },
+    {
+      "q": "Dá se smažený květák ohřát?",
+      "a": "Dá, na plechu v troubě při 180 °C asi 8 minut, aby zůstal křupavý. V mikrovlnce změkne."
+    }
+  ]
+}

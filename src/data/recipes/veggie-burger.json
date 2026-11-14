@@ -1,0 +1,167 @@
+{
+  "title": "Veggie burger z cizrny",
+  "keywords": [
+    "veggie burger",
+    "cizrnový burger",
+    "vegetariánský burger",
+    "burger z cizrny"
+  ],
+  "image": "dish-veggie-burger-nikdy",
+  "category": "burgery",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 10,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek v lednici",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Veggie burger z cizrny s ovesnými vločkami drží pohromadě a na pánvi se opeče do křupava. Cizrna se rozmačká hrubě, aby placka měla strukturu, a před smažením odpočívá 30 minut v lednici. Z uvedeného množství vyjdou 4 burgery.",
+  "ingredients": [
+    {
+      "ingredient": "cizrna-konzerva",
+      "amount": 400,
+      "unit": "g",
+      "note": "scezená a osušená",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "ovesne-vlocky",
+      "amount": 60,
+      "unit": "g",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "najemno",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 24,
+      "unit": "g",
+      "note": "3 lžíce",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Placky"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "bulky-burger",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Složení"
+    },
+    {
+      "ingredient": "ledovy-salat",
+      "amount": 0.25,
+      "unit": "ks",
+      "group": "Složení"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 120,
+      "unit": "g",
+      "group": "Složení"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 40,
+      "unit": "g",
+      "group": "Složení"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 60,
+      "unit": "g",
+      "group": "Složení"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Složení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Cizrna",
+      "text": "Cizrnu dobře scedíš a osuš utěrkou, aby placky nebyly kašovité. Vlož ji do mísy a hrubě rozmačkej vidličkou, necháš nějaké kousky."
+    },
+    {
+      "section": "Směs",
+      "text": "Přidej vločky, cibuli, prolisovaný česnek, kmín, uzenou papriku, vejce, strouhanku a sůl a promíchej. Směs má jít tvarovat a držet tvar."
+    },
+    {
+      "section": "Odpočinek",
+      "text": "Z hmoty vytvaruj 4 placky o průměru 9 cm a výšce 2 cm. Dej je na talíř a nech 30 minut v lednici ztuhnout."
+    },
+    {
+      "section": "Smažení",
+      "text": "Na pánvi rozehřej olej na středním ohni a smaž placky 4 až 5 minut z každé strany, dokud nejsou zlatohnědé a křupavé. Obracej jen jednou."
+    },
+    {
+      "section": "Složení",
+      "text": "Bulky rozkroj a opeč řezem dolů na suché pánvi. Potři majonézou smíchanou s hořčicí, přidej salát, rajče, okurku a placku. Přiklop a podávej hned."
+    }
+  ],
+  "tips": [
+    "Příliš mokrá směs je nejčastější problém. Dej vždy do hrsti trochu strouhanky nebo vloček a nech ji 5 minut nasáknout.",
+    "Placky můžeš místo smažení péct 20 minut na 200 °C, v půlce otoč.",
+    "Hotové placky vydrží syrové v lednici 1 den, upečené 3 dny."
+  ],
+  "substitutions": [
+    "Vejce nahraď 2 lžícemi mletého lnu smíchanými se 6 lžícemi vody a burger bude veganský, majonézu nahraď veganskou.",
+    "Strouhanku lze nahradit ovesnou moukou nebo mletými ořechy.",
+    "Cizrnu nahraď červenými fazolemi nebo černou čočkou."
+  ],
+  "faq": [
+    {
+      "q": "Proč se veggie burger rozpadá?",
+      "a": "Směs je příliš mokrá nebo placky nebyly vychlazené. Cizrnu osuš, přidej strouhanku a nech tvarované placky 30 minut v lednici."
+    },
+    {
+      "q": "Jak dlouho smažit veggie burger?",
+      "a": "Na středním ohni 4 až 5 minut z každé strany. Placka je hotová, když je křupavá a zlatá a uvnitř horká."
+    },
+    {
+      "q": "Dá se veggie burger zamrazit?",
+      "a": "Ano, upečené nebo usmažené placky vydrží 3 měsíce. Rozmrazuj je v lednici a ohřej na pánvi."
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "title": "Yakitori kuřecí špízy",
+  "category": "asijska",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 15,
+  "waitMinutes": 30,
+  "waitLabel": "namáčení špejlí a marinování",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "yakitori",
+    "yakitori recept",
+    "japonské kuřecí špízy",
+    "kuřecí špízy teriyaki"
+  ],
+  "intro": "Yakitori jsou japonské kuřecí špízy, které se opékají a při tom potírají lesklou omáčkou z sójovky, mirinu a cukru. Dají se udělat na pánvi, v troubě i na grilu. Trik je ve šťavnatých stehnech a omáčce, kterou předem zredukuješ.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 600,
+      "unit": "g",
+      "note": "vykostěná, na kostky 3 cm",
+      "group": "Špízy"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 4,
+      "unit": "ks",
+      "note": "bílá část na 3 cm kousky",
+      "group": "Špízy"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Špízy"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 5,
+      "unit": "lzice",
+      "group": "Omáčka tare"
+    },
+    {
+      "ingredient": "mirin",
+      "amount": 5,
+      "unit": "lzice",
+      "group": "Omáčka tare"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka tare"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "plátek",
+      "group": "Omáčka tare"
+    },
+    {
+      "ingredient": "ryze-sushi",
+      "amount": 250,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Špízy",
+      "text": "Dřevěné špejle namoč do vody na 30 minut, aby se na grilu nespálily."
+    },
+    {
+      "section": "Omáčka tare",
+      "text": "Sójovou omáčku, mirin, cukr a zázvor svař v rendlíku na mírném ohni 8 až 10 minut, až se omáčka zredukuje na polovinu a začne se lesknout. Zázvor vyndej."
+    },
+    {
+      "section": "Špízy",
+      "text": "Na špejle střídavě navlékej kousky kuřete a cibulky, na každou vyjdou 3 až 4 kousky masa. Potři olejem."
+    },
+    {
+      "section": "Rýže",
+      "text": "Rýži propírej do čirosti, přiveď se 300 ml vody k varu, zakryj, vař 12 minut na minimu a nech 10 minut dojít."
+    },
+    {
+      "section": "Špízy",
+      "text": "Špízy opékej na rozpálené grilovací pánvi nebo v troubě na grilu 4 minuty z každé strany. Ve třetí minutě je potři omáčkou, tu pak obracej ještě dvakrát."
+    },
+    {
+      "section": "Špízy",
+      "text": "Maso je hotové, když má uvnitř 75 °C a šťáva z něj teče čirá. Podávej s rýží, posyp sezamem a přelij zbytkem omáčky."
+    }
+  ],
+  "tips": [
+    "Stehna zůstávají šťavnatá. Z prsou se snadno stane suchá guma, proto je krájej větší a opékej kratší dobu.",
+    "Omáčku, kterou jsi potíral syrové maso, už nepodávej. Část si pro stůl odlij předem do misky.",
+    "Cibulku navlékej tak, aby se vrstvy držely pohromadě, jinak se rozpadne."
+  ],
+  "substitutions": [
+    "Mirin nahraď lžící cukru a lžící vody s trochou octa.",
+    "Stehna zaměň za kuřecí prsa, opékej kratší dobu, jinak vyschnou.",
+    "Do špízů navlékej i žampiony nebo kousky papriky."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi yakitori a teriyaki?",
+      "a": "Yakitori jsou špízy opékané na rožni, teriyaki je způsob přípravy, kdy se maso glazuje omáčkou. Yakitori se často glazují právě omáčkou teriyaki, takže se překrývají."
+    },
+    {
+      "q": "Jak dlouho péct yakitori v troubě?",
+      "a": "Na grilu při 230 °C asi 8 až 10 minut, po 4 minutách je obrať. Maso musí mít uvnitř 75 °C."
+    },
+    {
+      "q": "Jak uchovat zbylé špízy?",
+      "a": "V lednici 2 dny v uzavřené nádobě, ohřívej je v troubě při 180 °C asi 8 minut, aby nevyschly."
+    }
+  ],
+  "image": "dish-yakitori-ramen",
+  "vegetarian": false
+}

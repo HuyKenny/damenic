@@ -1,0 +1,20 @@
+{
+  "name": "Japchae s hovězím a zeleninou",
+  "restaurant": "pho-nebude",
+  "kind": "main",
+  "section": "Nudle a rýže",
+  "description": "Skleněné nudle ze sladkých brambor s hovězím, špenátem, mrkví a paprikou v sezamovo-sójové omáčce.",
+  "about": [
+    "Japchae jsou nudle, které vypadají jako sklo a chutnají po sezamovém oleji. Zelenina se osmahne zvlášť, aby každá barva zůstala na svém místě.",
+    "Pho nebude, ale japchae si udělá obsah z toho, co máš v lednici. Pár minut práce navíc, žádné čekání na kurýra."
+  ],
+  "price": 19900,
+  "image": "dish-japchae-pho",
+  "recipe": "japchae",
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "order": 210
+}

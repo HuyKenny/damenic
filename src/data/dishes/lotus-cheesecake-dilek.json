@@ -1,0 +1,23 @@
+{
+  "name": "Karamelový sušenkový cheesecake, dílek",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Krémové a ovocné",
+  "description": "Nepečený dort z karamelových sušenek, mascarpone a karamelové pomazánky s polevou navrch.",
+  "about": [
+    "Karamelový sušenkový cheesecake má tři vrstvy: sušenkový základ, krém z mascarpone, smetanového sýra a karamelové pasty a polevu navrch. Nemusí do trouby, jen do lednice na šest hodin.",
+    "Dostaneš dílek z formy o průměru 22 cm. Karamel se lepí, ale doručení neexistuje, takže ti nic neumaže."
+  ],
+  "price": 14900,
+  "image": "dish-lotus-cheesecake-dilek",
+  "recipe": "lotus-cheesecake",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    6,
+    7
+  ],
+  "order": 65
+}

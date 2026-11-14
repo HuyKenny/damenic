@@ -1,0 +1,21 @@
+{
+  "name": "Mléčná rýže se skořicí",
+  "restaurant": "na-lacno",
+  "kind": "main",
+  "section": "Sladké",
+  "description": "Krémová mléčná rýže s máslem a skořicí navrch. Teplá miska, ve které nechybí nic kromě doručení.",
+  "about": [
+    "Mléčná rýže je jídlo, které nikdo neřeší, dokud ho nepřipálí. Hlavní trik je v dvoustupňovém vaření: nejdřív voda, potom mléko, a nakonec cukr, protože ten mléko nejvíc láká ke dnu.",
+    "V kavárně se podává s máslem a skořicí. Skutečná je jen miska ve tvé kuchyni, kurýr by ji stejně rozlil. Mléko se ale vaří poctivě, 40 minut od začátku do konce."
+  ],
+  "price": 9900,
+  "image": "dish-ryzova-kase-lacno",
+  "recipe": "ryzova-kase",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 100
+}

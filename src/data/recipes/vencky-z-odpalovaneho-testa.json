@@ -1,0 +1,139 @@
+{
+  "title": "Věnečky z odpalovaného těsta se šlehačkou",
+  "keywords": [
+    "věnečky z odpalovaného těsta",
+    "odpalované těsto",
+    "odpalované věnečky",
+    "věnečky se šlehačkou"
+  ],
+  "intro": "Věnečky z odpalovaného těsta jsou vzdušné kroužky naplněné šlehačkou a polité čokoládou. Z dávky vyjde asi 16 věnečků. Těsto se uvaří na plotně, vejce se zapracují postupně a při pečení se nesmí otevírat trouba, jinak věnečky spadnou.",
+  "image": "dish-vencky-z-vitriny",
+  "category": "dorty",
+  "servings": 8,
+  "activeMinutes": 50,
+  "cookMinutes": 30,
+  "waitMinutes": 60,
+  "waitLabel": "vychladnutí věnečků",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g",
+      "note": "prosátá",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "pokojové teploty",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 400,
+      "unit": "ml",
+      "note": "min. 33 %, vychlazená",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 60,
+      "unit": "ml",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Vodu, máslo a sůl přiveď v kastrolu k varu. Máslo se má celé rozpustit. Sundej z ohně, vsyp najednou mouku a rychle míchej vařečkou do hladké hmoty."
+    },
+    {
+      "section": "Těsto",
+      "text": "Kastrol vrať na slabý oheň a míchej 1 až 2 minuty, dokud se těsto nepustí od stěn a na dně nevznikne tenký film. Přendej do mísy a nech 5 minut vychladnout asi na 60 °C, jinak by se vejce srazila."
+    },
+    {
+      "section": "Těsto",
+      "text": "Po jednom zašlehej 3 vejce, vždy až se předchozí úplně spojí. Čtvrté vejce rozmíchej vidličkou a přidávej po lžících. Těsto má být lesklé a z lžíce pomalu padat ve tvaru V."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Troubu předehřej na 200 °C horní a spodní ohřev (horkovzduch 190 °C). Těsto dej do sáčku s hvězdicovou špicí a na plech s pečicím papírem vytlač věnečky o průměru 7 cm s mezerami 4 cm."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 20 minut a troubu neotvírej. Pak sniž na 170 °C a peč dalších 10 minut, dokud nejsou věnečky zlatohnědé a lehké. Troubu vypni a dveře nech 5 minut pootevřené, aby věnečky vyschly."
+    },
+    {
+      "section": "Náplň",
+      "text": "Věnečky nech úplně vychladnout. Šlehačku ušlehej s moučkovým a vanilkovým cukrem do tuhého. Věnečky rozkroj napříč a naplň je sáčkem se špičkou."
+    },
+    {
+      "section": "Poleva",
+      "text": "Čokoládu rozpusť ve vodní lázni s 60 ml smetany a míchej do hladka. Vrchní polovinu věnečků namoč do vlažné polevy a vrať na naplněný spodek. Dej na 30 minut do lednice."
+    }
+  ],
+  "tips": [
+    "Při pečení do trouby nelez a nevětrej, věnečky spadnou. Hotové věnečky jsou lehké a duté, po poklepání zní dutě.",
+    "Neplněné věnečky zmrazíš na 1 měsíc a před plněním je 5 minut oživíš v troubě při 150 °C.",
+    "Naplněné věnečky sněz do 24 hodin, vlhkost šlehačky těsto změkčí."
+  ],
+  "substitutions": [
+    "Šlehačku nahraď vanilkovým pudinkovým krémem nebo mascarpone smíchaným s 200 ml šlehačky.",
+    "Čokoládovou polevu nahraď moučkovým cukrem rozmíchaným s citronovou šťávou.",
+    "Máslo v těstě nahraď 100 ml oleje, těsto bude křehčí, ale méně máslové."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi odpalované těsto spadlo?",
+      "a": "Dveře trouby se otevřely předčasně, nebo věnečky nebyly dost propečené. Po 20 minutách pečení sniž teplotu a nech věnečky ještě vysušit."
+    },
+    {
+      "q": "Kolik vajec dát do odpalovaného těsta?",
+      "a": "Na 150 g mouky 3 až 4 vejce. Poslední vejce přidávej po lžících, těsto má být lesklé a z lžíce pomalu padat ve tvaru V."
+    },
+    {
+      "q": "Jak dlouho vydrží věnečky?",
+      "a": "Prázdné v uzavřené dóze 2 dny, naplněné jen do 24 hodin v lednici. Zmrazené vydrží prázdné 1 měsíc."
+    }
+  ]
+}

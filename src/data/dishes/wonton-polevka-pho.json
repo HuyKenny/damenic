@@ -1,0 +1,21 @@
+{
+  "name": "Wonton polévka s pak-choi",
+  "restaurant": "pho-nebude",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Čirý kuřecí vývar se zázvorem, vepřové wontony, pak-choi a jarní cibulka.",
+  "about": [
+    "Wonton polévka je vývar s malými vlastnoručně zavinutými dárečky. Každý knedlíček je jedno sousto a jedno malé skládání, zázvor s sójovkou dělají zbytek.",
+    "Pho nebude, ale wontony jsou jeho příbuzní z čirého vývaru. Zabalíš je za půl hodiny, uvaříš za pět minut, a doručení doma bude stejně smyšlené."
+  ],
+  "price": 13900,
+  "image": "dish-wonton-polevka-pho",
+  "recipe": "wonton-polevka",
+  "allergens": [
+    1,
+    6,
+    9,
+    11
+  ],
+  "order": 220
+}

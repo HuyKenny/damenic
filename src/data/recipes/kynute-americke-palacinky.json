@@ -1,0 +1,117 @@
+{
+  "title": "Kynuté americké palačinky",
+  "keywords": [
+    "kynuté americké palačinky",
+    "americké palačinky z kynutého těsta",
+    "pancakes s droždím",
+    "nadýchané palačinky"
+  ],
+  "intro": "Kynuté americké palačinky se připravují z droždí, mléka a mouky a těsto kyne hodinu. Výsledek je vzdušnější a chuťově plnější než u palačinek s práškem do pečiva. Z dávky vyjde asi 10 palačinek pro 4 lidi a těsto se musí míchat jen krátce, aby neztratilo bublinky.",
+  "image": "dish-kynute-palacinky-kolac",
+  "category": "dezerty",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 0,
+  "waitMinutes": 60,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "meal": "snidane",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 10,
+      "unit": "g",
+      "note": "čerstvé"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 280,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "rozpuštěné a vlažné, + trochu na pánev"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "javorovy-sirup",
+      "amount": 80,
+      "unit": "ml",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Kvásek",
+      "text": "Droždí rozdrol do vlažného mléka se lžící cukru z odměřeného množství a nech 10 minut, až se na hladině objeví pěna."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej se zbytkem cukru, vanilkovým cukrem a solí. Přidej kvásek, vejce a vlažné rozpuštěné máslo a míchej do hladkého, řidšího těsta, asi 2 minuty."
+    },
+    {
+      "section": "Kynutí",
+      "text": "Mísu přikryj utěrkou a nech těsto 60 minut kynout v teple, dokud nezdvojnásobí objem a není plné bublinek. Nemíchej ho, nebo bublinky zmizí."
+    },
+    {
+      "section": "Smažení",
+      "text": "Pánev vymaž máslem a rozehřej na střední oheň, asi 160 °C. Naběračkou dávej těsto na kruh o průměru 10 cm. Smaž 2 až 3 minuty, dokud se neobjeví bublinky na povrchu a okraje nejsou matné."
+    },
+    {
+      "section": "Smažení",
+      "text": "Otoč a smaž ještě 1 až 2 minuty, dokud nejsou zlatohnědé a uprostřed propečené. Palačinky drž teplé v troubě při 100 °C."
+    }
+  ],
+  "tips": [
+    "Na pánev dávej těsto z výšky co nejmenší a nemačkej ho špachtlí. Lisování vytlačí vzduch.",
+    "Hotové palačinky se dají zmrazit na 1 měsíc a ohřát v toasteru.",
+    "Podávej s javorovým sirupem, ovocem nebo kouskem másla."
+  ],
+  "substitutions": [
+    "Čerstvé droždí nahraď 3 g sušeného (pětina sáčku), přidej ho přímo do mouky.",
+    "Mléko můžeš nahradit ovesným nebo mandlovým nápojem.",
+    "Jedno vejce nahraď 50 ml mléka s lžící oleje, palačinky budou méně nadýchané."
+  ],
+  "faq": [
+    {
+      "q": "Čím se liší kynuté americké palačinky od obyčejných?",
+      "a": "Používají droždí místo prášku do pečiva. Mají vzdušnější střídu a výraznější chuť po kvašení, vyžadují ale hodinu kynutí."
+    },
+    {
+      "q": "Proč palačinky nenakynuly?",
+      "a": "Droždí mohlo být staré, nebo mléko příliš horké. Mléko má mít asi 35 °C a droždí musí vytvořit pěnu do 10 minut."
+    },
+    {
+      "q": "Dá se těsto připravit večer?",
+      "a": "Ano. Nech ho kynout v lednici přes noc, vydrží tam do 12 hodin. Ráno ho před smažením nech 15 minut ohřát."
+    }
+  ]
+}

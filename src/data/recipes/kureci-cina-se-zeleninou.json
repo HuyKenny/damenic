@@ -1,0 +1,195 @@
+{
+  "title": "Kuřecí čína se zeleninou",
+  "category": "asijska",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 15,
+  "waitMinutes": 15,
+  "waitLabel": "marinování kuřete",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "kuřecí čína",
+    "čína recept",
+    "kuřecí čína s rýží",
+    "čína se zeleninou"
+  ],
+  "intro": "Kuřecí čína se zeleninou a jasmínovou rýží je domácí verze čínské restaurace: nudličky kuřecích prsou v lesklé sójové omáčce se zelím, mrkví, paprikou a žampiony. Kuře se před smažením obalí ve škrobu, zůstane šťavnaté, a zelenina musí na pánvi zůstat křupavá.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 500,
+      "unit": "g",
+      "note": "nakrájená na tenké nudličky",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 15,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ustricova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ocet-ryzovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "zeli-pekingske",
+      "amount": 250,
+      "unit": "g",
+      "note": "nakrájené na proužky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "na tenké plátky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na proužky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 150,
+      "unit": "g",
+      "note": "nakrájené na plátky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na proužky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "nadrobno",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "na smažení",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "ryze-jasminova",
+      "amount": 300,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 450,
+      "unit": "ml",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Kuře",
+      "text": "Kuřecí nudličky promíchej se 2 lžícemi sójové omáčky, lžící škrobu a zázvorem. Nech je 15 minut v chladu, škrob na nich vytvoří tenký obal."
+    },
+    {
+      "section": "Rýže",
+      "text": "Rýži dvakrát propláchni, dej ji do hrnce s 450 ml vody, přiveď k varu, zakryj, stáhni na minimum a vař 12 minut. Pak ji nech 10 minut stát pod pokličkou."
+    },
+    {
+      "section": "Omáčka",
+      "text": "V misce rozmíchej sójovou a ústřicovou omáčku, cukr, ocet, 2 lžičky škrobu a vývar. Škrob při stání klesá ke dnu, před použitím omáčku znovu promíchej."
+    },
+    {
+      "section": "Kuře",
+      "text": "Na velké pánvi nebo woku rozehřej 2 lžíce oleje na vysokém ohni. Kuře opékej po částech 3 až 4 minuty, dokud není vně zlatavé a uvnitř nemá 75 °C. Přendej ho na talíř."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Do stejné pánve dej zbylý olej, mrkev a cibuli a míchej 2 minuty. Přidej papriku, žampiony a zelí a míchej další 3 minuty, zelenina má zůstat do křupava. Přidej česnek na posledních 30 sekund."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Vrať kuře do pánve, omáčku znovu promíchej a vlij ji dovnitř. Za stálého míchání ji nech 1 až 2 minuty probublávat, až zhoustne a obalí všechno. Podávej s rýží."
+    }
+  ],
+  "tips": [
+    "Maso krájej proti vláknům. Chvíli v mrazáku (15 minut) ho zpevní, nudličky pak vyjdou rovnoměrné.",
+    "Pánev nepřeplňuj. Když smažíš všechno najednou, zelenina se spíš dusí, než opéká. Radši dvě dávky.",
+    "Pokud se ti nechce dělat omáčku zvlášť, sójovku, cukr a ocet nahraď hotovou směsí z lahve, škrob ale přidej vždy."
+  ],
+  "substitutions": [
+    "Místo ústřicové omáčky použij další lžíci sójové omáčky a půl lžičky cukru.",
+    "Kuřecí prsa můžeš nahradit vykostěnými stehny, budou šťavnatější, smaž je o minutu déle.",
+    "Pekingské zelí lze zaměnit za bílé zelí nebo pak-choi."
+  ],
+  "faq": [
+    {
+      "q": "Čím zahustit omáčku na čínu?",
+      "a": "Škrobem rozmíchaným ve studené tekutině, tady 2 lžičky na 200 ml vývaru. Přidej ho do horké pánve a míchej, zhoustne během minuty a zesklovatí."
+    },
+    {
+      "q": "Jak udělat kuře v čínské restauraci šťavnaté?",
+      "a": "Nakrájené maso krátce marinuj se sójovkou a škrobem a smaž ho na vysokém ohni po menších dávkách. Obal drží šťávu uvnitř."
+    },
+    {
+      "q": "Dá se čína připravit předem?",
+      "a": "Zeleninu a omáčku ano, maso i zeleninu ale smaž až těsně před jídlem. Uvařené jídlo vydrží v lednici 2 dny, ohřívej ho na pánvi."
+    }
+  ],
+  "image": "dish-kureci-cina-se-zeleninou-wok",
+  "vegetarian": false
+}

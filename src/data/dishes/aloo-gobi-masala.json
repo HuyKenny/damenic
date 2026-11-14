@@ -1,0 +1,18 @@
+{
+  "name": "Aloo gobi s rýží",
+  "restaurant": "masala-mozna",
+  "kind": "main",
+  "section": "Kari a rýže",
+  "description": "Brambory a květák dušené s kmínem, kurkumou a zázvorem, basmati rýže.",
+  "about": [
+    "Aloo gobi je jídlo, které se zeptá, co máš v lednici, a odpoví kmínem. Brambory a květák, žádné maso, a přece sytý talíř.",
+    "Masala možná, ale kurýr už ne. Doma stačí hrnec, koření a půl hodiny, aby se kuchyň zaplnila vůní, která je z celé pouliční kuchyně."
+  ],
+  "price": 16900,
+  "image": "dish-aloo-gobi-masala",
+  "recipe": "aloo-gobi",
+  "vegetarian": true,
+  "spicy": 1,
+  "allergens": [],
+  "order": 200
+}

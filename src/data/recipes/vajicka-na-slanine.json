@@ -1,0 +1,105 @@
+{
+  "title": "Volská oka na slanině",
+  "keywords": [
+    "vajíčka na slanině",
+    "volská oka na slanině",
+    "vejce na slanině",
+    "snídaně vejce a slanina"
+  ],
+  "image": "dish-vajicka-na-slanine-lacno",
+  "category": "snidane",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 5,
+  "cookMinutes": 12,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Vajíčka na slanině jsou snídaně z pánve za 15 minut: slanina se pomalu vypeče do křupava a vejce se rozklepnou do vypečeného tuku. Žloutek zůstane tekutý, bílek je pevný. Na dva lidi stačí 4 vejce a 120 g slaniny.",
+  "ingredients": [
+    {
+      "ingredient": "slanina",
+      "amount": 120,
+      "unit": "g",
+      "note": "tenké plátky, 4 až 6 kusů",
+      "group": "Na pánvi"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Na pánvi"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Na pánvi"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Na pánvi"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 100,
+      "unit": "g",
+      "note": "2 krajíce",
+      "group": "Na podávání"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.25,
+      "unit": "ks",
+      "group": "Na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Slanina",
+      "text": "Plátky slaniny rozlož na studenou pánev a dej ji na středně mírný oheň. Smaž 6 až 8 minut, dokud se tuk nevypeče a slanina není zlatá a křupavá."
+    },
+    {
+      "section": "Odložení",
+      "text": "Slaninu vyndej na talíř a nech v pánvi asi 1 lžíci tuku. Zbytek slij."
+    },
+    {
+      "section": "Vejce",
+      "text": "Vejce rozklepni jedno po druhém do hrnku a opatrně je vyklop do horkého tuku. Posol je a opepři."
+    },
+    {
+      "section": "Smažení",
+      "text": "Smaž na mírném ohni 2 až 3 minuty a pánev přikryj pokličkou, aby bílek na povrchu zatuhl. Žloutek zůstane tekutý, chceš-li ho pevný, nech vejce 4 až 5 minut."
+    },
+    {
+      "section": "Podávání",
+      "text": "Vejce přendej na slaninu, přidej opečený chléb a posyp pažitkou. Jez hned, dokud je žloutek teplý."
+    }
+  ],
+  "tips": [
+    "Slaninu dej na studenou pánev. Tuk se vypeče pomaleji a slanina se nezkroutí do kuličky.",
+    "Čerstvá vejce mají vysoký žloutek a bílek se neroztéká. Starší vejce se do pánve rozteče.",
+    "Děti, těhotné ženy a senioři by měli vejce vařit do pevného žloutku, tedy 4 až 5 minut pod pokličkou."
+  ],
+  "substitutions": [
+    "Slaninu jde nahradit opečenou šunkou, klobásou nebo kostičkami uzeného tofu.",
+    "Chléb nahraď toustem opečeným v troubě nebo na pánvi do křupava.",
+    "Přidej plátky rajčete nebo hrst špenátu, který se v tuku za minutu svine."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat vejce na slanině?",
+      "a": "Slaninu vypeč na studené pánvi do křupava, vyndej ji a do vypečeného tuku rozklepni vejce. Smaž 2 až 3 minuty pod pokličkou."
+    },
+    {
+      "q": "Jak dlouho smažit slaninu?",
+      "a": "Na středně mírném ohni 6 až 8 minut, podle tloušťky plátků. Rychlejší smažení na silném ohni slaninu spálí a tuk se nevypeče."
+    },
+    {
+      "q": "Je bezpečné jíst vejce s tekutým žloutkem?",
+      "a": "Pro zdravé dospělé ano, pokud jsou vejce čerstvá a uložená v chladu. Děti, těhotné ženy a senioři by měli volit propečený žloutek."
+    }
+  ]
+}

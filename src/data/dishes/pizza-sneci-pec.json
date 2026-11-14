@@ -1,0 +1,22 @@
+{
+  "name": "Pizza šneci s šunkou a sýrem",
+  "restaurant": "prazdna-pec",
+  "kind": "main",
+  "section": "Pizza",
+  "description": "Listové těsto s rajčatovým základem, šunkou a sýrem, stočené do šneků. Pec rozpálená, taška lehká.",
+  "about": [
+    "Pizza šneci jsou pizza pro netrpělivé. Místo kynutého těsta se použije listové, místo hodiny kynutí stačí 15 minut pečení a ze zbytku se stane svačina na zítra.",
+    "Pec máme rozpálenou, jen do ní nic nedáváme. Tvoje trouba ale těsto stočí do šneků za deset minut a upeče je do křupava."
+  ],
+  "price": 11900,
+  "image": "dish-pizza-sneci-pec",
+  "recipe": "pizza-sneci",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 100
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Zeleninové rizoto",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Rizoto a gnocchi",
+  "description": "Krémové arborio s cuketou, mrkví a hráškem, dokončené máslem a parmazánem.",
+  "about": [
+    "Zeleninové rizoto je jídlo, u kterého se čeká. Rýže se opraží, pak přijímá vývar po naběračkách a kuchař u ní stojí asi pětadvacet minut. Rizoto z pytlíku se nikdy nevyrovná takové, které se míchalo.",
+    "Zelenina je hlavně na barvu a sladkost, krém dělá škrob z rýže. Na talíři má lehce téct. U nás vždycky teče jen slib."
+  ],
+  "price": 21900,
+  "image": "dish-zeleninove-rizoto-domani",
+  "recipe": "zeleninove-rizoto",
+  "optionGroups": [],
+  "vegetarian": true,
+  "allergens": [
+    7,
+    9
+  ],
+  "order": 72
+}

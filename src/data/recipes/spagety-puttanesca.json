@@ -1,0 +1,117 @@
+{
+  "title": "Špagety puttanesca",
+  "keywords": [
+    "špagety puttanesca",
+    "těstoviny puttanesca",
+    "puttanesca recept",
+    "ančovičky kapary olivy těstoviny"
+  ],
+  "image": "dish-puttanesca-niente",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Puttanesca je neapolská omáčka z rajčat, černých oliv, kaparů, ančoviček a česneku. Hotová je za čtvrt hodiny z věcí, které se dají držet ve spíži. Ančovičky se v ní rozpustí a dají jí slanou, hlubokou chuť bez rybí příchuti.",
+  "ingredients": [
+    {
+      "ingredient": "spagety",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na těstoviny"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "na tenké plátky"
+    },
+    {
+      "ingredient": "ancovicky",
+      "amount": 20,
+      "unit": "g",
+      "note": "asi 4 filety"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "olivy",
+      "amount": 60,
+      "unit": "g",
+      "note": "černé, na půlky"
+    },
+    {
+      "ingredient": "kapary",
+      "amount": 15,
+      "unit": "g",
+      "note": "asi 1 lžíce, slité"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Špagety vař podle obalu o minutu kratší dobu, odlij šálek vody z vaření."
+    },
+    {
+      "text": "Na pánvi nahřej olej, přidej ančovičky a míchej, dokud se nerozpustí, asi 1 minutu. Přidej česnek a chilli na 30 sekund."
+    },
+    {
+      "text": "Zalij passatou, přidej olivy a kapary. Vař na středním plameni 10 minut, dokud omáčka mírně nezhoustne."
+    },
+    {
+      "text": "Špagety přendej do omáčky, přilij trochu vody z vaření a 1 minutu je vařte spolu na středním plameni."
+    },
+    {
+      "text": "Posyp petrželkou a podávej bez sýra, tradičně se nepoužívá."
+    }
+  ],
+  "tips": [
+    "Ančovičky nepřidávej do studeného oleje, ale do rozehřátého. Rychle se rozpustí.",
+    "Soli přidej opatrně. Ančovičky, olivy a kapary jsou slané a omáčka často nepotřebuje nic navíc.",
+    "Dá se připravit dopředu a ohřát. V lednici vydrží 3 dny."
+  ],
+  "substitutions": [
+    "Ančovičky nahradíš 1 lžičkou rybí omáčky nebo je vynech, vznikne bezmasá verze, ale ztratí hloubku.",
+    "Místo špaget použij linguine nebo bucatini."
+  ],
+  "faq": [
+    {
+      "q": "Co znamená puttanesca?",
+      "a": "Italský název neapolské omáčky z rajčat, oliv, kaparů a ančoviček. Původ jména je sporný, recept je ale klasický."
+    },
+    {
+      "q": "Dá se puttanesca bez ančoviček?",
+      "a": "Dá, jen bude plošší. Pomůže lžička rybí omáčky nebo kapka sójové omáčky."
+    },
+    {
+      "q": "Jaké olivy do puttanesky?",
+      "a": "Černé, nejlépe s peckou odstraněnou a rozpůlené. Zelené dají omáčce ostřejší chuť."
+    }
+  ]
+}

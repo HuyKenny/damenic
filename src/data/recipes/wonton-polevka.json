@@ -1,0 +1,154 @@
+{
+  "title": "Wonton polévka",
+  "category": "asijska",
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 15,
+  "difficulty": "střední",
+  "meal": "polevka",
+  "keywords": [
+    "wonton polévka",
+    "wonton recept",
+    "čínské knedlíčky v polévce",
+    "wontony s vepřovým masem"
+  ],
+  "intro": "Wonton polévka je čirý kuřecí vývar se zázvorem a sójovkou, ve kterém plavou knedlíčky plněné vepřovým masem. Plněné se skládají z hotových plátů a vaří se 5 minut. Je to polévka, která zahřeje a pomůže, když máš chuť na něco lehkého.",
+  "ingredients": [
+    {
+      "ingredient": "placky-wonton",
+      "amount": 24,
+      "unit": "ks",
+      "group": "Wontony"
+    },
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 200,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "nadrobno",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 1000,
+      "unit": "ml",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "plátky",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "pak-choi",
+      "amount": 150,
+      "unit": "g",
+      "note": "nakrájené",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kolečka",
+      "group": "Vývar"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Náplň",
+      "text": "Mleté maso rozmíchej se zázvorem, česnekem, jarní cibulkou, sójovkou, sezamovým olejem a škrobem. Míchej jednou rukou, dokud není hmota lepivá."
+    },
+    {
+      "section": "Wontony",
+      "text": "Doprostřed každého plátu dej lžičku náplně, okraje potři vodou. Přehni do trojúhelníku, přitiskni a spoj protilehlé rohy kolem prstu. Hotové dej na talíř poprášený moukou."
+    },
+    {
+      "section": "Vývar",
+      "text": "Vývar se zázvorem a lžící sójovky přiveď k varu a vař 5 minut. Zázvor vyndej."
+    },
+    {
+      "section": "Wontony",
+      "text": "Wontony vhazuj po částech do vroucí vody (nebo přímo do vývaru) a vař 4 až 5 minut, dokud nevyplavou. Maso uvnitř musí být propečené, bez růžových míst."
+    },
+    {
+      "section": "Vývar",
+      "text": "Do horkého vývaru přidej pak-choi a vař 1 až 2 minuty, aby změklo."
+    },
+    {
+      "section": "Vývar",
+      "text": "Do misek rozděl wontony a pak-choi, zalij vývarem a posyp jarní cibulkou."
+    }
+  ],
+  "tips": [
+    "Nepoužité plátky drž pod vlhkou utěrkou, rychle vysychají.",
+    "Zbylé syrové wontony lze zamrazit na tácu a pak přesypat do sáčku, vaří se přímo ze zmrazení 6 minut.",
+    "Vařit wontony ve vývaru zakalí polévku, pro čirý vývar je uvař zvlášť v osolené vodě."
+  ],
+  "substitutions": [
+    "Vepřové maso nahraď kuřecím mletým, upravuj stejně.",
+    "Pro vegetariánské wontony použij nasekané houby, zelí a tofu s vývarem zeleninovým.",
+    "Pak-choi lze zaměnit za špenát nebo čínské zelí."
+  ],
+  "faq": [
+    {
+      "q": "Čím se liší wonton od gyoza?",
+      "a": "Wontony mají tenčí čtvercové plátky a vaří se nejčastěji v polévce. Gyozy jsou kulaté, silnější a smaží se."
+    },
+    {
+      "q": "Jak poznat, že je wonton uvařený?",
+      "a": "Vyplave na hladinu a plát je průsvitný. Maso uvnitř musí být bez růžové barvy, to trvá 4 až 5 minut."
+    },
+    {
+      "q": "Jde wontony udělat předem?",
+      "a": "Ano, syrové je zmraz na tácu a po zmrznutí dej do sáčku. Vydrží 2 měsíce, vaříš je rovnou z mrazáku."
+    }
+  ],
+  "image": "dish-wonton-polevka-pho",
+  "vegetarian": false
+}

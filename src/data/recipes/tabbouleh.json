@@ -1,0 +1,135 @@
+{
+  "title": "Tabbouleh",
+  "category": "kebab",
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 0,
+  "waitMinutes": 20,
+  "waitLabel": "nabobtnání bulguru",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "keywords": [
+    "tabbouleh",
+    "tabbouleh recept",
+    "libanonský salát s petrželkou",
+    "bulgurový salát"
+  ],
+  "intro": "Tabbouleh je libanonský salát z velkého množství petrželky, máty, rajčat a malé dávky bulguru, ochucený citronem a olivovým olejem. Je to hlavně zelený salát, ne bulgurový. Hotový je za půl hodiny a vydrží den.",
+  "ingredients": [
+    {
+      "ingredient": "bulgur",
+      "amount": 80,
+      "unit": "g",
+      "note": "jemný",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 120,
+      "unit": "ml",
+      "note": "vroucí",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "svazky, bez tvrdých stonků, nasekaná jemně",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 300,
+      "unit": "g",
+      "note": "na malé kostičky",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 3,
+      "unit": "ks",
+      "note": "na tenká kolečka",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 2,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zálivka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Salát",
+      "text": "Bulgur zalij vroucí vodou, přikryj a nech 15 minut nabobtnat. Scedi případný zbytek vody a nech vychladnout."
+    },
+    {
+      "section": "Salát",
+      "text": "Petrželku a mátu pořádně osuš a nasekej velmi jemně. Mokré bylinky se tlačí a hořknou."
+    },
+    {
+      "section": "Zálivka",
+      "text": "Citronovou šťávu, olej, sůl a pepř prošlehej v misce."
+    },
+    {
+      "section": "Salát",
+      "text": "Rajčata nakrájená na kostičky nech 5 minut v cedníku, ať pustí šťávu. Smíchej je s bylinkami, cibulkou a bulgurem."
+    },
+    {
+      "section": "Zálivka",
+      "text": "Zalij zálivkou, promíchej a nech 10 minut odležet. Dochuť solí a citronem a podávej."
+    }
+  ],
+  "tips": [
+    "Bylinek má být víc než bulguru, je to salát z petrželky.",
+    "Rajčata přidej těsně před podáváním, jinak změknou.",
+    "V Libanonu se podává v listech římského salátu, kterými se salát nabírá."
+  ],
+  "substitutions": [
+    "Bulgur nahraď kuskusem nebo quinoou, quinoa je bez lepku.",
+    "Mátu můžeš vynechat, ale chuť bude plošší.",
+    "Citron nahraď limetkou."
+  ],
+  "faq": [
+    {
+      "q": "Z čeho je tabbouleh?",
+      "a": "Z petrželky, máty, rajčat, cibule, bulguru, citronové šťávy a olivového oleje. Je to svěží zelený salát."
+    },
+    {
+      "q": "Dá se tabbouleh udělat předem?",
+      "a": "Ano, ale rajčata a zálivku přidej těsně před podáváním. Bylinky v zálivce brzy ztmavnou."
+    },
+    {
+      "q": "Je tabbouleh bezlepkový?",
+      "a": "Ne, bulgur obsahuje lepek. Bezlepkově ho můžeš udělat s quinoou."
+    }
+  ],
+  "image": "dish-tabbouleh",
+  "vegetarian": true
+}

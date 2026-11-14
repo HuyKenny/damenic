@@ -1,0 +1,131 @@
+{
+  "title": "Pečený bůček s křupavou kůží",
+  "keywords": [
+    "pečený bůček",
+    "pečený vepřový bůček",
+    "bůček z trouby",
+    "křupavý bůček",
+    "bůček s kůží"
+  ],
+  "image": "dish-peceny-bucek",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 105,
+  "waitMinutes": 60,
+  "waitLabel": "osolení a oschnutí kůže v lednici",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Pečený bůček s křupavou kůží z trouby pro čtyři: nejdřív se dusí přikrytý do měkka, potom se kůže při vysoké teplotě nechá nafouknout a popraskat. Rozhoduje suchá kůže, takže ji před pečením opař, pečlivě osuš a nech hodinu vysychat v lednici.",
+  "ingredients": [
+    {
+      "ingredient": "veprovy-bucek",
+      "amount": 1000,
+      "unit": "g",
+      "note": "s kůží, jeden souvislý kus asi 5 cm silný",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 500,
+      "unit": "ml",
+      "note": "vroucí, na opaření kůže",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "hrubší, rozdělená na kůži a na maso",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "rozdrcený",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný, jen na masové boky",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 250,
+      "unit": "g",
+      "note": "na silnější půlkolečka",
+      "group": "Pečení"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 200,
+      "unit": "ml",
+      "note": "horká, na podlití pekáče",
+      "group": "Pečení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Bůček osuš a ostrým nožem nařízni kůži do kosočtverců vzdálených asi 1 cm. Řez veď jen skrz kůži a tuk, do masa nezajíždět, jinak z něj bude při pečení unikat šťáva.",
+      "section": "Příprava"
+    },
+    {
+      "text": "Bůček polož kůží nahoru na mřížku nad dřez a opatrně ho po kůži polij 500 ml vroucí vody. Kůže se stáhne a řezy se rozevřou. Potom ji důkladně osuš papírovou utěrkou.",
+      "section": "Příprava"
+    },
+    {
+      "text": "Kůži posyp jen polovinou soli. Boky a spodní stranu s masem potři zbylou solí, kmínem, pepřem a česnekem. Kůži nepotírej tukem ani kořením, kmín by na ní při pečení zhořkl.",
+      "section": "Příprava"
+    },
+    {
+      "text": "Bůček polož na talíř nebo mřížku a nech ho v lednici nepřikrytý aspoň 60 minut, klidně až přes noc. Studený vzduch lednice kůži vysuší a pozdější křupavost je pak jistější.",
+      "section": "Příprava"
+    },
+    {
+      "text": "Troubu předehřej na 180 °C, horkovzduch na 170 °C. Do pekáče rozlož cibuli, polož na ni bůček kůží nahoru a ke stěně nalij 200 ml horké vody tak, aby kůže zůstala suchá. Přikryj alobalem nebo víkem a peč 75 minut.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Pekáč odkryj a troubu zvyš na 230 °C, horkovzduch na 220 °C. Peč dalších 20 až 30 minut, kůže se nafoukne a začne bublat. Poslední minuty hlídej každých 5 minut, spálí se rychle.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Hotový bůček nech 10 minut odpočinout na prkénku. Maso uvnitř má být měkké (vidlička zajede snadno, teplota nad 85 °C) a kůže při klepnutí zvonit. Krájej zubatým nožem kůží dolů, jinak se roztříští.",
+      "section": "Pečení"
+    }
+  ],
+  "tips": [
+    "Kůže se nesmí potírat sádlem ani olejem a nesmí se na ni lít výpek. Voda v pekáči má být jen na dně a bůček v ní nesmí stát kůží.",
+    "Když kůže po půlhodině při 230 °C stále nebublá, zapni na posledních 5 minut gril a pekáč nech v horní třetině trouby.",
+    "Zbylý bůček vydrží zabalený v lednici 3 dny. Ohřívej ho na plechu při 200 °C, mikrovlnka kůži znovu změkčí."
+  ],
+  "substitutions": [
+    "Místo klasického kmínu můžeš použít sušený tymián nebo drcené nové koření, kůži ale ponech jen osolenou.",
+    "Když nemáš kus bůčku s kůží, použij vepřový bok nebo krkovici s kostí, doba pečení se ale prodlouží asi o 20 minut."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se peče vepřový bůček?",
+      "a": "Kus bůčku o hmotnosti 1 kg se peče přikrytý při 180 °C asi 75 minut a potom 20 až 30 minut odkrytý při 230 °C. Dohromady tedy kolem 100 až 105 minut."
+    },
+    {
+      "q": "Jak udělat bůček s křupavou kůží?",
+      "a": "Kůži nařízni, opař vroucí vodou, osuš, osol a nech hodinu vysychat v lednici. V troubě peč nejdřív přikrytý a nakonec odkrytý při 230 °C, aby se kůže nafoukla."
+    },
+    {
+      "q": "Proč je bůček tvrdý?",
+      "a": "Nejčastěji se pekl příliš krátce nebo při vysoké teplotě bez přikrytí. Bůček potřebuje dlouhé pečení pod alobalem, až do měkka, teprve poté se nechá zhnědnout."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Květákové placky",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Teplá jídla",
+  "description": "Zlatavé smažené placky z květáku, vajec a sýra s jogurtovým dipem.",
+  "about": [
+    "Květákové placky jsou rychlé jídlo z nastrouhaného květáku. Důležité je vymačkat z něj vodu, jinak se placky rozpadnou.",
+    "Placky jsou zvenku křupavé, uvnitř měkké. K nim jogurtový dip s česnekem. Tak lehké, že to nic neváží, jak ostatně vše v naší tašce."
+  ],
+  "price": 15900,
+  "image": "dish-kvetakove-placky-nula",
+  "recipe": "kvetakove-placky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 70
+}

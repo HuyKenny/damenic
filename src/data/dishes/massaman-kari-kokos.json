@@ -1,0 +1,21 @@
+{
+  "name": "Massaman kari s kuřecím a bramborami",
+  "restaurant": "kokos-nedorazil",
+  "kind": "main",
+  "section": "Kari a nudle",
+  "description": "Jemné kokosové kari s kuřecím stehnem, bramborami a arašídy, k tomu jasmínová rýže.",
+  "about": [
+    "Massaman je nejmírnější z thajských kari a díky bramborám nejblíže české kuchyni. Skořice, hřebíček a arašídy ho dělají hřejivým, jako by někdo zahřál celou kuchyni.",
+    "Kokosové mléko nedorazilo a kari taky ne. Doma ti to ale zabere necelou hodinu a bude to stát za čekání, které bylo místo cesty."
+  ],
+  "price": 21900,
+  "image": "dish-massaman-kari-kokos",
+  "recipe": "massaman-kari",
+  "spicy": 1,
+  "allergens": [
+    4,
+    5,
+    9
+  ],
+  "order": 200
+}

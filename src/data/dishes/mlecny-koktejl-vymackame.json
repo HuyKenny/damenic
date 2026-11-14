@@ -1,0 +1,21 @@
+{
+  "name": "Jahodový mléčný koktejl",
+  "restaurant": "dzusbar-vymackame-zitra",
+  "kind": "main",
+  "section": "Chladivé",
+  "description": "Husté mléko s vanilkovou zmrzlinou a čerstvými jahodami. Pěna na hladině, brčko v ruce.",
+  "about": [
+    "Mléčný koktejl je tři suroviny a mixér. Poměr mléka a zmrzliny rozhoduje, jestli ho piješ, nebo jíš lžičkou. Doporučujeme brčko.",
+    "Jahody mu dodají barvu i vůni. Džusbar ti sklenici nepřinese, ale koktejl si uděláš dřív, než by kurýr našel výtah."
+  ],
+  "price": 9900,
+  "image": "dish-mlecny-koktejl-vymackame",
+  "recipe": "mlecny-koktejl",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 110
+}

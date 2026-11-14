@@ -1,0 +1,122 @@
+{
+  "title": "Špecle z hladkého těsta",
+  "keywords": [
+    "špecle",
+    "špecle recept",
+    "špecle z tvarohu",
+    "domácí špecle",
+    "špecle jako příloha"
+  ],
+  "image": "dish-specle",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 15,
+  "waitMinutes": 20,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Špecle jsou malé nepravidelné nočky z řídkého vaječného těsta, které se vaří ve vroucí osolené vodě a pak se krátce orestují na másle. Těsto má být hustší než na palačinky, ale pořád stékat z vařečky. Cedí se přes sítko, špecle lis nebo struhadlo s velkými otvory. Pro čtyři porce.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "střední",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "note": "vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 50,
+      "unit": "ml",
+      "note": "a podle potřeby",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "čerstvě nastrouhaný",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na vaření",
+      "group": "Vaření"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "na orestování",
+      "group": "Vaření"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku prosej do mísy, přidej sůl a muškát. V další misce rozšlehej vejce s mlékem a vodou. Tekutinu vlij do mouky a vařečkou těsto šlehej 3 až 4 minuty, až bude lesklé a tahá nitě.",
+      "section": "Těsto"
+    },
+    {
+      "text": "Konzistence má být hustší než na palačinky, ale pomalu stékající z lžíce. Pokud je moc hutné, přidej 1 až 2 lžíce vody, pokud řídké, 1 lžíci mouky. Těsto přikryj a nech 20 minut odpočinout.",
+      "section": "Těsto"
+    },
+    {
+      "text": "Velký hrnec naplň vodou, přidej 1 lžíci soli a přiveď k mírnému varu. Těsto po dávkách protlač špeclovým lisem nebo naber na vlhké prkénko a po proužcích oškrabuj nožem do vody.",
+      "section": "Vaření"
+    },
+    {
+      "text": "Špecle vař 2 až 3 minuty, dokud nevyplavou na hladinu a ještě 30 sekund po vyplavání. Děrovanou lžící je vyndej do cedníku, nech okapat.",
+      "section": "Vaření"
+    },
+    {
+      "text": "Na pánvi rozpusť máslo a špecle na středním ohni 2 až 3 minuty orestuj, aby lehce zezlátly. Ochuť pepřem a případně sýrem a okamžitě podávej.",
+      "section": "Vaření"
+    }
+  ],
+  "tips": [
+    "Vařit je po menších dávkách, aby voda stále vřela. Když ji přeplníš, špecle se slepí.",
+    "Jako příloha jdou k omáčkám s masem. Navrch dej opečenou cibulku nebo strouhaný sýr, vznikne samostatné jídlo.",
+    "Uvařené špecle vydrží v lednici 2 dny, před orestováním je pokapej olejem, ať se nelepí."
+  ],
+  "substitutions": [
+    "Hladkou mouku můžeš smíchat s polohrubou v poměru 2:1, špecle budou pevnější.",
+    "Mléko nahraď celé vodou, bude to jednodušší a lehčí chuť."
+  ],
+  "faq": [
+    {
+      "q": "Co jsou špecle?",
+      "a": "Jsou to malé nočky z řídkého těsta z mouky, vajec a tekutiny. Vaří se ve vroucí osolené vodě a podávají se jako příloha nebo samostatné jídlo se sýrem a cibulkou."
+    },
+    {
+      "q": "Jak dlouho se vaří špecle?",
+      "a": "Stačí 2 až 3 minuty. Jsou hotové, když vyplavou na hladinu, a vařit je ještě půl minuty."
+    },
+    {
+      "q": "Čím se dělají špecle bez lisu?",
+      "a": "Těsto protlačuj sítkem s většími oky, struhadlem s velkými otvory, nebo je oškrabuj z prkénka nožem po proužcích. Nepravidelný tvar je správně."
+    }
+  ]
+}

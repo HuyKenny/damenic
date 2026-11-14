@@ -1,0 +1,22 @@
+{
+  "name": "Špagety cacio e pepe",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Těstoviny a lasagne",
+  "description": "Špagety v krémové omáčce z pecorina a čerstvě drceného pepře. Tři suroviny, žádný trik.",
+  "about": [
+    "Cacio e pepe zní jako jídlo, které se nedá pokazit, protože má tři suroviny. Právě proto se pokazí snadno: stačí příliš horká pánev a sýr se sesype do hrudek. Kuchař tu hlídá teplotu víc než čas.",
+    "Omáčku dělá jen sýr, pepř a škrobová voda z těstovin. Do menu jsme ji dali pro lidi, kteří chtějí jednoduché jídlo bez křiku. Rozvezeme ho jako všechno ostatní: zítra a bez pepře."
+  ],
+  "price": 19900,
+  "image": "dish-cacio-e-pepe-domani",
+  "recipe": "spagety-cacio-e-pepe",
+  "optionGroups": [],
+  "vegetarian": true,
+  "spicy": 1,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 70
+}

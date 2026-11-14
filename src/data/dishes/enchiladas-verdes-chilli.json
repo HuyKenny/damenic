@@ -1,0 +1,21 @@
+{
+  "name": "Enchiladas verdes s kuřecím masem",
+  "restaurant": "chilli-bez-adresy",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Tortilly s kuřetem ve zelené salse, zapečené s cheddarem a zakysanou smetanou.",
+  "about": [
+    "Enchiladas verdes jsou tortilly zalité zelenou omáčkou, a pak ještě zapečené. Jsou to chuťové dvě vrstvy, kdy tortilla dostane to, co jí patří.",
+    "Chilli bez adresy nedorazilo. Nevadí, troubu máš doma a zapékací mísa nikdy nehledá číslo popisné."
+  ],
+  "price": 21900,
+  "image": "dish-enchiladas-verdes-chilli",
+  "recipe": "enchiladas-verdes",
+  "spicy": 1,
+  "allergens": [
+    1,
+    7,
+    9
+  ],
+  "order": 200
+}

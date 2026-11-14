@@ -1,0 +1,139 @@
+{
+  "title": "Rizoto s kuřecím masem",
+  "keywords": [
+    "rizoto s kuřecím masem",
+    "kuřecí rizoto",
+    "rizoto s kuřecím masem a zeleninou",
+    "rizoto recept"
+  ],
+  "image": "dish-rizoto-kure-domani",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Rizoto s kuřecím masem je krémová rýže arborio s kuřecími prsy a zeleninou, hotová asi za hodinu. Maso se opeče zvlášť, aby zůstalo šťavnaté, a vrátí se do rizota až na konec. Vnitřní teplota kuřete musí být 75 °C.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 400,
+      "unit": "g",
+      "note": "na kostky 2 cm",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "ryze-arborio",
+      "amount": 300,
+      "unit": "g",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "najemno",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostičky",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 100,
+      "unit": "g",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "horký",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Rizoto"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso osol a opepři. Na pánvi na vysokém plameni opeč v oleji 4 až 5 minut dozlatova. Má mít uvnitř 75 °C. Přendej na talíř."
+    },
+    {
+      "text": "V hrnci rozpusť máslo a na středním plameni osmahni cibuli, papriku a česnek 4 minuty."
+    },
+    {
+      "text": "Přisyp rýži a 2 minuty opékej za míchání. Přilévej horký vývar po naběračkách a míchej, až se vsákne. Opakuj asi 16 minut."
+    },
+    {
+      "text": "Ve 12. minutě vmíchej hrášek. Rýže má být al dente, tedy uprostřed s lehkým kousnutím."
+    },
+    {
+      "text": "Vmíchej maso a parmazán, stáhni z plamene, přikryj a nech 2 minuty odpočinout. Dosol podle chuti."
+    }
+  ],
+  "tips": [
+    "Maso odděl od rizota. Kdyby se vařilo spolu s rýží, vysuší se.",
+    "Vývar musí být horký, studený by vaření zpomalil a rýže by byla nerovnoměrně uvařená.",
+    "Dobře chutná i s kuřecími stehny bez kůže, stačí je vykostit a prodloužit opékání o 2 minuty."
+  ],
+  "substitutions": [
+    "Kuřecí maso nahradíš krůtím nebo vepřovou panenkou nakrájenou na kostky.",
+    "Parmazán lze nahradit pecorinem, rizoto bude slanější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří rizoto s kuřecím masem?",
+      "a": "Samotná rýže 16 až 18 minut. S přípravou počítej asi hodinu."
+    },
+    {
+      "q": "Dá se rizoto ohřát?",
+      "a": "Dá se s trochou vývaru na pánvi. Rýže už ale nebude tak krémová."
+    },
+    {
+      "q": "Při jaké teplotě je kuře hotové?",
+      "a": "Uvnitř 75 °C. Řezne-li se, maso je bílé a šťáva čirá."
+    }
+  ]
+}

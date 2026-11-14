@@ -1,0 +1,132 @@
+{
+  "title": "Pečená kuřecí stehna s bramborami",
+  "keywords": [
+    "pečená kuřecí stehna",
+    "kuřecí stehna v troubě",
+    "pečená stehna",
+    "kuřecí stehna recept",
+    "kuřecí stehna s bramborami"
+  ],
+  "image": "dish-pecena-kureci-stehna",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 55,
+  "waitMinutes": 30,
+  "waitLabel": "marinování stehen",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Pečená kuřecí stehna s kostí a bramborami na jednom plechu: levné, jednoduché a dopředu připravitelné. Aby kůže byla křupavá a maso uvnitř propečené, peč stehna při 200 °C 45 až 55 minut a ověř teplotu 80 °C u kosti. Pro čtyři porce.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna-s-kosti",
+      "amount": 1000,
+      "unit": "g",
+      "note": "asi 4 stehna",
+      "group": "Stehna"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 700,
+      "unit": "g",
+      "note": "na čtvrtky, neloupané, dobře omyté",
+      "group": "Přílohy"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "na čtvrtky",
+      "group": "Přílohy"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stehna osuš. Smíchej olej, obě papriky, česnek, sůl, pepř a majoránku a vetři do stehen včetně spodní strany. Nech 30 minut při pokojové teplotě, nebo až 12 hodin v lednici.",
+      "section": "Marináda"
+    },
+    {
+      "text": "Troubu předehřej na 200 °C, horkovzduch na 190 °C. Brambory a cibuli promíchej se zbytkem marinády a 1 lžičkou soli a rozlož na plech, jedna vrstva.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Stehna polož na brambory kůží nahoru s mezerami. Peč 25 minut, pak plech otoč o 180 stupňů a peč dalších 20 až 30 minut.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Stehna jsou hotová při 80 °C u kosti (v tenké části minimálně 75 °C), šťáva je čirá a kůže zlatá. Kdyby zbrunátněla dřív, překryj je alobalem.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Plech vyndej a nech 5 minut odpočinout. Brambory promíchej s výpekem a podávej se stehny.",
+      "section": "Podávání"
+    }
+  ],
+  "tips": [
+    "Kuřecí stehna s kostí odpustí přepečení víc než prsa. Při 80 až 85 °C jsou měkčí, než když je vyndáš při 75 °C.",
+    "Brambory na plechu nesmí být natlačené. Když je rozložíš v jedné vrstvě, opečou se, jinak se uduší.",
+    "Dokud jsou stehna syrová, myj si ruce i prkénko. Syrové kuře nikdy neoplachuj pod tekoucí vodou, rozstřikuje bakterie."
+  ],
+  "substitutions": [
+    "Stehna lze nahradit kuřecími křidélky nebo spodními stehny, ty pečou jen asi 35 až 40 minut.",
+    "Uzenou papriku vynech a nahraď ji sladkou, ztratíš uzenou chuť, ale jídlo bude fungovat."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se pečou kuřecí stehna?",
+      "a": "Stehna s kostí se pečou při 200 °C zhruba 45 až 55 minut. Hotová jsou při teplotě 80 °C u kosti."
+    },
+    {
+      "q": "Na kolik stupňů péct kuřecí stehna?",
+      "a": "Na 200 °C s horkovzduchem na 190 °C. Kůže se nejlépe zbarví, když stehna pečeš na horním roštu a nezakrýváš je."
+    },
+    {
+      "q": "Jak poznám, že jsou stehna propečená?",
+      "a": "Maso uvnitř je bílé až nahnědlé, šťáva čirá a teploměr ukazuje aspoň 75 °C, lépe 80 °C. Maso se při zatlačení snadno oddělí od kosti."
+    }
+  ]
+}

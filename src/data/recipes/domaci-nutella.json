@@ -1,0 +1,110 @@
+{
+  "title": "Domácí lískooříšková pomazánka",
+  "keywords": [
+    "domácí oříšková čokoládová pomazánka",
+    "domácí čokoládová pomazánka",
+    "lískooříšková pomazánka",
+    "čokoládová pomazánka z lískových oříšků"
+  ],
+  "image": "dish-domaci-nutella",
+  "category": "snidane",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 25,
+  "cookMinutes": 12,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Domácí lískooříšková pomazánka z pražených oříšků a hořké čokolády je silnější a méně sladká než kupovaná. Hlavní práce je v mixování: oříšky je potřeba mixovat 8 až 12 minut, než pustí olej a z drtě se stane krém. Vyjde asi 350 g, tedy jedna sklenice.",
+  "ingredients": [
+    {
+      "ingredient": "liskove-orechy",
+      "amount": 250,
+      "unit": "g",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 12,
+      "unit": "g",
+      "note": "2 lžíce",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 5,
+      "unit": "g",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Pomazánka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Pražení",
+      "text": "Troubu předehřej na 180 °C (horkovzduch 160 °C). Oříšky rozlož na plech a praž 10 až 12 minut, dokud nezezlátnou a nezavoní."
+    },
+    {
+      "section": "Loupání",
+      "text": "Horké oříšky zabal do utěrky a třením odstraň většinu slupek. Nemusí zmizet všechny."
+    },
+    {
+      "section": "Mixování",
+      "text": "Oříšky mixuj v silném mixéru nebo kráječi 8 až 12 minut. Po každé minutě mixér zastav, aby se nepřehřál, a oškrábni stěny. Drť se nejdřív změní na prášek, potom na hustou pastu a nakonec na tekutý krém."
+    },
+    {
+      "section": "Čokoláda",
+      "text": "Čokoládu rozpusť ve vodní lázni a nech mírně zchladnout. Přidej do mixéru s kakaem, moučkovým cukrem, olejem, vanilkovým cukrem a solí a mixuj dalších 2 minuty do hladka."
+    },
+    {
+      "section": "Uložení",
+      "text": "Pomazánku nalij do čisté sklenice a nech vychladnout. Při pokojové teplotě zhoustne."
+    }
+  ],
+  "tips": [
+    "Mixér se musí potit, ne dymit. Dělej přestávky, jinak se přehřeje motor.",
+    "Pomazánka zpočátku vypadá tekutě, ale ztuhne, jakmile vychladne.",
+    "Hladká pomazánka potřebuje vysoký výkon. Slabý mixér nechá drobná zrnka, ta ale chuť nekazí."
+  ],
+  "substitutions": [
+    "Lískové oříšky můžeš nahradit mandlemi nebo 50 : 50 směsí s kešu.",
+    "Hořkou čokoládu nahraď mléčnou a sniž cukr na 40 g.",
+    "Pro veganskou variantu zvol čokoládu bez mléka, recept jinak odpovídá."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží domácí oříšková čokoládová pomazánka?",
+      "a": "V uzavřené sklenici 2 týdny při pokojové teplotě, v lednici až 4 týdny. Pomazánka neobsahuje vodu, proto dlouho vydrží."
+    },
+    {
+      "q": "Jak udělat pomazánku hladkou?",
+      "a": "Mixuj oříšky dostatečně dlouho (8 až 12 minut) a po každé minutě oškrábej stěny. Pomůže i rozpuštěná čokoláda."
+    },
+    {
+      "q": "Čím nahradit lískové oříšky?",
+      "a": "Mandlemi, kešu nebo arašídy. Chuť se změní, ale postup zůstane stejný."
+    }
+  ]
+}

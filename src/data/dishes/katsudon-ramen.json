@@ -1,0 +1,21 @@
+{
+  "name": "Katsudon s vejcem",
+  "restaurant": "ramen-nedojde",
+  "kind": "main",
+  "section": "Rýže a knedlíčky",
+  "description": "Křupavý vepřový řízek v dashi omáčce s vejcem, cibulí a japonskou rýží.",
+  "about": [
+    "Katsudon je japonský důkaz, že řízek i rýže patří na jeden talíř. Strouhanka se v omáčce lehce rozmočí a pak už je to hřejivé jako domov.",
+    "Nedojde. Ani ramen, ani doručení. Ale řízek se ti doma smaží čtyři minuty a večeře je na stole dřív, než by dorazil kurýr."
+  ],
+  "price": 20900,
+  "image": "dish-katsudon-ramen",
+  "recipe": "katsudon",
+  "allergens": [
+    1,
+    3,
+    4,
+    6
+  ],
+  "order": 200
+}

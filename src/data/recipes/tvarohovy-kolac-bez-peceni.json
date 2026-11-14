@@ -1,0 +1,139 @@
+{
+  "title": "Tvarohový koláč bez pečení s jahodami",
+  "keywords": [
+    "tvarohový koláč bez pečení",
+    "nepečený tvarohový koláč",
+    "tvarohový dort bez pečení",
+    "tvarohový koláč s jahodami"
+  ],
+  "intro": "Tvarohový koláč bez pečení je sušenkový spodek, hladký krém z tvarohu a šlehačky zpevněný želatinou a jahody navrch. Připravíš ho ve formě o průměru 22 cm a pak ho necháš v lednici ztuhnout. Vyjde 10 kousků. Aby byl krém hladký bez hrudek, tvaroh protlač přes sítko.",
+  "image": "dish-tvarohovy-kolac-bez-peceni-sladke",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 30,
+  "cookMinutes": 0,
+  "waitMinutes": 300,
+  "waitLabel": "ztuhnutí v lednici",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "susenky-maslove",
+      "amount": 200,
+      "unit": "g",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 500,
+      "unit": "g",
+      "note": "měkký, protlačený přes sítko",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 250,
+      "unit": "ml",
+      "note": "min. 33 %, vychlazená",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "kůra a 2 lžíce šťávy",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "zelatina",
+      "amount": 10,
+      "unit": "g",
+      "note": "mletá",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 60,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 250,
+      "unit": "g",
+      "note": "na ozdobu",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Základ",
+      "text": "Sušenky rozdrť na jemný písek a smíchej s rozpuštěným máslem. Dno formy 22 cm s odnímatelným okrajem vylož papírem a vsyp směs. Pevně přitlač a nech 15 minut chladit."
+    },
+    {
+      "section": "Želatina",
+      "text": "Želatinu rozmíchej v 60 ml studené vody a nech 5 minut bobtnat. Pak ji zahřej pod bod varu na asi 60 °C a míchej do rozpuštění, nesmí se vařit."
+    },
+    {
+      "section": "Krém",
+      "text": "Tvaroh prošlehej s moučkovým cukrem, vanilkovým cukrem, citronovou kůrou a šťávou do hladka. K želatině přidej 3 lžíce krému, promíchej a vmíchej zpět do tvarohu."
+    },
+    {
+      "section": "Krém",
+      "text": "Šlehačku ušlehej do tuhého a vmíchej jemně do tvarohové hmoty. Nalij na základ, uhlaď a klepni formou o stůl."
+    },
+    {
+      "section": "Ztuhnutí",
+      "text": "Dej do lednice minimálně na 5 hodin, nejlépe přes noc. Povrch ozdob jahodami a před krájením nech koláč 10 minut stát."
+    },
+    {
+      "section": "Krájení",
+      "text": "Okraj formy uvolni nožem namočeným do horké vody a koláč krájej ostrým nožem, který mezi řezy otřeš."
+    }
+  ],
+  "tips": [
+    "Tvaroh musí být suchý. Pokud pustil vodu, vymačkej ho v čisté plátýnce.",
+    "Jahody dej navrch až před podáváním, pustí šťávu a rozmočí krém.",
+    "Koláč vydrží v lednici 3 dny, zmrazit se nedoporučuje, krém se po rozmrazení sráží."
+  ],
+  "substitutions": [
+    "Jahody nahraď borůvkami, malinami nebo meruňkami z kompotu.",
+    "Želatinu nahraď 4 g agar-agaru povařeného 2 minuty ve 100 ml vody pro vegetariánskou verzi.",
+    "Šlehačku nahraď mascarpone, koláč bude hutnější a sytější."
+  ],
+  "faq": [
+    {
+      "q": "Proč tvarohový koláč nezačne tuhnout?",
+      "a": "Želatina nebyla správně rozpuštěná, nebo byl krém příliš teplý. Použij 10 g želatiny, ohřej ji na 60 °C a vmíchej ji nejdřív do trochy krému."
+    },
+    {
+      "q": "Jaký tvaroh na koláč bez pečení?",
+      "a": "Měkký tučný tvaroh (min. 10 % tuku), protlačený přes sítko. Netučný dává krém kyselejší a méně hladký."
+    },
+    {
+      "q": "Jak dlouho vydrží tvarohový koláč bez pečení?",
+      "a": "V lednici zakrytý 3 dny. Jahody přidávej vždy jen těsně před podáváním."
+    }
+  ]
+}

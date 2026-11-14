@@ -1,0 +1,57 @@
+{
+  "name": "Dršťková polévka",
+  "kind": "main",
+  "section": "Polévky",
+  "price": 11900,
+  "recipe": "drstkova-polevka",
+  "vegetarian": false,
+  "order": 110,
+  "description": "Hovězí dršťky vařené do měkka, hustá od paprikové zásmažky, s česnekem. Ochutná jen kuchař.",
+  "about": [
+    "Dršťková je polévka pro trpělivé. Dršťky se nejdřív povaří a slijí, potom se vaří ještě dvě a půl hodiny, až jsou měkké, ale pořád pevné. Zásmažka s paprikou a česnek přijdou na konec.",
+    "Naběračka je naše, hrnec zatím jen v receptu. Doma ti dršťky vyvoní celý byt, tady je jen vyvoníme na papír."
+  ],
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standardni",
+          "name": "Standardní",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (půl litru navíc)",
+          "priceDelta": 4000
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "K polévce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "chleb",
+          "name": "Chléb",
+          "priceDelta": 0
+        },
+        {
+          "id": "rohlik",
+          "name": "Rohlík",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "prazdna-naberacka",
+  "image": "dish-drstkova-polevka",
+  "allergens": [
+    1
+  ]
+}

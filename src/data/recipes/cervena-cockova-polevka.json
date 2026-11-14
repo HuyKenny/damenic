@@ -1,0 +1,142 @@
+{
+  "title": "Polévka z červené čočky",
+  "keywords": [
+    "polévka z červené čočky",
+    "červená čočková polévka",
+    "krémová čočková polévka",
+    "čočková polévka z červené čočky"
+  ],
+  "image": "dish-cervena-cockova-polevka-zitra",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Polévka z červené čočky je hotová za 40 minut a nemusí se předem namáčet. Červená čočka se rozvaří sama a polévku zahustí, kmín, kurkuma a citron jí dají chuť. Z 200 g čočky vyjdou 4 porce.",
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaná",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 32,
+      "unit": "g",
+      "note": "2 lžíce",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "cocka-cervena",
+      "amount": 200,
+      "unit": "g",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Dochucení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Základ",
+      "text": "V hrnci rozehřej olej a na středním ohni osmahni cibuli 4 minuty. Přidej česnek, kmín a kurkumu a 30 sekund míchej, aby koření zavonělo."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Přidej mrkev a rajčatový protlak a osmahni 2 minuty."
+    },
+    {
+      "section": "Čočka",
+      "text": "Čočku propláchni na sítku, přidej do hrnce, zalij vodou a přiveď k varu. Sniž žár a vař 15 až 20 minut, dokud se čočka nerozpadne."
+    },
+    {
+      "section": "Dochucení",
+      "text": "Polévku nech částečně rozmixovat ponorným mixérem nebo ji rozmixuj celou do hladka. Dochuť solí, pepřem a šťávou z citronu."
+    },
+    {
+      "section": "Podávání",
+      "text": "Podávej horkou s lžící jogurtu nebo opečeným chlebem."
+    }
+  ],
+  "tips": [
+    "Červená čočka se vaří rychle a rozpadne se, proto ji nemusíš namáčet. Sůl přidej až na konec.",
+    "Citron se přidává až do hotové polévky, vařením by chuť zmizela.",
+    "Polévka ještě houstne, na druhý den ji zřeď vodou nebo vývarem."
+  ],
+  "substitutions": [
+    "Vodu nahraď zeleninovým nebo kuřecím vývarem pro plnější chuť.",
+    "Pro krémovější polévku přidej 100 ml kokosového mléka.",
+    "Mrkev lze nahradit batátem, který polévku trochu osladí."
+  ],
+  "faq": [
+    {
+      "q": "Musí se červená čočka namáčet?",
+      "a": "Ne, červená čočka je loupaná a rozvaří se za 15 až 20 minut. Stačí ji propláchnout."
+    },
+    {
+      "q": "Proč je čočková polévka hustá?",
+      "a": "Čočka při vaření uvolňuje škrob a polévka při chladnutí zhoustne. Přilij vodu nebo vývar a krátce prohřej."
+    },
+    {
+      "q": "Jak dlouho vydrží čočková polévka?",
+      "a": "V lednici 3 dny v uzavřené nádobě, v mrazáku 3 měsíce. Před jídlem ji prohřej do varu."
+    }
+  ]
+}

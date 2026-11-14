@@ -1,0 +1,44 @@
+{
+  "name": "Čokoládové cookies",
+  "restaurant": "zitra-upecem",
+  "kind": "main",
+  "section": "Brownies a muffiny",
+  "description": "Křupavý okraj, měkký střed a kousky hořké čokolády. Tři kusy do ruky, jeden na tvůj popud.",
+  "about": [
+    "Cookies stojí na studeném těstě: máslo, hnědý cukr a čokoláda se musí před pečením uležet v lednici. Pak se sušenky nerozlijí a zůstanou uprostřed měkké.",
+    "Dostaneš tři kusy z dávky 24. Pečou se dvanáct minut, voní hned. Upečeš si je doma, my zítra."
+  ],
+  "price": 5500,
+  "image": "dish-cookies-upecem",
+  "recipe": "cookies",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "3",
+          "name": "3 kusy",
+          "priceDelta": 0
+        },
+        {
+          "id": "6",
+          "name": "6 kusů",
+          "priceDelta": 5000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "order": 35
+}

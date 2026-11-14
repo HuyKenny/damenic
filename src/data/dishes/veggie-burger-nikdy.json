@@ -1,0 +1,23 @@
+{
+  "name": "Veggie burger z cizrny",
+  "restaurant": "burger-nikdy",
+  "kind": "main",
+  "section": "Burgery",
+  "description": "Placka z cizrny a vloček, salát, rajče, okurka a hořčičná majonéza v opečeném bulku.",
+  "about": [
+    "Veggie burger z cizrny je placka, která se drží, protože je suchá a vychlazená. Hlavní chybou je mokrá cizrna, proto se dobře osuší a směs se nechá půl hodiny v lednici.",
+    "Navrch jde salát, rajče a hořčičná majonéza v opečeném bulku. Burger Nikdy ti dá nic, kromě receptu, který funguje."
+  ],
+  "price": 17900,
+  "image": "dish-veggie-burger-nikdy",
+  "recipe": "veggie-burger",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    10
+  ],
+  "order": 100
+}

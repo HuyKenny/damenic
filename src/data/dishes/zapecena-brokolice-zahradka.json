@@ -1,0 +1,21 @@
+{
+  "name": "Zapečená brokolice se sýrem",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Brokolice zalitá vaječnou smetanou a zapečená s eidamem. Z trouby, bez masa.",
+  "about": [
+    "Zapečená brokolice se sýrem je bezmasé jídlo, které potěší i ty, kdo brokolici obvykle obcházejí. Růžičky se předvaří jen 3 minuty a pak se zapečou ve smetanové zálivce se sýrem.",
+    "Povrch je zlatavý, uvnitř měkká brokolice a krémová zálivka. Jídlo z trouby, kterou jsme sice rozpálili, ale nikdy nic nevytáhli."
+  ],
+  "price": 17900,
+  "image": "dish-zapecena-brokolice-zahradka",
+  "recipe": "zapecena-brokolice",
+  "optionGroups": [],
+  "vegetarian": true,
+  "allergens": [
+    3,
+    7
+  ],
+  "order": 72
+}

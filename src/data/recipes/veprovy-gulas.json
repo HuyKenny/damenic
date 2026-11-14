@@ -1,0 +1,138 @@
+{
+  "title": "Vepřový guláš z krkovice",
+  "keywords": [
+    "vepřový guláš",
+    "vepřový guláš recept",
+    "hospodský vepřový guláš",
+    "guláš z krkovice",
+    "vepřový guláš s cibulí"
+  ],
+  "image": "dish-veprovy-gulas",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 110,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Vepřový guláš z krkovice s hodně cibule a sladké papriky se vaří hodinu a půl až dvě, bez mouky, protože cibule se rozvaří a zahustí šťávu sama. Papriku přidáš na samém konci smažení cibule a hrnec stáhneš z ohně, jinak zhořkne. Pro čtyři porce.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-krkovice",
+      "amount": 800,
+      "unit": "g",
+      "note": "na kostky 2,5 cm",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 700,
+      "unit": "g",
+      "note": "nadrobno nakrájená",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "rozdrcený",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Guláš"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 700,
+      "unit": "ml",
+      "note": "horká",
+      "group": "Guláš"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci s tlustým dnem rozehřej sádlo, přidej cibuli a opékej na středním ohni 12 až 15 minut, často míchej, až bude zlatá a měkká. Dno nesmí zhnědnout.",
+      "section": "Cibule"
+    },
+    {
+      "text": "Hrnec stáhni z ohně, vsyp papriku a rajčatový protlak a míchej 20 sekund. Papriku nikdy nesmaž na ohni, je hořká. Hned zalij 100 ml horké vody.",
+      "section": "Cibule"
+    },
+    {
+      "text": "Přidej maso, česnek, kmín, majoránku, bobkový list a sůl. Podlij zbývající horkou vodou, přikryj a duš na slabém ohni 100 až 110 minut. Občas promíchej.",
+      "section": "Guláš"
+    },
+    {
+      "text": "Když je maso měkké (vidlička zajede snadno), odklop a zredukuj omáčku 10 minut. Guláš má být zhoustlý od cibule, hustý jako omáčka. Dochuť solí.",
+      "section": "Guláš"
+    },
+    {
+      "text": "Bobkový list vyndej. Podávej s houskovým knedlíkem, chlebem nebo s bramborami. Nahoru můžeš dát čerstvou cibuli nebo feferonku.",
+      "section": "Podávání"
+    }
+  ],
+  "tips": [
+    "Cibule je základ. Na 800 g masa potřebuješ aspoň 600 g cibule, jinak bude omáčka vodová.",
+    "Guláš je lepší druhý den. Nech ho vychladnout a ohřej na mírném ohni s trochou vody.",
+    "Zamraž v porcích, vydrží 3 měsíce. Rozmrazuj přes noc v lednici."
+  ],
+  "substitutions": [
+    "Krkovici nahradíš plecí, dusí se ale o 15 minut déle.",
+    "Sádlo nahradíš olejem, guláš bude méně plný."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří vepřový guláš?",
+      "a": "Při slabém varu 100 až 110 minut. Krkovice potřebuje čas, aby změkla a cibule se rozvařila."
+    },
+    {
+      "q": "Proč je guláš hořký?",
+      "a": "Nejčastěji se spálila paprika nebo cibule. Papriku přidávej mimo oheň a míchej jen 20 sekund."
+    },
+    {
+      "q": "Čím zahustit guláš?",
+      "a": "Nejlepší je dostatek cibule, která se rozvaří. Případně rozmixuj část cibule s trochou omáčky nebo přidej lžičku hladké mouky rozmíchané ve studené vodě."
+    }
+  ]
+}

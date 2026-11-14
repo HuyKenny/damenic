@@ -1,0 +1,111 @@
+{
+  "title": "Dušená mrkev",
+  "keywords": [
+    "dušená mrkev",
+    "dušená mrkev recept",
+    "dušená mrkev s hráškem",
+    "mrkev na másle"
+  ],
+  "image": "dish-dusena-mrkev",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Dušená mrkev je sladká příloha z másla, mrkve a malého množství vody. Hotová je za půl hodiny a hodí se k masu i k bramborám. Aby byla mrkev měkká a přitom nezvadla, dusí se pod pokličkou a na konci se zahustí mléčnou jíškou.",
+  "ingredients": [
+    {
+      "ingredient": "mrkev",
+      "amount": 700,
+      "unit": "g",
+      "note": "na kolečka 5 mm"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 80,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozpusť máslo, osmahni cibuli 3 minuty. Přidej mrkev a cukr a opékej 2 minuty."
+    },
+    {
+      "text": "Zalij vodou, osol, přikryj a duš 12 až 15 minut na mírném plameni, dokud není mrkev měkká."
+    },
+    {
+      "text": "Přidej hrášek a vař 3 minuty. Mouku rozmíchej s mlékem a vlij do hrnce."
+    },
+    {
+      "text": "Míchej 2 až 3 minuty, než omáčka zhoustne. Posyp petrželkou a podávej."
+    }
+  ],
+  "tips": [
+    "Mrkev krájej stejně velká kolečka, aby se uvařila najednou.",
+    "Cukr zvýrazní přirozenou sladkost mrkve, ale nepřidávej víc než lžičku.",
+    "Dobře chutná i bez hrášku, jako samotná příloha."
+  ],
+  "substitutions": [
+    "Hrášek nahradíš zelenými fazolkami nebo kukuřicí.",
+    "Mléko nahradíš zeleninovým vývarem nebo smetanou na vaření."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se dusí mrkev?",
+      "a": "Od zalití vodou 12 až 15 minut na mírném plameni. Hotová je, když se dá nabodnout vidličkou bez odporu."
+    },
+    {
+      "q": "Dá se dušená mrkev zamrazit?",
+      "a": "Dá, bez jíšky. Zahustit ji můžeš po rozmražení."
+    },
+    {
+      "q": "Proč je mrkev po dušení tvrdá?",
+      "a": "Kolečka byla moc tlustá nebo se duší krátce. Přidej trochu vody a duš dalších 5 minut pod pokličkou."
+    }
+  ]
+}

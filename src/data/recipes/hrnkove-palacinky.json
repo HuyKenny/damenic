@@ -1,0 +1,133 @@
+{
+  "title": "Hrnkové palačinky bez vážení",
+  "keywords": [
+    "hrnkové palačinky",
+    "palačinky z hrnku",
+    "těsto na palačinky hrnkové",
+    "palačinky bez vážení"
+  ],
+  "image": "dish-hrnkove-palacinky-panev",
+  "category": "palacinky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 0,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Hrnkové palačinky se odměřují hrnkem místo váhy: 2 hrnky mouky, 1,5 hrnku mléka a půl hrnku perlivé vody. Perlivá voda dělá palačinky lehké a křehké. Z těsta vyjde asi 14 palačinek na pánev o průměru 24 cm a plní se sladkým tvarohem.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "note": "2 hrnky o objemu 250 ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 375,
+      "unit": "ml",
+      "note": "1,5 hrnku",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "perliva-voda",
+      "amount": 125,
+      "unit": "ml",
+      "note": "půl hrnku",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "2 do těsta, 2 na pánev",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "jemný tvaroh",
+      "group": "Plnění"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Plnění"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Plnění"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Do mísy dej mouku, sůl a cukr. Přilij mléko, vlož vejce a metlou vyšlehej hladké těsto bez hrudek."
+    },
+    {
+      "section": "Perlivá voda",
+      "text": "Přilij perlivou vodu a 2 lžíce oleje a jen krátce promíchej. Těsto je řídké jako smetana. Nech ho 15 minut odpočinout, aby mouka nabobtnala."
+    },
+    {
+      "section": "Plnění",
+      "text": "Mezitím promíchej tvaroh s moučkovým cukrem a vanilkovým cukrem do hladkého krému."
+    },
+    {
+      "section": "Smažení",
+      "text": "Pánev rozpal a lehce potři olejem. Nalij asi naběračku (60 ml) těsta, zakruž a smaž 1 minutu, dokud okraje nezezlátnou. Otoč a smaž ještě 30 sekund."
+    },
+    {
+      "section": "Plnění a podávání",
+      "text": "Palačinky skládej na talíř pod pokličku. Každou potři tvarohem, sroluj a posyp moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Hrnek je jen měřítko, hlavně dbej na stejný hrnek na mouku i tekutiny. Hrnek o objemu 250 ml je zhruba 125 g hladké mouky, proto 2 hrnky dávají 250 g.",
+    "Po odpočinku těsto promíchej. Kdyby bylo husté, přilij lžíci perlivé vody po jedné.",
+    "Pánev musí být dobře rozpálená, ale ne dymící. První palačinka slouží k nastavení teploty."
+  ],
+  "substitutions": [
+    "Perlivou vodu nahraď mlékem, palačinky budou o trochu hutnější, ale pořád dobré.",
+    "Tvarohový krém nahraď džemem, mletým mákem s cukrem nebo čokoládovou pomazánkou.",
+    "Na slané palačinky vynech cukr a plň je šunkou se sýrem nebo špenátem."
+  ],
+  "faq": [
+    {
+      "q": "Kolik váží hrnek mouky?",
+      "a": "Hrnek o objemu 250 ml je zhruba 125 až 130 g hladké mouky. Mouka se při odměřování nesmí upěchovat, nasyp ji lžící."
+    },
+    {
+      "q": "Proč dávat do palačinek perlivou vodu?",
+      "a": "Bublinky těsto prokypří a palačinky jsou tenké a křehké. Lze ji vynechat, palačinky budou jen o trochu hutnější."
+    },
+    {
+      "q": "Kolik palačinek vyjde z těsta?",
+      "a": "Z uvedeného množství asi 14 palačinek o průměru 24 cm. Pro dvě osoby stačí polovina těsta."
+    }
+  ]
+}

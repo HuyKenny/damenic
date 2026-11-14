@@ -1,0 +1,123 @@
+{
+  "title": "Baba ghanoush",
+  "category": "kebab",
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 40,
+  "waitMinutes": 15,
+  "waitLabel": "vychladnutí lilku",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "keywords": [
+    "baba ghanoush",
+    "baba ganoush recept",
+    "pečený lilek s tahini",
+    "lilková pomazánka"
+  ],
+  "intro": "Baba ghanoush je blízkovýchodní pomazánka z pečeného lilku, tahini, česneku a citronu. Lilek se peče celý, až slupka zuhelnatí a dužina změkne, což pomazánce dává kouřovou chuť. Hodí se k pitě, jako součást mezze.",
+  "ingredients": [
+    {
+      "ingredient": "lilek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "velké",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "tahini",
+      "amount": 32,
+      "unit": "g",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Na dokončení"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Na dokončení"
+    },
+    {
+      "ingredient": "pita",
+      "amount": 2,
+      "unit": "ks",
+      "note": "k podávání",
+      "group": "Na dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Pomazánka",
+      "text": "Troubu předehřej na 230 °C. Lilky napichej vidličkou na několika místech a peč na plechu 35 až 40 minut, v půli je obrať, až slupka zčerná a lilek splaskne."
+    },
+    {
+      "section": "Pomazánka",
+      "text": "Lilky nech 15 minut chladnout v misce. Přeřízni je a lžící seber dužinu, slupku zahoď. Dužinu nech 5 minut okapat v sítu, aby pustila šťávu."
+    },
+    {
+      "section": "Pomazánka",
+      "text": "Dužinu rozmělni vidličkou nebo nasekej nožem, pro hrubší pomazánku. Přidej tahini, česnek, citronovou šťávu, olivový olej a sůl."
+    },
+    {
+      "section": "Na dokončení",
+      "text": "Dochuť solí a citronem. Vlož na talířek, přelij olejem, posyp uzenou paprikou a petrželkou. Podávej s pitou."
+    }
+  ],
+  "tips": [
+    "Čím delší pečení, tím kouřovější chuť. Slupka musí být opravdu zčernalá.",
+    "Pomazánku nemixuj do hladka, ztratí povahu. Rozmělni ji vidličkou.",
+    "Vydrží 3 dny v lednici, chuť je druhý den lepší."
+  ],
+  "substitutions": [
+    "Tahini nahraď 2 lžícemi řeckého jogurtu, bude to lehčí.",
+    "Citron nahraď limetkou nebo octem.",
+    "Pro víc kouře lilek opeč na plynovém plameni nebo na grilu."
+  ],
+  "faq": [
+    {
+      "q": "Čím se liší baba ghanoush od hummusu?",
+      "a": "Hummus je z cizrny, baba ghanoush z pečeného lilku. Oba se dělají s tahini, česnekem a citronem."
+    },
+    {
+      "q": "Proč je pomazánka hořká?",
+      "a": "Lilek s hodně semínky nebo nedopečený může hořknout. Peč dlouho a pusť šťávu v sítu."
+    },
+    {
+      "q": "Dá se baba ghanoush zamrazit?",
+      "a": "Ano, ale po rozmražení bude vodnatější. Ocení se, když ji nejdřív necháš odkapat."
+    }
+  ],
+  "image": "dish-baba-ghanoush",
+  "vegetarian": true
+}

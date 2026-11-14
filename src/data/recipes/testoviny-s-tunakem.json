@@ -1,0 +1,117 @@
+{
+  "title": "Těstoviny s tuňákem",
+  "keywords": [
+    "těstoviny s tuňákem",
+    "těstoviny s tuňákem recept",
+    "těstoviny s tuňákem a rajčaty",
+    "špagety s tuňákem"
+  ],
+  "image": "dish-tunak-testoviny-niente",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Těstoviny s tuňákem v rajčatové omáčce se dělají z jedné plechovky tuňáka a passaty za 25 minut. Omáčka s kapary a olivami chutná výrazně, a proto se nepřidává sýr.",
+  "ingredients": [
+    {
+      "ingredient": "spagety",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na těstoviny"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "tunak-konzerva",
+      "amount": 160,
+      "unit": "g",
+      "note": "1 plechovka, slitá"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "kapary",
+      "amount": 15,
+      "unit": "g",
+      "note": "asi 1 lžíce, slité"
+    },
+    {
+      "ingredient": "olivy",
+      "amount": 40,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Špagety vař ve vroucí osolené vodě o 1 minutu méně, než uvádí obal. Odlij šálek vody z vaření."
+    },
+    {
+      "text": "Na pánvi nahřej olej, 1 minutu orestuj česnek s chilli, ať nezhnědne."
+    },
+    {
+      "text": "Přilij passatu, přidej kapary a olivy a vař 8 minut na mírném plameni, dokud omáčka mírně nezhoustne."
+    },
+    {
+      "text": "Do omáčky přidej tuňáka rozdělaného vidličkou na větší kusy a prohřívej 2 minuty. Tuňák se nemá rozvařit."
+    },
+    {
+      "text": "Špagety přendej do omáčky a 1 minutu promíchej s trochou vody z vaření. Posyp petrželkou a podávej."
+    }
+  ],
+  "tips": [
+    "Tuňák ve vlastní šťávě je lehčí, v oleji chutná plněji. Olej z plechovky můžeš použít místo části olivového.",
+    "Kapary jsou slané, proto nejdřív ochutnej, než omáčku dosolíš.",
+    "Passatu nahradíš 400 g čerstvých oloupaných a nakrájených rajčat, pak vař omáčku asi 12 minut."
+  ],
+  "substitutions": [
+    "Špagety lze nahradit penne nebo fusilli, omáčka se na nich drží lépe.",
+    "Olivy a kapary můžeš vynechat, omáčka bude mírnější."
+  ],
+  "faq": [
+    {
+      "q": "Jaké těstoviny se hodí k tuňákovi?",
+      "a": "Špagety, linguine i penne. Tuňák je jemný, takže se omáčka s krátkými těstovinami snadno obalí."
+    },
+    {
+      "q": "Dá se použít čerstvý tuňák?",
+      "a": "Dá. Nakrájej ho na kostky 2 cm, krátce opeč a přidej na konci, aby zůstal šťavnatý."
+    },
+    {
+      "q": "Jak dlouho vydrží těstoviny s tuňákem v lednici?",
+      "a": "Do druhého dne v uzavřené nádobě. Ohřívej je v mikrovlnce nebo na pánvi s lžící vody."
+    }
+  ]
+}

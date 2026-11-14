@@ -1,0 +1,19 @@
+{
+  "name": "Sladkokyselé kuře s ananasem",
+  "restaurant": "wok-nic-moc",
+  "kind": "main",
+  "section": "Rýže a kari",
+  "description": "Křupavé kuře v těstíčku, omáčka z ananasu a papriky, rýže navrch nebo vedle.",
+  "about": [
+    "Sladkokyselé kuře je výtvor, který dělá z jedné misky tři chutě najednou. Křupavé kuře, kyselý ocet a ananas, který se nikdy nerozhodl, jestli je ovoce, nebo zelenina.",
+    "Omáčka se lije až na stole, to je celé tajemství. Doma ti stačí jedna pánev a jeden hrnec, a rýže se vaří sama. Wok zůstává rozpálený, ale kuře na cestě není."
+  ],
+  "price": 19900,
+  "image": "dish-sladkokysele-kure-wok",
+  "recipe": "sladkokysele-kure",
+  "allergens": [
+    1,
+    6
+  ],
+  "order": 210
+}

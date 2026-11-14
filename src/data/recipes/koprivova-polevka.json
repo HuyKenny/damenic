@@ -1,0 +1,129 @@
+{
+  "title": "Kopřivová polévka",
+  "keywords": [
+    "kopřivová polévka",
+    "polévka z kopřiv",
+    "kopřivová polévka s vejcem",
+    "jarní polévka z kopřiv"
+  ],
+  "image": "dish-koprivova-polevka-zitra",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Kopřivová polévka z mladých kopřivových špiček s bramborem a vejcem je jarní klasika. Kopřivy se sbírají v rukavicích a vaří se jen pár minut, aby zůstaly zelené. Hotová je za 40 minut a vyjde na 4 porce.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 300,
+      "unit": "g",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 800,
+      "unit": "ml",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "koprivy",
+      "amount": 150,
+      "unit": "g",
+      "note": "mladé špičky",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "uvařená natvrdo",
+      "group": "Na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Kopřivy",
+      "text": "Kopřivy sbírej nebo přenášej v rukavicích. Na sítku je spař vroucí vodou, tím ztratí pálivost. Hrubé stonky odřízni."
+    },
+    {
+      "section": "Základ",
+      "text": "V hrnci rozpusť máslo a restuj cibuli 4 minuty do průsvitnosti. Přidej česnek a po minutě brambory na kostky, zalij vývarem a vař 12 až 15 minut do měkka."
+    },
+    {
+      "section": "Kopřivy do polévky",
+      "text": "Přidej spařené kopřivy a vař jen 3 až 5 minut, aby zůstala zelená barva."
+    },
+    {
+      "section": "Mixování",
+      "text": "Rozmixuj ponorným mixérem do hladka. Přilij smetanu, dochuť solí a pepřem a prohřej."
+    },
+    {
+      "section": "Vejce",
+      "text": "Vejce uvař natvrdo 9 až 10 minut, oloupej a rozpůl. Rozděl do misek a polévkou zalij."
+    }
+  ],
+  "tips": [
+    "Sbírej mladé špičky na jaře od března do června, mimo silnice a znečištěná místa. Starší kopřivy jsou vláknité a hořké.",
+    "Po spaření kopřivy nepálí, a proto se s nimi dá bez rukavic pracovat.",
+    "Kdo nemá čerstvé kopřivy, použije mražené nebo sušené, ty dej do polévky rovnou."
+  ],
+  "substitutions": [
+    "Část kopřiv nahraď špenátem, polévka bude mírnější.",
+    "Smetanu nahraď kokosovým mlékem nebo ji vynech a polévka bude lehčí.",
+    "Vejce lze nahradit opečenými krutony nebo lžící zakysané smetany."
+  ],
+  "faq": [
+    {
+      "q": "Kdy sbírat kopřivy na polévku?",
+      "a": "Od března do června, dokud jsou mladé a nemají květ. Sbírej horní 10 cm rostliny a v rukavicích."
+    },
+    {
+      "q": "Musí se kopřivy spařit?",
+      "a": "Ano, vroucí voda ničí pálivé chloupky. Pak se s nimi dá pracovat holýma rukama a v polévce nepálí."
+    },
+    {
+      "q": "Dá se kopřivová polévka zamrazit?",
+      "a": "Ano, vydrží 2 měsíce v mrazáku. Smetanu a vejce přidej až po rozmražení."
+    }
+  ]
+}

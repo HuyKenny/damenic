@@ -1,0 +1,23 @@
+{
+  "name": "Chlebíčky s pomazánkou z uzené makrely",
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "kind": "main",
+  "section": "Chlebíčky",
+  "description": "Kouřová rybí pomazánka s jarní cibulkou a kapkou citronu. Ryba nikam neplave, jen chuť.",
+  "about": [
+    "Rybí pomazánka z uzené makrely je pomazánka pro lidi, kteří mají rádi, když jídlo voní kouřem. Maso se rozmačká, přidá se máslo, hořčice a citron a hotovo.",
+    "Pozor jen na kosti, ty drobné se schovávají u hřbetu. Chlebíčkárna nic nepřiveze, ale pomazánka je skutečná a odpoledne bude lepší než ráno."
+  ],
+  "price": 9900,
+  "image": "dish-rybi-pomazanka-oblozeno",
+  "recipe": "rybi-pomazanka",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    4,
+    7,
+    10
+  ],
+  "order": 110
+}

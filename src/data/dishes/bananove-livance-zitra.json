@@ -1,0 +1,23 @@
+{
+  "name": "Banánové lívance s jogurtem a medem",
+  "restaurant": "livancarna-az-zitra",
+  "kind": "main",
+  "section": "Lívance",
+  "description": "Měkké lívance z rozmačkaných banánů, bílý jogurt a lžíce medu navrch. Sladké bez zbytečného cukru.",
+  "about": [
+    "Banánové lívance jsou rychlá varianta pro dny, kdy nemáš čas čekat na kynuté těsto. Banán nahrazuje většinu cukru a drží těsto pohromadě, takže stačí jedna mísa a jedna pánev.",
+    "Podávají se s jogurtem a medem, který krásně prosákne do horkých lívanců. Lívanců je dvanáct, doručení žádné. Doma si je ale můžeš sníst všechny."
+  ],
+  "price": 14900,
+  "image": "dish-bananove-livance-zitra",
+  "recipe": "bananove-livance",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 100
+}

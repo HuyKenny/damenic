@@ -1,0 +1,22 @@
+{
+  "name": "Těstoviny s tuňákem",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Z pánve",
+  "description": "Špagety s tuňákem, passatou, kapary a olivami. Rychlé jídlo z plechovky.",
+  "about": [
+    "Těstoviny s tuňákem jsou jídlo z kategorie večer bez nápadu: plechovka ryby, rajčata, česnek a hotovo za čtvrt hodiny. Tuňák se do omáčky přidává na konci, aby se nerozpadl.",
+    "Kapary a olivy dávají omáčce slanost, takže soli netřeba. U nás se ta plechovka nikdy nevyprázdní, jen se o ní mluví."
+  ],
+  "price": 16900,
+  "image": "dish-tunak-testoviny-niente",
+  "recipe": "testoviny-s-tunakem",
+  "optionGroups": [],
+  "vegetarian": false,
+  "spicy": 1,
+  "allergens": [
+    1,
+    4
+  ],
+  "order": 64
+}

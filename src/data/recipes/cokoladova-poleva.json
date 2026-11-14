@@ -1,0 +1,92 @@
+{
+  "title": "Čokoládová poleva na dort",
+  "keywords": [
+    "čokoládová poleva na dort",
+    "čokoládová poleva",
+    "čokoládová poleva recept",
+    "poleva z hořké čokolády"
+  ],
+  "intro": "Čokoládová poleva na dort z hořké čokolády, smetany a másla je hladká, lesklá a po ztuhnutí se dá krájet bez praskání. Vystačí na dort o průměru 24 cm nebo na bábovku. Důležité je, aby byla poleva při lití vlažná, asi 32 až 35 °C.",
+  "image": "dish-cokoladova-poleva",
+  "category": "dorty",
+  "servings": 8,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 25,
+  "waitLabel": "vychladnutí na lití",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 200,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 150,
+      "unit": "ml",
+      "note": "min. 33 %"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "med",
+      "amount": 10,
+      "unit": "g",
+      "note": "pro lesk, nepovinné"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Čokoládu nasekej na kousky velikosti hrášku a dej do žáruvzdorné mísy. Menší kousky se rozpustí rychleji a rovnoměrně."
+    },
+    {
+      "section": "Smetana",
+      "text": "Smetanu ohřej v hrnku těsně pod bod varu, asi na 85 °C, až se na okraji objeví první bublinky. Nesmí se vařit, jinak se čokoláda rozdělí."
+    },
+    {
+      "section": "Spojení",
+      "text": "Horkou smetanu nalij na čokoládu a nech 2 minuty stát bez míchání. Potom míchej od středu v malém kruhu, dokud nevznikne hladká lesklá hmota."
+    },
+    {
+      "section": "Lesk",
+      "text": "Vmíchej máslo a případně med. Poleva tím získá lesk a při krájení nepraská. Nech ji 20 až 25 minut chladnout na 32 až 35 °C."
+    },
+    {
+      "section": "Polévání",
+      "text": "Dort nebo bábovku polož na mřížku nad plech a nalij polevu uprostřed, ať stéká po okrajích. Nech ztuhnout 1 hodinu v lednici, pak ji vytáhni 15 minut před krájením."
+    }
+  ],
+  "tips": [
+    "Na lití jsou ideální 2 hodiny odleželé korpusy. Čerstvé a teplé polevu rozpustí.",
+    "Pokud poleva zhoustla, ohřej ji nad párou na 35 °C a promíchej. Přehřátá ztratí lesk.",
+    "Zbylá poleva vydrží v lednici 1 týden a dá se použít jako náplň nebo krém po šlehání."
+  ],
+  "substitutions": [
+    "Hořkou čokoládu nahraď mléčnou a vezmi jí 250 g. Mléčná poleva je sladší a měkčí.",
+    "Smetanu nahraď kokosovým mlékem z plechovky (jen hustou částí), poleva bude veganská.",
+    "Med nahraď glukózovým sirupem nebo javorovým sirupem, použij stejné množství."
+  ],
+  "faq": [
+    {
+      "q": "Proč se čokoládová poleva sráží?",
+      "a": "Smetana byla příliš horká nebo se do čokolády dostala voda. Smetanu ohřej jen těsně pod bod varu a míchej od středu."
+    },
+    {
+      "q": "Kolik čokolády a smetany na polevu?",
+      "a": "Na dort o průměru 24 cm 200 g čokolády a 150 ml smetany (poměr 4:3). Čím víc smetany, tím řidší poleva."
+    },
+    {
+      "q": "Jak dlouho vydrží čokoládová poleva?",
+      "a": "Na dortu v lednici 3 dny. Zbytek polevy v uzavřené nádobě vydrží v lednici 1 týden, před použitím ji opatrně ohřej."
+    }
+  ]
+}

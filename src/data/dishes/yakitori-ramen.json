@@ -1,0 +1,20 @@
+{
+  "name": "Yakitori špízy s rýží",
+  "restaurant": "ramen-nedojde",
+  "kind": "main",
+  "section": "Rýže a knedlíčky",
+  "description": "Kuřecí stehna na špejlích s jarní cibulkou, lesklá omáčka tare a rýže se sezamem.",
+  "about": [
+    "Yakitori jsou japonské špízy z hospody, kde se jí rukama a pije se k tomu čaj nebo pivo. Maso se opéká a při tom se potírá sladkoslanou omáčkou, až se na špejli rozzáří.",
+    "Ramen nedojde, ale špejle došly do kuchyně. Doma je namočíš a v troubě za pár minut rozsvítíš celý byt."
+  ],
+  "price": 18900,
+  "image": "dish-yakitori-ramen",
+  "recipe": "yakitori",
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "order": 220
+}

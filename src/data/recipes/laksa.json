@@ -1,0 +1,179 @@
+{
+  "title": "Laksa s kuřetem a krevetami",
+  "category": "thajska",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 25,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "keywords": [
+    "laksa recept",
+    "laksa polévka",
+    "kokosová polévka s nudlemi",
+    "kari polévka s krevetami"
+  ],
+  "intro": "Laksa je pikantní kokosová polévka s rýžovými nudlemi, kuřecím masem a krevetami. Základem je kari pasta, citronová tráva a kokosové mléko, výsledek je hustý, voňavý a sytý. Hotovo je za necelou hodinu.",
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "kari-pasta-cervena",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "citronova-trava",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozbitá nožem",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 15,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "kokosove-mleko",
+      "amount": 400,
+      "unit": "ml",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 750,
+      "unit": "ml",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "rybi-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Vývar"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 250,
+      "unit": "g",
+      "note": "na tenké plátky",
+      "group": "Vložka"
+    },
+    {
+      "ingredient": "krevety",
+      "amount": 200,
+      "unit": "g",
+      "note": "loupané",
+      "group": "Vložka"
+    },
+    {
+      "ingredient": "nudle-ryzove-tenke",
+      "amount": 200,
+      "unit": "g",
+      "group": "Vložka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "natvrdo",
+      "group": "Vložka"
+    },
+    {
+      "ingredient": "fazolove-klicky",
+      "amount": 100,
+      "unit": "g",
+      "group": "Na talíř"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Na talíř"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Na talíř"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kolečka",
+      "group": "Na talíř"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Vložka",
+      "text": "Vejce uvař natvrdo (8 minut od varu), zchlaď a oloupej. Nudle zalij horkou vodou podle návodu, scedi a rozdělit do misek."
+    },
+    {
+      "section": "Základ",
+      "text": "Na hrnci rozehřej olej a 2 minuty na něm opékej kari pastu, citronovou trávu, zázvor a česnek, až zavoní."
+    },
+    {
+      "section": "Vývar",
+      "text": "Přilij vývar a kokosové mléko, přidej rybí omáčku a cukr. Přiveď k varu a vař na mírném ohni 10 minut, aby se chutě propojily."
+    },
+    {
+      "section": "Vložka",
+      "text": "Vlož kuřecí plátky a vař 5 až 6 minut, dokud nejsou uvnitř 75 °C a bílé. Pak přidej krevety a vař 2 až 3 minuty, než zrůžoví a zkroutí se."
+    },
+    {
+      "section": "Vývar",
+      "text": "Citronovou trávu vyndej. Dochuť limetkovou šťávou, případně rybí omáčkou nebo cukrem."
+    },
+    {
+      "section": "Na talíř",
+      "text": "Polévku nalij na nudle, přidej půlku vejce, klíčky, koriandr a chilli. Limetku nech na stole."
+    }
+  ],
+  "tips": [
+    "Kari pasta se po smažení v oleji probudí, nesmažíš ji dlouho, jinak zhořkne.",
+    "Klíčky dávej syrové, v horké polévce zůstanou křupavé.",
+    "Polévku s nudlemi nevař společně, nudle se v zbytku změní v kaši."
+  ],
+  "substitutions": [
+    "Krevety a kuře můžeš nahradit tofu a zeleninovým vývarem, rybí omáčku nahraď sójovou.",
+    "Červenou kari pastu lze nahradit zelenou, chuť bude svěžejší.",
+    "Rýžové nudle vyměň za tenké vaječné nudle."
+  ],
+  "faq": [
+    {
+      "q": "Je laksa pálivá?",
+      "a": "Záleží na pastě. Se třemi lžícemi červené pasty je středně pálivá, množství můžeš snížit a chilli přidat až na talíři."
+    },
+    {
+      "q": "Dá se laksa udělat předem?",
+      "a": "Základ ano, vydrží 2 dny v lednici. Maso, krevety a nudle přidej až při ohřevu, jinak se přepečou a nudle nasají vývar."
+    },
+    {
+      "q": "Čím nahradit citronovou trávu?",
+      "a": "Kůrou z jedné limetky a špetkou kafírových listů, pokud je máš. Chuť bude svěží, ale jemnější."
+    }
+  ],
+  "image": "dish-laksa-kokos",
+  "vegetarian": false
+}

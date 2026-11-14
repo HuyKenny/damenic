@@ -1,0 +1,43 @@
+{
+  "name": "Švestkový koláč se skořicí",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Máslové těsto s polštářem zralých švestek a skořicovým cukrem. Kousek z plechu, který dlouho nevydrží.",
+  "about": [
+    "Rychlý švestkový koláč je podzimní klasika: husté máslové těsto a švestky zapíchnuté řezem nahoru, které se při pečení pomalu noří dovnitř. Skořice a cukr na povrchu vytvoří tenkou křupavou krustu.",
+    "Dostaneš kousek z plechu 25 × 35 cm. Švestky jsou smyšlené, chuť doopravdy, takže do pečení musíš sama."
+  ],
+  "price": 6500,
+  "image": "dish-svestkovy-kolac-nedortik",
+  "recipe": "svestkovy-kolac",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kus",
+          "name": "1 kousek",
+          "priceDelta": 0
+        },
+        {
+          "id": "tri",
+          "name": "3 kousky",
+          "priceDelta": 12500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 12
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Kimbap s tuňákem a vejcem",
+  "restaurant": "rolka-priste",
+  "kind": "main",
+  "section": "Rolky",
+  "description": "Korejská rolka z rýže a nori s tuňákem, omeletou, mrkví, špenátem a okurkou.",
+  "about": [
+    "Kimbap je korejský bratranec sushi, ale bez octa a bez syrové ryby. Uvnitř duha z vejce, mrkve, špenátu a tuňáka, a po rozkrojení se rolka sama pochlubí.",
+    "Rolka příště. Nebo hned, pokud si ji doma svineš sám. Tvoje rohožka na sushi nikdy nezklame a nečeká na kurýra."
+  ],
+  "price": 17900,
+  "image": "dish-kimbap-rolka",
+  "recipe": "kimbap",
+  "allergens": [
+    3,
+    4,
+    10,
+    11
+  ],
+  "order": 200
+}

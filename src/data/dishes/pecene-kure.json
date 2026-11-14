@@ -1,0 +1,44 @@
+{
+  "name": "Pečené kuře celé",
+  "kind": "main",
+  "section": "Kuře",
+  "price": 27900,
+  "recipe": "pecene-kure",
+  "vegetarian": false,
+  "order": 110,
+  "description": "Celé kuře osolené den předem, pečené do zlatova. Odletí všechno, jen ne recept.",
+  "about": [
+    "Celé kuře potřebuje dvě věci: sůl předem a teploměr. Osolené kuře vydrží křupavou kůži i šťavnaté maso. Hotové je při 75 °C v prsou a 80 °C ve stehně.",
+    "Po upečení kuře 15 minut odpočívá. Bistro Uletělo ti ho nepřiveze, ale doma po tomhle receptu přiletí i sousedi."
+  ],
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "brambory",
+          "name": "Pečené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "kase",
+          "name": "Bramborová kaše",
+          "priceDelta": 1000
+        },
+        {
+          "id": "rize",
+          "name": "Rýže",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "bistro-uletelo",
+  "image": "dish-pecene-kure",
+  "allergens": [
+    7
+  ]
+}

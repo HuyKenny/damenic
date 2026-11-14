@@ -1,0 +1,146 @@
+{
+  "title": "Srbské rizoto",
+  "keywords": [
+    "srbské rizoto",
+    "srbské rizoto recept",
+    "srbské rizoto s vepřovým masem",
+    "rýže s masem a paprikou"
+  ],
+  "image": "dish-srbske-rizoto-pozitri",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Srbské rizoto je jednohrncové jídlo z vepřového masa, papriky, cibule a rýže, silně ochucené mletou paprikou. Rýže se vaří přímo ve šťávě z masa a zeleniny, proto je hotová za půl hodiny a nemusíš nic cedit. S klasickým italským rizotem nemá společného nic.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-plecko",
+      "amount": 500,
+      "unit": "g",
+      "note": "na kostky 2 cm",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na kostky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "paprika-zelena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "ryze-dlouhozrnna",
+      "amount": 250,
+      "unit": "g",
+      "note": "opláchnutá",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 600,
+      "unit": "ml",
+      "note": "horká",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 100,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci s tlustším dnem rozehřej olej a na vysokém plameni opékej maso 6 minut, dokud nezezlátne ze všech stran."
+    },
+    {
+      "text": "Přidej cibuli a po 3 minutách česnek. Stáhni plamen na minimum, přisyp mletou papriku a hned vmíchej rajčatový protlak a papriky."
+    },
+    {
+      "text": "Duš 10 minut pod pokličkou, aby vypustily šťávu. Případně přilij 3 lžíce vody."
+    },
+    {
+      "text": "Přisyp opláchnutou rýži, osol, opepři a přilij horkou vodu. Přivěď k varu, stáhni plamen na minimum, přikryj a vař 15 minut."
+    },
+    {
+      "text": "Přidej hrášek, promíchej a nech přikryté na vypnuté plotně 5 minut odpočinout. Maso musí být měkké a rýže rozpadavá."
+    }
+  ],
+  "tips": [
+    "Papriku nepřidávej na horký tuk, zhořkne. Vždy ji stáhni z plamene nebo rychle vlij tekutinu.",
+    "Krátké vaření rýže je dané pevnou poklicí. Nezvedej ji, aby neunikla pára.",
+    "Podávej se salátem z okurek nebo se zelným salátem, hodí se chladivá příloha."
+  ],
+  "substitutions": [
+    "Vepřové plecko nahradíš krkovicí nebo kuřecími stehny bez kůže.",
+    "Bezmasá verze: místo masa dej 400 g žampionů a lžíci uzené papriky."
+  ],
+  "faq": [
+    {
+      "q": "Jaké maso se hodí do srbského rizota?",
+      "a": "Vepřové plecko nebo krkovice, protože zůstanou šťavnaté i při delším vaření."
+    },
+    {
+      "q": "Proč se rýže v rizotu rozvařila?",
+      "a": "Použil jsi příliš mnoho vody nebo se rýže vařila moc dlouho. Dodrž 2,4 dílu vody na 1 díl rýže a pak ji nech odpočinout."
+    },
+    {
+      "q": "Je srbské rizoto ostré?",
+      "a": "Ne, jen paprikové. Chceš-li ostřejší, přidej lžičku chilli vloček."
+    }
+  ]
+}

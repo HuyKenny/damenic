@@ -1,0 +1,130 @@
+{
+  "title": "Hrníčková bábovka s olejem",
+  "keywords": [
+    "hrníčková bábovka",
+    "hrníčková bábovka recept",
+    "hrnková bábovka",
+    "olejová bábovka"
+  ],
+  "intro": "Hrníčková bábovka recept bez vážení: mléko, olej, cukr a mouku odměříš hrnkem o objemu 250 ml. Těsto se jen promíchá a upeče ve formě o průměru 24 cm. Olej dělá střídu vláčnou i druhý den a z formy se bábovka snadno vyklopí. Vyjde 12 kousků.",
+  "image": "dish-hrnickova-babovka-kolac",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 15,
+  "cookMinutes": 50,
+  "waitMinutes": 20,
+  "waitLabel": "vychladnutí ve formě",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 200,
+      "unit": "g",
+      "note": "1 hrnek"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "1 hrnek"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 200,
+      "unit": "ml",
+      "note": "asi 1 hrnek bez kapek"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 420,
+      "unit": "g",
+      "note": "3 hrnky"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 14,
+      "unit": "g",
+      "note": "asi 1 sáček"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 20,
+      "unit": "g",
+      "note": "na mramorování, nepovinné"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na formu"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "note": "na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 165 °C). Formu vymaž máslem a vysyp moukou, přebytek vyklep."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vejce vyšlehej s cukrem a vanilkovým cukrem do světlé pěny. Po částech přilévej mléko a olej a šlehej do spojení."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej s práškem do pečiva a po třetinách vmíchej do těsta. Míchej jen do spojení. Těsto má být husté, ale tekoucí."
+    },
+    {
+      "section": "Mramor",
+      "text": "Ze třetiny těsta odeber do misky, vmíchej kakao a lžíci mléka. Světlé těsto nalij do formy, přidej tmavé a protáhni vidličkou jednou spirálou."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 45 až 50 minut, dokud špejle nevyjde suchá. V půlce pečení nevětrej. Pokud vršek tmavne, přikryj ho alobalem."
+    },
+    {
+      "section": "Chladnutí",
+      "text": "Bábovku nech 10 minut ve formě a pak ji vyklop na mřížku. Vychladlou zasyp moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Hrnek vždy měř stejný: 250 ml. Mouku nezatřásej, jen ji lžící nasyp.",
+    "Bábovka vydrží zakrytá 5 dní, olej drží vlhkost. Je nejlepší druhý den.",
+    "Do těsta můžeš přidat hrst rozinek, čokoládových kapek nebo kůru z citronu."
+  ],
+  "substitutions": [
+    "Olej nahraď rozpuštěným máslem, bábovka bude chuťově plnější, ale rychleji oschne.",
+    "Mléko nahraď jogurtem nebo kefírem, bábovka bude vláčnější.",
+    "Kakao vynech a bábovka bude světlá vanilková."
+  ],
+  "faq": [
+    {
+      "q": "Kolik gramů je hrnek mouky?",
+      "a": "Hrnek o objemu 250 ml hladké mouky váží asi 140 g, tři hrnky tedy 420 g. Tolik je v receptu."
+    },
+    {
+      "q": "Jak dlouho péct hrníčkovou bábovku?",
+      "a": "45 až 50 minut při 175 °C horní a spodní ohřev (horkovzduch 165 °C) ve formě o průměru 24 cm."
+    },
+    {
+      "q": "Proč se bábovka propadla?",
+      "a": "Trouba se otevřela příliš brzy, nebo bylo v těstě moc kypřidla. Neotvírej ji prvních 35 minut a prášek nepřidávej navíc."
+    }
+  ]
+}

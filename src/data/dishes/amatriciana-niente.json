@@ -1,0 +1,22 @@
+{
+  "name": "Špagety amatriciana",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Klasiky",
+  "description": "Špagety s rajčatovou omáčkou, opečenou slaninou a pecorinem. Římská klasika.",
+  "about": [
+    "Amatriciana je omáčka z městečka Amatrice. Vaří se z rajčat, slaniny a pecorina, bez cibule a bez smetany, aspoň podle puristů. My jsme volnější, ale slaninu pečeme pomalu, aby pustila tuk.",
+    "Omáčka je lehce pikantní, těstoviny al dente a sýr strouháme až na talíři. Nic složitého, jen pozor, ať se slanina nespálí."
+  ],
+  "price": 18900,
+  "image": "dish-amatriciana-niente",
+  "recipe": "spagety-amatriciana",
+  "optionGroups": [],
+  "vegetarian": false,
+  "spicy": 1,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 66
+}

@@ -1,0 +1,139 @@
+{
+  "title": "Pečené vepřové koleno",
+  "keywords": [
+    "pečené vepřové koleno",
+    "pečené koleno",
+    "vepřové koleno recept",
+    "koleno z trouby",
+    "vepřové koleno"
+  ],
+  "image": "dish-pecene-veprove-koleno",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 3,
+  "activeMinutes": 25,
+  "cookMinutes": 190,
+  "waitMinutes": 720,
+  "waitLabel": "marinování kolena v lednici přes noc",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Pečené vepřové koleno s křupavou kůží a měkkým masem, které se samo drží kosti jen o vlásek. Je to prosté, ale pomalé jídlo: koleno se marinuje přes noc, peče se dvě hodiny přikryté a nakonec se kůže dopeče vysoko rozpálenou troubou. Pro tři porce.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-koleno",
+      "amount": 1200,
+      "unit": "g",
+      "note": "zadní, s kůží a kostí, asi 1,2 kg",
+      "group": "Koleno"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Koleno"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Koleno"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "rozdrcený",
+      "group": "Koleno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 5,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Koleno"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "plnotučná, jen na maso",
+      "group": "Koleno"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 300,
+      "unit": "g",
+      "note": "nahrubo nakrájená",
+      "group": "Pečení"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kousky",
+      "group": "Pečení"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Pečení"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 500,
+      "unit": "ml",
+      "note": "horká",
+      "group": "Pečení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Koleno opláchni a osuš. Kůži nařízni nožem do kosočtverců 1 až 1,5 cm velkých, řezy veď jen skrz kůži a tuk. Případné chloupky na kůži opal nad plamenem nebo je opatrně seřízni žiletkou.",
+      "section": "Marináda"
+    },
+    {
+      "text": "Smíchej sůl, pepř, kmín, česnek a hořčici. Směsí potři celé koleno, hlavně do řezů a na stranu s masem, na kůži jen sůl. Vlož do misky, přikryj a nech v lednici 12 hodin.",
+      "section": "Marináda"
+    },
+    {
+      "text": "Troubu předehřej na 170 °C, horkovzduch na 160 °C. Do hlubokého pekáče rozlož cibuli, mrkev a bobkový list, polož na ně koleno kůží nahoru a ke stěně podlij horkou vodou. Pekáč pevně přikryj alobalem nebo víkem.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Peč 2 hodiny. Po hodině a půl víko na chvíli nadzvedni a podlij vodou, pokud se výpek vypekl. Maso je dostatečně měkké, když do něj bez odporu zajede špejle a teplota u kosti je kolem 90 °C.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Víko sundej, troubu zvyš na 220 °C, horkovzduch na 210 °C, a peč dalších 30 až 40 minut. Koleno každých 10 minut přelij výpekem, jen na kůži ne. Ta má být nafouklá, křupavá a popraskaná.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Hotové koleno nech 15 minut odpočinout. Výpek přeceď a zbav tuku z hladiny, podávej ho jako šťávu. Koleno krájej od kosti, kůži si nech zvlášť rozlámanou, ať zůstane křupavá. Hořčice, křen a čerstvé pečivo jsou klasika.",
+      "section": "Podávání"
+    }
+  ],
+  "tips": [
+    "Za horka se koleno při krájení roztrhá. Po 15 minutách odpočinku se šťáva usadí a maso drží tvar.",
+    "Marinování přes noc není povinné, ale prosolí maso do hloubky. Krátce naložené koleno chutná u povrchu a uvnitř je suché.",
+    "Výpek se hodí na zahuštění zelí nebo jako omáčka k houskovým knedlíkům."
+  ],
+  "substitutions": [
+    "Místo zadního kolena vezmi přední, je levnější a má víc masa, peče se ale asi o 20 minut kratší dobu.",
+    "Hořčici můžeš vynechat, chuť bude jednodušší a čistě kmínová."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se peče vepřové koleno?",
+      "a": "Koleno o hmotnosti kolem 1,2 kg se peče přikryté asi 2 hodiny při 170 °C a potom 30 až 40 minut odkryté při 220 °C. Dohromady vychází na zhruba 2,5 až 3 hodiny."
+    },
+    {
+      "q": "Jak udělat křupavou kůži na koleni?",
+      "a": "Kůži nařízni, nepotírej ji tukem, dobře ji osuš a nech koleno přes noc v lednici. Na závěr ho odkryté dopeč při 220 °C a nepřeléval výpekem."
+    },
+    {
+      "q": "Peče se koleno přikryté, nebo odkryté?",
+      "a": "Nejdřív přikryté, aby se maso dusilo a změklo. Teprve poslední půlhodinu odkryté, kdy kůže zhnědne a nafoukne se."
+    }
+  ]
+}

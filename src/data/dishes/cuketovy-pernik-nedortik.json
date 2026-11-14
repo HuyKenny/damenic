@@ -1,0 +1,43 @@
+{
+  "name": "Cuketový perník s polevou",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Kakaový perník s perníkovým kořením a cuketou schovanou uvnitř, přelitý hořkou čokoládou.",
+  "about": [
+    "Cuketa v perníku je tichý pomocník. Nikdo ji nepozná, ale díky ní je střída vlhká i čtvrtý den. Kakao, perníkové koření a hořká poleva dělají zbytek.",
+    "Kousek z formy 20 × 30 cm. Zelenina je v receptu legální a poleva je jediná věc, o které se nediskutuje."
+  ],
+  "price": 5500,
+  "image": "dish-cuketovy-pernik-nedortik",
+  "recipe": "cuketovy-pernik",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kus",
+          "name": "1 kousek",
+          "priceDelta": 0
+        },
+        {
+          "id": "tri",
+          "name": "3 kousky",
+          "priceDelta": 10500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 45
+}

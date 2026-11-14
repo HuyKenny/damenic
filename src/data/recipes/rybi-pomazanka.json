@@ -1,0 +1,114 @@
+{
+  "title": "Pomazánka z uzené makrely",
+  "keywords": [
+    "rybí pomazánka",
+    "pomazánka z uzené makrely",
+    "rybí pomazánka z makrely",
+    "makrelová pomazánka"
+  ],
+  "image": "dish-rybi-pomazanka-oblozeno",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "uležení v lednici",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Rybí pomazánka z uzené makrely je křehká, kouřová a jemně citronová. Maso se zbaví kůže a kostí, rozmačká s pomazánkovým máslem a dochutí hořčicí a citronem. Z jednoho filetu a 80 g másla vyjde asi 250 g pomazánky.",
+  "ingredients": [
+    {
+      "ingredient": "makrela-uzena",
+      "amount": 200,
+      "unit": "g",
+      "note": "1 až 2 filety bez kůže",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "pomazankove-maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "pokojové teploty",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "najemno",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.25,
+      "unit": "ks",
+      "group": "Na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Z uzené makrely stáhni kůži a vyber všechny kosti, i ty drobné. Zkontroluj prsty, zbylé kosti bývají v břišní části."
+    },
+    {
+      "section": "Rozmačkání",
+      "text": "Maso rozmačkej vidličkou na jemná vlákna. Přidej pomazánkové máslo a promíchej do hladka."
+    },
+    {
+      "section": "Dochucení",
+      "text": "Přisyp jarní cibulku, přidej hořčici a šťávu z poloviny citronu. Okořeň pepřem, sůl obvykle nepotřebuje, makrela je slaná."
+    },
+    {
+      "section": "Uležení",
+      "text": "Pomazánku přikryj a nech 30 minut v lednici, aby zhoustla a chutě se spojily."
+    },
+    {
+      "section": "Podávání",
+      "text": "Namaž na chléb nebo pečivo a posyp pažitkou. Hodí se na chlebíčky i na krajíc žitného chleba."
+    }
+  ],
+  "tips": [
+    "Kosti hledej prsty, ne okem. Drobné vláknité kosti zůstávají u hřbetu a v břiše.",
+    "Pomazánkové máslo můžeš nahradit tvarohem, pomazánka bude lehčí a kyselejší.",
+    "Pomazánka je nejlepší následující den, kdy se chutě usadí."
+  ],
+  "substitutions": [
+    "Uzenou makrelu lze nahradit lososem uzeným za studena nebo sardinkami z plechovky.",
+    "Máslo nahraď smetanovým sýrem nebo zakysanou smetanou.",
+    "Do pomazánky přidej strouhaný křen, bude pikantní a svěží."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží rybí pomazánka?",
+      "a": "V lednici 2 dny v uzavřené nádobě. Rybí pomazánky nejsou vhodné na delší skladování."
+    },
+    {
+      "q": "Jak vykostit uzenou makrelu?",
+      "a": "Rozevři filet a prsty hledej kosti, hlavně u hřbetu a v břiše. Ryba je měkká a kosti jdou dobře vytáhnout."
+    },
+    {
+      "q": "Dá se rybí pomazánka zamrazit?",
+      "a": "Nedoporučuje se, po rozmražení se rozdělí tuk a pomazánka vyteče. Uvař čerstvou."
+    }
+  ]
+}

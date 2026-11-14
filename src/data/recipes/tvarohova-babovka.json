@@ -1,0 +1,130 @@
+{
+  "title": "Tvarohová bábovka s citronem a krupicí",
+  "keywords": [
+    "tvarohová bábovka",
+    "tvarohová bábovka s krupicí",
+    "bábovka s tvarohem",
+    "bábovka s citronem"
+  ],
+  "intro": "Tvarohová bábovka recept do formy o objemu asi 2 litry (průměr 24 cm). Tvaroh a krupice dělají střídu vlhkou a hutnou, ale ne těžkou, citron ji osvěžuje. Vyjde 12 kousků, těsto se jen utře a vymíchá.",
+  "image": "dish-tvarohova-babovka-nedortik",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 20,
+  "cookMinutes": 55,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí ve formě",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "pokojové teploty, + 10 g na formu"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 180,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "měkký"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "kůra + 2 lžíce šťávy"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "note": "+ 1 lžíce na formu"
+    },
+    {
+      "ingredient": "krupice",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 50,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "note": "na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 165 °C). Formu vymaž máslem a vysyp moukou. Přebytek vyklep."
+    },
+    {
+      "section": "Těsto",
+      "text": "Máslo šlehej s cukrem a vanilkovým cukrem 4 minuty, dokud nezesvětlá. Vejce přidávej po jednom a vždy prošlehej."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vmíchej tvaroh, kůru i šťávu z citronu. Mouku smíchej s krupicí a práškem do pečiva a po částech zapracuj střídavě s mlékem. Těsto má mít hustotu hustší smetany."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto nalij do formy a uhlaď. Peč uprostřed trouby 50 až 55 minut, špejle zapíchnutá do nejtlustší části má vyjít suchá. Pokud vršek tmavne, přikryj ho alobalem."
+    },
+    {
+      "section": "Chladnutí",
+      "text": "Bábovku nech 10 minut ve formě a pak ji vyklop na mřížku. Úplně vychladlou zasyp moučkovým cukrem. Teplá by se při krájení rozpadala."
+    }
+  ],
+  "tips": [
+    "Všechny suroviny musí mít pokojovou teplotu, jinak se těsto sráží.",
+    "Tvaroh vymačkej v čisté plátýnce, pokud je příliš vodnatý. Bábovka by se jinak propadla.",
+    "Hotová bábovka je nejlepší druhý den a v uzavřené dóze vydrží 4 dny."
+  ],
+  "substitutions": [
+    "Krupici nahraď stejným množstvím hladké mouky. Bábovka bude jemnější a méně hutná.",
+    "Citron nahraď kůrou z pomeranče a přidej hrst rozinek nebo čokoládových kapek.",
+    "Máslo můžeš nahradit 120 ml oleje, střída bude vláčnější, ale bez máslové chuti."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct tvarohovou bábovku?",
+      "a": "Při 175 °C horní a spodní ohřev (horkovzduch 165 °C) 50 až 55 minut ve formě o průměru 24 cm. Hotová je, když špejle vyjde suchá."
+    },
+    {
+      "q": "Proč se bábovka propadla?",
+      "a": "Těsto bylo příliš vlhké, nebo ses příliš brzy dívala do trouby. Troubu neotvírej prvních 35 minut a tvaroh nech odkapat."
+    },
+    {
+      "q": "Dá se tvarohová bábovka zmrazit?",
+      "a": "Ano. Vychladlou ji nakrájej, zabal do fólie a zmraz na 2 měsíce. Rozmrazuj při pokojové teplotě 2 hodiny."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "title": "Kuřecí korma",
+  "category": "indicka",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 30,
+  "waitMinutes": 30,
+  "waitLabel": "marinování kuřete",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "keywords": [
+    "kuřecí korma",
+    "korma recept",
+    "indické kuře se smetanou a mandlemi",
+    "korma kuře"
+  ],
+  "intro": "Kuřecí korma je jemné indické kari s jogurtem, smetanou a mandlemi, které se vaří pomalu a není pálivé. Kuře se krátce marinuje v jogurtu s kořením, omáčka je hladká a lehce sladká. Hodí se k basmati rýži.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 600,
+      "unit": "g",
+      "note": "na kostky 3 cm",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 150,
+      "unit": "g",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 28,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 20,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "garam-masala",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "kardamom",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mandle",
+      "amount": 60,
+      "unit": "g",
+      "note": "rozmixované na pastu s vodou",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 300,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 450,
+      "unit": "ml",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Kuře",
+      "text": "Kuřecí kostky smíchej s jogurtem, kurkumou a solí a nech 30 minut v lednici."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Mandle rozmixuj s 100 ml vody na hladkou pastu. V hrnci rozehřej máslo a smaž cibuli 8 minut na středním ohni, až změkne a lehce zezlatne. Přidej česnek a zázvor a smaž 1 minutu."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Přidej garam masalu, kardamom a koriandr a míchej 30 sekund, aby zavoněly."
+    },
+    {
+      "section": "Kuře",
+      "text": "Vlož kuře i s marinádou a 5 minut opékej, až bílé zbělá. Přidej mandlovou pastu a zbylou vodu, přiveď k varu, zakryj a duš 15 minut na mírném ohni, až maso uvnitř dosáhne 75 °C."
+    },
+    {
+      "section": "Rýže",
+      "text": "Rýži basmati propláchni, přiveď s 450 ml vody k varu, zakryj, vař 12 minut na minimu a nech 5 minut dojít."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Přidej smetanu a cukr a vař odkryté 3 minuty, aby omáčka zhoustla. Dochuť solí a podávej s rýží."
+    }
+  ],
+  "tips": [
+    "Smetanu přilévej až na konci a nevař ji prudce, jinak se omáčka vysráží.",
+    "Cibuli nechej zezlatnout jen mírně, hnědá by korma zhořkla.",
+    "Pro hustší omáčku přidej o lžíci mandlí navíc."
+  ],
+  "substitutions": [
+    "Mandle nahraď kešu, pokud je máš, omáčka bude ještě sladší.",
+    "Smetanu na vaření nahraď kokosovým mlékem, bude bez mléka (maslo nahraď olejem).",
+    "Kuřecí prsa můžeš zaměnit za stehna, vař o 5 minut déle."
+  ],
+  "faq": [
+    {
+      "q": "Je korma pálivá?",
+      "a": "Ne. Je nejjemnější z indických kari, chuť je krémová a sladká. Pokud chceš pálivost, přidej chilli na talíři."
+    },
+    {
+      "q": "Čím se liší korma od butter chicken?",
+      "a": "Korma má základ z jogurtu, mandlí a smetany a je světlejší. Butter chicken je v rajčatové omáčce a je výraznější."
+    },
+    {
+      "q": "Dá se korma zamrazit?",
+      "a": "Ano, ale omáčka se po rozmražení může oddělit. Rozmrazuj v lednici a pomalu ohřej za stálého míchání."
+    }
+  ],
+  "image": "dish-kureci-korma-kari",
+  "vegetarian": false
+}

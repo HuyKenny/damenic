@@ -1,0 +1,175 @@
+{
+  "title": "Bulgogi",
+  "category": "asijska",
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 10,
+  "waitMinutes": 60,
+  "waitLabel": "marinování masa",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "bulgogi",
+    "bulgogi recept",
+    "korejské hovězí",
+    "korejské hovězí na pánvi"
+  ],
+  "intro": "Bulgogi je korejské hovězí tence nakrájené a naložené do sladké sójové marinády s česnekem, sezamovým olejem a jablkem. Opéká se krátce na rozpálené pánvi a jí se s rýží a listy salátu. Marinuje se hodinu, hotové je za deset minut.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-rostena",
+      "amount": 500,
+      "unit": "g",
+      "note": "krájená co nejtenčeji",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nastrouhané",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisované",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na tenká půlkolečka",
+      "group": "Opékání"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 3,
+      "unit": "ks",
+      "note": "nakrájená",
+      "group": "Opékání"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Opékání"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Opékání"
+    },
+    {
+      "ingredient": "ryze-sushi",
+      "amount": 300,
+      "unit": "g",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 360,
+      "unit": "ml",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "ledovy-salat",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jednotlivé listy",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "gochujang",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "K podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Maso",
+      "text": "Hovězí 30 minut zmrazuj, aby ztuhlo, a nakrájej ho na plátky silné asi 2 mm."
+    },
+    {
+      "section": "Marináda",
+      "text": "Sójovku, třtinový cukr, sezamový olej, nastrouhané jablko, česnek, zázvor a pepř prošlehej v míse. Vmíchej maso a nech 60 minut v lednici."
+    },
+    {
+      "section": "K podávání",
+      "text": "Rýži propírej do čiré vody, přiveď se 360 ml vody k varu, zakryj, vař 12 minut na minimu a nech 10 minut dojít."
+    },
+    {
+      "section": "Opékání",
+      "text": "Velkou pánev rozpal na nejvyšší stupeň a potři olejem. Maso opékej po 2 až 3 dávkách 2 až 3 minuty, ať se opeče a neduší. Hotové má být vně hnědé a uvnitř bez syrových míst."
+    },
+    {
+      "section": "Opékání",
+      "text": "Poslední dávku opékej s cibulí a jarní cibulkou 2 minuty. Posyp sezamem."
+    },
+    {
+      "section": "K podávání",
+      "text": "Podávej s rýží, listy salátu a gochujangem. Do listu dej rýži, maso a trochu pasty a sněz jako zavinutý balíček."
+    }
+  ],
+  "tips": [
+    "Jablko obsahuje enzymy, které maso změkčují. Neděl marinádu delší než 4 hodiny, maso by zkašovatělo.",
+    "Pánev musí být opravdu horká, jinak se maso dusí ve vlastní šťávě.",
+    "Zbylé maso vydrží v lednici 2 dny a je dobré do wrapu."
+  ],
+  "substitutions": [
+    "Jablko nahraď hruškou nebo lžící medu.",
+    "Hovězí můžeš nahradit vepřovou krkovicí nakrájenou na tenko, opékej ji o minutu déle.",
+    "Gochujang nahraď sriracha omáčkou smíchanou s lžičkou cukru."
+  ],
+  "faq": [
+    {
+      "q": "Jaké maso je nejlepší na bulgogi?",
+      "a": "Hovězí roštěná nebo zadní, krájené proti vláknům na plátky 2 mm. Maso předem krátce zmraz, aby se krájelo snadno."
+    },
+    {
+      "q": "Jak dlouho marinovat bulgogi?",
+      "a": "Aspoň 30 minut, ideálně hodinu a nejvýš 4 hodiny. Enzymy z jablka při delší době maso rozpadnou."
+    },
+    {
+      "q": "Dá se bulgogi udělat na grilu?",
+      "a": "Ano, na grilovací pánvi nebo grilu, ale tenké plátky se rychle spálí. Krátce a zprudka, 1 až 2 minuty z každé strany."
+    }
+  ],
+  "image": "dish-bulgogi-pho",
+  "vegetarian": false
+}

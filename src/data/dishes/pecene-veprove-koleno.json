@@ -1,0 +1,91 @@
+{
+  "name": "Pečené vepřové koleno",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "price": 32900,
+  "recipe": "pecene-veprove-koleno",
+  "vegetarian": false,
+  "order": 130,
+  "description": "Koleno naložené přes noc, pečené 3 hodiny, s kůží jako sklo. Zítra ho dovezeme. Možná.",
+  "about": [
+    "Koleno je ukázka toho, že pomalost se vyplatí. Přes noc se marinuje, dvě hodiny peče přikryté a nakonec se v troubě rozpálí, aby kůže popraskala a nafoukla se.",
+    "Maso u kosti je pak měkké, že se samo rozpadá. Doma s ním vydržíš celé odpoledne a sousedi budou čichat u zdi. Tady čichá jenom recept."
+  ],
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standardni",
+          "name": "Standardní",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velké koleno (o polovinu těžší)",
+          "priceDelta": 12000
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "houskovy",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "bramborovy",
+          "name": "Bramborový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "kase",
+          "name": "Bramborová kaše",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "horcice",
+          "name": "Hořčice",
+          "priceDelta": 1000
+        },
+        {
+          "id": "kren",
+          "name": "Křen",
+          "priceDelta": 1000
+        },
+        {
+          "id": "chleb",
+          "name": "Čerstvý chléb",
+          "priceDelta": 1500
+        }
+      ],
+      "max": 3
+    }
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-pecene-veprove-koleno",
+  "allergens": [
+    10
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "title": "Sladkokyselé kuře",
+  "category": "asijska",
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 25,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "keywords": [
+    "sladkokyselé kuře",
+    "sladkokyselé kuře s ananasem",
+    "sladkokyselá omáčka recept",
+    "kuře sladkokyselé s rýží"
+  ],
+  "intro": "Sladkokyselé kuře je křupavé kuřecí v těstíčku v lesklé omáčce z kečupu, octa, cukru a ananasu. Trik spočívá v lehkém těstíčku, které po smažení zůstane křupavé, a v omáčce, kterou na kuře nalíváš až těsně před jídlem.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 600,
+      "unit": "g",
+      "note": "na kostky 2,5 cm",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 50,
+      "unit": "g",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 500,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ocet-ryzovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "dzus-ananasovy",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "rozmíchaný ve 3 lžících vody",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ananas-konzerva",
+      "amount": 150,
+      "unit": "g",
+      "note": "scezený, na kousky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kousky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kousky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "ryze-jasminova",
+      "amount": 300,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 450,
+      "unit": "ml",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Kuře",
+      "text": "Kuřecí kostky promíchej s lžící sójové omáčky a nech 10 minut odpočinout. Mezitím uvař rýži: propláchnutou ji se 450 ml vody přiveď k varu, zakryj, vař 12 minut na minimu a nech 10 minut dojít."
+    },
+    {
+      "section": "Těstíčko",
+      "text": "Mouku, škrob, prášek do pečiva a špetku soli prošlehej se 150 ml studené vody, těstíčko má být jako hustší smetana."
+    },
+    {
+      "section": "Omáčka",
+      "text": "V rendlíku svař kečup, ocet, cukr, sójovku a ananasový džus. Za stálého míchání nech vařit 2 minuty, vmíchej rozmíchaný škrob a vař, dokud nezhoustne. Stáhni z ohně."
+    },
+    {
+      "section": "Kuře",
+      "text": "Olej rozehřej v hrnci na 170 až 175 °C. Kousky kuřete zamoč do těstíčka a smaž po částech 5 až 6 minut dozlatova. Uvnitř musí mít 75 °C, odkapej je na roštu nebo utěrce."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Na pánvi na vysokém ohni krátce zprudka osmahni cibuli a papriku 2 minuty. Přidej ananas, vlij omáčku a prohřej."
+    },
+    {
+      "section": "Kuře",
+      "text": "Smažené kuře dej do misek na rýži a omáčku nalij až na stole. Když kuře v omáčce necháš, těstíčko změkne."
+    }
+  ],
+  "tips": [
+    "Teploměr nahradíš dřevěnou lžící: když se kolem ní v oleji tvoří bublinky, je olej připravený.",
+    "Pro extra křupavost smaž kuře podruhé 1 minutu, krátce před podáváním.",
+    "Omáčka zahušťuje i po stažení z ohně. Zřeď ji vodou, pokud zhoustne příliš."
+  ],
+  "substitutions": [
+    "Ananasový džus můžeš nahradit vodou a přidat lžíci octa navíc, omáčka bude kyselejší.",
+    "Kuře lze zapéct na plechu při 220 °C asi 18 minut, nebude tak křupavé, ale bude lehčí.",
+    "Skrob v těstíčku nahradíš kukuřičnou moukou v stejném množství."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat těstíčko, které zůstane křupavé?",
+      "a": "Použij studenou vodu a směs mouky a škrobu, obal vznikne tenčí a křehčí. Těstíčko nepřemíchávej a smaž v dobře rozehřátém oleji."
+    },
+    {
+      "q": "Při jaké teplotě smažit kuře v těstíčku?",
+      "a": "Při 170 až 175 °C. Chladnější olej se do obalu vsákne, příliš horký ho spálí dřív, než se maso propeče."
+    },
+    {
+      "q": "Čím nahradit ananas v sladkokyselé omáčce?",
+      "a": "Broskvemi z kompotu nebo jablkem nakrájeným na kousky. Pro sladkokyselou rovnováhu zachovej poměr cukru a octa."
+    }
+  ],
+  "image": "dish-sladkokysele-kure-wok",
+  "vegetarian": false
+}

@@ -1,0 +1,138 @@
+{
+  "title": "Ratatouille",
+  "keywords": [
+    "ratatouille",
+    "ratatouille recept",
+    "francouzská zeleninová směs",
+    "pečená zelenina ratatouille"
+  ],
+  "image": "dish-ratatouille-zahradka",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 50,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Ratatouille je dušená zelenina z lilku, cukety, papriky a rajčat z jižní Francie. Tenhle recept je vegan a vaří se v jednom širokém hrnci. Chuť zlepšuje, když se každá zelenina nejdřív krátce opeče zvlášť a teprve potom se spojí.",
+  "ingredients": [
+    {
+      "ingredient": "lilek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "asi 300 g, na kostky 2 cm",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "cuketa",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kostky 2 cm",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na kostky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nahrubo",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "nadrcený",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "note": "1 velká plechovka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 5,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "sušený",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "lístky, na konec",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Lilek nakrájený na kostky osol, nech 10 minut odpočinout a osuš papírovou utěrkou. Odtáhne se tím část hořkosti a vody."
+    },
+    {
+      "text": "Do širokého hrnce nalij 2 lžíce oleje a na vysokém plameni opékej lilek 5 minut do zlatova. Přendej na talíř."
+    },
+    {
+      "text": "Do stejného hrnce přidej další 2 lžíce oleje a stejným způsobem 3 minuty opeč cuketu a papriku. Přendej k lilku."
+    },
+    {
+      "text": "Do hrnce dej poslední lžíci oleje, cibuli osmahni 4 minuty na středním plameni. Přidej česnek a tymián a 30 sekund míchej."
+    },
+    {
+      "text": "Přidej rajčata, rozmačkej je vařečkou a osol. Vrať všechnu zeleninu, přikryj a duš na mírném plameni 25 až 30 minut, občas promíchej."
+    },
+    {
+      "text": "Odkryj a vař ještě 5 minut, aby se omáčka zahustila. Zelenina má být měkká, ale ne rozvařená. Dochuť pepřem a posyp bazalkou."
+    }
+  ],
+  "tips": [
+    "Na dušení stačí malé množství tekutiny. Zelenina pustí vlastní šťávu, proto nepřidávej vodu.",
+    "Ratatouille je druhý den lepší, protože chutě vyzrají. V lednici vydrží 4 dny a dá se zamrazit na 3 měsíce.",
+    "Hodí se teplá i studená, jako příloha k mase, s chlebem nebo s rýží."
+  ],
+  "substitutions": [
+    "Cuketu můžeš nahradit dalším lilkem a papriku libovolné barvy, chuť zůstane podobná.",
+    "Rajčata z plechovky nahradíš 600 g čerstvých oloupaných rajčat, vaří se pak o 10 minut déle."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří ratatouille?",
+      "a": "Aktivní práce zabere asi půl hodiny, samotné dušení 25 až 30 minut. Celkem počítej s necelou hodinou."
+    },
+    {
+      "q": "Dá se ratatouille zamrazit?",
+      "a": "Dá, v uzavřené krabičce vydrží až 3 měsíce. Rozmrazuj v lednici přes noc a ohřej v hrnci."
+    },
+    {
+      "q": "Je ratatouille to samé co lečo?",
+      "a": "Ne. Ratatouille obsahuje lilek, cuketu a bylinky, lečo je z papriky, rajčat a cibule a chutná sladce a paprikově."
+    }
+  ]
+}

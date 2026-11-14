@@ -1,0 +1,20 @@
+{
+  "name": "Dal makhani s basmati rýží",
+  "restaurant": "kari-nikde",
+  "kind": "main",
+  "section": "Kari",
+  "description": "Krémová černá čočka s červenými fazolemi, máslem a smetanou, podávaná s rýží.",
+  "about": [
+    "Dal makhani je čočkové kari, které se nechce skrývat v roli přílohy. Máslo, smetana a čas z něj dělají jídlo, které je krémové, ale pořád vegetariánské.",
+    "Kari nikde zůstává prázdné, hrnec doma se ale plní. Hodina klidného vaření, a nikdo nemusí chodit na dveře."
+  ],
+  "price": 17900,
+  "image": "dish-dal-makhani-kari",
+  "recipe": "dal-makhani",
+  "vegetarian": true,
+  "spicy": 1,
+  "allergens": [
+    7
+  ],
+  "order": 210
+}

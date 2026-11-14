@@ -1,0 +1,106 @@
+{
+  "title": "Domácí citronová limonáda",
+  "keywords": [
+    "domácí limonáda recept",
+    "citronová limonáda",
+    "limonáda z citronů",
+    "domácí limonáda z citronů"
+  ],
+  "image": "dish-citronova-limonada-nedoslazeno",
+  "category": "napoje",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 5,
+  "waitMinutes": 60,
+  "waitLabel": "vychlazení sirupu",
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "intro": "Domácí citronová limonáda z čerstvé šťávy a jednoduchého sirupu je osvěžující a lehce kyselá. Šťáva z 4 citronů se smíchá s cukrovým sirupem a 1 litrem perlivé vody, vyjde asi 1,5 litru limonády na 6 sklenic.",
+  "ingredients": [
+    {
+      "ingredient": "citron",
+      "amount": 4,
+      "unit": "ks",
+      "note": "šťáva a kůra z 1 citronu",
+      "group": "Limonáda"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 120,
+      "unit": "g",
+      "group": "Sirup"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 120,
+      "unit": "ml",
+      "group": "Sirup"
+    },
+    {
+      "ingredient": "perliva-voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "vychlazená",
+      "group": "Limonáda"
+    },
+    {
+      "ingredient": "led",
+      "amount": 300,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 0.25,
+      "unit": "ks",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Sirup",
+      "text": "V malém hrnci nahřej cukr s vodou a 1 proužkem citronové kůry, dokud se cukr úplně nerozpustí, asi 3 až 5 minut. Nevař. Stáhni a nech vychladnout."
+    },
+    {
+      "section": "Šťáva",
+      "text": "Citrony vymačkej, šťávu přecedí přes sítko. Měla by vyjít asi 200 ml."
+    },
+    {
+      "section": "Smíchání",
+      "text": "V džbánu smíchej vychladlý sirup a šťávu. Ochutnej a podle chuti přidej další cukr nebo šťávu."
+    },
+    {
+      "section": "Dolití",
+      "text": "Těsně před podáváním dolij perlivou vodu, přidej led a lístky máty."
+    },
+    {
+      "section": "Podávání",
+      "text": "Podávej hned, dokud limonáda šumí. Zbytek nech v lednici bez perlivé vody."
+    }
+  ],
+  "tips": [
+    "Citrony před mačkáním zakutálej po stole, dají víc šťávy. Citrony nejdřív opláchni teplou vodou.",
+    "Bílá část kůry je hořká, použij jen žlutou a jen malý proužek.",
+    "Koncentrát ze šťávy a sirupu vydrží v uzavřené lahvi v lednici 5 dnů, perlivou vodu dolévej až před pitím."
+  ],
+  "substitutions": [
+    "Cukr nahraď medem nebo agávovým sirupem, limonáda ale bude mít jinou chuť.",
+    "Perlivou vodu nahraď neperlivou nebo sodou.",
+    "Citron částečně nahraď limetkou, bude svěžejší."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží domácí limonáda?",
+      "a": "Hotová s perlivou vodou do druhého dne v lednici, ale ztrácí bublinky. Koncentrát ze šťávy a sirupu vydrží 5 dnů."
+    },
+    {
+      "q": "Jaký je poměr na domácí limonádu?",
+      "a": "Na 1 litr perlivé vody 200 ml citronové šťávy a 240 ml sirupu z 120 g cukru. Dá se doladit podle chuti."
+    },
+    {
+      "q": "Proč je limonáda hořká?",
+      "a": "Do šťávy se dostala bílá část kůry. Citrony mačkej opatrně a jemně a kůru použij jen žlutou."
+    }
+  ]
+}

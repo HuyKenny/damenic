@@ -1,0 +1,60 @@
+{
+  "name": "Vepřový guláš",
+  "kind": "main",
+  "section": "Polední menu",
+  "price": 17900,
+  "recipe": "veprovy-gulas",
+  "vegetarian": false,
+  "order": 110,
+  "description": "Krkovice a hodně cibule, vařené hodinu a půl do hustoty. Menu je z minulého týdne, recept z dneška.",
+  "about": [
+    "Vepřový guláš stojí na krkovici, cibuli a trpělivosti. Cibule se opéká dozlatova, paprika se přidává až mimo oheň a maso se duší hodinu a půl až dvě.",
+    "Bez mouky, přirozeně hustý a druhý den ještě lepší. Zítra ho vydáváme. Možná."
+  ],
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standardni",
+          "name": "Standardní",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (o polovinu více)",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "houskovy",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "chleb",
+          "name": "Chléb",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "jidelna-zitra-mozna",
+  "image": "dish-veprovy-gulas",
+  "allergens": []
+}

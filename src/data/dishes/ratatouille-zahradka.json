@@ -1,0 +1,19 @@
+{
+  "name": "Ratatouille",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Dušený lilek, cuketa, paprika a rajčata s bylinkami. Veganská zelenina z jižní Francie.",
+  "about": [
+    "Ratatouille se vaří dlouho, ale nic na ní není složité. Každá zelenina se zvlášť opeče, a pak se spojí v rajčatové omáčce. Kdo to přeskočí, dostane kaši bez chuti.",
+    "Druhý den je lepší než první, což u jídla z naší zahrádky platí dvojnásob. Zahrádka je naprázdno, ratatouille aspoň na papíře plná."
+  ],
+  "price": 18900,
+  "image": "dish-ratatouille-zahradka",
+  "recipe": "ratatouille",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 70
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Palačinky s tvarohem a vanilkou",
+  "restaurant": "prazdna-panev",
+  "kind": "main",
+  "section": "Sladké palačinky",
+  "description": "Tenké palačinky plněné vanilkovým tvarohem a posypané moučkovým cukrem. Prázdná jen pánev.",
+  "about": [
+    "Hrnkové těsto je pro lidi, kterým se nechce vytahovat váhu. Mouka, mléko a trochu perlivé vody se odměřují jedním hrnkem, takže těsto se poskládá skoro samo.",
+    "Palačinky se plní vanilkovým tvarohem, který je lehčí než džem. Pánev je pořád prázdná, ale těsto je skutečné. Zbývá jen rozpálit plotnu."
+  ],
+  "price": 11900,
+  "image": "dish-hrnkove-palacinky-panev",
+  "recipe": "hrnkove-palacinky",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 100
+}

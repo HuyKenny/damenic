@@ -1,0 +1,151 @@
+{
+  "title": "Pizza s kuřecím masem",
+  "keywords": [
+    "pizza s kuřecím masem",
+    "pizza s kuřetem",
+    "domácí pizza s kuřecím",
+    "těsto na pizzu"
+  ],
+  "image": "dish-pizza-s-kurecim-masem-slovo",
+  "category": "pizza",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 30,
+  "cookMinutes": 12,
+  "waitMinutes": 60,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Pizza s kuřecím masem má tenké těsto, rajčatový základ, kuřecí prsa s paprikou a mozzarellu. Kuře se předem krátce osmaží, aby uvnitř dosáhlo 75 °C a na pizze se nevysušilo. Těsto kyne hodinu a pizza se peče při nejvyšší teplotě 8 až 10 minut.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 8,
+      "unit": "g",
+      "note": "čerstvé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 180,
+      "unit": "ml",
+      "note": "vlažná",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 200,
+      "unit": "g",
+      "note": "nakrájená na kostky",
+      "group": "Pizza"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Pizza"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Pizza"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Pizza"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 125,
+      "unit": "g",
+      "group": "Pizza"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "na tenké proužky",
+      "group": "Pizza"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na proužky",
+      "group": "Pizza"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozmíchej s cukrem ve vlažné vodě. Přidej k mouce se solí a olejem a vypracuj hladké těsto, asi 8 minut."
+    },
+    {
+      "section": "Kynutí",
+      "text": "Těsto dej do misky, přikryj a nech 60 minut kynout na teplém místě, dokud nezdvojnásobí objem."
+    },
+    {
+      "section": "Kuře",
+      "text": "Kuřecí kostky osol, okoř paprikou a osmaž na olivovém oleji 4 až 5 minut, dokud nejsou propečené (uvnitř 75 °C). Nech vychladnout."
+    },
+    {
+      "section": "Příprava",
+      "text": "Troubu s plechem předehřej na 250 °C (horkovzduch 230 °C). Těsto rozděl na 2 kusy a rozvaluj na tenké kruhy. Potři passatou."
+    },
+    {
+      "section": "Pečení",
+      "text": "Posyp mozzarellou, kuřetem, cibulí a paprikou. Peč 8 až 10 minut, dokud se okraj nezlatí a sýr nerozpustí."
+    }
+  ],
+  "tips": [
+    "Plech nebo pizza kámen nech rozpálit v troubě celou dobu předehřívání, těsto se rychle opeče a spodek zůstane křupavý.",
+    "Kuře krájej na kostky maximálně 1,5 cm, aby se na pizze nedopékalo.",
+    "Passata nemusí být vařená, na troubě se zredukuje."
+  ],
+  "substitutions": [
+    "Mozzarellu nahraď eidamem nebo směsí pizza sýrů.",
+    "Kuře nahraď šunkou, salámem nebo grilovanou zeleninou.",
+    "Pro rychlejší verzi koupíš hotové těsto na pizzu, stačí ho rozválet."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct pizzu s kuřecím masem?",
+      "a": "Při 250 °C (horkovzduch 230 °C) 8 až 10 minut. Kuře je předem osmažené, takže stačí dopéct těsto a rozpustit sýr."
+    },
+    {
+      "q": "Musí být kuře na pizzu předem uvařené?",
+      "a": "Ano, nejlépe osmažené. Syrové kuře by se na tenké pizze nedopeklo a mohlo by zůstat uvnitř syrové."
+    },
+    {
+      "q": "Kolik těsta na jednu pizzu?",
+      "a": "Na pizzu o průměru 28 až 30 cm asi 220 g těsta. Z uvedeného množství vyjdou dvě pizzy."
+    }
+  ]
+}

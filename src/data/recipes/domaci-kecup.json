@@ -1,0 +1,131 @@
+{
+  "title": "Domácí kečup",
+  "keywords": [
+    "domácí kečup",
+    "kečup recept",
+    "kečup z passaty",
+    "domácí kečup bez konzervantů"
+  ],
+  "image": "dish-domaci-kecup",
+  "category": "burgery",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 10,
+  "cookMinutes": 40,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Domácí kečup z rajčatové passaty se vaří 40 minut, než zhoustne na hustotu kupovaného. Chuť drží cukr, ocet a koření a vyjde asi 350 ml, tedy zhruba jedna větší sklenice. Pokud kečup zavaříš do sterilních sklenic, vydrží měsíce.",
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Kečup"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "najemno",
+      "group": "Kečup"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Kečup"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Kečup"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 32,
+      "unit": "g",
+      "note": "2 lžíce",
+      "group": "Kečup"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Kečup"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 60,
+      "unit": "ml",
+      "note": "jablečný nebo vinný",
+      "group": "Kečup"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kečup"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kečup"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 2,
+      "unit": "ks",
+      "note": "celé zrnko",
+      "group": "Kečup"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Základ",
+      "text": "V hrnci rozehřej olej a osmahni cibuli na mírném ohni 5 minut do změknutí. Přidej česnek a vař 30 sekund."
+    },
+    {
+      "section": "Vaření",
+      "text": "Přidej passatu, protlak, cukr, ocet, sůl, papriku a nové koření. Přiveď k varu a vař na mírném ohni 30 až 40 minut. Míchej často, aby se kečup nepřichytil."
+    },
+    {
+      "section": "Zhoustnutí",
+      "text": "Kečup je hotový, když zredukuje asi o třetinu a lžíce v něm nechá stopu. Při chladnutí ještě zhoustne."
+    },
+    {
+      "section": "Mixování",
+      "text": "Vyndej nové koření a kečup rozmixuj ponorným mixérem do hladka. Dochuť solí a octem."
+    },
+    {
+      "section": "Uložení",
+      "text": "Horký kečup nalij do čisté, vyvařené sklenice, uzavři a nech vychladnout. Pak ho ulož do lednice. Je to čerstvý kečup bez konzervantů, na dlouhé skladování ve spíži není určený."
+    }
+  ],
+  "tips": [
+    "Kečup mírně zhustne v lednici. Pokud ho chceš hustší, vař ho déle, ale pod pokličkou nevař, voda se musí odpařit.",
+    "Pro uzenou chuť přidej lžičku uzené papriky.",
+    "Dlouhodobě ho uchovej v mrazáku: rozdělený do malých nádob vydrží až 3 měsíce. Zavařovat ho ve spíži nedoporučujeme, bez ověřené kyselosti by to nebylo bezpečné."
+  ],
+  "substitutions": [
+    "Passatu nahraď loupanými rajčaty z konzervy rozmixovanými do hladka.",
+    "Cukr nahraď stejným množstvím medu, kečup bude vonět jinak.",
+    "Pro pikantní kečup přidej špetku chilli nebo lžičku sriracha."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží domácí kečup?",
+      "a": "Ve vyvařené, dobře uzavřené sklenici v lednici asi 2 až 3 týdny. V mrazáku až 3 měsíce. Do spíže ho nezavařuj, domácí zavařování vyžaduje ověřený postup a kyselost."
+    },
+    {
+      "q": "Jak zhustit domácí kečup?",
+      "a": "Nejlépe delším vařením bez pokličky, aby se voda odpařila. Kečup také zhoustne při chladnutí."
+    },
+    {
+      "q": "Dá se kečup udělat bez cukru?",
+      "a": "Cukr zlepšuje chuť a pomáhá konzervaci. Dá se snížit na polovinu, kečup bude kyselejší a vydrží kratší dobu."
+    }
+  ]
+}

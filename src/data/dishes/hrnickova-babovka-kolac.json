@@ -1,0 +1,43 @@
+{
+  "name": "Hrníčková bábovka s mramorem",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "description": "Olejová bábovka měřená hrnkem, s kakaovým mramorem a moučkovým cukrem. Vláčná i druhý den.",
+  "about": [
+    "Hrníčková bábovka je recept bez váhy: jeden hrnek cukru, jeden mléka, jeden oleje a tři mouky. Olej drží vlhkost a kakaový mramor je jen vidličkou protažená spirála.",
+    "Dostaneš kousek bábovky z formy o průměru 24 cm. Je tak jednoduchá, že se jí nevyhneš ani v pondělí."
+  ],
+  "price": 5900,
+  "image": "dish-hrnickova-babovka-kolac",
+  "recipe": "hrnickova-babovka",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kus",
+          "name": "1 kousek",
+          "priceDelta": 0
+        },
+        {
+          "id": "tri",
+          "name": "3 kousky",
+          "priceDelta": 11000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 40
+}

@@ -1,0 +1,126 @@
+{
+  "title": "Pečená vepřová kýta s česnekem",
+  "keywords": [
+    "pečená vepřová kýta",
+    "vepřová kýta",
+    "vepřová kýta recept",
+    "kýta na pečení",
+    "vepřová kýta v troubě"
+  ],
+  "image": "dish-pecena-veprova-kyta",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 5,
+  "activeMinutes": 25,
+  "cookMinutes": 100,
+  "waitMinutes": 60,
+  "waitLabel": "marináda v hořčici a odpočinek masa po pečení",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Pečená vepřová kýta špikovaná česnekem a potřená hořčicí, upečená v troubě do jemné šťavnatosti. Kýta je libovější než krkovice, takže ji hlídej teploměrem: nesmí se přepéct. Hodí se pro pět osob a výborně se krájí i druhý den za studena.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-kyta-kus",
+      "amount": 1000,
+      "unit": "g",
+      "note": "vcelku, bez kosti",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 6,
+      "unit": "ks",
+      "note": "na špikování, nakrájený na hůlky",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 250,
+      "unit": "g",
+      "note": "na půlkolečka",
+      "group": "Pečení"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "horká",
+      "group": "Pečení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kýtu osuš. Ostrým nožem do ní v odstupu 3 cm udělej hluboké kapsy a do každé zasuň hůlku česneku. Povrch osol, opepři a potři hořčicí smíchanou s majoránkou.",
+      "section": "Příprava"
+    },
+    {
+      "text": "Maso nech 1 hodinu při pokojové teplotě nebo v lednici a před pečením ho nech aspoň 20 minut dojít na pokojovou teplotu.",
+      "section": "Příprava"
+    },
+    {
+      "text": "Troubu předehřej na 180 °C, horkovzduch 170 °C. Do pekáče dej sádlo a cibuli, na ni polož kýtu a podlij horkou vodou. Peč nezakrytou asi 60 minut a každých 20 minut maso přelij výpekem.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Po hodině přikryj kýtu alobalem a dopeč do 72 až 75 °C uvnitř, měřeno vpichovým teploměrem v nejtlustším místě. Většinou to trvá dalších 30 až 40 minut. Vyšší teplota ji vysuší.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Hotovou kýtu přendej na prkénko, přikryj volně alobalem a nech 15 minut odpočinout. Výpek s cibulí přeceď, odmastni a podávej jako šťávu. Maso krájej napříč vlákny na plátky 1 cm.",
+      "section": "Podávání"
+    }
+  ],
+  "tips": [
+    "Kýta nemá tuk, proto je důležité přelévání výpekem a odpočinek po pečení. Bez něj plátky vyschnou.",
+    "Špikování slaninou nebo vařenou šunkou místo česneku udělá maso ještě šťavnatější.",
+    "Studené plátky kýty jsou vynikající jako obložení chlebíčků, vydrží v lednici 3 dny."
+  ],
+  "substitutions": [
+    "Kýtu můžeš nahradit krkovicí bez kosti, upeče se šťavnatější, ale potřebuje o 30 minut déle.",
+    "Majoránku zaměň za tymián nebo rozmarýn."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se peče vepřová kýta?",
+      "a": "Kus o hmotnosti 1 kg se peče při 180 °C zhruba 90 až 100 minut. Spoléhej na teploměr: při 72 až 75 °C uvnitř je maso hotové a šťavnaté."
+    },
+    {
+      "q": "Jak udělat kýtu šťavnatou?",
+      "a": "Peč ji po částech otevřenou a přelévej výpekem, na závěr přikryj alobalem a po upečení nech 15 minut odpočinout. Nepřekračuj 75 °C uvnitř."
+    },
+    {
+      "q": "Proč je vepřová kýta suchá?",
+      "a": "Kýta je libová, a když se přepeče, vysuší se. Pomůže nižší teplota, přelévání a nakrájení až po odpočinku."
+    }
+  ]
+}

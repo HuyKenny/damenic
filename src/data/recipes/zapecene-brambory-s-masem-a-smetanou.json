@@ -1,0 +1,141 @@
+{
+  "title": "Zapečené brambory s masem a smetanou",
+  "keywords": [
+    "zapečené brambory s masem a smetanou",
+    "zapečené brambory s masem",
+    "zapečené brambory",
+    "brambory zapečené se smetanou",
+    "zapečené brambory s kuřecím masem"
+  ],
+  "image": "dish-zapecene-brambory-s-masem-a-smetanou",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 65,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek po upečení",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Zapečené brambory s masem a smetanou jsou jídlo z jedné zapékací mísy: tenké plátky brambor, kuřecí kousky, smetana s česnekem a sýr navrch. Brambory se pečou syrové, takže rozhoduje plátek 3 mm a první půlhodina pod alobalem. Pro čtyři.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "loupané, na plátky silné 3 mm",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 400,
+      "unit": "g",
+      "note": "stehenní řízky na kostky 2 cm",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na tenká kolečka",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Smetanová zálivka"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Smetanová zálivka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Smetanová zálivka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Smetanová zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Smetanová zálivka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "čerstvě nastrouhaný",
+      "group": "Smetanová zálivka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na vymazání",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Sýr"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 190 °C, horkovzduch 180 °C. Zapékací mísu o rozměrech asi 25 × 30 cm vymaž máslem. Brambory krájej na plátky silné 3 mm, nemyj je po nakrájení, škrob drží vrstvy pohromadě.",
+      "section": "Příprava"
+    },
+    {
+      "text": "Smetanu smíchej s mlékem, česnekem, solí, pepřem a muškátem. Maso osol a opepři zvlášť. Maso vezmi z lednice a nech ho 15 minut dojít, ať se rychleji propeče.",
+      "section": "Příprava"
+    },
+    {
+      "text": "Do mísy dej polovinu brambor v překrývajících se plátcích, posyp polovinou cibule a masa a opakuj. Zalij smetanovou směsí. Tekutina má sahat k brambor skoro po horní hranu, ne přes ně.",
+      "section": "Skládání"
+    },
+    {
+      "text": "Mísu pevně přikryj alobalem a peč 40 minut. Maso je hotové, když ve středu mísy má 75 °C. Alobal sundej, posyp sýrem a peč dalších 20 až 25 minut dozlatova.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Brambory jsou hotové, když do nich špejle zajede bez odporu. Nech 10 minut odpočinout, aby smetana zhoustla a plátky držely při porcování.",
+      "section": "Pečení"
+    }
+  ],
+  "tips": [
+    "Plátky ukrojené nožem nebo struhadlem musí být stejně silné, jinak se část brambor nedopeče.",
+    "Pro chuť přidej mezi vrstvy plátky slaniny nebo uzeného masa, nahradí část soli.",
+    "Zbytek vydrží v lednici 2 dny, ohřívej přikrytý v troubě při 160 °C 15 minut."
+  ],
+  "substitutions": [
+    "Stehenní řízky nahradíš kuřecími prsy, pečou se stejně dlouho, ale jsou sušší, krájej je na větší kostky.",
+    "Eidam můžeš zaměnit za goudu nebo mozzarellu, na posledních 15 minut."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se pečou zapečené brambory s masem?",
+      "a": "Při 190 °C asi 60 až 65 minut: 40 minut přikryté alobalem a 20 až 25 minut odkryté se sýrem. Plátky mají být silné 3 mm."
+    },
+    {
+      "q": "Proč jsou brambory zapečené tvrdé?",
+      "a": "Plátky byly příliš silné, mísa nebyla přikrytá nebo měla málo tekutiny. Syrové brambory potřebují páru, proto peč první půlhodinu pod alobalem."
+    },
+    {
+      "q": "Můžu zapékat brambory s masem den předem?",
+      "a": "Ano. Poskládanou mísu nech přikrytou v lednici až 12 hodin a před pečením ji nech 30 minut dojít na pokojovou teplotu."
+    }
+  ]
+}

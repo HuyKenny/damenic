@@ -1,0 +1,22 @@
+{
+  "name": "Pizza s kuřecím masem a paprikou",
+  "restaurant": "pizzerie-na-dobre-slovo",
+  "kind": "main",
+  "section": "Pizza rossa",
+  "description": "Tenké těsto, rajčatový základ, mozzarella, kuřecí kostky, červená cibule a paprika. Kuře je propečené.",
+  "about": [
+    "Kuře na pizze má jedno úskalí: když se položí syrové, nedopéká se rovnoměrně. Proto se nejdřív osmaží na pánvi a teprve potom jde na těsto s mozzarellou, cibulí a paprikou.",
+    "Těsto kyne hodinu a peče se při nejvyšší teplotě, kterou trouba zvládne. Pizzerie se slibem neupeče nic, ale tvoje trouba ano."
+  ],
+  "price": 21900,
+  "image": "dish-pizza-s-kurecim-masem-slovo",
+  "recipe": "pizza-s-kurecim-masem",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 100
+}

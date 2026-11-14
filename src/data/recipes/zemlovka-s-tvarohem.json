@@ -1,0 +1,144 @@
+{
+  "title": "Žemlovka s tvarohem a jablky",
+  "keywords": [
+    "žemlovka s tvarohem",
+    "žemlovka recept",
+    "žemlovka s jablky",
+    "žemlovka z rohlíků"
+  ],
+  "intro": "Žemlovka s tvarohem je zapečený sladký nákyp z oškvarlých rohlíků, jablek, tvarohu a vajec ve formě 22 × 30 cm. Vyjde 6 porcí a jediné, co si u ní musíš pohlídat, je poměr mléka: rohlíky mají být nasáklé, ne rozmočené do kaše.",
+  "image": "dish-zemlovka-s-tvarohem-sladke",
+  "category": "dezerty",
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 40,
+  "waitMinutes": 15,
+  "waitLabel": "nasáknutí rohlíků v mléce",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "rohliky",
+      "amount": 6,
+      "unit": "ks",
+      "note": "starší, ze včerejška"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 400,
+      "unit": "ml",
+      "note": "vlažné"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 3,
+      "unit": "ks",
+      "note": "asi 500 g, oloupaná"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "měkký",
+      "group": "Tvarohová směs"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Tvarohová směs"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "group": "Tvarohová směs"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Tvarohová směs"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen kůra z půlky",
+      "group": "Tvarohová směs"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Tvarohová směs"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "na formu a na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Rohlíky nakrájej na plátky silné asi 1 cm a zalij vlažným mlékem. Nech 15 minut nasáknout a jednou obrať, aby nasákly rovnoměrně. Mléko má být vsáknuté, na dně mísy nemá zůstat louže."
+    },
+    {
+      "section": "Příprava",
+      "text": "Jablka oloupej, zbav jádřinců, nastrouhej nahrubo nebo nakrájej na tenké plátky a smíchej se skořicí a rozinkami. Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C) a formu vymaž máslem."
+    },
+    {
+      "section": "Tvarohová směs",
+      "text": "Tvaroh rozmíchej s vejci, cukrem, vanilkovým cukrem, špetkou soli a najemno nastrouhanou kůrou z půlky citronu. Směs má být hladká a řidší než husté těsto."
+    },
+    {
+      "section": "Skládání",
+      "text": "Do formy dej polovinu rohlíků, na ně polovinu jablek a polovinu tvarohové směsi. Vrstvu zopakuj a skonči tvarohem, aby vršek nevyschl. Po povrchu rozděl 30 g másla na malé kousky."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč uprostřed trouby 35 až 40 minut, dokud vršek není zlatý a okraje se nepodebírají od formy. Při zapíchnutí špejle uprostřed nesmí na špejli zůstat syrová tvarohová hmota."
+    },
+    {
+      "section": "Podávání",
+      "text": "Před krájením nech žemlovku 10 minut odpočinout, jinak se rozpadne. Podávej teplou, třeba se zakysanou smetanou nebo moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Čerstvé rohlíky nasáknou jinak než oschlé. Čerstvé nech v troubě při 100 °C 10 minut vysušit.",
+    "Kyselejší jablka, třeba antonovky, k tvarohu a cukru sednou lépe než sladká.",
+    "Žemlovku můžeš připravit večer předem, dát do lednice a druhý den péct. Přidej k pečení 5 minut navíc."
+  ],
+  "substitutions": [
+    "Rohlíky nahradíš starou vánočkou nebo mazancem, cukr pak sniž na 60 g.",
+    "Místo jablek vezmi 500 g švestek nebo třešní, bez jádřinců. Nech je celé a vrstvu zasyp lžičkou skořice.",
+    "Bez rozinek: vynech je, nebo je nahraď 50 g nasekaných vlašských ořechů."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct žemlovku?",
+      "a": "Při 180 °C horní a spodní ohřev (horkovzduch 170 °C) 35 až 40 minut. Hotová je, když je povrch zlatý a ve středu se špejle zapíchne bez syrové hmoty."
+    },
+    {
+      "q": "Dá se žemlovka ohřívat?",
+      "a": "Ano. V troubě při 160 °C 10 až 12 minut, v mikrovlnce po porcích 1 minutu. V lednici vydrží zakrytá 3 dny."
+    },
+    {
+      "q": "Proč je žemlovka vodnatá?",
+      "a": "Jablka pustila šťávu, nebo rohlíky nasákly příliš mnoho mléka. Jablka krájej tenčeji, vymačkej je a rohlíky nech namočené jen 15 minut."
+    }
+  ]
+}

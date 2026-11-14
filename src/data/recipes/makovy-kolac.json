@@ -1,0 +1,133 @@
+{
+  "title": "Makový koláč s rybízovým džemem",
+  "keywords": [
+    "makový koláč",
+    "makový koláč recept",
+    "makový koláč s džemem",
+    "buchta s mákem"
+  ],
+  "intro": "Makový koláč recept na formu 22 × 30 cm: mák se napaří horkým mlékem, aby změkl a vydal chuť, a těsto se prokládá vrstvou rybízového džemu. Vyjde 12 kousků a dá se připravit i den předem. Nejdůležitější je mák mlít těsně před použitím, jinak zahořkne.",
+  "image": "dish-makovy-kolac-nedortik",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 25,
+  "cookMinutes": 45,
+  "waitMinutes": 30,
+  "waitLabel": "napaření máku a vychladnutí",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mak-mlety",
+      "amount": 120,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml",
+      "note": "horké"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 120,
+      "unit": "g",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 160,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen kůra"
+    },
+    {
+      "ingredient": "dzem-rybizovy",
+      "amount": 200,
+      "unit": "g",
+      "note": "na vrstvu"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Mák",
+      "text": "Mák zalij horkým mlékem, promíchej a nech 15 minut napařit. Mák nabobtná, ztmavne a vydá chuť. Mléko má být horké, ne vařící."
+    },
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 165 °C). Formu 22 × 30 cm vylož pečicím papírem."
+    },
+    {
+      "section": "Těsto",
+      "text": "Máslo šlehej s cukrem a vanilkovým cukrem do světlého krému, přidej po jednom vejce. Vmíchej napařený mák a citronovou kůru."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej s práškem do pečiva a přisypej do těsta. Míchej jen do spojení. Těsto je hustší než u jiných buchet."
+    },
+    {
+      "section": "Sestavení",
+      "text": "Polovinu těsta rozetři do formy, na něj džem v tenké vrstvě (nech 1 cm od okraje) a přikryj zbytkem těsta. Okraje nech bez džemu, jinak se při pečení rozteče."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 40 až 45 minut, dokud špejle nevyjde suchá. Po 20 minutách vychladnutí posyp moučkovým cukrem a krájej."
+    }
+  ],
+  "tips": [
+    "Mák kup celý a mel ho těsně před použitím, mletý rychle žlukne a hořkne.",
+    "Koláč je druhý den vláčnější, protože mák nasákne vlhkost. Vydrží zakrytý 4 dny.",
+    "Místo džemu můžeš dát tvarohovou vrstvu: 250 g tvarohu, 1 vejce a 30 g cukru."
+  ],
+  "substitutions": [
+    "Rybízový džem nahraď švestkovými povidly, meruňkovým nebo jahodovým džemem.",
+    "Máslo můžeš nahradit 120 ml oleje. Koláč bude vláčnější.",
+    "Polohrubou mouku nahraď hladkou a přidej 2 lžíce mléka, těsto bude jemnější."
+  ],
+  "faq": [
+    {
+      "q": "Proč mák v koláči hořkne?",
+      "a": "Mák zestárl, nebo byl mletý dlouho předem. Mel jen čerstvý a použij ho do týdne od mletí."
+    },
+    {
+      "q": "Je potřeba mák napařovat?",
+      "a": "Ano. Horké mléko mák změkčí a rozvoní, těsto je pak vláčné. Suchý mák v koláči škrábe a zůstává tvrdý."
+    },
+    {
+      "q": "Jak dlouho péct makový koláč?",
+      "a": "40 až 45 minut při 175 °C horní a spodní ohřev (horkovzduch 165 °C). Hotový je, když špejle vyjde suchá."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Laksa s kuřetem a krevetami",
+  "restaurant": "kokos-nedorazil",
+  "kind": "main",
+  "section": "Kari a nudle",
+  "description": "Kokosová polévka s kari pastou, rýžovými nudlemi, krevetami, kuřetem a vejcem.",
+  "about": [
+    "Laksa je polévka, která se tváří jako hlavní jídlo. Kokosové mléko, kari a citronová tráva, k tomu nudle a krevety, a vyjde z toho pravý oběd.",
+    "Kokos nedorazil, tak ho dej do hrnce doma. Voní to, jako bys byl právě tam, kam jsi nikdy nejel."
+  ],
+  "price": 22900,
+  "image": "dish-laksa-kokos",
+  "recipe": "laksa",
+  "spicy": 2,
+  "allergens": [
+    2,
+    3,
+    4,
+    9
+  ],
+  "order": 210
+}

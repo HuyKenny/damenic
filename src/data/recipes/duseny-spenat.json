@@ -1,0 +1,103 @@
+{
+  "title": "Dušený špenát",
+  "keywords": [
+    "dušený špenát",
+    "špenát recept",
+    "dušený mražený špenát",
+    "špenát se smetanou"
+  ],
+  "image": "dish-duseny-spenat",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Dušený špenát je klasická česká příloha k vejci a bramborům. Z mraženého listového špenátu se dělá za čtvrt hodiny. Stačí ho pořádně rozmrazit, vymačkat a zavařit lehkou jíškou, aby se nerozpadl na vodu.",
+  "ingredients": [
+    {
+      "ingredient": "spenat-mrazeny",
+      "amount": 900,
+      "unit": "g",
+      "note": "2 balení, rozmražený"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Špenát rozmraz v sítu nad dřezem nebo v hrnci na mírném plameni 8 minut. Slij a lehce vymačkej."
+    },
+    {
+      "text": "V hrnci rozpusť máslo, přidej česnek a 30 sekund ho nech vonět, nesmí zhnědnout."
+    },
+    {
+      "text": "Přisyp mouku, 1 minutu míchej a přilij mléko. Šlehej, dokud se nespojí do hladké omáčky."
+    },
+    {
+      "text": "Vmíchej špenát, osol, opepři a přisyp muškát. Vař na mírném plameni 5 minut za občasného míchání."
+    },
+    {
+      "text": "Dochuť a podávej s bramborem a volským okem."
+    }
+  ],
+  "tips": [
+    "Čerstvý listový špenát vezmi 1 kg, spaří se a stáhne na čtvrtinu objemu. Před vařením ho překrájej.",
+    "Špenát nikdy neohřívej několikrát. Dusičnany se pak přeměňují a chuť i vzhled se zhorší.",
+    "Chuť zvýrazní kapka citronové šťávy přidaná těsně před podáváním."
+  ],
+  "substitutions": [
+    "Mléko nahradíš smetanou na vaření, špenát bude plnější a krémovější.",
+    "Pro veganskou verzi použij olej a ovesný nápoj bez cukru."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří mražený špenát?",
+      "a": "Rozmražený stačí 5 až 8 minut. Delší vaření mu bere barvu i chuť."
+    },
+    {
+      "q": "Proč je špenát hořký nebo trpký?",
+      "a": "Může za to příliš dlouhé vaření nebo nezralé listy. Pomůže špetka cukru a trocha smetany."
+    },
+    {
+      "q": "Dá se špenát znovu ohřívat?",
+      "a": "Radši ne. Ohřívej jen tolik, kolik hned sníš, a zbytek rychle zchlaď. V lednici vydrží do druhého dne."
+    }
+  ]
+}

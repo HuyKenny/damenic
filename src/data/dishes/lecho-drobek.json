@@ -1,0 +1,19 @@
+{
+  "name": "Veganské lečo",
+  "restaurant": "ani-drobek",
+  "kind": "main",
+  "section": "Kari a dál",
+  "description": "Dušená paprika s rajčaty a cibulí, bez uzeniny a bez vajec. Se sladkou paprikou.",
+  "about": [
+    "Lečo se v Česku vaří s klobásou nebo s vejci. My ho děláme bez nich, jen z papriky, rajčat a cibule, takže je vegan. Chuť drží sladká paprika, která se přidává až na konci, aby nezhořkla.",
+    "Lečo je letní jídlo, ale chutná po celý rok. Je to talíř barev, ve kterém chybí jen to, co by přijelo."
+  ],
+  "price": 14900,
+  "image": "dish-lecho-drobek",
+  "recipe": "leco",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "allergens": [],
+  "order": 70
+}

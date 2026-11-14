@@ -1,0 +1,160 @@
+{
+  "title": "Uramaki s lososem a avokádem",
+  "category": "sushi",
+  "servings": 4,
+  "activeMinutes": 60,
+  "cookMinutes": 25,
+  "waitMinutes": 15,
+  "waitLabel": "vychladnutí rýže",
+  "difficulty": "náročnější",
+  "meal": "hlavni",
+  "keywords": [
+    "uramaki",
+    "uramaki recept",
+    "sushi uramaki doma",
+    "california roll recept"
+  ],
+  "intro": "Uramaki jsou sushi rolky obrácené rýží ven, tady s lososem, avokádem a okurkou. Potřebuješ rýži na sushi, nori, bambusovou rohožku a čerstvou rybu určenou k syrovému použití. Z 250 g rýže vznikne 32 kousků.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-sushi",
+      "amount": 250,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "ocet-ryzovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1.5,
+      "unit": "lzice",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "nori",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "losos-sushi",
+      "amount": 200,
+      "unit": "g",
+      "note": "na pruhy široké 1 cm",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "avokado",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na plátky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na tyčinky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na obalení",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "wasabi",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "zazvor-nakladany",
+      "amount": 30,
+      "unit": "g",
+      "group": "K podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže",
+      "text": "Rýži propírej, dokud voda není skoro čirá. Dej ji do hrnce s 300 ml vody, přiveď k varu, zakryj, vař 12 minut na minimu a nech 10 minut dojít."
+    },
+    {
+      "section": "Rýže",
+      "text": "Ocet, cukr a sůl nahřej, aby se rozpustily. Přelij jimi horkou rýži a promíchej krájením, ne mačkáním. Rozprostři ji na široké mísy a nech zchladnout na pokojovou teplotu, asi 15 minut."
+    },
+    {
+      "section": "Náplň",
+      "text": "Rohožku zabal do potravinové fólie. Půl plátu nori polož na ni, ruce si navlhči a rozetři na nori 1/4 rýže. Posyp sezamem."
+    },
+    {
+      "section": "Náplň",
+      "text": "Plát otoč rýží dolů. Na nori naskládej proužek smetanového sýra, lososa, avokáda a okurky."
+    },
+    {
+      "section": "Náplň",
+      "text": "Pomocí rohožky pevně svinuj, nech 10 sekund stlačenou a rolku lehce vytvaruj. Postup opakuj se všemi plátky."
+    },
+    {
+      "section": "K podávání",
+      "text": "Rolky krájej ostrým nožem namočeným ve vodě na 8 kousků a podávej se sójovkou, wasabi a nakládaným zázvorem."
+    }
+  ],
+  "tips": [
+    "Syrovou rybu kupuj označenou pro syrovou konzumaci a uchovávej ji v lednici do 24 hodin. Těhotné a děti by měly raději jíst vařenou nebo uzenou variantu.",
+    "Nůž musí být ostrý. Vlhčí se mezi každým řezem.",
+    "Rýži nikdy nechlaď v lednici, ztvrdne a rolky se rozpadnou."
+  ],
+  "substitutions": [
+    "Lososa nahraď uzeným lososem nebo krevetami uvařenými 3 minuty.",
+    "Smetanový sýr vynech a přidej další plátky avokáda, rolka bude lehčí a bez mléka.",
+    "Ocet z rýže zaměň za bílý jablečný, chuť bude ostřejší."
+  ],
+  "faq": [
+    {
+      "q": "Co je to uramaki?",
+      "a": "Rolka sushi, kde je rýže venku a nori uvnitř. Nejznámější je california roll s avokádem a krabím masem."
+    },
+    {
+      "q": "Proč se mi rolky rozpadají?",
+      "a": "Nejčastěji je málo rýže, příliš mnoho náplně nebo tupý nůž. Rýži rozetři rovnoměrně a rolku pevně stlač."
+    },
+    {
+      "q": "Jak dlouho vydrží uramaki?",
+      "a": "S čerstvou rybou nejlépe sníst do 2 hodin, v lednici maximálně do druhého dne. Rýže tvrdne, takže chutná nejlépe čerstvá."
+    }
+  ],
+  "image": "dish-uramaki-s-lososem-rolka",
+  "vegetarian": false
+}

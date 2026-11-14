@@ -1,0 +1,159 @@
+{
+  "title": "Massaman kari s kuřecím masem",
+  "category": "thajska",
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 45,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "keywords": [
+    "massaman kari",
+    "massaman kari recept",
+    "thajské kari s bramborami",
+    "kari s arašídy a kokosovým mlékem"
+  ],
+  "intro": "Massaman kari je mírné thajské kari s kokosovým mlékem, bramborami, arašídy a hřejivým kořením, které se k tomu hodí. Není tak pálivé jako červené nebo zelené kari. Vaří se pomalu a hotové je, když kuře změkne a omáčka se zakulatí.",
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "kari-pasta-massaman",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "kokosove-mleko",
+      "amount": 400,
+      "unit": "ml",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 600,
+      "unit": "g",
+      "note": "vykostěná, na kousky",
+      "group": "Maso a zelenina"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kostky 3 cm",
+      "group": "Maso a zelenina"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na čtvrtky",
+      "group": "Maso a zelenina"
+    },
+    {
+      "ingredient": "skorice-cela",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Maso a zelenina"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "rybi-omacka",
+      "amount": 1.5,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "arasidy",
+      "amount": 40,
+      "unit": "g",
+      "note": "pražené, nesolené",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ryze-jasminova",
+      "amount": 300,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 450,
+      "unit": "ml",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Základ",
+      "text": "Z plechovky kokosového mléka seber 4 lžíce husté vrchní části. Na hrnci rozehřej olej, dej do něj kokosovou smetanu a pastu massaman a 2 minuty ji míchej, aby zavoněla a olej se oddělil."
+    },
+    {
+      "section": "Maso a zelenina",
+      "text": "Přidej kuře a míchej 3 minuty, ať se obalí pastou. Přidej cibuli, skořici a zbytek kokosového mléka s vývarem."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Přiveď k varu, zakryj, stáhni na mírný var a vař 15 minut. Pak přidej brambory a vař dalších 20 až 25 minut, dokud nejsou měkké a maso nemá uvnitř 75 °C."
+    },
+    {
+      "section": "Rýže",
+      "text": "Mezitím uvař rýži: propláchnutou ji s 450 ml vody přiveď k varu, zakryj, vař 12 minut na minimu a nech 10 minut dojít."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Dochuť rybí omáčkou, cukrem a limetkovou šťávou. Chuť má být slaná, sladká a lehce kyselá. Vyndej skořici."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Rozděl kari do misek na rýži a posyp nahrubo nasekanými arašídy."
+    }
+  ],
+  "tips": [
+    "Pasta massaman se prodává v obchodech s asijskými potravinami, v hotové pastě už jsou koření a chilli. Dochucuj opatrně.",
+    "Brambory dej až do poloviny vaření, jinak se rozpadnou.",
+    "Kari je druhý den lepší, nech ho přes noc v lednici a ohřej s lžící vody."
+  ],
+  "substitutions": [
+    "Kuře nahraď hovězím na guláš, vař ho o hodinu déle, než změkne.",
+    "Rybí omáčku nahraď sójovou omáčkou a trochou limetkové šťávy, bude vegetariánská.",
+    "Arašídy můžeš nahradit kešu nebo pražením nasekanými mandlemi."
+  ],
+  "faq": [
+    {
+      "q": "Je massaman kari pálivé?",
+      "a": "Ne moc. Je z thajských kari nejjemnější, hřeje spíš skořicí a hřebíčkem než chilli. Pálivost si doladíš chilli papričkou při podávání."
+    },
+    {
+      "q": "Čím nahradit pastu massaman?",
+      "a": "Smíchej 2 lžíce červené kari pasty, půl lžičky mleté skořice, špetku hřebíčku a lžičku mletého kmínu. Chuť je blízká, ne stejná."
+    },
+    {
+      "q": "Jak dlouho vydrží massaman kari v lednici?",
+      "a": "V uzavřené nádobě 2 až 3 dny. Před jídlem ho ohřej do varu, protože obsahuje kokosové mléko."
+    }
+  ],
+  "image": "dish-massaman-kari-kokos",
+  "vegetarian": false
+}

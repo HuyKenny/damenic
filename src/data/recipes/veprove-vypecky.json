@@ -1,0 +1,127 @@
+{
+  "title": "Vepřové výpečky z krkovice",
+  "keywords": [
+    "vepřové výpečky",
+    "výpečky",
+    "výpečky recept",
+    "vepřové výpečky se zelím",
+    "pečené vepřové plátky"
+  ],
+  "image": "dish-veprove-vypecky",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 80,
+  "waitMinutes": 30,
+  "waitLabel": "osolení masa před pečením",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Vepřové výpečky jsou plátky krkovice pečené v troubě s cibulí tak dlouho, až se uvaří ve vlastní šťávě a krajem zesklovatí. Výpek se pak lije na knedlík nebo kysané zelí. Postup zvládneš i bez teploměru, rozhoduje barva a měkké maso.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-krkovice",
+      "amount": 800,
+      "unit": "g",
+      "note": "na plátky silné asi 2 cm",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "rozdrcený",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 400,
+      "unit": "g",
+      "note": "na kolečka",
+      "group": "Pečení"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Pečení"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "note": "horká",
+      "group": "Pečení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Plátky krkovice osuš, pokapej sádlem a z obou stran posyp solí, pepřem, kmínem a česnekem. Nech 30 minut při pokojové teplotě, aby se kořenící směs vsákla.",
+      "section": "Maso"
+    },
+    {
+      "text": "Cibuli rozlož na dno pekáče, posyp sladkou paprikou. Plátky masa poskládej na cibuli těsně vedle sebe, nepřekrývej je. Podlij horkou vodou ke stěně pekáče.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Pekáč zakryj víkem a peč při 180 °C, horkovzduch 170 °C, 50 minut. Maso se dusí v páře a změkne.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Víko sundej a peč dalších 25 až 30 minut. Plátky otoč a přelej výpekem, až se zbarví dozlatova a cibule zesklovatí. Je-li výpek příliš hustý, přilij 3 lžíce horké vody.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Maso je hotové, když se při stlačení vidličkou vlákna rozpadají a šťáva je čirá. Nech ho 5 minut odpočinout a podávej s výpekem a cibulí z pekáče.",
+      "section": "Podávání"
+    }
+  ],
+  "tips": [
+    "Nejlépe se hodí krkovice, která je prorostlá tukem. Z libového karé by výpečky byly suché.",
+    "Kyselé zelí a houskový knedlík jsou klasické podání. Výpek je přelij přímo na talíři.",
+    "Zbylé výpečky vydrží v lednici 3 dny i s výpekem. Ohřej je pod pokličkou, aby nevyschly."
+  ],
+  "substitutions": [
+    "Sádlo nahradíš 2 lžícemi oleje, výpek bude méně plný.",
+    "Místo krkovice použij plec, doba pečení se prodlouží o 15 minut."
+  ],
+  "faq": [
+    {
+      "q": "Co jsou vepřové výpečky?",
+      "a": "Jsou to plátky nebo kousky vepřového masa pečené nebo dušené v troubě s cibulí a vlastní šťávou. Říká se jim také pečené maso z výpeku, podává se se zelím a knedlíkem."
+    },
+    {
+      "q": "Jak dlouho se pečou výpečky?",
+      "a": "Plátky krkovice silné 2 cm se pečou přikryté 50 minut a odkryté 25 až 30 minut. Dohromady asi 80 minut při 180 °C."
+    },
+    {
+      "q": "Z jakého masa udělat výpečky?",
+      "a": "Nejlepší je vepřová krkovice nebo plec, protože mají tuk a při pečení zůstanou měkké. Libové maso se vysuší."
+    }
+  ]
+}

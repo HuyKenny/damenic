@@ -1,0 +1,22 @@
+{
+  "name": "Uramaki s lososem a avokádem",
+  "restaurant": "rolka-priste",
+  "kind": "main",
+  "section": "Rolky",
+  "description": "Rolky rýží ven, losos, avokádo, okurka a smetanový sýr, obalené v sezamu.",
+  "about": [
+    "Uramaki je sushi, které se rozhodlo ukázat rýži. Losos, avokádo a okurka jsou uvnitř, sezam venku, a každý kousek je chuťový balíček.",
+    "Rolka přijde příště. Rýže se zatím vaří a nori na rohožce čeká na tvé ruce. Nejlepší sushi je to, které si svineš sám."
+  ],
+  "price": 24900,
+  "image": "dish-uramaki-s-lososem-rolka",
+  "recipe": "uramaki-s-lososem",
+  "allergens": [
+    1,
+    4,
+    6,
+    7,
+    11
+  ],
+  "order": 210
+}

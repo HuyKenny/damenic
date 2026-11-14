@@ -1,0 +1,107 @@
+{
+  "title": "Základní linecké těsto",
+  "keywords": [
+    "linecké těsto",
+    "linecké těsto recept",
+    "základní linecké těsto",
+    "křehké těsto na koláče"
+  ],
+  "intro": "Základní linecké těsto z mouky, másla, moučkového cukru a žloutků na dva koláče nebo plech sušenek. Vyjde asi 650 g těsta. Je křehké, pokud se zpracuje rychle a studené: čím déle ho hněteš, tím je tužší. Před vyválením musí hodinu odpočinout v lednici.",
+  "image": "dish-linecke-testo",
+  "category": "dezerty",
+  "servings": 8,
+  "activeMinutes": 20,
+  "cookMinutes": 12,
+  "waitMinutes": 90,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "snadné",
+  "meal": "pecivo",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "note": "+ trochu na vál"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "studené, na kostky"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen žloutky"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen kůra"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Mouku, moučkový cukr, vanilkový cukr, sůl a citronovou kůru smíchej na vále. Přidej studené máslo a prsty nebo nožem rozmělni na drobenku."
+    },
+    {
+      "section": "Těsto",
+      "text": "Přidej žloutky a rychle zpracuj do hladké hmoty. Těsto nehněť, jen ho slep dohromady. Zabal do fólie a nech v lednici minimálně 1 hodinu."
+    },
+    {
+      "section": "Vyvalení",
+      "text": "Těsto nech 5 minut stát při pokojové teplotě, aby nebylo tvrdé. Vyval ho na pomoučeném vále na tloušťku 3 až 5 mm a vykrajuj tvary. Odřezky nahromaď a znovu vyval jednou."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Vykrojené kousky dej na plech s papírem a peč 10 až 12 minut. Hotové jsou, když jsou okraje světle zlaté."
+    },
+    {
+      "section": "Použití",
+      "text": "Těsto můžeš použít na linecké koláče, kolečka se džemem nebo jako spodek na jablečný koláč. Pro koláč o průměru 24 cm peč 20 až 25 minut při stejné teplotě."
+    }
+  ],
+  "tips": [
+    "Máslo i těsto musí být studené. Když začne máslo téct, dej těsto na 15 minut do lednice.",
+    "Těsto v lednici vydrží 3 dny, v mrazáku 2 měsíce. Rozmrazuj ho přes noc v lednici.",
+    "Upečené sušenky skladuj v dóze 2 týdny. Nejkřehčí jsou druhý den."
+  ],
+  "substitutions": [
+    "Citronovou kůru nahraď pomerančovou, nebo ji vynech a přidej lžičku skořice.",
+    "Část mouky (50 g) nahraď mletými mandlemi nebo lískovými ořechy.",
+    "Žloutky nahraď jedním celým vejcem, těsto bude pevnější a méně křehké."
+  ],
+  "faq": [
+    {
+      "q": "Proč je linecké těsto tvrdé?",
+      "a": "Příliš dlouho se hnětlo nebo bylo teplé. Zpracuj ho rychle a studené a nech hodinu odpočinout v lednici."
+    },
+    {
+      "q": "Na kolik stupňů péct linecké těsto?",
+      "a": "Na 180 °C horní a spodní ohřev (horkovzduch 170 °C), sušenky 10 až 12 minut, koláč 20 až 25 minut. Při vyšší teplotě těsto rychle tmavne."
+    },
+    {
+      "q": "Dá se linecké těsto zamrazit?",
+      "a": "Ano. Zabalené ve fólii vydrží v mrazáku 2 měsíce. Před vyvalením ho nech přes noc rozmrazit v lednici."
+    }
+  ]
+}

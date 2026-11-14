@@ -1,0 +1,21 @@
+{
+  "name": "Plněné cukety",
+  "restaurant": "lahudky-pozitri",
+  "kind": "main",
+  "section": "Z teplé vitríny",
+  "description": "Půlky cukety plněné mletým hovězím, rýží a sýrem v rajčatové omáčce.",
+  "about": [
+    "Plněné cukety jsou domácí jídlo, které se v lahůdkách obvykle prodává po půlkách. Cukety se vydlabou, naplní směsí z hovězího masa, rýže a vajíčka a pečou se v rajčatové omáčce.",
+    "Zvenku měkké, uvnitř sytá náplň a nahoře sýr. Z teplé vitríny se prodává i zítra, protože dnes je prázdná."
+  ],
+  "price": 19900,
+  "image": "dish-plnene-cukety-pozitri",
+  "recipe": "plnene-cukety",
+  "optionGroups": [],
+  "vegetarian": false,
+  "allergens": [
+    3,
+    7
+  ],
+  "order": 70
+}

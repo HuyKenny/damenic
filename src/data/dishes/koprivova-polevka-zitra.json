@@ -1,0 +1,23 @@
+{
+  "name": "Kopřivová polévka s vejcem",
+  "restaurant": "lzice-zitra",
+  "kind": "main",
+  "section": "Lehké",
+  "description": "Zelená jarní polévka z kopřiv a brambor, vejce natvrdo navrch. Nepálí, protože je spařená.",
+  "about": [
+    "Kopřivy jsou jediná zelenina, ze které se dělá polévka a před kterou musíš nasadit rukavice. Po spaření vroucí vodou ale nepálí a v polévce chutnají jemně a lehce hořce.",
+    "Do misky patří půlka vejce natvrdo a zelená hladina. Polévkárna nic nedoručuje, ale kopřivy rostou za plotem a recept je skutečný."
+  ],
+  "price": 9900,
+  "image": "dish-koprivova-polevka-zitra",
+  "recipe": "koprivova-polevka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    9
+  ],
+  "order": 100
+}

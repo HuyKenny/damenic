@@ -1,0 +1,132 @@
+{
+  "title": "Cuketový perník s čokoládovou polevou",
+  "keywords": [
+    "cuketový perník",
+    "cuketový perník recept",
+    "perník z cukety",
+    "cuketový koláč"
+  ],
+  "intro": "Cuketový perník je vlhký kakaový koláč s perníkovým kořením, ve kterém cuketa nahrazuje část tuku. Nastrouhaná cuketa není cítit, jen drží vlhkost. Peče se ve formě 20 × 30 cm a vyjde 12 kousků. Cuketu je třeba před přidáním odkapat, jinak bude těsto mokré.",
+  "image": "dish-cuketovy-pernik-nedortik",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 25,
+  "cookMinutes": 40,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí před polevou",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "cuketa",
+      "amount": 300,
+      "unit": "g",
+      "note": "nastrouhaná"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 120,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "ingredient": "pernikove-koreni",
+      "amount": 8,
+      "unit": "g",
+      "note": "asi 2 lžičky"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 40,
+      "unit": "ml",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Cuketu nastrouhej nahrubo, osol špetkou soli a po 10 minutách vymačkej v ruce nebo v utěrce. Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C), formu 20 × 30 cm vylož pečicím papírem."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vejce rozšlehej s cukrem do pěny, přilij olej a mléko a promíchej. Přidej vymačkanou cuketu."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej s kakaem, perníkovým kořením, práškem do pečiva a solí. Přisyp k vlhké směsi a promíchej do hladka."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto nalij do formy a peč 35 až 40 minut. Špejle má vyjít suchá, nebo s pár vlhkými drobky. Nech 30 minut vychladnout na mřížce."
+    },
+    {
+      "section": "Poleva",
+      "text": "Čokoládu nasekej a zalij horkou smetanou těsně pod bod varu. Po 2 minutách promíchej do hladka a nalij na vychladlý perník. Nech ztuhnout 30 minut."
+    }
+  ],
+  "tips": [
+    "Cuketa nemusí být loupaná, jen mladá s tenkou slupkou. Zelená barva se po upečení neprojeví.",
+    "Perník je druhý den vláčnější. Uschovej ho přikrytý při pokojové teplotě 3 dny.",
+    "Bez perníkového koření je z toho jen kakaová buchta, nešetři jím."
+  ],
+  "substitutions": [
+    "Cuketu nahraď stejným množstvím nastrouhané mrkve nebo dýně hokkaido.",
+    "Olej nahraď rozpuštěným máslem a těsto bude chuťově plnější.",
+    "Poleva může být jen z moučkového cukru (100 g) rozmíchaného s 2 lžícemi vody a kakaem."
+  ],
+  "faq": [
+    {
+      "q": "Cítí se cuketa v perníku?",
+      "a": "Ne. Chuť zakryje kakao a koření, cuketa dodá jen vlhkost. Hlavně ji dobře vymačkej, jinak bude perník mazlavý."
+    },
+    {
+      "q": "Jak dlouho péct cuketový perník?",
+      "a": "35 až 40 minut při 180 °C horní a spodní ohřev (horkovzduch 170 °C). Špejle zapíchnutá doprostřed má vyjít suchá."
+    },
+    {
+      "q": "Dá se cuketový perník zmrazit?",
+      "a": "Ano. Bez polevy ho nakrájej a zmraz na 2 měsíce. Rozmrazuj ho při pokojové teplotě 1 hodinu a přelij ho čerstvou čokoládovou polevou."
+    }
+  ]
+}

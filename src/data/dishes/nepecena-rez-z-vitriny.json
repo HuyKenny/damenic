@@ -1,0 +1,23 @@
+{
+  "name": "Nepečený řez s pudinkem",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Řezy z plechu",
+  "description": "Tři vrstvy sušenek, vanilkový pudinkový krém s máslem a čokoládová poleva. Bez trouby.",
+  "about": [
+    "Nepečený řez je trpělivost: pudinkový krém musí mít stejnou teplotu jako máslo a řez pak šest hodin ztuhne. Sušenky nasáknou vlhkost z krému a změknou.",
+    "Dostaneš jeden kus z plechu 22 × 30 cm. Vitrína je prázdná a chladná, čeká stejně jako řez v lednici."
+  ],
+  "price": 4500,
+  "image": "dish-nepecena-rez-z-vitriny",
+  "recipe": "nepecene-rezy",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 52
+}

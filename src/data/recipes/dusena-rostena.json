@@ -1,0 +1,151 @@
+{
+  "title": "Dušená hovězí roštěná na cibuli",
+  "keywords": [
+    "dušená roštěná",
+    "hovězí roštěná",
+    "roštěná recept",
+    "dušená hovězí roštěná",
+    "roštěná na cibulce"
+  ],
+  "image": "dish-dusena-rostena",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 100,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Dušená hovězí roštěná na cibuli a kořenové zelenině je pomalu dušené maso v hladké omáčce: nejprve se opeče, potom se dusí pod pokličkou skoro dvě hodiny. Roštěná je libovější než kližka, proto potřebuje dostatek tekutiny a nevaří se prudce. Vyjde pro čtyři.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-rostena",
+      "amount": 800,
+      "unit": "g",
+      "note": "na čtyři plátky silné 3 cm",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 350,
+      "unit": "g",
+      "note": "nakrájená na půlkolečka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kolečka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 500,
+      "unit": "ml",
+      "note": "horký",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na zahuštění",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Plátky roštěné osuš, osol a opepři. V široké pánvi nebo pekáči rozpal olej na vysokém ohni a maso opeč 2 minuty z každé strany do hnědé kůrky. Přendej na talíř.",
+      "section": "Maso"
+    },
+    {
+      "text": "Do stejného tuku dej cibuli, mrkev a celer a opékej 8 minut. Přidej protlak a hořčici a promíchej, aby protlak chvíli zesládl a ztmavl.",
+      "section": "Omáčka"
+    },
+    {
+      "text": "Vrať maso do hrnce, přidej bobkový list a zalij horkým vývarem tak, aby ho skoro zakryl. Přikryj a duš na velmi mírném ohni nebo v troubě při 160 °C zhruba 90 minut. Vývar nesmí prudce vařit.",
+      "section": "Dušení"
+    },
+    {
+      "text": "Maso je hotové, když vidlička zajede snadno a vlákna se rozpadají. Vyndej ho na talíř, bobkový list vyhoď. Mouku rozmíchej se smetanou a vlij do omáčky, 5 minut vař do zhoustnutí.",
+      "section": "Dušení"
+    },
+    {
+      "text": "Omáčku můžeš rozmixovat do hladka. Maso vrať, prohřej 5 minut a podávej s houskovým knedlíkem, rýží nebo bramborovou kaší.",
+      "section": "Podávání"
+    }
+  ],
+  "tips": [
+    "Roštěnou krájej na silné plátky a dušení nespěchej. Rychlý var maso vysuší a zhoustne.",
+    "Hořčice a protlak dávají omáčce hloubku, místo rajčat můžeš dát lžičku mletého kmínu.",
+    "Zbytek vydrží v lednici 3 dny a druhý den je chuťově ještě lepší."
+  ],
+  "substitutions": [
+    "Roštěnou lze nahradit hovězím zadním nebo kližkou, ta potřebuje o 30 minut déle.",
+    "Smetanu můžeš vynechat a omáčku zahustit jen rozmixovanou zeleninou."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho dusit hovězí roštěnou?",
+      "a": "Na malém ohni pod pokličkou nebo v troubě při 160 °C asi 90 až 100 minut. Maso je hotové, když se vlákna rozpadají pod vidličkou."
+    },
+    {
+      "q": "Proč je dušená roštěná tuhá?",
+      "a": "Dusila se příliš prudce nebo krátce. Roštěná potřebuje pomalé dušení, tekutina nemá vřít, jen mírně probublávat."
+    },
+    {
+      "q": "Co je roštěná?",
+      "a": "Je to hovězí maso z hřbetu, libové a s tenkou vrstvou tuku. Na steaky se krájí a peče krátce, na dušení se krájí na silnější plátky."
+    }
+  ]
+}

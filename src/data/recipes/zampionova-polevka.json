@@ -1,0 +1,115 @@
+{
+  "title": "Krémová žampionová polévka",
+  "keywords": [
+    "žampionová polévka",
+    "krémová žampionová polévka",
+    "žampionová polévka recept",
+    "polévka ze žampionů"
+  ],
+  "image": "dish-zampionova-polevka",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Krémová žampionová polévka je hladká polévka ze žampionů, brambor a smetany, hotová za 45 minut. Chuť je lepší, když se žampiony nejdřív opečou na suché horké pánvi, až se z nich odpaří voda a zhnědnou.",
+  "ingredients": [
+    {
+      "ingredient": "zampiony",
+      "amount": 500,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 800,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná, na podávání"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na rozpáleném másle opékej žampiony na vysokém plameni 6 až 8 minut, nemíchej příliš často. Mají pustit vodu a zhnědnout. Dvě lžíce opečených plátků odlož na ozdobu."
+    },
+    {
+      "text": "Přidej cibuli a 3 minuty osmahni. Vsyp mouku, 1 minutu míchej a přilij vývar."
+    },
+    {
+      "text": "Přidej brambory, osol a vař 15 minut na mírném plameni, dokud nejsou brambory měkké."
+    },
+    {
+      "text": "Polévku rozmixuj tyčovým mixérem do hladka, vlij smetanu a krátce prohřej, aby se nevysrážela."
+    },
+    {
+      "text": "Dochuť solí a pepřem, podávej s odloženými žampiony a petrželkou."
+    }
+  ],
+  "tips": [
+    "Žampiony nemyj pod proudem vody. Setři je vlhkou utěrkou, jinak nasají vodu a nezhnědnou.",
+    "Hustotu reguluj bramborami, ne moukou. Čím víc brambor, tím je polévka hustší.",
+    "V lednici vydrží 3 dny, zahřívej ji bez varu."
+  ],
+  "substitutions": [
+    "Smetanu nahradíš ovesnou smetanou nebo kokosovým mlékem a máslo olejem, polévka bude veganská.",
+    "Žampiony lze smíchat s hlívou ústřičnou nebo sušenými houbami pro výraznější chuť."
+  ],
+  "faq": [
+    {
+      "q": "Jak zahustit žampionovou polévku?",
+      "a": "Přidej víc brambor nebo vař déle odkrytou. Alternativou je lžíce mouky rozmíchaná ve studeném mléku."
+    },
+    {
+      "q": "Dá se polévka zamrazit?",
+      "a": "Dá, ale bez smetany. Smetanu přidej po rozmražení a ohřevu."
+    },
+    {
+      "q": "Proč jsou žampiony v polévce šedé?",
+      "a": "Při vaření ve vodě zešednou. Proto je opékej na pánvi do zhnědnutí, chuť i barva budou lepší."
+    }
+  ]
+}

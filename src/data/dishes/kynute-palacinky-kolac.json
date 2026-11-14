@@ -1,0 +1,43 @@
+{
+  "name": "Kynuté americké palačinky",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Kynuté a smažené",
+  "description": "Vysoká hromádka palačinek z kynutého těsta s javorovým sirupem. Vzdušné a lehce kvasnicové.",
+  "about": [
+    "Kynuté americké palačinky potřebují hodinu na kynutí a krátké míchání. Droždí je udělá vzdušnější a chuťově plnější než prášek do pečiva.",
+    "Dostaneš tři palačinky z dávky deseti. Hodinu kynou a pak zmizí za pár minut, rychleji než doručení, které tu neexistuje."
+  ],
+  "price": 8900,
+  "image": "dish-kynute-palacinky-kolac",
+  "recipe": "kynute-americke-palacinky",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "3",
+          "name": "3 palačinky",
+          "priceDelta": 0
+        },
+        {
+          "id": "6",
+          "name": "6 palačinek",
+          "priceDelta": 6500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 45
+}

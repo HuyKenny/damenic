@@ -1,0 +1,22 @@
+{
+  "name": "Rýžový nákyp s meruňkami",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Teplé dezerty",
+  "description": "Mléčná rýže se sněhem z bílků zapečená s půlkami meruněk. Hřejivý, krémový a lehce kyselý.",
+  "about": [
+    "Rýžový nákyp stojí na třech věcech: dobře rozvařené kulatozrnné rýži, vzdušném sněhu z bílků a meruňkách řezem nahoru. Vznikne nákyp, který ani druhý den neztvrdne.",
+    "Dostaneš porci z formy 22 × 30 cm. Teplo ti nepřiveze nikdo, ale recept ho dostane do kuchyně sám."
+  ],
+  "price": 10900,
+  "image": "dish-ryzovy-nakyp-sladke",
+  "recipe": "ryzovy-nakyp-s-merunkami",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7
+  ],
+  "order": 25
+}

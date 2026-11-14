@@ -1,0 +1,183 @@
+{
+  "title": "Mattar paneer",
+  "category": "indicka",
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 25,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "mattar paneer",
+    "mattar paneer recept",
+    "paneer s hráškem",
+    "indické kari se sýrem a hráškem"
+  ],
+  "intro": "Mattar paneer je indické vegetariánské kari s kostkami paneeru a zeleným hráškem v rajčatové omáčce. Paneer se nejdřív krátce opeče, aby držel tvar a nezměkl. Hotové je za 50 minut a hodí se k basmati rýži.",
+  "ingredients": [
+    {
+      "ingredient": "paneer",
+      "amount": 250,
+      "unit": "g",
+      "note": "na kostky 2 cm",
+      "group": "Sýr"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Sýr"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 15,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "garam-masala",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 300,
+      "unit": "g",
+      "note": "nakrájená nadrobno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 200,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 250,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 375,
+      "unit": "ml",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Sýr",
+      "text": "Na pánvi rozehřej 1 lžíci oleje a paneer opékej 2 minuty z každé strany dozlatova. Vyndej na talíř."
+    },
+    {
+      "section": "Omáčka",
+      "text": "V hrnci rozehřej zbylý olej, přidej kmín a po 20 sekundách cibuli. Smaž 8 minut, až zezlátne, pak přidej česnek a zázvor."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Přisyp kurkumu, koriandr, garam masalu a chilli a 30 sekund míchej. Přidej rajčata a rajčatové pyré a vař 8 minut, až se rozpadnou."
+    },
+    {
+      "section": "Rýže",
+      "text": "Rýži basmati propláchni, přiveď s 375 ml vody k varu, zakryj, vař 12 minut na minimu a nech 5 minut dojít."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Přilij vodu, přidej sůl a hrášek a vař 5 minut. Omáčku můžeš tyčovým mixérem částečně rozmixovat."
+    },
+    {
+      "section": "Sýr",
+      "text": "Vmíchej smetanu a paneer a nech 2 minuty prohřát bez varu. Podávej s rýží."
+    }
+  ],
+  "tips": [
+    "Paneer nesmí být jen povařený, lehké opečení mu dá chuť a drží tvar.",
+    "Mražený hrášek dej do omáčky přímo ze zmrazení, nevaříš ho dlouho.",
+    "Pokud je omáčka kyselá, přidej špetku cukru."
+  ],
+  "substitutions": [
+    "Paneer nahraď tofu opečeným stejným způsobem, bude to bez mléka (smetanu nahraď kokosovým mlékem).",
+    "Čerstvá rajčata lze nahradit plechovkou 400 g loupaných rajčat.",
+    "Bez smetany je jídlo lehčí, přidej lžíci jogurtu."
+  ],
+  "faq": [
+    {
+      "q": "Co je paneer?",
+      "a": "Čerstvý indický sýr, který se nevzdává při vaření. Vyrábí se sražením horkého mléka kyselinou a lisováním."
+    },
+    {
+      "q": "Jak zabránit, aby paneer ztvrdnul?",
+      "a": "Neopékej ho déle než 4 minuty celkem a do omáčky ho dej až na konci. Dlouhé vaření ho zpevní."
+    },
+    {
+      "q": "Mohu mattar paneer zmrazit?",
+      "a": "Omáčku ano, paneer a hrášek raději ne. Po rozmražení bývá sýr gumový."
+    }
+  ],
+  "image": "dish-mattar-paneer-kari",
+  "vegetarian": true
+}

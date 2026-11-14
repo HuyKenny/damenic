@@ -1,0 +1,101 @@
+{
+  "title": "Domácí listové těsto",
+  "keywords": [
+    "domácí listové těsto",
+    "listové těsto recept",
+    "rychlé listové těsto",
+    "listové těsto z másla"
+  ],
+  "intro": "Domácí listové těsto z mouky, másla a ledové vody bez droždí. Zvládneš ho za odpoledne, protože tři skládání s chlazením mezi nimi zabírají hlavně čekání. Z dávky vyjde asi 650 g těsta, tedy dva velké pláty na štrúdl, kremrole nebo jednohubky.",
+  "image": "dish-domaci-listove-testo",
+  "category": "pekarna",
+  "servings": 6,
+  "activeMinutes": 45,
+  "cookMinutes": 0,
+  "waitMinutes": 150,
+  "waitLabel": "odpočinek a chlazení mezi skládáním",
+  "difficulty": "náročnější",
+  "meal": "pecivo",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "note": "+ 50 g na válení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 125,
+      "unit": "ml",
+      "note": "ledová"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "vinný nebo ovocný"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 250,
+      "unit": "g",
+      "note": "studené, pevné, min. 82 % tuku"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej se solí, přilij ledovou vodu a ocet a zpracuj na hladké těsto. Nehněť dlouho, stačí 2 minuty. Zabal do fólie a nech 30 minut v lednici."
+    },
+    {
+      "section": "Máslo",
+      "text": "Máslo obal v pečicím papíru, válečkem rozklepej a vyval na čtverec asi 15 × 15 cm. Dej ho do lednice, má být studené, ale ohebné, ne tvrdé jako kámen."
+    },
+    {
+      "section": "Zabalení",
+      "text": "Odpočaté těsto vyval na obdélník asi 20 × 35 cm. Máslo polož na jednu polovinu, druhou přelož přes něj a okraje pevně zalep prsty. Máslo je teď uzavřené uvnitř."
+    },
+    {
+      "section": "Skládání",
+      "text": "Těsto opatrně vyval na obdélník asi 20 × 60 cm, mouku z povrchu smetej štětečkem a přelož do trojí vrstvy jako dopis. Zabal a dej na 30 minut do lednice."
+    },
+    {
+      "section": "Skládání",
+      "text": "Postup zopakuj ještě dvakrát: vyvalit, přeložit na třetiny, zabalit a chladit 30 minut. Po třetím skládání odpočívá těsto v lednici ještě 30 minut."
+    },
+    {
+      "section": "Použití",
+      "text": "Hotové těsto rozděl na dvě poloviny, vyval na tloušťku 3 až 4 mm a peč při 200 °C (horkovzduch 190 °C) 15 až 20 minut. Těsto musí vykynout a zezlátnout."
+    }
+  ],
+  "tips": [
+    "Kuchyně i ruce mají být chladné. Když se máslo začne mazat, těsto hned dej na 15 minut do lednice.",
+    "Těsto vydrží 3 dny v lednici a 3 měsíce v mrazáku, rozmrazuj ho přes noc v lednici.",
+    "Odřezky skládej na sebe, ne do kuličky, jinak se zničí vrstvy."
+  ],
+  "substitutions": [
+    "Máslo nahraď rostlinným tukem na listové těsto (82 % tuku). Těsto bude stabilnější, ale bez máslové chuti.",
+    "Hladkou mouku můžeš z poloviny nahradit polohrubou, těsto bude pevnější.",
+    "Ocet nahraď šťávou z citronu, použij stejné množství."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi listové těsto nevykynulo?",
+      "a": "Máslo se rozmazalo do těsta nebo bylo teplé. Mezi skládáním vždy chlaď 30 minut a těsto válej rychle a na chladném místě."
+    },
+    {
+      "q": "Kolikrát skládat domácí listové těsto?",
+      "a": "Tři jednoduchá skládání do třetin stačí na 100 vrstev. Pro víc vrstev přidej čtvrté skládání a chlazení."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí listové těsto?",
+      "a": "V lednici 3 dny, v mrazáku 3 měsíce. Před použitím ho nech přes noc rozmrazit v lednici."
+    }
+  ]
+}

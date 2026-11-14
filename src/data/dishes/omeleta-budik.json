@@ -1,0 +1,22 @@
+{
+  "name": "Omeleta se šunkou a eidamem",
+  "restaurant": "odlozeny-budik",
+  "kind": "main",
+  "section": "Vejce",
+  "description": "Tříkolová omeleta se šunkou, rozpuštěným eidamem a pažitkou. Omeleta, kterou si musíš usmažit sám.",
+  "about": [
+    "Omeleta vypadá jednoduše a dokáže ti zkazit ráno. Stačí pánev o dvě číslice větší a oheň o stupeň vyšší a z nadýchaného pokrmu je guma. Tady se smaží na másle, pomalu a pod poklicí.",
+    "Šunka a eidam jsou klasika, která nikoho nepřekvapí. A to je přesně smysl. Všechno ostatní se dá vymyslet, jen vajíčka vymyslet nelze."
+  ],
+  "price": 11900,
+  "image": "dish-omeleta-budik",
+  "recipe": "omeleta",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7
+  ],
+  "order": 110
+}

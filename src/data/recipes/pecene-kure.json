@@ -1,0 +1,132 @@
+{
+  "title": "Pečené kuře celé s křupavou kůží",
+  "keywords": [
+    "pečené kuře",
+    "pečené kuře v troubě",
+    "kuře z trouby",
+    "pečené kuře celé",
+    "kuře na pečení"
+  ],
+  "image": "dish-pecene-kure",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 80,
+  "waitMinutes": 75,
+  "waitLabel": "osolení v lednici a odpočinek po upečení",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Pečené kuře celé z trouby se zlatou kůží a šťavnatým masem je jednoduché, když máš teploměr. Kuře osol den předem nebo aspoň hodinu, peč při 200 °C a hotové vyndej při 75 °C v prsou a 80 °C ve stehnu. Pak ho nech odpočinout.",
+  "ingredients": [
+    {
+      "ingredient": "cele-kure",
+      "amount": 1600,
+      "unit": "g",
+      "note": "celé, vnitřnosti vyndané",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "změklé, pod kůži a na kůži",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "půlka na kůži, půlka do dutiny",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 250,
+      "unit": "g",
+      "note": "na čtvrtky, na dno pekáče",
+      "group": "Pečení"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 200,
+      "unit": "ml",
+      "note": "horká",
+      "group": "Pečení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuře vyndej z lednice 30 minut předem. Osuš ho papírovou utěrkou zevnitř i zvenku, suchá kůže se opeče křupavě. Osol ho zvenku i uvnitř a nech 60 minut odpočívat v lednici nepřikryté.",
+      "section": "Příprava"
+    },
+    {
+      "text": "Máslo smíchej s paprikou, pepřem a česnekem. Opatrně uvolni kůži na prsou a pod ni vsuň polovinu směsi, zbytek rozetři po kuřeti. Do dutiny vlož půlku citronu.",
+      "section": "Příprava"
+    },
+    {
+      "text": "Troubu předehřej na 200 °C, horkovzduch na 190 °C. Do pekáče dej cibuli, polož na ni kuře prsy nahoru a podlij horkou vodou, aby dno nevyschlo.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Peč 70 až 80 minut, během pečení kuře 2× přelij výpekem. Pokud kůže příliš tmavne, překryj ji volně alobalem.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Hotovo je při 75 °C v nejsilnější části prsou a asi 80 °C ve stehně, měřeno teploměrem nedotýkajícím se kosti. Čirá šťáva ze stehna znamená, že je maso propečené.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Kuře přendej na prkénko, volně přikryj alobalem a nech 15 minut odpočinout. Teplota ještě mírně stoupne a šťáva se usadí. Výpek přeceď a podávej jako šťávu.",
+      "section": "Podávání"
+    }
+  ],
+  "tips": [
+    "Celé kuře o hmotnosti 1,6 kg potřebuje přibližně 70 až 80 minut při 200 °C, vždy se ale řiď teploměrem.",
+    "Solení předem (suchý nálev) osolí maso do hloubky a vysuší kůži. Je to nejdůležitější krok pro křupavost.",
+    "Zbylé kuře nech vychladnout do 2 hodin a dej do lednice, vydrží 3 dny."
+  ],
+  "substitutions": [
+    "Máslo na kůži můžeš nahradit olejem. Kůže bude trochu křehčí, ale méně aromatická.",
+    "Dutinu naplň větvičkou tymiánu nebo rozmarýnu, citron nahradíš jablkem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se peče celé kuře?",
+      "a": "Kuře o hmotnosti 1,6 kg se peče při 200 °C zhruba 70 až 80 minut. Po upečení ho nech 15 minut odpočinout."
+    },
+    {
+      "q": "Na kolik stupňů péct kuře?",
+      "a": "Na 200 °C, s horkovzduchem na 190 °C. Vyšší teplota rychle zhnědí kůži a nižší by prodloužila pečení a kůže by zůstala měkká."
+    },
+    {
+      "q": "Jak poznám, že je kuře hotové?",
+      "a": "Teploměr zapíchnutý do nejtlustší části prsou ukazuje 75 °C a ve stehně aspoň 80 °C. Šťáva ze stehna je čirá a maso se snadno odděluje od kosti."
+    }
+  ]
+}

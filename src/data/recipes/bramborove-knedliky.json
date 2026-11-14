@@ -1,0 +1,107 @@
+{
+  "title": "Bramborové knedlíky",
+  "keywords": [
+    "bramborové knedlíky",
+    "bramborové knedlíky recept",
+    "bramborové knedlíky z vařených brambor",
+    "domácí bramborové knedlíky",
+    "bramborový knedlík"
+  ],
+  "image": "dish-bramborove-knedliky",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 35,
+  "waitMinutes": 60,
+  "waitLabel": "vychladnutí uvařených brambor",
+  "difficulty": "střední",
+  "meal": "priloha",
+  "intro": "Bramborové knedlíky z vařených brambor, polohrubé mouky a krupice jsou klasická příloha k pečenému masu, uzenému nebo zelí. Aby se nerozpadly, musí brambory vychladnout, být moučné a nesmí se přidávat víc mouky, než je třeba. Z uvedeného množství vyjde asi 12 menších knedlíků.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 1000,
+      "unit": "g",
+      "note": "varný typ, spíš moučný",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 250,
+      "unit": "g",
+      "note": "a trochu na podsypání",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "krupice",
+      "amount": 50,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na vaření",
+      "group": "Vaření"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař ve slupce ve vodě 25 až 30 minut do měkka. Slij, nech 5 minut odpařit, oloupej a nech úplně vychladnout, nejlépe 1 hodinu nebo přes noc v lednici. Teplé brambory pouštějí vodu a těsto je pak lepivé.",
+      "section": "Příprava"
+    },
+    {
+      "text": "Studené brambory prolisuj, nebo najemno nastrouhej. Přidej mouku, krupici, vejce a sůl a rychle zpracuj těsto. Hněť jen tak dlouho, až drží pohromadě, příliš dlouhé hnětení z něj udělá gumu.",
+      "section": "Těsto"
+    },
+    {
+      "text": "Těsto rozděl na 12 stejných kusů. Na pomoučené ploše je vytvaruj do kulatých knedlíků o průměru 6 až 7 cm. Mokrýma rukama si práci usnadníš.",
+      "section": "Těsto"
+    },
+    {
+      "text": "V širokém hrnci přiveď k varu 4 litry vody se lžící soli. Nejdřív zkušebně uvař jeden knedlík. Pokud se rozpadá, přidej do těsta 2 lžíce mouky. Vlož zbytek a vař 12 až 15 minut na mírném varu.",
+      "section": "Vaření"
+    },
+    {
+      "text": "Hotové knedlíky vyndej děrovanou lžící. Pro lepší strukturu je jednou nebo dvakrát propíchni vidličkou, aby unikla pára. Podávej ihned s masem a zelím nebo omáčkou.",
+      "section": "Vaření"
+    }
+  ],
+  "tips": [
+    "Pro 4 osoby počítej asi 3 knedlíky na osobu. Zbylé knedlíky nakrájej a druhý den orestuj na pánvi s cibulí.",
+    "Moučné brambory dělají lehčí knedlíky, voskové jsou vlhčí a potřebují víc mouky.",
+    "Uvařené knedlíky můžeš zamrazit, vydrží 2 měsíce. Rozmrazuj je ve vroucí vodě."
+  ],
+  "substitutions": [
+    "Krupici nahradíš dalšími 50 g polohrubé mouky, knedlíky budou o něco měkčí.",
+    "Pro bezvaječnou verzi vynech vejce a přidej 2 lžíce brambor navíc a trochu mouky, knedlíky budou křehčí."
+  ],
+  "faq": [
+    {
+      "q": "Z jakých brambor dělat bramborové knedlíky?",
+      "a": "Z moučných nebo polomoučných varných brambor, které se po uvaření rozsypou. Voskové brambory obsahují víc vody a těsto pak potřebuje víc mouky."
+    },
+    {
+      "q": "Proč se bramborové knedlíky rozpadají?",
+      "a": "Brambory byly teplé nebo vlhké, nebo v těstě chybí mouka. Zkus nejdřív uvařit zkušební knedlík a případně přidej mouku."
+    },
+    {
+      "q": "Jak dlouho se vaří bramborové knedlíky?",
+      "a": "Při mírném varu 12 až 15 minut. Hotové plavou na hladině a jsou pevné při stlačení."
+    }
+  ]
+}

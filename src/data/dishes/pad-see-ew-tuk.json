@@ -1,0 +1,21 @@
+{
+  "name": "Pad see ew s kuřecím masem",
+  "restaurant": "zadny-tuk-tuk",
+  "kind": "main",
+  "section": "Nudle a rýže",
+  "description": "Široké rýžové nudle ve woku se sójovou omáčkou, kuřetem, vejcem a brokolicí.",
+  "about": [
+    "Pad see ew je ulice v Bangkoku přenesená do jedné pánve. Nudle jsou široké, omáčka tmavá a vůně lehce spálená, protože se to tak má.",
+    "Žádný tuk-tuk nepřijel, ale pánev doma je rychlejší než jakékoli vozidlo. Stačí 12 minut u sporáku, a pak už jen vidlička."
+  ],
+  "price": 17900,
+  "image": "dish-pad-see-ew-tuk",
+  "recipe": "pad-see-ew",
+  "allergens": [
+    1,
+    3,
+    6,
+    14
+  ],
+  "order": 200
+}

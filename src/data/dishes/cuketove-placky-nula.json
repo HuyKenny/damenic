@@ -1,0 +1,22 @@
+{
+  "name": "Cuketové placky",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Teplá jídla",
+  "description": "Cuketové placky s fetou a koprem, smažené do zlatova. Podávané se zakysanou smetanou.",
+  "about": [
+    "Cuketové placky vznikly z nadbytku cukety na zahrádce. Cuketa se nastrouhá, osolí a vymačká, jinak by placky rozbředly.",
+    "Feta jim dává slanost a kopr vůni léta. Jsou lehké a rychlé, takže se hodí na večer, kdy se nic jiného nechce vařit."
+  ],
+  "price": 15900,
+  "image": "dish-cuketove-placky-nula",
+  "recipe": "cuketove-placky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 72
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Smoothie bowl s banánem a malinami",
+  "keywords": [
+    "smoothie bowl",
+    "smoothie bowl recept",
+    "snídaňová miska smoothie",
+    "smoothie bowl z banánu"
+  ],
+  "image": "dish-smoothie-bowl-vymackame",
+  "category": "napoje",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 240,
+  "waitLabel": "zmrazení banánů",
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Smoothie bowl je hustý ovocný krém, který se jí lžící z misky. Podstatou je zmražený banán, který smoothie zahustí bez ledu, a málo tekutiny. Banány potřebují 4 hodiny v mrazáku, samotná příprava trvá 10 minut.",
+  "ingredients": [
+    {
+      "ingredient": "banan",
+      "amount": 2,
+      "unit": "ks",
+      "note": "oloupané, nakrájené a zmražené",
+      "group": "Smoothie"
+    },
+    {
+      "ingredient": "maliny-mrazene",
+      "amount": 150,
+      "unit": "g",
+      "group": "Smoothie"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 100,
+      "unit": "g",
+      "group": "Smoothie"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 50,
+      "unit": "ml",
+      "group": "Smoothie"
+    },
+    {
+      "ingredient": "granola",
+      "amount": 40,
+      "unit": "g",
+      "group": "Na ozdobu"
+    },
+    {
+      "ingredient": "boruvky",
+      "amount": 50,
+      "unit": "g",
+      "group": "Na ozdobu"
+    },
+    {
+      "ingredient": "chia",
+      "amount": 10,
+      "unit": "g",
+      "note": "1 lžíce",
+      "group": "Na ozdobu"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 5,
+      "unit": "g",
+      "note": "1 lžička",
+      "group": "Na ozdobu"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Zmrazení",
+      "text": "Banány oloupej, nakrájej na kolečka a rozlož na talíř. Zmraz je alespoň na 4 hodiny nebo přes noc."
+    },
+    {
+      "section": "Mixování",
+      "text": "Do mixéru dej banány, maliny, jogurt a mléko. Mixuj 1 až 2 minuty do hustého hladkého krému. Pomáhej si tlačítkem nebo tyčkou."
+    },
+    {
+      "section": "Hustota",
+      "text": "Smoothie má být hustší než zmrzlina, lžíce v něm má stát. Je-li příliš husté, přilij po lžících mléko."
+    },
+    {
+      "section": "Servírování",
+      "text": "Rozděl do misek, navrch poskládej granolu, borůvky, chia semínka a kokos."
+    },
+    {
+      "section": "Podávání",
+      "text": "Jez ihned, dokud je smoothie studené a husté. Za pět minut začne tát."
+    }
+  ],
+  "tips": [
+    "Banány zmraz předem a nakrájené, jinak je mixér nezvládne. Hromada stejných kousků se mixuje rychleji.",
+    "Tekutiny dávej opatrně, smoothie bowl je hustší než pití a každá lžíce navíc ho zřeďuje.",
+    "Ozdoby nech až nakonec, aby zůstaly křupavé."
+  ],
+  "substitutions": [
+    "Maliny nahraď jahodami, mangem nebo borůvkami, hustota zůstane podobná.",
+    "Jogurt nahraď rostlinným jogurtem nebo kokosovým mlékem.",
+    "Mléko lze nahradit ovesným nápojem nebo džusem."
+  ],
+  "faq": [
+    {
+      "q": "Proč se smoothie bowl dělá ze zmražených banánů?",
+      "a": "Zmražený banán dělá smoothie husté a krémové bez ledu, takže se nenaředí. Chuť zůstane intenzivní."
+    },
+    {
+      "q": "Dá se smoothie bowl připravit předem?",
+      "a": "Ne, nejlepší je hned po namixování. Smoothie v lednici ztekutí a granola změkne."
+    },
+    {
+      "q": "Čím zahustit smoothie bowl?",
+      "a": "Více zmraženým ovocem, hrstí ovesných vloček nebo lžící chia semínek. Chia za pár minut nabobtná a zhustí."
+    }
+  ]
+}

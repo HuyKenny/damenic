@@ -1,0 +1,105 @@
+{
+  "title": "Špagety amatriciana",
+  "keywords": [
+    "špagety amatriciana",
+    "amatriciana recept",
+    "těstoviny amatriciana",
+    "omáčka amatriciana"
+  ],
+  "image": "dish-amatriciana-niente",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Amatriciana je římská omáčka z rajčat, slaniny a pecorina. Tahle domácí verze používá uzenou slaninu místo guanciale, protože ta se v Česku shání hůř. Důležité je slaninu pomalu vypéct, aby pustila tuk, a těstoviny dodělat v omáčce.",
+  "ingredients": [
+    {
+      "ingredient": "spagety",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na těstoviny"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 120,
+      "unit": "g",
+      "note": "na proužky, nebo pancetta či guanciale"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "pecorino",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhané, na podávání"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Špagety vař o minutu kratší dobu, než udává obal. Odlij šálek vody z vaření."
+    },
+    {
+      "text": "Slaninu opékej na pánvi bez tuku na středním plameni 6 minut, dokud nepustí tuk a není zlatavá. Vyndej ji děrovanou lžící, tuk nech v pánvi."
+    },
+    {
+      "text": "V tuku osmahni cibuli 3 minuty, přidej chilli a po 30 sekundách zalij passatou. Vař 10 minut na středním plameni."
+    },
+    {
+      "text": "Vrať slaninu do omáčky, přidej špagety a 1 minutu je promíchej s lžící vody z vaření."
+    },
+    {
+      "text": "Podávej s pecorinem a čerstvě mletým pepřem."
+    }
+  ],
+  "tips": [
+    "Slaninu použij uzenou, ale ne příliš slanou. Omáčku dosolíš až nakonec.",
+    "Pecorino je slanější než parmazán. Pokud ho nemáš, použij parmazán a přidej o třetinu méně.",
+    "Omáčka se dá připravit předem a vydrží v lednici 3 dny."
+  ],
+  "substitutions": [
+    "Pecorino nahradíš parmazánem, chuť bude jemnější.",
+    "Slaninu můžeš nahradit uzeným bokem nebo pancettou, tu stačí krátce orestovat."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi amatricianou a carbonarou?",
+      "a": "Amatriciana je s rajčaty a bez vajec, carbonara je s vajíčky a bez rajčat."
+    },
+    {
+      "q": "Dá se amatriciana bez cibule?",
+      "a": "Dá, římský původní recept cibuli nemá. Do české verze se přidává kvůli chuti."
+    },
+    {
+      "q": "Jak dlouho vydrží amatriciana?",
+      "a": "Omáčka vydrží 3 dny v lednici. Těstoviny uvař čerstvé."
+    }
+  ]
+}

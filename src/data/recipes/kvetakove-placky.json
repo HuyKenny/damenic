@@ -1,0 +1,111 @@
+{
+  "title": "Květákové placky",
+  "keywords": [
+    "květákové placky",
+    "květákové placky recept",
+    "placky z květáku",
+    "smažený květák placky"
+  ],
+  "image": "dish-kvetakove-placky-nula",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Květákové placky jsou zlatavé smažené placičky z nastrouhaného květáku, vajec a sýra. Jsou bez předvaření, takže hotové bývají za půl hodiny. Aby placky držely, je nutné z květáku vymačkat vodu.",
+  "ingredients": [
+    {
+      "ingredient": "kvetak",
+      "amount": 600,
+      "unit": "g",
+      "note": "1 menší hlávka, nastrouhaná nahrubo"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 80,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml",
+      "note": "na smažení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Květák nastrouhej na hrubém struhadle nebo rozmělni v mixéru na kousky velké jako rýže. Osol, promíchej a nech 10 minut stát."
+    },
+    {
+      "text": "Květák vymačkej v utěrce nebo v sítu, dokud z něj nepřestane téct voda. Z 600 g zbyde asi 450 g."
+    },
+    {
+      "text": "V míse smíchej květák s vejci, moukou, sýrem, česnekem, petrželkou a pepřem. Hmota má být hustá, aby šla tvarovat lžící."
+    },
+    {
+      "text": "Na pánvi rozehřej olej na středním plameni. Dávej lžíci hmoty a placku rozplácni do tloušťky asi 1 cm."
+    },
+    {
+      "text": "Smaž 3 až 4 minuty z každé strany do zlatohnědé barvy. Hotové placky odkapej na papírové utěrce a podávej teplé."
+    }
+  ],
+  "tips": [
+    "Vymačkání vody je důležité. Mokrý květák placky roztéká a neosmaží se do křupava.",
+    "Na kratší smažení lze placky dopéct v troubě při 200 °C 8 minut.",
+    "Hotové placky vydrží 2 dny v lednici, ohřívej je na suché pánvi nebo v troubě."
+  ],
+  "substitutions": [
+    "Mouku nahradíš stejným množstvím strouhanky nebo drcených ovesných vloček.",
+    "Eidam lze vyměnit za parmazán nebo trochu fety, pak ale nesol tolik."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat květákové placky, aby se nerozpadaly?",
+      "a": "Vymačkej z květáku vodu, použij 2 vejce a nenechávej hmotu dlouho stát. Placky přeobracej až když jsou zespodu zlatavé."
+    },
+    {
+      "q": "Dají se květákové placky péct v troubě?",
+      "a": "Dají. Na plech s pečicím papírem je dej na 200 °C a peč 20 minut, v půlce otoč."
+    },
+    {
+      "q": "K čemu květákové placky podávat?",
+      "a": "Hodí se tzatziki, jogurtový dip s bylinkami nebo brambory a čerstvý salát."
+    }
+  ]
+}

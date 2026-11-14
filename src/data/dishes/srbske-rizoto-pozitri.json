@@ -1,0 +1,18 @@
+{
+  "name": "Srbské rizoto",
+  "restaurant": "lahudky-pozitri",
+  "kind": "main",
+  "section": "Z teplé vitríny",
+  "description": "Vepřové maso s paprikou, cibulí a rýží uvařené v jednom hrnci. Sytá paprikovitá klasika.",
+  "about": [
+    "Srbské rizoto s italským nemá nic společného, kromě jména. Je to jednohrncové jídlo z vepřového masa, papriky, cibule a rýže, kterou prostě vaříš v šťávě z masa a zeleniny.",
+    "Papriku nikdy nepřidáváme do horkého tuku, hořkla by. Rýže se vaří pod pokličkou a potom odpočívá. Úplně obyčejné jídlo, jen dnes prázdné."
+  ],
+  "price": 18900,
+  "image": "dish-srbske-rizoto-pozitri",
+  "recipe": "srbske-rizoto",
+  "optionGroups": [],
+  "vegetarian": false,
+  "allergens": [],
+  "order": 72
+}

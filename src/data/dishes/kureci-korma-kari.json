@@ -1,0 +1,19 @@
+{
+  "name": "Kuřecí korma s basmati rýží",
+  "restaurant": "kari-nikde",
+  "kind": "main",
+  "section": "Kari",
+  "description": "Jemné kuře v mandlové omáčce s jogurtem a smetanou, basmati rýže.",
+  "about": [
+    "Korma je kari, které nikoho nepálí. Mandle, jogurt a smetana dělají omáčku hladkou jako sametový polštář, garam masala přidá teplo.",
+    "Kari nikde není ani na cestě. Zato doma máš po hodině voňavý hrnec a rýži, která se vaří sama, takže kurýra nebudeš potřebovat."
+  ],
+  "price": 21900,
+  "image": "dish-kureci-korma-kari",
+  "recipe": "kureci-korma",
+  "allergens": [
+    7,
+    8
+  ],
+  "order": 200
+}

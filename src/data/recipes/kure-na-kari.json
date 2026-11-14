@@ -1,0 +1,145 @@
+{
+  "title": "Kuře na kari se smetanou",
+  "keywords": [
+    "kuře na kari",
+    "kuře na kari se smetanou",
+    "kuřecí na kari",
+    "kuřecí kari se smetanou",
+    "kuřecí prsa na kari"
+  ],
+  "image": "dish-kure-na-kari",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Kuře na kari se smetanou je česká verze kari: jemné, bez pálivosti, se sladkým jablkem a hladkou omáčkou. Kuřecí prsa se krájejí na kostky a duší jen 12 až 15 minut, aby zůstala šťavnatá. K tomu rýže basmati. Hotovo za 45 minut, pro čtyři.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 600,
+      "unit": "g",
+      "note": "na kostky 2 cm",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nastrouhané nahrubo",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "kari",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "rozmíchaný v 1 lžíci vody",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 250,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do vody na rýži",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýži propláchni, dokud voda neteče čistá. Dej ji do hrnce s 400 ml studené vody a solí, přiveď k varu, přikryj a vař na nejmenším stupni 12 minut. Pak nech 5 minut dojít.",
+      "section": "Rýže"
+    },
+    {
+      "text": "Kuře osol. Na pánvi rozpal olej a maso opékej 4 minuty po obvodu na vysokém ohni, jen do lehkého zezlátnutí. Přendej na talíř, maso ještě nedodělává.",
+      "section": "Kuře"
+    },
+    {
+      "text": "Do stejné pánve přidej cibuli a smaž 5 minut do změknutí. Přidej česnek, kari a jablko, míchej 1 minutu, ať se koření probudí, ale nespálí.",
+      "section": "Omáčka"
+    },
+    {
+      "text": "Podlij vývarem a smetanou, přiveď k varu a nech 5 minut probublávat. Vrať maso a vař 8 až 10 minut, uvnitř musí mít 75 °C a být bílé.",
+      "section": "Omáčka"
+    },
+    {
+      "text": "Skrob rozmíchej v lžíci vody a vlij do omáčky, vař minutu do zhoustnutí. Dochuť solí a případně špetkou cukru. Podávej s rýží.",
+      "section": "Omáčka"
+    }
+  ],
+  "tips": [
+    "Prsa nevař dlouho. Po 15 minutách ve smetaně jsou už suchá a gumová.",
+    "Kari prášek smaž v tuku jen minutu, tím se uvolní aroma. Při delším smažení hořkne.",
+    "Kari je výborné i další den, ohřívej s trochou vývaru."
+  ],
+  "substitutions": [
+    "Smetanu na vaření nahradíš kokosovým mlékem, získáš jemnější a trochu exotickou chuť.",
+    "Prsa můžeš zaměnit za kuřecí stehenní řízky, duš je 18 minut."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit kuře na kari?",
+      "a": "Kuřecí kostky se v omáčce vaří 8 až 10 minut, uvnitř mají mít 75 °C. Celý postup s rýží trvá asi 45 minut."
+    },
+    {
+      "q": "Čím zahustit kari omáčku?",
+      "a": "Škrobem rozmíchaným ve studené vodě, vařit minutu. Další možností je nastrouhané jablko nebo trocha rozmixované cibule."
+    },
+    {
+      "q": "Je kuře na kari pálivé?",
+      "a": "Podle kari koření. Obyčejné kari prášek je jemné, pro pálivost přidej špetku chilli vloček na konci."
+    }
+  ]
+}

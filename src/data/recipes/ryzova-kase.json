@@ -1,0 +1,123 @@
+{
+  "title": "Mléčná rýžová kaše",
+  "keywords": [
+    "rýžová kaše",
+    "mléčná rýže",
+    "rýžová kaše recept",
+    "sladká rýže na mléce"
+  ],
+  "image": "dish-ryzova-kase-lacno",
+  "category": "snidane",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 40,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Rýžová kaše na mléce z kulatozrnné rýže, která je krémová a nepřipálená. Rýže se nejdřív krátce podvaří ve vodě, potom se dovaří v mléce a cukr se přidá až nakonec. Z 1 litru mléka vyjdou čtyři větší porce.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-kulatozrnna",
+      "amount": 150,
+      "unit": "g",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 750,
+      "unit": "ml",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "podle chuti",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 28,
+      "unit": "g",
+      "note": "2 lžíce",
+      "group": "Na podávání"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Na podávání"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže",
+      "text": "Rýži propláchni na sítku studenou vodou. Dej ji do hrnce s tlustým dnem, zalij 250 ml vody, přidej sůl a přiveď k varu."
+    },
+    {
+      "section": "Podvaření",
+      "text": "Vař na mírném ohni asi 10 minut, dokud se voda skoro nevsákne. Rýže má být napůl měkká."
+    },
+    {
+      "section": "Dovaření",
+      "text": "Přilij 750 ml studeného mléka, promíchej a znovu přiveď k varu. Stáhni na nejmírnější žár a vař 20 až 25 minut, každé 3 minuty promíchej, aby se mléko nepřichytilo."
+    },
+    {
+      "section": "Dochucení",
+      "text": "Po 20 minutách přisyp cukr a vanilkový cukr. Vař dalších 5 minut. Hotová kaše je krémová, rýže měkká a kaše se lehce lije z vařečky."
+    },
+    {
+      "section": "Podávání",
+      "text": "Kaši nech 5 minut odstát, protože zhoustne. Rozděl do misek, přidej máslo a posyp skořicí smíchanou s cukrem."
+    }
+  ],
+  "tips": [
+    "Rýže nesmí vřít prudce, jinak se mléko připálí. Pomáhá hrnec s tlustým dnem a nejmenší plamen.",
+    "Kaši můžeš udělat večer a ráno ji ohřát s lžící mléka navíc, protože přes noc hodně zhoustne.",
+    "Chceš-li ji řidší, dolij horké mléko po lžících až do hustoty podle chuti."
+  ],
+  "substitutions": [
+    "Místo kulatozrnné rýže jde použít i dlouhozrnnou, kaše bude méně krémová a potřebuje o 5 až 10 minut déle.",
+    "Kravské mléko nahraď ovesným nebo kokosovým nápojem. U rostlinných nápojů vař na nejmírnějším žáru.",
+    "Ke kaši se hodí rozpuštěný džem, strouhaná čokoláda, kompot nebo opečená jablka se skořicí."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří rýžová kaše?",
+      "a": "Asi 35 až 40 minut: 10 minut ve vodě a 20 až 25 minut v mléce. Kaši pravidelně promíchávej, aby se mléko nepřipálilo."
+    },
+    {
+      "q": "Jakou rýži na mléčnou rýži?",
+      "a": "Nejlepší je kulatozrnná, protože při vaření uvolňuje škrob a kaše je krémová. Dlouhozrnná se nerozvaří tolik a kaše je řidší."
+    },
+    {
+      "q": "Dá se rýžová kaše ohřívat?",
+      "a": "Ano, v lednici vydrží 2 dny v uzavřené nádobě. Před ohřátím do ní přidej lžíci až dvě mléka, protože zhoustne."
+    }
+  ]
+}

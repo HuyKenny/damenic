@@ -1,0 +1,22 @@
+{
+  "name": "Špagety puttanesca",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Klasiky",
+  "description": "Špagety s rajčaty, olivami, kapary a ančovičkami. Slané, ostré a jednoduché.",
+  "about": [
+    "Puttanesca vznikla z toho, co se našlo ve spíži: olivy, kapary, česnek, rajčata a ančovičky. Ančovičky se v oleji rozpustí a z omáčky udělají slaný základ, ve kterém se ryba nepozná.",
+    "V Pasta Baru Niente ji vaříme pro ty, kdo nechtějí tajit, že mají hlad. Omáčka je výrazná, takže sýr nepotřebuje. Špagety jsou skutečné, doručení ne."
+  ],
+  "price": 17900,
+  "image": "dish-puttanesca-niente",
+  "recipe": "spagety-puttanesca",
+  "optionGroups": [],
+  "vegetarian": false,
+  "spicy": 1,
+  "allergens": [
+    1,
+    4
+  ],
+  "order": 62
+}

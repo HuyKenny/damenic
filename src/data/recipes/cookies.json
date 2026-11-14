@@ -1,0 +1,125 @@
+{
+  "title": "Čokoládové cookies",
+  "keywords": [
+    "cookies recept",
+    "cookies",
+    "cookies sušenky",
+    "čokoládové cookies"
+  ],
+  "intro": "Čokoládové cookies recept na 24 sušenek s křupavým okrajem a měkkým středem. Těsto se musí aspoň hodinu chladit, jinak se na plechu rozlije do jednoho placatého plátu. Pečení je krátké a sušenky vyndáš, dokud jsou uprostřed ještě měkké.",
+  "image": "dish-cookies-upecem",
+  "category": "dezerty",
+  "servings": 8,
+  "activeMinutes": 20,
+  "cookMinutes": 12,
+  "waitMinutes": 60,
+  "waitLabel": "chlazení těsta v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 170,
+      "unit": "g",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 130,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 200,
+      "unit": "g",
+      "note": "nasekaná na kousky"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 60,
+      "unit": "g",
+      "note": "nasekané, nepovinné"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Máslo šlehej s oběma cukry a vanilkovým cukrem 3 minuty do světlé krémové hmoty. Přidej vejce a prošlehej, až se úplně spojí."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej s jedlou sodou a solí a přesij do másla. Zamíchej jen do spojení, těsto prohněteš příliš a cookies budou tuhé. Vmíchej nasekanou čokoládu a ořechy."
+    },
+    {
+      "section": "Chlazení",
+      "text": "Těsto zabal do fólie a dej na hodinu do lednice, vydrží tam i 2 dny. Studené těsto se při pečení tolik nerozlije a cookies jsou tlustší."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Plech vyložený pečicím papírem rovnoměrně pokládej kuličky těsta o váze asi 40 g (velká lžíce), s rozestupy 5 cm."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 10 až 12 minut. Okraje mají být zlatavé, střed světlý a ještě měkký, protože cookies dotvrdnou na plechu. Nech je 5 minut stát a pak přendej na mřížku."
+    },
+    {
+      "section": "Podávání",
+      "text": "Z dávky vyjde asi 24 cookies. Nejlepší jsou teplé, když je čokoláda ještě měkká."
+    }
+  ],
+  "tips": [
+    "Pro stejně velké cookies použij kopečkovou lžíci na zmrzlinu.",
+    "Těsto zmrazené v kuličkách vydrží 2 měsíce. Peč je ze zmrazeného o 2 minuty déle.",
+    "Hotové cookies skladuj v dóze 4 dny. Kousek chleba v dóze je udrží měkké."
+  ],
+  "substitutions": [
+    "Hořkou čokoládu nahraď mléčnou nebo bílou, popř. jejich směsí. Cookies budou sladší.",
+    "Vlašské ořechy nahraď pekany, lískovými ořechy nebo 50 g ovesných vloček.",
+    "Do těsta můžeš přidat lžičku instantní kávy, sladkost čokolády se tím zjemní."
+  ],
+  "faq": [
+    {
+      "q": "Proč se cookies na plechu rozlily?",
+      "a": "Těsto bylo teplé, nebo máslo příliš měkké. Chlaď těsto aspoň hodinu a kuličky tvaruj těsně před vložením do trouby."
+    },
+    {
+      "q": "Jak dlouho péct cookies?",
+      "a": "10 až 12 minut při 180 °C (horkovzduch 170 °C). Střed má být ještě světlý a měkký, dotvrdne při chladnutí."
+    },
+    {
+      "q": "Dají se cookies upéct ze zmrazeného těsta?",
+      "a": "Ano. Zmraz kuličky na plechu a pak je přesuň do sáčku. Peč je rovnou ze zmrazeného stavu o 2 až 3 minuty déle."
+    }
+  ]
+}

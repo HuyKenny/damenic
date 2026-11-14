@@ -1,0 +1,22 @@
+{
+  "name": "Krupicová kaše s kakaem a máslem",
+  "restaurant": "odlozeny-budik",
+  "kind": "main",
+  "section": "Kaše a sladké",
+  "description": "Hladká krupicová kaše z mléka, máslo uprostřed, kakao s cukrem navrch. Snídaně z dětství, jen bez hrudek.",
+  "about": [
+    "Krupicová kaše je jedno z jídel, u kterých rozhoduje trpělivost u hrnce, ne suroviny. Stačí mléko, krupice a metla, a pokud se zašlehá správně, je hladká jako pudink a vůbec nepřipomíná školní jídelnu.",
+    "Doprostřed dává kuchyně kousek másla a kakao s cukrem, které se rozplyne do žlutých kapek. Snídaně je vymyšlená, hlad z ní je skutečný. Zbytek už patří tvému hrnci."
+  ],
+  "price": 8900,
+  "image": "dish-krupicova-kase-budik",
+  "recipe": "krupicova-kase",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 100
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Citronová limonáda",
+  "restaurant": "limonadovna-nedoslazeno",
+  "kind": "main",
+  "section": "Limonády",
+  "description": "Čerstvě vymačkaný citron, cukrový sirup a perlivá voda s ledem a mátou. Nedoslazeno tak akorát.",
+  "about": [
+    "Citronová limonáda je základ, ze kterého se odvozují všechny ostatní. Čerstvá šťáva, jednoduchý sirup z cukru a vody a perlivá voda dolitá na poslední chvíli.",
+    "Limonádovna je nedoslazená už podle jména. Doma si cukru dáš přesně tolik, kolik chceš, a limonáda nikdy nezvodní, protože ji vypiješ."
+  ],
+  "price": 7900,
+  "image": "dish-citronova-limonada-nedoslazeno",
+  "recipe": "citronova-limonada",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 100
+}

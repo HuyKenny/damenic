@@ -1,0 +1,21 @@
+{
+  "name": "Sendvič s tvarohovou pomazánkou",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Studené sendviče",
+  "description": "Celozrnný chléb, tvarohová pomazánka s paprikou a pažitkou a lístek salátu. Lehká a čerstvá.",
+  "about": [
+    "Tvarohová pomazánka je pomazánka bez majonézy, bez těžkého tuku a bez výčitek. Základem je jemný tvaroh, ke kterému se přidá zelenina: červená paprika, jarní cibulka a pažitka.",
+    "Sendvič drží pohromadě díky tomu, že se pomazánka stihne den uležet. Kurýr nic nepřiveze, mezi krajíci je ticho. Ale doma tě pomazánka nezklame."
+  ],
+  "price": 10900,
+  "image": "dish-tvarohova-pomazanka-krajici",
+  "recipe": "tvarohova-pomazanka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 100
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Zapečená brokolice se sýrem",
+  "keywords": [
+    "zapečená brokolice",
+    "zapečená brokolice se sýrem",
+    "brokolice ve smetaně zapečená",
+    "zapečená brokolice recept"
+  ],
+  "image": "dish-zapecena-brokolice-zahradka",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Zapečená brokolice se sýrem je nejrychlejší vegetariánské jídlo z trouby: brokolice, smetanová zálivka a sýr, hotové za 50 minut. Brokolici je dobré předvařit jen krátce, aby se při zapékání nerozvařila.",
+  "ingredients": [
+    {
+      "ingredient": "brokolice",
+      "amount": 700,
+      "unit": "g",
+      "note": "1 velká hlávka nebo 2 menší, na růžičky"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na vymazání formy"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 190 °C (horkovzduch 170 °C). Menší zapékací mísu vymaž máslem."
+    },
+    {
+      "text": "Růžičky brokolice vař v osolené vodě 3 minuty od začátku varu. Okamžitě slij a přelij studenou vodou, aby zůstaly pevné a zelené."
+    },
+    {
+      "text": "Ve větší misce prošlehej smetanu s vejci, česnekem, muškátem, solí, pepřem a polovinou sýra."
+    },
+    {
+      "text": "Brokolici dej do formy a zalij směsí. Posyp zbylým sýrem."
+    },
+    {
+      "text": "Peč 25 minut, dokud není povrch zlatavý a zálivka pevná. Před krájením nech 5 minut odpočinout."
+    }
+  ],
+  "tips": [
+    "Kratší předvaření brokolici ochrání před kašovitou strukturou. Stonky můžeš oloupat a použít také, stačí je nakrájet na plátky.",
+    "Zálivka se bez vajec nespojí. Jedno vejce stačí na 100 ml smetany.",
+    "Podávej jako samostatné jídlo s chlebem nebo jako přílohu k pečenému mase."
+  ],
+  "substitutions": [
+    "Smetanu na vaření nahradíš zakysanou smetanou (200 g) zředěnou 50 ml mléka.",
+    "Místo brokolice funguje květák nebo jejich směs, květák vař 5 minut."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se zapéká brokolice se sýrem?",
+      "a": "Při 190 °C asi 25 minut. Hotová je, když je povrch zlatavý a zálivka při zatřesení formou nevlní."
+    },
+    {
+      "q": "Musí se brokolice před zapečením předvařit?",
+      "a": "Ano, krátce, 3 minuty. Syrová by v troubě zůstala tvrdá, protože zálivka ji spíš zapaří než uvaří."
+    },
+    {
+      "q": "Dá se zapečená brokolice připravit dopředu?",
+      "a": "Dá. Slož ji do formy, přikryj a nech v lednici až 24 hodin, peč pak o 5 minut déle."
+    }
+  ]
+}

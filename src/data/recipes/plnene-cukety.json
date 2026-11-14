@@ -1,0 +1,135 @@
+{
+  "title": "Plněné cukety",
+  "keywords": [
+    "plněné cukety",
+    "plněné cukety mletým masem",
+    "plněné cukety recept",
+    "plněné cukety zapečené"
+  ],
+  "image": "dish-plnene-cukety-pozitri",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 40,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Plněné cukety jsou půlky cukety vydlabané a naplněné mletým masem, rýží a sýrem, upečené v rajčatové omáčce. Cukety se dají plnit i bezmasou směsí. Důležité je maso propéct a cuketu nerozvařit.",
+  "ingredients": [
+    {
+      "ingredient": "cuketa",
+      "amount": 1000,
+      "unit": "g",
+      "note": "4 menší cukety, asi 250 g kus",
+      "group": "Cukety"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 300,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "ryze-dlouhozrnna",
+      "amount": 80,
+      "unit": "g",
+      "note": "uvařená, asi 200 g hotové",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 400,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 100,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Na vršek"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýži uvař podle obalu v osolené vodě a nech vychladnout. Troubu předehřej na 190 °C (horkovzduch 170 °C)."
+    },
+    {
+      "text": "Cukety podélně rozpůl a lžící vydlabej střed, aby zůstalo asi 1 cm stěny. Dužinu nasekej na malé kousky."
+    },
+    {
+      "text": "Na pánvi opeč cibuli 3 minuty, přidej mleté maso a opékej 5 minut, dokud není propečené a rozpadavé. Přidej česnek, dužinu a papriku, osol a opepři a duš 3 minuty."
+    },
+    {
+      "text": "Směs smíchej s rýží a vejcem. Pokud je moc suchá, přidej lžíci passaty."
+    },
+    {
+      "text": "Passatu rozlij do zapékací mísy, cukety do ní naskládej a naplň směsí. Posyp sýrem."
+    },
+    {
+      "text": "Peč přikryté fólií 25 minut, pak odkryj a peč dalších 10 minut dozlatova. Maso uvnitř má mít alespoň 75 °C."
+    }
+  ],
+  "tips": [
+    "Menší cukety jsou chutnější a nemají tolik semen. Velké vydlabej víc, jinak budou vodnaté.",
+    "Cukety před plněním můžeš 3 minuty podusit v osolené vodě, budou měkčí.",
+    "Zbytek směsi se hodí na plněné papriky nebo karbanátky."
+  ],
+  "substitutions": [
+    "Mleté hovězí lze nahradit krůtím nebo vepřovým masem, nebo 300 g drcených žampionů a čočky pro bezmasou verzi.",
+    "Eidam nahradíš mozzarellou, bude se víc tahat."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se pečou plněné cukety?",
+      "a": "Při 190 °C asi 35 minut: nejdřív 25 minut přikryté, pak 10 minut odkryté."
+    },
+    {
+      "q": "Jde připravit plněné cukety dopředu?",
+      "a": "Jde. Naplň a nech v lednici až 24 hodin, peč pak o 5 minut déle."
+    },
+    {
+      "q": "Proč jsou plněné cukety vodnaté?",
+      "a": "Cuketa pouští vodu. Vydlabej ji hlouběji, osol zevnitř a před plněním nech 10 minut odpočinout dutinou dolů."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Věneček se šlehačkou a čokoládou",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Zákusky z vitríny",
+  "description": "Vzdušný věneček z odpalovaného těsta, naplněný šlehačkou a polity hořkou čokoládou.",
+  "about": [
+    "Věneček se dělá z těsta, které se nejdřív uvaří a pak upeče. Uvnitř je dutý, takže se plní šlehačkou. Čokoláda na vrchu je ztuhlá polevová čepička.",
+    "Prodáváme po kusu, jeden by měl stačit, ale většinou skončíš u dvou. Vitrína je prázdná, recept je plný."
+  ],
+  "price": 5500,
+  "image": "dish-vencky-z-vitriny",
+  "recipe": "vencky-z-odpalovaneho-testa",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 35
+}

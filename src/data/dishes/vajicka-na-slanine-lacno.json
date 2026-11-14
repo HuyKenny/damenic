@@ -1,0 +1,22 @@
+{
+  "name": "Volská oka na slanině s chlebem",
+  "restaurant": "na-lacno",
+  "kind": "main",
+  "section": "Brunch",
+  "description": "Dvě vejce na křupavé slanině, opečený chléb a pažitka. Základ snídaně, která nepotřebuje popis.",
+  "about": [
+    "Slanina s vejci je snídaně, která se obejde bez receptu, ale ne bez pořadí. Slanina první, vejce do jejího tuku. Obráceně to nejde, protože se vejce přichytí a tuk se spálí.",
+    "Kavárna ti k tomu nabídne chléb s pažitkou. Ve skutečnosti ti nenabídne nic, ale žloutek, který se rozlije po slanině, je skutečný. Doma."
+  ],
+  "price": 13900,
+  "image": "dish-vajicka-na-slanine-lacno",
+  "recipe": "vajicka-na-slanine",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3
+  ],
+  "order": 110
+}

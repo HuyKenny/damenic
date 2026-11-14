@@ -1,0 +1,146 @@
+{
+  "title": "Pečený králík na hořčici a slanině",
+  "keywords": [
+    "pečený králík",
+    "králík recept",
+    "králík na hořčici",
+    "králík v troubě",
+    "pečený králík na smetaně"
+  ],
+  "image": "dish-peceny-kralik",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 100,
+  "waitMinutes": 60,
+  "waitLabel": "marinování králíka v hořčici",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Pečený králík je libové, jemné maso, které se snadno vysuší. Proto se v tomhle postupu králík potírá hořčicí, obkládá slaninou, peče se pomalu pod pokličkou a podlévá se. Za 100 minut vznikne měkké maso s tmavou smetanovou omáčkou. Pro čtyři porce.",
+  "ingredients": [
+    {
+      "ingredient": "kralik",
+      "amount": 1300,
+      "unit": "g",
+      "note": "porcovaný na 8 až 10 kusů",
+      "group": "Králík"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Králík"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Králík"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Králík"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Králík"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 100,
+      "unit": "g",
+      "note": "na tenké plátky",
+      "group": "Králík"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "nakrájená na půlkolečka",
+      "group": "Pečení"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kolečka",
+      "group": "Pečení"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Pečení"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Pečení"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "horká",
+      "group": "Pečení"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Králíka osuš, osol a opepři. Smíchej hořčici s česnekem a potři jím všechny kusy. Nech 1 hodinu při pokojové teplotě nebo až přes noc v lednici.",
+      "section": "Příprava"
+    },
+    {
+      "text": "Troubu předehřej na 180 °C, horkovzduch 170 °C. Do pekáče dej sádlo, cibuli, mrkev a bobkový list. Na zeleninu naskládej králíka, každý kus překryj plátkem slaniny a podlij horkou vodou.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Pekáč přikryj víkem nebo alobalem a peč 60 minut. Pak sundej kryt, maso přelij šťávou a peč dalších 30 až 40 minut, aby slanina i králík zezlátly. Dolij 100 ml vody, když se výpek vypeče.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Králík je hotový, když maso u kosti snadno ustupuje a teplota v nejtlustší části stehna je aspoň 75 °C. Kusy přendej na talíř a udržuj v teple.",
+      "section": "Pečení"
+    },
+    {
+      "text": "Šťávu s cibulí a mrkví přelij do kastrůlku, přidej smetanu a 5 minut vař na mírném ohni, až se zahustí. Omáčku můžeš rozmixovat. Přelij maso a podávej s knedlíkem nebo šátečky.",
+      "section": "Omáčka"
+    }
+  ],
+  "tips": [
+    "Králík je libový. Doba pečení je klíčová, jakmile se přepeče, maso zvláční. Pro jistotu ho podlévej a peč přikrytý.",
+    "Stehna a hřbet mají různou dobu pečení. Hřbet vyndej o 15 minut dřív.",
+    "Zbylého králíka nech v omáčce, vydrží v lednici 2 dny a druhý den bývá ještě měkčí."
+  ],
+  "substitutions": [
+    "Králíka můžeš nahradit kuřecími stehny s kostí, ty se pečou 50 minut.",
+    "Smetanu nahradíš 150 g bílého jogurtu, vmíchej ho až po stažení z ohně a omáčku už nevař."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se peče králík?",
+      "a": "Králík porcovaný na kusy se peče při 180 °C asi 90 až 100 minut, první hodinu přikrytý. Maso je hotové, když se snadno odděluje od kosti."
+    },
+    {
+      "q": "Jak udělat králíka měkkého?",
+      "a": "Peč ho pomalu přikrytý, podlévej vodou a nepřeháněj teplotu. Hořčicová marináda a slanina pomáhají udržet vlhkost."
+    },
+    {
+      "q": "Jaká je správná teplota králíka?",
+      "a": "V nejtlustší části stehna aspoň 75 °C. Doporučuji ho péct do měkka, tedy zhruba 85 až 90 °C, kdy se maso odděluje od kosti."
+    }
+  ]
+}

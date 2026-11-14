@@ -1,0 +1,57 @@
+{
+  "name": "Zapečené brambory s masem a smetanou",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "price": 20900,
+  "recipe": "zapecene-brambory-s-masem-a-smetanou",
+  "vegetarian": false,
+  "order": 140,
+  "description": "Tenké plátky brambor, kuřecí kousky, smetana s česnekem a sýr navrch. Zapečeme je jen v receptu.",
+  "about": [
+    "Brambory se krájí na plátky tlusté tři milimetry, skládají se s masem a zalévají smetanou s česnekem. První půlhodinu se pečou pod alobalem, pak se odkryjí a dozlatova zapečou se sýrem.",
+    "Nejlepší je to hned z trouby, kdy smetana bublá po stranách. Doručit se to nedá, aniž by část zašla do obalu. Naštěstí máme recept a ty máš troubu."
+  ],
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standardni",
+          "name": "Standardní",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (o polovinu větší forma)",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "salat",
+          "name": "Zelný salát",
+          "priceDelta": 0
+        },
+        {
+          "id": "okurky",
+          "name": "Nakládané okurky",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "vycep-zitra",
+  "image": "dish-zapecene-brambory-s-masem-a-smetanou",
+  "allergens": [
+    7
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "title": "Zeleninové rizoto",
+  "keywords": [
+    "zeleninové rizoto",
+    "rizoto se zeleninou",
+    "rizoto recept",
+    "jak uvařit rizoto"
+  ],
+  "image": "dish-zeleninove-rizoto-domani",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Zeleninové rizoto je krémová rýže arborio s cuketou, mrkví a hráškem, hotová za 45 minut. Krém dělá škrob, který rýže pouští při pomalém míchání, ne smetana. Vývar se přilévá po naběračkách a rizoto má na talíři mírně téct.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-arborio",
+      "amount": 300,
+      "unit": "g",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "horký",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "studené, na závěr",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 50,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "cuketa",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky 1 cm",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostičky 1 cm",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 100,
+      "unit": "g",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zelenina"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vývar přiveď k varu a drž na mírném plameni. Horký vývar rizoto nezastaví ve vaření."
+    },
+    {
+      "text": "V širokém hrnci rozehřej olej a polovinu másla, na středním plameni 4 minuty osmahni cibuli a mrkev."
+    },
+    {
+      "text": "Přisyp rýži a 2 minuty ji opékej za míchání, aby byla průsvitná po okrajích. Takzvaně se opráží a zrnka pak drží tvar."
+    },
+    {
+      "text": "Přilij první naběračku vývaru a míchej, dokud se téměř nevstřebá. Pak přilévej po naběračkách a občas míchej. Trvá to asi 16 minut."
+    },
+    {
+      "text": "V polovině vaření přidej cuketu, v posledních 3 minutách hrášek. Zrnka mají být uvnitř s lehkým odporem."
+    },
+    {
+      "text": "Hrnec stáhni z plamene, vmíchej zbylé studené máslo, parmazán a citron. Přikryj a nech 2 minuty odpočinout. Podle chuti dosol."
+    }
+  ],
+  "tips": [
+    "Rýži před vařením nemyj, odplaveš škrob, který dělá krémovost.",
+    "Hotové rizoto nech přikryté 2 minuty, zhoustne ještě na talíři. Má téct jako hustá kaše, ne držet tvar.",
+    "Na druhý den z něj udělej smažené kuličky v trojobalu, rizoto přitom musí být studené."
+  ],
+  "substitutions": [
+    "Arborio nahradíš rýží carnaroli nebo vialone nano. Dlouhozrnná rýže krémové rizoto neudělá.",
+    "Do veganské verze použij olej místo másla a droždí v lupínkách místo parmazánu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří rizoto?",
+      "a": "Od přidání prvního vývaru asi 16 až 18 minut. Rýže má být al dente, tedy uprostřed s lehkým kousnutím."
+    },
+    {
+      "q": "Musí se rizoto pořád míchat?",
+      "a": "Ne pořád. Stačí míchat často, zvlášť po přilití vývaru a na konci, rýže se uvolní škrob."
+    },
+    {
+      "q": "Dá se rizoto ohřát?",
+      "a": "Dá, s trochou vývaru nebo vody na pánvi. Chuť je dobrá, ale krémovost se nevrátí tak jako čerstvě."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Vepřové výpečky z krkovice",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "price": 21900,
+  "recipe": "veprove-vypecky",
+  "vegetarian": false,
+  "order": 120,
+  "description": "Plátky krkovice pečené s cibulí do zlatova, s výpekem. Hospodská klasika, jen přidaný talíř chybí.",
+  "about": [
+    "Výpečky jsou plátky krkovice, které se vyloženě uvaří ve vlastní šťávě a pak dozlatova opečou. Cibule sesklovatí, tuk se rozpustí a z výpeku se stane omáčka.",
+    "Zelí a knedlík k nim patří jako vidlička k nožíku. Recept je přesný, výpek hustý. Co jediné chybí, je přísun masa přímo k tobě, ale to je v hospodě U Prázdného talíře věc zvyku."
+  ],
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standardni",
+          "name": "Standardní",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (o polovinu více)",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "houskovy",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "bramborovy",
+          "name": "Bramborový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "kase",
+          "name": "Bramborová kaše",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "zeli",
+      "name": "Zelí",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bile",
+          "name": "Dušené kysané",
+          "priceDelta": 0
+        },
+        {
+          "id": "cervene",
+          "name": "Červené",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-veprove-vypecky",
+  "allergens": []
+}

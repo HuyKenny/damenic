@@ -1,0 +1,106 @@
+{
+  "title": "Vejce ve skleničce",
+  "keywords": [
+    "vejce ve skleničce",
+    "vejce na měkko ve skleničce",
+    "vajíčka ve skleničce",
+    "jak uvařit vejce na měkko"
+  ],
+  "image": "dish-vejce-ve-sklenicce-budik",
+  "category": "snidane",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 5,
+  "cookMinutes": 6,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Vejce ve skleničce je klasika české snídaně: vejce uvařená na měkko se rozklepnou do sklenice, rozmíchají s máslem, solí a pepřem a jí se lžičkou s opečeným chlebem. Na dvě porce stačí 4 vejce a 6 minut varu.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "velikost M, z lednice",
+      "group": "Vejce"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 14,
+      "unit": "g",
+      "note": "1 lžíce",
+      "group": "Vejce"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Vejce"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Vejce"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.25,
+      "unit": "ks",
+      "group": "Na posypání"
+    },
+    {
+      "ingredient": "toustovy-chleb",
+      "amount": 60,
+      "unit": "g",
+      "note": "2 plátky",
+      "group": "Na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Vaření",
+      "text": "Vejce nech na pokojové teplotě 10 minut, aby neprasklo. Do vroucí vody je opatrně vlož lžící a vař přesně 6 minut pro měkký žloutek."
+    },
+    {
+      "section": "Zchlazení",
+      "text": "Vejce vyndej a ihned ponoř na minutu do studené vody. Přestane se vařit a půjde lépe loupat."
+    },
+    {
+      "section": "Sklenice",
+      "text": "Sklenice vymaž máslem. Vejce oloupej, rozdělte do skleniček a přidej zbylé máslo, sůl a pepř."
+    },
+    {
+      "section": "Dohotovení",
+      "text": "Vejce ve skleničce lehce rozpůl lžičkou, aby se žloutek smíchal s bílkem a máslem. Posyp pažitkou."
+    },
+    {
+      "section": "Podávání",
+      "text": "Podávej s opečeným toustem. Jez hned, dokud je vejce teplé."
+    }
+  ],
+  "tips": [
+    "Čas je důležitější než vše ostatní: 5 minut je skoro tekuté, 6 minut měkké, 8 minut sražené, 10 minut natvrdo.",
+    "Oloupat měkké vejce jde lépe pod proudem vody. Kdyby se slupka lepila, nech vejce ještě chvíli ve studené vodě.",
+    "Máslo můžeš nahradit lžičkou olivového oleje, vejce bude lehčí."
+  ],
+  "substitutions": [
+    "Pažitku nahraď sekanou petrželkou nebo koprem.",
+    "Tousty nahraď chlebem nebo opečenou bagetou.",
+    "K vejci se hodí i špetka uzené papriky nebo kapka kečupu, pokud ho miluješ."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit vejce na měkko?",
+      "a": "Při velikosti M asi 6 minut od chvíle, kdy se vejce ponoří do vroucí vody. Bílek je pak pevný a žloutek měkký."
+    },
+    {
+      "q": "Je vejce ve skleničce bezpečné?",
+      "a": "Pro zdravé dospělé ano, pokud jsou vejce čerstvá. Těhotné ženy, děti a senioři by měli vejce vařit do pevného žloutku, minimálně 8 minut."
+    },
+    {
+      "q": "Proč vejce při vaření praskají?",
+      "a": "Studené vejce se rozpíná rychle a skořápka praskne. Vejce proto nech chvíli na pokojové teplotě a spouštěj je do vody pomalu lžící."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "title": "Bešamel",
+  "keywords": [
+    "bešamel",
+    "bešamelová omáčka",
+    "bešamel recept",
+    "jak udělat bešamel"
+  ],
+  "image": "dish-besamel",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 10,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Bešamel je hladká bílá omáčka z jíšky z másla a mouky, zředěné mlékem. Hodí se do lasagní, zapečených zelenin i těstovin. Nejčastěji dělá problémy tvorba hrudek, proto se mléko přilévá po částech a pořád se šlehá.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 600,
+      "unit": "ml",
+      "note": "vlažné nebo studené"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "čerstvě nastrouhaný"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Máslo rozpusť v hrnci s tlustším dnem na středním plameni, ať nezhnědne. Jakmile se přestane pěnit, vsyp mouku."
+    },
+    {
+      "text": "Jíšku míchej metlou 1 až 2 minuty. Má se svařovat do hladké hmoty, vonět po těstíčku a zůstat světlá."
+    },
+    {
+      "text": "Hrnec stáhni z plamene a přilij první třetinu mléka. Šlehej, dokud nevznikne hladká hustá kaše bez hrudek."
+    },
+    {
+      "text": "Vrať hrnec na mírný plamen, postupně přilévej zbytek mléka a pořád šlehej. Omáčka se při tom zahušťuje."
+    },
+    {
+      "text": "Vař 5 až 8 minut za stálého míchání, dokud nepokryje hřbet lžíce a při přejetí prstem zůstane čistá stopa. Dochuť solí, pepřem a muškátovým oříškem."
+    }
+  ],
+  "tips": [
+    "Studená jíška plus teplé mléko, nebo naopak, hrudky nedělá. Obě části s velkým teplotním rozdílem se spojují pomaleji, než se mouka stihne slepit.",
+    "Hotovou omáčku, kterou nepoužiješ hned, přikryj fólií přímo na povrchu, aby nevytvořila škraloup. V lednici vydrží 2 dny.",
+    "Hustotu měň poměrem: na gratinování 50 g mouky na 600 ml mléka, na krokety dvojnásobek mouky."
+  ],
+  "substitutions": [
+    "Máslo můžeš nahradit rostlinným tukem a mléko ovesným nápojem bez cukru, omáčka bude trochu méně krémová.",
+    "Bezlepková verze: místo hladké mouky použij 30 g kukuřičného škrobu rozmíchaného ve studeném mléku, vařit stačí 2 minuty."
+  ],
+  "faq": [
+    {
+      "q": "Jak se zbavím hrudek v bešamelu?",
+      "a": "Omáčku přelij přes sítko nebo ji prošlehej tyčovým mixérem. Příště přilévej mléko po částech a pořád šlehej metlou, ne vařečkou."
+    },
+    {
+      "q": "Dá se bešamel zamrazit?",
+      "a": "Dá, vydrží až 2 měsíce. Po rozmražení se může lehce vysrážet, proto ji při zahřátí prošlehej metlou a případně doplň trochou mléka."
+    },
+    {
+      "q": "Kolik bešamelu je potřeba do lasagní?",
+      "a": "Na formu 20 × 30 cm vychází 600 až 700 ml, tedy zhruba jedna dávka tohoto receptu."
+    }
+  ]
+}

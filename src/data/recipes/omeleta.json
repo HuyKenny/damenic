@@ -1,0 +1,119 @@
+{
+  "title": "Nadýchaná omeleta se šunkou a sýrem",
+  "keywords": [
+    "omeleta recept",
+    "omeleta se šunkou a sýrem",
+    "nadýchaná omeleta",
+    "jak udělat omeletu"
+  ],
+  "image": "dish-omeleta-budik",
+  "category": "snidane",
+  "vegetarian": false,
+  "servings": 1,
+  "activeMinutes": 7,
+  "cookMinutes": 4,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Omeleta se šunkou a sýrem je rychlá snídaně z 3 vajec. Vejce se jen prošlehají s mlékem a smaží se na másle na mírném ohni pod pokličkou, aby byla nadýchaná a nepřipálená. Celé to trvá okolo 10 minut.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Omeleta"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "asi 45 ml",
+      "group": "Omeleta"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Omeleta"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Omeleta"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "group": "Omeleta"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 40,
+      "unit": "g",
+      "note": "nakrájená na kostičky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 30,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Vejce",
+      "text": "Vejce rozklepni do misky, přidej mléko, sůl a pepř a prošlehej vidličkou jen tak, aby se žloutky spojily s bílky. Nešlehej do pěny."
+    },
+    {
+      "section": "Pánev",
+      "text": "Na pánvi o průměru 20 až 22 cm rozpusť máslo na středním žáru. Až přestane pěnit, ale ještě nezhnědne, nalij vejce."
+    },
+    {
+      "section": "Smažení",
+      "text": "Smaž 1 až 2 minuty a okraje stahuj špachtlí ke středu, aby se nezatuhlé vejce dostalo na dno. Jakmile je povrch jen vlhký, sniž žár na minimum."
+    },
+    {
+      "section": "Náplň",
+      "text": "Na polovinu omelety dej šunku a sýr, přikryj pokličkou a nech 1 až 2 minuty, aby se sýr rozpustil a vejce uvnitř zatuhlo (vejce má být důkladně srážené, uvnitř nesmí být tekuté)."
+    },
+    {
+      "section": "Podávání",
+      "text": "Omeletu přeložit přes náplň, přendej na talíř a posyp pažitkou."
+    }
+  ],
+  "tips": [
+    "Mléko dělá omeletu měkkou, ale nepřidávej ho víc než lžíci na vejce, jinak se bude loupat voda.",
+    "Pánev používej s nepřilnavým povrchem a vždy menší, aby omeleta byla vyšší.",
+    "Omeletu nikdy nesmaž na vysokém žáru, zešedne a zhoustne na gumu."
+  ],
+  "substitutions": [
+    "Šunku nahraď žampiony osmaženými na másle, špenátem nebo kousky rajčete.",
+    "Eidam jde vyměnit za balkánský sýr, mozzarellu nebo čerstvý kozí sýr.",
+    "Mléko lze nahradit dvěma lžícemi vody, omeleta bude o trochu lehčí."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat omeletu nadýchanou?",
+      "a": "Vejce jen krátce prošlehej s lžící mléka na vejce a smaž na mírném ohni pod pokličkou. Prudký žár omeletu zhutní."
+    },
+    {
+      "q": "Dává se do omelety mléko, nebo voda?",
+      "a": "Obojí funguje. Mléko dělá omeletu měkčí a krémovější, voda lehčí. Nejvýš 1 lžíci na vejce."
+    },
+    {
+      "q": "Kolik vajec na omeletu?",
+      "a": "Na jednu porci 2 až 3 vejce, na pánev o průměru 20 až 22 cm jsou ideální 3. Pro větší pánev uděláš dvě omelety, ne jednu velkou."
+    }
+  ]
+}

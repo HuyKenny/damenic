@@ -1,0 +1,21 @@
+{
+  "name": "Rizoto s kuřecím masem",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Rizoto a gnocchi",
+  "description": "Rizoto arborio s opečeným kuřecím masem, paprikou a hráškem. Ke konci máslo a parmazán.",
+  "about": [
+    "Kuřecí maso se do rizota nevaří spolu s rýží, ale opeče se zvlášť a vrací se na konci. Díky tomu zůstane šťavnaté, zatímco rýže se doladí v kuřecím vývaru.",
+    "Je to sytá verze rizota pro hladové, kterým samotná zelenina nestačí. Vývar dohlídá i ostatní, jen kurýr Nikdo se chodí vždycky podívat do prázdného hrnce."
+  ],
+  "price": 23900,
+  "image": "dish-rizoto-kure-domani",
+  "recipe": "rizoto-s-kurecim-masem",
+  "optionGroups": [],
+  "vegetarian": false,
+  "allergens": [
+    7,
+    9
+  ],
+  "order": 74
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Pečený bůček s křupavou kůží",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "price": 24900,
+  "recipe": "peceny-bucek",
+  "vegetarian": false,
+  "order": 110,
+  "description": "Bůček s kůží, která zvoní. Pečený do měkka, dopečený do křupava, bez jediného doručení.",
+  "about": [
+    "Křupavá kůže je matematika: nařezat, opařit, osušit, osolit a hodinu větrat v lednici. Potom se bůček peče přikrytý do měkka a nakonec při 230 °C, až kůže nafoukne a praskne.",
+    "Je to jídlo, které je nejlepší hned z trouby, v hospodě to ví každý. Proto ho nikdo nevozí. Ty ho uděláš doma a zbytek nám poděkuje s nulou na účtě."
+  ],
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standardni",
+          "name": "Standardní",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (o polovinu více)",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "houskovy",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "bramborovy",
+          "name": "Bramborový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "kase",
+          "name": "Bramborová kaše",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "zeli",
+      "name": "Zelí",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bile",
+          "name": "Dušené kysané",
+          "priceDelta": 0
+        },
+        {
+          "id": "cervene",
+          "name": "Červené",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "vycep-zitra",
+  "image": "dish-peceny-bucek",
+  "allergens": []
+}

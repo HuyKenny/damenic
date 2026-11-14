@@ -1,0 +1,161 @@
+{
+  "title": "Kimbap",
+  "category": "sushi",
+  "servings": 4,
+  "activeMinutes": 45,
+  "cookMinutes": 25,
+  "waitMinutes": 10,
+  "waitLabel": "vychladnutí rýže",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "keywords": [
+    "kimbap",
+    "kimbap recept",
+    "korejské sushi",
+    "korejské rolky s rýží"
+  ],
+  "intro": "Kimbap je korejská rolka z rýže, mořské řasy nori a barevné zeleniny s vejcem a tuňákem. Na rozdíl od sushi se rýže ochucuje sezamovým olejem, ne octem, a rolky se potírají olejem. Na stůl vyjde 32 kousků.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-sushi",
+      "amount": 300,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 360,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "nori",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "rozšlehaná, upečená jako tenká omeleta",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "na jemné tyčinky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "spenat-baby",
+      "amount": 125,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na tyčinky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "tunak-konzerva",
+      "amount": 160,
+      "unit": "g",
+      "note": "scezený",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na potření",
+      "group": "Náplň"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže",
+      "text": "Rýži propírej do čiré vody. Dej ji do hrnce s 360 ml vody, přiveď k varu, zakryj, vař 12 minut na minimu a nech 10 minut dojít. Zamíchej se sezamovým olejem, solí a sezamem a nech vychladnout na pokojovou teplotu."
+    },
+    {
+      "section": "Náplň",
+      "text": "Vejce rozšlehej se špetkou soli a upeč na lehce olejem potřené pánvi jako tenkou omeletu. Nech vychladnout a nakrájej na dlouhé proužky."
+    },
+    {
+      "section": "Náplň",
+      "text": "Mrkev orestuj na lžíci oleje 3 minuty do poloměkka. Špenát krátce spař vroucí vodou, scedi, vymačkej a ochuť solí."
+    },
+    {
+      "section": "Náplň",
+      "text": "Tuňáka rozmělni vidličkou a smíchej s majonézou."
+    },
+    {
+      "section": "Rýže",
+      "text": "Nori polož na bambusovou rohožku (nebo čistou utěrku) lesklou stranou dolů. Rýži rovnoměrně rozetři na 3/4 plátu a nech nahoře 3 cm volných."
+    },
+    {
+      "section": "Náplň",
+      "text": "Na rýži vyskládej pruhy vejce, mrkev, špenát, okurku a tuňáka. Pevně svinuj, začni u strany s rýží, a na okraji potři vodou. Hotovou rolku potři sezamovým olejem a krájej ostrým nožem namočeným ve vodě na 8 kousků."
+    }
+  ],
+  "tips": [
+    "Rýže má být vlažná, ne horká, jinak nori zvlhne a trhá se.",
+    "Nepřeplňuj. Čím tenčí proužky zeleniny, tím lépe se rolka drží.",
+    "Hotové rolky vydrží v lednici jeden den zabalené v potravinové fólii, rýže při chladu ztvrdne."
+  ],
+  "substitutions": [
+    "Tuňáka nahraď kousky smaženého tofu nebo šunkou pro děti.",
+    "Do náplně lze přidat nakládanou ředkev nebo kimchi z receptu na webu.",
+    "Sezamový olej v rýži nahraď olivovým, chuť bude jiná, ale rolka bude fungovat."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi kimbap a sushi?",
+      "a": "Kimbap má rýži ochucenou sezamovým olejem a solí, ne octem, a obsahuje vařené a smažené suroviny. Sushi používá octovou rýži a často syrovou rybu."
+    },
+    {
+      "q": "Jak zabránit, aby se rolka rozpadla?",
+      "a": "Rýži dej tenčí vrstvou, zeleninu krájej na tyčinky a pevně svinuj. Krájej nožem namočeným ve vodě, aby se rýže nelepila."
+    },
+    {
+      "q": "Dá se kimbap připravit den předem?",
+      "a": "Ano, zabal rolku do fólie a dej do lednice, vydrží 1 den. Rýže ztvrdne, před jídlem nech kimbap půl hodiny při pokojové teplotě."
+    }
+  ],
+  "image": "dish-kimbap-rolka",
+  "vegetarian": false
+}

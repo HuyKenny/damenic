@@ -1,0 +1,20 @@
+{
+  "name": "Mattar paneer s hráškem",
+  "restaurant": "kari-nikde",
+  "kind": "main",
+  "section": "Kari",
+  "description": "Opečené kostky paneeru a hrášek v rajčatové omáčce s kořením, basmati rýže.",
+  "about": [
+    "Mattar paneer je klasika indické vegetariánské kuchyně. Paneer se v omáčce nerozpadá, hrášek slouží jako sladká pointa a kmín ji nese dál.",
+    "Kari nikde neexistuje a paneer taky ne na tvém prahu. Ale pánev a hrnec doma jsou připravené, a vyjde to za necelou hodinu."
+  ],
+  "price": 18900,
+  "image": "dish-mattar-paneer-kari",
+  "recipe": "mattar-paneer",
+  "vegetarian": true,
+  "spicy": 1,
+  "allergens": [
+    7
+  ],
+  "order": 220
+}

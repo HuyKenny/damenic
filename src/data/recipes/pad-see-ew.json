@@ -1,0 +1,148 @@
+{
+  "title": "Pad see ew s kuřecím masem",
+  "category": "thajska",
+  "servings": 2,
+  "activeMinutes": 25,
+  "cookMinutes": 12,
+  "waitMinutes": 20,
+  "waitLabel": "marinování a namáčení nudlí",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "keywords": [
+    "pad see ew",
+    "pad see ew recept",
+    "thajské nudle se sójovou omáčkou",
+    "smažené široké rýžové nudle"
+  ],
+  "intro": "Pad see ew jsou smažené široké rýžové nudle se sójovou omáčkou, kuřecím masem, vejcem a brokolicí. Chuť je sladkoslaná, lehce připálená. Stejně jako u woku platí: rozpálit pánev a nenechat nudle ležet na jednom místě.",
+  "ingredients": [
+    {
+      "ingredient": "nudle-ryzove",
+      "amount": 200,
+      "unit": "g",
+      "note": "ploché, nejlépe široké",
+      "group": "Nudle"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 200,
+      "unit": "g",
+      "note": "na tenké plátky",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ustricova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "brokolice",
+      "amount": 150,
+      "unit": "g",
+      "note": "na malé růžičky",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "nadrobno",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Smažení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Nudle",
+      "text": "Nudle nech 20 minut namočené v horké vodě z konvice, dokud nejsou ohebné, ale ne rozvařené. Pak je scedi a odkapej."
+    },
+    {
+      "section": "Maso",
+      "text": "Kuře promíchej s lžící sójové omáčky a škrobem a nech odležet, zatímco se nudle namáčejí."
+    },
+    {
+      "section": "Omáčka",
+      "text": "V misce smíchej 2 lžíce sójové omáčky, ústřicovou omáčku, cukr a ocet. Cukr se musí rozpustit předem, ve woku na to není čas."
+    },
+    {
+      "section": "Smažení",
+      "text": "Brokolici blanšíruj 2 minuty v osolené vodě a scedi. Na velké pánvi rozehřej 2 lžíce oleje na vysokém ohni, opékej maso 3 minuty, dokud není propečené uvnitř na 75 °C, a vyndej."
+    },
+    {
+      "section": "Smažení",
+      "text": "Do stejné pánve dej zbylý olej a česnek, po 15 sekundách přidej nudle. Smaž je 2 až 3 minuty a nechávej je chvíli ležet, aby se na okrajích opálily."
+    },
+    {
+      "section": "Smažení",
+      "text": "Nudle odsuň na kraj, na volné místo rozklepni vejce a zamíchej, až se sráží. Vrať maso a brokolici, zalij omáčkou a míchej 1 minutu, ať se všechno obalí."
+    }
+  ],
+  "tips": [
+    "Nudle míchej jen občas. Právě lehce připálené okraje dělají pad see ew pad see ew.",
+    "Pánev nepřeplňuj, pro dvě porce stačí jedna dávka, pro čtyři smaž dvakrát.",
+    "Brokolici můžeš vyměnit za pak-choi, jídlo pak bude lehce hořké."
+  ],
+  "substitutions": [
+    "Široké rýžové nudle nahraď tenkými rýžovými nudlemi, nebudou tak žvýkací, ale chuť se zachová.",
+    "Ústřicovou omáčku nahraď další lžící sójové omáčky a půl lžičkou cukru.",
+    "Kuře vyměň za tofu nakrájené na kostky a osmahni do zlatova."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi pad see ew a pad thai?",
+      "a": "Pad thai je sladkokyselý s tamarindem a arašídy a smaží se z tenkých nudlí. Pad see ew používá široké nudle a sójovou omáčku, chutná sladce a kouřově."
+    },
+    {
+      "q": "Jak zabránit, aby se rýžové nudle slepily?",
+      "a": "Nedovař je a po namočení je odkapej. Na pánev patří v tenké vrstvě, a pokud se zlepují, přidej lžíci oleje."
+    },
+    {
+      "q": "Lze pad see ew udělat bez woku?",
+      "a": "Ano. Použij největší pánev, kterou máš, a smaž po menších dávkách. Hlavní je silný oheň a suché nudle."
+    }
+  ],
+  "image": "dish-pad-see-ew-tuk",
+  "vegetarian": false
+}

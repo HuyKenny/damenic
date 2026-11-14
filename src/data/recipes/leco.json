@@ -1,0 +1,107 @@
+{
+  "title": "Lečo",
+  "keywords": [
+    "lečo",
+    "lečo recept",
+    "klasické lečo",
+    "lečo z papriky a rajčat"
+  ],
+  "image": "dish-lecho-drobek",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Lečo je dušená paprika s rajčaty a cibulí, jedno z nejčastějších letních jídel v české kuchyni. Tohle je veganská základní verze bez uzeniny a bez vajec, takže se hodí jako samostatné jídlo i jako příloha. U lečo rozhoduje, aby paprika zůstala jen měkká, a cukr vyrovnal kyselost rajčat.",
+  "ingredients": [
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "na tenká půlkolečka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 3,
+      "unit": "ks",
+      "note": "na proužky"
+    },
+    {
+      "ingredient": "paprika-zelena",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na proužky"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 600,
+      "unit": "g",
+      "note": "na kousky, nebo 400 g loupaných z plechovky"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli osmahni na oleji na středním plameni 5 minut do sklovata, nesmí zhnědnout."
+    },
+    {
+      "text": "Přidej papriky a duš je 8 minut pod pokličkou, občas promíchej, až začnou měknout."
+    },
+    {
+      "text": "Stáhni plamen na minimum, vmíchej mletou papriku. Hned přidej rajčata, aby sladká paprika nezhořkla."
+    },
+    {
+      "text": "Osol, přisyp cukr a duš odkryté 12 až 15 minut, dokud se tekutina částečně nevyvaří a lečo není hustší. Dochuť pepřem."
+    }
+  ],
+  "tips": [
+    "Mletou papriku nepřidávej do suchého tuku. Při 170 °C a výš zhořkne za několik vteřin.",
+    "Ze zelené papriky bude lečo trochu trpčí, ze samotné červené sladší. Poměr si uprav podle chuti.",
+    "V lednici vydrží 4 dny, zavařit se dá do sklenic na 20 minut při 90 °C."
+  ],
+  "substitutions": [
+    "Klasická verze má klobásu nebo slaninu: 200 g nakrájené uzené klobásy opeč s cibulí hned na začátku.",
+    "Na konci lze do lečo zamíchat 4 vejce a nechat sednout pod pokličkou 3 minuty, vznikne lečo s vejci."
+  ],
+  "faq": [
+    {
+      "q": "Jak zahustit lečo?",
+      "a": "Vař odkryté, dokud tekutina nezredukuje. Rychlejší cesta je 1 lžíce rajčatového protlaku nebo lžička škrobu rozmíchaná ve studené vodě."
+    },
+    {
+      "q": "Proč je lečo kyselé?",
+      "a": "Kyselost jde z rajčat. Pomůže 1 až 2 lžičky cukru a delší vaření. Nepomáhá soda, ta ničí chuť."
+    },
+    {
+      "q": "Dá se lečo zamrazit?",
+      "a": "Dá, v krabičce vydrží 3 měsíce. Po rozmražení bude mírně vodnatější, proto ho ohřívej odkryté."
+    }
+  ]
+}

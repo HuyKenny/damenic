@@ -1,0 +1,128 @@
+{
+  "title": "Banánové lívance",
+  "keywords": [
+    "banánové lívance",
+    "banánové lívanečky",
+    "lívance s banánem",
+    "lívance recept"
+  ],
+  "image": "dish-bananove-livance-zitra",
+  "category": "palacinky",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Banánové lívance z rozmačkaných zralých banánů nepotřebují kvásek a jsou hotové za půl hodiny. Z těsta vyjde asi 12 lívanců o průměru 7 cm. Banán dodá sladkost, takže stačí málo cukru, a lívance zůstanou uvnitř vláčné.",
+  "ingredients": [
+    {
+      "ingredient": "banan",
+      "amount": 2,
+      "unit": "ks",
+      "note": "zralé, s hnědými tečkami",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 120,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 150,
+      "unit": "g",
+      "group": "Na podávání"
+    },
+    {
+      "ingredient": "med",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Banány rozmačkej vidličkou na hrubé pyré. Přidej vejce a mléko a prošlehej metlou."
+    },
+    {
+      "section": "Smíchání",
+      "text": "Mouku smíchej s práškem do pečiva, skořicí a solí a přisyp k banánové směsi. Promíchej jen do spojení, malé hrudky nevadí. Těsto má být hustší, aby se drželo na lžíci."
+    },
+    {
+      "section": "Smažení",
+      "text": "Pánev lehce potři olejem a rozehřej na středním až mírném ohni. Dávej po lžících těsta s odstupem a smaž asi 2 minuty, dokud se na povrchu neudělají bublinky a spodek není zlatý."
+    },
+    {
+      "section": "Obrácení",
+      "text": "Obrať a smaž další 1 až 2 minuty. Prostředek lívance má být propečený, nesmí se lepit na špejli. Hotové lívance drž pod utěrkou v teple."
+    },
+    {
+      "section": "Podávání",
+      "text": "Podávej s jogurtem a lžící medu. Lívance jsou nejlepší ihned, později vyschnou."
+    }
+  ],
+  "tips": [
+    "Banán rychle karamelizuje a připaluje se, proto smaž na mírném žáru a nenechávej pánev příliš rozpálenou.",
+    "Čím zralejší banán, tím sladší a vlhčí lívance. Zelené banány se nehodí, lívance by nebyly sladké.",
+    "Do těsta můžeš přidat 30 g ovesných vloček, lívance budou syté a hutnější."
+  ],
+  "substitutions": [
+    "Pšeničnou mouku nahraď z poloviny celozrnnou nebo ovesnou, lívance budou hutnější a budou potřebovat o lžíci mléka navíc.",
+    "Jogurt může nahradit tvaroh smíchaný s trochou mléka, krájené ovoce nebo javorový sirup.",
+    "Mléko nahraď ovesným nápojem. Vejce lze nahradit dalším rozmačkaným banánem, lívance budou měkčí."
+  ],
+  "faq": [
+    {
+      "q": "Proč se banánové lívance rozpadají?",
+      "a": "Nejčastěji je těsto příliš řídké nebo se obrací příliš brzy. Počkej, až se na povrchu objeví bublinky a okraj ztuhne, pak lívanec otoč."
+    },
+    {
+      "q": "Jde udělat banánové lívance bez mouky?",
+      "a": "Ano, z rozmačkaných banánů, vajec a ovesných vloček, které se rozmixují na mouku. Jsou měkké a ke smažení potřebují malou pánev a trpělivost."
+    },
+    {
+      "q": "Jak dlouho vydrží banánové lívance?",
+      "a": "V lednici vydrží 2 dny v uzavřené krabičce. Ohřej je krátce na suché pánvi nebo v toustovači, v mikrovlnce změknou."
+    }
+  ]
+}

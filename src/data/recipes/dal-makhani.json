@@ -1,0 +1,170 @@
+{
+  "title": "Dal makhani",
+  "category": "indicka",
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 55,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "dal makhani",
+    "dal makhani recept",
+    "indická čočka se smetanou",
+    "čočkové kari"
+  ],
+  "intro": "Dal makhani je indické krémové kari z černé čočky a červených fazolí, máslo, smetana a koření mu dodají sametovou hustotu. Čočka beluga se vaří bez namáčení asi 25 minut, fazole z plechovky ušetří hodinu práce.",
+  "ingredients": [
+    {
+      "ingredient": "cocka-cerna",
+      "amount": 200,
+      "unit": "g",
+      "group": "Čočka"
+    },
+    {
+      "ingredient": "fazole-cervene",
+      "amount": 200,
+      "unit": "g",
+      "note": "scezené z plechovky",
+      "group": "Čočka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 700,
+      "unit": "ml",
+      "group": "Čočka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 20,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "garam-masala",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 250,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 375,
+      "unit": "ml",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Čočka",
+      "text": "Čočku propláchni a dej do hrnce se 700 ml vody. Přiveď k varu, zakryj a vař 25 až 30 minut, dokud nezměkne, ale nerozpadne se."
+    },
+    {
+      "section": "Omáčka",
+      "text": "V jiném hrnci rozpusť 25 g másla a smaž cibuli 6 minut do zlatova. Přidej česnek, zázvor a koření a míchej 1 minutu."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Vlož rajčatové pyré a smaž 2 minuty, až ztmavne a odpaří se. Vlij uvařenou čočku i s vodou, přidej fazole a sůl."
+    },
+    {
+      "section": "Čočka",
+      "text": "Vař odkryté 20 minut na mírném ohni a občas promíchej. Část čočky na dně rozmačkej vařečkou, aby kari zhoustlo."
+    },
+    {
+      "section": "Rýže",
+      "text": "Rýži basmati propláchni, přiveď s 375 ml vody k varu, zakryj, vař 12 minut na minimu a nech 5 minut dojít."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Vmíchej smetanu a zbylé máslo, nech 2 minuty prohřát bez varu. Dochuť solí a podávej s rýží."
+    }
+  ],
+  "tips": [
+    "Čím déle se dal vaří, tím je lepší. Druhý den je ještě krémovější, přidej trochu vody při ohřevu.",
+    "Čočku solíme až po změknutí, dřív by zůstala tvrdá.",
+    "Máslo na konci dodá lesk. Bez něj bude kari dobré, ale ne tak hladké."
+  ],
+  "substitutions": [
+    "Máslo a smetanu nahraď kokosovým mlékem a rostlinným olejem, bude veganské.",
+    "Černou čočku nahraď hnědou, vař ji 25 minut, bude méně krémová.",
+    "Pro pikantnější verzi přidej čerstvou chilli papričku."
+  ],
+  "faq": [
+    {
+      "q": "Z čeho se dělá dal makhani?",
+      "a": "Tradičně z černé čočky urad a červených fazolí, které se dlouho dusí s máslem, smetanou a kořením. V Česku se nahrazuje čočkou beluga."
+    },
+    {
+      "q": "Musím čočku namáčet?",
+      "a": "Černá čočka beluga ne, uvaří se do 30 minut. Tradiční urad se namáčí přes noc."
+    },
+    {
+      "q": "Kolik vydrží dal makhani v lednici?",
+      "a": "3 dny v uzavřené nádobě. Před jídlem ho ohřej do varu a zředěním vodou obnov hustotu."
+    }
+  ],
+  "image": "dish-dal-makhani-kari",
+  "vegetarian": true
+}

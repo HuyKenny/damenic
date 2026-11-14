@@ -1,0 +1,128 @@
+{
+  "title": "Bramborové krokety",
+  "keywords": [
+    "bramborové krokety",
+    "krokety recept",
+    "domácí krokety",
+    "krokety z brambor",
+    "smažené krokety"
+  ],
+  "image": "dish-bramborove-krokety",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 20,
+  "waitMinutes": 60,
+  "waitLabel": "odpočinek hmoty v lednici",
+  "difficulty": "střední",
+  "meal": "priloha",
+  "intro": "Bramborové krokety jsou zlatohnědé válečky s křehkou kůrkou a hebkým bramborovým vnitřkem. Hmota musí být suchá, proto se brambory po uvaření odpařují a prolisují, a krokety se před smažením vychladí. Vyjde asi 16 kousků, smažených při 175 °C.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 700,
+      "unit": "g",
+      "note": "loupané, na čtvrtky",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen žloutky, bílky na obalení",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "čerstvě nastrouhaný",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 40,
+      "unit": "g",
+      "note": "na obalení",
+      "group": "Obalování"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 120,
+      "unit": "g",
+      "group": "Obalování"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 600,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Smažení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař v osolené vodě 15 až 20 minut do měkka. Slij je a vrať do horkého hrnce na 2 minuty, aby se odpařila voda. Ještě horké prolisuj nebo utlač, hmota nesmí mít hrudky.",
+      "section": "Hmota"
+    },
+    {
+      "text": "Do vlažné hmoty přidej máslo, mouku, žloutky, sůl a muškát. Rychle promíchej do hladké hmoty, která se snadno tvaruje a nelepí. Přikryj a nech 1 hodinu zchladnout v lednici.",
+      "section": "Hmota"
+    },
+    {
+      "text": "Z hmoty vytvaruj 16 válečků dlouhých asi 6 cm. Pracuj s lehce navlhčenýma rukama. Každý váleček obal v mouce, potom v rozšlehaných bílcích s lžící vody a nakonec ve strouhance.",
+      "section": "Obalování"
+    },
+    {
+      "text": "V hrnci s vysokými stěnami rozehřej olej na 175 °C. Teplotu ověř teploměrem nebo kouskem chleba, který se kolem zasyčí a zhnědne za 30 sekund. Smaž po 4 až 5 kusech 2 až 3 minuty dozlatova.",
+      "section": "Smažení"
+    },
+    {
+      "text": "Hotové krokety vyndej na papírovou utěrku a krátce odkapej. Podávej ihned, nejlépe k pečenému masu nebo s omáčkou.",
+      "section": "Smažení"
+    }
+  ],
+  "tips": [
+    "Hmota nesmí být vlhká. Kdyby se těžko tvarovala, přidej 1 lžíci mouky, ale ne víc, krokety by byly těžké.",
+    "Před smažením udělej zkušební kroketu. Pokud se rozpadne, doplň mouku a dobře ztuhni hmotu v mrazáku.",
+    "Krokety můžeš také upéct na 220 °C, horkovzduch 200 °C, 20 až 25 minut, potřené olejem."
+  ],
+  "substitutions": [
+    "Máslo nahradíš olejem nebo sádlem, chuť bude méně jemná.",
+    "Místo klasické strouhanky použij strouhanku panko, bude ještě křehčí."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat krokety, aby se nerozpadly?",
+      "a": "Brambory dobře odpař a prolisuj, hmotu vychlaď aspoň hodinu a krokety obal dvakrát, v mouce a nakonec ve strouhance. Olej musí mít 175 °C."
+    },
+    {
+      "q": "Jak dlouho se smaží krokety?",
+      "a": "Při 175 °C stačí 2 až 3 minuty. Krokety jsou zlatohnědé a po vyndání je drž na papírové utěrce."
+    },
+    {
+      "q": "Lze krokety upéct místo smažení?",
+      "a": "Ano. Potři je olejem a peč při 220 °C asi 20 až 25 minut, v půlce otoč. Budou méně křupavé než smažené."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Česneková pomazánka se sýrem",
+  "keywords": [
+    "česneková pomazánka se sýrem",
+    "česneková pomazánka",
+    "sýrová pomazánka s česnekem",
+    "pomazánka z eidamu"
+  ],
+  "image": "dish-cesnekova-pomazanka-oblozeno",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "uležení v lednici",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Česneková pomazánka z eidamu je hotová za 10 minut. Na 200 g strouhaného sýra stačí 3 stroužky česneku a 80 g majonézy, po půl hodině v lednici se chutě propojí. Z uvedeného množství vyjde pomazánka na asi 12 chlebíčků nebo jednohubek.",
+  "ingredients": [
+    {
+      "ingredient": "eidam",
+      "amount": 200,
+      "unit": "g",
+      "note": "nastrouhaný nahrubo",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 80,
+      "unit": "g",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.25,
+      "unit": "ks",
+      "group": "Na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Eidam nastrouhej na hrubém struhadle do mísy. Česnek prolisuj nebo najemno nasekej."
+    },
+    {
+      "section": "Smíchání",
+      "text": "K sýru přidej majonézu a česnek. Promíchej vidličkou, dokud se pomazánka nespojí."
+    },
+    {
+      "section": "Dochucení",
+      "text": "Dochuť špetkou soli a pepře, ale ochutnej před solením, sýr je sám o sobě slaný. Pomazánka má být hustá a má se dát mazat."
+    },
+    {
+      "section": "Uležení",
+      "text": "Pomazánku přikryj fólií a nech 30 minut v lednici. Česnek se rozležením zjemní a sýr nasákne majonézou."
+    },
+    {
+      "section": "Podávání",
+      "text": "Namaž na chléb nebo pečivo a posyp pažitkou. Hodí se na chlebíčky, jednohubky i do tortilly."
+    }
+  ],
+  "tips": [
+    "Čerstvý česnek je ostrý. Chceš-li mírnější pomazánku, dej ho jen 2 stroužky a nech ji déle uležet.",
+    "Majonézu nahraď po polovině jogurtem, pomazánka bude lehčí.",
+    "Hustotu reguluj lžící jogurtu nebo majonézy podle potřeby."
+  ],
+  "substitutions": [
+    "Eidam jde nahradit goudou, ementálem nebo tvrdým balkánským sýrem.",
+    "Majonézu nahraď bílým jogurtem nebo zakysanou smetanou, pomazánka bude kyselejší.",
+    "Pro pikantní variantu přidej špetku chilli nebo rozmačkané olivy."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží česneková pomazánka?",
+      "a": "V uzavřené nádobě v lednici 2 až 3 dny. S majonézou ji nenechávej venku déle než 2 hodiny."
+    },
+    {
+      "q": "Proč pomazánka zvodní?",
+      "a": "Sýr při uležení pustí trochu vody, zvlášť s jogurtem. Zhoustnout ji pomůže další hrst nastrouhaného sýra."
+    },
+    {
+      "q": "Dá se pomazánka zamrazit?",
+      "a": "Ne, majonéza se po rozmražení srazí. Pomazánku proto připravuj čerstvou."
+    }
+  ]
+}

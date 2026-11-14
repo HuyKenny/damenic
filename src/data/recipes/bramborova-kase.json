@@ -1,0 +1,105 @@
+{
+  "title": "Bramborová kaše podle klasiky",
+  "keywords": [
+    "bramborová kaše",
+    "bramborová kaše recept",
+    "domácí bramborová kaše",
+    "bramborová kaše s mlékem a máslem",
+    "kaše z brambor"
+  ],
+  "image": "dish-bramborova-kase",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Bramborová kaše z vařených brambor, horkého mléka a másla je hladká příloha k masu s omáčkou i výpekem. Brambory prolisuješ ještě horké a mléko přilevíš také horké, kaše pak není lepkavá. Mixér nepoužívej, brambory zlepí. Pro čtyři porce.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 1000,
+      "unit": "g",
+      "note": "na kostky, moučného typu",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do vody na vaření",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml",
+      "note": "horké",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "studené, na kostky",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "čerstvě nastrouhaný",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "nakonec podle chuti",
+      "group": "Kaše"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory oloupej, nakrájej na stejně velké kostky (asi 3 cm) a dej do hrnce se studenou osolenou vodou. Přiveď k varu a vař 15 až 20 minut, až se vidlička zabodne bez odporu.",
+      "section": "Kaše"
+    },
+    {
+      "text": "Brambory slij, nech 2 minuty odpařit v horkém hrnci. Mléko ohřej v druhém kastrůlku těsně pod bod varu, ale nevař.",
+      "section": "Kaše"
+    },
+    {
+      "text": "Brambory prolisuj lisem nebo je rozmačkej tlučkem. Přidej studené máslo na kostky a míchej, aby se rozpustilo, pak postupně přilévej horké mléko.",
+      "section": "Kaše"
+    },
+    {
+      "text": "Dochuť muškátem a solí. Míchej jen tak, aby se spojila, jinak se brambory zlepí. Kaše má být hladká, hustá a lesklá. Podávej hned.",
+      "section": "Kaše"
+    }
+  ],
+  "tips": [
+    "Brambory krájej na stejné kousky, jinak se nerovnoměrně uvaří. Moučné brambory dávají nadýchanou kaši.",
+    "Studené mléko by z kaše udělalo lepkavé těsto. Mléko vždy ohřej.",
+    "Kaše můžeš udržet teplou nad parou 30 minut, před podáváním ji rozmíchej."
+  ],
+  "substitutions": [
+    "Mléko nahradíš zeleninovým vývarem, kaše bude lehčí.",
+    "Máslo můžeš zaměnit za olivový olej, dostaneš středomořskou chuť."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat bramborovou kaši bez hrudek?",
+      "a": "Prolisuj horké brambory lisem nebo tlučkem, pak přidej máslo a horké mléko. Mixér ne, zlepí je."
+    },
+    {
+      "q": "Proč je kaše lepkavá?",
+      "a": "Brambory se příliš míchaly nebo mixovaly, nebo byly použity voskové druhy. Pro kaši jsou lepší moučné nebo polomoučné."
+    },
+    {
+      "q": "Kolik mléka dát do bramborové kaše?",
+      "a": "Na 1 kg brambor je to 150 až 250 ml horkého mléka a 40 až 60 g másla. Přidávej mléko postupně až do požadované hustoty."
+    }
+  ]
+}

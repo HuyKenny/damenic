@@ -1,0 +1,81 @@
+{
+  "name": "Čevabčiči",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "price": 22900,
+  "recipe": "cevabcici",
+  "vegetarian": false,
+  "order": 120,
+  "description": "Válečky z mletého hovězího a vepřového, pečené na pánvi, s cibulí a pitou. Hlad bereme vážně.",
+  "about": [
+    "Čevabčiči jsou balkánské válečky z mletého hovězího a vepřového masa, které se hnětou s trochou perlivé vody. Po dvou hodinách v lednici jsou šťavnaté a pevné, takže se na grilu ani nerozpadnou.",
+    "Peče se je pár minut, jen aby byly uvnitř propečené. Doma je zvládneš za půl hodiny, tady jen svítíme žárovkou nad prázdným stolem."
+  ],
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standardni",
+          "name": "Standardní",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (8 kusů místo 5)",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Podání",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "pita",
+          "name": "V pitě s cibulí",
+          "priceDelta": 0
+        },
+        {
+          "id": "ryze",
+          "name": "S rýží",
+          "priceDelta": 0
+        },
+        {
+          "id": "hranolky",
+          "name": "S hranolky",
+          "priceDelta": 1500
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "ajvar",
+          "name": "Ajvar",
+          "priceDelta": 1500
+        },
+        {
+          "id": "jogurt",
+          "name": "Bílý jogurt",
+          "priceDelta": 1000
+        }
+      ],
+      "max": 2
+    }
+  ],
+  "restaurant": "vycep-zitra",
+  "image": "dish-cevabcici",
+  "allergens": [
+    1
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Kmínový chléb ze žitné a pšeničné",
+  "restaurant": "pekarna-zitra-upecem",
+  "kind": "main",
+  "section": "Máslové a slané",
+  "description": "Bochník s křupavou kůrkou a kmínem, žitná a pšeničná mouka, kynutý droždím.",
+  "about": [
+    "Kmínový chléb je dvojí kynutí, pára v troubě a trpělivost. Žitná mouka mu dá chuť, pšeničná vzdušnost a kmín klasickou vůni.",
+    "Prodáváme půlku bochníku. Z trouby ho vytáhneš ty a zavoní ti celá kuchyně. My ho jen zítra upečeme."
+  ],
+  "price": 8900,
+  "image": "dish-kminovy-chleb-zitra-upecem",
+  "recipe": "domaci-kminovy-chleb",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "pul",
+          "name": "Půl bochníku",
+          "priceDelta": 0
+        },
+        {
+          "id": "cely",
+          "name": "Celý bochník",
+          "priceDelta": 7500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "order": 25
+}

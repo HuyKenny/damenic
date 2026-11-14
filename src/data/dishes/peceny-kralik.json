@@ -1,0 +1,63 @@
+{
+  "name": "Pečený králík na hořčici",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "price": 34900,
+  "recipe": "peceny-kralik",
+  "vegetarian": false,
+  "order": 130,
+  "description": "Králík potřený hořčicí, obložený slaninou a upečený do měkka se smetanovou omáčkou.",
+  "about": [
+    "Králík je libové maso, a proto se musí péct pomalu a přikrytý. Hořčice a slanina ho udrží vlhký, smetana v omáčce všechno zakulatí. Doma je to hodina a půl trpělivosti.",
+    "Doručit ho nelze, pokud by cestou nezměkl do kaše. Recept je ale přesný a králík u tebe doma bude lepší než ten, který by k nám nikdy nedojel."
+  ],
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standardni",
+          "name": "Standardní",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (o polovinu více)",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "specle",
+          "name": "Špecle",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "restaurant": "vycep-zitra",
+  "image": "dish-peceny-kralik",
+  "allergens": [
+    7,
+    10
+  ]
+}

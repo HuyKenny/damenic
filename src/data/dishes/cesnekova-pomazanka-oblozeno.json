@@ -1,0 +1,23 @@
+{
+  "name": "Chlebíčky s česnekovou pomazánkou",
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "kind": "main",
+  "section": "Chlebíčky",
+  "description": "Chlebíčky s pomazánkou z eidamu a česneku, posypané pažitkou. Obložené ničím, tedy skoro.",
+  "about": [
+    "Česneková pomazánka je jednohubka, kterou si vezmeš po první a neodoláš druhé. Stojí na hrubě nastrouhaném eidamu, česneku a majonéze, a hlavně na půlhodině v lednici, která chuť ukotví.",
+    "Chlebíčkárna ji nedoručí, protože není co obložit. Ale pomazánka s pažitkou se dělá za deset minut a stůl tě nezklame."
+  ],
+  "price": 8900,
+  "image": "dish-cesnekova-pomazanka-oblozeno",
+  "recipe": "cesnekova-pomazanka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    10
+  ],
+  "order": 100
+}

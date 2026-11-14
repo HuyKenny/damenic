@@ -1,0 +1,114 @@
+{
+  "title": "Křenová omáčka z mléka",
+  "keywords": [
+    "křenová omáčka",
+    "křenová omáčka recept",
+    "křenová omáčka z mléka",
+    "omáčka z křenu",
+    "křenová omáčka k vařenému masu"
+  ],
+  "image": "dish-krenova-omacka",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 12,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Křenová omáčka z mléka je hladká zásmažka zjemněná smetanou a ostrým křenem, který se přidává až na konci vaření, aby neztratil ostrost. Hodí se k vařenému hovězímu, uzenému masu i k vejcím. Základ je bešamel: 30 g másla a 30 g mouky na 400 ml mléka.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 30,
+      "unit": "g",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 400,
+      "unit": "ml",
+      "note": "studené",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "kren-strouhany",
+      "amount": 80,
+      "unit": "g",
+      "note": "podle ostrosti 60 až 100 g",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva z půlky",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Dochucení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V kastrůlku rozpusť máslo na středním ohni, přidej mouku a míchej metličkou 1 až 2 minuty, aby se zásmažka zpěnila a nezhnědla.",
+      "section": "Základ"
+    },
+    {
+      "text": "Po částech vlévej studené mléko a stále šlehej metličkou, ať nevzniknou hrudky. Přiveď k varu a vař 5 minut při občasném míchání, až omáčka zhoustne.",
+      "section": "Základ"
+    },
+    {
+      "text": "Vlij smetanu, prohřej 2 minuty a hrnec stáhni z ohně. Křen přidej až teď, jinak by se vařením zjemnil a ztratil ostrost.",
+      "section": "Dochucení"
+    },
+    {
+      "text": "Přidej sůl, cukr a citronovou šťávu, ochutnej a doprav. Omáčka má být hladká, hustá jako smetana a chuťově ostrá a zároveň jemná. Podávej hned.",
+      "section": "Dochucení"
+    }
+  ],
+  "tips": [
+    "Čím dřív křen přidáš, tím je omáčka jemnější. Pro ostrou chuť ho přidej až těsně před podáváním.",
+    "Omáčka po vychladnutí zhoustne. Při ohřevu ji zřeď mlékem a nevař, aby se jí neztratila ostrost.",
+    "Čerstvý křen je ostřejší než sklenicový. Strouhaný čerstvý křen potřebuješ asi 50 g."
+  ],
+  "substitutions": [
+    "Mléko lze nahradit rostlinným nápojem a máslo olejem, získáš bezmléčnou variantu.",
+    "Smetanu můžeš vynechat a použít jen mléko, omáčka bude lehčí."
+  ],
+  "faq": [
+    {
+      "q": "K čemu se podává křenová omáčka?",
+      "a": "Tradičně k vařenému hovězímu, uzenému masu, vejcím nebo bramborám. Dobře se hodí i k pečenému hovězímu."
+    },
+    {
+      "q": "Jak zjemnit křenovou omáčku?",
+      "a": "Přidej víc smetany nebo mléka a méně křenu, případně lžičku cukru. Křen nevař, mírní se tím ostrost, ale i chuť."
+    },
+    {
+      "q": "Jak dlouho vydrží křenová omáčka?",
+      "a": "V lednici 2 dny v uzavřené nádobě. Ohřívej opatrně a zřeď mlékem."
+    }
+  ]
+}

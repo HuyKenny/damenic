@@ -1,0 +1,86 @@
+{
+  "name": "Pečená vepřová kýta",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "price": 22900,
+  "recipe": "pecena-veprova-kyta",
+  "vegetarian": false,
+  "order": 110,
+  "description": "Kýta špikovaná česnekem, potřená hořčicí a pečená do šťavnata. Šťávu přiléváme, talíř jen v receptu.",
+  "about": [
+    "Kýta je libovější a poctivější sestra krkovice. Špikuje se česnekem, potře hořčicí a peče pomalu, aby zůstala šťavnatá. Rozhoduje teploměr: hotová je při 72 až 75 °C uvnitř, ne o stupeň víc.",
+    "Po upečení potřebuje čtvrt hodiny klidu, jinak šťáva z plátků uteče na prkénko. Doma ji zvládneš hravě, tady ji jen sepíšeme. Pec pro tebe svítí a talíř, no, ten se nikdy nedoveze."
+  ],
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standardni",
+          "name": "Standardní",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (o polovinu více)",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "houskovy",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "bramborovy",
+          "name": "Bramborový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "kase",
+          "name": "Bramborová kaše",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "vypek",
+          "name": "Výpek navíc",
+          "priceDelta": 1000
+        },
+        {
+          "id": "horcice",
+          "name": "Hořčice a křen",
+          "priceDelta": 1500
+        }
+      ],
+      "max": 2
+    }
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-pecena-veprova-kyta",
+  "allergens": [
+    10
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Špagety cacio e pepe",
+  "keywords": [
+    "cacio e pepe",
+    "těstoviny cacio e pepe",
+    "cacio e pepe recept",
+    "špagety se sýrem a pepřem"
+  ],
+  "image": "dish-cacio-e-pepe-domani",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Cacio e pepe jsou římské těstoviny jen ze tří věcí: špaget, pecorina a pepře. Omáčku dělá škrobová voda z vaření a sýr, který se nesmí vysrážet. Recept se nezdaří, když je pánev příliš horká nebo se přidá jen strouhaný sýr bez vody.",
+  "ingredients": [
+    {
+      "ingredient": "spagety",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do vody na těstoviny, méně než obvykle"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "čerstvě drcený"
+    },
+    {
+      "ingredient": "pecorino",
+      "amount": 100,
+      "unit": "g",
+      "note": "jemně nastrouhané"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Špagety vař v menším množství osolené vody, asi 1,5 litru, aby voda byla škrobovější. Vař o 2 minuty kratší dobu, než udává obal."
+    },
+    {
+      "text": "Pepř opraž na suché pánvi 1 minutu, přilij naběračku vody z vaření a stáhni na mírný plamen."
+    },
+    {
+      "text": "Pecorino rozmíchej v misce s 4 lžícemi vlažné vody z vaření na hladkou krémovou pastu."
+    },
+    {
+      "text": "Špagety přendej do pánve s pepřem a 1 minutu je promíchej. Pánev stáhni z plamene."
+    },
+    {
+      "text": "Přilij pastu z pecorina a rychle míchej kleštěmi, dokud se z vody a sýra nespojí lesklá krémová omáčka. V případě potřeby přidej lžíci vody."
+    }
+  ],
+  "tips": [
+    "Sýr se nesmí nikdy dávat na horkou pánev přímo, vytvoří hrudku. Proto ho rozmíchej v misce a pánev stáhni z plamene.",
+    "Sýr nastrouhej nejjemněji, jak to jde. Hrubé hobliny se špatně rozpouštějí.",
+    "Podávej hned, omáčka zhoustne za pár minut."
+  ],
+  "substitutions": [
+    "Pecorino lze nahradit směsí parmazánu a pecorina napůl, omáčka bude jemnější.",
+    "Bezlepková verze: použij bezlepkové špagety, škrobová voda bude řidší a sýra přidej o 20 g víc."
+  ],
+  "faq": [
+    {
+      "q": "Proč se mi sýr v cacio e pepe sráží?",
+      "a": "Pánev byla příliš horká nebo sýr neměl dost vody. Stáhni pánev z ohně, sýr nejdřív rozmíchej s vodou z vaření."
+    },
+    {
+      "q": "Může se místo pecorina použít parmazán?",
+      "a": "Může, ale omáčka je jemnější a hůř drží. Dobrý kompromis je půl na půl."
+    },
+    {
+      "q": "Je cacio e pepe bezmasé?",
+      "a": "Ano, obsahuje jen těstoviny, sýr a pepř. Sýr pecorino může obsahovat syřidlo živočišného původu."
+    }
+  ]
+}

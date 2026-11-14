@@ -1,0 +1,23 @@
+{
+  "name": "Tvarohový koláč bez pečení s jahodami",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Studené dezerty",
+  "description": "Sušenkový spodek, hladký tvarohový krém a jahody navrch. Vychlazený, lehký a bez trouby.",
+  "about": [
+    "Tvarohový koláč bez pečení spojí máslový spodek, krém z tvarohu a šlehačky a želatinu, která drží řezy. Jahody navrch dodají kyselost.",
+    "Dostaneš kousek z formy o průměru 22 cm. Ztuhne přes noc v lednici, jako každý dobrý plán odložený na zítra."
+  ],
+  "price": 11900,
+  "image": "dish-tvarohovy-kolac-bez-peceni-sladke",
+  "recipe": "tvarohovy-kolac-bez-peceni",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 55
+}

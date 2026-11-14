@@ -1,0 +1,167 @@
+{
+  "title": "Japchae",
+  "category": "asijska",
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 20,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "keywords": [
+    "japchae",
+    "japchae recept",
+    "korejské skleněné nudle",
+    "nudle ze sladkých brambor"
+  ],
+  "intro": "Japchae je korejské jídlo ze skleněných nudlí ze sladkých brambor, hovězího masa a pestré zeleniny, ochucené sójovkou a sezamovým olejem. Každá surovina se opéká zvlášť, pak se všechno spojí. Podává se teplé i studené.",
+  "ingredients": [
+    {
+      "ingredient": "nudle-sladke-batatove",
+      "amount": 200,
+      "unit": "g",
+      "group": "Nudle"
+    },
+    {
+      "ingredient": "hovezi-rostena",
+      "amount": 150,
+      "unit": "g",
+      "note": "na tenké proužky",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "spenat-baby",
+      "amount": 125,
+      "unit": "g",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "na tenké tyčinky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na tenké proužky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na proužky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 100,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Nudle",
+      "text": "Nudle uvař podle návodu, obvykle 6 až 7 minut. Scedi, opláchni studenou vodou a nůžkami je několikrát přestřihni, aby se daly jíst vidličkou."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Sójovku, cukr, sezamový olej a česnek smíchej v malé misce, cukr se musí rozpustit."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Špenát spař 30 sekund vroucí vodou, ochlaď, vymačkej a podlej lžičkou omáčky. Pak na pánvi s olejem opékej odděleně cibuli, mrkev, papriku a žampiony, každou po 2 až 3 minuty, a dej stranou."
+    },
+    {
+      "section": "Maso",
+      "text": "Hovězí zamíchej s lžící sójovky a česnekem a opékej na vysokém ohni 2 až 3 minuty, až není syrové."
+    },
+    {
+      "section": "Nudle",
+      "text": "Do velké pánve dej nudle, přilij omáčku a 2 minuty míchej na středním ohni, aby nudle zhnědly a nasákly."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Přidej maso, zeleninu a špenát, promíchej a posyp sezamem. Podávej teplé nebo vlažné."
+    }
+  ],
+  "tips": [
+    "Každou zeleninu osmahni zvlášť, zachová si barvu a texturu.",
+    "Nudle ze sladkých brambor jsou žvýkací a kupují se v obchodě s asijskými potravinami. Nepřevař je, jinak se rozpadnou.",
+    "Vydrží v lednici 2 dny, ohřívej na pánvi s lžící vody."
+  ],
+  "substitutions": [
+    "Maso vynech a přidej smažené tofu, bude vegetariánské.",
+    "Nudle ze sladkých brambor nahraď tenkými rýžovými nudlemi, budou méně žvýkací.",
+    "Špenát nahraď pak-choi nebo čínským zelím."
+  ],
+  "faq": [
+    {
+      "q": "Z čeho se dělají nudle na japchae?",
+      "a": "Ze škrobu ze sladkých brambor. Jsou průsvitné a po uvaření pružné, žvýkací a lehce lepivé."
+    },
+    {
+      "q": "Jí se japchae teplé, nebo studené?",
+      "a": "Obojí. V Koreji se podává jako příloha i hlavní jídlo, často při pokojové teplotě."
+    },
+    {
+      "q": "Jak zabránit, aby se nudle slepily?",
+      "a": "Po uvaření je propláchni studenou vodou a promíchej s lžičkou sezamového oleje. Pak se nelepí."
+    }
+  ],
+  "image": "dish-japchae-pho",
+  "vegetarian": false
+}

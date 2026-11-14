@@ -1,0 +1,119 @@
+{
+  "title": "Tvarohová pomazánka se zeleninou",
+  "keywords": [
+    "tvarohová pomazánka",
+    "tvarohová pomazánka se zeleninou",
+    "pomazánka z tvarohu",
+    "tvarohová pomazánka s pažitkou"
+  ],
+  "image": "dish-tvarohova-pomazanka-krajici",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "uležení v lednici",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Tvarohová pomazánka se zeleninou je lehká alternativa k pomazánkám s majonézou. Jemný tvaroh se smíchá s paprikou, jarní cibulkou a pažitkou a dochutí se solí a mletou paprikou. Z 250 g tvarohu vyjde pomazánka na 4 porce.",
+  "ingredients": [
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "měkký, jemný",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na drobné kostičky",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "najemno",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.25,
+      "unit": "ks",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Pomazánka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Pomazánka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Tvaroh",
+      "text": "Tvaroh dej do mísy a rozmačkej vidličkou do hladka. Chceš-li ho řidší, přidej lžíci mléka."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Papriku nakrájej na drobné kostičky, jarní cibulku najemno, pažitku nasekej. Česnek prolisuj."
+    },
+    {
+      "section": "Smíchání",
+      "text": "Zeleninu přimíchej do tvarohu, přidej mletou papriku, sůl a pepř. Promíchej a ochutnej."
+    },
+    {
+      "section": "Uležení",
+      "text": "Přikryj a nech 30 minut v lednici, aby zelenina pustila šťávu a chutě se spojily."
+    },
+    {
+      "section": "Podávání",
+      "text": "Mazej na chléb, pečivo nebo celozrnnou bagetu. Hodí se i jako dip k nakrájené zelenině."
+    }
+  ],
+  "tips": [
+    "Tvaroh před přípravou nech vychladit, pomazánka se pak lépe mazá.",
+    "Pokud pomazánka zvodní, přidej lžičku strouhanky nebo hrst ovesných vloček.",
+    "Zeleninu nakrájej opravdu drobně, aby se pomazánka dobře mazala."
+  ],
+  "substitutions": [
+    "Papriku nahraď okurkou, ředkvičkami nebo strouhanou mrkví.",
+    "Tvaroh lze nahradit zakysanou smetanou nebo cottage sýrem.",
+    "Pro pikantní verzi přidej chilli vločky nebo kapku ostré omáčky."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží tvarohová pomazánka?",
+      "a": "V lednici 2 až 3 dny v uzavřené nádobě. S čerstvou zeleninou vydrží méně."
+    },
+    {
+      "q": "Proč tvarohová pomazánka zvodní?",
+      "a": "Zelenina pustí vodu a tvaroh ji nevstřebá. Zeleninu před přidáním osuš a použij hustší tvaroh."
+    },
+    {
+      "q": "Jaký tvaroh použít na pomazánku?",
+      "a": "Měkký polotučný nebo plnotučný tvaroh. Hrudkovitý zrnitý tvaroh nejdřív rozmačkej nebo prolisuj."
+    }
+  ]
+}

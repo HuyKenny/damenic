@@ -1,0 +1,24 @@
+{
+  "name": "Medovník, dílek",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Krémové a ovocné",
+  "description": "Sedm medových plátů prokládaných smetanovým krémem, posypaných ořechy. Měkký po uležení.",
+  "about": [
+    "Medovník je dort, který potřebuje čas. Sedm tenkých plátů se prokládá krémem ze zakysané smetany a šlehačky a v lednici pak přes noc změkne.",
+    "Dostaneš dílek z dortu o průměru 24 cm. Medovník stojí na čekání a to ti dáváme zdarma."
+  ],
+  "price": 13900,
+  "image": "dish-medovnik-dilek",
+  "recipe": "medovnik",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "order": 55
+}

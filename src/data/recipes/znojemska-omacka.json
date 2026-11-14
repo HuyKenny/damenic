@@ -1,0 +1,144 @@
+{
+  "title": "Znojemská omáčka s vejci a bramborami",
+  "keywords": [
+    "znojemská omáčka",
+    "znojemská omáčka recept",
+    "znojemská omáčka s vejci",
+    "omáčka s nakládanými okurkami",
+    "znojemská omáčka s bramborami"
+  ],
+  "image": "dish-znojemska-omacka",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Znojemská omáčka je bezmasá omáčka s nakládanými okurkami, smetanou a trochou cukru, podávaná s vejci natvrdo a vařenými bramborami. Okurky se přidávají na konec, aby zůstaly křupavé a omáčka měla svěží kyselost. Hotovo za 50 minut, pro čtyři.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "oloupané, na čtvrtky",
+      "group": "Brambory"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Vejce"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 400,
+      "unit": "ml",
+      "note": "horký",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 200,
+      "unit": "g",
+      "note": "nastrouhané nahrubo",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná, na posypání",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory dej do osolené vody, přiveď k varu a vař 15 až 20 minut do měkka. Vejce vlož do vroucí vody na 10 minut, pak je ochlaď studenou vodou a oloupej.",
+      "section": "Brambory a vejce"
+    },
+    {
+      "text": "V kastrůlku rozpusť máslo, přidej cibuli a smaž 4 minuty do změknutí. Posyp moukou a míchej 1 minutu, aby se zásmažka spojila a nezhnědla.",
+      "section": "Omáčka"
+    },
+    {
+      "text": "Za stálého míchání postupně přilévej horký vývar. Přiveď k varu a vař 8 minut, až omáčka zhoustne. Přidej smetanu, hořčici a cukr, vař ještě 2 minuty.",
+      "section": "Omáčka"
+    },
+    {
+      "text": "Hrnec stáhni z ohně, vmíchej nastrouhané okurky a pepř. Okurky nevař, ztratily by křupavost. Dochuť lžicí nálevu nebo solí podle chuti.",
+      "section": "Omáčka"
+    },
+    {
+      "text": "Vejce rozpůl, brambory slij. Podávej na talíři brambory s vejci, přelité omáčkou a posypané petrželkou.",
+      "section": "Podávání"
+    }
+  ],
+  "tips": [
+    "Okurky do omáčky strouhej nahrubo. Jsou-li nakrájené příliš najemno, omáčka bude slaná a vodová.",
+    "Pro sladší omáčku přidej víc cukru, pro kyselejší lžíci nálevu z okurek.",
+    "Omáčka se nehodí k zamrazení, okurky změknou. V lednici vydrží 2 dny."
+  ],
+  "substitutions": [
+    "Smetanu nahradíš zakysanou smetanou přidanou mimo oheň, omáčka bude kyselejší.",
+    "Brambory můžeš nahradit rýží nebo houskovým knedlíkem."
+  ],
+  "faq": [
+    {
+      "q": "Co je znojemská omáčka?",
+      "a": "Je to omáčka na zásmažce s nakládanými okurkami, smetanou a trochou cukru. Tradičně se podává s vejci natvrdo a bramborami, bez masa."
+    },
+    {
+      "q": "Kdy přidat okurky do znojemské omáčky?",
+      "a": "Až na konci, po stažení z ohně. Vařením by změkly a omáčka by ztratila svěžest."
+    },
+    {
+      "q": "Lze znojemskou omáčku podávat s masem?",
+      "a": "Ano, k vařenému hovězímu nebo plátkům pečeného masa. Klasická verze s vejci je ale bezmasá."
+    }
+  ]
+}

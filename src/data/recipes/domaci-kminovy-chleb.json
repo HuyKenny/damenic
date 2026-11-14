@@ -1,0 +1,124 @@
+{
+  "title": "Domácí kmínový chléb",
+  "keywords": [
+    "domácí kmínový chleb",
+    "domácí chleb",
+    "kmínový chleb",
+    "chleba z pečicí trouby"
+  ],
+  "intro": "Domácí kmínový chléb ze žitné a pšeničné mouky, upečený z droždí v klasické troubě. Bochník o váze asi 900 g má křupavou kůrku a vláčnou střídu s kmínem. Důležité je dvojí kynutí a pára v troubě na začátku pečení.",
+  "image": "dish-kminovy-chleb-zitra-upecem",
+  "category": "pekarna",
+  "servings": 10,
+  "activeMinutes": 30,
+  "cookMinutes": 50,
+  "waitMinutes": 115,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "meal": "pecivo",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-zitna",
+      "amount": 200,
+      "unit": "g",
+      "note": "chlebová"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 300,
+      "unit": "g",
+      "note": "pšeničná, + trochu na posypání"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 21,
+      "unit": "g",
+      "note": "půl kostky"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 340,
+      "unit": "ml",
+      "note": "vlažná, asi 35 °C"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 10,
+      "unit": "g",
+      "note": "asi 1,5 lžičky"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "+ trochu na posyp"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 200,
+      "unit": "ml",
+      "note": "na páru do trouby",
+      "group": "Pára"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Kvásek",
+      "text": "Droždí rozdrol do vlažné vody, přidej cukr a nech 10 minut, až se na hladině objeví pěna. Voda nesmí být teplejší než 38 °C, horká droždí zabije."
+    },
+    {
+      "section": "Těsto",
+      "text": "Obě mouky smíchej se solí a kmínem. Přilij droždí s vodou a míchej, až vznikne lepivé těsto. Hněť 10 minut rukama nebo 6 minut v robotu, dokud není hladké a nelepí na dno mísy."
+    },
+    {
+      "section": "Kynutí",
+      "text": "Těsto dej do vymaštěné mísy, přikryj utěrkou a nech 60 minut v teple kynout, dokud nezvětší objem na dvojnásobek."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Vykynuté těsto lehce prohněť a na pomoučeném válu zformuj do kulatého nebo podlouhlého bochníku. Dej ho záhybem dolů na plech s pečicím papírem, přikryj a nech 45 minut kynout."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 240 °C horní a spodní ohřev s plechem na dně. Chléb nařízni nožem do hloubky 1 cm, posyp kmínem a vlož do trouby. Na horký plech dole nalij 200 ml vody a rychle zavři. Pára vytvoří křupavou kůrku."
+    },
+    {
+      "section": "Pečení",
+      "text": "Po 10 minutách sniž teplotu na 200 °C a peč dalších 35 až 40 minut. Hotový chléb zní po poklepání na spodek dutě a uprostřed má asi 96 °C."
+    },
+    {
+      "section": "Chladnutí",
+      "text": "Chléb nech zcela vychladnout na mřížce, minimálně 1 hodinu. Teplý se krájí špatně a střída je ještě vlhká."
+    }
+  ],
+  "tips": [
+    "Nenech těsto kynout v průvanu, kynutí se prodlouží až o hodinu.",
+    "Chléb vydrží zabalený v utěrce 3 až 4 dny. Nakrájený se dá zmrazit na 2 měsíce.",
+    "Pro tmavší kůrku potři chléb před pečením vodou a posyp ovesnými vločkami."
+  ],
+  "substitutions": [
+    "Žitnou mouku nahraď stejným množstvím pšeničné celozrnné, chléb bude světlejší a méně kyselý.",
+    "Čerstvé droždí nahraď 7 g sušeného, rozmícháš ho přímo do mouky.",
+    "Kmín můžeš vynechat nebo nahradit lžící semínek (slunečnice, sezam)."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi chléb neuvykynul?",
+      "a": "Nejčastěji bylo droždí mrtvé nebo voda příliš horká. Voda má mít asi 35 °C a droždí musí po 10 minutách v kvásku vytvořit pěnu."
+    },
+    {
+      "q": "Jak poznat, že je chléb upečený?",
+      "a": "Po poklepání na spodek zní dutě, kůrka je zlatohnědá a ve středu bochníku je teplota asi 96 °C."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí chléb?",
+      "a": "Zabalený v bavlněné utěrce 3 až 4 dny. V plastu zvlhne, kůrka změkne. Zmrazit ho můžeš nakrájený na 2 měsíce."
+    }
+  ]
+}

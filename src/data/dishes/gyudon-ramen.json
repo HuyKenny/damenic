@@ -1,0 +1,20 @@
+{
+  "name": "Gyudon hovězí na rýži",
+  "restaurant": "ramen-nedojde",
+  "kind": "main",
+  "section": "Rýže a knedlíčky",
+  "description": "Tence krájené hovězí s cibulí v sladké sójové omáčce, na rýži se zázvorem.",
+  "about": [
+    "Gyudon je japonská rychlovka, ke které nepotřebuješ víc než pánev, hrnec a nůž. Tenké hovězí, cibule a omáčka, která se vsákne do rýže.",
+    "Ramen nedojde, ale gyudon se uvaří dřív, než bys stihl otevřít aplikaci. Nezapomeň, že je celé nanečisto."
+  ],
+  "price": 19900,
+  "image": "dish-gyudon-ramen",
+  "recipe": "gyudon",
+  "allergens": [
+    1,
+    4,
+    6
+  ],
+  "order": 210
+}

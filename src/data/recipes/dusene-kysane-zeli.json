@@ -1,0 +1,122 @@
+{
+  "title": "Dušené kysané zelí",
+  "keywords": [
+    "dušené kysané zelí",
+    "dušené zelí",
+    "dušené zelí recept",
+    "kysané zelí k vepřovému",
+    "kysané zelí s cibulí"
+  ],
+  "image": "dish-dusene-kysane-zeli",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Dušené kysané zelí s cibulí, kmínem a špetkou cukru je klasická příloha k pečenému masu a knedlíkům. Zelí se dusí pomalu, aby změklo a zjemnělo, a zahustí se strouhaným syrovým bramborem. Nesmí být ani moc kyselé, ani moc sladké. Pro čtyři porce.",
+  "ingredients": [
+    {
+      "ingredient": "kysane-zeli",
+      "amount": 600,
+      "unit": "g",
+      "note": "odkapané",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "celý",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "note": "horká",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 100,
+      "unit": "g",
+      "note": "syrový, jemně nastrouhaný",
+      "group": "Zahuštění"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zelí podle chuti propláchni studenou vodou, pokud je moc kyselé, a dobře ho vymačkej. V hrnci rozehřej sádlo a na středním ohni opékej cibuli 4 minuty do zesklovatění.",
+      "section": "Zelí"
+    },
+    {
+      "text": "Přidej zelí, kmín, cukr, bobkový list a nové koření. Promíchej a podlij horkou vodou. Přikryj a duš na mírném ohni 35 minut, občas promíchej. Pokud se voda vyvaří, dolij 50 ml.",
+      "section": "Zelí"
+    },
+    {
+      "text": "Do zelí přidej strouhaný syrový brambor a vař dalších 10 minut, až zhoustne. Brambor se rozvaří a zahustí šťávu, aniž by byla cítit mouka.",
+      "section": "Zahuštění"
+    },
+    {
+      "text": "Bobkový list a nové koření vyndej. Dochuť cukrem nebo solí. Zelí má být měkké, jemně sladkokyselé a vlhké, ne mazlavé.",
+      "section": "Zahuštění"
+    }
+  ],
+  "tips": [
+    "Kmín dává zelí jednotnou chuť a pomáhá trávení. Pro jemnější zelí dej kmín mletý.",
+    "Dušené zelí je ještě lepší druhý den. Ohřívej ho s lžící vody.",
+    "Zelí nesol hned, kysané je slané samo. Sůl přidej až po ochutnání na konci."
+  ],
+  "substitutions": [
+    "Sádlo nahradíš olejem nebo máslem, zelí bude lehčí a bude vhodné i pro vegetariány.",
+    "Cukr můžeš nahradit medem nebo strouhaným jablkem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho dusit kysané zelí?",
+      "a": "Asi 40 až 45 minut na mírném ohni pod pokličkou. Při delším dušení zelí zjemní, při kratším zůstane křupavé."
+    },
+    {
+      "q": "Čím zahustit dušené zelí?",
+      "a": "Strouhaným syrovým bramborem, který se rozvaří, případně zásmažkou nebo lžící mouky rozmíchanou ve studené vodě."
+    },
+    {
+      "q": "Proč je zelí kyselé?",
+      "a": "Kysané zelí je kyselé z podstaty. Propláchni ho studenou vodou, přidej cukr nebo strouhané jablko a duš déle."
+    }
+  ]
+}

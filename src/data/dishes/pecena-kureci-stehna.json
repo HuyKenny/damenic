@@ -1,0 +1,56 @@
+{
+  "name": "Pečená kuřecí stehna s bramborami",
+  "kind": "main",
+  "section": "Kuře",
+  "price": 18900,
+  "recipe": "pecena-kureci-stehna",
+  "vegetarian": false,
+  "order": 100,
+  "description": "Čtyři stehna s paprikou a česnekem na plechu s bramborami. Kůže křupe, kurýr nikde.",
+  "about": [
+    "Stehna s kostí odpustí přepečení a brambory na plechu se přirozeně napijí výpeku. Marináda je jednoduchá: olej, česnek, sladká a uzená paprika, majoránka.",
+    "Hotová jsou při 80 °C u kosti, po 50 minutách. Bistro Uletělo ti je nepošle, ale recept ti napoví, jak je upéct sám."
+  ],
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standardni",
+          "name": "Standardní",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (5 stehen)",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "brambory",
+          "name": "Pečené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "salat",
+          "name": "Zelný salát",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "bistro-uletelo",
+  "image": "dish-pecena-kureci-stehna",
+  "allergens": [],
+  "spicy": 1
+}

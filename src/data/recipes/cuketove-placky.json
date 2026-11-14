@@ -1,0 +1,109 @@
+{
+  "title": "Cuketové placky",
+  "keywords": [
+    "cuketové placky",
+    "cuketové placky recept",
+    "placky z cukety",
+    "cuketové placky s fetou"
+  ],
+  "image": "dish-cuketove-placky-nula",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 15,
+  "waitMinutes": 10,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Cuketové placky jsou tenké smažené placky z nastrouhané cukety, vajec, mouky a fety. Aby nebyly rozbředlé, cuketu před smícháním osolíš a necháš odpočinout, pak z ní vymačkáš vodu.",
+  "ingredients": [
+    {
+      "ingredient": "cuketa",
+      "amount": 600,
+      "unit": "g",
+      "note": "nastrouhaná nahrubo"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "feta",
+      "amount": 100,
+      "unit": "g",
+      "note": "rozdrobená"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaný"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 80,
+      "unit": "ml",
+      "note": "na smažení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nastrouhanou cuketu promíchej se solí a nech 10 minut v sítu odpočinout. Pak ji vymačkej v utěrce, zbude asi 400 g."
+    },
+    {
+      "text": "Smíchej cuketu s vejci, moukou, fetou, česnekem, koprem a pepřem. Hmota má být hustá a držet na lžíci."
+    },
+    {
+      "text": "Na pánvi rozehřej olej na středním plameni. Lžící klaď hmotu a rozplácni na placky s průměrem asi 8 cm."
+    },
+    {
+      "text": "Smaž 3 minuty z každé strany do zlatavé barvy. Odkapej na papírové utěrce a podávej teplé."
+    }
+  ],
+  "tips": [
+    "Feta je slaná, proto cuketu solí jen mírně. Kdo chce více, může po smažení posypat solí.",
+    "Placky nesmaž na příliš vysokém plameni, uvnitř zůstanou syrové. Středně rozpálená pánev stačí.",
+    "Do pečené verze: 200 °C, 18 minut, v půlce obrať."
+  ],
+  "substitutions": [
+    "Fetu nahradíš tvrdým sýrem, třeba eidamem nebo parmazánem.",
+    "Mouku lze nahradit drcenými ovesnými vločkami, placky budou hutnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat cuketové placky, aby se nerozpadaly?",
+      "a": "Vymačkej z cukety vodu, přidej dostatek mouky a nech hmotu 10 minut odležet. Otáčej až když je spodní strana zlatavá."
+    },
+    {
+      "q": "Dají se cuketové placky péct v troubě?",
+      "a": "Dají, na plechu s pečicím papírem 18 minut při 200 °C, v půlce otoč."
+    },
+    {
+      "q": "K čemu cuketové placky podávat?",
+      "a": "S jogurtovým dipem s česnekem, tzatziki nebo se zakysanou smetanou a rajčatovým salátem."
+    }
+  ],
+  "waitLabel": "odpočinutí těsta"
+}

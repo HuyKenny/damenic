@@ -1,0 +1,23 @@
+{
+  "name": "Vejce ve skleničce s máslem",
+  "restaurant": "odlozeny-budik",
+  "kind": "main",
+  "section": "Vejce",
+  "description": "Dvě vejce na měkko rozklepnutá do skleničky, máslo, sůl a opečený toust. Snídaně, při které se nespěchá.",
+  "about": [
+    "Vejce ve skleničce se jedí lžičkou a zdánlivě nemají žádný postup. Zdání klame: o všem rozhoduje šest minut ve vroucí vodě, ne o minutu víc.",
+    "Servíruje se s toustem, který se namáčí do žloutku. Snídárna nic nedoručí, ale časovač máš doma. Nastav šest minut, ne sedm."
+  ],
+  "price": 9900,
+  "image": "dish-vejce-ve-sklenicce-budik",
+  "recipe": "vejce-ve-sklenicce",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 120
+}

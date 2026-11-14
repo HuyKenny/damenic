@@ -1,0 +1,112 @@
+{
+  "title": "Rýžový nákyp",
+  "keywords": [
+    "rýžový nákyp",
+    "rýžový nákyp recept",
+    "rýžový nákyp s meruňkami",
+    "sladký rýžový nákyp"
+  ],
+  "image": "dish-ryzovy-nakyp",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 40,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Rýžový nákyp je sladké jídlo z mléčné rýže, vajec a meruňkového džemu, upečené do zlatavé kůrky. Základ tvoří kulatozrnná rýže, která v mléce změkne do krémové kaše. Žloutky a bílky se oddělují, bílky se ušlehají na sníh a dodávají nákypu lehkost.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-kulatozrnna",
+      "amount": 200,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 1000,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "měkké, a trochu na formu",
+      "group": "Směs"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "rozdělená na žloutky a bílky",
+      "group": "Směs"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Směs"
+    },
+    {
+      "ingredient": "dzem-merunkovy",
+      "amount": 150,
+      "unit": "g",
+      "note": "na vrstvu uvnitř",
+      "group": "Vrstva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mléko s vanilkovým cukrem a špetkou soli přiveď k varu. Vsyp rýži a vař na mírném plameni 25 až 30 minut za občasného míchání, dokud rýže nenasákne mléko. Nech 10 minut vychladnout."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 160 °C). Zapékací mísu 20 × 25 cm vymaž máslem."
+    },
+    {
+      "text": "Máslo našlehej s cukrem a žloutky do pěny. Vmíchej do vlažné rýže."
+    },
+    {
+      "text": "Bílky ušlehej s kapkou soli na pevný sníh a opatrně vmíchej do rýže ve dvou dávkách."
+    },
+    {
+      "text": "Polovinu směsi dej do mísy, rozetři džem a zakryj zbytkem. Peč 35 až 40 minut do zlatavé barvy. Nech 10 minut odpočinout."
+    }
+  ],
+  "tips": [
+    "Rýže musí být vlažná, ne horká. Horká by vejce srazila.",
+    "Pro křupavější vrch posyp nákyp těsně před pečením trochou cukru nebo strouhanky.",
+    "V lednici vydrží 3 dny, chutná teplý i studený."
+  ],
+  "substitutions": [
+    "Meruňkový džem nahradíš jahodovým nebo švestkovými povidly.",
+    "Kulatozrnnou rýži lze nahradit rýží dlouhozrnnou, nákyp bude méně krémový."
+  ],
+  "faq": [
+    {
+      "q": "Jaká rýže se hodí na rýžový nákyp?",
+      "a": "Kulatozrnná, protože při vaření uvolňuje škrob a vznikne krémová kaše."
+    },
+    {
+      "q": "Dá se nákyp udělat bez vajec?",
+      "a": "Dá, bude hutnější. Přidej o 50 ml mléka víc a peč 5 minut déle."
+    },
+    {
+      "q": "Jak poznám, že je nákyp hotový?",
+      "a": "Povrch je zlatavý a po lehkém zatlačení pruží. Špejle vpíchnutá do středu vyjde čistá."
+    }
+  ]
+}

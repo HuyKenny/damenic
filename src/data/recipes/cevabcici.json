@@ -1,0 +1,140 @@
+{
+  "title": "Čevabčiči z mletého masa",
+  "keywords": [
+    "čevabčiči",
+    "čevabčiči recept",
+    "čevapčiči",
+    "balkánské čevapčiči",
+    "čevabčiči z mletého masa"
+  ],
+  "image": "dish-cevabcici",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 12,
+  "waitMinutes": 120,
+  "waitLabel": "odpočinek mletého masa v lednici",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Čevabčiči jsou balkánské válečky z mletého hovězího a vepřového masa, které se pečou na rozpálené pánvi, grilu nebo v troubě. Dobře se vypracovaná směs s trochou perlivé vody drží tvar a po dvou hodinách v lednici jsou nejšťavnatější. Vyjde 16 kousků pro čtyři osoby.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 400,
+      "unit": "g",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 400,
+      "unit": "g",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "velmi jemně nastrouhaná",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "perliva-voda",
+      "amount": 60,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na vytření pánve",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "pita",
+      "amount": 4,
+      "unit": "ks",
+      "note": "na ohřátí",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nakrájená na kroužky",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Obě mletá masa dej do mísy, přidej sůl, pepř, papriku, česnek a nastrouhanou cibuli. Po částech zalévej perlivou vodou a hněť 5 minut, až bude směs lepivá a hladká, to je klíč k soudržnosti.",
+      "section": "Směs"
+    },
+    {
+      "text": "Směs zakryj fólií a nech 2 hodiny, ideálně přes noc, v lednici. Maso se prosolí a stáhne, takže se při smažení nerozpadá.",
+      "section": "Směs"
+    },
+    {
+      "text": "Z vychlazené směsi tvaruj mokrýma rukama válečky dlouhé 7 cm a silné 2 cm, vyjde asi 16 kusů. Dej je zpátky do lednice, pokud pánev ještě není rozpálená.",
+      "section": "Směs"
+    },
+    {
+      "text": "Pánev nebo gril rozpal na střední až vysokou teplotu, potři olejem. Čevabčiči peč 10 až 12 minut a každé 3 minuty otoč. Mleté maso musí být propečené: 72 °C uvnitř, šťáva čirá.",
+      "section": "Smažení"
+    },
+    {
+      "text": "Pitu krátce ohřej na suché pánvi. Čevabčiči podávej s cibulí, případně s ajvarem a jogurtem. Studené čevabčiči se hodí do wrapu.",
+      "section": "Podávání"
+    }
+  ],
+  "tips": [
+    "Perlivá voda dělá směs vzdušnější. Má být ledově studená, aby se tuk v mase při hnětení nerozpustil.",
+    "Čevabčiči můžeš péct v troubě na roštu při 220 °C zhruba 15 minut, v půlce otoč.",
+    "Syrové válečky se dají zamrazit na 2 měsíce, rozmraz je přes noc v lednici."
+  ],
+  "substitutions": [
+    "Hovězí a vepřové lze kombinovat 1:1, nebo použij jen hovězí, bude chuťově výraznější, ale sušší.",
+    "Perlivou vodu nahradíš studenou minerálkou nebo vodou, bude hutnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct čevabčiči?",
+      "a": "Na rozpálené pánvi nebo grilu 10 až 12 minut, obracej každé 3 minuty. Uvnitř musí mít aspoň 72 °C a šťáva musí být čirá."
+    },
+    {
+      "q": "Proč se čevabčiči rozpadají?",
+      "a": "Směs se málo prohnětla nebo nebyla vychlazená. Hněť ji aspoň 5 minut a nech ji aspoň 2 hodiny v lednici."
+    },
+    {
+      "q": "Z jakého masa se dělají čevabčiči?",
+      "a": "Klasicky ze směsi hovězího a vepřového mletého masa v poměru 1:1, případně s trochou skopového. Důležitý je tuk, nejlépe asi 20 %."
+    }
+  ]
+}

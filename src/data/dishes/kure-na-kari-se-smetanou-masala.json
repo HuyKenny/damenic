@@ -1,0 +1,20 @@
+{
+  "name": "Kuře na kari se smetanou",
+  "restaurant": "masala-mozna",
+  "kind": "main",
+  "section": "Kari a rýže",
+  "description": "Kuřecí prsa v kari omáčce se smetanou, jablkem a zázvorem, basmati rýže.",
+  "about": [
+    "Kuře na kari je jídlo, které přišlo z Indie, zastavilo se v Anglii a usadilo se v českých jídelnách. Smetana a jablko jsou přírůstky, které mu přidaly vlídnost.",
+    "Masala možná, večeře určitě, pokud si ji uvaříš. Pánev, kuře a kari koření ti stačí na to, aby tvá kuchyně voněla jako indická trafika."
+  ],
+  "price": 18900,
+  "image": "dish-kure-na-kari-se-smetanou-masala",
+  "recipe": "kure-na-kari-se-smetanou",
+  "spicy": 1,
+  "allergens": [
+    7,
+    9
+  ],
+  "order": 210
+}

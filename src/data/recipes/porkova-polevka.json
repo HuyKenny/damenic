@@ -1,0 +1,124 @@
+{
+  "title": "Pórková polévka",
+  "keywords": [
+    "pórková polévka",
+    "krémová pórková polévka",
+    "polévka z pórku",
+    "pórková polévka s bramborem"
+  ],
+  "image": "dish-porkova-polevka-dutina",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Pórková polévka s bramborem je hladká a jemně sladká. Pórek se nejdřív dusí na másle, aby změkl a nezhořkl, potom se vaří s brambory ve vývaru a rozmixuje. Z 400 g pórku a 300 g brambor vyjdou 4 porce.",
+  "ingredients": [
+    {
+      "ingredient": "por",
+      "amount": 400,
+      "unit": "g",
+      "note": "bílá a světle zelená část",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kostky",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 800,
+      "unit": "ml",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Polévka"
+    },
+    {
+      "ingredient": "toustovy-chleb",
+      "amount": 60,
+      "unit": "g",
+      "note": "na krutony",
+      "group": "Na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Pórek",
+      "text": "Pórek podélně rozřízni a pořádně opláchni mezi vrstvami, protože v nich bývá písek. Nakrájej na půlkolečka široká 1 cm."
+    },
+    {
+      "section": "Dušení",
+      "text": "V hrnci rozpusť máslo a na mírném ohni dus pórek 8 minut, dokud nezměkne a nezesklovatí. Nesmí zhnědnout, polévka by měla hořkou příchuť."
+    },
+    {
+      "section": "Vaření",
+      "text": "Přidej brambory a vývar, přiveď k varu a vař pod pokličkou 15 minut, dokud brambory nezměknou."
+    },
+    {
+      "section": "Mixování",
+      "text": "Rozmixuj ponorným mixérem do hladka. Přilij smetanu, dochuť solí, pepřem a muškátovým oříškem a krátce prohřej."
+    },
+    {
+      "section": "Krutony",
+      "text": "Toust nakrájej na kostičky a opeč na suché pánvi do zlatova. Rozděl polévku do misek a posyp krutony."
+    }
+  ],
+  "tips": [
+    "Po rozmixování nech polévku jen prohřát, ne vařit, aby smetana nesrazila.",
+    "Zelené konce pórku mají silnější chuť a jsou hrubší, použij je do vývaru, ne do polévky.",
+    "Pro bohatší chuť přidej na konci kousek taveného sýra nebo lžíci parmazánu."
+  ],
+  "substitutions": [
+    "Smetanu nahraď ovesnou smetanou nebo kokosovým mlékem.",
+    "Vývar zeleninový jde nahradit kuřecím, chuť bude plnější.",
+    "Pro sytost přidej 50 g vařené rýže nebo kousky uzené šunky."
+  ],
+  "faq": [
+    {
+      "q": "Jak správně umýt pórek?",
+      "a": "Podélně ho rozřízni a pod tekoucí vodou proplachuj mezi vrstvami. Písek se drží hlavně u zelených konců."
+    },
+    {
+      "q": "Proč je pórková polévka hořká?",
+      "a": "Hořkne, když se pórek při restování připálí. Dus ho na mírném ohni, bez zhnědnutí, a přidej lžíci vody, kdyby se přichytával."
+    },
+    {
+      "q": "Dá se pórková polévka zamrazit?",
+      "a": "Ano, vydrží 2 měsíce v mrazáku, nejlépe bez smetany. Po rozmražení ji prohřej a smetanu přilij až poté."
+    }
+  ]
+}

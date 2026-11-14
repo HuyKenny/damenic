@@ -1,0 +1,24 @@
+{
+  "name": "Žemlovka s tvarohem a jablky",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Teplé dezerty",
+  "description": "Zapečené rohlíky s jablky a tvarohovou směsí, zlatá nahoře a měkká uvnitř. Teplý hrnec domova.",
+  "about": [
+    "Žemlovka je dezert pro ty, kdo nechtějí vyhodit včerejší rohlíky. Nasáknou mléko, spojí se s jablky, skořicí a tvarohovou směsí a v troubě se z nich stane zlatý nákyp.",
+    "Dostaneš porci z formy na šest kousků. Z rohlíků a tvarohu uvaříš doma večeři, my ti k tomu přidáme jen recept a lžíci."
+  ],
+  "price": 11900,
+  "image": "dish-zemlovka-s-tvarohem-sladke",
+  "recipe": "zemlovka-s-tvarohem",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    12
+  ],
+  "order": 15
+}

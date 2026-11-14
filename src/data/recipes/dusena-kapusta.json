@@ -1,0 +1,105 @@
+{
+  "title": "Dušená kapusta",
+  "keywords": [
+    "dušená kapusta",
+    "dušená kapusta recept",
+    "kapusta na smetaně",
+    "dušená kapusta s bramborem"
+  ],
+  "image": "dish-dusena-kapusta",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Dušená kapusta je jednoduchá domácí příloha z krájené kapusty, cibule a jíšky. Hotová je za 40 minut a hodí se k bramborům, vejcím i pečenému masu. Kmín ji zlepšuje a zároveň pomáhá trávení.",
+  "ingredients": [
+    {
+      "ingredient": "kapusta",
+      "amount": 800,
+      "unit": "g",
+      "note": "1 menší hlávka, na nudličky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozpusť máslo a na středním plameni 3 minuty osmahni cibuli do sklovata. Přidej kmín."
+    },
+    {
+      "text": "Přidej nakrájenou kapustu, osol a promíchej. Zalij vodou, přikryj a duš na mírném plameni 15 až 20 minut, občas promíchej."
+    },
+    {
+      "text": "Mouku rozmíchej s mlékem na hladkou kaši a vlij do kapusty. Míchej a vař 5 minut, dokud se omáčka nezahustí."
+    },
+    {
+      "text": "Dochuť solí a pepřem. Kapusta má být měkká, ale ne rozvařená."
+    }
+  ],
+  "tips": [
+    "Kapustu nakrájej na tenké proužky. Tenké se uvaří rychleji a jsou jemnější.",
+    "Pokud chceš plnější chuť, osmahni na začátku s cibulí 50 g uzené slaniny.",
+    "Vydrží 3 dny v lednici, chutná i druhý den."
+  ],
+  "substitutions": [
+    "Mléko můžeš nahradit smetanou na vaření, kapusta bude krémovější.",
+    "Veganská verze: máslo nahraď olejem a mléko ovesným nápojem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se dusí kapusta?",
+      "a": "15 až 20 minut na mírném plameni. Delší vaření dělá z kapusty kaši."
+    },
+    {
+      "q": "Je kapusta to samé co zelí?",
+      "a": "Ne. Kapusta má zvrásněné listy a jemnější chuť, zelí je hladké a pevnější. V receptech se zaměňují jen občas."
+    },
+    {
+      "q": "Čím kapustu zahustit?",
+      "a": "Jíškou z mouky a másla nebo lžící mouky rozmíchané v mléce, jak je v receptu. Ve vydatné variantě stačí rozmačkat kousek vařeného bramboru."
+    }
+  ]
+}

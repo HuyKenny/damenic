@@ -1,0 +1,89 @@
+{
+  "name": "Dušená hovězí roštěná",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "price": 28900,
+  "recipe": "dusena-rostena",
+  "vegetarian": false,
+  "order": 150,
+  "description": "Hovězí roštěná dušená na cibuli a kořenové zelenině do měkka. Omáčka hladká, talíř prázdný.",
+  "about": [
+    "Roštěná je libové maso, které si žádá pomalé dušení. Opeče se z obou stran, pak se hodinu a půl nechá doměkka v cibuli, mrkvi, celeru a vývaru. Omáčka se na závěr rozmixuje do hladka.",
+    "Nikdy nesmí vřít, jen probublávat. To je celý trik. Šťávu máme, maso máme v receptu a talíř prázdný. Prostě klasika U Prázdného talíře."
+  ],
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standardni",
+          "name": "Standardní",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (o polovinu více)",
+          "priceDelta": 6000
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "houskovy",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "bramborovy",
+          "name": "Bramborový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "kase",
+          "name": "Bramborová kaše",
+          "priceDelta": 1000
+        }
+      ]
+    },
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "omacka",
+          "name": "Omáčka navíc",
+          "priceDelta": 1500
+        },
+        {
+          "id": "knedlik",
+          "name": "Dva knedlíky navíc",
+          "priceDelta": 2500
+        }
+      ],
+      "max": 2
+    }
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-dusena-rostena",
+  "allergens": [
+    1,
+    7,
+    9,
+    10
+  ]
+}

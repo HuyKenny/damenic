@@ -1,0 +1,117 @@
+{
+  "title": "Banana bread",
+  "keywords": [
+    "banana bread",
+    "banánový chlebíček",
+    "banana bread recept",
+    "banánový chlebíček recept"
+  ],
+  "intro": "Banana bread recept na bochník ve formě 11 × 25 cm, ze tří dobře zralých banánů. Těsto se míchá jen vařečkou, bez mixéru, takže od mísy do trouby uběhne 15 minut. Čím tmavší slupky banánů, tím sladší a vlhčí chlebíček. Vyjde 10 krajíců.",
+  "image": "dish-banana-bread-upecem",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 15,
+  "cookMinutes": 55,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí ve formě",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "banan",
+      "amount": 3,
+      "unit": "ks",
+      "note": "velmi zralé, asi 300 g po oloupání"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "rozpuštěné a vlažné, + trochu na formu"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 120,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 220,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 60,
+      "unit": "g",
+      "note": "nahrubo nasekané"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 165 °C). Formu 11 × 25 cm vymaž máslem a vylož pečicím papírem tak, aby přečníval přes okraje."
+    },
+    {
+      "section": "Těsto",
+      "text": "Banány rozmačkej vidličkou na kašičku, malé kousky smí zůstat. Přidej rozpuštěné máslo, cukr a vejce a promíchej."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej s práškem do pečiva, skořicí a solí. Přisypej k banánům a míchej jen do spojení, aby těsto nebylo tuhé. Vmíchej ořechy."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto nalij do formy a peč 50 až 55 minut. Špejle zapíchnutá doprostřed má vyjít suchá. Pokud vršek tmavne, v půlce pečení ho přikryj alobalem."
+    },
+    {
+      "section": "Chladnutí",
+      "text": "Chlebíček nech 10 minut ve formě, pak ho zvedni za papír a nech zchladnout na mřížce. Teplý se snadno láme, prochladlý se krájí čistě."
+    }
+  ],
+  "tips": [
+    "Slupky banánů mají být hnědé nebo černě skvrnité. Zelenkavé banány chlebíček neosladí.",
+    "Fungují i banány z mrazáku: rozmraz je a slej vodu, která se z nich pustí.",
+    "Chlebíček vydrží zabalený 3 dny při pokojové teplotě, nakrájený se dá zmrazit na 2 měsíce."
+  ],
+  "substitutions": [
+    "Máslo nahraď 80 ml oleje, chlebíček bude vláčnější.",
+    "Vlašské ořechy nahraď čokoládovými kapkami nebo hořkou čokoládou nasekanou na kousky.",
+    "Polohrubou mouku nahraď z poloviny celozrnnou a přidej 2 lžíce mléka, chlebíček bude hutnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct banana bread?",
+      "a": "Při 175 °C horní a spodní ohřev (horkovzduch 165 °C) 50 až 55 minut ve formě 11 × 25 cm. Hotový je, když špejle vyjde suchá."
+    },
+    {
+      "q": "Proč je banana bread vlhký uvnitř?",
+      "a": "Těsto nebylo dost upečené, nebo banány byly příliš mokré. Prodluž pečení o 5 minut a vršek přikryj alobalem."
+    },
+    {
+      "q": "Dají se použít méně zralé banány?",
+      "a": "Dají, ale chlebíček bude méně sladký a vonný. Nech je zrát v papírovém sáčku, nebo je 15 minut praž v troubě při 150 °C, až černají."
+    }
+  ]
+}

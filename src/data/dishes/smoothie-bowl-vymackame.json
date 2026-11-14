@@ -1,0 +1,22 @@
+{
+  "name": "Smoothie bowl s banánem a malinami",
+  "restaurant": "dzusbar-vymackame-zitra",
+  "kind": "main",
+  "section": "Smoothie",
+  "description": "Husté ovocné smoothie v misce, granola, borůvky a chia. Na lžíci, ne na brčko.",
+  "about": [
+    "Smoothie bowl je smoothie, které se jí lžící. Tajemství je v zmraženém banánu, který pití zahustí a zbaví potřeby ledu, a v tom, že se tekutiny přidává opravdu málo.",
+    "Navrch se skládá granola, borůvky a chia, a to až na poslední chvíli, aby zůstaly křupavé. Džusbar nic nevymačká, ale miska zítra bude stejně hustá jako dnes."
+  ],
+  "price": 15900,
+  "image": "dish-smoothie-bowl-vymackame",
+  "recipe": "smoothie-bowl",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 100
+}

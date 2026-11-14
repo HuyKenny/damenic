@@ -1,0 +1,43 @@
+{
+  "name": "Tvarohová bábovka s citronem",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Hutná, vlhká bábovka s tvarohem, krupicí a citronovou kůrou, zasypaná moučkovým cukrem.",
+  "about": [
+    "Tvarohová bábovka je střída, která se nerozpadá a přitom nevysychá. Tvaroh drží vlhkost, krupice jí dodává tvar a citron to všechno osvěží. Nejlíp ji poznáš druhý den.",
+    "Dostaneš kousek bábovky z formy o průměru 24 cm. Cesta k tobě je smyšlená, ale recept na bábovku k tobě dojde."
+  ],
+  "price": 5900,
+  "image": "dish-tvarohova-babovka-nedortik",
+  "recipe": "tvarohova-babovka",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kus",
+          "name": "1 kousek",
+          "priceDelta": 0
+        },
+        {
+          "id": "tri",
+          "name": "3 kousky",
+          "priceDelta": 11000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 35
+}

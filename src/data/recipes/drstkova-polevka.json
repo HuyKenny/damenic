@@ -1,0 +1,143 @@
+{
+  "title": "Dršťková polévka",
+  "keywords": [
+    "dršťková polévka",
+    "dršťková polévka recept",
+    "dršťky polévka",
+    "hovězí dršťky",
+    "dršťková polévka podle babičky"
+  ],
+  "image": "dish-drstkova-polevka",
+  "category": "polevky",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 40,
+  "cookMinutes": 165,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "polevka",
+  "intro": "Dršťková polévka z hovězích dršťků s paprikou, majoránkou a hodně česneku je poctivá hospodská klasika. Dršťky potřebují čas: blanšírují se, vaří se dvě až tři hodiny do měkka a teprve pak se zahustí zásmažkou. Z množství vyjde šest hlubokých talířů.",
+  "ingredients": [
+    {
+      "ingredient": "drstky",
+      "amount": 500,
+      "unit": "g",
+      "note": "očištěné",
+      "group": "Dršťky"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2500,
+      "unit": "ml",
+      "note": "na vaření dršťků",
+      "group": "Dršťky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Dršťky"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Dršťky"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 5,
+      "unit": "ks",
+      "group": "Dršťky"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Zásmažka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Zásmažka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Zásmažka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 5,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "mletý nebo rozdrcený",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Dochucení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Dršťky dobře opláchni, vlož do hrnce s 1 l studené vody a přiveď k varu. Vař 10 minut, vodu slij a dršťky opláchni. Tím zmizí intenzivní zápach.",
+      "section": "Dršťky"
+    },
+    {
+      "text": "Dršťky nakrájej na proužky široké asi 1 cm a dlouhé 5 cm. Dej je do čistého hrnce, zalij 2,5 litru vody, přidej bobkový list, nové koření a sůl. Přiveď k varu, přikryj a vař na slabém ohni 2,5 hodiny.",
+      "section": "Dršťky"
+    },
+    {
+      "text": "Dršťky jsou hotové, když se dají snadno překousnout, ale nerozpadají se. Pokud jsou ještě tuhé, vař dál, i 3 hodiny. Vývar nesmí vyvařit, v případě potřeby dolij horké vody.",
+      "section": "Dršťky"
+    },
+    {
+      "text": "V malém hrnci rozehřej sádlo, vsyp mouku a míchej 3 až 4 minuty do světle hnědé zásmažky. Stáhni z ohně, přidej papriku a promíchej 20 sekund, jinak zhořkne.",
+      "section": "Zásmažka"
+    },
+    {
+      "text": "Zásmažku rozmíchej s 200 ml horkého vývaru do hladké kaše a vlij do polévky. Za míchání vař 15 minut. Přidej česnek, majoránku, kmín a pepř a vař ještě 5 minut. Dochuť solí.",
+      "section": "Dochucení"
+    }
+  ],
+  "tips": [
+    "Dršťky můžeš koupit už předvařené, pak stačí hodina vaření. Podle obalu uprav dobu.",
+    "Česnek a majoránku přidávej až na konec, ať neztratí aroma.",
+    "Polévka zahušťuje po vychladnutí. Při ohřevu ji zřeď vodou nebo vývarem."
+  ],
+  "substitutions": [
+    "Sádlo nahradíš olejem, chuť bude lehčí.",
+    "Zásmažku můžeš nahradit 2 syrovými brambory rozvařenými v polévce, zahustí ji přirozeně."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří dršťky?",
+      "a": "Čerstvé očištěné dršťky se vaří 2,5 až 3 hodiny, předvařené asi 1 hodinu. Hotové jsou, když se snadno kousají."
+    },
+    {
+      "q": "Jak odstranit zápach dršťků?",
+      "a": "Dršťky nejdřív 10 minut povař v čisté vodě, tu vylij a dršťky opláchni. Pak je vař v čerstvé vodě s kořením."
+    },
+    {
+      "q": "Čím zahustit dršťkovou polévku?",
+      "a": "Zásmažkou ze sádla a mouky, nebo syrovými brambory. Zásmažku rozmíchej s horkým vývarem, aby se nevytvořily hrudky."
+    }
+  ]
+}

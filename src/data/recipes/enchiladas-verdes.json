@@ -1,0 +1,155 @@
+{
+  "title": "Enchiladas verdes s kuřecím masem",
+  "category": "mexicka",
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 35,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "keywords": [
+    "enchiladas",
+    "enchiladas recept",
+    "enchiladas verdes",
+    "kuřecí enchiladas se sýrem"
+  ],
+  "intro": "Enchiladas verdes jsou tortilly plněné kuřecím masem, zalité zelenou salsou a zapečené se sýrem. Zelená salsa se tradičně dělá z tomatillo, tady používáme pečenou zelenou papriku s jalapeňos a limetkou, které se u nás sehnat dají.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 400,
+      "unit": "g",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 300,
+      "unit": "ml",
+      "note": "na vaření masa",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "paprika-zelena",
+      "amount": 2,
+      "unit": "ks",
+      "note": "rozpůlené",
+      "group": "Zelená salsa"
+    },
+    {
+      "ingredient": "jalapenos",
+      "amount": 40,
+      "unit": "g",
+      "note": "nakládané",
+      "group": "Zelená salsa"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na čtvrtky",
+      "group": "Zelená salsa"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Zelená salsa"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Zelená salsa"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Zelená salsa"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zelená salsa"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Zelená salsa"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 150,
+      "unit": "g",
+      "group": "Zelená salsa"
+    },
+    {
+      "ingredient": "tortilly",
+      "amount": 8,
+      "unit": "ks",
+      "note": "pšeničné, menší",
+      "group": "Sestavení"
+    },
+    {
+      "ingredient": "cheddar",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Sestavení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Zelená salsa",
+      "text": "Troubu předehřej na 220 °C. Papriky, cibuli a česnek promíchej s olejem a peč na plechu 20 minut, až se papriky na okrajích zapálí. Česnek oloupej."
+    },
+    {
+      "section": "Zelená salsa",
+      "text": "Opečenou zeleninu rozmixuj s jalapeňos, koriandrem, limetkovou šťávou, solí a 100 ml vývaru. Přimíchej 100 g zakysané smetany."
+    },
+    {
+      "section": "Kuře",
+      "text": "Kuře vař ve zbylém vývaru na mírném ohni 15 minut, uvnitř musí mít 75 °C. Vyndej a rozdělej vidličkami na nitky."
+    },
+    {
+      "section": "Sestavení",
+      "text": "Troubu sniž na 200 °C. Na dno zapékací misce rozlij část salsy. Do každé tortilly dej kuře a lžíci salsy, zabal a polož švem dolů."
+    },
+    {
+      "section": "Sestavení",
+      "text": "Enchiladas zalij zbylou salsou, posyp cheddarem a peč 15 až 18 minut, až sýr zezlátne."
+    },
+    {
+      "section": "Sestavení",
+      "text": "Před podáváním vytvoř na vrch kapku zbylé zakysané smetany. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Tortilly nejdřív zahřej na suché pánvi, aby se nelámaly při zavinování.",
+    "Pokud nemáš grilovanou papriku, použij rovnou zelenou salsu z obchodu.",
+    "Do plnění můžeš přidat kukuřici a fazole."
+  ],
+  "substitutions": [
+    "Kuře nahraď zbytky z pečeného kuřete nebo vařenými fazolemi, pro vegetariánskou verzi.",
+    "Cheddar nahraď eidamem nebo mozzarellou.",
+    "Zakysanou smetanu zaměň za jogurt."
+  ],
+  "faq": [
+    {
+      "q": "Čím se liší enchiladas od burrita?",
+      "a": "Enchiladas se po naplnění zalejí omáčkou a zapečou, burrito se jí z ruky bez omáčky."
+    },
+    {
+      "q": "Z čeho je zelená salsa?",
+      "a": "Tradičně z tomatillo, jalapeña, cibule, česneku a koriandru. Tady je nahrazuje pečená zelená paprika."
+    },
+    {
+      "q": "Dají se enchiladas připravit předem?",
+      "a": "Ano, sestav je den předem, nech v lednici a upeč o 5 minut déle. Salsa se do tortill vsákne."
+    }
+  ],
+  "image": "dish-enchiladas-verdes-chilli",
+  "vegetarian": false
+}

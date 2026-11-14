@@ -1,0 +1,108 @@
+{
+  "title": "Pizza šneci z listového těsta",
+  "keywords": [
+    "pizza šneci",
+    "pizza šneci z listového těsta",
+    "pizza rolky",
+    "pizzové šneky"
+  ],
+  "image": "dish-pizza-sneci-pec",
+  "category": "pizza",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 18,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "pecivo",
+  "intro": "Pizza šneci z listového těsta jsou rychlá svačina z jednoho plátu těsta, rajčatového protlaku, šunky a sýra. Plát se potře, posype, stočí a nakrájí na asi 12 kolečka. Pečou se 15 až 18 minut při 200 °C a jsou hotové za půl hodiny.",
+  "ingredients": [
+    {
+      "ingredient": "listove-testo",
+      "amount": 275,
+      "unit": "g",
+      "note": "1 plát",
+      "group": "Šneci"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 48,
+      "unit": "g",
+      "note": "3 lžíce",
+      "group": "Šneci"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Šneci"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 100,
+      "unit": "g",
+      "note": "nakrájená na drobné kousky",
+      "group": "Plnění"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 125,
+      "unit": "g",
+      "note": "nastrouhaná nebo natrhaná",
+      "group": "Plnění"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Plnění"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Trouba",
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C). Plech vyložte pečicím papírem."
+    },
+    {
+      "section": "Potření",
+      "text": "Listové těsto rozvinuj a zachovej papír. Potři ho rajčatovým protlakem a posyp oreganem, nezapomeň na okraje."
+    },
+    {
+      "section": "Plnění",
+      "text": "Posyp šunkou, mozzarellou a eidamem. Sýr rozprostři až skoro k okrajům, ať se šneci nerozpadnou."
+    },
+    {
+      "section": "Rolování",
+      "text": "Těsto pevně stoč podél delší strany, nakrájej ostrým nožem na 12 kolečka široká 2 cm. Rozlož je na plech řezem nahoru s mezerami."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 15 až 18 minut, dokud nejsou zlatí a sýr se nerozpustil. Nech 5 minut odpočinout na plechu a podávej teplé."
+    }
+  ],
+  "tips": [
+    "Těsto krájej ostrým nožem nebo nití. Tupý nůž kolečka zploští.",
+    "Těsto se nejlépe rozvíjí studené, hned po vytažení z lednice. Teplé se lepí.",
+    "Šneci jde chystat dopředu a péct až při hostech, rolku zabalenou ve fólii vydrží v lednici 1 den."
+  ],
+  "substitutions": [
+    "Šunku nahraď salámem, uzeným tofu nebo olivami.",
+    "Rajčatový protlak nahraď kečupem nebo pestem.",
+    "Eidam nahraď goudou nebo parmazánem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct pizza šneky?",
+      "a": "Při 200 °C (horkovzduch 180 °C) asi 15 až 18 minut, dokud nejsou zlatí. Čas závisí na tloušťce těsta."
+    },
+    {
+      "q": "Dá se pizza šneky zamrazit?",
+      "a": "Ano, nepečené nakrájené je zmraz na plechu a pak je přendej do sáčku. Peč je zmražené o 5 minut déle."
+    },
+    {
+      "q": "Čím nahradit listové těsto?",
+      "a": "Můžeš použít kynuté těsto na pizzu, rozválené do obdélníku. Šneci pak nejdřív 20 minut dokynou a pečou se déle."
+    }
+  ]
+}

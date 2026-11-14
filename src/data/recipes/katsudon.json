@@ -1,0 +1,172 @@
+{
+  "title": "Katsudon",
+  "category": "asijska",
+  "servings": 2,
+  "activeMinutes": 30,
+  "cookMinutes": 25,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "keywords": [
+    "katsudon",
+    "katsudon recept",
+    "japonský vepřový řízek s rýží",
+    "řízek s vejcem a rýží"
+  ],
+  "intro": "Katsudon je japonský řízek v pankové strouhance, který se krátce uvaří v sladké dashi omáčce s cibulí a vejcem a podává se na rýži. Křupavost kolem masa klesá, ale vlhkost zůstává. Doma ti na to stačí jedna pánev a hrnec rýže.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-sushi",
+      "amount": 200,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 240,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "veprova-kyta",
+      "amount": 250,
+      "unit": "g",
+      "note": "2 plátky tlusté asi 1,5 cm",
+      "group": "Řízek"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Řízek"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Řízek"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozšlehané",
+      "group": "Řízek"
+    },
+    {
+      "ingredient": "strouhanka-panko",
+      "amount": 60,
+      "unit": "g",
+      "group": "Řízek"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 300,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Řízek"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "note": "na tenká půlkolečka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "dashi-prasek",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mirin",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "lehce rozšlehaná",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nakrájená",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Rýže",
+      "text": "Rýži propírej ve studené vodě, dokud není voda skoro čirá. Dej ji do hrnce s 240 ml vody, přiveď k varu, zakryj, stáhni na minimum a vař 12 minut. Pak ji nech 10 minut stát pod pokličkou."
+    },
+    {
+      "section": "Řízek",
+      "text": "Maso naklep na 1 cm, osol a obal v mouce, rozšlehaném vejci a panko strouhance. Strouhanku lehce přitlač."
+    },
+    {
+      "section": "Řízek",
+      "text": "Olej rozehřej na 170 °C a smaž řízky 4 až 5 minut z jedné strany a 1 minutu z druhé dozlatova. Uvnitř musí mít aspoň 70 °C. Odkapej je na roštu a nakrájej na pruhy široké 2 cm."
+    },
+    {
+      "section": "Omáčka",
+      "text": "V menší pánvi rozpusť dashi v 150 ml horké vody. Přidej sójovou omáčku, mirin, cukr a cibuli a vař 4 minuty, dokud cibule nezměkne."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Do pánve poskládej nakrájený řízek. Na něj po okrajích nalij rozšlehaná vejce, zakryj a vař 1 až 2 minuty, až se vejce srazí, ale uprostřed zůstane trochu vláčné."
+    },
+    {
+      "section": "Rýže",
+      "text": "Rýži rozděl do dvou misek, na každou nasuň polovinu řízku s vejcem a omáčkou a posyp jarní cibulkou."
+    }
+  ],
+  "tips": [
+    "Vejce do omáčky dej až na konci, jinak ztuhne. Cílem je jemné srážení, ne omeleta.",
+    "Panko zkřupne víc než obyčejná strouhanka. Máš-li jen tu českou, rozdrť ji hrubě a smaž o minutu méně.",
+    "Řízek nech po smažení chvíli odpočinout, aby se strouhanka při krájení neodlupovala."
+  ],
+  "substitutions": [
+    "Vepřové nahraď kuřecími prsy rozříznutými na dva plátky, smaž stejnou dobu.",
+    "Dashi prášek nahraď 150 ml kuřecího vývaru s kapkou rybí omáčky.",
+    "Mirin nahraď lžící cukru rozpuštěnou ve 2 lžících vody s lžičkou octa."
+  ],
+  "faq": [
+    {
+      "q": "Co je katsudon?",
+      "a": "Japonské jídlo z rýže, na které leží smažený vepřový řízek (katsu) uvařený v sladké omáčce s vejcem. Slovo don znamená misku s rýží."
+    },
+    {
+      "q": "Čím nahradit panko?",
+      "a": "Hrubě drcenou strouhankou z toustového chleba. Rozdrť ho a nech 10 minut oschnout, aby se strouhanka při smažení nenasákla olejem."
+    },
+    {
+      "q": "Jde katsudon udělat předem?",
+      "a": "Řízek ano, ve 200 °C troubě ho po 5 minutách osvěžíš. Omáčku s vejcem a rýži dělej čerstvé, vejce by jinak vyschlo."
+    }
+  ],
+  "image": "dish-katsudon-ramen",
+  "vegetarian": false
+}

@@ -1,0 +1,182 @@
+{
+  "title": "Bao buns s vepřovým bokem",
+  "category": "asijska",
+  "servings": 4,
+  "activeMinutes": 50,
+  "cookMinutes": 150,
+  "waitMinutes": 90,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "náročnější",
+  "meal": "hlavni",
+  "keywords": [
+    "bao buns",
+    "bao buns recept",
+    "čínské buchty s masem",
+    "bao s vepřovým bokem"
+  ],
+  "intro": "Bao buns jsou nadýchané čínské buchty vařené v páře, plněné vepřovým bokem, okurkou a hoisin omáčkou. Těsto kyne asi hodinu a půl a bok se dusí do měkka. Výsledek je jemný, vláčný a nejlepší hned po napaření.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 10,
+      "unit": "g",
+      "note": "čerstvé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "veprovy-bok",
+      "amount": 600,
+      "unit": "g",
+      "note": "bez kůže, jeden kus",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 20,
+      "unit": "g",
+      "note": "plátky",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "rozdrcené",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "hoisin",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na tenké plátky",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 3,
+      "unit": "ks",
+      "note": "na proužky",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "arasidy",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "nasekané",
+      "group": "K podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozmíchej s cukrem a vlažným mlékem a nech 10 minut vzejít. Smíchej s moukou, práškem, solí a olejem a 8 minut hněť, až je těsto hladké. Nech ho v misce zakryté 60 minut kynout, ať zdvojnásobí objem."
+    },
+    {
+      "section": "Maso",
+      "text": "Bok dej do hrnce, přidej sójovku, třtinový cukr, zázvor, česnek a vodu. Přiveď k varu, zakryj, stáhni na minimum a duš 90 až 120 minut, dokud se nedá rozdělit vidličkou."
+    },
+    {
+      "section": "Těsto",
+      "text": "Těsto rozdělit na 8 dílů, každý rozválej na ovál asi 12 cm dlouhý, potři olejem a přeložit napůl. Polož je na čtverečky pečicího papíru a nech 30 minut odpočinout."
+    },
+    {
+      "section": "Těsto",
+      "text": "Napař je 10 až 12 minut nad vroucí vodou ve sítku nebo parní vložce, pod pokličkou. Víčko neotvírej dřív, těsto by splaskalo."
+    },
+    {
+      "section": "Maso",
+      "text": "Bok vyndej z omáčky, nakrájej na silnější plátky a potři trochou omáčky z hrnce."
+    },
+    {
+      "section": "K podávání",
+      "text": "Do každého bao namaž hoisin, vlož plátek masa, okurku, jarní cibulku a arašídy. Jez hned, dokud je těsto horké."
+    }
+  ],
+  "tips": [
+    "Papírové čtverečky pod bao brání přilepení k páře.",
+    "Bok vařený den předem je jemnější a lépe se krájí, ohřej ho v omáčce.",
+    "Těsto nebude bílé jako z restaurace bez bělicích přísad, ale chutná stejně."
+  ],
+  "substitutions": [
+    "Vepřový bok nahraď vařenými kuřecími stehny nebo smaženým tofu.",
+    "Čerstvé droždí lze nahradit 3 g sušeného.",
+    "Hoisin nahraď směsí 2 lžic sójovky a lžíce medu."
+  ],
+  "faq": [
+    {
+      "q": "Co dělat, když bao splaskne?",
+      "a": "Pravděpodobně jsi otevřel poklici příliš brzy nebo těsto překynulo. Po napaření nech 2 minuty bez otevírání a těsto nech kynout jen do zdvojnásobení."
+    },
+    {
+      "q": "Dá se bao buns udělat bez napařování?",
+      "a": "Můžeš je upéct při 180 °C asi 15 minut, získáš ale jiné pečivo. Napařování dává bílou, vláčnou strukturu."
+    },
+    {
+      "q": "Lze bao zamrazit?",
+      "a": "Ano, napařená a vychladlá vydrží v mrazáku 1 měsíc. Napařuj je ze zmrazení 8 až 10 minut."
+    }
+  ],
+  "image": "dish-bao-buns-ramen",
+  "vegetarian": false
+}

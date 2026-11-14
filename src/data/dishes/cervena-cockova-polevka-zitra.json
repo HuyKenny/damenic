@@ -1,0 +1,19 @@
+{
+  "name": "Polévka z červené čočky s citronem",
+  "restaurant": "lzice-zitra",
+  "kind": "main",
+  "section": "Hustší",
+  "description": "Zlatá polévka z červené čočky s kmínem a citronem. Hustá, že lžíce stojí. Ale jen u tebe doma.",
+  "about": [
+    "Červená čočka je nejrychlejší luštěnina: nemoč ji, nečekej, za dvacet minut se rozvaří sama. Polévka z ní je zlatá, hustá a voní po kmínu a kurkumě.",
+    "Citron se přidává až nakonec, protože právě on dělá z hlubokého hrnce jasnou chuť. Polévkárna nic nedoručí, ale lžíce zítra stojí v hrnci."
+  ],
+  "price": 10900,
+  "image": "dish-cervena-cockova-polevka-zitra",
+  "recipe": "cervena-cockova-polevka",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 110
+}

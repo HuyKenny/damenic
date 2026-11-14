@@ -1,0 +1,21 @@
+{
+  "name": "Bulgogi s rýží",
+  "restaurant": "pho-nebude",
+  "kind": "main",
+  "section": "Nudle a rýže",
+  "description": "Tence krájené hovězí v sójové marinádě, opečené na pánvi, s rýží, salátem a gochujangem.",
+  "about": [
+    "Bulgogi znamená v korejštině ohnivé maso, ale tady je ohnivé jen kvůli pánvi. Jablko a sezamový olej udělají marinádu, která má pár minut a zůstane v paměti hodiny.",
+    "Pho nebude, bulgogi bude, aspoň v tvé kuchyni. Maso se opéká 3 minuty, takže nemáš čas uvěřit, že nic nepřijede."
+  ],
+  "price": 24900,
+  "image": "dish-bulgogi-pho",
+  "recipe": "bulgogi",
+  "spicy": 1,
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "order": 200
+}

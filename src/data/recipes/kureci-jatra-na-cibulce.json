@@ -1,0 +1,128 @@
+{
+  "title": "Kuřecí játra na cibulce",
+  "keywords": [
+    "kuřecí játra na cibulce",
+    "játra na cibulce",
+    "kuřecí játra recept",
+    "smažená játra",
+    "játra s cibulí"
+  ],
+  "image": "dish-kureci-jatra-na-cibulce",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 3,
+  "activeMinutes": 25,
+  "cookMinutes": 10,
+  "waitMinutes": 30,
+  "waitLabel": "namočení jater v mléce",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Kuřecí játra na cibulce jsou rychlé české jídlo na pánvi, které se snadno pokazí buď moc krátkým, nebo moc dlouhým smažením. Játra potřebují dobře rozpálenou pánev, jen pár minut a sůl až na konec. Uvnitř nesmí být syrová, ale ani gumová.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-jatra",
+      "amount": 500,
+      "unit": "g",
+      "note": "očištěná, zbavená žlučových a tukových částí",
+      "group": "Játra"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml",
+      "note": "na namočení",
+      "group": "Játra"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 300,
+      "unit": "g",
+      "note": "na tenká půlkolečka",
+      "group": "Cibulka"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Cibulka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na obalení",
+      "group": "Játra"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Játra"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Játra"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "až na konec",
+      "group": "Játra"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na smažení jater",
+      "group": "Játra"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Játra opláchni a odřízni žlučově zbarvené (zelenavé) části a tuk. Vlož je do mléka a nech 30 minut odpočívat v lednici, hořkost se tím zjemní. Pak je osuš papírovou utěrkou.",
+      "section": "Příprava"
+    },
+    {
+      "text": "Na pánvi rozehřej sádlo a na středním ohni opékej cibuli 8 až 10 minut, často míchej, dokud nezesklovatí a lehce nezezlátne. Přendej ji na talíř.",
+      "section": "Cibulka"
+    },
+    {
+      "text": "Játra obal v mouce smíchané s majoránkou a pepřem, přebytek mouky oklepej. Na čisté pánvi rozehřej olej a smaž játra po dávkách na vysokém ohni, aby se nesmáčela.",
+      "section": "Játra"
+    },
+    {
+      "text": "Každou dávku opékej po 2 až 3 minutách z každé strany. Játra jsou hotová, když uvnitř nejsou růžová ani krvavá a po stlačení jsou pružná, uvnitř mají aspoň 75 °C.",
+      "section": "Játra"
+    },
+    {
+      "text": "Vrať k játrům cibulku, smíchej a prohřívej 1 minutu. Osol až teď, sůl dříve játra zatvrdí. Podávej s rýží, chlebem nebo bramborovou kaší.",
+      "section": "Podávání"
+    }
+  ],
+  "tips": [
+    "Játra smažená déle než 8 minut zhoustnou a ztvrdnou. Raději je smaž po menších dávkách rychle.",
+    "Mléčná lázeň odstraní hořkost, bez ní jsou játra výraznější a trochu kovová.",
+    "Hotové jídlo je nejlepší hned, ohřívané ztvrdne. Tvoř menší porci."
+  ],
+  "substitutions": [
+    "Kuřecí játra nahradíš vepřovými nebo telecími, nakrájej je na 1 cm plátky a smaž 3 až 4 minuty.",
+    "Sádlo můžeš nahradit máslem nebo olejem, cibulka bude jemnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit kuřecí játra?",
+      "a": "Na vysoké pánvi stačí 2 až 3 minuty z každé strany. Uvnitř nesmí být růžová, ale také se nesmí smažit déle než 8 minut, jinak ztvrdnou."
+    },
+    {
+      "q": "Proč se játra namáčejí do mléka?",
+      "a": "Mléko odtáhne hořkost a zjemní chuť. Namáčej je 30 minut až hodinu v lednici a pak je osuš."
+    },
+    {
+      "q": "Kdy se solí játra?",
+      "a": "Až po usmažení. Sůl na začátku vytáhne vodu a játra by byla tvrdá a suchá."
+    }
+  ]
+}

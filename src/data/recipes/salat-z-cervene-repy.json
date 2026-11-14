@@ -1,0 +1,101 @@
+{
+  "title": "Salát z červené řepy",
+  "keywords": [
+    "salát z červené řepy",
+    "červená řepa salát",
+    "salát z červené řepy recept",
+    "červená řepa jak uvařit"
+  ],
+  "image": "dish-salat-z-cervene-repy",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 50,
+  "waitMinutes": 30,
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Salát z červené řepy je sladkokyselá příloha z vařené řepy, cibule a octa. Dělá se dopředu, protože chuť se v lednici rozleží. Řepu je potřeba uvařit ve slupce, jinak vypustí barvu.",
+  "ingredients": [
+    {
+      "ingredient": "cervena-repa",
+      "amount": 800,
+      "unit": "g",
+      "note": "4 středně velké bulvy"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "na tenké půlkolečka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Řepu omyj, nech slupku a ocásek. Vař ve vroucí vodě 40 až 50 minut, dokud nejde snadno nabodnout nožem. Slij a nech vychladnout."
+    },
+    {
+      "text": "Vychladlou řepu oloupej, slupka se stáhne rukama. Nakrájej na kostičky nebo ji nastrouhej nahrubo."
+    },
+    {
+      "text": "V misce smíchej ocet, olej, cukr, kmín, sůl a pepř. Přidej cibuli a řepu."
+    },
+    {
+      "text": "Salát promíchej a nech 30 minut v lednici. Chutná lépe po 2 hodinách."
+    }
+  ],
+  "tips": [
+    "Rukavice ochrání ruce před barvou. Řepu krájej na samostatném prkénku, barví.",
+    "Pečená řepa je sladší. Zabal ji do fólie, peč při 200 °C 60 minut, pak ji oloupej.",
+    "Salát vydrží v lednici 4 dny."
+  ],
+  "substitutions": [
+    "Ocet nahradíš citronovou šťávou, salát bude svěžejší.",
+    "Přidat můžeš lžíci křenu nebo jablko nastrouhané, vznikne klasický křenový salát."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří červená řepa?",
+      "a": "Menší bulvy 40 až 50 minut, velké i hodinu. Hotová je, když ji lehce nabodneš nožem."
+    },
+    {
+      "q": "Jak se zbavit barvy z rukou?",
+      "a": "Pomůže citronová šťáva nebo škrobová pasta z vody a jedlé sody. Příště použij rukavice."
+    },
+    {
+      "q": "Dá se použít řepa z obchodu, už předvařená?",
+      "a": "Dá, ušetří 45 minut. Vybírej tu bez octa a cukru, abys neřešil dvojí dochucení."
+    }
+  ],
+  "waitLabel": "vychladnutí a naložení"
+}

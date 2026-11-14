@@ -1,0 +1,58 @@
+{
+  "name": "Kuře na kari se smetanou",
+  "kind": "main",
+  "section": "Polední menu",
+  "price": 16900,
+  "recipe": "kure-na-kari",
+  "vegetarian": false,
+  "order": 120,
+  "description": "Kuřecí kostky v jemné smetanové omáčce s kari a jablkem. K rýži basmati, ale nepřijede.",
+  "about": [
+    "České kuře na kari je jemné a krémové, s nastrouhaným jablkem místo štiplavého chilli. Prsa se duší jen deset minut, aby zůstala šťavnatá, a rýže basmati se vaří zvlášť.",
+    "Jídlo je hotové za tři čtvrtě hodiny. Doručení, no, to by trvalo déle. Teď když to víš, jdi vařit."
+  ],
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standardni",
+          "name": "Standardní",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (o třetinu více)",
+          "priceDelta": 5000
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "basmati",
+          "name": "Rýže basmati",
+          "priceDelta": 0
+        },
+        {
+          "id": "naan",
+          "name": "Pita",
+          "priceDelta": 1000
+        }
+      ]
+    }
+  ],
+  "restaurant": "jidelna-zitra-mozna",
+  "image": "dish-kure-na-kari",
+  "allergens": [
+    7,
+    9
+  ]
+}

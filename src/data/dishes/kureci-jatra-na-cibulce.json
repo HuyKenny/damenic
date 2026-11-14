@@ -1,0 +1,63 @@
+{
+  "name": "Kuřecí játra na cibulce",
+  "kind": "main",
+  "section": "Minutky",
+  "price": 17900,
+  "recipe": "kureci-jatra-na-cibulce",
+  "vegetarian": false,
+  "order": 140,
+  "description": "Játra opečená pár minut, aby byla uvnitř právě propečená, a sladká cibulka. Smažit se budou jen v receptu.",
+  "about": [
+    "Kuřecí játra se smaží rychle a na vysoké pánvi, jinak ztvrdnou. Předtím odpočinou v mléce, aby ztratila hořkost, a sůl dostanou až na konci. Cibulka se opéká zvlášť, dlouho a pozorně, jinak se připálí.",
+    "Je to jídlo, které se nedá doručit, protože by na cestě zchladlo a zhoustlo. Proto ho radši opatrně spojíme s receptem, který si uděláš doma za čtvrt hodiny."
+  ],
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Velikost porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "standardni",
+          "name": "Standardní",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Velká (o třetinu víc jater)",
+          "priceDelta": 5000
+        }
+      ]
+    },
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "ryze",
+          "name": "Rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "kase",
+          "name": "Bramborová kaše",
+          "priceDelta": 1000
+        },
+        {
+          "id": "chleb",
+          "name": "Chléb",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-kureci-jatra-na-cibulce",
+  "allergens": [
+    1,
+    7
+  ]
+}

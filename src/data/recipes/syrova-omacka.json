@@ -1,0 +1,120 @@
+{
+  "title": "Sýrová omáčka",
+  "keywords": [
+    "sýrová omáčka",
+    "sýrová omáčka recept",
+    "sýrová omáčka k masu",
+    "sýrová omáčka s eidamem",
+    "rychlá sýrová omáčka"
+  ],
+  "image": "dish-syrova-omacka",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Sýrová omáčka z eidamu a smetanového sýra je jemná, hladká a dá se hotová za 20 minut. Základem je máslová zásmažka s mlékem, sýr se přidává až mimo oheň, aby se nesrazil. Hodí se k těstovinám, zapečené zelenině, bramborám i kuřecímu masu.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "note": "studené",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g",
+      "note": "jemně nastrouhaný",
+      "group": "Sýr"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Sýr"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Dochucení"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Dochucení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V kastrůlku rozpusť máslo na středním ohni. Přidej mouku a 1 až 2 minuty míchej, až se spojí a lehce zavoní. Zásmažka nesmí zhnědnout.",
+      "section": "Základ"
+    },
+    {
+      "text": "Postupně vlévej studené mléko a metličkou míchej, ať nevznikají hrudky. Přidej česnek a za stálého míchání přiveď k varu. Vař 4 minuty do zhoustnutí na hustotu smetany.",
+      "section": "Základ"
+    },
+    {
+      "text": "Kastrůlek stáhni z ohně a nech 1 minutu odstát. Po částech vmíchej eidam a smetanový sýr. Sýr se rozpustí v teplé, ne vařící omáčce.",
+      "section": "Sýr"
+    },
+    {
+      "text": "Dochuť muškátem, solí a pepřem. Sýry bývají slané, solit proto až nakonec. Je-li omáčka hustá, zřeď ji lžící mléka.",
+      "section": "Dochucení"
+    }
+  ],
+  "tips": [
+    "Když sýr vaří, srazí se a omáčka bude zrnitá. Přidávej ho vždy mimo oheň.",
+    "Sýr strouhej sám, balený strouhaný sýr obsahuje škrob a omáčka je méně hladká.",
+    "Hodí se na zapékání: omáčku nalij na zeleninu nebo těstoviny, posyp sýrem a peč 20 minut při 200 °C."
+  ],
+  "substitutions": [
+    "Eidam lze nahradit goudou, cheddarem nebo směsí s kouskem plísňového sýra.",
+    "Smetanový sýr vynech a přidej 50 ml smetany na vaření, omáčka bude mírně tekutější."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat sýrovou omáčku hladkou?",
+      "a": "Zásmažku rozmíchej metličkou s mlékem bez hrudek a sýr přidej až po sundání z ohně. Použij sýr nastrouhaný nadrobno z bloku."
+    },
+    {
+      "q": "Proč se sýrová omáčka sráží?",
+      "a": "Sýr se vařil nebo byla omáčka příliš horká. Přidávej ho mimo oheň a míchej, dokud se nerozpustí."
+    },
+    {
+      "q": "K čemu se sýrová omáčka hodí?",
+      "a": "K těstovinám, bramborám, kuřecímu masu, zapečené zelenině a k knedlíkům. Lze ji i zapékat."
+    }
+  ]
+}

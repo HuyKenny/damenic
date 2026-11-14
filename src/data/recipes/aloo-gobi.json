@@ -1,0 +1,186 @@
+{
+  "title": "Aloo gobi",
+  "category": "indicka",
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 30,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "aloo gobi",
+    "aloo gobi recept",
+    "indické brambory s květákem",
+    "květák s bramborami kari"
+  ],
+  "intro": "Aloo gobi je indická suchá směs bramborů a květáku, osmažená na kmínu, kurkumě a zázvoru. Je vegetariánská, veganská a hotová za hodinu. Dusí se pod pokličkou s minimem vody, aby zelenina nasákla koření.",
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 15,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Koření"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Koření"
+    },
+    {
+      "ingredient": "garam-masala",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Koření"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Koření"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Koření"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 400,
+      "unit": "g",
+      "note": "na kostky 2 cm",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "kvetak",
+      "amount": 400,
+      "unit": "g",
+      "note": "na malé růžičky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 150,
+      "unit": "g",
+      "note": "nakrájená",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Na dokončení"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaný",
+      "group": "Na dokončení"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 250,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 375,
+      "unit": "ml",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Základ",
+      "text": "V širokém hrnci rozehřej olej a nech na něm praskat kmín 20 sekund. Přidej cibuli a smaž 7 minut do zlatova. Přidej česnek a zázvor a míchej 1 minutu."
+    },
+    {
+      "section": "Koření",
+      "text": "Přisyp kurkumu, koriandr, garam masalu, chilli a sůl, míchej 30 sekund, aby koření zavonělo a nepřipálilo se."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Přidej brambory a míchej 3 minuty. Přidej rajčata a 100 ml vody, zakryj a duš 10 minut na mírném ohni."
+    },
+    {
+      "section": "Zelenina",
+      "text": "Přidej květák, promíchej, zakryj a duš dalších 15 minut, občas promíchej. Brambory a květák mají být měkké, ale držet tvar."
+    },
+    {
+      "section": "Rýže",
+      "text": "Mezitím uvař rýži: propláchnutou ji s 375 ml vody přiveď k varu, zakryj, vař 12 minut na minimu a nech 5 minut dojít."
+    },
+    {
+      "section": "Na dokončení",
+      "text": "Odkryj a nech 2 minuty odpařit přebytečnou vodu. Dochuť citronovou šťávou a posyp koriandrem. Podávej s rýží."
+    }
+  ],
+  "tips": [
+    "Květák dávej později než brambory, jinak se rozpadne.",
+    "Neprolévej vodou, aloo gobi je suchá směs, ne omáčka.",
+    "Pro křupavější okraje opeč květák zvlášť na pánvi 4 minuty."
+  ],
+  "substitutions": [
+    "Čerstvý koriandr lze nahradit petrželkou.",
+    "Rajčata nahraď lžící rajčatového protlaku s trochou vody.",
+    "Pro pálivější chuť přidej čerstvou chilli papričku."
+  ],
+  "faq": [
+    {
+      "q": "Co znamená aloo gobi?",
+      "a": "Aloo je hindsky brambor, gobi květák. Je to jedno z nejznámějších indických vegetariánských jídel."
+    },
+    {
+      "q": "Jak udělat aloo gobi, aby se nerozpadlo?",
+      "a": "Zelenina musí být nakrájená na větší kusy, voda maximálně 100 ml a míchání řídké. Brambory vaříme předem 10 minut."
+    },
+    {
+      "q": "Je aloo gobi pálivé?",
+      "a": "Záleží na množství chilli. V receptu je jen půl lžičky, takže je jemné. Pro pálivost přidej další."
+    }
+  ],
+  "image": "dish-aloo-gobi-masala",
+  "vegetarian": true
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pórková polévka s krutony",
+  "restaurant": "chlebova-dutina",
+  "kind": "main",
+  "section": "Krémové",
+  "description": "Hedvábná pórková polévka s kapkou smetany a křupavými krutony. Bez nich by se polévka nesnědla.",
+  "about": [
+    "Pórek je zelenina, která umí být slaďoučká i hořká a rozhoduje o tom plamen. Dusí se pomalu na másle, bez barvy, a teprve potom se zalévá vývarem a rozmixuje.",
+    "K polévce patří krutony z toustu opečené do zlatova. Bistro pečivo nedodá, polévku nevydá. Jen ti prozradí, že pórek je potřeba mýt víc, než si myslíš."
+  ],
+  "price": 9500,
+  "image": "dish-porkova-polevka-dutina",
+  "recipe": "porkova-polevka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9
+  ],
+  "order": 110
+}

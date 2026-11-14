@@ -1,0 +1,98 @@
+{
+  "title": "Zelný salát",
+  "keywords": [
+    "zelný salát",
+    "sladkokyselý zelný salát",
+    "zelný salát s mrkví",
+    "salát z bílého zelí"
+  ],
+  "image": "dish-zelny-salat",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 60,
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Sladkokyselý zelný salát je klasická česká příloha k smaženým řízkům a grilovanému masu. Základem je jemně nakrájené bílé zelí, mrkev, ocet a cukr. Salát potřebuje hodinu odpočinku, aby změkl a nasákl dresinkem.",
+  "ingredients": [
+    {
+      "ingredient": "zeli-bile",
+      "amount": 600,
+      "unit": "g",
+      "note": "jemně nakrájené nebo nastrouhané"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "nastrouhaná"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zelí jemně nakrájej nebo nastrouhej, vsyp do mísy a osol. Důkladně prohněť rukama 2 minuty, aby se zelí rozpustilo a pustilo šťávu."
+    },
+    {
+      "text": "Přidej mrkev, cukr, ocet, olej, kmín a pepř. Promíchej."
+    },
+    {
+      "text": "Salát nech minimálně hodinu v lednici. Před podáváním znovu promíchej a dochuť octem nebo cukrem."
+    }
+  ],
+  "tips": [
+    "Pro hladší chuť zelí na 1 minutu spař vroucí vodou a pak ho dobře vymačkej.",
+    "Salát vydrží 4 dny v uzavřené nádobě v lednici.",
+    "Mladé jarní zelí je jemnější, starší hlávka potřebuje delší odpočinek."
+  ],
+  "substitutions": [
+    "Cukr nahradíš medem nebo javorovým sirupem.",
+    "Pro lehčí verzi vynech olej a přidej lžíci jogurtu, vznikne mírný dresink."
+  ],
+  "faq": [
+    {
+      "q": "Proč je zelný salát tvrdý?",
+      "a": "Zelí bylo nakrájeno příliš hrubě nebo nestačilo odpočinout. Prohněť ho solí a nech 1 hodinu v lednici."
+    },
+    {
+      "q": "Jak dlouho vydrží zelný salát?",
+      "a": "4 dny v lednici v uzavřené nádobě, déle zelí změkne a pustí vodu."
+    },
+    {
+      "q": "Čím se liší od coleslaw?",
+      "a": "Zelný salát je sladkokyselý s octem, coleslaw má majonézu nebo smetanu."
+    }
+  ],
+  "waitLabel": "provonění v lednici"
+}

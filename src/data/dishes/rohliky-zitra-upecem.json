@@ -1,0 +1,44 @@
+{
+  "name": "Domácí rohlíky s kmínem a sezamem",
+  "restaurant": "pekarna-zitra-upecem",
+  "kind": "main",
+  "section": "Máslové a slané",
+  "description": "Kynuté rohlíky potřené vejcem, s kmínem a sezamem. Křupavá kůrka, vláčný střed.",
+  "about": [
+    "Domácí rohlík je jednoduché těsto, ale tvar chce cvik: tenký trojúhelník, těsná rolka a ohnuté konce. Kmín a sezam dodají chuť a vůni na povrchu.",
+    "Dostaneš tři rohlíky z dávky dvanácti. Pekárna je zavřená do zítřka, ale tvůj plech může být horký už dnes."
+  ],
+  "price": 4900,
+  "image": "dish-rohliky-zitra-upecem",
+  "recipe": "domaci-rohliky",
+  "optionGroups": [
+    {
+      "id": "pocet",
+      "name": "Počet",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "3",
+          "name": "3 rohlíky",
+          "priceDelta": 0
+        },
+        {
+          "id": "6",
+          "name": "6 rohlíků",
+          "priceDelta": 4000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    11
+  ],
+  "order": 15
+}

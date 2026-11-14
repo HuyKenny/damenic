@@ -1,0 +1,125 @@
+{
+  "title": "Domácí rohlíky",
+  "keywords": [
+    "rohlíky recept",
+    "domácí rohlíky",
+    "kynuté rohlíky",
+    "rohlíky s kmínem"
+  ],
+  "intro": "Domácí rohlíky recept na 12 kusů po asi 60 gramech. Těsto je z polohrubé mouky, mléka a droždí, kyne hodinu a půl a rohlíky se pečou při vysoké teplotě 15 až 18 minut. Nejtěžší je správně svinout trojúhelníky, aby se rohlík zahnul do tvaru podkovy.",
+  "image": "dish-rohliky-zitra-upecem",
+  "category": "pekarna",
+  "servings": 12,
+  "activeMinutes": 45,
+  "cookMinutes": 20,
+  "waitMinutes": 90,
+  "waitLabel": "kynutí těsta a rohlíků",
+  "difficulty": "střední",
+  "meal": "pecivo",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 500,
+      "unit": "g",
+      "note": "+ trochu na vál"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 21,
+      "unit": "g",
+      "note": "půl kostky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "note": "vlažné"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "note": "vlažná"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 30,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na potření"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na posyp"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Kvásek",
+      "text": "Droždí rozdrol do vlažného mléka s cukrem a nech 10 minut stát, dokud se neobjeví pěna."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej se solí. Přilij kvásek, vodu a přidej sádlo. Hněť 8 až 10 minut do hladkého, pružného těsta, které se nelepí. Nech zakryté 60 minut kynout, až zdvojnásobí objem."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Těsto rozděl na 12 dílů po asi 60 g. Každý díl vyval na tenký trojúhelník se základnou asi 12 cm a výškou asi 20 cm. Od široké strany roluj k hrotu, hrot nech pod rohlíkem a konce mírně zahni dovnitř."
+    },
+    {
+      "section": "Kynutí",
+      "text": "Rohlíky dej na plech s pečicím papírem s rozestupem 4 cm, přikryj a nech 30 minut kynout. Troubu předehřej na 220 °C horní a spodní ohřev (horkovzduch 200 °C)."
+    },
+    {
+      "section": "Pečení",
+      "text": "Rohlíky potři rozšlehaným vejcem, posyp kmínem a sezamem. Peč 15 až 18 minut, dokud nejsou dozlatova. Na spodku mají znít dutě. Nech zchladnout na mřížce."
+    }
+  ],
+  "tips": [
+    "Pro lesklý povrch potři rohlíky vejcem dvakrát, před kynutím a těsně před pečením.",
+    "Čerstvé jsou nejlepší do 6 hodin. Druhý den je ohřej 5 minut při 180 °C.",
+    "Rohlíky se dají zmrazit na 1 měsíc a upéct se rovnou ze zmrazeného po 5 minutách navíc."
+  ],
+  "substitutions": [
+    "Olej nahraď 30 g změklého másla, rohlíky budou chuťově plnější.",
+    "Sezam a kmín nahraď solí, mákem nebo ničím.",
+    "Polohrubou mouku nahraď hladkou, rohlíky budou jemnější a vzdušnější."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi rohlíky netvoří rohy?",
+      "a": "Trojúhelník nebyl dost tenký, nebo se rolka příliš stlačila. Těsto vyval na 3 mm, rolu zaviň volněji a konce nech ohnuté dovnitř."
+    },
+    {
+      "q": "Jak dlouho péct rohlíky?",
+      "a": "15 až 18 minut při 220 °C horní a spodní ohřev (horkovzduch 200 °C), dokud nejsou zlatavé a na spodku zní dutě."
+    },
+    {
+      "q": "Dají se rohlíky zmrazit?",
+      "a": "Ano. Vychladlé zmraz v sáčku až na 1 měsíc. Před jídlem je 8 minut ohřej při 180 °C."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Bao buns s vepřovým bokem",
+  "restaurant": "ramen-nedojde",
+  "kind": "main",
+  "section": "Rýže a knedlíčky",
+  "description": "Měkké napařené buchty s dušeným vepřovým bokem, okurkou, hoisin a arašídy.",
+  "about": [
+    "Bao jsou buchty vařené v páře, měkké jako polštář a uvnitř maso, které se rozpadá. Začínají těstem, které potřebuje čas.",
+    "Ramen nedojde, bao také ne, ale těsto nakyne samo, zatímco koukáš na prázdnou obrazovku. Kynutí je jediný rozvoz, kterému se dá věřit."
+  ],
+  "price": 22900,
+  "image": "dish-bao-buns-ramen",
+  "recipe": "bao-buns",
+  "allergens": [
+    1,
+    5,
+    6,
+    7
+  ],
+  "order": 230
+}

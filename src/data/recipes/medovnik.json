@@ -1,0 +1,155 @@
+{
+  "title": "Medovník se smetanovým krémem",
+  "keywords": [
+    "medovník",
+    "medovník recept",
+    "medovník krém",
+    "medový dort"
+  ],
+  "intro": "Medovník je dort ze sedmi tenkých medových plátů prokládaných krémem ze zakysané smetany a šlehačky, ve formě o průměru 24 cm. Těsto je lepivé a pláty se pečou jen pár minut, ale dort musí aspoň 8 hodin ležet v lednici, jinak je tvrdý. Vychází na 12 kousků.",
+  "image": "dish-medovnik-dilek",
+  "category": "dorty",
+  "servings": 12,
+  "activeMinutes": 90,
+  "cookMinutes": 45,
+  "waitMinutes": 480,
+  "waitLabel": "změknutí dortu v lednici",
+  "difficulty": "náročnější",
+  "meal": "dort",
+  "vegetarian": true,
+  "occasions": [
+    "narozeniny"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "med",
+      "amount": 120,
+      "unit": "g",
+      "note": "tekutý",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 70,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 450,
+      "unit": "g",
+      "note": "a trochu na vál",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 500,
+      "unit": "g",
+      "note": "min. 20 % tuku, vychlazená",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 300,
+      "unit": "ml",
+      "note": "min. 33 %, vychlazená",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 50,
+      "unit": "g",
+      "note": "nasekané, na posyp",
+      "group": "Krém"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "V kastrolu smíchej vejce, cukr, med a máslo. Postav nad hrnec s vroucí vodou (vodní lázeň) a šlehej metlou, až se cukr rozpustí a máslo roztaje. Směs se zahřeje asi na 60 °C a nesmí se vařit, jinak se vejce srazí."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vmíchej sodu, hmota se výrazně napění a zesvětlí. Sundej z lázně, vmíchej 300 g mouky a nech 5 minut vychladnout, aby těsto nebylo horké na ruku."
+    },
+    {
+      "section": "Těsto",
+      "text": "Přidej zbylou mouku a těsto prohněť, mouky dávej jen tolik, aby se přestalo lepit na ruce. Má být měkké, jemně lepivé a pružné. Rozděl na 7 stejných dílů po asi 120 g a nech 15 minut v teple odpočinout."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Každý díl na pečicím papíru vyval na tenký kruh asi 26 cm, nahoru přilož talíř nebo formu o průměru 24 cm a odřízni okraje. Odřezky nech na drobenku."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč po jednom plátu 5 až 7 minut, dokud nezezlátne a nezačne tmavnout na okrajích. Pláty hned po vytažení stáhni z plechu, jinak ztvrdnou k papíru. Odřezky upeč na stejném plechu zvlášť, 4 až 5 minut."
+    },
+    {
+      "section": "Krém",
+      "text": "Zakysanou smetanu promíchej s moučkovým a vanilkovým cukrem. Šlehačku ušlehej do tuhého a po částech ji vmíchej do smetany jemným kroužením. Krém má být hladký a držet tvar."
+    },
+    {
+      "section": "Skládání",
+      "text": "Pláty prokládej krémem, na každý dej asi 4 lžíce a rovnoměrně rozetři. Dort potři zbytkem krému po bocích i nahoře. Odřezky rozdrť v mixéru na hrubou drobenku, obalují se jí boky a vršek, přidej nasekané ořechy."
+    },
+    {
+      "section": "Zrání",
+      "text": "Dort přikryj a nech minimálně 8 hodin v lednici, ideálně přes noc. Pláty změknou a nasáknou krémem. Krájej ostrým nožem namočeným do horké vody."
+    }
+  ],
+  "tips": [
+    "Těsto zpracovávej, dokud je vlažné. Studené ztvrdne a nejde válet, proto ho nedávej do lednice.",
+    "Pláty peč po jednom, zhnědnou během minut. Lehce tmavší okraj je správně, upečený plát totiž v krému změkne.",
+    "Dort se dá nechat 3 dny v lednici, třetí den je nejvláčnější. V mrazáku vydrží 1 měsíc.",
+    "Kysanou smetanu a šlehačku dej do lednice den předem, studené se šlehá lépe."
+  ],
+  "substitutions": [
+    "Smetanový krém můžeš nahradit 400 g mascarpone smíchaného s 250 ml šlehačky a 80 g moučkového cukru.",
+    "Med nahraď 100 g javorového sirupu, těsto bude světlejší a jemnější.",
+    "Ořechy na posyp nahraď mletými mandlemi, nebo je vynech."
+  ],
+  "faq": [
+    {
+      "q": "Kolik plátů má mít medovník?",
+      "a": "Klasicky 7 plátů o průměru 24 cm, z 450 g mouky. Dá se i 8 až 10 tenčích a dort je pak vláčnější, ale pečení trvá déle."
+    },
+    {
+      "q": "Proč je medovník tvrdý?",
+      "a": "Dort nestihl odležet. Pláty se mají do krému nasáknout 8 hodin až 1 den. Pomůže i vyšší podíl kysané smetany a méně šlehačky v krému."
+    },
+    {
+      "q": "Jak dlouho vydrží medovník v lednici?",
+      "a": "V lednici zakrytý 4 až 5 dní. Po třech dnech je nejměkčí. Krájené kousky se dají zmrazit na 1 měsíc."
+    }
+  ]
+}
