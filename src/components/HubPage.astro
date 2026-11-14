@@ -10,7 +10,9 @@ interface Props {
   hub: Hub;
 }
 const { hub } = Astro.props;
-const others = (await RECIPE_HUBS()).filter((h) => h.slug !== hub.slug);
+// Chips link to hubs of the same kind (cuisines with cuisines, ...) so 70+ hubs do not become one wall of links.
+const kind = (h: Hub) => (h.slug.includes('/') ? h.slug.split('/')[0] : 'misc');
+const others = (await RECIPE_HUBS()).filter((h) => h.slug !== hub.slug && kind(h) === kind(hub));
 const jsonld = [
   {
     '@context': 'https://schema.org',
@@ -32,6 +34,13 @@ const jsonld = [
     <div class="grid grid--dishes">
       {hub.recipes.map((r) => <RecipeCard recipe={r} />)}
     </div>
+    {
+      hub.filterQuery && (
+        <p style="margin-top:24px">
+          <a class="btn btn--ghost" href={`/recepty/${hub.filterQuery}`}>Doladit filtry: čas, strava, obtížnost</a>
+        </p>
+      )
+    }
     <nav class="section" aria-label="Další kategorie receptů">
       <h2 style="font-size:1.25rem;margin-bottom:12px">Další recepty</h2>
       <ul class="fpanel__chips">

@@ -11,13 +11,20 @@ import { EMPTY_RECIPE_FILTERS, applyRecipeFilters, facetCounts } from '@/lib/rec
 const { recipes } = await recipeIndex();
 const hubs = await RECIPE_HUBS();
 const occasionHubs = hubs.filter((h) => h.slug.startsWith('prilezitosti/'));
-const otherHubs = hubs.filter((h) => !h.slug.startsWith('prilezitosti/'));
 // First page for the server-rendered HTML (crawlable, no layout jump); the island takes over after hydration.
 const initial = applyRecipeFilters(recipes, EMPTY_RECIPE_FILTERS, new Date()).slice(0, 24);
 const initialCounts = facetCounts(recipes, EMPTY_RECIPE_FILTERS);
 const categories = Object.entries(CATEGORY_LABELS)
   .filter(([id]) => recipes.some((r) => r.category === id))
   .map(([id, c]) => ({ id, label: c.label }));
+const kindOf = (slug: string) => slug.split('/')[0];
+const groups = [
+  { title: 'Podle typu jídla', items: hubs.filter((h) => kindOf(h.slug) === 'typ') },
+  { title: 'Podle hlavní suroviny', items: hubs.filter((h) => kindOf(h.slug) === 'surovina') },
+  { title: 'Podle stravy', items: [...hubs.filter((h) => h.slug === 'bez-masa'), ...hubs.filter((h) => kindOf(h.slug) === 'dieta'), ...hubs.filter((h) => h.slug === 'rychle')] },
+  { title: 'Podle kuchyně', items: hubs.filter((h) => kindOf(h.slug) === 'kuchyne') },
+  { title: 'Svátky a oslavy', items: [{ path: '/recepty/prilezitosti/', label: 'Všechny svátky' }, ...occasionHubs] },
+].filter((g) => g.items.length);
 const occasions = occasionHubs.map((h) => {
   const id = h.slug.slice('prilezitosti/'.length);
   return { id, label: OCCASIONS[id as OccasionId].label };
@@ -39,17 +46,15 @@ const occasions = occasionHubs.map((h) => {
     </div>
     <RecipeBrowser client:load categories={categories} occasions={occasions} total={recipes.length} initial={initial} initialCounts={initialCounts} />
     <nav class="section" aria-label="Kategorie receptů" style="padding-top:8px">
-      <h2 style="font-size:1.25rem;margin-bottom:12px">Procházej podle kuchyně a příležitosti</h2>
-      <ul class="fpanel__chips">
-        {otherHubs.map((h) => <li><a class="fchip" href={h.path}>{h.label}</a></li>)}
-      </ul>
       {
-        occasionHubs.length > 0 && (
-          <ul class="fpanel__chips" aria-label="Svátky a oslavy" style="margin-top:8px">
-            <li><a class="fchip" href="/recepty/prilezitosti/">Svátky a oslavy</a></li>
-            {occasionHubs.map((h) => <li><a class="fchip" href={h.path}>{h.label}</a></li>)}
-          </ul>
-        )
+        groups.map((g) => (
+          <>
+            <h2 style="font-size:1.125rem;margin:18px 0 10px">{g.title}</h2>
+            <ul class="fpanel__chips">
+              {g.items.map((h) => <li><a class="fchip" href={h.path}>{h.label}</a></li>)}
+            </ul>
+          </>
+        ))
       }
     </nav>
   </div>

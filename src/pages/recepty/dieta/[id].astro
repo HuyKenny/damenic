@@ -1,0 +1,13 @@
+---
+import HubPage from '@/components/HubPage.astro';
+import { RECIPE_HUBS, type Hub } from '@/lib/hubs';
+
+export async function getStaticPaths() {
+  return (await RECIPE_HUBS()).filter((h) => h.slug.startsWith('dieta/')).map((hub) => ({ params: { id: hub.slug.slice('dieta/'.length) }, props: { hub } }));
+}
+interface Props {
+  hub: Hub;
+}
+---
+
+<HubPage hub={Astro.props.hub} />

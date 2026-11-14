@@ -1,6 +1,7 @@
 // Recipe hub pages: one per cuisine, one per occasion (holidays) plus "quick" and "meat-free". Each has its own intro text; hubs with fewer than
 // MIN_RECIPES recipes are not generated, so no thin pages exist.
-import { allRecipes, totalMinutes, type Recipe } from './content';
+import { allRecipes, recipeIndex, totalMinutes, type Recipe } from './content';
+import { DIET_FACETS, FAMILY_LABELS, MEAL_LABELS } from './recipe-facets';
 import { CATEGORY_LABELS } from './site';
 import { OCCASION_IDS, OCCASIONS, occasionsInSeason, type OccasionId } from './occasions';
 
@@ -16,6 +17,8 @@ export interface Hub {
   description: string;
   intro: string[];
   recipes: Recipe[];
+  /** Query string for /recepty/ that reproduces this hub with the filters ('Doladit filtry'). */
+  filterQuery?: string;
 }
 
 const INTRO: Record<string, string[]> = {
@@ -145,6 +148,71 @@ const HEADS: Record<string, { h1: string; title: string }> = {
   dorty: { h1: 'Dorty a zákusky: recepty krok za krokem', title: 'Recepty na dorty a zákusky – narozeninový i nepečený' },
 };
 
+
+// Facet hubs: one per meal type, main ingredient and diet. Same recipes as the filters, but with their own URL, text and title.
+const MEAL_HUBS: Record<string, { h1: string; title: string; intro: string[] }> = {
+  snidane: { h1: 'Recepty na snídani', title: 'Snídaně – recepty na rychlé i lenivé ráno', intro: ['Kaše, vejce, palačinky, toasty i granola. Snídaně na pracovní ráno za deset minut i na víkend, kdy se nikam nespěchá.', 'U každého receptu je rozepsané, kolik zabere práce a kolik čekání, ať víš, jestli se stihneš najíst před odchodem.'] },
+  predkrm: { h1: 'Předkrmy, pomazánky a občerstvení', title: 'Předkrmy a pomazánky – recepty na oslavu i večer', intro: ['Pomazánky na chleba, chlebíčky, jednohubky, dipy a drobné občerstvení pro hosty. Většina se dá připravit den předem.', 'Pozor na majonézu a vejce: v teple na stole nenechávej nic déle než dvě hodiny.'] },
+  polevka: { h1: 'Recepty na polévky', title: 'Polévky – recepty české i světové', intro: ['Od bramboračky a kulajdy po ramen a tom yum. Polévky, které se vaří z obyčejných surovin a zahřejí líp než topení.', 'U vývarů počítej s pomalým vařením, u krémových polévek s mixérem. Čas je v každém receptu rozdělený na práci a vaření.'] },
+  salat: { h1: 'Recepty na saláty', title: 'Saláty – recepty na lehkou večeři i k masu', intro: ['Saláty jako samostatné jídlo i jako příloha: bramborový, těstovinový, řecký, zelný nebo s kuřecím masem.', 'U dresinků píšeme poměry, protože o salátu rozhoduje zálivka, ne zelenina.'] },
+  hlavni: { h1: 'Hlavní jídla: recepty na oběd a večeři', title: 'Hlavní jídla – recepty na oběd a večeři', intro: ['Maso, ryby, těstoviny, rýže i bezmasá jídla. Hlavní chody od svíčkové po kari, každý s poctivými časy a přepočtem porcí.', 'Spěcháš? Zúži výběr filtrem na jídla do 30 minut. Máš chuť na konkrétní surovinu? Vyber ji v hlavní surovině.'] },
+  priloha: { h1: 'Přílohy: knedlíky, brambory, rýže a zelenina', title: 'Přílohy – knedlíky, brambory, rýže, zelenina', intro: ['Knedlíky, bramborová kaše, hranolky, rýže, dušená zelenina a zelí. Přílohy, které dělají z masa oběd.', 'Mnoho příloh se dá uvařit s předstihem a ohřát, takže na hlavní jídlo zbyde klid.'] },
+  omacka: { h1: 'Omáčky, dipy a dresinky', title: 'Omáčky, dipy a dresinky – recepty krok za krokem', intro: ['Rajská, houbová, koprová, pesto, bešamel i dresinky na salát. Omáčka často rozhoduje o tom, jestli je jídlo dobré.', 'Většinu uvaříš za 20 minut a dá se zamrazit nebo odložit do lednice.'] },
+  pecivo: { h1: 'Pečivo, chleby a koláče', title: 'Pečivo a koláče – kynuté, drobenkové i chleba', intro: ['Chléb, rohlíky, focaccia, koláče a buchty z kynutého i hrnkového těsta. Pečení, kde záleží na teplotě a trpělivosti.', 'Čas kynutí je v receptech vždy uvedený zvlášť, aby tě nepřekvapilo, že chleba nevznikne za hodinu.'] },
+  dezert: { h1: 'Dezerty a cukroví', title: 'Dezerty a cukroví – recepty na sladké', intro: ['Sušenky, cukroví, pudinky, zmrzliny, palačinky a lehké dezerty do skleničky. Sladké, které zvládneš i bez zkušeností.', 'U cukroví píšeme počet kusů, odpočinek těsta a skladování.'] },
+  dort: { h1: 'Dorty a zákusky', title: 'Dorty a zákusky – narozeninové i nepečené', intro: ['Dorty, řezy, větrníky, kremrole a zákusky z cukrárny. U každého je průměr formy a čas v lednici.', 'Dort se nejlépe krájí den po složení. Kdo peče na poslední chvíli, najde i nepečené varianty.'] },
+  napoj: { h1: 'Nápoje: limonády, káva, čaj a koktejly', title: 'Nápoje – káva, limonády, smoothie a koktejly', intro: ['Domácí limonády, ledová káva, smoothie, svařák a koktejly. Recepty s alkoholem jsou jen pro dospělé a mají nealko variantu.', 'Přesné množství v mililitrech je v každém receptu, protože o nápoji rozhodují poměry.'] },
+};
+const FAMILY_HUBS: Record<string, { h1: string; title: string; lead: string }> = {
+  kure: { h1: 'Kuřecí recepty', title: 'Kuřecí recepty – prsa, stehna, křidélka, kari', lead: 'Kuřecí prsa, stehna, křidélka i celé kuře. Drůbež vždy propeč na 75 °C uvnitř.' },
+  veprove: { h1: 'Vepřové recepty', title: 'Vepřové recepty – řízek, pečeně, guláš', lead: 'Řízky, pečeně, guláše i uzeniny. Vepřové propeč aspoň na 70 °C uvnitř.' },
+  hovezi: { h1: 'Hovězí recepty', title: 'Hovězí recepty – guláš, svíčková, steak', lead: 'Guláše, svíčková, steaky i hovězí vývar. U steaku najdeš teploty pro každý stupeň propečení.' },
+  'husa-kachna': { h1: 'Husa a kachna: recepty', title: 'Husa a kachna – pečené s knedlíky a zelím', lead: 'Pečená husa a kachna s červeným zelím. Pomalé pečení, výpek a teploty.' },
+  ryba: { h1: 'Recepty z ryb', title: 'Recepty z ryb – losos, kapr, treska, pstruh', lead: 'Losos, kapr, treska, pstruh i tuňák. U ryb hlídej teplotu uvnitř, 63 °C stačí.' },
+  'morske-plody': { h1: 'Mořské plody: recepty', title: 'Mořské plody – krevety a další recepty', lead: 'Krevety a další mořské plody, které se hotoví za pár minut.' },
+  vejce: { h1: 'Recepty s vejci', title: 'Recepty s vejci – snídaně, omelety, pomazánky', lead: 'Míchaná vejce, omelety, pomazánky a pečení, kde vejce drží celé jídlo pohromadě.' },
+  'syr-tvaroh': { h1: 'Recepty se sýrem a tvarohem', title: 'Recepty se sýrem a tvarohem – zapékané i sladké', lead: 'Zapečené těstoviny, sýrové omáčky, tvarohové koláče a pomazánky.' },
+  lusteniny: { h1: 'Recepty z luštěnin a tofu', title: 'Recepty z luštěnin a tofu – čočka, cizrna, fazole', lead: 'Čočka, cizrna, fazole, hrách a tofu. Sytá jídla, která vyjdou levně.' },
+  testoviny: { h1: 'Těstoviny: recepty', title: 'Těstoviny – recepty od carbonary po zapékané', lead: 'Špagety, zapékané těstoviny, lasagne, noky a nudle ze světových kuchyní.' },
+  'ryze-obiloviny': { h1: 'Rýže a obiloviny: recepty', title: 'Recepty z rýže a obilovin – rizoto, bulgur, kroupy', lead: 'Rizoto, smažená rýže, bulgur, kuskus a kroupy.' },
+  brambory: { h1: 'Bramborové recepty', title: 'Bramborové recepty – bramboráky, kaše, hranolky', lead: 'Bramboráky, kaše, hranolky, knedlíky a zapékané brambory.' },
+  houby: { h1: 'Houbové recepty', title: 'Houbové recepty – polévky, omáčky, kuba', lead: 'Houbová polévka, omáčka, kuba i smažené žampiony.' },
+  zelenina: { h1: 'Recepty ze zeleniny', title: 'Recepty ze zeleniny – pečená, dušená, zapékaná', lead: 'Zelenina pečená, dušená, zapékaná i v salátech.' },
+  ovoce: { h1: 'Recepty s ovocem', title: 'Recepty s ovocem – koláče, smoothie, dezerty', lead: 'Koláče, smoothie, limonády a dezerty z ovoce.' },
+  orechy: { h1: 'Recepty s ořechy', title: 'Recepty s ořechy – cukroví, dorty, řezy', lead: 'Ořechové cukroví, dorty a řezy. Pozor na alergeny: ořechy jsou v receptech vždy vidět.' },
+  'testo-pecivo': { h1: 'Recepty z těsta a pečiva', title: 'Recepty z těsta – chleba, koláče, pizza', lead: 'Chleba, pizza, koláče, buchty a těsta, která se hodí na vše.' },
+};
+const DIET_HUBS: Record<string, { key: string; h1: string; title: string; intro: string[] }> = {
+  veganske: { key: 'vegan', h1: 'Veganské recepty', title: 'Veganské recepty – bez masa, vajec i mléka', intro: ['Recepty bez jakýchkoli živočišných surovin. Označení se počítá ze surovin, ne z odhadu, takže v receptu nenajdeš máslo ani vejce.', 'Recepty s alkoholem veganské neoznačujeme: víno a pivo se někdy čistí živočišnými látkami.'] },
+  'bez-lepku': { key: 'gf', h1: 'Bezlepkové recepty', title: 'Bezlepkové recepty – jídla bez pšenice a mouky', intro: ['Jídla, ve kterých není pšenice, žito, ječmen ani jiné suroviny s lepkem. Označení se počítá ze surovin receptu.', 'U každé suroviny ale čti obal: výrobci mění receptury a lepek se někdy přidává do omáček a koření. Při celiakii je to nutnost.'] },
+  'bez-laktozy': { key: 'lf', h1: 'Recepty bez mléka a laktózy', title: 'Recepty bez mléka a laktózy – jídla i dezerty', intro: ['Jídla bez mléka, smetany, másla a sýrů. Označení se počítá ze surovin receptu.', 'Pokud máš alergii na mléčnou bílkovinu, čti i složení zakoupených surovin: stopy mléka bývají v pečivu a uzeninách.'] },
+};
+
+function pushFacetHubs(hubs: Hub[], recipes: Recipe[], meta: Map<string, { meal: string; family: string | null; diets: string[] }>) {
+  const add = (slug: string, label: string, h1: string, title: string, intro: string[], list: Recipe[], filterQuery: string) => {
+    if (list.length < MIN_RECIPES) return;
+    hubs.push({
+      slug,
+      path: `/recepty/${slug}/`,
+      label,
+      h1,
+      title,
+      description: `${list.length} receptů: ${label.toLowerCase()}. S poctivými časy, přepočtem porcí, odhadem nákladů a nákupním seznamem.`,
+      intro,
+      recipes: list,
+      filterQuery,
+    });
+  };
+  for (const [id, h] of Object.entries(MEAL_HUBS)) add(`typ/${id}`, MEAL_LABELS[id] ?? id, h.h1, h.title, h.intro, recipes.filter((r) => meta.get(r.id)?.meal === id), `?typ=${id}`);
+  for (const [id, h] of Object.entries(FAMILY_HUBS)) {
+    add(`surovina/${id}`, FAMILY_LABELS[id] ?? id, h.h1, h.title, [h.lead, 'Recepty jsou seřazené podle toho, co se nejvíc hodí k obědu a večeři. Filtry vlevo zúží výběr podle času, stravy nebo obtížnosti.'], recipes.filter((r) => meta.get(r.id)?.family === id), `?surovina=${id}`);
+  }
+  for (const [slug, h] of Object.entries(DIET_HUBS)) {
+    const label = DIET_FACETS.find((d) => d.key === h.key)?.label ?? h.h1;
+    add(`dieta/${slug}`, label, h.h1, h.title, h.intro, recipes.filter((r) => meta.get(r.id)?.diets.includes(h.key)), `?dieta=${h.key}`);
+  }
+}
+
 export async function RECIPE_HUBS(): Promise<Hub[]> {
   const recipes = await allRecipes();
   const hubs: Hub[] = [];
@@ -161,6 +229,7 @@ export async function RECIPE_HUBS(): Promise<Hub[]> {
       description: `${list.length} receptů (${name}) s poctivými časy, přepočtem porcí, odhadem nákladů a nákupním seznamem. ${c.lead}`,
       intro: INTRO[id] ?? [c.lead],
       recipes: list,
+      filterQuery: `?kuchyne=${id}`,
     });
   }
   for (const id of OCCASION_IDS) {
@@ -176,8 +245,11 @@ export async function RECIPE_HUBS(): Promise<Hub[]> {
       description: `${list.length} receptů (${o.label.toLowerCase()}) s poctivými časy, přepočtem porcí, odhadem nákladů a nákupním seznamem.`,
       intro: o.intro,
       recipes: list,
+      filterQuery: `?svatek=${id}`,
     });
   }
+  const meta = new Map((await recipeIndex()).recipes.map((r) => [r.id, { meal: r.meal, family: r.family, diets: r.diets as string[] }]));
+  pushFacetHubs(hubs, recipes, meta);
   const quick = recipes.filter((r) => totalMinutes(r) <= 30);
   if (quick.length >= MIN_RECIPES)
     hubs.push({

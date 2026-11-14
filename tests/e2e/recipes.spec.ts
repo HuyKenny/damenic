@@ -141,3 +141,12 @@ test('recipe browser: alcohol facet separates drinks, "co mám doma" ranks by mi
   await expect(page.getByTestId('recipe-count')).toContainText('recept');
   await expect(page.getByTestId('recipe-results')).toContainText('surovin');
 });
+
+test('facet hubs: diet, main ingredient and meal pages exist, list recipes and link to the filters', async ({ page }) => {
+  for (const [path, h1] of [['/recepty/dieta/veganske/', 'Veganské recepty'], ['/recepty/surovina/kure/', 'Kuřecí recepty'], ['/recepty/typ/polevka/', 'Recepty na polévky']] as const) {
+    await page.goto(path);
+    await expect(page.getByRole('heading', { level: 1 })).toHaveText(h1);
+    await expect(page.locator('article.card').first()).toBeVisible();
+    await expect(page.getByRole('link', { name: /Doladit filtry/ })).toHaveAttribute('href', /\/recepty\/\?/);
+  }
+});
