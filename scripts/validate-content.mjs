@@ -171,6 +171,7 @@ for (const [id, i] of ingredients) {
 for (const [id, a] of assets) {
   for (const k of ['file', 'kind', 'alt', 'source', 'author', 'license']) if (!a[k]) err(`asset ${id}: missing "${k}"`);
   if (a.source !== 'own' && !a.sourceUrl) err(`asset ${id}: sourceUrl is required for ${a.source}`);
+  if (a.source === 'pixabay' && !/^https:\/\/(cdn\.)?pixabay\.com\//.test(a.downloadUrl ?? '')) err(`asset ${id}: pixabay assets need a downloadUrl on pixabay.com`);
   if (a.source === 'pexels' && !/^https:\/\/images\.pexels\.com\//.test(a.downloadUrl ?? '')) err(`asset ${id}: pexels assets need a downloadUrl on images.pexels.com`);
 }
 

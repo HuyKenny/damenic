@@ -201,7 +201,7 @@ const assets = defineCollection({
     file: z.string(),
     kind: z.enum(['dish', 'restaurant', 'recipe', 'brand', 'og', 'illustration']),
     alt: z.string().min(5),
-    source: z.enum(['wikimedia', 'pexels', 'canva', 'own']),
+    source: z.enum(['wikimedia', 'pexels', 'pixabay', 'canva', 'own']),
     /** Direct download URL; CI fetches the file before the build, so photos never live in git or on the Pi. */
     downloadUrl: z.url().optional(),
     sourceUrl: z.url().nullable(),
