@@ -23,7 +23,7 @@ interface Props {
   recipe: Recipe;
 }
 const { recipe: r } = Astro.props;
-const alkLink = r.data.alcohol ? (alkLinks as Record<string, { url: string; title: string }>)[r.id] : undefined;
+const alkLink = r.data.alcohol ? (alkLinks as unknown as Record<string, { url: string; title: string }>)[r.id] : undefined;
 const info = await ingredientInfo();
 const lite = recipeLite(r);
 // Partners appear only when enabled and verified (see CONTENT_GUIDE.md).
