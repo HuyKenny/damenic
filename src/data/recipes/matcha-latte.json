@@ -14,6 +14,7 @@
   "cookMinutes": 2,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Matcha latte doma z 2 g matchy, 60 ml vody o teplotě 70 až 80 °C a 180 ml horkého mléka za pět minut. Voda nesmí vařit, matcha by byla hořká, a prášek je třeba rozšlehat metličkou, jinak vzniknou hrudky.",
   "ingredients": [
     {

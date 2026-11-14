@@ -106,6 +106,7 @@
   "cookMinutes": 20,
   "waitMinutes": 140,
   "difficulty": "střední",
+  "meal": "hlavni",
   "waitLabel": "kynutí těsta",
   "category": "pizza"
 }

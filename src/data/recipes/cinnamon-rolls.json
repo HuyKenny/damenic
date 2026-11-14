@@ -15,6 +15,7 @@
   "waitMinutes": 100,
   "waitLabel": "kynutí těsta",
   "difficulty": "střední",
+  "meal": "pecivo",
   "intro": "Cinnamon rolls recept: osm měkkých skořicových rolek z kynutého těsta se skořicovo-máslovou náplní a smetanovou polevou. Rozhoduje měkké těsto, které nepřisypáváš moukou, a pečení do zlatova, ne do hněda. Jinak vyschnou.",
   "ingredients": [
     {

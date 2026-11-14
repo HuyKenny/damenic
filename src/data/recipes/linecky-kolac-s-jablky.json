@@ -19,6 +19,7 @@
   "waitMinutes": 120,
   "waitLabel": "odpočinek těsta v lednici a vychladnutí koláče",
   "difficulty": "střední",
+  "meal": "pecivo",
   "vegetarian": true,
   "ingredients": [
     {

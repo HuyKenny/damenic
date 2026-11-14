@@ -15,6 +15,7 @@
   "waitMinutes": 600,
   "waitLabel": "namáčení hrachu přes noc",
   "difficulty": "snadné",
+  "meal": "priloha",
   "intro": "Hrachová kaše ze žlutého půleného hrachu s česnekem, majoránkou a osmaženou cibulkou pro čtyři. Hrách se namáčí přes noc a pak se hodinu vaří, dokud se nerozpadne. Hlídat je potřeba dno hrnce: hustá kaše se připaluje rychleji, než čekáš.",
   "ingredients": [
     {

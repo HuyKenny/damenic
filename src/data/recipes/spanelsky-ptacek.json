@@ -14,6 +14,7 @@
   "cookMinutes": 90,
   "waitMinutes": 0,
   "difficulty": "střední",
+  "meal": "hlavni",
   "ingredients": [
     {
       "ingredient": "hovezi-zadni",

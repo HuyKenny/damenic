@@ -120,6 +120,11 @@ for (const [id, d] of dishes) {
 
 // One source of truth for occasions: OCCASION_IDS in src/lib/occasions.ts.
 const OCCASIONS = [...readFileSync(new URL('../src/lib/occasions.ts', import.meta.url), 'utf8').match(/export const OCCASION_IDS = \[([\s\S]*?)\] as const/)[1].matchAll(/'([a-z-]+)'/g)].map((m) => m[1]);
+const cfg = readFileSync(new URL('../src/content.config.ts', import.meta.url), 'utf8');
+const listOf = (name) => [...cfg.match(new RegExp(`export const ${name} = \\[([\\s\\S]*?)\\] as const`))[1].matchAll(/'([a-z-]+)'/g)].map((m) => m[1]);
+const MEALS = listOf('MEALS');
+const DIETS = listOf('DIETS');
+const FAMILIES = listOf('FAMILIES');
 const RESERVED_RECIPE_SLUGS = ['kuchyne', 'prilezitosti', 'rychle', 'bez-masa'];
 
 for (const [id, r] of recipes) {
@@ -144,6 +149,7 @@ for (const [id, r] of recipes) {
     if (!convertible) err(`recipe ${id}: ${i.ingredient} is given in "${i.unit}" but is sold by "${ing.baseUnit}"${spoonUnit ? ' and has no spoon weight' : ''}`);
   }
   if (![...dishes.values()].some((d) => d.recipe === id)) warnings.push(`recipe ${id}: not linked from any dish`);
+  if (!MEALS.includes(r.meal)) err(`recipe ${id}: "meal" must be one of ${MEALS.join(', ')}`);
   for (const o of r.occasions ?? []) if (!OCCASIONS.includes(o)) err(`recipe ${id}: unknown occasion "${o}" (see src/lib/occasions.ts)`);
   const boozy = r.ingredients.filter((i) => ingredients.get(i.ingredient)?.alcohol).map((i) => i.ingredient);
   if (boozy.length && typeof r.alcohol !== 'boolean') err(`recipe ${id}: uses ${boozy.join(', ')} (alcohol): set "alcohol": true, or false only when it is cooked off`);
@@ -152,6 +158,8 @@ for (const [id, r] of recipes) {
 }
 
 for (const [id, i] of ingredients) {
+  if (!DIETS.includes(i.diet)) err(`ingredient ${id}: "diet" must be one of ${DIETS.join(', ')} (run scripts/damenic/ingredient-facets.py in the workspace)`);
+  if (i.family && !FAMILIES.includes(i.family)) err(`ingredient ${id}: unknown family "${i.family}"`);
   if (!DEPARTMENTS.includes(i.department)) err(`ingredient ${id}: unknown department "${i.department}"`);
   if (!['g', 'ml', 'ks'].includes(i.baseUnit)) err(`ingredient ${id}: baseUnit must be g, ml or ks`);
   if (!isMoney(i.pack?.price)) err(`ingredient ${id}: pack price must be a non-negative integer (haléře)`);

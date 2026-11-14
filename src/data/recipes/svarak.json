@@ -19,6 +19,7 @@
   "cookMinutes": 15,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Domácí svařák z červeného vína s pomerančem, skořicí a hřebíčkem na čtyři hrnky. Celé umění je v teplotě: koření se krátce povaří ve vodě s cukrem, ale víno se jen zahřeje na 70 až 80 °C a nevaří se. Jinak z hrnce odejde alkohol i vůně a zůstane hořká sladká voda.",
   "ingredients": [
     {

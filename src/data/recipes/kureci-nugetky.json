@@ -15,6 +15,7 @@
   "cookMinutes": 15,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "hlavni",
   "intro": "Kuřecí nugetky recept z kousků kuřecích prsou v klasickém trojobalu, smažených dozlatova, s medovo-hořčičným dipem. Aby zůstaly šťavnaté, musí být kousky stejně silné a smažit se krátce v oleji o 175 °C. Stejně dobře je upečeš v troubě.",
   "ingredients": [
     {

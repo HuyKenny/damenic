@@ -16,6 +16,7 @@
   "cookMinutes": 5,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Domácí horká čokoláda podle tohoto receptu je hustá jako v kavárně: kromě skutečné čokolády a kakaa ji zahustí lžička kukuřičného škrobu. Recept je na dva hrnky a hotový je za čtvrt hodiny. Celou dobu se míchá, protože čokoláda se ode dna snadno připálí.",
   "ingredients": [
     {

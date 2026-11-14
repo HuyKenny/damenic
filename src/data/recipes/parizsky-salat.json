@@ -15,6 +15,7 @@
   "waitMinutes": 180,
   "waitLabel": "vychladnutí masa a odležení salátu",
   "difficulty": "střední",
+  "meal": "salat",
   "intro": "Pařížský salát na chlebíčky z vařeného hovězího masa, kyselých okurek a cibule v majonéze s hořčicí. Vyjde asi 900 g, na 35 chlebíčků. Nejvíc času zabere maso: vaří se pomalu 2 až 2,5 hodiny a chladne přímo ve vývaru, aby zůstalo šťavnaté.",
   "ingredients": [
     {

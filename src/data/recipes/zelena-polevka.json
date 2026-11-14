@@ -17,6 +17,7 @@
   "cookMinutes": 25,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "polevka",
   "vegetarian": true,
   "ingredients": [
     {

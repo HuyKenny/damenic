@@ -19,6 +19,7 @@
   "waitMinutes": 420,
   "waitLabel": "chladnutí korpusu a odležení dortu v lednici",
   "difficulty": "střední",
+  "meal": "dort",
   "intro": "Narozeninový dort se třemi pláty piškotu, pevným krémem z mascarpone a šlehačky a čerstvým ovocem uvnitř i navrchu. Peče se ve formě o průměru 24 cm a vystačí na 12 dílků. Korpus je nejlepší upéct den předem, hotový dort pak potřebuje aspoň 4 hodiny v lednici, aby se vrstvy spojily.",
   "ingredients": [
     {

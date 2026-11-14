@@ -15,6 +15,7 @@
   "waitMinutes": 40,
   "waitLabel": "zasychání cukrové krusty a chladnutí korpusů",
   "difficulty": "střední",
+  "meal": "dort",
   "vegetarian": true,
   "ingredients": [
     {

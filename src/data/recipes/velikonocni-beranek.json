@@ -19,6 +19,7 @@
   "waitMinutes": 60,
   "waitLabel": "chladnutí ve formě a na mřížce",
   "difficulty": "snadné",
+  "meal": "dort",
   "vegetarian": true,
   "ingredients": [
     {

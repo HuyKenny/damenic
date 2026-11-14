@@ -16,6 +16,7 @@
   "waitMinutes": 5,
   "waitLabel": "vychlazení sklenice v mrazáku",
   "difficulty": "střední",
+  "meal": "napoj",
   "intro": "Daiquiri je klasický kubánský koktejl ze tří surovin: bílého rumu, čerstvé limetkové šťávy a cukrového sirupu v poměru asi 60 : 25 : 15 ml, protřepaný s ledem a podávaný bez ledu ve vychlazené sklenici. Nejde o mraženou ovocnou kaši z mixéru, i když i ta nese stejné jméno. Celé umění je ve vyvážení kyselého a sladkého.",
   "ingredients": [
     {

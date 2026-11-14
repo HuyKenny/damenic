@@ -6,6 +6,7 @@
   "waitMinutes": 15,
   "waitLabel": "marinování masa",
   "difficulty": "střední",
+  "meal": "hlavni",
   "vegetarian": false,
   "intro": "Kuře kung pao pro dva s praženými arašídy a jasmínovou rýží. Stojí na krátké marinádě se škrobem, omáčce namíchané předem a opravdu rozpálené pánvi.",
   "ingredients": [

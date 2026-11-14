@@ -15,6 +15,7 @@
   "waitMinutes": 60,
   "waitLabel": "kynutí těsta",
   "difficulty": "střední",
+  "meal": "hlavni",
   "intro": "Chačapuri je gruzínské jídlo, chléb plněný sýrem, a adžarské chačapuri je jeho nejznámější podoba: loďka z kynutého těsta se slaným sýrem, do které se po upečení vloží žloutek a kousek másla. Na webu ho řadíme k italské kuchyni jako nejbližšího příbuzného pizzy, ale původem je z Gruzie. Gruzínské sýry sulguni a imeruli tu nahrazuje směs mozzarelly a balkánského sýra.",
   "ingredients": [
     {

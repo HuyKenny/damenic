@@ -15,6 +15,7 @@
   "waitMinutes": 30,
   "waitLabel": "odležení v lednici",
   "difficulty": "snadné",
+  "meal": "predkrm",
   "intro": "Tuňáková pomazánka ze smetanového sýru, tuňáka v konzervě, červené cibule a nakládané okurky je hotová za deset minut a před jídlem ještě půl hodiny odpočívá v lednici. Důležité je tuňáka dobře scedit, jinak pomazánka zvodní.",
   "ingredients": [
     {

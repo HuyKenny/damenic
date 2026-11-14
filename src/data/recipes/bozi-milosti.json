@@ -18,6 +18,7 @@
   "waitMinutes": 30,
   "waitLabel": "odpočinek těsta v lednici",
   "difficulty": "střední",
+  "meal": "dezert",
   "vegetarian": true,
   "ingredients": [
     {

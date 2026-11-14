@@ -16,6 +16,7 @@
   "waitMinutes": 7,
   "waitLabel": "vychlazení sklenice v mrazáku",
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Cuba libre je long drink z rumu, koly a limetky. Od obyčejného rumu s kolou ho odlišuje právě čerstvá limetka: šťáva drink osvěží a ubere mu přeslazenou chuť. Poměr je asi 1 : 2,5, tedy 50 ml rumu na 120 ml vychlazené koly a 10 až 15 ml limetkové šťávy.",
   "ingredients": [
     {

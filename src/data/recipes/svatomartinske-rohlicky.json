@@ -18,6 +18,7 @@
   "waitMinutes": 95,
   "waitLabel": "kynutí těsta a vytvarovaných rohlíčků",
   "difficulty": "střední",
+  "meal": "pecivo",
   "vegetarian": true,
   "ingredients": [
     {

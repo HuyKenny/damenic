@@ -14,6 +14,7 @@
   "cookMinutes": 40,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "polevka",
   "intro": "Kapustová polévka s bramborami a uzeným masem je hustá, zimní a hotová za asi hodinu. Hlávková kapusta se vaří jen 15 až 20 minut, takže polévka neztratí barvu ani chuť. Těžké je nepřevařit kapustu, jinak zhořkne.",
   "ingredients": [
     {

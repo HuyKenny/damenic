@@ -14,6 +14,7 @@
   "cookMinutes": 165,
   "waitMinutes": 0,
   "difficulty": "střední",
+  "meal": "omacka",
   "ingredients": [
     {
       "ingredient": "hovezi-zadni",

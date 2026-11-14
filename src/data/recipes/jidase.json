@@ -19,6 +19,7 @@
   "waitMinutes": 105,
   "waitLabel": "kynutí těsta a vytvarovaných jidášů",
   "difficulty": "střední",
+  "meal": "pecivo",
   "vegetarian": true,
   "ingredients": [
     {

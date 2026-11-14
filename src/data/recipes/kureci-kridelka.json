@@ -16,6 +16,7 @@
   "waitMinutes": 60,
   "waitLabel": "marinování v lednici",
   "difficulty": "snadné",
+  "meal": "hlavni",
   "intro": "Kuřecí křidélka recept na medovo-sójovou marinádu s česnekem, pečená v troubě do lepkavé glazury. Těžké na tom je jen jedno: med se snadno připálí, takže část marinády se odloží stranou a křidélka se jí potřou až na posledních deset minut.",
   "ingredients": [
     {

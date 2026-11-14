@@ -15,6 +15,7 @@
   "waitMinutes": 30,
   "waitLabel": "marinování masa",
   "difficulty": "střední",
+  "meal": "hlavni",
   "intro": "Korean fried chicken je korejské smažené kuře, které se smaží dvakrát a pak se obalí v lepkavé glazuře z gochujangu, medu a česneku. První smažení maso propeče, druhé udělá z tenkého škrobového těstíčka křehkou krustu, která v glazuře vydrží křupavá.",
   "ingredients": [
     {

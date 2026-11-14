@@ -20,6 +20,7 @@
   "waitMinutes": 60,
   "waitLabel": "dosušení ve vypnuté troubě",
   "difficulty": "střední",
+  "meal": "dezert",
   "vegetarian": true,
   "ingredients": [
     {

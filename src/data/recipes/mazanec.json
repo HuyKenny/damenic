@@ -19,6 +19,7 @@
   "waitMinutes": 135,
   "waitLabel": "kynutí těsta a vytvarovaného bochníku",
   "difficulty": "střední",
+  "meal": "pecivo",
   "vegetarian": true,
   "ingredients": [
     {

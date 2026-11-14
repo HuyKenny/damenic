@@ -20,6 +20,7 @@
   "waitMinutes": 5,
   "waitLabel": "vychlazení sklenice v mrazáku",
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Mojito je kubánský long drink z bílého rumu, limetky, třtinového cukru, čerstvé máty a sodovky na drceném ledu. Recept je na jednu sklenici. Nejčastější chyba je máta utlučená na kaši: lístky se mají jen lehce přitlačit, aby pustily vůni, jinak drink zhořkne.",
   "ingredients": [
     {

@@ -15,6 +15,7 @@
   "waitMinutes": 30,
   "waitLabel": "chladnutí stočeného piškotu",
   "difficulty": "snadné",
+  "meal": "dort",
   "vegetarian": true,
   "ingredients": [
     {

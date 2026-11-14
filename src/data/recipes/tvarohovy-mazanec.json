@@ -19,6 +19,7 @@
   "waitMinutes": 30,
   "waitLabel": "chladnutí na mřížce",
   "difficulty": "snadné",
+  "meal": "pecivo",
   "vegetarian": true,
   "ingredients": [
     {

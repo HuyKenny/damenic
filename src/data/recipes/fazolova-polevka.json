@@ -14,6 +14,7 @@
   "cookMinutes": 30,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "polevka",
   "intro": "Fazolová polévka z konzervovaných bílých fazolí je hotová za 45 minut, bez namáčení a bez dlouhého vaření. Slanina, majoránka a kapka octa jí dají chuť, kterou čekáš od hospodské fazolačky. Těžké je jen nezahustit ji příliš.",
   "ingredients": [
     {

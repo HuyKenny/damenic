@@ -15,6 +15,7 @@
   "waitMinutes": 60,
   "waitLabel": "chladnutí a tuhnutí polevy",
   "difficulty": "snadné",
+  "meal": "dezert",
   "vegetarian": true,
   "ingredients": [
     {

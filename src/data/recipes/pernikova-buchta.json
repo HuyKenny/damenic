@@ -15,6 +15,7 @@
   "waitMinutes": 45,
   "waitLabel": "chladnutí a zaschnutí glazury",
   "difficulty": "snadné",
+  "meal": "pecivo",
   "vegetarian": true,
   "ingredients": [
     {

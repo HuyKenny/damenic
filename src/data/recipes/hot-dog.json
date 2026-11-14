@@ -15,6 +15,7 @@
   "cookMinutes": 20,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "hlavni",
   "intro": "Hot dog recept na americký hot dog s prohřátým párkem v měkké housce, hořčicí, kečupem, pomalu karamelizovanou cibulkou, smaženou cibulkou a okurkou. Celý vtip je v tom, že se párky nevaří, jen prohřejí, aby nepraskly, a cibulka dostane čas.",
   "ingredients": [
     {

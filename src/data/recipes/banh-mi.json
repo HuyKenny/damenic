@@ -15,6 +15,7 @@
   "waitMinutes": 60,
   "waitLabel": "marinování masa a nakládání zeleniny",
   "difficulty": "střední",
+  "meal": "hlavni",
   "intro": "Bánh mì je vietnamská bageta plněná marinovaným vepřovým, rychle nakládanou mrkví s ředkví, okurkou, koriandrem a chilli s majonézou. Spojuje francouzské pečivo s vietnamskými chutěmi: slanou rybí omáčkou, sladkokyselou zeleninou a čerstvými bylinkami. Recept je na čtyři bagetky a nejvíc práce dá krájení zeleniny na nudličky.",
   "ingredients": [
     {

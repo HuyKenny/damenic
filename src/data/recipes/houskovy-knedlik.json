@@ -15,6 +15,7 @@
   "waitMinutes": 70,
   "waitLabel": "kynutí těsta",
   "difficulty": "střední",
+  "meal": "priloha",
   "ingredients": [
     {
       "ingredient": "mouka-polohruba",

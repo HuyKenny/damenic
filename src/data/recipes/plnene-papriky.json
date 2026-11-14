@@ -14,6 +14,7 @@
   "cookMinutes": 50,
   "waitMinutes": 0,
   "difficulty": "střední",
+  "meal": "hlavni",
   "ingredients": [
     {
       "ingredient": "paprika-zelena",

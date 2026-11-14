@@ -3472,3 +3472,21 @@ dialog.dlg--drawer {
 .footer .linklike {
   color: inherit;
 }
+
+/* recipe filters (/recepty/) */
+.rbrowser {
+  margin-bottom: 8px;
+}
+.rbrowser__meals {
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  padding: 0 0 6px;
+  scrollbar-width: thin;
+}
+.rbrowser__meals li {
+  flex: 0 0 auto;
+  list-style: none;
+}
+.rbrowser .fpanel fieldset small {
+  opacity: 0.7;
+}

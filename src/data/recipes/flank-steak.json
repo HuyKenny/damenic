@@ -15,6 +15,7 @@
   "waitMinutes": 120,
   "waitLabel": "marinování v lednici",
   "difficulty": "střední",
+  "meal": "hlavni",
   "intro": "Flank steak je štíhlý hovězí kus s výrazným chuťovým vláknem, který se nesmí přepéct a musí se správně nakrájet. Tady je marináda na dvě hodiny, doba smažení na pánvi nebo grilu, teploty uvnitř pro všechny stupně propečení a krájení proti vláknům.",
   "ingredients": [
     {

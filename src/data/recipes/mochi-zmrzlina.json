@@ -15,6 +15,7 @@
   "waitMinutes": 195,
   "waitLabel": "zmražení kuliček zmrzliny a hotových mochi",
   "difficulty": "střední",
+  "meal": "dezert",
   "intro": "Mochi zmrzlina je kulička zmrzliny zabalená v tenkém tažném těstě z lepivé rýžové mouky. Z receptu vyjde 8 kusů, dva na porci. Těsto se uvaří v mikrovlnné troubě za pár minut, náročné je hlavně balení: zmrzlina musí být tvrdě zmražená a práce rychlá, jinak se roztéká.",
   "ingredients": [
     {

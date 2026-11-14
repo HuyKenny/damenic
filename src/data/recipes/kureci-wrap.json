@@ -15,6 +15,7 @@
   "cookMinutes": 12,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "hlavni",
   "intro": "Wrap recept na kuřecí wrap z pšeničné tortilly, opečeného kořeněného kuřecího prsa, zeleniny a česnekového jogurtového dresinku. Aby se tortilla při balení netrhala a wrap nerozpadl, musí být tortilla nahřátá a náplně ne víc, než unese.",
   "ingredients": [
     {

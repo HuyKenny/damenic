@@ -14,6 +14,7 @@
   "cookMinutes": 75,
   "waitMinutes": 0,
   "difficulty": "střední",
+  "meal": "polevka",
   "intro": "Gulášová polévka je gulášová chuť v řidší podobě: hovězí zadní, hodně cibule a hodně sladké papriky v 5 porcích. Celé to trvá asi hodinu a půl, z toho 30 minut práce. Těžké je nespálit papriku a vařit maso, až je opravdu měkké.",
   "ingredients": [
     {

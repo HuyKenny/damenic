@@ -16,6 +16,7 @@
   "waitMinutes": 180,
   "waitLabel": "chladnutí pudinku a zrání laskonek v lednici",
   "difficulty": "střední",
+  "meal": "dort",
   "vegetarian": true,
   "ingredients": [
     {

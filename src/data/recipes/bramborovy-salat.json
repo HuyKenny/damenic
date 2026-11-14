@@ -15,6 +15,7 @@
   "waitMinutes": 240,
   "waitLabel": "vychladnutí brambor a odležení salátu v lednici",
   "difficulty": "snadné",
+  "meal": "salat",
   "ingredients": [
     {
       "ingredient": "brambory",

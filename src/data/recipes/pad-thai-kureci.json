@@ -6,6 +6,7 @@
   "waitMinutes": 20,
   "waitLabel": "namáčení nudlí",
   "difficulty": "střední",
+  "meal": "hlavni",
   "vegetarian": false,
   "intro": "Pad thai pro dva s kuřecím masem, vejcem a arašídy. Závisí na omáčce namíchané předem a na tom, že máš před restováním všechno nakrájené a po ruce.",
   "ingredients": [

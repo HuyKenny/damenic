@@ -19,6 +19,7 @@
   "waitMinutes": 80,
   "waitLabel": "namočení rozinek a vychladnutí",
   "difficulty": "střední",
+  "meal": "pecivo",
   "vegetarian": true,
   "ingredients": [
     {

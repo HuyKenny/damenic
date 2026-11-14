@@ -14,6 +14,7 @@
   "waitMinutes": 1440,
   "waitLabel": "louhování v lednici",
   "difficulty": "střední",
+  "meal": "napoj",
   "intro": "Bezinková limonáda se dělá z domácího bezinkového sirupu, který se louhuje 24 hodin v lednici. Recept obsahuje výrobu sirupu z květů černého bezu s kyselinou citronovou i zředění na limonádu. U sirupu je důležité správné uskladnění, proto je v receptu uvedená trvanlivost.",
   "ingredients": [
     {

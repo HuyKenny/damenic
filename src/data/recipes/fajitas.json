@@ -15,6 +15,7 @@
   "waitMinutes": 30,
   "waitLabel": "marinování masa",
   "difficulty": "snadné",
+  "meal": "hlavni",
   "tips": [
     "Pánev nepřeplňuj. Když je v ní moc masa najednou, pustí šťávu a dusí se místo opékání.",
     "K fajitas se hodí guacamole a salsa z čerstvých rajčat."

@@ -7,6 +7,7 @@
   "cookMinutes": 30,
   "waitMinutes": 0,
   "difficulty": "střední",
+  "meal": "hlavni",
   "vegetarian": false,
   "intro": "Čtyři hovězí burgery s rozteklou nivou a cibulí karamelizovanou na másle. Nejdéle trvá cibule, potřebuje půl hodiny na mírném ohni a nedá se uspěchat.",
   "ingredients": [

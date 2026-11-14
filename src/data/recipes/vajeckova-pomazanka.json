@@ -15,6 +15,7 @@
   "waitMinutes": 30,
   "waitLabel": "odležení v lednici",
   "difficulty": "snadné",
+  "meal": "predkrm",
   "intro": "Vajíčková pomazánka z natvrdo uvařených vajec, majonézy a bílého jogurtu vystačí na čtyři porce chlebíčků nebo krajíců. Těžké je jediné: vejce uvařit tak, aby byl žloutek žlutý a ne šedozelený, a pomazánku nenechat vodnatou.",
   "ingredients": [
     {

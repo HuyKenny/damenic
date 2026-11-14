@@ -14,6 +14,7 @@
   "cookMinutes": 2,
   "waitMinutes": 0,
   "difficulty": "střední",
+  "meal": "napoj",
   "intro": "Flat white doma z dvojitého espressa a 120 ml mléka za deset minut. Těžké je mléko: musí mít teplotu 60 až 65 °C a jemnou mikropěnu bez velkých bublin, jinak se z flat white stane obyčejná káva s mlékem.",
   "ingredients": [
     {

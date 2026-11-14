@@ -14,6 +14,7 @@
   "cookMinutes": 35,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "polevka",
   "intro": "Minestrone je italská zeleninová polévka s fazolemi a těstovinami, která využije, co zrovna ve spíži máš. Na 6 porcí vychází za 1 hodinu, z toho 25 minut krájení. Těžké je uvařit těstoviny tak, aby neztloustly, protože polévku možná budeš ohřívat.",
   "ingredients": [
     {

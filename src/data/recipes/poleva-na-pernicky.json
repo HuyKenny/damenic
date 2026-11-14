@@ -16,6 +16,7 @@
   "waitMinutes": 480,
   "waitLabel": "zasychání polevy (6 až 12 hodin)",
   "difficulty": "střední",
+  "meal": "dort",
   "vegetarian": true,
   "occasions": [
     "vanocni-cukrovi",

@@ -6,6 +6,7 @@
   "waitMinutes": 15,
   "waitLabel": "marinování masa",
   "difficulty": "střední",
+  "meal": "hlavni",
   "vegetarian": false,
   "intro": "Restované nudle udon pro dva s plátky hovězího a křupavou zeleninou. Výsledek závisí na tence nakrájeném mase, které se opeče zvlášť a rychle, a na pánvi rozpálené naplno.",
   "ingredients": [

@@ -14,6 +14,7 @@
   "cookMinutes": 60,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "polevka",
   "intro": "Hrachová polévka z půleného žlutého hrachu se vaří bez namáčení z jednoho hrnce, asi hodinu. Uzené maso dodá chuť a majoránka dokončí klasiku. Těžké je jen to, aby se hrách nepřipálil, a sůl přidávat až na závěr.",
   "ingredients": [
     {

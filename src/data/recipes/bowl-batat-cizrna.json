@@ -8,6 +8,7 @@
   "cookMinutes": 30,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "hlavni",
   "intro": "Dvě velké misky s pečeným batátem, křupavou kořeněnou cizrnou, špenátem a kuskusem. Většinu práce udělá trouba, záleží jen na tom, aby batát i cizrna ležely na plechu v jedné vrstvě.",
   "ingredients": [
     {

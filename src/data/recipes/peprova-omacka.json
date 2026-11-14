@@ -14,6 +14,7 @@
   "cookMinutes": 10,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "omacka",
   "intro": "Pepřová omáčka ke steaku se dělá na stejné pánvi jako maso a zabere deset minut. Rozhoduje opražený a rozdrcený pepř, zredukovaný vývar a smetana, která se jen krátce svaří. Tady je postup s brandy i bez něj, aby omáčka nebyla vodová ani moc hustá.",
   "ingredients": [
     {

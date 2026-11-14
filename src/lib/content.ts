@@ -7,6 +7,8 @@ import type { SearchEntry } from './search';
 import { CATEGORY_LABELS } from './site';
 import { recipeCost } from './costs';
 import type { RestaurantSummary } from './filters';
+import { deriveFacets, foldText, type IngredientFacetInfo, type RecipeSummary } from './recipe-facets';
+import { toBase } from './units';
 
 export type Restaurant = CollectionEntry<'restaurants'>;
 export type Dish = CollectionEntry<'dishes'>;
@@ -233,4 +235,61 @@ export async function primaryDishForRecipe(): Promise<Map<string, string>> {
   const out = new Map<string, string>();
   for (const d of mains) if (!out.has(d.data.recipe!.id)) out.set(d.data.recipe!.id, d.id);
   return out;
+}
+
+// ---------- v3.2: recipe index for the filter island (static JSON, see src/pages/data/recipes.json.ts) ----------
+
+let recipeIndexMemo: Promise<{ recipes: RecipeSummary[]; ingredients: { id: string; name: string }[] }> | null = null;
+export function recipeIndex(): Promise<{ recipes: RecipeSummary[]; ingredients: { id: string; name: string }[] }> {
+  return (recipeIndexMemo ??= (async () => {
+    const info = await ingredientInfo();
+    const facetInfo: Record<string, IngredientFacetInfo> = {};
+    for (const [id, i] of Object.entries(info)) facetInfo[id] = { diet: i.diet ?? 'plant', allergens: i.allergens ?? [], ...(i.family ? { family: i.family } : {}), baseUnit: i.baseUnit, ...(i.staple ? { staple: true } : {}) };
+    const used = new Map<string, number>();
+    const recipes: RecipeSummary[] = [];
+    for (const r of await allRecipes()) {
+      const p = await photo(r.data.image);
+      let img: RecipeSummary['img'] = null;
+      if (p.meta) {
+        const widths = [280, 420, 560].filter((w) => w <= p.meta!.width);
+        const set = await Promise.all((widths.length ? widths : [p.meta.width]).map((w) => getImage({ src: p.meta!, width: w, height: Math.round(w / 1.6), fit: 'cover', format: 'webp', quality: 72 })));
+        img = { src: set[0]!.src, srcset: set.map((s, i) => `${s.src} ${(widths.length ? widths : [p.meta!.width])[i]}w`).join(', '), alt: p.alt };
+      }
+      const lite = recipeLite(r);
+      const f = deriveFacets(
+        {
+          steps: r.data.steps.map((s) => s.text),
+          cookMinutes: r.data.cookMinutes,
+          ingredients: r.data.ingredients.map((i) => ({ id: i.ingredient.id, base: info[i.ingredient.id] ? (toBase(i.amount, i.unit, info[i.ingredient.id]!) ?? 0) : 0 })),
+        },
+        facetInfo,
+      );
+      const ing = [...new Set(lite.ingredients.map((i) => i.ingredient))].filter((id) => !info[id]?.staple && info[id]?.pack.price !== 0);
+      for (const id of ing) used.set(id, (used.get(id) ?? 0) + 1);
+      recipes.push({
+        id: r.id,
+        title: r.data.title,
+        q: foldText(`${r.data.title} ${r.data.keywords.join(' ')} ${CATEGORY_LABELS[r.data.category]?.label ?? ''} ${r.data.occasions.join(' ')}`),
+        category: r.data.category,
+        categoryLabel: CATEGORY_LABELS[r.data.category]?.label ?? '',
+        meal: r.data.meal,
+        family: f.family,
+        min: totalMinutes(r),
+        act: r.data.activeMinutes,
+        difficulty: r.data.difficulty,
+        servings: r.data.servings,
+        diets: f.diets,
+        methods: f.methods,
+        alcohol: r.data.alcohol ?? false,
+        occasions: r.data.occasions,
+        cost: Math.round(perServingCost(r, info) / 100),
+        ing,
+        w: Math.min(r.data.faq.length, 3) + Math.min(r.data.tips.length, 4) + Math.min(r.data.substitutions.length, 3) + (img ? 3 : 0) + Math.min(r.data.keywords.length, 3),
+        img,
+      });
+    }
+    // the "what do I have at home" picker offers ingredients that appear in at least 3 recipes
+    const ingredients = [...used.entries()].filter(([, n]) => n >= 3).map(([id]) => ({ id, name: info[id]!.name })).sort((a, b) => a.name.localeCompare(b.name, 'cs'));
+    return { recipes, ingredients };
+  })());
 }

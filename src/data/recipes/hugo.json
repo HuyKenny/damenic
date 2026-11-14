@@ -19,6 +19,7 @@
   "waitMinutes": 7,
   "waitLabel": "vychlazení sklenice v mrazáku",
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Hugo drink je lehký spritz z jižního Tyrolska: prosecco, bezinkový sirup, sodovka, čerstvá máta a limetka na ledu. Na jednu sklenici stačí 20 ml sirupu na 120 ml prosecca, víc sirupu z drinku udělá limonádu. Mátu jen lehce plácni v dlaních, rozmačkaná by hořkla.",
   "ingredients": [
     {

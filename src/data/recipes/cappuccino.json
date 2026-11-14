@@ -14,6 +14,7 @@
   "cookMinutes": 2,
   "waitMinutes": 0,
   "difficulty": "střední",
+  "meal": "napoj",
   "intro": "Cappuccino doma z dvojitého espressa a 100 ml mléka, které se napění a ohřeje na 60 až 65 °C. Klasický poměr je třetina espressa, třetina horkého mléka a třetina pěny, těžké je udržet pěnu jemnou a hustou.",
   "ingredients": [
     {

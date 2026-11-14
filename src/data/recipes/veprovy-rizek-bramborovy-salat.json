@@ -6,6 +6,7 @@
   "waitMinutes": 120,
   "waitLabel": "chladnutí brambor a odležení salátu v lednici",
   "difficulty": "střední",
+  "meal": "hlavni",
   "intro": "Čtyři smažené vepřové řízky a mísa majonézového bramborového salátu. Salát připrav jako první, potřebuje aspoň dvě hodiny v chladu; řízky se pak smaží těsně před jídlem.",
   "ingredients": [
     {

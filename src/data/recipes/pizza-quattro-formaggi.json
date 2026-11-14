@@ -14,6 +14,7 @@
   "waitMinutes": 140,
   "waitLabel": "kynutí těsta",
   "difficulty": "střední",
+  "meal": "hlavni",
   "intro": "Dvě bílé pizzy se čtyřmi sýry, bez rajčat. Kromě kynutí zabere práce asi půl hodiny a výsledek stojí na tom, aby sýry byly dobře rozdělené a pizza se nepekla moc dlouho.",
   "ingredients": [
     {

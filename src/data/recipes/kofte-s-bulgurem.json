@@ -9,6 +9,7 @@
   "waitMinutes": 30,
   "waitLabel": "odležení masové směsi",
   "difficulty": "střední",
+  "meal": "hlavni",
   "vegetarian": false,
   "ingredients": [
     {

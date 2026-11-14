@@ -18,6 +18,7 @@
   "cookMinutes": 5,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Grog je nejjednodušší horký nápoj zimy: rum, horká voda, cukr a citron. Recept je na dva hrnky v poměru 1 díl rumu na 4 díly vody. Rum se do hrnku přilévá až nakonec a nikdy se nevaří.",
   "ingredients": [
     {

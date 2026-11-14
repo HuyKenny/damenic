@@ -16,6 +16,7 @@
   "waitMinutes": 5,
   "waitLabel": "vychlazení sklenice v mrazáku",
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Caipirinha je brazilský národní koktejl z cachaçi, limetky a cukru na drceném ledu. Cachaça je pálenka z čerstvé šťávy cukrové třtiny, ne z melasy jako většina rumů, a proto chutná trávověji a ovocněji. Limetku rozmačkáš s cukrem přímo ve sklenici, jen aby pustila šťávu; rozdrcená bílá dužina by drink zahořkla.",
   "ingredients": [
     {

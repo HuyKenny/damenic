@@ -19,6 +19,7 @@
   "cookMinutes": 20,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Vánoční punč je na rozdíl od svařáku postavený na čaji, víc citrusech a kapce rumu. Recept je na šest hrnků, takže se hodí na Štědrý večer i na Silvestra. Čaj se louhuje jen krátce a víno s rumem se zahřívají pod bodem varu.",
   "ingredients": [
     {

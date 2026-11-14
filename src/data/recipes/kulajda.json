@@ -15,6 +15,7 @@
   "waitMinutes": 20,
   "waitLabel": "namáčení sušených hub",
   "difficulty": "střední",
+  "meal": "polevka",
   "ingredients": [
     {
       "ingredient": "houby-susene",

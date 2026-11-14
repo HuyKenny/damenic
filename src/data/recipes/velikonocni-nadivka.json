@@ -19,6 +19,7 @@
   "waitMinutes": 10,
   "waitLabel": "odstátí před krájením",
   "difficulty": "snadné",
+  "meal": "priloha",
   "vegetarian": false,
   "ingredients": [
     {

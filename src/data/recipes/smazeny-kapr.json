@@ -19,6 +19,7 @@
   "waitMinutes": 30,
   "waitLabel": "odležení osolených porcí v lednici",
   "difficulty": "střední",
+  "meal": "hlavni",
   "vegetarian": false,
   "ingredients": [
     {

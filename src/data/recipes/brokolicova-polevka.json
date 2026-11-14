@@ -14,6 +14,7 @@
   "cookMinutes": 20,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "polevka",
   "intro": "Brokolicová polévka je hotová za 35 minut a vychází sytě zelená, krémová a bez mouky. Těžké je jen jedno: nepřevařit brokolici, jinak zešedne a zhořkne. Brambor v ní dělá práci zahušťovadla.",
   "ingredients": [
     {

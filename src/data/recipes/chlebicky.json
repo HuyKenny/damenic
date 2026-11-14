@@ -16,6 +16,7 @@
   "waitMinutes": 180,
   "waitLabel": "vychladnutí brambor a odležení salátu v lednici",
   "difficulty": "střední",
+  "meal": "predkrm",
   "intro": "Obložené chlebíčky z veky s jemným bramborovým salátem, šunkou, vejcem, sýrem a okurkou. Ze dvou vek vyjde asi 36 chlebíčků, tedy tři na osobu pro dvanáct lidí. Těžké na nich není nic kromě načasování: salát se dělá den předem, skládá se nejvýš 3 až 4 hodiny před podáváním.",
   "ingredients": [
     {

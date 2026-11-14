@@ -6,6 +6,7 @@
   "waitMinutes": 20,
   "waitLabel": "chlazení obaleného sýra v mrazáku",
   "difficulty": "snadné",
+  "meal": "hlavni",
   "vegetarian": true,
   "intro": "Čtyři porce smaženého eidamu s hranolky z trouby a tatarskou omáčkou. Úspěch závisí na dvojitém obalu a na zchlazení sýra před smažením, jinak sýr vyteče do oleje.",
   "ingredients": [

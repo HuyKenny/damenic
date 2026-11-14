@@ -8,6 +8,7 @@
   "waitMinutes": 60,
   "waitLabel": "marinování masa",
   "difficulty": "střední",
+  "meal": "hlavni",
   "vegetarian": false,
   "intro": "Čtyři burgery s obalovaným kuřecím stehenním řízkem a domácím coleslaw. Křupavost závisí na hrudkovitém obalu z mouky a škrobu a na oleji, který drží kolem 170 °C.",
   "ingredients": [

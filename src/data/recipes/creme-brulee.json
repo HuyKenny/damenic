@@ -15,6 +15,7 @@
   "waitMinutes": 250,
   "waitLabel": "louhování vanilky a tuhnutí v lednici",
   "difficulty": "střední",
+  "meal": "dezert",
   "vegetarian": true,
   "ingredients": [
     {

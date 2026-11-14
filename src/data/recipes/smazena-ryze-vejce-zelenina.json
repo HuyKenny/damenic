@@ -6,6 +6,7 @@
   "waitMinutes": 60,
   "waitLabel": "chladnutí rýže (nejlépe přes noc)",
   "difficulty": "snadné",
+  "meal": "hlavni",
   "vegetarian": true,
   "intro": "Vegetariánská smažená rýže pro dva s vejcem a křupavou zeleninou. Celý recept závisí na rýži uvařené předem a vychlazené, čerstvě uvařená se na pánvi slepí.",
   "ingredients": [

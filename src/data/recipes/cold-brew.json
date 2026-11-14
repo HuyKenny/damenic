@@ -15,6 +15,7 @@
   "waitMinutes": 840,
   "waitLabel": "louhování v lednici (12 až 16 h)",
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Cold brew je káva louhovaná 12 až 16 hodin ve studené vodě v lednici, z 60 g hrubě mleté kávy a 600 ml vody vznikne koncentrát na čtyři sklenice. Mletí musí být hrubé, jemný prášek vyluhuje hořkost a špatně se cedí.",
   "ingredients": [
     {

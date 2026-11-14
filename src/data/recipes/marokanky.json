@@ -19,6 +19,7 @@
   "waitMinutes": 45,
   "waitLabel": "zchladnutí hmoty a tuhnutí čokolády",
   "difficulty": "střední",
+  "meal": "dezert",
   "vegetarian": true,
   "ingredients": [
     {

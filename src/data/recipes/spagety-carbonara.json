@@ -6,6 +6,7 @@
   "cookMinutes": 10,
   "waitMinutes": 0,
   "difficulty": "střední",
+  "meal": "hlavni",
   "intro": "Carbonara pro dva za půl hodiny. Omáčka se nevaří: vzniká z vajec a sýra teplem čerstvě slitých těstovin, proto se pánev včas stahuje z plotny.",
   "ingredients": [
     {

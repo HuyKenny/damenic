@@ -15,6 +15,7 @@
   "waitMinutes": 90,
   "waitLabel": "změknutí másla a vychladnutí",
   "difficulty": "střední",
+  "meal": "dort",
   "vegetarian": true,
   "ingredients": [
     {

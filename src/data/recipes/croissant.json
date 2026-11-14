@@ -15,6 +15,7 @@
   "waitMinutes": 300,
   "waitLabel": "kynutí a chlazení mezi skládáním",
   "difficulty": "náročnější",
+  "meal": "pecivo",
   "intro": "Croissant recept z kynutého těsta prokládaného máslem: osm kusů, které se pečou za 18 minut, ale připravují za jeden celý den. Těžké není míchání, těžké je udržet máslo chladné, aby se při válení nerozmazalo do těsta a vznikly lístky.",
   "ingredients": [
     {

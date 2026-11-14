@@ -16,6 +16,7 @@
   "waitMinutes": 5,
   "waitLabel": "vychlazení sklenice v mrazáku",
   "difficulty": "střední",
+  "meal": "napoj",
   "intro": "Margarita drink je mexický koktejl z tequily, pomerančového likéru a čerstvé limetkové šťávy v poměru 2 : 1 : 1, protřepaný s ledem a podávaný ve sklenici se slaným okrajem. Recept je na jednu sklenici. Rozhoduje čerstvá limetka: šťáva z lahvičky dá drinku nepříjemnou pachuť.",
   "ingredients": [
     {

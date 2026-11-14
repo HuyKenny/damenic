@@ -14,6 +14,7 @@
   "cookMinutes": 95,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "hlavni",
   "ingredients": [
     {
       "ingredient": "veprove-plecko",

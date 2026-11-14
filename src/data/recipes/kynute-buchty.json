@@ -16,6 +16,7 @@
   "waitMinutes": 105,
   "waitLabel": "kynutí těsta a buchet, chladnutí",
   "difficulty": "střední",
+  "meal": "pecivo",
   "vegetarian": true,
   "ingredients": [
     {

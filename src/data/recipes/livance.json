@@ -15,6 +15,7 @@
   "waitMinutes": 45,
   "waitLabel": "kynutí těsta",
   "difficulty": "snadné",
+  "meal": "snidane",
   "ingredients": [
     {
       "ingredient": "mouka-polohruba",

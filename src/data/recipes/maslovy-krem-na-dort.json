@@ -16,6 +16,7 @@
   "waitMinutes": 120,
   "waitLabel": "chladnutí pudinku na pokojovou teplotu",
   "difficulty": "snadné",
+  "meal": "dort",
   "intro": "Klasický krém na dort z vanilkového pudinku a másla stačí na náplň i potažení jednoho dortu o průměru 24 cm. Je pevný, dobře se maže i stříká ze sáčku a v chladu drží tvar. Srazí se jen tehdy, když pudink a máslo nemají stejnou teplotu.",
   "ingredients": [
     {

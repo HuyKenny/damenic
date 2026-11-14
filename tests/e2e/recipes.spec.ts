@@ -96,3 +96,36 @@ test('Rohlik.cz call to action: short /go/ link, still labelled as an ad, only o
     await expect(page.getByTestId('partner-cta')).toHaveCount(0);
   }
 });
+
+test('recipe filters: facets narrow the list, URL keeps the state, static sections come back', async ({ page }) => {
+  await page.goto('/recepty/');
+  await hydrated(page.locator('body'));
+  await expect(page.locator('#recipe-static')).toBeVisible();
+  await page.getByTestId('show-all-recipes').click();
+  await expect(page.locator('#recipe-static')).toBeHidden();
+  const all = await page.getByTestId('recipe-count').innerText();
+  expect(parseInt(all, 10)).toBeGreaterThan(100);
+  await page.getByRole('button', { name: 'Bez masa', exact: true }).first().click();
+  await page.getByRole('button', { name: 'Do 30 minut' }).click();
+  await expect(page).toHaveURL(/dieta=veg/);
+  await expect(page).toHaveURL(/cas=30/);
+  const narrowed = parseInt(await page.getByTestId('recipe-count').innerText(), 10);
+  expect(narrowed).toBeGreaterThan(0);
+  expect(narrowed).toBeLessThan(parseInt(all, 10));
+  await page.getByTestId('recipe-search').fill('zzzneexistuje');
+  await expect(page.getByTestId('recipe-empty')).toBeVisible();
+  await page.getByRole('button', { name: 'Zrušit filtry' }).first().click();
+  await page.getByTestId('recipe-search').fill('');
+  await expect(page.locator('#recipe-static')).toBeVisible();
+});
+
+test('recipe filters: alcohol facet separates drinks, "co mám doma" ranks by missing ingredients', async ({ page }) => {
+  await page.goto('/recepty/?alkohol=only&typ=napoj');
+  await hydrated(page.locator('body'));
+  const n = parseInt(await page.getByTestId('recipe-count').innerText(), 10);
+  expect(n).toBeGreaterThan(5);
+  await expect(page.getByTestId('recipe-results').locator('.tag--adult').first()).toBeVisible();
+  await page.goto('/recepty/?doma=vejce,mouka-hladka');
+  await expect(page.getByTestId('recipe-count')).toContainText('recept');
+  await expect(page.getByTestId('recipe-results')).toContainText('surovin');
+});

@@ -16,6 +16,7 @@
   "waitMinutes": 7,
   "waitLabel": "vychlazení hrnku v mrazáku",
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Moscow mule je long drink z vodky, zázvorového piva a limetky, tradičně podávaný v měděném hrnku s ledem. Zázvorové pivo je nealkoholická pálivá zázvorová limonáda; s jemnější zázvorovou limonádou (ginger ale) bude drink sladší a bez říznutí. Recept je na jeden hrnek.",
   "ingredients": [
     {

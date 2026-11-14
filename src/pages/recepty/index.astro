@@ -4,6 +4,8 @@ import Breadcrumbs from '@/components/Breadcrumbs.astro';
 import RecipeCard from '@/components/RecipeCard.astro';
 import { allRecipes } from '@/lib/content';
 import Icon from '@/components/Icon.astro';
+import RecipeBrowser from '@/islands/RecipeBrowser';
+import { OCCASIONS, OCCASION_IDS } from '@/lib/occasions';
 import { RECIPE_HUBS, seasonalHub } from '@/lib/hubs';
 import { CATEGORY_LABELS } from '@/lib/site';
 
@@ -17,6 +19,8 @@ const PER_GROUP = 8;
 const groups = Object.entries(CATEGORY_LABELS)
   .map(([id, c]) => ({ id, ...c, recipes: recipes.filter((r) => r.data.category === id) }))
   .filter((g) => g.recipes.length);
+const filterCategories = groups.map((g) => ({ id: g.id, label: g.label }));
+const filterOccasions = occasionHubs.map((h) => ({ id: h.slug.slice('prilezitosti/'.length), label: OCCASIONS[h.slug.slice('prilezitosti/'.length) as (typeof OCCASION_IDS)[number]].label }));
 ---
 
 <Base
@@ -32,6 +36,8 @@ const groups = Object.entries(CATEGORY_LABELS)
         ilustrační odhady.
       </p>
     </div>
+    <RecipeBrowser client:load categories={filterCategories} occasions={filterOccasions} total={recipes.length} />
+    <div id="recipe-static">
     <ul class="fpanel__chips" aria-label="Kategorie receptů">
       {cuisineHubs.map((h) => <li><a class="fchip" href={h.path}>{h.label}</a></li>)}
     </ul>
@@ -77,5 +83,6 @@ const groups = Object.entries(CATEGORY_LABELS)
         </section>
       ))
     }
+    </div>
   </div>
 </Base>

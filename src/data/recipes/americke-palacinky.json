@@ -15,6 +15,7 @@
   "waitMinutes": 10,
   "waitLabel": "odpočinek těsta",
   "difficulty": "snadné",
+  "meal": "snidane",
   "ingredients": [
     {
       "ingredient": "mouka-hladka",

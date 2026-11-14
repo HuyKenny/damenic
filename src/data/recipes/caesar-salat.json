@@ -15,6 +15,7 @@
   "waitMinutes": 5,
   "waitLabel": "odpočinek masa po opečení",
   "difficulty": "snadné",
+  "meal": "salat",
   "intro": "Caesar salát s kuřecím masem, křupavými krutony a zálivkou z parmazánu, ančoviček a citronu pro čtyři. Klasická zálivka se míchá ze syrového žloutku, proto ji tady stavíme na majonéze; kdo chce původní verzi, smí použít jen pasterizovaný žloutek. Kuře se opéká do 75 °C uvnitř a římský salát musí být po umytí suchý, jinak zálivka steče na dno mísy.",
   "ingredients": [
     {

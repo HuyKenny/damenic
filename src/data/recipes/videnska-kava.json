@@ -14,6 +14,7 @@
   "cookMinutes": 2,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Vídeňská káva je silné espresso se šlehačkou, které doma uděláš za deset minut ze 100 ml smetany ke šlehání a dvojitého espressa. Šlehačka se šlehá jen do měkkých špiček, aby se dala nalít a nezůstala v hrnku jako hrudka.",
   "ingredients": [
     {

@@ -16,6 +16,7 @@
   "waitMinutes": 90,
   "waitLabel": "kynutí těsta a dokynutí bao před vařením",
   "difficulty": "střední",
+  "meal": "hlavni",
   "intro": "Dim sum je kantonská tradice malých jídel k čaji a baozi, kynuté bao buns vařené v páře, k ní patří. Tady jsou plněné vepřovým masem se zázvorem a jarní cibulkou a z těsta na 300 g mouky jich vyjde 12. Nejtěžší je stejnoměrně rozválet okraje, poskládat záhyby a hlídat, aby na těsto nekapala voda z pokličky.",
   "ingredients": [
     {

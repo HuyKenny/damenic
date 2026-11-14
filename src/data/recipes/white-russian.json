@@ -19,6 +19,7 @@
   "waitMinutes": 7,
   "waitLabel": "vychlazení sklenice v mrazáku",
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "White russian je sladký koktejl z vodky, kávového likéru a smetany, podávaný na ledu v nízké sklenici, v poměru 50 : 20 : 30 ml. Smetana se buď opatrně nalije navrch, aby vznikly dvě vrstvy, nebo se drink promíchá, záleží na tom, jak ho chceš pít. Black russian je totéž bez smetany.",
   "ingredients": [
     {

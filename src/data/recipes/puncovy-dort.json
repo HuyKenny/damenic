@@ -15,6 +15,7 @@
   "waitMinutes": 720,
   "waitLabel": "odležení pod zátěží v lednici (přes noc)",
   "difficulty": "náročnější",
+  "meal": "dort",
   "intro": "Punčový dort má světlý piškotový korpus, střed z kostek korpusu nasáklých rumovým sirupem s džemem a růžovou polevu. Peče se ve formě o průměru 24 cm a pak odleží přes noc pod zátěží v lednici, aby se vrstvy spojily. V sirupu je 80 ml tuzemáku nebo tmavého rumu, který se nevaří, takže dort obsahuje alkohol.",
   "ingredients": [
     {

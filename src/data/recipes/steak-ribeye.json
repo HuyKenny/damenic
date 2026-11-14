@@ -15,6 +15,7 @@
   "waitMinutes": 40,
   "waitLabel": "temperování masa mimo lednici",
   "difficulty": "střední",
+  "meal": "hlavni",
   "intro": "Steak ribeye na pánvi stojí na třech věcech: na masu, které je před smažením pokojové teploty, na rozpálené litinové pánvi a na teploměru. Tady je postup se stupni propečení od rare po well done, přesnými teplotami uvnitř a časem odpočinku, který z ribeye udělá šťavnatý kus.",
   "ingredients": [
     {

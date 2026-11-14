@@ -16,6 +16,7 @@
   "waitMinutes": 120,
   "waitLabel": "ztuhnutí rolek v lednici",
   "difficulty": "snadné",
+  "meal": "predkrm",
   "intro": "Jednohubky z tortilly jsou rolky z pšeničné placky se sýrovou pomazánkou, šunkou, salátem a paprikou nakrájené na kolečka. Ze čtyř tortill vyjde asi 36 kusů. Bez čekání to nejde: zabalené rolky musí alespoň 2 hodiny ztuhnout v lednici, jinak se při krájení rozjedou.",
   "ingredients": [
     {

@@ -8,6 +8,7 @@
   "cookMinutes": 0,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "hlavni",
   "vegetarian": false,
   "ingredients": [
     {

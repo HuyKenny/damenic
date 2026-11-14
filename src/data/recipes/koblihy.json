@@ -15,6 +15,7 @@
   "waitMinutes": 90,
   "waitLabel": "kynutí těsta",
   "difficulty": "střední",
+  "meal": "pecivo",
   "intro": "Koblihy recept z kynutého těsta: dvanáct kusů, které se smaží při 170 až 175 °C a plní marmeládou. Rozhoduje teplota oleje (měř teploměrem) a dost vykynuté těsto, aby kobliha měla světlý proužek a nebyla mastná.",
   "ingredients": [
     {

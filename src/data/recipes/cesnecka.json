@@ -14,6 +14,7 @@
   "cookMinutes": 25,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "polevka",
   "ingredients": [
     {
       "ingredient": "sadlo",

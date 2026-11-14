@@ -14,6 +14,7 @@
   "cookMinutes": 12,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Chai latte pro dva z černého čaje, mléka a koření, které se vaří 5 minut v 300 ml vody, aby se vytáhlo aroma. Čaj se přidává až nakonec a nevaří se déle než 4 minuty, jinak je hořký.",
   "ingredients": [
     {

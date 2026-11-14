@@ -15,6 +15,7 @@
   "waitMinutes": 60,
   "waitLabel": "odpočinek těsta v lednici",
   "difficulty": "střední",
+  "meal": "dezert",
   "vegetarian": true,
   "occasions": [
     "vanocni-cukrovi",

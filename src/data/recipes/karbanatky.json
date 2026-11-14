@@ -15,6 +15,7 @@
   "waitMinutes": 15,
   "waitLabel": "odležení masové směsi v lednici",
   "difficulty": "snadné",
+  "meal": "hlavni",
   "intro": "Smažené karbanátky z mletého vepřového a hovězího masa v trojobalu, z tohoto množství vyjde 8 kusů. Mleté maso musí být propečené, uvnitř aspoň 72 °C, takže je smaž na středním plameni, ne prudce. Namočený rohlík a vejce drží karbanátky šťavnaté a pohromadě.",
   "ingredients": [
     {

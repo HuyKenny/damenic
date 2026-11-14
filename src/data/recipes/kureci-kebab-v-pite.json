@@ -9,6 +9,7 @@
   "waitMinutes": 120,
   "waitLabel": "marinování masa",
   "difficulty": "střední",
+  "meal": "hlavni",
   "vegetarian": false,
   "ingredients": [
     {

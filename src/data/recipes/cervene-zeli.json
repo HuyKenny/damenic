@@ -17,6 +17,7 @@
   "cookMinutes": 65,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "priloha",
   "vegetarian": false,
   "ingredients": [
     {

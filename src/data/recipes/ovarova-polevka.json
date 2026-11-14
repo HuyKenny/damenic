@@ -17,6 +17,7 @@
   "cookMinutes": 220,
   "waitMinutes": 0,
   "difficulty": "střední",
+  "meal": "polevka",
   "vegetarian": false,
   "ingredients": [
     {

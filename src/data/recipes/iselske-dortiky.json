@@ -19,6 +19,7 @@
   "waitMinutes": 120,
   "waitLabel": "odpočinek těsta v lednici a tuhnutí polevy",
   "difficulty": "střední",
+  "meal": "dort",
   "vegetarian": true,
   "ingredients": [
     {

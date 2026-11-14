@@ -15,6 +15,7 @@
   "waitMinutes": 30,
   "waitLabel": "odležení těsta v lednici",
   "difficulty": "střední",
+  "meal": "hlavni",
   "intro": "Tvarohové knedlíky s jahodami z tvarohu, krupice a vajec, sypané strouhankou opraženou na másle. Z tohoto množství vyjde 12 knedlíků. Těsto bez kynutí potřebuje půl hodiny v lednici, aby krupice nabobtnala a knedlíky se při vaření nerozpadly.",
   "ingredients": [
     {

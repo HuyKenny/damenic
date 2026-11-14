@@ -20,6 +20,7 @@
   "waitMinutes": 7,
   "waitLabel": "vychlazení sklenice v mrazáku",
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Aperol Spritz je italský aperitiv z prosecca, hořkého pomerančového aperitivu a sodovky v poměru 3 : 2 : 1, tedy 90 ml, 60 ml a 30 ml na jednu sklenici. Těžké na něm není nic kromě pořadí a teploty: všechno musí být vychlazené, ledu má být sklenice plná a prosecco se nalévá jako první, aby se drink skoro nemusel míchat a neztratil bublinky.",
   "ingredients": [
     {

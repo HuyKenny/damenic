@@ -14,6 +14,7 @@
   "cookMinutes": 15,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Zázvorová limonáda se dělá ze zázvorového sirupu, který se vaří 15 minut s citronem a cukrem. Sirup vydrží v lednici dva týdny, takže jednou uvařený stačí na několik sklenic. Čím jemněji zázvor nastrouháš, tím víc štípe.",
   "ingredients": [
     {

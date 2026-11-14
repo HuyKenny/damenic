@@ -18,6 +18,7 @@
   "waitMinutes": 240,
   "waitLabel": "marinování masa v lednici (nejméně 4 h)",
   "difficulty": "snadné",
+  "meal": "omacka",
   "intro": "Univerzální marináda na maso na grilování z oleje, sójové omáčky, medu, hořčice a česneku, dávka na 1 kg masa pro čtyři. Hodí se na vepřové, kuřecí i hovězí. Rozhoduje doba marinování podle druhu masa, ta je v receptu rozepsaná.",
   "ingredients": [
     {

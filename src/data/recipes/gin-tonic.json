@@ -17,6 +17,7 @@
   "waitMinutes": 7,
   "waitLabel": "vychlazení sklenice v mrazáku",
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Gin tonic je nejjednodušší long drink: gin, tonic a hodně ledu. Osvědčený poměr ginu a toniku je 1 : 3, tedy 50 ml ginu na 150 ml toniku; s poměrem 1 : 2 je drink výraznější, s 1 : 4 lehčí. Rozhoduje teplota a bublinky, proto se tonic nalévá vychlazený a pomalu po lžíci.",
   "ingredients": [
     {

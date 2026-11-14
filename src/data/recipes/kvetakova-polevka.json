@@ -14,6 +14,7 @@
   "cookMinutes": 25,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "polevka",
   "intro": "Květáková polévka je jemná krémová polévka z jediné hlávky, hotová za 40 minut. Těžké je udržet ji bílou a nepřevařit, aby nezačala vonět po síře. Muškátový oříšek a špetka citronu jí dodají kulatou chuť.",
   "ingredients": [
     {

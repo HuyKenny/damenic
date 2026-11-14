@@ -13,6 +13,7 @@
   "cookMinutes": 35,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "hlavni",
   "intro": "Buřtguláš je rychlý guláš ze špekáčků, cibule a brambor, hotový za 55 minut pro čtyři porce. Nepotřebuje několikahodinové dušení jako hovězí guláš, ale musí mít spoustu cibule a papriku, kterou nesmíš spálit.",
   "steps": [
     {

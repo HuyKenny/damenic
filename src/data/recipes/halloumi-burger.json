@@ -7,6 +7,7 @@
   "cookMinutes": 0,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "hlavni",
   "vegetarian": true,
   "intro": "Čtyři bezmasé burgery s opečeným halloumi, avokádem a grilovanou cuketou. Všechno si připrav předem a sýr opékej až nakonec, po vychladnutí tuhne.",
   "ingredients": [

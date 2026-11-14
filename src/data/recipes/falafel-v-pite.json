@@ -9,6 +9,7 @@
   "waitMinutes": 30,
   "waitLabel": "chlazení směsi",
   "difficulty": "střední",
+  "meal": "hlavni",
   "vegetarian": true,
   "ingredients": [
     {

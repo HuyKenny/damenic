@@ -14,6 +14,7 @@
   "waitMinutes": 7200,
   "waitLabel": "pět dní v lednici",
   "difficulty": "snadné",
+  "meal": "predkrm",
   "intro": "Utopenci jsou nakládané špekáčky s cibulí v octovém nálevu, kterým se v české hospodě zakusuje pivo. Recept je pro čtyři porce a pracovně trvá asi 25 minut, pak se čeká pět dní v lednici. Dochucený nálev a čisté sklenice jsou hlavní podmínky trvanlivosti.",
   "steps": [
     {

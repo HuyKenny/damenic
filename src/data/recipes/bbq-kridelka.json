@@ -19,6 +19,7 @@
   "waitMinutes": 60,
   "waitLabel": "odležení v koření v lednici",
   "difficulty": "snadné",
+  "meal": "hlavni",
   "intro": "BBQ křidélka recept s domácí barbecue omáčkou z kečupu, medu, octa a uzené papriky, upečená v troubě nebo na grilu. Křidélka nejdřív odleží v suchém koření a omáčkou se natírají až na konci, protože cukr v ní by se jinak spálil dřív, než se maso propeče.",
   "ingredients": [
     {

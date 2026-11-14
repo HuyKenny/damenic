@@ -14,6 +14,7 @@
   "cookMinutes": 50,
   "waitMinutes": 0,
   "difficulty": "střední",
+  "meal": "polevka",
   "intro": "Cibulačka je polévka z pomalu karamelizované cibule s hovězím vývarem, a je to polévka, na které se pozná, kdo spěchal. Na 4 porce potřebuješ 800 g cibule, asi 35 minut mírné smažení a gratinovaný krajíc se sýrem. Nejtěžší je trpělivost, cibule se nesmí spálit.",
   "ingredients": [
     {

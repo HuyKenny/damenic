@@ -151,6 +151,11 @@ export interface IngredientInfo {
   priceCheckedAt: string | null;
   /** Pantry staples (salt, oil…) are pre-marked as probably at home in hints only. */
   staple?: boolean;
+  /** Recipe-filter facets (vegetarian/vegan, allergens, main-ingredient group); see src/lib/recipe-facets.ts. */
+  diet?: string;
+  allergens?: number[];
+  family?: string;
+  alcohol?: boolean;
 }
 
 export interface RecipeIngredient {

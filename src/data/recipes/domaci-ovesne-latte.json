@@ -14,6 +14,7 @@
   "cookMinutes": 2,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Domácí ovesné latte pro dva z 80 g ovesných vloček, 500 ml studené vody a dvojitého espressa. Ovesné mléko se mixuje jen 30 vteřin a ze studené vody, jinak se uvolní škrob a mléko je slizké.",
   "ingredients": [
     {

@@ -15,6 +15,7 @@
   "waitMinutes": 360,
   "waitLabel": "chladnutí krému a tuhnutí řezů v lednici",
   "difficulty": "střední",
+  "meal": "dort",
   "vegetarian": true,
   "ingredients": [
     {

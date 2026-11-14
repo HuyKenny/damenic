@@ -11,7 +11,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "cibule",
@@ -24,7 +26,10 @@
       "label": "síťka 1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "cervena-cibule",
@@ -37,7 +42,10 @@
       "label": "síťka 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "jarni-cibulka",
@@ -50,7 +58,10 @@
       "label": "svazek"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "cesnek",
@@ -63,7 +74,10 @@
       "label": "palice (asi 10 stroužků)"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "rajcata",
@@ -76,7 +90,10 @@
       "label": "vanička 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "cherry-rajcata",
@@ -89,7 +106,10 @@
       "label": "vanička 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "okurka-salatova",
@@ -102,7 +122,10 @@
       "label": "1 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "paprika-cervena",
@@ -115,7 +138,10 @@
       "label": "1 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "mrkev",
@@ -128,7 +154,10 @@
       "label": "sáček 1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "celer-bulva",
@@ -141,7 +170,12 @@
       "label": "bulva asi 600 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      9
+    ],
+    "family": "zelenina"
   },
   {
     "id": "petrzel-koren",
@@ -154,7 +188,10 @@
       "label": "svazek 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "brambory",
@@ -167,7 +204,10 @@
       "label": "sáček 2 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "brambory"
   },
   {
     "id": "zeli-bile",
@@ -180,7 +220,10 @@
       "label": "hlávka asi 1,5 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "zeli-cervene",
@@ -193,7 +236,10 @@
       "label": "hlávka asi 1,2 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "zeli-pekingske",
@@ -206,7 +252,10 @@
       "label": "hlávka asi 700 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "ledovy-salat",
@@ -219,7 +268,10 @@
       "label": "hlávka"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "rukola",
@@ -232,7 +284,10 @@
       "label": "sáček 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "spenat-baby",
@@ -245,7 +300,10 @@
       "label": "sáček 125 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "zampiony",
@@ -258,7 +316,10 @@
       "label": "vanička 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "houby"
   },
   {
     "id": "cuketa",
@@ -271,7 +332,10 @@
       "label": "asi 2 ks (500 g)"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "lilek",
@@ -284,7 +348,10 @@
       "label": "1 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "brokolice",
@@ -297,7 +364,10 @@
       "label": "1 ks (500 g)"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "batat",
@@ -310,7 +380,10 @@
       "label": "1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "brambory"
   },
   {
     "id": "avokado",
@@ -323,7 +396,10 @@
       "label": "1 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
   },
   {
     "id": "citron",
@@ -336,7 +412,10 @@
       "label": "1 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
   },
   {
     "id": "limetka",
@@ -349,7 +428,10 @@
       "label": "1 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
   },
   {
     "id": "zazvor",
@@ -362,7 +444,9 @@
       "label": "kousek 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "chilli-papricka",
@@ -375,7 +459,10 @@
       "label": "1 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "bazalka",
@@ -388,7 +475,9 @@
       "label": "květináč"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "petrzelka",
@@ -401,7 +490,9 @@
       "label": "svazek"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "koriandr",
@@ -414,7 +505,9 @@
       "label": "květináč"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "mata",
@@ -427,7 +520,9 @@
       "label": "květináč"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "pazitka",
@@ -440,7 +535,9 @@
       "label": "svazek"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "kopr",
@@ -453,7 +550,9 @@
       "label": "svazek"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "fazolove-klicky",
@@ -466,7 +565,10 @@
       "label": "sáček 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "jablko",
@@ -479,7 +581,10 @@
       "label": "1 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
   },
   {
     "id": "hovezi-mlete",
@@ -492,7 +597,10 @@
       "label": "balení 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "hovezi"
   },
   {
     "id": "hovezi-zadni",
@@ -505,7 +613,10 @@
       "label": "1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "hovezi"
   },
   {
     "id": "hovezi-klizka",
@@ -518,7 +629,10 @@
       "label": "1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "hovezi"
   },
   {
     "id": "hovezi-rostena",
@@ -531,7 +645,10 @@
       "label": "balení 400 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "hovezi"
   },
   {
     "id": "veprove-plecko",
@@ -544,7 +661,10 @@
       "label": "1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
   },
   {
     "id": "veprova-kyta",
@@ -557,7 +677,10 @@
       "label": "balení 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
   },
   {
     "id": "veprova-krkovice",
@@ -570,7 +693,10 @@
       "label": "1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
   },
   {
     "id": "veprovy-bucek",
@@ -583,7 +709,10 @@
       "label": "balení 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
   },
   {
     "id": "kureci-prsa",
@@ -596,7 +725,10 @@
       "label": "balení 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "kure"
   },
   {
     "id": "kureci-stehna",
@@ -609,7 +741,10 @@
       "label": "balení 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "kure"
   },
   {
     "id": "slanina",
@@ -622,7 +757,10 @@
       "label": "balení 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
   },
   {
     "id": "sunka",
@@ -635,7 +773,10 @@
       "label": "balení 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
   },
   {
     "id": "salam-pikantni",
@@ -648,7 +789,10 @@
       "label": "balení 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
   },
   {
     "id": "krevety",
@@ -661,7 +805,12 @@
       "label": "balení 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "shellfish",
+    "allergens": [
+      2
+    ],
+    "family": "morske-plody"
   },
   {
     "id": "uzene-maso",
@@ -674,7 +823,10 @@
       "label": "balení 300 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
   },
   {
     "id": "vejce",
@@ -687,7 +839,12 @@
       "label": "10 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "egg",
+    "allergens": [
+      3
+    ],
+    "family": "vejce"
   },
   {
     "id": "maslo",
@@ -701,7 +858,11 @@
       "label": "kostka 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ]
   },
   {
     "id": "mleko",
@@ -714,7 +875,11 @@
       "label": "1 l"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ]
   },
   {
     "id": "smetana-slehacka",
@@ -727,7 +892,11 @@
       "label": "250 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ]
   },
   {
     "id": "smetana-vareni",
@@ -740,7 +909,11 @@
       "label": "250 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ]
   },
   {
     "id": "zakysana-smetana",
@@ -754,7 +927,11 @@
       "label": "kelímek 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ]
   },
   {
     "id": "jogurt-bily",
@@ -768,7 +945,11 @@
       "label": "kelímek 150 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ]
   },
   {
     "id": "jogurt-recky",
@@ -782,7 +963,11 @@
       "label": "kelímek 400 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ]
   },
   {
     "id": "mozzarella",
@@ -795,7 +980,12 @@
       "label": "balení 125 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
   },
   {
     "id": "parmazan",
@@ -809,7 +999,12 @@
       "label": "klínek 150 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
   },
   {
     "id": "eidam",
@@ -822,7 +1017,12 @@
       "label": "blok 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
   },
   {
     "id": "cheddar",
@@ -835,7 +1035,12 @@
       "label": "balení 150 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
   },
   {
     "id": "hermelin",
@@ -848,7 +1053,12 @@
       "label": "1 ks 120 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
   },
   {
     "id": "feta",
@@ -861,7 +1071,12 @@
       "label": "balení 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
   },
   {
     "id": "niva",
@@ -874,7 +1089,12 @@
       "label": "balení 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
   },
   {
     "id": "halloumi",
@@ -887,7 +1107,12 @@
       "label": "balení 225 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
   },
   {
     "id": "tofu",
@@ -900,7 +1125,12 @@
       "label": "balení 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      6
+    ],
+    "family": "lusteniny"
   },
   {
     "id": "tvaroh",
@@ -913,7 +1143,12 @@
       "label": "vanička 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
   },
   {
     "id": "drozdi",
@@ -926,7 +1161,9 @@
       "label": "kostka 42 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "kysane-zeli",
@@ -939,7 +1176,10 @@
       "label": "sáček 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "bulky-burger",
@@ -952,7 +1192,12 @@
       "label": "4 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "tortilly",
@@ -965,7 +1210,12 @@
       "label": "6 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "pita",
@@ -978,7 +1228,12 @@
       "label": "5 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "chleb",
@@ -991,7 +1246,12 @@
       "label": "půlka 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "rohliky",
@@ -1004,7 +1264,12 @@
       "label": "1 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "toustovy-chleb",
@@ -1017,7 +1282,12 @@
       "label": "balení 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "strouhanka",
@@ -1031,7 +1301,12 @@
       "label": "sáček 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "mouka-hladka",
@@ -1046,7 +1321,12 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "mouka-hruba",
@@ -1061,7 +1341,12 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "mouka-polohruba",
@@ -1076,7 +1361,12 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "skrob",
@@ -1090,7 +1380,9 @@
       "label": "krabička 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "cukr",
@@ -1105,7 +1397,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "cukr-trtinovy",
@@ -1119,7 +1413,9 @@
       "label": "500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "med",
@@ -1133,7 +1429,9 @@
       "label": "sklenice 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "honey",
+    "allergens": []
   },
   {
     "id": "ryze-jasminova",
@@ -1146,7 +1444,10 @@
       "label": "1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ryze-obiloviny"
   },
   {
     "id": "ryze-basmati",
@@ -1159,7 +1460,10 @@
       "label": "1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ryze-obiloviny"
   },
   {
     "id": "ryze-sushi",
@@ -1172,7 +1476,10 @@
       "label": "500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ryze-obiloviny"
   },
   {
     "id": "nudle-ryzove",
@@ -1185,7 +1492,10 @@
       "label": "balení 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "testoviny"
   },
   {
     "id": "nudle-vajecne",
@@ -1198,7 +1508,13 @@
       "label": "balení 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "egg",
+    "allergens": [
+      1,
+      3
+    ],
+    "family": "testoviny"
   },
   {
     "id": "nudle-udon",
@@ -1211,7 +1527,12 @@
       "label": "balení 300 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testoviny"
   },
   {
     "id": "spagety",
@@ -1224,7 +1545,12 @@
       "label": "balení 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testoviny"
   },
   {
     "id": "kuskus",
@@ -1237,7 +1563,12 @@
       "label": "balení 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "ryze-obiloviny"
   },
   {
     "id": "bulgur",
@@ -1250,7 +1581,12 @@
       "label": "balení 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "ryze-obiloviny"
   },
   {
     "id": "cocka-cervena",
@@ -1263,7 +1599,10 @@
       "label": "balení 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "lusteniny"
   },
   {
     "id": "cizrna-konzerva",
@@ -1276,7 +1615,10 @@
       "label": "plechovka 400 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "lusteniny"
   },
   {
     "id": "fazole-cervene",
@@ -1289,7 +1631,10 @@
       "label": "plechovka 400 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "lusteniny"
   },
   {
     "id": "kukurice-konzerva",
@@ -1302,7 +1647,10 @@
       "label": "plechovka 340 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "rajcata-loupana",
@@ -1315,7 +1663,10 @@
       "label": "plechovka 400 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "rajcatove-pyre",
@@ -1329,7 +1680,9 @@
       "label": "plechovka 140 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "passata",
@@ -1342,7 +1695,9 @@
       "label": "láhev 500 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "kokosove-mleko",
@@ -1355,7 +1710,9 @@
       "label": "plechovka 400 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "olej-slunecnicovy",
@@ -1370,7 +1727,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "olej-olivovy",
@@ -1385,7 +1744,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "olej-sezamovy",
@@ -1399,7 +1760,11 @@
       "label": "250 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      11
+    ]
   },
   {
     "id": "sadlo",
@@ -1413,7 +1778,10 @@
       "label": "kostka 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
   },
   {
     "id": "ocet",
@@ -1428,7 +1796,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "ocet-ryzovy",
@@ -1442,7 +1812,9 @@
       "label": "150 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "ocet-balsamico",
@@ -1456,7 +1828,11 @@
       "label": "250 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      12
+    ]
   },
   {
     "id": "sojova-omacka",
@@ -1470,7 +1846,12 @@
       "label": "150 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1,
+      6
+    ]
   },
   {
     "id": "rybi-omacka",
@@ -1484,7 +1865,11 @@
       "label": "200 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      4
+    ]
   },
   {
     "id": "ustricova-omacka",
@@ -1498,7 +1883,11 @@
       "label": "150 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "shellfish",
+    "allergens": [
+      14
+    ]
   },
   {
     "id": "sriracha",
@@ -1512,7 +1901,9 @@
       "label": "200 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "kecup",
@@ -1526,7 +1917,9 @@
       "label": "láhev 450 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "horcice",
@@ -1540,7 +1933,11 @@
       "label": "kelímek 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      10
+    ]
   },
   {
     "id": "horcice-dijonska",
@@ -1554,7 +1951,11 @@
       "label": "sklenice 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      10
+    ]
   },
   {
     "id": "majoneza",
@@ -1568,7 +1969,12 @@
       "label": "sklenice 225 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "egg",
+    "allergens": [
+      3,
+      10
+    ]
   },
   {
     "id": "tahini",
@@ -1582,7 +1988,11 @@
       "label": "sklenice 300 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      11
+    ]
   },
   {
     "id": "arasidove-maslo",
@@ -1596,7 +2006,12 @@
       "label": "sklenice 350 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      5
+    ],
+    "family": "lusteniny"
   },
   {
     "id": "kari-pasta-cervena",
@@ -1610,7 +2025,9 @@
       "label": "sklenička 110 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "miso-pasta",
@@ -1624,7 +2041,11 @@
       "label": "balení 300 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      6
+    ]
   },
   {
     "id": "okurky-nakladane",
@@ -1637,7 +2058,10 @@
       "label": "sklenice (pevný podíl 340 g)"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "jalapenos",
@@ -1650,7 +2074,10 @@
       "label": "sklenice 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "olivy",
@@ -1663,7 +2090,9 @@
       "label": "sklenice (pevný podíl 150 g)"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "brusinky-kompot",
@@ -1677,7 +2106,10 @@
       "label": "sklenice 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
   },
   {
     "id": "vyvar-hovezi",
@@ -1690,7 +2122,11 @@
       "label": "500 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [
+      9
+    ]
   },
   {
     "id": "vyvar-zeleninovy",
@@ -1703,7 +2139,11 @@
       "label": "500 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      9
+    ]
   },
   {
     "id": "vyvar-kureci",
@@ -1716,7 +2156,11 @@
       "label": "500 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [
+      9
+    ]
   },
   {
     "id": "arasidy",
@@ -1730,7 +2174,12 @@
       "label": "sáček 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      5
+    ],
+    "family": "orechy"
   },
   {
     "id": "sezam",
@@ -1744,7 +2193,11 @@
       "label": "sáček 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      11
+    ]
   },
   {
     "id": "vlasske-orechy",
@@ -1757,7 +2210,12 @@
       "label": "sáček 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      8
+    ],
+    "family": "orechy"
   },
   {
     "id": "pivo-svetle",
@@ -1770,7 +2228,11 @@
       "label": "láhev 0,5 l"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ]
   },
   {
     "id": "vino-bile",
@@ -1783,7 +2245,11 @@
       "label": "láhev 0,75 l"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      12
+    ]
   },
   {
     "id": "knedlik-houskovy",
@@ -1796,7 +2262,12 @@
       "label": "šiška 600 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "brambory"
   },
   {
     "id": "hranolky-mrazene",
@@ -1809,7 +2280,10 @@
       "label": "sáček 1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "brambory"
   },
   {
     "id": "hrasek-mrazeny",
@@ -1822,7 +2296,10 @@
       "label": "sáček 450 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "sul",
@@ -1837,7 +2314,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "pepr",
@@ -1852,7 +2331,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "pepr-cely",
@@ -1867,7 +2348,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "paprika-sladka",
@@ -1882,7 +2365,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "paprika-uzena",
@@ -1896,7 +2381,9 @@
       "label": "sáček 30 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "paprika-paliva",
@@ -1910,7 +2397,9 @@
       "label": "sáček 30 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "kmin",
@@ -1925,7 +2414,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "kmin-rimsky",
@@ -1939,7 +2430,9 @@
       "label": "sáček 30 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "majoranka",
@@ -1954,7 +2447,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "oregano",
@@ -1968,7 +2463,9 @@
       "label": "sáček 10 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "tymian",
@@ -1982,7 +2479,9 @@
       "label": "sáček 10 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "bobkovy-list",
@@ -1996,7 +2495,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "nove-koreni",
@@ -2010,7 +2511,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "koriandr-mlety",
@@ -2024,7 +2527,9 @@
       "label": "sáček 25 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "kurkuma",
@@ -2038,7 +2543,9 @@
       "label": "sáček 30 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "kari",
@@ -2052,7 +2559,9 @@
       "label": "sáček 30 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "skorice",
@@ -2066,7 +2575,9 @@
       "label": "sáček 20 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "chilli-vlocky",
@@ -2080,7 +2591,9 @@
       "label": "sáček 20 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "cesnek-suseny",
@@ -2094,7 +2607,9 @@
       "label": "sáček 30 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "sumah",
@@ -2108,7 +2623,9 @@
       "label": "sáček 40 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "garam-masala",
@@ -2122,7 +2639,9 @@
       "label": "sáček 30 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "prasek-do-peciva",
@@ -2136,7 +2655,9 @@
       "label": "sáček 12 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "worcester",
@@ -2150,7 +2671,13 @@
       "label": "150 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      1,
+      4,
+      12
+    ]
   },
   {
     "id": "houby-susene",
@@ -2163,7 +2690,10 @@
       "label": "sáček 30 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "houby"
   },
   {
     "id": "parky",
@@ -2176,7 +2706,10 @@
       "label": "balení 300 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
   },
   {
     "id": "paprika-zelena",
@@ -2189,7 +2722,10 @@
       "label": "1 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "ryze-dlouhozrnna",
@@ -2202,7 +2738,10 @@
       "label": "1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ryze-obiloviny"
   },
   {
     "id": "nudle-polevkove",
@@ -2215,7 +2754,12 @@
       "label": "250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testoviny"
   },
   {
     "id": "svestky",
@@ -2228,7 +2772,10 @@
       "label": "1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
   },
   {
     "id": "cukr-moucka",
@@ -2242,7 +2789,9 @@
       "label": "500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "dzem-merunkovy",
@@ -2256,7 +2805,9 @@
       "label": "sklenice 340 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "javorovy-sirup",
@@ -2270,7 +2821,9 @@
       "label": "lahev 250 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "testoviny-lasagne",
@@ -2283,7 +2836,12 @@
       "label": "krabička 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testoviny"
   },
   {
     "id": "testoviny-kratke",
@@ -2296,7 +2854,12 @@
       "label": "balení 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testoviny"
   },
   {
     "id": "ryze-arborio",
@@ -2309,7 +2872,10 @@
       "label": "balení 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ryze-obiloviny"
   },
   {
     "id": "hriby-susene",
@@ -2322,7 +2888,10 @@
       "label": "sáček 20 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "houby"
   },
   {
     "id": "mascarpone",
@@ -2336,7 +2905,12 @@
       "label": "vanička 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
   },
   {
     "id": "ricotta",
@@ -2350,7 +2924,12 @@
       "label": "vanička 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
   },
   {
     "id": "gorgonzola",
@@ -2363,7 +2942,12 @@
       "label": "balení 150 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
   },
   {
     "id": "piskoty",
@@ -2376,7 +2960,13 @@
       "label": "balení 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "egg",
+    "allergens": [
+      1,
+      3
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "kava-mleta",
@@ -2390,7 +2980,9 @@
       "label": "balení 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "kakao",
@@ -2404,7 +2996,9 @@
       "label": "balení 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "piniove-orisky",
@@ -2418,7 +3012,12 @@
       "label": "sáček 50 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      8
+    ],
+    "family": "orechy"
   },
   {
     "id": "muskatovy-orisek",
@@ -2432,7 +3031,9 @@
       "label": "sáček 15 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "nori",
@@ -2445,7 +3046,9 @@
       "label": "balení 10 plátů"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "losos-sushi",
@@ -2458,7 +3061,12 @@
       "label": "balení 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      4
+    ],
+    "family": "ryba"
   },
   {
     "id": "tunak-konzerva",
@@ -2471,7 +3079,12 @@
       "label": "plechovka 160 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      4
+    ],
+    "family": "ryba"
   },
   {
     "id": "wasabi",
@@ -2485,7 +3098,9 @@
       "label": "tuba 43 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "zazvor-nakladany",
@@ -2498,7 +3113,9 @@
       "label": "sklenice 190 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "mirin",
@@ -2512,7 +3129,9 @@
       "label": "láhev 300 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "dashi-prasek",
@@ -2526,7 +3145,11 @@
       "label": "sáček 50 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      4
+    ]
   },
   {
     "id": "wakame",
@@ -2540,7 +3163,9 @@
       "label": "sáček 50 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "edamame",
@@ -2553,7 +3178,12 @@
       "label": "sáček 400 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      6
+    ],
+    "family": "lusteniny"
   },
   {
     "id": "nudle-ramen",
@@ -2566,7 +3196,12 @@
       "label": "balení 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testoviny"
   },
   {
     "id": "nudle-ryzove-tenke",
@@ -2579,7 +3214,10 @@
       "label": "balení 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "testoviny"
   },
   {
     "id": "placky-jarni-zavitky",
@@ -2592,7 +3230,11 @@
       "label": "mražené balení 25 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ]
   },
   {
     "id": "placky-gyoza",
@@ -2605,7 +3247,12 @@
       "label": "mražené balení 30 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testoviny"
   },
   {
     "id": "veprove-mlete",
@@ -2618,7 +3265,10 @@
       "label": "balení 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
   },
   {
     "id": "gochugaru",
@@ -2632,7 +3282,9 @@
       "label": "sáček 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "gochujang",
@@ -2646,7 +3298,12 @@
       "label": "kelímek 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1,
+      6
+    ]
   },
   {
     "id": "redkev-bila",
@@ -2659,7 +3316,10 @@
       "label": "1 ks asi 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "citronova-trava",
@@ -2672,7 +3332,10 @@
       "label": "balení 3 stonky"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
   },
   {
     "id": "galangal",
@@ -2685,7 +3348,9 @@
       "label": "kousek 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "kafirove-listy",
@@ -2698,7 +3363,9 @@
       "label": "balení asi 20 listů"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "kari-pasta-zelena",
@@ -2712,7 +3379,9 @@
       "label": "sklenička 110 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "chilli-pasta-thai",
@@ -2726,7 +3395,9 @@
       "label": "sklenice 227 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "hovezi-kosti",
@@ -2739,7 +3410,10 @@
       "label": "1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "hovezi"
   },
   {
     "id": "badyan",
@@ -2752,7 +3426,9 @@
       "label": "sáček asi 10 hvězdiček"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "hrebicek",
@@ -2765,7 +3441,9 @@
       "label": "sáček asi 60 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "skorice-cela",
@@ -2778,7 +3456,9 @@
       "label": "sáček 5 svitků"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "pak-choi",
@@ -2791,7 +3471,10 @@
       "label": "balení 300 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "hoisin",
@@ -2805,7 +3488,12 @@
       "label": "láhev 250 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1,
+      6
+    ]
   },
   {
     "id": "cibulka-smazena",
@@ -2819,7 +3507,9 @@
       "label": "sáček 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "paneer",
@@ -2832,7 +3522,12 @@
       "label": "balení 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
   },
   {
     "id": "spenat-mrazeny",
@@ -2845,7 +3540,10 @@
       "label": "balení 450 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "kardamom",
@@ -2859,7 +3557,9 @@
       "label": "sáček 20 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "tortilla-chipsy",
@@ -2872,7 +3572,9 @@
       "label": "sáček 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "cukr-vanilkovy",
@@ -2885,7 +3587,9 @@
       "label": "sáček 20 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "vanilka-lusk",
@@ -2898,7 +3602,9 @@
       "label": "1 lusk"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "cokolada-horka",
@@ -2911,7 +3617,9 @@
       "label": "tabulka 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "zelatina",
@@ -2924,7 +3632,9 @@
       "label": "balení 20 g (plátky nebo mletá)"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "ovesne-vlocky",
@@ -2938,7 +3648,12 @@
       "label": "sáček 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "ryze-obiloviny"
   },
   {
     "id": "pernikove-koreni",
@@ -2952,7 +3667,9 @@
       "label": "sáček 20 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "soda-jedla",
@@ -2966,7 +3683,9 @@
       "label": "sáček 50 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "susenky-maslove",
@@ -2979,7 +3698,13 @@
       "label": "balení 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      1,
+      3,
+      7
+    ]
   },
   {
     "id": "smetanovy-syr",
@@ -2993,7 +3718,12 @@
       "label": "vanička 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
   },
   {
     "id": "maliny-mrazene",
@@ -3006,7 +3736,10 @@
       "label": "sáček 300 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
   },
   {
     "id": "banan",
@@ -3019,7 +3752,10 @@
       "label": "1 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
   },
   {
     "id": "boruvky",
@@ -3032,7 +3768,10 @@
       "label": "vanička 125 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
   },
   {
     "id": "mandle",
@@ -3045,7 +3784,12 @@
       "label": "sáček 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      8
+    ],
+    "family": "orechy"
   },
   {
     "id": "slunecnicova-seminka",
@@ -3059,7 +3803,9 @@
       "label": "sáček 150 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "kokos-strouhany",
@@ -3073,7 +3819,9 @@
       "label": "sáček 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "rozinky",
@@ -3086,7 +3834,11 @@
       "label": "sáček 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      12
+    ]
   },
   {
     "id": "anglicke-muffiny",
@@ -3099,7 +3851,13 @@
       "label": "balení 4 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      1,
+      7
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "tunak-sushi",
@@ -3112,7 +3870,12 @@
       "label": "balení 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      4
+    ],
+    "family": "ryba"
   },
   {
     "id": "quinoa",
@@ -3125,7 +3888,10 @@
       "label": "sáček 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ryze-obiloviny"
   },
   {
     "id": "lasagne-platy",
@@ -3138,7 +3904,12 @@
       "label": "krabice 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testoviny"
   },
   {
     "id": "mango",
@@ -3151,7 +3922,10 @@
       "label": "1 kus"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
   },
   {
     "id": "led-do-napoju",
@@ -3165,7 +3939,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "tonik",
@@ -3178,7 +3954,9 @@
       "label": "láhev 1 l"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "matcha-prasek",
@@ -3192,7 +3970,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "spoon": 2
+    "spoon": 2,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "irska-whiskey",
@@ -3206,7 +3986,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "alcohol": true
+    "alcohol": true,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "cerny-caj",
@@ -3219,7 +4001,9 @@
       "label": "balení 50 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "tapiokove-perly",
@@ -3232,7 +4016,9 @@
       "label": "balení 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "ryzova-mouka-lepiva",
@@ -3245,7 +4031,9 @@
       "label": "balení 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "bila-cokolada",
@@ -3258,7 +4046,11 @@
       "label": "tabulka 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ]
   },
   {
     "id": "fazolova-pasta-anko",
@@ -3271,7 +4063,10 @@
       "label": "konzerva 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "lusteniny"
   },
   {
     "id": "visne-mrazene",
@@ -3284,7 +4079,10 @@
       "label": "sáček 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
   },
   {
     "id": "zmrzlina-vanilkova",
@@ -3297,7 +4095,11 @@
       "label": "vanička 900 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ]
   },
   {
     "id": "rozmaryn",
@@ -3310,7 +4112,9 @@
       "label": "sáček 20 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "perliva-voda",
@@ -3323,7 +4127,9 @@
       "label": "láhev 1,5 l"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "led",
@@ -3337,7 +4143,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "staple": true
+    "staple": true,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "bezove-kvety",
@@ -3350,7 +4158,9 @@
       "label": "natrháš sám (květen až červen)"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "kyselina-citronova",
@@ -3364,7 +4174,9 @@
       "label": "sáček 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "jahody",
@@ -3377,7 +4189,10 @@
       "label": "vanička nebo sáček 400 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
   },
   {
     "id": "caj-cerny",
@@ -3390,7 +4205,9 @@
       "label": "20 sáčků"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "chia",
@@ -3404,7 +4221,9 @@
       "label": "sáček 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "acai-pyre",
@@ -3417,7 +4236,10 @@
       "label": "4 sáčky po 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
   },
   {
     "id": "granola",
@@ -3430,7 +4252,12 @@
       "label": "sáček 300 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "ryze-obiloviny"
   },
   {
     "id": "romaine",
@@ -3443,7 +4270,10 @@
       "label": "hlávka"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "ancovicky",
@@ -3456,7 +4286,12 @@
       "label": "plechovka 50 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      4
+    ],
+    "family": "ryba"
   },
   {
     "id": "sirene",
@@ -3469,7 +4304,12 @@
       "label": "balení 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
   },
   {
     "id": "dyne-hokkaido",
@@ -3482,7 +4322,10 @@
       "label": "1 kus ca 1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "kvetak",
@@ -3495,7 +4338,10 @@
       "label": "1 hlávka ca 900 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "kapusta",
@@ -3508,7 +4354,10 @@
       "label": "1 hlávka ca 1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "cocka-hneda",
@@ -3521,7 +4370,10 @@
       "label": "sáček 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "lusteniny"
   },
   {
     "id": "hrach-zluty",
@@ -3534,7 +4386,10 @@
       "label": "sáček 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "lusteniny"
   },
   {
     "id": "fazole-bile",
@@ -3547,7 +4402,10 @@
       "label": "plechovka 400 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "lusteniny"
   },
   {
     "id": "nudle-vlasove",
@@ -3560,7 +4418,12 @@
       "label": "balení 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testoviny"
   },
   {
     "id": "kureci-kridelka",
@@ -3573,7 +4436,10 @@
       "label": "balení 1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "kure"
   },
   {
     "id": "kureci-stehna-s-kosti",
@@ -3586,7 +4452,10 @@
       "label": "balení 1 kg, asi 4 stehna"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "kure"
   },
   {
     "id": "skvarky",
@@ -3599,7 +4468,10 @@
       "label": "balení 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
   },
   {
     "id": "losos-uzeny",
@@ -3612,7 +4484,12 @@
       "label": "balení 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      4
+    ],
+    "family": "ryba"
   },
   {
     "id": "bulky-hotdog",
@@ -3625,7 +4502,12 @@
       "label": "balení 6 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "bagely",
@@ -3638,7 +4520,12 @@
       "label": "balení 4 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "ostra-omacka",
@@ -3652,7 +4539,9 @@
       "label": "láhev 150 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "hovezi-ribeye",
@@ -3665,7 +4554,10 @@
       "label": "2 steaky, asi 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "hovezi"
   },
   {
     "id": "hovezi-flank",
@@ -3678,7 +4570,10 @@
       "label": "kus asi 600 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "hovezi"
   },
   {
     "id": "veprovy-bok",
@@ -3691,7 +4586,10 @@
       "label": "kus asi 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
   },
   {
     "id": "kapary",
@@ -3704,7 +4602,9 @@
       "label": "sklenice 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "brandy",
@@ -3718,7 +4618,9 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null,
-    "alcohol": true
+    "alcohol": true,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "bageta",
@@ -3731,7 +4633,12 @@
       "label": "1 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "ryzove-valecky",
@@ -3744,7 +4651,9 @@
       "label": "balení 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "nudle-sladke-batatove",
@@ -3757,7 +4666,10 @@
       "label": "balení 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "testoviny"
   },
   {
     "id": "spekacky",
@@ -3770,7 +4682,10 @@
       "label": "balení 4 ks, asi 400 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
   },
   {
     "id": "nudle-fleky",
@@ -3783,7 +4698,13 @@
       "label": "balení 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "egg",
+    "allergens": [
+      1,
+      3
+    ],
+    "family": "testoviny"
   },
   {
     "id": "tarhona",
@@ -3796,7 +4717,12 @@
       "label": "balení 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testoviny"
   },
   {
     "id": "hovezi-svickova",
@@ -3809,7 +4735,10 @@
       "label": "kus ca 300 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "hovezi"
   },
   {
     "id": "piskoty-detske",
@@ -3822,7 +4751,13 @@
       "label": "balení 240 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "egg",
+    "allergens": [
+      1,
+      3
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "kapr-porce",
@@ -3835,7 +4770,12 @@
       "label": "porce asi 1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      4
+    ],
+    "family": "ryba"
   },
   {
     "id": "kapr-hlava",
@@ -3848,7 +4788,12 @@
       "label": "asi 1 kg (2 hlavy s ocasy)"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      4
+    ],
+    "family": "ryba"
   },
   {
     "id": "kroupy",
@@ -3861,7 +4806,12 @@
       "label": "sáček 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "ryze-obiloviny"
   },
   {
     "id": "marcipan",
@@ -3874,7 +4824,11 @@
       "label": "balení 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      8
+    ]
   },
   {
     "id": "mandle-platky",
@@ -3887,7 +4841,12 @@
       "label": "sáček 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      8
+    ],
+    "family": "orechy"
   },
   {
     "id": "kandovane-ovoce",
@@ -3900,7 +4859,11 @@
       "label": "sáček 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      12
+    ]
   },
   {
     "id": "dzem-rybizovy",
@@ -3914,7 +4877,9 @@
       "label": "sklenice 340 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "vino-cervene",
@@ -3928,7 +4893,11 @@
     },
     "alcohol": true,
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      12
+    ]
   },
   {
     "id": "vino-bile-piti",
@@ -3942,7 +4911,11 @@
     },
     "alcohol": true,
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      12
+    ]
   },
   {
     "id": "tuzemak",
@@ -3956,7 +4929,9 @@
     },
     "alcohol": true,
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "mleko-kondenzovane-slazene",
@@ -3970,7 +4945,11 @@
     },
     "spoon": 20,
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ]
   },
   {
     "id": "mleko-kondenzovane-neslazene",
@@ -3984,7 +4963,11 @@
     },
     "spoon": 15,
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ]
   },
   {
     "id": "pudink-vanilkovy",
@@ -3997,7 +4980,9 @@
       "label": "sáček 37 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "pomeranc",
@@ -4010,7 +4995,10 @@
       "label": "1 ks"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
   },
   {
     "id": "most-jablecny",
@@ -4023,7 +5011,9 @@
       "label": "krabice 1 l"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "most-hroznovy",
@@ -4036,7 +5026,9 @@
       "label": "láhev 1 l"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "caj-ovocny",
@@ -4049,7 +5041,9 @@
       "label": "20 sáčků"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "horky-pomerancovy-aperitiv",
@@ -4063,7 +5057,9 @@
     },
     "alcohol": true,
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "prosecco",
@@ -4077,7 +5073,11 @@
     },
     "alcohol": true,
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      12
+    ]
   },
   {
     "id": "rum-bily",
@@ -4091,7 +5091,9 @@
     },
     "alcohol": true,
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "gin",
@@ -4105,7 +5107,9 @@
     },
     "alcohol": true,
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "vodka",
@@ -4119,7 +5123,9 @@
     },
     "alcohol": true,
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "tequila",
@@ -4133,7 +5139,9 @@
     },
     "alcohol": true,
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "cachaca",
@@ -4147,7 +5155,9 @@
     },
     "alcohol": true,
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "pomerancovy-liker",
@@ -4161,7 +5171,10 @@
     },
     "alcohol": true,
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
   },
   {
     "id": "kavovy-liker",
@@ -4175,7 +5188,9 @@
     },
     "alcohol": true,
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "dzus-ananasovy",
@@ -4188,7 +5203,9 @@
       "label": "krabice 1 l"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "dzus-pomerancovy",
@@ -4201,7 +5218,9 @@
       "label": "krabice 1 l"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "kola",
@@ -4214,7 +5233,9 @@
       "label": "láhev 1,5 l"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "zazvorove-pivo",
@@ -4227,7 +5248,9 @@
       "label": "láhev 0,33 l"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "grenadina",
@@ -4240,7 +5263,9 @@
       "label": "láhev 0,7 l"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "bezinkovy-sirup",
@@ -4253,7 +5278,9 @@
       "label": "láhev 0,7 l"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "maliny",
@@ -4266,7 +5293,10 @@
       "label": "vanička 125 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
   },
   {
     "id": "podmasli",
@@ -4279,7 +5309,11 @@
       "label": "kelímek 0,5 l"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ]
   },
   {
     "id": "barvivo-cervene",
@@ -4292,7 +5326,9 @@
       "label": "tuba 20 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "povidla",
@@ -4306,7 +5342,9 @@
       "label": "sklenice 350 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "kefir",
@@ -4319,7 +5357,11 @@
       "label": "láhev 500 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ]
   },
   {
     "id": "listove-testo",
@@ -4332,7 +5374,12 @@
       "label": "275 g (1 plát)"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "mak-mlety",
@@ -4346,7 +5393,9 @@
       "label": "sáček 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "veka",
@@ -4359,7 +5408,12 @@
       "label": "1 ks (asi 400 g)"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "pomazankove-maslo",
@@ -4373,7 +5427,11 @@
       "label": "150 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ]
   },
   {
     "id": "husa",
@@ -4386,7 +5444,10 @@
       "label": "1 ks asi 4 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "husa-kachna"
   },
   {
     "id": "husi-sadlo",
@@ -4400,7 +5461,10 @@
       "label": "kelímek 250 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "husa-kachna"
   },
   {
     "id": "koprivy",
@@ -4413,7 +5477,10 @@
       "label": "natrháš sám (březen až květen)"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "veprove-koleno",
@@ -4426,7 +5493,10 @@
       "label": "1 ks asi 1,2 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
   },
   {
     "id": "mandlova-mouka",
@@ -4440,7 +5510,11 @@
       "label": "sáček 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      8
+    ]
   },
   {
     "id": "kukurice-klas",
@@ -4453,7 +5527,10 @@
       "label": "balení 2 klasy"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   },
   {
     "id": "dynova-seminka",
@@ -4467,7 +5544,9 @@
       "label": "sáček 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "bryndza",
@@ -4480,7 +5559,12 @@
       "label": "vanička 125 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
   },
   {
     "id": "krupice",
@@ -4494,7 +5578,12 @@
       "label": "sáček 500 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "ryze-obiloviny"
   },
   {
     "id": "veprove-kare",
@@ -4507,7 +5596,10 @@
       "label": "kus asi 1 kg"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
   },
   {
     "id": "celer-rapikaty",
@@ -4520,7 +5612,12 @@
       "label": "svazek asi 400 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      9
+    ],
+    "family": "zelenina"
   },
   {
     "id": "ciabatta",
@@ -4533,7 +5630,12 @@
       "label": "2 ks po 100 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
   },
   {
     "id": "ocet-vinny",
@@ -4547,7 +5649,9 @@
       "label": "láhev 500 ml"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   },
   {
     "id": "feta-ovci",
@@ -4560,6 +5664,11 @@
       "label": "balení 200 g"
     },
     "priceSource": "illustrative",
-    "priceCheckedAt": null
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
   }
 ]

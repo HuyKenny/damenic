@@ -16,6 +16,7 @@
   "waitMinutes": 60,
   "waitLabel": "zpevnění a ztuhnutí v lednici",
   "difficulty": "snadné",
+  "meal": "dezert",
   "vegetarian": true,
   "alcohol": true,
   "occasions": [

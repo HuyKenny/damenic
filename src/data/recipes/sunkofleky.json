@@ -13,6 +13,7 @@
   "cookMinutes": 30,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "hlavni",
   "intro": "Šunkofleky jsou zapečené široké těstovinové flíčky se šunkou ve vaječno-smetanové zálivce. Recept je pro čtyři porce a trvá asi hodinu. Fleky se předvaří al dente, aby se v troubě nerozvařily a zálivka se celá srazila.",
   "steps": [
     {

@@ -13,6 +13,7 @@
   "cookMinutes": 25,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "hlavni",
   "intro": "Zapečené těstoviny se šunkou a sýrem pro čtyři, hotové asi za 45 minut. Základ tvoří předvařené těstoviny a zálivka z vajec, smetany a mléka, která se v troubě srazí a drží sýr i šunku pohromadě.",
   "steps": [
     {

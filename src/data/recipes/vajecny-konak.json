@@ -20,6 +20,7 @@
   "waitMinutes": 180,
   "waitLabel": "vychladnutí a odležení v lednici",
   "difficulty": "střední",
+  "meal": "napoj",
   "intro": "Recept na domácí vaječný koňak ze žloutků, slazeného a neslazeného kondenzovaného mléka a rumu, tedy ten hustý, kterému se doma říká babiččin. Žloutky se nejdřív za stálého míchání ohřejí ve vodní lázni na 70 °C, aby byl domácí vaječný likér bezpečný, a s alkoholem se spojí až vychladlá směs. Vyjde asi 1 litr, tedy 12 skleniček po 80 ml.",
   "ingredients": [
     {

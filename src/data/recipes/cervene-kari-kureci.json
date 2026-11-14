@@ -5,6 +5,7 @@
   "cookMinutes": 15,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "hlavni",
   "vegetarian": false,
   "intro": "Thajské červené kari pro dva s kuřecím masem, zeleninou a jasmínovou rýží. Chuť závisí na kari pastě orestované před zalitím a na dochucení rybí omáčkou a limetkou až na konci.",
   "ingredients": [

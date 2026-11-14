@@ -15,6 +15,7 @@
   "waitMinutes": 60,
   "waitLabel": "ztuhnutí v lednici",
   "difficulty": "snadné",
+  "meal": "predkrm",
   "intro": "Škvarková pomazánka z vepřových škvarků, sádla, cibule a česneku je klasika k chlebu a pivu. Škvarky se musí pořádně rozdrtit, cibule se opeče do zlatova a sádlo se nesmí rozpustit do tekutého stavu, jinak pomazánka ztuhne rozdělená.",
   "ingredients": [
     {

@@ -15,6 +15,7 @@
   "waitMinutes": 30,
   "waitLabel": "chladnutí kremrolí před plněním",
   "difficulty": "náročnější",
+  "meal": "dort",
   "vegetarian": true,
   "ingredients": [
     {

@@ -15,6 +15,7 @@
   "waitMinutes": 80,
   "waitLabel": "kynutí těsta a odpočinek tvarovaných bagelů",
   "difficulty": "střední",
+  "meal": "pecivo",
   "intro": "Bagel recept na 8 domácích sezamových bagelů z tužšího kynutého těsta. Bagel se před pečením krátce vaří ve vodě s medem, díky tomu má lesklou žvýkavou kůrku a hustou střídku. Podává se rozkrojený se smetanovým sýrem.",
   "ingredients": [
     {

@@ -15,6 +15,7 @@
   "waitMinutes": 15,
   "waitLabel": "chladnutí",
   "difficulty": "snadné",
+  "meal": "dezert",
   "vegetarian": true,
   "ingredients": [
     {

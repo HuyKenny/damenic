@@ -19,6 +19,7 @@
   "waitMinutes": 15,
   "waitLabel": "vychladnutí hlav před obíráním",
   "difficulty": "střední",
+  "meal": "polevka",
   "vegetarian": false,
   "ingredients": [
     {

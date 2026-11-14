@@ -18,6 +18,7 @@
   "waitMinutes": 720,
   "waitLabel": "marinování v lednici přes noc",
   "difficulty": "snadné",
+  "meal": "hlavni",
   "intro": "Grilovaná krkovice je díky prorostlému tuku nejvděčnější maso na gril, přesto umí vyschnout nebo zůstat syrová u středu. Recept má marinádu na noc, gril rozdělený na přímý a nepřímý žár a jasný cíl: 70 °C uprostřed plátku.",
   "ingredients": [
     {

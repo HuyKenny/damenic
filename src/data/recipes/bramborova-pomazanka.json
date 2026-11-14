@@ -15,6 +15,7 @@
   "waitMinutes": 150,
   "waitLabel": "vychladnutí brambor a odležení",
   "difficulty": "snadné",
+  "meal": "predkrm",
   "intro": "Bramborová pomazánka na chlebíčky z brambor uvařených ve slupce, pomazánkového másla, cibule a česneku. Z dávky je asi 850 g, tedy na 30 chlebíčků. Brambory musí být úplně studené a nastrouhané, ne rozmačkané, jinak je pomazánka mazlavá a lepí.",
   "ingredients": [
     {

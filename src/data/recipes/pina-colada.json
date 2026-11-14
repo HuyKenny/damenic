@@ -16,6 +16,7 @@
   "waitMinutes": 5,
   "waitLabel": "vychlazení sklenice v mrazáku",
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Piña colada je karibský koktejl z bílého rumu, ananasového džusu a kokosu, rozmixovaný s ledem do husté studené pěny. Recept je na dvě sklenice a místo těžko sehnatelného slazeného kokosového krému používá obyčejné kokosové mléko z plechovky a trochu cukru. Rozhoduje poměr: na 50 ml rumu 100 ml ananasového džusu a 60 ml kokosového mléka.",
   "ingredients": [
     {

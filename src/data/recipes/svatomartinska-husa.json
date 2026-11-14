@@ -19,6 +19,7 @@
   "waitMinutes": 735,
   "waitLabel": "solení přes noc v lednici a odpočinek po upečení",
   "difficulty": "střední",
+  "meal": "hlavni",
   "vegetarian": false,
   "ingredients": [
     {

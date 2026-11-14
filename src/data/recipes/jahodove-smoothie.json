@@ -14,6 +14,7 @@
   "cookMinutes": 0,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Jahodové smoothie z jahod, banánu a bílého jogurtu je hotové za 10 minut a obejde se bez cukru. Nejdůležitější je poměr tekutiny a ovoce: s mraženými jahodami vyjde smoothie hustší a studené, s čerstvými voňavější a řidší.",
   "ingredients": [
     {

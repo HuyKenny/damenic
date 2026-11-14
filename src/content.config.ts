@@ -97,6 +97,10 @@ const dishes = defineCollection({
   }),
 });
 
+export const MEALS = ['snidane', 'predkrm', 'polevka', 'salat', 'hlavni', 'priloha', 'omacka', 'pecivo', 'dezert', 'dort', 'napoj'] as const;
+export const DIETS = ['plant', 'meat', 'fish', 'shellfish', 'dairy', 'egg', 'honey'] as const;
+export const FAMILIES = ['kure', 'veprove', 'hovezi', 'husa-kachna', 'ryba', 'morske-plody', 'vejce', 'syr-tvaroh', 'lusteniny', 'testoviny', 'ryze-obiloviny', 'brambory', 'houby', 'zelenina', 'ovoce', 'orechy', 'testo-pecivo'] as const;
+
 const UNITS = ['g', 'ml', 'ks', 'lzice', 'lzicka', 'spetka'] as const;
 
 const recipes = defineCollection({
@@ -115,6 +119,8 @@ const recipes = defineCollection({
     waitMinutes: z.number().int().nonnegative().default(0),
     waitLabel: z.string().optional(),
     difficulty: z.enum(['snadné', 'střední', 'náročnější']),
+    /** What kind of dish this is (filter "Typ jídla"). */
+    meal: z.enum(MEALS),
     ingredients: z
       .array(
         z.object({
@@ -163,6 +169,12 @@ const ingredients = defineCollection({
     priceSource: z.enum(['illustrative', 'verified']),
     priceCheckedAt: z.string().nullable(),
     staple: z.boolean().default(false),
+    /** Drives the recipe filters: vegetarian = no meat/fish/shellfish, vegan = plant only. */
+    diet: z.enum(DIETS),
+    /** EU allergen numbers 1-14 (gluten-free, lactose-free, egg-free and nut-free filters derive from these). */
+    allergens: z.array(allergen).default([]),
+    /** Main-ingredient group for the "Hlavní surovina" filter; omitted for oils, spices, sweeteners and liquids. */
+    family: z.enum(FAMILIES).optional(),
     /** Alcoholic drink or spirit (rum, wine, gin…): recipes using it must set `alcohol: true`. */
     alcohol: z.boolean().default(false),
   }),

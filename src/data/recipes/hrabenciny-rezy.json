@@ -15,6 +15,7 @@
   "waitMinutes": 90,
   "waitLabel": "chlazení těsta a chladnutí řezů",
   "difficulty": "střední",
+  "meal": "dort",
   "vegetarian": true,
   "ingredients": [
     {

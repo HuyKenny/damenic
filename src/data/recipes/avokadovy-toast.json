@@ -14,6 +14,7 @@
   "cookMinutes": 5,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "snidane",
   "intro": "Avocado toast neboli avokádový toast je opečený krajíc kváskového chleba s rozmačkaným avokádem, limetkou, chilli a vejcem. Vypadá jednoduše a je, rozhoduje ale zralost avokáda a chleba opečeného dokřupava, aby pod avokádem nezměkl. Vejce můžeš dát pošírované s tekutým žloutkem, nebo sázené.",
   "ingredients": [
     {

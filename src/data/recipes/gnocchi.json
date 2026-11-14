@@ -14,6 +14,7 @@
   "cookMinutes": 40,
   "waitMinutes": 0,
   "difficulty": "střední",
+  "meal": "hlavni",
   "intro": "Domácí bramborové gnocchi s jednoduchou rajčatovou omáčkou pro čtyři. Práce je kolem 50 minut, brambory se mezitím vaří; vláčné budou, když vezmeš moučné brambory a do těsta dáš jen tolik mouky, kolik je nutné.",
   "ingredients": [
     {

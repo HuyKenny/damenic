@@ -14,6 +14,7 @@
   "cookMinutes": 40,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "hlavni",
   "ingredients": [
     {
       "ingredient": "kureci-stehna",

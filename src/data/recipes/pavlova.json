@@ -15,6 +15,7 @@
   "waitMinutes": 120,
   "waitLabel": "chladnutí ve vypnuté troubě",
   "difficulty": "střední",
+  "meal": "dort",
   "intro": "Dort Pavlova je velká pusinka z bílků s křupavou skořápkou a měkkým žvýkavým středem, navrchu šlehačka s mascarpone a čerstvé ovoce. Kruh má průměr asi 22 cm. Bílky se s cukrem šlehají tak dlouho, až se cukr úplně rozpustí, a upečená pusinka musí vychladnout ve vypnuté troubě, jinak praskne a splaskne.",
   "ingredients": [
     {

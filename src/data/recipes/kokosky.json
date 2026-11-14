@@ -15,6 +15,7 @@
   "waitMinutes": 30,
   "waitLabel": "vychladnutí na plechu",
   "difficulty": "snadné",
+  "meal": "dezert",
   "vegetarian": true,
   "occasions": [
     "vanocni-cukrovi",

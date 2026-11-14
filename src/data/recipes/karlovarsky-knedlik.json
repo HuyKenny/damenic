@@ -15,6 +15,7 @@
   "waitMinutes": 15,
   "waitLabel": "nasáknutí pečiva",
   "difficulty": "snadné",
+  "meal": "priloha",
   "intro": "Karlovarský knedlík z rohlíků, mléka a vajec, vařený jako váleček ve fólii. Je to vlastně žemlová směs uvařená do tvaru: rohlíky se opečou na másle, nasáknou vaječným mlékem a vaří se ve fólii 25 minut. Rozhoduje nasáknutí, suché kostky se nespojí a mokrá hmota se rozplizne.",
   "ingredients": [
     {

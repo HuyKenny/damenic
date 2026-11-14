@@ -17,6 +17,7 @@
   "cookMinutes": 15,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Nealkoholický svařák z jablečného moštu se skořicí, hřebíčkem, zázvorem a pomerančem pro čtyři hrnky. Mošt stačí zahřát těsně pod bod varu a nechat v něm koření vylouhovat. Var by mu dal chuť kompotu.",
   "ingredients": [
     {

@@ -15,6 +15,7 @@
   "waitMinutes": 60,
   "waitLabel": "odležení v lednici",
   "difficulty": "snadné",
+  "meal": "predkrm",
   "intro": "Celerová pomazánka na chlebíčky ze syrového celeru nastrouhaného najemno, eidamu a majonézy s jogurtem. Dávka asi 650 g stačí na 25 chlebíčků. Celer musí být strouhaný opravdu jemně a pokapaný citronem, jinak pomazánka zhnědne a je v ní cítit tvrdá vlákna.",
   "ingredients": [
     {

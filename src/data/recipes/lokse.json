@@ -19,6 +19,7 @@
   "waitMinutes": 180,
   "waitLabel": "vychladnutí uvařených brambor",
   "difficulty": "střední",
+  "meal": "priloha",
   "vegetarian": false,
   "ingredients": [
     {

@@ -6,6 +6,7 @@
   "cookMinutes": 25,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "hlavni",
   "vegetarian": true,
   "intro": "Rajčatová omáčka ze spíže pro dva. Vaří se z loupaných rajčat, česneku a olivového oleje a těstoviny se v ní na závěr dovaří.",
   "ingredients": [

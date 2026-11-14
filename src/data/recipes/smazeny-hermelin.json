@@ -15,6 +15,7 @@
   "waitMinutes": 30,
   "waitLabel": "chlazení obaleného sýra v mrazáku",
   "difficulty": "snadné",
+  "meal": "predkrm",
   "intro": "Smažený hermelín ve dvojitém trojobalu s brusinkovým kompotem, čtyři celé sýry. Aby hermelín nevytekl, musí být vychlazený, obalený dvakrát a před smažením půl hodiny v mrazáku. Smaží se krátce a zprudka, 1,5 až 2 minuty z každé strany.",
   "ingredients": [
     {

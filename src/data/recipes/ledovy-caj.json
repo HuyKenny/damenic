@@ -15,6 +15,7 @@
   "waitMinutes": 120,
   "waitLabel": "chladnutí čaje v lednici",
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Domácí ledový čaj z černého čaje a citronu hotový za pár minut práce, ale nejdřív musí vychladnout. Klíčem je neluhovat čaj déle než 4 minuty, jinak zhořkne, a nechat ho vychladnout v lednici, ne na ledu.",
   "ingredients": [
     {

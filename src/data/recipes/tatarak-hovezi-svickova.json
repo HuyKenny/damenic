@@ -13,6 +13,7 @@
   "cookMinutes": 0,
   "waitMinutes": 0,
   "difficulty": "střední",
+  "meal": "hlavni",
   "intro": "Tatarák z hovězí svíčkové pro dva, hotový za půl hodiny, bez vaření. Je to jídlo ze syrového masa, takže rozhoduje původ: maso musí být čerstvé, od důvěryhodného řezníka, správně chlazené a zpracované těsně před jídlem. Chuť pak dělá dochucení, ne maso samotné.",
   "steps": [
     {

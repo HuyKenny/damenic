@@ -14,6 +14,7 @@
   "cookMinutes": 15,
   "waitMinutes": 0,
   "difficulty": "střední",
+  "meal": "hlavni",
   "intro": "Bryndzové halušky ze syrových brambor a hrubé mouky, promíchané s bryndzou a posypané opečenou slaninou. Těsto se dělá těsně před vařením, protože nastrouhané brambory rychle černají. Halušky se vaří jen 2 až 3 minuty a s bryndzou se míchají hned, dokud jsou horké.",
   "ingredients": [
     {

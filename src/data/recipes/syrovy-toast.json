@@ -13,6 +13,7 @@
   "cookMinutes": 10,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "snidane",
   "intro": "Toasty recept na čtyři sýrové toasty z toustového chleba, eidamu a čedaru, opečené na pánvi s máslem zvenku. Sýr musí stihnout roztát dřív, než chléb zčerná, proto se toasty pečou pomalu na středně mírném ohni. Toustovač ani sendvičovač není potřeba.",
   "ingredients": [
     {

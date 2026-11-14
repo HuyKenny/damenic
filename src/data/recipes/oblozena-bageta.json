@@ -13,6 +13,7 @@
   "cookMinutes": 10,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "hlavni",
   "intro": "Obložená bageta se šunkou, eidamem, vejcem natvrdo a zeleninou na svačinu, na výlet nebo do práce. Aby bageta do oběda nezvlhla, musí mít vrstvy ve správném pořadí: máslo, list salátu a šťavnatá zelenina až nahoře.",
   "ingredients": [
     {

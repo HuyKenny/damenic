@@ -19,6 +19,7 @@
   "waitMinutes": 5,
   "waitLabel": "vychlazení sklenice a espressa",
   "difficulty": "střední",
+  "meal": "napoj",
   "intro": "Espresso martini je koktejl z vodky, kávového likéru a čerstvého espressa, protřepaný s ledem tak dlouho, až má navrchu hustou pěnu. Pěnu dělá čerstvé espresso a energické třepání, studená káva z rána ji neudělá. Recept je na jednu koktejlovou sklenici a drink obsahuje alkohol i kofein.",
   "ingredients": [
     {

@@ -19,6 +19,7 @@
   "waitMinutes": 5,
   "waitLabel": "vychlazení sklenice v mrazáku",
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Virgin mojito je nealko mojito z limetky, třtinového cukru, čerstvé máty, drceného ledu a sodovky. Dělá se úplně stejně jako klasické mojito, jen místo rumu přijde víc sodovky, a proto chutná jako drink, ne jako náhrada. Recept je na jednu sklenici a hodí se pro řidiče, těhotné i děti.",
   "ingredients": [
     {

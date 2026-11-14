@@ -15,6 +15,7 @@
   "waitMinutes": 300,
   "waitLabel": "chladnutí korpusu a tuhnutí náplně v lednici",
   "difficulty": "střední",
+  "meal": "dort",
   "vegetarian": false,
   "ingredients": [
     {

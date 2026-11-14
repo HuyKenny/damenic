@@ -16,6 +16,7 @@
   "waitMinutes": 180,
   "waitLabel": "vychladnutí zeleniny a odležení salátu",
   "difficulty": "střední",
+  "meal": "salat",
   "intro": "Domácí vlašský salát na chlebíčky ze šunky, brambor, kořenové zeleniny, hrášku a kyselých okurek v majonéze. Vyjde asi 1,6 kg, tedy na 60 chlebíčků nebo 12 porcí do misky. Na kvalitě se pozná, jestli je všechno nakrájené stejně drobně a jestli měl salát čas odležet.",
   "ingredients": [
     {

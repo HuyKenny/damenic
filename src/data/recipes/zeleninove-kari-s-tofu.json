@@ -8,6 +8,7 @@
   "cookMinutes": 25,
   "waitMinutes": 0,
   "difficulty": "střední",
+  "meal": "hlavni",
   "intro": "Kari pro čtyři z rajčat, kokosového mléka a suchého koření, s opečeným tofu a zeleninou. Záleží na dvou věcech: tofu opéct zvlášť a zeleninu přidávat postupně podle tvrdosti.",
   "ingredients": [
     {

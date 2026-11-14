@@ -14,6 +14,7 @@
   "cookMinutes": 120,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "omacka",
   "intro": "Pomalu vařená boloňská omáčka ze mletého hovězího, zeleniny, vína a mléka, se špagetami pro čtyři. Práce je na půl hodiny, pak omáčka dvě hodiny tiše bublá; chuť dělá právě ten čas.",
   "ingredients": [
     {

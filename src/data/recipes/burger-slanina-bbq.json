@@ -7,6 +7,7 @@
   "cookMinutes": 10,
   "waitMinutes": 0,
   "difficulty": "střední",
+  "meal": "hlavni",
   "vegetarian": false,
   "intro": "Čtyři burgery s křupavou slaninou a BBQ omáčkou z kečupu, medu, worcesteru a uzené papriky. Omáčku uvař jako první, při chladnutí zhoustne.",
   "ingredients": [

@@ -18,6 +18,7 @@
   "cookMinutes": 15,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "napoj",
   "intro": "Svařák z bílého vína je jemnější a ovocnější než červený. Místo pomeranče a hodně hřebíčku ho nese jablko, zázvor, med a citron. Stejně jako u červeného platí, že víno se jen zahřeje na 70 až 80 °C a nevaří se.",
   "ingredients": [
     {

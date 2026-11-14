@@ -14,6 +14,7 @@
   "cookMinutes": 40,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "polevka",
   "intro": "Čočková polévka z hnědé čočky je poctivá česká klasika, která se vaří bez namáčení a z levných surovin. Na 5 porcí potřebuješ asi hodinu, z toho 20 minut práce. Ocet na závěr dodá polévce tu správnou ostrost, kterou na čočce chceš.",
   "ingredients": [
     {

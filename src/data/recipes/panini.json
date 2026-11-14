@@ -15,6 +15,7 @@
   "cookMinutes": 8,
   "waitMinutes": 0,
   "difficulty": "snadné",
+  "meal": "hlavni",
   "intro": "Panini recept na zapečený italský sendvič z ciabatty se šunkou, mozzarellou, rajčaty a bazalkou. Doma ho uděláš i bez panini grilu, stačí pánev a druhý těžký hrnec jako závaží. Pozor jen na vodu z mozzarelly a rajčat, ta by chléb rozmočila.",
   "ingredients": [
     {
