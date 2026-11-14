@@ -47,6 +47,14 @@ Read results with `gh run view --repo HuyKenny/damenic`, download screenshots wi
 - Content agents write new ingredients to `src/data/_extra/<batch>.json`; merge them into `ingredients.json` before committing
   (CI builds without `_extra`). Recipes linked from a dish reuse the dish photo.
 
+## v3.2 (14. 11. 2026): recipe filters and the road to 1000 recipes
+- 561 recipes, 68 restaurants. Goal 1000: waves of ~110 recipes written by agents from topics found in the competitor gap (topics only, never copied text).
+- `/recepty/` has faceted filters (island `RecipeBrowser`, pure logic in `src/lib/recipe-facets.ts`, static index `/data/recipes.json`).
+  Diet and allergen facets are DERIVED from ingredient fields `diet`, `allergens`, `family` (never hand-set on recipes); every recipe needs `meal`.
+  Alcoholic recipes are never labelled vegan. New ingredients written by agents must carry `diet` and `allergens` (validator checks).
+- Photo sources: Pexels and Pixabay (`scripts/damenic/fetch-pexels.py [--pixabay]` in the workspace). Never Google images. A placeholder beats a wrong photo.
+- Validator also checks step shape, `recipe` key on dishes, occasions and alcohol flags; Astro's Zod errors only show up in CI.
+
 Voice: `COPY_GUIDE.md` (creative, simulation always obvious, recipes are facts). Restaurant descriptions must contain "smyšlen" or "fiktivn" (validator).
 
 ## Security / SEO guardrails (v2.5)
