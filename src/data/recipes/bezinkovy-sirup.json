@@ -1,0 +1,100 @@
+{
+  "title": "Bezinkový sirup z květů černého bezu",
+  "keywords": [
+    "bezinkový sirup recept",
+    "bezinkový sirup",
+    "bezový sirup",
+    "sirup z květů černého bezu",
+    "kdy trhat květy bezu"
+  ],
+  "image": "dish-bezinkovy-sirup",
+  "category": "napoje",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 40,
+  "cookMinutes": 30,
+  "waitMinutes": 1440,
+  "waitLabel": "louhování květů v chladu (24 hodin)",
+  "difficulty": "snadné",
+  "intro": "Bezinkový sirup ze 40 květů černého bezu, 2 kg cukru, citronů a kyseliny citronové, ze kterého vyjdou asi 3 litry, tedy čtyři láhve po 0,7 l. Květy se louhují 24 hodin ve studené vodě, pak se sirup zahřeje s cukrem a plní horký do vysterilizovaných lahví. Nejdůležitější je natrhat květy ve správnou chvíli a sirup správně uskladnit, aby nezačal kvasit.",
+  "ingredients": [
+    {
+      "ingredient": "bezove-kvety",
+      "amount": 40,
+      "unit": "ks",
+      "note": "celé rozkvetlé okolíky"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2000,
+      "unit": "ml",
+      "note": "převařená a vychladlá"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 3,
+      "unit": "ks",
+      "note": "dobře umyté, na plátky"
+    },
+    {
+      "ingredient": "kyselina-citronova",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2000,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Květy",
+      "text": "Květy trhej za suchého slunečného dopoledne, až z nich oschne rosa, a jen z keřů daleko od silnic. Ber okolíky celé rozkvetlé, krémově bílé a vonící; zhnědlé a opadávající nech na keři. Zpracuj je do 2 až 3 hodin."
+    },
+    {
+      "text": "Květy nemyj, pyl nese většinu vůně. Jen je otřep, aby vypadal hmyz, a nůžkami odstřihni co nejvíc zelených stonků, které dávají hořkost."
+    },
+    {
+      "section": "Louhování",
+      "text": "Do velkého hrnce nebo skleněné nádoby dej květy, plátky citronu a kyselinu citronovou a zalij 2 litry převařené vychladlé vody. Květy zatíž talířkem, aby zůstaly pod hladinou, nádobu přikryj a nech 24 hodin v chladu, nejlépe v lednici, nejdéle 48 hodin."
+    },
+    {
+      "text": "Výluh přeceď přes cedník vyložený čistou plenou nebo utěrkou a květy dobře vymačkej. Lahve umyj a vysuš 15 minut v troubě při 120 °C, kovová víčka povař 5 minut ve vodě."
+    },
+    {
+      "section": "Plnění",
+      "text": "Výluh s cukrem zahřívej za stálého míchání, dokud se cukr úplně nerozpustí, a pak ho zahřej asi na 85 °C, kdy se u stěn hrnce začnou tvořit první bublinky. Dlouho nevař, vůně by vyprchala."
+    },
+    {
+      "text": "Horký sirup nalij nálevkou do horkých lahví až 1 cm pod okraj, ihned je zavři a na 10 minut otoč dnem vzhůru. Pak je postav a nech vychladnout."
+    },
+    {
+      "text": "Pro skladování déle než půl roku lahve ještě sterilizuj: postav je do hrnce na složenou utěrku, zalij vodou do tří čtvrtin jejich výšky a drž 20 minut při 80 °C. Vyndej je a nech vychladnout."
+    }
+  ],
+  "tips": [
+    "Sirup plněný horký do vysterilizovaných lahví vydrží v chladné a tmavé spíži 6 měsíců, po sterilaci až rok. Otevřenou láhev drž v lednici a spotřebuj do 4 týdnů.",
+    "Sirup se dá zamrazit v plastové láhvi nebo ve formičkách na led, v mrazáku vydrží rok. Láhev neplň po okraj, mrazem se objem zvětší.",
+    "Na limonádu sirup ředíš v poměru 1 : 7 až 1 : 10 vodou nebo perlivou vodou, podle chuti."
+  ],
+  "substitutions": [
+    "Kyselinu citronovou můžeš nahradit šťávou ze 4 dalších citronů. Sirup bude víc citronový, ale hůř se uchovává, proto ho skladuj v lednici a spotřebuj do 4 týdnů.",
+    "Cukru můžeš dát méně, nejméně 1,5 kg na 2 litry výluhu. Méně slazený sirup ale vydrží jen v lednici, nejvýš 2 týdny, nebo v mrazáku.",
+    "Část cukru se dá nahradit třtinovým. Sirup bude tmavší a chuť karamelovější."
+  ],
+  "faq": [
+    {
+      "q": "Kdy trhat květy na bezinkový sirup?",
+      "a": "Černý bez kvete podle počasí od konce května do poloviny června. Trhej okolíky, které jsou celé rozkvetlé a krémově bílé, za slunečného dopoledne, kdy už oschla rosa. Po dešti mají květy málo pylu a slabou vůni."
+    },
+    {
+      "q": "Jak dlouho vydrží bezinkový sirup?",
+      "a": "Sirup plněný horký do vysterilizovaných lahví vydrží v chladné tmavé spíži 6 měsíců, po sterilaci při 80 °C až rok. Studený, nezahřátý sirup vydrží v lednici 4 týdny. Otevřenou láhev spotřebuj do 4 týdnů."
+    },
+    {
+      "q": "Jak poznat černý bez od jedovatého bezu chebdí?",
+      "a": "Černý bez je keř nebo strom s dřevnatými větvemi, kvete v květnu a červnu a jeho okolíky voní medově. Bez chebdí je bylina vysoká asi do 1,5 m, kvete později, v červnu až srpnu, okolíky drží vzpřímeně, mají načervenalé až fialové prašníky a nepříjemně páchnou. Na sirup trhej jen černý bez."
+    }
+  ]
+}

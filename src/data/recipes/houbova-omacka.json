@@ -1,0 +1,154 @@
+{
+  "title": "Houbová omáčka se smetanou",
+  "keywords": [
+    "houbová omáčka",
+    "houbová omáčka recept",
+    "houbová omáčka se smetanou",
+    "houbová omáčka z žampionů"
+  ],
+  "image": "dish-houbova-omacka",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 20,
+  "waitMinutes": 20,
+  "waitLabel": "namáčení sušených hřibů",
+  "difficulty": "snadné",
+  "intro": "Smetanová houbová omáčka ze žampionů s hrstí sušených hřibů pro čtyři, s knedlíkem na stole asi za tři čtvrtě hodiny. Celé tajemství je v tom houby pořádně opéct, dokud se nevypaří jejich voda. Teprve opečené houby dají omáčce chuť i barvu.",
+  "ingredients": [
+    {
+      "ingredient": "hriby-susene",
+      "amount": 10,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "note": "horká, na namočení hřibů",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 500,
+      "unit": "g",
+      "note": "nebo lesní houby",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 400,
+      "unit": "ml",
+      "note": "teplý",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "knedlik-houskovy",
+      "amount": 600,
+      "unit": "g",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Omáčka",
+      "text": "Sušené hřiby zalij 100 ml horké vody a nech 20 minut namočit. Pak je vyndej, najemno nasekej a vodu z namáčení přeceď přes jemné sítko, na dně bývá písek."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Žampiony očisti suchým kartáčkem nebo utěrkou a nakrájej na plátky asi 5 mm. Nemyj je dlouho ve vodě, nasákly by ji."
+    },
+    {
+      "section": "Omáčka",
+      "text": "V širokém kastrolu rozpusť máslo a cibuli na něm zpěňuj 4 minuty do sklovita. Přidej žampiony, zvyš plamen a opékej je 8 až 10 minut za občasného promíchání, dokud se nevypaří všechna pustěná voda a houby nezačnou zlátnout."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Přidej kmín a nasekané hřiby, promíchej a zasyp moukou. Míchej 1 minutu, aby se mouka opekla, a pak po částech přilévej vývar a vodu z hřibů. Po každé dávce rozmíchej do hladka."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Omáčku vař na mírném plameni 10 minut, ať se mouka provaří. Vmíchej smetanu a vař ještě 5 minut, dokud omáčka nezhoustne tak, aby obalila lžíci."
+    },
+    {
+      "section": "Podávání",
+      "text": "Dochuť solí a pepřem, vmíchej petrželku a podávej s knedlíkem ohřátým v páře."
+    }
+  ],
+  "tips": [
+    "Houby opékej v jedné vrstvě. Když jich je v pánvi moc, jen se dusí ve vlastní šťávě a zůstanou šedé; tehdy je opeč nadvakrát.",
+    "Omáčku zchlaď co nejrychleji a uchovávej v lednici nejvýš 2 dny. Ohřívej jednou a pořádně, až do provaření.",
+    "Kapka citronové šťávy nebo lžička octa na konci chuť smetany zvedne. Přidej ji opatrně a ochutnej."
+  ],
+  "substitutions": [
+    "Místo žampionů se hodí lesní houby, hlíva nebo jejich směs. Mražené houby dej do kastrolu nerozmražené a opékej je o pár minut déle, než se voda vypaří.",
+    "Místo smetany ke šlehání můžeš použít 250 ml smetany na vaření. Omáčka bude řidší, prodluž vaření o 3 až 4 minuty.",
+    "Bez sušených hřibů to jde také, omáčka bude jen jemnější. Hřiby v tom případě nahraď 100 g dalších žampionů."
+  ],
+  "faq": [
+    {
+      "q": "Jak zahustit houbovou omáčku?",
+      "a": "Nejjistější je vařit ji déle bez pokličky, ať se odpaří voda. Když nestačí, rozmíchej lžíci hladké mouky ve 3 lžících studené vody, vlij do omáčky a vař 5 minut."
+    },
+    {
+      "q": "Dá se houbová omáčka udělat z mražených hub?",
+      "a": "Dá. Mražené houby nerozmrazuj, dej je rovnou do kastrolu a opékej, dokud se voda z nich nevypaří. Pak pokračuj stejně jako s čerstvými."
+    },
+    {
+      "q": "Může se houbová omáčka ohřívat?",
+      "a": "Může, když ji hned po uvaření zchladíš a dáš do lednice. Spotřebuj ji do 2 dnů a ohřívej jednou, až do varu."
+    }
+  ]
+}

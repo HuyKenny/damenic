@@ -1,0 +1,36 @@
+{
+  "name": "Ledový čaj s citronem 0,4 l",
+  "restaurant": "bistro-uletelo",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Vychlazený černý čaj s citronem, lehce doslazený. Hasí pálivost líp než sliby.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-ledovy-caj-uletelo",
+  "recipe": null,
+  "optionGroups": [
+    {
+      "id": "cukr",
+      "name": "Sladkost",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "normalni",
+          "name": "Lehce doslazený",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-cukru",
+          "name": "Bez cukru",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 80
+}

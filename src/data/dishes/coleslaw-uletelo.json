@@ -1,0 +1,20 @@
+{
+  "name": "Coleslaw",
+  "restaurant": "bistro-uletelo",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Bílé zelí s mrkví v majonéze s octem. Chladí přesně tam, kde buffalo omáčka pálí.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-coleslaw-uletelo",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    10
+  ],
+  "order": 70
+}

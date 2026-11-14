@@ -1,0 +1,37 @@
+{
+  "name": "Bezinková limonáda 0,4 l",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Domácí bezinkový sirup s perlivou vodou, plátkem citronu a mátou. Voní jako červen u plotu.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-bezinkova-limonada-ani-listek",
+  "recipe": null,
+  "optionGroups": [
+    {
+      "id": "led",
+      "name": "Led",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "s-ledem",
+          "name": "S ledem",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-ledu",
+          "name": "Bez ledu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 80
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Kyselá okurka celá",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Celá nakládaná okurka na vidličce. Ke každému sendviči patří kousnutí, které zakřupe.",
+  "about": [],
+  "price": 2900,
+  "image": "dish-okurka-krajice",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 70
+}

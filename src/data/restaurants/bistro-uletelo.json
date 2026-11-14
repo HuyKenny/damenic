@@ -1,0 +1,33 @@
+{
+  "name": "Bistro Uletělo",
+  "category": "kure",
+  "cuisine": "Křidélka a smažené kuře",
+  "tagline": "Křidélka máme lepkavá od medu. Stejně nám uletěla.",
+  "description": "Medová, barbecue a pálivá buffalo křidélka, korejské kuře smažené dvakrát a nugetky pro opatrné. Bistro je smyšlené, takže k tobě nedoletí ani kost a recepty si upečeš a usmažíš doma.",
+  "etaMinutes": 30,
+  "deliveryFee": 3500,
+  "minOrder": 19900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:00",
+    "close": "22:00"
+  },
+  "pickup": true,
+  "tags": [
+    "pikantní"
+  ],
+  "isNew": true,
+  "logo": {
+    "text": "BU",
+    "color": "#B5381F",
+    "ink": "light"
+  },
+  "cover": "rest-bistro-uletelo",
+  "sections": [
+    "Křidélka",
+    "Kuře",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 290
+}

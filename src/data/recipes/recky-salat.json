@@ -1,0 +1,122 @@
+{
+  "title": "Řecký salát (horiatiki)",
+  "keywords": [
+    "řecký salát",
+    "řecký salát recept",
+    "řecký salát s fetou",
+    "horiatiki"
+  ],
+  "image": "dish-recky-salat-ani-listek",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Řecký salát z rajčat, okurky, zelené papriky, červené cibule, oliv a sýra feta, přelitý olivovým olejem a posypaný oreganem. V Řecku se mu říká horiatiki, venkovský salát, a nemá v sobě listový salát ani hustou zálivku. Rozhodují zralá rajčata, ovčí feta v jednom kusu a sůl až těsně před podáváním.",
+  "ingredients": [
+    {
+      "ingredient": "rajcata",
+      "amount": 600,
+      "unit": "g",
+      "note": "zralá, nejlépe masitá"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "paprika-zelena",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "1 menší"
+    },
+    {
+      "ingredient": "olivy",
+      "amount": 80,
+      "unit": "g",
+      "note": "nejlépe kalamata"
+    },
+    {
+      "ingredient": "feta-ovci",
+      "amount": 200,
+      "unit": "g",
+      "note": "v jednom kusu"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 5,
+      "unit": "lzice",
+      "note": "extra panenský"
+    },
+    {
+      "ingredient": "ocet-vinny",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "nepovinně"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rajčata nakrájej na měsíčky nebo nepravidelné kusy velké na jedno sousto. Okurku podélně rozpůl a nakrájej na půlkolečka silná 1 cm; slupku můžeš oloupat v pruzích."
+    },
+    {
+      "text": "Papriku zbav semínek a nakrájej na tenké kroužky, cibuli na tenká půlkolečka. Pokud je cibule ostrá, nech ji 5 minut ve studené vodě a pak ji osuš."
+    },
+    {
+      "text": "Zeleninu dej do široké mísy, přidej olivy a lehce osol, feta je slaná. Pokapej octem, pokud ho používáš, a opatrně promíchej rukama nebo dvěma lžícemi."
+    },
+    {
+      "text": "Navrch polož fetu v jednom plátu, posyp ji oreganem, opepři a celý salát přelij olivovým olejem. Fetu si každý láme vidličkou až na talíři."
+    },
+    {
+      "text": "Podávej do 30 minut. Šťávu, která se na dně mísy udělá z rajčat a oleje, vytírej chlebem."
+    }
+  ],
+  "tips": [
+    "Rajčata před přípravou neměj v lednici. Studená ztrácejí chuť, nejlepší je zelenina při pokojové teplotě.",
+    "Sůl přidávej až těsně před podáváním. Rajčata a okurka jinak pustí vodu a salát bude plavat.",
+    "Zbytek salátu vydrží v lednici do druhého dne, okurka ale změkne. Nejlepší je dělat ho čerstvý."
+  ],
+  "substitutions": [
+    "Místo ovčí fety se dá použít balkánský sýr. Je z kravského mléka, tvrdší a slanější, takže salát nesol vůbec.",
+    "Zelenou papriku nahradíš červenou, salát bude sladší. Původní verze má zelenou.",
+    "K zelenině můžeš přidat lžíci kaparů nebo pár lístků čerstvé máty."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi řeckým a šopským salátem?",
+      "a": "Řecký salát má fetu v celém kusu navrchu, olivy, oregano a olivový olej. Šopský je bulharský, sýr sirene se na něj strouhá najemno, olivy ani oregano v něm nejsou a zálivka je ze slunečnicového oleje a vinného octa."
+    },
+    {
+      "q": "Patří do řeckého salátu ledový salát?",
+      "a": "Do původního venkovského salátu horiatiki listový salát nepatří. Je to jen rajčata, okurka, paprika, cibule, olivy a feta. Verze s ledovým salátem je běžná hlavně v restauracích mimo Řecko."
+    },
+    {
+      "q": "Jakou fetu koupit do řeckého salátu?",
+      "a": "Pravá feta je z ovčího mléka, případně s menším podílem kozího, a zraje v solném nálevu. Má být bílá, krémová a drobivá. Balkánský sýr z kravského mléka je levnější náhrada, je ale tvrdší a slanější."
+    }
+  ]
+}

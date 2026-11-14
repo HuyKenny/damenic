@@ -1,0 +1,43 @@
+{
+  "name": "Panini se šunkou a mozzarellou",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Teplé sendviče",
+  "description": "Ciabatta se šunkou, mozzarellou, rajčaty a bazalkou zapečená v grilu do zlatých proužků.",
+  "about": [
+    "Panini je italsky prostě „chlebíčky“, ale u nás se tak říká zapečené ciabattě s proužky od grilu. Uvnitř šunka, mozzarella, rajčata a bazalka, sýr nahoře i dole, aby celý sendvič držel pohromadě.",
+    "Doma ho zapečeš i bez grilu, na pánvi pod druhou těžkou pánví. Důležité je osušit mozzarellu a okapat rajčata, jinak se kůrka rozmočí. U nás se nerozmočí nic. Nic se totiž nepeče."
+  ],
+  "price": 16900,
+  "image": "dish-panini-krajice",
+  "recipe": "panini",
+  "optionGroups": [
+    {
+      "id": "syr",
+      "name": "Sýr",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mozzarella",
+          "name": "Mozzarella",
+          "priceDelta": 0
+        },
+        {
+          "id": "eidam",
+          "name": "Eidam",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 20,
+  "featured": true
+}

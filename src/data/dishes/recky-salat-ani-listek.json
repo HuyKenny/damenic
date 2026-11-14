@@ -1,0 +1,42 @@
+{
+  "name": "Řecký salát s ovčí fetou",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "description": "Rajčata, okurka, paprika, cibule a olivy, navrchu celý plát fety s oreganem. Žádný ledový salát.",
+  "about": [
+    "Řecký venkovský salát horiatiki nemá v sobě listy ani hustou zálivku. Je to zelenina nakrájená na velké kusy, olivy a feta v jednom plátu, kterou si každý láme vidličkou sám. Rozhodují zralá rajčata při pokojové teplotě a sůl až těsně před podáváním, jinak zelenina pustí vodu.",
+    "Olivový olej se lije navrch a to, co se na dně mísy smíchá se šťávou z rajčat, se vytírá chlebem. Talíř, který dostaneš od nás, je vytřený dokonale. Nikdy na něm nic nebylo."
+  ],
+  "price": 18900,
+  "image": "dish-recky-salat-ani-listek",
+  "recipe": "recky-salat",
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Velikost",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "350g",
+          "name": "Porce 350 g",
+          "priceDelta": 0
+        },
+        {
+          "id": "500g",
+          "name": "Velká porce 500 g",
+          "priceDelta": 5000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 20
+}

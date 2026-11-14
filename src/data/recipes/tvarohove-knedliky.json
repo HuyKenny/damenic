@@ -1,0 +1,143 @@
+{
+  "title": "Tvarohové knedlíky s jahodami",
+  "keywords": [
+    "tvarohové knedlíky",
+    "tvarohové knedlíky s ovocem",
+    "tvarohové knedlíky s jahodami",
+    "ovocné tvarohové knedlíky"
+  ],
+  "image": "dish-tvarohove-knedliky",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 15,
+  "waitMinutes": 30,
+  "waitLabel": "odležení těsta v lednici",
+  "difficulty": "střední",
+  "intro": "Tvarohové knedlíky s jahodami z tvarohu, krupice a vajec, sypané strouhankou opraženou na másle. Z tohoto množství vyjde 12 knedlíků. Těsto bez kynutí potřebuje půl hodiny v lednici, aby krupice nabobtnala a knedlíky se při vaření nerozpadly.",
+  "ingredients": [
+    {
+      "ingredient": "tvaroh",
+      "amount": 500,
+      "unit": "g",
+      "note": "nejlépe tučný, dobře okapaný",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "krupice",
+      "amount": 200,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 300,
+      "unit": "g",
+      "note": "12 menších plodů",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do vody na vaření",
+      "group": "Vaření"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Tvaroh, který pouští vodu, dej na 15 minut do sítka nebo ho vymačkej v utěrce. Mokrý tvaroh je nejčastější důvod, proč se knedlíky rozpadají."
+    },
+    {
+      "section": "Těsto",
+      "text": "V míse utři změklé máslo s vejci, přidej tvaroh, krupici a špetku soli a vařečkou zpracuj na hladké, měkké těsto. Přikryj a dej na 30 minut do lednice."
+    },
+    {
+      "section": "Náplň",
+      "text": "Jahody omyj, osuš a odstraň stopky. Větší plody rozpůl."
+    },
+    {
+      "section": "Vaření",
+      "text": "Ve velkém hrnci přiveď k varu asi 3 l vody se lžičkou soli. Navlhčenýma rukama rozděl těsto na 12 dílů, každý rozmáčkni na placku, polož doprostřed jahodu a těsto kolem ní uzavři do kuličky bez trhlin."
+    },
+    {
+      "section": "Vaření",
+      "text": "Nejdřív uvař jeden zkušební knedlík. Když se rozpadá, přimíchej do těsta 1 až 2 lžíce krupice a nech ho 10 minut odpočinout."
+    },
+    {
+      "section": "Vaření",
+      "text": "Knedlíky vkládej do vroucí vody, hned stáhni plamen, aby se voda jen mírně vlnila, a opatrně jimi pohni, ať se nepřilepí ke dnu. Vař 8 až 10 minut; když vyplavou na hladinu, vař je ještě 3 až 4 minuty."
+    },
+    {
+      "section": "Podávání",
+      "text": "Mezitím rozpusť na pánvi máslo a strouhanku v něm praž za stálého míchání 3 až 4 minuty dozlatova."
+    },
+    {
+      "section": "Podávání",
+      "text": "Uvařené knedlíky vyndej děrovanou lžící, nech okapat, obal v opražené strouhance a podávej posypané cukrem moučkou."
+    }
+  ],
+  "tips": [
+    "Syrové knedlíky se dají zamrazit na plechu vedle sebe a pak přesypat do sáčku. Vař je zmrzlé a o 3 až 4 minuty déle.",
+    "Jahody můžou být i mražené, dej je do knedlíků zmrzlé, jinak pustí šťávu a těsto se roztrhne.",
+    "Uvařené knedlíky vydrží v lednici 2 dny. Ohřívej je v páře asi 5 minut."
+  ],
+  "substitutions": [
+    "Místo jahod se hodí meruňky, švestky bez pecky nebo borůvky. Velké ovoce rozpůl, aby se knedlík uvnitř stihl provařit.",
+    "Krupici můžeš nahradit 150 g polohrubé mouky. Těsto bude pevnější a knedlíky méně nadýchané.",
+    "Místo strouhanky můžeš knedlíky posypat 100 g nastrouhaného tvarohu s cukrem a polít rozpuštěným máslem."
+  ],
+  "faq": [
+    {
+      "q": "Proč se tvarohové knedlíky rozpadají?",
+      "a": "Tvaroh byl příliš mokrý, těsto neodpočívalo nebo se knedlíky vařily v prudce vroucí vodě. Tvaroh okapej, těsto nech 30 minut v lednici a vař v mírném varu. Pomůže i lžíce krupice navíc."
+    },
+    {
+      "q": "Krupice, nebo mouka do tvarohových knedlíků?",
+      "a": "S krupicí jsou knedlíky nadýchanější a jemnější, s polohrubou moukou pevnější a lépe drží tvar. Jde i kombinace půl na půl."
+    },
+    {
+      "q": "Jak dlouho se vaří tvarohové knedlíky?",
+      "a": "Asi 8 až 10 minut v mírně vroucí vodě. Až vyplavou na hladinu, vař je ještě 3 až 4 minuty. Zmrazené knedlíky potřebují o 3 až 4 minuty víc."
+    }
+  ]
+}

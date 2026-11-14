@@ -1,0 +1,125 @@
+{
+  "title": "Tteokbokki (pálivé korejské rýžové válečky)",
+  "keywords": [
+    "tteokbokki",
+    "tteokbokki recept",
+    "korejské rýžové válečky",
+    "tteokbokki s vejcem"
+  ],
+  "image": "dish-tteokbokki",
+  "category": "asijska",
+  "vegetarian": false,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 15,
+  "waitMinutes": 20,
+  "waitLabel": "namáčení ztuhlých válečků",
+  "difficulty": "snadné",
+  "intro": "Tteokbokki jsou korejské rýžové válečky dušené v husté, pálivě sladké omáčce z gochujangu, chilli vloček gochugaru a vývaru, s vejcem natvrdo a jarní cibulkou. Válečky mají být měkké a tažné, ne rozvařené, a omáčka se má zredukovat tak, aby je obalila lesklou vrstvou. Pálivost řídíš množstvím chilli vloček.",
+  "ingredients": [
+    {
+      "ingredient": "ryzove-valecky",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "dashi-prasek",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "nebo 500 ml rybího vývaru místo vody"
+    },
+    {
+      "ingredient": "gochujang",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "gochugaru",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "pro mírnější verzi méně"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1.5,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "zeli-bile",
+      "amount": 150,
+      "unit": "g",
+      "note": "nepovinně, na nudličky"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Pokud jsou válečky z lednice nebo z mrazáku tvrdé, namoč je na 20 minut do vlažné vody a slij. Měkké čerstvé válečky jen oddělíš od sebe a krátce propláchneš."
+    },
+    {
+      "text": "Vejce vař 10 minut, zchlaď ve studené vodě a oloupej. Jarní cibulku nakrájej na kousky 4 cm, bílou a zelenou část dej zvlášť."
+    },
+    {
+      "text": "V široké pánvi nebo mělkém hrnci přiveď k varu vodu s dashi. Vmíchej gochujang, gochugaru, cukr, sójovou omáčku a prolisovaný česnek a míchej, dokud se pasta nerozpustí."
+    },
+    {
+      "text": "Přidej válečky, zelí a bílou část cibulky a vař na středním plameni za častého míchání 8 až 10 minut, dokud válečky nezměknou a omáčka nezhoustne tak, že je obaluje. Válečky se lepí ke dnu, proto míchej."
+    },
+    {
+      "text": "Přidej rozpůlená vejce a zelenou část cibulky, prohřej ještě minutu a podle potřeby omáčku zřeď lžící vody. Posyp sezamem a podávej hned, vychladlé válečky tvrdnou."
+    }
+  ],
+  "tips": [
+    "Tteokbokki jez čerstvé. Zbytek vydrží v lednici do druhého dne, válečky ale ztuhnou; ohřej je na pánvi s trochou vody pod pokličkou.",
+    "Gochujang se liší pálivostí, na obalu bývá stupnice. Poprvé dej gochugaru jen polovinu a dochuť podle sebe.",
+    "V Koreji se přidávají i ploché rybí placky eomuk z asijských obchodů. Nakrájej je na trojúhelníky a vař spolu s válečky."
+  ],
+  "substitutions": [
+    "Vegetariánská verze: dashi nahraď 500 ml zeleninového vývaru.",
+    "Místo bílého zelí se hodí pekingské zelí nebo cuketa na plátky.",
+    "Mírnější verze: gochugaru vynech a gochujangu dej jen 1,5 lžíce. Krémovější chuť dodá plátek sýru, který se navrchu nechá rozpustit."
+  ],
+  "faq": [
+    {
+      "q": "Z čeho jsou tteokbokki?",
+      "a": "Z rýžových válečků tteok, které se dělají z vařené a tlučené rýže a jsou hutné a tažné. Prodávají se chlazené nebo mražené v asijských obchodech, ve tvaru válečků nebo plátků."
+    },
+    {
+      "q": "Jak pálivé jsou tteokbokki?",
+      "a": "Klasická verze je výrazně pálivá, cukr v omáčce ale pálivost tlumí. Nejvíc pálí chilli vločky gochugaru, takže je můžeš ubrat nebo vynechat. Gochujang dodá mírnější pálivost a hloubku."
+    },
+    {
+      "q": "Proč jsou rýžové válečky tvrdé?",
+      "a": "Válečky z lednice a mrazáku ztvrdnou. Před vařením je namoč 20 minut do vlažné vody a vař je, dokud nejsou měkké i uprostřed. Uvařené válečky po vychladnutí znovu tvrdnou, proto se jedí hned."
+    }
+  ]
+}

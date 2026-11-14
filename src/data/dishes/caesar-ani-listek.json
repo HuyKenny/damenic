@@ -1,0 +1,52 @@
+{
+  "name": "Caesar salát s kuřetem",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "description": "Římský salát, kuře opečené dozlatova, krutony a hobliny parmazánu v zálivce s ančovičkou.",
+  "about": [
+    "Caesar salát má jednu podmínku, o které se nesmlouvá: římský salát musí být suchý. Mokré listy zálivku nepřijmou a ta steče na dno misky, kam se nikdo nedívá. Kuře se opeče na pánvi do 75 °C uvnitř, krutony se upečou v troubě dokřupava a parmazán se strouhá dvakrát, jednou do zálivky a jednou navrch.",
+    "Klasická zálivka je ze syrového žloutku. My ji stavíme na majonéze s ančovičkami, citronem a worcesterem, a kdo chce původní verzi, najde v receptu postup s pasterizovaným žloutkem. Salát je obalený v zálivce, miska připravená. Jen ji nikdo nenaplnil."
+  ],
+  "price": 21900,
+  "image": "dish-caesar-ani-listek",
+  "recipe": "caesar-salat",
+  "optionGroups": [
+    {
+      "id": "navic",
+      "name": "Přidat navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "parmazan",
+          "name": "Parmazán navíc",
+          "priceDelta": 2500
+        },
+        {
+          "id": "vejce",
+          "name": "Vejce natvrdo",
+          "priceDelta": 1500
+        },
+        {
+          "id": "krutony",
+          "name": "Krutony navíc",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    4,
+    7,
+    10
+  ],
+  "featured": true,
+  "order": 10
+}

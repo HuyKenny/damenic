@@ -1,0 +1,116 @@
+{
+  "title": "Açaí bowl s granolou",
+  "keywords": [
+    "açaí bowl",
+    "smoothie bowl",
+    "açaí bowl recept",
+    "açaí bowl s granolou"
+  ],
+  "image": "dish-acai-bowl-ani-listek",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 180,
+  "waitLabel": "zamražení banánu (klidně den předem)",
+  "difficulty": "snadné",
+  "intro": "Açaí bowl je hustý smoothie z mraženého pyré brazilských bobulí açaí, banánu a jahod, který se jí lžičkou z misky s granolou a ovocem navrchu. Na rozdíl od smoothie k pití má mít konzistenci měkké zmrzliny. Proto se mixuje z mraženého ovoce a s co nejmenším množstvím tekutiny.",
+  "ingredients": [
+    {
+      "ingredient": "acai-pyre",
+      "amount": 200,
+      "unit": "g",
+      "note": "2 sáčky, mražené"
+    },
+    {
+      "ingredient": "banan",
+      "amount": 2,
+      "unit": "ks",
+      "note": "1 zamražený na kolečkách, 1 čerstvý navrch"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 150,
+      "unit": "g",
+      "note": "mražené"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 80,
+      "unit": "ml",
+      "note": "nebo rostlinný nápoj"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "nepovinně"
+    },
+    {
+      "ingredient": "granola",
+      "amount": 60,
+      "unit": "g",
+      "group": "Navrch"
+    },
+    {
+      "ingredient": "boruvky",
+      "amount": 60,
+      "unit": "g",
+      "group": "Navrch"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Navrch"
+    },
+    {
+      "ingredient": "chia",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Navrch"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Jeden banán oloupej, nakrájej na kolečka a aspoň 3 hodiny předem zamraz rozložený na talíři nebo v sáčku. Druhý si nech čerstvý na ozdobu."
+    },
+    {
+      "text": "Sáčky s açaí pyré ponoř na 2 minuty do teplé vody, aby šly rozlomit, a obsah nalámej na kousky přímo do mixéru."
+    },
+    {
+      "text": "Přidej mražený banán, mražené jahody, med a 50 ml mléka. Mixuj na pulzy a mezi nimi směs stěrkou stlač k nožům. Zbytek mléka přilévej po lžících, jen když se nože točí naprázdno."
+    },
+    {
+      "text": "Hotová směs je hladká, sytě fialová a drží na lžíci jako měkká zmrzlina. Když je řídká, přidej pár kousků mraženého ovoce a krátce promixuj."
+    },
+    {
+      "text": "Rozděl ji do dvou vychlazených misek, navrch dej v řadách granolu, plátky čerstvého banánu, borůvky, kokos a chia semínka a jez hned, než změkne."
+    }
+  ],
+  "tips": [
+    "Nejlíp to zvládne výkonný stolní mixér nebo sekáček. Tyčový mixér hustou mraženou směs nepromixuje, s ním přilij víc mléka a počítej s řidší verzí.",
+    "Misky dej předem na 10 minut do mrazáku, smoothie v nich tak rychle neroztaje.",
+    "Granolu sypej až těsně před jídlem, ve vlhké směsi rychle změkne."
+  ],
+  "substitutions": [
+    "Veganská verze: místo mléka dej ovesný nebo mandlový nápoj a med vynech nebo nahraď javorovým sirupem.",
+    "Bez açaí pyré vznikne smoothie bowl z 200 g mražených borůvek nebo lesní směsi. Barva bude podobná, chuť sladší a ovocnější.",
+    "Granolu nahradíš ovesnými vločkami opraženými nasucho na pánvi se lžičkou medu."
+  ],
+  "faq": [
+    {
+      "q": "Co je açaí?",
+      "a": "Malé tmavě fialové bobule palmy euterpe zelinná, která roste v Brazílii v povodí Amazonky. Chutnají méně sladce než borůvky, trochu zemitě, s tónem hořké čokolády. Do Evropy se vozí hlavně jako mražené pyré nebo sušený prášek."
+    },
+    {
+      "q": "Kde koupit açaí?",
+      "a": "Mražené açaí pyré v sáčcích po 100 g se prodává v mrazicích boxech větších supermarketů a v prodejnách zdravé výživy. Snáz sehnatelný je sušený açaí prášek, na jednu misku stačí 1 až 2 lžičky do mražených borůvek s banánem."
+    },
+    {
+      "q": "Jak udělat açaí bowl hustý?",
+      "a": "Používej jen mražené ovoce, tekutinu přilévej po lžících a mixuj na pulzy, mezi kterými směs stlačíš k nožům. Čím méně mléka, tím hustší výsledek. Hotovou misku jez hned."
+    }
+  ]
+}

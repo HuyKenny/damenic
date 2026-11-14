@@ -1,0 +1,48 @@
+{
+  "name": "Hot dog s cibulkou",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Teplé sendviče",
+  "description": "Párek v měkké housce, hořčice, kečup, karamelizovaná i smažená cibulka a kostičky okurky.",
+  "about": [
+    "Hot dog stojí na třech věcech: párek, který se nevaří, jen prohřeje, měkká teplá houska a cibulka, která dostala čas. Karamelizovaná cibulka se opéká čtvrt hodiny do karamelova, smažená přidá křupnutí navrch.",
+    "Hořčice, kečup a kostičky nakládané okurky jsou povinná výbava. Párek dáváme do housky s citem, aby nepraskl. Do tašky ho nedáváme vůbec."
+  ],
+  "price": 13900,
+  "image": "dish-hot-dog-krajice",
+  "recipe": "hot-dog",
+  "optionGroups": [
+    {
+      "id": "bez",
+      "name": "Odebrat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "bez-cibulky",
+          "name": "Bez cibulky",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-okurky",
+          "name": "Bez okurky",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-kecupu",
+          "name": "Bez kečupu",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    10
+  ],
+  "order": 30
+}

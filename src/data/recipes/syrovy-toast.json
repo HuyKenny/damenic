@@ -1,0 +1,96 @@
+{
+  "title": "Sýrové toasty na pánvi",
+  "keywords": [
+    "toasty recept",
+    "toasty",
+    "toast recept"
+  ],
+  "image": "dish-toast-krajice",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Toasty recept na čtyři sýrové toasty z toustového chleba, eidamu a čedaru, opečené na pánvi s máslem zvenku. Sýr musí stihnout roztát dřív, než chléb zčerná, proto se toasty pečou pomalu na středně mírném ohni. Toustovač ani sendvičovač není potřeba.",
+  "ingredients": [
+    {
+      "ingredient": "toustovy-chleb",
+      "amount": 180,
+      "unit": "g",
+      "note": "8 plátků",
+      "group": "Toasty"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Toasty"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 120,
+      "unit": "g",
+      "note": "na tenké plátky nebo nastrouhaný",
+      "group": "Toasty"
+    },
+    {
+      "ingredient": "cheddar",
+      "amount": 60,
+      "unit": "g",
+      "note": "plátky",
+      "group": "Toasty"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "volitelně",
+      "group": "Toasty"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Všechny plátky chleba namaž z jedné strany tence máslem až do krajů. Máslo přijde zvenku, z něj vznikne zlatá kůrka."
+    },
+    {
+      "section": "Příprava",
+      "text": "Polovinu plátků obrať máslem dolů, vnitřek tence potři hořčicí a poskládej na ně eidam a čedar. Sýr nesmí přesahovat přes okraj, na pánvi by se připálil. Přiklop zbylými plátky máslem nahoru."
+    },
+    {
+      "section": "Opékání",
+      "text": "Pánev rozehřej na středně mírný plamen, ne vysoký. Toasty opékej 3 až 4 minuty z každé strany, lehce je přitlač obracečkou nebo pánev přikryj poklicí, sýr se rychleji rozpustí."
+    },
+    {
+      "section": "Opékání",
+      "text": "Hotové jsou, když je chléb zlatohnědý a sýr na okrajích teče. Nech je minutu odpočinout, rozkroj je šikmo napůl a podávej."
+    }
+  ],
+  "tips": [
+    "Nastrouhaný sýr se rozpouští rychleji než plátky. Hodí se, když máš silnější chléb.",
+    "Ve sendvičovači nebo kontaktním grilu peč toasty 3 až 4 minuty, máslo zvenku stačí tence.",
+    "Toasty s majonézou místo másla zvenku zhnědnou rovnoměrněji a méně se připalují."
+  ],
+  "substitutions": [
+    "Klasický toast se šunkou uděláš přidáním 2 tenkých plátků šunky do každého toastu, pak už ale není vegetariánský.",
+    "Eidam a čedar můžeš vyměnit za goudu, ementál nebo mozzarellu, hlavně aby sýr dobře tál.",
+    "Bez toustového chleba se hodí plátky veky nebo světlého chleba silné asi 1 cm."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat toasty bez toustovače?",
+      "a": "Na pánvi: chléb namaž máslem zvenku, vlož sýr a opékej na středně mírném ohni 3 až 4 minuty z každé strany, ideálně pod poklicí. Sýr se rozpustí a chléb se nepřipálí."
+    },
+    {
+      "q": "Jaký sýr je nejlepší na toasty?",
+      "a": "Dobře tající sýry jako eidam, gouda, čedar nebo ementál. Kombinace dvou sýrů dává víc chuti, čedar je výraznější a eidam lépe teče."
+    },
+    {
+      "q": "Máslo na toast mazat zvenku, nebo zevnitř?",
+      "a": "Zvenku. Máslo na vnější straně se na pánvi opeče do zlaté křupavé kůrky, uvnitř by jen změklo v sýru."
+    }
+  ]
+}

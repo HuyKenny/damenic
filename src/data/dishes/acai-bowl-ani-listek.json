@@ -1,0 +1,50 @@
+{
+  "name": "Açaí bowl s granolou",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Fit snídaně",
+  "description": "Mražené açaí s banánem a jahodami mixované dohusta, navrchu granola, borůvky a kokos.",
+  "about": [
+    "Açaí bowl je smoothie, které se jí lžičkou. Mražené pyré z amazonských bobulí açaí se mixuje s mraženým banánem a jahodami a s co nejmenším množstvím mléka, aby výsledek držel na lžíci jako měkká zmrzlina. Chutná méně sladce než borůvky, trochu zemitě, s tónem hořké čokolády.",
+    "Granola se sype až těsně před jídlem, v mokré směsi rychle změkne. Proto se açaí bowl jí hned a nikdy se nevozí daleko. My ho nevozíme vůbec, tak jsme v tom aspoň důslední."
+  ],
+  "price": 17900,
+  "image": "dish-acai-bowl-ani-listek",
+  "recipe": "acai-bowl",
+  "optionGroups": [
+    {
+      "id": "navrch",
+      "name": "Navrch navíc",
+      "type": "multi",
+      "required": false,
+      "max": 3,
+      "options": [
+        {
+          "id": "granola",
+          "name": "Granola navíc",
+          "priceDelta": 2000
+        },
+        {
+          "id": "med",
+          "name": "Med",
+          "priceDelta": 1000
+        },
+        {
+          "id": "chia",
+          "name": "Chia semínka",
+          "priceDelta": 1000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 50
+}

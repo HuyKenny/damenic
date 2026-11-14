@@ -1,0 +1,17 @@
+{
+  "name": "Okurková limonáda s mátou 0,4 l",
+  "restaurant": "bistro-uletelo",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Salátová okurka, máta, limetka a perlivá voda. Zní to jako salát, pije se to jako léto.",
+  "about": [],
+  "price": 6900,
+  "image": "dish-limonada-uletelo",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 90
+}

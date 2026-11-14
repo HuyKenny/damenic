@@ -1,0 +1,99 @@
+{
+  "title": "Mochi zmrzlina",
+  "keywords": [
+    "mochi zmrzlina",
+    "mochi zmrzlina recept",
+    "domácí mochi zmrzlina",
+    "mochi ice cream"
+  ],
+  "image": "dish-mochi-zmrzlina",
+  "category": "zmrzlina",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 45,
+  "cookMinutes": 5,
+  "waitMinutes": 195,
+  "waitLabel": "zmražení kuliček zmrzliny a hotových mochi",
+  "difficulty": "střední",
+  "intro": "Mochi zmrzlina je kulička zmrzliny zabalená v tenkém tažném těstě z lepivé rýžové mouky. Z receptu vyjde 8 kusů, dva na porci. Těsto se uvaří v mikrovlnné troubě za pár minut, náročné je hlavně balení: zmrzlina musí být tvrdě zmražená a práce rychlá, jinak se roztéká.",
+  "ingredients": [
+    {
+      "ingredient": "zmrzlina-vanilkova",
+      "amount": 400,
+      "unit": "ml",
+      "note": "nebo jiná příchuť"
+    },
+    {
+      "ingredient": "ryzova-mouka-lepiva",
+      "amount": 100,
+      "unit": "g",
+      "note": "ne obyčejná rýžová mouka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "kukuřičný, na podsypání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Zmrzlina",
+      "text": "Plech nebo prkénko vylož pečicím papírem a naběračkou na zmrzlinu na něj vydlabej 8 kuliček po zhruba 50 ml. Dej je do mrazáku aspoň na hodinu, musí být tvrdé."
+    },
+    {
+      "section": "Těsto",
+      "text": "V misce vhodné do mikrovlnné trouby rozmíchej rýžovou mouku s cukrem a vodou dohladka. Přikryj talířkem a ohřívej 1 minutu na 700 až 800 W, pak stěrkou promíchej."
+    },
+    {
+      "text": "Ohřívej ještě 1 minutu, promíchej a pak dalších 30 sekund. Hotové těsto je průsvitné, lesklé a velmi lepivé. Pokud jsou v něm bílé neprůhledné kousky, přidej 20 až 30 sekund."
+    },
+    {
+      "text": "Pracovní plochu hustě poprašuj škrobem, těsto na ni vyklop a poprašuj ho i shora. Rozválej ho na plát silný 2 až 3 mm, přikryj fólií a nech 15 minut v lednici, líp se s ním pak pracuje."
+    },
+    {
+      "section": "Balení",
+      "text": "Vykrajovátkem nebo sklenicí vykroj 8 koleček o průměru 9 až 10 cm a štětcem z nich smeť přebytečný škrob. Pracuj po jednom: z mrazáku vezmi vždy jen jednu kuličku, polož ji na kolečko, okraje přetáhni nahoru přes ni a pevně stiskni."
+    },
+    {
+      "text": "Každé mochi polož spojem dolů do papírového košíčku nebo ho zabal do fólie a hned vrať do mrazáku. Zamraz aspoň na 2 hodiny."
+    },
+    {
+      "text": "Před podáváním nech mochi zmrzlinu 5 až 10 minut při pokojové teplotě, aby těsto změklo a bylo tažné."
+    }
+  ],
+  "tips": [
+    "Dobře zabalená mochi zmrzlina vydrží v mrazáku 2 týdny. Pak těsto vysychá a tvrdne.",
+    "Když zmrzlina během balení začne tát, dej kolečka těsta i kuličky na 10 minut zpátky do mrazáku a pokračuj.",
+    "Mochi je tažné a lepivé. Malým dětem a starším lidem ho krájej na malé kousky, hrozí zadušení."
+  ],
+  "substitutions": [
+    "Matcha verze: do těsta přimíchej lžičku matcha prášku a zabal do něj vanilkovou nebo matcha zmrzlinu.",
+    "Bez mikrovlnné trouby: misku s těstem dej do páry a vař 20 minut, v polovině ho promíchej mokrou stěrkou.",
+    "Kukuřičný škrob na podsypání nahradíš bramborovým škrobem."
+  ],
+  "faq": [
+    {
+      "q": "Z čeho je mochi zmrzlina?",
+      "a": "Ze zmrzliny a tenkého těsta z lepivé rýžové mouky, vody a cukru. V Japonsku se těsto tradičně dělá z dušené a tlučené lepivé rýže, doma stačí mouka a mikrovlnná trouba."
+    },
+    {
+      "q": "Jaká mouka na mochi?",
+      "a": "Lepivá rýžová mouka, v asijských obchodech se prodává jako glutinous rice flour, mochiko nebo shiratamako. Obyčejná rýžová mouka nefunguje, těsto by nebylo tažné a popraskalo by."
+    },
+    {
+      "q": "Jak dlouho vydrží mochi zmrzlina v mrazáku?",
+      "a": "Dobře zabalená v potravinové fólii nebo v uzavřené dóze 2 týdny. Vydrží i déle, těsto ale vysychá a ztrácí tažnost."
+    }
+  ]
+}

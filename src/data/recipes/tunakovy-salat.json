@@ -1,0 +1,142 @@
+{
+  "title": "Tuňákový salát s fazolemi a vejcem",
+  "keywords": [
+    "tuňákový salát",
+    "tuňákový salát recept",
+    "salát s tuňákem",
+    "tuňákový salát s fazolemi"
+  ],
+  "image": "dish-tunakovy-salat-ani-listek",
+  "category": "salaty",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Tuňákový salát z tuňáka ve vlastní šťávě, bílých fazolí, cherry rajčat, okurky, rukoly a vajec natvrdo s citronovou zálivkou. Je to sytý salát na oběd, hotový za půl hodiny a bez vaření masa. Tuňák se do salátu nemačká na kaši, jen se rozlomí na velké kusy.",
+  "ingredients": [
+    {
+      "ingredient": "tunak-konzerva",
+      "amount": 320,
+      "unit": "g",
+      "note": "2 plechovky, okapané"
+    },
+    {
+      "ingredient": "fazole-bile",
+      "amount": 400,
+      "unit": "g",
+      "note": "1 plechovka, propláchnuté"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 0.5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olivy",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "rukola",
+      "amount": 100,
+      "unit": "g",
+      "note": "nebo ledový salát"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva, asi 3 lžíce",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "horcice-dijonska",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zálivka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce vlož do vroucí vody a vař 9 až 10 minut. Pak je přendej do studené vody, nech vychladnout, oloupej a nakrájej na čtvrtky."
+    },
+    {
+      "text": "Fazole slij do cedníku, propláchni studenou vodou a nech okapat. Tuňáka okapej a vidličkou rozlom na větší kusy."
+    },
+    {
+      "text": "Cherry rajčata rozpůl, okurku nakrájej na půlkolečka, cibuli na tenká půlkolečka a petrželku nasekej."
+    },
+    {
+      "section": "Zálivka",
+      "text": "Ve sklenici se šroubovacím víčkem protřepej olivový olej, citronovou šťávu, hořčici, sůl a pepř, až se zálivka spojí."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Fazole, rajčata, okurku, cibuli a olivy promíchej s polovinou zálivky. Rukolu rozlož na talíře, navrch dej zeleninu s fazolemi, tuňáka a vejce, pokapej zbytkem zálivky a posyp petrželkou."
+    }
+  ],
+  "tips": [
+    "Do krabičky na oběd si zálivku dej zvlášť a rukolu přidej až před jídlem, jinak zvadne. Promíchaný salát bez listů vydrží v lednici do druhého dne.",
+    "Tuňák v oleji je šťavnatější, tuňák ve vlastní šťávě lehčí. Když použiješ ten v oleji, uber v zálivce lžíci oleje.",
+    "Vejce po vaření hned zchlaď ve studené vodě. Žloutek nezešedne a lépe se loupou."
+  ],
+  "substitutions": [
+    "Bílé fazole se dají nahradit cizrnou nebo 300 g uvařených brambor nakrájených na kostky.",
+    "Místo rukoly se hodí ledový nebo římský salát.",
+    "Krémová verze do pečiva: tuňáka smíchej se 3 lžícemi majonézy, nasekanou cibulí a kukuřicí. To už je ale spíš pomazánka."
+  ],
+  "faq": [
+    {
+      "q": "Jaký tuňák je nejlepší do salátu?",
+      "a": "Kusový tuňák ve vlastní šťávě nebo v olivovém oleji. Kusy drží tvar, drcený tuňák se v salátu rozpadne na kaši. Vždy ho důkladně okapej."
+    },
+    {
+      "q": "Jak dlouho vydrží tuňákový salát v lednici?",
+      "a": "Bez listového salátu a se zálivkou zvlášť vydrží v uzavřené nádobě 1 až 2 dny. Verzi s vejci a majonézou sněz nejpozději druhý den."
+    },
+    {
+      "q": "Co se hodí k tuňákovému salátu?",
+      "a": "Kus čerstvého pečiva, opečená bageta nebo celozrnný chléb. Jako samostatný oběd ale stačí, fazole a vejce ho dělají sytým."
+    }
+  ]
+}

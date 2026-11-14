@@ -1,0 +1,44 @@
+{
+  "name": "Kuřecí nugetky",
+  "restaurant": "bistro-uletelo",
+  "kind": "main",
+  "section": "Kuře",
+  "description": "Kousky kuřecích prsou v trojobalu smažené dozlatova, s medovo-hořčičným dipem.",
+  "about": [
+    "Kuřecí nugetky pro ty, kdo chtějí kuře bez kostí a bez překvapení. Kousky prsou nakrájené na stejnou tloušťku, mouka, vejce a strouhanka přitlačená dlaní, pak tři až čtyři minuty v oleji.",
+    "Domácí nugetky se dají upéct i v troubě a syrové zamrazit na horší časy. K nim medovo-hořčičný dip ze tří surovin. Porci máme spočítanou na kusy. Doručíme jich přesně nula."
+  ],
+  "price": 16900,
+  "image": "dish-nugetky-uletelo",
+  "recipe": "kureci-nugetky",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "8-ks",
+          "name": "8 kusů",
+          "priceDelta": 0
+        },
+        {
+          "id": "12-ks",
+          "name": "12 kusů",
+          "priceDelta": 5000
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    10
+  ],
+  "order": 50
+}

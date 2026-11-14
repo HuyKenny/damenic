@@ -1,0 +1,128 @@
+{
+  "title": "Bryndzové halušky se slaninou",
+  "keywords": [
+    "halušky",
+    "bryndzové halušky",
+    "halušky recept",
+    "bryndzové halušky se slaninou"
+  ],
+  "image": "dish-halusky",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "intro": "Bryndzové halušky ze syrových brambor a hrubé mouky, promíchané s bryndzou a posypané opečenou slaninou. Těsto se dělá těsně před vařením, protože nastrouhané brambory rychle černají. Halušky se vaří jen 2 až 3 minuty a s bryndzou se míchají hned, dokud jsou horké.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "oloupané, moučné",
+      "group": "Halušky"
+    },
+    {
+      "ingredient": "mouka-hruba",
+      "amount": 300,
+      "unit": "g",
+      "note": "podle potřeby o něco víc",
+      "group": "Halušky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Halušky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do těsta",
+      "group": "Halušky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na vaření",
+      "group": "Halušky"
+    },
+    {
+      "ingredient": "bryndza",
+      "amount": 300,
+      "unit": "g",
+      "group": "Bryndza a slanina"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Bryndza a slanina"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Bryndza a slanina"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Halušky",
+      "text": "Ve velkém hrnci přiveď k varu asi 4 l vody se lžící soli."
+    },
+    {
+      "section": "Bryndza a slanina",
+      "text": "Na pánvi bez tuku opékej slaninu na středním plameni 8 až 10 minut, dokud nepustí tuk a nezkřupne. Odstav ji i s tukem."
+    },
+    {
+      "section": "Bryndza a slanina",
+      "text": "Bryndzu dej do velké mísy, ve které budeš halušky míchat, a nech ji ohřát na pokojovou teplotu."
+    },
+    {
+      "section": "Halušky",
+      "text": "Brambory nastrouhej najemno, na nejjemnějším struhadle nebo v robotu. Přebytečnou vodu jen slij, nevymačkávej je. Přidej vejce, sůl a mouku a vařečkou zpracuj na husté lepivé těsto, které pomalu stéká ze lžíce. Když je řídké, přidej po lžících mouku."
+    },
+    {
+      "section": "Halušky",
+      "text": "Těsto protlač haluškovačem přímo do vroucí vody, nebo ho rozetři na mokré prkénko a nožem ho po kouscích seškrabávej do vody. Vař po dávkách: jakmile halušky vyplavou, vař je ještě 1 až 2 minuty."
+    },
+    {
+      "section": "Halušky",
+      "text": "Halušky vyndej děrovanou lžící rovnou do mísy s bryndzou, přidej 2 až 3 lžíce vody z vaření a hned promíchej, aby se bryndza rozpustila a halušky obalila."
+    },
+    {
+      "section": "Bryndza a slanina",
+      "text": "Rozděl na talíře, přelij slaninou i s vyškvařeným tukem a posyp pažitkou. Podávej hned, vystydlé halušky ztuhnou."
+    }
+  ],
+  "tips": [
+    "Brambory strouhej až těsně před vařením. Nastrouhané na vzduchu za pár minut zešednou.",
+    "Do těsta se tradičně dává hrubá mouka, halušky s ní jsou pevnější a nelepí se. S hladkou moukou bývají mazlavé.",
+    "Halušky jsou nejlepší čerstvé. Zbytek vydrží v lednici 1 den, ohřej ho na pánvi se lžící vody nebo mléka."
+  ],
+  "substitutions": [
+    "Když bryndzu neseženeš, rozmixuj 200 g balkánského sýra se 100 g zakysané smetany. Chuť bude slanější a méně ovčí.",
+    "Vegetariánská verze: slaninu vynech a halušky přelij 40 g rozpuštěného másla s osmaženou cibulkou.",
+    "Místo bryndzy se dají halušky podávat se zelím: 500 g kysaného zelí opečeného na slanině, tak jak se dělají strapačky."
+  ],
+  "faq": [
+    {
+      "q": "Čím nahradit bryndzu v haluškách?",
+      "a": "Nejbližší je balkánský sýr rozmixovaný se zakysanou smetanou v poměru 2 : 1. Jemnější verzi dá tvaroh se smetanou a solí. Ovčí chuť bryndzy ale žádná náhrada nemá."
+    },
+    {
+      "q": "Jak udělat halušky bez haluškovače?",
+      "a": "Těsto rozetři na navlhčené prkénko asi na 1 cm a nožem namáčeným ve vroucí vodě z něj seškrabávej malé kousky rovnou do hrnce. Jde to i přes struhadlo s velkými otvory."
+    },
+    {
+      "q": "Proč jsou halušky gumové nebo se lepí?",
+      "a": "V těstě je moc mouky nebo hladká mouka, případně se halušky vařily příliš dlouho. Stačí 1 až 2 minuty po vyplavání a s bryndzou je promíchej hned."
+    }
+  ]
+}

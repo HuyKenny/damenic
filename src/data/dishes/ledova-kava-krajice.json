@@ -1,0 +1,38 @@
+{
+  "name": "Ledová káva 0,3 l",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Espresso přelité přes led a studené mléko. Bez šlehačky a bez zbytečných řečí.",
+  "about": [],
+  "price": 7900,
+  "image": "dish-ledova-kava-krajice",
+  "recipe": null,
+  "optionGroups": [
+    {
+      "id": "mleko",
+      "name": "Mléko",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kravske",
+          "name": "Kravské",
+          "priceDelta": 0
+        },
+        {
+          "id": "ovesne",
+          "name": "Ovesné",
+          "priceDelta": 1000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 80
+}

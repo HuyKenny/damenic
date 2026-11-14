@@ -1,0 +1,196 @@
+{
+  "title": "Bánh mì s karamelizovaným vepřovým",
+  "keywords": [
+    "banh mi",
+    "bánh mì recept",
+    "vietnamská bageta",
+    "bánh mì s vepřovým"
+  ],
+  "image": "dish-banh-mi",
+  "category": "asijska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 15,
+  "waitMinutes": 60,
+  "waitLabel": "marinování masa a nakládání zeleniny",
+  "difficulty": "střední",
+  "intro": "Bánh mì je vietnamská bageta plněná marinovaným vepřovým, rychle nakládanou mrkví s ředkví, okurkou, koriandrem a chilli s majonézou. Spojuje francouzské pečivo s vietnamskými chutěmi: slanou rybí omáčkou, sladkokyselou zeleninou a čerstvými bylinkami. Recept je na čtyři bagetky a nejvíc práce dá krájení zeleniny na nudličky.",
+  "ingredients": [
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "group": "Nakládaná zelenina"
+    },
+    {
+      "ingredient": "redkev-bila",
+      "amount": 150,
+      "unit": "g",
+      "group": "Nakládaná zelenina"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 120,
+      "unit": "ml",
+      "note": "vlažná",
+      "group": "Nakládaná zelenina"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 80,
+      "unit": "ml",
+      "note": "kvasný 8 %",
+      "group": "Nakládaná zelenina"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Nakládaná zelenina"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Nakládaná zelenina"
+    },
+    {
+      "ingredient": "veprova-krkovice",
+      "amount": 500,
+      "unit": "g",
+      "note": "plátky silné 5 mm",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "rybi-omacka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "citronova-trava",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nepovinně, jen spodní měkká část",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 2,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "bageta",
+      "amount": 2,
+      "unit": "ks",
+      "note": "světlá s tenkou kůrkou, každá na dva kusy",
+      "group": "Do bagety"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Do bagety"
+    },
+    {
+      "ingredient": "sriracha",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Do bagety"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Do bagety"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Do bagety"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Do bagety"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Do bagety"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Nakládaná zelenina",
+      "text": "Mrkev a ředkev oloupej a nakrájej na nudličky tenké jako sirky, nebo je nastrouhej na struhadle na nudličky. V misce rozmíchej vodu, ocet, cukr a sůl, dokud se nerozpustí, zeleninu do nálevu ponoř a nech v lednici aspoň 30 minut, nejlépe hodinu."
+    },
+    {
+      "section": "Maso",
+      "text": "Česnek a citronovou trávu nasekej najemno a smíchej s rybí a sójovou omáčkou, lžící cukru a pepřem. Plátky masa v marinádě obal a nech 30 minut až hodinu v lednici, klidně i přes noc."
+    },
+    {
+      "text": "Rozpal velkou pánev s olejem na vysoký plamen a maso opékej v jedné vrstvě po dávkách 2 až 3 minuty z každé strany, až zkaramelizuje a uvnitř není růžové. Cukr z marinády se rychle připaluje, proto podle potřeby plamen stáhni."
+    },
+    {
+      "section": "Skládání",
+      "text": "Bagetky ohřej 4 až 5 minut v troubě při 200 °C, aby kůrka zkřupavěla. Majonézu smíchej se srirachou. Okurku nakrájej podélně na tenké proužky, chilli a jarní cibulku na kolečka."
+    },
+    {
+      "text": "Bagetky rozřízni z boku tak, aby spodní hrana zůstala celá. Vnitřek potři majonézou, vlož plátky masa, okurku, okapanou nakládanou zeleninu, snítky koriandru, chilli a jarní cibulku. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Nakládaná mrkev a ředkev vydrží v uzavřené sklenici v lednici týden. Hodí se i k rýži, nudlím nebo grilovanému masu.",
+    "Vietnamská bageta je lehčí a vzdušnější než francouzská, s tenkou křehkou kůrkou. Nejblíž k ní má obyčejná světlá bageta, ne žitná ani celozrnná.",
+    "Ve Vietnamu se do bánh mì často dává i tenká vrstva paštiky. Pokud ji máš rád, natři ji na spodní stranu bagety pod maso."
+  ],
+  "substitutions": [
+    "Místo krkovice se hodí kuřecí stehenní řízky: opékej je 4 až 5 minut z každé strany, dokud nemají uvnitř 75 °C.",
+    "Vegetariánská verze: místo masa použij 400 g tofu nakrájeného na plátky, marinuj ho jen v sójové omáčce místo rybí a opeč dozlatova.",
+    "Ředkev daikon nahradíš obyčejnými ředkvičkami nakrájenými na tenké plátky."
+  ],
+  "faq": [
+    {
+      "q": "Co je bánh mì?",
+      "a": "Vietnamsky to znamená chléb, dnes se tak říká hlavně plněné bagetě. Bagetu do Vietnamu přinesli Francouzi, náplň s nakládanou zeleninou, koriandrem, chilli a masem je vietnamská."
+    },
+    {
+      "q": "Co patří do bánh mì?",
+      "a": "Maso nebo paštika, majonéza, nakládaná mrkev s ředkví, okurka, koriandr a čerstvé chilli. Maso bývá grilované vepřové, vepřová šunka nebo kuře, dochucuje se sójovou omáčkou."
+    },
+    {
+      "q": "Jak dlouho se nakládá zelenina do bánh mì?",
+      "a": "Stačí 30 minut, plnou chuť má po hodině. V uzavřené sklenici v lednici vydrží týden, postupně ale ztrácí křupavost."
+    }
+  ]
+}

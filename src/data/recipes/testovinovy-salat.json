@@ -1,0 +1,147 @@
+{
+  "title": "Těstovinový salát se šunkou a sýrem",
+  "keywords": [
+    "těstovinový salát",
+    "těstovinový salát recept",
+    "těstovinový salát se šunkou",
+    "těstovinový salát s majonézou"
+  ],
+  "image": "dish-testovinovy-salat",
+  "category": "salaty",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 12,
+  "waitMinutes": 60,
+  "waitLabel": "vychladnutí a proležení v lednici",
+  "difficulty": "snadné",
+  "intro": "Těstovinový salát se šunkou, eidamem, kukuřicí, hráškem a paprikou v zálivce z majonézy a jogurtu pro šest lidí, třeba na oslavu nebo grilování. Těstoviny se vaří na skus a před mícháním musí úplně vychladnout, jinak nasají zálivku a salát je suchý. Nejlíp chutná po hodině v lednici.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 300,
+      "unit": "g",
+      "note": "vřetena, kolínka nebo penne"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na těstoviny"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 200,
+      "unit": "g",
+      "note": "v plátcích"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kukurice-konzerva",
+      "amount": 150,
+      "unit": "g",
+      "note": "okapaná, asi půl plechovky"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 100,
+      "unit": "g",
+      "note": "2 až 3 menší"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 150,
+      "unit": "g",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 150,
+      "unit": "g",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 2,
+      "unit": "spetka",
+      "group": "Zálivka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve velkém hrnci přiveď k varu 3 litry vody, osol ji a vař těstoviny podle obalu, spíš o minutu kratší, aby zůstaly pevné. Poslední 2 minuty k nim přisyp mražený hrášek."
+    },
+    {
+      "text": "Těstoviny s hráškem slij, krátce propláchni studenou vodou, aby se zastavilo vaření a spláchl povrchový škrob, a nech okapat. Rozprostři je na plech a nech úplně vychladnout."
+    },
+    {
+      "text": "Mezitím nakrájej šunku na proužky, eidam na kostičky 1 cm, papriku a okurky na drobné kostičky a jarní cibulku na kolečka. Kukuřici okapej."
+    },
+    {
+      "section": "Zálivka",
+      "text": "Smíchej majonézu, jogurt a hořčici, osol a opepři. Zálivka má být výrazně slaná, těstoviny ji ztlumí."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Vychladlé těstoviny dej do velké mísy, přidej všechny ostatní suroviny i zálivku a důkladně promíchej. Zakryj a nech v lednici odležet aspoň hodinu."
+    },
+    {
+      "text": "Před podáváním salát promíchej a ochutnej. Pokud mezitím zhoustl, vmíchej 2 až 3 lžíce jogurtu nebo mléka."
+    }
+  ],
+  "tips": [
+    "Salát s majonézou drž v lednici. Na stole ho nenechávej déle než 2 hodiny, v letním horku nejvýš hodinu. V lednici vydrží 2 dny.",
+    "Těstoviny vař v dobře osolené vodě, salát pak potřebuje méně soli v zálivce.",
+    "Lehčí verze na grilování: polovinu majonézy nahraď jogurtem, salát bude svěžejší."
+  ],
+  "substitutions": [
+    "Vegetariánská verze: šunku vynech a přidej 150 g cherry rajčat a 100 g kostiček balkánského sýra.",
+    "Místo eidamu se hodí gouda nebo malé kuličky mozzarelly.",
+    "Italská verze bez majonézy: těstoviny promíchej s 5 lžícemi olivového oleje, 2 lžícemi bazalkového pesta a lžící citronové šťávy a přidej rajčata, mozzarellu a rukolu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží těstovinový salát v lednici?",
+      "a": "Salát s majonézou a šunkou vydrží v uzavřené míse v lednici 2 dny. Při pokojové teplotě ho nenechávej déle než 2 hodiny, v letním horku nejvýš hodinu."
+    },
+    {
+      "q": "Proplachují se těstoviny na salát studenou vodou?",
+      "a": "Na studený salát ano. Studená voda zastaví vaření, takže těstoviny nezměknou, a spláchne škrob, kvůli kterému by se slepily. Těstoviny do teplých omáček se naopak neproplachují."
+    },
+    {
+      "q": "Jaké těstoviny jsou nejlepší na salát?",
+      "a": "Krátké tvary, které zálivku zachytí: vřetena, kolínka, penne nebo mašličky. Dlouhé špagety se do salátu nehodí, špatně se míchají i nabírají."
+    }
+  ]
+}

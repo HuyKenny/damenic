@@ -1,0 +1,187 @@
+{
+  "title": "Kuřecí wrap v tortille s jogurtovým dresinkem",
+  "keywords": [
+    "wrap recept",
+    "kuřecí wrap",
+    "tortilla wrap recept",
+    "wrap s kuřecím masem",
+    "jak zabalit wrap"
+  ],
+  "image": "dish-kureci-wrap-krajice",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 12,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Wrap recept na kuřecí wrap z pšeničné tortilly, opečeného kořeněného kuřecího prsa, zeleniny a česnekového jogurtového dresinku. Aby se tortilla při balení netrhala a wrap nerozpadl, musí být tortilla nahřátá a náplně ne víc, než unese.",
+  "ingredients": [
+    {
+      "ingredient": "tortilly",
+      "amount": 4,
+      "unit": "ks",
+      "note": "velké, průměr 25 až 30 cm",
+      "group": "Wrap"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 500,
+      "unit": "g",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "cesnek-suseny",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "jogurt-recky",
+      "amount": 150,
+      "unit": "g",
+      "group": "Dresink"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Dresink"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Dresink"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Dresink"
+    },
+    {
+      "ingredient": "ledovy-salat",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "natrhaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na nudličky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "na tenká kolečka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 80,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Náplň"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Kuře",
+      "text": "Prsa rozřízni napříč na plátky silné asi 1,5 cm. Potři je olejem a posyp oběma paprikami, římským kmínem, sušeným česnekem, solí a pepřem."
+    },
+    {
+      "section": "Kuře",
+      "text": "Pánev rozehřej na středně vysoký plamen a plátky opékej 5 až 6 minut z každé strany, dokud nemají uvnitř 75 °C. Nech je 5 minut odpočinout a nakrájej na nudličky."
+    },
+    {
+      "section": "Dresink",
+      "text": "Jogurt smíchej s česnekem, citronovou šťávou a solí."
+    },
+    {
+      "section": "Balení",
+      "text": "Tortilly nahřej po jedné na suché pánvi asi 20 vteřin z každé strany, až zvláční. Studená tortilla při balení praská."
+    },
+    {
+      "section": "Balení",
+      "text": "Do dolní třetiny tortilly dej salát, na něj kuře, zeleninu, sýr a lžíci dresinku. Po stranách nech volné okraje asi 4 cm. Boky přehni přes náplň a tortillu pevně srolůj odspodu nahoru."
+    },
+    {
+      "section": "Balení",
+      "text": "Wrap polož spojem dolů na rozehřátou pánev a opékej 1 minutu, spoj se zatáhne. Rozkroj ho šikmo napůl a podávej."
+    }
+  ],
+  "tips": [
+    "Salát dej jako první vrstvu. Odděluje tortillu od šťavnaté náplně a wrap se tolik nerozmočí.",
+    "Do jedné tortilly dávej nejvýš asi 200 g náplně, s víc už se nedá pevně zabalit.",
+    "Na cestu zabal wrap do pečicího papíru a dresink si vezmi zvlášť."
+  ],
+  "substitutions": [
+    "Vegetariánskou verzi uděláš s 250 g halloumi nakrájeného na plátky a opečeného 2 minuty z každé strany.",
+    "Řecký jogurt nahradí zakysaná smetana.",
+    "Eidam lze vyměnit za čedar nebo balkánský sýr."
+  ],
+  "faq": [
+    {
+      "q": "Jak zabalit wrap, aby se nerozpadl?",
+      "a": "Tortillu nahřej, náplň dej do dolní třetiny a nech volné okraje. Přehni boky přes náplň, srolůj ji pevně odspodu a nakonec ji spojem dolů krátce opeč, spoj se zatáhne."
+    },
+    {
+      "q": "Jak dlouho vydrží wrap v lednici?",
+      "a": "Zabalený do druhého dne, zhruba 24 hodin. Zelenina postupně pouští vodu, proto je lepší dresink a rajčata přidat až před jídlem."
+    },
+    {
+      "q": "Musí se tortilla na wrap ohřívat?",
+      "a": "Ano. Nahřátá na suché pánvi 20 vteřin z každé strany zvláční a při balení nepraská. Studená z obalu se láme na přehybech."
+    }
+  ]
+}

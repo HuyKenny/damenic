@@ -1,0 +1,183 @@
+{
+  "title": "Caesar salát s kuřecím masem",
+  "keywords": [
+    "caesar salát",
+    "caesar salát recept",
+    "caesar salát s kuřecím masem",
+    "caesar dressing"
+  ],
+  "image": "dish-caesar-ani-listek",
+  "category": "salaty",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 20,
+  "waitMinutes": 5,
+  "waitLabel": "odpočinek masa po opečení",
+  "difficulty": "snadné",
+  "intro": "Caesar salát s kuřecím masem, křupavými krutony a zálivkou z parmazánu, ančoviček a citronu pro čtyři. Klasická zálivka se míchá ze syrového žloutku, proto ji tady stavíme na majonéze; kdo chce původní verzi, smí použít jen pasterizovaný žloutek. Kuře se opéká do 75 °C uvnitř a římský salát musí být po umytí suchý, jinak zálivka steče na dno mísy.",
+  "ingredients": [
+    {
+      "ingredient": "romaine",
+      "amount": 2,
+      "unit": "ks",
+      "note": "2 hlávky, asi 600 g",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 500,
+      "unit": "g",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "bageta",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nebo 150 g toustového chleba",
+      "group": "Krutony"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Krutony"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozmáčknutý",
+      "group": "Krutony"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 120,
+      "unit": "g",
+      "note": "asi 8 lžic",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "jemně nastrouhaný",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "ancovicky",
+      "amount": 15,
+      "unit": "g",
+      "note": "3 až 4 filety",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva, asi 2 lžíce",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "horcice-dijonska",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "worcester",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 30,
+      "unit": "ml",
+      "note": "na zředění",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 30,
+      "unit": "g",
+      "note": "na hobliny",
+      "group": "Na dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Krutony",
+      "text": "Troubu rozehřej na 190 °C (horkovzduch 180 °C). Bagetu nakrájej na kostky 2 cm, promíchej je se 3 lžícemi olivového oleje, rozmáčknutým stroužkem česneku a špetkou soli a rozprostři na plech v jedné vrstvě."
+    },
+    {
+      "text": "Krutony peč 8 až 10 minut, v polovině je promíchej. Hotové jsou, když jsou zlatavé a při zmáčknutí nepovolí. Nech je vychladnout na plechu, ještě dokřupnou."
+    },
+    {
+      "section": "Kuře",
+      "text": "Kuřecí prsa podélně rozřízni nebo rozklepej na stejnou tloušťku asi 2 cm, osuš papírovou utěrkou, osol, opepři a potři olejem. Rozpal pánev na středně vysoký plamen."
+    },
+    {
+      "text": "Maso opékej 5 až 6 minut z každé strany, dokud nemá uvnitř 75 °C (vpichový teploměr), nebo dokud není v řezu růžové a šťáva je čirá. Nech ho 5 minut odpočinout na prkénku a nakrájej na proužky."
+    },
+    {
+      "section": "Zálivka",
+      "text": "Ančovičky a stroužek česneku rozmačkej vidličkou nebo nasekej na pastu. Smíchej s majonézou, 40 g strouhaného parmazánu, citronovou šťávou, dijonskou hořčicí a worcestrovou omáčkou. Zřeď vodou po lžících, až zálivka teče jako hustá smetana, a opepři."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Římský salát rozeber na listy, umyj a důkladně osuš, nejlépe v odstředivce na salát. Natrhej ho na velké kusy a ve velké míse promíchej se dvěma třetinami zálivky, aby byl každý list obalený."
+    },
+    {
+      "text": "Salát rozděl na talíře, navrch dej kuře a krutony, pokapej zbytkem zálivky a posyp hoblinkami parmazánu. Podávej hned, než krutony změknou."
+    }
+  ],
+  "tips": [
+    "Zálivku můžeš udělat den předem, v uzavřené nádobě vydrží v lednici 2 dny. Krutony uchovávej zvlášť v suché dóze, křupavé zůstanou 3 dny.",
+    "Voda na listech zálivku ředí a ta pak sklouzne na dno mísy. Proto salát suš pořádně, klidně ho po odstředění ještě otři utěrkou.",
+    "Kuře bude šťavnatější, když ho před opékáním necháš 15 minut ležet osolené při pokojové teplotě."
+  ],
+  "substitutions": [
+    "Původní zálivka je ze syrového žloutku, oleje a citronu. Dělej ji jen z pasterizovaného žloutku z chlazené krabičky: 1 žloutek (20 g) prošlehej s citronovou šťávou, hořčicí a ančovičkami a po kapkách všlehej 100 ml olivového oleje. Ze syrového vejce z běžného prodeje ji nedělej, zvlášť ne pro děti, těhotné a starší lidi.",
+    "Bez ančoviček přidej do zálivky o lžičku worcesteru víc a lžičku nasekaných kaparů. Pro vegetariány pozor: worcestrová omáčka ančovičky obvykle obsahuje, je potřeba hledat verzi bez ryb.",
+    "Místo kuřete se hodí krevety opečené 2 až 3 minuty z každé strany nebo plátky opečeného halloumi."
+  ],
+  "faq": [
+    {
+      "q": "Co patří do caesar salátu?",
+      "a": "Základ je římský salát, krutony, parmazán a zálivka z citronu, česneku, worcestrové omáčky, hořčice a oleje se žloutkem, do které se přidávají ančovičky. Kuřecí maso v původní verzi nebylo, dnes je to ale nejčastější doplněk."
+    },
+    {
+      "q": "Je caesar dressing se syrovým vejcem bezpečný?",
+      "a": "Syrový žloutek může přenášet salmonelu. Bezpečné je použít pasterizovaný žloutek z chlazené krabičky, nebo zálivku postavit na majonéze jako v tomto receptu. Pro děti, těhotné a starší lidi syrová vejce z běžného prodeje nepoužívej."
+    },
+    {
+      "q": "Jaký salát použít na caesar salát?",
+      "a": "Římský salát, kterému se říká i romaine. Má pevné a křupavé listy, které zálivku udrží a nezvadnou. Ledový salát je nouzové řešení, chutná vodnatěji."
+    }
+  ]
+}

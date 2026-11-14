@@ -1,0 +1,120 @@
+{
+  "title": "Kuřecí řízek",
+  "keywords": [
+    "kuřecí řízek",
+    "kuřecí řízek recept",
+    "smažený kuřecí řízek",
+    "jak usmažit kuřecí řízek"
+  ],
+  "image": "dish-kureci-rizek",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Smažený kuřecí řízek z prsou v klasickém trojobalu pro čtyři. Plátky se naklepají na stejnou tloušťku, aby se propekly rovnoměrně a za 3 až 4 minuty z každé strany měly uvnitř 75 °C. Křupavost dělá čerstvá strouhanka a olej rozpálený na 160 až 170 °C.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 600,
+      "unit": "g",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 400,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na měsíčky",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Maso",
+      "text": "Kuřecí prsa rozkroj vodorovně na plátky asi 1,5 cm silné, aby vyšlo 8 kusů. Přikryj je fólií a paličkou nebo dnem pánve naklepej na stejnou tloušťku asi 1 cm."
+    },
+    {
+      "section": "Obal",
+      "text": "Plátky osuš papírovou utěrkou a z obou stran osol. Do jednoho talíře dej mouku, do druhého rozšlehej vejce s mlékem a špetkou soli, do třetího strouhanku."
+    },
+    {
+      "section": "Obal",
+      "text": "Každý plátek obal v mouce a přebytek oklepej, protáhni vejcem, nech okapat a obal ve strouhance. Strouhanku jen lehce přitiskni, aby obal při smažení mohl odstoupit a vytvořit vlnky."
+    },
+    {
+      "section": "Smažení",
+      "text": "Na velké pánvi rozehřej olej do výšky asi 1 cm na 160 až 170 °C. Řízky smaž po dvou až třech 3 až 4 minuty z každé strany dozlatova a během smažení pánví lehce pohybuj, aby olej přeléval obal."
+    },
+    {
+      "section": "Smažení",
+      "text": "Propečení zkontroluj teploměrem v nejsilnějším místě: kuřecí maso musí mít uvnitř aspoň 75 °C. Bez teploměru jeden řízek nakroj, maso má být bílé a šťáva čirá."
+    },
+    {
+      "section": "Podávání",
+      "text": "Hotové řízky nech okapat na mřížce, na papírové utěrce spodní strana změkne. Podávej s měsíčkem citronu, s bramborovým salátem nebo s vařenými brambory."
+    }
+  ],
+  "tips": [
+    "Obalené řízky smaž hned. Když stojí, strouhanka nasákne vejcem a obal pak odpadává.",
+    "Mezi dávkami nech olej znovu nahřát a sesbírej spálené drobky strouhanky, jinak hořknou.",
+    "Usmažené řízky vydrží v lednici 2 dny. Ohřívej je na mřížce v troubě při 180 °C asi 10 minut, v mikrovlnce změknou."
+  ],
+  "substitutions": [
+    "Místo prsou se hodí kuřecí stehenní řízky. Jsou šťavnatější a smaží se o minutu déle z každé strany.",
+    "Do oleje můžeš přidat 2 lžíce sádla nebo přepuštěného másla, řízek dostane plnější chuť.",
+    "Místo strouhanky jde použít směs strouhanky a 2 lžic nastrouhaného parmazánu, nebo kukuřičné lupínky rozdrcené najemno."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se smaží kuřecí řízek?",
+      "a": "Plátek silný asi 1 cm se smaží 3 až 4 minuty z každé strany v oleji rozpáleném na 160 až 170 °C. Hotový je, když má uvnitř 75 °C."
+    },
+    {
+      "q": "Proč odpadává obal z řízku?",
+      "a": "Maso bylo mokré, na mouce zůstal přebytek, obalené řízky dlouho stály nebo se v pánvi otáčely víc než jednou. Maso osuš, mouku oklepej a smaž hned po obalení."
+    },
+    {
+      "q": "Dá se kuřecí řízek upéct v troubě?",
+      "a": "Dá. Obalené řízky polož na plech s pečicím papírem, pokapej olejem a peč při 200 °C, horkovzduch 180 °C, 20 až 25 minut, v polovině je obrať. Uvnitř musí mít 75 °C."
+    }
+  ]
+}

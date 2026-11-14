@@ -1,0 +1,162 @@
+{
+  "title": "Buffalo wings s dipem z nivy",
+  "keywords": [
+    "buffalo wings",
+    "buffalo wings recept",
+    "buffalo křidélka",
+    "pikantní kuřecí křidélka",
+    "buffalo wings omáčka"
+  ],
+  "image": "dish-buffalo-wings-uletelo",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 30,
+  "waitMinutes": 60,
+  "waitLabel": "osušení kůže v lednici",
+  "difficulty": "střední",
+  "intro": "Buffalo wings jsou smažená kuřecí křidélka bez obalu, obalená v pálivé omáčce z ostré chilli omáčky a rozpuštěného másla. Patří k nim studený dip z modrého sýra a tyčinky celeru. Křupavost dělá suchá kůže a olej, který drží 175 °C.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-kridelka",
+      "amount": 1200,
+      "unit": "g",
+      "note": "rozdělená v kloubech, bez konečků",
+      "group": "Křidélka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Křidélka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Křidélka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na smažení, hladina aspoň 4 cm",
+      "group": "Křidélka"
+    },
+    {
+      "ingredient": "ostra-omacka",
+      "amount": 120,
+      "unit": "ml",
+      "group": "Buffalo omáčka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "group": "Buffalo omáčka"
+    },
+    {
+      "ingredient": "cesnek-suseny",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Buffalo omáčka"
+    },
+    {
+      "ingredient": "niva",
+      "amount": 80,
+      "unit": "g",
+      "note": "rozdrobená",
+      "group": "Dip z nivy"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 120,
+      "unit": "g",
+      "group": "Dip z nivy"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Dip z nivy"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Dip z nivy"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Dip z nivy"
+    },
+    {
+      "ingredient": "celer-rapikaty",
+      "amount": 200,
+      "unit": "g",
+      "note": "na tyčinky",
+      "group": "Na podávání"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 200,
+      "unit": "g",
+      "note": "na tyčinky",
+      "group": "Na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Křidélka rozděl v kloubech, osuš je papírovou utěrkou a osol a opepři. Rozlož je na mřížku a nech je nepřikrytá 1 hodinu v lednici, kůže oschne a při smažení bude křupat."
+    },
+    {
+      "section": "Dip",
+      "text": "Na dip rozmačkej nivu vidličkou se zakysanou smetanou, vmíchej majonézu, citronovou šťávu a pepř. Dej ho do lednice, podává se studený."
+    },
+    {
+      "section": "Smažení",
+      "text": "V širokém těžkém hrnci rozehřej olej na 175 °C, hrnec smí být naplněný nejvýš do poloviny. Troubu nastav na 90 °C, budeš v ní udržovat hotová křidélka teplá."
+    },
+    {
+      "section": "Smažení",
+      "text": "Smaž po menších dávkách 10 až 12 minut, dokud nejsou zlatá a křupavá. Mezi dávkami nech olej znovu ohřát na 175 °C. Hotová mají v nejsilnějším místě 75 °C. Okapej je na mřížce a dej do teplé trouby."
+    },
+    {
+      "section": "Omáčka",
+      "text": "V kastrolu rozpusť máslo na mírném ohni, stáhni ho z plotny a metličkou do něj zašlehej ostrou omáčku a sušený česnek. Omáčku už nevař, máslo by se oddělilo."
+    },
+    {
+      "section": "Na podávání",
+      "text": "Horká křidélka dej do velké mísy, přelij je omáčkou a promíchávej, dokud nejsou obalená ze všech stran. Podávej hned s dipem a tyčinkami celeru a mrkve."
+    }
+  ],
+  "tips": [
+    "Rozpálený olej nikdy nenechávej bez dozoru a neházej do něj mokré maso. Na měření teploty je nejlepší kuchyňský teploměr.",
+    "Pálivost řídíš poměrem: víc másla omáčku zjemní, víc ostré omáčky ji zostří.",
+    "Bez smažení: křidélka osušená a posolená peč na mřížce při 220 °C, horkovzduch 200 °C, 45 až 50 minut, v polovině je otoč. Pak je obal v omáčce stejně jako smažená."
+  ],
+  "substitutions": [
+    "Kdo nemá rád modrý sýr, udělá dip ze zakysané smetany, majonézy, citronu a nasekané pažitky.",
+    "Ostrou omáčku na křidélka lze nahradit jinou octovou chilli omáčkou. Pálivější omáčky ředí víc másla.",
+    "Na smažení se hodí i rafinovaný řepkový olej. Nerafinované oleje se při 175 °C přepalují."
+  ],
+  "faq": [
+    {
+      "q": "Co jsou buffalo wings?",
+      "a": "Smažená kuřecí křidélka bez obalu obalená v pálivé omáčce z ostré chilli omáčky a másla. Pocházejí z amerického města Buffalo a podávají se s dipem z modrého sýra a celerem."
+    },
+    {
+      "q": "Jak udělat buffalo omáčku na křidélka?",
+      "a": "Do rozpuštěného másla stáhnutého z plotny zašlehej ostrou octovou chilli omáčku v poměru zhruba 3 díly omáčky na 2 díly másla. Omáčka se už nevaří, jinak se máslo oddělí."
+    },
+    {
+      "q": "Dají se buffalo wings péct v troubě?",
+      "a": "Ano. Osušená křidélka peč na mřížce při 220 °C (horkovzduch 200 °C) 45 až 50 minut, v polovině je otoč, a do omáčky je obal až po upečení."
+    }
+  ]
+}

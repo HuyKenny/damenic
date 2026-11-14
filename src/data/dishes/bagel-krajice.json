@@ -1,0 +1,44 @@
+{
+  "name": "Bagel se smetanovým sýrem",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Studené sendviče",
+  "description": "Domácí sezamový bagel opečený dozlatova, se smetanovým sýrem a pažitkou.",
+  "about": [
+    "Bagel je pečivo s dírou, které se před pečením vaří. Proto má lesklou žvýkavou kůrku a hutnou střídku, která snese tlustou vrstvu smetanového sýra a nerozmáčkne se.",
+    "Těsto je tuhé, kyne hodinu a každý bagel jde na minutu z každé strany do vody s medem. Doma jich z jedné dávky upečeš osm. My jsme upekli díru uprostřed."
+  ],
+  "price": 9900,
+  "image": "dish-bagel-krajice",
+  "recipe": "bagel",
+  "optionGroups": [
+    {
+      "id": "opeceny",
+      "name": "Opečení",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "opeceny",
+          "name": "Opečený",
+          "priceDelta": 0
+        },
+        {
+          "id": "neopeceny",
+          "name": "Neopečený",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    11
+  ],
+  "order": 50
+}

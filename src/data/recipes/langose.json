@@ -1,0 +1,163 @@
+{
+  "title": "Langoše s česnekem, kečupem a sýrem",
+  "keywords": [
+    "langoše",
+    "langoše recept",
+    "domácí langoše",
+    "těsto na langoše"
+  ],
+  "image": "dish-langose",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 20,
+  "waitMinutes": 85,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "intro": "Domácí langoše z kynutého těsta smažené v oleji a potřené česnekem, kečupem, sýrem a zakysanou smetanou. Z tohoto množství vyjde 8 langošů. Těsto je měkké a lepivé, takže se nenatahuje válečkem, ale rukama, a smaží se při 170 až 175 °C, aby nenasálo olej.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 20,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 300,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "do těsta",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 750,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 6,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Na potření"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 50,
+      "unit": "ml",
+      "group": "Na potření"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "do česneku",
+      "group": "Na potření"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 150,
+      "unit": "g",
+      "group": "Na potření"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 200,
+      "unit": "g",
+      "note": "najemno nastrouhaný",
+      "group": "Na potření"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 200,
+      "unit": "g",
+      "group": "Na potření"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Do hrnku nalij 100 ml vlažného mléka, rozdroť do něj droždí, přidej cukr a lžíci mouky. Promíchej a nech 10 minut stát na teplém místě, dokud kvásek nezačne pěnit."
+    },
+    {
+      "section": "Těsto",
+      "text": "Do mísy prosej zbytek mouky se solí, přidej kvásek, zbytek mléka a 2 lžíce oleje. Hněť robotem 5 minut nebo rukama 8 až 10 minut, dokud těsto není hladké a pružné. Bude měkké a mírně lepivé, mouku nepřidávej."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mísu přikryj utěrkou a nech těsto kynout 60 minut na teplém místě, dokud nezvětší objem asi na dvojnásobek."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vykynuté těsto vyklop na naolejovanou desku, rozděl na 8 dílů a vytvaruj z nich bochánky. Přikryj je a nech 15 minut odpočinout."
+    },
+    {
+      "section": "Smažení",
+      "text": "Do širokého hrnce nebo hluboké pánve nalij olej do výšky asi 2 cm a rozehřej ho na 170 až 175 °C. Bez teploměru: vhozený kousek těsta má hned vyplavat a kolem něj se dělat bublinky."
+    },
+    {
+      "section": "Smažení",
+      "text": "Bochánek naolejovanými prsty roztáhni na placku o průměru asi 18 cm, uprostřed tenčí a na okraji silnější. Opatrně ji polož do oleje směrem od sebe a smaž 1,5 až 2 minuty z každé strany dozlatova."
+    },
+    {
+      "section": "Smažení",
+      "text": "Hotový langoš polož na mřížku nebo papírovou utěrku, ať okape. Mezi jednotlivými kusy nech olej znovu ohřát na 170 °C."
+    },
+    {
+      "section": "Na potření",
+      "text": "Česnek rozmíchej s vodou a solí a potři jím teplé langoše. Pak je potři kečupem, posyp sýrem a navrch dej lžíci zakysané smetany. Podávej hned, dokud jsou křupavé."
+    }
+  ],
+  "tips": [
+    "Olej hlídej teploměrem. Pod 160 °C langoše nasáknou tukem, nad 185 °C zhnědnou zvenku dřív, než se propečou uvnitř.",
+    "Jemnější těsto vyjde, když 100 g mouky nahradíš 200 g uvařených a prolisovaných vychladlých brambor. Mléka pak ubude asi 50 ml.",
+    "Hotové langoše jsou nejlepší čerstvé. Usmažené placky bez potření můžeš ohřát v troubě při 200 °C asi 5 minut."
+  ],
+  "substitutions": [
+    "Místo polohrubé mouky se hodí hladká, těsto bude o něco vláčnější.",
+    "Místo mléka můžeš použít vlažnou vodu, langoše budou křupavější a méně zlatavé.",
+    "Sladká verze: místo česneku a kečupu langoš posyp cukrem moučkou se skořicí nebo potři povidly."
+  ],
+  "faq": [
+    {
+      "q": "Na jakém oleji se smaží langoše?",
+      "a": "Na rafinovaném slunečnicovém nebo řepkovém oleji, který snese teplotu kolem 175 °C. Panenský olivový olej se na smažení langošů nehodí."
+    },
+    {
+      "q": "Proč jsou langoše nasáklé olejem?",
+      "a": "Olej byl příliš studený nebo se do pánve dalo víc kusů najednou a olej vychladl. Smaž při 170 až 175 °C a vždy po jednom nebo po dvou."
+    },
+    {
+      "q": "Dají se langoše upéct v troubě?",
+      "a": "Dají se upéct jako placky na plechu při 220 °C asi 10 až 12 minut, pokapané olejem. Chuť se smaženými langoši ale nesrovnáš, budou spíš jako pizza bez obložení."
+    }
+  ]
+}

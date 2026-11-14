@@ -1,0 +1,212 @@
+{
+  "title": "Korean fried chicken: korejské smažené kuře s gochujang glazurou",
+  "keywords": [
+    "korean fried chicken",
+    "korejské smažené kuře",
+    "korean fried chicken recept",
+    "gochujang kuře"
+  ],
+  "image": "dish-korejske-kure-uletelo",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 45,
+  "cookMinutes": 20,
+  "waitMinutes": 30,
+  "waitLabel": "marinování masa",
+  "difficulty": "střední",
+  "intro": "Korean fried chicken je korejské smažené kuře, které se smaží dvakrát a pak se obalí v lepkavé glazuře z gochujangu, medu a česneku. První smažení maso propeče, druhé udělá z tenkého škrobového těstíčka křehkou krustu, která v glazuře vydrží křupavá.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 800,
+      "unit": "g",
+      "note": "vykostěná bez kůže, na kousky asi 4 cm",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 80,
+      "unit": "g",
+      "note": "bramborový nebo kukuřičný",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "note": "ledová",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na smažení, hladina aspoň 4 cm",
+      "group": "Těstíčko"
+    },
+    {
+      "ingredient": "gochujang",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "med",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "ocet-ryzovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Glazura"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "opražený",
+      "group": "Na podávání"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na kolečka",
+      "group": "Na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Maso",
+      "text": "Kousky masa promíchej se solí, pepřem, zázvorem a česnekem a nech je přikryté 30 minut v lednici."
+    },
+    {
+      "section": "Těstíčko",
+      "text": "V míse prošlehej škrob, mouku, prášek do pečiva a sůl. Za stálého míchání přilévej ledovou vodu, až vznikne řídké těstíčko hustoty palačinkového. Vmíchej do něj maso, aby bylo obalené ze všech stran."
+    },
+    {
+      "section": "První smažení",
+      "text": "V širokém těžkém hrnci rozehřej olej na 170 °C, hrnec naplň nejvýš do poloviny. Kousky pouštěj do oleje po jednom, ať se neslepí, a smaž po dávkách 6 až 7 minut, dokud nejsou světle zlaté. Vyndej je na mřížku."
+    },
+    {
+      "section": "Glazura",
+      "text": "Hotovou várku nech 5 až 10 minut odpočinout na mřížce. Mezitím v pánvi smíchej všechny suroviny na glazuru kromě sezamového oleje a na mírném ohni je za míchání 2 až 3 minuty povař, až glazura zhoustne a začne se lesknout. Stáhni ji z ohně a vmíchej sezamový olej."
+    },
+    {
+      "section": "Druhé smažení",
+      "text": "Olej rozehřej na 180 °C a všechno maso smaž podruhé 2 až 3 minuty, dokud není krusta sytě zlatá a tvrdá na poklep. Uvnitř musí mít kousky aspoň 75 °C."
+    },
+    {
+      "section": "Na podávání",
+      "text": "Horké kuře vsyp do pánve s teplou glazurou, rychle promíchej, aby se obalilo, a hned podávej posypané sezamem a jarní cibulkou. Křupavé vydrží asi čtvrt hodiny."
+    }
+  ],
+  "tips": [
+    "Ledová voda a škrob dělají tenkou, sklovitě křehkou krustu. S teplou vodou by se lepek v mouce víc vyvinul a obal by byl tužší.",
+    "Kdo chce kuře úplně křupavé, podá glazuru zvlášť na namáčení.",
+    "Rozpálený olej nenechávej bez dozoru a nepřeplňuj hrnec. Po každé dávce počkej, až se teplota vrátí."
+  ],
+  "substitutions": [
+    "Bez gochujangu udělej jemnou sójovo-česnekovou glazuru: 3 lžíce sójové omáčky, 3 lžíce medu, 5 stroužků česneku a 1 lžíce rýžového octa povařené 2 minuty.",
+    "Místo stehen se hodí křidélka rozdělená v kloubech. První smažení prodluž na 9 až 10 minut.",
+    "Rýžový ocet nahradí lžička kvasného octa zředěná lžičkou vody."
+  ],
+  "faq": [
+    {
+      "q": "Proč se korejské smažené kuře smaží dvakrát?",
+      "a": "Při prvním smažení na 170 °C se maso propeče a obal vysuší. Krátké druhé smažení na 180 °C pak z obalu udělá tvrdou křehkou krustu, která zůstane křupavá i v glazuře."
+    },
+    {
+      "q": "Co je gochujang?",
+      "a": "Korejská fermentovaná pasta z chilli, lepivé rýže a sóji. Je pálivá, sladká a slaná zároveň. Prodávají ji asijské obchody a větší supermarkety, po otevření vydrží v lednici několik měsíců."
+    },
+    {
+      "q": "Jak ohřát korejské smažené kuře, aby bylo zase křupavé?",
+      "a": "Nejlépe na mřížce v troubě při 200 °C 8 až 10 minut nebo v horkovzdušné fritéze při 190 °C 4 až 5 minut. Mikrovlnka krustu rozmočí."
+    }
+  ]
+}

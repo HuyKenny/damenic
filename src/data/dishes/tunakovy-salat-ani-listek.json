@@ -1,0 +1,44 @@
+{
+  "name": "Tuňákový salát s fazolemi",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "description": "Kusy tuňáka, bílé fazole, vejce natvrdo, rajčátka a rukola s citronovou zálivkou. Sytý jako oběd.",
+  "about": [
+    "Tuňákový salát není pomazánka. Tuňák se jen okape a rozlomí na velké kusy, fazole přidají sytost, vejce natvrdo krémovost a cherry rajčata s rukolou svěžest. Citronová zálivka s dijonskou hořčicí se protřepe ve sklenici a polovina jde do salátu hned, druhá až na talíř.",
+    "Do krabičky na oběd se hodí, když necháš zálivku zvlášť a rukolu přidáš až před jídlem. My jsme to vyřešili jednodušeji. Nevezeme ani jedno, takže nic nezvadne."
+  ],
+  "price": 19900,
+  "image": "dish-tunakovy-salat-ani-listek",
+  "recipe": "tunakovy-salat",
+  "optionGroups": [
+    {
+      "id": "zalivka",
+      "name": "Zálivka",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "na-salatu",
+          "name": "Na salátu",
+          "priceDelta": 0
+        },
+        {
+          "id": "zvlast",
+          "name": "Zvlášť v kelímku",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    4,
+    10
+  ],
+  "featured": false,
+  "order": 30
+}

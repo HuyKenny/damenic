@@ -1,0 +1,162 @@
+{
+  "title": "Smažené kuře v podmáslí",
+  "keywords": [
+    "smažené kuře recept",
+    "smažené kuře",
+    "jižanské smažené kuře"
+  ],
+  "image": "dish-smazene-kure",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 20,
+  "waitMinutes": 240,
+  "waitLabel": "marinování v podmáslí",
+  "difficulty": "střední",
+  "intro": "Smažené kuře recept na jižanský způsob: kousky kuřete s kostí se několik hodin nakládají do osoleného podmáslí, obalí v kořeněné mouce a smaží do hrubé zlaté krusty. Kusy s kostí se na oleji propečou pomalu, proto se po smažení dopékají v troubě do 75 °C uvnitř.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna-s-kosti",
+      "amount": 1200,
+      "unit": "g",
+      "note": "horní a dolní stehna, asi 8 kusů",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "podmasli",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "cesnek-suseny",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "paprika-paliva",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 50,
+      "unit": "g",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "cesnek-suseny",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "na smažení, hladina aspoň 4 cm",
+      "group": "Smažení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Marináda",
+      "text": "V míse rozmíchej podmáslí se solí, sušeným česnekem a pálivou paprikou. Ponoř do něj kousky kuřete, mísu přikryj a dej do lednice aspoň na 4 hodiny, nejlépe přes noc, nejdéle na 24 hodin."
+    },
+    {
+      "section": "Obal",
+      "text": "Ve velké míse smíchej mouku, škrob, prášek do pečiva a všechno koření. Přilij 3 lžíce podmáslí z marinády a prsty ho do mouky rozdrob, aby vznikly drobné hrudky. Z nich bude hrubá křupavá krusta."
+    },
+    {
+      "section": "Obal",
+      "text": "Kousky vyndávej z podmáslí, nech je okapat a v mouce je ze všech stran obal a silou přitlač. Obalené nech ležet 15 minut na mřížce, obal se přichytí a při smažení neopadá."
+    },
+    {
+      "section": "Smažení",
+      "text": "Troubu předehřej na 180 °C, horkovzduch 160 °C, a na plech polož mřížku. V širokém těžkém hrnci rozehřej olej na 175 °C, hrnec naplň nejvýš do poloviny."
+    },
+    {
+      "section": "Smažení",
+      "text": "Smaž po 3 až 4 kusech 7 až 8 minut, několikrát je otoč, dokud nejsou sytě zlatohnědé. Teplotu oleje udržuj mezi 170 a 180 °C, po vložení masa ji přidej plamenem."
+    },
+    {
+      "section": "Dopečení",
+      "text": "Usmažené kusy přendej na mřížku v troubě a dopékej je 15 až 20 minut. Hotové jsou, když mají v nejsilnějším místě u kosti, ale bez dotyku kosti, aspoň 75 °C a šťáva je čirá. Před podáváním je nech 5 minut odpočinout."
+    }
+  ],
+  "tips": [
+    "Bez teploměru se kuře s kostí propéká špatně odhaduje. Kuchyňský vpichový teploměr se tu vyplatí víc než cokoli jiného.",
+    "Nedávej do hrnce moc kusů najednou. Olej by vychladl a obal by místo křupnutí nasákl tukem.",
+    "Vychladlé smažené kuře vydrží v lednici 3 dny. Ohřej ho na mřížce při 200 °C 10 až 12 minut."
+  ],
+  "substitutions": [
+    "Podmáslí nahradí 450 ml mléka s 2 lžícemi citronové šťávy, které nech 10 minut stát, nebo stejné množství kefíru.",
+    "Z vykostěných stehenních řízků nebo kousků prsou uděláš kuře bez dopékání. Smaž je 5 až 7 minut do 75 °C uvnitř.",
+    "Tymián můžeš vyměnit za oregano nebo majoránku."
+  ],
+  "faq": [
+    {
+      "q": "Proč se kuře před smažením nakládá do podmáslí?",
+      "a": "Mírně kyselé podmáslí s osolením maso změkčí a dochutí až dovnitř. Zároveň na povrchu zůstane lepivá vrstva, na které drží hrubý moučný obal."
+    },
+    {
+      "q": "Jak poznat, že je smažené kuře propečené?",
+      "a": "Vpichovým teploměrem v nejsilnějším místě u kosti, aniž by se jí hrot dotýkal. Musí ukázat aspoň 75 °C. Bez teploměru: šťáva po propíchnutí je čirá a maso u kosti není růžové."
+    },
+    {
+      "q": "Jaký olej použít na smažení kuřete?",
+      "a": "Rafinovaný slunečnicový nebo řepkový, snesou teplotu 170 až 180 °C bez přepalování. Hrnec plň nejvýš do poloviny a olej měř teploměrem."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "title": "Čočka na kyselo s vejcem a okurkou",
+  "keywords": [
+    "čočka na kyselo",
+    "čočka na kyselo recept",
+    "čočka na kyselo s vejcem",
+    "jak uvařit čočku"
+  ],
+  "image": "dish-cocka-na-kyselo",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 45,
+  "waitMinutes": 120,
+  "waitLabel": "namáčení čočky",
+  "difficulty": "snadné",
+  "intro": "Čočka na kyselo s volským okem a nakládanou okurkou pro čtyři. Hnědá čočka se uvaří do měkka za 30 až 40 minut, ocet a sůl ale patří až na konec: kyselina vaření zastaví a čočka zůstane tvrdá. Zbytek dělá světlá jíška a poměr octa a cukru.",
+  "ingredients": [
+    {
+      "ingredient": "cocka-hneda",
+      "amount": 400,
+      "unit": "g",
+      "group": "Čočka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1200,
+      "unit": "ml",
+      "note": "na vaření, plus voda na namočení",
+      "group": "Čočka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Čočka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "group": "Čočka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Čočka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Čočka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "podle chuti až 3 lžíce",
+      "group": "Čočka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Čočka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Čočka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Čočka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na volská oka",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 200,
+      "unit": "g",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Čočka",
+      "text": "Čočku propláchni v cedníku, přeber případné kamínky a namoč ji na 2 hodiny do studené vody, aby ji bylo dvakrát tolik co čočky. Bez namáčení to jde také, jen se vaří asi o 20 minut déle."
+    },
+    {
+      "section": "Čočka",
+      "text": "Vodu z namáčení slij. Čočku zalij 1,2 l čerstvé vody, přidej bobkové listy a přiveď k varu. Stáhni plamen a vař mírně 30 až 40 minut, dokud čočka není měkká, ale drží tvar. Nesol ji."
+    },
+    {
+      "section": "Čočka",
+      "text": "Mezitím rozpusť v kastrolu máslo a cibuli na něm zpěňuj 5 až 6 minut dozlatova. Zasyp ji moukou a za stálého míchání opékej 2 minuty na světlou jíšku."
+    },
+    {
+      "section": "Čočka",
+      "text": "Do jíšky přilij za stálého míchání metličkou naběračku vody z čočky, rozmíchej do hladka a nalij k čočce. Vař 10 minut a míchej ode dna, zahuštěná čočka se snadno připálí. Vylov bobkové listy."
+    },
+    {
+      "section": "Čočka",
+      "text": "Teprve teď dochuť solí, octem, cukrem a pepřem. Ocet přidávej po lžících a ochutnávej: má být znát kyselost, ne štiplavost. Kdyby čočka byla moc hustá, přilij trochu horké vody."
+    },
+    {
+      "section": "Podávání",
+      "text": "Na pánvi rozehřej olej a usmaž 4 volská oka na středním plameni asi 3 minuty, dokud bílek úplně nezbělá. Čočku podávej s vejcem a nakládanou okurkou."
+    }
+  ],
+  "tips": [
+    "Sůl a ocet do čočky přidávej až ve chvíli, kdy je měkká. Kyselina zpevňuje slupku a čočka by se mohla vařit i hodinu a nezměkla by.",
+    "Stará čočka se vaří déle. Když je po 40 minutách pořád tvrdá, vař dál a hlídej, aby měla dost vody.",
+    "V lednici vydrží v uzavřené nádobě 3 dny. Druhý den zhoustne, při ohřívání ji zřeď lžící nebo dvěma vody."
+  ],
+  "substitutions": [
+    "Místo vejce se k čočce hodí 2 opečené klobásy nebo 300 g uzeného masa nakrájeného na kostky a prohřátého přímo v čočce.",
+    "Veganská verze: máslo nahraď 3 lžícemi oleje a místo volského oka podávej opečené tofu nebo jen okurku a chléb.",
+    "Červená čočka se na kyselo nehodí, rozvaří se na kaši. Zelenou nebo talířovou čočku vař stejně jako hnědou."
+  ],
+  "faq": [
+    {
+      "q": "Musí se čočka před vařením namáčet?",
+      "a": "Nemusí. Namočená čočka se uvaří asi za 30 až 40 minut, nenamočená za 50 až 60 minut. Namáčení také trochu zmírní nadýmání, proto vodu z namáčení vždy slij."
+    },
+    {
+      "q": "Proč je čočka tvrdá i po hodině vaření?",
+      "a": "Nejčastěji kvůli octu nebo soli přidaným příliš brzy, kvůli staré čočce nebo velmi tvrdé vodě. Vař ji bez soli a kyseliny do měkka a dochuť až na konci."
+    },
+    {
+      "q": "Jak dlouho vydrží čočka na kyselo v lednici?",
+      "a": "V uzavřené nádobě 3 dny. Dá se i zamrazit na 3 měsíce, po rozmražení ji prohřej a zřeď trochou vody."
+    }
+  ]
+}

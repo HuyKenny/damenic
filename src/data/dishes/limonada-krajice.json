@@ -1,0 +1,17 @@
+{
+  "name": "Citronová limonáda 0,4 l",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Citron, trocha cukru, perlivá voda a led. Kyselá přesně tak, aby probrala i po toastu.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-limonada-krajice",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 90
+}

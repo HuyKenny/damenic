@@ -1,0 +1,44 @@
+{
+  "name": "Overnight oats s borůvkami",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Fit snídaně",
+  "description": "Ovesné vločky namočené přes noc v mléce s jogurtem a chia, navrchu borůvky, banán a vlašské ořechy.",
+  "about": [
+    "Overnight oats jsou snídaně, kterou připravíš večer za deset minut a ráno ji už jen sníš. Ovesné vločky se přes noc v lednici namočí v mléce s jogurtem, chia semínka směs zahustí a výsledek je krémový bez vaření. Poměr na sklenici je jednoduchý: 50 g vloček, 120 ml mléka a 60 g jogurtu.",
+    "Ovoce, které hnědne, patří navrch až ráno. Sklenice vydrží v lednici tři dny, takže se dá nachystat na půl týdne dopředu. Tu naši jsme taky chystali dopředu. Jen jsme do ní zapomněli nasypat vločky."
+  ],
+  "price": 12900,
+  "image": "dish-overnight-oats-ani-listek",
+  "recipe": "overnight-oats",
+  "optionGroups": [
+    {
+      "id": "mleko",
+      "name": "Mléko",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kravske",
+          "name": "Kravské mléko",
+          "priceDelta": 0
+        },
+        {
+          "id": "ovesne",
+          "name": "Ovesný nápoj",
+          "priceDelta": 1000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 40
+}

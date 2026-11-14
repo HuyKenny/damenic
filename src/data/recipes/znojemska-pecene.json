@@ -1,0 +1,183 @@
+{
+  "title": "Znojemská pečeně s rýží",
+  "keywords": [
+    "znojemská pečeně",
+    "znojemská pečeně recept",
+    "znojemská hovězí pečeně",
+    "hovězí s okurkovou omáčkou"
+  ],
+  "image": "dish-znojemska-pecene",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 100,
+  "waitMinutes": 10,
+  "waitLabel": "dojití rýže pod pokličkou",
+  "difficulty": "střední",
+  "intro": "Znojemská pečeně z dušených plátků hovězího zadního v cibulové omáčce s nakládanými okurkami, podávaná s rýží, pro čtyři. Maso se dusí do měkka hodinu a půl a okurky s nálevem se přidávají až na konec, aby zůstaly křupavé a omáčka měla příjemnou kyselost.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-zadni",
+      "amount": 700,
+      "unit": "g",
+      "note": "nakrájené na 4 plátky",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 2,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na obalení",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "nebo olej",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 600,
+      "unit": "ml",
+      "note": "horká, nebo hovězí vývar",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 200,
+      "unit": "g",
+      "note": "plus 100 ml nálevu ze sklenice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 50,
+      "unit": "ml",
+      "note": "studená, na rozmíchání mouky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ryze-dlouhozrnna",
+      "amount": 300,
+      "unit": "g",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 600,
+      "unit": "ml",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Maso",
+      "text": "Maso nakrájej napříč vlákny na 4 plátky asi 1,5 cm silné. Přikryj je fólií, naklepej na 1 cm a na okrajích nařízni blánu, aby se plátky při opékání nekroutily. Osol, opepři a z obou stran obal v mouce."
+    },
+    {
+      "section": "Maso",
+      "text": "V širokém kastrolu rozehřej sádlo a plátky na něm prudce opékej 1 až 2 minuty z každé strany, dokud nezhnědnou. Vyndej je na talíř."
+    },
+    {
+      "section": "Maso",
+      "text": "Do výpeku dej cibuli a na středním plameni ji opékej 6 až 8 minut dozlatova, seškrabuj přitom připečené zbytky ze dna. Přidej protlak a 1 minutu míchej."
+    },
+    {
+      "section": "Maso",
+      "text": "Vrať maso i se šťávou, která z něj vytekla, podlij horkou vodou, přidej bobkové listy, nové koření a pepř. Přiklop a dus na mírném plameni 75 až 90 minut, dokud maso nezměkne. Občas zkontroluj tekutinu a případně dolij vodu."
+    },
+    {
+      "section": "Rýže",
+      "text": "Mezitím propláchni rýži, dej ji do hrnce s 600 ml vody a solí a přiveď k varu. Přiklop, stáhni plamen na minimum a vař 12 minut. Odstav a nech 10 minut dojít pod pokličkou."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Měkké maso vyndej, vylov bobkový list a celé koření. Do omáčky přidej okurky nakrájené na nudličky a nálev, vlij mouku rozmíchanou ve studené vodě a vař za míchání 5 minut, dokud omáčka nezhoustne."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Ochutnej a dochuť solí, pepřem a případně dalším nálevem. Vrať maso do omáčky, prohřej ho 5 minut a podávej s rýží."
+    }
+  ],
+  "tips": [
+    "Plátky krájej vždy napříč vlákny. Podél vláken krájené maso zůstane po dušení tuhé.",
+    "V tlakovém hrnci se maso udusí za 30 až 35 minut od natlakování.",
+    "Hotová pečeně vydrží v lednici 3 dny a druhý den bývá ještě lepší."
+  ],
+  "substitutions": [
+    "Místo hovězího zadního se hodí kýta, vrchní šál nebo roštěná. Roštěná je šťavnatější a dusí se o 15 minut kratší dobu.",
+    "Místo rýže se podává houskový knedlík nebo vařené brambory."
+  ],
+  "faq": [
+    {
+      "q": "Jaké maso na znojemskou pečeni?",
+      "a": "Hovězí zadní, tedy kýta, válec nebo vrchní šál, případně roštěná. Potřebuješ libové maso, které se dá krájet na plátky a dusit do měkka."
+    },
+    {
+      "q": "Jak dlouho se dusí znojemská pečeně?",
+      "a": "Plátky hovězího zadního se dusí na mírném plameni 75 až 90 minut, roštěná asi hodinu. Maso je hotové, když jím vidlička projde bez odporu."
+    },
+    {
+      "q": "Dávají se do znojemské pečeně okurky na začátku, nebo na konci?",
+      "a": "Na konci, s nálevem a zahuštěním. Dlouhým dušením by okurky změkly a omáčka by byla zbytečně kyselá."
+    }
+  ]
+}

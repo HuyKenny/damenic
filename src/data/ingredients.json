@@ -4468,5 +4468,98 @@
     },
     "priceSource": "illustrative",
     "priceCheckedAt": null
+  },
+  {
+    "id": "bryndza",
+    "name": "Bryndza (ovčí sýr)",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 125,
+      "price": 5500,
+      "label": "vanička 125 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "krupice",
+    "name": "Pšeničná krupice jemná (dětská krupička)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 10,
+    "pack": {
+      "size": 500,
+      "price": 2200,
+      "label": "sáček 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "veprove-kare",
+    "name": "Vepřové karé bez kosti (na pečeni)",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 18900,
+      "label": "kus asi 1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "celer-rapikaty",
+    "name": "Řapíkatý celer",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 400,
+      "price": 3990,
+      "label": "svazek asi 400 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "ciabatta",
+    "name": "Ciabatta",
+    "department": "Pečivo",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 2,
+      "price": 4490,
+      "label": "2 ks po 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "ocet-vinny",
+    "name": "Vinný ocet bílý",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "spoon": 15,
+    "pack": {
+      "size": 500,
+      "price": 4900,
+      "label": "láhev 500 ml"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "feta-ovci",
+    "name": "Feta (ovčí sýr v nálevu)",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 6900,
+      "label": "balení 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
   }
 ]

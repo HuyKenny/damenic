@@ -1,0 +1,17 @@
+{
+  "name": "Hranolky se solí",
+  "restaurant": "bistro-uletelo",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Křupavé hranolky s hrubou solí. Na mastné prsty od křidélek už nezáleží.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-hranolky-uletelo",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 60
+}

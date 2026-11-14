@@ -1,0 +1,134 @@
+{
+  "title": "Vepřová pečeně na kmíně",
+  "keywords": [
+    "vepřová pečeně",
+    "vepřová pečeně recept",
+    "vepřová pečeně na kmíně",
+    "pečené vepřové karé"
+  ],
+  "image": "dish-veprova-pecene",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 20,
+  "cookMinutes": 80,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek masa po upečení",
+  "difficulty": "snadné",
+  "intro": "Vepřová pečeně z karé na kmíně a česneku pro šest, pečená na cibuli s podlitím vody. Karé je libové, takže rozhoduje teplota uvnitř: vyndej ho při 63 až 68 °C a nech 15 minut odpočinout, pak zůstane šťavnaté. Bez teploměru se pečeně snadno přepeče do sucha.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-kare",
+      "amount": 1200,
+      "unit": "g",
+      "note": "vcelku, s tenkou vrstvou tuku",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "na silnější plátky",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "horká",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na zahuštění šťávy, nepovinně",
+      "group": "Šťáva"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "studená, na rozmíchání škrobu",
+      "group": "Šťáva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Maso",
+      "text": "Maso vyndej z lednice 30 minut předem. Tukovou vrstvu nařízni do mřížky, až k masu, ale ne do něj. Maso ze všech stran potři solí, kmínem a česnekem a nakonec sádlem."
+    },
+    {
+      "section": "Maso",
+      "text": "Troubu předehřej na 180 °C, horkovzduch 170 °C. Na dno pekáče rozlož cibuli, polož na ni maso tukem nahoru a podlij horkou vodou. Přikryj víkem nebo alobalem a peč 40 minut."
+    },
+    {
+      "section": "Maso",
+      "text": "Pekáč odkryj, maso přelij výpekem a peč dalších 30 až 40 minut, každých 15 minut ho přelévej. Když se šťáva vypeče, přilij trochu horké vody."
+    },
+    {
+      "section": "Maso",
+      "text": "Teplotu měř vpichovým teploměrem v nejsilnějším místě. Maso vyndej při 63 °C, pokud ho chceš uprostřed světle růžové a šťavnaté, nebo při 68 až 70 °C, pokud má být úplně bílé."
+    },
+    {
+      "section": "Maso",
+      "text": "Maso přendej na prkénko, volně přikryj alobalem a nech 15 minut odpočinout. Teplota uvnitř ještě o 2 až 3 °C stoupne a šťáva se usadí, takže při krájení nevyteče."
+    },
+    {
+      "section": "Šťáva",
+      "text": "Výpek s cibulí přeceď do kastrůlku a cibuli do něj protlač. Doplň vodou na asi 300 ml a povař 3 minuty. Hustší šťávu zahustíš škrobem rozmíchaným ve 3 lžících studené vody, vař ještě minutu."
+    },
+    {
+      "section": "Šťáva",
+      "text": "Maso krájej napříč vlákny na plátky silné asi 1 cm a přelij šťávou. Klasicky se podává s knedlíkem a dušeným zelím."
+    }
+  ],
+  "tips": [
+    "Na 1 kg karé počítej při 180 °C přibližně 60 až 70 minut. Čas je ale jen orientační, rozhoduje teploměr.",
+    "Maso potřené solí, kmínem a česnekem můžeš nechat přes noc v lednici. Lépe se prosolí a pečeně bude chutnější.",
+    "Zbylá pečeně vydrží v lednici 3 dny. Plátky ohřívej přikryté ve šťávě, ať nevyschnou."
+  ],
+  "substitutions": [
+    "Místo karé se hodí vepřová plec nebo krkovice. Ty jsou prorostlé, pečou se déle, asi 2 hodiny, a do měkka, takže je vyndej až kolem 85 °C uvnitř.",
+    "Sádlo nahradíš 2 lžícemi oleje, chuť bude méně výrazná."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se peče vepřová pečeně?",
+      "a": "Karé o hmotnosti 1 až 1,2 kg se peče při 180 °C asi 70 až 80 minut. Hotové je při teplotě 63 až 70 °C uvnitř, pak ho nech 15 minut odpočinout."
+    },
+    {
+      "q": "Jakou teplotu má mít vepřová pečeně uvnitř?",
+      "a": "Libové karé vyndej při 63 °C, když ho chceš šťavnaté a světle růžové, nebo při 68 až 70 °C pro úplně bílé maso. Během odpočinku ještě o 2 až 3 °C stoupne. Plec a krkovice se pečou do měkka, kolem 85 °C."
+    },
+    {
+      "q": "Proč je vepřová pečeně suchá?",
+      "a": "Nejčastěji se přepekla. Karé má málo tuku a nad 72 °C rychle vysychá. Měř teplotu, maso přelévej výpekem a před krájením ho nech odpočinout."
+    }
+  ]
+}

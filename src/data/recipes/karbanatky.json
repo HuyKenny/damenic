@@ -1,0 +1,163 @@
+{
+  "title": "Karbanátky z mletého masa",
+  "keywords": [
+    "karbanátky",
+    "karbanátky recept",
+    "smažené karbanátky",
+    "karbanátky z mletého masa"
+  ],
+  "image": "dish-karbanatky",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 20,
+  "waitMinutes": 15,
+  "waitLabel": "odležení masové směsi v lednici",
+  "difficulty": "snadné",
+  "intro": "Smažené karbanátky z mletého vepřového a hovězího masa v trojobalu, z tohoto množství vyjde 8 kusů. Mleté maso musí být propečené, uvnitř aspoň 72 °C, takže je smaž na středním plameni, ne prudce. Namočený rohlík a vejce drží karbanátky šťavnaté a pohromadě.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 300,
+      "unit": "g",
+      "group": "Masová směs"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 200,
+      "unit": "g",
+      "group": "Masová směs"
+    },
+    {
+      "ingredient": "rohliky",
+      "amount": 1,
+      "unit": "ks",
+      "note": "starší",
+      "group": "Masová směs"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Masová směs"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Masová směs"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno nastrouhaná nebo nasekaná",
+      "group": "Masová směs"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Masová směs"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Masová směs"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Masová směs"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 2,
+      "unit": "spetka",
+      "group": "Masová směs"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 50,
+      "unit": "g",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 120,
+      "unit": "g",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 300,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Smažení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Masová směs",
+      "text": "Rohlík nakrájej na kostičky, zalij mlékem a nech 5 minut nasáknout. Pak ho rukou vymačkej a rozmačkej na kaši."
+    },
+    {
+      "section": "Masová směs",
+      "text": "V míse smíchej obě mletá masa, rohlík, vejce, cibuli, česnek, majoránku rozdrcenou v dlaních, sůl a pepř. Hněť rukou 2 až 3 minuty, dokud se směs nespojí a nezačne se lepit. Přikryj a dej na 15 minut do lednice."
+    },
+    {
+      "section": "Masová směs",
+      "text": "Navlhčenýma rukama vytvaruj 8 kuliček a zploští je na placky asi 1,5 cm silné. Uprostřed je palcem lehce promáčkni, při smažení se jinak vyboulí."
+    },
+    {
+      "section": "Obal",
+      "text": "Do jednoho talíře dej mouku, do druhého rozšlehaná vejce se špetkou soli, do třetího strouhanku. Karbanátky obal postupně v mouce, ve vejci a ve strouhance a strouhanku lehce přitlač."
+    },
+    {
+      "section": "Smažení",
+      "text": "Na pánvi rozehřej olej do výšky asi 1 cm na středním plameni, na 160 až 170 °C. Karbanátky smaž 5 až 6 minut z každé strany dozlatova. Neobracej je víc než jednou."
+    },
+    {
+      "section": "Smažení",
+      "text": "Propečení ověř teploměrem: uprostřed musí mít aspoň 72 °C a šťáva musí být čirá, ne růžová. Silnější karbanátky můžeš dopéct 10 minut v troubě vyhřáté na 160 °C."
+    },
+    {
+      "section": "Smažení",
+      "text": "Hotové karbanátky nech okapat na mřížce nebo papírové utěrce. Podávej s bramborovou kaší, bramborovým salátem nebo s chlebem a okurkou."
+    }
+  ],
+  "tips": [
+    "Směs, která se lepí na ruce, není chyba. Ruce si namoč ve studené vodě a tvaruj rychle.",
+    "Usmažené karbanátky vydrží v lednici 2 dny. Jíst se dají i studené, ohřívej je v troubě při 160 °C asi 10 minut.",
+    "Syrovou masovou směs nedrž v lednici déle než do druhého dne a mleté maso kupuj až v den vaření nebo den předem."
+  ],
+  "substitutions": [
+    "Místo směsi vepřového a hovězího můžeš použít 500 g jen vepřového nebo mletého kuřecího masa. U kuřecího platí teplota 75 °C uvnitř.",
+    "Rohlík nahradíš 3 lžícemi strouhanky namočené ve 3 lžících mléka.",
+    "Do směsi se hodí 2 lžíce nasekané petrželky nebo 100 g nastrouhaného syrového bramboru, karbanátky budou vláčnější."
+  ],
+  "faq": [
+    {
+      "q": "Proč se karbanátky rozpadají?",
+      "a": "Směs je příliš řídká nebo málo propracovaná. Pomůže vymačkat rohlík pořádně z mléka, směs prohníst do lepivé hmoty a nechat ji 15 minut v lednici ztuhnout."
+    },
+    {
+      "q": "Jak poznám, že jsou karbanátky propečené?",
+      "a": "Nejjistější je vpichový teploměr, uprostřed musí mít aspoň 72 °C. Bez teploměru jeden karbanátek rozřízni: maso nesmí být růžové a šťáva musí být čirá."
+    },
+    {
+      "q": "Dají se karbanátky upéct v troubě?",
+      "a": "Dají. Obalené karbanátky polož na plech s pečicím papírem, pokapej olejem a peč při 200 °C, horkovzduch 180 °C, asi 25 minut, v polovině je obrať. Obal bude méně křupavý než smažený."
+    }
+  ]
+}

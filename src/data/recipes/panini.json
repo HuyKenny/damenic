@@ -1,0 +1,120 @@
+{
+  "title": "Panini se šunkou, mozzarellou a rajčaty",
+  "keywords": [
+    "panini",
+    "panini recept",
+    "panini šunka sýr",
+    "domácí panini",
+    "co je panini"
+  ],
+  "image": "dish-panini-krajice",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 8,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Panini recept na zapečený italský sendvič z ciabatty se šunkou, mozzarellou, rajčaty a bazalkou. Doma ho uděláš i bez panini grilu, stačí pánev a druhý těžký hrnec jako závaží. Pozor jen na vodu z mozzarelly a rajčat, ta by chléb rozmočila.",
+  "ingredients": [
+    {
+      "ingredient": "ciabatta",
+      "amount": 2,
+      "unit": "ks",
+      "note": "menší, asi 100 g",
+      "group": "Panini"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 120,
+      "unit": "g",
+      "note": "tenké plátky",
+      "group": "Panini"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 125,
+      "unit": "g",
+      "note": "1 kulička, okapaná",
+      "group": "Panini"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 150,
+      "unit": "g",
+      "note": "1 větší rajče",
+      "group": "Panini"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "lístky",
+      "group": "Panini"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Panini"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Panini"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Panini"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Mozzarellu nakrájej na plátky a polož je na papírovou utěrku. Rajče nakrájej na tenká kolečka, lehce osol a nech je 5 minut okapat na utěrce."
+    },
+    {
+      "section": "Příprava",
+      "text": "Ciabattu rozkroj vodorovně napůl a vnitřní strany pokapej trochou olivového oleje."
+    },
+    {
+      "section": "Skládání",
+      "text": "Na spodní půlky dej polovinu mozzarelly, šunku, rajčata, lístky bazalky a zbytek mozzarelly, opepři a přiklop. Sýr nahoře i dole drží sendvič pohromadě."
+    },
+    {
+      "section": "Zapékání",
+      "text": "Vnější strany chleba potři zbylým olejem. Grilovací nebo obyčejnou pánev rozehřej na střední plamen, panini do ní polož a zatěžkej je další pánví nebo hrncem s vodou."
+    },
+    {
+      "section": "Zapékání",
+      "text": "Peč 3 až 4 minuty, otoč, znovu zatěžkej a peč dalších 3 až 4 minuty, dokud není kůrka zlatá a mozzarella roztavená. V kontaktním grilu stačí 4 až 5 minut najednou. Rozkroj šikmo a podávej teplé."
+    }
+  ],
+  "tips": [
+    "Osušená mozzarella a okapaná rajčata jsou to hlavní. Mokrá náplň udělá z kůrky houbu.",
+    "Panini nepřeplňuj, náplň by se nepropekla a sýr by se nestihl rozpustit, než kůrka zčerná.",
+    "Pár kapek balzamikového octa na rajčata dodá sladkokyselou chuť."
+  ],
+  "substitutions": [
+    "Vegetariánské panini uděláš s grilovanou cuketou a lilkem místo šunky.",
+    "Místo ciabatty se hodí focaccia nebo kus bagety dlouhý asi 20 cm.",
+    "Mozzarellu lze nahradit eidamem nebo jiným dobře tajícím sýrem."
+  ],
+  "faq": [
+    {
+      "q": "Co je panini?",
+      "a": "Panini je italsky množné číslo slova panino, tedy chlebíček nebo sendvič. U nás se tak říká zapečenému sendviči z ciabatty nebo focaccie, opečenému v kontaktním grilu do proužků."
+    },
+    {
+      "q": "Jak udělat panini bez panini grilu?",
+      "a": "Na pánvi: sendvič potřený olejem opékej na středním ohni a zatěžkej ho druhou pánví nebo hrncem, 3 až 4 minuty z každé strany."
+    },
+    {
+      "q": "Jaké pečivo použít na panini?",
+      "a": "Nejlépe ciabattu, která má tenkou kůrku a vzdušnou střídku. Hodí se i focaccia nebo bageta. Měkké housky se při zapékání zplacatí."
+    }
+  ]
+}

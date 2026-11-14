@@ -1,0 +1,145 @@
+{
+  "title": "Hrachová kaše s osmaženou cibulkou",
+  "keywords": [
+    "hrachová kaše",
+    "hrachová kaše recept",
+    "hrachová kaše s cibulkou",
+    "hrachová kaše s uzeným"
+  ],
+  "image": "dish-hrachova-kase",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 60,
+  "waitMinutes": 600,
+  "waitLabel": "namáčení hrachu přes noc",
+  "difficulty": "snadné",
+  "intro": "Hrachová kaše ze žlutého půleného hrachu s česnekem, majoránkou a osmaženou cibulkou pro čtyři. Hrách se namáčí přes noc a pak se hodinu vaří, dokud se nerozpadne. Hlídat je potřeba dno hrnce: hustá kaše se připaluje rychleji, než čekáš.",
+  "ingredients": [
+    {
+      "ingredient": "hrach-zluty",
+      "amount": 500,
+      "unit": "g",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1200,
+      "unit": "ml",
+      "note": "na vaření, plus voda na namočení",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Cibulka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 250,
+      "unit": "g",
+      "note": "na tenké půlkolečka",
+      "group": "Cibulka"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 200,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 250,
+      "unit": "g",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Kaše",
+      "text": "Hrách propláchni a namoč přes noc, nejméně na 8 hodin, do trojnásobku studené vody. Ráno vodu slij a hrách znovu propláchni."
+    },
+    {
+      "section": "Kaše",
+      "text": "Hrách dej do hrnce se silným dnem, zalij 1,2 l vody, přidej bobkový list a přiveď k varu. Pěnu, která vyplave, sbírej lžící. Pak stáhni plamen a vař mírně 45 až 60 minut, dokud se zrnka nerozpadají."
+    },
+    {
+      "section": "Kaše",
+      "text": "Během vaření míchej ode dna každých 5 až 10 minut. Když hrách vypije vodu dřív, než změkne, přilij trochu horké vody."
+    },
+    {
+      "section": "Kaše",
+      "text": "Vylov bobkový list a hrách rozmixuj tyčovým mixérem nebo prolisuj na hladkou kaši. Vmíchej sůl, česnek, majoránku rozdrcenou v dlaních, pepř a lžíci sádla. Vař ještě 2 minuty a ochutnej."
+    },
+    {
+      "section": "Cibulka",
+      "text": "Na pánvi rozehřej 3 lžíce sádla a cibuli na něm smaž na středním plameni 12 až 15 minut za častého míchání, dokud nezhnědne. Na konci hlídej, cibulka zčerná během chvilky."
+    },
+    {
+      "section": "Podávání",
+      "text": "Kaši rozděl na talíře, polij osmaženou cibulkou i se sádlem a podávej s nakládanou okurkou a chlebem."
+    }
+  ],
+  "tips": [
+    "Sůl přidávej až do uvařeného hrachu. Osolený hrách měkne pomaleji.",
+    "Kaše po vychladnutí ztuhne. V lednici vydrží 3 dny, při ohřívání ji zřeď vodou a míchej.",
+    "K hrachové kaši se tradičně podává uzené maso nebo vařený uzený bůček, asi 400 g na čtyři porce."
+  ],
+  "substitutions": [
+    "Vegetariánská verze: sádlo v kaši i na cibulku nahraď máslem nebo olejem, ve stejném množství.",
+    "Zelený půlený hrách se vaří stejně, kaše bude jen barevně jiná a chuťově o něco výraznější."
+  ],
+  "faq": [
+    {
+      "q": "Musí se hrách na kaši namáčet?",
+      "a": "Půlený hrách se uvaří i bez namáčení, ale trvá to asi 1,5 hodiny a víc se připaluje. Namočený hrách se uvaří za 45 až 60 minut a vodu z namáčení vždy slij."
+    },
+    {
+      "q": "Jak zabránit nadýmání po hrachu?",
+      "a": "Hrách dlouho namáčej, vodu z namáčení vylij a vař ho do úplného rozvaření. Pomáhá i majoránka a kmín. Úplně nadýmání zabránit nejde."
+    },
+    {
+      "q": "Jak dlouho vydrží hrachová kaše?",
+      "a": "V lednici v uzavřené nádobě 3 dny, v mrazáku 3 měsíce. Při ohřevu ji zřeď vodou, protože po vychladnutí silně zhoustne."
+    }
+  ]
+}

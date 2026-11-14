@@ -1,0 +1,139 @@
+{
+  "title": "Obložená bageta se šunkou, sýrem a vejcem",
+  "keywords": [
+    "obložená bageta",
+    "bageta",
+    "bagety"
+  ],
+  "image": "dish-oblozena-bageta",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Obložená bageta se šunkou, eidamem, vejcem natvrdo a zeleninou na svačinu, na výlet nebo do práce. Aby bageta do oběda nezvlhla, musí mít vrstvy ve správném pořadí: máslo, list salátu a šťavnatá zelenina až nahoře.",
+  "ingredients": [
+    {
+      "ingredient": "bageta",
+      "amount": 1,
+      "unit": "ks",
+      "note": "čerstvá",
+      "group": "Bageta"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Bageta"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "volitelně",
+      "group": "Bageta"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Obložení"
+    },
+    {
+      "ingredient": "ledovy-salat",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "celé listy",
+      "group": "Obložení"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 100,
+      "unit": "g",
+      "note": "plátky",
+      "group": "Obložení"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 80,
+      "unit": "g",
+      "note": "plátky",
+      "group": "Obložení"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 100,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Obložení"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "na tenká kolečka",
+      "group": "Obložení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Obložení"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Obložení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Vejce",
+      "text": "Vejce vlož do vroucí vody a vař 10 minut. Pak je zchlaď studenou vodou, oloupej a nakrájej na plátky."
+    },
+    {
+      "section": "Bageta",
+      "text": "Bagetu rozkroj napříč na dvě poloviny a každou podélně rozřízni, ale ne úplně. Kdo chce křupavější kůrku, nahřeje ji 3 minuty v troubě při 200 °C a nechá vychladnout."
+    },
+    {
+      "section": "Skládání",
+      "text": "Vnitřek tence namaž máslem, případně trochou hořčice. Máslo tvoří vrstvu, přes kterou šťáva ze zeleniny do pečiva neproteče."
+    },
+    {
+      "section": "Skládání",
+      "text": "Na spodní stranu polož list salátu, na něj šunku a eidam, pak plátky vejce, rajčat a okurky. Zeleninu osol a opepři, bagetu zavři a lehce přitlač."
+    },
+    {
+      "section": "Na cestu",
+      "text": "Na cestu ji pevně zabal do pečicího papíru. Mimo lednici ji sněz do 2 hodin, v teple dřív."
+    }
+  ],
+  "tips": [
+    "Rajčata a okurku přidej až těsně před jídlem, když bageta jede s tebou na celý den. Pustí vodu jako první.",
+    "Bageta je nejlepší v den nákupu. Druhý den ji osvěžíš 5 minutami v troubě při 200 °C.",
+    "Plátky sýra a šunky přelož, aby nepřesahovaly přes okraj. Bageta se lépe zavře a nic nevypadává."
+  ],
+  "substitutions": [
+    "Bagetu s kuřecím masem uděláš se 150 g pečených nebo opečených kuřecích prsou nakrájených na plátky místo šunky.",
+    "Máslo nahradí pomazánkové máslo nebo tenká vrstva majonézy.",
+    "Eidam lze vyměnit za čedar, ementál nebo plátky hermelínu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží obložená bageta?",
+      "a": "V lednici do druhého dne, nejlépe bez rajčat a okurky, které pouštějí vodu. Mimo lednici ji kvůli šunce a vejci sněz do 2 hodin."
+    },
+    {
+      "q": "Jak zabránit tomu, aby se bageta rozmočila?",
+      "a": "Namaž vnitřek máslem až do krajů, jako první vrstvu dej list salátu a šťavnatou zeleninu dej navrch nebo ji přidej až před jídlem."
+    },
+    {
+      "q": "Jak dlouho vařit vejce natvrdo do bagety?",
+      "a": "10 minut od vložení do vroucí vody, pak je hned zchlaď studenou vodou. Žloutek bude pevný, ale ne šedivý na okrajích."
+    }
+  ]
+}

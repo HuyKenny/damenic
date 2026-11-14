@@ -1,0 +1,179 @@
+{
+  "title": "BBQ křidélka s domácí barbecue omáčkou",
+  "keywords": [
+    "bbq křidélka recept",
+    "barbecue křidélka",
+    "křidélka na grilu",
+    "grilovaná křidélka",
+    "pečená křidélka"
+  ],
+  "image": "dish-bbq-kridelka-uletelo",
+  "category": "kure",
+  "vegetarian": false,
+  "occasions": [
+    "grilovani"
+  ],
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 55,
+  "waitMinutes": 60,
+  "waitLabel": "odležení v koření v lednici",
+  "difficulty": "snadné",
+  "intro": "BBQ křidélka recept s domácí barbecue omáčkou z kečupu, medu, octa a uzené papriky, upečená v troubě nebo na grilu. Křidélka nejdřív odleží v suchém koření a omáčkou se natírají až na konci, protože cukr v ní by se jinak spálil dřív, než se maso propeče.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-kridelka",
+      "amount": 1200,
+      "unit": "g",
+      "note": "rozdělená v kloubech",
+      "group": "Křidélka a koření"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Křidélka a koření"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Křidélka a koření"
+    },
+    {
+      "ingredient": "cesnek-suseny",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Křidélka a koření"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Křidélka a koření"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Křidélka a koření"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Křidélka a koření"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Křidélka a koření"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 150,
+      "unit": "g",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "worcester",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "BBQ omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 50,
+      "unit": "ml",
+      "group": "BBQ omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Koření",
+      "text": "Křidélka osuš papírovou utěrkou. Smíchej obě papriky, sušený česnek, třtinový cukr, sůl a pepř, křidélka pokapej olejem a koření do nich vmasíruj. Přikrytá je nech 1 hodinu v lednici, klidně i přes noc."
+    },
+    {
+      "section": "BBQ omáčka",
+      "text": "Všechny suroviny na omáčku dej do malého kastrolu, přiveď k varu a za občasného míchání nech na mírném ohni bublat 8 až 10 minut, dokud omáčka nezhoustne tak, že obalí lžíci."
+    },
+    {
+      "section": "BBQ omáčka",
+      "text": "Omáčku rozděl na dvě poloviny. Jednu použiješ na potírání, druhou nalij do misky k podávání a štětcem, který se dotkl syrového masa, na ni nesahej."
+    },
+    {
+      "section": "Pečení v troubě",
+      "text": "Troubu předehřej na 200 °C, horkovzduch 180 °C. Křidélka rozlož na mřížku nad plechem s pečicím papírem a peč 35 minut, v polovině je otoč."
+    },
+    {
+      "section": "Pečení v troubě",
+      "text": "Potři je omáčkou, peč 10 minut, potři znovu a peč posledních 5 až 10 minut, dokud glazura nelepí a nezačne tmavnout na okrajích. Hotová jsou při 75 °C v nejsilnějším místě."
+    },
+    {
+      "section": "Na grilu",
+      "text": "Na grilu je nejdřív griluj nepřímým žárem při zavřeném víku a teplotě kolem 200 °C 30 až 35 minut, občas je otoč. Pak je potři omáčkou a dopeč nad přímým žárem 5 až 8 minut, do 75 °C uvnitř."
+    }
+  ],
+  "tips": [
+    "Omáčku nanášej až na posledních 15 minut. Cukr z kečupu a medu se při delším pečení spálí na hořkou krustu.",
+    "Zbylou omáčku z misky k podávání uchovej v čisté uzavřené sklenici v lednici, vydrží asi týden.",
+    "Uzená paprika dává omáčce kouřovou chuť i bez grilu. Pálivou verzi uděláš lžičkou pálivé papriky v koření."
+  ],
+  "substitutions": [
+    "Worcestrovou omáčku nahradí lžíce sójové omáčky. Chuť bude o něco méně kyselá.",
+    "Místo kečupu použij 100 g rajčatového protlaku, 2 lžíce cukru navíc a 80 ml vody.",
+    "Kvasný ocet můžeš vyměnit za jablečný, omáčka bude ovocnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho grilovat kuřecí křidélka?",
+      "a": "Nepřímým žárem při zavřeném víku a teplotě kolem 200 °C asi 30 až 35 minut, pak 5 až 8 minut nad přímým žárem. Hotová jsou při 75 °C uvnitř."
+    },
+    {
+      "q": "Kdy natírat křidélka barbecue omáčkou?",
+      "a": "Až na posledních 10 až 15 minut pečení nebo grilování. Omáčka obsahuje cukr a med, které se při dlouhém pečení spálí."
+    },
+    {
+      "q": "Jak udělat BBQ omáčku na křidélka doma?",
+      "a": "Kečup, třtinový cukr, med, ocet, worcestrovou omáčku, hořčici, uzenou papriku a česnek povař 8 až 10 minut, dokud omáčka nezhoustne a neobalí lžíci."
+    }
+  ]
+}

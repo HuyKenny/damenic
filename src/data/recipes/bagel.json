@@ -1,0 +1,162 @@
+{
+  "title": "Domácí bagely",
+  "keywords": [
+    "bagel recept",
+    "bagely recept",
+    "bagely",
+    "co je bagel"
+  ],
+  "image": "dish-bagel-krajice",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 45,
+  "cookMinutes": 30,
+  "waitMinutes": 80,
+  "waitLabel": "kynutí těsta a odpočinek tvarovaných bagelů",
+  "difficulty": "střední",
+  "intro": "Bagel recept na 8 domácích sezamových bagelů z tužšího kynutého těsta. Bagel se před pečením krátce vaří ve vodě s medem, díky tomu má lesklou žvýkavou kůrku a hustou střídku. Podává se rozkrojený se smetanovým sýrem.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 500,
+      "unit": "g",
+      "note": "ideálně chlebová nebo 00 s vyšším podílem lepku",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 290,
+      "unit": "ml",
+      "note": "vlažná, asi 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 15,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2000,
+      "unit": "ml",
+      "group": "Vaření"
+    },
+    {
+      "ingredient": "med",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Vaření"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "volitelně, pro tmavší kůrku",
+      "group": "Vaření"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozšlehané",
+      "group": "Posyp"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Posyp"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 200,
+      "unit": "g",
+      "group": "Na podávání"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "najemno nasekaná",
+      "group": "Na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozmíchej ve vlažné vodě s cukrem a nech 10 minut stát, až začne pěnit."
+    },
+    {
+      "section": "Těsto",
+      "text": "Do mísy dej mouku, sůl a med, přilij kvásek a hněť 10 minut rukama nebo 7 minut robotem. Těsto má být tuhé, hladké a nelepivé, tužší než na chleba. Vodu nepřidávej, jen kdyby se nespojilo."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mísu přikryj a nech těsto kynout na teplém místě asi 60 minut, dokud nezvětší objem zhruba o polovinu."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Těsto rozděl na 8 dílů po asi 100 g a vytvaruj z nich hladké bochánky. Palcem prorazíš střed a otvor roztáhneš na 3 až 4 cm, při kynutí a pečení se zmenší. Bagely polož na pečicí papír, přikryj utěrkou a nech 20 minut odpočinout."
+    },
+    {
+      "section": "Vaření",
+      "text": "Troubu předehřej na 220 °C, horkovzduch 200 °C. Ve širokém hrnci přiveď k varu 2 l vody s medem a sodou a stáhni plamen, aby voda jen mírně bublala. Jestli jsou bagely připravené, poznáš tak, že malý kousek těsta ve sklenici vody vyplave."
+    },
+    {
+      "section": "Vaření",
+      "text": "Vař 2 až 3 bagely najednou 1 minutu z každé strany, pro žvýkavější kůrku 2 minuty. Vyndávej je děrovanou naběračkou, nech okapat a polož je na plech s pečicím papírem."
+    },
+    {
+      "section": "Pečení",
+      "text": "Bagely potři rozšlehaným vejcem a posyp sezamem. Peč 18 až 22 minut, dokud nejsou sytě zlatohnědé a spodek při poklepu nezní dutě. Nech je vychladnout na mřížce aspoň 15 minut, střídka se ještě dopéká."
+    },
+    {
+      "section": "Na podávání",
+      "text": "Na podávání bagel rozkroj, opeč dozlatova a namaž smetanovým sýrem smíchaným s pažitkou."
+    }
+  ],
+  "tips": [
+    "Pro výraznější chuť dej vytvarované bagely přikryté přes noc do lednice, na 12 až 16 hodin. Vař je rovnou studené.",
+    "Bagely vydrží 2 dny v uzavřeném sáčku při pokojové teplotě. Na déle je rozkroj a zmraz, vydrží 3 měsíce a opečou se rovnou zmražené v toustovači.",
+    "Tuhé těsto je správně. Měkké těsto by se ve vodě rozteklo a bagel by neměl hutnou střídku."
+  ],
+  "substitutions": [
+    "Místo 15 g čerstvého droždí použij 7 g sušeného instantního droždí, přimíchej ho rovnou do mouky.",
+    "Med ve vodě na vaření nahradí 2 lžíce cukru.",
+    "Sezam můžeš vyměnit za mák, hrubou sůl nebo sušenou cibulku."
+  ],
+  "faq": [
+    {
+      "q": "Proč se bagely před pečením vaří?",
+      "a": "Horká voda zatáhne povrch těsta, škrob na něm zmazovatí a bagel v troubě už tolik nenakyne. Díky tomu má lesklou žvýkavou kůrku a hutnou střídku."
+    },
+    {
+      "q": "Co je bagel?",
+      "a": "Kulaté pečivo s otvorem uprostřed z tuhého kynutého těsta, které se před pečením krátce vaří ve vodě. Pochází z židovské kuchyně ve východní Evropě a nejčastěji se plní smetanovým sýrem."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí bagely?",
+      "a": "V uzavřeném sáčku při pokojové teplotě 2 dny. Rozkrojené a zmražené vydrží 3 měsíce a opékají se bez rozmrazování."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Opečená bageta s česnekovým máslem",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Dva kusy bagety opečené dozlatova s česnekovým máslem. Na vytírání šťávy z misky.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-bageta-cesnekova-ani-listek",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 60
+}

@@ -1,0 +1,146 @@
+{
+  "title": "Domácí kuřecí nugetky",
+  "keywords": [
+    "kuřecí nugetky recept",
+    "kuřecí nugetky",
+    "domácí kuřecí nugetky",
+    "nugetky recept",
+    "kuřecí nugetky v troubě"
+  ],
+  "image": "dish-nugetky-uletelo",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Kuřecí nugetky recept z kousků kuřecích prsou v klasickém trojobalu, smažených dozlatova, s medovo-hořčičným dipem. Aby zůstaly šťavnaté, musí být kousky stejně silné a smažit se krátce v oleji o 175 °C. Stejně dobře je upečeš v troubě.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 600,
+      "unit": "g",
+      "group": "Nugetky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Nugetky"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Nugetky"
+    },
+    {
+      "ingredient": "cesnek-suseny",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Nugetky"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "group": "Nugetky"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 120,
+      "unit": "g",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 700,
+      "unit": "ml",
+      "note": "na smažení, hladina 2 až 3 cm",
+      "group": "Obal"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Medovo-hořčičný dip"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Medovo-hořčičný dip"
+    },
+    {
+      "ingredient": "med",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Medovo-hořčičný dip"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Maso",
+      "text": "Prsa nakrájej na kousky asi 3 × 4 cm, silné kolem 1,5 cm, aby se všechny propekly stejně rychle. Promíchej je se solí, paprikou, sušeným česnekem a pepřem."
+    },
+    {
+      "section": "Obalování",
+      "text": "Připrav tři talíře: v prvním mouku, ve druhém vejce rozšlehaná s mlékem, ve třetím strouhanku. Každý kousek obal v mouce, oklepej, protáhni vejcem a nakonec ho do strouhanky dlaní přitlač."
+    },
+    {
+      "section": "Smažení",
+      "text": "V hluboké pánvi rozehřej olej na 175 °C. Bez teploměru to poznáš tak, že kousek strouhanky v něm hned živě bublá a do půl minuty zezlátne."
+    },
+    {
+      "section": "Smažení",
+      "text": "Nugetky smaž po dávkách 3 až 4 minuty, v polovině je otoč. Hotové jsou zlatohnědé a největší kus má uvnitř 75 °C, maso je bílé a šťavnaté. Okapej je na mřížce."
+    },
+    {
+      "section": "Dip",
+      "text": "Na dip smíchej majonézu, hořčici a med do hladka. Podávej k teplým nugetkám."
+    }
+  ],
+  "tips": [
+    "V troubě: obalené nugetky rozlož na plech s papírem, pokapej je olejem a peč při 200 °C, horkovzduch 180 °C, 15 až 18 minut, v polovině je otoč.",
+    "Syrové obalené nugetky zmraz na plechu vedle sebe a pak je přesyp do sáčku. Vydrží 3 měsíce a smaží se rovnou zmražené při 170 °C 5 až 6 minut, opět do 75 °C uvnitř.",
+    "Obalené kousky nech před smažením 5 minut ležet, obal se lépe přichytí a v oleji neopadá."
+  ],
+  "substitutions": [
+    "Strouhanku můžeš nahradit nadrcenými neslazenými kukuřičnými lupínky, obal bude hrubší a křupavější.",
+    "Ze stehenních řízků budou nugetky šťavnatější. Smaž je o minutu déle.",
+    "Na verzi z mletého masa umixuj prsa nahrubo s kořením a vejcem, tvaruj placičky silné 1,5 cm a obaluj je stejně."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat kuřecí nugetky v troubě?",
+      "a": "Obalené nugetky pokapej olejem a peč na plechu s pečicím papírem při 200 °C (horkovzduch 180 °C) 15 až 18 minut, v polovině je otoč. Uvnitř musí mít 75 °C."
+    },
+    {
+      "q": "Dají se domácí nugetky zamrazit?",
+      "a": "Ano, nejlépe syrové a obalené. Zmraz je na plechu, aby se neslepily, a pak je přesyp do sáčku. Vydrží 3 měsíce a smaží se bez rozmrazování."
+    },
+    {
+      "q": "Z jakého masa dělat kuřecí nugetky?",
+      "a": "Z prsou budou nugetky jemné a bílé, ze stehen šťavnatější. Na hladké nugetky jako z fast foodu se maso nahrubo umixuje a tvaruje do placiček."
+    }
+  ]
+}

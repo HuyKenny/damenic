@@ -1,0 +1,98 @@
+{
+  "title": "Karlovarský knedlík",
+  "keywords": [
+    "karlovarský knedlík",
+    "karlovarský knedlík recept",
+    "karlovarský knedlík ve fólii",
+    "knedlík z rohlíků"
+  ],
+  "image": "dish-karlovarsky-knedlik",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 25,
+  "waitMinutes": 15,
+  "waitLabel": "nasáknutí pečiva",
+  "difficulty": "snadné",
+  "intro": "Karlovarský knedlík z rohlíků, mléka a vajec, vařený jako váleček ve fólii. Je to vlastně žemlová směs uvařená do tvaru: rohlíky se opečou na másle, nasáknou vaječným mlékem a vaří se ve fólii 25 minut. Rozhoduje nasáknutí, suché kostky se nespojí a mokrá hmota se rozplizne.",
+  "ingredients": [
+    {
+      "ingredient": "rohliky",
+      "amount": 6,
+      "unit": "ks",
+      "note": "jeden až dva dny staré"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "najemno nasekaná"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rohlíky nakrájej na kostky asi 1 cm. Na velké pánvi rozpusť máslo a kostky na něm za občasného promíchání opékej 4 až 5 minut, dokud lehce nezezlátnou. Přesyp je do mísy a nech 5 minut vychladnout."
+    },
+    {
+      "text": "V druhé misce prošlehej mléko, vejce, sůl, muškátový oříšek a petrželku. Zálivku nalij na rohlíky, promíchej rukou nebo stěrkou a nech 15 minut nasáknout. Hmota má být vláčná a lepit se k sobě, na dně mísy nemá stát mléko."
+    },
+    {
+      "text": "Na pracovní desku rozlož dvě vrstvy potravinové fólie asi 40 cm dlouhé. Polovinu hmoty na ni vyskládej do pruhu, pevně ji zabal do válečku o průměru asi 6 cm a konce zatoč jako bonbón a zavaž. Stejně udělej druhý váleček."
+    },
+    {
+      "text": "Ve velkém hrnci přiveď vodu k varu a stáhni plamen, aby se jen mírně vlnila. Válečky do ní vlož a vař 25 minut, v polovině je obrať. Prudký var by fólii mohl protrhnout."
+    },
+    {
+      "text": "Válečky vyjmi, nech 2 minuty odpočinout, fólii rozstřihni a stáhni. Knedlík krájej na plátky asi 1,5 cm silné ostrým nožem namočeným ve vodě nebo nití."
+    }
+  ],
+  "tips": [
+    "Fólii vyber takovou, která snese vaření. Kdo nechce vařit ve fólii, zabalí válečky do vlhkého plátěného ubrousku a konce zaváže provázkem, vaří se stejně dlouho.",
+    "Z 6 rohlíků vyjdou dva válečky, asi 16 plátků. Karlovarský knedlík se hodí ke svíčkové, guláši, houbové omáčce i ke zvěřině.",
+    "Uvařený knedlík vydrží v lednici zabalený 2 dny. Plátky ohřej v páře nebo je opeč na másle s vejcem."
+  ],
+  "substitutions": [
+    "Místo rohlíků se dá použít 300 g veky nebo bílé housky, stačí kostky stejné velikosti.",
+    "Do hmoty můžeš přidat 100 g opečené anglické slaniny nakrájené na kostičky. Knedlík pak už nebude vegetariánský."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří karlovarský knedlík?",
+      "a": "Váleček o průměru asi 6 cm se vaří 25 minut v mírně vroucí vodě, v polovině se obrátí. Silnější váleček potřebuje 30 minut."
+    },
+    {
+      "q": "Jak uvařit karlovarský knedlík bez fólie?",
+      "a": "Zabal hmotu do namočeného a vyždímaného plátěného ubrousku, konce pevně zavaž a vař stejně dlouho. Případně ji vař ve vymazané formě v páře asi 30 minut."
+    },
+    {
+      "q": "Proč se karlovarský knedlík rozpadá?",
+      "a": "Rohlíky nenasákly dost mléka nebo bylo v hmotě málo vajec. Nech ji nasáknout celých 15 minut a váleček zabal pevně, aby v něm nezůstaly dutiny."
+    }
+  ]
+}

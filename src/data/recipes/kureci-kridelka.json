@@ -1,0 +1,154 @@
+{
+  "title": "Kuřecí křidélka na medu z trouby",
+  "keywords": [
+    "kuřecí křidélka recept",
+    "křidélka na medu",
+    "kuřecí křidélka v troubě",
+    "kuřecí křidélka na medu",
+    "marináda na kuřecí křidélka"
+  ],
+  "image": "dish-kridelka-na-medu-uletelo",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 50,
+  "waitMinutes": 60,
+  "waitLabel": "marinování v lednici",
+  "difficulty": "snadné",
+  "intro": "Kuřecí křidélka recept na medovo-sójovou marinádu s česnekem, pečená v troubě do lepkavé glazury. Těžké na tom je jen jedno: med se snadno připálí, takže část marinády se odloží stranou a křidélka se jí potřou až na posledních deset minut.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-kridelka",
+      "amount": 1200,
+      "unit": "g",
+      "note": "asi 12 celých křidélek",
+      "group": "Křidélka"
+    },
+    {
+      "ingredient": "med",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "volitelně",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "sójová omáčka už je slaná",
+      "group": "Marináda"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na posypání",
+      "group": "Na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Křidélka neoplachuj, jen je osuš papírovou utěrkou. Ostrým nožem je rozděl v kloubech na horní a střední část, konečky můžeš odříznout a schovat na vývar."
+    },
+    {
+      "section": "Marináda",
+      "text": "V míse smíchej med, sójovou omáčku, kečup, olej, česnek, papriku, chilli, citronovou šťávu, pepř a sůl. Čtyři lžíce marinády odlož do čistého hrnku, budou na potírání."
+    },
+    {
+      "section": "Marináda",
+      "text": "Zbytkem marinády křidélka důkladně obal, mísu přikryj a dej ji do lednice aspoň na 1 hodinu, nejdéle na 24 hodin."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 200 °C, horkovzduch 180 °C. Plech vylož pečicím papírem, nejlépe na něj polož mřížku. Křidélka rozlož kůží dolů tak, aby se nedotýkala, marinádu z mísy už nepoužívej."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 25 minut, pak křidélka otoč a peč dalších 15 minut. Kůže má být zlatá a na okrajích začínat tmavnout."
+    },
+    {
+      "section": "Pečení",
+      "text": "Potři je odloženou marinádou a peč posledních 8 až 10 minut, dokud glazura nezačne bublat a karamelizovat. Hotová jsou, když mají v nejsilnějším místě 75 °C, šťáva je čirá a maso u kosti není růžové."
+    },
+    {
+      "section": "Na podávání",
+      "text": "Křidélka nech 5 minut odpočinout, posyp sezamem a podávej. Glazura během odpočinku trochu ztuhne a přestane stékat."
+    }
+  ],
+  "tips": [
+    "Když glazura tmavne moc rychle, stáhni troubu na 180 °C a křidélka dopeč. Med obsahuje hodně cukru a na plechu se připálí rychleji než samotné maso.",
+    "Mřížka nad plechem je rozdíl mezi křupavou a rozmočenou kůží. Tuk odkapává dolů a křidélka se pečou ze všech stran.",
+    "Zbytky vydrží v lednici 3 dny. Ohřej je na mřížce při 200 °C asi 10 minut, mikrovlnka z nich udělá gumu."
+  ],
+  "substitutions": [
+    "Med můžeš nahradit stejným množstvím javorového sirupu, glazura bude méně lepkavá.",
+    "Bezlepkovou verzi uděláš s bezlepkovou sójovou omáčkou (tamari).",
+    "V horkovzdušné fritéze peč při 190 °C 22 až 25 minut, v polovině otoč a na poslední 3 minuty potři marinádou."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct kuřecí křidélka v troubě?",
+      "a": "Při 200 °C (horkovzduch 180 °C) zhruba 45 až 50 minut, v polovině je otoč. Rozhoduje teplota uvnitř: v nejsilnějším místě musí mít 75 °C."
+    },
+    {
+      "q": "Jak dlouho marinovat kuřecí křidélka?",
+      "a": "Aspoň 1 hodinu, ideálně 4 až 12 hodin v lednici. Déle než 24 hodin nemá smysl, kyselá citronová šťáva by začala povrch masa rozměkčovat."
+    },
+    {
+      "q": "Proč nejsou křidélka z trouby křupavá?",
+      "a": "Nejčastěji jsou na plechu natěsno, takže se dusí ve vlastní šťávě, nebo leží v kaluži marinády. Rozlož je s mezerami, ideálně na mřížku, a nepřikrývej je."
+    }
+  ]
+}

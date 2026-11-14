@@ -1,0 +1,62 @@
+{
+  "name": "Buffalo wings",
+  "restaurant": "bistro-uletelo",
+  "kind": "main",
+  "section": "Křidélka",
+  "description": "Smažená křidélka v pálivé máslové omáčce, k nim studený dip z nivy a tyčinky celeru a mrkve.",
+  "about": [
+    "Buffalo wings jsou americká klasika ze stejnojmenného města: křidélka bez obalu smažená dokřupava a obalená v omáčce z ostré chilli omáčky a rozpuštěného másla. Máslo pálivost zakulatí, ocet v omáčce ji zostří.",
+    "Na hasičskou službu je tu dip z nivy se zakysanou smetanou a tyčinky celeru, které k buffalo křidélkům patří stejně jako ubrousky. Pálí to doopravdy. Hasit budeš doma, my nemáme ani hadici."
+  ],
+  "price": 21900,
+  "image": "dish-buffalo-wings-uletelo",
+  "recipe": "buffalo-wings",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "6-ks",
+          "name": "6 kusů",
+          "priceDelta": 0
+        },
+        {
+          "id": "12-ks",
+          "name": "12 kusů",
+          "priceDelta": 9000
+        }
+      ]
+    },
+    {
+      "id": "dip",
+      "name": "Dip",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "niva",
+          "name": "Dip z nivy",
+          "priceDelta": 0
+        },
+        {
+          "id": "pazitka",
+          "name": "Smetanový dip s pažitkou",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 2,
+  "allergens": [
+    3,
+    7,
+    9,
+    10
+  ],
+  "order": 30
+}

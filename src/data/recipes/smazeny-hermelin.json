@@ -1,0 +1,104 @@
+{
+  "title": "Smažený hermelín s brusinkami",
+  "keywords": [
+    "smažený hermelín",
+    "smažený hermelín recept",
+    "smažený hermelín s brusinkami",
+    "obalovaný hermelín"
+  ],
+  "image": "dish-smazeny-hermelin",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 10,
+  "waitMinutes": 30,
+  "waitLabel": "chlazení obaleného sýra v mrazáku",
+  "difficulty": "snadné",
+  "intro": "Smažený hermelín ve dvojitém trojobalu s brusinkovým kompotem, čtyři celé sýry. Aby hermelín nevytekl, musí být vychlazený, obalený dvakrát a před smažením půl hodiny v mrazáku. Smaží se krátce a zprudka, 1,5 až 2 minuty z každé strany.",
+  "ingredients": [
+    {
+      "ingredient": "hermelin",
+      "amount": 480,
+      "unit": "g",
+      "note": "4 kusy po 120 g, ne příliš zralé, vychlazené"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "do vajec"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 160,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 600,
+      "unit": "ml",
+      "note": "na smažení"
+    },
+    {
+      "ingredient": "brusinky-kompot",
+      "amount": 200,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hermelín vyndej z obalu rovnou z lednice. Do jednoho talíře dej mouku, do druhého rozšlehej vejce s mlékem a solí, do třetího strouhanku."
+    },
+    {
+      "text": "Každý sýr obal v mouce, oklepej přebytek, protáhni vejcem a obal ve strouhance. Pak ho ještě jednou protáhni vejcem a znovu obal ve strouhance. Hlídej hlavně boky, tudy sýr vytéká nejčastěji."
+    },
+    {
+      "text": "Obalené sýry polož na talíř a dej je na 30 minut do mrazáku. Obal ztuhne a sýr se při smažení nerozteče dřív, než obal zezlátne."
+    },
+    {
+      "text": "V hlubší pánvi nebo kastrolu rozehřej olej do výšky asi 2 cm na 170 až 175 °C. Hermelíny smaž po dvou 1,5 až 2 minuty z každé strany, dokud obal nezezlátne."
+    },
+    {
+      "text": "Vyndej je na mřížku nebo papírovou utěrku a nech 2 minuty odpočinout, aby se sýr uvnitř dorovnal. Podávej s brusinkovým kompotem, k tomu se hodí hranolky, vařené brambory nebo chléb."
+    }
+  ],
+  "tips": [
+    "Na smažení vyber spíš mladší, pevný hermelín. Hodně zralý a měkký sýr vyteče i přes dvojitý obal.",
+    "Když se v obalu objeví prasklina, hermelín hned vyndej. Krátké smažení stačí, uvnitř má být jen roztavený, ne vroucí.",
+    "Obalené a zmražené hermelíny vydrží v mrazáku měsíc. Smaž je zmrazené, o 30 až 60 vteřin déle z každé strany."
+  ],
+  "substitutions": [
+    "Místo brusinkového kompotu se hodí tatarská omáčka nebo brusinková omáčka rozmíchaná se lžící hořčice.",
+    "V horkovzdušné fritéze: obalené zmražené hermelíny pokapej olejem a peč při 200 °C 6 až 8 minut, v polovině je obrať."
+  ],
+  "faq": [
+    {
+      "q": "Proč smažený hermelín vytéká?",
+      "a": "Sýr nebyl dost vychlazený, obal měl mezeru nebo se smažil příliš dlouho či v málo rozpáleném oleji. Pomáhá dvojitý obal, 30 minut v mrazáku a olej rozpálený na 170 až 175 °C."
+    },
+    {
+      "q": "Jak dlouho se smaží hermelín?",
+      "a": "V oleji rozpáleném na 170 až 175 °C stačí 1,5 až 2 minuty z každé strany, dokud obal nezezlátne. Zmražený hermelín smaž o 30 až 60 vteřin déle."
+    },
+    {
+      "q": "Dá se smažený hermelín připravit v troubě?",
+      "a": "Dá, ale obal tolik nezkřupne. Obalený a zmražený hermelín pokapej olejem a peč na pečicím papíru při 220 °C asi 10 minut, v polovině ho obrať. Lépe funguje horkovzdušná fritéza."
+    }
+  ]
+}

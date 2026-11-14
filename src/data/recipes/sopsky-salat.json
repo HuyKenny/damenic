@@ -1,0 +1,107 @@
+{
+  "title": "Šopský salát",
+  "keywords": [
+    "šopský salát",
+    "šopský salát recept",
+    "bulharský šopský salát",
+    "šopský salát se sýrem sirene"
+  ],
+  "image": "dish-sopsky-salat",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Šopský salát je bulharská klasika z rajčat, okurky, papriky, cibule a petrželky, zasypaná najemno nastrouhaným sýrem sirene. Zálivka je jen slunečnicový olej, vinný ocet a sůl. Sýr se nekrájí na kostky, strouhá se tak, aby zeleninu zakryl jako sníh.",
+  "ingredients": [
+    {
+      "ingredient": "rajcata",
+      "amount": 500,
+      "unit": "g",
+      "note": "zralá"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "paprika-zelena",
+      "amount": 2,
+      "unit": "ks",
+      "note": "nebo světlé kapie"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "nebo 3 jarní cibulky"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sirene",
+      "amount": 200,
+      "unit": "g",
+      "note": "nebo balkánský sýr"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "ocet-vinny",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rajčata nakrájej na kostky asi 2 cm, okurku na kostky nebo čtvrtkolečka. Kdo chce okurku jemnější, oloupe ji."
+    },
+    {
+      "text": "Papriky zbav semínek a nakrájej na proužky nebo kostičky, cibuli najemno. Petrželku nasekej."
+    },
+    {
+      "text": "Zeleninu s petrželkou dej do mísy, přidej olej a ocet, opatrně osol a promíchej. Sůl dávej s ohledem na slaný sýr, dosolit můžeš na konci."
+    },
+    {
+      "text": "Salát rozděl do misek a každou porci zasyp sýrem nastrouhaným na jemném nebo středním struhadle tak, aby zelenina skoro nebyla vidět. Podávej hned."
+    }
+  ],
+  "tips": [
+    "V Bulharsku se do šopského salátu často dávají pečené papriky. Upeč je celé při 220 °C asi 25 minut, dokud slupka nezčerná, nech je 10 minut pod pokličkou, oloupej a nakrájej.",
+    "Sýr se strouhá snáz, když ho dáš na 20 minut do mrazáku.",
+    "Salát je nejlepší čerstvý. V lednici vydrží do druhého dne, rajčata ale pustí šťávu."
+  ],
+  "substitutions": [
+    "Sirene nahradíš balkánským sýrem nebo fetou. Balkánský sýr je slanější, salát proto skoro nesol.",
+    "Místo vinného octa poslouží citronová šťáva, asi 1,5 lžíce.",
+    "Pálivější verze dostane jednu nakrájenou feferonku nebo chilli papričku."
+  ],
+  "faq": [
+    {
+      "q": "Jaký sýr patří do šopského salátu?",
+      "a": "Bulharský sirene, bílý solený sýr z kravského, ovčího nebo směsného mléka. U nás se nejčastěji nahrazuje balkánským sýrem nebo fetou. Vždy se strouhá najemno přes celý salát."
+    },
+    {
+      "q": "Proč se šopský salát jmenuje šopský?",
+      "a": "Podle Šopů, obyvatel kraje kolem Sofie. Barvy salátu, bílá, zelená a červená, se v Bulharsku často přirovnávají k národní vlajce."
+    },
+    {
+      "q": "Dává se do šopského salátu olej?",
+      "a": "Ano, tradičně slunečnicový olej s trochou vinného octa a solí. Olivový olej a oregano patří spíš do řeckého salátu."
+    }
+  ]
+}

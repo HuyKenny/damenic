@@ -1,0 +1,37 @@
+{
+  "name": "Sendvičárna Mezi Krajíci",
+  "category": "sendvice",
+  "cuisine": "Sendviče, toasty, panini a bagely",
+  "tagline": "Krajíce máme dva. Mezi nimi je nic, ale pečlivě obložené.",
+  "description": "Toasty s roztaženým sýrem, panini z ciabatty, domácí bagely, kuřecí wrap a hot dog s karamelizovanou cibulkou. Sendvičárna je smyšlená, takže krajíce zůstanou u nás a sendvič si složíš doma.",
+  "etaMinutes": 20,
+  "deliveryFee": 2900,
+  "minOrder": 14900,
+  "priceLevel": 1,
+  "hours": {
+    "open": "07:30",
+    "close": "20:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bez masa"
+  ],
+  "promo": {
+    "type": "free-delivery",
+    "label": "Dopravné 0 Kč"
+  },
+  "isNew": true,
+  "logo": {
+    "text": "MK",
+    "color": "#E9C46A",
+    "ink": "dark"
+  },
+  "cover": "rest-sendvicarna-mezi-krajici",
+  "sections": [
+    "Teplé sendviče",
+    "Studené sendviče",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 291
+}

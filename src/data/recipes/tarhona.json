@@ -1,0 +1,111 @@
+{
+  "title": "Tarhoňa s paprikou a cibulkou",
+  "keywords": [
+    "tarhoňa",
+    "jak uvařit tarhoňu",
+    "tarhoňa recept",
+    "tarhoňa jako příloha"
+  ],
+  "image": "dish-tarhona",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "waitMinutes": 5,
+  "waitLabel": "dojití pod pokličkou",
+  "difficulty": "snadné",
+  "intro": "Tarhoňa jako příloha ke guláši nebo jako lehké jídlo s paprikou a cibulkou. Tarhoňa jsou drobné sušené kuličky z vaječného těsta; než se zalijí, opečou se na tuku, aby se nerozvařily a voněly oříškově. Na objem se zalévá zhruba dvojnásobkem vývaru.",
+  "ingredients": [
+    {
+      "ingredient": "tarhona",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na drobné kostičky"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 600,
+      "unit": "ml",
+      "note": "horký"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "jen pokud vývar není slaný"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V kastrolu se silným dnem rozehřej olej a cibuli na něm zpěňuj 4 minuty do sklovita."
+    },
+    {
+      "text": "Přisyp suchou tarhoňu a za stálého míchání ji opékej 3 až 4 minuty, dokud kuličky lehce nezezlátnou a nezačnou vonět."
+    },
+    {
+      "text": "Přidej papriku a protlak a 1 minutu míchej. Odstav, vmíchej mletou papriku, ať se nespálí, a hned zalij horkým vývarem."
+    },
+    {
+      "text": "Přiveď k varu, ochutnej vývar a případně dosol. Přiklop, stáhni plamen na minimum a vař 15 minut. Nemíchej, jen jednou zkontroluj, jestli je na dně ještě tekutina."
+    },
+    {
+      "text": "Odstav a nech 5 minut dojít pod pokličkou. Hotová tarhoňa je měkká, ale drží tvar a voda je vsáklá. Prohrábni ji vidličkou a posyp petrželkou."
+    }
+  ],
+  "tips": [
+    "Poměr je zhruba 1 díl tarhoně ku 2 dílům tekutiny podle objemu. 250 g tarhoně má asi 350 ml, vývaru tedy potřebuješ kolem 600 až 700 ml.",
+    "Jako samostatné jídlo ji podávej s kyselou okurkou nebo do ní na konci vmíchej 2 opečené párky nakrájené na kolečka.",
+    "Uvařená tarhoňa vydrží v lednici 3 dny. Ohřívej ji v kastrolu se lžící vody pod pokličkou."
+  ],
+  "substitutions": [
+    "Místo zeleninového vývaru se hodí kuřecí nebo hovězí, případně osolená voda. Pak už jídlo nebude vegetariánské, pokud použiješ masový vývar.",
+    "Olej nahradíš lžící sádla nebo másla, opečení pak hlídej, máslo se pálí rychleji."
+  ],
+  "faq": [
+    {
+      "q": "Jak uvařit tarhoňu?",
+      "a": "Nejdřív ji 3 až 4 minuty opeč na tuku, pak zalij zhruba dvojnásobkem horkého vývaru podle objemu, přiklop a vař 15 minut na mírném plameni. Nakonec ji nech 5 minut dojít pod pokličkou."
+    },
+    {
+      "q": "Co je tarhoňa?",
+      "a": "Drobné těstoviny ve tvaru zrnek z mouky a vajec, původem z maďarské kuchyně. Prodávají se sušené a vaří se podobně jako rýže."
+    },
+    {
+      "q": "K čemu se tarhoňa podává?",
+      "a": "Nejčastěji jako příloha ke guláši, paprikáši nebo k dušenému masu. S paprikou a cibulkou je i samostatným lehkým jídlem."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Avokádový toast s vejcem",
+  "keywords": [
+    "avocado toast",
+    "avokádový toast",
+    "avokádový toast s vejcem",
+    "toast s avokádem"
+  ],
+  "image": "dish-avokadovy-toast",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 5,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Avocado toast neboli avokádový toast je opečený krajíc kváskového chleba s rozmačkaným avokádem, limetkou, chilli a vejcem. Vypadá jednoduše a je, rozhoduje ale zralost avokáda a chleba opečeného dokřupava, aby pod avokádem nezměkl. Vejce můžeš dát pošírované s tekutým žloutkem, nebo sázené.",
+  "ingredients": [
+    {
+      "ingredient": "chleb",
+      "amount": 200,
+      "unit": "g",
+      "note": "4 krajíce kváskového chleba silné 1,5 cm"
+    },
+    {
+      "ingredient": "avokado",
+      "amount": 2,
+      "unit": "ks",
+      "note": "zralá, při zmáčknutí lehce povolí"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "co nejčerstvější"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na pošírování"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 100,
+      "unit": "g",
+      "note": "nepovinně"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Avokáda rozpůl, vyjmi pecku a dužinu vydlabej lžící do misky. Pokapej limetkovou šťávou, osol a rozmačkej vidličkou nahrubo, kousky můžou zůstat."
+    },
+    {
+      "section": "Vejce",
+      "text": "Do širšího hrnce nalij asi 8 cm vody, přidej ocet a přiveď k varu, pak stáhni plamen, aby voda jen slabě probublávala. Každé vejce rozklep do malého sítka, nech odkapat řídký bílek a vyklop ho do misky."
+    },
+    {
+      "text": "Ve vodě udělej lžící mírný vír a vejce do něj opatrně vklouzni. Vař 3 minuty, bílek má být pevný a žloutek tekutý. Vyndej ho děrovanou lžící na papírovou utěrku. Stejně připrav ostatní vejce, nejvýš dvě najednou."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Krajíce chleba pokapej olivovým olejem a opeč na suché pánvi nebo v topinkovači dozlatova a dokřupava, asi 2 minuty z každé strany."
+    },
+    {
+      "text": "Na teplé krajíce rozetři avokádo, navrch polož vejce, posyp chilli vločkami, opepři a přidej rozpůlená cherry rajčata. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Nezralé avokádo dozraje za 2 až 3 dny v papírovém sáčku s jablkem nebo banánem. Avokádo, které při zmáčknutí vůbec nepovolí, se rozmačkat nedá.",
+    "Rychlejší je sázené vejce: na pánvi se lžičkou oleje ho smaž 3 minuty pod pokličkou, žloutek zůstane měkký.",
+    "Pošírované vejce s tekutým žloutkem není vhodné pro malé děti a těhotné. Pro ně ho vař o 2 minuty déle, dokud žloutek neztuhne."
+  ],
+  "substitutions": [
+    "Bez vajec: na avokádo dej rozdrobenou fetu nebo balkánský sýr, plátky ředkviček a pražená semínka.",
+    "Místo kváskového chleba se hodí celozrnný chléb nebo šikmo nakrájená bageta.",
+    "Limetku nahradíš citronem ve stejném množství."
+  ],
+  "faq": [
+    {
+      "q": "Jak poznat zralé avokádo?",
+      "a": "Při jemném zmáčknutí v dlani lehce povolí, ale nezůstane v něm důlek. Pod stopkou je dužina zelená, ne hnědá. Tvrdé avokádo dozraje za 2 až 3 dny při pokojové teplotě."
+    },
+    {
+      "q": "Jak zabránit, aby avokádo zhnědlo?",
+      "a": "Pokapej ho limetkovou nebo citronovou šťávou a rozmačkej až těsně před podáváním. Zbytek přikryj potravinovou fólií položenou přímo na povrch, aby k němu nešel vzduch, a dej do lednice. Vydrží do druhého dne."
+    },
+    {
+      "q": "Jaký chléb je nejlepší na avocado toast?",
+      "a": "Kváskový chléb s pevnou střídkou a křupavou kůrkou. Po opečení se nerozmočí a unese avokádo i vejce. Toustový chléb je na to moc měkký."
+    }
+  ]
+}

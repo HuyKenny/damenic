@@ -1,0 +1,191 @@
+{
+  "title": "Koprová omáčka s hovězím masem",
+  "keywords": [
+    "koprová omáčka s hovězím masem",
+    "koprová omáčka s masem",
+    "koprová omáčka s knedlíkem"
+  ],
+  "image": "dish-koprova-omacka",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 140,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "intro": "Koprová omáčka s vařeným hovězím masem a houskovým knedlíkem pro čtyři. Maso se dvě hodiny pomalu vaří s kořenovou zeleninou a z jeho vývaru vznikne omáčka zahuštěná máselnou jíškou. Chuť drží čerstvý kopr a vyvážený poměr octa a cukru.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-zadni",
+      "amount": 700,
+      "unit": "g",
+      "note": "vcelku",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 100,
+      "unit": "g",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 80,
+      "unit": "g",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "v celku se slupkou, rozpůlená",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso a vývar"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 50,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 1,
+      "unit": "ks",
+      "note": "velký svazek, najemno nasekaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "podle chuti až 2 lžíce",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "knedlik-houskovy",
+      "amount": 600,
+      "unit": "g",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Maso a vývar",
+      "text": "V hrnci přiveď k varu 1,5 l vody, vlož do ní maso a 5 minut ho vař. Šedou pěnu, která vyplave, sbírej děrovanou lžící."
+    },
+    {
+      "section": "Maso a vývar",
+      "text": "Přidej oloupanou zeleninu nakrájenou na velké kusy, rozpůlenou cibuli, bobkové listy, nové koření, pepř a sůl. Přiklop, stáhni plamen, aby se vývar jen mírně vlnil, a vař 2 hodiny, dokud maso nezměkne a vidlička jím neprojde bez odporu."
+    },
+    {
+      "section": "Maso a vývar",
+      "text": "Maso vyndej, přikryj talířem, aby neosychalo, a vývar přeceď. Na omáčku odměř 500 ml, zbytek se hodí na polévku."
+    },
+    {
+      "section": "Omáčka",
+      "text": "V kastrolu rozpusť máslo, přidej mouku a za stálého míchání opékej 2 minuty na světlou jíšku. Postupně přilévej teplý vývar a metličkou rozmíchávej do hladka, pak přilij mléko."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Omáčku vař na mírném plameni 15 minut a často míchej ode dna, mléčná omáčka se snadno připálí. Přilij smetanu a vmíchej dvě třetiny kopru."
+    },
+    {
+      "section": "Omáčka",
+      "text": "Dochuť octem, cukrem a solí. Přidávej postupně a ochutnávej, omáčka má být jemně sladkokyselá a nesmí v ní převládnout ocet. Nakonec vmíchej zbytek kopru a už ji nevař, aby kopr zůstal zelený."
+    },
+    {
+      "section": "Podávání",
+      "text": "Maso nakrájej napříč vlákny na plátky asi 1 cm, vlož je do omáčky a 5 minut prohřívej na mírném plameni. Podávej s knedlíkem ohřátým v páře."
+    }
+  ],
+  "tips": [
+    "Maso vkládej do vroucí vody, zůstane šťavnatější. Do studené vody ho dávej jen tehdy, když ti jde hlavně o silný vývar.",
+    "Kopr přidávej až na konci. Dlouhým varem zhnědne a ztratí vůni.",
+    "Hustotu omáčky upravíš vývarem. Hotová má obalit lžíci a pomalu z ní stékat."
+  ],
+  "substitutions": [
+    "Místo hovězího zadního se hodí hovězí plec nebo přední, vaří se o 30 minut déle. Rychlejší variantou jsou 4 vejce natvrdo místo masa.",
+    "Sušený kopr čerstvý nenahradí úplně, v nouzi použij 2 lžíce sušeného a přidej ho do omáčky už s mlékem, ať se rozvoní.",
+    "Místo knedlíku se podávají vařené brambory, asi 800 g na čtyři porce."
+  ],
+  "faq": [
+    {
+      "q": "Jaké maso je nejlepší na koprovou omáčku?",
+      "a": "Hovězí zadní, plec nebo přední, tedy kusy, které se dají dlouho vařit do měkka. Zadní je libové a dobře se krájí, plec a přední jsou šťavnatější, ale vaří se déle."
+    },
+    {
+      "q": "Dá se koprová omáčka udělat ze sušeného nebo mraženého kopru?",
+      "a": "Mražený kopr funguje skoro stejně jako čerstvý, přidej ho až na konci. Sušeného stačí 2 lžíce a přidává se dřív, ale chuť bude slabší."
+    },
+    {
+      "q": "Proč je koprová omáčka hořká nebo moc kyselá?",
+      "a": "Hořkost bývá z přepálené jíšky, kyselost z octa přidaného najednou. Ocet a cukr přidávej po lžičkách a ochutnávej. Přesolenou nebo překyselenou omáčku srovná trochu smetany."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Salátbar Ani lístek",
+  "category": "salaty",
+  "cuisine": "Saláty, bowly a fit snídaně",
+  "tagline": "Kalorie počítat nemusíš. Nedorazí ani jedna.",
+  "description": "Caesar se suchým římským salátem, řecký s celou fetou, vločky namočené přes noc a hustý açaí bowl. Salátbar je smyšlený, takže z misky nesníš ani lístek. Recepty jsou ale skutečné.",
+  "etaMinutes": 20,
+  "deliveryFee": 3500,
+  "minOrder": 17900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "08:00",
+    "close": "20:00"
+  },
+  "pickup": true,
+  "tags": [
+    "bezlepkové možnosti"
+  ],
+  "isNew": true,
+  "logo": {
+    "text": "AL",
+    "color": "#2F6B3A",
+    "ink": "light"
+  },
+  "cover": "rest-salatbar-ani-listek",
+  "sections": [
+    "Saláty",
+    "Fit snídaně",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 292
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Sýrový toast",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Teplé sendviče",
+  "description": "Toustový chléb s eidamem a čedarem, máslo zvenku, opečený pomalu, aby sýr stihl roztát.",
+  "about": [
+    "Sýrový toast je jídlo, které umí každý a skoro každý ho trochu připálí. Dva sýry, eidam pro tažnost a čedar pro chuť, a máslo na vnější straně chleba, ne uvnitř. Z něj vzniká zlatá kůrka.",
+    "Pánev stačí středně rozpálená a poklice nahoře, sýr se pak rozpustí dřív, než chléb zčerná. Toustovač nepotřebuješ. My nepotřebujeme ani ten chléb, máme jen krajíce ve jménu."
+  ],
+  "price": 12900,
+  "image": "dish-toast-krajice",
+  "recipe": "syrovy-toast",
+  "optionGroups": [
+    {
+      "id": "pridat",
+      "name": "Přidat",
+      "type": "multi",
+      "required": false,
+      "options": [
+        {
+          "id": "sunka",
+          "name": "Plátek šunky",
+          "priceDelta": 2000
+        },
+        {
+          "id": "horcice",
+          "name": "Hořčice uvnitř",
+          "priceDelta": 0
+        }
+      ],
+      "max": 2
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 10
+}

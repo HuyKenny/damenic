@@ -1,0 +1,17 @@
+{
+  "name": "Bramborové lupínky",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Tenké solené lupínky v sáčku. Křupou hlasitěji než kurýr, který nepřijede.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-lupinky-krajice",
+  "recipe": null,
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 60
+}

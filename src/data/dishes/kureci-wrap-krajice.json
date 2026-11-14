@@ -1,0 +1,42 @@
+{
+  "name": "Kuřecí wrap",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Studené sendviče",
+  "description": "Tortilla s kořeněným kuřecím prsem, salátem, rajčaty, okurkou, eidamem a česnekovým jogurtem.",
+  "about": [
+    "Kuřecí wrap je sendvič, který se nerozpadne v ruce, když je dobře zabalený. Kořeněné kuřecí prso s paprikou a římským kmínem, ledový salát, rajčata, okurka, červená cibule a česnekový řecký jogurt.",
+    "Tortilla se před balením nahřeje, jinak na přehybech praská, a boky se zahnou dovnitř dřív, než se roluje. Zabalit to umíme. Poslat už ne."
+  ],
+  "price": 15900,
+  "image": "dish-kureci-wrap-krajice",
+  "recipe": "kureci-wrap",
+  "optionGroups": [
+    {
+      "id": "naplne",
+      "name": "Náplň",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "kure",
+          "name": "Kuřecí prso",
+          "priceDelta": 0
+        },
+        {
+          "id": "halloumi",
+          "name": "Grilovaný halloumi",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 40
+}

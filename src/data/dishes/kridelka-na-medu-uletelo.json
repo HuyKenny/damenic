@@ -1,0 +1,44 @@
+{
+  "name": "Medová křidélka",
+  "restaurant": "bistro-uletelo",
+  "kind": "main",
+  "section": "Křidélka",
+  "description": "Kuřecí křidélka marinovaná v medu, sóje a česneku, pečená do lepkavé glazury a posypaná sezamem.",
+  "about": [
+    "Medová křidélka jsou důkaz, že nejlepší jídlo se jí rukama a ubrousky jsou spotřební materiál. Marináda z medu, sójové omáčky, kečupu a česneku se do masa dostane za hodinu v lednici, kůže se pak v troubě peče na mřížce, aby tuk odkapal a nezůstala gumová.",
+    "Celý trik je v odložených čtyřech lžících marinády. Na křidélka přijdou až na posledních deset minut, kdy se med zkaramelizuje, ale ještě nespálí. U nás je glazura lepkavá do posledního prstu. Jen ty prsty zůstanou čisté, protože křidélka uletěla."
+  ],
+  "price": 19900,
+  "image": "dish-kridelka-na-medu-uletelo",
+  "recipe": "kureci-kridelka",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "6-ks",
+          "name": "6 kusů",
+          "priceDelta": 0
+        },
+        {
+          "id": "12-ks",
+          "name": "12 kusů",
+          "priceDelta": 9000
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "order": 10,
+  "featured": true
+}

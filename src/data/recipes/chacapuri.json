@@ -1,0 +1,144 @@
+{
+  "title": "Adžarské chačapuri (gruzínská sýrová loďka s vejcem)",
+  "keywords": [
+    "chačapuri",
+    "chačapuri recept",
+    "adžarské chačapuri",
+    "gruzínské chačapuri"
+  ],
+  "image": "dish-chacapuri",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 30,
+  "cookMinutes": 18,
+  "waitMinutes": 60,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "intro": "Chačapuri je gruzínské jídlo, chléb plněný sýrem, a adžarské chačapuri je jeho nejznámější podoba: loďka z kynutého těsta se slaným sýrem, do které se po upečení vloží žloutek a kousek másla. Na webu ho řadíme k italské kuchyni jako nejbližšího příbuzného pizzy, ale původem je z Gruzie. Gruzínské sýry sulguni a imeruli tu nahrazuje směs mozzarelly a balkánského sýra.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "note": "nebo polohrubá",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 250,
+      "unit": "g",
+      "note": "2 kuličky, dobře okapané",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "feta",
+      "amount": 150,
+      "unit": "g",
+      "note": "balkánský sýr",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozšlehané, do sýra a na potření",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen žloutky",
+      "group": "Na dokončení"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Na dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozmíchej ve vlažném mléce s cukrem a nech 10 minut zpěnit. V míse smíchej mouku se solí, přilij mléko s droždím a olej a hněť 8 minut na hladké a měkké těsto. Přikryj a nech na teplém místě kynout 60 minut, až zdvojnásobí objem."
+    },
+    {
+      "section": "Náplň",
+      "text": "Mozzarellu osuš papírovou utěrkou, nastrouhej nebo natrhej na drobné kousky a smíchej s rozdrobeným balkánským sýrem. Vejce rozšlehej, polovinu vmíchej do sýra a druhou nech na potření."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Troubu rozehřej na 230 °C (horkovzduch 220 °C) i s plechem uvnitř. Těsto rozděl na 2 díly a každý rozválej na pečicím papíru na ovál asi 30 × 20 cm silný 5 mm."
+    },
+    {
+      "text": "Na obě dlouhé strany oválu dej tenký pruh sýrové směsi a okraje přes něj sroluj ke středu, takže vzniknou dva valy. Konce stiskni a stoč, aby vznikla loďka se špičatými konci a prohlubní uprostřed."
+    },
+    {
+      "section": "Pečení",
+      "text": "Do prohlubně rozlož zbytek sýra a okraje potři vejcem. Loďky i s papírem přesuň na rozpálený plech a peč 12 až 15 minut, dokud nejsou okraje zlatohnědé a sýr nebublá."
+    },
+    {
+      "text": "Vyndej plech, do sýra uprostřed každé loďky udělej lžící důlek, vlož do něj žloutek a vrať do trouby na 2 až 3 minuty, aby se žloutek zahřál a zůstal tekutý. Navrch dej 15 g másla a hned podávej."
+    },
+    {
+      "text": "U stolu žloutek s máslem a sýrem promíchej vidličkou, odtrhávej kousky okraje a namáčej je do středu."
+    }
+  ],
+  "tips": [
+    "Žloutek zůstává téměř syrový. Pro děti, těhotné a starší lidi nech loďku se žloutkem v troubě 5 až 6 minut, dokud neztuhne, nebo žloutek vynech.",
+    "Sýrová směs má být slaná, ale ne přesolená. Pokud je balkánský sýr hodně slaný, namoč ho na 30 minut do studené vody.",
+    "Chačapuri chutná nejlíp horké, vychladlé ztuhne. Zbytek ohřej v troubě při 180 °C asi 5 minut."
+  ],
+  "substitutions": [
+    "Místo mozzarelly a balkánského sýra se hodí 400 g sýra sulguni z obchodů s východoevropskými potravinami, nebo mozzarella s nastrouhaným eidamem a trochou tvarohu.",
+    "Těsto bez kynutí: 250 g mouky, 150 g bílého jogurtu, lžička prášku do pečiva, sůl a lžíce oleje. Okraje budou hutnější.",
+    "Celé vejce místo žloutku: rozklep ho do důlku po 10 minutách pečení a peč ještě 4 až 5 minut, než bílek ztuhne."
+  ],
+  "faq": [
+    {
+      "q": "Co je chačapuri?",
+      "a": "Gruzínský chléb plněný sýrem, jedno z gruzínských národních jídel. Má mnoho regionálních podob: kulaté imeretské se sýrem uvnitř, megrelské se sýrem i navrchu a adžarské ve tvaru loďky se žloutkem a máslem."
+    },
+    {
+      "q": "Jaký sýr do chačapuri?",
+      "a": "V Gruzii se používá sulguni a imeruli, mladé solené sýry z kravského mléka. U nás je nahradí směs mozzarelly, která se táhne, a balkánského sýra nebo fety, které dodají slanost, zhruba v poměru 3 : 2."
+    },
+    {
+      "q": "Jak se jí adžarské chačapuri?",
+      "a": "Hned po upečení se žloutek s máslem promíchá vidličkou s horkým sýrem uprostřed. Pak se odtrhávají kousky okraje a namáčejí do sýrové směsi."
+    }
+  ]
+}

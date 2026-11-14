@@ -1,0 +1,43 @@
+{
+  "name": "Korejské smažené kuře",
+  "restaurant": "bistro-uletelo",
+  "kind": "main",
+  "section": "Kuře",
+  "description": "Kousky kuřecích stehen dvakrát smažené dokřupava a obalené v lepkavé gochujang glazuře se sezamem.",
+  "about": [
+    "Korejské smažené kuře se smaží dvakrát a dá se to slyšet. První smažení maso propeče, druhé na vyšší teplotě udělá z tenkého škrobového těstíčka krustu, která křupne i pod vrstvou glazury.",
+    "Glazura je z gochujangu, korejské fermentované chilli pasty, s medem, česnekem a kapkou sezamového oleje. Je sladká, pálivá a lepí se ke všemu kromě tašky našeho kurýra. Ta zůstává prázdná."
+  ],
+  "price": 22900,
+  "image": "dish-korejske-kure-uletelo",
+  "recipe": "korean-fried-chicken",
+  "optionGroups": [
+    {
+      "id": "glazura",
+      "name": "Glazura",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "gochujang",
+          "name": "Pálivá gochujang",
+          "priceDelta": 0
+        },
+        {
+          "id": "sojova",
+          "name": "Jemná sójovo-česneková",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 2,
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "order": 40
+}

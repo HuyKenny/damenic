@@ -1,0 +1,126 @@
+{
+  "title": "Domácí hot dog s karamelizovanou cibulkou",
+  "keywords": [
+    "hot dog recept",
+    "domácí hot dog",
+    "americký hot dog",
+    "hot dog recepty",
+    "americký hot dog recept"
+  ],
+  "image": "dish-hot-dog-krajice",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "intro": "Hot dog recept na americký hot dog s prohřátým párkem v měkké housce, hořčicí, kečupem, pomalu karamelizovanou cibulkou, smaženou cibulkou a okurkou. Celý vtip je v tom, že se párky nevaří, jen prohřejí, aby nepraskly, a cibulka dostane čas.",
+  "ingredients": [
+    {
+      "ingredient": "bulky-hotdog",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Hot dog"
+    },
+    {
+      "ingredient": "parky",
+      "amount": 400,
+      "unit": "g",
+      "note": "4 delší párky na hot dog s vysokým podílem masa",
+      "group": "Hot dog"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "na tenké půlměsíčky",
+      "group": "Karamelizovaná cibulka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "group": "Karamelizovaná cibulka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Karamelizovaná cibulka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Karamelizovaná cibulka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 100,
+      "unit": "g",
+      "note": "na drobné kostičky",
+      "group": "Na složení"
+    },
+    {
+      "ingredient": "cibulka-smazena",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Na složení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Cibulka",
+      "text": "Na pánvi rozpusť máslo s olejem, přidej cibuli a sůl a na středně mírném ohni ji za občasného míchání opékej 15 až 20 minut, dokud nezměkne a nezezlátne do karamelova. Když se začne připalovat, přilij lžíci vody."
+    },
+    {
+      "section": "Párky",
+      "text": "V hrnci přiveď k varu vodu, stáhni ji z plotny a vlož párky. Přikryj je a nech prohřívat 6 až 8 minut. Voda nesmí vřít, jinak párky prasknou a vyteče z nich šťáva. Uvnitř mají být horké, asi 70 °C."
+    },
+    {
+      "section": "Housky",
+      "text": "Housky nařízni shora podélně, ale ne úplně. Nahřej je 3 až 4 minuty v troubě při 180 °C nebo na mřížce nad párou, mají být teplé a měkké, ne křupavé."
+    },
+    {
+      "section": "Složení",
+      "text": "Do housky dej pruh hořčice, vlož párek, navrch karamelizovanou cibulku a kostičky okurky, pokapej kečupem a posyp smaženou cibulkou. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Párky můžeš i opéct na rozpálené grilovací pánvi 4 až 5 minut, dokud nemají tmavé proužky. Předtím je nařízni napříč, aby se nekroutily.",
+    "Na víc hot dogů najednou udělej cibulku předem, v lednici vydrží 4 dny a ohřeje se za minutu.",
+    "Kvalitní párek poznáš podle vyššího podílu masa uvedeného na obalu. Rozhoduje o chuti víc než všechno ostatní."
+  ],
+  "substitutions": [
+    "Vegetariánské párky prohřej podle obalu, zbytek receptu zůstává stejný.",
+    "Místo karamelizované cibulky se hodí najemno nakrájená syrová červená cibule.",
+    "Bez housek na hot dog postačí rohlík, ze kterého vydlabeš střídku, jako u pražského párku v rohlíku."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit párky na hot dog?",
+      "a": "Párky se nevaří, jsou už tepelně upravené. Vlož je do vody těsně stažené z varu a nech je přikryté 6 až 8 minut prohřát. Ve vroucí vodě praskají."
+    },
+    {
+      "q": "Jaké pečivo použít na hot dog?",
+      "a": "Měkkou podlouhlou housku na hot dog dlouhou zhruba jako párek, naříznutou shora. Před plněním ji nahřej, aby byla teplá a vláčná."
+    },
+    {
+      "q": "Co patří do amerického hot dogu?",
+      "a": "Základ je párek, žlutá hořčice a kečup. Častá je cibulka syrová, karamelizovaná nebo smažená, nakládaná okurka nebo sladkokyselý okurkový relish."
+    }
+  ]
+}

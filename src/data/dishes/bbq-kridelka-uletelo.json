@@ -1,0 +1,60 @@
+{
+  "name": "BBQ křidélka",
+  "restaurant": "bistro-uletelo",
+  "kind": "main",
+  "section": "Křidélka",
+  "description": "Křidélka v uzeném koření glazovaná domácí barbecue omáčkou z kečupu, medu, octa a uzené papriky.",
+  "about": [
+    "BBQ křidélka chutnají jako grilovačka, i když venku prší. Nejdřív odleží hodinu v suchém koření s uzenou paprikou a třtinovým cukrem, pak se pečou na mřížce a teprve na konci dostanou dvě vrstvy husté omáčky.",
+    "Barbecue omáčka je domácí: kečup, med, ocet, worcestrová omáčka a hořčice povařené, dokud neobalí lžíci. Doma se dá upéct v troubě i na grilu. Kouř z našeho grilu je zatím jen v popisu."
+  ],
+  "price": 20900,
+  "image": "dish-bbq-kridelka-uletelo",
+  "recipe": "bbq-kridelka",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "6-ks",
+          "name": "6 kusů",
+          "priceDelta": 0
+        },
+        {
+          "id": "12-ks",
+          "name": "12 kusů",
+          "priceDelta": 9000
+        }
+      ]
+    },
+    {
+      "id": "omacka",
+      "name": "Omáčka navíc",
+      "type": "single",
+      "required": false,
+      "options": [
+        {
+          "id": "bez",
+          "name": "Bez omáčky navíc",
+          "priceDelta": 0
+        },
+        {
+          "id": "miska",
+          "name": "Miska BBQ omáčky",
+          "priceDelta": 2000
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    4,
+    10
+  ],
+  "order": 20
+}

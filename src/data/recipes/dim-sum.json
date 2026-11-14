@@ -1,0 +1,177 @@
+{
+  "title": "Dim sum: baozi s vepřovou náplní v páře",
+  "keywords": [
+    "dim sum",
+    "bao buns",
+    "baozi recept",
+    "knedlíčky v páře",
+    "dim sum recept"
+  ],
+  "image": "dish-dim-sum",
+  "category": "asijska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 60,
+  "cookMinutes": 20,
+  "waitMinutes": 90,
+  "waitLabel": "kynutí těsta a dokynutí bao před vařením",
+  "difficulty": "střední",
+  "intro": "Dim sum je kantonská tradice malých jídel k čaji a baozi, kynuté bao buns vařené v páře, k ní patří. Tady jsou plněné vepřovým masem se zázvorem a jarní cibulkou a z těsta na 300 g mouky jich vyjde 12. Nejtěžší je stejnoměrně rozválet okraje, poskládat záhyby a hlídat, aby na těsto nekapala voda z pokličky.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 30,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 170,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 300,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "ustricova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 30,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Náplň"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Droždí rozmíchej v polovině vlažného mléka s lžičkou cukru a nech 10 minut stát, až zpění."
+    },
+    {
+      "text": "V míse smíchej mouku, zbytek cukru, prášek do pečiva a sůl. Přilij kvásek, zbytek mléka a olej a hněť 8 až 10 minut, až je těsto hladké, pružné a nelepí se. Přikryj a nech na teplém místě kynout asi 60 minut, až zdvojnásobí objem."
+    },
+    {
+      "section": "Náplň",
+      "text": "Mezitím smíchej mleté maso s nasekanou jarní cibulkou, nastrouhaným zázvorem, sójovou a ústřicovou omáčkou, sezamovým olejem, cukrem, škrobem, vodou a pepřem. Míchej jedním směrem 2 minuty, až je náplň lepivá a soudržná, a dej ji do lednice."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Nastříhej 12 čtverečků pečicího papíru asi 8 × 8 cm. Vykynuté těsto krátce propracuj, rozděl na 12 dílů po zhruba 40 g a z každého udělej kuličku."
+    },
+    {
+      "text": "Kuličku rozválej na kolečko o průměru 10 cm s okraji tenčími než střed. Doprostřed dej vrchovatou lžíci náplně (asi 25 g), okraje postupně skládej do záhybů, nahoře je stoč a pevně stiskni. Bao polož na papírek."
+    },
+    {
+      "text": "Bao rozestav do koše na vaření v páře s rozestupy 3 cm, přikryj a nech 20 až 30 minut dokynout, až mírně nabudou."
+    },
+    {
+      "section": "Vaření",
+      "text": "Ve hrnci nebo woku pod košem přiveď vodu k varu a bao vař v páře na středním plameni 15 minut. Pak plamen vypni a nech je ještě 5 minut pod pokličkou, aby se náhlou změnou teploty nesvraštily. Náplň má mít uvnitř 75 °C a nesmí být růžová."
+    }
+  ],
+  "tips": [
+    "Pokličku koše zabal do utěrky, aby kondenzovaná voda nekapala na bao a nedělala na nich mokré skvrny.",
+    "Uvařené bao se dají zamrazit, v mrazáku vydrží 2 měsíce. Zmražené je vař v páře 10 až 12 minut, dokud nejsou horké i uprostřed.",
+    "Pokud máš koš jen jeden, vař bao po dávkách a zbylé nech dokynout v lednici, jinak převykynou."
+  ],
+  "substitutions": [
+    "Bez koše na páru: na hrnec s vroucí vodou dej kovové síto nebo cedník tak, aby se nedotýkal vody, a přikryj pokličkou zabalenou do utěrky.",
+    "Vegetariánská náplň: 250 g najemno nasekaných žampionů a 150 g pekingského zelí orestuj se zázvorem a sójovou omáčkou, nech vychladnout a ústřicovou omáčku vynech.",
+    "Sladká verze: místo masa naplň každé bao lžící sladké fazolové pasty anko."
+  ],
+  "faq": [
+    {
+      "q": "Co je dim sum?",
+      "a": "Kantonská tradice malých jídel podávaných k čaji, hlavně dopoledne a v poledne. Patří k ní knedlíčky v páře, plněné kynuté bao, rolky z rýžových plátů i sladké dortíčky. Podávají se po několika kusech v bambusových koších."
+    },
+    {
+      "q": "Jaký je rozdíl mezi bao a baozi?",
+      "a": "Je to totéž. Baozi je čínský název pro plněné kynuté buchtičky vařené v páře, bao je zkrácený tvar. Jako bao buns se označují i rozevřené placky gua bao, do kterých se náplň vkládá až po uvaření."
+    },
+    {
+      "q": "Proč se bao po uvaření svraští?",
+      "a": "Nejčastěji kvůli prudké změně teploty, proto se po dovaření nechávají 5 minut pod pokličkou s vypnutým plamenem. Svraštění způsobí i převykynuté těsto nebo voda kapající z pokličky."
+    }
+  ]
+}
