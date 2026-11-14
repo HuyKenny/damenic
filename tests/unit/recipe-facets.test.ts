@@ -42,6 +42,11 @@ describe('deriveFacets', () => {
     expect(f.diets).not.toContain('veg');
     expect(f.methods).toEqual(expect.arrayContaining(['panev', 'smazeni']));
   });
+  it('never labels alcoholic recipes vegan', () => {
+    const f = deriveFacets({ steps: ['Zahřej.'], cookMinutes: 10, alcohol: true, ingredients: [{ id: 'rajce', base: 500 }] }, info);
+    expect(f.diets).toContain('veg');
+    expect(f.diets).not.toContain('vegan');
+  });
   it('flags nut recipes and no-heat recipes', () => {
     const f = deriveFacets({ steps: ['Vše rozmixuj a promíchej.'], cookMinutes: 0, ingredients: [{ id: 'mandle', base: 200 }, { id: 'rajce', base: 100 }] }, info);
     expect(f.diets).not.toContain('nf');

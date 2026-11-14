@@ -1780,8 +1780,7 @@
     "priceSource": "illustrative",
     "priceCheckedAt": null,
     "diet": "meat",
-    "allergens": [],
-    "family": "veprove"
+    "allergens": []
   },
   {
     "id": "ocet",
@@ -5463,8 +5462,7 @@
     "priceSource": "illustrative",
     "priceCheckedAt": null,
     "diet": "meat",
-    "allergens": [],
-    "family": "husa-kachna"
+    "allergens": []
   },
   {
     "id": "koprivy",

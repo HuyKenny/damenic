@@ -260,6 +260,7 @@ export function recipeIndex(): Promise<{ recipes: RecipeSummary[]; ingredients: 
         {
           steps: r.data.steps.map((s) => s.text),
           cookMinutes: r.data.cookMinutes,
+          alcohol: r.data.alcohol ?? false,
           ingredients: r.data.ingredients.map((i) => ({ id: i.ingredient.id, base: info[i.ingredient.id] ? (toBase(i.amount, i.unit, info[i.ingredient.id]!) ?? 0) : 0 })),
         },
         facetInfo,

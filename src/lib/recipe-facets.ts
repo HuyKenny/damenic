@@ -75,6 +75,8 @@ export interface IngredientFacetInfo {
 export interface RecipeFacetInput {
   steps: string[];
   cookMinutes: number;
+  /** Wine, beer and spirits are sometimes clarified with animal products, so alcoholic recipes are never labelled vegan. */
+  alcohol?: boolean;
   /** Ingredient ids with amounts converted to base units (g, ml or ks) when possible, else 0. */
   ingredients: { id: string; base: number }[];
 }
@@ -93,7 +95,7 @@ export function deriveFacets(r: RecipeFacetInput, info: Record<string, Ingredien
   const diets: DietKey[] = [];
   const meaty = has((i) => ['meat', 'fish', 'shellfish'].includes(i.diet));
   if (!meaty) diets.push('veg');
-  if (!meaty && !has((i) => ['dairy', 'egg', 'honey'].includes(i.diet))) diets.push('vegan');
+  if (!meaty && !r.alcohol && !has((i) => ['dairy', 'egg', 'honey'].includes(i.diet))) diets.push('vegan');
   if (!has((i) => i.allergens.includes(1))) diets.push('gf');
   if (!has((i) => i.allergens.includes(7))) diets.push('lf');
   if (!has((i) => i.allergens.includes(3))) diets.push('ef');
