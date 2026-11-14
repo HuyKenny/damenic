@@ -94,6 +94,7 @@ for (const [id, d] of dishes) {
     if (!d.recipe) err(`dish ${id}: every main dish needs a recipe`);
     if (!Array.isArray(d.about) || d.about.length < 2) err(`dish ${id}: main dishes need at least 2 "about" paragraphs for their page`);
   }
+  if (!('recipe' in d)) err(`dish ${id}: "recipe" is required (use null for sides and drinks)`);
   if (d.recipe && !recipes.has(d.recipe)) err(`dish ${id}: unknown recipe "${d.recipe}"`);
   const key = `${d.restaurant}|${d.name}`;
   if (names.has(key)) err(`dish ${id}: same name as ${names.get(key)} in one restaurant`);

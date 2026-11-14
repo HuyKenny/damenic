@@ -10,5 +10,6 @@
   "vegan": true,
   "restaurant": "steakarna-rare-priste",
   "image": "dish-pecene-brambory-steakarna",
-  "allergens": []
+  "allergens": [],
+  "recipe": null
 }
