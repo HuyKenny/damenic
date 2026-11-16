@@ -136,6 +136,10 @@ test.describe('checkout and tracking', () => {
     await expect(finale).toContainText('DámeNic doručilo přesně to, co slíbilo. Nic.');
     await expect(page.getByTestId('finale-compare')).toBeVisible();
     await expect(page.getByTestId('share-empty')).toBeVisible();
+    const wolt = page.getByTestId('partner-wolt');
+    await expect(wolt).toContainText('Reklama');
+    await expect(page.getByTestId('partner-wolt-link')).toHaveAttribute('href', '/go/wolt');
+    await expect(page.getByTestId('partner-wolt-link')).toHaveAttribute('rel', /sponsored/);
 
     await page.reload();
     await expect(page.getByTestId('finale')).toBeVisible();

@@ -1,4 +1,6 @@
 # Short affiliate paths (302, never cached). Keep in sync with partners.json: scripts/validate-content.mjs checks it.
 /go/rohlik https://www.kqzyfj.com/click-100367005-16984703 302
 /go/rohlik/ https://www.kqzyfj.com/click-100367005-16984703 302
+/go/wolt https://go.dognet.com/?cid=1043&chid=5XzUBFA0&refid=633a7b12a7212 302
+/go/wolt/ https://go.dognet.com/?cid=1043&chid=5XzUBFA0&refid=633a7b12a7212 302
 /.well-known/security.txt /security.txt 301

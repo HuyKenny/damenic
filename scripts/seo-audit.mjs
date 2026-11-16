@@ -94,7 +94,7 @@ for (const f of htmlFiles) {
     if (!existsUrl(href)) err(url, `broken internal link ${href}`);
   }
   // the affiliate URL lives only in public/_redirects
-  if (html.includes('kqzyfj.com')) err(url, 'affiliate URL is exposed in HTML (use /go/…)');
+  if (html.includes('kqzyfj.com') || html.includes('go.dognet.com')) err(url, 'affiliate URL is exposed in HTML (use /go/…)');
 }
 
 for (const u of sitemapUrls) {

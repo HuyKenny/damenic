@@ -11,6 +11,17 @@
     "verifiedAt": "2026-11-11"
   },
   {
+    "id": "wolt",
+    "name": "Wolt",
+    "enabled": true,
+    "linkType": "homepage",
+    "url": "https://go.dognet.com/?cid=1043&chid=5XzUBFA0&refid=633a7b12a7212",
+    "itemTransfer": "none",
+    "affiliateParams": {},
+    "availabilityNote": "Skutečná doručovací služba. Odkaz je statický (Dognet), objednávka se nepřenáší. Na webu se používá krátká adresa /go/wolt (302 v public/_redirects). Restaurace z DámeNic tam nejsou, rozvoz funguje jen tam, kde ho Wolt nabízí.",
+    "verifiedAt": "2026-11-16"
+  },
+  {
     "id": "priklad-partner",
     "name": "Obchodní partner (nepřipojeno)",
     "enabled": false,
