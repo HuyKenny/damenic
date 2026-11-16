@@ -1,0 +1,21 @@
+{
+  "name": "Dušená mrkev",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Sladká mrkev dušená v másle pod pokličkou a zahuštěná mléčnou jíškou, příloha k masu i bramborám.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-dusena-mrkev",
+  "recipe": "dusena-mrkev",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 400
+}

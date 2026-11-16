@@ -1,0 +1,25 @@
+{
+  "name": "Išelské dortíčky",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Zákusky z vitríny",
+  "description": "Dvě křehká ořechová kolečka slepená rybízovým džemem, s čokoládovou polevou a půlkou ořechu. Asi 35 kusů.",
+  "about": [
+    "Išelské dortíčky jsou vánoční cukroví z ořechového těsta. Dvě křehká kolečka se slepí rybízovým džemem, polijí čokoládovou polevou a ozdobí půlkou ořechu. Z dávky vyjde asi pětatřicet dortíčků. Ořechová chuť je výrazná, džem dodá kyselost. Ořechová chuť je výrazná, džem dodá kyselost.",
+    "Těsto je bez vajec, a proto se snadno láme. Drž ho studené a vyvaluj tence a rychle, jinak změkne a lepí se. Po slepení nech džem trochu zaschnout, než přijde poleva. Cukrárna U Prázdné Vitríny se svítí a chladí. Dortíčky by se v ní krásně vyjímaly, kdyby tam nebylo prázdno."
+  ],
+  "price": 9900,
+  "image": "dish-iselske-dortiky",
+  "recipe": "iselske-dortiky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 120
+}

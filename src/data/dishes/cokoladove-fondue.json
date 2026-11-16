@@ -1,0 +1,25 @@
+{
+  "name": "Čokoládové fondue s ovocem",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Teplé dezerty",
+  "description": "Hořká čokoláda rozpuštěná se smetanou ke šlehání v poměru 1 : 1, k namáčení jahody, banán, jablko a piškoty.",
+  "about": [
+    "Čokoládové fondue je jednoduchý dezert pro společnost: hořká čokoláda se rozpustí s tekutou smetanou ke šlehání a hotová, hladká a lesklá směs se podává teplá. Na špejle se napichují jahody, kousky banánu a jablka a piškoty, které čokoládu nasají. Hodí se na stůl pro celou rodinu.",
+    "Čokoláda se nesmí přehřát ani dostat do kontaktu s vodou. Jinak zhoustne a zrní a nejde zachránit. Proto se tají nad mírnou párou nebo na nejnižším plameni. Pro čtyři je hotové za pětadvacet minut. Ovoce máš u nás namáčet jen v představě, čokoláda zatím teče po obrazovce."
+  ],
+  "price": 9900,
+  "image": "dish-cokoladove-fondue",
+  "recipe": "cokoladove-fondue",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 140
+}

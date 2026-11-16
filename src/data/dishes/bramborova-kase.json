@@ -1,0 +1,20 @@
+{
+  "name": "Bramborová kaše podle klasiky",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Hladká kaše z horkých brambor, mléka a másla, přesně taková, jak patří k masu s omáčkou nebo k výpeku.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-bramborova-kase",
+  "recipe": "bramborova-kase",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 420
+}

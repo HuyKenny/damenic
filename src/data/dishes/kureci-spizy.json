@@ -1,0 +1,21 @@
+{
+  "name": "Kuřecí špízy na grilu",
+  "restaurant": "bistro-uletelo",
+  "kind": "main",
+  "section": "Kuře",
+  "description": "Kuřecí stehenní řízky na špejlích se zeleninou, marinované v citronu a pečené na grilu. Osm kusů, žádný nepřiletí.",
+  "about": [
+    "Špíz je nejjednodušší způsob, jak z kousků masa a zeleniny udělat večeři na grilu. Kuřecí stehenní řízky nakrájené na stejně velké kostky se marinují v citronu, aby byly šťavnaté, a střídají se na špejli s paprikou a cibulí. Stehna se hodí víc než prsa, protože se jen tak nevysuší.",
+    "Důležité je poznat, kdy je hotovo: uvnitř ukáže teploměr 75 °C a venku je na zeleninu lehce opálená. Doma to chce rozpálený gril a pár minut trpělivosti. My gril máme v hlavě a špízy v receptu. Voní vždycky skvěle, jen nikdy neskončí na talíři, kde by teploměr mohl zapíchnout."
+  ],
+  "price": 24900,
+  "image": "dish-kureci-spizy",
+  "recipe": "kureci-spizy",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 160
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sněhové pusinky",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Cukroví",
+  "description": "Sněhové pusinky z bílků a cukru, sušené při 100 °C. Ze čtyř bílků asi čtyřicet kousků.",
+  "about": [
+    "Pusinky jsou vánoční cukroví z bílků a cukru, které se vlastně nepeče, ale pomalu suší. Ze čtyř bílků vyjde asi čtyřicet pusinek o průměru tři centimetry. Sníh z bílků se šlehá do tuhého lesku a cukr se přidává po lžících. Zevnitř jsou lehké, zvenku suché a křupavé.",
+    "Rozhoduje čistá mísa bez kapky tuku, jinak se sníh nenašlehá. Druhým pravidlem je trpělivost: pusinky se suší při 100 °C a nesmí zhnědnout, jen vytuhnout dobře do křehka. Cukrárna Pod Stromkem Nic ti je položí pod strom. Strom je prázdný, takže ho aspoň neohrožuje spadlý cukr."
+  ],
+  "price": 9900,
+  "image": "dish-snehove-pusinky",
+  "recipe": "snehove-pusinky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3
+  ],
+  "featured": false,
+  "order": 130
+}

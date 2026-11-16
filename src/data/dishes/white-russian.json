@@ -1,0 +1,20 @@
+{
+  "name": "White russian",
+  "restaurant": "stanek-zahrejem-zitra",
+  "kind": "drink",
+  "section": "Na zahřátí",
+  "description": "Sladký koktejl 18+ z vodky, kávového likéru a smetany na ledu. Chutná po kávě a smetaně.",
+  "about": [],
+  "price": 16900,
+  "image": "dish-white-russian",
+  "recipe": "white-russian",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 110
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Těstovinový salát se šunkou a sýrem",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "description": "Těstoviny se šunkou, eidamem, kukuřicí, hráškem a paprikou v majonézovo-jogurtové zálivce. Salát pro šest bez lístku salátu.",
+  "about": [
+    "Těstovinový salát je klasika na oslavy a pikniky. Krátké těstoviny se vaří spíš o minutu kratší dobu, spolu s mraženým hráškem, a pak se propláchnou, aby se nelepily. Šunka, eidam, paprika, nakládané okurky, kukuřice a jarní cibulka dodají sůl, křupání i barvu. Vyjde ho dost pro šest lidí a vydrží dva dny v lednici.",
+    "Zálivka z majonézy, jogurtu a hořčice má být výrazně slaná, protože těstoviny ji hodně vsají. Salát patří do lednice a na stole nesmí zůstat déle než dvě hodiny. Kalorie počítat nemusíš, nedorazí ani jedna. Na stole se nenechává déle než dvě hodiny, v horku hodinu."
+  ],
+  "price": 13900,
+  "image": "dish-testovinovy-salat",
+  "recipe": "testovinovy-salat",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 240
+}

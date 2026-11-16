@@ -1,0 +1,24 @@
+{
+  "name": "Pařížský salát s hovězím masem",
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "kind": "main",
+  "section": "Saláty a slané",
+  "description": "Pařížský salát z vařeného hovězího, kyselých okurek a cibule v majonéze s hořčicí. Na chlebíčky, předem a s trpělivostí.",
+  "about": [
+    "Pařížský salát se dělá z hovězího, které se vaří doměkka ve vývaru s bobkovým listem, novým kořením a pepřem. Maso se nechá vychladnout přímo ve vývaru a pak se na pár hodin nebo přes noc uloží do lednice, aby se dobře krájelo. Hodí se na chlebíčky, ale i na krajíc chleba k večeři.",
+    "Nakrájí se na tenké nudličky a smíchá s kyselými okurkami a cibulí v majonéze s hořčicí, octem a trochou okurkového nálevu. Maso můžeš uvařit předem, hotový salát vydrží v lednici dva dny. Chlebíčkárna je smyšlená, hovězí hodinu bublá v receptu úplně doopravdy. Majonéza, maso a okurky pak patří do lednice, ne na stůl."
+  ],
+  "price": 11900,
+  "image": "dish-parizsky-salat",
+  "recipe": "parizsky-salat",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    10
+  ],
+  "featured": false,
+  "order": 180
+}

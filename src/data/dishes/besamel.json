@@ -1,0 +1,21 @@
+{
+  "name": "Bešamel",
+  "restaurant": "trattoria-domani",
+  "kind": "side",
+  "section": "Přílohy a nápoje",
+  "description": "Hladká bílá omáčka z máslové jíšky a mléka, základ lasagní, zapékaných zelenin i těstovin.",
+  "about": [],
+  "price": 3900,
+  "image": "dish-besamel",
+  "recipe": "besamel",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 110
+}

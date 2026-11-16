@@ -1,0 +1,23 @@
+{
+  "name": "Kokosky z bílků",
+  "restaurant": "zitra-upecem",
+  "kind": "main",
+  "section": "Navíc",
+  "description": "Vánoční kokosky z bílků, moučkového cukru a strouhaného kokosu, pečené pomalu na nízké teplotě, asi 40 kusů.",
+  "about": [
+    "Kokosky jsou cukroví, které zachrání bílky po žloutkovém pečení. Šlehají se do tuhého sněhu s moučkovým cukrem, smíchají se s kokosem a v malých hromádkách se pečou při nízké teplotě. Venku ztuhnou, uvnitř zůstanou vláčné a tmavnou do zlatova. Hodí se k talíři s rohlíčky a lineckým.",
+    "Tajemství je tuhý sníh a trpělivost u trouby, protože vyšší teplota je spálí. Čtyři bílky stačí na zhruba čtyřicet kousků. Skvěle se hodí k vánočnímu podnosu vedle rohlíčků a lineckých. Upečeme je zítra. A zítra zase zítra, to už ale víš. Pečou se při nízké teplotě, takže nezhnědnou dřív, než uvnitř doschnou."
+  ],
+  "price": 11900,
+  "image": "dish-kokosky",
+  "recipe": "kokosky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3
+  ],
+  "featured": false,
+  "order": 140
+}

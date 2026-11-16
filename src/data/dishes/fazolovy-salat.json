@@ -1,0 +1,23 @@
+{
+  "name": "Fazolový salát s cibulí a nakládanými okurkami",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "description": "Studený salát z bílých fazolí, červené cibule, nakládaných okurek a paprik v lehkém octovém dresinku.",
+  "about": [
+    "Fazolový salát je jednoduchá studená příloha nebo lehké jídlo. Konzervované bílé fazole se propláchnou a smíchají s červenou cibulí, nakládanými okurkami a paprikami. Dresink je lehký octový, s olejem, solí a pepřem. Chutná k masu, k uzeninám i jen s chlebem.",
+    "Díky fazolím z plechovky zabere práce jen čtvrt hodiny a půl hodiny pak salát odpočívá. Nejlepší je ale druhý den, kdy dresink propojí všechny chutě a cibule trochu zjemní. Salátbar Ani Lístek tvrdí, že mu nezbyl ani lístek. Fazole ti ale čekají v receptu."
+  ],
+  "price": 15900,
+  "image": "dish-fazolovy-salat",
+  "recipe": "fazolovy-salat",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    10
+  ],
+  "featured": false,
+  "order": 260
+}

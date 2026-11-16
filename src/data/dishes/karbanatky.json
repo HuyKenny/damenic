@@ -1,0 +1,25 @@
+{
+  "name": "Karbanátky z mletého masa",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Minutky",
+  "description": "Šťavnaté karbanátky z mletého vepřového a hovězího v křupavém trojobalu. Osm kusů, talíř zůstane prázdný.",
+  "about": [
+    "Karbanátek je domácí obdoba řízku z mletého masa. Základem je směs vepřového a hovězího, do které přijde rohlík namočený v mléce, vejce, cibule a česnek. Právě rohlík drží vlhkost, takže karbanátky nevyschnou. Tvarují se do placek a obalují v mouce, vajíčku a strouhance.",
+    "Smaží se na středním plameni, protože maso uvnitř musí zůstat dost dlouho na pánvi, aby se propeklo. Prudký oheň udělá krásnou kůrku a syrový střed. U Prázdného talíře ti je přichystáme s bramborovou kaší. Kaše je hladká, talíř hladký ještě víc. Dá se připravit dopředu a pak jen ohřát."
+  ],
+  "price": 24900,
+  "image": "dish-karbanatky",
+  "recipe": "karbanatky",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 380
+}

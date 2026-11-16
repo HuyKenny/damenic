@@ -1,0 +1,22 @@
+{
+  "name": "Velikonoční nádivka s uzeným masem a kopřivami",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Velikonoční nádivka z rohlíků, vajec a uzeného masa s mladými kopřivami, pečená v pekáči. Příloha na jarní stůl, nikam nejede.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-velikonocni-nadivka",
+  "recipe": "velikonocni-nadivka",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 390
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Cizrnová pomazánka s cibulkou a okurkou",
+  "restaurant": "ani-drobek",
+  "kind": "main",
+  "section": "Misky",
+  "description": "Veganská pomazánka z rozmačkané cizrny, nakládané okurky, červené cibule a hořčice. Hrubá, kyselá a lehce pikantní.",
+  "about": [
+    "Cizrnová pomazánka vzniká z konzervy cizrny, kterou stačí scedit, propláchnout a rozmačkat vidličkou na hrubou kaši. Cibule, nakládané okurky, hořčice, olej, citron, česnek a sladká paprika jí dají kyselost i trochu pikantnosti. Je to jednoduchá svačina z plechovky, bez mixéru i vaření.",
+    "Z nálevu z cizrny se dá odlít pár lžic, které pomazánku nadýchají, a pro hladší verzi stačí tyčový mixér. Chutná lépe po chvíli v lednici. Ani drobek tu nedostaneš a ani živočišný, takže se tu nemusí nic odpouštět. Sladká paprika dodá barvu a hořčice jemnou ostrost."
+  ],
+  "price": 7900,
+  "image": "dish-cizrnova-pomazanka",
+  "recipe": "cizrnova-pomazanka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    10
+  ],
+  "featured": false,
+  "order": 230
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Flank steak na pánvi nebo grilu",
+  "restaurant": "steakarna-rare-priste",
+  "kind": "main",
+  "section": "Steaky",
+  "description": "Štíhlý hovězí flank steak marinovaný dvě hodiny a opečený na pánvi nebo grilu, krájený proti vláknům na tenké plátky.",
+  "about": [
+    "Flank steak je plochý hovězí kus s výraznou chutí a hrubým vláknem, který se nemá smažit déle, než je nutné. Marináda ho ochutí a trochu zjemní, rychlá pánev nebo rozpálený gril mu dají kůrku a uvnitř nechají šťavnatý střed. Chuť je výrazně hovězí, což se u steaků hodí.",
+    "Největší chyba, kterou jde udělat, je krájet ho po vláknech: pak se žvýká jako guma. Nakrájej ho proti nim na tenké plátky a bude měkký. Rare, medium nebo well done? Příště nám řekneš, jak to chceš. U nás se maso nepeče, takže vždycky vyjde přesně podle tebe."
+  ],
+  "price": 14900,
+  "image": "dish-flank-steak",
+  "recipe": "flank-steak",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    6
+  ],
+  "featured": false,
+  "order": 120
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Škvarková pomazánka",
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "kind": "main",
+  "section": "Jednohubky",
+  "description": "Pomazánka z rozdrcených škvarků, sádla, cibule a česneku, vhodná na chleba i k pivu.",
+  "about": [
+    "Škvarková pomazánka je klasika hospodských stolů: rozdrcené škvarky, kousek sádla, osmažená cibule a česnek. Chuť je kouřová a slaná, s příjemnou křupavostí od zbylých kousků. Mažeš ji na chleba, ke krajíci s okurkou nebo na čerstvý rohlík. Hodí se k pivu nebo k večeři.",
+    "Škvarky se musí opravdu rozdrtit, aby pomazánka držela pohromadě. Cibule se opeče do zlatova a sádlo se přidává jen tak, aby se nerozpustilo, protože tekuté by se po vychladnutí rozdělilo od škvarků. Šunka zamotaná, vajíčko na kolečka a obloženo je to čím? Teď právě pomazánkou, která neexistuje."
+  ],
+  "price": 8900,
+  "image": "dish-skvarkova-pomazanka",
+  "recipe": "skvarkova-pomazanka",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 130
+}

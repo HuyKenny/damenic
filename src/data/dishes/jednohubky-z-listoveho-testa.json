@@ -1,0 +1,26 @@
+{
+  "name": "Jednohubky z listového těsta: šunkoví šnečci se sýrem",
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "kind": "main",
+  "section": "Jednohubky",
+  "description": "Šneci z listového těsta se šunkou a sýrem, z dvou plátů asi 60 kousků. Přesně na večírek pro dvanáct lidí.",
+  "about": [
+    "Šunkoví šnečci jsou jednohubky, které se dělají z hotového listového těsta a hodí se na oslavu, protože vyjdou ve velkém počtu. Těsto se potře, posype šunkou a sýrem, stočí do rolky, nakrájí na kolečka a upeče. Voní máslem a sýrem a jsou na jedno sousto.",
+    "Aby si šnečci udrželi tvar, musí rolka před krájením 20 minut ztuhnout v lednici a těsto musí do trouby jít studené. Jinak se rozjedou a bude z nich placka. Pět kousků na osobu pro dvanáct lidí vyjde přesně na plech. Párátka dáš do misky, jenže ta na stole zůstane zatím prázdná."
+  ],
+  "price": 7900,
+  "image": "dish-jednohubky-z-listoveho-testa",
+  "recipe": "jednohubky-z-listoveho-testa",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 160
+}

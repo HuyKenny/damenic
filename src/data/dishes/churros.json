@@ -1,0 +1,24 @@
+{
+  "name": "Churros s čokoládou",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Teplé dezerty",
+  "description": "Smažené španělské tyčky z vařeného těsta, obalené ve skořicovém cukru, s hrnkem horké čokolády.",
+  "about": [
+    "Churros jsou španělské smažené tyčky z vařeného těsta. Z mouky, vody, soli a másla se uvaří hladké těsto, vytlačí se hvězdicovou špičkou do oleje a po usmažení se obalí ve skořicovém cukru. Podávají se s hrnkem horké čokolády na namáčení. Z dávky vyjde asi šestnáct kusů dlouhých dvanáct centimetrů.",
+    "Těsto musí být dost husté, aby v sáčku drželo tvar hvězdičky a nerozlezlo se do tvaru placky. Proto se vaří, dokud se nespojí do kuličky, a lisuje ještě teplé. Sladké Nic je sladká tečka za večeří, kterou jsi nedostal. Čokoláda aspoň voní víc než tvůj prázdný talíř."
+  ],
+  "price": 8900,
+  "image": "dish-churros",
+  "recipe": "churros",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 120
+}

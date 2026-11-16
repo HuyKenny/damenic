@@ -1,0 +1,20 @@
+{
+  "name": "Pečená dýně hokkaido s rozmarýnem",
+  "restaurant": "ani-drobek",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Měsíčky pečené dýně hokkaido s rozmarýnem, česnekem a uzenou paprikou, k tomu řecký jogurtový dip s citronem.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-pecena-dyne",
+  "recipe": "pecena-dyne",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 220
+}

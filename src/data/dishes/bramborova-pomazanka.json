@@ -1,0 +1,24 @@
+{
+  "name": "Bramborová pomazánka na chlebíčky",
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "kind": "main",
+  "section": "Chlebíčky",
+  "description": "Pomazánka z brambor uvařených ve slupce, pomazánkového másla, cibule a česneku. Asi 850 g.",
+  "about": [
+    "Bramborová pomazánka je levná a sytá varianta k chlebíčkům. Brambory se uvaří ve slupce, nechají úplně vychladnout a nastrouhají, pak se smíchají s pomazánkovým máslem, cibulí a česnekem. Z dávky je asi 850 g, tedy na třicet chlebíčků. Chutná po cibuli a česneku a drží se déle než pomazánka z masa.",
+    "Brambory musí být studené a nastrouhané, ne rozmačkané. Rozmačkané pustí škrob a pomazánka se stane mazlavou, lepí se na nůž a nedrží vrstvu. Nastrouhané zůstanou jemně zrnité a snadno se roztírají. Chlebíčkárna Obloženo Ničím to oceňuje, ostatně jí to jde se vším, co se nedá doručit."
+  ],
+  "price": 6900,
+  "image": "dish-bramborova-pomazanka",
+  "recipe": "bramborova-pomazanka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 170
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Francouzské makronky s čokoládovou ganache",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Zákusky z vitríny",
+  "description": "Francouzské makronky z mandlové mouky, bílků a cukru, plněné hořkou čokoládovou ganache, asi 24 kusů.",
+  "about": [
+    "Makronky jsou drobné francouzské sušenky s křehkou skořápkou a vláčným středem. Mandlová mouka se vmíchává do sněhu z bílků a cukru, těsto se stříká na plech a nechá zaschnout, než se upeče. Dvě půlky se spojí hořkou čokoládovou ganache. Ve vitríně vypadají jako malé barevné knoflíky.",
+    "Jsou náročné ze tří důvodů: bílky musí být odležené, takže je oddělíš den předem, mandle se vmíchávají přesně dlouho (makaronáž) a skořápky musí před pečením zaschnout. Pak vytvoří charakteristickou nožičku. Dvacet čtyři kusů se vejde na malý talíř. Vitrína svítí a chladí, jen v ní nic neleží."
+  ],
+  "price": 11900,
+  "image": "dish-makronky",
+  "recipe": "makronky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 110
+}

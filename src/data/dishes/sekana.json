@@ -1,0 +1,26 @@
+{
+  "name": "Sekaná pečeně",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "description": "Voňavá sekaná z vepřového a hovězího, pečená do zlaté kůrky a krájená na silné plátky. K ní patří kaše a okurka, talíř zůstane u nás.",
+  "about": [
+    "Sekaná je jedno z jídel, které se v každé rodině dělá trochu jinak, ale vždycky stejně: mleté maso se spojí s vejcem, namočenou housku a cibulí a upeče se v jednom bochníku. Směs vepřového a hovězího drží šťávu i chuť, housku v ní nepoznáš, ale bez ní by maso zhutnělo do cihly. Krájí se na silné plátky a ještě druhý den chutná studená na chlebu.",
+    "Doma ji uděláš z toho, co je ve spíži, a druhý den ji máš studenou na chleba s hořčicí. My sekanou pečeme s plnou vážností, přesto ji nikomu neneseme. Vůně z trouby se rozlije po bytě a talíř zůstane čistý, aspoň jsme na něj nic nenaložili. Do trouby ji dáš s hodinovou rezervou, vždyť se přece nikam nespěchá."
+  ],
+  "price": 16900,
+  "image": "dish-sekana",
+  "recipe": "sekana",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 370
+}

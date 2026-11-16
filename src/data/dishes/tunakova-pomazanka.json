@@ -1,0 +1,26 @@
+{
+  "name": "Tuňáková pomazánka",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Studené sendviče",
+  "description": "Pomazánka z tuňáka, smetanového sýra, červené cibule a nakládané okurky. Na opečený chléb, nakrájená na dvě krajíce.",
+  "about": [
+    "Tuňáková pomazánka stojí na dvou věcech: pořádně scezeném tuňákovi a smetanovém sýru, který se s majonézou vyšlehá do hladka. Tuňák se pak rozdělá vidličkou na kousky a smíchá s jemně nakrájenou červenou cibulí a nakládanou okurkou. Je to svačina z toho, co máš ve spíži, bez vaření.",
+    "Dochucuje se citronovou šťávou a pepřem, sůl jen opatrně, protože tuňák i okurky jsou slané. Chutná nejlépe na lehce opečeném chlebu. Hotová je za deset minut, takže stihne přijít dřív než kurýr Nikdo. Dobře scezený tuňák je tajemství, voda by pomazánku rozředila."
+  ],
+  "price": 8900,
+  "image": "dish-tunakova-pomazanka",
+  "recipe": "tunakova-pomazanka",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    4,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 140
+}

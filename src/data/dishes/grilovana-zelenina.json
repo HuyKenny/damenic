@@ -1,0 +1,20 @@
+{
+  "name": "Grilovaná zelenina s balzamikem a bylinkami",
+  "restaurant": "zelena-nula",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Cuketa, lilek, papriky, cibule a žampiony z grilu s balzamikem a bylinkami. Příloha nebo samostatné jídlo pro čtyři.",
+  "about": [],
+  "price": 3900,
+  "image": "dish-grilovana-zelenina",
+  "recipe": "grilovana-zelenina",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    12
+  ],
+  "featured": false,
+  "order": 210
+}

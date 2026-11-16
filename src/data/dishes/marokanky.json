@@ -1,0 +1,26 @@
+{
+  "name": "Marokánky",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Cukroví",
+  "description": "Tenké karamelové placičky s mandlovými plátky, rozinkami a kandovaným ovocem, spodek máčený v hořké čokoládě. Cukroví pro tebe, ne pod stromek.",
+  "about": [
+    "Marokánky jsou karamelové placičky na vánoční stůl. V kastrolu se rozvaří máslo, cukr a smetana, pak se vmíchá mouka, mandlové plátky, rozinky a kandované ovoce. Hmota se nechá trochu zchladnout, aby se lžičkou dala dávkovat. Je to cukroví, které se dělá z pár surovin a chutná zhruba po karamelu.",
+    "Hromádky se dávají na plech s papírem s odstupem alespoň šest centimetrů, protože se při pečení rozteče. Po vychladnutí se spodek namáčí v hořké čokoládě. V dóze vydrží dva týdny, ale ne v lednici, kde by zvlhly. Pod stromkem sice nic nebude, v dóze ano. Peče se vždy jen jeden plech, protože karamel rychle tuhne."
+  ],
+  "price": 7900,
+  "image": "dish-marokanky",
+  "recipe": "marokanky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    8,
+    12
+  ],
+  "featured": false,
+  "order": 110
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Jemná pomazánka na chlebíčky se šunkou a sýrem",
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "kind": "main",
+  "section": "Chlebíčky",
+  "description": "Jemná pomazánka z pomazánkového másla, šunky, eidamu a vajec. Na třicet chlebíčků nebo padesát jednohubek.",
+  "about": [
+    "Pomazánka na chlebíčky je klasika českých oslav. Základem je pomazánkové máslo, do kterého přijde nadrobno nasekaná šunka, eidam a vařená vejce. Z dávky vyjde asi 800 g, na třicet chlebíčků nebo padesát jednohubek. Hodí se na oslavy, kde zmizí dřív, než se stihne dojíst.",
+    "Celý trik je v jemnosti. Šunku a sýr nasekej tak drobně, aby šla natřít v tenké souvislé vrstvě a nedělala hrudky. Pak teprve chlebíček vypadá jako z výlohy a drží pohromadě. Chlebíčkárna Obloženo Ničím ti ho obloží ničím. Šunka je na tom přesto lépe než tvoje lednice."
+  ],
+  "price": 5900,
+  "image": "dish-pomazanka-na-chlebicky",
+  "recipe": "pomazanka-na-chlebicky",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 140
+}

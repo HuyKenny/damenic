@@ -1,0 +1,27 @@
+{
+  "name": "Tatarák z hovězí svíčkové",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Studená kuchyně",
+  "description": "Tatarák z hovězí svíčkové pro dva, dochucený ručně a hotový za půl hodiny. Bez vaření, jen s ostrým nožem.",
+  "about": [
+    "Tatarák je jídlo, které stojí na kvalitě masa. Svíčková se nakrájí nožem na drobné kostičky, ne namele, a smíchá se s cibulkou, kapary, hořčicí, kořením a žloutkem. Dochucení je to, co z něj dělá tatarák, takže se ochutnává a dolaďuje po kouskách. Proto se dělá v malém množství a hned se jí.",
+    "Protože je maso syrové, kupuje se čerstvé od důvěryhodného řezníka, drží se v chladu a zpracuje se těsně před jídlem. Podává se s opečeným chlebem a česnekem. Výčep Zítra ti ho namíchá s vážnou tváří. Jen žloutek nikdy nedorazí a o to víc dbáme na to, aby maso neleželo."
+  ],
+  "price": 23900,
+  "image": "dish-tatarak-hovezi-svickova",
+  "recipe": "tatarak-hovezi-svickova",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    4,
+    10,
+    12
+  ],
+  "featured": false,
+  "order": 380
+}

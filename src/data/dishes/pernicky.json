@@ -1,0 +1,25 @@
+{
+  "name": "Medové perníčky hned měkké",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Cukroví",
+  "description": "Medové perníčky, které jsou měkké hned po upečení. Asi šedesát kousků o průměru pět centimetrů.",
+  "about": [
+    "Tyhle perníčky nemusí týdny odležet v plechovce. Těsto se připraví s medem, jedlou sodou a kořením, vyválí a vykrájí, z dávky vyjde asi šedesát perníčků o průměru pět centimetrů. Měkkost je zajištěna medem a sodou, které těsto udrží vláčné. Zdobí se polevou, nebo se nechají prosté.",
+    "Rozhoduje krátké pečení. Perníčky se vytahují z trouby, dokud jsou na omak ještě měkké, protože dozrají a ztuhnou už na plechu. Přepečené by byly tvrdé a suché. Cukrárna Pod Stromkem Nic má cukroví nazdobené. Pod stromečkem zůstane vzduch, ale vůně se rozlétne po celém bytě."
+  ],
+  "price": 11900,
+  "image": "dish-pernicky",
+  "recipe": "pernicky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 100
+}

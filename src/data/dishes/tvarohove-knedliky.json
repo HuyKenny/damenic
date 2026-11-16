@@ -1,0 +1,25 @@
+{
+  "name": "Tvarohové knedlíky s jahodami",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Sladké jídlo",
+  "description": "Tvarohové knedlíky s jahodami, polité máslem a posypané opraženou strouhankou a cukrem. Sladký oběd, který zítra vyjde.",
+  "about": [
+    "Těsto na tvarohové knedlíky se dělá z tvarohu, krupice, vajec a změklého másla, žádná kynutá chuť, jen rychlé míchání. Krupice musí chvíli nabobtnat, jinak by těsto po vaření povolilo. Kdo má vlhký tvaroh, nechá ho nejdřív okapat v sítku. Vyjde z nich dost knedlíků pro čtyři hladové.",
+    "Do každého knedlíku se zabalí jahoda a vaří se ve vroucí vodě, dokud nevyplavou. Podávají se s máslem, strouhankou opraženou na másle a moučkovým cukrem. Mražené jahody jdou taky, jen se vaří o pár minut déle. Jídelna je smyšlená, sladká strouhanka je skutečná. Ovoce uvnitř změkne v páře a pustí šťávu, která se smísí s máslem."
+  ],
+  "price": 17900,
+  "image": "dish-tvarohove-knedliky",
+  "recipe": "tvarohove-knedliky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 370
+}

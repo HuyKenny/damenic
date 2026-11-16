@@ -1,0 +1,25 @@
+{
+  "name": "Linecký koláč s jablky",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Linecký koláč s nastrouhanými jablky se skořicí a mřížkou z těsta na plechu 20 × 30 cm. Dorty tu krájíme jen ve vzduchu.",
+  "about": [
+    "Linecký koláč má křehký máslový korpus z mouky, másla, moučkového cukru a vajec s citronovou kůrou. Třetina těsta se odloží na mřížku navrch. Jablka se strouhají nahrubo, pokapou citronem a nechají odtéct, aby plnění nenamočilo spodek. Mřížka navrch dělá z obyčejného plechu koláč s vizitkou.",
+    "Na těsto se vrství jablka se skořicí a cukrem, navrch přijde mřížka z pásků těsta a peče se při 180 °C. Vydrží přikrytý dva dny při pokojové teplotě a čtyři v lednici. Mošt z vymačkaných jablek můžeš vypít, pečivo je ale jen na papíře. Hodí se na neděli, protože druhý den je ještě lepší."
+  ],
+  "price": 5900,
+  "image": "dish-linecky-kolac-s-jablky",
+  "recipe": "linecky-kolac-s-jablky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 120
+}

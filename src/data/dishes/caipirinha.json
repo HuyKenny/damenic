@@ -1,0 +1,18 @@
+{
+  "name": "Caipirinha",
+  "restaurant": "koktejlbar-prazdna-sklenka",
+  "kind": "drink",
+  "section": "Klasiky",
+  "description": "Brazilský koktejl z cachaçi, rozmačkané limetky a cukru na drceném ledu. Chuť je svěží, trávová a kyselá, 18+.",
+  "about": [],
+  "price": 13900,
+  "image": "dish-caipirinha",
+  "recipe": "caipirinha",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 140
+}

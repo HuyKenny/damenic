@@ -1,0 +1,18 @@
+{
+  "name": "Tequila sunrise",
+  "restaurant": "koktejlbar-prazdna-sklenka",
+  "kind": "drink",
+  "section": "Spritzy a long drinky",
+  "description": "Tequila, pomerančový džus a grenadina ve sklenici s přechodem od oranžové do červené. Long drink pro 18+, vrstvy v receptu.",
+  "about": [],
+  "price": 13900,
+  "image": "dish-tequila-sunrise",
+  "recipe": "tequila-sunrise",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 160
+}

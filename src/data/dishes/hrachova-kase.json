@@ -1,0 +1,20 @@
+{
+  "name": "Hrachová kaše s osmaženou cibulkou",
+  "restaurant": "prazdna-naberacka",
+  "kind": "side",
+  "section": "K polévce",
+  "description": "Hladká kaše ze žlutého hrachu s česnekem a majoránkou, navrchu osmažená cibulka. Přílohová lžíce, která se vydává jen v receptu.",
+  "about": [],
+  "price": 3900,
+  "image": "dish-hrachova-kase",
+  "recipe": "hrachova-kase",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "featured": false,
+  "order": 370
+}

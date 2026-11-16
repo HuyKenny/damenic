@@ -1,0 +1,25 @@
+{
+  "name": "Vanilkové rohlíčky domácí",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Cukroví",
+  "description": "Křehké máslové rohlíčky s mletými vlašskými ořechy, ještě teplé obalené ve vanilkovém cukru. Dávka dá asi 60 kusů.",
+  "about": [
+    "Vanilkové rohlíčky jsou nejklasičtější české cukroví: máslové těsto s mletými vlašskými ořechy, tvarované do půlměsíčků a obalené ve vanilkovém cukru. Rozpadají se na jazyku a voní vanilkou i máslem. Z jedné dávky vyjde asi šedesát kousků po deseti gramech.",
+    "Těsto musí zůstat studené, jinak se rohlíčky při pečení rozpadnou, a z trouby se vytahují ještě světlé. Vanilkový cukr se nasype, dokud jsou teplé, aby se chytil. Vánočka je spletená, cukroví nazdobené. Pod stromek ale nic nedáme, takže rohlíčky budeš mít jen v hlavě."
+  ],
+  "price": 8900,
+  "image": "dish-vanilkove-rohlicky",
+  "recipe": "vanilkove-rohlicky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 90
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Smažené kuře v podmáslí",
+  "restaurant": "bistro-uletelo",
+  "kind": "main",
+  "section": "Kuře",
+  "description": "Kousky kuřete s kostí naložené v podmáslí a usmažené do hrubé zlaté krusty. Dopéká se v troubě.",
+  "about": [
+    "Jižanské smažené kuře dostává chuť už před smažením. Kousky s kostí se několik hodin marinují v osoleném podmáslí, které maso změkčí a naplní chutí. Potom se válí v kořeněné mouce a smaží, až vznikne hrubá křupavá krusta. Právě krusta z mouky s kořením je to, kvůli čemu se kuře dělá.",
+    "Kuře s kostí se v oleji propeče pomalu, proto se po smažení dopéká v troubě, dokud uvnitř nemá 75 °C. Bez toho by mohla být krusta hotová a maso u kosti ještě ne. Bistro Uletělo má kuře křupavé a stejně mu uletělo. Aspoň tě po cestě nikdo nezastaví na rozcestí."
+  ],
+  "price": 22900,
+  "image": "dish-smazene-kure",
+  "recipe": "smazene-kure",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 170
+}

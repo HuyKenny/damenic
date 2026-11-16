@@ -1,0 +1,26 @@
+{
+  "name": "Žloutkové věnečky",
+  "restaurant": "zitra-upecem",
+  "kind": "main",
+  "section": "Navíc",
+  "description": "Křehké vykrajované věnečky z máslového těsta se žloutky, potřené bílkem a posypané mandlemi. Tradiční vánoční cukroví.",
+  "about": [
+    "Žloutkové věnečky jsou křehké máslové cukroví s vůní citronové kůry a vanilky. Těsto se zpracuje rychle ze mouky, vanilkového a moučkového cukru, másla a tří žloutků, aby se máslo nezahřálo, a pak odpočívá nejméně hodinu v lednici. Citronová kůra a vanilka dodají těstu vůni bez potřeby dalších koření.",
+    "Vyválí se, vykrájí se věnečky, potřou se bílkem a posypou mandlemi s cukrem. Pečou se při 170 °C. V plechové dóze s papírem mezi vrstvami vydrží i několik týdnů. Zítra upečem je naše pravidlo, ty ale můžeš dnes. Bílek navrch drží mandle a dává věnečkům lesk."
+  ],
+  "price": 9900,
+  "image": "dish-zloutkove-venecky",
+  "recipe": "zloutkove-venecky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 130
+}

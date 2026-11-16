@@ -1,0 +1,21 @@
+{
+  "name": "Bramborové knedlíky",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Bramborové knedlíky z vařených brambor, polohrubé mouky a krupice. Příloha k pečenému masu a omáčce.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-bramborove-knedliky",
+  "recipe": "bramborove-knedliky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3
+  ],
+  "featured": false,
+  "order": 410
+}

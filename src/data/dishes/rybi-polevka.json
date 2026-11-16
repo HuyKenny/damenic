@@ -1,0 +1,26 @@
+{
+  "name": "Vánoční rybí polévka z kapra",
+  "restaurant": "chlebova-dutina",
+  "kind": "main",
+  "section": "Z hrnce",
+  "description": "Vánoční polévka z kapřích hlav a ocasů s kořenovou zeleninou a světlou jíškou, s obraným masem v talíři.",
+  "about": [
+    "Rybí polévka je vánoční klasika, která se vaří z toho, co z kapra zbude. Z hlav a ocasů se uvaří vývar s kořením a zeleninou, scedí se přes plátno a maso se obere z kostí. Do čistého vývaru přijde čerstvá kořenová zelenina a světlá jíška, která polévku jemně zahustí.",
+    "Žábry se musí vyříznout pečlivě, protože jinak polévka zhořkne a dobrý vývar je pryč. Rybí chuť je tady čistá a výrazná, ale ne přehnaná. Vyjde šest talířů a doma se jí o Štědrém večeru. Chleba je vydlabaný, polévka v něm zatím chybí. Zatím sis ji objednal jen v nápadu."
+  ],
+  "price": 9900,
+  "image": "dish-rybi-polevka",
+  "recipe": "rybi-polevka",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    4,
+    7,
+    9
+  ],
+  "featured": false,
+  "order": 220
+}

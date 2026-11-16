@@ -1,0 +1,21 @@
+{
+  "name": "Vepřová pečeně na kmíně",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Pečeně z vepřového karé na kmíně a česneku, pečená na cibuli. Šest porcí a omáčka ze šťávy v pekáči.",
+  "about": [
+    "Vepřová pečeně patří k nedělnímu obědu spolu se zelím a knedlíkem. Karé se potře kmínem, solí a česnekem, položí na cibuli a podleje vodou. Ze šťávy a cibule se pak udělá omáčka, takže kromě masa nepotřebuješ skoro nic dalšího. Je to jídlo, které se dělá dlouho a obsluhuje se samo.",
+    "Karé je libové a snadno se přepeče. Proto pomůže teploměr: maso vytáhni při 63 až 68 °C a nech ho čtvrt hodiny odpočinout, aby se šťáva rozlila zpátky do vlákniny. U Výčepu Zítra pečeni voní celý tácek, který ti nedonesou. Čárka na něj ale přibude jen v hlavě."
+  ],
+  "price": 17900,
+  "image": "dish-veprova-pecene",
+  "recipe": "veprova-pecene",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 350
+}

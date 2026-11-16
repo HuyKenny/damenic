@@ -1,0 +1,25 @@
+{
+  "name": "Pivní sýr, hospodská pomazánka z taveného sýra",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Studená kuchyně",
+  "description": "Hospodská pomazánka z taveného sýra, másla, cibule a piva, čtyři hodiny odpočívající v lednici. Jen pro dospělé.",
+  "about": [
+    "Pivní sýr je jedna z těch pomazánek, které se mazaly na chleba v hospodách k pivu. Tavený sýr se mixuje s máslem, jemně nakrájenou cibulí a trochou piva, které dodá hořkost a lehkou kyselost. Výsledek je krémový, slaný a trochu štiplavý od cibule. Hodí se na chleba, rohlík i k zelenině.",
+    "Musí odpočívat čtyři hodiny v lednici, aby se chutě spojily, takže ho nejde udělat na poslední chvíli. Obsahuje pivo, takže je jen pro dospělé. U nás si ho jen přečteš a hospoda zůstane prázdná. Tácek čárkujeme, talíř nepřineseme a o chleba se postaráš sám."
+  ],
+  "price": 7900,
+  "image": "dish-pivni-syr",
+  "recipe": "pivni-syr",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 430
+}

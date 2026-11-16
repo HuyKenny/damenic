@@ -1,0 +1,22 @@
+{
+  "name": "Karlovarský knedlík",
+  "restaurant": "vycep-zitra",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Váleček z rohlíků, mléka a vajec s petrželkou, uvařený ve fólii a nakrájený na plátky. Příloha k omáčce, ne k doručení.",
+  "about": [],
+  "price": 6900,
+  "image": "dish-karlovarsky-knedlik",
+  "recipe": "karlovarsky-knedlik",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 390
+}

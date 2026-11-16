@@ -1,0 +1,21 @@
+{
+  "name": "Dušená kapusta",
+  "restaurant": "hostinec-za-hranici-nic",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Jemně dušená kapusta s cibulí, jíškou a kmínem, příloha k bramborám, vejcím i pečenému masu.",
+  "about": [],
+  "price": 3900,
+  "image": "dish-dusena-kapusta",
+  "recipe": "dusena-kapusta",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 420
+}

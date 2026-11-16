@@ -1,0 +1,18 @@
+{
+  "name": "Dušené kysané zelí",
+  "restaurant": "hostinec-za-hranici-nic",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Kysané zelí dušené s cibulí a kmínem, zahuštěné syrovým bramborem. Příloha k pečenému masu a knedlíkům.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-dusene-kysane-zeli",
+  "recipe": "dusene-kysane-zeli",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 430
+}

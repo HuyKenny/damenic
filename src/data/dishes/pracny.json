@@ -1,0 +1,26 @@
+{
+  "name": "Pracny",
+  "restaurant": "zitra-upecem",
+  "kind": "main",
+  "section": "Navíc",
+  "description": "Křehké pracny z máslového těsta s vlašskými ořechy a skořicí, obalené ve vanilkovém cukru. Asi padesát kusů.",
+  "about": [
+    "Pracny jsou vánoční cukroví z máslového těsta, do kterého se přimíchají mleté vlašské ořechy a skořice. Těsto se vtlačí do vroubkovaných formiček a upeče. Po upečení se obalí ve vanilkovém cukru. Z dávky vyjde asi padesát kusů. Mají máslovou chuť s ořechovou stopou.",
+    "Těsto musí být ve formičkách tenké, aby se pracny upekly rovnoměrně a byly křehké. Vyklápějí se, dokud jsou teplé, protože studené by se ze vzorované formy daly dostat jen s drobením. Zítra Upeču je upeče zítra. A zítra je pořád jen zítra. Dají se uchovat v plechovce a vydrží celé Vánoce."
+  ],
+  "price": 9900,
+  "image": "dish-pracny",
+  "recipe": "pracny",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 150
+}

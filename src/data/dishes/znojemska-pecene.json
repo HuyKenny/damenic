@@ -1,0 +1,23 @@
+{
+  "name": "Znojemská pečeně s rýží",
+  "restaurant": "hostinec-za-hranici-nic",
+  "kind": "main",
+  "section": "Polsko a Rakousko",
+  "description": "Dušené plátky hovězího zadního v cibulové omáčce s nakládanými okurkami, podávané s rýží.",
+  "about": [
+    "Znojemská pečeně je dušené hovězí, které se podává v hustší cibulové omáčce s nakládanými okurkami. Plátky se orestují a pak dusí do měkka přibližně hodinu a půl. Hotové maso se rozpadá a omáčka je plná sladké cibule. Je to jídlo, které se nedá spěchat.",
+    "Okurky s nálevem přijdou do omáčky až těsně před koncem. Zachovají si chrupavost a omáčka získá příjemnou kyselost, která vyvažuje maso. K tomu se podává rýže, která omáčku nasaje. Hostinec za Hranici Nic ti pečeni nepošle přes hranici, ale recept se přes ni dostane bez celní kontroly."
+  ],
+  "price": 20900,
+  "image": "dish-znojemska-pecene",
+  "recipe": "znojemska-pecene",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "featured": false,
+  "order": 380
+}

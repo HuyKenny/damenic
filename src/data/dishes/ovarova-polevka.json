@@ -1,0 +1,24 @@
+{
+  "name": "Ovarová polévka s kroupami",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Hustá polévka z vývaru z vepřového kolena a bůčku, zahuštěná kroupami a dochucená česnekem a majoránkou.",
+  "about": [
+    "Ovarová polévka je zbytkové jídlo v tom nejlepším slova smyslu. Z vepřového kolena a bůčku se tři hodiny vaří vývar, do kterého se potom přidají kroupy a vypustí se z něj chuť a tuk. Maso se obere a zůstane na talíři vedle, takže z jednoho hrnce máš dva chody najednou.",
+    "Doma se dělala po zabijačce, dnes spíš když se chce vařit pořádně a nemusí se spěchat. Česnek a majoránka přijdou na konec a polévka dostane tu pravou vůni. U nás se nevaří nic, ale vývar stejně stojí na plotně celé tři hodiny. Naběračku máme, hrnec je zatím jen v receptu."
+  ],
+  "price": 9900,
+  "image": "dish-ovarova-polevka",
+  "recipe": "ovarova-polevka",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    9
+  ],
+  "featured": false,
+  "order": 380
+}

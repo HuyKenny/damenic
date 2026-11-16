@@ -1,0 +1,18 @@
+{
+  "name": "Svařený jablečný mošt (nealko svařák)",
+  "restaurant": "stanek-zahrejem-zitra",
+  "kind": "drink",
+  "section": "Svařáky",
+  "description": "Nealkoholický svařák z jablečného moštu se skořicí, hřebíčkem, zázvorem a pomerančem pro čtyři hrnky.",
+  "about": [],
+  "price": 7900,
+  "image": "dish-svareny-most",
+  "recipe": "svareny-most",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 100
+}

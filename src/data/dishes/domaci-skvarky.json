@@ -1,0 +1,21 @@
+{
+  "name": "Domácí škvarky ze sádla",
+  "restaurant": "hostinec-za-hranici-nic",
+  "kind": "main",
+  "section": "Přílohy",
+  "description": "Křupavé zlaté škvarky z pomalu vypečeného hřbetního sádla. Z kila tuku vznikne asi 600 ml sádla a 300 g škvarků.",
+  "about": [
+    "Škvarky jsou to, co zbude po pomalém vypečení sádla: křupavé zlaté kousky, které se dají jíst jako přílohu, přidat do těsta nebo rozdrtit do pomazánky. Hřbetní sádlo se nakrájí na malé kostky a praží se na mírném plameni, dokud neuvolní tuk a nezačne ztmavat.",
+    "Celé tajemství je nespěchat. Vyšší plamen škvarky spálí, zhořknou a zkazí i sádlo. Pomalu a pod stálým dozorem vznikne čisté bílé sádlo a zlaté škvarky, které stačí ještě osolit. Za kilo tuku jich vyjde asi třetina. Hostinec je u hranice, ale jídlo se vždycky dojí dřív, než tam dojdeš."
+  ],
+  "price": 7900,
+  "image": "dish-domaci-skvarky",
+  "recipe": "domaci-skvarky",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 450
+}

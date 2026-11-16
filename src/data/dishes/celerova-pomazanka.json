@@ -1,0 +1,26 @@
+{
+  "name": "Celerová pomazánka na chlebíčky",
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "kind": "main",
+  "section": "Chlebíčky",
+  "description": "Pomazánka ze syrového celeru, eidamu a majonézy s jogurtem, odležená v lednici. Na chlebíčky, které stále nic nedoručí.",
+  "about": [
+    "Celerová pomazánka je trochu zapomenutá klasika českých chlebíčků. Syrový celer se strouhá najemno a hned se pokapává citronem, aby nezhnědl. Smíchá se s eidamem a majonézou zředěnou jogurtem a dochutí solí, pepřem a špetkou cukru. Celer je v ní hlavní hrdina, který si na chuť umí počkat.",
+    "Nejdůležitější je trpělivost: pomazánka potřebuje v lednici alespoň hodinu, aby celer změkl a pustil chuť. Druhý den bývá nejlepší. Obloženo je tu ničím, ale zato s chutí, které se nejde vyhnout. Vydrží dva dny v uzavřené dóze v lednici a druhý den chutná nejlépe."
+  ],
+  "price": 5900,
+  "image": "dish-celerova-pomazanka",
+  "recipe": "celerova-pomazanka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    9,
+    10
+  ],
+  "featured": false,
+  "order": 150
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Boží milosti",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Kynuté a smažené",
+  "description": "Tenké křehké placičky z máslového těsta se zakysanou smetanou, smažené a obalené v cukru. Asi čtyřicet kousků.",
+  "about": [
+    "Boží milosti jsou masopustní pečivo: tenké křehké placičky z máslového těsta se zakysanou smetanou. Těsto se vyválí, vykrájí na tvary, smaží na oleji a ještě teplé se obalí v cukru. Z dávky vyjde zhruba čtyřicet kousků. Jsou sladké, jemně slané a rozpadají se v ústech.",
+    "Těsto se válí na jeden až dva milimetry a smaží při 170 °C. Silnější placky nasáknou tukem, příliš horký olej je zhnědí dřív, než se propečou. Správné boží milosti jsou světlé, lehké a křupou. Cukrárna Koláč na Slib slibuje koláč. Slovo drží aspoň v receptu."
+  ],
+  "price": 6900,
+  "image": "dish-bozi-milosti",
+  "recipe": "bozi-milosti",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 90
+}

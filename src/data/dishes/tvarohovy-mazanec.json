@@ -1,0 +1,27 @@
+{
+  "name": "Tvarohový mazanec bez kynutí",
+  "restaurant": "pekarna-zitra-upecem",
+  "kind": "main",
+  "section": "Máslové a slané",
+  "description": "Tvarohový mazanec bez kynutí s rozinkami a mandlovými plátky, upečený za hodinu a čtvrt. Pec je rozpálená.",
+  "about": [
+    "Tvarohový mazanec je zkratka k velikonočnímu pečivu: místo droždí kypří prášek do pečiva, takže se nemusí čekat na kynutí. Těsto z mouky, tvarohu, másla, vajec, citronové kůry a rozinek se zpracuje vařečkou a rukama, jen do hladkého. Povrch má být zlatavý a uvnitř tak akorát vláčný.",
+    "Rozdělí se na dva kulaté bochánky, potřou se vejcem a posypou mandlovými plátky. Mokrý tvaroh nech nejdřív okapat, jinak potřebuje těsto víc mouky a mazanec zhutní. Hotový je zhruba za hodinu a čtvrt. Pečivo zůstává ve výloze, ale recept je tvůj. Těsto hněť jen tak dlouho, než se spojí, jinak zhoustne."
+  ],
+  "price": 6900,
+  "image": "dish-tvarohovy-mazanec",
+  "recipe": "tvarohovy-mazanec",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8,
+    12
+  ],
+  "featured": false,
+  "order": 110
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Šopský salát",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "description": "Rajčata, okurka, paprika a cibule se zálivkou ze slunečnicového oleje a octa, zasypaná najemno nastrouhaným sýrem sirene.",
+  "about": [
+    "Šopský salát je bulharská klasika, která na talíři vypadá jako zasněžená zelenina. Rajčata, okurka, paprika, cibule a petržel se zalijí olejem a octem a navrch přijde sirene, sýr podobný fetě, nastrouhaný nadrobno. Zálivka je jednoduchá: slunečnicový olej, vinný ocet a sůl.",
+    "Důležité je, že sýr se nekrájí na kostky, ale strouhá, aby zeleninu zakryl jako sníh. Pak se jí dohromady s chlebem a hlavně studený. V salátbaru nepřivážíme ani lísteček, natož celou misku. Sníh je ale smyšlený stejně jako všechno ostatní a hlad máš nanečisto."
+  ],
+  "price": 13900,
+  "image": "dish-sopsky-salat",
+  "recipe": "sopsky-salat",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 250
+}

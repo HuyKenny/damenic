@@ -1,0 +1,24 @@
+{
+  "name": "Kuba z krup a sušených hub",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Hustší jídla",
+  "description": "Zapečená směs ječných krup a sušených hub s cibulí, česnekem a majoránkou, vláčná uvnitř a zlatá navrchu. Jí se v Čechách o Štědrém večeru.",
+  "about": [
+    "Kuba je jedno z nejstarších českých štědrodenních jídel a dnes na ni skoro nikdo nenarazí mimo babiččinu kuchyni. Ječné kroupy se uvaří domíkka, smíchají se s dušenými sušenými houbami, cibulí a česnekem a ochutí majoránkou. Pak se všechno zapeče do zlaté kůrky. Chuť je lesní, hřejivá a trochu zemitá.",
+    "Důležité je, aby hmota nebyla suchá, jinak se při krájení rozpadne. Kroupy mají vsáknout vodu z hub a zůstat vlhké, ne mazlavé. Za to nemůže nikdo jiný než ten, kdo ji míchá. U nás míchá nikdo a kuba vychází vždycky dokonale, protože se nikdy neupeče."
+  ],
+  "price": 15900,
+  "image": "dish-kuba",
+  "recipe": "kuba",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 350
+}

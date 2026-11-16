@@ -1,0 +1,22 @@
+{
+  "name": "Velikonoční nádivka bez masa",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Nádivka z rohlíků a vajec bez masa, s žampiony, špenátem a jarní cibulkou. Zahrádka sklizená, rozvoz zatím ne.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-velikonocni-nadivka-bez-masa",
+  "recipe": "velikonocni-nadivka-bez-masa",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 230
+}

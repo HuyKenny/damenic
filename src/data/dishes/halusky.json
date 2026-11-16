@@ -1,0 +1,25 @@
+{
+  "name": "Bryndzové halušky se slaninou",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Hustší jídla",
+  "description": "Bryndzové halušky z nastrouhaných brambor a hrubé mouky, smíchané s bryndzou a posypané opečenou slaninou a pažitkou.",
+  "about": [
+    "Halušky jsou slovenská klasika z bramborového těsta, které se nestrouhá, nehněte ani nekrájí, ale tlačí přes struhadlo nebo halušečník rovnou do vroucí osolené vody. Hotové se vyplavou na hladinu a odtáhnou se do mísy s bryndzou. Hrubá mouka dělá halušky pevnější, ale s polohrubou to jde taky.",
+    "Bryndza má být pokojově teplá, jinak se halušky slepí. Slanina se opéká na suché pánvi, dokud nepustí tuk, a polévá se jím celý talíř. Hrnec je smyšlený, naběračka taky, jen chuť zůstává skutečná: kyselá, slaná a mastná tak akorát. Pažitka na konec dodá svěžest a dobrý důvod nic nechtít nosit."
+  ],
+  "price": 24900,
+  "image": "dish-halusky",
+  "recipe": "halusky",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 340
+}

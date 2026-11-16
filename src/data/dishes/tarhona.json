@@ -1,0 +1,21 @@
+{
+  "name": "Tarhoňa s paprikou a cibulkou",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Tarhoňa s paprikou a cibulkou, opečená na tuku a zalitá vývarem. Příloha ke guláši, nebo samostatné lehké jídlo.",
+  "about": [],
+  "price": 3900,
+  "image": "dish-tarhona",
+  "recipe": "tarhona",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    9
+  ],
+  "featured": false,
+  "order": 400
+}

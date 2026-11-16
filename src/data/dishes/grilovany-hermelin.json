@@ -1,0 +1,24 @@
+{
+  "name": "Grilovaný hermelín s česnekem a chilli",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Teplá jídla",
+  "description": "Hermelín plněný česnekem, cibulí a chilli, marinovaný v oleji a pečený v misce nebo alobalu.",
+  "about": [
+    "Grilovaný hermelín je jednoduchý předkrm k pivu nebo večerním grilování. Sýr se naplní česnekem, cibulí a chilli, zamarinuje v oleji a upeče v misce nebo zabalený v alobalu. Chilli dodá teplo, česnek vůni a cibule sladkost. Podává se s chlebem, který nasaje olej s chilli.",
+    "Celé umění je vytáhnout ho z grilu ve správnou chvíli. Uvnitř musí být měkký a krémový, ale kůrka ho ještě udrží pohromadě. Když se necháš zlákat o minutu navíc, rozteče se na rošt. Zelená Nula má sice zeleninu, ale hermelín tvrdí, že je taky trochu zelený: hlavně z okolí."
+  ],
+  "price": 5900,
+  "image": "dish-grilovany-hermelin",
+  "recipe": "grilovany-hermelin",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 220
+}

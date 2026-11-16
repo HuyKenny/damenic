@@ -1,0 +1,25 @@
+{
+  "name": "Velikonoční beránek",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Štrúdl a dorty",
+  "description": "Vláčný beránek z třeného těsta s máslem a citronovou kůrou. Na jednu formu o objemu asi litr.",
+  "about": [
+    "Velikonoční beránek se peče z třeného těsta s máslem, vejci a citronovou kůrou. Je vláčný, jemně voňavý a těsto je hustší než piškotové, takže hlava a tvar drží. Peče se v jedné formě o objemu asi jeden litr a po upečení se posype moučkovým cukrem. Tvar se získá z formy, kterou je potřeba správně připravit.",
+    "Nejtěžší je beránka vyklopit celého. Forma musí být pečlivě vymazaná a vysypaná a beránek musí ve formě chvíli zchladnout, aby se těsto zpevnilo. Teprve potom se opatrně vyklopí. Cukrárna Nedortík ti ho nabídne do tašky. Taška ale zůstane lehká jako slib."
+  ],
+  "price": 8900,
+  "image": "dish-velikonocni-beranek",
+  "recipe": "velikonocni-beranek",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 170
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Dýňové muffiny se skořicí",
+  "restaurant": "zitra-upecem",
+  "kind": "main",
+  "section": "Brownies a muffiny",
+  "description": "Vláčné muffiny z pyré z dýně hokkaido se skořicí a perníkovým kořením, vyjde jich dvanáct.",
+  "about": [
+    "Dýňové muffiny jsou podzimní pečení: pyré z dýně hokkaido, skořice a perníkové koření dodají těstu oranžovou barvu a teplou vůni. Pyré drží muffiny vláčné i třetí den, takže jsou dobré i do školy nebo na cestu. Z dávky vyjde dvanáct kousků. Dobře se hodí k čaji nebo ke kávě.",
+    "Těsto se míchá jen krátce, dokud se mouka nespojí. Dlouhé míchání dělá z muffinů tvrdé hrudky s tunely uvnitř. Hokkaido se nemusí loupat, což pomáhá při pečení po večerech. Pekárna je smyšlená, a tak zítra upečeme zase zítra. Muffiny ale vyjdou vždycky, protože se nikdy nezačnou."
+  ],
+  "price": 6900,
+  "image": "dish-dynove-muffiny",
+  "recipe": "dynove-muffiny",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 110
+}

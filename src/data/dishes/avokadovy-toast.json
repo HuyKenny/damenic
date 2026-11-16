@@ -1,0 +1,24 @@
+{
+  "name": "Avokádový toast s vejcem",
+  "restaurant": "na-lacno",
+  "kind": "main",
+  "section": "Brunch",
+  "description": "Kváskový chléb opečený dokřupava s rozmačkaným avokádem, limetkou, chilli a vejcem, pošírovaným nebo sázeným.",
+  "about": [
+    "Avokádový toast vypadá jednoduše a taky je. Kváskový chléb se opeče dokřupava, aby pod avokádem nezměkl, avokádo se rozmačká s limetkou a chilli a navrch přijde vejce. Pošírované se žloutkem, který teče po avokádu, nebo sázené, když nechceš vařit vodu.",
+    "Rozhoduje zralost avokáda: tvrdé nechce nikdo, přezrálé je kaše. Limetka drží barvu a chilli dodává ostrost, takže toast chutná svěže i bohatě zároveň. Brunch je prý nejlepší jídlo, na které jdeš pozdě. U nás nepřijdeš pozdě ani brzy, odejdeš přesně tak, jak jsi přišel: na lačno."
+  ],
+  "price": 14900,
+  "image": "dish-avokadovy-toast",
+  "recipe": "avokadovy-toast",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3
+  ],
+  "featured": false,
+  "order": 120
+}

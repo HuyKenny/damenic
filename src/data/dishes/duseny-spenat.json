@@ -1,0 +1,21 @@
+{
+  "name": "Dušený špenát",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Dušený špenát z mraženého listu zavařený lehkou jíškou, klasická příloha k vejci a bramborům.",
+  "about": [],
+  "price": 6900,
+  "image": "dish-duseny-spenat",
+  "recipe": "duseny-spenat",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 410
+}

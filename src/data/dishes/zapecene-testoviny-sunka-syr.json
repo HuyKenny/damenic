@@ -1,0 +1,25 @@
+{
+  "name": "Zapečené těstoviny se šunkou a sýrem",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Polední menu",
+  "description": "Zapečené těstoviny se šunkou a sýrem pod křupavou sýrovou kůrkou, hotové do tří čtvrtě hodiny. Pekáček zůstane prázdný.",
+  "about": [
+    "Zapečené těstoviny jsou čistě pragmatická kuchyně: předvařené penne nebo makarony, kostky šunky, hodně sýra a zálivka z vajec, smetany a mléka. V troubě se zálivka srazí a spojí těstoviny do celku, který se dá nakrájet jako pudink a nevyteče z talíře.",
+    "Dobré jsou ještě druhý den ohřáté na pánvi a zlatavé hrany jsou nejlepší část. Je to oběd pro ty, kdo mají hlad a málo času a lednici s ohlodanými zbytky. My tu máme polední menu a lednici, ve které je tentokrát leda ticho. Dnešní menu dojde zítra, možná."
+  ],
+  "price": 17900,
+  "image": "dish-zapecene-testoviny-sunka-syr",
+  "recipe": "zapecene-testoviny-sunka-syr",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 350
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Cuketová buchta s kakaem a ořechy",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Šťavnatá kakaová buchta s vlašskými ořechy a čokoládovou polevou. Z pekáče 20 × 30 cm patnáct kusů.",
+  "about": [
+    "Cuketová buchta je kakaová buchta s vlašskými ořechy a čokoládovou polevou. Cuketa v ní není cítit, jen drží těsto vlhké a měkké. Péct se dá v pekáči 20 × 30 cm a vyjde patnáct kusů. Je to kakaové koláčové pečivo, které se krájí na čtverce. Poleva ztuhne za pár minut a buchta se pak krájí na čtverce.",
+    "Cuketu stačí najemno nastrouhat a jen lehce vymačkat. Když ji vymáčkneš dosucha, buchta ztratí šťavnatost, když vůbec, vznikne mokré těsto. Poleva přijde na vychladlý korpus. Cukrárna Nedortík by ti buchtu ráda nakrájela. Ale nůž máme jen na vzduch. Obyčejná buchta se tak snadno změní v něco, co zmizí rychle."
+  ],
+  "price": 7900,
+  "image": "dish-cuketova-buchta",
+  "recipe": "cuketova-buchta",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    8
+  ],
+  "featured": false,
+  "order": 140
+}

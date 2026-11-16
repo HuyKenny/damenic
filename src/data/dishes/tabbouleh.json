@@ -1,0 +1,23 @@
+{
+  "name": "Tabbouleh",
+  "restaurant": "prazdna-misa",
+  "kind": "main",
+  "section": "Talíře a mezze",
+  "description": "Libanonský salát z petrželky, máty, rajčat a trochy bulguru s citronem a olivovým olejem. Hotový za půl hodiny.",
+  "about": [
+    "Tabbouleh je libanonský salát, ve kterém je víc zeleně než obilí. Základ tvoří velké množství najemno nasekané petrželky a máty, k tomu rajčata, cibulka a malá hrst bulguru. Dochutí se citronovou šťávou, olejem a solí. Bulgur tu jen vsakuje šťávu a drží salát pohromadě.",
+    "Je to hlavně zelený salát, ne bulgurový, a tak se i krájí: bylinky se sekají ostrým nožem, ne mixérem, aby se nezkasaly. Hotový je za půl hodiny a vydrží celý den v lednici. Prázdná Mísa ti nabídne mezze pro celou partu. Mísa je zatím prázdná, ale bylinky voní za všechny."
+  ],
+  "price": 11900,
+  "image": "dish-tabbouleh",
+  "recipe": "tabbouleh",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "featured": false,
+  "order": 120
+}

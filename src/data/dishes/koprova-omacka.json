@@ -1,0 +1,22 @@
+{
+  "name": "Koprová omáčka s hovězím masem",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Koprová omáčka z vývaru z hovězího masa, zahuštěná máselnou jíškou, s čerstvým koprem, vařeným hovězím a houskovým knedlíkem.",
+  "about": [],
+  "price": 2900,
+  "image": "dish-koprova-omacka",
+  "recipe": "koprova-omacka",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9
+  ],
+  "featured": false,
+  "order": 430
+}

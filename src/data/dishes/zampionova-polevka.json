@@ -1,0 +1,25 @@
+{
+  "name": "Krémová žampionová polévka",
+  "restaurant": "chlebova-dutina",
+  "kind": "main",
+  "section": "Krémové",
+  "description": "Hladká krémová polévka ze žampionů, brambor a smetany. Hotová za 45 minut.",
+  "about": [
+    "Žampionová polévka je hladká, hustá a voní po lese, i když jsou žampiony z obchodu. Houby se pokrájí, uvaří s bramborami a rozmixují a nakonec se zjemní smetanou. Podává se horká, často s opečeným chlebem a zelenou petrželkou. Hotová je za 45 minut a vystačí na celou rodinu.",
+    "Chuť se zlepší, když žampiony nejdřív opečeš na suché horké pánvi. Voda se z nich odpaří, houby zhnědnou a získají hlubší vůni, kterou by v hrnci s vodou nikdy nenabraly. Chlebová Dutina polévku sice nabízí, ale chleba je vydlabaný. Až do zítřka tak čeká, až si jeho dutinu naplníš sám."
+  ],
+  "price": 8900,
+  "image": "dish-zampionova-polevka",
+  "recipe": "zampionova-polevka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9
+  ],
+  "featured": false,
+  "order": 230
+}

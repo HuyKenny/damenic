@@ -1,0 +1,27 @@
+{
+  "name": "Bánh mì s karamelizovaným vepřovým",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Teplé sendviče",
+  "description": "Vietnamská bageta s karamelizovaným vepřovým, nakládanou mrkví a ředkví, okurkou, koriandrem a sriracha majonézou.",
+  "about": [
+    "Bánh mì je bageta, ve které se potkají tři světy: sladkoslané maso z pánve, kyselá nakládaná zelenina a pálivá majonéza. Vepřová krkovice se marinuje v rybí a sójové omáčce s česnekem a citronovou trávou a opéká se na vysokém plameni po dávkách. Nejdůležitější je poměr: maso sladké, zelenina kyselá, majonéza pálivá.",
+    "Mrkev a bílá ředkev se nakrájí na nudličky, zalijí octovým nálevem a nechají odpočinout. Bageta se ohřeje, aby kůrka zakřupala, potře majonézou a naplní se vším najednou. Mezi krajíci je tu sice nic, ale tohle nic je pečlivě naložené. Koriandr, okurka a chilli přijdou navrch, jarní cibulka na závěr."
+  ],
+  "price": 15900,
+  "image": "dish-banh-mi",
+  "recipe": "banh-mi",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    4,
+    6,
+    10
+  ],
+  "featured": false,
+  "order": 110
+}

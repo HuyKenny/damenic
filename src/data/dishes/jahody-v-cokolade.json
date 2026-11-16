@@ -1,0 +1,23 @@
+{
+  "name": "Jahody v čokoládě",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Studené dezerty",
+  "description": "Čerstvé jahody v krustě z hořké čokolády s proužky bílé čokolády. Dezert na dvě minuty a půl hodiny schnutí.",
+  "about": [
+    "Jahody v čokoládě jsou jednoduchý dezert, který záleží na jedné věci: jahody musí být úplně suché. Opláchnuté se nechají oschnout alespoň půl hodiny a osuší se jedna po druhé. Voda by čokoládu srazila. Chuť sladké jahody a hořké čokolády funguje i bez večeře.",
+    "Hořká čokoláda se rozpustí nad párou, odložená třetina se vmíchá, aby čokoláda zůstala lesklá a křupavá, a jahody se namáčejí a odkládají na papír. Bílou čokoládou se pak přetrhají proužky. Do šesti hodin jsou nejlepší. Sladká tečka za večeří, kterou jsi taky nedostal. Nejlepší jsou do šesti hodin, pak čokoláda začne oroset."
+  ],
+  "price": 10900,
+  "image": "dish-jahody-v-cokolade",
+  "recipe": "jahody-v-cokolade",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 130
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Šunkofleky",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Polední menu",
+  "description": "Zapečené široké flíčky se šunkou ve vaječno-smetanové zálivce, posypané eidamem. Polední menu, které se vydává jen v receptu.",
+  "about": [
+    "Šunkofleky patří k české kuchyni na každý den: široké těstoviny se vaří o dvě minuty kratší dobu, smíchají se s kostičkami šunky a zalijí zálivkou z vajec, smetany a mléka s muškátovým oříškem. Navrch přijde eidam a všechno se zapéká při 180 °C. Dobře se vyrábí z toho, co zbylo, a hotovo je za necelou hodinu.",
+    "Zálivka se lije na mírně vychladlé fleky, aby se vejce nesrazilo předčasně. Hotová je zapečenina se zlatou kůrkou a krémem uvnitř, pro čtyři jedlíky. Jídelna je smyšlená, ale oběd, který stačí na dvě porce, je to celkem věrohodné. Navrch se dá posypat petrželkou, pro barvu i pro svědomí."
+  ],
+  "price": 15900,
+  "image": "dish-sunkofleky",
+  "recipe": "sunkofleky",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 340
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Kuřecí řízek",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Minutky",
+  "description": "Kuřecí řízek z prsou v křupavém trojobalu, s plátkem citronu. Zlatý a tenký, ale jen na papíře.",
+  "about": [
+    "Kuřecí prsa se rozkrojí na plátky a naklepou na stejnou tloušťku, aby se řízek upekl rovnoměrně a nevyschl. Pak přijde klasický trojobal: mouka, vejce rozšlehané s mlékem a strouhanka. Smaží se na 160 až 170 °C v oleji do výšky asi centimetru. Z šesti set gramů prsou vyjde osm plátků, takže stačí pro čtyři.",
+    "Obal se nemá tlačit, jen přitisknout, a smažit se má hned, dokud se nenamočí. Kdo to udělá správně, dostane řízek, který se vlní od masa jako malá sukně. Kdo čeká na kurýra, dostane jen vůni z receptu. Podává se s citronem, který se vymačká až na talíři."
+  ],
+  "price": 16900,
+  "image": "dish-kureci-rizek",
+  "recipe": "kureci-rizek",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 390
+}

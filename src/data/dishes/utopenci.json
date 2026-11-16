@@ -1,0 +1,21 @@
+{
+  "name": "Utopenci (nakládané špekáčky)",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Studená kuchyně",
+  "description": "Špekáčky nakládané v octovém nálevu s cibulí, česnekem a chilli. Hospodská zakousnutí, která si uděláš jen doma.",
+  "about": [
+    "Utopenci jsou nařezané špekáčky, které se naloží do octového nálevu s cibulí, bobkovým listem, nového koření a celým pepřem. Nálev se krátce svaří z vody, octa, cukru a soli a musí úplně vychladnout, jinak špekáčky změknou. Je to přesně ten druh jídla, který zapadne ke sklenici a lavici.",
+    "Do sklenice se vrství špekáčky s cibulí, česnekem a kouskem chilli a zalijí se tak, aby byly pod hladinou. Chutnají po pár dnech v lednici a vydrží týden. Tácek čárkujeme, utopence jen odpočítáváme. Sklenice musí být vyvařená a špekáčky celé pod nálevem."
+  ],
+  "price": 5900,
+  "image": "dish-utopenci",
+  "recipe": "utopenci",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 420
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Adžarské chačapuri (gruzínská sýrová loďka s vejcem)",
+  "restaurant": "hostinec-za-hranici-nic",
+  "kind": "main",
+  "section": "Balkán",
+  "description": "Gruzínská loďka z kynutého těsta plněná mozzarellou a fetou, s vajíčkem uprostřed. Žloutek zůstává tekutý, talíř prázdný.",
+  "about": [
+    "Adžarské chačapuri je chleba ve tvaru loďky, kterou plní sýr a uprostřed se do ní rozbije vejce. Těsto je kynuté, vyválí se do oválu a okraje se srolují ke středu. V této verzi plní loďku mozzarella s fetou, které dohromady dávají slanou a tahavou náplň. Je to jídlo, které se trhá rukama a namáčí do vlastního sýra.",
+    "Peče se v troubě rozpálené na 230 °C, protože těsto má zhnědnout dřív, než sýr vyschne. Vejce přijde dovnitř až v závěru a žloutek se rozmíchá s kouskem másla. Hranice je smyšlená, ale máslo na pečivu opravdu hřeje, i když ho nikdo nedoveze. Kdo se bojí syrového žloutku, nechá loďku v troubě ještě pár minut."
+  ],
+  "price": 24900,
+  "image": "dish-chacapuri",
+  "recipe": "chacapuri",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 390
+}

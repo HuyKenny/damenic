@@ -1,0 +1,25 @@
+{
+  "name": "Kynuté buchty s povidly, tvarohem a mákem",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Kynuté a smažené",
+  "description": "Kynuté buchty se třemi náplněmi: povidla, tvaroh a mák. Pečou se v pekáči a koláč se slibuje jen v receptu.",
+  "about": [
+    "Kynuté buchty se dělají z jednoho těsta s mlékem, droždím, vejcem a máslem, které se nechá hodinu kynout. Z těsta se tvarují kuličky, naplní povidly, sladkým tvarohem nebo makovou kaší a kladou se těsně vedle sebe do pekáče. Z jedné dávky těsta vyjde celá várka do pekáče 25 × 35 cm.",
+    "Mléko na kvásek má mít kolem 35 °C: horké droždí zabije, studené kynutí zpomalí. Po upečení se buchty potírají rozpuštěným máslem a sypou moučkovým cukrem. Koláč je vykynutý a slib taky, jen ten se nedá sníst. Sladké buchty z pekáče voní na celý byt a rozdělí se po třech."
+  ],
+  "price": 8900,
+  "image": "dish-kynute-buchty",
+  "recipe": "kynute-buchty",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 100
+}

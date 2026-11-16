@@ -1,0 +1,21 @@
+{
+  "name": "Francouzské brambory",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "side",
+  "section": "Polední menu",
+  "description": "Zapečené vrstvy brambor, vajec natvrdo a uzeniny pod smetanovou zálivkou, pečené do zlatova.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-francouzske-brambory",
+  "recipe": "francouzske-brambory",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 380
+}

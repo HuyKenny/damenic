@@ -1,0 +1,24 @@
+{
+  "name": "Baba ghanoush",
+  "restaurant": "prazdna-misa",
+  "kind": "main",
+  "section": "Talíře a mezze",
+  "description": "Kouřová pomazánka z pečeného lilku, tahini, česneku a citronu, podávaná s pitou jako součást mezze.",
+  "about": [
+    "Baba ghanoush je blízkovýchodní pomazánka, která vzniká z lilku pečeného celého, dokud mu slupka neuhelnatí a dužina nezměkne. Dužina se vyškrábe a smíchá s tahini, česnekem a citronovou šťávou. Chuť je kouřová, jemně hořká a krémová, trochu podobná hummusu, ale hlubší.",
+    "Hodí se k pitě, k zelenině i jako součást mezze, kde sdílíš s ostatními několik malých misek najednou. Uhelnatá slupka je zásadní, právě ona dá pomazánce kouřovou chuť. Pro celou partu máme mezze, jen bez rozvozu. Miska zůstane prázdná, ale lilek se pečením zapamatuje."
+  ],
+  "price": 6900,
+  "image": "dish-baba-ghanoush",
+  "recipe": "baba-ghanoush",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    11
+  ],
+  "featured": false,
+  "order": 110
+}

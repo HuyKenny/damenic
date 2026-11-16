@@ -1,0 +1,25 @@
+{
+  "name": "Jednoduchý dětský dort s ovocem",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Zákusky z vitríny",
+  "description": "Dětský dort s olejovým korpusem, tvarohovým krémem se šlehačkou a ovocem, bez alkoholu a kávy. Vitrína svítí, dort ne.",
+  "about": [
+    "Dětský dort má jednoduchý olejový korpus, který se peče v kulaté formě o průměru 22 cm a zůstane vláčný. Krém je ušlehaná šlehačka smíchaná s tvarohem, moučkovým a vanilkovým cukrem. Navrch přijde ovoce: jahody, banány a borůvky. Je to dort, který zvládne i první pekař v rodině.",
+    "Hotový je bez alkoholu, kávy a umělých barev. Pro nejmenší děti se borůvky rozpůlí, protože celé malé kulaté plody jsou riziko. Dort vydrží v lednici dva dny, pak banány tmavnou. Vitrína je prázdná, ale recept je plný. Šlehačka a tvaroh dohromady dají krém, který se dobře maže."
+  ],
+  "price": 8900,
+  "image": "dish-detsky-dort",
+  "recipe": "detsky-dort",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 130
+}

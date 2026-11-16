@@ -1,0 +1,26 @@
+{
+  "name": "Ořechový dort s máslovým krémem",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Malé sladké",
+  "description": "Dort s korpusem z mletých vlašských ořechů a pudinkovým máslovým krémem s ořechy, pečený ve formě o průměru 24 cm.",
+  "about": [
+    "Ořechový dort je klasický zákusek pro slavnostní chvíle. Korpus z mletých vlašských ořechů obsahuje jen trochu mouky, takže je vláčný a voní po ořeších. Spojuje se pudinkovým máslovým krémem s dalšími nasekanými ořechy, který je sladký, ale ne přeslazený. Vhodný k odpolední kávě i k oslavě.",
+    "Bílky se šlehají zvlášť a vmíchávají opatrně, jinak korpus spadne a bude hutný. Peče se ve formě o průměru 24 cm a hotový dort rád přenocuje v lednici. Zatím jsme v přízemí a dort stojí jen jako řada vět. Na dílek i na celý, ale nikdy opravdu. Ořechy dodají vůni, a ta je u nás jediné, co z dortu opravdu zbude."
+  ],
+  "price": 7900,
+  "image": "dish-orechovy-dort",
+  "recipe": "orechovy-dort",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 160
+}

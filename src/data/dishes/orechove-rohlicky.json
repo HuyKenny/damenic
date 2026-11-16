@@ -1,0 +1,26 @@
+{
+  "name": "Ořechové rohlíčky s čokoládou",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Cukroví",
+  "description": "Ořechové rohlíčky z těsta se 150 g vlašských ořechů, s konci namočenými v hořké čokoládě, asi 50 kusů.",
+  "about": [
+    "Ořechové rohlíčky jsou odnož vanilkových, jen s větším podílem ořechů: na 250 g mouky přijde 150 g mletých vlašských ořechů. Těsto je díky tomu mastnější a křehčí. Konce rohlíčků se po upečení namáčejí v rozpuštěné hořké čokoládě, která dodá jemnou hořkost.",
+    "Těsto potřebuje delší odpočinek v lednici, jinak se hůř tvaruje a rohlíčky se rozpadají. Z jedné dávky jich vyjde asi padesát. Čokoláda na koncích vypadá jako namočená v kalamáři a zkrášlí každý talířek cukroví. Pod stromeček přijdou o den později, než kdy doopravdy dorazí."
+  ],
+  "price": 10900,
+  "image": "dish-orechove-rohlicky",
+  "recipe": "orechove-rohlicky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 120
+}

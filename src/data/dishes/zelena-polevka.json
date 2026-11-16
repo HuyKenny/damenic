@@ -1,0 +1,25 @@
+{
+  "name": "Zelená polévka ze špenátu nebo kopřiv",
+  "restaurant": "lzice-zitra",
+  "kind": "main",
+  "section": "Lehké",
+  "description": "Hladká zelená polévka ze špenátu nebo mladých kopřiv s bramborami a smetanou, ozdobená vejcem. Lžíce čeká.",
+  "about": [
+    "Zelená polévka je jarní klasika. Na másle se zpění cibule a česnek, přidají se kostky brambor a vývar a když brambory změknou, vhodí se špenát nebo spařené kopřivy a vaří se jen dvě minuty. Kratičký var drží zelenou barvu. Zelená barva z čerstvých listů je hlavní lákadlo celé polévky.",
+    "Polévka se rozmixuje, dochutí smetanou, muškátovým oříškem, solí a citronem a podává se s půlkou natvrdo uvařeného vejce. Druhý den ji jen zahřej, nevař. Lžíce je připravená a polévka je v receptu, dokud ji neuvaříš sám. Kopřivy se pro bezpečí spaří vařící vodou a nasbírají v rukavicích."
+  ],
+  "price": 7900,
+  "image": "dish-zelena-polevka",
+  "recipe": "zelena-polevka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    9
+  ],
+  "featured": false,
+  "order": 320
+}

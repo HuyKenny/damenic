@@ -1,0 +1,25 @@
+{
+  "name": "Ovocný dort se želé",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Krémové a ovocné",
+  "description": "Ovocný dort s piškotovým korpusem, mascarpone-tvarohovým krémem, čerstvým ovocem a lesklým želé navrch.",
+  "about": [
+    "Ovocný dort má tenký piškotový korpus, který se šlehá z vajec a cukru osm až deset minut do husté pěny. Krém je z mascarpone a tvarohu s moučkovým a vanilkovým cukrem, namazaný na vychladlý korpus a pokrytý jahodami, malinami, borůvkami a plátky pomeranče. Vypadá jako z cukrárny, ale technika je jednoduchá.",
+    "Želé se vaří z vody, cukru, citronu a želatiny a lije se na ovoce, až když je téměř studené. Na želé se nehodí čerstvý ananas ani kiwi, rozkládají želatinu. Dort je stavěný do výšky, jen my jsme zatím v přízemí. Ovoce na dortu musí být suché, jinak želé neudrží."
+  ],
+  "price": 11900,
+  "image": "dish-ovocny-dort",
+  "recipe": "ovocny-dort",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 120
+}

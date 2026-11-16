@@ -1,0 +1,25 @@
+{
+  "name": "Tvarohová buchta na plech",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Tvarohová buchta bez kynutí na plechu: světlé hrnkové těsto s vrstvou vanilkového tvarohu. Pečená po obou stranách receptu.",
+  "about": [
+    "Tvarohová buchta nepotřebuje kynutí, takže je rychlá. Těsto se vyšlehá z vajec, cukru, mléka, oleje a mouky s práškem do pečiva a dvě třetiny se rozetřou na plech. Na ně přijde náplň z tvarohu s cukrem, vejcem, pudinkovým práškem a citronovou kůrou a navrch zbytek těsta. Hrnkové těsto je rychlé a odpustí i netrpělivé pekaře.",
+    "Tvaroh nech před mícháním okapat v sítku, aby náplň nepovolila. Po vychladnutí patří buchta do lednice na tři dny. Dorty krájíme jen ve vzduchu, ale buchtu na plech nakrájíš do čtverců i bez nás. Na plechu 25 × 35 cm se dobře krájí na stejně velké kusy."
+  ],
+  "price": 7900,
+  "image": "dish-tvarohova-buchta",
+  "recipe": "tvarohova-buchta",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 150
+}

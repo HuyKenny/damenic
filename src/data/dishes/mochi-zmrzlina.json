@@ -1,0 +1,23 @@
+{
+  "name": "Mochi zmrzlina",
+  "restaurant": "zmrzlinovy-bar-posledni-lzicka",
+  "kind": "main",
+  "section": "Poháry",
+  "description": "Kuličky zmrzliny zabalené v tenkém tažném těstě z lepivé rýžové mouky. Osm kousků, které nikam neroztají.",
+  "about": [
+    "Mochi zmrzlina je kulička zmrzliny v tenkém tažném těstě z lepivé rýžové mouky, vody a cukru. Zmrzlina se předem vydlabe na plech a zamrazí, aby byla tvrdá. Těsto se zahřeje v mikrovlnce na průsvitné lesklé těsto, které se rozválí na škrobu. Těsto se zpracovává rychle, dokud je teplé a pružné.",
+    "Škrob je důležitý, protože těsto se silně lepí. Kolečko se přiloží ke zmrzlině a rychle se uzavře. Na papíře v mrazáku se musí vše vrátit, jinak zmrzlina začne tát. Dobře zabalené vydrží dva týdny. Kurýr nikam nejede, takže nic neroztaje. Neodkládej ji na stůl, jí se hned po výrobě nebo ze mrazáku."
+  ],
+  "price": 10900,
+  "image": "dish-mochi-zmrzlina",
+  "recipe": "mochi-zmrzlina",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 80
+}

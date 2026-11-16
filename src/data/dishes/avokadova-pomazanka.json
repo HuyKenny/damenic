@@ -1,0 +1,23 @@
+{
+  "name": "Avokádová pomazánka",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Studené sendviče",
+  "description": "Krémová avokádová pomazánka se smetanovým sýrem, česnekem a citronem. Hotová za deset minut.",
+  "about": [
+    "Avokádová pomazánka je rychlá svačina, která nepotřebuje sporák. Zralé avokádo se rozmačká se smetanovým sýrem, česnekem a šťávou z citronu, osolí a okoří. Výsledek je hladký, jemně máslový a skvěle drží na chlebu nebo pečivu. Chutná na chlebu, na toastu i jako dip k zelenině.",
+    "Jediný problém je hnědnutí. Citronová šťáva ho zpomalí a pomůže i dobře uzavřená miska, ale úplně ho nezastaví. Proto pomazánku dělej těsně před podáváním a nenechávej ji ležet. Sendvičárna Mezi Krajíci ti ji namaže mezi dva krajíce, mezi kterými je pořád hlavně dobrý nápad."
+  ],
+  "price": 7900,
+  "image": "dish-avokadova-pomazanka",
+  "recipe": "avokadova-pomazanka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 130
+}

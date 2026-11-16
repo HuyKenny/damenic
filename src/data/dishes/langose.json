@@ -1,0 +1,24 @@
+{
+  "name": "Langoše s česnekem, kečupem a sýrem",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Kynuté langoše z fritézy, potřené česnekovou vodou, kečupem, eidamem a zakysanou smetanou. Hospodská klasika, jen bez čepovaného.",
+  "about": [
+    "Langoš je placka z kynutého těsta, která se smaží v hlubším oleji, až nafoukne a zezlátne. Těsto se nechá hodinu kynout, rozdělí na osm kousků a každý se ručně roztáhne do kolečka s tenčím středem, aby nezůstal syrový. Stačí dvacet gramů droždí a hodina trpělivosti u teplého okna.",
+    "Pak se potře česnekem rozmíchaným s vodou, kečupem, nastrouhaným eidamem a lžící zakysané smetany. Hlídej olej mezi 160 a 185 °C. Tácek tu sice čárkujeme, ale langoš jíst na lačno z papírové misky je radost, kterou ti recept dá i bez hospody. Šest stroužků česneku nadělá v kuchyni vůni, kterou nepřeslechneš."
+  ],
+  "price": 18900,
+  "image": "dish-langose",
+  "recipe": "langose",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 360
+}

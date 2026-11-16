@@ -1,0 +1,24 @@
+{
+  "name": "Rýžový nákyp",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Teplé dezerty",
+  "description": "Mléčná kulatozrnná rýže s vejci a meruňkovým džemem, upečená do zlatavé kůrky, nadýchaná od ušlehaných bílků.",
+  "about": [
+    "Rýžový nákyp je sladký oběd z dětství. Kulatozrnná rýže se pomalu vaří v mléce, dokud nevznikne krémová kaše, a ta se spojí se žloutky a džemem. Bílky se ušlehají zvlášť a vmíchají nakonec, aby nákyp dostal lehkost a nebyl těžký jako cihla. Hodí se k čaji i k ovoci.",
+    "Z trouby vyjde se zlatavou kůrkou, pod kterou je měkká a vláčná vrstva s meruňkovou vůní. Jí se teplý, studený nebo ohřátý druhý den. Sladká tečka za večeří, kterou jsi taky nedostal. Dezert totiž nikdy nepřijel a nepřijede, ale recept ti zůstane. Ke každé porci patří lžíce džemu navíc."
+  ],
+  "price": 9900,
+  "image": "dish-ryzovy-nakyp",
+  "recipe": "ryzovy-nakyp",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 110
+}

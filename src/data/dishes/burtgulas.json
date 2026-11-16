@@ -1,0 +1,21 @@
+{
+  "name": "Buřtguláš",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Hustý guláš ze špekáčků, cibule a brambor s paprikou, který se dělá rychle a voní jako v hospodě. Chleba si krájíš sám.",
+  "about": [
+    "Buřtguláš je kuchyně pro večery, kdy není čas na pomalé dušení. Špekáčky se nakrájejí na kolečka, osmaží se s hromadou cibule a s paprikou a brambory pak udělají z vývaru hustou omáčku. Kouř ze špekáčků dodá chuť, kterou by hovězí guláš potřeboval hodiny.",
+    "Papriku přidáš až do ztlumené plotny, jinak zhořkne a spálí se. Kdo to jednou zkazí, pozná to hned po první lžíci. U nás nic zkazit nejde, protože nic nevaříme na opravdu, jen tě necháme nahlédnout do hrnce. Kapka kečupu do hrnce nepatří, ať si říká kdo chce cokoli."
+  ],
+  "price": 21900,
+  "image": "dish-burtgulas",
+  "recipe": "burtgulas",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 340
+}

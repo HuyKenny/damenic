@@ -1,0 +1,18 @@
+{
+  "name": "Moscow mule",
+  "restaurant": "koktejlbar-prazdna-sklenka",
+  "kind": "drink",
+  "section": "Spritzy a long drinky",
+  "description": "Vodka, zázvorové pivo a limetka na ledu, tradičně v měděném hrnku. Svěží a pálivý long drink, jen pro 18+.",
+  "about": [],
+  "price": 16900,
+  "image": "dish-moscow-mule",
+  "recipe": "moscow-mule",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 130
+}

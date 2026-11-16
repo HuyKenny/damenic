@@ -1,0 +1,25 @@
+{
+  "name": "Nepečený dort ze zakysané smetany a piškotů",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Krémové a ovocné",
+  "description": "Nepečený dort ze zakysané smetany, šlehačky a dětských piškotů namočených v mléce. Forma 22 cm.",
+  "about": [
+    "Nepečený dort se skládá z dětských piškotů namočených v mléce a krému ze zakysané smetany a šlehačky. Vrství se v dortové formě s odnímatelným okrajem o průměru 22 cm. Trouba není potřeba, krém drží želatina. Je lehký, krémový a snadno se skládá. Piškoty změknou v mléce přesně tak akorát, aby se daly krájet.",
+    "Jediné, co se nedá urychlit, je tuhnutí v lednici. Dort potřebuje aspoň šest hodin, nejlépe celou noc, jinak se při krájení rozpadne. Dortárna Ani Patro staví dorty do výšky, ale tenhle drží u země: stačí mu forma a dostatek času. Čím déle odpočívá, tím jednodušeji se řeže."
+  ],
+  "price": 11900,
+  "image": "dish-nepeceny-dort",
+  "recipe": "nepeceny-dort",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 110
+}

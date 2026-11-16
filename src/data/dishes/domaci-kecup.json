@@ -1,0 +1,18 @@
+{
+  "name": "Domácí kečup",
+  "restaurant": "burger-nikdy",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Domácí kečup z rajčatové passaty, cukru, octa a koření. Vaří se 40 minut, vyjde asi 350 ml.",
+  "about": [],
+  "price": 3900,
+  "image": "dish-domaci-kecup",
+  "recipe": "domaci-kecup",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 120
+}

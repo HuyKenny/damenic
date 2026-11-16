@@ -1,0 +1,22 @@
+{
+  "name": "Houbová omáčka se smetanou",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Smetanová houbová omáčka ze žampionů a sušených hřibů, do které se hodí knedlík. Houby jsou skutečné, stůl zatím prázdný.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-houbova-omacka",
+  "recipe": "houbova-omacka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9
+  ],
+  "featured": false,
+  "order": 420
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Sýrová omáčka",
+  "restaurant": "burger-nikdy",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Hladká omáčka z eidamu a smetanového sýra na máslové zásmažce, hotová za dvacet minut. Hodí se k těstovinám i zelenině.",
+  "about": [],
+  "price": 2900,
+  "image": "dish-syrova-omacka",
+  "recipe": "syrova-omacka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 110
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Vajíčková pomazánka",
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "kind": "main",
+  "section": "Chlebíčky",
+  "description": "Pomazánka z nastrouhaných vajec, majonézy, jogurtu a hořčice s pažitkou. Chlebíček, který je obložen ničím, tedy skoro.",
+  "about": [
+    "Vajíčková pomazánka se vaří z vajec, která se vaří přesně deset minut a ihned se zchladí. Teplá vejce by majonézu rozředila, proto se nechají úplně vychladnout. Pak se nastrouhají na hrubém struhadle, což je nadýchanější než nožem. Je to nejrychlejší způsob, jak z vajec udělat večeři nebo oslavu.",
+    "Zálivka je majonéza s bílým jogurtem a hořčicí, do které se vmíchá pažitka. Sůl a pepř se přidají až nakonec. Hodí se na chlebíčky i na chleba ke snídani. Šunka je tu sice zamotaná, ale vajíčko je kulatě kolečkové, jak má být. Kdo chce hladší, nechá ji ještě chvíli v lednici uležet."
+  ],
+  "price": 7900,
+  "image": "dish-vajeckova-pomazanka",
+  "recipe": "vajeckova-pomazanka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 120
+}

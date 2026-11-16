@@ -1,0 +1,24 @@
+{
+  "name": "Piškotová roláda s džemem",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Krémové a ovocné",
+  "description": "Tenký piškot ze čtyř vajec stočený do rolády a plněný meruňkovým džemem, na deset plátků.",
+  "about": [
+    "Piškotová roláda je rychlý zákusek, který se obejde bez krému. Piškot ze čtyř vajec se upeče za deset minut v tenké vrstvě, ještě horký se stočí i s utěrkou a nechá vychladnout. Potom se rozbalí, potře meruňkovým džemem a znovu stočí. Na plech i na pánev, bez kompromisů.",
+    "Celé tajemství je stočit ho hned, dokud je horký a ohebný. Vychladlý piškot praská a nejde rolovat. Roláda je lehká, trochu kyselá od džemu a snadno se krájí na deset plátků. Stavíme dorty do výšky, ale roláda leží u nás ve výšce nula: v jediné stopě receptu."
+  ],
+  "price": 10900,
+  "image": "dish-piskotova-rolada",
+  "recipe": "piskotova-rolada",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3
+  ],
+  "featured": false,
+  "order": 130
+}

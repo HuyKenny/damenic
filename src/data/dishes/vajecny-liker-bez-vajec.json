@@ -1,0 +1,20 @@
+{
+  "name": "Vaječný likér bez vajec z pudinku",
+  "restaurant": "stanek-zahrejem-zitra",
+  "kind": "drink",
+  "section": "Na zahřátí",
+  "description": "Krémový nápoj z vanilkového pudinku, kondenzovaného mléka a tuzemáku, jen pro 18+. Chuť vanilky a mléka, bez vajec.",
+  "about": [],
+  "price": 13900,
+  "image": "dish-vajecny-liker-bez-vajec",
+  "recipe": "vajecny-liker-bez-vajec",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 120
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Čočka na kyselo s vejcem a okurkou",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Hustší jídla",
+  "description": "Čočka na kyselo se světlou jíškou, volským okem a nakládanou okurkou. Pro čtyři, bez spěchu.",
+  "about": [
+    "Čočka na kyselo je hustá čočková omáčka, ke které se podávají volské oko a kyselá okurka. Hnědá čočka se vaří do měkka asi půl hodiny až čtyřicet minut, zahustí se světlou jíškou a dochutí cukrem, octem a solí. Příloha je jednoduchá, často stačí chleba.",
+    "Důležité je počkat s octem a solí na konec. Kyselina totiž vaření čočky zastaví a luštěniny pak zůstanou tvrdé, ať se vaří jak dlouho chce. Poměr octa a cukru rozhoduje, zda omáčka chutná kysele a zároveň zaoblí. Naběračka u nás stojí v řadě s hrncem. Jen v hrnci je zatím jenom recept."
+  ],
+  "price": 15900,
+  "image": "dish-cocka-na-kyselo",
+  "recipe": "cocka-na-kyselo",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 330
+}

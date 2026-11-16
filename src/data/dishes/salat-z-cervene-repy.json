@@ -1,0 +1,21 @@
+{
+  "name": "Salát z červené řepy",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Bowly a saláty",
+  "description": "Sladkokyselý salát z vařené červené řepy s cibulí, octem a kmínem. Fialové prsty a čistý talíř.",
+  "about": [
+    "Salát z červené řepy začíná u vaření v celku se slupkou a ocáskem, aby neztratila barvu. Trvá asi tři čtvrtě hodiny a řepa je hotová, když se dá snadno nabodnout. Po vychladnutí se oloupe rukama a nakrájí na kostičky nebo nastrouhá. Pečená řepa je sladší, ale vařená je rychlejší a jednodušší.",
+    "Zálivka je ocet s olejem, cukrem, kmínem, solí a pepřem, do které přijde červená cibule. Salát chutná lépe po dvou hodinách v lednici. Krájej na vlastním prkénku a nasaď rukavice, protože řepa barví všechno. Zeleniny máme plnou lednici, jen ti ji neposíláme. Dělá se dopředu a dochutí se těsně před podáváním octem."
+  ],
+  "price": 11900,
+  "image": "dish-salat-z-cervene-repy",
+  "recipe": "salat-z-cervene-repy",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 230
+}

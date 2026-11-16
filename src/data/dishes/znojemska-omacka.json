@@ -1,0 +1,27 @@
+{
+  "name": "Znojemská omáčka s vejci a bramborami",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Polední menu",
+  "description": "Bezmasá omáčka s nakládanými okurkami a smetanou, podávaná s vejci natvrdo a vařenými bramborami.",
+  "about": [
+    "Znojemská omáčka je kyselosladká omáčka, kterou české kuchyně znají jako postní nebo bezmasé jídlo. Okurky se nakrájí a krátce vaří ve smetanové omáčce s trochou cukru. K ní se dávají vejce uvařená natvrdo a brambory, které omáčku dobře zachytí. Hotovo je za padesát minut a vyjde na čtyři porce.",
+    "Okurky patří do hrnce až na konci. Když se vaří dlouho, změknou a kyselost se ztratí, kdežto takhle zůstanou křupavé a omáčka je svěží. Jídelna Zítra Možná tvrdí, že omáčku vydává zítra. Okurky se za tu dobu ani nenaštvou, ty jsou v nálevu zvyklé čekat."
+  ],
+  "price": 18900,
+  "image": "dish-znojemska-omacka",
+  "recipe": "znojemska-omacka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    9,
+    10
+  ],
+  "featured": false,
+  "order": 360
+}

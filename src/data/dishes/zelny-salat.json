@@ -1,0 +1,21 @@
+{
+  "name": "Zelný salát",
+  "restaurant": "hostinec-za-hranici-nic",
+  "kind": "main",
+  "section": "Přílohy",
+  "description": "Sladkokyselý zelný salát s mrkví a kmínem, který se dělá dopředu. Příloha k řízku bez cesty přes hranici.",
+  "about": [
+    "Zelný salát je tak jednoduchý, že se skoro nedá pokazit, když se zelí zpracuje správně. Jemně nakrájené nebo nastrouhané bílé zelí se osolí a rukama se mačká dvě minuty, aby pustilo šťávu a změklo. Pak přijdou mrkev, cukr, ocet, olej, kmín a pepř. Dělá se ze zelí, mrkve, octa, oleje, cukru a kmínu, sotva pár surovin.",
+    "Salát potřebuje v lednici alespoň hodinu a před podáváním se promíchá a dochutí octem. Pro jemnější chuť zelí krátce spař vroucí vodou. Chutná k smaženému masu i k bramborám, k řízku od nás ho bohužel nepřidáme. Vydrží čtyři dny v uzavřené nádobě v lednici a nezhorší se."
+  ],
+  "price": 14900,
+  "image": "dish-zelny-salat",
+  "recipe": "zelny-salat",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 440
+}

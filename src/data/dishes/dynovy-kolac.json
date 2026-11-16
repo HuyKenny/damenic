@@ -1,0 +1,25 @@
+{
+  "name": "Dýňový koláč (pumpkin pie)",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Máslový koláč s hladkou kořeněnou náplní z pečené dýně hokkaido nebo máslové. Forma 24 cm, deset dílků.",
+  "about": [
+    "Dýňový koláč, v angličtině pumpkin pie, je dezert z máslového křehkého těsta a hladké kořeněné náplně z pečené dýně. Funguje hokkaido i máslová dýně, upečená dýně se rozmixuje na pyré, smíchá s vejci, smetanou, cukrem a kořením a naleje do formy o průměru 24 cm. Vyjde deset dílků.",
+    "Náplň nesmí být vodnatá ani přepečená, jinak koláč praská. Proto je v receptu postup, jak dýňové pyré odpařit, a test, kdy koláč z trouby vytáhnout: okraje jsou pevné, střed se ještě lehce třese. Cukrárna Nedortík dorty krájí jen ve vzduchu. Tenhle koláč se krájí aspoň do skutečného talíře."
+  ],
+  "price": 9900,
+  "image": "dish-dynovy-kolac",
+  "recipe": "dynovy-kolac",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 110
+}

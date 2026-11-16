@@ -1,0 +1,26 @@
+{
+  "name": "Medvědí tlapky",
+  "restaurant": "zitra-upecem",
+  "kind": "main",
+  "section": "Navíc",
+  "description": "Cukroví z kakaového těsta s vlašskými ořechy a skořicí, pečené ve formičkách a namáčené v čokoládě.",
+  "about": [
+    "Medvědí tlapky se pečou ve formičkách ve tvaru tlapek. Těsto je křehké, z mouky, mletých vlašských ořechů, másla a kakaa se skořicí a moučkovým cukrem. Dává se do formiček po kouskách a palcem se rozprostře do vrstvy asi tři milimetry silné. Skořice a kakao se s ořechy výborně potkají v jedné hmotě.",
+    "Po upečení se tlapky vyklopí a namočí do rozpuštěné hořké čokolády. Formičky se mezi várkami vytřou a znovu vymažou. Jedna várka nestačí na celý talíř, proto se peče na dvakrát. Zítra upečem, dnes to jde i bez medvěda. Čokoládu nepřehřívej, stačí aby byla tekutá a lesklá."
+  ],
+  "price": 10900,
+  "image": "dish-medvedi-tlapky",
+  "recipe": "medvedi-tlapky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 160
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Křenová omáčka z mléka",
+  "restaurant": "placka-nikam",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Hladká křenová omáčka z mléka, másla a mouky, zjemněná smetanou. Křen přijde až nakonec, aby štípal.",
+  "about": [],
+  "price": 3900,
+  "image": "dish-krenova-omacka",
+  "recipe": "krenova-omacka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 110
+}

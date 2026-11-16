@@ -1,0 +1,25 @@
+{
+  "name": "Kefírová buchta se švestkami",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Vláčná buchta z jedné mísy z kyselého kefíru, se švestkami a skořicovým cukrem, 15 kusů z plechu.",
+  "about": [
+    "Kefírová buchta je recept pro dny, kdy se nechce nic mýt. Těsto se míchá v jedné míse z kyselého kefíru, mouky, cukru a prášku do pečiva a rozetře se na plech. Kefír s práškem těsto nakypří a drží ho vlhké ještě druhý den, takže vyjde měkká a nadýchaná.",
+    "Navrch přijdou půlky švestek a skořicový cukr, který se v troubě slije se šťávou z ovoce. Těsto se míchá krátce, protože dlouhé míchání by ho zhoustlo a buchta by byla tuhá. Plech 25 × 35 cm dá patnáct kusů. Tvarohový koláč, muffiny a espresso k tomu? Dortík si dáš ve vzduchu."
+  ],
+  "price": 7900,
+  "image": "dish-kefirova-buchta",
+  "recipe": "kefirova-buchta",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 160
+}

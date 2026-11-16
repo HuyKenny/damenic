@@ -1,0 +1,25 @@
+{
+  "name": "Luxusní kokosové řezy s čokoládou",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Řezy z plechu",
+  "description": "Kakaový korpus, hustý kokosový krém z mléka, pudinku a másla a čokoládová poleva ze smetany, 20 řezů.",
+  "about": [
+    "Luxusní kokosové řezy mají tři vrstvy. Tmavý kakaový korpus, na něm hustý kokosový krém z mléka, pudinku a másla a nahoře lesklá poleva z čokolády se smetanou. Chuť je sladká, kokosová a čokoládová, jemná a hodně sytá. Každý díl má vlastní tón sladkosti, od čokolády po kokos.",
+    "Krém musí úplně vychladnout, než se do něj zašlehá máslo, jinak se rozpadne. Hotové řezy pak potřebují celou noc v lednici, aby se vrstvy spojily a daly se čistě krájet. Z plechu 25 × 35 cm vyjde dvacet kousků. Do vitríny je dáš sám: ta naše svítí, ale leží v ní jen recept."
+  ],
+  "price": 9900,
+  "image": "dish-kokosove-rezy",
+  "recipe": "kokosove-rezy",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 140
+}

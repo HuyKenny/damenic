@@ -1,0 +1,21 @@
+{
+  "name": "Domácí pesto",
+  "restaurant": "pasta-bar-niente",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Bazalkové pesto z čerstvé bazalky, piniových oříšků, parmazánu a olivového oleje. Hotové za deset minut.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-domaci-pesto",
+  "recipe": "domaci-pesto",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 110
+}

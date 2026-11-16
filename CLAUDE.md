@@ -53,6 +53,7 @@ Read results with `gh run view --repo HuyKenny/damenic`, download screenshots wi
   Diet and allergen facets are DERIVED from ingredient fields `diet`, `allergens`, `family` (never hand-set on recipes); every recipe needs `meal`.
   Alcoholic recipes are never labelled vegan. New ingredients written by agents must carry `diet` and `allergens` (validator checks).
 - Photo sources: Pexels and Pixabay (`scripts/damenic/fetch-pexels.py [--pixabay]` in the workspace). Never Google images. A placeholder beats a wrong photo.
+- 16. 11. 2026: 956 dishes; 135 recipes without a dish were given one (`scripts/damenic/dish-assign.py` in the workspace, volumes in `reports/damenic/keyword-analysis-2026-11-16.md`). Remaining unlinked recipes are helpers (dough, glaze, cream, dressings) and alcoholic sweets.
 - Validator also checks step shape, `recipe` key on dishes, occasions and alcohol flags; Astro's Zod errors only show up in CI.
 
 Voice: `COPY_GUIDE.md` (creative, simulation always obvious, recipes are facts). Restaurant descriptions must contain "smyšlen" or "fiktivn" (validator).

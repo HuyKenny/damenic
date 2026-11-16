@@ -1,0 +1,20 @@
+{
+  "name": "Bramborové lokše",
+  "restaurant": "hostinec-za-hranici-nic",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Tenké bramborové lokše pečené na suché pánvi a potřené husím sádlem. Příloha, kterou zabalíš do rolky.",
+  "about": [],
+  "price": 3900,
+  "image": "dish-lokse",
+  "recipe": "lokse",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "featured": false,
+  "order": 410
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Sýrové tyčinky z listového těsta",
+  "restaurant": "pekarna-zitra-upecem",
+  "kind": "main",
+  "section": "Máslové a slané",
+  "description": "Křupavé tyčinky z listového těsta s eidamem, kmínem a sezamem, kroucené do spirálky, asi 80 kusů.",
+  "about": [
+    "Sýrové tyčinky se dělají z listového těsta, na které se přitlačí nastrouhaný eidam, kmín a sezam. Těsto se nakrájí na proužky, zkroutí do spirálky a upeče. Vyjdou křupavé a máslové, slané od sýra a vonící po kmínu. Dvanáct centimetrů dlouhé a na prst tenké, tedy ideální k vínu, pivu nebo jen tak ke koukání do trouby.",
+    "Hlavní pravidlo je studené těsto a pečení do sytě zlaté, ne světle žluté barvy. Teprve pak se tyčinky stanou doopravdy křupavé a ne měkké. Dva pláty dají asi 80 tyčinek, což vydrží i návštěvě s velkým apetitem. U nás vydrží navěky, protože se nepečou. Pec je rozpálená od půl sedmé, pečivo ale zůstává ve výloze."
+  ],
+  "price": 7900,
+  "image": "dish-syrove-tycinky",
+  "recipe": "syrove-tycinky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    11
+  ],
+  "featured": false,
+  "order": 90
+}

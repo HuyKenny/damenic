@@ -1,0 +1,25 @@
+{
+  "name": "Honzovy buchty z hrnku",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Kynuté a smažené",
+  "description": "Hrnkové buchty z plechu s povidly a máslovou drobenkou, odměřované hrnkem místo váhy, 15 kusů.",
+  "about": [
+    "Honzovy buchty jsou recept, který nepotřebuje váhu. Hrnek o objemu 250 ml je jediná odměrka: polohrubá mouka, mléko, olej a prášek do pečiva se zamíchají za deset minut a těsto se rozetře na plech. Navrch přijdou povidla a máslová drobenka. Zbude jich dost na dva dny.",
+    "U každé suroviny najdeš pro jistotu i gramy, kdyby hrnek nebyl po ruce. Buchty jsou měkké, voňavé a sladké, ale ne přespříliš. Vyjde jich patnáct kousků na plech 25 × 35 cm. Koláč je vykynutý a slib taky, jen ten se nedá sníst. Máslová drobenka navrch dělá z obyčejné buchty sváteční."
+  ],
+  "price": 8900,
+  "image": "dish-honzovy-buchty",
+  "recipe": "honzovy-buchty",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 110
+}

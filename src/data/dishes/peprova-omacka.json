@@ -1,0 +1,22 @@
+{
+  "name": "Pepřová omáčka ke steaku",
+  "restaurant": "steakarna-rare-priste",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Pepřová omáčka ke steaku z opraženého pepře, vývaru a smetany, hotová za deset minut na pánvi od masa.",
+  "about": [],
+  "price": 3900,
+  "image": "dish-peprova-omacka",
+  "recipe": "peprova-omacka",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    9,
+    10
+  ],
+  "featured": false,
+  "order": 130
+}

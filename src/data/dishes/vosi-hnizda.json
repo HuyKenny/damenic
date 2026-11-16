@@ -1,0 +1,26 @@
+{
+  "name": "Vosí hnízda s vanilkovým krémem",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Cukroví",
+  "description": "Křehké kakaovo-ořechové košíčky plněné vanilkovým pudinkovým krémem a spojené do dvojic. Cukrářka je smyšlená, hnízda ne.",
+  "about": [
+    "Vosí hnízda se pečou ve zvláštních kovových formičkách tvaru kuželů s vroubky. Těsto je křehké, z mouky, mletých vlašských ořechů, kakaa, másla a žloutku, a vtlačuje se do formiček vždy po kouskách. Peče se dvanáct až patnáct minut. Formičky se vymažou a těsto se do nich tlačí prsty, ne válečkem.",
+    "Hnízda se plní vanilkovým pudinkovým krémem s máslem a sklapnou se do dvojic s dětskými piškoty na dně. Formiček bývá víc, takže se peče na dvě várky. Pod stromkem tu nic nebude, ale zlatý okraj a krém uvnitř jsou skutečně snadnější, než vypadají. Tvarem připomínají včelí plástve, odtud ta zvláštní jména."
+  ],
+  "price": 7900,
+  "image": "dish-vosi-hnizda",
+  "recipe": "vosi-hnizda",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 140
+}

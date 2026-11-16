@@ -1,0 +1,27 @@
+{
+  "name": "Mazanec",
+  "restaurant": "pekarna-zitra-upecem",
+  "kind": "main",
+  "section": "Máslové a slané",
+  "description": "Kynutý velikonoční bochník z polohrubé mouky s máslem, žloutky, rozinkami a mandlemi.",
+  "about": [
+    "Mazanec je velikonoční kynutý bochník z 500 g polohrubé mouky, s máslem, žloutky, rozinkami a mandlemi. Recept vede přes kvásek, dvě kynutí a pečení na 170 °C. Výsledek je vláčný, žlutý a voní po citronu a vanilce. Lépe chutná, když se pečení nezkracuje.",
+    "Nejtěžší je udržet mazanec kulatý a vysoký. Těsto musí být tužší a druhé kynutí krátké, jinak se v troubě rozteče do placky. Nahoře se před pečením nařízne kříž a potře žloutkem. Pekárna Zítra Upeču drží pec rozpálenou od půl sedmé. Pečivo ti nepošle, ale vůně dojde zadarmo."
+  ],
+  "price": 4900,
+  "image": "dish-mazanec",
+  "recipe": "mazanec",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8,
+    12
+  ],
+  "featured": false,
+  "order": 100
+}

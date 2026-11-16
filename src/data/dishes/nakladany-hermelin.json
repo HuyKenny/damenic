@@ -1,0 +1,23 @@
+{
+  "name": "Nakládaný hermelín",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Studená kuchyně",
+  "description": "Hermelín zalitý olejem s cibulí, česnekem a kořením a uležený v lednici. Hospodský předkrm s třídenním čekáním.",
+  "about": [
+    "Nakládaný hermelín je hospodská klasika, která potřebuje hlavně trpělivost. Sýr se rozřízne, vrství s cibulí, česnekem a kořením a zalije olejem. Práce zabere čtvrt hodiny a pak se tři dny čeká, než se chutě prostoupí do sýra. Čím déle leží, tím je chuť kulatější.",
+    "Hermelín musí celou dobu zůstat v lednici a ponořený pod olejem, jinak by se zkazil nebo vysušil. Po třech dnech je měkký, česnekový a výrazný, ideální k chlebu a pivu nebo k nějaké jiné tekutině. Výčep Zítra ti ho nalije na tácek hned. Čárku si zapíšeme taky hned, jen nic nevypijeme."
+  ],
+  "price": 7900,
+  "image": "dish-nakladany-hermelin",
+  "recipe": "nakladany-hermelin",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 410
+}

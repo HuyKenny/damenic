@@ -1,0 +1,26 @@
+{
+  "name": "Svatomartinské rohlíčky s mákem a tvarohem",
+  "restaurant": "pekarna-zitra-upecem",
+  "kind": "main",
+  "section": "Sladké kynuté",
+  "description": "Kynuté rohlíčky ve tvaru podkovy, napůl s makovou a napůl s tvarohovou náplní s ořechy. Šestnáct kusů.",
+  "about": [
+    "Svatomartinské rohlíčky jsou kynuté těsto stočené do podkovy, kde je polovina rohlíčků plněná makem a druhá polovina tvarohem s ořechy. Z dávky jich vyjde šestnáct. Po upečení se potřou máslem nebo vajíčkem a zprudka zezlátnou. Voní po droždí, máku a másle.",
+    "Aby náplň nevytekla, musí být vychladlá a hustá a rohlíčky se stáčejí pevně a kladou špičkou dolů na plech. Maková je tmavší a o něco tvrdší než tvarohová, která je vláčnější. Pekárna Zítra Upeču je upeče zítra. Pec je rozpálená od půl sedmé, ale na plechu nic neleží."
+  ],
+  "price": 7900,
+  "image": "dish-svatomartinske-rohlicky",
+  "recipe": "svatomartinske-rohlicky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 130
+}

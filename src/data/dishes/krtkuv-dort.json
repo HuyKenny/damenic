@@ -1,0 +1,25 @@
+{
+  "name": "Krtkův dort",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Čokoládové",
+  "description": "Kakaový dort s vydlabaným středem, banány, šlehačkovým krémem s mascarpone a strouhanou čokoládou jako krtčí hromádky.",
+  "about": [
+    "Krtkův dort je kakaový korpus ve formě o průměru 24 cm, ze kterého se vydlabe střed, tak aby zůstalo dno a okraj asi centimetr silné. Do dutiny jdou banány s citronem a šlehačkový krém s mascarpone, vydlabaný korpus se rozdrobí a vrátí na krém. Je to dort pro děti i dospělé, kteří rádi rozdrobují korpus.",
+    "Dort se pokryje zbytkem krému a celý se posype strouhanou vychlazenou čokoládou, aby vznikly hroudy jako krtčí hromádky. Čokoláda se strouhá studená, z teplé jsou mazlavé kousky. Nejlepší je první den. Dortárna je smyšlená, krtek také. Banány se pokapou citronem, aby nehnědly příliš brzy."
+  ],
+  "price": 10900,
+  "image": "dish-krtkuv-dort",
+  "recipe": "krtkuv-dort",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 150
+}

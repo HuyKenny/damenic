@@ -1,0 +1,23 @@
+{
+  "name": "Steak ribeye na pánvi",
+  "restaurant": "steakarna-rare-priste",
+  "kind": "main",
+  "section": "Steaky",
+  "description": "Hovězí ribeye z rozpálené pánve s máslem, česnekem a rozmarýnem. Vařit se musí v receptu, krájet u tebe doma.",
+  "about": [
+    "Ribeye je kus hovězího s mramorováním tuku, který se na pánvi propéká sám. Vyndej ho z lednice 40 minut předem, osuš ho a opepři až před smažením. Pánev musí být litinová nebo tlustá a rozpálená dobu, než začne lehce kouřit. Doma stačí tlustá pánev, dvě porce masa a trochu klidu.",
+    "Steak se nechá na jedné straně bez hýbání, podle požadované propečenosti od dvou minut. Na závěr přijde máslo, česnek a rozmarýn a maso se polévá. Teploměr je tu skutečně nejlepší kamarád. Rare, medium nebo well done: příště nám řekneš, jak to chceš. Po smažení si maso nech chvíli odpočinout, než ho nakrájíš."
+  ],
+  "price": 17900,
+  "image": "dish-steak-ribeye",
+  "recipe": "steak-ribeye",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 110
+}

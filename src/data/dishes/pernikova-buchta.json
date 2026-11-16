@@ -1,0 +1,26 @@
+{
+  "name": "Perníková buchta s povidly na plech",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Perníková buchta z hrnkového těsta s kakaem, perníkovým kořením a povidly, navrchu s vlašskými ořechy a citronovou glazurou.",
+  "about": [
+    "Perníková buchta je zjednodušený perník pro všechny, kdo na pečení perníčků nemají čas. Těsto se dělá po hrncích, s kakaem, perníkovým kořením a povidly přímo v něm. Navrch přijdou vlašské ořechy a bílá citronová glazura, která chuť osvěží. Hodí se k čaji i k večernímu čtení.",
+    "Na rozdíl od klasického perníku v dortové formě je buchta nižší a díky povidlům vláčnější. Kakao jí dodá tmavou barvu a čokoládovou poleva nepotřebuje. Vyjde dvacet kousků z velkého plechu. Dorty krájíme jen ve vzduchu, buchtu taky, a vůně z ní je zatím jen v textu."
+  ],
+  "price": 4900,
+  "image": "dish-pernikova-buchta",
+  "recipe": "pernikova-buchta",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 130
+}

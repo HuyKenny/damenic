@@ -1,0 +1,26 @@
+{
+  "name": "Obložená bageta se šunkou, sýrem a vejcem",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Studené sendviče",
+  "description": "Bageta s máslem, šunkou, eidamem, vejcem natvrdo a zeleninou, vrstvená tak, aby do oběda nezvlhla.",
+  "about": [
+    "Obložená bageta je svačina, která má pár pravidel a jedno se často porušuje: pořadí vrstev. Nejdřív máslo, které chrání pečivo před vlhkostí, potom list salátu, šunka a eidam a zeleninu až nakonec. Vejce natvrdo přidá výplň a dá bagetě pocit, že je to obyčejný oběd.",
+    "Hodí se na výlet, do práce nebo na cestu vlakem. Zabalená do pečícího papíru vydrží pár hodin a chutná i trochu zvlhlá. Mezi krajíci máme nic, ale pečlivě obložené. Tohle je jediná bageta, která při cestě do batohu nikdy nezmáčkne rajče, protože k tobě nepřijede."
+  ],
+  "price": 16900,
+  "image": "dish-oblozena-bageta",
+  "recipe": "oblozena-bageta",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 120
+}

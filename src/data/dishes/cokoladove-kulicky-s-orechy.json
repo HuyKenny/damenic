@@ -1,0 +1,26 @@
+{
+  "name": "Čokoládové kuličky s ořechy bez alkoholu",
+  "restaurant": "zitra-upecem",
+  "kind": "main",
+  "section": "Navíc",
+  "description": "Nepečené čokoládové kuličky z drcených sušenek, kakaa, másla a ořechů, bez alkoholu. Asi čtyřicet kousků.",
+  "about": [
+    "Nepečené vánoční cukroví pro děti vychází z rumových kuliček, jenže místo rumu přijde mléko s vanilkou. Drcené sušenky se smíchají s kakaem, máslem a ořechy, zpracují se na hmotu a vytvarují se do kuliček. Obalí se v čokoládě. Z dávky je asi čtyřicet kuliček.",
+    "Trouba zůstane studená, což se hodí, když pomáhají děti. Hmota se lépe tvaruje, když ji chvíli necháš v lednici, a čokoláda se nechá ztuhnout na studeném místě. Žádný alkohol tu není. Zítra Upeču tvrdí, že upeče zítra, ale tohle se vlastně ani péct nemusí."
+  ],
+  "price": 8900,
+  "image": "dish-cokoladove-kulicky-s-orechy",
+  "recipe": "cokoladove-kulicky-s-orechy",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 120
+}

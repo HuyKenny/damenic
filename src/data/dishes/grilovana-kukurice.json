@@ -1,0 +1,20 @@
+{
+  "name": "Grilovaná kukuřice s bylinkovým máslem",
+  "restaurant": "taqueria-nic-noveho",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Klasy cukrové kukuřice z rozpáleného grilu, potřené česnekovým bylinkovým máslem.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-grilovana-kukurice",
+  "recipe": "grilovana-kukurice",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 120
+}

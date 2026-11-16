@@ -1,0 +1,21 @@
+{
+  "name": "Svatomartinská husa pečená pomalu",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Husa pečená pomalu pod poklicí, s jablky a cibulí uvnitř, kmínem a majoránkou, na konci odkrytá dozlatova. Víno u nás nenalejeme.",
+  "about": [
+    "Svatomartinská husa je jídlo, které se plánuje den dopředu: osolí se přes noc, naplní jablky a cibulí a pomalu se peče pod poklicí. Tuk se postupně vypeče, maso změkne a nakonec se víko sundá, aby kůže zezlátla a zkřupkavěla. Majoránka a kmín jsou jediné koření, které potřebuje.",
+    "Doma se k ní dává červené zelí a knedlíky a husa se krájí u stolu, jako by byl svátek. U nás je svátek vždycky, jen stůl chybí. Čtyřhodinové pečení trvá dlouho, ale vůně z trouby ti to vynahradí dřív, než husa dojde na talíř. Ta k tobě ale nedojde nikdy."
+  ],
+  "price": 17900,
+  "image": "dish-svatomartinska-husa",
+  "recipe": "svatomartinska-husa",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 370
+}

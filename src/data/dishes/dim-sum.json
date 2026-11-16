@@ -1,0 +1,27 @@
+{
+  "name": "Dim sum: baozi s vepřovou náplní v páře",
+  "restaurant": "ramen-nedojde",
+  "kind": "main",
+  "section": "Rýže a knedlíčky",
+  "description": "Kynuté baozi s vepřovou náplní, zázvorem a jarní cibulkou vařené v páře. Dvanáct kousků z jedné dávky.",
+  "about": [
+    "Baozi jsou kynuté buchty plněné masem a vařené v páře, součást kantonské tradice dim sum, malých jídel k čaji. Těsto z 300 g mouky vyjde na dvanáct kousků. Plní se vepřovým masem se zázvorem a jarní cibulkou a nahoře se pečlivě zaškrtí do záhybů. Voní po zázvoru a páře.",
+    "Nejtěžší je rozválet okraje rovnoměrně a poskládat záhyby tak, aby náplň zůstala uvnitř. Při vaření v páře se hlídá, aby z poklice nekapala voda na těsto, jinak povrch zůstane skvrnitý. Ramen Nedojde hlásí vývar bez dna. Páru si u nás pustíš tak akorát u vlastního hrnce."
+  ],
+  "price": 20900,
+  "image": "dish-dim-sum",
+  "recipe": "dim-sum",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    6,
+    7,
+    11,
+    14
+  ],
+  "featured": false,
+  "order": 270
+}
