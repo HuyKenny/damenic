@@ -1,0 +1,21 @@
+{
+  "name": "Kváskový chléb",
+  "restaurant": "pekarna-zitra-upecem",
+  "kind": "main",
+  "section": "Máslové a slané",
+  "description": "Pšeničnožitný bochník z kvasu s chrupavou kůrkou a vláčnou střídou.",
+  "about": [
+    "Kváskový chléb má kůrku, která při poklepání zvoní, a střídu s nepravidelnými dírkami. Kvasí pomalu, přes noc v lednici, takže chutná lehce kysele a vydrží několik dní.",
+    "Kvas v pekárně Zítra upečem je hodný a trpělivý, jen ho zatím nikdo nenakrmil. V receptu ho nakrmíš ty a bochník dostaneš za jeden den."
+  ],
+  "price": 13900,
+  "image": "dish-kvaskovy-chleb-zitra",
+  "recipe": "kvaskovy-chleb",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "order": 500
+}

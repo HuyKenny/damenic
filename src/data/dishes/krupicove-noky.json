@@ -1,0 +1,22 @@
+{
+  "name": "Krupicové noky do polévky",
+  "restaurant": "prazdna-naberacka",
+  "kind": "side",
+  "section": "K polévce",
+  "description": "Měkké krupicové noky s máslem a muškátem, vložka do vývaru.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-krupicove-noky",
+  "recipe": "krupicove-noky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 900
+}

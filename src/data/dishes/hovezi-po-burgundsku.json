@@ -1,0 +1,25 @@
+{
+  "name": "Hovězí po burgundsku",
+  "restaurant": "peceni-na-priste",
+  "kind": "main",
+  "section": "Hovězí z pekáče",
+  "description": "Hovězí plec dušená na červeném víně se slaninou, cibulkou a žampiony. Omáčka tmavá, kurýr prázdný.",
+  "about": [
+    "Burgundské hovězí je klasika z Francie: kousky plece dušené v červeném víně se slaninou, cibulkou a houbami, dokud neměknou. Maso se nejdřív opeče, potom pomalu dusí, a omáčka se zahustí moukou a tím, co se z masa uvolní.",
+    "Na talíři má tmavou lesklou omáčku a vůni tymiánu. Tady ji vidíš jen na obrázku, kurýr Nikdo má prázdnou tašku. Recept je ale skutečný, takže si hrnec můžeš postavit doma."
+  ],
+  "price": 25900,
+  "image": "dish-hovezi-po-burgundsku",
+  "recipe": "hovezi-po-burgundsku",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9,
+    12
+  ],
+  "order": 50
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Slaný karamel, kelímek",
+  "restaurant": "sladke-nic",
+  "kind": "side",
+  "section": "K dezertu",
+  "description": "Teplý karamel z cukru, smetany a másla s hrubou mořskou solí.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-slany-karamel",
+  "recipe": "slany-karamel",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 900
+}

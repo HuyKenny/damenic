@@ -1,0 +1,23 @@
+{
+  "name": "Hořčičná omáčka k masu",
+  "restaurant": "vycep-zitra",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Smetanová omáčka s plnotučnou hořčicí a cibulkou.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-horcicna-omacka",
+  "recipe": "horcicna-omacka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9,
+    10
+  ],
+  "featured": false,
+  "order": 900
+}

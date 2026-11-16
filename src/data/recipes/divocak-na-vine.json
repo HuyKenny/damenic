@@ -1,0 +1,149 @@
+{
+  "title": "Divočák na červeném víně",
+  "keywords": [
+    "divočák recept",
+    "divočák na víně",
+    "divočák na smetaně",
+    "jak připravit divočáka"
+  ],
+  "image": "dish-divocak-na-vine",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 150,
+  "waitMinutes": 720,
+  "waitLabel": "marinování v lednici",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Divočák na červeném víně je dušená zvěřina marinovaná přes noc a pak dušená dvě a půl hodiny s jalovcem, bobkem a nového koření. Maso je libovější než vepřové a rychle vyschne, proto potřebuje marinádu a pomalé dušení. Recept pro 4 osoby si vyžádá den předem připravenou marinádu.",
+  "alcohol": true,
+  "ingredients": [
+    {
+      "ingredient": "divocak-kyta",
+      "amount": 900,
+      "unit": "g",
+      "note": "na kostky 4 cm"
+    },
+    {
+      "ingredient": "vino-cervene",
+      "amount": 300,
+      "unit": "ml",
+      "note": "suché"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 30,
+      "unit": "ml",
+      "note": "vinný nebo jablečný"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "jalovec",
+      "amount": 5,
+      "unit": "g",
+      "note": "10 až 12 bobulí"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "brusinky-kompot",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso zalij vínem a octem, přidej polovinu cibule, mrkve, jalovec, bobkový list a nové koření. Přikryj a marinuj 12 hodin v lednici."
+    },
+    {
+      "text": "Maso vyndej z marinády, osuš a osol. Marinádu přecěď a uchovej si ji, zeleninu odlož."
+    },
+    {
+      "text": "Na pánvi osmaž slaninu, maso opékej po dávkách 3 až 4 minuty do hněda a přendej do hrnce."
+    },
+    {
+      "text": "V tuku opeč zeleninu z marinády a zbylou cibuli 5 minut, zaprášit moukou, podlij marinádou a vývarem, vlož maso a přikryj."
+    },
+    {
+      "text": "Duš na mírném ohni 2 hodiny 15 minut až 2 hodiny 30 minut, dokud není maso měkké. Maso vyndej, omáčku zredukuj, přilij smetanu a brusinky, dochuť solí a pepřem."
+    },
+    {
+      "text": "Podávej s houskovým knedlíkem nebo bramborovým knedlíkem."
+    }
+  ],
+  "tips": [
+    "Divočáka dusit nízko a dlouho. Libové maso se při prudkém varu stáhne.",
+    "Marinádu uchovej. Je plná chuti a základ omáčky.",
+    "Divočina může být různě stará: starší kus potřebuje o půl hodiny víc."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo vína použij do marinády i do dušení 300 ml hroznového nebo černorybízového moštu a ocet ponech.",
+    "Divočáka nahradíš jelenem nebo srnčím masem, doba dušení se zkrátí o půl hodiny.",
+    "Brusinky nahradíš rybízovou marmeládou."
+  ],
+  "faq": [
+    {
+      "q": "Musí se divočák marinovat?",
+      "a": "Doporučuje se, protože zvěřina je libová a marináda ji zjemní. Stačí 12 hodin v lednici."
+    },
+    {
+      "q": "Jak dlouho dusit divočáka?",
+      "a": "Na mírném ohni 2 hodiny 15 minut až 2 a půl hodiny, podle stáří a kusu."
+    },
+    {
+      "q": "Je divočák jako vepřové maso?",
+      "a": "Je tmavší, libovější a výraznější chuti. Vyžaduje delší dušení a tuk navíc."
+    }
+  ]
+}

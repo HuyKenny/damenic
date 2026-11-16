@@ -1,0 +1,23 @@
+{
+  "name": "Palačinkový dort",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Krémové a ovocné",
+  "description": "Čtrnáct tenkých palačinek, mascarpone krém, jahody a čokoládová poleva.",
+  "about": [
+    "Palačinkový dort je hromada tenkých palačinek proložených mascarpone krémem a jahodami. Navrch teče čokoládová poleva. Krájí se jako dort a chutná jako dětství.",
+    "Dortárna Ani patro ho staví patro po patru, vlastně jen na papíře. V receptu máš čtrnáct palačinek, krém a hodiny v lednici."
+  ],
+  "price": 24900,
+  "image": "dish-palacinkovy-dort-ani-patro",
+  "recipe": "palacinkovy-dort",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 500
+}

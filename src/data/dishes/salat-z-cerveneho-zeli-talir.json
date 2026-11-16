@@ -1,0 +1,17 @@
+{
+  "name": "Salát z červeného zelí",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Jemně nakrájené červené zelí s jablkem a olejem, svěží křupavá příloha.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-salat-z-cerveneho-zeli-talir",
+  "recipe": "salat-z-cerveneho-zeli",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 300
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Krémová cuketová polévka",
+  "section": "Polévky",
+  "price": 8900,
+  "recipe": "cuketova-polevka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 210,
+  "description": "Jemná cuketová polévka se smetanou a dýňovými semínky.",
+  "about": [
+    "Cuketa se vaří jen do změknutí a mixuje hned, aby zůstala zelená. Smetana přijde až na konec, a to je celé tajemství.",
+    "Naběračka je prázdná, ale cuketová polévka je skutečná a hotová za 35 minut. Stačí hrnec a ponorný mixér."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "prazdna-naberacka",
+  "image": "dish-cuketova-polevka",
+  "allergens": [
+    7
+  ]
+}

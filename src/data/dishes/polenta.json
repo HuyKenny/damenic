@@ -1,0 +1,20 @@
+{
+  "name": "Polenta s parmazánem",
+  "restaurant": "trattoria-domani",
+  "kind": "side",
+  "section": "Přílohy a nápoje",
+  "description": "Krémová kukuřičná polenta s máslem a nastrouhaným parmazánem.",
+  "about": [],
+  "price": 8900,
+  "image": "dish-polenta",
+  "recipe": "polenta",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 900
+}

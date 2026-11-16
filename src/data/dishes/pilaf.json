@@ -1,0 +1,21 @@
+{
+  "name": "Zeleninový pilaf s rozinkami",
+  "restaurant": "kari-nikde",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Sypká rýže s mrkví, kmínem, kurkumou a rozinkami uvařená ve vývaru.",
+  "about": [],
+  "price": 7900,
+  "image": "dish-pilaf",
+  "recipe": "pilaf",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    9,
+    12
+  ],
+  "featured": false,
+  "order": 900
+}

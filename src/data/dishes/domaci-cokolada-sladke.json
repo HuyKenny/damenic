@@ -1,0 +1,19 @@
+{
+  "name": "Domácí hořká čokoláda",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Studené dezerty",
+  "description": "Tabulka čokolády z kakaového másla, kakaa a moučkového cukru.",
+  "about": [
+    "Domácí čokoláda je jen kakaové máslo, kakao a cukr. Vidíš, z čeho je, a chuť se dá upravit od hořké po sladkou. Po ztuhnutí se láme s tichým lupnutím.",
+    "V Dezertním baru Sladké nic ji nabízejí vedle pudinků, ale máš vlastní formu a ruce. Recept zabere pár minut a hodinu v lednici."
+  ],
+  "price": 9900,
+  "image": "dish-domaci-cokolada-sladke",
+  "recipe": "domaci-cokolada",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "order": 500
+}

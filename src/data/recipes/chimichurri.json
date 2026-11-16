@@ -1,0 +1,98 @@
+{
+  "title": "Chimichurri z petrželky a česneku",
+  "keywords": [
+    "chimichurri",
+    "chimichurri recept",
+    "chimichurri omáčka",
+    "omáčka ke grilovanému masu"
+  ],
+  "image": "dish-chimichurri",
+  "category": "steak",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "uležení",
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Chimichurri je jihoamerická bylinková omáčka ke grilovanému masu, založená na petrželce, česneku, octu a oleji. Nemixuje se na pyré, ale seká se nožem, aby zůstala hrubá a svěží. Hodí se k steaku, grilovaným klobásám i pečené zelenině.",
+  "ingredients": [
+    {
+      "ingredient": "petrzelka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "svazek, jen listy"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "na jemno"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "sušené"
+    },
+    {
+      "ingredient": "ocet-vinny",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 8,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Lístky petržele odděl od tvrdých stonků a nasekej je nožem co nejjemněji. Mixér nepoužívej, vzniklo by pyré."
+    },
+    {
+      "text": "Česnek nakrájej nadrobno nebo prolisuj a smíchej s petrželkou, oreganem, chilli a solí."
+    },
+    {
+      "text": "Přidej ocet a olej a promíchej."
+    },
+    {
+      "text": "Nech minimálně 30 minut při pokojové teplotě odležet, aby chutě propojily. Podávej k masu."
+    }
+  ],
+  "tips": [
+    "Chimichurri se podává při pokojové teplotě. Z lednice ho vyndej půl hodiny předem, olej se rozpustí.",
+    "V lednici v čisté zavřené nádobě vydrží až 3 dny.",
+    "Čerstvé bylinky nasekej těsně před mícháním, aby nezoxidovaly."
+  ],
+  "substitutions": [
+    "Část petržele nahraď koriandrem nebo mátou.",
+    "Víno ocet nahraď citronovou šťávou.",
+    "Chilli vločky vynech pro mírnější verzi."
+  ],
+  "faq": [
+    {
+      "q": "K čemu se chimichurri podává?",
+      "a": "Ke grilovanému hovězímu, steakům, klobásám, rybám a pečené zelenině."
+    },
+    {
+      "q": "Jak dlouho vydrží chimichurri?",
+      "a": "V uzavřené nádobě v lednici 3 dny. Před podáváním ho nech ohřát na pokojovou teplotu."
+    },
+    {
+      "q": "Dá se chimichurri udělat v mixéru?",
+      "a": "Dá, ale vznikne kašovitá pasta. Tradiční je hrubě nasekané."
+    }
+  ]
+}

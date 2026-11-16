@@ -1,0 +1,97 @@
+{
+  "title": "Rajčatový salát",
+  "keywords": [
+    "rajčatový salát",
+    "rajčatový salát s cibulí",
+    "salát z rajčat",
+    "rajčatový salát recept"
+  ],
+  "image": "dish-rajcatovy-salat-zelena-nula",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 10,
+  "waitLabel": "odležení se solí",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Rajčatový salát s cibulí, olejem a octem je nejjednodušší letní příloha. Rozhoduje zralost rajčat a krátké odležení se solí, které pustí šťávu a vytvoří zálivku.",
+  "ingredients": [
+    {
+      "ingredient": "rajcata",
+      "amount": 600,
+      "unit": "g",
+      "note": "zralá"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "ocet-balsamico",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "natrhaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rajčata omyj, odstraň třapinku a nakrájej na měsíčky nebo kostky."
+    },
+    {
+      "text": "Cibuli nakrájej na tenká půlkolečka a dej do misky."
+    },
+    {
+      "text": "Rajčata smíchej s cibulí a solí, nech 10 minut odstát, aby pustila šťávu."
+    },
+    {
+      "text": "Přidej olej, ocet a pepř, promíchej, posyp bazalkou a podávej."
+    }
+  ],
+  "tips": [
+    "Rajčata neskladuj v lednici, ztrácejí chuť. Nech je před krájením prohřát na pokojovou teplotu.",
+    "Cibuli zmírníš, když ji na 5 minut namočíš do studené vody.",
+    "Salát nedělej dopředu, rajčata se rozmočí."
+  ],
+  "substitutions": [
+    "Balsamico nahradíš jablečným octem.",
+    "Bazalku nahradíš oreganem nebo pažitkou.",
+    "Přidej feta nebo mozzarellu pro sytější verzi."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat rajčatový salát, aby nebyl vodnatý?",
+      "a": "Rajčata nakrájej a nech 10 minut se solí, pak šťávu částečně slij a použij. Případně vyber semínka."
+    },
+    {
+      "q": "Která rajčata se hodí na salát?",
+      "a": "Zralá masitá nebo cherry, pevná a voňavá. Nezralá chutnají kysele."
+    },
+    {
+      "q": "Jak dlouho vydrží rajčatový salát?",
+      "a": "Je nejlepší čerstvý. V lednici vydrží do druhého dne, ale rajčata změknou."
+    }
+  ]
+}

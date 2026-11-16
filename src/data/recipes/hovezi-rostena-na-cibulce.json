@@ -1,0 +1,115 @@
+{
+  "title": "Hovězí roštěná na cibulce",
+  "keywords": [
+    "hovězí roštěná",
+    "roštěná na cibulce",
+    "hovězí roštěná na pánvi",
+    "roštěná recept"
+  ],
+  "image": "dish-hovezi-rostena-na-cibulce",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 20,
+  "waitLabel": "odpočinek masa při pokojové teplotě a po smažení",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Hovězí roštěná na cibulce je kus kvalitního masa opečený na pánvi do požadovaného stupně a podávaný na pomalu zpěněné cibuli. Recept je pro 2 porce a trvá asi hodinu, z toho 20 minut maso odpočívá. Aby zůstala šťavnatá, smaží se krátce a nechá se dojít mimo pánev.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-rostena",
+      "amount": 400,
+      "unit": "g",
+      "note": "2 steaky, každý asi 3 cm silný"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 300,
+      "unit": "g",
+      "note": "na půlkolečka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "ocet-balsamico",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 100,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso vyndej z lednice 20 minut předem, osuš a ze všech stran osol a opepři."
+    },
+    {
+      "text": "V pánvi rozehřej 1 lžíci oleje a 15 g másla na střední teplotě, přidej cibuli, osol a smaž 15 minut do zlatohnědé. Přidej cukr, tymián a ocet a smaž ještě 3 minuty. Cibuli stáhni stranou."
+    },
+    {
+      "text": "V další pánvi rozpal olej do kouře a maso opékej bez hýbání: pro medium rare (55 °C uvnitř) 2 až 3 minuty z každé strany, pro medium (60 °C) 3 až 4 minuty, pro well done (70 °C a víc) 5 minut. Poslední minutu přidej zbylé máslo a maso podlévej."
+    },
+    {
+      "text": "Hotové maso dej na prkénko, volně přikryj alobalem a nech 5 minut odpočinout, šťáva se uvnitř rozloží."
+    },
+    {
+      "text": "Do pánve po masu nalij vývar, seškrábni připečeniny a zredukuj 2 minuty. Maso nakrájej proti směru vláken, dej na cibulku a polij šťávou."
+    }
+  ],
+  "tips": [
+    "Maso musí být před smažením suché a ne ledové. Studené maso se na povrchu nezhnědne.",
+    "Stupně propečení: rare 52 °C, medium rare 55 °C, medium 60 °C, well done 70 °C a víc. Pomůže teploměr.",
+    "Nekrájej hned. Po 5 minutách odpočinku zůstane šťáva v mase a neutéká na prkénko."
+  ],
+  "substitutions": [
+    "Roštěnou můžeš nahradit hovězím flank steakem nebo ribeye, mění se jen doba smažení.",
+    "Balsamikový ocet nahradíš jablečným octem a špetkou cukru.",
+    "Máslo můžeš nahradit lžící oleje, ztratí ale část chuti."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit hovězí roštěnou?",
+      "a": "U steaku silného 3 cm asi 2 až 3 minuty z každé strany na medium rare, 3 až 4 na medium. Silnější kus potřebuje o minutu víc."
+    },
+    {
+      "q": "Jaká je správná teplota hovězí roštěné?",
+      "a": "Medium rare 55 °C, medium 60 °C, well done 70 °C a víc. Maso se po vyndání ještě pár stupňů dopéká."
+    },
+    {
+      "q": "Je roštěná z hovězího zadního?",
+      "a": "Ano, vyřezává se z hřbetu a bývá postavená jako steak."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Mimosa",
+  "keywords": [
+    "mimosa",
+    "mimosa drink",
+    "mimosa recept",
+    "mimosa koktejl",
+    "nealko mimosa"
+  ],
+  "image": "dish-mimosa-sklenka",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "servings": 1,
+  "activeMinutes": 2,
+  "cookMinutes": 0,
+  "waitMinutes": 10,
+  "waitLabel": "vychlazení surovin v lednici",
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "intro": "Mimosa je snídaňový koktejl ze šumivého vína a pomerančového džusu v poměru 1 : 1. Na jednu sklenku (flétnu) je to 75 ml prosecca a 75 ml džusu. Těžké je pouze to, aby bylo všechno ledově studené a prosecco se lilo jako druhé, aby neztratilo bublinky.",
+  "ingredients": [
+    {
+      "ingredient": "prosecco",
+      "amount": 75,
+      "unit": "ml",
+      "note": "dobře vychlazené"
+    },
+    {
+      "ingredient": "dzus-pomerancovy",
+      "amount": 75,
+      "unit": "ml",
+      "note": "nejlépe čerstvě vymačkaný, vychlazený"
+    },
+    {
+      "ingredient": "pomeranc",
+      "amount": 0.1,
+      "unit": "ks",
+      "note": "tenký plátek na ozdobu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prosecco a džus dej alespoň 2 hodiny před podáváním do lednice. Sklenku na šampaňské dej na 10 minut do mrazáku."
+    },
+    {
+      "text": "Do vychlazené sklenky nalij 75 ml pomerančového džusu. Nakloň sklenku a po stěně pomalu přilévej 75 ml prosecca."
+    },
+    {
+      "text": "Jednou zlehka zamíchej lžičkou, aby se tekutiny propojily, a nech bublinky usadit."
+    },
+    {
+      "text": "Ozdob tenkým plátkem pomeranče na okraji sklenky a podávej hned."
+    }
+  ],
+  "tips": [
+    "Prosecco lej po stěně sklenky, pěna se pak nezvedne. Zbytek lahve zavři zátkou na šumivé víno a vydrží 1 až 2 dny.",
+    "Čerstvě vymačkaný džus bez dužiny chutná čistěji než krabicový.",
+    "Chceš-li méně sladkou mimosu, uber džus na 50 ml a prosecco přidej na 100 ml."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo prosecca použij 75 ml nealko šumivého vína nebo vychlazené perlivé vody s plátkem citronu.",
+    "Místo prosecca lze použít jakékoli suché šumivé víno, třeba cava nebo sekt brut.",
+    "Pomerančový džus nahradíš mandarinkovým nebo grapefruitovým."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je poměr na mimosu?",
+      "a": "Klasicky 1 : 1, tedy 75 ml šumivého vína a 75 ml pomerančového džusu. Chceš-li lehčí drink, přidej víc džusu."
+    },
+    {
+      "q": "Jaké víno se hodí do mimosy?",
+      "a": "Suché šumivé víno kategorie brut nebo extra brut, třeba prosecco, cava nebo sekt. Sladší víno spolu s džusem dělá drink těžký a přeslazený."
+    },
+    {
+      "q": "Kolik alkoholu má mimosa?",
+      "a": "Asi 5 až 6 %. Sklenka podle receptu obsahuje zhruba 8 ml čistého alkoholu. Je jen pro dospělé."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Slané tyčinky",
+  "restaurant": "pekarna-zitra-upecem",
+  "kind": "main",
+  "section": "Máslové a slané",
+  "description": "Křupavé kynuté tyčinky s kmínem, sezamem a hrubou solí.",
+  "about": [
+    "Slané tyčinky jsou tenké prutíky z kynutého těsta s kmínem a sezamem. Jsou křupavé, vydrží v dóze týden a nikdy nevydrží tak dlouho, jak jsi plánoval.",
+    "Pekárna je vystavuje v košíku, který je prázdný stejně jako zbytek podniku. Recept je ale skutečný a obsahuje třicet tyčinek."
+  ],
+  "price": 6900,
+  "image": "dish-slane-tyciky-zitra",
+  "recipe": "slane-tyciky",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    11
+  ],
+  "order": 500
+}

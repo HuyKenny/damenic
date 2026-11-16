@@ -1,0 +1,19 @@
+{
+  "name": "Domácí marshmallow",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Studené dezerty",
+  "description": "Měkké bílé kostky z cukrového sirupu a želatiny, poprášené cukrem.",
+  "about": [
+    "Marshmallow je vzdušná pěna, která drží tvar a po upečení nad plamenem se opeče do zlatova. Vyrobí se z cukrového sirupu, želatiny a ruční trpělivosti při šlehání.",
+    "Bar Sladké nic ho servíruje na prázdném talíři, protože chuť je lepší než váha. Recept ti dá čtyřicet kostek po šesti hodinách odpočinku."
+  ],
+  "price": 8900,
+  "image": "dish-marshmallow-sladke",
+  "recipe": "marshmallow",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "order": 500
+}

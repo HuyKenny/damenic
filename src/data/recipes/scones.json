@@ -1,0 +1,122 @@
+{
+  "title": "Scones",
+  "keywords": [
+    "scones",
+    "scones recept",
+    "britské scones",
+    "scones s rozinkami"
+  ],
+  "image": "dish-scones",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 20,
+  "cookMinutes": 18,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "střední",
+  "meal": "pecivo",
+  "intro": "Scones jsou britské máslové koláčky, které se pečou rychle bez kynutí. Aby vykynuly vysoké a lehce vrstevnaté, musí být máslo studené a těsto se jen krátce spojí. Vyjde jich asi 8.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "špetka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "studené, na kostky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "note": "studené, plus trochu na potření"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 60,
+      "unit": "g",
+      "note": "volitelně"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 150,
+      "unit": "ml",
+      "note": "našlehaná, na podávání"
+    },
+    {
+      "ingredient": "dzem-rybizovy",
+      "amount": 60,
+      "unit": "g",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 220 °C (horkovzduch 200 °C). Plech vyloži pečicím papírem."
+    },
+    {
+      "text": "Mouku, prášek do pečiva, cukr a sůl promíchej v míse. Studené máslo vetři prsty do mouky, aby vznikla drobenka."
+    },
+    {
+      "text": "Přidej rozinky, mléko a vejce rozšlehané dohromady (kousek vejce si nechej na potření) a těsto rychle spoj. Nepřemíchávej, zůstane hrubé a lepkavé."
+    },
+    {
+      "text": "Těsto vyklop na pomoučněný vál, jemně zaválej do výšky 3 cm a nech 15 minut v lednici."
+    },
+    {
+      "text": "Vykrajuj kolečka o průměru 6 cm tak, že vykrajovátko zatlačíš rovně dolů a neotočíš, jinak se okraje zalepí a koláčky nevzejdou rovně. Ulož na plech, potři vejcem s mlékem a peč 15 až 18 minut dozlatova."
+    },
+    {
+      "text": "Scones nech 10 minut vychladnout a podávej rozkrojené s džemem a šlehačkou."
+    }
+  ],
+  "tips": [
+    "Studené máslo a rychlá práce dělají scones vysoké. Teplé ruce rozpustí máslo a koláčky budou ploché.",
+    "Nepotírej boky vejcem, stékající vejce zalepí okraje a omezí vykynutí.",
+    "Nejlepší jsou čerstvé v den pečení. Druhý den je ohřej 5 minut při 150 °C."
+  ],
+  "substitutions": [
+    "Mléko nahraď podmáslím, scones budou ještě měkčí.",
+    "Rozinky nahraď borůvkami nebo vynech a přidej strouhaný sýr na slanou verzi.",
+    "Hladkou mouku nahraď směsí hladké a polohrubé."
+  ],
+  "faq": [
+    {
+      "q": "Proč scones nevykynou?",
+      "a": "Těsto je přemíchané nebo je málo čerstvý prášek do pečiva. Spoj jen těsto a krájej přímým řezem."
+    },
+    {
+      "q": "Jak dlouho vydrží scones?",
+      "a": "V den pečení jsou nejlepší. V uzavřené dóze vydrží 2 dny, můžeš je zamrazit až na 1 měsíc a ohřát v troubě."
+    },
+    {
+      "q": "Co podávat se scones?",
+      "a": "Šlehačku a džem, nebo máslo. Na slano se hodí smetanový sýr a pažitka."
+    }
+  ]
+}

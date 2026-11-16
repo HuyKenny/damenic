@@ -1,0 +1,41 @@
+{
+  "name": "Chřestová polévka",
+  "section": "Polévky",
+  "price": 11900,
+  "recipe": "chrestova-polevka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 210,
+  "description": "Krémová polévka ze zeleného chřestu s opečenými hlavičkami.",
+  "about": [
+    "Chřest se vaří jen krátce, aby zůstal zelený, a hlavičky se opečou zvlášť. Mixuje se hned, aby polévka nezšedla.",
+    "V chatě sezona nenastala, ale chřest má sezónu skutečnou: od konce dubna do června. Polévku si uvaříš sám."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "chata-pristi-sezona",
+  "image": "dish-chrestova-polevka",
+  "allergens": [
+    7
+  ]
+}

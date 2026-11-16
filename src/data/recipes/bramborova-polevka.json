@@ -1,0 +1,149 @@
+{
+  "title": "Bramborová polévka",
+  "keywords": [
+    "bramborová polévka",
+    "česká bramborová polévka",
+    "bramborová polévka s houbami",
+    "bramboračka"
+  ],
+  "image": "dish-bramborova-polevka",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Bramborová polévka s kořenovou zeleninou, houbami a majoránkou je klasika české kuchyně. Lepší než z pytlíku ji dělá jemně zahuštěná jíška a sušené houby, které polévku provoní.",
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 700,
+      "unit": "g",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 120,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "hriby-susene",
+      "amount": 15,
+      "unit": "g",
+      "note": "namočené 15 minut v horké vodě"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "g",
+      "note": "mletý"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nať"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Sušené houby zalij horkou vodou na 15 minut. Poté je vyndej, nakrájej a vodu z namáčení přelij přes jemné sítko, aby v ní neodpadl písek."
+    },
+    {
+      "text": "V hrnci rozehřej olej a nadrobno nakrájenou cibuli restuj 3 minuty do zlatova. Přidej mrkev, petržel a celer a restuj další 3 minuty."
+    },
+    {
+      "text": "Zalij vodou, přidej brambory, houby i jejich vodu z namáčení, bobkový list, kmín a sůl. Přiveď k varu a vař pod pokličkou 20 minut, dokud nejsou brambory měkké."
+    },
+    {
+      "text": "Mezitím připrav zahuštění: na suché pánvi opraž mouku 1 až 2 minuty do světle zlatova. Odeber hrnek polévky, rozmíchej s moukou hladkou kaši a vlij zpět do hrnce."
+    },
+    {
+      "text": "Vař ještě 5 minut za občasného míchání. Na závěr přidej česnek a majoránku a nech 2 minuty stát bez varu, aby se vůně zachovala."
+    },
+    {
+      "text": "Bobkový list vyndej, dochuť a podávej s petrželkou."
+    }
+  ],
+  "tips": [
+    "Voda z namočených hub je nejcennější část. Neodlévej ji, jen ji přeceď.",
+    "Česnek a majoránku dávej až na konci. Dlouhým varem ztratí vůni.",
+    "Chceš-li hustší polévku, rozmačkej pár kousků brambor přímo v hrnci."
+  ],
+  "substitutions": [
+    "Místo sušených hub dej 150 g čerstvých žampionů osmahnutých na oleji s cibulí.",
+    "Pro bezlepkovou verzi zahustí polévku jedna rozmačkaná brambora místo mouky.",
+    "Přidej 80 g uzené slaniny osmahnuté s cibulí, polévka bude syrovější a není vegetariánská."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří bramborová polévka?",
+      "a": "Po přidání brambor 20 až 25 minut. Brambory mají jít rozmáčknout vidličkou a vývar má být lehce zakalený škrobem."
+    },
+    {
+      "q": "Proč je bramborová polévka řídká?",
+      "a": "Chybí zahuštění nebo bylo málo brambor. Pomůže rozmačkat část brambor nebo zahustit jíškou z lžíce mouky."
+    },
+    {
+      "q": "Dá se bramborová polévka zamrazit?",
+      "a": "Nedoporučuje se, brambory po rozmrazení ztvrdnou a rozpadnou se. V lednici vydrží 3 dny a druhý den bývá lepší."
+    }
+  ]
+}

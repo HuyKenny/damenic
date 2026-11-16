@@ -1,0 +1,24 @@
+{
+  "name": "Niçoise salát s tuňákem",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "description": "Tuňák, vejce, brambory, zelené fazolky, rajčata a olivy se zálivkou z oleje a octa.",
+  "about": [
+    "Niçoise je salát s dějem: tuňák, vejce, brambory a fazolky se jmenují hlavní hrdinové a každý se vaří zvlášť. Zálivka je z oleje, octa a hořčice.",
+    "Misku nenaplníme, salátbar je smyšlený. Fazolky se ale doma musí dělat v ledové vodě, aby zůstaly zelené."
+  ],
+  "price": 18900,
+  "image": "dish-nicoise-ani-listek",
+  "recipe": "nicoise-salat",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    4,
+    10
+  ],
+  "order": 350
+}

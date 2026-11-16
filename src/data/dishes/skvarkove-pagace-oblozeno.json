@@ -1,0 +1,23 @@
+{
+  "name": "Škvarkové pagáče",
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "kind": "main",
+  "section": "Saláty a slané",
+  "description": "Křehké nekynuté pagáče s mletými škvarky a zakysanou smetanou.",
+  "about": [
+    "Škvarkové pagáče jsou křehké, slistované placičky s kousky škvarků uvnitř. Voní sádlem a kmínem a mastnou stopu nechávají na prstech jako důkaz, že chutnaly.",
+    "Chlebíčkárna Obloženo ničím je nabízí k jednohubkám a pomazánkám. Recept je skutečný a vyjde asi na dvacet čtyři kousků."
+  ],
+  "price": 8900,
+  "image": "dish-skvarkove-pagace-oblozeno",
+  "recipe": "skvarkove-pagace",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 500
+}

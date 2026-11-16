@@ -1,0 +1,132 @@
+{
+  "title": "Slané tyčinky s kmínem a sezamem",
+  "keywords": [
+    "slané tyčinky",
+    "slané tyčinky recept",
+    "domácí slané tyčinky",
+    "kynuté slané tyčinky",
+    "tyčinky s kmínem"
+  ],
+  "image": "dish-slane-tyciky-zitra",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 35,
+  "cookMinutes": 18,
+  "waitMinutes": 75,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "snadné",
+  "meal": "pecivo",
+  "intro": "Slané tyčinky jsou tenké kynuté prutíky s kmínem, sezamem a hrubou solí. Vyjde asi 30 kusů o délce 18 cm. Těsto je z oleje, takže je křupavé a stačí 18 minut pečení. Vydrží týden v plechové dóze, takže se hodí na večer s filmem.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hruba",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 170,
+      "unit": "ml",
+      "note": "vlažné"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 40,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na potření"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na potření"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 10,
+      "unit": "g",
+      "note": "hrubá, na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozmíchej ve vlažném mléce s cukrem a nech 10 minut zakvasit. Obě mouky smíchej se solí, přidej kvásek a olej a hněť 8 minut do hladkého těsta."
+    },
+    {
+      "text": "Těsto přikryj a nech 60 minut kynout, dokud nezdvojnásobí objem."
+    },
+    {
+      "text": "Těsto rozděl na 30 dílů o váze asi 12 g a každý vyválej na provázek dlouhý asi 18 cm. Skládej na dva plechy vyložené pečicím papírem s rozestupy 2 cm."
+    },
+    {
+      "text": "Nech 15 minut dokynout. Troubu předehřej na 200 °C (horkovzduch 180 °C). Tyčinky potři vejcem rozšlehaným s mlékem a posyp kmínem, sezamem a hrubou solí."
+    },
+    {
+      "text": "Peč 15 až 18 minut, dokud nejsou zlatavé a křupavé. Nech vychladnout na mřížce."
+    }
+  ],
+  "tips": [
+    "Prutíky válej stejně tlusté, tenčí se zbarví dřív. Případně vyndávej první, jak zezlátnou.",
+    "Nech tyčinky v zhasnuté troubě 10 minut dosušit, budou křupavější.",
+    "Posyp si je tak, jak máš rád: samotným sezamem, kmínem nebo sýrem."
+  ],
+  "substitutions": [
+    "Sezam nahraď mákem nebo slunečnicovými semínky.",
+    "Kmín můžeš vynechat a použít sušené bylinky.",
+    "Do těsta zapracuj 50 g nastrouhaného parmazánu pro sýrovou variantu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží slané tyčinky?",
+      "a": "V uzavřené plechové dóze vydrží 7 dní. Když změknou, dosuš je 5 minut při 150 °C."
+    },
+    {
+      "q": "Jak je udělat křupavější?",
+      "a": "Tenčeji vyválej a po upečení je nech v zhasnuté troubě 10 minut."
+    },
+    {
+      "q": "Dají se připravit z listového těsta?",
+      "a": "Ano, ale to je jiný recept. Naše tyčinky jsou z kynutého těsta."
+    },
+    {
+      "q": "Mohu těsto zmrazit?",
+      "a": "Ano, vyválené prutíky zmraz a upeč o 3 minuty déle."
+    }
+  ]
+}

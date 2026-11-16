@@ -1,0 +1,20 @@
+{
+  "name": "Rajčatový salát s cibulí",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Bowly a saláty",
+  "description": "Zralá rajčata, červená cibule, olivový olej a balsamico s bazalkou.",
+  "about": [
+    "Rajčatový salát je letní jednoduchost: zralá rajčata, trocha cibule, olej a ocet. Sůl udělá z rajčat šťávu a šťáva je zálivka.",
+    "Rajčata na talíři zůstanou nanečisto, ale doma se vyplatí počkat na ta zralá."
+  ],
+  "price": 12900,
+  "image": "dish-rajcatovy-salat-zelena-nula",
+  "recipe": "rajcatovy-salat",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 260
+}

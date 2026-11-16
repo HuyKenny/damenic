@@ -1,0 +1,41 @@
+{
+  "name": "Polévka z červené řepy",
+  "section": "Polévky",
+  "price": 9900,
+  "recipe": "polevka-z-cervene-repy",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 220,
+  "description": "Růžová polévka z červené řepy se zakysanou smetanou a koprem.",
+  "about": [
+    "Řepa se vaří přímo v polévce a mixuje, takže vznikne sytá růžová barva. Lžíce octa na konci ji udrží zářivou.",
+    "Pozor na ruce, řepa barví. Polévka přijde jen v receptu, rukavice si dej."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "chata-pristi-sezona",
+  "image": "dish-polevka-z-cervene-repy",
+  "allergens": [
+    7
+  ]
+}

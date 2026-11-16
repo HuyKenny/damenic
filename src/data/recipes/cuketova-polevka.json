@@ -1,0 +1,125 @@
+{
+  "title": "Cuketová polévka",
+  "keywords": [
+    "cuketová polévka",
+    "krémová cuketová polévka",
+    "cuketová polévka se smetanou",
+    "polévka z cukety"
+  ],
+  "image": "dish-cuketova-polevka",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Cuketová polévka je hotová za 35 minut a bez brambor zůstane lehká. Aby nebyla vodnatá a nezhnědla, vaří se jen do změknutí a mixuje hned, a smetana přijde až na konec.",
+  "ingredients": [
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cuketa",
+      "amount": 800,
+      "unit": "g",
+      "note": "neloupaná, na kostky"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 700,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.3,
+      "unit": "g",
+      "note": "špetka"
+    },
+    {
+      "ingredient": "dynova-seminka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej olej a na mírném plameni 3 minuty restuj cibuli s česnekem, aby zesklovatěly, ale nezhnědly."
+    },
+    {
+      "text": "Přidej brambory a cuketu, promíchej a nech 2 minuty prohřát. Zalij vývarem a osol."
+    },
+    {
+      "text": "Přiveď k varu a vař pod pokličkou 12 až 15 minut, dokud brambory nejsou měkké. Cuketa se ještě rozpadne."
+    },
+    {
+      "text": "Polévku ihned rozmixuj ponorným mixérem dohladka. Dlouhé držení na plotně zbytečně zkazí zelenou barvu."
+    },
+    {
+      "text": "Vmíchej smetanu, dochuť pepřem a muškátovým oříškem a krátce prohřej bez varu."
+    },
+    {
+      "text": "Podávej s opraženými dýňovými semínky nebo kapkou olivového oleje."
+    }
+  ],
+  "tips": [
+    "Cuketu neloupej, v kůře je barva i chuť. Velké zralé cukety s tvrdými semínky nejprve zbav jádra.",
+    "Pokud je cuketa vodnatá, nepřidávej tolik vývaru najednou, hustotu doladíš až po rozmixování.",
+    "Citronová šťáva (půl lžičky) na závěr polévku osvěží."
+  ],
+  "substitutions": [
+    "Smetanu nahraď ovesným nápojem nebo kokosovým mlékem, ať je polévka bez mléka.",
+    "Brambor můžeš vynechat a nahradit 50 g červené čočky, která polévku zahustí.",
+    "Místo muškátu se hodí čerstvá bazalka nebo máta."
+  ],
+  "faq": [
+    {
+      "q": "Jak zahustit cuketovou polévku?",
+      "a": "Přidej při vaření jednu menší bramboru, nebo vlož pár lžic ovesných vloček. Po rozmixování uvař ještě 5 minut."
+    },
+    {
+      "q": "Proč je cuketová polévka hořká?",
+      "a": "Hořká bývá velká přezrálá cuketa nebo ta, která rostla v suchu. Hořkou kůru a semena odstraň, nebo cuketu ochutnej syrovou předem."
+    },
+    {
+      "q": "Dá se cuketová polévka zamrazit?",
+      "a": "Ano, bez smetany vydrží v mrazáku asi 3 měsíce. Smetanu přidej až při ohřevu. V lednici vydrží 3 dny."
+    }
+  ]
+}

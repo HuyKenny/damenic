@@ -1,0 +1,78 @@
+{
+  "title": "Domácí jogurt",
+  "keywords": [
+    "domácí jogurt",
+    "jak udělat jogurt",
+    "domácí jogurt recept",
+    "jogurt z mléka"
+  ],
+  "image": "dish-domaci-jogurt",
+  "category": "snidane",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 5,
+  "cookMinutes": 5,
+  "waitMinutes": 480,
+  "waitLabel": "inkubace v teple 8 hodin",
+  "difficulty": "střední",
+  "meal": "snidane",
+  "intro": "Domácí jogurt vznikne z čerstvého mléka a lžíce hotového bílého jogurtu, bez jogurtovače. Mléko se krátce ohřeje na 85 °C, zchladí na 43 °C a nechá se v teple odpočívat 8 hodin. Těžké je udržet správnou teplotu a nepřidat startér do příliš horkého mléka.",
+  "ingredients": [
+    {
+      "ingredient": "mleko",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "plnotučné trvanlivé nebo čerstvé"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 40,
+      "unit": "g",
+      "note": "živý jogurt bez příchutě, jako startér"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mléko nalij do čistého hrnce a pomalu ho za občasného míchání ohřej na 85 °C. Měř teploměrem, mléko se nesmí přivést k varu."
+    },
+    {
+      "text": "Odstav a nech chladnout na 43 až 45 °C, což trvá asi 30 minut. Pokud teploměr nemáš, vydrž v mléce prstem napočítat do deseti."
+    },
+    {
+      "text": "Odeber 100 ml vlažného mléka, rozmíchej v něm 40 g bílého jogurtu a vlij zpět do hrnce. Promíchej jen krátce."
+    },
+    {
+      "text": "Mléko rozlij do čistých zavařovacích sklenic a zavři. Hrnec nebo sklenice zabal do deky a nech 8 hodin v teple, nejlépe při 40 až 43 °C (třeba v troubě s pouhým zapnutým světlem)."
+    },
+    {
+      "text": "Hotový jogurt má pevnější konzistenci a nad povrchem se tvoří čirá syrovátka. Sklenice bez třepání dej do lednice na 4 hodiny, aby se zahustil a vychladl."
+    },
+    {
+      "text": "Jednu sklenici nechej na další várku. Hotový jogurt vydrží v lednici 5 až 7 dní."
+    }
+  ],
+  "tips": [
+    "Čím déle jogurt kvasí, tím je kyselejší. Pro jemnější chuť stačí 6 hodin, pro kyselejší 10.",
+    "Pro hustší jogurt scedíš hotový jogurt přes plátno v sítu a necháš 2 hodiny v lednici.",
+    "Nádobí vypláchni horkou vodou, aby kultura nebojovala s cizími bakteriemi."
+  ],
+  "substitutions": [
+    "Místo plnotučného mléka použij polotučné, jogurt bude řidší.",
+    "Startér můžeš koupit v sáčku v lékárně nebo v obchodě se zdravou výživou, použij podle návodu.",
+    "Chceš-li jogurt bez laktózy, použij mléko bez laktózy, kvasí stejně."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se dělá domácí jogurt?",
+      "a": "Samotná práce zabere asi 15 minut, hlavní je 8 hodin kvašení v teple a 4 hodiny v lednici. Nejpohodlnější je ho nechat kvasit přes noc."
+    },
+    {
+      "q": "Proč je domácí jogurt řídký?",
+      "a": "Příčinou bývá nízká teplota při kvašení, příliš málo startéru nebo mléko, které se předtím neohřálo na 85 °C. Kvašení nech trvat o 2 hodiny déle nebo jogurt scedi."
+    },
+    {
+      "q": "Dá se jogurt dělat bez jogurtovače?",
+      "a": "Ano. Stačí hrnec nebo sklenice zabalené v dece, případně trouba s rozsvíceným světlem. Teplota mléka má být po celou dobu 40 až 43 °C."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Mrkvová polévka se zázvorem",
+  "section": "Polévky",
+  "price": 8900,
+  "recipe": "mrkvova-polevka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 220,
+  "description": "Sametová mrkvová polévka se zázvorem a citronem.",
+  "about": [
+    "Mrkev dá sladkost, zázvor štiplavost a citron nahodí rovnováhu. Vyvařená mrkev je lepší, než by řekl její vzhled.",
+    "Barvu máš zdarma, vůni taky, jen polévka přijede po tvých vlastních nohou z lednice. Naběračka zůstává prázdná."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "prazdna-naberacka",
+  "image": "dish-mrkvova-polevka",
+  "allergens": [
+    7
+  ]
+}

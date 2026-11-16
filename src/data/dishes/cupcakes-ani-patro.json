@@ -1,0 +1,23 @@
+{
+  "name": "Cupcakes s krémem",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Malé sladké",
+  "description": "Vanilkový košíček s kopcem máslového krému a smetanového sýra.",
+  "about": [
+    "Cupcake je malý dort, který se vejde do ruky. Těsto je máslové a vanilkové, krém lehký a naskládaný vysoko jako čepice. Hodí se na oslavy, kdy se nechce krájet.",
+    "Dortárna je skromná: jeden košíček, jedna čepice, žádné zbytečné patro. Recept ti dá dvanáct kousků a krém na všechny."
+  ],
+  "price": 9900,
+  "image": "dish-cupcakes-ani-patro",
+  "recipe": "cupcakes",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 500
+}

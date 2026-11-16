@@ -1,0 +1,41 @@
+{
+  "name": "Bellini",
+  "restaurant": "koktejlbar-prazdna-sklenka",
+  "kind": "main",
+  "section": "Spritzy a long drinky",
+  "description": "Čerstvé broskvové pyré a prosecco v poměru 1 : 2, naléváno pomalu po stěně sklenky.",
+  "about": [
+    "Bellini je broskev, která se rozhodla jít na večírek. Pyré z čerstvých zralých broskví a prosecco v poměru 1 : 2, naléváno pomalu, aby nepěnilo.",
+    "Vyber si klidně verzi bez alkoholu. Bar je smyšlený a alkohol je jen pro 18+, takže nic nenalijeme. Zralé broskve ti ale doma voní doopravdy."
+  ],
+  "price": 16900,
+  "image": "dish-bellini-sklenka",
+  "recipe": "bellini",
+  "optionGroups": [
+    {
+      "id": "varianta",
+      "name": "Varianta",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "s-alkoholem",
+          "name": "S alkoholem (jen 18+)",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-alkoholu",
+          "name": "Bez alkoholu",
+          "priceDelta": -4500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    12
+  ],
+  "order": 55
+}

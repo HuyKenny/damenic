@@ -1,0 +1,99 @@
+{
+  "title": "Vařená červená řepa s kmínem a octem",
+  "keywords": [
+    "červená řepa",
+    "vařená červená řepa",
+    "jak uvařit červenou řepu",
+    "červená řepa recept"
+  ],
+  "image": "dish-cervena-repa",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 50,
+  "waitMinutes": 20,
+  "waitLabel": "vychladnutí",
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Červená řepa se vaří vcelku ve slupce, aby neztratila barvu ani šťávu. Po uvaření se oloupe, nakrájí a zalije octem, olejem a kmínem. Je to příloha, kterou lze připravit den předem, ke vepřovému i k sýrovým jídlům.",
+  "ingredients": [
+    {
+      "ingredient": "cervena-repa",
+      "amount": 800,
+      "unit": "g",
+      "note": "menší kusy, neloupané"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do vody"
+    },
+    {
+      "ingredient": "ocet-vinny",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "pomletý nebo drcený"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kren-strouhany",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "nepovinné"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Řepu důkladně omyj kartáčkem, ale neoškrabuj a neřež listové stopky ani kořínek, zůstane tak v řepě barva."
+    },
+    {
+      "text": "Dej ji do hrnce, zalij studenou vodou s lžičkou soli a vař pod poklicí 40 až 60 minut podle velikosti. Hotová je, když se špejle zabodne bez odporu."
+    },
+    {
+      "text": "Slij a nech zchladnout pod studenou vodou. Slupka se sloupne rukama, nejlépe v rukavicích, šťáva barví."
+    },
+    {
+      "text": "Nakrájej na plátky nebo kostky, promíchej s octem, olejem, kmínem, cukrem a případně křenem. Nech 20 minut odležet."
+    }
+  ],
+  "tips": [
+    "Sůl dej do vody, řepa nasákne rovnoměrně.",
+    "Menší kusy se vaří 40 minut, velké až hodinu. Vařit je můžeš i v tlakovém hrnci 20 minut.",
+    "Na rukavice a prkénko dej pozor, šťáva dlouho barví."
+  ],
+  "substitutions": [
+    "Ocet nahraď citronovou šťávou nebo jablečným octem.",
+    "Kmín vynech nebo použij kopr.",
+    "Olivový olej vyměň za řepkový nebo slunečnicový."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří červená řepa?",
+      "a": "Podle velikosti 40 až 60 minut od varu. Hotová je, když špejle projde bez odporu."
+    },
+    {
+      "q": "Proč se řepa neloupá před vařením?",
+      "a": "Při loupání a krájení vytéká šťáva a řepa vybledne. Ve slupce si udrží barvu i sladkost."
+    },
+    {
+      "q": "Jak dlouho vydrží uvařená řepa?",
+      "a": "V lednici zakrytá 4 až 5 dní."
+    }
+  ]
+}

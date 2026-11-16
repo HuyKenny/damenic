@@ -1,0 +1,24 @@
+{
+  "name": "Pečená žebra v troubě",
+  "restaurant": "udirna-odnikud",
+  "kind": "main",
+  "section": "Z pekáče",
+  "description": "Vepřová žebra v marinádě z medu a uzené papriky, pečená pomalu do lepkavé polevy.",
+  "about": [
+    "Žebra jsou kost s masem, která se musí péct pomalu. Dostanou marinádu z kečupu, medu a uzené papriky a potom tři hodiny odpočívají zabalená v troubě. Na závěr se potřou zbytkem marinády a zkaramelizují.",
+    "Udírna Odnikud umí kouřit jen nanečisto, ale trouba udělá stejnou práci: maso odpadává od kosti a lepkavá poleva zůstane na prstech. Připrav ubrousky."
+  ],
+  "price": 27900,
+  "image": "dish-pecena-zebra",
+  "recipe": "pecena-zebra",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    6,
+    10
+  ],
+  "order": 80
+}

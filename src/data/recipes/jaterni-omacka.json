@@ -1,0 +1,114 @@
+{
+  "title": "Játrová omáčka z drůbežích jater",
+  "keywords": [
+    "játrová omáčka",
+    "játrová omáčka recept",
+    "játrová omáčka z drůbežích jater",
+    "omáčka z jater"
+  ],
+  "image": "dish-jaterni-omacka",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "omacka",
+  "intro": "Játrová omáčka je hustší omáčka z drůbežích jater, cibule a majoránky, která se podává ke knedlíkům nebo rýži. Játra se nemají přepéct, jinak ztvrdnou. Omáčka je hotová za půl hodiny a hodí se i na druhý den.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-jatra",
+      "amount": 300,
+      "unit": "g",
+      "note": "očištěná"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na jemno"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Játra zbav blan a žilek, osuš papírovou utěrkou a nakrájej na menší kousky."
+    },
+    {
+      "text": "V pánvi na oleji a másle osmaž cibuli doměkka na mírném plameni, 6 minut."
+    },
+    {
+      "text": "Přidej játra a opékej je na středním plameni 4 až 5 minut, aby ztratila růžovou barvu. Posyp moukou a promíchej."
+    },
+    {
+      "text": "Zalij vývarem a za stálého míchání přiveď k varu. Přidej majoránku, sůl a pepř a nech 12 minut mírně bublat."
+    },
+    {
+      "text": "Vlij smetanu, nech minutu prohřát a podle chuti dosol. Játra musí být uvnitř propečená do šedohněda."
+    }
+  ],
+  "tips": [
+    "Játra smaž na jednom místě krátce, dlouhé smažení je vysuší.",
+    "Pro jemnější omáčku část jater a cibule rozmixuj tyčovým mixérem.",
+    "Podávej ke houskovému knedlíku nebo rýži."
+  ],
+  "substitutions": [
+    "Kuřecí játra nahraď vepřovými, jen nakrájej drobněji a duš o 5 minut déle.",
+    "Smetanu nahraď mlékem pro lehčí verzi.",
+    "Hovězí vývar nahraď zeleninovým nebo kuřecím."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří játra v omáčce?",
+      "a": "Asi 12 minut v omáčce po krátkém opečení. Uvnitř musí být propečená."
+    },
+    {
+      "q": "Čím podávat játrovou omáčku?",
+      "a": "S houskovým nebo bramborovým knedlíkem, rýží nebo bramborovou kaší."
+    },
+    {
+      "q": "Dá se játrová omáčka ohřát?",
+      "a": "Ano, ohřej ji do horka a nevař dlouho, ať játra nevyschnou. V lednici vydrží 2 dny."
+    }
+  ]
+}

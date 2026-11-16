@@ -1,0 +1,43 @@
+{
+  "name": "Palačinky s tvarohem",
+  "section": "Sladké",
+  "price": 12900,
+  "recipe": "palacinky-s-tvarohem",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 220,
+  "description": "Tenké palačinky plněné tvarohem a rozinkami.",
+  "about": [
+    "Těsto odpočívá půl hodiny, palačinky jsou tenké a plní se sladkým tvarohem. Zapečení v troubě je nakonec.",
+    "Pointa je v odpočinku těsta. Stejně jako náš kurýr, i ono dobře odpočívá."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "na-lacno",
+  "image": "dish-palacinky-s-tvarohem",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

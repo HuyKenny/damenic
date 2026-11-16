@@ -1,0 +1,116 @@
+{
+  "title": "Syrniki",
+  "keywords": [
+    "syrniki",
+    "syrniki z tvarohu",
+    "tvarohové placičky",
+    "syrniki recept"
+  ],
+  "image": "dish-syrniki",
+  "category": "snidane",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 12,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Syrniki jsou tvarohové placičky smažené na pánvi dozlatova. Mají křupavý okraj a měkký střed, ale jen tehdy, když je tvaroh dobře odkapaný a těsto nepřidá moc mouky.",
+  "ingredients": [
+    {
+      "ingredient": "tvaroh",
+      "amount": 400,
+      "unit": "g",
+      "note": "odkapaný, hrudkovitý nebo jemný"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 5,
+      "unit": "lzice",
+      "note": "a trochu na obalení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "špetka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na smažení"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 150,
+      "unit": "g",
+      "note": "na podávání"
+    },
+    {
+      "ingredient": "maliny",
+      "amount": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Tvaroh dej na sítko a nech 10 minut okapat. Poté ho rozmačkej vidličkou nebo prolisuj přes síto, aby nezůstaly velké hrudky."
+    },
+    {
+      "text": "Vmíchej vejce, cukr, vanilkový cukr a špetku soli. Přidej mouku a promíchej jen do spojení. Těsto je husté a lehce lepivé."
+    },
+    {
+      "text": "Těsto nech 15 minut odpočinout, mouka nasákne a těsto bude snáz tvarovatelné."
+    },
+    {
+      "text": "Z těsta tvaruj kuličky o velikosti vlašského ořechu, obal je v mouce a mírně zploštěte na placičky vysoké 1,5 cm."
+    },
+    {
+      "text": "V pánvi rozehřej olej na středním plameni a smaž placičky 3 až 4 minuty z každé strany do zlatova. Střed musí být pevný a vejce uvnitř zcela propečené."
+    },
+    {
+      "text": "Odkapej na papírové utěrce a podávej se zakysanou smetanou, malinami nebo medem."
+    }
+  ],
+  "tips": [
+    "Mokrý tvaroh je největší problém. Raději ho odkapej déle, než přidávat víc mouky, jinak budou placičky tužší.",
+    "Nesmaž na příliš vysoké teplotě, venku zhnědnou a uvnitř zůstanou syrové.",
+    "Hotové placičky udržíš v troubě při 80 °C, než usmažíš všechny."
+  ],
+  "substitutions": [
+    "Hladkou mouku nahraď polohrubou nebo bezlepkovou směsí.",
+    "Cukr lze snížit na 1 lžíci a podávat sladké zdroje zvlášť.",
+    "Tvaroh můžeš nahradit ricottou odkapanou 30 minut."
+  ],
+  "faq": [
+    {
+      "q": "Proč se syrniki rozpadají?",
+      "a": "Tvaroh je moc mokrý nebo je v těstě málo mouky. Tvaroh odkapej a těsto nech 15 minut odpočinout."
+    },
+    {
+      "q": "Jaký tvaroh na syrniki?",
+      "a": "Polotučný, suchý a pevný, nejlépe z lehce odkapaného hrudkovitého tvarohu. Vlhký tvaroh odkapej přes sítko."
+    },
+    {
+      "q": "Dají se syrniki připravit dopředu?",
+      "a": "Ano, nesmažené placičky vydrží v lednici do druhého dne, usmažené 2 dny a ohřejí se na pánvi."
+    }
+  ]
+}

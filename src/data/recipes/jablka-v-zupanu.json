@@ -1,0 +1,118 @@
+{
+  "title": "Jablka v županu z listového těsta",
+  "keywords": [
+    "jablka v županu",
+    "jablka v županu z listového těsta",
+    "pečená jablka v těstě",
+    "jablka v županu recept"
+  ],
+  "image": "dish-jablka-v-zupanu-na-slib",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Jablka v županu jsou celá vykrojená jablka plněná skořicí, rozinkami a ořechy, zabalená do listového těsta a upečená dozlatova. Vyjdou čtyři porce. Rozhoduje odrůda: potřebuješ pevná, kyselejší jablka, která se v troubě nerozpadnou.",
+  "ingredients": [
+    {
+      "ingredient": "jablko",
+      "amount": 4,
+      "unit": "ks",
+      "note": "pevná, kyselejší, asi 180 g"
+    },
+    {
+      "ingredient": "listove-testo",
+      "amount": 275,
+      "unit": "g",
+      "note": "1 role"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 30,
+      "unit": "g",
+      "note": "nasekané"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 4,
+      "unit": "g",
+      "note": "asi 1 lžička"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "měkké"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na potření"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 10,
+      "unit": "g",
+      "note": "na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C). Jablka oloupej a vykrajovátkem vykroj jádřinec tak, aby vznikla dutina, ale dno zůstalo."
+    },
+    {
+      "text": "V misce smíchej rozinky, ořechy, cukr, skořici a měkké máslo. Touto směsí naplň jablka."
+    },
+    {
+      "text": "Listové těsto rozděl na 4 stejné díly a každý rozválej na čtverec o straně asi 16 cm. Jablko polož doprostřed, těsto přehni přes něj, krajíčky přitiskni dohromady a spoj dole."
+    },
+    {
+      "text": "Jablka položená spojem dolů dej na plech s pečicím papírem. Z odřezků těsta vyřízni lístky na ozdobu, polož je navrch a celý povrch potři rozšlehaným vejcem."
+    },
+    {
+      "text": "Peč 30 až 35 minut, dokud není těsto zlatohnědé a jablko měkké, což ověříš špejlí. Nech 10 minut odpočinout a posyp moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Pokud se těsto při pečení příliš zbarví, přikryj ho alobalem.",
+    "Jablka můžeš doplnit lžící džemu nebo strouhaným marcipánem místo cukru.",
+    "Podávej s vanilkovou zmrzlinou nebo vanilkovým krémem."
+  ],
+  "substitutions": [
+    "Rozinky můžeš nahradit sušenými brusinkami.",
+    "Vlašské ořechy nahraď mandlemi nebo je vynech.",
+    "Místo listového těsta lze použít kynuté nebo křehké, doba pečení je o něco delší."
+  ],
+  "faq": [
+    {
+      "q": "Jaká jablka se na jablka v županu hodí?",
+      "a": "Pevná, kyselejší odrůdy, které drží tvar a nerozbřednou. Měkká jablka se v troubě rozpadnou."
+    },
+    {
+      "q": "Dají se připravit dopředu?",
+      "a": "Ano, zabalená jablka vydrží na plechu v lednici 4 hodiny před pečením. Vejce na potření dej až těsně před pečením."
+    },
+    {
+      "q": "Proč jablka pustila šťávu?",
+      "a": "Spojení těsta nebylo dokonale uzavřené nebo jablko bylo příliš šťavnaté. Těsto pořádně spoj a jablka dej spojem dolů."
+    },
+    {
+      "q": "Jak dlouho se pečou?",
+      "a": "Zhruba 30 až 35 minut při 200 °C. Poznáš je podle zlatavého těsta a měkkého jablka."
+    }
+  ]
+}

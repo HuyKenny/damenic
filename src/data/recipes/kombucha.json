@@ -1,0 +1,101 @@
+{
+  "title": "Kombucha",
+  "keywords": [
+    "kombucha",
+    "domácí kombucha",
+    "kombucha recept",
+    "jak udělat kombuchu",
+    "kombucha scoby"
+  ],
+  "image": "dish-kombucha-vymackame",
+  "category": "napoje",
+  "vegetarian": true,
+  "alcohol": false,
+  "servings": 10,
+  "activeMinutes": 25,
+  "cookMinutes": 0,
+  "waitMinutes": 9000,
+  "waitLabel": "první kvašení 7 až 10 dnů",
+  "difficulty": "střední",
+  "meal": "napoj",
+  "intro": "Kombucha je kvašený sladký čaj, který připraví kultura SCOBY (kombinace bakterií a kvasinek). Základní recept počítá s 3 litry hotového nápoje, takže stačí velký skleněný džber, černý čaj, cukr a hotová kombucha jako startér. Těžké je hlavně čekání a čistota: všechno nádobí musí být čisté a kultura nesmí přijít do styku s kovem.",
+  "ingredients": [
+    {
+      "ingredient": "voda",
+      "amount": 3000,
+      "unit": "ml",
+      "note": "na vaření čaje i k doplnění"
+    },
+    {
+      "ingredient": "caj-cerny",
+      "amount": 8,
+      "unit": "ks",
+      "note": "sáčky černého čaje bez aromat"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 210,
+      "unit": "g",
+      "note": "asi 70 g na litr"
+    },
+    {
+      "ingredient": "kombucha-scoby",
+      "amount": 1,
+      "unit": "ks",
+      "note": "i s tekutinou, v které byla uložena"
+    },
+    {
+      "ingredient": "kombucha-starter",
+      "amount": 300,
+      "unit": "ml",
+      "note": "hotová nepasterovaná kombucha"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přiveď 1 litr vody k varu, odstav ji, vlož čajové sáčky a nech louhovat 10 minut. Sáčky vyndej a v horkém čaji rozpusť cukr."
+    },
+    {
+      "text": "Čaj ve velké nádobě zalij zbylými 2 litry studené vody. Směs musí vychladnout na pokojovou teplotu, tedy pod 30 °C. Horká tekutina by kulturu poškodila."
+    },
+    {
+      "text": "Nalij vychlazený čaj do sklenice o objemu aspoň 4 litry (ne do kovu), přidej 300 ml hotové kombuchy a opatrně ponoř SCOBY."
+    },
+    {
+      "text": "Sklenici zakryj čistou bavlněnou látkou nebo papírovou utěrkou a zajisti ji gumičkou. Nesmí se uzavřít víkem, kultura potřebuje vzduch."
+    },
+    {
+      "text": "Nech kvasit 7 až 10 dní na tmavším místě při 22 až 26 °C. Od 7. dne ochutnávej čistou lžící nebo slámkou: má být kyselkavá a lehce perlivá, ne sladká jako čaj."
+    },
+    {
+      "text": "Kulturu vyjmi čistýma rukama, ulož ji do sklenice se 300 ml hotové kombuchy a hotový nápoj přelij do lahví. Lahve s hotovou kombuchou skladuj v lednici a vypij do 2 týdnů."
+    },
+    {
+      "text": "Chceš-li druhé kvašení, přidej do každé lahve o objemu 0,5 l 50 g kousků ovoce nebo 2 lžíce džusu, pevně uzavři a nech 2 až 3 dny při pokojové teplotě. Poté lahve otevři opatrně, nápoj perlí."
+    }
+  ],
+  "tips": [
+    "Všechno nádobí vypláchni horkou vodou nebo octem, ne mýdlem. Zbytky saponátu kulturu poškodí.",
+    "Na povrchu kultury se tvoří hnědá vlákna a tmavé skvrny: to je normální. Zelená, modrá nebo chlupatá plíseň znamená, že musíš všechno vyhodit a začít znovu.",
+    "Kombucha obsahuje drobné množství alkoholu z kvašení, často kolem 0,5 %, a při delším kvašení i víc. Proto není vhodná pro děti ani těhotné."
+  ],
+  "substitutions": [
+    "Černý čaj lze nahradit zeleným, hotová kombucha pak chutná jemněji. Bylinné a aromatické čaje se nehodí.",
+    "Bílý cukr se dá nahradit třtinovým. Med ani sladidla nepoužívej, kvašení by se zpomalilo.",
+    "Startér lze nahradit 3 lžícemi bílého octa na litr, ale chuť bývá ostřejší."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se kvasí domácí kombucha?",
+      "a": "První kvašení trvá obvykle 7 až 10 dní při 22 až 26 °C. Čím je tepleji, tím je nápoj kyselejší. Průběh kontroluj chutí a ve chvíli, kdy ti chutná, kvašení zastav."
+    },
+    {
+      "q": "Kde vzít SCOBY?",
+      "a": "Dostaneš ho od kamaráda, který kombuchu vyrábí, nebo si ho koupíš v obchodě se zdravou výživou. Nové SCOBY nevznikne z čaje bez startéru, v čaji z lahve s hotovou kombuchou ale narůst může, pokud je nepasterovaná."
+    },
+    {
+      "q": "Jak poznám, že se kombucha pokazila?",
+      "a": "Pokazí-li se, objeví se na povrchu zelená, černá nebo chlupatá plíseň. Hnědé nitky a gelovité kousky jsou naopak v pořádku. Při pochybnosti nápoj vylij."
+    }
+  ]
+}

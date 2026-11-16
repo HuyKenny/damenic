@@ -1,0 +1,146 @@
+{
+  "title": "Dukátové buchtičky s vanilkovým krémem",
+  "keywords": [
+    "dukátové buchtičky",
+    "dukátové buchtičky recept",
+    "buchtičky s vanilkovým krémem",
+    "kynuté buchtičky s džemem"
+  ],
+  "image": "dish-dukatove-buchticky-na-slib",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 45,
+  "cookMinutes": 30,
+  "waitMinutes": 75,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Dukátové buchtičky jsou kynuté kuličky plněné meruňkovým džemem, upečené v másle do zlatova a podávané s teplým vanilkovým krémem. Vyjde 24 kousků na 6 porcí. Těsto je jemné a lehce lepivé, takže se hodí na vlhké ruce a olej.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 25,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "dzem-merunkovy",
+      "amount": 150,
+      "unit": "g",
+      "note": "hustý",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "rozpuštěné na polití",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Vanilkový krém"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 37,
+      "unit": "g",
+      "group": "Vanilkový krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Vanilkový krém"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozmíchej ve vlažném mléce s lžičkou cukru z celkového množství a nech 10 minut zakvasit. Do mísy dej mouku se solí, přidej kvásek, vejce, zbytek cukru a rozpuštěné máslo."
+    },
+    {
+      "text": "Hněť 10 minut, dokud není těsto hladké. Přikryj a nech 60 minut kynout, dokud nezdvojnásobí objem."
+    },
+    {
+      "text": "Těsto rozděl na 24 kousků. Každý rozplácni na dlani, doprostřed dej čajovou lžičku džemu, okraje spoj a vytvaruj kuličku."
+    },
+    {
+      "text": "Kuličky naskládej těsně vedle sebe spojem dolů do máslem vymazaného pekáče o rozměrech asi 25 × 30 cm. Nech 15 minut dokynout. Troubu předehřej na 180 °C (horkovzduch 170 °C)."
+    },
+    {
+      "text": "Buchtičky potři rozpuštěným máslem a peč 25 až 30 minut, dokud nejsou zlatavé a po zapíchnutí špejle nevyjde čistá."
+    },
+    {
+      "text": "Na krém rozmíchej pudink s 100 ml studeného mléka a cukrem. Zbylé mléko přiveď k varu, vlij pudink a za stálého míchání vař 1 minutu. Podávej teplý k buchtičkám."
+    }
+  ],
+  "tips": [
+    "Okraje těsta pořádně spoj, jinak džem při pečení vyteče.",
+    "Máslo na povrchu dává kůrce typickou zlatou barvu, nevynechávej ho.",
+    "Buchtičky nejlépe chutnají hodinu po upečení, ještě vlažné."
+  ],
+  "substitutions": [
+    "Meruňkový džem nahraď švestkovými povidly nebo tvarohovou náplní.",
+    "Vanilkový krém nahraď šlehačkou nebo zmrzlinou.",
+    "Mléko v těstě nahraď ovesným nápojem."
+  ],
+  "faq": [
+    {
+      "q": "Jaký džem dát do buchtiček?",
+      "a": "Hustý, ideálně meruňkový nebo švestkové povidla. Tekutý džem by se při pečení vylil."
+    },
+    {
+      "q": "Jak dlouho vydrží?",
+      "a": "Dva dny zakryté. Ohřívej je 8 minut při 160 °C, krém ohřej zvlášť."
+    },
+    {
+      "q": "Proč mi buchtičky netvoří kůrku?",
+      "a": "Pravděpodobně chybí máslo na povrchu. Buchtičky ho před pečením potři, jinak zůstanou světlé a suché."
+    },
+    {
+      "q": "Dá se těsto připravit večer?",
+      "a": "Ano, tvarované buchtičky nech přes noc v lednici a ráno je nech zahřát 30 minut při pokojové teplotě před pečením."
+    }
+  ]
+}

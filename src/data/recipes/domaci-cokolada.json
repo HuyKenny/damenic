@@ -1,0 +1,95 @@
+{
+  "title": "Domácí čokoláda z kakaového másla",
+  "keywords": [
+    "domácí čokoláda",
+    "domácí čokoláda recept",
+    "čokoláda z kakaa",
+    "jak udělat čokoládu",
+    "čokoláda z kakaového másla"
+  ],
+  "image": "dish-domaci-cokolada-sladke",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 60,
+  "waitLabel": "tuhnutí v lednici",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Domácí čokoláda se dělá ze tří věcí: kakaového másla, kakaa a moučkového cukru. Vyjde asi 230 g hořké čokolády. Nejtěžší je temperování, tedy řízené chlazení hmoty. Bez něj čokoláda také ztuhne a chutná, ale je matnější a snáz se rozpouští v ruce.",
+  "ingredients": [
+    {
+      "ingredient": "kakaove-maslo",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 60,
+      "unit": "g",
+      "note": "neslazené, prosáté"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 70,
+      "unit": "g",
+      "note": "prosátý"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kakaové máslo nakrájej na kousky a rozpusť v misce nad horkou, ne vroucí vodní lázní, dokud nemá asi 45 °C. Miska se nesmí dotýkat vody a do čokolády se nesmí dostat žádná kapka vody."
+    },
+    {
+      "text": "Odstav z lázně a postupně vmíchej prosáté kakao, moučkový cukr, vanilkový cukr a sůl. Míchej, dokud není hmota úplně hladká."
+    },
+    {
+      "text": "Pokud chceš lesklou čokoládu, temperuj: hmotu nech zchladnout na 28 °C a pak ji na chvíli zahřej na 31 až 32 °C. Teplotu měř teploměrem. Bez temperování pokračuj dalším krokem."
+    },
+    {
+      "text": "Čokoládu nalij do silikonové formy nebo na plech s pečicím papírem do tenké vrstvy. Poklepáním vypuď bublinky."
+    },
+    {
+      "text": "Nech 60 minut ztuhnout v lednici. Vyklop, nalámej a skladuj v suchu."
+    }
+  ],
+  "tips": [
+    "Voda je nepřítel čokolády. Misku, lžíci i formu měj suché, jinak čokoláda zhrubne.",
+    "Do čokolády můžeš přimíchat 50 g nasekaných ořechů nebo sušených malin před nalitím do formy.",
+    "Čokoláda nemá ráda teplo, skladuj ji při 16 až 18 °C, případně v lednici dobře zabalenou."
+  ],
+  "substitutions": [
+    "Pro hořčí čokoládu sniž moučkový cukr na 40 g, pro sladší ho zvyš na 90 g.",
+    "Pro mléčnou čokoládu přidej 30 g sušeného mléka k cukru.",
+    "Vanilkový cukr nahraď špetkou mleté vanilky."
+  ],
+  "faq": [
+    {
+      "q": "Kde koupit kakaové máslo?",
+      "a": "V drogeriích, obchodech se zdravou výživou a v internetových obchodech. Je to bílá až nažloutlá tuhá hmota, voní po čokoládě."
+    },
+    {
+      "q": "Proč je čokoláda matná a má bílý povlak?",
+      "a": "Netemperovala se, nebo se skladovala v teple. Chuť je v pořádku, jen vzhled je horší."
+    },
+    {
+      "q": "Jak dlouho čokoláda vydrží?",
+      "a": "Zabalená v suchu vydrží asi 3 měsíce. Nejlepší je do měsíce, pak ztrácí vůni."
+    },
+    {
+      "q": "Můžu použít obyčejné máslo?",
+      "a": "Ne. Máslo obsahuje vodu a čokoláda by neztuhla do snadno lámatelné tabulky."
+    }
+  ]
+}

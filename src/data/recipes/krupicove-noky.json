@@ -1,0 +1,95 @@
+{
+  "title": "Krupicové noky do polévky",
+  "keywords": [
+    "krupicové noky",
+    "krupicové noky do polévky",
+    "krupicové noky recept",
+    "noky do vývaru"
+  ],
+  "image": "dish-krupicove-noky",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 20,
+  "waitLabel": "krupice nabobtná",
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Krupicové noky jsou drobné nočky z másla, vejce a jemné krupice, které se vaří přímo ve vývaru. Těsto musí chvíli odpočinout, aby krupice nabobtnala. Jinak se noky rozpadnou nebo budou tvrdé.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "měkké, pokojové teploty"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "krupice",
+      "amount": 90,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "podle potřeby"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Měkké máslo vyšlehej vidličkou nebo metlou do pěny, přidej vejce, sůl a muškát."
+    },
+    {
+      "text": "Vmíchej krupici a případně lžíci vody, těsto má být řidší hustá kaše. Přikryj a nech 20 minut odpočinout, krupice nabobtná."
+    },
+    {
+      "text": "Ve větším hrnci přiveď k varu osolenou vodu nebo vývar a stáhni plamen, aby se jen lehce vařila."
+    },
+    {
+      "text": "Namoč lžičku do horké tekutiny, nabírej těsto a spouštěj noky do vody. Nesmí se vařit prudce."
+    },
+    {
+      "text": "Vař 10 minut. Noky vyplavou na hladinu a zvětší se. Odeber jednu a rozkroj, uvnitř nesmí být syrové těsto."
+    }
+  ],
+  "tips": [
+    "Noky vař v osolené vodě a do polévky je přidej až na konec. Vývar zůstane čistý.",
+    "Zkušební nok uvař první. Rozpadne-li se, přidej lžičku krupice.",
+    "Namočená lžička se neslepí s těstem."
+  ],
+  "substitutions": [
+    "Máslo nahraď přepuštěným máslem nebo sádlem.",
+    "Vejce nahraď vaječným žloutkem navíc pro hladší noky.",
+    "Jemnou krupici nahraď hrubou, noky budou zrnitější a je třeba je nechat nabobtnat o 10 minut déle."
+  ],
+  "faq": [
+    {
+      "q": "Proč se mi krupicové noky rozpadají?",
+      "a": "Těsto je příliš řídké nebo nemělo čas nabobtnat. Nech ho odpočinout 20 minut nebo přidej lžičku krupice."
+    },
+    {
+      "q": "Jak poznám, že jsou noky hotové?",
+      "a": "Vyplavou na hladinu a po rozkrojení nemají syrové jádro. Většinou po 10 minutách."
+    },
+    {
+      "q": "Mohu noky uvařit předem?",
+      "a": "Ano, uvař je ve vodě, slij a uchovej v lednici 1 den. Do polévky je před podáváním prohřej."
+    }
+  ]
+}

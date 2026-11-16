@@ -1,0 +1,24 @@
+{
+  "name": "Kuřecí supreme",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Polední menu",
+  "description": "Kuřecí prsa v jemné smetanové omáčce se žampiony a petrželkou.",
+  "about": [
+    "Supreme je poctivé pánvové jídlo bez složitostí: kuřecí prsa, trochu mouky na obalení a omáčka ze smetany a žampionů. Vydá na 40 minut a v jedné pánvi, takže i nádobí vyjde levně.",
+    "Šťavnatost se rozhoduje na pánvi: prsa nesmí být moc silná a nesmí se smažit dlouho. Tady se nesmaží vůbec, jídlo je smyšlené, ale recept máš doma na dosah. Podávej s rýží a nech omáčku dojít."
+  ],
+  "price": 18900,
+  "image": "dish-kureci-supreme",
+  "recipe": "kureci-supreme",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9
+  ],
+  "order": 70
+}

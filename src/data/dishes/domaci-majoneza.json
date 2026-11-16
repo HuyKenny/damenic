@@ -1,0 +1,21 @@
+{
+  "name": "Domácí majonéza, miska",
+  "restaurant": "burger-nikdy",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Hustá majonéza z vajec, hořčice a citronu k hranolkám.",
+  "about": [],
+  "price": 3500,
+  "image": "dish-domaci-majoneza",
+  "recipe": "domaci-majoneza",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    10
+  ],
+  "featured": false,
+  "order": 900
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Játrová omáčka s drůbežími játry",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Hustá omáčka z kuřecích jater, cibule a majoránky.",
+  "about": [],
+  "price": 7900,
+  "image": "dish-jaterni-omacka",
+  "recipe": "jaterni-omacka",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9
+  ],
+  "featured": false,
+  "order": 900
+}

@@ -1,0 +1,123 @@
+{
+  "title": "Gratinované brambory se smetanou",
+  "keywords": [
+    "gratinované brambory",
+    "brambory gratin",
+    "zapečené brambory ve smetaně",
+    "gratinované brambory se sýrem"
+  ],
+  "image": "dish-gratinovane-brambory",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 65,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek po upečení",
+  "difficulty": "střední",
+  "meal": "priloha",
+  "intro": "Gratinované brambory jsou tenké plátky brambor upečené ve smetaně s česnekem a sýrem na povrchu. Aby byly měkké uprostřed a zlatavé nahoře, rozhodují tloušťka plátků, hluboká forma a pečení nejdřív pod fólií.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 1000,
+      "unit": "g",
+      "note": "voskovité, oloupané",
+      "group": "brambory"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 300,
+      "unit": "ml",
+      "group": "zálivka"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml",
+      "group": "zálivka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisované",
+      "group": "zálivka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "čerstvě nastrouhaný",
+      "group": "zálivka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "zálivka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na vymazání formy"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 100,
+      "unit": "g",
+      "note": "nastrouhaný na hrubo"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 170 °C). Formu o rozměru asi 20 × 28 cm vymaž máslem."
+    },
+    {
+      "text": "Brambory nakrájej na plátky silné 2 až 3 mm, nejlépe na struhadle nebo kráječi. Plátky neoplachuj, škrob na nich zálivku zahustí."
+    },
+    {
+      "text": "Smetanu, mléko, prolisovaný česnek, sůl, pepř a muškát promíchej v hrnci a zahřej, aby byla zálivka teplá, ale nevařila se."
+    },
+    {
+      "text": "Plátky skládej do formy po vrstvách, každou lehce přelij zálivkou. Zbytek zálivky nalij na konec, brambory mají být skoro zakryté."
+    },
+    {
+      "text": "Formu přikryj alobalem a peč 45 minut. Pak alobal sundej, brambory posyp eidamem a peč dalších 20 minut, dokud povrch nezezlátne a nůž nezajede bez odporu."
+    },
+    {
+      "text": "Před krájením nech gratin 10 minut odpočinout, zálivka se zahustí a porce drží tvar."
+    }
+  ],
+  "tips": [
+    "Plátky krájej stejně silné, jinak se tenké rozpadnou dřív, než změknou tlustší.",
+    "Voskovité brambory se po upečení nerozpadají. Moučné vytvoří spíš kaši.",
+    "Gratin se dá připravit den předem: upeč ho, uchovej v lednici a ohřej 20 minut při 160 °C pod fólií."
+  ],
+  "substitutions": [
+    "Eidam nahraď goudou nebo ementálem, nebo ho vynech a posyp strouhankou smíchanou s máslem.",
+    "Smetanu na vaření lze z poloviny nahradit mlékem, zálivka bude řidší a gratin lehčí.",
+    "Bez laktózy použij rostlinnou smetanu na vaření a rostlinné máslo."
+  ],
+  "faq": [
+    {
+      "q": "Proč jsou gratinované brambory pořád tvrdé?",
+      "a": "Plátky byly příliš tlusté nebo forma příliš hluboká. Krájej na 2 až 3 mm a první polovinu pečení drž pod fólií, pára brambory změkčí."
+    },
+    {
+      "q": "Mám brambory před pečením předvařit?",
+      "a": "Není to nutné, pokud jsou plátky tenké. Předvaření v zálivce 8 minut pomůže u silnějších plátků a zkrátí pečení."
+    },
+    {
+      "q": "Jak dlouho vydrží gratinované brambory v lednici?",
+      "a": "Uchovej je přikryté v lednici nejdéle 2 dny a ohřej prohřátím uprostřed alespoň na 75 °C."
+    }
+  ]
+}

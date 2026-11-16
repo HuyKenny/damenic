@@ -1,0 +1,43 @@
+{
+  "name": "Scones s džemem",
+  "section": "Máslové a slané",
+  "price": 9900,
+  "recipe": "scones",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 210,
+  "description": "Máslové scones s rozinkami, džemem a šlehačkou.",
+  "about": [
+    "Studené máslo, rychlé míchání a těsto, které se nepřemíchává. Koláčky vyrostou vysoko a mají křupavé boky.",
+    "Pec je prázdná, koláčky jsou skutečné, hotové za půl hodiny. Zítra upečeme, dnes si je upeč sám."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "pekarna-zitra-upecem",
+  "image": "dish-scones",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

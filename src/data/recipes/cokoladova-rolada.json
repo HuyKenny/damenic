@@ -1,0 +1,127 @@
+{
+  "title": "Čokoládová roláda s čokoládovým krémem",
+  "keywords": [
+    "čokoládová roláda",
+    "čokoládová roláda recept",
+    "piškotová čokoládová roláda",
+    "roláda s čokoládovým krémem"
+  ],
+  "image": "dish-cokoladova-rolada-ani-patro",
+  "category": "dorty",
+  "vegetarian": true,
+  "servings": 10,
+  "activeMinutes": 45,
+  "cookMinutes": 12,
+  "waitMinutes": 180,
+  "waitLabel": "chlazení krému a rolády",
+  "difficulty": "střední",
+  "meal": "dort",
+  "intro": "Čokoládová roláda je tenký kakaový piškot, který se ještě teplý srolovat a naplní vyšlehaným čokoládovým krémem. Vyjde asi 10 plátků. Aby piškot nepopraskal, vyndej ho z trouby včas a stoč ho teplý.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "oddělené žloutky a bílky",
+      "group": "Piškot"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g",
+      "group": "Piškot"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Piškot"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 30,
+      "unit": "g",
+      "group": "Piškot"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Piškot"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na utěrku",
+      "group": "Piškot"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vychlazená, 33 %, rozdělená",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "group": "Krém"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C). Plech 30 × 40 cm vyloži pečicím papírem. Žloutky vyšlehej se 3 lžícemi cukru do světlé pěny."
+    },
+    {
+      "text": "Bílky se solí vyšlehej do tuhého sněhu, postupně přidávej zbytek cukru a šlehej, dokud sníh nezlesknou. Žloutkovou pěnu opatrně smíchej se sněhem, přidej prosátou mouku s kakaem a vmíchej jen do spojení."
+    },
+    {
+      "text": "Těsto rozetři na plech do tloušťky asi 1 cm. Peč 10 až 12 minut, dokud se povrch při tlaku nevrací. Nesmí hnědnout."
+    },
+    {
+      "text": "Na čistou utěrku nasyp moučkový cukr, piškot na ni vyklop a stáhni papír. Ještě teplý stoč i s utěrkou. Nech vychladnout."
+    },
+    {
+      "text": "Čokoládu nalámej a zalij 100 ml horké smetany. Nech 2 minuty, promíchej do hladka a nech vychladnout na 25 °C, asi 1 hodinu. Zbylých 150 ml studené smetany našlehej, přidej moučkový cukr a vmíchej čokoládu."
+    },
+    {
+      "text": "Roládu rozbal, potři krémem, znovu stoč bez utěrky a dej na 2 hodiny do lednice. Krájej ostrým nožem namočeným v teplé vodě."
+    }
+  ],
+  "tips": [
+    "Bílky musí být bez stopy žloutku, jinak nenašlehají do pevného sněhu.",
+    "Piškot stáčej vlažný, studený by se lámal. Utěrka drží tvar rolády.",
+    "Roláda drží tvar nejlíp po hodině v lednici."
+  ],
+  "substitutions": [
+    "Čokoládovou náplň nahraď mascarpone krémem s kakaem.",
+    "Až 30 g mouky můžeš nahradit bramborovým škrobem pro jemnější piškot.",
+    "Do krému přidej lžíci kávy nebo pomerančové kůry."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi roláda praskla?",
+      "a": "Piškot byl moc suchý nebo se přepékl. Stáčej ho hned po vyjmutí a peč jen do zpevnění."
+    },
+    {
+      "q": "Jak dlouho vydrží?",
+      "a": "V lednici 3 dny zabalená. Dobře drží tvar, chutná i druhý den."
+    },
+    {
+      "q": "Dá se roláda zmrazit?",
+      "a": "Ano, naplněnou a stočenou roládu zabal a zmraz až na 2 měsíce. Rozmrazuj v lednici."
+    },
+    {
+      "q": "Čím ji naplnit místo čokolády?",
+      "a": "Hodí se šlehačka s ovocem nebo mascarpone s džemem. Plnění nesmí být příliš tekuté."
+    }
+  ]
+}

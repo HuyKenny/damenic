@@ -1,0 +1,24 @@
+{
+  "name": "Těstoviny s lososem",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Z pánve",
+  "description": "Penne s kostkami lososa ve smetaně s citronem, špenátem a koprem.",
+  "about": [
+    "Losos a těstoviny jsou kombinace, která se dělá téměř bez námahy: růžové kostky ryby, smetana, citron a koprová vůně. Ryba se nejdřív krátce opeče, aby držela tvar, a v omáčce se jen dokončí.",
+    "Pasta bar Niente tohle jídlo drží v nabídce a nic nepřiveze, ale těch pár surovin najdeš v každém obchodě. Za půl hodiny je na talíři, bez kurýra."
+  ],
+  "price": 21900,
+  "image": "dish-testoviny-s-lososem",
+  "recipe": "testoviny-s-lososem",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    4,
+    7
+  ],
+  "order": 100
+}

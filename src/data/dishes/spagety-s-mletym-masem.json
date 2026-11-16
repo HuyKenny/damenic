@@ -1,0 +1,23 @@
+{
+  "name": "Špagety s mletým masem",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Z pánve",
+  "description": "Špagety s rychlou omáčkou z mletého masa, rajčat a papriky, s parmazánem navrch.",
+  "about": [
+    "Špagety s mletým masem jsou v mnoha rodinách čtvrteční klasika: mleté maso, rajčata, cibule a něco papriky. Nejde o italský recept, ale o jeho domácí odvozeninu, která se uvaří rychleji než boloňská a vyhoví i ve všední den.",
+    "Kdo čeká na kurýra, má štěstí: omáčka zatím bublá jen na obrázku. Pasta bar Niente ji dává do nabídky nanečisto, ale recept je skutečný a najíš se z něj opravdu."
+  ],
+  "price": 17900,
+  "image": "dish-spagety-s-mletym-masem",
+  "recipe": "spagety-s-mletym-masem",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 90
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Salsa, miska",
+  "restaurant": "chilli-bez-adresy",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Čerstvá rajčatová salsa s limetkou, koriandrem a jalapeños.",
+  "about": [],
+  "price": 3900,
+  "image": "dish-rajcatova-salsa",
+  "recipe": "rajcatova-salsa",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 1,
+  "allergens": [],
+  "featured": false,
+  "order": 900
+}

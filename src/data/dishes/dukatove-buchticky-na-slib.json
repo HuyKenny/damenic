@@ -1,0 +1,23 @@
+{
+  "name": "Dukátové buchtičky",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Kynuté a smažené",
+  "description": "Zlaté kynuté buchtičky s džemem a teplým vanilkovým krémem.",
+  "about": [
+    "Dukátové buchtičky jsou malé kynuté kuličky, které se v troubě zbarví do zlata. Uvnitř mají lžičku meruňkového džemu, navrch je máslo a vedle teplý vanilkový krém.",
+    "Dukáty tu jsou jen přirovnání, žádné mince nevydáváme, ostatně nevydáváme nic. Recept je ale poctivý a pro šest lidí."
+  ],
+  "price": 9500,
+  "image": "dish-dukatove-buchticky-na-slib",
+  "recipe": "dukatove-buchticky",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 500
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Jablka v županu",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Kynuté a smažené",
+  "description": "Celé jablko plněné skořicí, rozinkami a ořechy v křupavém listovém těstě.",
+  "about": [
+    "Jablko v županu je celé jablko, které se před pečením převlékne do listového těsta. Zevnitř je měkké a skořicové, zvenku zlaté a křupavé. Doplní ho teplý vanilkový krém.",
+    "Župan je tady ušitý z těsta a prádlo si nechává Koláč na slib na zítra. V receptu je ale všechno hotové: čtyři jablka, jedna role těsta a půl hodiny v troubě."
+  ],
+  "price": 9900,
+  "image": "dish-jablka-v-zupanu-na-slib",
+  "recipe": "jablka-v-zupanu",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "order": 500
+}

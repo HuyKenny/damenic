@@ -1,0 +1,41 @@
+{
+  "name": "Hlívová polévka",
+  "section": "Polévky",
+  "price": 10900,
+  "recipe": "hlivova-polevka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 230,
+  "description": "Houbová polévka z hlívy ústřičné se smetanou.",
+  "about": [
+    "Hlíva se opéká na pánvi v dávkách, aby se zlatila a nedusila, a pak se vaří v lehké polévce. Chutná jako les, i když doručit ho nelze.",
+    "Hlíva roste na kmenech, ne v naší chatě. Houby si kup a polévku uvař podle receptu."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "chata-pristi-sezona",
+  "image": "dish-hlivova-polevka",
+  "allergens": [
+    7
+  ]
+}

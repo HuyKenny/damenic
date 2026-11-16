@@ -1,0 +1,92 @@
+{
+  "title": "Rösti z vařených brambor",
+  "keywords": [
+    "rösti",
+    "rösti recept",
+    "bramborové rösti",
+    "švýcarské rösti"
+  ],
+  "image": "dish-rosti",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 25,
+  "waitMinutes": 60,
+  "waitLabel": "vychladnutí brambor",
+  "difficulty": "střední",
+  "meal": "priloha",
+  "intro": "Rösti jsou tenký koláč ze strouhaných brambor smažený na másle do zlatého a křupavého povrchu. Brambory se předvaří ve slupce a nechají vychladnout, protože studené se strouhají na dlouhá vlákna a drží pohromadě bez vajec a mouky.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "voskovité"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Neloupané brambory dej do studené vody a vař 10 až 12 minut od varu, aby byly zvenku měkké a uvnitř ještě pevné. Špejle musí narazit na tvrdé jádro."
+    },
+    {
+      "text": "Slij je a nech vychladnout, nejlépe přes noc v lednici, minimálně 1 hodinu."
+    },
+    {
+      "text": "Oloupej a nastrouhej na hrubém struhadle. Promíchej se solí a pepřem, neutlačuj."
+    },
+    {
+      "text": "Na velké pánvi rozehřej polovinu másla s olejem na středním plameni, vlož brambory a lehce je přitlač do rovného koláče silného asi 2 cm."
+    },
+    {
+      "text": "Smaž 10 až 12 minut do zlatohnědé kůrky, pak koláč otoč přes talíř, dej na pánev zbylé máslo a dosmaž druhou stranu dalších 8 až 10 minut."
+    },
+    {
+      "text": "Nech 2 minuty odpočinout a nakrájej na dílky."
+    }
+  ],
+  "tips": [
+    "Pánev musí mít nepřilnavý povrch, jinak koláč při obracení praskne.",
+    "Brambory silně nemačkej. Vzduch mezi vlákny je to, co dělá rösti křupavé.",
+    "Chceš-li malé porce, tvaruj z těsta 4 menší placky a smaž je 5 až 6 minut z každé strany."
+  ],
+  "substitutions": [
+    "Máslo nahraď přepuštěným máslem, nepřipálí se tak snadno.",
+    "Do těsta přidej strouhanou cibuli nebo kousky slaniny.",
+    "Pro vegan verzi smaž jen na oleji."
+  ],
+  "faq": [
+    {
+      "q": "Proč se mi rösti rozpadají?",
+      "a": "Brambory byly moc uvařené, nebo se strouhaly teplé. Předvař je jen na 10 až 12 minut a nech úplně vychladnout."
+    },
+    {
+      "q": "Dají se rösti dělat ze syrových brambor?",
+      "a": "Ano, strouhané syrové brambory se pořádně vymačkají a smaží 25 minut, ale je to těžší na barvu uvnitř a vyžaduje trpělivost."
+    },
+    {
+      "q": "Čím podávat rösti?",
+      "a": "K sázenému vejci, uzenému lososu, smetanové omáčce nebo k pečenému masu."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Lečo s klobásou",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "main",
+  "section": "Z pánve",
+  "description": "Lečo z papriky a rajčat s opečenými kolečky uzené klobásy, s chlebem.",
+  "about": [
+    "Lečo s klobásou je rychlé jídlo z pánve: paprika, rajčata, cibule a kolečka uzené klobásy. Vydá na večeři i na další den a chutná s krajícem chleba. Poctivé lečo nemá nic složitého, má jen správně dlouhé dušení.",
+    "Jídelna Už hotovo ho dělá bleskově nanečisto a ty bys ho doma zvládl za čtyřicet minut. Čím tmavší kolečka klobásy, tím lepší základ chuti."
+  ],
+  "price": 14900,
+  "image": "dish-leco-s-klobasou",
+  "recipe": "leco-s-klobasou",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "order": 70
+}

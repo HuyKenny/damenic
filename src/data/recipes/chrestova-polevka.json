@@ -1,0 +1,120 @@
+{
+  "title": "Chřestová polévka",
+  "keywords": [
+    "chřestová polévka",
+    "krémová chřestová polévka",
+    "polévka ze zeleného chřestu",
+    "chřestový krém"
+  ],
+  "image": "dish-chrestova-polevka",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Chřestová polévka ze zeleného chřestu se vaří jen krátce, aby zůstala zelená a chutnala po chřestu, ne po vývaru. Dřevnaté konce se odloupnou a využijí na vývar, hlavy se schovají na ozdobu.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "chrest-zeleny",
+      "amount": 500,
+      "unit": "g",
+      "note": "zelený, bez dřevnatých konců"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 750,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.3,
+      "unit": "g",
+      "note": "špetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Chřest omyj a dřevnaté dolní konce (asi 2 cm) odlom, vždy tam, kde se stonek sám zlomí. Hlavičky odkroj a odlož stranou, zbytek nakrájej na 2 cm kousky."
+    },
+    {
+      "text": "V hrnci rozpusť půlku másla a na mírném plameni 3 minuty restuj cibuli, dokud nezesklovatí. Přidej brambory a 2 minuty prohřívej."
+    },
+    {
+      "text": "Zalij vývarem, osol a vař 8 minut. Pak přidej stonky chřestu a vař dalších 6 až 8 minut, až jsou měkké, ale stále sytě zelené."
+    },
+    {
+      "text": "Na pánvi opeč na zbytku másla odložené hlavičky 2 minuty do měkka."
+    },
+    {
+      "text": "Polévku ihned rozmixuj ponorným mixérem dohladka, případně přeceď přes sítko, aby v ní nezůstala vlákna."
+    },
+    {
+      "text": "Vmíchej smetanu, citron, pepř a muškát, krátce prohřej a podávej s opečenými hlavičkami."
+    }
+  ],
+  "tips": [
+    "Dlouhým varem chřest zešedne a zhořkne. Vař jen do změknutí a mixuj hned.",
+    "Ze zbylých dřevnatých konců se dá uvařit rychlý vývar: 10 minut ve vodě a přecedit.",
+    "Tenký chřest je křehký celý, tlustý je dobré lehce oloupat od poloviny dolů."
+  ],
+  "substitutions": [
+    "Zelený chřest lze nahradit bílým, ale ten je třeba oloupat a vařit o 5 minut déle.",
+    "Smetana jde nahradit kokosovým mlékem nebo ovesným nápojem.",
+    "Máslo nahraď olivovým olejem, pokud chceš polévku bez mléka."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří chřestová polévka?",
+      "a": "Brambory 8 minut, chřest přidaný potom ještě 6 až 8 minut. Celkem asi 15 minut od přivedení k varu."
+    },
+    {
+      "q": "Jak uvařit čerstvý chřest, aby byl zelený?",
+      "a": "Vař ho krátce a po uvaření ho chlaď studenou vodou. U polévky nezakrývej pokličkou po dobu celého varu a po rozmixování už polévku nevař."
+    },
+    {
+      "q": "Kdy je sezóna chřestu v Česku?",
+      "a": "Od konce dubna do června. Mimo sezónu se hodí mražený chřest, který se vaří rovnou z mrazu 8 až 10 minut."
+    }
+  ]
+}

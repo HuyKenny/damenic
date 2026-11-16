@@ -1,0 +1,23 @@
+{
+  "name": "Cannelloni s mletým masem",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Těstoviny a lasagne",
+  "description": "Těstovinové trubky plněné mletým masem a špenátem, zapečené s rajčatovou omáčkou a bešamelem.",
+  "about": [
+    "Cannelloni jsou italská těstovinová klasika: trubky plněné masem a zeleninou, zalité omáčkou a zapečené v troubě. Nejlepší jsou tehdy, když se ricotta se špenátem spojí s mletým masem a bešamel vytvoří na povrchu zlatou kůrku.",
+    "Trattoria Domani je název, který lže už v názvu, a cannelloni z ní skutečně přijedou až zítra. Ale recept funguje dnes a naplnit trubky je zábavnější, než to vypadá."
+  ],
+  "price": 22900,
+  "image": "dish-cannelloni",
+  "recipe": "cannelloni",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 110
+}

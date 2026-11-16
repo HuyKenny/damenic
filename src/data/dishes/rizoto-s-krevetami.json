@@ -1,0 +1,25 @@
+{
+  "name": "Rizoto s krevetami",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Rizoto a gnocchi",
+  "description": "Krémové rizoto arborio s krevetami, citronovou kůrou a petrželkou.",
+  "about": [
+    "Rizoto s krevetami je rychlé a přitom elegantní jídlo. Rýže arborio se vaří pomalu s vínem a vývarem, až vznikne krémová omáčka, a krevety jí dodají sladkost. Citron na konci vše zvedne a vyčistí.",
+    "V trattorii se k rizotu čeká na každou naběračku vývaru. Doma ho za čtvrt hodiny míchání zvládneš ty. Kurýr Nikdo by ho stejně nedovezl al dente."
+  ],
+  "price": 26900,
+  "image": "dish-rizoto-s-krevetami",
+  "recipe": "rizoto-s-krevetami",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    2,
+    7,
+    9,
+    12
+  ],
+  "order": 120
+}

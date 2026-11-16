@@ -1,0 +1,22 @@
+{
+  "name": "Fazole na kyselo",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Hustší jídla",
+  "description": "Bílé fazole v zasmažené omáčce s paprikou, octem a špetkou cukru.",
+  "about": [
+    "Fazole na kyselo jsou chuťově prostá česká klasika: bílé fazole v zasmažené omáčce s paprikou, octem a špetkou cukru. Není to složité jídlo, ale vyvážit kyselou, slanou a sladkou chuť chce cit.",
+    "Prázdná naběračka je ve své nabídce nanečisto věrná tradici. Doma za půl hodiny uvaříš hrnec, který nasytí čtyři lidi a nic nestojí. Chleba k tomu."
+  ],
+  "price": 12900,
+  "image": "dish-fazole-na-kyselo",
+  "recipe": "fazole-na-kyselo",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "order": 70
+}

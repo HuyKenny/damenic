@@ -1,0 +1,21 @@
+{
+  "name": "Domácí tortilly",
+  "restaurant": "tortillarna-ani-omylem",
+  "kind": "main",
+  "section": "Burrito a tacos",
+  "description": "Osm měkkých moučných placek upečených na suché pánvi.",
+  "about": [
+    "Domácí tortilla je měkká tenká placka z mouky, oleje a vody. Upeče se za minutu na suché pánvi a je lepší než zabalená, protože je teplá, voní a ohýbá se bez lámání.",
+    "V Tortillárně Ani omylem je tortilla na stole k dispozici, ale nic do ní nezabalíš. Doma ale zabalíš, na co máš chuť."
+  ],
+  "price": 7900,
+  "image": "dish-domaci-tortilla-ani",
+  "recipe": "domaci-tortilla",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "order": 500
+}

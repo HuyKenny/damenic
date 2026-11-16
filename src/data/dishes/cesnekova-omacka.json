@@ -1,0 +1,20 @@
+{
+  "name": "Česneková omáčka, miska",
+  "restaurant": "kebab-zitra",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Hustá jogurtová omáčka s česnekem a citronem ke kebabu.",
+  "about": [],
+  "price": 2900,
+  "image": "dish-cesnekova-omacka",
+  "recipe": "cesnekova-omacka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 900
+}

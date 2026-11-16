@@ -1,0 +1,129 @@
+{
+  "title": "Kynuté pagáče se sýrem a kmínem",
+  "keywords": [
+    "pagáče",
+    "pagáče recept",
+    "kynuté pagáče",
+    "pagáče se sýrem",
+    "domácí pagáče"
+  ],
+  "image": "dish-pagace-zitra",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 40,
+  "cookMinutes": 20,
+  "waitMinutes": 75,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "meal": "pecivo",
+  "intro": "Kynuté pagáče jsou měkké placičky s eidamem a kmínem, na povrchu pocákané hrubou solí. Vyjde asi 20 kusů. Těsto je máslové, kyne hodinu a v troubě potřebuje jen 20 minut. Jsou skvělé teplé k polévce nebo k pivu.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vlažné"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "do těsta"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 100,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "žloutek na potření"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "hrubá, na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozdrol do vlažného mléka s cukrem a nech 10 minut zakvasit. Do mísy dej mouku se solí, přidej kvásek, rozpuštěné máslo a vejce."
+    },
+    {
+      "text": "Hněť 8 minut, dokud není těsto hladké a pružné. Přikryj a nech 60 minut kynout na teplém místě."
+    },
+    {
+      "text": "Těsto vyklop na pomoučený stůl a rozválej na tloušťku 1,5 cm. Povrch nařízni mřížkou do hloubky 3 mm, posyp sýrem a kmínem a lehce přitlač válečkem."
+    },
+    {
+      "text": "Vykrajuj kolečka o průměru 5 cm, naskládej je na plech s pečicím papírem a nech 15 minut dokynout. Troubu předehřej na 200 °C (horkovzduch 180 °C)."
+    },
+    {
+      "text": "Pagáče potři rozšlehaným žloutkem a posyp hrubou solí. Peč 18 až 20 minut, dokud nejsou zlatavé. Podávej teplé."
+    }
+  ],
+  "tips": [
+    "Sýr nechej na povrchu, ve vnitřku těsta by byl slizký.",
+    "Těsto nerozvaluj tenčí než 1 cm, pagáče by byly suché.",
+    "Nařezání mřížky je důležité, těsto se jinak v troubě zdeformuje."
+  ],
+  "substitutions": [
+    "Eidam nahraď ementálem nebo uzeným sýrem.",
+    "Kmín můžeš vynechat nebo nahradit sezamem.",
+    "Máslo v těstě nahraď 80 g sádla, pagáče budou tradičnější."
+  ],
+  "faq": [
+    {
+      "q": "Čím se kynuté pagáče liší od škvarkových?",
+      "a": "Kynuté pagáče mají kvasnicové těsto a jsou měkké. Škvarkové jsou nekynuté, křehké a slistované."
+    },
+    {
+      "q": "Jak dlouho vydrží?",
+      "a": "Zabalené do utěrky vydrží 2 dny, pak je vhodné je před jídlem ohřát při 160 °C."
+    },
+    {
+      "q": "Dá se těsto zmrazit?",
+      "a": "Ano, vykrojené a nenapečené pagáče zmraz na plechu a pak přesyp do sáčku. Pec je při 200 °C o 5 minut déle."
+    },
+    {
+      "q": "Co když těsto nekyne?",
+      "a": "Zkontroluj, že mléko nebylo teplejší než 40 °C a droždí bylo čerstvé. Místnost má mít asi 24 °C."
+    }
+  ]
+}

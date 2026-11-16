@@ -1,0 +1,93 @@
+{
+  "title": "Cosmopolitan",
+  "keywords": [
+    "cosmopolitan",
+    "cosmopolitan recept",
+    "cosmopolitan koktejl",
+    "jak se dělá cosmopolitan",
+    "nealko cosmopolitan"
+  ],
+  "image": "dish-cosmopolitan-sklenka",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "servings": 1,
+  "activeMinutes": 4,
+  "cookMinutes": 0,
+  "waitMinutes": 6,
+  "waitLabel": "vychlazení sklenice",
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "intro": "Cosmopolitan je třepaný koktejl z vodky, pomerančového likéru, brusinkového džusu a čerstvé limetky. Základní poměr na jednu sklenici je 40 ml vodky, 15 ml likéru, 30 ml džusu a 15 ml limetkové šťávy. Těžké je odměřit přesně a třepat dost dlouho, aby byl drink ledově studený.",
+  "ingredients": [
+    {
+      "ingredient": "vodka",
+      "amount": 40,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "pomerancovy-liker",
+      "amount": 15,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "dzus-brusinkovy",
+      "amount": 30,
+      "unit": "ml",
+      "note": "vychlazený"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "asi 15 ml šťávy, zbytek na ozdobu"
+    },
+    {
+      "ingredient": "led",
+      "amount": 200,
+      "unit": "g",
+      "note": "kostky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Sklenku na martini nebo koktejlovou misku dej na 5 minut do mrazáku."
+    },
+    {
+      "text": "Do šejkru nasyp led a nalij 40 ml vodky, 15 ml pomerančového likéru, 30 ml brusinkového džusu a 15 ml čerstvé limetkové šťávy."
+    },
+    {
+      "text": "Zavři šejkr a silně třep 12 až 15 vteřin, až se zvenku orosí a je mrazivě studený."
+    },
+    {
+      "text": "Přeced přes jemné sítko do vychlazené sklenky, aby se nedostaly úlomky ledu."
+    },
+    {
+      "text": "Ozdob proužkem limetkové nebo pomerančové kůry. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Šťávu z limetky vymačkej čerstvou, balená chutná plošeji.",
+    "Nemáš-li šejkr, použij zavařovací sklenici s víčkem, třepání je stejné.",
+    "Barva má být světle růžová. Víc džusu dá tmavší, ale sladší drink."
+  ],
+  "substitutions": [
+    "Nealko varianta: smíchej 60 ml brusinkového džusu, 15 ml limetkové šťávy, 15 ml pomerančového džusu a 20 ml perlivé vody, přidej led.",
+    "Pomerančový likér můžeš vynechat a přidat 10 ml cukrového sirupu.",
+    "Vodku lze nahradit ginem, drink bude bylinnější."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je poměr na Cosmopolitan?",
+      "a": "Klasicky 40 ml vodky, 15 ml pomerančového likéru, 30 ml brusinkového džusu a 15 ml limetkové šťávy. Třepe se s ledem."
+    },
+    {
+      "q": "Co je potřeba na Cosmopolitan?",
+      "a": "Vodka, pomerančový likér, brusinkový džus, čerstvá limetka, led, šejkr a sítko. Servíruje se ve vychlazené sklence na stopce."
+    },
+    {
+      "q": "Kolik alkoholu má Cosmopolitan?",
+      "a": "Přibližně 20 až 22 % po zředění ledem. Jedna sklenka obsahuje asi 55 ml alkoholických složek a je jen pro dospělé."
+    }
+  ]
+}

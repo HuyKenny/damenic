@@ -1,0 +1,164 @@
+{
+  "title": "Ossobuco",
+  "keywords": [
+    "ossobuco",
+    "ossobuco recept",
+    "telecí ossobuco",
+    "ossobuco alla milanese"
+  ],
+  "image": "dish-ossobuco",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 120,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Ossobuco jsou plátky telecí kližky s kostí, dušené s bílým vínem, rajčaty a zeleninou. Recept na 4 porce trvá asi dvě a půl hodiny, z toho většinu času maso měkne samo. Kouzlo je v dřeni uprostřed kosti a v gremolatě z citronu, česneku a petrželky, která se přidává až na talíři.",
+  "alcohol": true,
+  "ingredients": [
+    {
+      "ingredient": "teleci-ossobuco",
+      "amount": 1200,
+      "unit": "g",
+      "note": "4 plátky s kostí, každý asi 4 cm silný"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na obalení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 80,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "do omáčky"
+    },
+    {
+      "ingredient": "vino-bile",
+      "amount": 200,
+      "unit": "ml",
+      "note": "suché"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen kůra na gremolatu",
+      "group": "gremolata"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 3,
+      "unit": "ks",
+      "note": "natě, nasekané",
+      "group": "gremolata"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "najemno",
+      "group": "gremolata"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 160 °C. Plátky masa na obvodu v mase nařízni, aby se během vaření nekroutily, osol, opepři a obal v mouce."
+    },
+    {
+      "text": "V pekáči nebo širokém hrnci rozehřej olej s máslem a maso opékej po 3 minutách z každé strany do zlatohněda. Vyndej na talíř."
+    },
+    {
+      "text": "V tom samém tuku osmahni cibuli, mrkev a celer 6 minut, přidej česnek na minutu. Podlij vínem a nech 3 minuty vařit, seškrábni připečeniny."
+    },
+    {
+      "text": "Přidej rajčata rozmačkaná vidličkou, vývar a bobkový list. Vrať maso tak, aby kosti stály nahoru, přikryj a peč 1 hodinu 45 minut až 2 hodiny, jednou obrať. Hotové je, když maso měkne a odpadá od kosti."
+    },
+    {
+      "text": "Mezitím smíchej gremolatu: najemno nastrouhanou citronovou kůru, petrželku a česnek."
+    },
+    {
+      "text": "Maso vyndej, omáčku případně zredukuj bez poklice na hustší konzistenci. Podávej s gremolatou a rizotem nebo bramborovou kaší."
+    }
+  ],
+  "tips": [
+    "Kosti nech při dušení stát nahoře, dřeň tak zůstane uprostřed a nevytéká do omáčky.",
+    "Citron na gremolatu strouhej jen žlutou kůru, bílá část je hořká.",
+    "Ossobuco chutná druhý den, v lednici vydrží 3 dny, prohřej ho pomalu v omáčce."
+  ],
+  "substitutions": [
+    "Nealko varianta: víno nahraď 200 ml zeleninového vývaru smíchaného s 1 lžící citronové šťávy.",
+    "Telecí kližku můžeš nahradit hovězí kližkou na plátky, bude potřebovat 2,5 hodiny.",
+    "Na gremolatu místo petrželky vezmi lístky bazalky nebo majoránky."
+  ],
+  "faq": [
+    {
+      "q": "Co znamená ossobuco?",
+      "a": "Italsky kost s dírou. Jde o příčný plátek kližky s kostí a dření uprostřed."
+    },
+    {
+      "q": "Jak dlouho se dusí ossobuco?",
+      "a": "V troubě při 160 °C nebo na velmi mírném ohni asi 1 hodinu 45 minut až 2 hodiny. Hotové je, když maso měkne a odpadá od kosti."
+    },
+    {
+      "q": "Co je gremolata?",
+      "a": "Čerstvá směs najemno nasekané petrželky, česneku a citronové kůry. Přidává se na talíř až na konec, aby osvěžila těžké maso."
+    }
+  ]
+}

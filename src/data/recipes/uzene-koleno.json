@@ -1,0 +1,107 @@
+{
+  "title": "Uzené koleno",
+  "keywords": [
+    "uzené koleno",
+    "uzené koleno vařené",
+    "uzené koleno recept",
+    "jak uvařit uzené koleno"
+  ],
+  "image": "dish-uzene-koleno",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 120,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Uzené koleno se vaří pomalu, jen těsně pod bodem varu, dokud nezměkne a nezačne se oddělovat od kosti. Recept na 4 porce trvá 2 hodiny a 15 minut. Maso je už uzené a částečně slané, proto se nesolí a hotové se podává s křenem, hořčicí a chlebem.",
+  "ingredients": [
+    {
+      "ingredient": "uzene-koleno",
+      "amount": 1500,
+      "unit": "g",
+      "note": "1 kus, přes noc namočené ve studené vodě"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na čtvrtky"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kren-strouhany",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 200,
+      "unit": "g",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Uzené koleno zalij studenou vodou a nech 2 až 4 hodiny nebo přes noc namočit, aby povolilo sůl. Vodu slij."
+    },
+    {
+      "text": "Koleno vlož do velkého hrnce, zalij čerstvou studenou vodou tak, aby bylo zakryté, přidej cibuli, mrkev, bobkový list, nové koření a pepř."
+    },
+    {
+      "text": "Přiveď k varu, pak stáhni plamen a vař pod bodem varu 1 hodinu 45 minut až 2 hodiny. Voda se nesmí prudce vařit, jen se mírně chvět. Hotové je, když se maso uvolňuje od kosti a špejle zajede bez odporu."
+    },
+    {
+      "text": "Koleno nech chvíli odpočinout v hrnci a pak ho vyndej. Naporcuj proti vláknům a podávej s křenem, hořčicí a chlebem."
+    }
+  ],
+  "tips": [
+    "Nesol. Uzené maso je slané a vývar při vaření ještě zesílí.",
+    "Vývar z kolena je silně slaný, na polévku ho zřeď vodou nebo ho nepoužívej.",
+    "Podle velikosti kolene se dobou vaření řiď: každých 500 g přidává asi 30 minut."
+  ],
+  "substitutions": [
+    "Koleno můžeš nahradit uzeným bůčkem nebo uzenou krkovicí, vaří se kratší dobu.",
+    "Křen nahradíš křenovou smetanou nebo hořčicí.",
+    "Cibuli a mrkev můžeš přidat jen na chuť, není povinná."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří uzené koleno?",
+      "a": "Asi 1 hodinu 45 minut až 2 hodiny, podle váhy. Hotové je, když špejle zajede bez odporu."
+    },
+    {
+      "q": "Musí se uzené koleno namáčet?",
+      "a": "Ano, aspoň 2 hodiny ve studené vodě, protože bývá slané."
+    },
+    {
+      "q": "Kolik uzeného kolena na osobu?",
+      "a": "Na osobu počítej asi 350 až 400 g celého kolena s kostí."
+    }
+  ]
+}

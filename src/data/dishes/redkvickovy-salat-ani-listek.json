@@ -1,0 +1,22 @@
+{
+  "name": "Ředkvičkový salát se smetanou",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "description": "Křupavé ředkvičky se zakysanou smetanou, koprem a citronem.",
+  "about": [
+    "Ředkvičky mají pálivost, kterou zakysaná smetana přemění na svěžest. Tenká kolečka, špetka soli, trocha kopru a citron na závěr.",
+    "Salátbar je smyšlený, takže z misky nesníš ani kolečko. Doma ale ředkvičky chrupou doopravdy."
+  ],
+  "price": 12900,
+  "image": "dish-redkvickovy-salat-ani-listek",
+  "recipe": "redkvickovy-salat",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 330
+}

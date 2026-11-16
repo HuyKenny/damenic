@@ -1,0 +1,106 @@
+{
+  "title": "Waldorfský salát",
+  "keywords": [
+    "waldorfský salát",
+    "waldorfský salát recept",
+    "salát z celeru a jablek",
+    "celerový salát s jablky"
+  ],
+  "image": "dish-waldorfsky-salat-ani-listek",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 0,
+  "waitMinutes": 15,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Waldorfský salát je křupavý salát z celeru, jablek, vlašských ořechů a hroznů v krémové zálivce. Těžké je jen zabránit hnědnutí jablek, takže se hned po nakrájení zakapávají citronem.",
+  "ingredients": [
+    {
+      "ingredient": "celer-bulva",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 2,
+      "unit": "ks",
+      "note": "kyselé"
+    },
+    {
+      "ingredient": "hrozny-bile",
+      "amount": 100,
+      "unit": "g",
+      "note": "půlené"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 50,
+      "unit": "g",
+      "note": "nahrubo nasekané"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Celer oloupej, nakrájej na tenké nudličky nebo nastrouhej na hrubo a hned zakápni polovinou citronové šťávy."
+    },
+    {
+      "text": "Jablka nakrájej na tenké plátky, zakápni zbytkem citronu, aby nezhnědla."
+    },
+    {
+      "text": "Majonézu rozmíchej s jogurtem a solí."
+    },
+    {
+      "text": "Přidej celer, jablka, hrozny a polovinu ořechů, promíchej a dej na 15 minut do lednice."
+    },
+    {
+      "text": "Posyp zbytkem ořechů a podávej."
+    }
+  ],
+  "tips": [
+    "Ořechy krátce opraž nasucho na pánvi, budou chutnější.",
+    "Celer nastrouhaný ve větší dávce vydrží křupat, pokud ho zakápneš citronem.",
+    "Salát je lepší čerstvý, po dni změkne."
+  ],
+  "substitutions": [
+    "Vlašské ořechy nahradíš pekanovými nebo lískovými.",
+    "Majonézu částečně nahradíš jogurtem.",
+    "Hrozny lze vynechat a přidat rozinky."
+  ],
+  "faq": [
+    {
+      "q": "Co patří do waldorfského salátu?",
+      "a": "Celer, jablka, vlašské ořechy a majonézová zálivka. Často i hrozny a pár listů salátu."
+    },
+    {
+      "q": "Jak zabránit hnědnutí jablek?",
+      "a": "Hned po nakrájení je zakápni citronovou šťávou a promíchej se zálivkou."
+    },
+    {
+      "q": "Jak dlouho vydrží waldorfský salát?",
+      "a": "V lednici 1 až 2 dny, ale nejlepší je čerstvý, jablka začnou měknout."
+    }
+  ]
+}

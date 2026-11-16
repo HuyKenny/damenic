@@ -1,0 +1,110 @@
+{
+  "title": "Sangria",
+  "keywords": [
+    "sangria",
+    "sangria recept",
+    "domácí sangria",
+    "jak se dělá sangria",
+    "nealko sangria"
+  ],
+  "image": "dish-sangria",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "servings": 6,
+  "activeMinutes": 8,
+  "cookMinutes": 0,
+  "waitMinutes": 180,
+  "waitLabel": "odležení v lednici aspoň 3 hodiny",
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "intro": "Sangria je španělský džbánový drink z červeného vína, ovoce, brandy a trochy cukru. Recept na 6 sklenic počítá s lahví vína (750 ml), 60 ml brandy a čerstvým ovocem. Těžké je jen čekání: sangria potřebuje aspoň 3 hodiny v lednici, aby ovoce odevzdalo chuť.",
+  "ingredients": [
+    {
+      "ingredient": "vino-cervene",
+      "amount": 750,
+      "unit": "ml",
+      "note": "suché, mladé, ne drahé"
+    },
+    {
+      "ingredient": "brandy",
+      "amount": 60,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "pomeranc",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jeden na šťávu, druhý na plátky"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "perliva-voda",
+      "amount": 250,
+      "unit": "ml",
+      "note": "dolije se až při podávání"
+    },
+    {
+      "ingredient": "led",
+      "amount": 300,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Pomeranč a citron omyj a nakrájej na tenké plátky, jablko na kostky velikosti 1 cm. Z druhého pomeranče vymačkej šťávu."
+    },
+    {
+      "text": "Do velkého džbánu dej ovoce, šťávu z pomeranče a cukr. Promíchej a nech 10 minut stát, aby se cukr rozpustil."
+    },
+    {
+      "text": "Přilij 60 ml brandy a 750 ml červeného vína a promíchej."
+    },
+    {
+      "text": "Džbán zakryj a dej na minimálně 3 hodiny, nejlépe na 6 hodin, do lednice. Déle než 24 hodin ovoce zhořkne."
+    },
+    {
+      "text": "Před podáváním přidej led a dolij 250 ml perlivé vody. Nalévej do sklenic i s plátky ovoce."
+    }
+  ],
+  "tips": [
+    "Víno nevybírej drahé, dobře poslouží mladé suché červené. Příliš tříslovité víno chutná trpce.",
+    "Ovoce se dá měnit podle sezony, třeba broskve, jahody nebo hrušky.",
+    "Sangrii s ledem hned podávej, led ji jinak rozředí."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo vína a brandy použij 750 ml hroznového nebo černorybízového moštu a 60 ml pomerančového džusu. Ostatní nech stejné.",
+    "Brandy lze vynechat, sangria bude lehčí.",
+    "Cukr nahradíš 2 lžícemi medu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží sangria?",
+      "a": "V lednici bez ledu a bez perlivé vody vydrží 1 až 2 dny. Ovoce pak změkne a začne hořknout, proto ho radši po 24 hodinách vyjmi."
+    },
+    {
+      "q": "Jaké víno se hodí do sangrie?",
+      "a": "Mladé suché červené víno, třeba na bázi odrůdy tempranillo nebo jiné lehké a ovocné víno. Nemá být příliš těžké a tříslovité."
+    },
+    {
+      "q": "Kolik alkoholu má sangria?",
+      "a": "Asi 7 až 9 %. Jedna sklenice (200 ml) obsahuje zhruba 13 g alkoholu. Sangria je jen pro dospělé."
+    }
+  ]
+}

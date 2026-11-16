@@ -1,0 +1,18 @@
+{
+  "name": "Rajčatová omáčka navíc",
+  "restaurant": "pasta-bar-niente",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Domácí rajčatová omáčka s bazalkou a česnekem k těstovinám.",
+  "about": [],
+  "price": 4500,
+  "image": "dish-rajcatova-omacka-na-testoviny",
+  "recipe": "rajcatova-omacka-na-testoviny",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 900
+}

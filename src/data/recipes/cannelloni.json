@@ -1,0 +1,149 @@
+{
+  "title": "Cannelloni",
+  "keywords": [
+    "cannelloni",
+    "cannelloni recept",
+    "cannelloni s mletým masem",
+    "zapečené cannelloni"
+  ],
+  "image": "dish-cannelloni",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 35,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek po vytažení z trouby",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Cannelloni jsou těstovinové trubky plněné mletým masem a špenátem, zalité rajčatovou omáčkou a bešamelem a zapečené do zlatova. Recept na 4 porce zabere asi 85 minut včetně pečení. Trubky se nepředvařují, ale omáčka musí být dost tekutá, aby změkly.",
+  "ingredients": [
+    {
+      "ingredient": "cannelloni",
+      "amount": 250,
+      "unit": "g",
+      "note": "asi 16 trubek"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 400,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "spenat-mrazeny",
+      "amount": 150,
+      "unit": "g",
+      "note": "rozmražený a vymačkaný"
+    },
+    {
+      "ingredient": "ricotta",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 50,
+      "unit": "g",
+      "note": "strouhaný"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 500,
+      "unit": "ml",
+      "note": "rajčatová omáčka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "bešamel"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 40,
+      "unit": "g",
+      "note": "bešamel"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "note": "bešamel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 190 °C. V pánvi na oleji opékej mleté maso 8 minut do propečení, přidej cibuli a po 3 minutách česnek. Osol, opepři a nech chvíli vychladnout."
+    },
+    {
+      "text": "K masu přidej špenát, ricottu, polovinu parmazánu a špetku muškátového oříšku. Dobře promíchej."
+    },
+    {
+      "text": "Bešamel: rozpusť máslo, přidej mouku, míchej minutu, po částech přilévej mléko a za stálého míchání vař 5 minut do zhoustnutí. Osol a ochuť muškátem."
+    },
+    {
+      "text": "Na dno zapékací mísy dej polovinu passaty. Trubky plň masovou směsí pomocí lžičky nebo cukrářského sáčku a rovnej je vedle sebe."
+    },
+    {
+      "text": "Zalij zbylou passatou, potom bešamelem tak, aby trubky byly zakryté, a posyp parmazánem. Přikryj alobalem a peč 25 minut, potom sundej alobal a peč 10 minut do zlatova."
+    },
+    {
+      "text": "Před servírováním nech 10 minut odpočinout, aby se držely pohromadě."
+    }
+  ],
+  "tips": [
+    "Trubky musí být po okraj zakryté omáčkou, jinak zůstanou tvrdé. Použij raději víc passaty.",
+    "Plnění se nejlépe dělá cukrářským sáčkem nebo uříznutým rohem sáčku na mražení.",
+    "Cannelloni můžeš připravit den předem, v lednici vydrží do druhého dne, jen peč o 10 minut déle."
+  ],
+  "substitutions": [
+    "Bez masa: místo hovězího použij 300 g houbové směsi z žampionů nebo další špenát a ricottu.",
+    "Ricottu nahradíš tvarohem nebo cottage cheese.",
+    "Cannelloni trubky můžeš nahradit plátky lasagní nakrájenými na 10 cm a stočenými."
+  ],
+  "faq": [
+    {
+      "q": "Musí se cannelloni předvařovat?",
+      "a": "Ne, pokud je dost omáčky. Trubky změknou v troubě. Musí být zalité po okraj."
+    },
+    {
+      "q": "Jak dlouho péct cannelloni?",
+      "a": "Při 190 °C asi 35 minut, prvních 25 přikryté a posledních 10 odkryté."
+    },
+    {
+      "q": "Dají se cannelloni zmrazit?",
+      "a": "Ano, nezapečené nebo hotové vydrží v mrazáku 3 měsíce. Rozmrazuj je v lednici a peč zakryté 35 minut."
+    }
+  ]
+}

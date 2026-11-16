@@ -1,0 +1,115 @@
+{
+  "title": "Vepřová játra na cibulce",
+  "keywords": [
+    "vepřová játra",
+    "vepřová játra na cibulce",
+    "vepřová játra recept",
+    "jak upravit vepřová játra"
+  ],
+  "image": "dish-veprova-jatra",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 15,
+  "waitMinutes": 30,
+  "waitLabel": "namáčení jater v mléce",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Vepřová játra na cibulce jsou rychlé české jídlo, které se vaří 15 minut. Aby nebyla tvrdá a hořká, namočí se na půl hodiny do mléka a smaží se jen krátce. Ve vnitřní teplotě jater by měla být nejméně 70 °C, ale šťáva má být čirá.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-jatra",
+      "amount": 600,
+      "unit": "g",
+      "note": "na plátky 1 cm"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 300,
+      "unit": "ml",
+      "note": "na namáčení"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 50,
+      "unit": "g",
+      "note": "na obalení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 300,
+      "unit": "g",
+      "note": "na půlkolečka"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 40,
+      "unit": "g",
+      "note": "nebo olej"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 100,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Játra očisti od blan a hrubých žilek, nakrájej na plátky a na 30 minut zalij mlékem. Pak je dobře osuš."
+    },
+    {
+      "text": "V pánvi rozehřej polovinu sádla, přidej cibuli, osol a smaž 12 minut do zlatohnědé. Přendej na talíř."
+    },
+    {
+      "text": "Játra osol, opepři, posyp majoránkou a obal v mouce. Zbytek sádla rozehřej na vysokém ohni a játra smaž 2 až 3 minuty z každé strany, mají být zvenku zhnědlá a uvnitř jen lehce růžová, nikdy ne šedá a tvrdá."
+    },
+    {
+      "text": "Vrať cibuli, přidej vývar a máslo, 1 minutu povař, aby se spojila šťáva. Podávej s bramborovou kaší nebo rýží."
+    }
+  ],
+  "tips": [
+    "Játra solit až před smažením. Sůl vytahuje šťávu a játra by tvrdla.",
+    "Smaž je na velmi horké pánvi krátce. Čím déle jsou v pánvi, tím jsou tvrdší.",
+    "Když nemáš čas na namáčení v mléce, játra aspoň důkladně očisti od blan a žilek."
+  ],
+  "substitutions": [
+    "Vepřová játra můžeš nahradit kuřecími nebo telecími, kuřecí jsou jemnější a hotová za 5 minut.",
+    "Mléko nahradíš vodou s lžící octa.",
+    "Sádlo nahradíš olejem."
+  ],
+  "faq": [
+    {
+      "q": "Proč jsou vepřová játra hořká?",
+      "a": "Hořkost dělají blány a žluč. Důkladné očištění a namáčení v mléce ji zmírní."
+    },
+    {
+      "q": "Jak dlouho smažit vepřová játra?",
+      "a": "Plátky silné 1 cm 2 až 3 minuty z každé strany na vysokém ohni. Déle jsou tvrdá."
+    },
+    {
+      "q": "Musí se játra namáčet v mléce?",
+      "a": "Není to nutné, ale namáčení na 30 minut zjemní chuť a pomůže odstranit hořkost."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Šťouchané brambory s cibulkou",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Hrubě rozšťouchané brambory s máslem a osmaženou cibulkou.",
+  "about": [],
+  "price": 6900,
+  "image": "dish-stouchane-brambory",
+  "recipe": "stouchane-brambory",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 900
+}

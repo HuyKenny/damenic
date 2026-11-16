@@ -1,0 +1,91 @@
+{
+  "title": "Slaný karamel",
+  "keywords": [
+    "slaný karamel",
+    "slaný karamel recept",
+    "jak udělat slaný karamel",
+    "karamelová omáčka"
+  ],
+  "image": "dish-slany-karamel",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Slaný karamel je lesklá omáčka z karamelizovaného cukru, smetany, másla a soli. Vyjde za čtvrt hodiny, ale vyžaduje pozornost: cukr se musí zbarvit do jantaru a smetana se přilévá teplá, jinak karamel prudce vystříkne.",
+  "ingredients": [
+    {
+      "ingredient": "cukr",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 50,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 150,
+      "unit": "ml",
+      "note": "pokojové teploty, nejlépe ohřátá"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "hrubá mořská"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cukr s vodou dej do hrnce se silným dnem. Za občasného zakroužení hrncem rozpouštěj na středním plameni, nemíchej vařečkou."
+    },
+    {
+      "text": "Přiveď k varu a nech vařit 7 až 9 minut, dokud nezíská jantarovou barvu (asi 170 až 180 °C). Zbarví-li se tmavě, hned stáhni z ohně."
+    },
+    {
+      "text": "Hrnec stáhni a opatrně přilévej smetanu. Karamel zasyčí a vystříkne, drž se zpátky a použij delší vařečku."
+    },
+    {
+      "text": "Vmíchej máslo po kostičkách a sůl a vař 1 minutu do hladka."
+    },
+    {
+      "text": "Nech 30 minut vychladnout. Zhoustne a přelej do čisté sklenice."
+    }
+  ],
+  "tips": [
+    "Horký karamel popaluje víc než vařící voda. Připrav si vše předem a nenechávej u něj děti.",
+    "Smetanu ohřej, aby se karamel neprudce nesrazil.",
+    "V lednici v zavřené sklenici vydrží 10 dní, před použitím ho trochu zahřej."
+  ],
+  "substitutions": [
+    "Smetanu nahraď kokosovým mlékem z plechovky.",
+    "Máslo nahraď kokosovým olejem.",
+    "Mořskou sůl nahraď jemnou solí, přidej jen půl množství."
+  ],
+  "faq": [
+    {
+      "q": "Proč se karamel srazil na hrudku?",
+      "a": "Smetana byla studená nebo se přilila příliš rychle. Zahřej ho na malém plameni a míchej, hrudky se rozpustí."
+    },
+    {
+      "q": "Jak dlouho vydrží slaný karamel?",
+      "a": "V lednici v čisté zavřené sklenici asi 10 dní."
+    },
+    {
+      "q": "Jak poznám, že je karamel správně hotový?",
+      "a": "Je jantarově zlatý až světle hnědý a voní po cukru. Tmavě hnědý nebo kouřící je spálený."
+    }
+  ]
+}

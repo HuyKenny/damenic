@@ -1,0 +1,131 @@
+{
+  "title": "Huevos rancheros",
+  "keywords": [
+    "huevos rancheros",
+    "huevos rancheros recept",
+    "mexická snídaně s vejci",
+    "vejce na rajčatové omáčce"
+  ],
+  "image": "dish-huevos-rancheros",
+  "category": "mexicka",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Huevos rancheros jsou smažená vejce na opečené tortille s rajčatovou omáčkou a fazolemi. Jde o rychlou mexickou snídani, kde rozhoduje sladká a pikantní omáčka a vejce, které má zůstat měkké, ale uvnitř bezpečné.",
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "jalapenos",
+      "amount": 20,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "note": "z plechovky"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "g",
+      "note": "mletý"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredient": "fazole-cervene",
+      "amount": 200,
+      "unit": "g",
+      "note": "uvařené z plechovky, okapané"
+    },
+    {
+      "ingredient": "tortilly",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 3,
+      "unit": "ks",
+      "note": "větvičky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V pánvi rozehřej polovinu oleje a restuj cibuli 3 minuty, přidej česnek, jalapeño, kmín a uzenou papriku a míchej 1 minutu."
+    },
+    {
+      "text": "Přidej rajčata, rozmačkej je vařečkou a vař 10 minut na mírném plameni, dokud omáčka nezhoustne. Osol."
+    },
+    {
+      "text": "Přidej fazole a 3 minuty prohřej. Omáčku nech teplou."
+    },
+    {
+      "text": "Tortilly po jedné opeč na suché pánvi asi 30 sekund z každé strany, aby změkly a zesílily."
+    },
+    {
+      "text": "Na zbytku oleje usmaž vejce na volské oko, 3 až 4 minuty, až je bílek zcela pevný. Žloutek může zůstat tekutý."
+    },
+    {
+      "text": "Na talíř polož tortillu, na ni fazole a rajčatovou omáčku, nahoru vejce. Podávej s koriandrem."
+    }
+  ],
+  "tips": [
+    "Používej čerstvá vejce a bílek osmaž do úplného zatuhnutí. Kdo žloutek tekutý nechce, nechá ho prosmažit déle.",
+    "Omáčka se dá uvařit den předem a ohřát.",
+    "Opečené tortilly drží tvar lépe než jen ohřáté."
+  ],
+  "substitutions": [
+    "Fazole červené nahraď černými nebo bílými.",
+    "Jalapeño nahraď chilli vločkami nebo vynech pro mírnou verzi.",
+    "Tortillu nahraď opečeným chlebem nebo kukuřičnou plackou."
+  ],
+  "faq": [
+    {
+      "q": "Co jsou huevos rancheros?",
+      "a": "Mexická snídaně z vajec na volské oko, podávaná na tortille s rajčatovou omáčkou. Často se přidávají fazole a avokádo."
+    },
+    {
+      "q": "Jak dlouho se smaží vejce na huevos rancheros?",
+      "a": "Na volské oko 3 až 4 minuty, dokud bílek není zcela pevný. Žloutek má zůstat lehce tekutý, nebo prosmaž déle."
+    },
+    {
+      "q": "Dá se omáčka připravit předem?",
+      "a": "Ano, vydrží 3 dny v lednici a je lepší druhý den. Před podáváním ji ohřej."
+    }
+  ]
+}

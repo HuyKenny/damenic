@@ -1,0 +1,95 @@
+{
+  "title": "Pečená červená řepa v troubě",
+  "keywords": [
+    "pečená červená řepa",
+    "pečená řepa v troubě",
+    "červená řepa pečená ve fólii",
+    "pečená řepa recept"
+  ],
+  "image": "dish-pecena-cervena-repa",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 70,
+  "waitMinutes": 15,
+  "waitLabel": "vychladnutí",
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Pečená červená řepa je sladší a sytější než vařená, protože se peče bez vody. Zabalená v alobalu změkne ve vlastní páře a po oloupání se podává teplá nebo studená, s olejem, balsamikem a tymiánem.",
+  "ingredients": [
+    {
+      "ingredient": "cervena-repa",
+      "amount": 800,
+      "unit": "g",
+      "note": "menší, stejně velké"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "čerstvý nebo sušený"
+    },
+    {
+      "ingredient": "ocet-balsamico",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 190 °C). Řepu omyj, oklepej do sucha a neloupej."
+    },
+    {
+      "text": "Každý kus zakápni olejem, osol a zabal do alobalu. Dej na plech."
+    },
+    {
+      "text": "Peč 60 až 75 minut podle velikosti. Hotová je, když se špejle zabodne bez odporu."
+    },
+    {
+      "text": "Nech zchladnout v alobalu 15 minut, aby se dopekla párou. Slupka se pak stáhne rukou."
+    },
+    {
+      "text": "Nakrájej na klínky, promíchej s balsamikem, tymiánem a pepřem a podávej teplou nebo studenou."
+    }
+  ],
+  "tips": [
+    "Čím menší kusy, tím rychlejší pečení a rovnoměrnější výsledek.",
+    "Šťáva z fólie je plná chuti. Přilij ji k hotové řepě.",
+    "K pečené řepě sedne kozí sýr, vlašské ořechy nebo zakysaná smetana."
+  ],
+  "substitutions": [
+    "Balsamiko nahraď jablečným octem s trochou medu.",
+    "Tymián nahraď rozmarýnem nebo kmínem.",
+    "Olivový olej nahraď řepkovým."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se peče červená řepa?",
+      "a": "Celá řepa střední velikosti 60 až 75 minut při 200 °C. Menší kusy stačí 45 minut."
+    },
+    {
+      "q": "Musí se řepa před pečením loupat?",
+      "a": "Ne. Slupka se po upečení sloupne snadno a zůstane sladší šťáva."
+    },
+    {
+      "q": "Dá se pečená řepa podávat studená?",
+      "a": "Ano, výborná je i studená, třeba do salátu. V lednici vydrží 4 dny."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "title": "Fazole na kyselo",
+  "keywords": [
+    "fazole na kyselo",
+    "fazole na kyselo recept",
+    "bílé fazole na kyselo",
+    "fazole na kyselo s cibulí"
+  ],
+  "image": "dish-fazole-na-kyselo",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Fazole na kyselo jsou bílé fazole v zasmažené omáčce z cibule, mouky, octa a paprikou. Z konzervy jsou hotové za 35 minut. Chuť má být lehce kyselá a sladká a fazole se podávají s chlebem nebo vejcem.",
+  "ingredients": [
+    {
+      "ingredient": "fazole-bile",
+      "amount": 800,
+      "unit": "g",
+      "note": "2 plechovky, scezené, nebo 300 g suchých uvařených"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 40,
+      "unit": "g",
+      "note": "nebo olej"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 400,
+      "unit": "ml",
+      "note": "nebo vývar"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej sádlo, osmahni cibuli 5 minut do zlatova, přidej mouku a míchej 1 až 2 minuty do světle zlatohnědé jíšky."
+    },
+    {
+      "text": "Stáhni z ohně a vmíchej sladkou papriku, česnek, kmín a majoránku. Hned zalij vodou, aby paprika nezhořkla, a míchej, aby se nevytvořily hrudky."
+    },
+    {
+      "text": "Přidej fazole, bobkový list, sůl a cukr a vař na mírném ohni 15 minut, občas promíchej."
+    },
+    {
+      "text": "Dochuť octem a podle potřeby solí a cukrem. Chuť má být vyvážená: kyselá, slaná a lehce sladká. Podávej s chlebem."
+    }
+  ],
+  "tips": [
+    "Papriku přidávej mimo oheň, rychle se spálí a zhořkne.",
+    "Ocet přidávej až na konci, aby si zachoval chuť.",
+    "Další den jsou fazole hustší, zřeď je lžící vody."
+  ],
+  "substitutions": [
+    "Konzervu nahradíš suchými fazolemi namočenými přes noc a uvařenými do měkka (asi 1,5 hodiny).",
+    "Sádlo nahradíš olejem.",
+    "Přidej opečené párky nebo slaninu, pokud chceš výživnější jídlo."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří fazole na kyselo?",
+      "a": "Z konzervy asi 15 minut v omáčce. Suché fazole se musí předem namočit a uvařit."
+    },
+    {
+      "q": "Čím zahustit fazole na kyselo?",
+      "a": "Jíškou z mouky a sádla nebo oleje. Stačí 30 g mouky na 800 g fazolí."
+    },
+    {
+      "q": "Dají se fazole na kyselo zmrazit?",
+      "a": "Ano, v mrazáku vydrží 2 až 3 měsíce. Po rozmražení je prohřej a případně zřeď vodou."
+    }
+  ]
+}

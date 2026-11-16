@@ -1,0 +1,18 @@
+{
+  "name": "Vařená červená řepa s kmínem",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Plátky vařené červené řepy s kmínem, octem a lžící oleje.",
+  "about": [],
+  "price": 6900,
+  "image": "dish-cervena-repa",
+  "recipe": "cervena-repa",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 900
+}

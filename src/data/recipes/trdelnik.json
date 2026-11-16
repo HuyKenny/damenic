@@ -1,0 +1,144 @@
+{
+  "title": "Domácí trdelník z trouby",
+  "keywords": [
+    "trdelník",
+    "trdelník recept",
+    "domácí trdelník",
+    "trdelník z trouby",
+    "kynutý trdelník"
+  ],
+  "image": "dish-trdelnik-na-slib",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 50,
+  "cookMinutes": 25,
+  "waitMinutes": 90,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Domácí trdelník je kynuté máslové těsto, které se navine na válec, upeče v troubě a obalí v karamelizovaném cukru se skořicí a ořechy. Vyjde šest trdelníků. Nejtěžší je správně připravit válec z alobalu, aby se těsto dalo po upečení snadno stáhnout.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 21,
+      "unit": "g",
+      "note": "půlka kostky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "rozpuštěné a vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "1 do těsta, 1 na potření",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "rozpuštěné na potírání",
+      "group": "Obalení"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "group": "Obalení"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 7,
+      "unit": "g",
+      "note": "asi 1 lžíce",
+      "group": "Obalení"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 80,
+      "unit": "g",
+      "note": "nasekané",
+      "group": "Obalení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozmíchej ve vlažném mléce s lžičkou cukru z celkového množství a nech 10 minut zakvasit, dokud nevznikne pěna."
+    },
+    {
+      "text": "Do mísy nasypej mouku, sůl a zbytek cukru, přidej kvásek, jedno vejce a rozpuštěné vlažné máslo. Hněť 10 minut, dokud těsto není hladké a přestane lepit k míse. Přikryj a nech 60 minut kynout na teplém místě, dokud nezdvojnásobí objem."
+    },
+    {
+      "text": "Mezitím připrav válce: dřevěný váleček nebo trubku o průměru asi 5 cm obal třemi vrstvami alobalu, hladce a pevně, a alobal potři máslem. Vyjde šest válců, jinak peč po dvou dávkách."
+    },
+    {
+      "text": "Těsto rozděl na 6 dílů, každý rozválej do pásu dlouhého asi 60 cm a širokého 2 cm. Pás ovíjej spirálou kolem válce tak, aby se kraje lehce překrývaly, a prsty hladce přitlač. Nech 20 minut dokynout."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 170 °C). Trdelníky potři rozšlehaným vejcem a pověs nebo polož válce na plech tak, aby se těsto nedotýkalo plechu. Peč 20 až 25 minut, dokud nejsou zlatě hnědé, a po polovině je otoč."
+    },
+    {
+      "text": "Hotové trdelníky potři rozpuštěným máslem, obal ve směsi cukru, skořice a ořechů a vrať do trouby na 3 až 5 minut, aby se cukr rozpustil v karamel. Nech 5 minut vychladnout a opatrně stáhni z válce kroucením."
+    }
+  ],
+  "tips": [
+    "Alobal musí být hladký a namazaný, jinak se těsto při stahování trhá. Trdelník stahuj, až když je vlažný, horký se deformuje.",
+    "Těsto ovíjej bez tahu. Při pečení se roztáhne a napnuté by se mohlo odloupnout od válce.",
+    "Chceš-li ho připravit dopředu, upeč trdelníky bez obalu a cukrem je obal až před podáváním po krátkém prohřátí při 160 °C."
+  ],
+  "substitutions": [
+    "Vlašské ořechy nahraď mletými mandlemi nebo lískovými ořechy, případně je vynech a zvyš skořici.",
+    "Máslo v těstě můžeš nahradit 70 ml oleje, trdelník bude o trochu méně voňavý.",
+    "Mléko jde nahradit ovesným nápojem, těsto kyne stejně."
+  ],
+  "faq": [
+    {
+      "q": "Dá se trdelník upéct bez válce?",
+      "a": "Dá. Poslouží třeba trubka z nerezu nebo pevně smotaný válec z alobalu. Podstatné je, aby měl průměr kolem 5 cm a byl potřený máslem."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí trdelník?",
+      "a": "Nejlepší je v den pečení. Zabalený vydrží při pokojové teplotě dva dny, před jídlem ho prohřej v troubě na 160 °C asi 5 minut."
+    },
+    {
+      "q": "Proč se mi těsto na válci rozpadlo?",
+      "a": "Těsto bylo příliš suché nebo válec nebyl potřený máslem. Těsto má být měkké, ale nelepivé."
+    },
+    {
+      "q": "Kolik trdelníků vyjde z receptu?",
+      "a": "Vyjde šest trdelníků o délce asi 15 cm."
+    }
+  ]
+}

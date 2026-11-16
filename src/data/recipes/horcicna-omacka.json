@@ -1,0 +1,109 @@
+{
+  "title": "Hořčičná omáčka se smetanou",
+  "keywords": [
+    "hořčičná omáčka",
+    "hořčičná omáčka recept",
+    "hořčičná omáčka k masu",
+    "smetanová hořčičná omáčka"
+  ],
+  "image": "dish-horcicna-omacka",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Hořčičná omáčka je jemná smetanová omáčka s cibulí a plnotučnou hořčicí. Hodí se k vepřovému, kuřecímu masu i k vařeným vejcím. Hořčici přidávej až nakonec, dlouhým varem by zhořkla.",
+  "ingredients": [
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "na jemno"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "plnotučná"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V rendlíku rozehřej máslo a na mírném plameni 4 minuty osmaž cibuli doměkka, nesmí hnědnout."
+    },
+    {
+      "text": "Přisyp mouku a 1 minutu míchej, aby se zbavila syrové chuti."
+    },
+    {
+      "text": "Za stálého míchání přilévej vývar po částech a nech 5 minut projít varem."
+    },
+    {
+      "text": "Přilej smetanu a nech 3 minuty probublat, nevař dlouho."
+    },
+    {
+      "text": "Stáhni z ohně a vmíchej hořčici, med, sůl a pepř. Nevař ji, jinak zhořkne."
+    }
+  ],
+  "tips": [
+    "Hořčici přidávej až po stažení z plamene. Při varu zhořkne a ztratí chuť.",
+    "Kdyby byla omáčka příliš hustá, ředěj ji vývarem po lžících.",
+    "Podávej k vepřovému řízku, kuřecím prsům nebo vařeným vejcím."
+  ],
+  "substitutions": [
+    "Smetanu nahraď zakysanou smetanou, přidej ji po stažení z ohně.",
+    "Dijonskou hořčici použij pro jemnější chuť.",
+    "Bezlepkovou verzi zahustíš 1 lžičkou škrobu rozmíchaného ve studené vodě."
+  ],
+  "faq": [
+    {
+      "q": "K čemu se hodí hořčičná omáčka?",
+      "a": "K vepřovému a kuřecímu masu, vařeným vejcím, bramborám a uzeninám."
+    },
+    {
+      "q": "Proč hořčičná omáčka hořkne?",
+      "a": "Hořčici jsi vařil příliš dlouho. Přidej ji vždy po stažení z ohně."
+    },
+    {
+      "q": "Dá se hořčičná omáčka zamrazit?",
+      "a": "Smetanové omáčky se po rozmrazení často srážejí. Raději ji připrav čerstvou."
+    }
+  ]
+}

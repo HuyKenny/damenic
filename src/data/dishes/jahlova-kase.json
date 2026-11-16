@@ -1,0 +1,41 @@
+{
+  "name": "Jáhlová kaše s jablkem",
+  "section": "Kaše a sladké",
+  "price": 9900,
+  "recipe": "jahlova-kase",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 110,
+  "description": "Jáhly na mléce s jablkem, rozinkami a skořicí.",
+  "about": [
+    "Jáhly se propláchnou horkou vodou, aby nehořkly, a vaří se krátce. Výsledek je krémová hřejivá kaše.",
+    "Ranní kaše přijde zítra, i když ses o ni přihlásil dnes. Odložený budík je smyšlený, jáhly ne."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "odlozeny-budik",
+  "image": "dish-jahlova-kase",
+  "allergens": [
+    7
+  ]
+}

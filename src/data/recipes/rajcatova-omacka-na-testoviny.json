@@ -1,0 +1,106 @@
+{
+  "title": "Rajčatová omáčka na těstoviny",
+  "keywords": [
+    "rajčatová omáčka na těstoviny",
+    "rajčatová omáčka recept",
+    "domácí rajčatová omáčka",
+    "omáčka na špagety"
+  ],
+  "image": "dish-rajcatova-omacka-na-testoviny",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Rajčatová omáčka na těstoviny z loupaných rajčat je hotová za půl hodiny. Základ tvoří cibule, česnek a olivový olej, pár lístků bazalky a špetka cukru, která srovná kyselost.",
+  "ingredients": [
+    {
+      "ingredient": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "note": "na jemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 800,
+      "unit": "g",
+      "note": "2 plechovky"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "svazek, lístky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V pánvi na oleji osmaž cibuli na středním plameni 5 minut doměkka."
+    },
+    {
+      "text": "Přidej česnek a smaž 30 vteřin, nesmí zhnědnout."
+    },
+    {
+      "text": "Vlij rajčata, rozmačkej je vařečkou, přidej cukr, sůl a oregano."
+    },
+    {
+      "text": "Vař na mírném plameni 20 minut bez pokličky, občas promíchej, až omáčka zhoustne."
+    },
+    {
+      "text": "Stáhni z ohně, přidej utrhané lístky bazalky a podle potřeby dosol."
+    }
+  ],
+  "tips": [
+    "Pro hladkou omáčku ji rozmixuj tyčovým mixérem.",
+    "Kyselá rajčata zmírníš špetkou cukru nebo strouhanou mrkví.",
+    "V lednici vydrží 4 dny, mrazit lze do 3 měsíců."
+  ],
+  "substitutions": [
+    "Loupaná rajčata nahraď 800 ml passaty, vař 15 minut.",
+    "Čerstvou bazalku nahraď sušenou, přidej ji už při vaření.",
+    "Pro pikantní verzi přidej chilli vločky."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří rajčatová omáčka?",
+      "a": "Asi 20 minut bez pokličky. Delším varem zhoustne a zesílí."
+    },
+    {
+      "q": "Jak zbavit rajčatovou omáčku kyselosti?",
+      "a": "Přidej špetku cukru nebo kousek strouhané mrkve."
+    },
+    {
+      "q": "Dá se rajčatová omáčka zamrazit?",
+      "a": "Ano, v uzavřené nádobě až 3 měsíce. Rozmraz v lednici a prohřej."
+    }
+  ]
+}

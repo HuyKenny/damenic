@@ -1,0 +1,41 @@
+{
+  "name": "Šoulet z kroupy a fazolí",
+  "section": "Hustší jídla",
+  "price": 15900,
+  "recipe": "soulet",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 310,
+  "description": "Čtyři hodiny pečená směs kroupy, fazolí a uzeného.",
+  "about": [
+    "Šoulet se peče čtyři hodiny při 140 °C. Fazole se namáčejí přes noc a předvaří, a tak je pak v troubě klid.",
+    "Hustota rizota, vůně uzeného a česneku. Hotový bude až ve tvé troubě, od nás přijede jen smyšlená pára."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "prazdna-naberacka",
+  "image": "dish-soulet",
+  "allergens": [
+    9
+  ]
+}

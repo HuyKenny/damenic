@@ -1,0 +1,24 @@
+{
+  "name": "Cordon bleu",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Vepřový řízek plněný šunkou a eidamem, obalený a smažený dozlatova.",
+  "about": [
+    "Cordon bleu je řízek, který v sobě něco skrývá: šunku a rozpuštěný sýr. Původně se dělal z telecího, v Česku nejčastěji z vepřové kýty. Plátek se naklepe, plní se a obalí ve třech vrstvách, a pak se smaží dozlatova.",
+    "Dobré cordon bleu poznáš podle toho, že se při krájení ze středu pomalu line sýr. Tady z něj nic nepoteče a nic nepřijede, jídlo je nanečisto. Pokud ale máš vepřovou kýtu a eidam, recept ti opravdu vyjde."
+  ],
+  "price": 22900,
+  "image": "dish-cordon-bleu",
+  "recipe": "cordon-bleu",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 60
+}

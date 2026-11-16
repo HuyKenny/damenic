@@ -1,0 +1,93 @@
+{
+  "title": "Domácí tortilla (mouková placka)",
+  "keywords": [
+    "domácí tortilla",
+    "tortilla recept",
+    "tortilly z mouky",
+    "mexické placky tortilla"
+  ],
+  "image": "dish-domaci-tortilla-ani",
+  "category": "mexicka",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "meal": "pecivo",
+  "intro": "Domácí tortilla je tenká měkká placka z mouky, oleje, soli a vody. Vyjde 8 kusů o průměru asi 20 cm. Péct se musí na suché rozpálené pánvi jen 30 až 40 sekund z každé strany, jinak ztvrdnou. Těsto potřebuje 30 minut odpočinku, aby šlo roztáhnout bez trhání.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 50,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 170,
+      "unit": "ml",
+      "note": "vlažná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku smíchej se solí a práškem do pečiva. Přidej olej a vlažnou vodu a hněť 5 minut, dokud není těsto hladké a nelepí."
+    },
+    {
+      "text": "Těsto rozděl na 8 stejných kuliček, přikryj mokrou utěrkou a nech 30 minut odpočinout."
+    },
+    {
+      "text": "Každou kuličku rozválej na lehce pomoučeném stole na tenký kruh o průměru asi 20 cm."
+    },
+    {
+      "text": "Rozpal suchou pánev na vyšší teplotu. Tortillu peč 30 až 40 sekund, dokud se na povrchu netvoří bubliny, pak otoč a peč dalších 20 až 30 sekund, dokud nemá světle hnědé skvrnky."
+    },
+    {
+      "text": "Hotové placky skládej na sebe do utěrky, ať zůstanou měkké. Spotřebuj do hodiny nebo je zabal do fólie."
+    }
+  ],
+  "tips": [
+    "Pánev nepoleváj olejem, tortilla se má péct na sucho.",
+    "Těsto přikryj, aby nevyschlo, jinak se při válení trhá.",
+    "Tortillu při pečení nepřepékej, tvrdne a už se nedá ohnout."
+  ],
+  "substitutions": [
+    "Olej můžeš nahradit 50 g sádla, placky budou měkčí a chuťově klasičtější.",
+    "Polovinu hladké mouky nahraď polohrubou, získáš rustikálnější placky.",
+    "Do těsta přidej lžičku papriky pro barvu a chuť."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží domácí tortilla?",
+      "a": "Zabalená do fólie vydrží v lednici 4 dny, zmrazená měsíc. Před podáváním ji ohřej na suché pánvi."
+    },
+    {
+      "q": "Proč se mi tortilla láme?",
+      "a": "Těsto bylo suché, málo odpočaté nebo je placka příliš dlouho pečená. Hned po upečení ji přikryj utěrkou."
+    },
+    {
+      "q": "Dá se tortilla péct v troubě?",
+      "a": "Nedoporučuji, v troubě vyschne. Nejlepší je suchá litinová nebo nepřilnavá pánev."
+    },
+    {
+      "q": "Čím se liší od pity?",
+      "a": "Tortilla je tenká a nekyne, kdežto pita kyne a v troubě se nafoukne do kapsy."
+    }
+  ]
+}

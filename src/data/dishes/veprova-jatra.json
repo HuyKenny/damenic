@@ -1,0 +1,24 @@
+{
+  "name": "Vepřová játra na cibulce",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Vepřová játra smažená krátce na zlaté cibulce, podávaná s kaší.",
+  "about": [
+    "Vepřová játra patří k jídlům, které lidé buď milují, nebo odmítají. Tvrdá, hořká a přesušená játra neprojdou. Jemná, mírně růžová a s cibulkou ve sladké omáčce ale mají zastánce.",
+    "Vycep Zítra tohle jídlo nabízí nanečisto a hospodsky přímo. Pokud tě ještě neobměkčily, zkus namáčení v mléce a kratší smažení, rozdíl uslyšíš s prvním soustem."
+  ],
+  "price": 15900,
+  "image": "dish-veprova-jatra",
+  "recipe": "veprova-jatra",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9
+  ],
+  "order": 70
+}

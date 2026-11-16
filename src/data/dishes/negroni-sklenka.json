@@ -1,0 +1,41 @@
+{
+  "name": "Negroni",
+  "restaurant": "koktejlbar-prazdna-sklenka",
+  "kind": "main",
+  "section": "Klasiky",
+  "description": "Gin, hořký pomerančový aperitiv a červený vermut v poměru 1 : 1 : 1 na ledu, s pomerančovou kůrou.",
+  "about": [
+    "Negroni je tři stejné díly: gin, hořký aperitiv a červený vermut, míchané s ledem, až sklenka orosí. Žádné šejkování, žádný spěch. Pomerančová kůra se nad sklenkou přelomí, aby voněla.",
+    "Vybrat si můžeš i verzi bez alkoholu. Nalejeme ji ale jen pomyslně, protože bar je smyšlený a alkohol je jen pro 18+. Recept na doma je skutečný, led v mrazáku taky."
+  ],
+  "price": 17900,
+  "image": "dish-negroni-sklenka",
+  "recipe": "negroni",
+  "optionGroups": [
+    {
+      "id": "varianta",
+      "name": "Varianta",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "s-alkoholem",
+          "name": "S alkoholem (jen 18+)",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-alkoholu",
+          "name": "Bez alkoholu",
+          "priceDelta": -5000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    12
+  ],
+  "order": 40
+}

@@ -1,0 +1,142 @@
+{
+  "title": "Kuřecí vývar",
+  "keywords": [
+    "kuřecí vývar",
+    "domácí kuřecí vývar",
+    "kuřecí vývar z celého kuřete",
+    "vývar na polévku"
+  ],
+  "image": "dish-kureci-vyvar",
+  "category": "polevky",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 150,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Kuřecí vývar z celého kuřete se zeleninou je základ nedělní polévky i omáček. Nejdůležitější je pomalý var těsně pod bodem varu a pěna sbíraná na začátku, protože ta rozhoduje, jestli bude vývar čirý.",
+  "ingredients": [
+    {
+      "ingredient": "cele-kure",
+      "amount": 1300,
+      "unit": "g",
+      "note": "omyté, bez drobů"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2500,
+      "unit": "ml",
+      "note": "studená"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 200,
+      "unit": "g",
+      "note": "dvě menší, celé"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 120,
+      "unit": "g",
+      "note": "celý"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 120,
+      "unit": "g",
+      "note": "kus, oloupaný"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "půlka se slupkou, osmahnutá na řezu"
+    },
+    {
+      "ingredient": "por",
+      "amount": 100,
+      "unit": "g",
+      "note": "zelená i bílá část"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 8,
+      "unit": "g",
+      "note": "celé kuličky"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nať na závěr"
+    },
+    {
+      "ingredient": "nudle-polevkove",
+      "amount": 150,
+      "unit": "g",
+      "note": "na podávání, uvařené zvlášť"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuře vlož do velkého hrnce, zalij studenou vodou tak, aby bylo celé ponořené, a pomalu přiveď k varu. Studená voda pomůže vytáhnout z masa chuť."
+    },
+    {
+      "text": "Jakmile se na hladině utvoří šedá pěna, sbírej ji sítkem nebo naběračkou a opakuj, dokud pěna nepřestane přibývat, asi 10 minut."
+    },
+    {
+      "text": "Přidej polovinu soli, pepř, nové koření a bobkový list. Teplotu stáhni tak, aby se hladina jen líně chvěla. Silně vařený vývar se zakalí."
+    },
+    {
+      "text": "Cibuli rozpůlenou i se slupkou opeč na suché pánvi řezem dolů do tmavohněda a vlož ji do hrnce spolu s mrkví, petrželovým kořenem, celerem a porem. Vař 2 hodiny pod pokličkou pootevřenou na škvíru."
+    },
+    {
+      "text": "Kuře vyndej, až se maso od kostí odděluje samo a vnitřní teplota u stehna dosáhla bezpečných 75 °C (to bývá mnohem dřív, po 2 hodinách je maso hodně měkké). Maso obereš od kostí a použiješ do polévky nebo do salátu."
+    },
+    {
+      "text": "Vývar přeceď přes jemné sítko, dosol a ochutnej. Nudle uvař zvlášť v osolené vodě a do vývaru je dej až na talíři, jinak zkalí a nasákne."
+    },
+    {
+      "text": "Podávej s mrkví, kouskem masa a nasekanou petrželkou. Zbytek vývaru nech zchladnout do 2 hodin a ulož v lednici."
+    }
+  ],
+  "tips": [
+    "Čirý vývar se nedělá varem, ale trpělivostí. Když hladina jen sotva bublá, tuk se nevmíchá do tekutiny a polévka zůstane čistá.",
+    "Osmahnutá cibule se slupkou dodá vývaru zlatou barvu bez barviva a jemnou sladkost.",
+    "Vychlazený vývar v lednici vytvoří na povrchu vrstvu tuku. Stáhneš ji lžící a dostaneš lehčí polévku."
+  ],
+  "substitutions": [
+    "Místo celého kuřete se hodí 1,2 kg kuřecích křídel a hřbetů, vývar bude výraznější, masa bude méně.",
+    "Místo nudlí podávej játrové knedlíčky, zavářku z vajec nebo rýži uvařenou zvlášť."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří kuřecí vývar?",
+      "a": "Z celého kuřete asi 2 až 2,5 hodiny na tichém varu. Ze slepice 3 až 4 hodiny, protože maso je tužší. Delší vaření už chuť nezlepší."
+    },
+    {
+      "q": "Jak udělat kuřecí vývar čirý?",
+      "a": "Začni ve studené vodě, sbírej pěnu a nikdy nevař prudce. Vývar nemíchej a při cezení ho nemačkej přes sítko."
+    },
+    {
+      "q": "Jak dlouho vydrží kuřecí vývar v lednici?",
+      "a": "Přeceděný a rychle zchlazený vydrží 3 až 4 dny v uzavřené nádobě. V mrazáku vydrží několik měsíců, ale chuť je nejlepší do 3 měsíců."
+    }
+  ]
+}

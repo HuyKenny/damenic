@@ -1,0 +1,126 @@
+{
+  "title": "Mrkvová polévka",
+  "keywords": [
+    "mrkvová polévka",
+    "krémová mrkvová polévka",
+    "mrkvová polévka se zázvorem",
+    "polévka z mrkve"
+  ],
+  "image": "dish-mrkvova-polevka",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Mrkvová polévka se zázvorem se vaří z vařené mrkve, ne z pečené, takže je hotová za 40 minut a chutná čistě po mrkvi. Sladkost vyvažuje citron a zázvor, jemnost smetana.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 600,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 15,
+      "unit": "g",
+      "note": "čerstvý, nastrouhaný"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 800,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 80,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nať"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozpusť máslo a na mírném plameni 3 minuty restuj cibuli, dokud nezesklovatí."
+    },
+    {
+      "text": "Přidej zázvor a mrkev s bramborami a 2 minuty míchej, aby se zelenina prohřála."
+    },
+    {
+      "text": "Zalij vývarem, osol, přiveď k varu a vař pod pokličkou 20 minut, dokud není mrkev úplně měkká a dá se rozmáčknout vidličkou."
+    },
+    {
+      "text": "Rozmixuj ponorným mixérem dohladka. Kdyby byla polévka příliš hustá, zřeď ji troškou horkého vývaru nebo vody."
+    },
+    {
+      "text": "Vmíchej smetanu a citronovou šťávu, dochuť pepřem a soli a ještě krátce prohřej bez varu."
+    },
+    {
+      "text": "Podávej posypané petrželkou."
+    }
+  ],
+  "tips": [
+    "Mrkev na kolečka stejné tloušťky změkne současně. Staré tvrdé mrkve potřebují o 5 až 10 minut déle.",
+    "Zázvor dej do polévky jen malý kousek, jinak převládne. Čerstvý je výraznější než sušený.",
+    "Pro sametovou texturu mixuj do úplně hladkého a polévku případně přeceď."
+  ],
+  "substitutions": [
+    "Máslo nahraď řepkovým olejem a smetanu kokosovým mlékem pro veganskou verzi.",
+    "Zázvor lze nahradit špetkou kari koření.",
+    "Místo brambory použij 50 g červené čočky, polévka bude sytější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří mrkvová polévka?",
+      "a": "Asi 20 minut na mírném varu. Mrkev musí jít rozmáčknout vidličkou, jinak polévka nebude hladká."
+    },
+    {
+      "q": "Jak zbavit mrkvovou polévku přílišné sladkosti?",
+      "a": "Přidej citronovou šťávu nebo trošku octa a špetku soli. Kyselina sladkost vyvažuje lépe než další koření."
+    },
+    {
+      "q": "Vydrží mrkvová polévka v lednici?",
+      "a": "Ano, 3 až 4 dny ve zchlazené uzavřené nádobě. Zamrazit ji můžeš bez smetany na asi 3 měsíce."
+    }
+  ]
+}

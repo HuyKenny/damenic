@@ -1,0 +1,39 @@
+{
+  "name": "Cosmopolitan",
+  "restaurant": "koktejlbar-prazdna-sklenka",
+  "kind": "main",
+  "section": "Klasiky",
+  "description": "Vodka, pomerančový likér, brusinkový džus a limetka, třepané s ledem a podávané bez ledu.",
+  "about": [
+    "Cosmopolitan je růžový, studený a přesně odměřený: 40 ml vodky, 15 ml likéru, 30 ml brusinek a 15 ml limetky. Třepe se do orosení a lije přes sítko.",
+    "Do simulace lze zvolit verzi bez alkoholu. Bar je smyšlený a alkohol je jen pro 18+, takže nikomu nic nenalijeme. Recept pro tvůj šejkr doma je ale skutečný."
+  ],
+  "price": 18900,
+  "image": "dish-cosmopolitan-sklenka",
+  "recipe": "cosmopolitan",
+  "optionGroups": [
+    {
+      "id": "varianta",
+      "name": "Varianta",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "s-alkoholem",
+          "name": "S alkoholem (jen 18+)",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-alkoholu",
+          "name": "Bez alkoholu",
+          "priceDelta": -5000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 35
+}

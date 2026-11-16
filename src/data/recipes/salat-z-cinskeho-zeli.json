@@ -1,0 +1,96 @@
+{
+  "title": "Salát z čínského zelí",
+  "keywords": [
+    "salát z čínského zelí",
+    "čínské zelí salát",
+    "salát z pekingského zelí",
+    "čínské zelí s kukuřicí"
+  ],
+  "image": "dish-salat-z-cinskeho-zeli",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 10,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Salát z čínského zelí je lehká, křupavá příloha s kukuřicí, paprikou a olejovou zálivkou. Čínské zelí je jemnější než bílé, takže se nemusí mnout, jen jemně nakrájet.",
+  "ingredients": [
+    {
+      "ingredient": "cinske-zeli",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kukurice-konzerva",
+      "amount": 150,
+      "unit": "g",
+      "note": "okapaná"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zelí zbav vnějších listů, rozpůl a nakrájej na tenké proužky. Tvrdý řapík můžeš nakrájet ještě jemněji."
+    },
+    {
+      "text": "Papriku zbav semínek a nakrájej na tenké nudličky. Kukuřici nech okapat."
+    },
+    {
+      "text": "Smíchej olej, ocet, cukr a sůl a zálivku zamíchej, až se cukr rozpustí."
+    },
+    {
+      "text": "Zelí, papriku a kukuřici promíchej se zálivkou a nech 10 minut odležet v lednici."
+    }
+  ],
+  "tips": [
+    "Salát dělej těsně před podáváním, čínské zelí pouští vodu rychle.",
+    "Do salátu se hodí i nastrouhaná mrkev nebo jablko.",
+    "Zálivku si uprav podle chuti, víc octa dá svěžejší salát."
+  ],
+  "substitutions": [
+    "Kukuřici nahradíš hráškem nebo nastrouhanou mrkví.",
+    "Ocet nahradíš citronovou šťávou.",
+    "Olej slunečnicový nahradíš olivovým."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží salát z čínského zelí?",
+      "a": "Do druhého dne v lednici. Pak je vodnatý a ztrácí křupavost."
+    },
+    {
+      "q": "Je čínské zelí stejné jako pekingské?",
+      "a": "Ano, jde o stejnou plodinu, zelí s podlouhlou hlávkou a světlými listy."
+    },
+    {
+      "q": "Dá se čínské zelí použít na majonézový salát?",
+      "a": "Ano, hodí se s kukuřicí, šunkou nebo vejcem. Zálivku přidej až před podáním."
+    }
+  ]
+}

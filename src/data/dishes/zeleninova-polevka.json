@@ -1,0 +1,41 @@
+{
+  "name": "Zeleninová polévka",
+  "section": "Lehké",
+  "price": 7900,
+  "recipe": "zeleninova-polevka",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "order": 220,
+  "description": "Kořenová zelenina, brambory a hrášek, bez masa.",
+  "about": [
+    "Polévka, ve které se každá zelenina krájí na stejné kostky, aby se uvařily naráz. Je to nejtišší práce v kuchyni a nejhlasitější chuť.",
+    "Do mísy pár lžic zeleniny, do tvé kuchyně recept. Lžíce zůstává prázdná, polévka se rozvoní u tebe."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "lzice-zitra",
+  "image": "dish-zeleninova-polevka",
+  "allergens": [
+    9
+  ]
+}

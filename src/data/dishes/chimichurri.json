@@ -1,0 +1,18 @@
+{
+  "name": "Chimichurri, miska",
+  "restaurant": "steakarna-rare-priste",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Hrubě nasekaná petrželka s česnekem, octem a olivovým olejem ke steaku.",
+  "about": [],
+  "price": 3900,
+  "image": "dish-chimichurri",
+  "recipe": "chimichurri",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 900
+}

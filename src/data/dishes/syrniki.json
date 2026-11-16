@@ -1,0 +1,43 @@
+{
+  "name": "Syrniki s malinami",
+  "section": "Kaše a sladké",
+  "price": 12900,
+  "recipe": "syrniki",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 130,
+  "description": "Tvarohové placičky se zakysanou smetanou a malinami.",
+  "about": [
+    "Tvaroh se dobře odkape a těsto odpočívá čtvrt hodiny. Pak se placičky smaží do zlatova na mírném ohni.",
+    "Zlatý okraj a měkký střed, to je celý recept. Doručení je smyšlené, malinky ne."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "odlozeny-budik",
+  "image": "dish-syrniki",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Huevos rancheros",
+  "section": "Brunch",
+  "price": 14900,
+  "recipe": "huevos-rancheros",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 1,
+  "order": 210,
+  "description": "Vejce na tortille s rajčatovou omáčkou a fazolemi.",
+  "about": [
+    "Opečená tortilla, sladkopikantní rajčatová omáčka, fazole a vejce na volské oko. Snídaně, která odstraní hlad i ospalost.",
+    "Brunch na lačno, přesně jak říká jméno podniku. Hotový bude u tebe v kuchyni za čtvrt hodiny."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "na-lacno",
+  "image": "dish-huevos-rancheros",
+  "allergens": [
+    1,
+    3
+  ]
+}

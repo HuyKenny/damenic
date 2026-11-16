@@ -1,0 +1,92 @@
+{
+  "title": "Negroni",
+  "keywords": [
+    "negroni",
+    "negroni recept",
+    "negroni poměr",
+    "jak se dělá negroni",
+    "nealko negroni"
+  ],
+  "image": "dish-negroni-sklenka",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "servings": 1,
+  "activeMinutes": 3,
+  "cookMinutes": 0,
+  "waitMinutes": 7,
+  "waitLabel": "vychlazení sklenice",
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "intro": "Negroni je italský aperitiv ze tří stejných dílů ginu, hořkého pomerančového aperitivu a červeného vermutu. Na jednu sklenici je to 30 ml od každého, tedy 90 ml alkoholu. Těžší než poměr je správné ředění ledem: čím víc se míchá s ledem, tím je drink jemnější.",
+  "ingredients": [
+    {
+      "ingredient": "gin",
+      "amount": 30,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "horky-pomerancovy-aperitiv",
+      "amount": 30,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vermut-cerveny",
+      "amount": 30,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "led",
+      "amount": 150,
+      "unit": "g",
+      "note": "kostky"
+    },
+    {
+      "ingredient": "pomeranc",
+      "amount": 0.2,
+      "unit": "ks",
+      "note": "kousek kůry nebo kolečko na ozdobu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Skleničku old fashioned dej na 5 minut do mrazáku. Do mixovací sklenice nebo džbánku nasyp polovinu ledu."
+    },
+    {
+      "text": "Odměř 30 ml ginu, 30 ml hořkého aperitivu a 30 ml červeného vermutu a nalij je na led."
+    },
+    {
+      "text": "Míchej dlouhou lžící 20 až 30 vteřin, dokud není sklenice zvenku studená a orosená. Negroni se nikdy netřepe."
+    },
+    {
+      "text": "Do vychlazené sklenice dej velkou kostku ledu nebo několik kostek a přeced do ní drink."
+    },
+    {
+      "text": "Z pomeranče odkroj pruh kůry, nad drinkem ho přelam, aby se uvolnily oleje, a přidej do sklenice."
+    }
+  ],
+  "tips": [
+    "Víc ledu a delší míchání dá jemnější drink. Voda z tajícího ledu je v receptu patnáctou součástí.",
+    "Otevřený vermut skladuj v lednici, vydrží 4 až 6 týdnů. Pak oxiduje a chutná kysele.",
+    "Starší sklenici dej na 5 minut do mrazáku. Teplá sklenice drink ohřeje."
+  ],
+  "substitutions": [
+    "Nealko varianta: smíchej 40 ml nealkoholického ginu, 30 ml nealko hořkého aperitivu a 30 ml hroznového moštu, přidej plátek pomeranče.",
+    "Místo ginu lze použít bourbon, drink se jmenuje boulevardier, ale to už není Negroni.",
+    "Pomerančovou kůru nahradíš plátkem pomeranče."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je poměr v Negroni?",
+      "a": "Klasický poměr je 1 : 1 : 1, tedy gin, hořký aperitiv a červený vermut po stejném dílu. Na jednu sklenici to je 30 ml od každého."
+    },
+    {
+      "q": "Kolik alkoholu má Negroni?",
+      "a": "Asi 24 až 28 % po rozředění ledem. Jedna sklenice obsahuje přibližně 90 ml alkoholických složek, drink je silný a jen pro dospělé."
+    },
+    {
+      "q": "Jak se pije Negroni?",
+      "a": "Pomalu, před jídlem jako aperitiv, z malé sklenice na ledu. Je hořkosladké a dá se mírně zředit, nechá-li se led chvíli tát."
+    }
+  ]
+}

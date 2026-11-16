@@ -1,0 +1,133 @@
+{
+  "title": "Kuřecí supreme",
+  "keywords": [
+    "kuřecí supreme",
+    "kuřecí supreme recept",
+    "kuřecí prsa na smetaně se žampiony",
+    "kuřecí supreme se smetanou"
+  ],
+  "image": "dish-kureci-supreme",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Kuřecí supreme jsou prsa osmahnutá na pánvi a dochucená jemnou smetanovou omáčkou se žampiony. Hotovo je za 40 minut a stačí k tomu jedna pánev. Prsa se vaří jen krátce, aby uvnitř dosáhla 75 °C a zůstala šťavnatá.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 600,
+      "unit": "g",
+      "note": "4 plátky, rozříznuté na tenčí"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na obalení"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 250,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 250,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "natě, nasekané"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prsa osuš, osol, opepři a lehce obalené v mouce. Přebytečnou mouku setřes."
+    },
+    {
+      "text": "V pánvi rozehřej olej s polovinou másla na středním ohni a prsa opékej 4 minuty z každé strany do zlatova. Maso vyndej, má mít uvnitř alespoň 75 °C, nebo ho nech dopéct v omáčce."
+    },
+    {
+      "text": "V pánvi na zbylém másle opékej cibuli 3 minuty, přidej žampiony a opékej 5 minut, aby pustily vodu a zhnědly. Přidej česnek na půl minuty."
+    },
+    {
+      "text": "Přilij vývar a vař 2 minuty, až se zredukuje. Přidej smetanu a vař na mírném ohni 3 až 4 minuty, dokud omáčka mírně nezhoustne."
+    },
+    {
+      "text": "Vrať prsa do omáčky na 3 minuty, ať se prohřejí a dojdou na 75 °C. Dochuť citronovou šťávou, solí a pepřem a posyp petrželkou."
+    }
+  ],
+  "tips": [
+    "Prsa rozřízni vodorovně na dva tenčí plátky nebo je naklepej. Stejně silná se propečou rovnoměrně a nebudou suchá.",
+    "Žampiony neosmahuj hned s cibulí. Potřebují vlastní místo v pánvi a pár minut, aby se zbavily vody.",
+    "Omáčka při varu nesmí příliš bublat, smetana by se mohla srazit. Když zhoustne moc, přidej lžíci vývaru."
+  ],
+  "substitutions": [
+    "Smetanu na vaření nahradíš zakysanou smetanou smíchanou s lžící vody, přidej ji na konci mimo var.",
+    "Žampiony můžeš vynechat nebo vyměnit za hlívu ústřičnou.",
+    "Pro bezlepkovou verzi vynech mouku a omáčku zahusti škrobem rozmíchaným ve 2 lžících vody."
+  ],
+  "faq": [
+    {
+      "q": "Co je to kuřecí supreme?",
+      "a": "V české kuchyni jde o kuřecí prsa v lehké smetanové omáčce, často s houbami. Je to rychlé jídlo na pánev."
+    },
+    {
+      "q": "Jak poznám, že jsou kuřecí prsa hotová?",
+      "a": "Uvnitř mají 75 °C, šťáva je čirá a maso není růžové. Nejjistější je teploměr."
+    },
+    {
+      "q": "Čím podávat kuřecí supreme?",
+      "a": "Nejlíp s rýží, bramborovou kaší nebo těstovinami, aby se omáčka neztratila."
+    }
+  ]
+}

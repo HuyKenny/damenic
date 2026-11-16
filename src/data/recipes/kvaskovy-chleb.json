@@ -1,0 +1,115 @@
+{
+  "title": "Kváskový chléb z litinového hrnce",
+  "keywords": [
+    "kváskový chléb",
+    "kváskový chléb recept",
+    "domácí kváskový chléb",
+    "chléb na kvasu",
+    "žitný kvas chléb"
+  ],
+  "image": "dish-kvaskovy-chleb-zitra",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 40,
+  "cookMinutes": 45,
+  "waitMinutes": 900,
+  "waitLabel": "kynutí těsta a zrání v lednici",
+  "difficulty": "náročnější",
+  "meal": "pecivo",
+  "intro": "Kváskový chléb je pšeničnožitný bochník kypřený jen žitným kvasem, bez droždí. Vyjde jeden bochník o váze asi 850 g. Postup trvá den a noc, ale práce je jen asi 40 minut: těsto se přeloží čtyřikrát a zbytek udělají čas a lednice. Kvas musí být aktivní, tedy zdvojnásobený za 4 až 6 hodin od posledního krmení.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 350,
+      "unit": "g",
+      "note": "pšeničná chlebová",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-zitna",
+      "amount": 100,
+      "unit": "g",
+      "note": "celozrnná",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 330,
+      "unit": "ml",
+      "note": "vlažná, asi 30 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "zitny-kvas",
+      "amount": 100,
+      "unit": "g",
+      "note": "aktivní, nakrmený 4 až 6 hodin předem",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 9,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-zitna",
+      "amount": 20,
+      "unit": "g",
+      "note": "na vysypání ošatky",
+      "group": "Tvarování"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smíchej obě mouky se 330 ml vlažné vody, jen do spojení, a přikryj. Nech 30 minut odpočívat (autolýza)."
+    },
+    {
+      "text": "Přidej aktivní kvas a sůl a promačkej rukama, dokud se kvas rovnoměrně nerozmísí, asi 3 minuty. Těsto přikryj a nech při 24 °C kynout 3 hodiny."
+    },
+    {
+      "text": "Během první hodiny těsto čtyřikrát přelož: smáčenou rukou vezmi okraj, vytáhni ho nahoru a přelož na střed. Vždy v odstupu 30 minut. Pak už těsto nech v klidu, dokud neroste asi o třetinu a není nadýchané."
+    },
+    {
+      "text": "Těsto vyklop na lehce pomoučený stůl, zformuj kulatý bochník a nech 20 minut odpočinout. Pak ho pevně utáhni a vlož spojem nahoru do ošatky vysypané žitnou moukou."
+    },
+    {
+      "text": "Přikryj a dej na 12 až 14 hodin do lednice, nejlépe přes noc. V tuhle chvíli se vytvoří chuť a těsto lépe drží tvar."
+    },
+    {
+      "text": "Litinový hrnec s poklicí vlož do trouby a rozpal na 240 °C (bez horkovzduchu) na 30 minut. Bochník vyklop na pečicí papír, nařízni ostrým nožem a v papíru ho spusť do hrnce."
+    },
+    {
+      "text": "Peč 20 minut pod poklicí, pak sundej poklici, sniž teplotu na 220 °C a peč dalších 20 až 25 minut, dokud není kůrka tmavě hnědá a střed bochníku 96 až 98 °C. Nech vychladnout na mřížce aspoň 2 hodiny, než ho nakrájíš."
+    }
+  ],
+  "tips": [
+    "Kvas musí být aktivní: zdvojnásobený a plný bublinek. Líný kvas dá husté těsto a bochník, který nenakyne.",
+    "Hrnec předehřívej dostatečně dlouho a dávej pozor na popálení, těsto vyndávej pomocí pečicího papíru.",
+    "Chléb před krájením úplně vychladni, teplý střed je ještě mokrý a lepivý."
+  ],
+  "substitutions": [
+    "Celozrnnou žitnou mouku lze nahradit stejným množstvím pšeničné chlebové, chléb bude světlejší.",
+    "Bez litinového hrnce peč na plechu s miskou vody na dně trouby, kůrka bude o něco tenčí.",
+    "Přidej 2 lžíce kmínu nebo slunečnicových semínek podle chuti."
+  ],
+  "faq": [
+    {
+      "q": "Jak zakvasit žitný kvas?",
+      "a": "Smíchej 50 g žitné mouky a 50 ml vlažné vody, nech 24 hodin přikryté. Dalších 5 až 7 dní kvas denně krm podobným množstvím (jednu část ponech, přidej 50 g mouky a 50 ml vody). Připravený je, když za 4 až 6 hodin po krmení zdvojnásobí objem."
+    },
+    {
+      "q": "Proč můj kváskový chléb nevyrostl?",
+      "a": "Nejčastěji nebyl kvas dost aktivní, kynulo se v chladu nebo bylo těsto příliš krátce. Při 24 °C potřebuje obvykle 3 hodiny."
+    },
+    {
+      "q": "Jak dlouho vydrží kváskový chléb?",
+      "a": "Zabalený do utěrky vydrží 4 až 5 dní, kůrka změkne. Nakrájený chléb lze zmrazit."
+    },
+    {
+      "q": "Co je autolýza?",
+      "a": "Je to odpočinek mouky s vodou před přidáním soli a kvasu. Mouka nasákne, těsto je pružnější a snáz se zpracovává."
+    }
+  ]
+}

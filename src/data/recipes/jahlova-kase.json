@@ -1,0 +1,111 @@
+{
+  "title": "Jáhlová kaše",
+  "keywords": [
+    "jáhlová kaše",
+    "jáhlová kaše s mlékem",
+    "jáhlová kaše sladká",
+    "jáhly na kaši"
+  ],
+  "image": "dish-jahlova-kase",
+  "category": "snidane",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 20,
+  "waitMinutes": 5,
+  "waitLabel": "odstátí pod pokličkou",
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Jáhlová kaše na mléce se vaří 20 minut a je sladká, hřejivá a krémová. Aby nebyla hořká, jáhly se vždy propláchnou horkou vodou a krátce se opečou na sucho.",
+  "ingredients": [
+    {
+      "ingredient": "jahly",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "mletá"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "špetka"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostičky nebo nastrouhané"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Jáhly dej do sítka a propláchni je 1 minutu pod horkou tekoucí vodou, pak je nech okapat. Tím odstraníš hořkost."
+    },
+    {
+      "text": "V hrnci s pevným dnem je 2 minuty opékej na sucho na středním plameni, dokud nezavoní. Pak je zalij vodou a mlékem, přidej sůl a přiveď k varu."
+    },
+    {
+      "text": "Stáhni plamen a vař 15 až 18 minut pod pokličkou, občas promíchej, aby se kaše nepřipálila. Jáhly mají být měkké a kaše hustá."
+    },
+    {
+      "text": "Přidej strouhané jablko, rozinky a skořici, promíchej a vař ještě 2 minuty."
+    },
+    {
+      "text": "Sundej z plotny, vmíchej máslo a nech 5 minut odstát pod pokličkou. Podávej s medem."
+    }
+  ],
+  "tips": [
+    "Mléko hlídej. Zhoustne, kaše se může připálit a hodně přilnout k dnu.",
+    "Hořkost zkus omezit i uskladněním jáhel mimo světlo, staré jáhly hořknou.",
+    "Kaši lze připravit večer a ráno ji zředit mlékem a ohřát."
+  ],
+  "substitutions": [
+    "Mléko nahraď ovesným nebo mandlovým nápojem.",
+    "Med nahraď javorovým sirupem nebo cukrem (1 lžíce).",
+    "Místo jablka dej hrušku, švestky nebo borůvky."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří jáhly na kaši?",
+      "a": "Asi 15 až 20 minut po přivedení k varu. Kaše je hotová, když jsou zrnka měkká a rozpadají se."
+    },
+    {
+      "q": "Proč jsou jáhly hořké?",
+      "a": "Obsahují přirozeně hořké látky ze slupky, a když se nepromyjí nebo staré. Propláchni je horkou vodou a opeč na sucho."
+    },
+    {
+      "q": "Kolik jáhel na porci kaše?",
+      "a": "Na jednu porci 50 g suchých jáhel a 200 ml mléka. Jáhly nabobtnají na zhruba dvojnásobek."
+    }
+  ]
+}

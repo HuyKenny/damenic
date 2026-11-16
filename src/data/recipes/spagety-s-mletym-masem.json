@@ -1,0 +1,141 @@
+{
+  "title": "Špagety s mletým masem",
+  "keywords": [
+    "špagety s mletým masem",
+    "špagety s mletým masem a rajčaty",
+    "těstoviny s mletým masem",
+    "rychlé špagety s mletým"
+  ],
+  "image": "dish-spagety-s-mletym-masem",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Špagety s mletým masem a rajčaty uděláš na pánvi za 45 minut a bez dlouhého dušení. Je to rychlejší a lehčí varianta boloňské, s paprikou a majoránkou jako z domácí kuchyně. Mleté maso se musí propéct a omáčka musí chvíli bublat.",
+  "ingredients": [
+    {
+      "ingredient": "spagety",
+      "amount": 350,
+      "unit": "g"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "do vody a do omáčky"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve velkém hrnci přiveď k varu 4 litry osolené vody. Špagety vař podle obalu, ale o minutu méně. Před scezením odlij 1 hrnek vody."
+    },
+    {
+      "text": "Mezitím rozpal olej v široké pánvi. Mleté maso rozmělni a opékej 8 až 10 minut na vysokém ohni, dokud není propečené a nezačne hnědnout."
+    },
+    {
+      "text": "Přidej cibuli a papriku a smaž 5 minut. Přidej česnek, protlak, sladkou papriku a majoránku a míchej minutu."
+    },
+    {
+      "text": "Vlij passatu, přidej cukr a sůl, přiveď k varu a vař na mírném ohni 15 minut. Když je omáčka hustá, přilij trochu vody z vaření těstovin."
+    },
+    {
+      "text": "Špagety dej do omáčky, promíchej 1 minutu na mírném ohni a podávej s parmazánem a pepřem."
+    }
+  ],
+  "tips": [
+    "Maso nech v pánvi nejdřív samotné bez míchání, zhnědne a získá chuť. Mícháním a přidáváním zeleniny moc brzy se jen povaří.",
+    "Cukr v omáčce vyrovná kyselost rajčat. Stačí malá lžička.",
+    "Zbylou omáčku zmraz bez těstovin, vydrží 3 měsíce."
+  ],
+  "substitutions": [
+    "Maso můžeš dát jen hovězí nebo jen vepřové.",
+    "Passatu nahradíš loupanými rajčaty v plechovce rozmačkanými vidličkou.",
+    "Parmazán vyměníš za tvrdý sýr, třeba pecorino nebo ementál."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi špagetami s mletým masem a boloňskými?",
+      "a": "Boloňská omáčka se dusí hodinu a víc, má víno a mléko. Tahle verze je rychlá pánvová a bere si koření z české kuchyně."
+    },
+    {
+      "q": "Jak dlouho vařit mleté maso na špagety?",
+      "a": "Samotné maso opékej 8 až 10 minut, aby bylo propečené a lehce zhnědlé. Pak se s omáčkou vaří dalších 15 minut."
+    },
+    {
+      "q": "Dají se špagety s mletým masem ohřívat?",
+      "a": "Ano. V lednici vydrží 3 dny, přilij k nim lžíci vody a prohřej v pánvi."
+    }
+  ]
+}

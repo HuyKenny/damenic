@@ -1,0 +1,20 @@
+{
+  "name": "Pečená červená řepa s tymiánem",
+  "restaurant": "zelena-nula",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Pečené klínky červené řepy s tymiánem a balsamikem.",
+  "about": [],
+  "price": 8900,
+  "image": "dish-pecena-cervena-repa",
+  "recipe": "pecena-cervena-repa",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    12
+  ],
+  "featured": false,
+  "order": 900
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Šneky z listového těsta",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Zákusky z vitríny",
+  "description": "Křupavé šneky z listového těsta se skořicí a rozinkami.",
+  "about": [
+    "Šneky z listového těsta se skořicí jsou plátky stočené rolky, ve kterých se cukr v troubě mění v karamel. Jsou křupavé, zlaté a vonící, a trvají s chlazením necelou hodinu.",
+    "V Cukrárně U Prázdné vitríny leží hned vedle větrníků, ovšem pouze jako název. Recept je ale skutečný, má sedm surovin a role těsta."
+  ],
+  "price": 7900,
+  "image": "dish-sneky-z-listoveho-testa-vitrina",
+  "recipe": "sneky-z-listoveho-testa",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 500
+}

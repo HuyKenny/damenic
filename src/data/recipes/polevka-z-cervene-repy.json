@@ -1,0 +1,137 @@
+{
+  "title": "Polévka z červené řepy",
+  "keywords": [
+    "polévka z červené řepy",
+    "červená řepa polévka",
+    "krémová polévka z červené řepy",
+    "polévka z řepy"
+  ],
+  "image": "dish-polevka-z-cervene-repy",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 40,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Polévka z červené řepy je sytě růžová, jemně sladká a s trochou kyselosti. Řepa se vaří přímo v polévce, nakonec se mixuje a dochucuje octem, a tak zůstane barva i chuť.",
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cervena-repa",
+      "amount": 500,
+      "unit": "g",
+      "note": "oloupaná, na kostky"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 900,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "ocet-vinny",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "g",
+      "note": "mletý"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 100,
+      "unit": "g",
+      "note": "na podávání"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 3,
+      "unit": "ks",
+      "note": "větvičky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Řepu loupej v rukavicích, jinak obarví ruce. Nakrájej ji na kostky o straně asi 1,5 cm, ať se uvaří stejně."
+    },
+    {
+      "text": "V hrnci rozehřej olej a na středním plameni 3 minuty restuj cibuli s česnekem a kmínem."
+    },
+    {
+      "text": "Přidej řepu, brambory, mrkev a vývar, osol a přiveď k varu. Vař pod pokličkou 30 až 35 minut, dokud není řepa úplně měkká."
+    },
+    {
+      "text": "Rozmixuj polévku ponorným mixérem do hladka. Pokud je moc hustá, přilij horký vývar nebo vodu."
+    },
+    {
+      "text": "Dochuť octem, pepřem a solí. Ocet ze sladké řepy vytáhne čistou chuť a zdůrazní barvu."
+    },
+    {
+      "text": "Podávej s lžící zakysané smetany a nasekaným koprem."
+    }
+  ],
+  "tips": [
+    "Jedna lžíce octa nebo citronové šťávy na konci udrží zářivou barvu. Příliš mnoho octa ji naopak zabije, přidávej po lžičkách.",
+    "Rukavice a prkénko si obarví, špatně se čistí. Prkénko pak vydrhni citronem.",
+    "Polévku jde podávat teplou i studenou."
+  ],
+  "substitutions": [
+    "Zakysanou smetanu nahraď bílým jogurtem nebo rostlinnou alternativou.",
+    "Brambor můžeš vynechat a nahradit jablkem, které přidá sladkost.",
+    "Místo kopru je dobrá pažitka nebo strouhaný křen."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří červená řepa v polévce?",
+      "a": "Na kostky nakrájená 30 až 35 minut. Celá řepa se vaří 45 až 60 minut podle velikosti."
+    },
+    {
+      "q": "Jak uchovat barvu polévky z červené řepy?",
+      "a": "Přidej na konci trochu octa nebo citronu a nevař polévku po rozmixování. Dlouhý var barvu zhnědí."
+    },
+    {
+      "q": "Dá se polévka z červené řepy zamrazit?",
+      "a": "Ano, bez zakysané smetany vydrží v mrazáku asi 3 měsíce. V lednici 3 až 4 dny."
+    }
+  ]
+}

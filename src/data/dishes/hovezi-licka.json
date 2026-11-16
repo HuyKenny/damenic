@@ -1,0 +1,25 @@
+{
+  "name": "Hovězí líčka na víně",
+  "restaurant": "peceni-na-priste",
+  "kind": "main",
+  "section": "Hovězí z pekáče",
+  "description": "Hovězí líčka, tři hodiny pomalu dušená na víně s kořenovou zeleninou, měkká jako sliby.",
+  "about": [
+    "Hovězí líčka jsou cvičený sval, plný kolagenu, takže syrová jsou tuhá. Po třech hodinách pomalého dušení se kolagen rozpustí a z masa se stane vláčné jídlo, které se kroutí pod vidličkou. Omáčku z vína a kořenové zeleniny z pekáče ještě zahustíš, nebo rozmixuješ.",
+    "Líčka mají v restauracích pověst drahého jídla, doma jsou naopak levná a skoro se o ně nemusíš starat. Stačí mít čas a troubu. Kurýr Nikdo ti je sice nedoveze, ale vůni z pekáče si vyrobíš sám."
+  ],
+  "price": 29900,
+  "image": "dish-hovezi-licka",
+  "recipe": "hovezi-licka",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9,
+    12
+  ],
+  "order": 60
+}

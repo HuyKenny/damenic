@@ -1,0 +1,20 @@
+{
+  "name": "Domácí kombucha 0,4 l",
+  "restaurant": "dzusbar-vymackame-zitra",
+  "kind": "main",
+  "section": "Chladivé",
+  "description": "Mírně perlivý kvašený čaj s kyselkavou chutí, ochucený čerstvým ovocem.",
+  "about": [
+    "Kombucha je čaj, který si dal pauzu na kvašení. Sladký černý čaj, kultura SCOBY a týden trpělivosti, výsledek je mírně perlivý a kyselkavý nápoj. Obsahuje stopy alkoholu z kvašení.",
+    "Mixér se u nás točí naprázdno, ale recept je skutečný. Pro kvašení stačí džber, látka a gumička, žádný kurýr."
+  ],
+  "price": 8900,
+  "image": "dish-kombucha-vymackame",
+  "recipe": "kombucha",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 230
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Kuřecí vývar s nudlemi",
+  "section": "Lehké",
+  "price": 8900,
+  "recipe": "kureci-vyvar",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 210,
+  "description": "Čirý vývar z celého kuřete, mrkev a tenké nudle.",
+  "about": [
+    "Vývar vypadá jako nic, ale je to nejpracnější nic v nabídce: dvě hodiny pomalého varu a pěna sbíraná po lžičce. Čirost není kouzlo, jen trpělivost.",
+    "Nudle se vaří zvlášť, aby vývar zůstal čistý. Do tvého hrnce se z naší lžíce nic nenalije, jen recept se přelije do kuchyně."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "lzice-zitra",
+  "image": "dish-kureci-vyvar",
+  "allergens": [
+    1,
+    3,
+    9
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Rösti, bramborový koláč",
+  "restaurant": "na-lacno",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Strouhané brambory smažené na másle do zlaté a křupavé kůrky.",
+  "about": [],
+  "price": 8900,
+  "image": "dish-rosti",
+  "recipe": "rosti",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 900
+}

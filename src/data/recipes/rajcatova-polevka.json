@@ -1,0 +1,129 @@
+{
+  "title": "Rajčatová polévka",
+  "keywords": [
+    "rajčatová polévka",
+    "krémová rajčatová polévka",
+    "rajčatová polévka z passaty",
+    "polévka z rajčat"
+  ],
+  "image": "dish-rajcatova-polevka",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Rajčatová polévka z passaty a čerstvých rajčat se vaří za 40 minut a nepotřebuje žádnou instantní směs. Kyselost se krotí troškou cukru a smetany, chuť zvýrazní bazalka a olivový olej.",
+  "ingredients": [
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 80,
+      "unit": "g",
+      "note": "nastrouhaná"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 500,
+      "unit": "g",
+      "note": "zralá, nakrájená"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 80,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 4,
+      "unit": "ks",
+      "note": "listy"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej olej a 3 minuty restuj cibuli s mrkví a česnekem, dokud cibule nezesklovatí."
+    },
+    {
+      "text": "Přidej nakrájená rajčata a 5 minut duš, až pustí šťávu. Pak přilij passatu a vývar a osol."
+    },
+    {
+      "text": "Přiveď k varu a vař na mírném plameni 15 minut pod pokličkou, dokud zelenina není měkká a polévka lehce zhoustne."
+    },
+    {
+      "text": "Přidej cukr, polovinu bazalky a polévku rozmixuj ponorným mixérem dohladka. Kdyby v ní zůstaly slupky, přeceď ji přes sítko."
+    },
+    {
+      "text": "Vmíchej smetanu, dochuť pepřem a případně špetkou cukru a krátce prohřej bez varu, aby se nesrazila."
+    },
+    {
+      "text": "Podávej se zbylými lístky bazalky a kapkou olivového oleje."
+    }
+  ],
+  "tips": [
+    "Mrkev a cukr zjemní kyselost rajčat lépe než samotný cukr. Kdyby i tak štípala, přidej půl lžičky jedlé sody a polévka se zpění jen krátce.",
+    "Mimo sezónu jsou lepší loupaná rajčata v plechovce než nezralá čerstvá.",
+    "Do rajčatové polévky patří rýže, nudle nebo krutony, vařené zvlášť."
+  ],
+  "substitutions": [
+    "Smetanu nahraď ovesným nápojem nebo kokosovým mlékem.",
+    "Místo bazalky použij sušené oregano (půl lžičky).",
+    "Passatu můžeš nahradit loupanými rajčaty z plechovky, rozmixovanými."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří rajčatová polévka?",
+      "a": "Po přivedení k varu 15 až 20 minut. Delší vaření polévku zbytečně zredukuje a zvýrazní kyselost."
+    },
+    {
+      "q": "Proč se rajčatová polévka sráží?",
+      "a": "Kyselina z rajčat reaguje s mlékem nebo smetanou, pokud se přidá do vařící polévky. Smetanu přidej až po stažení z plotny a nevař ji."
+    },
+    {
+      "q": "Dá se rajčatová polévka zamrazit?",
+      "a": "Ano, bez smetany vydrží v mrazáku asi 3 měsíce. V lednici vydrží 3 až 4 dny."
+    }
+  ]
+}

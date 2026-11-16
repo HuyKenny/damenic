@@ -1,0 +1,109 @@
+{
+  "title": "Brokolicový salát",
+  "keywords": [
+    "brokolicový salát",
+    "brokolicový salát se slaninou",
+    "salát z brokolice",
+    "syrový brokolicový salát"
+  ],
+  "image": "dish-brokolicovy-salat-zelena-nula",
+  "category": "salaty",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 5,
+  "waitMinutes": 30,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Brokolicový salát je křupavý studený salát z drobných růžiček brokolice, slaniny, červené cibule a jogurtové zálivky. Brokolice se krátce spaří, aby zůstala sytě zelená a pevná, nebo se dá syrová.",
+  "ingredients": [
+    {
+      "ingredient": "brokolice",
+      "amount": 400,
+      "unit": "g",
+      "note": "na malé růžičky"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "slunecnicova-seminka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brokolici rozdělej na malé růžičky velikosti sousta, stonek oloupej a nakrájej na tenká kolečka."
+    },
+    {
+      "text": "Růžičky spař 1 minutu ve vroucí osolené vodě a ihned přendej do ledové vody. Okapej a osuš."
+    },
+    {
+      "text": "Slaninu nakrájej na kostičky a opékej na suché pánvi 5 minut do křupava, nech okapat na papírové utěrce."
+    },
+    {
+      "text": "Majonézu rozmíchej s jogurtem, octem a solí. Přidej brokolici, cibuli nakrájenou nadrobno, rozinky a slaninu."
+    },
+    {
+      "text": "Nech 30 minut v lednici, před podáváním posyp semínky."
+    }
+  ],
+  "tips": [
+    "Slaninu přidej až těsně před podáváním, jinak změkne.",
+    "Brokolice jde i syrová, jen ji krájej drobněji.",
+    "Salát s majonézou nenechávej nad 2 hodiny na stole."
+  ],
+  "substitutions": [
+    "Slaninu nahradíš opraženými mandlemi, salát bude bez masa.",
+    "Rozinky nahradíš sušenými brusinkami nebo nakrájeným jablkem.",
+    "Jogurt lze nahradit zakysanou smetanou."
+  ],
+  "faq": [
+    {
+      "q": "Musí se brokolice na salát vařit?",
+      "a": "Nemusí. Syrová je pevnější a chutná výrazněji. Krátké spaření (1 minuta) ji změkčí a zvýrazní barvu."
+    },
+    {
+      "q": "Jak dlouho vydrží brokolicový salát?",
+      "a": "V lednici 2 až 3 dny. Nejlepší je ale s jogurtovou zálivkou hned první den."
+    },
+    {
+      "q": "Dá se brokolicový salát udělat bez majonézy?",
+      "a": "Ano, stačí 150 g jogurtu s lžící octa a špetkou soli."
+    }
+  ]
+}

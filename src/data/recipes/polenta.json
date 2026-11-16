@@ -1,0 +1,100 @@
+{
+  "title": "Polenta z kukuřičné krupice",
+  "keywords": [
+    "polenta",
+    "polenta recept",
+    "jak uvařit polentu",
+    "polenta s parmazánem",
+    "pečená polenta"
+  ],
+  "image": "dish-polenta",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Polenta je kaše z kukuřičné krupice, kterou v Itálii podávají k masu, houbám i omáčkám. Hodí se klasická střední krupice a poměr 1 díl krupice ku 5 dílům tekutiny. Instantní polenta je hotová za pár minut, klasická chutná plněji.",
+  "ingredients": [
+    {
+      "ingredient": "kukuricna-krupice",
+      "amount": 200,
+      "unit": "g",
+      "note": "střední, nikoli instantní"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 800,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "jemně nastrouhaný"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V širším hrnci přiveď vodu s mlékem a solí k varu."
+    },
+    {
+      "text": "Krupici sypej do vařící tekutiny tenkým pramínkem a stále šlehej metlou, aby se nevytvořily hrudky."
+    },
+    {
+      "text": "Stáhni plamen na nejnižší, hrnec přikryj poklicí na škvíru a polentu vař 30 až 35 minut. Každých 5 minut ji důkladně prohrábni vařečkou, jinak se přichytí ke dnu."
+    },
+    {
+      "text": "Hotová je, když se oddělí od stěn hrnce a krupice už nechrastí mezi zuby."
+    },
+    {
+      "text": "Stáhni z ohně, vmíchej máslo a parmazán, dochuť pepřem a podávej měkkou. Chceš-li ji krájet, nalij do vymazané formy a nech vychladnout."
+    }
+  ],
+  "tips": [
+    "Sůl přidávej do vody, ne do hotové polenty. Rozpustí se rovnoměrně.",
+    "Vychladlou polentu nakrájej na plátky a opeč na pánvi v oleji 3 až 4 minuty z každé strany. Zvenku křupe, uvnitř zůstane měkká.",
+    "Když zhoustne příliš, přilij trochu horké vody nebo mléka."
+  ],
+  "substitutions": [
+    "Parmazán nahraď pecorinem nebo tvrdým sýrem podle chuti, nebo ho vynech.",
+    "Mléko nahraď vodou nebo vývarem a máslo olivovým olejem pro variantu bez laktózy.",
+    "Z instantní polenty se vaří podle obalu, obvykle 5 minut, a vyjde o něco hladší."
+  ],
+  "faq": [
+    {
+      "q": "Proč je polenta hrudkovitá?",
+      "a": "Krupice se nasypala příliš rychle nebo se nešlehala. Sypej tenkým pramínkem do vařící tekutiny a míchej metlou."
+    },
+    {
+      "q": "Jaký je poměr krupice a vody u polenty?",
+      "a": "Obvykle 1 díl krupice na 4 až 5 dílů tekutiny. Pro měkčí polentu použij víc, pro krájenou míň."
+    },
+    {
+      "q": "Je polenta bezlepková?",
+      "a": "Čistá kukuřičná krupice lepek neobsahuje, ale zkontroluj na obalu, zda nebyla zpracovávána spolu s obilovinami s lepkem."
+    }
+  ]
+}

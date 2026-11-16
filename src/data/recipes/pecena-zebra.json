@@ -1,0 +1,120 @@
+{
+  "title": "Pečená žebra",
+  "keywords": [
+    "pečená žebra",
+    "pečená vepřová žebra",
+    "žebra v troubě",
+    "vepřová žebra recept"
+  ],
+  "image": "dish-pecena-zebra",
+  "category": "burgery",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 180,
+  "waitMinutes": 180,
+  "waitLabel": "marinování v lednici",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Pečená vepřová žebra jsou marinovaná v koření, medu a kečupu a pomalu pečená v troubě, dokud se maso nezačne odlupovat od kosti. Recept počítá se 3 hodinami marinování a 3 hodinami pečení při 150 °C. Maso musí být měkké, ale ne rozpadlé, a na konci dostat lesklou polevu.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-zebra",
+      "amount": 1600,
+      "unit": "g",
+      "note": "2 pásy žeber"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "med",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 30,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 15,
+      "unit": "ml",
+      "note": "jablečný"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cesnek-suseny",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Z vnitřní strany žeber stáhni blánu: nožem ji zvedni a odtrhni utěrkou nebo papírovou utěrkou, bude se snadno držet."
+    },
+    {
+      "text": "Smíchej kečup, med, sojovou omáčku, hořčici, ocet a polovinu koření. Žebra potři směsí ze všech stran, vlož do sáčku nebo mísy a nech 3 hodiny v lednici. Může to být i přes noc."
+    },
+    {
+      "text": "Troubu předehřej na 150 °C. Žebra polož na rošt v plechu, zabal volně do alobalu a peč 2 hodiny 30 minut."
+    },
+    {
+      "text": "Alobal rozbal, žebra potři zbylou marinádou a peč dál 20 až 30 minut při 200 °C, dokud nejsou lepkavá a lehce zkaramelizovaná. Vnitřní teplota masa má být nad 90 °C, pak je měkké a snadno se odděluje od kosti."
+    },
+    {
+      "text": "Nech 10 minut odpočinout a krájej po žebrech."
+    }
+  ],
+  "tips": [
+    "Blánu na vnitřní straně žeber vždy odstraň. Je tuhá a brání v prostoupení koření a v změknutí.",
+    "Žebra peč pomalu a nízko. Při vysoké teplotě zhnědnou, ale vnitřek zůstane tuhý.",
+    "Hotová jsou, když se maso na kostech smrskne a když kost při pootočení povolí."
+  ],
+  "substitutions": [
+    "Sojovou omáčku nahradíš worcesterem nebo solí.",
+    "Med nahradíš javorovým sirupem.",
+    "Vepřová žebra můžeš nahradit hovězími krátkými žebry, doba pečení se prodlouží na 3,5 hodiny."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct vepřová žebra v troubě?",
+      "a": "Při 150 °C asi 2,5 až 3 hodiny zabalená v alobalu a 20 až 30 minut odkrytá při 200 °C."
+    },
+    {
+      "q": "Musí se žebra předem vařit?",
+      "a": "Ne. Pomalé pečení v alobalu změkčí maso bez vaření a zachová chuť."
+    },
+    {
+      "q": "Jak poznám, že jsou žebra hotová?",
+      "a": "Maso se odtahuje od konců kostí a při ohnutí pásu žeber praskne povrch."
+    }
+  ]
+}

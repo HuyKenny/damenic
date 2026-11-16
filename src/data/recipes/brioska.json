@@ -1,0 +1,120 @@
+{
+  "title": "Brioška (máslový chlebíček)",
+  "keywords": [
+    "brioška",
+    "brioška recept",
+    "domácí brioška",
+    "máslová brioška",
+    "brioche recept"
+  ],
+  "image": "dish-brioska-zitra",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 40,
+  "cookMinutes": 35,
+  "waitMinutes": 210,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "náročnější",
+  "meal": "pecivo",
+  "intro": "Brioška je kynuté máslové pečivo s lesklou zlatou kůrkou a jemnou střídou. Tenhle recept dává jeden bochník v kovové formě o délce 25 cm, rozdělený na 8 kuliček. Těsto je zpočátku řídké a lepivé, a to je správně. Máslo se přidává postupně, až když je těsto vyhnětené.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 120,
+      "unit": "ml",
+      "note": "vlažné"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "pokojové teploty, na kostičky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "žloutek na potření"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na potření"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozmíchej v 120 ml vlažného mléka s lžičkou cukru a nech 10 minut zakvasit. Do mísy robotu dej mouku, zbytek cukru a sůl, přidej kvásek a 3 vejce."
+    },
+    {
+      "text": "Hněť na střední rychlost 10 minut, dokud se těsto neodlepuje od stěn mísy a není hladké."
+    },
+    {
+      "text": "Po kouscích zapracuj máslo, vždy další přidej, až se předchozí spojí. Hněť dalších 8 až 10 minut, dokud není těsto lesklé a elastické. Přikryj a nech 90 minut kynout na teplém místě, dokud nezdvojnásobí objem."
+    },
+    {
+      "text": "Těsto zhluboka stlač a dej na 30 minut do lednice, aby ztuhlo. Pak ho rozděl na 8 stejných dílů, vytvaruj kuličky a naskládej je do vymazané formy ve dvou řadách."
+    },
+    {
+      "text": "Nech 60 minut dokynout, dokud kuličky nevyplní formu a nejsou pružné. Troubu předehřej na 180 °C (horkovzduch 170 °C)."
+    },
+    {
+      "text": "Povrch potři žloutkem rozšlehaným s mlékem. Peč 35 minut, po 20 minutách přikryj alobalem. Hotová brioška zvučí při poklepání na spodek a ve středu má 92 °C. Nech 20 minut vychladnout ve formě."
+    }
+  ],
+  "tips": [
+    "Máslo i vejce musí mít pokojovou teplotu, jinak se těsto sráží.",
+    "Těsto je lepivé, nepřidávej mouku navíc. Po chlazení se dá tvarovat bez potíží.",
+    "Na rychlejší variantu nech těsto vykynout přes noc v lednici a ráno ho jen vytvaruj."
+  ],
+  "substitutions": [
+    "Místo hladké mouky můžeš použít polohrubou, brioška bude o něco hutnější.",
+    "Do těsta přidej vanilkový cukr nebo strouhanou kůru z pomeranče.",
+    "Mléko nahraď ovesným nápojem, těsto je pak méně lesklé."
+  ],
+  "faq": [
+    {
+      "q": "Proč je těsto na briošku tak řídké?",
+      "a": "Obsahuje hodně másla a vajec. Po chlazení v lednici zpevní a dá se tvarovat."
+    },
+    {
+      "q": "Čím se brioška liší od chleba?",
+      "a": "Má hodně másla, vajec a cukru, proto je jemná, nadýchaná a sladká. Bez toho by byla jen obyčejná houska."
+    },
+    {
+      "q": "Jak dlouho brioška vydrží?",
+      "a": "Zabalená vydrží při pokojové teplotě 2 až 3 dny. Od druhého dne je skvělá toastovaná."
+    },
+    {
+      "q": "Dá se těsto mrazit?",
+      "a": "Ano, vykynuté a vytvarované kuličky zmraz. Před pečením nech rozmrazit a dokynout."
+    }
+  ]
+}

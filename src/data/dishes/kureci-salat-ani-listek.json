@@ -1,0 +1,24 @@
+{
+  "name": "Kuřecí salát s kukuřicí",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "description": "Vařená kuřecí prsa, kukuřice, nakládané okurky a lehká majonézová zálivka s jogurtem.",
+  "about": [
+    "Kuřecí salát stojí na prsou, která se vaří jen tolik, aby uvnitř měla 75 °C a zůstala šťavnatá. K tomu kukuřice, okurky, jarní cibulka a jogurtová zálivka.",
+    "Salát je smyšlený, ale recept je pravdivý. Doma ho nech 30 minut v lednici, ať se spojí chutě."
+  ],
+  "price": 17900,
+  "image": "dish-kureci-salat-ani-listek",
+  "recipe": "kureci-salat",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    10
+  ],
+  "order": 340
+}

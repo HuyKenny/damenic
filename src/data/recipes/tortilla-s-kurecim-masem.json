@@ -1,0 +1,146 @@
+{
+  "title": "Tortilla s kuřecím masem",
+  "keywords": [
+    "tortilla s kuřecím masem",
+    "tortilla s kuřecím",
+    "plněná tortilla s kuřecím masem",
+    "zapečená tortilla s kuřecím"
+  ],
+  "image": "dish-tortilla-s-kurecim-masem",
+  "category": "mexicka",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Tortilla s kuřecím masem je teplá plněná placka s kořeněným kuřecím, papričkami, kukuřicí a sýrem. Recept je pro 4 porce a plněné tortilly se krátce zapečou, aby se sýr rozpustil. Kuřecí maso se smaží, dokud nemá uvnitř 75 °C.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 500,
+      "unit": "g",
+      "note": "na tenké proužky"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "note": "na půlkolečka"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na proužky"
+    },
+    {
+      "ingredient": "paprika-zelena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na proužky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kukurice-konzerva",
+      "amount": 120,
+      "unit": "g",
+      "note": "scezená"
+    },
+    {
+      "ingredient": "tortilly",
+      "amount": 4,
+      "unit": "ks",
+      "note": "velké"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cheddar",
+      "amount": 120,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 100,
+      "unit": "g",
+      "note": "na podávání"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuřecí maso smíchej s paprikou, římským kmínem, solí a 1 lžící oleje. Nech chvíli odpočinout, zatímco nakrájíš zeleninu."
+    },
+    {
+      "text": "V široké pánvi rozpal zbylý olej, kuřecí maso opékej na vysokém ohni po dávkách 5 až 6 minut, dokud není uvnitř 75 °C a není zlaté. Vyndej do misky."
+    },
+    {
+      "text": "V té samé pánvi osmahni cibuli a papriky 5 minut, přidej česnek a kukuřici a smaž ještě minutu. Vrať maso a zakápni limetkou."
+    },
+    {
+      "text": "Troubu předehřej na 200 °C. Tortillu potři smetanovým sýrem, doprostřed dej čtvrtinu směsi a trochu cheddaru, přehni boky a stoč do roládky."
+    },
+    {
+      "text": "Tortilly polož švem dolů do zapékací misky, posyp zbylým cheddarem a peč 10 až 12 minut, dokud se sýr nerozpustí. Podávej s jogurtem."
+    }
+  ],
+  "tips": [
+    "Tortillu před plněním krátce ohřej v suché pánvi, nebude se lámat.",
+    "Masovou směs nech před plněním trochu vychladnout, jinak se tortilla namočí a roztrhne.",
+    "Chceš ostřejší chuť? Přidej chilli vločky nebo nakrájenou jalapeño."
+  ],
+  "substitutions": [
+    "Kuřecí prsa nahradíš kuřecími stehny bez kosti, jsou šťavnatější.",
+    "Cheddar můžeš nahradit goudou nebo mozzarellou.",
+    "Bez masa: místo kuřete použij 400 g červené fazole z konzervy, scezené."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct plněné tortilly?",
+      "a": "Při 200 °C asi 10 až 12 minut, dokud se sýr nerozpustí a okraje nezezlátnou."
+    },
+    {
+      "q": "Dá se tortilla plněná kuřecím připravit předem?",
+      "a": "Ano, naplněné tortilly založ do formy, přikryj a nech v lednici do druhého dne. Před zapečením přidej sýr a peč 5 minut déle."
+    },
+    {
+      "q": "Jak zabránit, aby se tortilla roztrhla?",
+      "a": "Krátce ji ohřej v suché pánvi nebo v mikrovlnce a plň ji menším množstvím náplně."
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "title": "Domácí marshmallow",
+  "keywords": [
+    "marshmallow",
+    "domácí marshmallow",
+    "marshmallow recept",
+    "jak udělat marshmallow",
+    "pěnové bonbony"
+  ],
+  "image": "dish-marshmallow-sladke",
+  "category": "dezerty",
+  "vegetarian": false,
+  "servings": 8,
+  "activeMinutes": 30,
+  "cookMinutes": 10,
+  "waitMinutes": 360,
+  "waitLabel": "tuhnutí v suchu",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Domácí marshmallow je pěna ze šlehaného cukrového sirupu a želatiny, která po šesti hodinách ztuhne a nakrájí se na kostky. Vyjde asi 40 kousků. Potřebuješ kuchyňský teploměr a ruční nebo stolní mixér, protože sirup se musí dovařit na 118 °C a šlehat se skoro čtvrt hodiny.",
+  "ingredients": [
+    {
+      "ingredient": "zelatina",
+      "amount": 20,
+      "unit": "g",
+      "note": "v prášku",
+      "group": "Želatina"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 120,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Želatina"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 300,
+      "unit": "g",
+      "group": "Sirup"
+    },
+    {
+      "ingredient": "med",
+      "amount": 50,
+      "unit": "g",
+      "group": "Sirup"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Sirup"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g",
+      "group": "Pěna"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 50,
+      "unit": "g",
+      "note": "na vysypání formy a kostek",
+      "group": "Obalení"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 30,
+      "unit": "g",
+      "note": "bramborový, na vysypání",
+      "group": "Obalení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zelatinu nasypej do velké mísy se 120 ml studené vody, promíchej a nech 10 minut nabobtnat. Čtvercovou formu o straně 20 cm vyloži pečicím papírem a vysyp směsí 2 lžic moučkového cukru a 2 lžic škrobu."
+    },
+    {
+      "text": "V hrnci s vysokými stěnami smíchej cukr, med a 100 ml vody. Za občasného zamíchání přiveď k varu a vař bez míchání, dokud teploměr neukáže 118 °C, asi 8 až 10 minut. Pozor, horký cukr silně popaluje."
+    },
+    {
+      "text": "Nabobtnanou želatinu vlož na 20 sekund do mikrovlnky na střední výkon, aby se rozpustila. Horký sirup lej tenkým pramínkem na stěnu mísy a šlehej na nejnižší stupeň, ať nestříká."
+    },
+    {
+      "text": "Přidej vanilkový cukr a šlehej na nejvyšší stupeň 10 až 12 minut, dokud hmota nezbělá, nezhoustne a nevytváří stuhy, které drží tvar."
+    },
+    {
+      "text": "Pěnu rychle nalij do formy a uhlaď navlhčenou stěrkou. Nech 6 hodin odležet při pokojové teplotě, nepřikrývej a nedávej do lednice."
+    },
+    {
+      "text": "Marshmallow vyklop na vysypané prkénko, nůž nebo nůžky namáčej v moučkovém cukru a krájej na kostky. Každý kousek obal ve směsi zbylého cukru a škrobu."
+    }
+  ],
+  "tips": [
+    "Teploměr je nutnost. Sirup pod 115 °C vyjde lepivý, nad 122 °C tuhý.",
+    "Pěnu nalij do formy hned po našlehání, za pár minut tuhne a nejde uhladit.",
+    "Do pěny můžeš přidat lžičku vanilkového extraktu nebo trochu kakaa na konci šlehání."
+  ],
+  "substitutions": [
+    "Místo medu stejné množství javorového sirupu, marshmallow bude voňavé v trochu jiném tónu.",
+    "Vanilkový cukr nahraď semínky z poloviny vanilkového lusku.",
+    "Škrob na obalení nahraď moučkovým cukrem v poměru 1 : 1."
+  ],
+  "faq": [
+    {
+      "q": "Proč marshmallow nechytá a zůstává lepkavé?",
+      "a": "Nejčastěji se sirup nedovařil na 118 °C nebo se pěna nešlehala dost dlouho. Ztuhnout musí 6 hodin v suchu, v lednici se naopak lepí."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí marshmallow?",
+      "a": "Obalený ve směsi cukru a škrobu vydrží v uzavřené krabičce při pokojové teplotě asi dva týdny."
+    },
+    {
+      "q": "Dá se marshmallow udělat bez želatiny?",
+      "a": "Bez želatiny ne. Vegetariánskou variantu můžeš zkusit s agarem, ale konzistence je tvrdší a postup se liší."
+    },
+    {
+      "q": "Jak se marshmallow opéká?",
+      "a": "Napíchni ho na špejli a drž nad žhavým uhlím nebo plamenem, dokud nezezlátne. Měkký střed pak snadno sundáš na sušenku."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Donuts s polevou",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Kynuté a smažené",
+  "description": "Kynutý kroužek smažený dozlatova, v bílé a čokoládové polevě.",
+  "about": [
+    "Donuts je kynutý koblih s dírou a lesklou polevou. Těsto je nadýchané, kůrka tenká a poleva křupavě zaschne. Dvě barvy, bílá a čokoládová, jsou na jedno kousnutí.",
+    "Cukrárna ho nabízí s vážnou tváří, přestože ho nikdo nikdy neosmažil. Doma ale stačí hrnec, teploměr na 170 °C a hodina na kynutí."
+  ],
+  "price": 7900,
+  "image": "dish-donuts-na-slib",
+  "recipe": "donuts",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 500
+}

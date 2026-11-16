@@ -1,0 +1,118 @@
+{
+  "title": "Škvarkové pagáče",
+  "keywords": [
+    "škvarkové pagáče",
+    "škvarkové pagáče recept",
+    "pagáče ze škvarků",
+    "pagáče se škvarky",
+    "domácí škvarkové pagáče"
+  ],
+  "image": "dish-skvarkove-pagace-oblozeno",
+  "category": "pekarna",
+  "vegetarian": false,
+  "servings": 8,
+  "activeMinutes": 35,
+  "cookMinutes": 20,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "snadné",
+  "meal": "pecivo",
+  "intro": "Škvarkové pagáče jsou křehké nekynuté placičky z mouky, sádla, zakysané smetany a nasekaných škvarků. Vyjde asi 24 kousků. Těsto nekyne, proto jsou hotové za hodinu. Tajemství je zalamování: těsto se dvakrát přeloží, aby se pagáče slistovatěly.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "skvarky",
+      "amount": 150,
+      "unit": "g",
+      "note": "nasekané najemno"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 100,
+      "unit": "g",
+      "note": "měkké"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "asi 1 lžička, škvarky jsou slané"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 3,
+      "unit": "g",
+      "note": "volitelně"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "žloutek na potření"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku smíchej se solí, práškem do pečiva a kmínem. Přidej měkké sádlo, nasekané škvarky, vejce a zakysanou smetanu."
+    },
+    {
+      "text": "Rychle zpracuj do hladkého těsta, nehněť dlouho. Zabal do fólie a nech 30 minut v lednici."
+    },
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C). Těsto rozválej na tloušťku asi 1,5 cm, přelož ho jednou na třetiny, otoč o čtvrt otáčky, znovu rozválej a ještě jednou přelož. Pak rozválej na tloušťku 1,5 cm."
+    },
+    {
+      "text": "Povrch mřížkovitě nařízni nožem do hloubky 3 mm, vykrajuj kolečka o průměru 5 cm a skládej na plech s pečicím papírem. Potři žloutkem rozšlehaným s trochou vody."
+    },
+    {
+      "text": "Peč 18 až 22 minut, dokud nejsou pagáče zlatavé a lehce ztuhlé. Nech 5 minut vychladnout. Podávej teplé nebo studené."
+    }
+  ],
+  "tips": [
+    "Škvarky nasekej na kousky velké jako rýže, větší kusy těsto roztrhají.",
+    "Těsto dobře vychlazené se válí líp a pagáče víc nakynou.",
+    "V troubě pagáče nepřepékej, doschnou a ztvrdnou. Hotové jsou, když zezlátnou po okrajích."
+  ],
+  "substitutions": [
+    "Sádlo můžeš nahradit máslem v poměru 1 : 1, pagáče budou jemnější, ale méně vydatné.",
+    "Zakysanou smetanu nahraď bílým jogurtem.",
+    "Škvarky můžeš nahradit strouhaným uzeným sýrem a získáš sýrové pagáče."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží škvarkové pagáče?",
+      "a": "V uzavřené krabičce vydrží 3 až 4 dny při pokojové teplotě. Před jídlem je můžeš krátce ohřát na 150 °C."
+    },
+    {
+      "q": "Proč mi pagáče nenakynuly?",
+      "a": "Zalamování se neprovedlo nebo bylo těsto příliš teplé. Těsto před pečením vždy vychlaď."
+    },
+    {
+      "q": "Dá se těsto připravit předem?",
+      "a": "Ano, vydrží v lednici zabalené až 2 dny. Před válením ho nech 10 minut postát."
+    },
+    {
+      "q": "K čemu pagáče podávat?",
+      "a": "K vínu, pivu a polévce, nebo jen samotné. Ke gulášové polévce se hodí výborně."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Ossobuco",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Telecí kližka s kostí dušená na bílém víně a rajčatech, s gremolatou z citronu a česneku.",
+  "about": [
+    "Ossobuco je plátek telecí kližky, která se dusí tak dlouho, až se maso od kosti oddělí samo. Z kosti se uvolňuje dřeň a zahustí omáčku z vína, rajčat a zeleniny. Na talíři se posype gremolatou, aby chuť nebyla těžká.",
+    "V trattorii se k ossobucu často podává rizoto. Tady se nic nepodává, ale tvoje trouba za dvě hodiny zvládne totéž. Vyber si dobře opečené kusy a nech si na kost trochu místa."
+  ],
+  "price": 34900,
+  "image": "dish-ossobuco",
+  "recipe": "ossobuco",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9,
+    12
+  ],
+  "order": 100
+}

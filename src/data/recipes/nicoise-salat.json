@@ -1,0 +1,120 @@
+{
+  "title": "Niçoise salát",
+  "keywords": [
+    "nicoise salát",
+    "salát nicoise",
+    "niçoise salát recept",
+    "francouzský salát s tuňákem"
+  ],
+  "image": "dish-nicoise-ani-listek",
+  "category": "salaty",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "salat",
+  "intro": "Niçoise salát je jihofrancouzský salát s tuňákem, vařenými bramborami, zelenými fazolkami, vejci, olivami a rajčaty. Zelenina se vaří odděleně a krátce, aby byla pevná. Hodí se jako hlavní jídlo za 40 minut.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 300,
+      "unit": "g",
+      "note": "pevně vařivé"
+    },
+    {
+      "ingredient": "fazolky-zelene",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "tunak-konzerva",
+      "amount": 160,
+      "unit": "g",
+      "note": "okapaný"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olivy",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "ancovicky",
+      "amount": 4,
+      "unit": "g",
+      "note": "nepovinně"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "ocet-vinny",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "horcice-dijonska",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory vař ve slupce ve slané vodě 15 až 20 minut do změknutí, vychlad a nakrájej na kolečka."
+    },
+    {
+      "text": "Ve vroucí osolené vodě vař fazolky 4 až 5 minut, aby zůstaly lehce křupavé, a ihned je přendej do ledové vody."
+    },
+    {
+      "text": "Vejce vař natvrdo 10 minut od varu a vychlaď ve studené vodě. Oloupej a rozkrájej na čtvrtky."
+    },
+    {
+      "text": "Smíchej olej, ocet, hořčici a sůl na zálivku."
+    },
+    {
+      "text": "Na velký talíř naskládej brambory, fazolky, rajčata, vejce, tuňáka a olivy. Pokapej zálivkou a podávej."
+    }
+  ],
+  "tips": [
+    "Zálivku dej až těsně před podáváním, jinak fazolky zešednou.",
+    "Vejce vařená natvrdo mají být 10 minut, déle zešednou žloutky.",
+    "Brambory krájej ještě vlažné, nasají víc zálivky."
+  ],
+  "substitutions": [
+    "Čerstvého tuňáka lze nahradit konzervou v oleji, která je tradičnější.",
+    "Ancovičky vynech pro mírnější chuť.",
+    "Fazolky nahradíš mraženými."
+  ],
+  "faq": [
+    {
+      "q": "Co je v Niçoise salátu?",
+      "a": "Tuňák, vařené brambory, zelené fazolky, vejce, rajčata, olivy a zálivka z olivového oleje a octa. Někdy i ančovičky a paprika."
+    },
+    {
+      "q": "Jak dlouho vydrží salát Niçoise?",
+      "a": "Přes noc v lednici ho nech maximálně do druhého dne, ovšem bez zálivky."
+    },
+    {
+      "q": "Vaří se fazolky na salát?",
+      "a": "Ano, 4 až 5 minut ve vroucí vodě a pak okamžitě do ledové vody, aby zůstaly zelené a pevné."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Hovězí roštěná na cibulce",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "description": "Hovězí roštěná opečená na pánvi, na zlaté cibulce s kapkou balsamika.",
+  "about": [
+    "Roštěná je kus z hřbetu s tenkou vrstvičkou tuku, díky které se na pánvi nepálí. Má výraznou hovězí chuť a nepotřebuje dlouhou marinádu, jen sůl, pepř a pořádně rozpálenou pánev. Cibulka k ní patří, protože sladkost kontrastuje s krustou.",
+    "Tohle je česká verze: maso na cibulce s kapkou octa a vývaru. Doma bude hotová za hodinu, u Prázdného talíře ji máš nanečisto a nezaplatíš nic. Aspoň si můžeš vybrat propečení."
+  ],
+  "price": 28900,
+  "image": "dish-hovezi-rostena-na-cibulce",
+  "recipe": "hovezi-rostena-na-cibulce",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    9,
+    12
+  ],
+  "order": 80
+}

@@ -1,0 +1,159 @@
+{
+  "title": "Palačinkový dort s mascarpone a jahodami",
+  "keywords": [
+    "palačinkový dort",
+    "palačinkový dort recept",
+    "palačinkový dort s krémem",
+    "dort z palačinek"
+  ],
+  "image": "dish-palacinkovy-dort-ani-patro",
+  "category": "dorty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 70,
+  "cookMinutes": 40,
+  "waitMinutes": 180,
+  "waitLabel": "chlazení dortu",
+  "difficulty": "střední",
+  "meal": "dort",
+  "intro": "Palačinkový dort je hromádka asi 14 tenkých palačinek prokládaných mascarpone krémem s jahodami. Vyjde dort o průměru asi 20 cm a 12 kousků. Palačinky můžeš upéct den předem a dort sestavit až večer před servírováním, přes noc v lednici je nejlepší.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 600,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na pánev",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mascarpone",
+      "amount": 250,
+      "unit": "g",
+      "note": "vychlazené",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vychlazená, 33 %",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 300,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 50,
+      "unit": "ml",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku, mléko, vejce, rozpuštěné máslo, cukr a sůl prošlehej do hladkého těsta, aby v něm nebyly hrudky. Nech 20 minut odpočívat."
+    },
+    {
+      "text": "Pánev o průměru 22 cm lehce potři olejem a rozpal na středně vysokou teplotu. Na pánev nalij tenkou vrstvu těsta, 30 až 40 sekund peč, otoč a dopeč dalších 20 sekund. Z těsta vyjde asi 14 palačinek. Všechny nech úplně vychladnout."
+    },
+    {
+      "text": "Mascarpone s moučkovým a vanilkovým cukrem prošlehej do hladka. Šlehačku našlehej do tuhé pěny a opatrně ji zapracuj do mascarpone."
+    },
+    {
+      "text": "Jednu palačinku polož na talíř, potři vrstvou krému (asi 2 lžíce) a posyp plátky jahod. Pokračuj dalšími vrstvami, poslední palačinku nech bez krému."
+    },
+    {
+      "text": "Dort přikryj fólií a dej na 3 hodiny do lednice, aby se spojil a ztuhl."
+    },
+    {
+      "text": "Čokoládu nalámej, zalij horkou smetanou a nech 2 minuty stát, pak promíchej do hladka. Nech 5 minut zchladnout a polij dort. Podávej vychlazený, krájej ostrým nožem."
+    }
+  ],
+  "tips": [
+    "Palačinky musí být úplně studené, na teplých se krém rozpustí.",
+    "Těsto nech odpočinout, aby se mouka nasákla a palačinky nebyly gumové.",
+    "Palačinky dobře drží, lze je upéct den předem a naskládat mezi kousky pečicího papíru."
+  ],
+  "substitutions": [
+    "Jahody můžeš nahradit borůvkami, maliny nebo banány, banány až těsně před podáváním.",
+    "Mascarpone nahraď stejným množstvím smetanového sýra, krém bude kyselejší.",
+    "Čokoládovou polevu vynech a dort jen posyp moučkovým cukrem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží palačinkový dort?",
+      "a": "V lednici vydrží 3 dny zakrytý. Čerstvé ovoce ale pouští šťávu, nejlepší je do druhého dne."
+    },
+    {
+      "q": "Kolik palačinek je na dort potřeba?",
+      "a": "Na dort o průměru 20 cm potřebuješ asi 14 palačinek. Počítej s tím, že první je zkušební."
+    },
+    {
+      "q": "Dá se palačinkový dort zmrazit?",
+      "a": "Bez čerstvého ovoce a polevy ano, až na měsíc. Rozmrazuj v lednici přes noc."
+    },
+    {
+      "q": "Čím krém ztužit?",
+      "a": "Krém s mascarpone a vyšlehanou šlehačkou drží tvar. Nechceš-li riskovat, přidej na šlehání lžíci moučkového cukru."
+    }
+  ]
+}

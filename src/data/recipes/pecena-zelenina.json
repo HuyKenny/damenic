@@ -1,0 +1,118 @@
+{
+  "title": "Pečená zelenina z trouby",
+  "keywords": [
+    "pečená zelenina",
+    "pečená zelenina v troubě",
+    "zelenina z trouby",
+    "pečená zelenina recept"
+  ],
+  "image": "dish-pecena-zelenina",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Pečená zelenina z trouby je přílohou k masu i samostatným jídlem. Kořenová zelenina potřebuje víc času než cuketa a paprika, proto se peče ve dvou dávkách a vše na jednom plechu při vysoké teplotě, aby zhnědla místo vařit.",
+  "ingredients": [
+    {
+      "ingredient": "mrkev",
+      "amount": 300,
+      "unit": "g",
+      "note": "na tyčinky"
+    },
+    {
+      "ingredient": "batat",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kostky 2 cm"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "na měsíčky"
+    },
+    {
+      "ingredient": "cuketa",
+      "amount": 250,
+      "unit": "g",
+      "note": "na silnější půlkolečka"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na pásky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "ve slupce"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 220 °C (horkovzduch 200 °C). Vyndej velký plech a vylož ho pečicím papírem."
+    },
+    {
+      "text": "Mrkev, batáty a cibuli promíchej v misce s polovinou oleje, solí a tymiánem a rozlož v jedné vrstvě na plech. Peč 15 minut."
+    },
+    {
+      "text": "Mezitím promíchej cuketu a papriku se zbylým olejem a sladkou paprikou."
+    },
+    {
+      "text": "Přidej je k ostatní zelenině i s nedrcenými stroužky česneku a peč dalších 25 až 30 minut, jednou promíchej. Je hotová, když okraje zhnědnou a mrkev je měkká."
+    },
+    {
+      "text": "Prolisuj změklý česnek ze slupky a promíchej ho se zeleninou. Podávej ihned."
+    }
+  ],
+  "tips": [
+    "Zelenina se musí vejít na plech v jedné vrstvě. Když se tlačí, dusí se v páře místo pečení.",
+    "Všechny kusy krájej přibližně stejně velké.",
+    "Na konec přidej kapku octa nebo citronové šťávy."
+  ],
+  "substitutions": [
+    "Batáty nahraď bramborami, upečou se o 10 minut déle.",
+    "Tymián nahraď rozmarýnem, oreganem nebo provensálskými bylinkami.",
+    "Podávej se sypaným sýrem feta nebo jogurtovým dipem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se peče zelenina v troubě?",
+      "a": "Podle druhu 35 až 45 minut při 220 °C. Kořenová zelenina potřebuje víc času než cuketa."
+    },
+    {
+      "q": "Proč je moje pečená zelenina měkká a ne křupavá?",
+      "a": "Plech je příliš plný nebo je trouba málo rozpálená. Rozlož ji v jedné vrstvě a peč při 220 °C."
+    },
+    {
+      "q": "Jakou zeleninu pečeme společně?",
+      "a": "Mrkev, batáty, cibuli a brambory dřív, cuketu, papriku a lilek později."
+    }
+  ]
+}

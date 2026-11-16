@@ -1,0 +1,24 @@
+{
+  "name": "Hamburger klasik",
+  "restaurant": "burger-nikdy",
+  "kind": "main",
+  "section": "Burgery",
+  "description": "Hovězí placka z pánve v teplé housce s okurkou, rajčetem a salátem. Bez sýra, bez kompromisů.",
+  "about": [
+    "Hamburger je nejjednodušší ze všech burgerů: placka z mletého hovězího, houska a zelenina. Bez sýra a omáček navíc na talíři zůstane jen to, co má chutnat, tedy maso a trochu kyselosti z okurky.",
+    "Dobrá placka je silná asi dva centimetry a uprostřed má důlek, aby se rovnoměrně usmažila. V Burger Nikdy ji dostaneš nanečisto, doma ji máš za chvíli hotovou a propečenou."
+  ],
+  "price": 17900,
+  "image": "dish-hamburger",
+  "recipe": "hamburger",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    10
+  ],
+  "order": 70
+}

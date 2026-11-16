@@ -1,0 +1,111 @@
+{
+  "title": "Kuřecí salát",
+  "keywords": [
+    "kuřecí salát",
+    "kuřecí salát recept",
+    "salát s kuřecím masem",
+    "studený kuřecí salát"
+  ],
+  "image": "dish-kureci-salat-ani-listek",
+  "category": "salaty",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 15,
+  "waitMinutes": 30,
+  "waitLabel": "vychlazení v lednici",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Kuřecí salát z vařených prsou, kukuřice, nakládané okurky a majonézy je klasika na pikniky. Prsa je potřeba vařit tak, aby uvnitř měla 75 °C, ale zůstala šťavnatá, a nechat je před krájením vychladnout.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 400,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kukurice-konzerva",
+      "amount": 150,
+      "unit": "g",
+      "note": "okapaná"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do vody a podle chuti"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prsa vlož do hrnce se slanou vodou (1 lžička soli na litr), přiveď k varu a pak na slabém ohni vař 12 až 15 minut, dokud vnitřní teplota nedosáhne 75 °C."
+    },
+    {
+      "text": "Maso vyndej, nech vychladnout a nakrájej na kostky 1 cm. Vychladnout musí úplně, jinak majonéza zhoustne."
+    },
+    {
+      "text": "Kukuřici nech okapat, okurky nakrájej na kostičky, jarní cibulku na kolečka."
+    },
+    {
+      "text": "Majonézu rozmíchej s jogurtem, hořčicí, solí a pepřem. Přidej maso, kukuřici, okurky a cibulku a promíchej."
+    },
+    {
+      "text": "Salát nech 30 minut v lednici. Podávej studený a spotřebuj do 2 dnů."
+    }
+  ],
+  "tips": [
+    "Vodu z vaření nevylévej, je z ní základ na polévku.",
+    "Nemáš-li čas, použij zbytky pečeného kuřete. Odstraň kůži a nakrájej.",
+    "Salát s majonézou nenechávej na stole déle než 2 hodiny, hlavně v létě."
+  ],
+  "substitutions": [
+    "Majonézu částečně nahradíš řeckým jogurtem, salát bude lehčí.",
+    "Okurky lze nahradit celerem nebo jablkem.",
+    "Kuřecí prsa nahradíš krůtími."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží kuřecí salát v lednici?",
+      "a": "Maximálně 2 dny v uzavřené nádobě. S majonézou raději spotřebuj dřív."
+    },
+    {
+      "q": "Jak dlouho vařit kuřecí prsa na salát?",
+      "a": "Asi 12 až 15 minut na slabém ohni od varu, podle tloušťky. Uvnitř mají mít 75 °C a maso se již nesmí růžově barvit."
+    },
+    {
+      "q": "Dá se kuřecí salát zmrazit?",
+      "a": "Nedoporučuje se. Majonéza se po rozmrazení rozpadne a zelenina je vodnatá."
+    }
+  ]
+}

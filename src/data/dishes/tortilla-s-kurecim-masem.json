@@ -1,0 +1,23 @@
+{
+  "name": "Tortilla s kuřecím masem",
+  "restaurant": "tortillarna-ani-omylem",
+  "kind": "main",
+  "section": "Burrito a tacos",
+  "description": "Zapečená tortilla s kořeněným kuřecím, paprikou, kukuřicí a rozpuštěným sýrem.",
+  "about": [
+    "Tortilla s kuřecím masem je jídlo, které se dá vyrobit z toho, co zbylo v lednici. Kuřecí proužky se kořeněnou paprikou, zelenina a sýr se zabalí do placky a zapečou, dokud se sýr nerozpustí.",
+    "Zapečená tortilla má křupavý okraj a měkký střed. Z Tortillárny ti nic nepřijede, takže plň, balíš a zapékáš sám, a stejně to bude hotové za půl hodiny."
+  ],
+  "price": 16900,
+  "image": "dish-tortilla-s-kurecim-masem",
+  "recipe": "tortilla-s-kurecim-masem",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 70
+}

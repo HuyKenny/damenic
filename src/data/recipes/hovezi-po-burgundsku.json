@@ -1,0 +1,150 @@
+{
+  "title": "Hovězí po burgundsku",
+  "keywords": [
+    "hovězí po burgundsku",
+    "boeuf bourguignon",
+    "hovězí na červeném víně",
+    "burgundské hovězí maso"
+  ],
+  "image": "dish-hovezi-po-burgundsku",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 150,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Hovězí po burgundsku je pomalu dušené hovězí na červeném víně se slaninou, cibulkou a žampiony. Recept na 4 porce zabere asi tři hodiny, z toho většinu času se maso samo dusí. Šťavnaté bude jen tehdy, když ho necháš měknout na mírném ohni a víno nechceš mít v omáčce syrové.",
+  "alcohol": true,
+  "ingredients": [
+    {
+      "ingredient": "hovezi-plec",
+      "amount": 800,
+      "unit": "g",
+      "note": "na kostky asi 4 cm"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 120,
+      "unit": "g",
+      "note": "na proužky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "rozdrcený"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na zaprášení"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vino-cervene",
+      "amount": 400,
+      "unit": "ml",
+      "note": "suché"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 2,
+      "unit": "g",
+      "note": "nebo 3 snítky"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 250,
+      "unit": "g",
+      "note": "na čtvrtky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso osuš, osol, opepři a v hrnci s tlustým dnem opékej na slanině po dávkách na středně silném ohni, aby kostky z každé strany zhnědly (asi 3 minuty na dávku). Přeplněný hrnec maso jen uvaří, ne opeče."
+    },
+    {
+      "text": "Opečené maso vyndej. V tuku z masa osmahni cibuli a mrkev 5 minut, přidej česnek na minutu a vmíchej rajčatový protlak. Opékej, dokud se barva nezmění na cihlovou."
+    },
+    {
+      "text": "Zaprášit moukou, promíchej a podlij vínem. Vař 3 minuty na velkém ohni, aby se část alkoholu odpařila, a seškrábnout připečeniny ode dna."
+    },
+    {
+      "text": "Vrať maso a slaninu, přilij vývar tak, aby bylo maso skoro zakryté, přidej tymián a bobkový list. Přikryj a duš na velmi mírném ohni (nebo v troubě při 150 °C) 2 hodiny až 2 hodiny a 15 minut, dokud se maso nedá rozmáčknout vidličkou."
+    },
+    {
+      "text": "Žampiony opékej na másle ve zvláštní pánvi 5 minut do zhnědnutí a přidej k masu na posledních 15 minut dušení. Bobkový list vyndej, omáčku případně zredukuj bez poklice a dochuť solí a pepřem."
+    },
+    {
+      "text": "Podávej s bramborovou kaší, vařenými bramborami nebo bagetou."
+    }
+  ],
+  "tips": [
+    "Plec je lepší než svíčková nebo roštěná: má vazivo, které při dlouhém dušení změkne a zahustí omáčku.",
+    "Maso opékej v dávkách. Když ho dáš do hrnce všechno najednou, pustí šťávu a místo zhnědnutí se vaří.",
+    "Druhý den je chuť plnější. Dušené maso klidně udělej den předem a před podáváním ho jen prohřej."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo vína použij 400 ml hroznového nebo černorybízového moštu a přidej 2 lžíce vinného octa nebo citronové šťávy, aby omáčka nebyla příliš sladká.",
+    "Hovězí plec nahradíš hovězí kližkou nebo krkovičkou, doba dušení zůstane stejná.",
+    "Slaninu vynecháš a použiješ 2 lžíce másla navíc."
+  ],
+  "faq": [
+    {
+      "q": "Jaké maso se hodí na hovězí po burgundsku?",
+      "a": "Nejlepší je plec, kližka nebo žebro, tedy maso s vazivem, které při dlouhém dušení změkne. Libové maso jako roštěná zůstane suché."
+    },
+    {
+      "q": "Jak dlouho dusit hovězí po burgundsku?",
+      "a": "Na mírném ohni nebo v troubě při 150 °C asi 2 hodiny až 2 hodiny a 15 minut. Hotové je, když se kostka rozpadá pod vidličkou."
+    },
+    {
+      "q": "Dá se hovězí po burgundsku připravit den předem?",
+      "a": "Ano, je to jedno z jídel, která jsou druhý den lepší. V lednici vydrží 3 dny, prohřej ho pomalu s lžící vody."
+    }
+  ]
+}

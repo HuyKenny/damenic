@@ -1,0 +1,100 @@
+{
+  "title": "Rajčatová salsa",
+  "keywords": [
+    "salsa recept",
+    "domácí salsa",
+    "rajčatová salsa",
+    "salsa na nachos"
+  ],
+  "image": "dish-rajcatova-salsa",
+  "category": "mexicka",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 20,
+  "waitLabel": "odležení",
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Rajčatová salsa je čerstvá směs rajčat, cibule, koriandru, limetky a jalapeños. Žádné vaření, jen kvalitní rajčata a čas odpočinku. Hodí se k nachos, tacos i grilovanému masu.",
+  "ingredients": [
+    {
+      "ingredient": "rajcata",
+      "amount": 400,
+      "unit": "g",
+      "note": "zralá"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "na jemno"
+    },
+    {
+      "ingredient": "jalapenos",
+      "amount": 30,
+      "unit": "g",
+      "note": "nakládané, nasekané"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "svazek, nasekaný"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rajčata zbav stopky a semínek a nakrájej na drobné kostičky."
+    },
+    {
+      "text": "Smíchej je s cibulí, jalapeños, prolisovaným česnekem a koriandrem."
+    },
+    {
+      "text": "Přidej limetkovou šťávu a sůl, promíchej."
+    },
+    {
+      "text": "Nech 20 minut odležet v lednici, aby se uvolnila šťáva a spojily chutě. Před podáváním ochutnej."
+    }
+  ],
+  "tips": [
+    "Semínka z rajčat odstraň, salsa pak nebude vodnatá.",
+    "Je nejlepší ten den. V lednici vydrží 2 dny.",
+    "Pro kouřovou chuť opeč rajčata a cibuli na plotně."
+  ],
+  "substitutions": [
+    "Koriandr nahraď petrželkou, pokud ho nemáš rád.",
+    "Jalapeños nahraď čerstvou chilli papričkou.",
+    "Limetku nahraď citronem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží domácí salsa?",
+      "a": "V lednici zakrytá 2 dny. Poté pouští vodu."
+    },
+    {
+      "q": "Čím salsu zpikantnit?",
+      "a": "Přidej více jalapeños nebo čerstvé chilli, semínka ponech."
+    },
+    {
+      "q": "Proč je salsa vodnatá?",
+      "a": "Nezbavil jsi rajčata semínek a šťávy. Nakrájenou salsu nech odkapat v sítu."
+    }
+  ]
+}

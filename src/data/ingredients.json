@@ -6825,5 +6825,373 @@
     "priceCheckedAt": null,
     "diet": "plant",
     "allergens": []
+  },
+  {
+    "id": "hliva-ustricova",
+    "name": "Hlíva ústřičná",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 300,
+      "price": 4900,
+      "label": "balení 300 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "houby"
+  },
+  {
+    "id": "chrest-zeleny",
+    "name": "Chřest zelený",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 9900,
+      "label": "svazek 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
+  },
+  {
+    "id": "jahly",
+    "name": "Jáhly",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 4500,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ryze-obiloviny"
+  },
+  {
+    "id": "hovezi-licka",
+    "name": "Hovězí líčka",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 18900,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "hovezi"
+  },
+  {
+    "id": "teleci-rizek",
+    "name": "Telecí kýta na řízky",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 400,
+      "price": 34900,
+      "label": "balení 400 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "hovezi"
+  },
+  {
+    "id": "teleci-ossobuco",
+    "name": "Telecí kližka s kostí (ossobuco)",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 69900,
+      "label": "1 kg, plátky"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "hovezi"
+  },
+  {
+    "id": "divocak-kyta",
+    "name": "Divočák kýta",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 45900,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": []
+  },
+  {
+    "id": "veprove-zebra",
+    "name": "Vepřová žebra",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 15900,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
+  },
+  {
+    "id": "klobasa",
+    "name": "Uzená klobása",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 300,
+      "price": 6900,
+      "label": "balení 300 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
+  },
+  {
+    "id": "jalovec",
+    "name": "Jalovec (bobule)",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "pack": {
+      "size": 20,
+      "price": 3500,
+      "label": "sáček 20 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
+  },
+  {
+    "id": "cannelloni",
+    "name": "Cannelloni (těstovinové trubky)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 3900,
+      "label": "balení 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testoviny"
+  },
+  {
+    "id": "uzene-koleno",
+    "name": "Uzené vepřové koleno",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1500,
+      "price": 17900,
+      "label": "1 kus asi 1,5 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
+  },
+  {
+    "id": "kukuricna-krupice",
+    "name": "Kukuřičná krupice (polenta)",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 3200,
+      "label": "sáček 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ryze-obiloviny"
+  },
+  {
+    "id": "kakaove-maslo",
+    "name": "Kakaové máslo",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 7900,
+      "label": "balení 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
+  },
+  {
+    "id": "zitny-kvas",
+    "name": "Žitný kvas (aktivní)",
+    "department": "Ostatní",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 0,
+      "label": "vlastní, zakvašený doma"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ]
+  },
+  {
+    "id": "vermut-cerveny",
+    "name": "Červený vermut (sladký)",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 750,
+      "price": 17900,
+      "label": "láhev 0,75 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      12
+    ],
+    "alcohol": true
+  },
+  {
+    "id": "dzus-brusinkovy",
+    "name": "Brusinkový džus",
+    "department": "Trvanlivé",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 1000,
+      "price": 6900,
+      "label": "krabice 1 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
+  },
+  {
+    "id": "broskve",
+    "name": "Broskve",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 1500,
+      "label": "1 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
+  },
+  {
+    "id": "redkvicky",
+    "name": "Ředkvičky",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 200,
+      "price": 2900,
+      "label": "svazek asi 200 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
+  },
+  {
+    "id": "hrozny-bile",
+    "name": "Bílé hrozny bez pecek",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 6900,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
+  },
+  {
+    "id": "kombucha-starter",
+    "name": "Hotová kombucha (nepasterovaná, jako startér)",
+    "department": "Ostatní",
+    "baseUnit": "ml",
+    "pack": {
+      "size": 1000,
+      "price": 8900,
+      "label": "láhev 1 l"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
+  },
+  {
+    "id": "kombucha-scoby",
+    "name": "Kombucha kultura (SCOBY)",
+    "department": "Ostatní",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 19900,
+      "label": "1 ks s tekutinou"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
+  },
+  {
+    "id": "cinske-zeli",
+    "name": "Čínské zelí",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 3500,
+      "label": "1 hlávka asi 1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
   }
 ]

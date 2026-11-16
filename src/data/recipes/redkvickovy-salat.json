@@ -1,0 +1,94 @@
+{
+  "title": "Ředkvičkový salát",
+  "keywords": [
+    "ředkvičkový salát",
+    "ředkvičkový salát se zakysanou smetanou",
+    "salát z ředkviček",
+    "ředkvičky se smetanou"
+  ],
+  "image": "dish-redkvickovy-salat-ani-listek",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 10,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Ředkvičkový salát je svěží jarní příloha z ředkviček, zakysané smetany, kopru a trochy citronu. Hotový je za 10 minut, ale sůl z ředkviček vytáhne šťávu, proto se hodí 10 minut v lednici a podává se rychle.",
+  "ingredients": [
+    {
+      "ingredient": "redkvicky",
+      "amount": 300,
+      "unit": "g",
+      "note": "1,5 svazku"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 120,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaný"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "note": "čerstvě mletý"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ředkvičky omyj, odřízni nať a kořínky a nakrájej na tenká kolečka. Čím tenčí, tím jemnější chuť."
+    },
+    {
+      "text": "Ve větší misce rozmíchej zakysanou smetanu s citronovou šťávou, solí a pepřem."
+    },
+    {
+      "text": "Přidej ředkvičky a nasekaný kopr a promíchej. Dochuť solí."
+    },
+    {
+      "text": "Salát nech 10 minut v lednici a podávej studený, nejlépe týž den."
+    }
+  ],
+  "tips": [
+    "Čerstvé ředkvičky jsou pevné, bez měkkých míst. Nať odřízni hned, jinak je zbytečně vysává.",
+    "Sůl přidej až těsně před podáváním, nebo salát pustí hodně vody.",
+    "Hodí se k pečeným bramborám, grilovanému masu i ke chlebu s máslem."
+  ],
+  "substitutions": [
+    "Zakysanou smetanu nahradíš bílým jogurtem nebo smetanovým sýrem rozmíchaným s trochou mléka.",
+    "Kopr lze nahradit pažitkou.",
+    "Do salátu přidej nastrouhanou okurku pro víc šťávy."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží ředkvičkový salát?",
+      "a": "Ve zdravé lednici vydrží 1 až 2 dny, ale ředkvičky pustí šťávu a smetana zřídne. Nejlepší je ho udělat těsně před podáváním."
+    },
+    {
+      "q": "S čím se hodí ředkvičky v salátu?",
+      "a": "S okurkou, jarní cibulkou, vařeným vejcem, bylinkami a zakysanou smetanou nebo jogurtem."
+    },
+    {
+      "q": "Proč jsou ředkvičky pálivé?",
+      "a": "Obsahují hořčičné silice. Pálivost zmírní krájení na tenká kolečka, krátké namočení do ledové vody a smetanová zálivka."
+    }
+  ]
+}

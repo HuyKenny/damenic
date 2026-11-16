@@ -1,0 +1,128 @@
+{
+  "title": "Těstoviny s lososem",
+  "keywords": [
+    "těstoviny s lososem",
+    "těstoviny s lososem a smetanou",
+    "těstoviny s lososem a špenátem",
+    "penne s lososem"
+  ],
+  "image": "dish-testoviny-s-lososem",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Těstoviny s lososem ve smetanové omáčce s citronem a koprem jsou hotové za 35 minut. Losos se opéká zvlášť, aby neztvrdnul a držel pohromadě, a do omáčky se vrací až na konci. Ryba je hotová, když uvnitř dosáhne 63 °C.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 350,
+      "unit": "g",
+      "note": "penne nebo fusilli"
+    },
+    {
+      "ingredient": "losos-filet",
+      "amount": 500,
+      "unit": "g",
+      "note": "bez kůže, na kostky 3 cm"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 250,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "spenat-mrazeny",
+      "amount": 150,
+      "unit": "g",
+      "note": "rozmražený a vymačkaný"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "kůra a šťáva"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 3,
+      "unit": "ks",
+      "note": "natě"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 30,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Těstoviny uvař v osolené vodě podle návodu a před scezením odlij hrnek vody."
+    },
+    {
+      "text": "Kostky lososa osol a opepři. Na 1 lžíci oleje opékej na středně vysokém ohni 1 až 2 minuty ze všech stran, jen aby povrch zezlátl. Přendej na talíř."
+    },
+    {
+      "text": "Do pánve přidej zbylý olej, osmahni cibuli 3 minuty, přidej česnek na půl minuty. Vlij smetanu a vař 3 minuty, přidej špenát, citronovou kůru a šťávu."
+    },
+    {
+      "text": "Do omáčky vlož těstoviny, parmazán a podle potřeby trochu vody z vaření. Přidej lososa a jemně míchej 2 až 3 minuty, dokud není uvnitř růžový a udělaný na 63 °C."
+    },
+    {
+      "text": "Posyp koprem a podávej hned."
+    }
+  ],
+  "tips": [
+    "Lososa smaž krátce, doděláš ho v omáčce. Dlouhým smažením zbělá a vyschne.",
+    "Citronová kůra se přidává do teplé omáčky, ne do vařící, a citronovou šťávu dej až na konci, aby se smetana nesrazila.",
+    "Zmrazený špenát vždy dobře vymačkej, jinak zředí omáčku."
+  ],
+  "substitutions": [
+    "Čerstvého lososa nahradíš uzeným, přidej ho až do hotové omáčky bez vaření.",
+    "Smetanu na vaření nahradíš ovesnou smetanou na vaření.",
+    "Penne vyměníš za špagety nebo tagliatelle."
+  ],
+  "faq": [
+    {
+      "q": "Kdy je losos hotový?",
+      "a": "Když dosáhne uvnitř 63 °C nebo maso zesvětlá a lehce se odděluje na plátky."
+    },
+    {
+      "q": "Jak nesrazit smetanu s citronem?",
+      "a": "Citronovou šťávu přidávej až na konci a mimo var. Omáčka nesmí prudce bublat."
+    },
+    {
+      "q": "Dá se použít uzený losos?",
+      "a": "Ano, nakrájej ho a vmíchej do hotové omáčky bez vaření. Soli přidej méně."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "title": "Pohanková kaše",
+  "keywords": [
+    "pohanková kaše",
+    "pohanková kaše s mlékem",
+    "pohanková kaše sladká",
+    "kaše z pohanky"
+  ],
+  "image": "dish-pohankova-kase",
+  "category": "snidane",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 15,
+  "waitMinutes": 5,
+  "waitLabel": "odstátí pod pokličkou",
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Pohanková kaše se vaří z nepražené pohanky na mléce za čtvrt hodiny. Je sytá, lehce oříšková a hodí se na sladko i na slano. Pohanku stačí propláchnout a vařit krátce, jinak se z ní stane lepivá hmota.",
+  "ingredients": [
+    {
+      "ingredient": "pohanka",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 350,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "mletá"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "špetka"
+    },
+    {
+      "ingredient": "banan",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 20,
+      "unit": "g",
+      "note": "nasekané"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Pohanku propláchni v sítku pod studenou vodou a nech okapat."
+    },
+    {
+      "text": "Mléko s vodou a solí přiveď v hrnci k varu, vsyp pohanku a stáhni plamen na minimum."
+    },
+    {
+      "text": "Vař pod pokličkou 12 až 15 minut, dokud pohanka nenasákne tekutinu a není měkká. Občas promíchej, aby se nepřipálila."
+    },
+    {
+      "text": "Sundej z plotny, vmíchej máslo a skořici a nech 5 minut stát pod pokličkou, aby kaše dozrála."
+    },
+    {
+      "text": "Podávej s banánem, ořechy a medem."
+    }
+  ],
+  "tips": [
+    "Pražená pohanka voní víc, ale vaří se o 3 minuty déle.",
+    "Aby kaše byla krémová, dolij při vaření 50 až 100 ml mléka.",
+    "Pohanka se vaří 1:2 na vodě, na kaši je lepší poměr 1:3 s mlékem."
+  ],
+  "substitutions": [
+    "Mléko nahraď rostlinným nápojem (ovesným, sójovým).",
+    "Pohanku lze nahradit jáhlami, ale doba vaření je delší.",
+    "Na slano ji dochuť sýrem a opečenou cibulkou, místo medu a banánu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří pohanka na kaši?",
+      "a": "Asi 12 až 15 minut na mírném plameni pod pokličkou. Poté ji nech 5 minut odstát."
+    },
+    {
+      "q": "Je pohanková kaše bez lepku?",
+      "a": "Pohanka sama lepek neobsahuje, ale může být zasažená stopami lepku ze zpracování. Pro bezlepkovou stravu kup pohanku označenou jako bezlepkovou."
+    },
+    {
+      "q": "Dá se pohanková kaše připravit dopředu?",
+      "a": "Ano, v lednici vydrží 2 dny. Ráno ji zřeď mlékem a ohřej."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "title": "Pilaf s mrkví a rozinkami",
+  "keywords": [
+    "pilaf",
+    "pilaf recept",
+    "rýže pilaf",
+    "zeleninový pilaf",
+    "jak uvařit pilaf"
+  ],
+  "image": "dish-pilaf",
+  "category": "indicka",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "waitMinutes": 10,
+  "waitLabel": "dojít pod pokličkou",
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Pilaf je rýže orestovaná na tuku a uvařená v horkém vývaru, takže zrnka zůstanou oddělená a chuťově naložená. Tahle zeleninová verze s mrkví, kmínem a rozinkami je příloha k masu i k pečené zelenině.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-dlouhozrnna",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "note": "na jemno"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "nahrubo nastrouhaná"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 500,
+      "unit": "ml",
+      "note": "horký"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýži propláchni ve sítku studenou vodou, dokud voda neprůhledná, a nech okapat."
+    },
+    {
+      "text": "V hrnci s pokličkou osmaž na oleji cibuli a mrkev 5 minut, aby změkly."
+    },
+    {
+      "text": "Přidej kmín a kurkumu, po půl minutě rýži a 2 minuty ji restuj, dokud zrna nezprůsvitní."
+    },
+    {
+      "text": "Zalij horkým vývarem, přidej rozinky a sůl, přiveď k varu, přikryj a stáhni na nejmenší plamen. Vař 15 minut a pokličku nezvedej."
+    },
+    {
+      "text": "Hrnec stáhni z ohně a nech rýži 10 minut dojít pod pokličkou. Před podáváním ji načechrej vidličkou."
+    }
+  ],
+  "tips": [
+    "Vývar musí být horký, studený by zrna rozbil a nahnal by škrob.",
+    "Nemíchej rýži při vaření, zlepila by se. Načechrej ji až na konci.",
+    "Na chuť přidej 1 lžíci másla na konec nebo hrst opečených mandlí."
+  ],
+  "substitutions": [
+    "Rozinky nahraď sušenými meruňkami nakrájenými na kostičky.",
+    "Zeleninový vývar vyměň za kuřecí, pokud nejde o vegetariánskou verzi.",
+    "Místo dlouhozrnné rýže použij basmati, uvař ji o 3 minuty kratší dobu."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je poměr rýže a vody u pilafu?",
+      "a": "Na 250 g dlouhozrnné rýže je potřeba asi 500 ml tekutiny, tedy 1 : 2. U basmati stačí o něco méně."
+    },
+    {
+      "q": "Proč se rýže při vaření nemíchá?",
+      "a": "Mícháním se uvolňuje škrob a zrnka se lepí. Nech rýži bez míchání a načechrej až po odpočinku."
+    },
+    {
+      "q": "Čím se pilaf liší od obyčejné vařené rýže?",
+      "a": "Rýže se nejdřív orestuje na tuku a vaří se v ochuceném vývaru, takže je sypká a chutnější."
+    }
+  ]
+}

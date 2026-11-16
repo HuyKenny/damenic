@@ -1,0 +1,26 @@
+{
+  "name": "Waldorfský salát s ořechy",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "description": "Celer, kyselé jablko, hrozny a vlašské ořechy v krémové jogurtové zálivce.",
+  "about": [
+    "Waldorfský salát je křupavý trojhlas: celer, jablko a ořechy. Hrozny přidávají sladkost a jogurt s majonézou drží všechno pohromadě.",
+    "Jablka rychle hnědnou, takže se kropí citronem. Salát je smyšlený, ale citron v lednici doma opravdu pomůže."
+  ],
+  "price": 15900,
+  "image": "dish-waldorfsky-salat-ani-listek",
+  "recipe": "waldorfsky-salat",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    8,
+    9,
+    10
+  ],
+  "order": 360
+}

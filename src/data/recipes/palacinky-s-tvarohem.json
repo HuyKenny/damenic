@@ -1,0 +1,146 @@
+{
+  "title": "Palačinky s tvarohem",
+  "keywords": [
+    "palačinky s tvarohem",
+    "tvarohové palačinky",
+    "palačinky plněné tvarohem",
+    "palačinky s tvarohem a rozinkami"
+  ],
+  "image": "dish-palacinky-s-tvarohem",
+  "category": "palacinky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 20,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Palačinky s tvarohem jsou tenké palačinky plněné sladkou tvarohovou směsí s rozinkami a vanilkou. Pro tenký okraj těsto odpočívá půl hodiny a plněné palačinky se krátce zapečou v troubě.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g",
+      "note": "hladká",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 400,
+      "unit": "ml",
+      "note": "na těsto",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "špetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "do těsta a na pánev",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 350,
+      "unit": "g",
+      "note": "jemný, měkký",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 40,
+      "unit": "g",
+      "note": "namočené v horké vodě",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "kůra",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "note": "na vymazání",
+      "group": "Náplň"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku, cukr a sůl prošlehej s mlékem do hladkého těsta bez hrudek, přidej vejce a lžíci oleje. Těsto nech 30 minut odpočívat."
+    },
+    {
+      "text": "Tvaroh rozmíchej s moučkovým i vanilkovým cukrem, citronovou kůrou a odkapanými rozinkami do krémové směsi."
+    },
+    {
+      "text": "Pánev (20 až 24 cm) vymaž olejem, rozehřej na střední teplotu a lij tenkou vrstvu těsta. Smaž 1 až 2 minuty z každé strany, dokud okraje nezezlátnou. Z těsta vyjde asi 10 palačinek."
+    },
+    {
+      "text": "Na každou palačinku dej 2 lžíce náplně, zabal ji do rolky nebo trojúhelníku."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 160 °C). Palačinky ulož do vymazané formy a zapékej 10 minut, aby se náplň prohřála."
+    },
+    {
+      "text": "Podávej posypané moučkovým cukrem nebo s ovocem."
+    }
+  ],
+  "tips": [
+    "Těsto s moukou prošlehej do hladka, ale už nešlehej po odpočinku, aby palačinky nebyly gumové.",
+    "První palačinka bývá vždy horší. Pánev se potřebuje rozehřát.",
+    "Pokud je tvaroh hrudkovitý, rozmixuj ho nebo prolisuj přes sítko."
+  ],
+  "substitutions": [
+    "Mléko nahraď ovesným nápojem, tvaroh ricottou.",
+    "Rozinky nahraď kandovaným ovocem nebo borůvkami.",
+    "Hladkou mouku nahraď bezlepkovou směsí."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat tenké palačinky?",
+      "a": "Těsto má být řídké jako smetana, a nech ho půl hodiny odpočívat. Na pánev lij jen tenkou vrstvu a naklápěním rozlij."
+    },
+    {
+      "q": "Proč se palačinky trhají?",
+      "a": "Pánev není dost horká nebo je těsto husté. Palačinku otáčej, až jsou okraje suché."
+    },
+    {
+      "q": "Dá se palačinky předpřipravit?",
+      "a": "Ano, uvařené palačinky vydrží zabalené v lednici 2 dny nebo v mrazáku 2 měsíce."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Brokolicový salát se slaninou",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Bowly a saláty",
+  "description": "Brokolice, slanina, červená cibule, rozinky a semínka v jogurtové zálivce.",
+  "about": [
+    "Brokolice tu nemusí být nudná: spařená na minutu, v jogurtové zálivce s rozinkami, červenou cibulí a křupavou slaninou. Sytý studený salát.",
+    "Slaninu u nás nikdo neopéká, zelená nula je smyšlená. Recept na doma je skutečný."
+  ],
+  "price": 15900,
+  "image": "dish-brokolicovy-salat-zelena-nula",
+  "recipe": "brokolicovy-salat",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    10
+  ],
+  "order": 250
+}

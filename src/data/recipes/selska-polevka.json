@@ -1,0 +1,150 @@
+{
+  "title": "Selská polévka",
+  "keywords": [
+    "selská polévka",
+    "selská polévka s uzeným",
+    "selská polévka s bramborem",
+    "hustá selská polévka"
+  ],
+  "image": "dish-selska-polevka",
+  "category": "polevky",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Selská polévka je hustá česká polévka z brambor, kořenové zeleniny a uzeného masa nebo slaniny. Chuť drží uzené, kmín a majoránka, a hustotu bez mouky zařídí rozmačkané brambory.",
+  "ingredients": [
+    {
+      "ingredient": "slanina",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 600,
+      "unit": "g",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "uzene-maso",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "g",
+      "note": "mletý"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nať"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci opeč slaninu na střední teplotě 4 minuty, dokud nepustí tuk a není zlatá. Přidej cibuli a restuj 3 minuty."
+    },
+    {
+      "text": "Přidej mrkev, petržel a celer a 4 minuty opékej za míchání."
+    },
+    {
+      "text": "Přisyp kmín, přidej uzené maso, brambory a bobkový list, zalij vodou a osol mírně. Slanina i uzené jsou slané."
+    },
+    {
+      "text": "Přiveď k varu a vař pod pokličkou 25 minut, dokud brambory nezačnou měknout a polévka sama zhoustne."
+    },
+    {
+      "text": "Část brambor v hrnci rozmačkej paličkou, vmíchej česnek a majoránku a vař ještě 3 minuty."
+    },
+    {
+      "text": "Dochuť pepřem a případně solí a podávej posypané petrželkou."
+    }
+  ],
+  "tips": [
+    "Sůl dávej opatrně a až po ochutnání, uzené maso dodá dost slanosti.",
+    "Majoránka a česnek patří až na závěr, jinak ztratí vůni.",
+    "Polévka druhý den zhoustne, před ohřevem ji případně zřeď vodou."
+  ],
+  "substitutions": [
+    "Uzené maso nahraď 150 g uzeného tofu a slaninu 2 lžícemi oleje pro vegetariánskou verzi.",
+    "Chceš hustší polévku? Přidej 1 lžíci hladké mouky osmahnuté na oleji.",
+    "Do polévky se hodí i hrst sušených hub namočených v horké vodě."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří selská polévka?",
+      "a": "Po přidání brambor asi 25 minut. Brambory mají být měkké a část se při míchání rozpadne."
+    },
+    {
+      "q": "Dá se do selské polévky přidat vejce?",
+      "a": "Ano, do hotové polévky vmíchej rozšlehaná vejce se lžící mléka a vař 2 minuty, pak bude mít polévka bohatší chuť a zhoustne."
+    },
+    {
+      "q": "Jak dlouho vydrží selská polévka?",
+      "a": "V lednici 3 dny ve zchlazené uzavřené nádobě. Zamrazit ji nedoporučujeme kvůli bramborám."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "title": "Česneková omáčka z jogurtu",
+  "keywords": [
+    "česneková omáčka",
+    "česneková omáčka recept",
+    "česneková omáčka ke kebabu",
+    "jogurtová česneková omáčka"
+  ],
+  "image": "dish-cesnekova-omacka",
+  "category": "kebab",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "uležení v lednici",
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Česneková omáčka z bílého jogurtu a zakysané smetany je svěží a hustá. Podává se ke kebabu, grilovanému masu a pečené zelenině. Chuť se rozvine po půlhodině v chladu.",
+  "ingredients": [
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisované"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Jogurt a zakysanou smetanu vymíchej v misce do hladka."
+    },
+    {
+      "text": "Přidej prolisovaný česnek, olej, citronovou šťávu, sůl a pepř."
+    },
+    {
+      "text": "Promíchej a ochutnej. Případně dosol."
+    },
+    {
+      "text": "Přikryj a nech 30 minut odležet v lednici, česnek se rozleží a omáčka zhoustne."
+    }
+  ],
+  "tips": [
+    "Česnek prolisuj těsně před mícháním. Příliš dlouho ležící získá ostrou chuť.",
+    "Pro hustší omáčku nech jogurt 30 minut odkapat v sítu.",
+    "V lednici vydrží 2 dny."
+  ],
+  "substitutions": [
+    "Zakysanou smetanu nahraď řeckým jogurtem.",
+    "Citron nahraď kapkou octa.",
+    "Pro ostřejší verzi přidej špetku chilli vloček."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží česneková omáčka?",
+      "a": "V lednici zakrytá 2 až 3 dny."
+    },
+    {
+      "q": "Čím se liší česneková omáčka od česnekového dipu?",
+      "a": "Je z jogurtu a zakysané smetany, bez majonézy, takže je lehčí."
+    },
+    {
+      "q": "Jak ztlumit ostrou chuť česneku?",
+      "a": "Použij méně stroužků nebo je nech chvíli v citronové šťávě, než je smícháš s jogurtem."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Trdelník s ořechy",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Kynuté a smažené",
+  "description": "Kynutý trdelník z trouby, obalený v karamelizovaném cukru se skořicí a vlašskými ořechy.",
+  "about": [
+    "Trdelník voní po skořici a cukru, které se na válci změní v křupavou karamelovou krustu. Uvnitř je měkký, máslový a ještě vlažný, ať už ho jíš z papírového kornoutu, nebo z talíře.",
+    "Cukrárna Koláč na slib ho ukazuje ve výloze, ale válec se tu nikdy nezahřeje. Recept je ale skutečný: kynuté těsto, alobalový válec a 25 minut pečení, aby ses mohl postavit na vlastní stánek."
+  ],
+  "price": 8900,
+  "image": "dish-trdelnik-na-slib",
+  "recipe": "trdelnik",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "order": 500
+}

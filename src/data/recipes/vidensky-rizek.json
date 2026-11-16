@@ -1,0 +1,120 @@
+{
+  "title": "Vídeňský řízek",
+  "keywords": [
+    "vídeňský řízek",
+    "vídeňský telecí řízek",
+    "telecí řízek",
+    "vídeňský řízek recept"
+  ],
+  "image": "dish-vidensky-rizek",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 10,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek obalených řízků",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Vídeňský řízek je tence naklepaný telecí řízek v jemném obalu, který se smaží v hojném tuku, až se vlní a odstává od masa. Recept na 4 porce trvá asi 45 minut. Obal se nesmí tlačit a řízek se musí smažit při 170 °C, aby byl obal nadýchaný.",
+  "ingredients": [
+    {
+      "ingredient": "teleci-rizek",
+      "amount": 600,
+      "unit": "g",
+      "note": "4 plátky z kýty, 150 g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "rozšlehaná se lžící mléka"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 20,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 120,
+      "unit": "g",
+      "note": "jemná"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 250,
+      "unit": "g",
+      "note": "nebo 500 ml oleje, na smažení"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na konec smažení"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na podávání"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "natě"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Plátky masa rozlož mezi dvě fólie a naklep je na tloušťku asi 4 mm. Osol je z obou stran."
+    },
+    {
+      "text": "Připrav tři talíře: mouku, vejce rozšlehaná s mlékem a strouhanku. Řízek obal v mouce, přebytek setřes, potom ve vejci a nakonec ve strouhance, kterou jen přitiskni, netlač."
+    },
+    {
+      "text": "Obalené řízky nech 10 minut odpočinout, aby se obal držel."
+    },
+    {
+      "text": "Sádlo rozehřej na 170 °C, musí ho být tolik, aby řízek plaval. Smaž 1 řízek najednou 1,5 až 2 minuty z každé strany, pánví pohupuj, aby se tuk přeléval přes řízek a obal se vzdouval do vlnek. Poslední půlminutu přidej máslo."
+    },
+    {
+      "text": "Hotový řízek vyndej na papírovou utěrku, aby okapal. Podávej hned s citronem, petrželkou a bramborovým salátem."
+    }
+  ],
+  "tips": [
+    "Pánví při smažení pohupuj, tuk se přeléváním dostává pod obal a řízek se vlní.",
+    "Strouhanku nedávej na řízek tlakem. Přitlačená se nevzdouvá.",
+    "Tuk musí mít 170 °C. Pokud je studenější, obal nasákne, pokud je moc horký, ztmavne dřív než maso."
+  ],
+  "substitutions": [
+    "Telecí maso nahradíš vepřovou kýtou, vznikne klasický vepřový řízek.",
+    "Sádlo nahradíš olejem se špetkou másla.",
+    "Strouhanku nahradíš jemnou strouhanou houskou."
+  ],
+  "faq": [
+    {
+      "q": "Z jakého masa je vídeňský řízek?",
+      "a": "Pravý vídeňský řízek je telecí, z kýty. V Česku se dělá i z vepřového."
+    },
+    {
+      "q": "Proč se obal vlní?",
+      "a": "Obal se při smažení oddělí od masa, pokud je řízek v dost horkém tuku a tuk se přeléváním dostává pod strouhanku. Strouhanku ani maso netlač."
+    },
+    {
+      "q": "Při jaké teplotě smažit vídeňský řízek?",
+      "a": "Při 170 °C, ne vyšší. Teploměr pomůže, jinak kousek strouhanky ihned vyplave a zasyčí."
+    }
+  ]
+}

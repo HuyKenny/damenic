@@ -1,0 +1,113 @@
+{
+  "title": "Šneky z listového těsta se skořicí",
+  "keywords": [
+    "šneky z listového těsta",
+    "šneky z listového těsta se skořicí",
+    "listové šneky",
+    "sladké šneky z listového těsta"
+  ],
+  "image": "dish-sneky-z-listoveho-testa-vitrina",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 20,
+  "waitMinutes": 20,
+  "waitLabel": "chlazení rolky",
+  "difficulty": "snadné",
+  "meal": "pecivo",
+  "intro": "Šneky z listového těsta jsou nejrychlejší sladké pečivo: jedna role těsta, skořicový cukr a hrstka rozinek. Vyjde 12 šneků a trvá to s chlazením necelou hodinu. Aby se při krájení netrhaly, rolku před nakrájením na 20 minut zchlaď.",
+  "ingredients": [
+    {
+      "ingredient": "listove-testo",
+      "amount": 275,
+      "unit": "g",
+      "note": "1 role, vychlazená"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 7,
+      "unit": "g",
+      "note": "asi 1 lžíce"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na potření"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na potření"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 190 °C (horkovzduch 180 °C) a plech vyloži pečicím papírem. Těsto rozbal a nech 5 minut stát, aby se nelámalo."
+    },
+    {
+      "text": "Těsto potři rozpuštěným máslem a posyp cukrem smíchaným se skořicí. Rozinky rozděl po povrchu a lehce přitlač dlaní."
+    },
+    {
+      "text": "Těsto pevně stoč podél delší strany do rolky a zabal ji do fólie. Dej na 20 minut do mrazáku, aby ztuhla."
+    },
+    {
+      "text": "Rolku nakrájej ostrým nožem na plátky silné asi 2 cm a rozlož je na plech s rozestupy 3 cm. Potři rozšlehaným vejcem s mlékem."
+    },
+    {
+      "text": "Peč 18 až 20 minut, dokud nejsou šneky zlatě hnědé a vykynuté. Ještě teplé posyp moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Rolku krájej zubatým nožem bez tlaku, aby se šneky nesplácly.",
+    "Cukr se na plechu karamelizuje a přilepí, proto vždy použij pečicí papír.",
+    "Chceš-li lesklejší povrch, potři šneky po pečení lehce rozpuštěným máslem se lžící cukru."
+  ],
+  "substitutions": [
+    "Rozinky nahraď nasekanými vlašskými ořechy nebo kousky čokolády.",
+    "Skořici můžeš nahradit mletým makem smíchaným s cukrem.",
+    "Místo vejce na potření můžeš použít jen mléko, povrch bude matnější."
+  ],
+  "faq": [
+    {
+      "q": "Dá se těsto dělat bez mrazáku?",
+      "a": "Dá se, rolka pak ale musí do lednice na 45 minut, jinak se šneky při krájení rozplácnou."
+    },
+    {
+      "q": "Jak dlouho vydrží šneky z listového těsta?",
+      "a": "Nejlepší jsou v den pečení. V uzavřené krabičce zůstanou křupavé dva dny, pak změknou."
+    },
+    {
+      "q": "Proč mi šneky nevyrostly?",
+      "a": "Těsto bylo teplé nebo se do něj při krájení tlačilo. Listové těsto roste díky studenému máslu mezi vrstvami."
+    },
+    {
+      "q": "Mohu je péct z domácího listového těsta?",
+      "a": "Ano, platí stejné časy. Domácí těsto má být před rozvinutím dobře vychlazené."
+    }
+  ]
+}

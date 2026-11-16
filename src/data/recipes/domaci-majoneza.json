@@ -1,0 +1,90 @@
+{
+  "title": "Domácí majonéza",
+  "keywords": [
+    "domácí majonéza",
+    "majonéza recept",
+    "jak udělat majonézu",
+    "majonéza z vajec"
+  ],
+  "image": "dish-domaci-majoneza",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "omacka",
+  "intro": "Domácí majonéza je emulze vajec, oleje a hořčice. Aby se nesrazila, musí mít všechny suroviny pokojovou teplotu a olej se přidává nejdřív po kapkách. Díky čerstvým vejcím je chuťově jemnější než kupovaná.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "čerstvé, pokojové teploty"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 250,
+      "unit": "ml",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce, hořčici, sůl a polovinu citronové šťávy dej do vysoké nádoby, kam se vejde tyčový mixér."
+    },
+    {
+      "text": "Mixér přitlač ke dnu nádoby, zapni a po lžičkách přidej první čtvrtinu oleje. Směs začne houstnout."
+    },
+    {
+      "text": "Zbytek oleje přilévej v tenkém pramínku a mixér pomalu zvedej, aby se olej zapracoval."
+    },
+    {
+      "text": "Dochuť solí a zbylou citronovou šťávou. Majonéza musí být hustá a lesklá."
+    },
+    {
+      "text": "Přendej do čisté nádoby a uchovej v lednici."
+    }
+  ],
+  "tips": [
+    "Používej výhradně čerstvá vejce od ověřeného zdroje. Pro děti, těhotné a seniory ji raději nedělej nebo použij pasterizované vejce.",
+    "Hotová majonéza vydrží v lednici nejdéle 3 dny.",
+    "Když se sráží, vyšlehej v čisté nádobě nové vejce a po kapkách do něj vlévej sraženou směs."
+  ],
+  "substitutions": [
+    "Slunečnicový olej nahraď řepkovým, chuť bude jemnější.",
+    "Citronovou šťávu nahraď bílým octem.",
+    "Pro chutnější verzi přidej prolisovaný stroužek česneku."
+  ],
+  "faq": [
+    {
+      "q": "Proč se mi majonéza srazila?",
+      "a": "Olej se přidal příliš rychle nebo byly suroviny studené. Zkus nové vejce a do něj po kapkách přilít sraženou směs."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí majonéza?",
+      "a": "V lednici v uzavřené nádobě nejdéle 3 dny, protože obsahuje syrové vejce."
+    },
+    {
+      "q": "Dá se majonéza udělat bez vajec?",
+      "a": "Ano, z mléka nebo aquafaby, ale je to jiný postup a jiný recept."
+    }
+  ]
+}

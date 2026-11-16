@@ -1,0 +1,24 @@
+{
+  "name": "Vídeňský řízek",
+  "restaurant": "hostinec-za-hranici-nic",
+  "kind": "main",
+  "section": "Polsko a Rakousko",
+  "description": "Telecí řízek v lehkém zlatém obalu, který se vlní, s citronem a petrželkou.",
+  "about": [
+    "Vídeňský řízek se pozná podle obalu: lehkého, zlatého a vlnitého, který od masa odstává jako sukýnka. Dělá se z tence naklepaného telecího, krátce se smaží a podává s citronem. Tajemství je v tuku, který musí být dost horký a dost hluboký.",
+    "Hostinec Za hranicí Nic leží smyšleně někde mezi Vídní a Varšavou a nic nenosí. Ale tvůj řízek na pánvi bude skutečný a obal vyskočí, když budeš pánví pohupovat."
+  ],
+  "price": 31900,
+  "image": "dish-vidensky-rizek",
+  "recipe": "vidensky-rizek",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 90
+}

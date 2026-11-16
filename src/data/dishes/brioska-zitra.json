@@ -1,0 +1,23 @@
+{
+  "name": "Brioška máslová",
+  "restaurant": "pekarna-zitra-upecem",
+  "kind": "main",
+  "section": "Sladké kynuté",
+  "description": "Máslový kynutý chlebíček s lesklou zlatou kůrkou a jemnou, trhavou střídou.",
+  "about": [
+    "Brioška je pečivo, které se nemusí malovat marmeládou, protože ji nese samo v sobě: máslo, vejce a mléko. Střída se trhá do dlouhých vláken, kůrka je zlatá a vonící.",
+    "Pekárna Zítra upečem ji ukazuje v čerstvé podobě, a zítra ji znovu slíbí. Doma upečeš celý bochník za jedno odpoledne a máslo si zapamatuješ na dlouho."
+  ],
+  "price": 11900,
+  "image": "dish-brioska-zitra",
+  "recipe": "brioska",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 500
+}

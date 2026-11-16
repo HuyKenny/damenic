@@ -1,0 +1,132 @@
+{
+  "title": "Hlívová polévka",
+  "keywords": [
+    "hlívová polévka",
+    "polévka z hlívy ústřičné",
+    "hlíva ústřičná polévka",
+    "hlívová polévka se smetanou"
+  ],
+  "image": "dish-hlivova-polevka",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Hlívová polévka ze smetany, brambor a hlívy ústřičné je jemná houbová polévka bez sušených hub. Hlíva se nejdřív opeče na pánvi do zlatova, jinak by zůstala slizká a polévce by chyběla chuť.",
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "hliva-ustricova",
+      "amount": 400,
+      "unit": "g",
+      "note": "na proužky"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 800,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "g",
+      "note": "mletý"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nať"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hlívu očisti suchým hadříkem, nemoč ji. Tvrdé konce odkroj a rozdělej ji na proužky. Rozehřej pánev s olejem a hlívu opékej na vyšší teplotě po dávkách 5 minut do zlatova, aby se nedusila."
+    },
+    {
+      "text": "V hrnci rozpusť máslo a na středním plameni restuj cibuli 3 minuty. Přidej brambory, kmín a česnek a 2 minuty míchej."
+    },
+    {
+      "text": "Přidej polovinu opečené hlívy, zalij vývarem a osol. Vař pod pokličkou 15 minut, dokud brambory nejsou měkké."
+    },
+    {
+      "text": "Polévku ponorným mixérem částečně rozmixuj, aby zůstaly drobné kousky houby. Přidej zbytek opečené hlívy."
+    },
+    {
+      "text": "Vmíchej smetanu a majoránku, krátce prohřej bez varu a dochuť pepřem a solí. Podávej s petrželkou."
+    }
+  ],
+  "tips": [
+    "Hlíva pustí hodně vody. Opékej ji ve velké pánvi a po malých dávkách, jinak se dusí, ne opéká.",
+    "Vždy ji nejdřív očisti, ne umývej. Pod vodou nasákne a ztratí chuť.",
+    "Hotová polévka je lepší druhý den, když se chutě spojí."
+  ],
+  "substitutions": [
+    "Smetanu nahraď ovesným nápojem nebo kokosovým mlékem pro polévku bez mléka (máslo nahraď olejem).",
+    "Hlívu lze nahradit žampiony nebo kombinací hub.",
+    "Brambor můžeš vynechat a polévku zahustit lžící ovesných vloček."
+  ],
+  "faq": [
+    {
+      "q": "Je hlíva ústřičná jedlá a co s ní?",
+      "a": "Ano, je to pěstovaná i divoká jedlá houba. Na polévku ji nakrájej na proužky a opeč, nejí se syrová."
+    },
+    {
+      "q": "Jak dlouho se vaří hlívová polévka?",
+      "a": "Asi 15 minut po přidání vývaru. Hlíva je měkká, jakmile je opečená, delší vaření chuť jen rozmělní."
+    },
+    {
+      "q": "Dá se hlívová polévka zamrazit?",
+      "a": "Ano, bez smetany asi 2 měsíce. V lednici vydrží 3 dny."
+    }
+  ]
+}

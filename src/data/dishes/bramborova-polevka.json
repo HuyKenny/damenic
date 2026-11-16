@@ -1,0 +1,42 @@
+{
+  "name": "Bramborová polévka s houbami",
+  "section": "Hustší",
+  "price": 9900,
+  "recipe": "bramborova-polevka",
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "order": 230,
+  "description": "Brambory, kořenová zelenina a sušené houby s majoránkou.",
+  "about": [
+    "Bramboračka voní po lese, protože sušené houby se namáčejí a jejich voda se vrací do hrnce. Česnek a majoránka přijdou až na konec, aby to cítil i soused.",
+    "Zahuštění jíškou z lžíce mouky je tajemství hustoty. My ti polévku nepošleme, ale hrnec, který ji uvaří, určitě máš."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "lzice-zitra",
+  "image": "dish-bramborova-polevka",
+  "allergens": [
+    1,
+    9
+  ]
+}

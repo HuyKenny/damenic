@@ -1,0 +1,20 @@
+{
+  "name": "Gratinované brambory se smetanou",
+  "restaurant": "peceni-na-priste",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Tenké plátky brambor zapečené ve smetaně s česnekem a eidamem do zlatavé kůrky.",
+  "about": [],
+  "price": 8900,
+  "image": "dish-gratinovane-brambory",
+  "recipe": "gratinovane-brambory",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 900
+}

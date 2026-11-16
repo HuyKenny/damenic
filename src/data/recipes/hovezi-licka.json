@@ -1,0 +1,147 @@
+{
+  "title": "Hovězí líčka na červeném víně",
+  "keywords": [
+    "hovězí líčka",
+    "hovězí líčka na víně",
+    "dušená hovězí líčka",
+    "hovězí líčka recept"
+  ],
+  "image": "dish-hovezi-licka",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 180,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Hovězí líčka jsou jedno z nejměkčích dušených mas, když se nechají dost dlouho na mírném ohni. Recept pro 4 osoby počítá s červeným vínem, kořenovou zeleninou a třemi hodinami v troubě při 150 °C. Líčka jsou hotová, když se rozpadají na vidličce.",
+  "alcohol": true,
+  "ingredients": [
+    {
+      "ingredient": "hovezi-licka",
+      "amount": 1000,
+      "unit": "g",
+      "note": "očištěná od blan, celá"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "na čtvrtky"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kousky"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vino-cervene",
+      "amount": 300,
+      "unit": "ml",
+      "note": "suché"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na zjemnění omáčky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 150 °C. Líčka osuš, osol, opepři a lehce zaprášit moukou."
+    },
+    {
+      "text": "Na oleji v pekáči nebo hrnci vhodném do trouby je opeč po dvou až třech minutách z každé strany do tmavě hnědé barvy. Vyndej na talíř."
+    },
+    {
+      "text": "V tom samém tuku opékej cibuli, mrkev a celer 5 minut, přidej česnek a protlak a smaž další minutu."
+    },
+    {
+      "text": "Podlij vínem, přiveď k varu a vař 3 minuty, přitom seškrábni připečeniny. Přidej vývar, tymián a bobkový list, vrať líčka (měla by být skoro zakrytá) a přikryj."
+    },
+    {
+      "text": "Peč v troubě 2 hodiny 45 minut až 3 hodiny, jednou po hodině a půl je obrať. Hotová jsou, když do nich vidlička vjede bez odporu."
+    },
+    {
+      "text": "Líčka vyndej a omáčku přeceď nebo rozmixuj, případně zredukuj na polovinu na velkém ohni. Zjemni máslem, dochuť solí a polij maso."
+    }
+  ],
+  "tips": [
+    "Blány a tuk na líčkách nech jen tenkou vrstvu. Tvrdé blány se nerozdusí a zůstanou gumové.",
+    "Líčka dusíš pod pokličkou a na stálé teplotě. Při varu by se vlákna stáhla a maso by bylo suché.",
+    "Podávej na bramborové kaši nebo celerovém pyré, omáčka se k nim hodí."
+  ],
+  "substitutions": [
+    "Nealko varianta: víno nahraď 300 ml hroznového moštu smíchaného s 2 lžícemi vinného octa.",
+    "Místo hovězích líček použij hovězí žebra nebo plec, plec potřebuje podobnou dobu.",
+    "Hovězí vývar můžeš nahradit vodou a vývarovou kostkou, ale vývar z kostí dá omáčce hlubší chuť."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se dusí hovězí líčka?",
+      "a": "Při 150 °C v troubě nebo na velmi mírném ohni asi 2 hodiny 45 minut až 3 hodiny. Čas se řídí hmotností líček, hotová jsou, když se rozpadají."
+    },
+    {
+      "q": "Musí se hovězí líčka předem namáčet?",
+      "a": "Ne. Stačí je očistit od silných blan, osušit a opéct. Namáčení se u hovězích líček nedělá."
+    },
+    {
+      "q": "Dají se hovězí líčka zmrazit?",
+      "a": "Ano, i s omáčkou. V mrazáku vydrží do 3 měsíců, rozmrazuj je přes noc v lednici a prohřej v hrnci na mírném ohni."
+    }
+  ]
+}

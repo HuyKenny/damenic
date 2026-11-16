@@ -1,0 +1,43 @@
+{
+  "name": "Pohanková kaše s banánem",
+  "section": "Kaše a sladké",
+  "price": 9900,
+  "recipe": "pohankova-kase",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 120,
+  "description": "Pohanka na mléce s banánem, ořechy a medem.",
+  "about": [
+    "Pohanka se vaří čtvrt hodiny a pak se nechá odstát pod pokličkou. Je sytá a oříšková.",
+    "Budík zazvonil, ale nikdo nevstal. Kaše je skutečná, jen se musí uvařit ručně."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "odlozeny-budik",
+  "image": "dish-pohankova-kase",
+  "allergens": [
+    1,
+    7,
+    8
+  ]
+}

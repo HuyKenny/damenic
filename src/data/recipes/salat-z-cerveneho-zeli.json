@@ -1,0 +1,99 @@
+{
+  "title": "Salát z červeného zelí",
+  "keywords": [
+    "salát z červeného zelí",
+    "červené zelí salát",
+    "červené zelí syrové salát",
+    "salát z červeného zelí s jablkem"
+  ],
+  "image": "dish-salat-z-cerveneho-zeli-talir",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "odležení ve zálivce",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Salát z červeného zelí je syrový křupavý salát s jablkem, octem a olejem. Zelí je tuhé, takže se musí nakrájet velmi jemně a krátce promnout se solí a octem. Ještě lepší je nechat salát 30 minut odležet.",
+  "ingredients": [
+    {
+      "ingredient": "zeli-cervene",
+      "amount": 400,
+      "unit": "g",
+      "note": "půlka menší hlávky"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 1,
+      "unit": "ks",
+      "note": "kyselé, na tenké plátky"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "jablečný nebo vinný"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "nepovinně"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zelí zbav vnějších listů a řapíku a nakrájej co nejjemněji nožem nebo struhadlem na hrubo. Tenké nudličky jsou jemnější."
+    },
+    {
+      "text": "Zelí posyp 0,5 lžičky soli a 1 lžičkou cukru a 2 minuty energicky prohněť rukama, aby změklo a pustilo šťávu."
+    },
+    {
+      "text": "Jablko nakrájej na tenké plátky nebo nastrouhej. Přidej ho k zelí, zalij 2 lžícemi octa a 3 lžícemi oleje a promíchej."
+    },
+    {
+      "text": "Salát nech 30 minut odležet, ať se prostoupí. Před podáváním ještě promíchej a dochuť."
+    }
+  ],
+  "tips": [
+    "Kapka octa udrží zelí zářivě fialové. Bez kyseliny zmodrá.",
+    "Z čerstvého zelí je salát lepší než z jednodenního, to totiž může zhnědnout.",
+    "Přidej hrst vlašských ořechů nebo rozinek, salát bude sytější."
+  ],
+  "substitutions": [
+    "Jablko nahradíš hruškou nebo mrkví.",
+    "Olej slunecnicový lze nahradit olivovým.",
+    "Cukr nahradíš medem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží salát z červeného zelí?",
+      "a": "V lednici vydrží 2 až 3 dny. Zelí stále křupe, ale pustí šťávu."
+    },
+    {
+      "q": "Musí se červené zelí na salát vařit?",
+      "a": "Ne. Používá se syrové, jen se jemně nakrájí a promne se se solí a octem, aby změklo."
+    },
+    {
+      "q": "Proč se červené zelí barví do modra?",
+      "a": "Barvivo v zelí reaguje na kyselost. V kyselém prostředí je červené, v zásaditém modré. Ocet nebo citron tedy udrží barvu."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "title": "Domácí hamburger",
+  "keywords": [
+    "hamburger recept",
+    "domácí hamburger",
+    "hamburger z mletého masa",
+    "hamburger bez sýra"
+  ],
+  "image": "dish-hamburger",
+  "category": "burgery",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 10,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek mletého masa v lednici",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Hamburger z čistého mletého hovězího, osmaženého na pánvi do propečena, v teplé housce se salátem a nakládanou okurkou. Do hamburgeru patří maso a pár dobrých doplňků, ne sýr, který je v cheeseburgeru. Recept dělá 4 hamburgery, trvá 50 minut a mleté maso musí být uvnitř propečené na 71 °C.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 600,
+      "unit": "g",
+      "note": "s tukem kolem 15 až 20 %"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bulky-burger",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na opečení housek"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "ledovy-salat",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "listy"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 160,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 80,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mleté hovězí rozděl na 4 díly po 150 g, lehce je ztvaruj do kulatých placek o průměru 11 cm a ve středu udělej palcem důlek, aby se při smažení nezvedly. Maso netlač. Hotové placky dej na 15 minut do lednice."
+    },
+    {
+      "text": "Pánev rozehřej na vysokém ohni s lžící oleje. Placky osol a opepři až z vrchu před smažením."
+    },
+    {
+      "text": "Smaž 4 až 5 minut z jedné strany a 3 až 4 minuty z druhé, dokud uvnitř nemá maso 71 °C a šťáva není čirá. Nemačkej je."
+    },
+    {
+      "text": "V suché pánvi opeč rozříznuté housky na másle 1 až 2 minuty, aby se zlatě ohřály."
+    },
+    {
+      "text": "Na spodní díl housky dej kečup s hořčicí, salát, rajče, hamburger, okurku a kolečka cibule. Přikryj vrchním dílem a hned podávej."
+    }
+  ],
+  "tips": [
+    "Maso nepřehnětej. Čím víc se mačká, tím je hamburger tvrdší a sušší.",
+    "Tuk v mletém mase je důležitý. Libové maso pod 10 % tuku dává suchý hamburger.",
+    "Placky můžeš ztvarovat den předem, mezi vrstvy dej pečicí papír a nech je v lednici zakryté."
+  ],
+  "substitutions": [
+    "Hovězí můžeš smíchat napůl s mletým vepřovým, bude šťavnatější.",
+    "Místo kupovaných housek se hodí kaiserky nebo domácí bulky.",
+    "Bezlepková varianta: použij bezlepkové housky nebo salátové listy místo pečiva."
+  ],
+  "faq": [
+    {
+      "q": "Jaké maso se hodí na hamburger?",
+      "a": "Mleté hovězí s 15 až 20 % tuku, nejlépe z plece nebo z krku. Libové maso bývá suché."
+    },
+    {
+      "q": "Při jaké teplotě je hamburger hotový?",
+      "a": "Mleté maso musí uvnitř dosáhnout 71 °C. Hamburger nikdy nejez růžový nebo syrový."
+    },
+    {
+      "q": "Jaký je rozdíl mezi hamburgerem a cheeseburgerem?",
+      "a": "Cheeseburger je hamburger s plátkem rozpuštěného sýra na masové placce. Hamburger je bez sýra."
+    }
+  ]
+}

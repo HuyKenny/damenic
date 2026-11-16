@@ -1,0 +1,101 @@
+{
+  "title": "Šťouchané brambory s cibulkou",
+  "keywords": [
+    "šťouchané brambory",
+    "šťouchané brambory recept",
+    "šťouchané brambory s cibulkou",
+    "brambory šťouchané s máslem"
+  ],
+  "image": "dish-stouchane-brambory",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Šťouchané brambory jsou uvařené brambory ve slupce, nahrubo rozšťouchané s máslem a osmaženou cibulkou. Na rozdíl od kaše mají zůstat s kousky, takže se hodí voskovité brambory a šťouchadlo místo mixéru.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 1000,
+      "unit": "g",
+      "note": "voskovité, nejlépe stejně velké"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "do vody"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do vody, nepovinné"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na jemno"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Neloupané brambory dej do hrnce, zalij studenou vodou a přidej sůl a kmín. Přiveď k varu a vař 20 až 25 minut, dokud se nedají snadno nabodnout vidličkou."
+    },
+    {
+      "text": "Mezitím na oleji osmaž nakrájenou cibuli na středním plameni 8 až 10 minut do zlatova, občas zamíchej."
+    },
+    {
+      "text": "Brambory slij, nech odpařit 2 minuty a oloupej je. Nejsnáze to jde, dokud jsou teplé, přidrž je vidličkou a slupku stáhni nožem."
+    },
+    {
+      "text": "V hrnci je šťouchadlem nahrubo rozmačkej s máslem a polovinou osmažené cibule. Nemíchej dlouho, má zůstat s kousky."
+    },
+    {
+      "text": "Dochuť solí a pepřem a podávej se zbytkem cibulky navrchu."
+    }
+  ],
+  "tips": [
+    "Brambory vař ve slupce, nenasáknou vodou a zůstanou chuťově silnější.",
+    "Šťouchadlem nebo vidličkou, nikdy mixérem. Ten uvolní škrob a brambory budou lepivé.",
+    "Na plnější chuť přidej k cibuli 80 g nakrájené slaniny."
+  ],
+  "substitutions": [
+    "Máslo nahraď 3 lžícemi olivového oleje, přílohu to udělá lehčí.",
+    "Místo cibulky použij osmažený česnek nebo jarní cibulku.",
+    "Pro variantu s kousky slaniny osmaž 80 g slaniny a přimíchej ji až nakonec."
+  ],
+  "faq": [
+    {
+      "q": "Jaké brambory se hodí na šťouchané brambory?",
+      "a": "Voskovité, které drží tvar. Moučné se rozpadnou na kaši a vodnatější zůstanou pevné."
+    },
+    {
+      "q": "Čím se šťouchané brambory liší od bramborové kaše?",
+      "a": "Šťouchané zůstávají nahrubo, s kousky, bez mléka. Kaše je hladká, vyšlehaná s mlékem a máslem."
+    },
+    {
+      "q": "Dají se šťouchané brambory ohřát?",
+      "a": "Ano, na pánvi s lžící oleje 5 minut. Projdou i trochou křupavé kůrky, ale prohřej je vždy do horka."
+    }
+  ]
+}

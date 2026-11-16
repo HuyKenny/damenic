@@ -1,0 +1,41 @@
+{
+  "name": "Rajčatová polévka s bazalkou",
+  "section": "Polévky",
+  "price": 8900,
+  "recipe": "rajcatova-polevka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 230,
+  "description": "Polévka z čerstvých rajčat a passaty s bazalkou.",
+  "about": [
+    "Rajčata a mrkev vaří dohromady, aby kyselost zjemněla, a smetana se přidává až mimo oheň, aby se nesrazila. Bazalka na závěr dělá z polévky letní stůl.",
+    "Krutony ti nepošleme, ale rajčatovou polévku si uvaříš za 40 minut. Naběračka je prázdná, kuchyně ne."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "prazdna-naberacka",
+  "image": "dish-rajcatova-polevka",
+  "allergens": [
+    7
+  ]
+}

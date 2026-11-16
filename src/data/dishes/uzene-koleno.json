@@ -1,0 +1,23 @@
+{
+  "name": "Uzené koleno s křenem",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Vařené uzené koleno podávané s křenem, hořčicí a krajícem chleba.",
+  "about": [
+    "Uzené koleno je spíž českých hospod: velký kus uzeného masa s kostí, vařený pomalu a podávaný s křenem, hořčicí a chlebem. Maso zrůžovělé od uzení je vláčné a slané, a proto nepotřebuje nic složitého.",
+    "Vycep Zítra ho nabídne bez prodlení nanečisto. Doma ho koupíš u řezníka, namočíš přes noc, uvaříš a naporcuješ. Hořčice a křen k tomu patří."
+  ],
+  "price": 29900,
+  "image": "dish-uzene-koleno",
+  "recipe": "uzene-koleno",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    10
+  ],
+  "order": 80
+}

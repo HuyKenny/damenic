@@ -1,0 +1,141 @@
+{
+  "title": "Šoulet",
+  "keywords": [
+    "šoulet",
+    "šoulet recept",
+    "šoulet z kroupy a fazolí",
+    "pečený šoulet v troubě"
+  ],
+  "image": "dish-soulet",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 30,
+  "cookMinutes": 240,
+  "waitMinutes": 720,
+  "waitLabel": "namáčení fazolí přes noc",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Šoulet je pomalu pečená směs kroupy, fazolí a uzeného masa, která se v troubě dělá 4 hodiny na mírné teplotě. Fazole se musí den předem namočit a předvařit, jinak zůstanou tvrdé. Výsledek je hustý, tmavý a voní po uzeném a česneku.",
+  "ingredients": [
+    {
+      "ingredient": "fazole-bile",
+      "amount": 250,
+      "unit": "g",
+      "note": "suché"
+    },
+    {
+      "ingredient": "kroupy",
+      "amount": 200,
+      "unit": "g",
+      "note": "střední"
+    },
+    {
+      "ingredient": "uzene-maso",
+      "amount": 400,
+      "unit": "g",
+      "note": "na větší kusy"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "nahrubo"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 5,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "g",
+      "note": "mletý"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "horká"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Večer předtím fazole zalij 1 litrem studené vody a nech 10 až 12 hodin namáčet. Kroupy namoč na 1 hodinu před vařením."
+    },
+    {
+      "text": "Namočené fazole slij, zalij čerstvou vodou, přiveď k varu a vař 10 minut do předvaření. Pak je slij, protože syrové nebo málo vařené fazole obsahují látky, které způsobují potíže."
+    },
+    {
+      "text": "Troubu předehřej na 140 °C (horkovzduch 130 °C). Ve velkém pekáči nebo litinovém hrnci s poklicí rozehřej olej a restuj cibuli 4 minuty."
+    },
+    {
+      "text": "Přidej fazole, odkapané kroupy, uzené maso, česnek, papriku, kmín, majoránku, bobkový list a sůl. Zalij horkou vodou, aby byly suroviny ponořené asi 2 cm."
+    },
+    {
+      "text": "Přikryj pokličkou nebo alobalem a peč 4 hodiny. Po 2 hodinách zkontroluj a případně dolij horkou vodu."
+    },
+    {
+      "text": "Šoulet je hotový, až jsou fazole i kroupy zcela měkké a hustota připomíná rizoto. Maso vyndej, nakrájej a vrať zpět."
+    },
+    {
+      "text": "Dochuť pepřem a soli a nech 10 minut odpočinout, než ho podáš."
+    }
+  ],
+  "tips": [
+    "Sůl nedávej před namáčením fazolí a do předvaření, mohou zůstat tvrdé. Soli až do pekáče.",
+    "Šoulet se dá vařit i v hrnci na plotně na nejnižším plameni stejně dlouho, jen musíš míchat a hlídat, aby se nepřipálil.",
+    "Druhý den je lepší, zatuhne a dá se ohřívat na pánvi."
+  ],
+  "substitutions": [
+    "Uzené maso lze nahradit uzeným tofu a olejem pro vegetariánskou verzi.",
+    "Kroupy se dají nahradit pohankou, vaří se jen 30 minut, dej ji až později.",
+    "Mletá sladká paprika může být smíchána s špetkou pálivé."
+  ],
+  "faq": [
+    {
+      "q": "Dá se šoulet dělat bez namáčení fazolí?",
+      "a": "Dá, ale je třeba je předvařit 10 minut a pak vařit o hodinu déle. Namáčení přes noc je jistější."
+    },
+    {
+      "q": "Jak dlouho se peče šoulet?",
+      "a": "Asi 4 hodiny při 140 °C. Fazole a kroupy musí být zcela měkké."
+    },
+    {
+      "q": "Jak dlouho vydrží šoulet v lednici?",
+      "a": "3 až 4 dny ve zchlazené uzavřené nádobě. Zamrazit ho můžeš až na 3 měsíce."
+    }
+  ]
+}

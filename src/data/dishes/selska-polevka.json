@@ -1,0 +1,41 @@
+{
+  "name": "Selská polévka s uzeným",
+  "section": "Hustší",
+  "price": 10900,
+  "recipe": "selska-polevka",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 240,
+  "description": "Hustá polévka s uzeným masem, bramborami a kmínem.",
+  "about": [
+    "Selská polévka je hustá jako rozhodnutí. Slanina se opéká do zlatova, uzené dodá vůni a polovina brambor se rozmačká, aby zhoustla bez mouky.",
+    "Je to jídlo na vesnickou neděli. Do tvého stolu ho nedovezeme, ale postup zvládneš za půl hodiny."
+  ],
+  "optionGroups": [
+    {
+      "id": "velikost",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "mensi",
+          "name": "Menší",
+          "priceDelta": -2000
+        },
+        {
+          "id": "klasicka",
+          "name": "Klasická",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "kind": "main",
+  "restaurant": "lzice-zitra",
+  "image": "dish-selska-polevka",
+  "allergens": [
+    9
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "title": "Zeleninová polévka",
+  "keywords": [
+    "zeleninová polévka",
+    "domácí zeleninová polévka",
+    "zeleninová polévka s bramborem",
+    "polévka ze zeleniny"
+  ],
+  "image": "dish-zeleninova-polevka",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Zeleninová polévka z kořenové zeleniny, brambor a hrášku se vaří půl hodiny a je lepší, když zeleninu nejdřív orestuješ. Chuť dodá zeleninový vývar, majoránka a špetka kmínu, ne žádné koncentráty.",
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 250,
+      "unit": "g",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "por",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 1500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "g",
+      "note": "sušená"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nať"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej olej a na středním plameni 3 minuty restuj cibuli, dokud nezesklovatí a nezačne vonět."
+    },
+    {
+      "text": "Přidej mrkev, petržel, celer a por a 5 minut je za občasného míchání opékej, aby se zeleninová chuť zesílila."
+    },
+    {
+      "text": "Vsyp brambory, přilij vývar, přidej bobkový list a polovinu soli a přiveď k varu. Stáhni plamen a vař pod pokličkou 15 až 20 minut, dokud brambory a mrkev nejsou měkké."
+    },
+    {
+      "text": "Pět minut před koncem vlož hrášek, česnek a majoránku. Bobkový list vyndej."
+    },
+    {
+      "text": "Dosol, popřípadě opepři a podávej posypané petrželkou. Polévka může zůstat v kouscích, nebo ji lehce rozmačkej paličkou, aby zhoustla."
+    }
+  ],
+  "tips": [
+    "Zeleninu krájej na stejně velké kostky, uvaří se rovnoměrně.",
+    "Část brambor rozmačkej v hrnci paličkou: polévka zhoustne bez mouky a zahušťování.",
+    "Druhý den je chuť plnější, polévka dobře odleží v lednici."
+  ],
+  "substitutions": [
+    "Místo mraženého hrášku dej fazolky nebo kousek kedlubny.",
+    "Zeleninový vývar můžeš nahradit vodou a přidat o půl lžíce soli a lžičku sušené zeleniny navíc.",
+    "Pro vydatnější verzi vlož do hotové polévky 100 g uvařené čočky nebo drobných nudlí."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří zeleninová polévka?",
+      "a": "Po přivedení k varu asi 15 až 20 minut. Zelenina má být měkká, ale ne rozvařená."
+    },
+    {
+      "q": "Dá se zeleninová polévka zamrazit?",
+      "a": "Ano, ale bez brambor, které po rozmrazení zrnitějí. Bez nich vydrží v mrazáku asi 3 měsíce. V lednici vydrží 3 dny."
+    },
+    {
+      "q": "Čím zahustit zeleninovou polévku?",
+      "a": "Rozmačkej část uvařené zeleniny nebo brambor přímo v hrnci. Můžeš také zasmažit lžíci mouky na lžíci oleje a vmíchat."
+    }
+  ]
+}

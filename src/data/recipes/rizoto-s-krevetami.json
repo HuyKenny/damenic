@@ -1,0 +1,129 @@
+{
+  "title": "Rizoto s krevetami",
+  "keywords": [
+    "rizoto s krevetami",
+    "krevetové rizoto",
+    "rizoto s krevetami a citronem",
+    "risotto s krevetami"
+  ],
+  "image": "dish-rizoto-s-krevetami",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Rizoto s krevetami je krémová rýže arborio vařená na víně a vývaru, doplněná krevetami a citronem. Recept pro 4 osoby trvá 45 minut a vyžaduje trpělivé přilévání vývaru. Krevety se opékají zvlášť a do rýže přijdou až na konci, jinak by byly gumové.",
+  "alcohol": true,
+  "ingredients": [
+    {
+      "ingredient": "ryze-arborio",
+      "amount": 320,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 1100,
+      "unit": "ml",
+      "note": "horký"
+    },
+    {
+      "ingredient": "krevety",
+      "amount": 400,
+      "unit": "g",
+      "note": "loupané, rozmražené a osušené"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "vino-bile",
+      "amount": 120,
+      "unit": "ml",
+      "note": "suché"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "kůra a šťáva"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 3,
+      "unit": "ks",
+      "note": "nasekané natě"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vývar zahřej v samostatném hrnci a nech ho jen těsně pod varem po celou dobu vaření rizota."
+    },
+    {
+      "text": "Krevety osol a opepři. Na 1 lžíci oleje je opékej 1 až 2 minuty z každé strany do růžova a bílé barvy, vyndej a odlož. Nevaříme je dál, dokončí se v rýži."
+    },
+    {
+      "text": "V širokém hrnci rozehřej zbylý olej a polovinu másla, osmahni cibuli 4 minuty do průsvitnosti, přidej česnek na půl minuty a rýži. Míchej 2 minuty, aby rýže byla průsvitná na okrajích."
+    },
+    {
+      "text": "Podlij vínem a míchej, dokud se téměř nevsákne. Pak přilévej vývar po naběračkách a stále míchej, další přilij až když se předchozí vsákne. Trvá to asi 18 až 20 minut a rýže má být vařená al dente."
+    },
+    {
+      "text": "Hrnec stáhni z ohně, vmíchej zbylé máslo, citronovou kůru a šťávu a nech minutu odpočinout. Přidej krevety a petrželku, promíchej a hned podávej."
+    }
+  ],
+  "tips": [
+    "Rizoto nepotřebuje sýr, když v něm jsou krevety. Parmazán s mořskými plody se v Itálii nepodává.",
+    "Vývar musí být horký, jinak se vaření zastaví a rýže se nerozvaří rovnoměrně.",
+    "Rýži před vařením nemyj, ztratí škrob, který dělá rizoto krémové."
+  ],
+  "substitutions": [
+    "Nealko varianta: víno nahraď 120 ml vývaru smíchaného s 1 lžící citronové šťávy.",
+    "Krevety můžeš nahradit kousky bílé ryby nebo mušlemi.",
+    "Zeleninový vývar vyměníš za rybí."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří rizoto?",
+      "a": "Asi 18 až 20 minut po přidání vína a vývaru. Rýže má být uvnitř al dente a mít krémovou omáčku."
+    },
+    {
+      "q": "Kdy přidat krevety do rizota?",
+      "a": "Opečené až na konci, těsně před podáváním. Dlouhým varem by zhoustly a byly gumové."
+    },
+    {
+      "q": "Dá se rizoto s krevetami ohřívat?",
+      "a": "Raději ne. Rýže vsákne vývar a krevety ztvrdnou. Zbytky nech v lednici nejdéle den a ohřej s lžící vody."
+    }
+  ]
+}

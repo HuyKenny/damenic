@@ -1,0 +1,25 @@
+{
+  "name": "Divočák na víně a jalovci",
+  "restaurant": "chata-pristi-sezona",
+  "kind": "main",
+  "section": "Zvěřina",
+  "description": "Divočák marinovaný a dušený s jalovcem, červeným vínem a brusinkami.",
+  "about": [
+    "Divočák je zvěřina s výraznou chutí, která potřebuje marinádu a pomalé dušení. Ve víně a octu s jalovcem a nových koření zjemní, a na talíř přijde s omáčkou, ve které je cítit zelenina i bobule.",
+    "Chata Příští sezona se stará o houby a lesní pokrmy, ale nic nedoveze. Divočáka si doma připravíš den předem, zatímco on marinuje. Je to jídlo na pomalou neděli."
+  ],
+  "price": 32900,
+  "image": "dish-divocak-na-vine",
+  "recipe": "divocak-na-vine",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9,
+    12
+  ],
+  "order": 90
+}

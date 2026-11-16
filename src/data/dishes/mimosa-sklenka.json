@@ -1,0 +1,41 @@
+{
+  "name": "Mimosa",
+  "restaurant": "koktejlbar-prazdna-sklenka",
+  "kind": "main",
+  "section": "Spritzy a long drinky",
+  "description": "Dobře vychlazené prosecco a pomerančový džus v poměru 1 : 1, v hubené sklence na stopce.",
+  "about": [
+    "Mimosa je brunch v jedné sklence: prosecco, pomerančový džus a nic víc. Všechno musí být vychlazené, aby bublinky vydržely až do poslední kapky.",
+    "Vyber si klidně verzi bez alkoholu. Bar je smyšlený a alkohol je jen pro 18+, takže nic nenalijeme. Recept doma ale platí a pomeranče u sousedů taky."
+  ],
+  "price": 15900,
+  "image": "dish-mimosa-sklenka",
+  "recipe": "mimosa",
+  "optionGroups": [
+    {
+      "id": "varianta",
+      "name": "Varianta",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "s-alkoholem",
+          "name": "S alkoholem (jen 18+)",
+          "priceDelta": 0
+        },
+        {
+          "id": "bez-alkoholu",
+          "name": "Bez alkoholu",
+          "priceDelta": -4500
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    12
+  ],
+  "order": 45
+}

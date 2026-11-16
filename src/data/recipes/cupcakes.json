@@ -1,0 +1,142 @@
+{
+  "title": "Cupcakes s krémem",
+  "keywords": [
+    "cupcakes",
+    "cupcakes recept",
+    "domácí cupcakes",
+    "vanilkové cupcakes",
+    "krém na cupcakes"
+  ],
+  "image": "dish-cupcakes-ani-patro",
+  "category": "dorty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 40,
+  "cookMinutes": 22,
+  "waitMinutes": 45,
+  "waitLabel": "chladnutí košíčků",
+  "difficulty": "snadné",
+  "meal": "dort",
+  "intro": "Cupcakes jsou vanilkové košíčky z máslového těsta s vrchlíkem smetanového krému. Vyjde 12 kousků a základ má jen jednu vychytávku: máslo a vejce musí mít pokojovou teplotu, jinak se těsto sráží. Krém se šlehá dlouho, aby byl lehký a držel tvar.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 180,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 160,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 120,
+      "unit": "g",
+      "note": "pokojové teploty",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "pokojové teploty",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 120,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 8,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "pokojové teploty",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 100,
+      "unit": "g",
+      "note": "pokojové teploty",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 300,
+      "unit": "g",
+      "note": "prosátý",
+      "group": "Krém"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 160 °C). Do plechu na 12 muffinů vlož papírové košíčky."
+    },
+    {
+      "text": "Máslo a cukr vyšlehej do světlé pěny, 4 až 5 minut. Po jednom přidej vejce a šlehej, dokud se nespojí."
+    },
+    {
+      "text": "Mouku smíchej s práškem do pečiva, vanilkovým cukrem a solí. V několika dávkách ji střídavě s mlékem zapracuj do másla, jen do spojení. Čím déle míchání, tím tužší košíčky."
+    },
+    {
+      "text": "Těsto rozděl lžící do košíčků do dvou třetin. Peč 20 až 22 minut, dokud špejle zapíchnutá do středu nevyjde čistá. Nech 10 minut v plechu, pak je přendej na mřížku a úplně vychladit, asi 35 minut."
+    },
+    {
+      "text": "Na krém vyšlehej máslo 5 minut do světlé pěny. Přidej smetanový sýr a po částech moučkový cukr, a šlehej další 3 minuty, dokud není krém lehký a hladký."
+    },
+    {
+      "text": "Krém nanes pomocí cukrářského sáčku s hvězdicovou špičkou nebo lžičkou na zcela vychladlé cupcakes. Do podání je nech v lednici."
+    }
+  ],
+  "tips": [
+    "Těsto míchej jen do spojení, přešlehané dává tuhé a houbovité košíčky. Hotové poznáš podle pružného povrchu.",
+    "Krém nanášej jen na úplně vychladlé košíčky, na teplých se rozpustí.",
+    "S krémem vydrží cupcakes v lednici 3 dny, před podáváním je nech 20 minut při pokojové teplotě."
+  ],
+  "substitutions": [
+    "Smetanový sýr můžeš nahradit mascarpone, krém bude jemnější a sladší.",
+    "Do těsta přidej strouhanou kůru z jednoho citronu, ať chutná svěžeji.",
+    "Krém lze obarvit pár kapkami potravinářského barviva."
+  ],
+  "faq": [
+    {
+      "q": "Čím se liší cupcakes od muffinů?",
+      "a": "Cupcakes jsou sladší a jemnější, těsto se šlehá z másla a cukru, a mají krémovou čepici. Muffiny se jen míchají a bývají hutnější."
+    },
+    {
+      "q": "Proč cupcakes spadly?",
+      "a": "Trouba se otevřela příliš brzy nebo těsto obsahovalo moc prášku do pečiva. Troubu neotvírej prvních 15 minut."
+    },
+    {
+      "q": "Jak dlouho vydrží cupcakes s krémem?",
+      "a": "V lednici vydrží 3 dny. Před jídlem je nech 20 minut při pokojové teplotě, aby změkl krém."
+    },
+    {
+      "q": "Jaký krém je na cupcakes nejlepší?",
+      "a": "Nejuniverzálnější je máslový s moučkovým cukrem a smetanovým sýrem. Drží tvar a není přeslazený."
+    }
+  ]
+}

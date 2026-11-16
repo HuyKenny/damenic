@@ -1,0 +1,83 @@
+{
+  "title": "Bellini",
+  "keywords": [
+    "bellini",
+    "bellini koktejl",
+    "bellini recept",
+    "jak se dělá bellini",
+    "nealko bellini"
+  ],
+  "image": "dish-bellini-sklenka",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "servings": 2,
+  "activeMinutes": 5,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "vychlazení broskvového pyré",
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "intro": "Bellini je italský koktejl z broskvového pyré a prosecca v poměru 1 : 2. Na jednu sklenku to je 50 ml pyré a 100 ml prosecca. Těžké je používat zralé broskve a všechno dobře vychladit, aby se víno nepěnilo.",
+  "ingredients": [
+    {
+      "ingredient": "broskve",
+      "amount": 2,
+      "unit": "ks",
+      "note": "zralé, bílé nebo žluté"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "pár kapek šťávy"
+    },
+    {
+      "ingredient": "prosecco",
+      "amount": 100,
+      "unit": "ml",
+      "note": "dobře vychlazené"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Broskve na 30 sekund zalij vroucí vodou, pak je přelej studenou a stáhni slupku. Odstraň pecku a maso nakrájej."
+    },
+    {
+      "text": "Maso rozmixuj tyčovým mixérem na hladké pyré, přidej pár kapek citronové šťávy a pyré protlač sítem. Z 2 broskví vyjde asi 150 ml, na jednu sklenku stačí 50 ml."
+    },
+    {
+      "text": "Pyré dej aspoň na 30 minut do lednice. Sklenku na šampaňské dej do mrazáku."
+    },
+    {
+      "text": "Do vychlazené sklenky nalij 50 ml pyré. Nakloň ji a po stěně pomalu přilévej 100 ml prosecca."
+    },
+    {
+      "text": "Jednou zlehka promíchej lžičkou a podávej hned."
+    }
+  ],
+  "tips": [
+    "Pyré se oxiduje, pár kapek citronu ho udrží světlé. Hotové vydrží v lednici do druhého dne.",
+    "Prosecco přilévej pomalu, broskvové pyré vytváří pěnu.",
+    "Mimo sezonu se dají použít mražené broskve, nech je rozmrazit."
+  ],
+  "substitutions": [
+    "Nealko varianta: 100 ml nealko šumivého vína nebo perlivé vody s 1 lžicí citronové šťávy.",
+    "Broskve lze nahradit zralými meruňkami nebo jahodami.",
+    "Prosecco se dá nahradit sektem nebo cavou typu brut."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je poměr na Bellini?",
+      "a": "Jeden díl broskvového pyré na dva díly prosecca, tedy 50 ml pyré a 100 ml prosecca na sklenku."
+    },
+    {
+      "q": "Dá se Bellini udělat z konzervy?",
+      "a": "Ano, ale chuť je sladší a plošší. Nechej broskve okapat a přidej trochu citronové šťávy, aby drink nebyl těžký."
+    },
+    {
+      "q": "Kolik alkoholu má Bellini?",
+      "a": "Asi 7 %. Jedna sklenka obsahuje zhruba 8 ml čistého alkoholu a je jen pro dospělé."
+    }
+  ]
+}

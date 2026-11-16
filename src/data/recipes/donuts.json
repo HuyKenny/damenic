@@ -1,0 +1,149 @@
+{
+  "title": "Domácí donuts (kynuté koblihy s polevou)",
+  "keywords": [
+    "donuts",
+    "donuts recept",
+    "domácí donuts",
+    "kynuté donuts",
+    "donuty"
+  ],
+  "image": "dish-donuts-na-slib",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 10,
+  "activeMinutes": 45,
+  "cookMinutes": 20,
+  "waitMinutes": 90,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Donuts jsou kynuté smažené kroužky s dírou uprostřed a lesklou polevou. Vyjde asi 10 kusů o průměru 8 cm. Aby byly nadýchané a nenasáklé tukem, olej musí mít 170 °C a těsto se smaží jen asi 1,5 minuty z každé strany.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 25,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 800,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Bílá poleva"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 30,
+      "unit": "ml",
+      "group": "Bílá poleva"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Čokoládová poleva"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 30,
+      "unit": "ml",
+      "group": "Čokoládová poleva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozmíchej ve vlažném mléce s lžičkou cukru z celkového množství a nech 10 minut zakvasit. Mouku smíchej se solí a vanilkovým cukrem, přidej kvásek, vejce, zbytek cukru a rozpuštěné máslo."
+    },
+    {
+      "text": "Hněť 10 minut, dokud není těsto hladké a pružné. Přikryj a nech 60 minut kynout, dokud nezdvojnásobí objem."
+    },
+    {
+      "text": "Těsto rozválej na tloušťku 1,5 cm a vykrajuj kruhy o průměru 8 cm. Uprostřed vykroj otvor o průměru 3 cm. Zbytky znovu zpracuj. Donuts polož na pomoučené prkénko a nech 30 minut dokynout."
+    },
+    {
+      "text": "V hrnci s vysokými stěnami zahřej olej na 170 °C. Teplotu kontroluj teploměrem. Smaž po 2 až 3 kusech, 1,5 minuty z každé strany, dokud nezezlátnou."
+    },
+    {
+      "text": "Hotové donuts vyjmi na papírovou utěrku. Na bílou polevu rozmíchej moučkový cukr s mlékem a donuts namoč. Na čokoládovou polevu rozpusť čokoládu s teplou smetanou a donuts namoč nebo polij. Nech 10 minut zaschnout."
+    }
+  ],
+  "tips": [
+    "Olej nesmí přesáhnout 180 °C a nesmí zůstat bez dozoru. Smažení je nebezpečné, hrnec nikdy neopouštěj.",
+    "Díra uprostřed zajistí, že se těsto prosmaží rovnoměrně. Neplň ji, jen kroužek vykroj čistě.",
+    "Nejlepší jsou čerstvé, další den je ohřej 5 minut v troubě při 150 °C."
+  ],
+  "substitutions": [
+    "Máslo můžeš nahradit 60 ml oleje, těsto bude trochu méně voňavé.",
+    "Poleva může být citronová: moučkový cukr smíchej s 2 lžícemi citronové šťávy místo mléka.",
+    "Pro skořicové donuts je po smažení obal v cukru se skořicí místo polevy."
+  ],
+  "faq": [
+    {
+      "q": "Proč donuts nasákly olej?",
+      "a": "Olej byl příliš studený. Pod 160 °C se těsto vsákne tukem místo rychlého zatažení kůrky."
+    },
+    {
+      "q": "Dají se donuts upéct v troubě?",
+      "a": "Dají, na 180 °C asi 12 minut, ale jsou méně nadýchané a nemají typickou kůrku. Potři je rozpuštěným máslem."
+    },
+    {
+      "q": "Čím je donut jiný než koblih?",
+      "a": "Je kroužek s polevou, těsto bývá o něco sladší a nadýchanější. Koblihy jsou kulaté a plněné."
+    },
+    {
+      "q": "Jak dlouho vydrží?",
+      "a": "Do druhého dne. Pak ztvrdnou, ale krátký ohřev v troubě je oživí."
+    }
+  ]
+}

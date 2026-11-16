@@ -1,0 +1,120 @@
+{
+  "title": "Cordon bleu",
+  "keywords": [
+    "cordon bleu",
+    "vepřové cordon bleu",
+    "cordon bleu recept",
+    "plněný řízek se šunkou a sýrem"
+  ],
+  "image": "dish-cordon-bleu",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 15,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek obalených řízků v lednici",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Cordon bleu je řízek plněný šunkou a eidamem, obalený ve strouhance a usmažený dozlatova. Recept je pro 4 porce a potřebuje 30 minut práce plus čtvrt hodiny v lednici, aby se obal dobře držel. Sýr se při smažení nesmí vytéct, proto se řízky pečlivě zaklapují a smaží při 170 °C.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-kyta",
+      "amount": 600,
+      "unit": "g",
+      "note": "4 plátky asi 150 g, 1 cm silné"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 120,
+      "unit": "g",
+      "note": "4 plátky"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 120,
+      "unit": "g",
+      "note": "4 plátky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 60,
+      "unit": "g",
+      "note": "na obalení"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "rozšlehaná"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 120,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 400,
+      "unit": "ml",
+      "note": "na smažení"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Plátky masa naklep na tloušťku asi 5 mm, ať se nerozpadají. Do každého plátku nařízni kapsu nebo plátek rozřízni jako knížku, ale nepřekrojuj ho."
+    },
+    {
+      "text": "Maso osol a opepři zevnitř. Dovnitř polož plátek šunky a plátek eidamu, šunku přehni tak, aby sýr zakryla, a okraje stlač, nebo zavři párátky."
+    },
+    {
+      "text": "Řízky obal postupně v mouce, vejcích a strouhance, strouhanku jen přitiskni. Obalené řízky nech 15 minut v lednici, obal se tím zpevní."
+    },
+    {
+      "text": "Olej v hluboké pánvi zahřej na 170 °C. Smaž po jednom až dvou řízcích 4 až 5 minut z každé strany do zlatova, aby řízek plaval v oleji a obal se vzdouval."
+    },
+    {
+      "text": "Hotový řízek vyndej na papírovou utěrku. Maso má uvnitř mít 70 °C a sýr musí být rozpuštěný. Podávej s citronem a bramborovou kaší nebo salátem."
+    }
+  ],
+  "tips": [
+    "Pokud se sýr vylévá, zavři okraje párátky nebo je před obalením pevně stlač. Řízek mezi obaly nesmí mít díru.",
+    "Olej musí být dost horký, 170 °C. Studený olej se nasákne do obalu a řízek bude těžký.",
+    "Smažený řízek nedrž pod pokličkou, obal by změkl. Do trouby na 100 °C se vejde, dokud nesmažíš ostatní."
+  ],
+  "substitutions": [
+    "Místo vepřové kýty použij kuřecí prsa nakrojená na knížku, stačí je smažit o minutu méně a uvnitř 75 °C.",
+    "Eidam nahradíš goudou, ementálem nebo uzeným sýrem.",
+    "Pro lehčí variantu pečený: obalené řízky pokapané olejem peč 20 minut při 200 °C a v půlce je otoč."
+  ],
+  "faq": [
+    {
+      "q": "Jak smažit cordon bleu, aby z něj nevytekl sýr?",
+      "a": "Okraje dobře zavři a obalený řízek nech 15 minut odpočinout. Smaž při 170 °C, ne dřív a ne vyšší teplotě."
+    },
+    {
+      "q": "Při jaké teplotě se smaží cordon bleu?",
+      "a": "Při 170 °C, což je asi 4 až 5 minut z každé strany. Teploměr ti pomůže, bez něj kousek strouhanky v oleji zasyčí a vyplave."
+    },
+    {
+      "q": "Z jakého masa je cordon bleu?",
+      "a": "Klasicky z vepřové kýty nebo telecího masa. Doma se hodí i kuřecí prsa, jen se smaží kratší dobu."
+    }
+  ]
+}

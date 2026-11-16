@@ -1,0 +1,125 @@
+{
+  "title": "Lečo s klobásou",
+  "keywords": [
+    "lečo s klobásou",
+    "lečo s klobásou a vejci",
+    "lečo s uzenou klobásou",
+    "lečo s klobásou recept"
+  ],
+  "image": "dish-leco-s-klobasou",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Lečo s klobásou je pánvové jídlo z papriky, rajčat, cibule a opečené klobásy. Hotové je za 45 minut a podává se s chlebem nebo rýží. Klobása dodá kouřovou chuť, takže stačí méně koření.",
+  "ingredients": [
+    {
+      "ingredient": "klobasa",
+      "amount": 300,
+      "unit": "g",
+      "note": "uzená, na kolečka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na půlkolečka"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na proužky"
+    },
+    {
+      "ingredient": "paprika-zelena",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na proužky"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 500,
+      "unit": "g",
+      "note": "nakrájená, nebo 400 g loupaných"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 150,
+      "unit": "g",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V široké pánvi rozpal olej, klobásu opékej na kolečkách 4 až 5 minut do zlatova a odlož."
+    },
+    {
+      "text": "V tuku z klobásy osmahni cibuli 4 minuty, přidej papriky a smaž 6 minut."
+    },
+    {
+      "text": "Přidej česnek, sladkou papriku a krátce promíchej, pak přidej rajčata, sůl, cukr a pepř. Přikryj a duš na mírném ohni 15 až 20 minut, dokud papriky nezměknou a šťáva nezhoustne."
+    },
+    {
+      "text": "Vrať klobásu, prohřej 3 minuty a podle chuti dosol. Podávej s chlebem."
+    }
+  ],
+  "tips": [
+    "Papriky nekrájej příliš jemně, při dušení by se rozpadly.",
+    "Cukr v lečo vyrovná kyselost rajčat, použij jen malou lžičku.",
+    "Lečo se dá zmrazit bez klobásy, s klobásou je nejlepší čerstvé."
+  ],
+  "substitutions": [
+    "Klobásu nahradíš párky nebo špekáčky.",
+    "Rajčata nahradíš passatou.",
+    "Bez masa: klobásu vynech a na konci do lečo vmíchej 4 rozšlehaná vejce, dokud se nesrazí."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří lečo?",
+      "a": "Asi 20 minut po přidání rajčat na mírném ohni, dokud papriky nezměknou."
+    },
+    {
+      "q": "Dá se lečo s klobásou zmrazit?",
+      "a": "Doporučuje se mrazit bez klobásy, ta pak může být gumová."
+    },
+    {
+      "q": "Proč je lečo kyselé?",
+      "a": "Rajčata jsou kyselá. Pomůže špetka cukru a delší dušení."
+    }
+  ]
+}
