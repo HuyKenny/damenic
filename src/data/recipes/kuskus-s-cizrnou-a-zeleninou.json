@@ -1,0 +1,132 @@
+{
+  "title": "Kuskus s cizrnou a pečenou zeleninou",
+  "keywords": [
+    "rychlý oběd bez masa",
+    "rychlý zdravý oběd bez masa",
+    "kuskus s cizrnou",
+    "rychlý zdravý oběd"
+  ],
+  "image": "dish-kuskus-cizrna-kebab",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 5,
+  "waitLabel": "nabobtnání kuskusu",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Kuskus s cizrnou a zeleninou je rychlý oběd bez masa, hotový za 30 minut a bez zdlouhavého vaření. Kuskus se jen zalije vroucí vodou, zelenina a cizrna se osmaží na pánvi s římským kmínem a vše se zjemní citronem a olivovým olejem.",
+  "ingredients": [
+    {
+      "ingredient": "kuskus",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "vroucí"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cuketa",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cizrna-konzerva",
+      "amount": 400,
+      "unit": "g",
+      "note": "slitá a propláchnutá"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuskus dej do misky, osol, zalij 300 ml vroucí vody a promíchej. Přikryj a nech 5 minut nabobtnat, pak ho vidličkou provzdušni a zakápni lžící oleje."
+    },
+    {
+      "text": "Mezitím na pánvi rozehřej 2 lžíce oleje a opékej cibuli s paprikou a cuketou 6 minut na středně vysokém ohni, dokud nezačnou měknout a hnědnout."
+    },
+    {
+      "text": "Přidej česnek, kmín a papriku a smaž 30 sekund. Vlož cizrnu a 4 minuty smaž, až se prohřeje a začne lehce chrupat."
+    },
+    {
+      "text": "Kuskus smíchej se zeleninou, přidej citronovou šťávu a mátu. Dochuť solí a podávej teplý nebo studený."
+    }
+  ],
+  "tips": [
+    "Poměr kuskusu a vody je přibližně 2 : 3 podle hmotnosti a objemu. Víc vody dělá kaši.",
+    "Cizrnu dobře osuš, jinak se nezpeče a bude měkká.",
+    "Jídlo se hodí i do krabičky, studené je stejně dobré."
+  ],
+  "substitutions": [
+    "Kuskus nahradí bulgur, ten ale vyžaduje delší čas.",
+    "Cizrnu lze nahradit fazolemi nebo tofu.",
+    "Citron nahradí 1 lžíce octa nebo limetka."
+  ],
+  "faq": [
+    {
+      "q": "Jak uvařit kuskus?",
+      "a": "Kuskus se nevaří. Zalij ho vroucí vodou v poměru asi 2 : 3, přikryj a nech 5 minut nabobtnat, pak ho promíchej vidličkou."
+    },
+    {
+      "q": "Je kuskus bezlepkový?",
+      "a": "Není. Vyrábí se z pšeničné krupice, takže obsahuje lepek. Bezlepkovou variantou je rýže nebo quinoa."
+    },
+    {
+      "q": "Dá se jídlo připravit do krabičky?",
+      "a": "Ano, vydrží v lednici 3 dny. Můžeš ho jíst studené nebo prohřát."
+    }
+  ]
+}

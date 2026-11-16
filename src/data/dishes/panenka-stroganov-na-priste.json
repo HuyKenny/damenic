@@ -1,0 +1,48 @@
+{
+  "name": "Stroganov z vepřové panenky",
+  "restaurant": "peceni-na-priste",
+  "kind": "main",
+  "section": "Vepřová panenka",
+  "description": "Nudličky panenky se žampiony, kyselou okurkou a zakysanou smetanou na rýži. Smetana je skutečná, doručení ne.",
+  "about": [
+    "Stroganov je jídlo z pánve, které se rozhodne za pár minut: maso se zatáhne na prudkém ohni, cibule a houby pustí vodu, paprika s protlakem dají barvu a zakysaná smetana omáčku zjemní. Kyselé okurky jsou nenápadný hrdina, který celou chuť zvedne.",
+    "Vepřová panenka tu zastoupí hovězí a je k tomu jako stvořená, protože nepotřebuje dlouhé vaření. Zbytek je rýže. Ta k tobě nedojede, ale vaří se osmnáct minut."
+  ],
+  "price": 25900,
+  "image": "dish-panenka-stroganov-na-priste",
+  "recipe": "veprova-panenka-stroganov",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    9
+  ],
+  "order": 120,
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "ryze",
+          "name": "Rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "kase",
+          "name": "Bramborová kaše",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ]
+}

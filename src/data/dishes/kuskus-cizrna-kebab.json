@@ -1,0 +1,22 @@
+{
+  "name": "Kuskus s cizrnou a zeleninou",
+  "restaurant": "kebab-zitra",
+  "kind": "main",
+  "section": "Talíře",
+  "description": "Teplý kuskus s opečenou cizrnou, paprikou a cuketou, citron a máta navrch.",
+  "about": [
+    "Kuskus je jídlo pro dny, kdy nemáš náladu na vaření. Zalije se vodou, zbytek dělá pánev: cuketa, paprika, cibule a cizrna s římským kmínem, na konci citron a máta. Žádné maso, žádný stres, a přitom zasytí.",
+    "Půl hodiny stačí, a to včetně nabobtnání. Pokud ti chybí zelenina, kebab ti ji nepřiveze. Ale recept ano."
+  ],
+  "price": 15900,
+  "image": "dish-kuskus-cizrna-kebab",
+  "recipe": "kuskus-s-cizrnou-a-zeleninou",
+  "featured": false,
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "order": 90
+}

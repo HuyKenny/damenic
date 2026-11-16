@@ -1,0 +1,117 @@
+{
+  "title": "Kuřecí plátky s citronem a bylinkami",
+  "keywords": [
+    "rychlý oběd z kuřecího masa",
+    "rychlá teplá večeře",
+    "rychlý oběd pro celou rodinu",
+    "kuřecí plátky na pánvi"
+  ],
+  "image": "dish-kureci-platky-citron-uletelo",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 12,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Kuřecí plátky s citronem a bylinkami jsou rychlý oběd z kuřecího masa na jedné pánvi, hotový za 25 minut. Prsa se nakrájí na tenké plátky, opečou v mouce a polijí citronovým máslem. Tajemství je stejná tloušťka plátků, aby se propekly za pár minut.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 600,
+      "unit": "g",
+      "note": "příčně na 4 tenké plátky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva a kůra"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuřecí prsa rozkrájej podélně na 4 tenké plátky, každý lehce naklepej, aby měl tloušťku asi 1 cm. Osol, opepři a obal v mouce, přebytek oklepej."
+    },
+    {
+      "text": "V pánvi rozehřej olej na středně vysokém ohni. Plátky smaž 3 až 4 minuty z každé strany do zlata. Uvnitř nesmí být růžové a teplota má dosáhnout 75 °C. Přendej na talíř."
+    },
+    {
+      "text": "Do pánve přidej máslo, česnek a tymián, 30 sekund nech vonět. Vlij vývar a citronovou šťávu, seškrábni výpek a 2 až 3 minuty vař do lehkého zhoustnutí. Vmíchej kůru z citronu."
+    },
+    {
+      "text": "Plátky vrať do omáčky na minutu, ať se prohřejí. Posyp petrželkou a podávej s rýží, bramborami nebo těstovinami."
+    }
+  ],
+  "tips": [
+    "Tenké plátky dělají rychlost. Tlustší prso rozřízni podélně a naklepej.",
+    "Mouka je tu dvakrát užitečná: dělá kůrku a pak mírně zahustí omáčku.",
+    "Citron přidávej až do vývaru. Na prudkém ohni by zhořkl."
+  ],
+  "substitutions": [
+    "Kuřecí vývar nahradíš vodou s půlkou kostky.",
+    "Máslo nahradí olivový olej.",
+    "Citronovou šťávu lze část nahradit bílým octem, 1 lžičkou na 4 porce."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit tenké kuřecí plátky?",
+      "a": "Plátky silné 1 cm potřebují 3 až 4 minuty z každé strany na středně vysokém ohni. Uvnitř musí mít 75 °C."
+    },
+    {
+      "q": "Proč se mouka z plátků sloupne?",
+      "a": "Plátky nebyly dost suché nebo se v pánvi dotýkaly. Osuš maso před obalením, mouku oklepej a plátky smaž s odstupem."
+    },
+    {
+      "q": "Co podávat k rychlému kuřeti na pánvi?",
+      "a": "Rýži, brambory nebo těstoviny, k tomu okurkový nebo zelný salát. Omáčka z pánve všechno spojí."
+    }
+  ]
+}

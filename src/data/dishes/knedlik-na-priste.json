@@ -1,0 +1,21 @@
+{
+  "name": "Houskový knedlík",
+  "restaurant": "peceni-na-priste",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Plátky houskového knedlíku, které nasají všechnu omáčku z talíře.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-knedlik-na-priste",
+  "recipe": null,
+  "featured": false,
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 20
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Pohankové rizoto s žampiony",
+  "keywords": [
+    "pohankové rizoto pohanka recept",
+    "pohankové rizoto s houbami",
+    "houbové rizoto"
+  ],
+  "image": "dish-pohankove-rizoto-miska",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Pohankové rizoto s žampiony je rizoto bez rýže: pohanka se opraží, zalije vývarem a duší, až vznikne krémová směs. Recept je pro tři, hotový za 40 minut a nepotřebuje stálé míchání jako rýže.",
+  "ingredients": [
+    {
+      "ingredient": "pohanka",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 300,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 500,
+      "unit": "ml",
+      "note": "horký"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Pohanku propláchni v sítu a okapej. Na suché pánvi ji opražuj 3 minuty na středním plameni, dokud nezavoní."
+    },
+    {
+      "text": "Na oleji ve velké pánvi osmahni cibuli 3 minuty, pak přidej žampiony a opékej 5 minut, dokud nezhnědnou a nepřestanou pouštět vodu."
+    },
+    {
+      "text": "Přidej česnek, pohanku a zalij polovinou horkého vývaru. Přikryj a duš 10 minut, občas promíchej."
+    },
+    {
+      "text": "Přilij zbytek vývaru a vař odkryté dalších 8 až 10 minut, dokud pohanka není měkká a rizoto krémové."
+    },
+    {
+      "text": "Vmíchej máslo a parmazán, osol, opepři a posyp petrželkou. Nech 2 minuty odstát."
+    }
+  ],
+  "tips": [
+    "Opražení pohanky dává oříškovou chuť. Přeskočit ho můžeš, ale rizoto bude plošší.",
+    "Pohanka je hotová rychleji než rýže: kontroluj ji po 15 minutách.",
+    "Do rizota se hodí i sušené houby namočené do vývaru."
+  ],
+  "substitutions": [
+    "Žampiony nahraď mraženými hříbky nebo lesní směsí.",
+    "Parmazán nahraď nutričními kvasnicovými vločkami.",
+    "Zeleninový vývar lze nahradit kuřecím, pak už není vegetariánské."
+  ],
+  "faq": [
+    {
+      "q": "Je pohankové rizoto bezlepkové?",
+      "a": "Pohanka lepek neobsahuje, takže záleží na vývaru a koření. Zkontroluj na obalu, že vývar je označený jako bezlepkový."
+    },
+    {
+      "q": "Jak dlouho se vaří pohanka v rizotu?",
+      "a": "Asi 18 až 20 minut od zalití vývarem. Čím víc ji promíchaš, tím krémovější bude."
+    },
+    {
+      "q": "Dá se rizoto z pohanky ohřát?",
+      "a": "Ano, s lžící vývaru nebo vody. V lednici vydrží 2 dny."
+    }
+  ]
+}

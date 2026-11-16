@@ -1,0 +1,138 @@
+{
+  "title": "Mleté krůtí maso s fazolemi a kukuřicí na pánvi",
+  "keywords": [
+    "mleté krůtí maso recept",
+    "krůtí chilli",
+    "mleté krůtí maso s fazolemi",
+    "mleté maso na pánvi"
+  ],
+  "image": "dish-kruti-panev-chilli-bez",
+  "category": "mexicka",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Mleté krůtí maso s fazolemi a kukuřicí je jedna pánev, která je hotová za 40 minut. Mleté maso se opeče, dochutí uzenou paprikou a římským kmínem a podusí s rajčaty a fazolemi. Je lehčí než klasické chilli a nepotřebuje dlouhé vaření.",
+  "ingredients": [
+    {
+      "ingredient": "kruti-mlete",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "nasekané"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g"
+    },
+    {
+      "ingredient": "fazole-cervene",
+      "amount": 400,
+      "unit": "g",
+      "note": "slité"
+    },
+    {
+      "ingredient": "kukurice-konzerva",
+      "amount": 150,
+      "unit": "g",
+      "note": "slitá"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cheddar",
+      "amount": 60,
+      "unit": "g",
+      "note": "nastrouhaný, na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na větší pánvi rozehřej olej a opékej cibuli s paprikou 4 minuty dozlatova. Přidej česnek a smaž 30 sekund."
+    },
+    {
+      "text": "Přidej mleté maso, rozmělni ho vařečkou a opékej na středně vysokém ohni 6 až 8 minut, dokud nezmizí všechna růžová barva. Mleté maso musí být důkladně propečené."
+    },
+    {
+      "text": "Vmíchej uzenou papriku, kmín, chilli a protlak a 1 minutu smaž. Přidej rozmačkaná loupaná rajčata, fazole, kukuřici a sůl."
+    },
+    {
+      "text": "Přiveď k varu a na mírném ohni duš 15 minut, občas promíchej. Pokud je příliš hustá, přidej 50 ml vody."
+    },
+    {
+      "text": "Dochuť solí a podávej posypané cheddarem, s rýží, tortillou nebo chlebem."
+    }
+  ],
+  "tips": [
+    "Krůtí maso je libové, pusť ho zpočátku na střední oheň a nedopřej mu hnědnout příliš. Pak zůstane šťavnaté.",
+    "Chilli vločky dávej po špetkách. Fazole a rajčata jsou sladší, než čekáš.",
+    "Jídlo je lepší druhý den po zahřátí a dobře se mrazí."
+  ],
+  "substitutions": [
+    "Mleté krůtí lze nahradit mletým kuřecím nebo hovězím.",
+    "Červené fazole nahradí černé nebo cizrna.",
+    "Cheddar nahradíš eidamem nebo kyselou smetanou."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit mleté krůtí maso?",
+      "a": "Na středně vysokém ohni 6 až 8 minut, dokud není všude šedobílé bez růžových míst. Mleté maso musí být vždy důkladně propečené."
+    },
+    {
+      "q": "Proč je mleté krůtí maso suché?",
+      "a": "Je velmi libové. Pomáhá přidat tekutinu, například rajčata nebo vývar, a nesmažit ho dlouho nasucho."
+    },
+    {
+      "q": "Dá se jídlo zmrazit?",
+      "a": "Ano, v uzavřené nádobě vydrží v mrazáku 3 měsíce. Rozmrazuj v lednici a před podáváním důkladně prohřej."
+    }
+  ]
+}

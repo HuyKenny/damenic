@@ -1,0 +1,24 @@
+{
+  "name": "Plněné bramborové knedlíky s uzeným masem",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "description": "Bramborové těsto, uvnitř osmažené uzené a cibulka. Zelí je také nanečisto.",
+  "about": [
+    "Plněné knedlíky jsou práce na celý večer: těsto z vychladlých brambor, náplň z uzeného a cibule a patnáct minut ve vroucí vodě. K tomu patří zelí, které jim přidá kyselost a barvu.",
+    "Z hladového člověka udělají trpělivého. Cesta k tobě je nakonec o něco kratší než recept, protože žádná není."
+  ],
+  "price": 22900,
+  "image": "dish-plnene-knedliky-s-uzenym",
+  "recipe": "plnene-knedliky-s-uzenym",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3
+  ],
+  "featured": false,
+  "order": 580
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Slané muffiny se šunkou a sýrem",
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "kind": "main",
+  "section": "Saláty a slané",
+  "description": "Muffin se šunkou, eidamem a jarní cibulkou. Teplý, nadýchaný, slaný.",
+  "about": [
+    "Slané muffiny jsou těsto zamíchané za pět minut. Hladká mouka, vejce, mléko, olej, šunka, eidam a jarní cibulka, vše se míchá jen do spojení. Z jedné dávky vyjde 12 muffinů.",
+    "Přes noc vydrží v lednici a druhý den je ohřeješ na pár minut. Chlebíčkárna Obloženo ničím je smyšlená, muffiny ne."
+  ],
+  "price": 8900,
+  "image": "dish-slane-muffiny-oblozeno",
+  "recipe": "slane-muffiny",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 240
+}

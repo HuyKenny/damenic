@@ -1,0 +1,104 @@
+{
+  "title": "Ovesné placky s banánem",
+  "keywords": [
+    "zdravá snídaně z ovesných vloček",
+    "zdravé snídaně z ovesných vloček",
+    "zdravá snídaně",
+    "zdravá sladká snídaně"
+  ],
+  "image": "dish-ovesne-placky-s-bananem-odlozeny-budik",
+  "category": "snidane",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 10,
+  "waitMinutes": 5,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Ovesné placky s banánem jsou snídaně ze tří surovin: banánu, ovesných vloček a vejce. Placky bez mouky a bez přidaného cukru se smaží na pánvi 2 až 3 minuty z každé strany a vyjdou asi 6 menších placek.",
+  "ingredients": [
+    {
+      "ingredient": "ovesne-vlocky",
+      "amount": 100,
+      "unit": "g",
+      "note": "jemné"
+    },
+    {
+      "ingredient": "banan",
+      "amount": 2,
+      "unit": "ks",
+      "note": "zralé, asi 240 g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na smažení"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 100,
+      "unit": "g",
+      "note": "k podávání"
+    },
+    {
+      "ingredient": "boruvky",
+      "amount": 60,
+      "unit": "g",
+      "note": "k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Banány rozmačkej vidličkou na hladkou kaši, přidej vejce a vyšlehej. Vmíchej vločky, skořici a prášek do pečiva."
+    },
+    {
+      "text": "Těsto nech 5 minut odpočinout, vločky nasáknou a zhoustne. Je-li příliš husté, přidej lžíci mléka nebo vody."
+    },
+    {
+      "text": "Na pánvi rozehřej máslo na středním plameni. Na pánev dávej po lžících těsto a placky stlač do průměru asi 8 cm."
+    },
+    {
+      "text": "Smaž 2 až 3 minuty z jedné strany, až se na povrchu objeví bublinky a okraj ztuhne, pak otoč a dosmaž 2 minuty. Podávej s jogurtem a borůvkami."
+    }
+  ],
+  "tips": [
+    "Čím zralejší banán, tím sladší placky. Pokud jsou banány méně zralé, přidej lžičku medu.",
+    "Placky otáčej, až když se okraje pevně srazí, jinak se trhají.",
+    "Vychladlé placky ulož do krabičky, v lednici vydrží 2 dny a ohřejí se na suché pánvi."
+  ],
+  "substitutions": [
+    "Vločky nahraď ovesnou moukou nebo jemně namletými vločkami.",
+    "Vejce nahraď 2 lžícemi mletého lnu rozmíchanými ve 6 lžících vody."
+  ],
+  "faq": [
+    {
+      "q": "Proč se mi ovesné placky rozpadají?",
+      "a": "Těsto je příliš tekuté nebo se otáčí příliš brzy. Nech těsto 5 minut odpočinout a placky obrať až po zpevnění okrajů."
+    },
+    {
+      "q": "Jsou ovesné placky bezlepkové?",
+      "a": "Ovesné vločky mohou obsahovat stopy lepku z mlýna. Pro bezlepkovou stravu kup vločky označené jako bezlepkové."
+    },
+    {
+      "q": "Jak dlouho vydrží ovesné placky?",
+      "a": "Ve vzduchotěsné krabičce 2 dny v lednici nebo 1 měsíc v mrazáku, ohřej je na suché pánvi nebo v toustovači."
+    }
+  ]
+}

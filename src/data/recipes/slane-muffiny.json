@@ -1,0 +1,123 @@
+{
+  "title": "Slané muffiny se šunkou a sýrem",
+  "keywords": [
+    "slané muffiny",
+    "slané muffiny se šunkou a sýrem",
+    "slané muffiny recept",
+    "slané muffiny z hladké mouky"
+  ],
+  "image": "dish-slane-muffiny-oblozeno",
+  "category": "pekarna",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 22,
+  "waitMinutes": 10,
+  "waitLabel": "vychladnutí v pánvi",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Slané muffiny se šunkou a sýrem vyjdou z jednoho zamíchání a dají 12 kusů do formy na muffiny. Jsou skvělé na oslavu, na výlet i do krabičky na svačinu. Těsto se míchá jen do spojení, jinak jsou muffiny tuhé.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "note": "hladká"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "asi 7 g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "větší"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 80,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 100,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na tenká kolečka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 160 °C). Formu na 12 muffinů vyskládej papírovými košíčky nebo vymaž máslem a vysyp moukou."
+    },
+    {
+      "text": "V míse smíchej mouku, prášek do pečiva, sůl a pepř. Ve druhé míse prošlehej vejce s mlékem a olejem."
+    },
+    {
+      "text": "Mokré suroviny nalij k suchým a míchej jen krátce, do spojení. Hrudky nevadí, přemíchané těsto dává tuhé muffiny."
+    },
+    {
+      "text": "Vmíchej šunku, 80 g sýra a jarní cibulku. Těsto rozděl do formiček asi do tří čtvrtin jejich výšky a posyp zbylým sýrem."
+    },
+    {
+      "text": "Peč 20 až 25 minut, až jsou nahoře zlatavé a špejle zapíchnutá doprostřed vyjde suchá. Nech je 10 minut ve formě a pak přendej na mřížku."
+    }
+  ],
+  "tips": [
+    "Do hotového těsta přidávej přísady až na konci a jen jemně promíchej, aby se nerozbil vzduch.",
+    "Muffiny jsou nejlepší teplé nebo druhý den ohřáté 5 minut v troubě na 160 °C.",
+    "Chladné vydrží v uzavřené dóze v lednici 3 dny, zmrazit se dají nejlépe po jednom."
+  ],
+  "substitutions": [
+    "Šunku můžeš nahradit uzeným masem, slaninou, nebo bezmasými variantami: sušená rajčata, olivy a špenát.",
+    "Eidam nahraď čedarem nebo goudou. Mléko jde nahradit kefírem, muffiny budou ještě nadýchanější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se pečou slané muffiny?",
+      "a": "Při 180 °C (horkovzduch 160 °C) 20 až 25 minut. Hotové jsou, když špejle zapíchnutá do středu vyjde suchá a vršek je zlatý."
+    },
+    {
+      "q": "Proč mi slané muffiny vyšly tuhé?",
+      "a": "Těsto bylo přemíchané. Stačí mokré a suché suroviny krátce spojit vařečkou, hrudky v těstě nevadí."
+    },
+    {
+      "q": "Dají se slané muffiny zmrazit?",
+      "a": "Ano. Nech je vychladnout, zabal po jednom a zmraz. Rozmraz při pokojové teplotě a ohřej v troubě 8 minut na 160 °C."
+    }
+  ],
+  "occasions": [
+    "narozeniny",
+    "silvestr"
+  ]
+}

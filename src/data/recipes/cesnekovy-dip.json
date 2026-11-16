@@ -1,0 +1,97 @@
+{
+  "title": "Česnekový dip",
+  "keywords": [
+    "česnekový dip recept",
+    "česnekový dip",
+    "česnekový dip k hranolkám",
+    "česnekový dip z jogurtu"
+  ],
+  "image": "dish-cesnekovy-dip",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Česnekový dip se dělá z řeckého jogurtu, majonézy a čerstvého česneku. Je krémový, svěží a hodí se k hranolkám, pečeným bramborám, zeleninovým tyčinkám i k nugetkám. Dobrý je po půl hodině v lednici, kdy se česnek zjemní a chutě se spojí.",
+  "ingredients": [
+    {
+      "ingredient": "jogurt-recky",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "jemně nakrájená"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Česnek oloupej a prolisuj. Pokud je ostrý, nech ho chvíli ležet se špetkou soli, zjemní se."
+    },
+    {
+      "text": "V misce smíchej jogurt s majonézou a prolisovaným česnekem, přidej citronovou šťávu, sůl a pepř a vše pořádně promíchej."
+    },
+    {
+      "text": "Vmíchej pažitku, přikryj a nech 30 minut odležet v lednici. Česnek za tu dobu zjemní a dip zhoustne."
+    },
+    {
+      "text": "Před podáváním dip ochutnej. Případně dosol, nebo přidej trochu česneku, když chceš výraznější chuť."
+    }
+  ],
+  "tips": [
+    "Mladý česnek je jemný, starší ostřejší. Zelený klíček uprostřed stroužku vyndej, je hořký.",
+    "Chceš-li řidší dip, zřeď ho lžící mléka nebo vody."
+  ],
+  "substitutions": [
+    "Řecký jogurt nahradíš zakysanou smetanou nebo bílým jogurtem odkapaným v sítku.",
+    "Majonézu můžeš vynechat. Přidej lžíci olivového oleje, dip bude lehčí.",
+    "Pažitku nahradíš petrželkou nebo koprem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží česnekový dip?",
+      "a": "V lednici ve zavřené misce 3 dny. Česnek postupně zesiluje, proto je nejlepší první den."
+    },
+    {
+      "q": "Čím se dá česnekový dip zahustit?",
+      "a": "Použij hustý řecký jogurt, nebo bílý jogurt několik hodin odkapej přes plátýnko. Případně přidej víc majonézy."
+    },
+    {
+      "q": "Dá se dip udělat bez majonézy?",
+      "a": "Ano. Smíchej jogurt s olivovým olejem, česnekem a citronovou šťávou. Bude lehčí a více kyselý."
+    }
+  ]
+}

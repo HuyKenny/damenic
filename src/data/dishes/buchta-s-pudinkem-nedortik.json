@@ -1,0 +1,25 @@
+{
+  "name": "Buchta s pudinkem a drobenkou",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Těsto, vanilkový pudink a drobenka ve třech vrstvách.",
+  "about": [
+    "Buchta s pudinkem má tři vrstvy a každá má svou práci: těsto drží, pudink změkčuje, drobenka křupe. Tajemství je v tom, že se pečou ve dvou krocích a pudink se nanáší vychladlý.",
+    "Při objednávce nanečisto žádný pudink nedorazí, ale postup funguje i bez publika."
+  ],
+  "price": 7500,
+  "image": "dish-buchta-s-pudinkem-nedortik",
+  "recipe": "buchta-s-pudinkem",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 200
+}

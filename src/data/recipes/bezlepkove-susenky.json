@@ -1,0 +1,89 @@
+{
+  "title": "Bezlepkové sušenky z mandlové mouky",
+  "keywords": [
+    "bezlepkové sušenky recept",
+    "bezlepkové sušenky",
+    "bezlepkové recepty sladké",
+    "bezlepkové pečení recepty"
+  ],
+  "image": "dish-bezlepkove-susenky-zitra-upecem",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 12,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Bezlepkové sušenky z mandlové mouky vyjdou na asi 20 kusů a nepotřebují žádnou pšeničnou mouku. Těsto je lepivé, ale sušenky se pečou rychle a po upečení jsou křehké, takže se musí nechat na plechu zchladnout.",
+  "ingredients": [
+    {
+      "ingredient": "mandlova-mouka",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "měkké"
+    },
+    {
+      "ingredient": "med",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 175 °C (horkovzduch 160 °C). Plech vyloži pečicím papírem."
+    },
+    {
+      "text": "Máslo a med ušlehej do hladka, přidej vejce. Vmíchej mandlovou mouku, sodu a sůl a smíchej na měkké hustší těsto."
+    },
+    {
+      "text": "Lžící vykrajuj hromádky těsta velikosti vlašského ořechu, ukládej s mezerami 4 cm a lehce je přitlač."
+    },
+    {
+      "text": "Peč 10 až 12 minut, dokud okraje nezezlátnou. Sušenky jsou po vyjmutí měkké a křehké, nech je 10 minut na plechu zchladnout a ztuhnout."
+    }
+  ],
+  "tips": [
+    "Pro celiaky vybírej mandlovou mouku s označením bezlepková, běžná může obsahovat stopy lepku.",
+    "Těsto nech před tvarováním 10 minut v lednici, bude se lépe tvarovat.",
+    "V dóze vydrží 5 dní."
+  ],
+  "substitutions": [
+    "Med nahraď javorovým sirupem.",
+    "Máslo nahraď kokosovým olejem ve stejném množství, pokud chceš vynechat mléko."
+  ],
+  "faq": [
+    {
+      "q": "Proč se bezlepkové sušenky rozpadají?",
+      "a": "Jsou po upečení příliš horké. Nech je 10 minut ztuhnout na plechu a až pak přendej na mřížku."
+    },
+    {
+      "q": "Je mandlová mouka bezlepková?",
+      "a": "Mandle samy lepek neobsahují, ale ve výrobě může docházet ke křížové kontaminaci. Pro celiaky použij mouku označenou bezlepková."
+    },
+    {
+      "q": "Co s těstem, které se lepí?",
+      "a": "Nech ho 10 minut v lednici a tvaruj lžící. Mandlové těsto je lepivé z podstaty a mouku navíc nepotřebuje."
+    }
+  ]
+}

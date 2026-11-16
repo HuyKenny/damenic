@@ -1,0 +1,97 @@
+{
+  "title": "Ječné kroupy jako příloha",
+  "keywords": [
+    "kroupy recept",
+    "ječné kroupy recept",
+    "vařené kroupy recept",
+    "šumavské kroupy recept"
+  ],
+  "image": "dish-kroupy",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 45,
+  "waitMinutes": 480,
+  "waitLabel": "namáčení přes noc",
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Ječné kroupy jsou stará česká příloha k uzenému, ke zelí i k polévce. Namáčí se přes noc, vaří asi 45 minut a hotové jsou, když jsou měkké, ale pořád drží tvar. Cibulka a máslo z nich udělají plnohodnotnou přílohu.",
+  "ingredients": [
+    {
+      "ingredient": "kroupy",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 750,
+      "unit": "ml",
+      "note": "na vaření"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "nakrájená na kostičky"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kroupy propláchni v sítku ve studené vodě a zalij je dvojnásobným množstvím vody. Nech je namáčet 8 hodin nebo přes noc."
+    },
+    {
+      "text": "Namočené kroupy slij, dej do hrnce, zalij 750 ml čerstvé studené vody, přidej sůl a přiveď k varu."
+    },
+    {
+      "text": "Vař pod poklicí na mírném plameni 40 až 45 minut, občas zamíchej. Hotové jsou, když jsou měkké a vodu vsákly."
+    },
+    {
+      "text": "Na másle zesklovatěj cibuli, přimíchej ji ke kroupám, opepři a přidej petrželku. Podávej teplé."
+    }
+  ],
+  "tips": [
+    "Nenamočené kroupy se vaří 60 až 75 minut a potřebují víc vody. Namáčení šetří čas i plyn.",
+    "Kroupy se při vaření hodně nafouknou. Používej větší hrnec, než by se zdálo potřeba."
+  ],
+  "substitutions": [
+    "Máslo nahradíš sádlem nebo škvarky pro tradičnější chuť, anebo olejem.",
+    "Cibuli můžeš nahradit osmaženým pórkem nebo houbami.",
+    "Vodu nahradíš zeleninovým vývarem pro plnější chuť."
+  ],
+  "faq": [
+    {
+      "q": "Musí se kroupy namáčet?",
+      "a": "Není to povinné, ale namáčení zkrátí vaření a kroupy jsou měkčí. Nenamočené vař 60 až 75 minut."
+    },
+    {
+      "q": "Kolik krup na jednu porci?",
+      "a": "Jako přílohu počítej 50 až 60 g suchých krup na osobu. Po uvaření se jejich objem zvětší asi třikrát."
+    },
+    {
+      "q": "Jsou kroupy bezlepkové?",
+      "a": "Ne. Ječné kroupy obsahují lepek."
+    }
+  ]
+}

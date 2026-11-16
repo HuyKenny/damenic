@@ -1,0 +1,89 @@
+{
+  "title": "Nivová pomazánka s vlašskými ořechy",
+  "keywords": [
+    "nivová pomazánka recept",
+    "pomazánka z nivy recept",
+    "nivová pomazánka",
+    "pomazánka z nivy"
+  ],
+  "image": "dish-nivova-pomazanka-krajici",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Nivová pomazánka z nivy, smetanového sýra a vlašských ořechů je krémová, slaná a lehce pikantní. Z 100 g nivy vyjde asi 250 g pomazánky. Niva dodá chuť, smetanový sýr krémovost a ořechy křupavost.",
+  "ingredients": [
+    {
+      "ingredient": "niva",
+      "amount": 100,
+      "unit": "g",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 150,
+      "unit": "g",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 30,
+      "unit": "g",
+      "note": "nahrubo nasekané"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nakrájená"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "čerstvě mletý"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nivu rozmačkej vidličkou na drobné kousky. Smetanový sýr nech změknout na pokojovou teplotu."
+    },
+    {
+      "text": "Nivu smíchej se smetanovým sýrem do hladké hmoty. Ořechy opraž na suché pánvi 2 minuty, aby zesílila jejich vůně, a nech vychladnout."
+    },
+    {
+      "text": "Přidej ořechy, pažitku a pepř a promíchej. Sůl nepřidávej, niva je slaná."
+    },
+    {
+      "text": "Pomazánku nech půl hodiny odpočinout v lednici, pak ji znovu promíchej a natírej."
+    }
+  ],
+  "tips": [
+    "Niva mívá různou intenzitu. Začni s menším kouskem a podle chuti přidávej.",
+    "Ořechy přidávej až nakonec, aby zůstaly křupavé. Dlouho v pomazánce nezůstanou křupavé.",
+    "V uzavřené nádobě vydrží v lednici 3 dny."
+  ],
+  "substitutions": [
+    "Vlašské ořechy nahraď pekanovými nebo mandlemi, případně je vynech.",
+    "Smetanový sýr nahraď tvarohem nebo mascarpone, pomazánka bude jemnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží nivová pomazánka?",
+      "a": "Do 3 dnů v uzavřené nádobě v lednici. Ořechy po čase změknou, můžeš je proto přidat až před podáváním."
+    },
+    {
+      "q": "Jaká niva se hodí do pomazánky?",
+      "a": "Středně zralá, ne příliš suchá, aby se dala rozmačkat. Příliš ostrá niva může být na pomazánku moc výrazná, pak přidej víc smetanového sýra."
+    },
+    {
+      "q": "S čím podávat nivovou pomazánku?",
+      "a": "S celerem, hruškou nebo jablkem a s tmavším pečivem. Pomazánka je výrazná, sladší doprovod ji vyváží."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Bezlepkové knedlíky",
+  "keywords": [
+    "bezlepkové knedlíky recept",
+    "bezlepkové bramborové knedlíky",
+    "knedlíky bez lepku",
+    "bezlepkové knedlíky z brambor"
+  ],
+  "image": "dish-bezlepkove-knedliky",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 15,
+  "waitMinutes": 60,
+  "waitLabel": "vychladnutí brambor",
+  "difficulty": "střední",
+  "meal": "priloha",
+  "intro": "Bezlepkové knedlíky se dělají z vařených brambor, bezlepkové univerzální mouky a škrobu. Těsto drží pohromadě díky vejci a škrobu, takže se při vaření nerozpadne. Důležité je, aby byly brambory zcela vychladlé a mouka označená jako bezlepková.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 500,
+      "unit": "g",
+      "note": "vařené, vychladlé"
+    },
+    {
+      "ingredient": "mouka-bezlepkova",
+      "amount": 140,
+      "unit": "g",
+      "note": "a trochu na podsypání"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na vaření",
+      "group": "Vaření"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař ve slupce ve vodě 25 minut do měkka. Oloupej je a nech zcela vychladnout, nejlépe hodinu v lednici."
+    },
+    {
+      "text": "Vychladlé brambory prolisuj a smíchej s moukou, škrobem, vejcem, solí a muškátem. Rychle zpracuj do hladkého těsta."
+    },
+    {
+      "text": "Těsto je lepivé. Mokrýma rukama z něj tvaruj 8 kuliček nebo válečků a podle potřeby je mírně podsyp moukou."
+    },
+    {
+      "text": "Do vroucí osolené vody vlož nejdřív jeden zkušební knedlík. Pokud se nerozpadá, vlož další a vař 12 až 15 minut na mírném varu. Vyplavou a po chvíli jsou hotové."
+    },
+    {
+      "text": "Knedlíky vyndej děrovanou lžící a jednou propíchni, aby unikla pára. Podávej s omáčkou nebo masem."
+    }
+  ],
+  "tips": [
+    "Na obalu mouky zkontroluj, že je označená jako bezlepková. I čistá mouka z gluten-free obilovin může být kontaminovaná.",
+    "Bezlepkové těsto je jemnější než klasické. Netvaruj velké knedlíky, rozpadly by se."
+  ],
+  "substitutions": [
+    "Mouku nahradíš směsí 100 g rýžové mouky a 40 g bramborového škrobu, těsto ale bude jemnější.",
+    "Vejce nahradíš lžící chia semínek rozmíchaných ve 3 lžících vody, drží ale hůř.",
+    "Brambory nahradíš batáty, knedlíky budou sladší."
+  ],
+  "faq": [
+    {
+      "q": "Jsou bezlepkové knedlíky opravdu bez lepku?",
+      "a": "Jen když použiješ mouku a škrob s označením bezlepkové a čisté nádobí. Pro osoby s celiakií je důležité číst složení každé suroviny."
+    },
+    {
+      "q": "Proč se bezlepkové knedlíky rozpadají?",
+      "a": "Těsto bylo příliš vlhké nebo brambory nebyly vychladlé. Přidej lžíci mouky a nejdřív zkus uvařit jeden knedlík."
+    },
+    {
+      "q": "Dají se bezlepkové knedlíky zamrazit?",
+      "a": "Ano. Uvařené a vychladlé je zamraz na tácku a pak v sáčku. Ohřívej je v páře nebo ve vodě."
+    }
+  ]
+}

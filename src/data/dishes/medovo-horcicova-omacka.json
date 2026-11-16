@@ -1,0 +1,21 @@
+{
+  "name": "Medovo-hořčicová omáčka",
+  "restaurant": "placka-nikam",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Dijonská hořčice, med a smetana. Sladká, ostrá a k nugetkám jako dělaná.",
+  "about": [],
+  "price": 2900,
+  "image": "dish-medovo-horcicova-omacka",
+  "recipe": "medovo-horcicova-omacka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 520
+}

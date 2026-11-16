@@ -1,0 +1,23 @@
+{
+  "name": "Zapečená zelenina se sýrem",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Polední menu",
+  "description": "Cuketa, paprika, lilek a rajčata pod sýrovou kůrkou, zapečené do bublání.",
+  "about": [
+    "Zapečená zelenina odpustí skoro všechno: nerovné kousky, zbylou papriku i cuketu, která už viděla lepší dny. Teplo všechno spojí, smetana to obalí a sýr zakryje.",
+    "Do pekáče se vejde celý týden zeleniny. Pekáč ti sice nepřivezeme, recept ano."
+  ],
+  "price": 15900,
+  "image": "dish-zapecena-zelenina-se-syrem",
+  "recipe": "zapecena-zelenina-se-syrem",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 510
+}

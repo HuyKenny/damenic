@@ -1,0 +1,25 @@
+{
+  "name": "Žloutkové řezy",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Štrúdl a dorty",
+  "description": "Žlutý korpus, pudinkový krém a čokoládová poleva.",
+  "about": [
+    "Žloutkové řezy jsou žluté, protože na korpus padlo šest žloutků. Pudinkový krém s máslem a čokoláda navrch z nich dělají zákusek, který vydrží 3 dny, pokud ho nikdo nenajde.",
+    "Šlehání je jediná část, kde se můžeš zlobit. Zbytek je trpělivé čekání, tedy dovednost, kterou tady máme nejlépe nacvičenou."
+  ],
+  "price": 6900,
+  "image": "dish-zlutkove-rezy-nedortik",
+  "recipe": "zlutkove-rezy",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 230
+}

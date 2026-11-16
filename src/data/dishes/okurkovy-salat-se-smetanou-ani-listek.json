@@ -1,0 +1,22 @@
+{
+  "name": "Okurkový salát se smetanou",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "description": "Tenká kolečka okurky v zakysané smetaně s koprem a česnekem.",
+  "about": [
+    "Okurkový salát se zakysanou smetanou je to, co si dáš k řízku, když chceš něco svěžího. Okurky se osolí a vymačkají, aby nezředily smetanu, a zálivka vznikne z citronu, česneku a kopru.",
+    "Nejlepší je do dvou hodin po přípravě. V simulaci to nehrozí, žádná okurka nedorazí."
+  ],
+  "price": 11900,
+  "image": "dish-okurkovy-salat-se-smetanou-ani-listek",
+  "recipe": "okurkovy-salat-se-smetanou",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 310
+}

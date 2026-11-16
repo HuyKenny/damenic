@@ -1,0 +1,26 @@
+{
+  "name": "Hruškový koláč s mandlemi",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "description": "Máslové těsto, půlky hrušek a mandlové plátky.",
+  "about": [
+    "Hrušky v koláči mají tu výhodu, že těsto neodtáhnou. Pečou se nahoře, měknou a karamelizují. Mandle a skořice dodají vůni, která se z kuchyně rozlétne o dvě patra.",
+    "Hrušky ti nikdo nepřiveze. Koupíš je sám a koláč bude stejně dobrý."
+  ],
+  "price": 7900,
+  "image": "dish-hruskovy-kolac-kolac-na-slib",
+  "recipe": "hruskovy-kolac",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 150
+}

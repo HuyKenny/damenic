@@ -1,0 +1,110 @@
+{
+  "title": "Okurkový salát se zakysanou smetanou",
+  "keywords": [
+    "okurkový salát se smetanou",
+    "okurkový salát se zakysanou smetanou",
+    "okurkový salát s jogurtem",
+    "okurkový salát s koprem"
+  ],
+  "image": "dish-okurkovy-salat-se-smetanou-ani-listek",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 20,
+  "waitLabel": "odstátí okurek a prolití",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Okurkový salát se zakysanou smetanou je hustší a jemnější varianta ke smaženým řízkům i k letnímu grilování. Okurky se osolí a vymačkají, jinak by zředily smetanu. Zálivka je ze zakysané smetany, citronu, česneku a kopru a hotová je za čtvrt hodiny.",
+  "ingredients": [
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 2,
+      "unit": "ks",
+      "note": "asi 700 g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na osolení okurek"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 150,
+      "unit": "g",
+      "note": "asi 4 lžíce navrchu",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "jen šťáva",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozlisovaný",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "najemno nasekaný"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "čerstvě mletý"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Okurky omyj, oloupej a nakrájej na tenká kolečka. Osol je a nech 10 minut odstát, pak je ručně vymačkej, aby pustily vodu."
+    },
+    {
+      "text": "V míse rozmíchej zakysanou smetanu s citronovou šťávou, cukrem, rozlisovaným česnekem a pepřem do hladka."
+    },
+    {
+      "text": "Přidej vymačkané okurky a kopr, vše promíchej a ochutnej. Zbytek soli dosol až teď, okurky už nějakou soli mají."
+    },
+    {
+      "text": "Salát nech 10 minut v lednici, než ho podáš. Dlouho nestojí, smetana s okurkami postupně pouští vodu."
+    }
+  ],
+  "tips": [
+    "Smetanu vytáhni z lednice jen krátce před mícháním. Příliš studená se hůř rozmíchává s citronem.",
+    "Salát je nejlepší do 2 hodin po přípravě. Po delší době se na dně usadí voda z okurek, dá se zamíchat, ale zálivka je pak řidší.",
+    "Zakysaná smetana se dá napůl nahradit bílým jogurtem, salát bude lehčí a kyselejší."
+  ],
+  "substitutions": [
+    "Zakysanou smetanu nahraď bílým jogurtem nebo řeckým jogurtem. Řecký je hustší, zálivka bude podobná tzatziki.",
+    "Čerstvý kopr můžeš zaměnit za 1 lžičku sušeného, ale má méně chuti."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat okurkový salát se zakysanou smetanou nevodnatý?",
+      "a": "Okurky osol a po 10 minutách vymačkej. Zálivku míchej samostatně a okurky přidej až nakonec, aby neřídly zbytečně."
+    },
+    {
+      "q": "Dá se okurkový salát se smetanou připravit dopředu?",
+      "a": "Jen zálivku, a to až na 1 den. Okurky přidej nejdéle 2 hodiny před jídlem, jinak voda z nich zálivku rozředí."
+    },
+    {
+      "q": "Jaký je rozdíl mezi okurkovým salátem se smetanou a s jogurtem?",
+      "a": "Smetana je tučnější a jemnější, jogurt lehčí a kyselejší. S jogurtem je salát osvěžující, se zakysanou smetanou plnější."
+    }
+  ]
+}

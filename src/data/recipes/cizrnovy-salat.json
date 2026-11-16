@@ -1,0 +1,129 @@
+{
+  "title": "Cizrnový salát s rajčaty a okurkou",
+  "keywords": [
+    "cizrnový salát",
+    "salát z cizrny",
+    "cizrnový salát s okurkou",
+    "cizrnový salát s rajčaty"
+  ],
+  "image": "dish-cizrnovy-salat-nula",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 15,
+  "waitLabel": "prolití zálivkou",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Cizrnový salát je bezmasý, sytý oběd z cizrny z plechovky, rajčat, okurky a červené cibule v citronové zálivce. Je hotový za čtvrt hodiny, nepotřebuje vaření a zasytí. Cizrna se musí dobře propláchnout a přísady se nechají chvíli prolít.",
+  "ingredients": [
+    {
+      "ingredient": "cizrna-konzerva",
+      "amount": 400,
+      "unit": "g",
+      "note": "jedna plechovka, scezená a propláchnutá"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "rozpůlená"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "asi 45 ml",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "jen šťáva",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozlisovaný",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "mletý",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zálivka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cizrnu vylij do sítka, důkladně ji propláchni studenou vodou a nech okapat. Odstraníš tím slanou nálevovou chuť a pěnu."
+    },
+    {
+      "text": "V míse rozmíchej olej, citronovou šťávu, česnek, kmín, sůl a pepř na zálivku."
+    },
+    {
+      "text": "Přidej cizrnu, rajčata, okurku a cibuli a promíchej. Zeleninu nech 15 minut v zálivce, aby se prolila."
+    },
+    {
+      "text": "Přidej petrželku, ochutnej a případně dosol nebo přidej citron. Podávej hned nebo po půlhodině v lednici."
+    }
+  ],
+  "tips": [
+    "Cibuli před přidáním zalij vroucí vodou na 30 sekund. Zjemní a nebude tolik pálit.",
+    "Cizrnu z plechovky nemusíš vařit, stačí ji propláchnout. Čím líp ji osušíš, tím víc zálivky se na ni chytí.",
+    "Salát vydrží 2 dny v lednici, cizrna je druhý den ještě chutnější, jen okurka změkne."
+  ],
+  "substitutions": [
+    "Do salátu patří i 100 g fety, když nehledáš veganskou verzi, bude salát slanější a sytější.",
+    "Citronovou šťávu můžeš nahradit vinným octem, olivový olej zůstane."
+  ],
+  "faq": [
+    {
+      "q": "Dá se do cizrnového salátu použít cizrna z plechovky?",
+      "a": "Ano, je to nejrychlejší způsob. Scezená a propláchnutá je hotová k jídlu. Suchou cizrnu je třeba namočit přes noc a uvařit."
+    },
+    {
+      "q": "Jak dlouho vydrží cizrnový salát?",
+      "a": "Do 2 dnů v lednici v uzavřené misce. Druhý den je chuť výraznější, okurka je ale měkčí."
+    },
+    {
+      "q": "Co k cizrnovému salátu podávat?",
+      "a": "Placky, pita chléb nebo pečené brambory. Samotný salát je sytý díky cizrně, takže vydrží jako lehký oběd."
+    }
+  ]
+}

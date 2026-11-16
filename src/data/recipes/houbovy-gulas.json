@@ -1,0 +1,135 @@
+{
+  "title": "Houbový guláš",
+  "keywords": [
+    "houbový guláš",
+    "staročeský houbový guláš",
+    "houbový guláš z mražených hub",
+    "houbový guláš s brambory"
+  ],
+  "image": "dish-houbovy-gulas-chata",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 40,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Houbový guláš je bezmasá obdoba hovězího guláše, která se vaří 40 minut místo tří hodin. Základ tvoří žampiony, sušené houby, hodně cibule a sladká paprika. Pro čtyři lidi a s houskovým knedlíkem hotová večeře.",
+  "ingredients": [
+    {
+      "ingredient": "zampiony",
+      "amount": 500,
+      "unit": "g",
+      "note": "na čtvrtky"
+    },
+    {
+      "ingredient": "houby-susene",
+      "amount": 15,
+      "unit": "g",
+      "note": "namočené ve 200 ml teplé vody"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 300,
+      "unit": "g",
+      "note": "nakrájená na kostky"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Sušené houby nech 20 minut namočit v teplé vodě, pak je vyjmi, nasekej a vodu přecěď. Je důležitá pro chuť guláše."
+    },
+    {
+      "text": "V širokém hrnci rozehřej olej a na středním plameni smaž cibuli 10 minut, dokud nezezlátne. Cibule dělá z guláše guláš, tak jí nešetři."
+    },
+    {
+      "text": "Žampiony přidej na pánev ve dvou dávkách, osol a smaž 5 až 6 minut do zhnědnutí. Přidej k cibuli, vmíchej česnek, kmín a majoránku."
+    },
+    {
+      "text": "Odstav z plotny, vmíchej papriku s protlakem a mouku. Papriku nikdy nesmaž na prudkém ohni, zhořkne. Zalij houbovou vodou, přidej nasekané sušené houby a bobkový list."
+    },
+    {
+      "text": "Vař odkryté 25 minut na mírném plameni. Dolij vody podle potřeby, aby guláš měl hustotu omáčky. Na konec přidej ocet, ochutnej a dosol."
+    }
+  ],
+  "tips": [
+    "Žampiony nikdy nesmaž naráz, na přeplněné pánvi se dusí a pustí vodu.",
+    "Cibule a paprika dávají chuť, houby strukturu. Nech guláš o 10 minut déle probublávat a zhoustne sám.",
+    "Druhý den bývá lepší. V lednici vydrží 3 dny."
+  ],
+  "substitutions": [
+    "Žampiony lze nahradit mraženou směsí lesních hub, rozmraž je a odkapej.",
+    "Pro uzenou chuť přidej 0,5 lžičky uzené papriky.",
+    "Servíruj s houskovým knedlíkem, chlebem nebo vařenými bramborami."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří houbový guláš?",
+      "a": "Asi 40 minut celkem, z toho 25 minut probublávání. Houby nepotřebují dlouhé dušení jako maso."
+    },
+    {
+      "q": "Jak zahustit houbový guláš?",
+      "a": "Vař ho odkrytý nebo přidej lžíci mouky rozmíchané ve studené vodě. Nejlepší je ale velké množství cibule, která se částečně rozvaří."
+    },
+    {
+      "q": "Jde houbový guláš udělat z mražených hub?",
+      "a": "Ano. Rozmraž je a nechej odkapat, jinak pustí hodně vody. Smaž je až do zhnědnutí."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Těstovinový salát s tuňákem",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "description": "Fusilli, tuňák, vejce natvrdo a kukuřice v majonézové zálivce. Sytý a levný.",
+  "about": [
+    "Tuňák z konzervy, vejce natvrdo a těstoviny dají salát, který zasytí i po cestě z kanceláře. Důležité je scedit tuňáka a těstoviny propláchnout studenou vodou, jinak se salát slepí.",
+    "V simulaci nasytí jen představivost. Recept ale funguje doopravdy a dá se připravit večer předem."
+  ],
+  "price": 17900,
+  "image": "dish-testovinovy-salat-s-tunakem-ani-listek",
+  "recipe": "testovinovy-salat-s-tunakem",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    4,
+    7,
+    10
+  ],
+  "order": 280
+}

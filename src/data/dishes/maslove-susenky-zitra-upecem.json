@@ -1,0 +1,25 @@
+{
+  "name": "Máslové sušenky",
+  "restaurant": "zitra-upecem",
+  "kind": "main",
+  "section": "Navíc",
+  "description": "Křehké sušenky z pěti surovin, na kafe nebo do dózy.",
+  "about": [
+    "Máslové sušenky jsou z té skupiny věcí, kterým se nedá nic přidat, jen ubrat. Máslo, mouka, cukr a vejce stačí. Těsto musí odpočinout, jinak se rozteče po plechu.",
+    "Dózu máš doma, máslo v lednici. Zítra je dnes, jen s plnou dózou."
+  ],
+  "price": 5900,
+  "image": "dish-maslove-susenky-zitra-upecem",
+  "recipe": "maslove-susenky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 170
+}

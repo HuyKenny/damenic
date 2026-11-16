@@ -1,0 +1,93 @@
+{
+  "title": "Mléčná rýže se skořicí",
+  "keywords": [
+    "mléčná rýže recept",
+    "sladká rýže recept"
+  ],
+  "image": "dish-mlecna-ryze-pozitri",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 10,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Mléčná rýže recept: kulatozrnná rýže se vaří v mléce za stálého míchání, dokud nezhoustne a nezačne být krémová. Recept je pro tři porce, hotový za 40 minut, podává se s cukrem a skořicí. Pozor na dno hrnce, mléko se rádo připaluje.",
+  "ingredients": [
+    {
+      "ingredient": "mleko",
+      "amount": 750,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "ryze-kulatozrnna",
+      "amount": 130,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 16,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na posypání"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do hrnce s tlustým dnem nalij mléko, přidej rýži, špetku soli a cukr. Za občasného míchání přiveď k varu."
+    },
+    {
+      "text": "Jakmile mléko začne bublat, stáhni plamen na nejmenší a vař 25 až 30 minut. Míchej každé 2 až 3 minuty a dno stírej vařečkou, ať se nepřipálí."
+    },
+    {
+      "text": "Rýže je hotová, když zrna změknou a kaše zhoustne na konzistenci řidšího pudinku. Při stání ještě zhoustne."
+    },
+    {
+      "text": "Vmíchej máslo a vanilkový cukr, nech 5 minut odstát. Podávej s cukrem, skořicí nebo ovocem."
+    }
+  ],
+  "tips": [
+    "Na dno hrnce dej nejdřív trochu studené vody. Mléko se pak míň připaluje.",
+    "Kulatozrnná rýže (jako na rizoto) uvolní víc škrobu a vyjde krémová.",
+    "Připálenou rýži nikdy nemíchej ode dna, přelij vrchní část do nového hrnce."
+  ],
+  "substitutions": [
+    "Mléko lze zčásti nahradit smetanou, vyjde bohatší.",
+    "Cukr nahraď medem (přidej až po vychladnutí).",
+    "Pro rostlinnou verzi použij ovesný nebo kokosový nápoj."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří mléčná rýže?",
+      "a": "Asi 25 až 30 minut na minimálním plameni. Čím déle se vaří, tím hustší kaše bude."
+    },
+    {
+      "q": "Jaká rýže je na mléčnou rýži nejlepší?",
+      "a": "Kulatozrnná, protože při vaření uvolní nejvíc škrobu. Dlouhozrnná zůstane volná a mléko nezahustí."
+    },
+    {
+      "q": "Dá se mléčná rýže ohřívat?",
+      "a": "Ano, s přidáním 2 až 3 lžic mléka. V lednici vydrží 2 dny, při ohřevu míchej."
+    }
+  ]
+}

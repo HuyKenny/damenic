@@ -1,0 +1,18 @@
+{
+  "name": "Sweet chilli omáčka",
+  "restaurant": "placka-nikam",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Sladká, lesklá a lehce pálivá. K hranolkám, kuřecím a smaženému sýru.",
+  "about": [],
+  "price": 2900,
+  "image": "dish-sweet-chilli-omacka",
+  "recipe": "sweet-chilli-omacka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 1,
+  "allergens": [],
+  "featured": false,
+  "order": 510
+}

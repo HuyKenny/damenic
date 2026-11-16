@@ -1,0 +1,15 @@
+{
+  "name": "Květáková rýže",
+  "restaurant": "miska-nanecisto",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Rozmixovaný květák krátce opečený na česneku.",
+  "about": [],
+  "price": 6900,
+  "image": "dish-kvetakova-ryze-miska",
+  "recipe": "kvetakova-ryze",
+  "vegetarian": true,
+  "vegan": true,
+  "order": 65,
+  "allergens": []
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Cottage pomazánka s vejci a pažitkou",
+  "keywords": [
+    "fit recepty s cottage",
+    "fit recepty",
+    "zdravé snídaně",
+    "tvaroh recepty fit"
+  ],
+  "image": "dish-fit-pomazanka-z-cottage",
+  "category": "snidane",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Cottage pomazánka s vejci a pažitkou je fit recept, který se vejde do krabičky na svačinu. Cottage cheese se nemixuje, aby zůstala zrnitá, vejce se vaří natvrdo 10 minut a pomazánka se dochucuje citronem, ne majonézou.",
+  "ingredients": [
+    {
+      "ingredient": "cottage-cheese",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "vařená natvrdo"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jemně nasekaná"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "svazek, nasekaná"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 120,
+      "unit": "g",
+      "note": "celozrnný k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce vlož do vařící vody a vař 10 minut. Potom je zchlaď pod studenou vodou, oloupej a nakrájej nadrobno."
+    },
+    {
+      "text": "Cottage cheese slij z tekutiny, pokud je mokrý."
+    },
+    {
+      "text": "Vejce smíchej s cottage, jarní cibulkou, pažitkou a citronovou šťávou. Dochuť solí a pepřem."
+    },
+    {
+      "text": "Nech 15 minut v lednici, chutě se spojí. Podávej na celozrnném chlebu."
+    }
+  ],
+  "tips": [
+    "Vejce natvrdo vyjmi po 10 minutách, déle vařená mají šedý okraj žloutku.",
+    "Pomazánka vydrží 2 dny v lednici v uzavřené nádobě.",
+    "Pro hladkou pomazánku cottage lehce rozmixuj."
+  ],
+  "substitutions": [
+    "Cottage cheese nahraď tvarohem nebo ricottou.",
+    "Pažitku vyměň za kopr nebo petrželku."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží pomazánka z cottage?",
+      "a": "2 dny v lednici, pokud obsahuje vařená vejce. Neuchovávej ji při pokojové teplotě."
+    },
+    {
+      "q": "Dá se pomazánka zmrazit?",
+      "a": "Ne, cottage cheese ztratí texturu a pomazánka bude vodnatá."
+    },
+    {
+      "q": "Jak udělat pomazánku bez majonézy?",
+      "a": "Cottage cheese dodá krémovost a citron svěžest. Přidat můžeš lžíci jogurtu."
+    }
+  ]
+}

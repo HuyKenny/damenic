@@ -1,0 +1,115 @@
+{
+  "title": "Asijský okurkový salát se sezamem",
+  "keywords": [
+    "asijský okurkový salát",
+    "okurkový salát se sójovou omáčkou",
+    "okurkový salát s chilli",
+    "okurkový salát se sezamem"
+  ],
+  "image": "dish-asijsky-okurkovy-salat-nula",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 15,
+  "waitLabel": "odstátí okurek se solí",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Asijský okurkový salát je studený salát z rozmáčknutých okurek v zálivce ze sójové omáčky, rýžového octa a sezamového oleje. Okurky se nekrájejí, ale rozbíjejí válečkem, takže na hrubém povrchu drží zálivka. Hotový je za půl hodiny a hodí se k rýži i smaženým nudlím.",
+  "ingredients": [
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 2,
+      "unit": "ks",
+      "note": "asi 700 g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na osolení okurek"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "ocet-ryzovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "rozlisované",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "podle chuti",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "nasucho opražený"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Okurky omyj a položené na prkénku je jednou za druhou rozmáčkni širokou stranou nože nebo válečkem, aby praskly po délce. Pak je nakrájej na kousky velké asi 3 cm."
+    },
+    {
+      "text": "Okurky vsyp do misky, osol a nech 10 minut odstát. Vzniklou vodu slij a okurky krátce osuš kuchyňskou utěrkou."
+    },
+    {
+      "text": "Mezitím na suché pánvi opraž sezam na středním plameni 2 minuty, dokud nezačne vonět a lehce zlátnout. Přesuň ho na talířek, ať se nespálí."
+    },
+    {
+      "text": "V míse rozmíchej sójovou omáčku, ocet, sezamový olej, cukr, česnek a chilli. Okurky zalij zálivkou, promíchej a posyp sezamem. Podávej hned nebo po 10 minutách v lednici."
+    }
+  ],
+  "tips": [
+    "Rozmáčknuté okurky se opírají o zálivku mnohem víc než hladká kolečka. Nenech se zlákat pohodlím a krájej je jen nahrubo.",
+    "Sezamový olej je silný a drahý. Stačí lžíce, víc by salát přehlušilo.",
+    "Salát vydrží v lednici do druhého dne, ale okurky jsou po čase měkčí. Sezam přidávej až před podáváním."
+  ],
+  "substitutions": [
+    "Rýžový ocet jde nahradit jablečným octem zředěným lžící vody.",
+    "Sójovou omáčku bez lepku nahradíš tamari. Bez chilli salát udělej pro děti a pikantnost přidej až na talíři."
+  ],
+  "faq": [
+    {
+      "q": "Proč se okurky do asijského salátu rozmačkávají a nekrájí?",
+      "a": "Rozmáčknuté okurky mají nerovné, porézní plochy, ke kterým se zálivka lépe přichytí. Hladce nakrájené kolečko ji spíš stáhne dolů."
+    },
+    {
+      "q": "Jak dlouho vydrží asijský okurkový salát?",
+      "a": "Do druhého dne v lednici. Okurky jsou pak měkčí, chuť je ale výraznější. Sezam přidej až při podávání."
+    },
+    {
+      "q": "Čím nahradit sezamový olej v okurkovém salátu?",
+      "a": "Neutrální olej s trochou opražených sezamových semínek se mu přibližuje. Čistá náhrada ale neexistuje, sezamový olej má unikátní vůni."
+    }
+  ]
+}

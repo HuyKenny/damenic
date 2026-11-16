@@ -1,0 +1,119 @@
+{
+  "title": "Domácí tatarská omáčka",
+  "keywords": [
+    "domácí tatarská omáčka",
+    "tatarská omáčka recept",
+    "tatarská omáčka k rybě",
+    "tatarská omáčka s vejcem"
+  ],
+  "image": "dish-tatarska-omacka",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 30,
+  "waitLabel": "ztuhnutí v lednici",
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Domácí tatarská omáčka se dělá z majonézy, jogurtu, nakládaných okurek, kapar a vejce natvrdo. Je chladná, krémová a mírně kyselá, takže se hodí k smaženému sýru, rybě a řízkům. Nejdůležitější je okurky a vejce nakrájet opravdu drobně.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "vařené natvrdo"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 60,
+      "unit": "g",
+      "note": "jemně nasekané"
+    },
+    {
+      "ingredient": "kapary",
+      "amount": 10,
+      "unit": "g",
+      "note": "jemně nasekané"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 30,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce vlož do vroucí vody a vař 10 minut, aby bylo uvařené natvrdo. Opláchni ho studenou vodou, oloupej a nakrájej najemno."
+    },
+    {
+      "text": "Okurky, kapary a cibuli nasekej co nejdrobněji. Okurky si před krájením lehce osuš v papírové utěrce, jinak omáčku rozředí."
+    },
+    {
+      "text": "V míse promíchej majonézu s jogurtem, hořčicí a citronovou šťávou. Přidej vejce, okurky, kapary, cibuli a petrželku."
+    },
+    {
+      "text": "Dochuť solí a pepřem, zakryj a nech alespoň 30 minut odležet v lednici, aby se chutě spojily."
+    }
+  ],
+  "tips": [
+    "Majonéza má dělat jen základ. Jogurt omáčku odlehčí a dodá jí svěží kyselost.",
+    "Vejce používej vždy dobře uvařené a omáčku skladuj v lednici, ne na stole."
+  ],
+  "substitutions": [
+    "Majonézu a jogurt můžeš nahradit zakysanou smetanou a lehce ji dochutit citronem.",
+    "Kapary nahradíš dalšími nakládanými okurkami nebo lžičkou okurkového nálevu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží domácí tatarská omáčka?",
+      "a": "V uzavřené nádobě v lednici asi 3 dny. Protože obsahuje vejce, nenechávej ji dlouho při pokojové teplotě."
+    },
+    {
+      "q": "S čím se tatarská omáčka podává?",
+      "a": "S rybím filé, smaženým sýrem, smaženými žampiony, řízkem a vařeným masem nebo zeleninou."
+    },
+    {
+      "q": "Proč je tatarská omáčka řídká?",
+      "a": "Z okurek nebo cibule se při míchání uvolnila voda. Příště je dobře osuš, případně přidej víc majonézy nebo vyber lžíci tekutiny."
+    }
+  ]
+}

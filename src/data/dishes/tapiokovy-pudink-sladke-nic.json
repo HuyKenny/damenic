@@ -1,0 +1,23 @@
+{
+  "name": "Tapiokový pudink",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Studené dezerty",
+  "description": "Mléčné perly tapioky, vanilka a kokos.",
+  "about": [
+    "Tapioka se vaří, až každá perla zprůhlední a změkne. Mléko, kokos a vanilka z toho udělají pudink, který se podává teplý i studený. Míchej často, tapioka se ráda lepí ke dnu.",
+    "Trpělivost je tu nejdůležitější surovina. Na ni jsme v nedoručování experti."
+  ],
+  "price": 6900,
+  "image": "dish-tapiokovy-pudink-sladke-nic",
+  "recipe": "tapiokovy-pudink",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 160
+}

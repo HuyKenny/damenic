@@ -1,0 +1,22 @@
+{
+  "name": "Vepřová kotleta na pánvi",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "main",
+  "section": "Z pánve",
+  "description": "Šťavnatá kotleta z pánve s česnekem, tymiánem a máslem. Hotová dřív, než dorazí tvůj hlad.",
+  "about": [
+    "Kotleta je nejméně okázalé maso, a právě proto potřebuje trochu péče. Nařezaný okraj, rozpálená pánev, máslo s česnekem na konci a krátký odpočinek. Pak je šťavnatá a nezkroucená.",
+    "Do půl hodiny je celá večeře hotová. Tady v Jídelně je hotovo hned, ale jen v názvu."
+  ],
+  "price": 17900,
+  "image": "dish-kotleta-na-panvi-hotovo",
+  "recipe": "veprova-kotleta-na-panvi",
+  "featured": true,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 90
+}

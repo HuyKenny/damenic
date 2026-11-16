@@ -1,0 +1,88 @@
+{
+  "title": "Tapiokový pudink",
+  "keywords": [
+    "tapiokový pudink recept",
+    "tapiokový pudink"
+  ],
+  "image": "dish-tapiokovy-pudink-sladke-nic",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 25,
+  "waitMinutes": 30,
+  "waitLabel": "namáčení tapioky",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Tapiokový pudink je mléčná kaše z malých tapiokových perel, které při vaření zprůhlední a změknou. Vychází na 4 porce, podává se teplý i studený. Perly se musí namočit a pomalu vařit za stálého míchání, jinak se přilepí.",
+  "ingredients": [
+    {
+      "ingredient": "tapioka-mala",
+      "amount": 70,
+      "unit": "g",
+      "note": "malé perly, ne na bubble tea"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "kokosove-mleko",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Tapioku propláchni na sítu a nech v misce se studenou vodou 30 minut změknout. Pak ji slij."
+    },
+    {
+      "text": "V hrnci smíchej mléko, kokosové mléko, cukr, vanilkový cukr a sůl. Přiveď těsně k varu."
+    },
+    {
+      "text": "Přisyp tapioku a na mírném ohni vař 20 až 25 minut za častého míchání. Pudink je hotový, když jsou všechny perly průhledné a mají měkký střed."
+    },
+    {
+      "text": "Nech 10 minut odpočinout, pudink zhoustne. Podávej teplý nebo ho nech vychladnout v lednici."
+    }
+  ],
+  "tips": [
+    "Pudink míchej od dna, pálí se rychle.",
+    "Po vychladnutí zhoustne, případně ho zřeď trochou mléka.",
+    "V lednici vydrží 3 dny."
+  ],
+  "substitutions": [
+    "Kokosové mléko nahraď běžným mlékem.",
+    "Mléko lze nahradit ovesným nápojem, pudink pak bude lehčí a méně krémový."
+  ],
+  "faq": [
+    {
+      "q": "Jak poznám, že je tapioka hotová?",
+      "a": "Všechny perly jsou průhledné a uvnitř nemají bílý bod. Vařit je třeba asi 20 až 25 minut."
+    },
+    {
+      "q": "Proč se mi tapioka lepí?",
+      "a": "Perly se nepromíchávají často, nebo byl oheň příliš velký. Míchej často a vař na mírném plameni."
+    },
+    {
+      "q": "Jde tapiokový pudink podávat studený?",
+      "a": "Ano. Přikryj ho fólií přímo na povrchu a vychlaď. Před podáváním ho případně zřeď trochou mléka."
+    }
+  ]
+}

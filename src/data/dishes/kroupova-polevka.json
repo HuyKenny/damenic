@@ -1,0 +1,25 @@
+{
+  "name": "Kroupová polévka se zeleninou a houbami",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Hustá polévka s kroupami, kořenovou zeleninou, bramborem a sušenými houbami.",
+  "about": [
+    "Kroupy jsou ječné zrno, které se v polévkách vaří odnepaměti, pomalu a bez stížností. Houby a majoránka dodají vůni, kterou poznáš už z chodby.",
+    "Polévka je hustá tak akorát, aby se jedla lžící a vyplnila hlad. Tahle je jen na papíře, ale recept je skutečný."
+  ],
+  "price": 10900,
+  "image": "dish-kroupova-polevka",
+  "recipe": "kroupova-polevka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9
+  ],
+  "featured": false,
+  "order": 510
+}

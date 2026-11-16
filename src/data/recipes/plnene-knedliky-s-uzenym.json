@@ -1,0 +1,127 @@
+{
+  "title": "Plněné bramborové knedlíky s uzeným masem",
+  "keywords": [
+    "plněné knedlíky uzeným masem recept",
+    "plněné bramborové knedlíky recept",
+    "bramborové knedlíky plněné uzeným",
+    "plněné knedlíky s uzeným masem a zelím"
+  ],
+  "image": "dish-plnene-knedliky-s-uzenym",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 50,
+  "cookMinutes": 15,
+  "waitMinutes": 60,
+  "waitLabel": "vychladnutí brambor",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Plněné bramborové knedlíky s uzeným masem se dělají z těsta z vychladlých brambor, mouky, krupice a vejce. Do každého knedlíku se zabalí osmažené uzené maso s cibulkou. Podávají se s dušeným zelím a vaří se 15 minut.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "vařené, vychladlé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 200,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "krupice",
+      "amount": 40,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "uzene-maso",
+      "amount": 250,
+      "unit": "g",
+      "note": "nakrájené na kostičky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "najemno",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "kysane-zeli",
+      "amount": 400,
+      "unit": "g",
+      "note": "na podávání",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na vaření",
+      "group": "Vaření"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař ve slupce 25 až 30 minut do měkka, oloupej a nech zcela vychladnout, nejlépe přes noc. Prolisuj je."
+    },
+    {
+      "text": "Smíchej brambory s moukou, krupicí, vejcem a solí a rychle zpracuj těsto. Dlouhé hnětení z něj udělá gumu."
+    },
+    {
+      "text": "Na pánvi rozehřej olej a smaž uzené maso s cibulí 5 minut. Nech vychladnout."
+    },
+    {
+      "text": "Těsto rozděl na 12 dílů. Každý rozplácni, dej doprostřed 1 lžíci náplně, uzavři a vytvaruj kuličku. Zkušební knedlík uvař nejdřív."
+    },
+    {
+      "text": "Vlož do vroucí osolené vody a vař na mírném plameni 15 minut. Knedlíky vyndej děrovanou lžící, propíchni vidličkou, ať unikne pára, a podávej se zelím."
+    }
+  ],
+  "tips": [
+    "Uzené maso nech před plněním úplně vychladnout, horká náplň těsto změkčí.",
+    "Zelí můžeš rychle prohřát na pánvi s lžící oleje a kmínem."
+  ],
+  "substitutions": [
+    "Uzené maso nahradíš špekáčky nebo uzenou klobásou.",
+    "Pro verzi bez masa použij smažené houby nebo kysané zelí s cibulí.",
+    "Krupici nahradíš dalšími 40 g mouky."
+  ],
+  "faq": [
+    {
+      "q": "Proč se plněné knedlíky rozpadají?",
+      "a": "Těsto bylo příliš měkké nebo se knedlík nedostatečně uzavřel. Přidej lžíci mouky a zalep spoj mokrýma rukama."
+    },
+    {
+      "q": "Dají se plněné knedlíky zamrazit?",
+      "a": "Ano. Syrové zamraz na tácku a pak ve vroucí vodě vař rovnou ze zmrazeného asi 20 minut."
+    },
+    {
+      "q": "Jak dlouho vařit plněné bramborové knedlíky?",
+      "a": "Asi 15 minut od chvíle, kdy voda znovu zavře a knedlíky vyplavou."
+    }
+  ]
+}

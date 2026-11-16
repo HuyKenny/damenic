@@ -48,7 +48,7 @@ Read results with `gh run view --repo HuyKenny/damenic`, download screenshots wi
   (CI builds without `_extra`). Recipes linked from a dish reuse the dish photo.
 
 ## v3.2 (14. 11. 2026): recipe filters and the road to 1000 recipes
-- 561 recipes, 68 restaurants. Goal 1000: waves of ~110 recipes written by agents from topics found in the competitor gap (topics only, never copied text).
+- 683 recipes (wave 7 on 16. 11. 2026), 71 restaurants, 1083 dishes. Goal 1000: waves of ~110 recipes written by agents from topics found in the competitor gap (topics only, never copied text).
 - `/recepty/` has faceted filters (island `RecipeBrowser`, pure logic in `src/lib/recipe-facets.ts`, static index `/data/recipes.json`).
   Diet and allergen facets are DERIVED from ingredient fields `diet`, `allergens`, `family` (never hand-set on recipes); every recipe needs `meal`.
   Alcoholic recipes are never labelled vegan. New ingredients written by agents must carry `diet` and `allergens` (validator checks).

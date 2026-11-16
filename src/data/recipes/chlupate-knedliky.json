@@ -1,0 +1,97 @@
+{
+  "title": "Chlupaté knedlíky",
+  "keywords": [
+    "chlupaté knedlíky recept",
+    "chlupaté knedlíky drbáky recept",
+    "chlupáče",
+    "bramborové chlupaté knedlíky"
+  ],
+  "image": "dish-chlupate-knedliky",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "priloha",
+  "intro": "Chlupaté knedlíky, v některých krajích drbáky nebo chlupáče, se dělají ze směsi syrových a vařených brambor. Syrové se nastrouhají najemno, vymačkají a smíchají s vařenými, moukou a vejcem. Povrch je lehce drsný, uvnitř jsou knedlíky hustší než ty z vařených brambor.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "syrové, loupané, varný typ B",
+      "group": "syrové"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 400,
+      "unit": "g",
+      "note": "vařené, vychladlé",
+      "group": "vařené"
+    },
+    {
+      "ingredient": "mouka-hruba",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na vaření",
+      "group": "Vaření"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vařené brambory (400 g) uvař ve slupce ve vodě 25 minut do měkka, oloupej je a nech zcela vychladnout. Prolisuj je nebo nastrouhej najemno."
+    },
+    {
+      "text": "Syrové brambory oloupej a najemno nastrouhej. Strouhanku nech chvíli odstát, pak ji vymačkej v plátně nebo sítku a tekutinu slij tak, aby na dně zůstal usazený škrob. Ten vrať k bramborám."
+    },
+    {
+      "text": "Syrové a vařené brambory smíchej s moukou, vejcem a solí. Těsto zpracuj rychle, syrové brambory na vzduchu tmavnou."
+    },
+    {
+      "text": "Z těsta tvaruj válečky silné jako prsty, dlouhé 8 až 10 cm. Vlož je do vroucí osolené vody, přiveď znovu k varu a vař 15 až 18 minut."
+    },
+    {
+      "text": "Hotové knedlíky vyndej, nech chvíli odpařit a podávej s uzeným masem, kysaným zelím nebo cibulkou."
+    }
+  ],
+  "tips": [
+    "Zkušební knedlík uvař hned po vytvoření. Pokud se rozpadne, přidej do těsta lžíci až dvě mouky.",
+    "Knedlíky vař v dostatečně velkém hrnci, aby se nelepily. Voda se nemá bouřlivě vařit, jen mírně bublat."
+  ],
+  "substitutions": [
+    "Hrubou mouku nahradíš polohrubou, knedlíky budou o něco měkčí.",
+    "Vejce můžeš vynechat, těsto bude ale křehčí. Přidej 20 g mouky navíc.",
+    "Do těsta můžeš přidat smažený špek nebo uzené maso, vznikne uzenou verze."
+  ],
+  "faq": [
+    {
+      "q": "Jak poznám, že jsou chlupaté knedlíky uvařené?",
+      "a": "Vyplavou na hladinu a po 15 až 18 minutách jsou pevné. Zkus propíchnout špejlí: pokud je čistá a bez těsta, jsou hotové."
+    },
+    {
+      "q": "Proč chlupaté knedlíky šednou?",
+      "a": "Syrové brambory na vzduchu oxidují. Těsto zpracuj rychle a po vaření šedou barvu ztratí, knedlíky zesvětlají."
+    },
+    {
+      "q": "S čím se chlupaté knedlíky podávají?",
+      "a": "Nejčastěji s uzeným masem a kysaným zelím, s pečenou kachnou nebo zelím a škvarky."
+    }
+  ]
+}

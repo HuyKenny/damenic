@@ -1,0 +1,136 @@
+{
+  "title": "Kroupová polévka",
+  "keywords": [
+    "kroupová polévka recept",
+    "kroupová polévka s houbami",
+    "kroupová polévka se zeleninou",
+    "hustá kroupová polévka"
+  ],
+  "image": "dish-kroupova-polevka",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 30,
+  "cookMinutes": 60,
+  "waitMinutes": 120,
+  "waitLabel": "namáčení krup",
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Kroupová polévka je hustá zeleninová polévka s ječnými kroupami, houbami a majoránkou. Kroupy se namáčejí aspoň dvě hodiny, aby se vařily rychleji, a vaří se asi 45 minut. Polévka je hotová, když jsou kroupy měkké a zelenina pevně drží tvar.",
+  "ingredients": [
+    {
+      "ingredient": "kroupy",
+      "amount": 100,
+      "unit": "g",
+      "note": "namočené nejméně 2 hodiny"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "houby-susene",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kroupy namoč aspoň na 2 hodiny, nejlépe přes noc, potom je slij. Sušené houby zalij 150 ml vroucí vody a nech 20 minut změknout, potom je nakrájej a vodu z nich zachovej."
+    },
+    {
+      "text": "Ve větším hrnci rozpusť máslo, osmahni mrkev, petržel a celer 4 minuty. Přidej kroupy, vodu, houby s jejich nálevem, kmín a sůl."
+    },
+    {
+      "text": "Přiveď k varu a vař na mírném plameni pod pokličkou 30 minut. Přidej brambory a vař dalších 15 až 20 minut, dokud kroupy i brambory nejsou měkké."
+    },
+    {
+      "text": "Dochuť majoránkou, česnekem a pepřem a vař ještě 3 minuty. Posyp petrželkou a podávej s chlebem."
+    }
+  ],
+  "tips": [
+    "Polévka se druhý den zahustí, protože kroupy dál nasávají tekutinu. Při ohřevu ji zřeď vodou nebo vývarem.",
+    "Houby osmahni krátce na másle před přidáním vody, polévka bude aromatičtější."
+  ],
+  "substitutions": [
+    "Sušené houby nahradíš 200 g čerstvých žampionů nasekaných a osmahnutých.",
+    "Vodu nahradíš zeleninovým vývarem pro plnější chuť.",
+    "Kroupy nahradíš celozrnnou rýží, ta se vaří přibližně stejně dlouho."
+  ],
+  "faq": [
+    {
+      "q": "Musí se kroupy do polévky namáčet?",
+      "a": "Není to nutné, ale namočené se vaří asi o 20 až 30 minut kratší dobu. Nenamočené potřebují 60 až 75 minut."
+    },
+    {
+      "q": "Jak dlouho vydrží kroupová polévka?",
+      "a": "V lednici 3 dny. Při ohřevu ji zřeď vodou a dosol."
+    },
+    {
+      "q": "Dá se kroupová polévka zamrazit?",
+      "a": "Ano, ale brambory po rozmražení trochu změknou. Polévku proto raději mraz bez brambor a přidej čerstvé při ohřevu."
+    }
+  ]
+}

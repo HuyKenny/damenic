@@ -1,0 +1,25 @@
+{
+  "name": "Bezlepkové sušenky z mandlí",
+  "restaurant": "zitra-upecem",
+  "kind": "main",
+  "section": "Navíc",
+  "description": "Mandlová mouka, med a máslo, bez pšeničné mouky.",
+  "about": [
+    "Mandlová mouka dělá sušenky měkké a ořechové, i když v nich není žádná pšenice. Těsto je lepivé, sušenky roztečou, ale vychladlé jsou křehké.",
+    "Bezlepkové neznamená smutné. Znamená, že je potřeba číst štítky: tenhle tenhle recept to ví, kurýr Nikdo ne."
+  ],
+  "price": 7900,
+  "image": "dish-bezlepkove-susenky-zitra-upecem",
+  "recipe": "bezlepkove-susenky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 190
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Pečená makrela s citronem",
+  "restaurant": "steakarna-rare-priste",
+  "kind": "main",
+  "section": "Ryby a mořské plody",
+  "description": "Filety makrely s tymiánem a cherry rajčaty z horké trouby.",
+  "about": [
+    "Makrela je tučná ryba, která snese výraznou chuť i horkou troubu. Filety se nařežou na kůži, potřou olejem s tymiánem a upečou za 12 až 15 minut.",
+    "Levná ryba, bohatá chuť. Doručení je bohatší na nic."
+  ],
+  "price": 25900,
+  "image": "dish-peceny-makrela-rare",
+  "recipe": "peceny-makrela-s-citronem",
+  "vegetarian": false,
+  "order": 125,
+  "allergens": [
+    4
+  ]
+}

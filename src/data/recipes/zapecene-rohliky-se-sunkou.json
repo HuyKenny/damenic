@@ -1,0 +1,106 @@
+{
+  "title": "Zapečené rohlíky se šunkou a sýrem",
+  "keywords": [
+    "rychlá večeře pro děti",
+    "rychlý oběd pro děti",
+    "zapečené rohlíky",
+    "rychlá večeře z vajec"
+  ],
+  "image": "dish-rohliky-sunka-hotovo",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 18,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Zapečené rohlíky se šunkou a sýrem jsou rychlá večeře pro děti, hotová za 30 minut. Rohlíky se rozříznou, naplní šunkou a eidamem, zalijí směsí vajec a mléka a upečou do zlatova. Jsou měkké uvnitř, křupavé nahoře a z domácích zásob.",
+  "ingredients": [
+    {
+      "ingredient": "rohliky",
+      "amount": 4,
+      "unit": "ks",
+      "note": "starší"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 100,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 120,
+      "unit": "g",
+      "note": "plátky nebo nastrouhaný"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na vymazání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 190 °C (horkovzduch 170 °C). Menší pekáč nebo zapékací misku vymaž máslem."
+    },
+    {
+      "text": "Rohlíky podélně rozkroj, ale nepřekrajuj. Do každého vlož plátek šunky a sýra a srovnej je těsně vedle sebe do pekáče."
+    },
+    {
+      "text": "Vejce prošlehej s mlékem, solí a pepřem. Rohlíky rovnoměrně zalij a nech 5 minut nasáknout."
+    },
+    {
+      "text": "Zbylý sýr posyp navrch. Peč 15 až 18 minut, až se sýr rozteče a povrch zezlátne a vaječná směs je pevná."
+    },
+    {
+      "text": "Nech 3 minuty odpočinout a podávej s kečupem nebo zeleninou."
+    }
+  ],
+  "tips": [
+    "Starší rohlíky nasáknou víc zálivky a nerozmočí se. Čerstvé jsou lepší jen ke snídani.",
+    "Vejce musí být zcela proteplená, uvnitř nesmí zůstat tekutá směs.",
+    "Nálev můžeš ochutit špetkou sladké papriky."
+  ],
+  "substitutions": [
+    "Šunku nahradí kousky uzeného masa nebo salámu.",
+    "Vegetariánská verze: šunku nahradíš rajčatem a mozzarellou.",
+    "Eidam lze nahradit goudou nebo mozzarellou."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct zapečené rohlíky?",
+      "a": "Při 190 °C 15 až 18 minut. Hotové jsou, když se sýr rozteče a vaječná zálivka je pevná, bez tekutých míst."
+    },
+    {
+      "q": "Dají se rohlíky připravit dopředu?",
+      "a": "Ano, naplněné a zalité nech v lednici až 8 hodin přikryté fólií. Peč pak o 3 až 5 minut déle."
+    },
+    {
+      "q": "Jde to bez vajec?",
+      "a": "Ano, rohlíky pak jen naplň šunkou a sýrem a peč 10 minut. Budou méně syté a měkké."
+    }
+  ]
+}

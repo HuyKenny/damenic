@@ -1,0 +1,20 @@
+{
+  "name": "Nivová omáčka",
+  "restaurant": "vycep-zitra",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Smetana a niva, která se rozpouští pomalu a nikam nespěchá.",
+  "about": [],
+  "price": 4500,
+  "image": "dish-nivova-omacka",
+  "recipe": "nivova-omacka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 510
+}

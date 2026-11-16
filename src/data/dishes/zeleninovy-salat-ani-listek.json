@@ -1,0 +1,22 @@
+{
+  "name": "Míchaný zeleninový salát",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "description": "Rajčata, okurka, paprika a ledový salát s olejovou zálivkou. Prostě zelenina.",
+  "about": [
+    "Míchaný zeleninový salát je základ, který zvládne každý. Rajčata, okurka, paprika, cibule a ledový salát, vše zalité zálivkou z oleje, octa, hořčice a medu v poměru 3 : 1. Solí se až těsně před jídlem.",
+    "Nic složitého, a přesto se v něm dá udělat chyba: sůl dávaná předem. Salátbar Ani lístek zeleninu nepřiveze, recept ti ale dá zdarma."
+  ],
+  "price": 13900,
+  "image": "dish-zeleninovy-salat-ani-listek",
+  "recipe": "michany-zeleninovy-salat",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    10
+  ],
+  "order": 290
+}

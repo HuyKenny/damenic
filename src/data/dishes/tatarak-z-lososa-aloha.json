@@ -1,0 +1,22 @@
+{
+  "name": "Tatarák z lososa s avokádem",
+  "restaurant": "aloha-ani-rybka",
+  "kind": "main",
+  "section": "Losos a další",
+  "description": "Syrový losos s avokádem, limetkou, sojovkou a sezamem.",
+  "about": [
+    "Tatarák z lososa se dělá z kostiček syrové ryby, která musí být určená ke konzumaci za syrova. Nakrájí se těsně před podáváním a smíchá se s limetkou, avokádem a sojovkou.",
+    "Ryba je čerstvá. Cesta k tobě není."
+  ],
+  "price": 24900,
+  "image": "dish-tatarak-z-lososa-aloha",
+  "recipe": "tatarak-z-lososa",
+  "vegetarian": false,
+  "order": 75,
+  "allergens": [
+    1,
+    4,
+    6,
+    11
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Sendvič s rybičkovou pomazánkou",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Studené sendviče",
+  "description": "Pomazánka z rybiček v tomatě, vejce a cibule mezi dvěma krajíci.",
+  "about": [
+    "Rybičková pomazánka je rychlá a levná. Rybičky v tomatové omáčce se rozmačkají s máslem, vejcem a cibulí a půl hodiny odpočívají v lednici.",
+    "Hodí se na veku i na žitný chléb. Sendvičárna Mezi krajíci dá všechno mezi dva krajíce, jen sendvič ti nepošle."
+  ],
+  "price": 12900,
+  "image": "dish-rybickova-pomazanka-krajici",
+  "recipe": "rybickova-pomazanka",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    4,
+    7,
+    10
+  ],
+  "order": 150
+}

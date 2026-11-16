@@ -1,0 +1,85 @@
+{
+  "title": "Květáková rýže",
+  "keywords": [
+    "květáková rýže recept"
+  ],
+  "image": "dish-kvetakova-ryze-miska",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 8,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Květáková rýže recept: syrový květák se rozmixuje na zrnka velikosti rýže a krátce se opeče na pánvi. Je to lehká příloha ke všemu, co se obvykle podává s rýží. Vychází na dvě porce, hotová za 18 minut.",
+  "ingredients": [
+    {
+      "ingredient": "kvetak",
+      "amount": 400,
+      "unit": "g",
+      "note": "bez stonku"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Květák rozeber na růžičky a po částech je mixuj v kuchyňském robotu na zrnka velikosti rýže, asi 5 až 8 pulzů. Nemixuj do kaše."
+    },
+    {
+      "text": "Na pánvi rozehřej olej na středním až vyšším plameni, přidej česnek a po 20 vteřinách květákovou rýži."
+    },
+    {
+      "text": "Opékej 5 až 7 minut a často promíchávej, dokud není měkká, ale stále mírně pevná. Osol, opepři a posyp petrželkou."
+    }
+  ],
+  "tips": [
+    "Pánev nepřikrývej, jinak se květák uduší a bude kašovitý.",
+    "Mražená květáková rýže funguje také, ale nejdřív ji rozmraz a odkapej.",
+    "Syrová květáková rýže vydrží v lednici 2 dny."
+  ],
+  "substitutions": [
+    "Olivový olej nahraď máslem.",
+    "Na asijský způsob přidej lžičku sezamového oleje a jarní cibulku.",
+    "Česnek lze nahradit kurkumou nebo kari na barvu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří květáková rýže?",
+      "a": "5 až 7 minut na pánvi. Delší vaření z ní udělá kaši."
+    },
+    {
+      "q": "Dá se květáková rýže zamrazit?",
+      "a": "Syrová ano. Rozprostři ji na plech, zmraz a pak přesypej do sáčku. Použij do 3 měsíců a nemrazená ji nech na pánvi 2 minuty déle."
+    },
+    {
+      "q": "Proč je květáková rýže vodnatá?",
+      "a": "Pánev byla zakrytá nebo příliš malá. Smaž ji na širší pánvi, dokud se pára neodpaří."
+    }
+  ]
+}

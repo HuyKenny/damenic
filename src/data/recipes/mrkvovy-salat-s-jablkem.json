@@ -1,0 +1,105 @@
+{
+  "title": "Mrkvový salát s jablkem a citronem",
+  "keywords": [
+    "mrkvový salát",
+    "mrkvový salát s jablkem",
+    "salát z mrkve",
+    "mrkvový salát s jogurtem"
+  ],
+  "image": "dish-mrkvovy-salat-nula",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 10,
+  "waitLabel": "prolití zálivkou",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Mrkvový salát s jablkem je syrová příloha, která se dělá za čtvrt hodiny. Mrkev se nastrouhá najemno, jablko se přidá pro šťavnatost a citron brání tmavnutí. Hodí se k pečeným bramborám i k těstovinám, dětem chutná i jako svačina.",
+  "ingredients": [
+    {
+      "ingredient": "mrkev",
+      "amount": 400,
+      "unit": "g",
+      "note": "oloupaná"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 1,
+      "unit": "ks",
+      "note": "kyselejší odrůda"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "jen šťáva"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "asi 20 g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "asi 54 g, nepovinný"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 30,
+      "unit": "g",
+      "note": "nahrubo nasekané, nepovinné"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mrkev oloupej a nastrouhej na jemném struhadle. Hrubé strouhání dá salát suchý, jemné vypustí šťávu a mrkev lépe nasákne zálivku."
+    },
+    {
+      "text": "Jablko omyj, odstraň jádřinec a nastrouhej ho nahrubo i se slupkou. Hned ho smíchej s mrkví, aby nezhnědlo."
+    },
+    {
+      "text": "Do mísy přidej citronovou šťávu, med, olej, jogurt a špetku soli. Vše promíchej a nech 10 minut odpočinout, ať mrkev pustí šťávu."
+    },
+    {
+      "text": "Salát ochutnej a případně přisladi nebo přikysli citronem. Posyp ořechy a podávej."
+    }
+  ],
+  "tips": [
+    "Mrkev můžeš nastrouhat i v kuchyňském robotu s jemnou struhací vložkou, ušetříš čas i prsty.",
+    "Citron nevynechávej. Bez něj jablko hnědne a salát během hodiny ztratí barvu.",
+    "Salát se dá udělat den předem, jen jablko přidej až před jídlem. V lednici vydrží 2 dny."
+  ],
+  "substitutions": [
+    "Med můžeš nahradit javorovým sirupem nebo lžičkou cukru.",
+    "Jogurt nahraď zakysanou smetanou, nebo ho vynech a použij víc oleje, pro veganskou variantu i s javorovým sirupem."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat mrkvový salát šťavnatý?",
+      "a": "Nastrouhej mrkev najemno a nech ji s citronem a medem 10 minut odstát. Mrkev pustí šťávu a zálivka se stane lehkou, ne suchou."
+    },
+    {
+      "q": "Zhnědne mrkvový salát s jablkem?",
+      "a": "Jablko zhnědne rychle. Citronová šťáva to na několik hodin zpomalí. Pokud salát připravuješ dopředu, přidej jablko až těsně před jídlem."
+    },
+    {
+      "q": "Jak dlouho vydrží mrkvový salát v lednici?",
+      "a": "Do 2 dnů v uzavřené misce. Druhý den je mrkev měkčí a sladší, jablko je ale tmavší."
+    }
+  ]
+}

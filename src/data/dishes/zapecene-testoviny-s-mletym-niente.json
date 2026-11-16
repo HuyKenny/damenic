@@ -1,0 +1,21 @@
+{
+  "name": "Zapečené těstoviny s mletým masem",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Rajčatová omáčka s mletým hovězím a sýrová čepice, lasagne bez plátů.",
+  "about": [
+    "Je to zkratka k lasagním: stejná masová omáčka, ale místo plátů a bešamelu těstoviny a trocha smetany se sýrem. Kdo má hodinu, ten ji má na stole.",
+    "Doručení je pořád nic, ale tohle nic voní po rajčatech a sýru."
+  ],
+  "price": 23900,
+  "image": "dish-zapecene-testoviny-s-mletym-niente",
+  "recipe": "zapecene-testoviny-s-mletym-masem",
+  "vegetarian": false,
+  "order": 130,
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

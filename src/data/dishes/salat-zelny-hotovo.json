@@ -1,0 +1,17 @@
+{
+  "name": "Zelný salát",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Jemně nakrájené bílé zelí s kmínem, olejem a špetkou cukru.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-salat-zelny-hotovo",
+  "recipe": null,
+  "featured": false,
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 20
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Budapešťská pomazánka s paprikou a tavenými sýry",
+  "keywords": [
+    "budapešťská pomazánka recept",
+    "budapešťská pomazánka",
+    "budapešťská pomazánka s paprikou",
+    "báječná pomazánka na chlebíčky recept"
+  ],
+  "image": "dish-budapestska-pomazanka-oblozeno",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 20,
+  "cookMinutes": 10,
+  "waitMinutes": 60,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Budapešťská pomazánka je jemná oranžová pomazánka z taveného sýra, másla, vajec natvrdo, papriky a sladké papriky mleté. Vyjde asi 450 g, tedy na 20 chlebíčků nebo 40 jednohubek. Chuť je jemně pikantní a barva přirozeně oranžová od papriky.",
+  "ingredients": [
+    {
+      "ingredient": "tavene-syr-blok",
+      "amount": 200,
+      "unit": "g",
+      "note": "dva bločky"
+    },
+    {
+      "ingredient": "pomazankove-maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "uvařená natvrdo"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "mletá"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce vař natvrdo 10 minut od varu, zchlaď, oloupej a nastrouhej na jemném struhadle."
+    },
+    {
+      "text": "Tavený sýr nastrouhej nebo rozmačkej vidličkou na jemné kousky a smíchej s máslem do hladké hmoty."
+    },
+    {
+      "text": "Papriku a cibuli nakrájej opravdu najemno, aby nepřekážely při natírání. Přidej je k sýru společně s vejci, sladkou paprikou, hořčicí a pepřem."
+    },
+    {
+      "text": "Vše důkladně promíchej, přendej do nádoby a nech aspoň hodinu odležet v lednici. Pak ji znovu zamíchej a podávej."
+    }
+  ],
+  "tips": [
+    "Sýr a máslo musí mít pokojovou teplotu, jinak se hmota hrudkuje.",
+    "Chceš-li pikantnější verzi, přidej půl lžičky pálivé papriky nebo špetku chilli.",
+    "Pomazánka vydrží v uzavřené nádobě v lednici 2 dny. Vejce natvrdo ji zkracují trvanlivost, proto ji nenech na stole déle než 2 hodiny."
+  ],
+  "substitutions": [
+    "Tavený sýr můžeš nahradit smetanovým sýrem, pomazánka bude jemnější a lehčí.",
+    "Čerstvou papriku nahraď kapií nebo nakládanou paprikou scezenou a osušenou."
+  ],
+  "faq": [
+    {
+      "q": "Z čeho se dělá budapešťská pomazánka?",
+      "a": "Z taveného sýra, másla, vajec natvrdo, čerstvé papriky, cibule a sladké papriky mleté. Barvu a chuť jí dává hlavně paprika."
+    },
+    {
+      "q": "Jak dlouho vydrží budapešťská pomazánka?",
+      "a": "Do 2 dnů v lednici v uzavřené nádobě, protože obsahuje vejce. Na stole ji nenech déle než 2 hodiny."
+    },
+    {
+      "q": "Dá se budapešťská pomazánka připravit dopředu?",
+      "a": "Ano, i den předem. Natírá se dokonce lépe po noci v lednici, protože se chutě propojí. Před natíráním ji zamíchej."
+    }
+  ],
+  "occasions": [
+    "silvestr",
+    "narozeniny"
+  ]
+}

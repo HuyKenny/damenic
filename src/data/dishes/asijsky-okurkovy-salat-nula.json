@@ -1,0 +1,24 @@
+{
+  "name": "Asijský okurkový salát",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Bowly a saláty",
+  "description": "Rozmáčknutá okurka, sójová omáčka, rýžový ocet, sezam a špetka chilli.",
+  "about": [
+    "Asijský okurkový salát se dělá z rozmáčknutých okurek, ne z kolečka. Povrch je nerovný, takže drží zálivku ze sójové omáčky, rýžového octa, česneku a sezamového oleje.",
+    "Je to nejrychlejší studená příloha k rýži. V Zelené Nule ji objednáš za nula minut, a tolik jí taky přijede."
+  ],
+  "price": 11900,
+  "image": "dish-asijsky-okurkovy-salat-nula",
+  "recipe": "asijsky-okurkovy-salat",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 1,
+  "allergens": [
+    1,
+    6,
+    11
+  ],
+  "order": 250
+}

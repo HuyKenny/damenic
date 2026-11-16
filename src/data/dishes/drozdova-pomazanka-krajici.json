@@ -1,0 +1,22 @@
+{
+  "name": "Sendvič s drožďovou pomazánkou",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Studené sendviče",
+  "description": "Pomazánka z čerstvého droždí, másla, osmahnuté cibule a česneku na tmavém chlebu.",
+  "about": [
+    "Drožďová pomazánka je babiččina klasika. Čerstvé droždí se rozdrobí do měkkého másla a smíchá s osmahnutou, vychladlou cibulí a česnekem.",
+    "Ze surovin za pár korun vznikne pomazánka na několik dnů. Sendvičárna Mezi krajíci ti ji nepřiveze, naštěstí ji zvládneš sama."
+  ],
+  "price": 11900,
+  "image": "dish-drozdova-pomazanka-krajici",
+  "recipe": "drozdova-pomazanka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 160
+}

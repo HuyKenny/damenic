@@ -1,0 +1,99 @@
+{
+  "title": "Sýrová pomazánka s vejcem a česnekem",
+  "keywords": [
+    "sýrová pomazánka recept",
+    "sýrová pomazánka",
+    "sýrová pomazánka s vejcem",
+    "pomazánka z eidamu"
+  ],
+  "image": "dish-syrova-pomazanka-krajici",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Sýrová pomazánka z eidamu, másla, vajec a česneku je klasika na chléb, chlebíčky i do krabičky. Z 150 g sýra vyjde asi 350 g pomazánky. Eidam se strouhá najemno a vejce se vaří natvrdo.",
+  "ingredients": [
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaný najemno"
+    },
+    {
+      "ingredient": "pomazankove-maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "uvařená natvrdo"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozlisovaný"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "asi 15 g"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce vař natvrdo 10 minut od varu, ochlaď, oloupej a nastrouhej na jemném struhadle."
+    },
+    {
+      "text": "Eidam nastrouhej na nejjemnějším struhadle, ať se rozmíchá do hladké hmoty."
+    },
+    {
+      "text": "V míse rozmíchej máslo s majonézou, česnekem, hořčicí a pepřem. Přidej sýr a vejce a vše dobře promíchej."
+    },
+    {
+      "text": "Pomazánku nech aspoň 30 minut odležet v lednici, před natíráním ji zamíchej a případně dosol."
+    }
+  ],
+  "tips": [
+    "Čím jemněji nastrouháš sýr, tím je pomazánka hladší. Hrubé strouhání dá zrnitou hmotu.",
+    "Pro výraznější chuť použij zralejší sýr, třeba čedar nebo ementál.",
+    "Pomazánka vydrží v uzavřené nádobě 2 dny v lednici a nenech ji déle než 2 hodiny při pokojové teplotě."
+  ],
+  "substitutions": [
+    "Eidam nahraď goudou nebo čedarem. Vejce vynech pro hutnější pomazánku, přidej pak lžíci smetanového sýra.",
+    "Majonézu nahraď jogurtem, pomazánka bude lehčí."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží sýrová pomazánka?",
+      "a": "Do 2 dnů v uzavřené nádobě v lednici. Obsahuje vejce a majonézu, proto ji na stole nenech déle než 2 hodiny."
+    },
+    {
+      "q": "Jaký sýr se hodí na sýrovou pomazánku?",
+      "a": "Eidam, ementál nebo čedar. Hodí se polotvrdé, dobře strouhatelné sýry, které se rozmíchají do hladké hmoty."
+    },
+    {
+      "q": "Dá se sýrová pomazánka zmrazit?",
+      "a": "Nedoporučuje se. Po rozmražení se vejce a majonéza rozdělí a pomazánka je vodnatá. Radši ji udělej jen na pár dní."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Ovocný salát s jablky, pomeranči a banánem",
+  "keywords": [
+    "ovocný salát",
+    "ovocný salát recept",
+    "ovocný salát s medem",
+    "ovocný salát s jogurtem"
+  ],
+  "image": "dish-ovocny-salat-ani-listek",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 0,
+  "waitMinutes": 15,
+  "waitLabel": "prolití v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Ovocný salát z jablek, pomerančů, banánu, jahod a borůvek je rychlý dezert nebo svačina, který se vejde do jedné mísy. Ovoce se krájí na stejně velké kousky a polévá citronem s medem, aby nehnědlo a pustilo šťávu. Banán se přidává poslední a salát se jí do dvou hodin.",
+  "ingredients": [
+    {
+      "ingredient": "jablko",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "pomeranc",
+      "amount": 2,
+      "unit": "ks",
+      "note": "oloupané, na kousky"
+    },
+    {
+      "ingredient": "banan",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 150,
+      "unit": "g",
+      "note": "na čtvrtky"
+    },
+    {
+      "ingredient": "boruvky",
+      "amount": 125,
+      "unit": "g"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "jen šťáva"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "asi 20 g"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "natrhaná, nepovinná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Jablka omyj, odstraň jádřince a nakrájej je na kostky o hraně asi 1,5 cm. Hned je zakápni polovinou citronové šťávy, ať nehnědnou."
+    },
+    {
+      "text": "Pomeranče oloupej včetně bílé slupky a nakrájej na kousky. Šťávu, která při krájení vyteče, nech v míse, bude základem zálivky."
+    },
+    {
+      "text": "Do míse přidej jahody a borůvky. Med rozmíchej se zbylou citronovou šťávou a ovoce touto zálivkou polij."
+    },
+    {
+      "text": "Salát promíchej a nech 15 minut v lednici. Těsně před podáváním přidej banán na kolečka a přidej natrhanou mátu."
+    }
+  ],
+  "tips": [
+    "Všechno ovoce krájej na podobně velké kousky, aby se v lžíci nepoztrácelo nic malého.",
+    "Banán patří na konec. Za půl hodiny ve šťávě změkne a ztmavne.",
+    "Salát je nejlepší do 2 hodin po přípravě. V lednici vydrží do druhého dne, banán a jablka ale pak působí unaveně."
+  ],
+  "substitutions": [
+    "Ovoce můžeš měnit podle sezóny: hrušky, hrozny, kiwi nebo mango jdou stejně.",
+    "Med nahraď javorovým sirupem. Pro lehčí variantu přidej lžíci bílého jogurtu."
+  ],
+  "faq": [
+    {
+      "q": "Jak zabránit, aby ovocný salát zhnědl?",
+      "a": "Nakrájené ovoce zakápni citronovou šťávou. Kyselina zpomalí tmavnutí jablek, hrušek a banánu, banán ale radši přidej až těsně před podáváním."
+    },
+    {
+      "q": "Jak dlouho vydrží ovocný salát v lednici?",
+      "a": "Nejlépe do 2 hodin po přípravě. V lednici vydrží do druhého dne, ale banán a jablka jsou pak měkká a tmavší."
+    },
+    {
+      "q": "Které ovoce se do ovocného salátu nehodí?",
+      "a": "Ovoce, které rychle změkne a zbarví vše kolem, třeba maliny nebo ostružiny. Meloun pouští hodně vody a salát řídí."
+    }
+  ]
+}

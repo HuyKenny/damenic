@@ -1,0 +1,102 @@
+{
+  "title": "Plněná vejce se žloutkovou majonézou",
+  "keywords": [
+    "plněná vejce",
+    "plněná vejce recept",
+    "plněné vejce",
+    "plněná vejce s majonézou"
+  ],
+  "image": "dish-plnena-vejce-siesta",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 20,
+  "cookMinutes": 10,
+  "waitMinutes": 20,
+  "waitLabel": "zchladnutí a odležení",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Plněná vejce jsou klasický studený předkrm: vejce natvrdo rozpůlená, žloutky rozmíchané s majonézou a hořčicí a vráceny do bílků. Ze šesti vajec je dvanáct půlek, dobrých pro šest lidí. Rozhoduje pevný, nerozbitý bílek a hladká náplň.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 6,
+      "unit": "ks",
+      "note": "aspoň týden stará, uvařená natvrdo"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "asi 30 g"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "na posypání"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na ozdobu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce dej do vroucí vody a vař 10 minut od chvíle, kdy voda znovu vře. Poté je 5 minut chlaď v ledové vodě a oloupej."
+    },
+    {
+      "text": "Vejce rozkroj podélně nožem a opatrně vyndej žloutky do misky. Bílky polož na talíř dutinou nahoru. Pokud se houpají, odkroj špičku, aby stála."
+    },
+    {
+      "text": "Žloutky rozmačkej vidličkou nebo je prolisuj přes sítko, aby byla náplň hladká. Přidej majonézu, hořčici, sůl a pepř a promíchej do krémové hmoty."
+    },
+    {
+      "text": "Náplň vlož do cukrářského sáčku s hvězdicovou špičkou nebo ji nabírej lžičkou do bílků. Posyp paprikou a pažitkou a před podáváním 20 minut zchlaď."
+    }
+  ],
+  "tips": [
+    "Vejce stará aspoň týden se loupou líp než čerstvá. Na plněná vejce je to výhoda.",
+    "Žloutky prolis přes sítko, pokud chceš luxusně hladkou náplň, bez hrudek.",
+    "Plněná vejce patří do lednice. Při pokojové teplotě nenech déle než 2 hodiny, vydrží do druhého dne."
+  ],
+  "substitutions": [
+    "Část majonézy nahraď smetanovým sýrem nebo jogurtem, náplň bude lehčí.",
+    "Do náplně můžeš přidat lžičku kapar, nasekaný kopr, nebo trochu uzeného lososa."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit vejce na plněná vejce?",
+      "a": "10 minut od chvíle, kdy se voda znovu rozvaří. Poté je ochlaď v ledové vodě, aby se žloutek nezbarvil do zelena a vejce šla dobře loupat."
+    },
+    {
+      "q": "Jak dlouho vydrží plněná vejce v lednici?",
+      "a": "Do druhého dne, v uzavřené nádobě. Náplň s majonézou je citlivá na teplo, na stole je nenech déle než 2 hodiny."
+    },
+    {
+      "q": "Dají se plněná vejce připravit dopředu?",
+      "a": "Ano. Bílky a náplň drž zvlášť v lednici a plň je až 1 až 2 hodiny před podáváním, aby bílky nevysychaly."
+    }
+  ],
+  "occasions": [
+    "velikonoce",
+    "silvestr"
+  ]
+}

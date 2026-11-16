@@ -1,0 +1,23 @@
+{
+  "name": "Domácí BBQ omáčka",
+  "restaurant": "udirna-odnikud",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Kečup, uzená paprika, hnědý cukr a ocet. Na žebra, burgery a pulled pork.",
+  "about": [],
+  "price": 2900,
+  "image": "dish-bbq-omacka",
+  "recipe": "bbq-omacka",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    4,
+    10,
+    12
+  ],
+  "featured": false,
+  "order": 510
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Knedlíky s vajíčkem",
+  "keywords": [
+    "knedlíky s vajíčkem recept",
+    "knedlíky s vejci",
+    "smažené knedlíky s vejci",
+    "zbylé knedlíky s vejci"
+  ],
+  "image": "dish-knedliky-s-vajickem",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Knedlíky s vajíčkem jsou klasika na zbylé houskové knedlíky. Nakrájíš je na kostky, osmažíš na cibulce a zalěješ rozšlehanými vejci, která se nechají zatuhnout. Za 25 minut je hotová hlavní jídlo, které nasytí čtyři lidi.",
+  "ingredients": [
+    {
+      "ingredient": "knedlik-houskovy",
+      "amount": 500,
+      "unit": "g",
+      "note": "vychladlý, nakrájený na kostky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nakrájená na kostičky"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nakrájená"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Knedlík nakrájej na kostky o straně přibližně 1,5 cm. Vejce rozšlehej v misce se solí a pepřem."
+    },
+    {
+      "text": "Na velké pánvi rozehřej olej s máslem a osmaž na něm cibuli 3 minuty dozlatova."
+    },
+    {
+      "text": "Přidej kostky knedlíku a smaž je na středním plameni 6 až 8 minut, občas promíchej, dokud nezezlátnou a nezískají křupavou kůrku."
+    },
+    {
+      "text": "Zalij vejci a míchej 2 až 3 minuty, až se vejce srazí a nikde není tekuté. Posyp pažitkou a podávej s kyselou okurkou nebo salátem."
+    }
+  ],
+  "tips": [
+    "Použij knedlík, který je alespoň den starý. Čerstvý se při smažení rozpadá.",
+    "Vejce přidávej až na konci a míchej jen krátce. Přesmažená vejce jsou suchá."
+  ],
+  "substitutions": [
+    "Knedlík nahradíš zbylými bramborovými knedlíky, jídlo bude měkčí.",
+    "Cibuli doplníš kostičkami slaniny nebo uzeného masa.",
+    "Pažitku nahradíš petrželkou."
+  ],
+  "faq": [
+    {
+      "q": "Z jakého knedlíku jsou knedlíky s vajíčkem nejlepší?",
+      "a": "Z houskového, který je alespoň den starý a v lednici lehce oschl. Nakrájený drží tvar a nasaje méně tuku."
+    },
+    {
+      "q": "Dají se použít bramborové knedlíky?",
+      "a": "Ano, výsledek je měkčí a bude potřebovat víc tuku a trpělivosti při smažení."
+    },
+    {
+      "q": "Čím se knedlíky s vajíčkem podávají?",
+      "a": "Se salátem, kyselou okurkou, kysaným zelím nebo sklenicí kefíru či podmáslí."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Smetanová omáčka k masu",
+  "keywords": [
+    "smetanová omáčka k masu",
+    "smetanová omáčka k těstovinám",
+    "smetanová omáčka ke kuřecímu masu",
+    "smetanová omáčka k vepřovému masu"
+  ],
+  "image": "dish-smetanova-omacka-k-masu",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 5,
+  "cookMinutes": 12,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Základní smetanová omáčka k masu se dělá z másla, mouky, vývaru a smetany na vaření. Hodí se ke kuřecím prsům, vepřovým medailonkům i těstovinám. Je krémová, jemná a hotová za čtvrt hodiny. Mouka dělá omáčku hustou, vývar jí dává chuť.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 150,
+      "unit": "ml",
+      "note": "vlažný"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozpusť máslo a zasyp ho moukou. Na mírném plameni míchej metlou 1 minutu, aby mouka ztratila syrovou chuť, ale nezhnědla."
+    },
+    {
+      "text": "Postupně přilévej vlažný vývar a metlou rozmíchej hrudky. Přiveď k mírnému varu a nech 3 minuty probublávat."
+    },
+    {
+      "text": "Vlij smetanu, přidej česnek a vař na mírném plameni 4 až 5 minut, dokud omáčka nezhoustne a nepřilne ke lžíci."
+    },
+    {
+      "text": "Dochuť citronovou šťávou, muškátovým oříškem, solí a pepřem. Podávej hned s masem nebo těstovinami."
+    }
+  ],
+  "tips": [
+    "Do hrnce nalévej vývar postupně a míchej. Horká tekutina zalitá najednou vytvoří hrudky.",
+    "Pro těstovinovou verzi nech omáčku o minutu delší a vmíchej 30 g strouhaného parmazánu."
+  ],
+  "substitutions": [
+    "Vývar nahradíš mlékem nebo vodou a špetkou soli. Chuť bude jemnější a méně masová.",
+    "Smetanu nahradíš ovesnou smetanou na vaření.",
+    "Mouku nahradíš lžičkou kukuřičného škrobu rozmíchaného ve studené vodě."
+  ],
+  "faq": [
+    {
+      "q": "S čím se smetanová omáčka k masu hodí?",
+      "a": "Ke kuřecím prsům, vepřovým medailonkům, těstovinám, knedlíkům nebo bramborám."
+    },
+    {
+      "q": "Proč je smetanová omáčka řídká?",
+      "a": "Vařila se příliš krátce nebo v ní chybí mouka. Nech ji ještě 3 až 4 minuty probublávat, nebo přidej lžičku škrobu rozmíchanou ve vodě."
+    },
+    {
+      "q": "Jak udělat smetanovou omáčku k těstovinám?",
+      "a": "Použij stejný postup, přidej 30 g strouhaného parmazánu a nech omáčku o minutu delší, aby těstoviny dobře obalila."
+    }
+  ]
+}

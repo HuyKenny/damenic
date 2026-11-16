@@ -1,0 +1,115 @@
+{
+  "title": "Steak z tuňáka na pánvi",
+  "keywords": [
+    "steak z tuňáka recept",
+    "tuňák steak recept",
+    "steak z tuňáka recept na pánvi",
+    "tuňákový steak recept"
+  ],
+  "image": "dish-tunak-steak-rare",
+  "category": "steak",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 4,
+  "waitMinutes": 15,
+  "waitLabel": "temperování masa",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Steak z tuňáka na pánvi se smaží jen 1 až 2 minuty z každé strany a uvnitř zůstane růžový. Je to jídlo na dvě porce za 30 minut, kde rozhoduje kvalita ryby, rozpálená pánev a vteřiny. Kupuj tuňáka označeného jako vhodného ke konzumaci za syrova nebo středně propečeného.",
+  "ingredients": [
+    {
+      "ingredient": "tunak-steak",
+      "amount": 300,
+      "unit": "g",
+      "note": "2 steaky silné 2,5 cm, vhodné k pečení za růžova"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 5,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 1,
+      "unit": "ks"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Steaky vyndej z lednice 15 minut předem, osuš je papírovou utěrkou a osol je a opepři z obou stran."
+    },
+    {
+      "text": "Sojovku smíchej se šťávou z půlky limetky, zázvorem a medem do omáčky."
+    },
+    {
+      "text": "Pánev rozpal na nejvyšší stupeň, dokud se z ní nezačne kouřit. Přidej olej a steaky vlož do pánve."
+    },
+    {
+      "text": "Smaž je 1 až 2 minuty z každé strany, pro úplně růžový střed. Silnější steak 3 minuty, pokud ho chceš středně propečený (asi 52 až 55 °C uvnitř). Nesmí být šedý celý."
+    },
+    {
+      "text": "Vyndej, nech 2 minuty odpočinout a nakrájej na plátky proti vláknům. Posyp sezamem, jarní cibulkou a zalij omáčkou. Podávej s rýží."
+    }
+  ],
+  "tips": [
+    "Pánev musí být extrémně horká. Pokud olej nekouří, steak se jen vaří.",
+    "Tuňák je libové maso. Čím je delší doba smažení, tím je suchší a tvrdší.",
+    "Kupuj čerstvý nebo šokově zmražený tuňák vhodný k pečení za růžova."
+  ],
+  "substitutions": [
+    "Sezam nahraď černým sezamem nebo pečenými arašídy.",
+    "Limetku nahraď citronem.",
+    "Z omáčky vynech med a pro ostřejší verzi přidej lžičku srirachy."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit tuňáka?",
+      "a": "1 až 2 minuty z každé strany u steaku silného 2,5 cm na silném plameni. Pokud ho chceš více propečený, přidej minutu."
+    },
+    {
+      "q": "Je bezpečné jíst tuňáka růžového?",
+      "a": "Ano, pokud je ryba čerstvá nebo šokově zmražená a určená ke konzumaci za syrova. Děti, těhotné a senioři by měli volit plně propečenou verzi."
+    },
+    {
+      "q": "Jak poznat, že je tuňák hotový?",
+      "a": "Povrch je zhnědlý a vnitřek zůstane růžový. Tuňák nemá být šedý přes celou tloušťku, to znamená přepečený."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Vykostěná kuřecí stehna v troubě",
+  "keywords": [
+    "vykostěná kuřecí stehna recept",
+    "vykostěná kuřecí stehna v troubě",
+    "kuřecí stehna bez kosti",
+    "pečená vykostěná kuřecí stehna"
+  ],
+  "image": "dish-vykostena-stehna-uletelo",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 30,
+  "waitMinutes": 30,
+  "waitLabel": "marinování",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Vykostěná kuřecí stehna v troubě jsou šťavnatější než prsa a hotová za půl hodiny. Marinují se v olivovém oleji, sladké paprice, česneku a medu a pečou při 200 °C do zlatohněda. Těžké je dopéct je uvnitř do 75 °C a zároveň nespálit med.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 800,
+      "unit": "g",
+      "note": "vykostěná stehna, nejlépe s kůží"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stehna osuš a v míse promíchej s olejem, paprikou, česnekem, medem, solí, pepřem, oreganem a citronovou šťávou. Přikryj a nech marinovat při pokojové teplotě 30 minut nebo v lednici až 12 hodin."
+    },
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C). Plech vyložený pečicím papírem rozlož stehna kůží nahoru, tak aby se nedotýkala."
+    },
+    {
+      "text": "Peč 25 až 30 minut. Po 15 minutách maso otoč a potři šťávou z plechu. Stehna jsou hotová, když teploměr v nejtlustším místě ukazuje alespoň 75 °C a šťáva je čirá."
+    },
+    {
+      "text": "Pokud chceš zlatější kůži, zapni na poslední 3 minuty horní gril. Med snadno zčerná, hlídej to."
+    },
+    {
+      "text": "Nech 5 minut odpočinout a podávej s bramborami, rýží nebo salátem."
+    }
+  ],
+  "tips": [
+    "Stehna s kůží jsou chuťově i konzistencí lepší. Kůže ochrání maso před vysušením.",
+    "Med nepřidávej víc, než kolik recept uvádí. Při 200 °C zčerná a zhořkne.",
+    "Marinádu z mísy nepoužívej jako omáčku, protože se dotýkala syrového masa."
+  ],
+  "substitutions": [
+    "Olivový olej nahradí slunečnicový, chuť bude neutrálnější.",
+    "Med lze nahradit cukrem nebo javorovým sirupem.",
+    "Stehna bez kůže peč o 3 minuty kratší dobu a obrať je dřív."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct vykostěná kuřecí stehna v troubě?",
+      "a": "Při 200 °C 25 až 30 minut, podle tloušťky. Hotová jsou při 75 °C uvnitř, ale stehna jsou lepší při 80 až 85 °C, kdy je maso měkčí."
+    },
+    {
+      "q": "Mám péct stehna přikrytá?",
+      "a": "Nemusíš. Odkrytá stehna zezlátnou a kůže zkřupavěje. Přikrytí použij jen při dlouhém pečení s omáčkou."
+    },
+    {
+      "q": "Jak dlouho vydrží upečená stehna v lednici?",
+      "a": "V uzavřené nádobě 3 dny. Před jídlem je důkladně prohřej, aby byla uvnitř horká."
+    }
+  ]
+}

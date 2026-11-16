@@ -1,0 +1,23 @@
+{
+  "name": "Sendvič s nivovou pomazánkou",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Studené sendviče",
+  "description": "Niva, smetanový sýr a opražené vlašské ořechy na žitném chlebu.",
+  "about": [
+    "Nivová pomazánka je krémová, slaná a lehce pikantní. Niva se rozmačká se smetanovým sýrem, přidají se opražené vlašské ořechy a pažitka.",
+    "Hodí se k hruškám a tmavému pečivu. Sendvičárna Mezi krajíci ti ji nevybalí, ale recept si můžeš otevřít kdykoli."
+  ],
+  "price": 13900,
+  "image": "dish-nivova-pomazanka-krajici",
+  "recipe": "nivova-pomazanka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    8
+  ],
+  "order": 170
+}

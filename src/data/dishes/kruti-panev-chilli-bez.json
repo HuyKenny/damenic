@@ -1,0 +1,22 @@
+{
+  "name": "Krůtí pánev s fazolemi",
+  "restaurant": "chilli-bez-adresy",
+  "kind": "main",
+  "section": "Chilli a pánve",
+  "description": "Mleté krůtí maso s červenými fazolemi, kukuřicí a uzenou paprikou, nahoře cheddar.",
+  "about": [
+    "Tohle je lehčí příbuzný chilli. Mleté krůtí se opeče, dochutí uzenou paprikou a kmínem a podusí s rajčaty, fazolemi a kukuřicí. Hotové je za čtyřicet minut, bez celodenního vaření.",
+    "Podává se s tortillou nebo rýží a cheddarem navrch. Chilli bez adresy rozváží pomalu. Krůtí pánev je aspoň rychlá v receptu."
+  ],
+  "price": 18900,
+  "image": "dish-kruti-panev-chilli-bez",
+  "recipe": "kruti-mlete-s-fazolemi",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 1,
+  "allergens": [
+    7
+  ],
+  "order": 90
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Losos s rýží a brokolicí",
+  "restaurant": "miska-nanecisto",
+  "kind": "main",
+  "section": "Teplé misky",
+  "description": "Křupavý losos v sójové glazuře s jasmínovou rýží a brokolicí.",
+  "about": [
+    "Losos se opéká kůží dolů do křupava a až potom se zalije glazurou ze sojovky, medu a zázvoru. Rýže a brokolice jsou hotové za stejnou dobu, jeden hrnec a jedna pánev.",
+    "Je to jídlo na dvacet minut. Doručení trvá o něco déle."
+  ],
+  "price": 29900,
+  "image": "dish-losos-s-ryzi-a-brokolici-miska",
+  "recipe": "losos-s-ryzi-a-brokolici",
+  "vegetarian": false,
+  "order": 75,
+  "allergens": [
+    1,
+    4,
+    6,
+    11
+  ]
+}

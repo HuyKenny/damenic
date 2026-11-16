@@ -1,0 +1,106 @@
+{
+  "title": "Plněné žampiony se sýrem",
+  "keywords": [
+    "plněné žampiony recept",
+    "zapečené žampiony recept",
+    "žampiony portobello recept"
+  ],
+  "image": "dish-plnene-zampiony-chata",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Plněné žampiony recept: velké klobouky se vydlabou, naplní sýrovou směsí s česnekem a zapečou. Vyjde 12 kusů, tedy tři porce jako předkrm nebo lehká večeře, hotové za 35 minut. Plnění drž hustší, ať žampiony nezaplavíš vodou.",
+  "ingredients": [
+    {
+      "ingredient": "zampiony",
+      "amount": 500,
+      "unit": "g",
+      "note": "velké, 12 kusů o průměru 5 cm"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 80,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu zapni na 200 °C, horkovzduch 180 °C. Žampiony očisti vlhkým hadříkem, nemyj je pod vodou. Stopky vylom a nadrobno nasekej."
+    },
+    {
+      "text": "Nasekané stopky smíchej se smetanovým sýrem, polovinou eidamu, prolisovaným česnekem, petrželkou, solí a pepřem."
+    },
+    {
+      "text": "Klobouky nakartáč olejem, naplň je směsí a posyp zbylým sýrem se strouhankou. Žampiony polož na plech s pečicím papírem."
+    },
+    {
+      "text": "Peč 18 až 20 minut, dokud povrch nezezlátne a žampiony nezačnou pouštět šťávu. Před podáváním nech 3 minuty odstát."
+    }
+  ],
+  "tips": [
+    "Žampiony nenamáčej, nasákne voda a pečou se místo na zlato do břečky.",
+    "Nasekané stopky v plnění dodají hubám víc chuti než samotný sýr.",
+    "Do plnění patří i šunka, špenát nebo uzený tofu."
+  ],
+  "substitutions": [
+    "Smetanový sýr lze nahradit tvarohem nebo kozím sýrem.",
+    "Eidam nahraď mozzarellou, goudou nebo parmazánem.",
+    "Pro veganskou verzi použij rostlinný smetanový sýr a drcené ořechy místo strouhanky."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se pečou plněné žampiony?",
+      "a": "Při 200 °C 18 až 20 minut. Hotové jsou, když povrch zezlátne a z klobouků začne vytékat šťáva."
+    },
+    {
+      "q": "Musí se žampiony před plněním předpéct?",
+      "a": "Ne. Pečou se přímo s náplní a pustí jen trochu vody. Je-li klobouk velmi velký, předpeč ho 5 minut dnem vzhůru."
+    },
+    {
+      "q": "Dá se plnění připravit předem?",
+      "a": "Ano, vydrží přikryté v lednici do druhého dne. Žampiony plň až těsně před pečením."
+    }
+  ]
+}

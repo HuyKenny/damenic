@@ -1,0 +1,26 @@
+{
+  "name": "Mrkvový koláč s krémem",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Vláčný koláč s ořechy a skořicí, krémová poleva navrch.",
+  "about": [
+    "Mrkev v koláči zní jako výmluva, dokud nezkusíš první kousek. Strouhaná mrkev dodá vláhu a ořechy křupnutí, skořice vše spojí. Smetanová poleva na konci je jen třešnička.",
+    "Smyšlený kurýr by ti koláč nesl s úctou. Doma ho dokážeš stihnout upéct dřív, než zjistíš, že jsi nic neobjednal."
+  ],
+  "price": 9500,
+  "image": "dish-mrkvovy-kolac-nedortik",
+  "recipe": "mrkvovy-kolac",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 210
+}

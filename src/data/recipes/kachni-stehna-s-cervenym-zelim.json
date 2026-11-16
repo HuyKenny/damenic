@@ -1,0 +1,153 @@
+{
+  "title": "Pečená kachní stehna s červeným zelím",
+  "keywords": [
+    "kachní stehna recept",
+    "červené zelí ke kachně recept",
+    "zelí ke kachně recept",
+    "pečená kachní stehna"
+  ],
+  "image": "dish-kachni-stehna-na-priste",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 135,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Kachní stehna se pečou nejdřív pod pokličkou v páře do měkka a pak odkrytá dokřupava. Podávají se s červeným zelím dušeným na jablku, kmínu a octě. Pomalé pečení je tu to těžké: stehno se musí rozpadat u kosti, ale kůže musí zůstat křupavá.",
+  "ingredients": [
+    {
+      "ingredient": "kachni-stehna",
+      "amount": 1000,
+      "unit": "g",
+      "note": "4 stehna s kostí a kůží"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "celý"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "rozdrcené"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "note": "na dno pekáče"
+    },
+    {
+      "ingredient": "zeli-cervene",
+      "amount": 600,
+      "unit": "g",
+      "note": "jemně nakrájené",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 2,
+      "unit": "ks",
+      "note": "oloupaná a nastrouhaná",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "note": "jemně nakrájená",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Zelí"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zelí"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 160 °C (horkovzduch 150 °C). Stehna osuš, na kůži několikrát nařízni nožem bez proříznutí masa, osol, posyp kmínem a majoránkou a vetři česnek."
+    },
+    {
+      "text": "Stehna polož kůží nahoru do pekáče, na dno nalij 150 ml vody, zakryj poklicí nebo alobalem a peč 90 minut."
+    },
+    {
+      "text": "Mezitím zelí: na sádle zesklovatěj cibuli 3 minuty, přidej zelí, jablko, cukr, ocet, bobkový list, nové koření a sůl. Podlij 100 ml vody a duš pod pokličkou 45 až 60 minut do měkka, občas míchej a případně dolij."
+    },
+    {
+      "text": "Pekáč odkryj, troubu zvyš na 200 °C a peč dalších 30 až 40 minut, až kůže zezlátne a zkřupavý. Maso je hotové, když se u kosti rozpadá a teplota uvnitř přesáhne 85 °C, tehdy je kolagen měkký."
+    },
+    {
+      "text": "Stehna nech 10 minut odpočinout. Šťávu a vytopený tuk z pekáče slij do skleničky, oddělit tuk a šťávu vrátit k masu jako omáčku. Podávej se zelím a knedlíkem."
+    }
+  ],
+  "tips": [
+    "Vytopený kachní tuk nevylévej. Je skvělý na pečené brambory a dá se zmrazit.",
+    "Kůži nařezávej jen do tuku, bez zásahu do masa. Tuk se pak lépe vytopí.",
+    "Zelí chutná druhý den ještě lépe. Dá se udělat dopředu a před podáváním ohřát."
+  ],
+  "substitutions": [
+    "Ocet lze nahradit šťávou z poloviny citronu a lžičkou medu.",
+    "Sádlo na dušení zelí nahradíš kachním tukem z pekáče.",
+    "K zelí se hodí i brusinky z kompotu, 2 lžíce na konec dušení."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct kachní stehna?",
+      "a": "Při 160 °C zhruba 90 minut pod pokličkou a pak 30 až 40 minut odkrytá při 200 °C. Celkem asi 2 až 2,5 hodiny, aby maso bylo měkké a kůže křupavá."
+    },
+    {
+      "q": "Jak udělat kachní kůži křupavou?",
+      "a": "Dobře kůži osuš, nařízni ji, nechej se vytopit tuk a na konci peč odkryté při 200 °C. Vlhká kůže zůstane měkká."
+    },
+    {
+      "q": "Jak dlouho dusit červené zelí?",
+      "a": "Jemně nakrájené červené zelí se dusí 45 až 60 minut do měkka. Ocet přidávej hned na začátku, zelí si tak udrží barvu."
+    }
+  ]
+}

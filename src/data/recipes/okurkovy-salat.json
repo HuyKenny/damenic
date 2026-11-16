@@ -1,0 +1,111 @@
+{
+  "title": "Okurkový salát sladkokyselý",
+  "keywords": [
+    "okurkový salát",
+    "klasický okurkový salát",
+    "zálivka na okurkový salát",
+    "nálev na okurkový salát"
+  ],
+  "image": "dish-okurkovy-salat-nula",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "prolití nálevem v lednici",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Okurkový salát v sladkokyselém nálevu z vody, octa a cukru je příloha, kterou si lidé pamatují od babičky. Dvě okurky vyjdou na čtyři porce a rozhoduje jedno: okurky se po nakrájení osolí a vymačkají, jinak se salát rozplave ve vodě. Nálev má jednoduchý poměr, který si zapamatuješ.",
+  "ingredients": [
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 2,
+      "unit": "ks",
+      "note": "asi 700 g, oloupané nebo jen pruhované"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na osolení okurek"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Nálev"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "8% ocet, tedy asi 60 ml",
+      "group": "Nálev"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "asi 30 g",
+      "group": "Nálev"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozlisovaný, nepovinný",
+      "group": "Nálev"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "najemno nasekaný"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "čerstvě mletý"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Okurky omyj a oloupej, případně nech pruhy slupky pro barvu. Nakrájej je na co nejtenčí kolečka, ideálně 2 mm silná. Hoblík na zeleninu to udělá rychle a stejnoměrně."
+    },
+    {
+      "text": "Okurky v míse osol, promíchej a nech 10 minut odstát. Pak je vezmi do dlaní nebo do sítka a lehce vymačkej. Tím se zbavíš přebytečné vody, která by jinak ředila nálev."
+    },
+    {
+      "text": "Do hrnku nalij vodu a ocet, přidej cukr a rozmíchej, dokud se krystalky úplně nerozpustí. Přidej česnek a pepř."
+    },
+    {
+      "text": "Okurky zalij nálevem, přidej kopr a promíchej. Salát nech aspoň 30 minut v lednici, ať okurky nasají chuť. Před podáváním ho ochutnej a případně dosol nebo dosladi."
+    }
+  ],
+  "tips": [
+    "Okurky vymačkávej jemně. Kdo je rozmačká, dostane šedou kaši, kdo je nechá nemačkané, dostane vodnatý salát.",
+    "Poměr nálevu je 100 ml vody, 60 ml octa a 30 g cukru na 2 okurky. Kdo chce salát ostřejší, dá víc octa, kdo sladší, dá víc cukru.",
+    "Salát vydrží v uzavřené misce v lednici 2 dny. Poté okurky měknou a ztrácejí křupavost."
+  ],
+  "substitutions": [
+    "Ocet můžeš nahradit citronovou šťávou, salát bude svěžejší a trochu méně kyselý.",
+    "Cukr jde nahradit lžící medu, nálev pak bude kulatější."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat okurkový salát, aby nebyl vodnatý?",
+      "a": "Okurky nakrájej tence, osol je a po 10 minutách lehce vymačkej. Sůl vytáhne vodu z buněk, takže nálev zůstane výrazný a okurky chrupavé."
+    },
+    {
+      "q": "V jakém poměru se dělá nálev na okurkový salát?",
+      "a": "Základ je 100 ml vody, 60 ml octa a 30 g cukru na dvě okurky. Z toho se dá odvodit větší nebo menší dávka, jen drž poměr 5 : 3 : 1,5."
+    },
+    {
+      "q": "Jak dlouho vydrží okurkový salát v lednici?",
+      "a": "Do dvou dnů. První den je nejlepší, druhý den už okurky trochu změknou. Vydrží i déle, ale ztratí křupavost."
+    }
+  ]
+}

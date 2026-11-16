@@ -1,0 +1,97 @@
+{
+  "title": "Restované žampiony s česnekem",
+  "keywords": [
+    "restované žampiony recept",
+    "žampiony na másle",
+    "smažené houby"
+  ],
+  "image": "dish-restovane-zampiony-chata",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 5,
+  "cookMinutes": 8,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Restované žampiony recept na rychlou přílohu: žampiony se smaží na suché pánvi, až pustí vodu a zhnědnou, a teprve potom se přidá máslo a česnek. Pro dva za 13 minut. Hlavní pravidlo: pánev musí být velká a horká a nesolit předčasně.",
+  "ingredients": [
+    {
+      "ingredient": "zampiony",
+      "amount": 400,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Pánev rozpal na vysoký plamen a dej do ní olej. Žampiony přidej v jedné vrstvě a nech 2 minuty bez míchání, aby zhnědly."
+    },
+    {
+      "text": "Promíchej a smaž dalších 4 až 5 minut, dokud voda nezmizí a plátky nejsou zlatohnědé."
+    },
+    {
+      "text": "Stáhni plamen, přidej máslo, česnek a tymián a míchej 1 minutu, ať česnek nezhořkne. Teprve teď osol a opepři, posyp petrželkou."
+    }
+  ],
+  "tips": [
+    "Pánev nepřeplňuj. Při větším množství smaž v dávkách, jinak se žampiony uduší.",
+    "Sůl přidávej až nakonec, před hnědnutím z hub vytahuje vodu.",
+    "Hodí se ke steaku, k těstovinám nebo na topinku."
+  ],
+  "substitutions": [
+    "Máslo nahraď olivovým olejem.",
+    "Tymián nahraď rozmarýnem nebo majoránkou.",
+    "Přidej lžíci sójové omáčky na závěr, vznikne umami příloha."
+  ],
+  "faq": [
+    {
+      "q": "Jak se restují žampiony, aby nebyly gumové?",
+      "a": "Na horké pánvi v jedné vrstvě a bez soli, dokud nezhnědnou. Sůl a přeplněná pánev způsobí vodnaté, gumové houby."
+    },
+    {
+      "q": "Mají se žampiony před smažením mýt?",
+      "a": "Ne, stačí je očistit vlhkým hadříkem nebo štětečkem. Nasáknou vodu a hůř hnědnou."
+    },
+    {
+      "q": "Jak dlouho vydrží restované žampiony?",
+      "a": "V lednici 2 dny, ohřívej je na pánvi. Nezamrazuj je, změní se jim struktura."
+    }
+  ]
+}

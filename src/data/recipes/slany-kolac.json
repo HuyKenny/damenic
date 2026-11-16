@@ -1,0 +1,131 @@
+{
+  "title": "Slaný koláč se špenátem a fetou",
+  "keywords": [
+    "slaný koláč recept",
+    "slaný koláč",
+    "slaný koláč se špenátem"
+  ],
+  "image": "dish-slany-kolac-zahradka",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 35,
+  "cookMinutes": 45,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Slaný koláč se špenátem a fetou má máslové křehké těsto a vaječnou náplň se smetanou. Těsto se nejdřív předpeče, jinak je dole syrové. Vyjde na šest porcí a hodí se teplý i studený.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 125,
+      "unit": "g",
+      "note": "studené",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "spenat-mrazeny",
+      "amount": 300,
+      "unit": "g",
+      "note": "rozmražený a vymačkaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "feta",
+      "amount": 150,
+      "unit": "g",
+      "note": "rozdrobená",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Náplň"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku, máslo a sůl zpracuj prsty na drobenku, přidej vejce a 1 až 2 lžíce studené vody a těsto spoj. Zabal a nech 30 minut odpočinout v lednici."
+    },
+    {
+      "text": "Troubu předehřej na 190 °C (horkovzduch 175 °C). Těsto rozválej, vlož do formy 26 cm i s okrajem, propíchej vidličkou, přikryj pečicím papírem a zatěžkej fazolemi."
+    },
+    {
+      "text": "Předpeč těsto 15 minut, pak papír s fazolemi sundej a peč ještě 5 minut."
+    },
+    {
+      "text": "Špenát opravdu dobře vymačkej. Smíchej s feta sýrem, vejci rozšlehanými se smetanou, česnekem, muškátovým oříškem a pepřem. Sůl dávej opatrně, feta je slaná."
+    },
+    {
+      "text": "Náplň vlij na předpečený korpus. Peč při 180 °C (horkovzduch 165 °C) 25 až 30 minut, dokud náplň není ztuhlá a jen lehce nadýchaná. Nech 10 minut odpočinout."
+    }
+  ],
+  "tips": [
+    "Špenát vymačkej v čisté utěrce, vlhkost je nejčastější příčina rozbředlého koláče.",
+    "Předpečení těsta se nevynechává, jinak je spodek měkký.",
+    "Koláč je dobrý i studený, vydrží 3 dny v lednici."
+  ],
+  "substitutions": [
+    "Špenát nahraď brokolicí, sýr fetu nahraď kozím sýrem.",
+    "Smetanu ke vaření lze nahradit smetanou ke šlehání ve stejném množství."
+  ],
+  "faq": [
+    {
+      "q": "Jak zabránit tomu, aby byl spodek koláče syrový?",
+      "a": "Těsto předpeč naslepo 15 až 20 minut a špenát důkladně vymačkej. Teprve pak nalij náplň."
+    },
+    {
+      "q": "Jaká je správná teplota u slaného koláče?",
+      "a": "Vaječná náplň je upečená, když se uprostřed už nechvěje a je lehce zatuhlá, asi 25 až 30 minut při 180 °C."
+    },
+    {
+      "q": "Kolik vydrží slaný koláč?",
+      "a": "3 dny v lednici, zahřívej v troubě. Mikrovlnka těsto změkčí."
+    }
+  ]
+}

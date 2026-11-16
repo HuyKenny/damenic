@@ -1,0 +1,22 @@
+{
+  "name": "Tatarská omáčka, miska",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Domácí, s vejcem, okurkami a kapary. K smaženému sýru a rybě.",
+  "about": [],
+  "price": 2900,
+  "image": "dish-tatarska-omacka",
+  "recipe": "tatarska-omacka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 550
+}

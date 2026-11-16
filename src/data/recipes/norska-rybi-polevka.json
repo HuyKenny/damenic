@@ -1,0 +1,131 @@
+{
+  "title": "Norská rybí polévka s lososem a smetanou",
+  "keywords": [
+    "norská rybí polévka",
+    "krémová rybí polévka",
+    "rybí polévka z file",
+    "recept na rybí polévku"
+  ],
+  "image": "dish-norska-rybi-polevka-rare",
+  "category": "polevky",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Norská rybí polévka je krémová polévka s lososem, mrkví a bramborami. Je to bohaté jídlo, které se vejde do 45 minut a je pro čtyři porce. Ryba se vkládá až na posledních 5 minut, aby zůstala šťavnatá a nerozpadla se.",
+  "ingredients": [
+    {
+      "ingredient": "losos-filet",
+      "amount": 300,
+      "unit": "g",
+      "note": "bez kůže, na kostky 2 cm"
+    },
+    {
+      "ingredient": "treska-filet",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostky 2 cm"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "por",
+      "amount": 100,
+      "unit": "g",
+      "note": "na půlkolečka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 800,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaný"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozpusť máslo a na středním plameni 3 minuty restuj por a mrkev. Posyp moukou a minutu míchej."
+    },
+    {
+      "text": "Zalij vývarem, přidej brambory a vař 12 až 15 minut, dokud nejsou brambory měkké."
+    },
+    {
+      "text": "Vlij smetanu a přiveď k mírnému varu. Přidej kostky lososa a tresky a vař 4 až 5 minut na slabém plameni, nesmí prudce vřít."
+    },
+    {
+      "text": "Ryba je hotová, když je maso nepruhledné a po lehkém zatlačení se láme. Vmíchej kopr a šťávu z citronu, dosol a opepři."
+    }
+  ],
+  "tips": [
+    "Rybu přidávej až na konec, jinak se rozvaří.",
+    "Polévku nevař ve vyšší teplotě, smetana by se mohla srazit.",
+    "Ochutnej po přidání citronu, bez kyselosti bývá polévka plochá."
+  ],
+  "substitutions": [
+    "Treska nahraď dalším lososem nebo jinou bílou rybou.",
+    "Smetanu nahraď kokosovým mlékem.",
+    "Pro hustší polévku rozmačkej část brambor."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří ryba v polévce?",
+      "a": "Jen 4 až 5 minut na slabém plameni. Delší vaření z ní dělá suché vlákno."
+    },
+    {
+      "q": "Dá se rybí polévka zamrazit?",
+      "a": "Nedoporučuje se kvůli smetaně a bramborám. V lednici vydrží 1 až 2 dny a ohřívá se bez varu."
+    },
+    {
+      "q": "Jak udělat polévku zdravější?",
+      "a": "Smetanu nahraď mlékem nebo použij nižší tučnost, chuť ale bude méně plná."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Bezlepkové knedlíky, 4 ks",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Bramborové těsto z bezlepkové mouky. Drží pohromadě lépe než tvůj den.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-bezlepkove-knedliky",
+  "recipe": "bezlepkove-knedliky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3
+  ],
+  "featured": false,
+  "order": 560
+}

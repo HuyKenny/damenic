@@ -1,0 +1,139 @@
+{
+  "title": "Studený čočkový salát s paprikou a rajčaty",
+  "keywords": [
+    "čočkový salát recept",
+    "studený čočkový salát",
+    "čočkový salát",
+    "salát z čočky"
+  ],
+  "image": "dish-cockovy-salat-nula",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí čočky",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Studený čočkový salát je sytý bezmasý oběd z hnědé čočky, papriky, rajčat a červené cibule v hořčicové zálivce. Čočka se vaří 20 až 25 minut a nesmí se rozvařit, jinak je z ní kaše. Zálivka se přidává ještě na teplou čočku, aby ji nasála.",
+  "ingredients": [
+    {
+      "ingredient": "cocka-hneda",
+      "amount": 200,
+      "unit": "g",
+      "note": "suchá"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 600,
+      "unit": "ml",
+      "note": "na vaření"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do vody"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "asi 45 ml",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "ocet-vinny",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "asi 30 ml",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "horcice-dijonska",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozlisovaný",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zálivka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Čočku propláchni na sítě a vlož do hrnce s vodou a bobkovým listem. Přiveď k varu, stáhni plamen a vař 20 až 25 minut, dokud není měkká, ale drží tvar. Sůl přidej v posledních 5 minutách."
+    },
+    {
+      "text": "Čočku slij, bobkový list vyndej a nech ji krátce okapat. Zálivku udělej smícháním oleje, octa, hořčice, česneku a pepře."
+    },
+    {
+      "text": "Ještě teplou čočku zalij zálivkou a promíchej. Nech ji 30 minut vychladnout, ať zálivku nasaje."
+    },
+    {
+      "text": "Přidej papriku, rajčata, cibuli a petrželku, promíchej a ochutnej. Případně dosol a přidej ocet."
+    }
+  ],
+  "tips": [
+    "Čočku nenamáčej, hnědá čočka se uvaří i bez namáčení. Namočená se rozvaří dřív.",
+    "Teplou čočku zalévej zálivkou ihned, studená už nechá chuť jen na povrchu.",
+    "Salát vydrží v lednici 3 dny a druhý den je chuťově ještě lepší."
+  ],
+  "substitutions": [
+    "Hnědou čočku můžeš nahradit zelenou nebo černou beluga, ty drží tvar ještě lépe. Červená čočka na salát nejde, rozvaří se.",
+    "Hořčici nahraď lžičkou medu a lžící citronové šťávy, pokud chceš sladší chuť."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit čočku do salátu?",
+      "a": "Hnědá čočka 20 až 25 minut, černá beluga asi 20 minut. Ochutnej, měla by být měkká, ale ne rozpadlá. Červená čočka se na salát nehodí."
+    },
+    {
+      "q": "Musí se čočka na salát namáčet?",
+      "a": "Ne. Hnědá a zelená čočka se uvaří i bez namáčení. Dávej na ni pozor, aby se nerozvařila."
+    },
+    {
+      "q": "Jak dlouho vydrží čočkový salát v lednici?",
+      "a": "Do 3 dnů v uzavřené misce. Druhý den je chuť plnější. Rajčata přidej až těsně před jídlem, aby se salát nerozmočil."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Krkovice s cibulí a paprikou",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "main",
+  "section": "Z pánve",
+  "description": "Plátky krkovice z pánve, pod nimi cibule a zelená paprika. Na talíři nic, v receptu všechno.",
+  "about": [
+    "Krkovice je maso, které odpouští. Tuk z ní pomůže udržet šťavu, takže se vejde i do pánve. Tenké plátky se opečou, přikryjí cibulí a papriku s majoránkou podusí. Voní to jako kuchyně u babičky, jen rychleji.",
+    "K tomu stačí chleba nebo brambory. V receptu to zabere méně než půl hodiny, u nás to nezabere vůbec nic."
+  ],
+  "price": 18900,
+  "image": "dish-krkovice-cibule-hotovo",
+  "recipe": "krkovice-na-panvi-s-cibuli",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "order": 100
+}

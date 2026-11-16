@@ -1,0 +1,17 @@
+{
+  "name": "Okurkový salát",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Tenké plátky okurky s koprem a lehkým octovým nálevem.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-salat-okurkovy-hotovo",
+  "recipe": null,
+  "featured": false,
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 10
+}

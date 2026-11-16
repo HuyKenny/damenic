@@ -1,0 +1,111 @@
+{
+  "title": "Klasické italské rizoto s parmazánem",
+  "keywords": [
+    "klasické rizoto recept",
+    "italské rizoto recept",
+    "rizoto s parmazánem"
+  ],
+  "image": "dish-klasicke-rizoto-domani",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Klasické rizoto recept pro tři na jedné pánvi a za půl hodiny: rýže arborio se vaří postupným přiléváním horkého vývaru a nakonec se vymíchá s máslem a parmazánem. Celé umění je v trpělivosti a v tom, že rizoto nikdy nezapomeneš na plameni.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-arborio",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 900,
+      "unit": "ml",
+      "note": "udržuj ho horký na vedlejší plotně"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "20 g na začátek, 20 g na konec"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 50,
+      "unit": "g",
+      "note": "jemně nastrouhaný"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vývar zahřej v hrnci do mírného varu a drž ho horký po celou dobu. Studený vývar zastaví vaření rýže."
+    },
+    {
+      "text": "Na pánvi rozpusť polovinu másla s olejem, přidej cibuli a nech ji 4 minuty měknout, aby nezhnědla."
+    },
+    {
+      "text": "Přidej rýži a 1 až 2 minuty ji míchej, dokud nezprůsvitní u okrajů. Zalij ji dvěma naběračkami vývaru a míchej na středním plameni."
+    },
+    {
+      "text": "Pokaždé, když rýže vývar skoro vstřebá, přidej další naběračku. Takhle pokračuj 18 až 20 minut. Rýže je hotová, když je středem jen lehce pevná a rizoto teče na talíři."
+    },
+    {
+      "text": "Stáhni z ohně, vmíchej zbytek másla, parmazán a šťávu z citronu. Přikryj a nech 2 minuty odpočinout. Dosol až nakonec, parmazán je slaný."
+    }
+  ],
+  "tips": [
+    "Použij rýži arborio nebo carnaroli. Dlouhozrnná rýže nevypustí škrob a rizoto bude suché.",
+    "Rizoto se nemá prát ani promývat. Škrob na zrnech dělá krémovost.",
+    "Konzistence má být tekoucí, ne kaše: rizoto se po otočení talíře samo roztéká."
+  ],
+  "substitutions": [
+    "Zeleninový vývar nahraď kuřecím. Pak už jídlo není vegetariánské.",
+    "Parmazán nahraď pecorinem nebo grana padano.",
+    "Pro veganskou verzi použij rostlinné máslo a kvasnicové vločky místo sýra."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří rizoto?",
+      "a": "Od přidání rýže asi 18 až 20 minut. Tolik trvá, než zrna postupně nasají vývar a změknou, ale uprostřed zůstanou lehce pevná."
+    },
+    {
+      "q": "Proč je moje rizoto lepkavé?",
+      "a": "Nejspíš sis vzal nevhodnou rýži nebo ji míchal moc dlouho. Použij arborio, míchej klidně a nepřidávej vývar příliš najednou."
+    },
+    {
+      "q": "Jak dlouho vydrží hotové rizoto?",
+      "a": "V lednici 1 až 2 dny, ohřívej s lžící vývaru. Rizoto s rýží patří k jídlům, která se nemají nechat stát při pokojové teplotě."
+    }
+  ]
+}

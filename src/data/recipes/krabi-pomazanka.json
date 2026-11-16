@@ -1,0 +1,109 @@
+{
+  "title": "Krabí pomazánka s vejcem a koprem",
+  "keywords": [
+    "krabí pomazánka recept",
+    "krabí pomazánka",
+    "pomazánka z krabích tyčinek",
+    "krabí pomazánka s vejcem"
+  ],
+  "image": "dish-krabi-pomazanka-oblozeno",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Krabí pomazánka z krabích tyčinek, smetanového sýra, vajec a kopru je lehká, jemná pomazánka na chlebíčky i na pečivo. Z 200 g tyčinek vyjde asi 400 g pomazánky. Tyčinky se strouhají nebo krájí najemno a před mícháním se musí rozmrazit a osušit.",
+  "ingredients": [
+    {
+      "ingredient": "krabi-tycinky",
+      "amount": 200,
+      "unit": "g",
+      "note": "rozmrazené a osušené"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 100,
+      "unit": "g",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "uvařená natvrdo"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "asi 30 g"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "najemno nasekaný"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "jen šťáva"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce vař natvrdo 10 minut od varu, ochlaď a oloupej. Poté je nastrouhej na jemném struhadle."
+    },
+    {
+      "text": "Krabí tyčinky nakrájej na malé kousky nebo je nastrouhej na hrubém struhadle. Pokud jsou mražené, rozmrazuj je v lednici a před mícháním je osuš kuchyňským papírem."
+    },
+    {
+      "text": "Smetanový sýr rozmíchej s majonézou a citronovou šťávou do hladka. Přidej tyčinky, vejce, cibulku, kopr a pepř."
+    },
+    {
+      "text": "Vše promíchej a ochutnej. Pomazánku nech půl hodiny odležet v lednici a před natíráním ji znovu promíchej."
+    }
+  ],
+  "tips": [
+    "Pomazánka je lehce slaná sama od sebe. Sůl přidávej až po ochutnání.",
+    "Čím jemněji nakrájíš tyčinky, tím lépe se pomazánka natírá a drží na chlebíčku.",
+    "Pomazánka s vejci a rybou vydrží v lednici 2 dny, na stole ji nenech déle než 2 hodiny."
+  ],
+  "substitutions": [
+    "Smetanový sýr můžeš nahradit tvarohem nebo hustým jogurtem a majonézu vynechat, pomazánka bude lehčí.",
+    "Krabí tyčinky lze zaměnit za uzenou makrelu bez kůže a kostí, chuť bude výraznější."
+  ],
+  "faq": [
+    {
+      "q": "Z čeho se dělá krabí pomazánka?",
+      "a": "Z krabích tyčinek, smetanového sýra, vajec natvrdo, majonézy a čerstvých bylinek. Tyčinky se krájí nebo strouhají najemno."
+    },
+    {
+      "q": "Jak dlouho vydrží krabí pomazánka?",
+      "a": "Do 2 dnů v lednici v uzavřené nádobě. Obsahuje rybu, vejce a majonézu, proto ji nenech na stole déle než 2 hodiny."
+    },
+    {
+      "q": "Co jsou krabí tyčinky a z čeho jsou?",
+      "a": "Jsou to tyčinky z rybí hmoty (surimi), vaječného bílku a škrobu ochucené krabím extraktem. Nejsou z krabího masa, ale mohou obsahovat korýše a lepek."
+    }
+  ],
+  "occasions": [
+    "silvestr"
+  ]
+}

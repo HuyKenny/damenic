@@ -1,0 +1,18 @@
+{
+  "name": "Přílohové noky",
+  "restaurant": "trattoria-domani",
+  "kind": "side",
+  "section": "Přílohy a nápoje",
+  "description": "Měkké noky z mouky a vajec k omáčkám a guláši.",
+  "about": [],
+  "price": 6900,
+  "image": "dish-prilohove-noky-domani",
+  "recipe": "prilohove-noky",
+  "vegetarian": true,
+  "order": 75,
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

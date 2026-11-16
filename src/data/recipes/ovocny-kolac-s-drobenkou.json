@@ -1,0 +1,137 @@
+{
+  "title": "Ovocný koláč s drobenkou na plech",
+  "keywords": [
+    "ovocný koláč s drobenkou",
+    "ovocný koláč",
+    "ovocný koláč s drobenkou na plech",
+    "ovocný koláč s drobenkou jednoduchý"
+  ],
+  "image": "dish-ovocny-kolac-s-drobenkou-nedortik",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 30,
+  "cookMinutes": 40,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Ovocný koláč s drobenkou na plech vyjde na 12 velkých kusů a základem je jednoduché mléčné těsto bez kynutí. Rozhoduje to, aby ovoce nebylo příliš šťavnaté a drobenka se dělala ze studeného másla, jinak se z ní stane těsto.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 120,
+      "unit": "g",
+      "note": "rozpuštěné a vychladlé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 4,
+      "unit": "ks",
+      "note": "oloupaná a nakrájená na plátky",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "boruvky",
+      "amount": 125,
+      "unit": "g",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "studené, nakrájené na kostky",
+      "group": "Drobenka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 165 °C). Plech nebo pekáč 25 × 35 cm vymaž máslem a vysyp moukou."
+    },
+    {
+      "text": "Vejce rozšlehej s cukrem a vanilkovým cukrem. Přilij mléko a rozpuštěné vychladlé máslo. Přidej mouku smíchanou s práškem a krátce promíchej, jen aby zmizely hrudky."
+    },
+    {
+      "text": "Těsto rozetři do formy. Na něj rozlož plátky jablek a posyp borůvkami."
+    },
+    {
+      "text": "Mouku, cukr a studené máslo na drobenku zpracuj prsty na hrubé drobky velikosti hrachu. Nasyp je rovnoměrně na ovoce."
+    },
+    {
+      "text": "Peč 35 až 40 minut, dokud drobenka nezezlátne a špejle zapíchnutá do těsta nevyjde čistá. Nech koláč 15 minut vychladnout ve formě."
+    }
+  ],
+  "tips": [
+    "Šťavnaté ovoce (třešně, borůvky) posyp před drobenkou lžící krupice nebo ovesných vloček, která vsákne šťávu.",
+    "Drobenku nikdy nehněť dlouho. Teplé ruce máslo rozpustí a drobenka bude mazlavá. Vyhovuje i několik minut v mrazáku.",
+    "Koláč nech před krájením vychladnout, ovoce se ustálí a nerozpadá se."
+  ],
+  "substitutions": [
+    "Jablka a borůvky můžeš nahradit 600 g meruněk, švestek nebo rebarbory (rebarboru posyp 2 lžícemi cukru navíc).",
+    "Máslo v těstě nahraď stejným množstvím oleje, drobenka zůstane máslová."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat drobenku, aby nebyla tvrdá?",
+      "a": "Použij studené máslo a zpracuj ji jen do hrubých drobků. Příliš hnětená drobenka se spojí v těsto a po upečení ztvrdne."
+    },
+    {
+      "q": "Kdy je ovocný koláč upečený?",
+      "a": "Drobenka je zlatá a zápich špejlí do těsta vyjde suchý. Nejdřív zapíchni na kraji, aby tě nezmátla šťáva z ovoce."
+    },
+    {
+      "q": "Jaké ovoce se na koláč s drobenkou hodí nejlépe?",
+      "a": "Jablka, švestky, meruňky, třešně nebo borůvky. Pevné ovoce se krájí na plátky, měkké zůstane vcelku."
+    }
+  ]
+}

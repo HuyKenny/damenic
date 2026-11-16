@@ -1,0 +1,159 @@
+{
+  "title": "Keema matar: mleté hovězí s hráškem",
+  "keywords": [
+    "mleté hovězí maso recept",
+    "keema matar",
+    "indické mleté maso s hráškem",
+    "mleté hovězí maso na pánvi"
+  ],
+  "image": "dish-keema-matar-mozna",
+  "category": "indicka",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Keema matar je indické mleté hovězí maso s hráškem, rajčaty a koření garam masala, které se podává s basmati rýží nebo plackou. Dělá se na jedné pánvi za 50 minut. Těžké je opravdu opéct cibuli dohněda, protože právě ta dává kari hloubku.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 250,
+      "unit": "g",
+      "note": "najemno nasekaná"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 20,
+      "unit": "g",
+      "note": "najemno nastrouhaný"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "garam-masala",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 250,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nasekaný, na posypání"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 250,
+      "unit": "g",
+      "note": "propláchnutá",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 450,
+      "unit": "ml",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do větší pánve nalij olej a opékej cibuli na středním ohni 10 až 12 minut dohněda, občas promíchej. Barva cibule určuje chuť."
+    },
+    {
+      "text": "Přidej česnek, zázvor a chilli a smaž 1 minutu. Vmíchej kmín, mletý koriandr a kurkumu a nech 30 sekund vonět."
+    },
+    {
+      "text": "Přidej mleté maso, rozmělni ho a opékej 8 minut, dokud nezmizí růžová barva. Mleté maso musí být důkladně propečené."
+    },
+    {
+      "text": "Vmíchej rajčata, sůl a jogurt a duš 15 minut na mírném ohni, občas promíchej. Přidej mražený hrášek a povař 5 minut."
+    },
+    {
+      "text": "Rýži dej s 450 ml vody a špetkou soli do hrnce, přiveď k varu, přikryj a vař 12 minut na minimálním plameni. Pak 5 minut odstav."
+    },
+    {
+      "text": "Do keemy vmíchej garam masalu a ochutnej. Podávej s rýží a koriandrem."
+    }
+  ],
+  "tips": [
+    "Jogurt přidávej na mírném ohni a míchej, ať se nesrazí.",
+    "Garam masalu přidej až na konec, jinak pozbude aroma.",
+    "Keema se dobře mrazí a druhý den je chuťově ještě bohatší."
+  ],
+  "substitutions": [
+    "Hovězí mleté lze nahradit mletým jehněčím, tradičním masem keemy.",
+    "Jogurt nahradí 2 lžíce rajčatového protlaku.",
+    "Hrášek lze nahradit nakrájenou mrkví."
+  ],
+  "faq": [
+    {
+      "q": "Co znamená keema matar?",
+      "a": "Keema je mleté maso a matar je hrášek. Je to jednoduché indické jídlo z mletého masa s hráškem a kořením."
+    },
+    {
+      "q": "Čím podávat keemu?",
+      "a": "S basmati rýží, naanem, plackami nebo i v pitě. Hodí se k ní jogurtový dip s okurkou."
+    },
+    {
+      "q": "Jak poznat, že je mleté hovězí propečené?",
+      "a": "Nesmí zůstat žádné růžové kousky a maso se musí rozpadat. Mleté maso se smaží minimálně 8 minut."
+    }
+  ]
+}

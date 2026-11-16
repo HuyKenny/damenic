@@ -1,0 +1,112 @@
+{
+  "title": "Pečený kapr s bylinkami a česnekem",
+  "keywords": [
+    "pečený kapr recept",
+    "kapr v troubě recept",
+    "kapr recept na másle"
+  ],
+  "image": "dish-peceny-kapr-rare",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 40,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Pečený kapr s bylinkami a česnekem je ryba z trouby místo smažení, tedy bez oleje, který voní po celém bytě. Porce kapra se nařežou přes kosti, osolí, potřou máslem a upečou při 200 °C. Recept pro čtyři, hotový za asi hodinu.",
+  "ingredients": [
+    {
+      "ingredient": "kapr-porce",
+      "amount": 1000,
+      "unit": "g",
+      "note": "4 porce s kůží, naříznuté přes kosti po 1 cm"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 600,
+      "unit": "g",
+      "note": "na přílohu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu zapni na 200 °C, horkovzduch 180 °C. Porce kapra osuš a hustě nařízni po 1 cm až k páteři, aby se protnuly drobné kosti."
+    },
+    {
+      "text": "Rybu osol a opepři z obou stran, nech 15 minut odpočinout. Smíchej rozpuštěné máslo s prolisovaným česnekem, tymiánem a šťávou z půlky citronu."
+    },
+    {
+      "text": "Porce dej na plech s pečicím papírem kůží nahoru a potři máslem. Pod ně rozlož brambory nakrájené na plátky."
+    },
+    {
+      "text": "Peč 35 až 40 minut, každých 15 minut přelij šťávou z plechu. Je hotový, když je maso u kosti nepruhledné, dělí se od kosti a uvnitř má 63 °C."
+    },
+    {
+      "text": "Posyp petrželkou a podávej s citronem."
+    }
+  ],
+  "tips": [
+    "Nařezání kapra přes kosti je hlavní trik: malé kosti jsou pak měkké a nepřekáží.",
+    "Syrový kapr vydrží v lednici jen 1 až 2 dny.",
+    "Naříznuté porce nech před pečením 15 minut osolené, maso se zpevní a lépe se peče."
+  ],
+  "substitutions": [
+    "Máslo nahraď olivovým olejem.",
+    "Tymián nahraď rozmarýnem nebo koprem.",
+    "Bramborové plátky lze nahradit bramborovým salátem jako příloha."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se peče kapr v troubě?",
+      "a": "Při 200 °C 35 až 40 minut u porcí o tloušťce 3 cm. Hotový je, když se maso snadno odděluje od kosti."
+    },
+    {
+      "q": "Proč má kapr bahnitou chuť?",
+      "a": "Je to chuť z vody, ve které žil. Pomůže ho před zpracováním několik dní nechat v čisté vodě a před pečením nařezat a osolit."
+    },
+    {
+      "q": "Jak dlouho vydrží syrový kapr?",
+      "a": "V lednici nejvýš 1 až 2 dny. Můžeš ho zmrazit na 2 až 3 měsíce."
+    }
+  ],
+  "occasions": [
+    "vanoce"
+  ]
+}

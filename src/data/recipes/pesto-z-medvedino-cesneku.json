@@ -1,0 +1,91 @@
+{
+  "title": "Pesto z medvědího česneku",
+  "keywords": [
+    "pesto z medvědího česneku recept",
+    "medvědí česnek pesto",
+    "pesto z medvědího česneku",
+    "pesto z medvědího česneku s parmazánem"
+  ],
+  "image": "dish-pesto-z-medvedino-cesneku",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Pesto z medvědího česneku se dělá ze čerstvých listů, ořechů, parmazánu a olivového oleje. Chutná jako česnek v jarní verzi, ale jemněji. Listy se sbírají od března do května a pesto se mixuje bez vaření, takže se hlídá hlavně to, aby se nepřehřálo.",
+  "ingredients": [
+    {
+      "ingredient": "medvedi-cesnek",
+      "amount": 100,
+      "unit": "g",
+      "note": "listy, opláchnuté a osušené"
+    },
+    {
+      "ingredient": "piniove-orisky",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 50,
+      "unit": "g",
+      "note": "jemně nastrouhaný"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 150,
+      "unit": "ml",
+      "note": "extra panenský"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Listy medvědího česneku důkladně propláchni ve studené vodě a pečlivě je osuš v utěrce nebo salátovém odstředivce. Mokré listy zředí pesto a zkrátí trvanlivost."
+    },
+    {
+      "text": "Piniové oříšky krátce opeč na suché pánvi 2 až 3 minuty, dokud nezačnou vonět. Nech je vychladnout."
+    },
+    {
+      "text": "Do mixéru nebo vysoké nádoby dej listy nasekané nahrubo, oříšky, parmazán a polovinu oleje. Rozmixuj najemno, po půlminutě zastav a stěrkou setři okraje."
+    },
+    {
+      "text": "Přidej zbytek oleje, citronovou šťávu a sůl. Mixuj jen do požadované hrubosti. Pesto přendej do čisté sklenice a zalij tenkou vrstvou oleje, aby nehnědlo."
+    }
+  ],
+  "tips": [
+    "Mixuj krátce a po dávkách. Dlouhé mixování listy zahřeje, pesto zhořkne a ztmavne.",
+    "Pesto uchovávej v lednici, zakryté vrstvou oleje, a spotřebuj do 5 až 7 dnů. Zbytek můžeš zamrazit po lžících."
+  ],
+  "substitutions": [
+    "Piniové oříšky nahradíš slunečnicovými semínky nebo vlašskými ořechy.",
+    "Parmazán nahradíš pecorinem nebo grana padano. Pro veganskou verzi přidej 2 lžíce kvasnicových vloček."
+  ],
+  "faq": [
+    {
+      "q": "Kdy se sbírá medvědí česnek?",
+      "a": "Od března do května, než vykvete. Poznáš ho podle charakteristické vůně česneku a široce kopinatých listů, které rostou jednotlivě na dlouhých řapících. Nikdy ho nesbírej, pokud si nejsi jistý, protože jej lze zaměnit s jedovatými rostlinami."
+    },
+    {
+      "q": "Jak dlouho vydrží pesto z medvědího česneku?",
+      "a": "V lednici ve zavřené sklenici pod vrstvou oleje 5 až 7 dnů. Zamrazené po lžících vydrží několik měsíců."
+    },
+    {
+      "q": "K čemu se pesto z medvědího česneku hodí?",
+      "a": "K těstovinám, na chleba, do rizota, k vejcím nebo jako omáčka k pečenému masu a bramborám."
+    }
+  ]
+}

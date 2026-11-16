@@ -1,0 +1,17 @@
+{
+  "name": "Perlivá voda s limetkou",
+  "restaurant": "peceni-na-priste",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Studená perlivá voda s limetkou. Nejčistší nápoj, který tu nabízíme.",
+  "about": [],
+  "price": 3900,
+  "image": "dish-voda-perliva-na-priste",
+  "recipe": null,
+  "featured": false,
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 20
+}

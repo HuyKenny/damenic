@@ -1,0 +1,161 @@
+{
+  "title": "Trhané hovězí maso z trouby",
+  "keywords": [
+    "trhané hovězí maso recept",
+    "trhané hovězí maso",
+    "hovězí plec v troubě",
+    "trhané hovězí tacos"
+  ],
+  "image": "dish-tacos-trhane-hovezi-nic",
+  "category": "mexicka",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 240,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek masa před trháním",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Trhané hovězí maso se peče 4 hodiny pod pokličkou při 150 °C, až se rozpadá vidličkou. Hovězí plec se potře uzenou paprikou, římským kmínem a oreganem, opeče a podlije vývarem s rajčatovým protlakem. Hotové maso se hodí do tacos, burrit i na chléb.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-plec",
+      "amount": 1200,
+      "unit": "g",
+      "note": "vcelku, jeden kus"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "nahrubo nakrájená"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "tortilly",
+      "amount": 6,
+      "unit": "ks",
+      "note": "k podávání",
+      "group": "Na podávání"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na tenké plátky",
+      "group": "Na podávání"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na šťávu",
+      "group": "Na podávání"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nasekaný",
+      "group": "Na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 150 °C. Smíchej sůl, pepř, uzenou papriku, kmín, oregano a cukr a směsí maso ze všech stran potři."
+    },
+    {
+      "text": "V pekáči s poklicí rozpal olej a plec opeč ze všech stran dozlatova, celkem 8 až 10 minut. Maso vyndej."
+    },
+    {
+      "text": "Do pekáče vlož cibuli a česnek, opékej 3 minuty. Vmíchej protlak, vlij vývar a ocet, seškrábni výpek. Maso vrať, přikryj poklicí nebo pevně alobalem."
+    },
+    {
+      "text": "Peč 3,5 až 4 hodiny. Maso je hotové, když teploměr ukáže 90 až 95 °C a vidlička do něj zajede bez odporu."
+    },
+    {
+      "text": "Plec nech 10 minut odpočinout v šťávě. Pak ji vidličkami roztrhej na vlákna, vmíchej část šťávy z pekáče a dochuť solí a limetkovou šťávou."
+    },
+    {
+      "text": "Tortilly krátce prohřej na suché pánvi. Plň trhaným masem, červenou cibulí a koriandrem a podávej s limetkou."
+    }
+  ],
+  "tips": [
+    "Maso se trhá nejlépe, když je horké. Vlákna se pak oddělí bez námahy.",
+    "Šťávu z pekáče nevylévej. Zredukuj ji a lej na maso, ať nevyschne.",
+    "Maso se dá upéct den dopředu, vydrží v lednici v šťávě 3 dny a zahřeje se pomalu na pánvi."
+  ],
+  "substitutions": [
+    "Hovězí plec nahradí hovězí kližka, trvá o něco déle.",
+    "Uzenou papriku nahradíš sladkou s trochou chilli.",
+    "Vývar z kostek rozpuštěných ve vodě funguje stejně."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct trhané hovězí maso?",
+      "a": "Při 150 °C asi 3,5 až 4 hodiny pod pokličkou. Přesný čas určí kus masa, hotové je při teplotě 90 až 95 °C, kdy se rozpadá."
+    },
+    {
+      "q": "Jak uchovat trhané hovězí maso?",
+      "a": "V uzavřené nádobě v šťávě v lednici 3 dny, v mrazáku 3 měsíce. Rozmrazuj v lednici a ohřívej pomalu, aby maso nevyschlo."
+    },
+    {
+      "q": "Jaké maso se hodí na trhané hovězí?",
+      "a": "Hovězí plec nebo kližka, tedy maso s pojivovou tkání, které se dlouhým vařením rozpadne. Libové maso, třeba svíčková, se nehodí."
+    }
+  ]
+}

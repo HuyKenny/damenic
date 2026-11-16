@@ -1,0 +1,20 @@
+{
+  "name": "Klasické rizoto s parmazánem",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Rizoto a gnocchi",
+  "description": "Krémové rizoto z rýže arborio, másla a parmazánu, bez spěchu.",
+  "about": [
+    "Rizoto se dělá postupným přiléváním horkého vývaru a stálým mícháním. Škrob se uvolňuje ze zrn a rizoto zhoustne samo, bez smetany. Na závěr se vmíchá máslo a parmazán.",
+    "V simulaci to vypadá jednoduše: klikneš a máš. V kuchyni je to dvacet minut u plotny."
+  ],
+  "price": 21900,
+  "image": "dish-klasicke-rizoto-domani",
+  "recipe": "klasicke-rizoto",
+  "vegetarian": true,
+  "order": 65,
+  "allergens": [
+    7,
+    9
+  ]
+}

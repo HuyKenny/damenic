@@ -1,0 +1,113 @@
+{
+  "title": "Špekové knedlíky",
+  "keywords": [
+    "špekové knedlíky recept",
+    "houskové knedlíky se špekem",
+    "špekový knedlík",
+    "knedlíky se slaninou"
+  ],
+  "image": "dish-spekove-knedliky",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "priloha",
+  "intro": "Špekové knedlíky jsou houskové knedlíky s osmaženou slaninou a cibulí v těstě. Dělají se z oschlých rohlíků, mléka a mouky a chutnají po uzeném. Vaří se ve dvou velkých šiškách a před krájením se nechají chvíli odpočinout.",
+  "ingredients": [
+    {
+      "ingredient": "rohliky",
+      "amount": 6,
+      "unit": "ks",
+      "note": "starší, nakrájené na kostky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vlažné"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 100,
+      "unit": "g",
+      "note": "nakrájená na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na vaření",
+      "group": "Vaření"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Slaninu opeč na suché pánvi 4 až 5 minut do zlatova. Přidej cibuli a smaž ještě 2 minuty. Nech vychladnout."
+    },
+    {
+      "text": "Do mísy dej kostky rohlíků, zalij vlažným mlékem a nech 10 minut nasáknout. Přidej vejce, slaninu s cibulí, petrželku a sůl."
+    },
+    {
+      "text": "Přidej mouku a směs promíchej. Těsto má držet pohromadě, ale být ještě lepkavé. Podle potřeby doplň trochu mouky nebo mléka."
+    },
+    {
+      "text": "Rozděl na dvě půlky, z každé vytvaruj válec o délce asi 18 cm. Vlož do vroucí osolené vody, přiklop a vař 20 minut, v půli vaření otoč."
+    },
+    {
+      "text": "Hotové válce vyndej, ihned je dvakrát nebo třikrát propíchej vidličkou a nech 3 minuty odpočinout. Krájej nití nebo ostrým nožem."
+    }
+  ],
+  "tips": [
+    "Slaninu nech vychladnout, než ji přidáš do těsta. Horká by vejce zavařila.",
+    "Knedlíky krájej nití nebo nožem namočeným ve vodě, nepřilepí se."
+  ],
+  "substitutions": [
+    "Slaninu nahradíš uzeným masem nebo špekáčky nakrájenými na kostičky.",
+    "Rohlíky nahradíš 300 g starší veky.",
+    "Mléko nahradíš vodou, knedlíky budou méně jemné."
+  ],
+  "faq": [
+    {
+      "q": "Proč se špekový knedlík rozpadá?",
+      "a": "Těsto bylo příliš řídké, nebo mělo málo mouky. Přidej lžíci až dvě mouky a zkus uvařit zkušební knedlík."
+    },
+    {
+      "q": "Dá se špekový knedlík uvařit v páře?",
+      "a": "Ano. Válec zabal do fólie a vař v páře 25 minut."
+    },
+    {
+      "q": "Jak ohřát zbylý špekový knedlík?",
+      "a": "Plátky ohřej v páře, v mikrovlnné troubě pod pokličkou, nebo je opeč na pánvi do křupava."
+    }
+  ]
+}

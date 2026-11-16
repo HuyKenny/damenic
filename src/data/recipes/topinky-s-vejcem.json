@@ -1,0 +1,103 @@
+{
+  "title": "Topinky s vejcem a česnekem",
+  "keywords": [
+    "rychlý oběd z ničeho",
+    "rychlá večeře z ničeho",
+    "topinky s vejcem",
+    "rychlý oběd co dům dal"
+  ],
+  "image": "dish-topinky-vejce-hotovo",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Topinky s vejcem a česnekem jsou rychlý oběd z ničeho: chleba, vejce, česnek a olej. Chleba se opeče v pánvi dozlatova, potře česnekem a na každou topinku přijde smažené vejce. Hotové je to za 20 minut a vystačí na to základní zásoby.",
+  "ingredients": [
+    {
+      "ingredient": "chleb",
+      "amount": 200,
+      "unit": "g",
+      "note": "4 plátky silné 1,5 cm, nejlépe starší"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "půlka stroužku na topinku"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nakrájená"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaný, nepovinně"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do větší pánve nalij 2 lžíce oleje a rozpal na středním ohni. Plátky chleba smaž 2 až 3 minuty z každé strany, dokud nejsou zlatavé a křupavé."
+    },
+    {
+      "text": "Horké topinky přendej na talíř a ještě teplé potři rozříznutým stroužkem česneku. Česnek se o křupavý povrch sám otře."
+    },
+    {
+      "text": "Do pánve přidej zbytek oleje a smaž vejce na středním ohni 2 až 3 minuty, dokud se bílek nezatáhne a žloutek nezůstane tekutý. Pro pevnější vejce přikryj poklicí."
+    },
+    {
+      "text": "Vejce polož na topinky, osol, opepři, posyp sýrem a pažitkou. Podávej ihned."
+    }
+  ],
+  "tips": [
+    "Starší chleba je na topinky lepší, nasákne méně oleje a zůstane křupavý.",
+    "Česnek stírej na horké topinky, ne na studené. Z horkého povrchu se uvolní víc vůně.",
+    "Pokud jsou vejce čerstvá, smaž je jen do zatažení bílku. Dětem, těhotným a seniorům smaž vejce s pevným žloutkem."
+  ],
+  "substitutions": [
+    "Smažené vejce lze nahradit míchanými vejci.",
+    "Sýr nahradí kousek šunky nebo salámu, jídlo ale už nebude vegetariánské.",
+    "Olej nahradí sádlo nebo máslo."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat topinky, aby nebyly tučné?",
+      "a": "Použij starší chleba, rozpálenou pánev a jen tolik oleje, aby se dno pokrylo. Hotové topinky nech chvíli na papírové utěrce."
+    },
+    {
+      "q": "Z jakého chleba jsou nejlepší topinky?",
+      "a": "Z kvalitního kynutého chleba silného asi 1,5 cm. Nejlepší je 1 až 2 dny starý, protože nasákne méně oleje."
+    },
+    {
+      "q": "Dají se topinky udělat v troubě?",
+      "a": "Ano, potřené olejem se pečou při 200 °C 5 až 8 minut z každé strany. Na pánvi jsou ale rychlejší a křupavější."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Vykostěná stehna z trouby",
+  "restaurant": "bistro-uletelo",
+  "kind": "main",
+  "section": "Kuře",
+  "description": "Kuřecí stehna bez kosti marinovaná v paprice, česneku a medu, upečená do zlatova.",
+  "about": [
+    "Vykostěné stehno je rozpůlené: nahoře kůže, dole šťavnaté maso, které nevysychá ani po půlhodině v troubě. Marináda z papriky, česneku a medu pracuje jako glazura a dává mu barvu, kterou prsa nikdy nemají.",
+    "Je to jídlo, které se zvládne udělat ve čtvrtek večer za deset minut práce. Jen místo kuchyně potřebuješ troubu. My ji nemáme, ty ano."
+  ],
+  "price": 20900,
+  "image": "dish-vykostena-stehna-uletelo",
+  "recipe": "vykostena-kureci-stehna-v-troube",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "order": 100
+}

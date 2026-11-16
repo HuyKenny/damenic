@@ -1,0 +1,22 @@
+{
+  "name": "Chlebíček s mrkvovou pomazánkou",
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "kind": "main",
+  "section": "Chlebíčky",
+  "description": "Jemně nastrouhaná mrkev se smetanovým sýrem, česnekem a petrželkou.",
+  "about": [
+    "Mrkvová pomazánka je sladká, svěží a bezmasá. Mrkev se strouhá najemno, smíchá se smetanovým sýrem a česnekem a půl hodiny odpočívá v lednici.",
+    "Na chlebíček stačí tenká vrstva a plátek okurky. Chlebíčkárna Obloženo ničím nechává obložení na tobě."
+  ],
+  "price": 11900,
+  "image": "dish-mrkvova-pomazanka-oblozeno",
+  "recipe": "mrkvova-pomazanka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 220
+}

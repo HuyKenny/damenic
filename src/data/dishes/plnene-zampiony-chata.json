@@ -1,0 +1,20 @@
+{
+  "name": "Plněné žampiony se sýrem",
+  "restaurant": "chata-pristi-sezona",
+  "kind": "main",
+  "section": "Houbová jídla",
+  "description": "Velké žampiony plněné smetanovým sýrem, česnekem a eidamem.",
+  "about": [
+    "Velké klobouky se plní sýrem smíchaným s nasekanými stopkami, česnekem a petrželkou a pečou 18 až 20 minut. Žampiony se nemyjí ani nenamáčejí, nasákly by vodu.",
+    "Naplněné, prázdné i zítra. Vyber si."
+  ],
+  "price": 19900,
+  "image": "dish-plnene-zampiony-chata",
+  "recipe": "plnene-zampiony",
+  "vegetarian": true,
+  "order": 30,
+  "allergens": [
+    1,
+    7
+  ]
+}

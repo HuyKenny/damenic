@@ -1,0 +1,22 @@
+{
+  "name": "Steak z tuňáka",
+  "restaurant": "steakarna-rare-priste",
+  "kind": "main",
+  "section": "Ryby a mořské plody",
+  "description": "Tuňák krátce opečený na rozpálené pánvi, uvnitř růžový, se sezamem.",
+  "about": [
+    "Tuňák se smaží jen 1 až 2 minuty z každé strany, dokud není zvenku zhnědlý a uvnitř zůstane růžový. Delší smažení z něj udělá suché šedé maso, proto je pánev rozpálená do kouře.",
+    "Rare je naše druhé jméno. Doručení je, bohužel, taky rare."
+  ],
+  "price": 39900,
+  "image": "dish-tunak-steak-rare",
+  "recipe": "steak-z-tunaka",
+  "vegetarian": false,
+  "order": 95,
+  "allergens": [
+    1,
+    4,
+    6,
+    11
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Cheddarová omáčka",
+  "keywords": [
+    "cheddarová omáčka recept",
+    "cheddar omáčka",
+    "cheddarová omáčka k nachos",
+    "cheddarová omáčka na hranolky"
+  ],
+  "image": "dish-cheddarova-omacka",
+  "category": "burgery",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 5,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Cheddarová omáčka je sýrová omáčka z cheddaru, mléka a základu z másla a mouky. Hodí se na nachos, hranolky, burgery i makaróny. Sýr přidáš až mimo žár, aby se omáčka neoddělila a zůstala hladká.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1.5,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml",
+      "note": "vlažné"
+    },
+    {
+      "ingredient": "cheddar",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaný nebo natrhaný"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozpusť máslo, zasyp ho moukou a na mírném plameni 1 minutu míchej, dokud nevznikne hladká pěna."
+    },
+    {
+      "text": "Za stálého míchání po částech přilévej vlažné mléko, ať se nevytvoří hrudky. Přiveď k mírnému bublání a vař 2 až 3 minuty, dokud omáčka nezhoustne."
+    },
+    {
+      "text": "Hrnec stáhni z ohně. Vmíchej cheddar po hrstech a míchej, dokud se úplně nerozpustí. Nikdy ho nevař, jinak se může sýr srazit."
+    },
+    {
+      "text": "Přidej hořčici, papriku a špetku soli. Omáčku podávej hned, v lednici vydrží 2 dny, ohřívej ji pomalu s lžící mléka."
+    }
+  ],
+  "tips": [
+    "Nastrouhaný sýr se rozpouští lépe než kus. Pytlíkový nastrouhaný sýr obsahuje protispékavé látky, nastrouhej si raději vlastní.",
+    "Omáčka po vychladnutí tuhne. Ohřívej ji na mírném žáru a rozmíchej lžící mléka."
+  ],
+  "substitutions": [
+    "Cheddar nahradíš eidamem nebo goudou, chuť bude jemnější. Pro výraznější přidej část pikantního sýra.",
+    "Mléko nahradíš smetanou na vaření pro bohatší omáčku.",
+    "Hořčici můžeš vynechat, omáčka bude jemnější."
+  ],
+  "faq": [
+    {
+      "q": "Proč se cheddarová omáčka sráží nebo je zrnitá?",
+      "a": "Sýr se přehřál, nebo byl přidán do příliš horké omáčky. Hrnec před přidáním sýra stáhni z ohně a míchej."
+    },
+    {
+      "q": "Dá se cheddarová omáčka uchovat?",
+      "a": "V lednici asi dva dny. Při ohřevu ji pomalu zahřívej a rozmíchej lžící mléka."
+    },
+    {
+      "q": "K čemu se cheddarová omáčka hodí?",
+      "a": "K nachos, hranolkám, burgerům, hot dogům, zapečeným makarónům a zelenině jako brokolice."
+    }
+  ]
+}

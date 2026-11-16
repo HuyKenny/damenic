@@ -1,0 +1,137 @@
+{
+  "title": "Mrkvový koláč s krémem",
+  "keywords": [
+    "mrkvový koláč",
+    "mrkvový koláč recept",
+    "mrkvový koláč s ořechy",
+    "mrkvový koláč s krémem"
+  ],
+  "image": "dish-mrkvovy-kolac-nedortik",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 10,
+  "activeMinutes": 25,
+  "cookMinutes": 45,
+  "waitMinutes": 60,
+  "waitLabel": "chladnutí před polevou",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Mrkvový koláč z hladkého těsta s ořechy a skořicí je vláčný, protože strouhaná mrkev uvolňuje při pečení vláhu. Krémová poleva se nanáší až na úplně vychladlý koláč, jinak steče.",
+  "ingredients": [
+    {
+      "ingredient": "mrkev",
+      "amount": 300,
+      "unit": "g",
+      "note": "jemně nastrouhaná",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 200,
+      "unit": "g",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 100,
+      "unit": "g",
+      "note": "nahrubo nasekané",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Koláč"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "měkké",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 175 °C (horkovzduch 160 °C). Formu 20 × 30 cm vymaž a vysyp moukou nebo vyloži pečicím papírem."
+    },
+    {
+      "text": "Vejce vyšlehej s cukrem do světlé pěny, tenkým proudem přilévej olej. Přidej mrkev a ořechy."
+    },
+    {
+      "text": "Mouku smíchej s práškem do pečiva, skořicí a solí, vmíchej do těsta a promíchej jen do spojení. Vlij do formy."
+    },
+    {
+      "text": "Peč 40 až 45 minut, dokud špejle vyjde čistá. Nech koláč vychladnout ve formě, minimálně hodinu."
+    },
+    {
+      "text": "Smetanový sýr, máslo a moučkový cukr krátce prošlehej do hladka. Rozetři na vychladlý koláč a nech 30 minut ztuhnout v lednici."
+    }
+  ],
+  "tips": [
+    "Mrkev strouhej najemno, hrubé kousky se rozmáčí a koláč se bude lámat.",
+    "Pokud je krém řídký, dej ho na 15 minut do lednice a znovu ho prošlehej.",
+    "S krémem uchovej koláč v lednici, vydrží 4 dny."
+  ],
+  "substitutions": [
+    "Vlašské ořechy nahraď pekanovými, nebo je vynech a přidej 50 g rozinek.",
+    "Smetanový sýr můžeš nahradit mascarpone nebo tvarohem prošlehaným s moučkovým cukrem."
+  ],
+  "faq": [
+    {
+      "q": "Proč je mrkvový koláč vlhký?",
+      "a": "Mrkev obsahuje hodně vody a olej drží těsto měkké. Pro ještě vláčnější koláč se hodí ho druhý den po upečení."
+    },
+    {
+      "q": "Musí se mrkev loupat?",
+      "a": "Ne, stačí ji důkladně omýt a oškrábat. Nastrouhej ji najemno a nevymačkávej."
+    },
+    {
+      "q": "Jak dlouho vydrží mrkvový koláč?",
+      "a": "S krémovou polevou 4 dny v lednici, bez polevy 3 dny v krabici při pokojové teplotě."
+    }
+  ]
+}

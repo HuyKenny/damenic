@@ -1,0 +1,24 @@
+{
+  "name": "Sendvič se sýrovou pomazánkou",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Studené sendviče",
+  "description": "Jemná pomazánka z eidamu, vejce a česneku na bílém pečivu.",
+  "about": [
+    "Sýrová pomazánka z eidamu a vajec patří mezi první věci, které se člověk naučí. Sýr se strouhá najemno, vejce se vaří natvrdo a česnek dodává výraznost.",
+    "Chleba si namaž sama. Sendvičárna Mezi krajíci ti ho dodá s úsměvem, ale s prázdnou taškou."
+  ],
+  "price": 11900,
+  "image": "dish-syrova-pomazanka-krajici",
+  "recipe": "syrova-pomazanka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    10
+  ],
+  "order": 180
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Tatarák z lososa s avokádem",
+  "keywords": [
+    "tatarák z lososa recept",
+    "lososový tatarák recept",
+    "tatarák z lososa s avokádem"
+  ],
+  "image": "dish-tatarak-z-lososa-aloha",
+  "category": "poke",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 0,
+  "waitMinutes": 20,
+  "waitLabel": "chlazení",
+  "difficulty": "střední",
+  "meal": "predkrm",
+  "intro": "Tatarák z lososa je syrový losos nakrájený na kostičky a smíchaný s avokádem, limetkou a sójovou omáčkou. Vychází na dvě porce jako předkrm. Použij jen lososa určeného ke konzumaci za syrova nebo šokově zmraženého a tatarák dělej těsně před podáváním.",
+  "ingredients": [
+    {
+      "ingredient": "losos-sushi",
+      "amount": 250,
+      "unit": "g",
+      "note": "určený ke konzumaci za syrova, na kostičky 5 mm"
+    },
+    {
+      "ingredient": "avokado",
+      "amount": 1,
+      "unit": "ks",
+      "note": "zralé, na kostičky"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 5,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 100,
+      "unit": "g",
+      "note": "na krutony nebo toast"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Losos musí být důkladně vychlazený. Ostrým nožem ho nakrájej na kostičky o straně asi 5 mm a dej do misky nad led nebo do lednice."
+    },
+    {
+      "text": "Smíchej sojovku, šťávu z půlky limetky, sezamový olej a zázvor. Omáčku zamíchej do lososa a nech 10 minut v lednici."
+    },
+    {
+      "text": "Avokádo nakrájej na kostičky a pokapej zbylou limetkou, aby nezhnědlo. Přimíchej ho opatrně k lososu s jarní cibulkou."
+    },
+    {
+      "text": "Tatarák vtlač do formičky nebo kopečkovače, posyp sezamem a podávej hned s opečeným chlebem. Do 30 minut po smíchání ho spotřebuj."
+    }
+  ],
+  "tips": [
+    "Syrový losos kupuj jen takový, který je označený pro přímou konzumaci za syrova. Jinak ho nejdřív zmraz minimálně na 24 hodin při −20 °C.",
+    "Sůl není třeba, sojovka dosolí.",
+    "Nůž musí být ostrý, tupý rozmáčkne vlákna a tatarák bude kašovitý."
+  ],
+  "substitutions": [
+    "Limetku nahraď citronem.",
+    "Avokádo nahraď okurkou nakrájenou na kostičky.",
+    "Pro ostřejší chuť přidej lžičku srirachy."
+  ],
+  "faq": [
+    {
+      "q": "Jaký losos se hodí na tatarák?",
+      "a": "Jen ten, který výrobce označil jako vhodný ke konzumaci za syrova, nebo šokově zmražený na −20 °C minimálně 24 hodin. Obyčejný čerstvý losos z pultu může obsahovat parazity."
+    },
+    {
+      "q": "Jak dlouho vydrží lososový tatarák?",
+      "a": "Nejvýš 30 minut až hodinu v lednici, po smíchání s limetkou se maso začne měnit. Nejlepší je ho udělat těsně před jídlem."
+    },
+    {
+      "q": "Je lososový tatarák vhodný pro těhotné?",
+      "a": "Ne. Syrové ryby a mořské plody těhotným, malým dětem a seniorům nedoporučujeme. Použij uzeného nebo plně propečeného lososa."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Rybičková pomazánka s vejcem a cibulí",
+  "keywords": [
+    "rybičková pomazánka recept",
+    "rybičková pomazánka",
+    "pomazánka z rybiček v tomatě"
+  ],
+  "image": "dish-rybickova-pomazanka-krajici",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Rybičková pomazánka z rybiček v tomatové omáčce, másla, vajec a cibule je rychlý předkrm na chléb. Z jedné plechovky vyjde asi 300 g pomazánky. Rybičky se musí rozmačkat i s tomatovou omáčkou a máslo drží hmotu pohromadě.",
+  "ingredients": [
+    {
+      "ingredient": "rybicky-v-tomate",
+      "amount": 125,
+      "unit": "g",
+      "note": "jedna plechovka"
+    },
+    {
+      "ingredient": "pomazankove-maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "uvařená natvrdo"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "jen šťáva"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce vař natvrdo 10 minut od varu, ochlaď, oloupej a nastrouhej na jemném struhadle."
+    },
+    {
+      "text": "Rybičky i s tomatovou omáčkou vyklop do misky a vidličkou je rozmačkej. Pokud jsou v nich velké kosti, vyber je."
+    },
+    {
+      "text": "Přidej máslo, hořčici, citronovou šťávu, cibuli a vejce. Vše důkladně promíchej, dokud pomazánka nezíská hladkou konzistenci."
+    },
+    {
+      "text": "Ochutnej, případně dosol a opepři. Pomazánku nech 30 minut odpočinout v lednici a pak ji znovu zamíchej."
+    }
+  ],
+  "tips": [
+    "Cibuli nakrájej najemno a pro jemnější chuť ji krátce spař vroucí vodou.",
+    "Rybičky jsou slané, proto soli většinou netřeba. Ochutnej až po smíchání všech surovin.",
+    "Pomazánka s rybou a vejcem vydrží v lednici 2 dny a při pokojové teplotě nesmí stát déle než 2 hodiny."
+  ],
+  "substitutions": [
+    "Pomazánkové máslo nahraď smetanovým sýrem, bude jemnější.",
+    "Vejce můžeš vynechat, pomazánka bude hutnější a rybí chuť výraznější."
+  ],
+  "faq": [
+    {
+      "q": "Z čeho se dělá rybičková pomazánka?",
+      "a": "Z rybiček v tomatové omáčce, másla nebo smetanového sýra, vajec natvrdo, cibule a hořčice. Rybičky se rozmačkají i s omáčkou."
+    },
+    {
+      "q": "Jak dlouho vydrží rybičková pomazánka?",
+      "a": "Do 2 dnů v uzavřené dóze v lednici. Obsahuje vejce a rybu, takže ji nenech déle než 2 hodiny při pokojové teplotě."
+    },
+    {
+      "q": "Jaký chleba se hodí k rybičkové pomazánce?",
+      "a": "Tmavší žitný nebo kmínový chléb, pečivo s cibulkou nebo veka. K tomu se hodí plátek okurky nebo ředkvičky."
+    }
+  ]
+}

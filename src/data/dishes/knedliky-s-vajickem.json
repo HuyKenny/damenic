@@ -1,0 +1,25 @@
+{
+  "name": "Knedlíky s vejci a cibulkou",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Minutky",
+  "description": "Osmažené kostky houskového knedlíku, cibulka a vejce. Z toho, co zbylo včera.",
+  "about": [
+    "Je to jídlo ze zbytků, a přesto ho mnoho lidí vaří schválně. Oschlý knedlík se na pánvi opeče do křupava, cibulka přidá sladkost a vejce všechno spojí do zlatého jídla.",
+    "Čtyři vejce a půl kila knedlíku vyjdou na čtyři porce. A kdyby doma knedlík nezbyl, uvař ho. My ti ho nepošleme."
+  ],
+  "price": 13900,
+  "image": "dish-knedliky-s-vajickem",
+  "recipe": "knedliky-s-vajickem",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 570
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Restované brambory s vejcem",
+  "keywords": [
+    "rychlý oběd z brambor",
+    "rychlá večeře z brambor",
+    "restované brambory s vejcem",
+    "rychlý levný oběd"
+  ],
+  "image": "dish-brambory-vejce-hotovo",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 12,
+  "cookMinutes": 18,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Restované brambory s vejcem jsou rychlý levný oběd z brambor, který zvládneš za 30 minut. Brambory se nakrájí na plátky, krátce předvaří a dosmaží na cibuli s paprikou a kmínem. Nahoře se dosmaží volská oka, která se rozlijí do brambor.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 700,
+      "unit": "g",
+      "note": "oloupané, na plátky silné asi 5 mm"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na půlkolečka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "celý"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nakrájená"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Plátky brambor dej do hrnce, zalij studenou vodou, osol a přiveď k varu. Vař 6 až 8 minut, dokud nejsou téměř měkké, ale drží tvar. Slij a nech 2 minuty odpařit."
+    },
+    {
+      "text": "Do velké pánve nalij 2 lžíce oleje a brambory smaž na středně vysokém ohni 8 až 10 minut, občas převrať, dokud nezezlátnou."
+    },
+    {
+      "text": "Přidej cibuli a kmín a smaž 4 minuty. Pak přidej papriku a česnek a po 30 sekundách stáhni z plamene, paprika se rychle spálí."
+    },
+    {
+      "text": "Brambory shrň na okraj, do volného místa nalij zbytek oleje a rozklep do pánve 4 vejce. Přikryj poklicí a smaž 3 až 4 minuty, až se bílek zatáhne a žloutek zůstane tekutý, nebo déle, pokud ho chceš pevný."
+    },
+    {
+      "text": "Posyp pažitkou a podávej přímo z pánve."
+    }
+  ],
+  "tips": [
+    "Vychladlé brambory z předchozího dne jsou na restování ještě lepší. Neslepí se.",
+    "Papriku přidávej až nakonec a mimo plamen. Spálená paprika hořkne.",
+    "Pro pevnější žloutek přikryj pánev poklicí na delší dobu."
+  ],
+  "substitutions": [
+    "Pažitku nahradí petrželka.",
+    "Vejce lze nahradit míchanými vejci nebo kouskem uzeného sýra.",
+    "Pokud máš slaninu, osmaž ji na začátku a brambory na jejím tuku, jídlo ale už nebude bez masa."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit brambory na restování?",
+      "a": "Plátky silné 5 mm stačí 6 až 8 minut předvařit. Nesmí se rozpadat, mají být jen skoro měkké."
+    },
+    {
+      "q": "Proč se brambory lepí k pánvi?",
+      "a": "Pánev nebyla dost horká nebo v ní bylo málo oleje. Pomáhá také brambory po předvaření dobře osušit."
+    },
+    {
+      "q": "Dají se použít uvařené brambory z předchozího dne?",
+      "a": "Ano, jsou na restování nejlepší. Nakrájej je a smaž 8 až 10 minut, předvaření odpadá."
+    }
+  ]
+}

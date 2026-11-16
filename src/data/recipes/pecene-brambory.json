@@ -1,0 +1,99 @@
+{
+  "title": "Pečené brambory s rozmarýnem",
+  "keywords": [
+    "příloha z brambor",
+    "přílohy z brambor",
+    "bramborové přílohy",
+    "pečené brambory v troubě"
+  ],
+  "image": "dish-pecene-brambory",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Pečené brambory s rozmarýnem jsou nejjednodušší příloha z brambor k masu, rybě i zelenině. Brambory se nakrájí na měsíčky, promíchají s olejem a kořením a pečou 45 minut při 220 °C. Křupavá kůrka vznikne jen tehdy, když jsou kousky na plechu rozložené v jedné vrstvě.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 1000,
+      "unit": "g",
+      "note": "varný typ B, nakrájené na měsíčky"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "rozmaryn",
+      "amount": 5,
+      "unit": "g",
+      "note": "nasekaný"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "ve slupce"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 220 °C, horkovzdušnou na 200 °C. Brambory umyj, nakrájej na měsíčky tlusté asi 2 cm a opláchni je, aby ztratily škrob."
+    },
+    {
+      "text": "Brambory dobře osuš a promíchej s olejem, solí, paprikou a pepřem. Suchý povrch zajistí křupavost."
+    },
+    {
+      "text": "Rozlož je na plech s pečicím papírem v jedné vrstvě řezem dolů, přidej rozmarýn a stroužky česneku ve slupce."
+    },
+    {
+      "text": "Peč 45 minut, po 25 minutách je otoč. Hotové jsou, když jsou zlatohnědé a po vpichu vidličkou měkké."
+    },
+    {
+      "text": "Hotové brambory ihned podávej. Česnek ze slupky vymáčkni a přimíchej k bramborám nebo ho jez zvlášť."
+    }
+  ],
+  "tips": [
+    "Rozmarýn přidávej brzy, olej z něj vytáhne vůni. Příliš dlouhé pečení ho ale spálí, proto ho dej pod brambory nebo mezi ně.",
+    "Pokud brambory příliš skládáš na sebe, spíše se dusí než pečou. Použij dva plechy."
+  ],
+  "substitutions": [
+    "Rozmarýn nahradíš tymiánem nebo sušenými bylinkami.",
+    "Olivový olej nahradíš řepkovým nebo sádlem.",
+    "Papriku nahradíš kmínem pro českou verzi."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat pečené brambory křupavé?",
+      "a": "Osuš je, nepřeplň plech, peč při vysoké teplotě 200 až 220 °C a otoč je v půlce pečení."
+    },
+    {
+      "q": "Musí se brambory před pečením předvařit?",
+      "a": "Ne, ale předvařené 5 až 7 minut budou uvnitř hebčí a zvenčí křupavější. Po předvaření je pořádně osuš."
+    },
+    {
+      "q": "Jaké brambory se hodí na pečení?",
+      "a": "Univerzální až moučné typy B a C, třeba stolní brambory s pevným vnitřkem."
+    }
+  ]
+}

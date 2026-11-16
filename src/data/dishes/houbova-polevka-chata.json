@@ -1,0 +1,20 @@
+{
+  "name": "Houbová polévka ze sušených hub",
+  "restaurant": "chata-pristi-sezona",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Polévka s hřiby, bramborem a trochou smetany, s vývarem z namočených hub.",
+  "about": [
+    "Základem je voda z namočených sušených hub, kterou je třeba přecedit. V ní je většina chuti. K tomu brambor, kmín a majoránka a na závěr smetana.",
+    "Houbařská chata je prázdná. Houby nechal někdo v lese."
+  ],
+  "price": 10900,
+  "image": "dish-houbova-polevka-chata",
+  "recipe": "houbova-polevka",
+  "vegetarian": true,
+  "order": 10,
+  "allergens": [
+    1,
+    7
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Jídelna Už Hotovo",
+  "category": "ceska",
+  "cuisine": "Rychlá domácí jídla do půl hodiny",
+  "tagline": "Do půl hodiny je hotovo. U tebe doma, ne u nás.",
+  "description": "Kotleta z pánve, těstoviny s cuketou a topinky s vejcem, vše do půl hodiny. Jídelna je smyšlená, takže rychlost platí jen pro tvou kuchyň, kde recept doopravdy funguje.",
+  "etaMinutes": 15,
+  "deliveryFee": 0,
+  "minOrder": 0,
+  "priceLevel": 1,
+  "hours": {
+    "open": "10:30",
+    "close": "20:00"
+  },
+  "pickup": true,
+  "tags": [
+    "rodinné porce"
+  ],
+  "promo": {
+    "type": "free-delivery",
+    "label": "Dopravné 0 Kč"
+  },
+  "logo": {
+    "text": "UH",
+    "color": "#E0A526",
+    "ink": "dark"
+  },
+  "sections": [
+    "Z pánve",
+    "Těstoviny a brambory",
+    "Zapečené a topinky",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 561,
+  "isNew": true,
+  "cover": "rest-jidelna-uz-hotovo"
+}

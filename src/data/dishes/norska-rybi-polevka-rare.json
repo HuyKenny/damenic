@@ -1,0 +1,22 @@
+{
+  "name": "Norská rybí polévka s lososem",
+  "restaurant": "steakarna-rare-priste",
+  "kind": "main",
+  "section": "Ryby a mořské plody",
+  "description": "Krémová polévka s lososem, treskou, mrkví a bramborami.",
+  "about": [
+    "Smetanová polévka s lososem a bílou rybou se vaří 25 minut. Ryba přijde do hrnce až na konci a vaří se jen 4 až 5 minut, aby se nerozpadla.",
+    "Polévka je horká a vymyšlená. Teplota se dá dodat jen v kuchyni."
+  ],
+  "price": 17900,
+  "image": "dish-norska-rybi-polevka-rare",
+  "recipe": "norska-rybi-polevka",
+  "vegetarian": false,
+  "order": 145,
+  "allergens": [
+    1,
+    4,
+    7,
+    9
+  ]
+}

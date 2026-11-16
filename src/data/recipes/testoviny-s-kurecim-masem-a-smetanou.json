@@ -1,0 +1,130 @@
+{
+  "title": "Těstoviny s kuřecím masem a smetanou",
+  "keywords": [
+    "těstoviny s kuřecím masem",
+    "těstoviny s kuřecím masem a smetanou",
+    "krémové těstoviny s kuřecím masem",
+    "těstoviny s kuřecím masem a omáčkou",
+    "jemná omáčka s kuřecím masem na těstoviny"
+  ],
+  "image": "dish-testoviny-s-kurecim-a-smetanou-domani",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Těstoviny s kuřecím masem a smetanou jsou rychlá večeře pro tři za půl hodiny. Smetanová omáčka s houbami a česnekem se dělá na pánvi, zatímco se vaří těstoviny. Kuřecí musíš opéct dozlatova a na konci dodělat v omáčce.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 300,
+      "unit": "g",
+      "note": "tagliatelle nebo penne"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 350,
+      "unit": "g",
+      "note": "na tenké nudličky"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 200,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzice",
+      "note": "1 lžíce do vody, zbytek do omáčky"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vodu osol a těstoviny uvař podle obalu. Před sléváním si odlij hrnek vody, bude se hodit na doladění omáčky."
+    },
+    {
+      "text": "Kuřecí nudličky osol, opepři a na rozpáleném oleji opékej 4 minuty, dokud nezezlátnou. Přendej na talíř."
+    },
+    {
+      "text": "Na stejné pánvi rozehřej máslo, přidej žampiony a smaž 4 minuty, aby se odpařila voda. Přidej cibuli a po 2 minutách česnek."
+    },
+    {
+      "text": "Vrať kuře do pánve, zalij smetanou a nech 3 až 4 minuty probublávat. Kuřecí je hotové, když má uvnitř 75 °C a maso je zcela bílé."
+    },
+    {
+      "text": "Vmíchej parmazán, těstoviny a podle potřeby 2 až 3 lžíce vody z vaření. Promíchej a posyp petrželkou."
+    }
+  ],
+  "tips": [
+    "Kuřecí neopékej všechno naráz, na přeplněné pánvi se jen dusí a zešedne. Opéká se po dvou dávkách.",
+    "Žampiony nesol dřív, než zhnědnou, jinak pustí vodu a budou gumové.",
+    "Voda z těstovin váže omáčku, v průběhu míchání ji přidávej po lžících."
+  ],
+  "substitutions": [
+    "Slehačku nahraď smetanou na vaření 12 %, omáčka bude řidší.",
+    "Bez hub: do omáčky přidej hrášek nebo špenát.",
+    "Parmazán lze nahradit grana padano nebo ovčím sýrem."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat kuřecí na těstoviny šťavnaté?",
+      "a": "Nakrájej ho na stejné nudličky, opékej na silném ohni jen 4 minuty a dodělej v omáčce. Tak neuschne a uvnitř dosáhne 75 °C."
+    },
+    {
+      "q": "Dá se smetanová omáčka zahustit?",
+      "a": "Ano. Nech ji probublávat bez poklice, nebo vmíchej parmazán či trochu vody z těstovin. Mouku není třeba."
+    },
+    {
+      "q": "Jak dlouho vydrží zbytek těstovin?",
+      "a": "Přikryté v lednici 2 dny. Při ohřívání přidej lžíci mléka nebo vody, aby se omáčka znovu rozpustila do krému."
+    }
+  ]
+}

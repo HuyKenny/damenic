@@ -1,0 +1,25 @@
+{
+  "name": "Meruňkové knedlíky z bramborového těsta",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Sladké jídlo",
+  "description": "Celé meruňky v bramborovém těstě, máslo, strouhanka a tvaroh.",
+  "about": [
+    "Meruňka v těstě se vaří jen krátce a uvnitř pustí sladkou šťávu. Bramborové těsto je rychlejší než kynuté, protože nekyne, a knedlíky vyplavou za deset minut.",
+    "Strouhanka a máslo to dokončí. Meruňky ti sice nepošleme, ale knedlíky si můžeš udělat sám."
+  ],
+  "price": 12900,
+  "image": "dish-merunkove-knedliky",
+  "recipe": "merunkove-knedliky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 520
+}

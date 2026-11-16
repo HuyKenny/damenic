@@ -1,0 +1,24 @@
+{
+  "name": "Chlebíček s budapešťskou pomazánkou",
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "kind": "main",
+  "section": "Chlebíčky",
+  "description": "Oranžová pomazánka z taveného sýra, papriky, vajec a másla na jemném pečivu.",
+  "about": [
+    "Budapešťská pomazánka je oranžová od papriky a jemná od taveného sýra. Vejce natvrdo, čerstvá paprika, sladká paprika mletá a trocha cibule dodají sytost.",
+    "Na chlebíčku vypadá pěkně. V Chlebíčkárně Obloženo ničím si ji ale neobjednáš doopravdy, protože je tu všechno nanečisto."
+  ],
+  "price": 12900,
+  "image": "dish-budapestska-pomazanka-oblozeno",
+  "recipe": "budapestska-pomazanka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    10
+  ],
+  "order": 200
+}

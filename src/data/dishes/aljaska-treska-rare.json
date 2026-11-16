@@ -1,0 +1,22 @@
+{
+  "name": "Aljašská treska s bylinkovou krustou",
+  "restaurant": "steakarna-rare-priste",
+  "kind": "main",
+  "section": "Ryby a mořské plody",
+  "description": "Filet z aljašské tresky pod krustou ze strouhanky, bylinek a hořčice.",
+  "about": [
+    "Treska je libová ryba a snadno vyschne, proto dostane krustu z másla, strouhanky a hořčice. V troubě při 200 °C se upeče za 15 až 18 minut a uvnitř zůstane šťavnatá.",
+    "Stůl je prostřený, krusta nikdy nevznikla. Příště."
+  ],
+  "price": 27900,
+  "image": "dish-aljaska-treska-rare",
+  "recipe": "aljaska-treska-s-bylinkovou-krustou",
+  "vegetarian": false,
+  "order": 105,
+  "allergens": [
+    1,
+    4,
+    7,
+    10
+  ]
+}

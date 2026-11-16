@@ -1,0 +1,126 @@
+{
+  "title": "Kuskus s kuřecím masem",
+  "keywords": [
+    "kuskus recept s kuřecím masem",
+    "kuskus s kuřecím masem",
+    "kuře s kuskusem",
+    "kuskus s kuřecím a zeleninou"
+  ],
+  "image": "dish-kuskus-s-kurecim-masem",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 15,
+  "waitMinutes": 5,
+  "waitLabel": "nabobtnání kuskusu",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Kuskus s kuřecím masem je rychlá hlavní večeře z jedné pánve. Kuřecí prsa se nakrájí na kostky, opečou s kari a zeleninou a promíchají s kuskusem. Maso musí mít uvnitř alespoň 75 °C, tvoje práce tedy končí zhruba po 10 minutách.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 400,
+      "unit": "g",
+      "note": "na kostky o straně 2 cm"
+    },
+    {
+      "ingredient": "kuskus",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vroucí"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cuketa",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "kari",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuřecí kostky osol, opepři a promíchej s kari. Kuskus nasyp do misky, zalij vroucím vývarem, přikryj a nech 5 minut nabobtnat. Poté ho nakypři vidličkou."
+    },
+    {
+      "text": "Na velké pánvi rozehřej 2 lžíce oleje a maso opékej na středně vysokém plameni 6 až 8 minut, dokud není zlatavé a uvnitř nemá alespoň 75 °C. V nejsilnějším místě nesmí zůstat růžové."
+    },
+    {
+      "text": "Maso vyndej na talíř. Do pánve dej zbylý olej, přidej papriku a cuketu a smaž 4 minuty, nakonec přidej česnek a smaž půl minuty."
+    },
+    {
+      "text": "Vrať maso do pánve, přidej kuskus, citronovou šťávu a petrželku. Vše promíchej a prohřej 1 minutu. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Kuřecí maso nekrájej na příliš malé kousky, vysuší se. Kostky o straně 2 cm zůstanou šťavnaté.",
+    "Česnek přidávej až na konci, na rozpálené pánvi hořkne."
+  ],
+  "substitutions": [
+    "Kuřecí prsa nahradíš kuřecími stehny bez kosti, budou šťavnatější a potřebují o 2 minuty déle.",
+    "Kari nahradíš směsí sladké papriky a kmínu, chuť bude jemnější.",
+    "Kuskus nahradíš bulgurem, uvaříš ho předem 12 až 15 minut."
+  ],
+  "faq": [
+    {
+      "q": "Jak poznám, že je kuřecí maso hotové?",
+      "a": "Uvnitř má bílou barvu a z kousku po zmáčknutí vytéká čirá šťáva. Teploměr ukazuje alespoň 75 °C."
+    },
+    {
+      "q": "Dá se kuskus s kuřecím masem ohřát?",
+      "a": "Ano, v lednici vydrží 2 dny. Ohřej ho důkladně, aby byl horký v celém objemu, a přidej lžíci vody."
+    },
+    {
+      "q": "Kolik kuskusu počítat na osobu?",
+      "a": "Přibližně 50 g suchého kuskusu na jednu porci jako přílohu, 70 g, pokud je jídlo hlavní."
+    }
+  ]
+}

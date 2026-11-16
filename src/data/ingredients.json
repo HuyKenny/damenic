@@ -6540,5 +6540,290 @@
     "allergens": [
       4
     ]
+  },
+  {
+    "id": "tvaruzky",
+    "name": "Tvarůžky",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 120,
+      "price": 3900,
+      "label": "balení 120 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
+  },
+  {
+    "id": "krabi-tycinky",
+    "name": "Krabí tyčinky (surimi)",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 5500,
+      "label": "balení 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "shellfish",
+    "allergens": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "family": "morske-plody"
+  },
+  {
+    "id": "rybicky-v-tomate",
+    "name": "Rybičky v tomatové omáčce",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 125,
+      "price": 2500,
+      "label": "plechovka 125 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      4
+    ],
+    "family": "ryba"
+  },
+  {
+    "id": "medvedi-cesnek",
+    "name": "Medvědí česnek (listy)",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 100,
+      "price": 3900,
+      "label": "svazek 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "zelenina"
+  },
+  {
+    "id": "pohanka",
+    "name": "Pohanka loupaná",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 4500,
+      "label": "500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ryze-obiloviny"
+  },
+  {
+    "id": "tunak-steak",
+    "name": "Tuňák (steak)",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 11900,
+      "label": "2 steaky asi 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      4
+    ],
+    "family": "ryba"
+  },
+  {
+    "id": "makrela-file",
+    "name": "Makrela (filety)",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 300,
+      "price": 5900,
+      "label": "filety asi 300 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "fish",
+    "allergens": [
+      4
+    ],
+    "family": "ryba"
+  },
+  {
+    "id": "kachni-stehna",
+    "name": "Kachní stehna",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 22900,
+      "label": "4 stehna asi 1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "husa-kachna"
+  },
+  {
+    "id": "jehneci-kyta",
+    "name": "Jehněčí kýta s kostí",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1500,
+      "price": 59900,
+      "label": "kýta asi 1,5 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": []
+  },
+  {
+    "id": "hovezi-plec",
+    "name": "Hovězí plec",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 25900,
+      "label": "kus asi 1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "hovezi"
+  },
+  {
+    "id": "kruti-mlete",
+    "name": "Mleté krůtí maso",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 9900,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "kure"
+  },
+  {
+    "id": "veprove-kotlety",
+    "name": "Vepřové kotlety",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 9500,
+      "label": "asi 3 kotlety, 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove"
+  },
+  {
+    "id": "pepr-zeleny",
+    "name": "Zelený pepř v nálevu",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 15,
+    "pack": {
+      "size": 50,
+      "price": 4500,
+      "label": "sklenice 50 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
+  },
+  {
+    "id": "cottage-cheese",
+    "name": "Cottage cheese",
+    "department": "Mléčné a chlazené",
+    "baseUnit": "g",
+    "pack": {
+      "size": 180,
+      "price": 2900,
+      "label": "kelímek 180 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "dairy",
+    "allergens": [
+      7
+    ],
+    "family": "syr-tvaroh"
+  },
+  {
+    "id": "hrusky",
+    "name": "Hrušky",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "ks",
+    "pack": {
+      "size": 1,
+      "price": 1200,
+      "label": "1 ks"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
+  },
+  {
+    "id": "rebarbora",
+    "name": "Rebarbora (řapíky)",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 3500,
+      "label": "svazek 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
+  },
+  {
+    "id": "tapioka-mala",
+    "name": "Tapioka malé perly",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 4500,
+      "label": "balení 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   }
 ]

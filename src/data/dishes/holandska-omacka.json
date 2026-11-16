@@ -1,0 +1,21 @@
+{
+  "name": "Holandská omáčka",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Máslová omáčka ze žloutků a citronu. Pára a trpělivost jsou v ceně.",
+  "about": [],
+  "price": 4500,
+  "image": "dish-holandska-omacka",
+  "recipe": "holandska-omacka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 550
+}

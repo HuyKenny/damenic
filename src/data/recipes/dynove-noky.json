@@ -1,0 +1,105 @@
+{
+  "title": "Dýňové noky s máslem a šalvějí",
+  "keywords": [
+    "dýňové noky recept",
+    "dýňové noky s máslem",
+    "noky z dýně"
+  ],
+  "image": "dish-dynove-noky-domani",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 40,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Dýňové noky recept: kynutí není potřeba, ale dýni musíš pečlivě upéct a nechat odpařit, jinak těsto spotřebuje půlku mouky. Vychází tři porce, hotové za asi 50 minut, a podávají se jen s hnědým máslem.",
+  "ingredients": [
+    {
+      "ingredient": "dyne-hokkaido",
+      "amount": 500,
+      "unit": "g",
+      "note": "bez semínek, na kousky"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g",
+      "note": "plus na posypání"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 30,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzice",
+      "note": "trochu do těsta, zbytek do vody"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu rozehřej na 200 °C, horkovzduch 180 °C. Dýni dej na plech slupkou dolů a peč 25 až 30 minut, dokud není úplně měkká."
+    },
+    {
+      "text": "Upečenou dýni vydlab lžící a rozmačkej nebo prolisuj. Nech ji v míse 10 minut odpařit, pak ji vmíchej s vejcem, parmazánem, muškátem a špetkou soli."
+    },
+    {
+      "text": "Přisyp mouku po částech a těsto zpracuj jen do hladkého, mírně lepivého stavu. Víc mouky = tvrdší noky, proto přidávej jen tolik, kolik je nutné."
+    },
+    {
+      "text": "Ve větším hrnci přiveď k varu osolenou vodu. Z těsta tvaruj válečky silné jako palec, nakrájej na 2 cm kousky a vař po dávkách. Noky vyplavou po 2 až 3 minutách, nech je ještě minutu vařit."
+    },
+    {
+      "text": "Máslo rozpusť a nech zhnědnout na oříškovou barvu. Noky vlož do másla, promíchej a posyp parmazánem a pepřem."
+    }
+  ],
+  "tips": [
+    "Dýni nevař, ale peč: v troubě se odpaří voda. Pokud po upečení pustí šťávu, slij ji.",
+    "Zkušební noku uvař před tvarováním všech. Rozpadne-li se, přidej lžíci mouky.",
+    "Hokkaido není nutné loupat, po upečení se slupka sama oddělí."
+  ],
+  "substitutions": [
+    "Hladkou mouku nahraď polohrubou, noky budou trochu pevnější.",
+    "Parmazán nahraď tvrdým ovčím sýrem.",
+    "Šalvěj do másla se hodí, ale není nutná."
+  ],
+  "faq": [
+    {
+      "q": "Proč se noky rozpadají ve vodě?",
+      "a": "Těsto má málo mouky nebo dýně nebyla dost odpařená. Přidej po lžících mouku a vždy nejdřív uvař jednu zkušební nokovou."
+    },
+    {
+      "q": "Dá se těsto dělat předem?",
+      "a": "Těsto vydrží přikryté v lednici do druhého dne. Hotové noky můžeš také zamrazit rozložené na plechu a uložit do sáčku."
+    },
+    {
+      "q": "Jaká dýně je nejlepší na noky?",
+      "a": "Hokkaido nebo máslová dýně. Mají sušší dužinu, kterou není třeba loupat, a dobře drží tvar."
+    }
+  ]
+}

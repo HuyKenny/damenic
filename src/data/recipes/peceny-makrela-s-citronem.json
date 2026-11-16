@@ -1,0 +1,99 @@
+{
+  "title": "Pečená makrela s citronem a tymiánem",
+  "keywords": [
+    "makrela recept",
+    "uzená makrela recept",
+    "makrela na pánvi"
+  ],
+  "image": "dish-peceny-makrela-rare",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 18,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Pečená makrela s citronem a tymiánem je levná mastná ryba, která se v troubě upeče sama. Recept pro dva je hotový za čtvrt hodiny práce a pár minut pečení. Mastné maso snáší výrazné koření a kyselý citron.",
+  "ingredients": [
+    {
+      "ingredient": "makrela-file",
+      "amount": 300,
+      "unit": "g",
+      "note": "4 filety s kůží"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu zapni na 220 °C, horkovzduch 200 °C. Filety osuš a kůži 2× zařízni našikmo."
+    },
+    {
+      "text": "Olej smíchej s tymiánem, prolisovaným česnekem, solí a pepřem. Rybu a rajčata v něm obal a polož na plech, ryby kůží nahoru."
+    },
+    {
+      "text": "Peč 12 až 15 minut. Makrela je hotová, když je maso nepruhledné a láme se, vnitřní teplota je 63 °C."
+    },
+    {
+      "text": "Podávej s citronovou šťávou, rajčaty z plechu a čerstvým chlebem."
+    }
+  ],
+  "tips": [
+    "Makrela musí být opravdu čerstvá. Má lesklou kůži a nevoní silně rybinou.",
+    "Mastná ryba nevyschne, takže jí trochu zvládneš zapomenout.",
+    "Kosti vytahej pinzetou před pečením, pokud ji kupuješ nevykostěnou."
+  ],
+  "substitutions": [
+    "Tymián lze nahradit rozmarýnem nebo oreganem.",
+    "Cherry rajčata nahraď plátky cuket.",
+    "K makrele sedí i zakysaná smetana s křenem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct makrelu v troubě?",
+      "a": "Filety 12 až 15 minut při 220 °C, celá ryba 20 až 25 minut. Je hotová, když maso na řezu nepruhledné."
+    },
+    {
+      "q": "Je makrela zdravá?",
+      "a": "Je to tučná ryba s omega-3 mastnými kyselinami. Vhodná je 1 až 2× týdně, ale těhotné ženy by měly vybírat opatrně."
+    },
+    {
+      "q": "Dá se makrela péct i na pánvi?",
+      "a": "Ano, na středním plameni 3 až 4 minuty ze strany kůže a 1 až 2 minuty z druhé strany."
+    }
+  ]
+}

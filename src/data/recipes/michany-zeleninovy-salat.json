@@ -1,0 +1,127 @@
+{
+  "title": "Míchaný zeleninový salát s olejovou zálivkou",
+  "keywords": [
+    "zeleninový salát",
+    "míchaný zeleninový salát",
+    "zeleninové saláty recepty",
+    "nejlepší zálivka na zeleninový salát",
+    "zeleninové saláty k večeři"
+  ],
+  "image": "dish-zeleninovy-salat-ani-listek",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Míchaný zeleninový salát z rajčat, okurky, papriky a ledového salátu je rychlá příloha ke grilu i k večeři. Hlavní roli hraje zálivka v poměru tři díly oleje na jeden díl octa, kterou si můžeš zapamatovat jednou provždy. Solí se až těsně před podáváním.",
+  "ingredients": [
+    {
+      "ingredient": "rajcata",
+      "amount": 300,
+      "unit": "g",
+      "note": "na měsíčky"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na půlkolečka"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na proužky"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "na tenká půlkolečka"
+    },
+    {
+      "ingredient": "ledovy-salat",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "natrhaný"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "asi 45 ml",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "ocet-vinny",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "asi 15 ml",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "horcice-dijonska",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zálivka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zeleninu omyj a nakrájej: rajčata na měsíčky, okurku na půlkolečka, papriku na proužky, cibuli na tenká půlkolečka. Ledový salát natrhej rukou."
+    },
+    {
+      "text": "Zálivku udělej v malém hrnku nebo sklenici s víčkem: olej, ocet, hořčici, med, sůl a pepř protřepej, dokud nevznikne hustší emulze."
+    },
+    {
+      "text": "Cibuli nech 5 minut v zálivce, zjemní. Pak do mísy přidej rajčata, okurku, papriku a salát a promíchej."
+    },
+    {
+      "text": "Podávej hned. Salát nesolí předem, sůl by z rajčat a okurek vytáhla šťávu."
+    }
+  ],
+  "tips": [
+    "Poměr zálivky je 3 díly oleje na 1 díl octa, dále hořčice a med jako pojidlo. Z něj vyjdou všechny další zálivky: s citronem, balzamikem nebo medem navíc.",
+    "Rajčata nechávej na pokojové teplotě, studená z lednice jsou málo aromatická.",
+    "Salát se dělá na místě. Nedělej ho s předstihem delším než půl hodiny, zelenina pustí vodu."
+  ],
+  "substitutions": [
+    "Ocet nahraď citronovou šťávou, chuť bude svěžejší.",
+    "Ledový salát nahraď rukolou nebo římským salátem. Do zálivky můžeš místo medu přidat trochu javorového sirupu."
+  ],
+  "faq": [
+    {
+      "q": "Jaká je nejlepší zálivka na zeleninový salát?",
+      "a": "Základní vinaigrette: 3 díly olivového oleje, 1 díl octa, lžička hořčice a medu na dochucení. Zvládne i hrst listů a vydrží v lednici týden."
+    },
+    {
+      "q": "Kdy solit zeleninový salát?",
+      "a": "Až těsně před podáváním. Sůl z rajčat a okurek rychle vytáhne vodu a salát se rozplave."
+    },
+    {
+      "q": "Jak dlouho vydrží zeleninový salát v lednici?",
+      "a": "Hotový jeden den, ale lepší je dělat ho vždy čerstvý. Zálivku si můžeš nechat zvlášť a zeleninu zalít až při podávání."
+    }
+  ]
+}

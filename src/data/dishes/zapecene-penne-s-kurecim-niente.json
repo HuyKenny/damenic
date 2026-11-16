@@ -1,0 +1,21 @@
+{
+  "name": "Zapečené těstoviny s kuřecím",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Kuřecí kostky, smetanová omáčka a sýr, upečené v jedné míse.",
+  "about": [
+    "Kuřecí se nejdřív opeče na pánvi a potom se dopeče v troubě ve smetaně, takže zůstane šťavnaté. Vejce v omáčce drží těstoviny pohromadě a porce se dá krájet.",
+    "Domovem tohoto jídla je nedělní oběd. Naším domovem je prázdná taška, ale máme společný recept."
+  ],
+  "price": 22900,
+  "image": "dish-zapecene-penne-s-kurecim-niente",
+  "recipe": "zapecene-testoviny-s-kurecim",
+  "vegetarian": false,
+  "order": 120,
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

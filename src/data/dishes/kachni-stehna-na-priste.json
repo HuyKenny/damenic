@@ -1,0 +1,45 @@
+{
+  "name": "Kachní stehna s červeným zelím",
+  "restaurant": "peceni-na-priste",
+  "kind": "main",
+  "section": "Drůbež a králík",
+  "description": "Pomalu pečené kachní stehno s křupavou kůží, červené zelí s jablkem a kmínem. Křupe to i v hlavě.",
+  "about": [
+    "Kachní stehno má víc tuku i kolagenu než prso, a proto snese dlouhé pečení. Nejdřív se dusí v páře do měkka, potom se odkryje a nechá zhnědnout. Červené zelí k němu patří jako ocet k oleji: kyselost a sladkost od jablka přeruší mastnotu.",
+    "Celé to trvá dvě hodiny a voní jako neděle. U nás jen v popisu, doma ve skutečné kuchyni."
+  ],
+  "price": 32900,
+  "image": "dish-kachni-stehna-na-priste",
+  "recipe": "kachni-stehna-s-cervenym-zelim",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "order": 130,
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "ryze",
+          "name": "Rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "kase",
+          "name": "Bramborová kaše",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ]
+}

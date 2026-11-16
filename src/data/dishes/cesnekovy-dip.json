@@ -1,0 +1,22 @@
+{
+  "name": "Česnekový dip",
+  "restaurant": "burger-nikdy",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Jogurt, majonéza a čerstvý česnek. Dobrý k hranolkám, špatný na rande.",
+  "about": [],
+  "price": 2900,
+  "image": "dish-cesnekovy-dip",
+  "recipe": "cesnekovy-dip",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 520
+}

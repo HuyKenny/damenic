@@ -1,0 +1,73 @@
+{
+  "title": "Jasmínová rýže",
+  "keywords": [
+    "jasmínová rýže recept"
+  ],
+  "image": "dish-jasminova-ryze-priloha-wok",
+  "category": "asijska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 5,
+  "cookMinutes": 12,
+  "waitMinutes": 10,
+  "waitLabel": "dopaření pod poklicí",
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Jasmínová rýže recept s přesným poměrem: na jeden díl rýže jeden a čtvrt dílu vody a 12 minut pod poklicí. Vychází nadýchaná, voňavá a zrnka se k sobě nelepí. Příloha pro tři porce k asijským jídlům.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-jasminova",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "note": "plus na promývání"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýži vlož do misky a opakovaně ji promývej studenou vodou, dokud není voda skoro čirá, tedy 3 až 4×. Tím odplavíš nadbytečný škrob."
+    },
+    {
+      "text": "Rýži dej do hrnce s tlustým dnem, přidej 250 ml vody a sůl. Přiveď k varu, pak stáhni plamen na minimum a přikryj poklicí."
+    },
+    {
+      "text": "Vař 12 minut bez zvedání poklice. Pak hrnec odstav a nech rýži 10 minut dopařit pod poklicí."
+    },
+    {
+      "text": "Na závěr rýži načechrej vidličkou a podávej."
+    }
+  ],
+  "tips": [
+    "Poměr 1 : 1,25 platí pro jasmínovou rýži. Pro basmati dej o něco víc vody.",
+    "Poklicí nehýbej. Pára je to, co rýži dovaří.",
+    "Zbylou rýži rychle zchlaď a dej do lednice do 1 hodiny, vydrží 1 až 2 dny."
+  ],
+  "substitutions": [
+    "Jasmínovou rýži nahraď basmati nebo dlouhozrnnou.",
+    "Do vody přidej lžičku oleje nebo kousek másla pro lesk.",
+    "Pro vůni vař s 1 lístkem kafíru nebo kouskem citronové trávy."
+  ],
+  "faq": [
+    {
+      "q": "Kolik vody na jasmínovou rýži?",
+      "a": "Na 200 g rýže asi 250 ml vody, tedy poměr 1 : 1,25. Je to míň než na dlouhozrnnou, protože jasmínová rýže se vaří měkčeji."
+    },
+    {
+      "q": "Musí se jasmínová rýže promývat?",
+      "a": "Doporučuje se. Promytá rýže je méně lepkavá a zrnka se oddělí."
+    },
+    {
+      "q": "Proč je rýže po uvaření kašovitá?",
+      "a": "Použilo se moc vody nebo rýže vařila příliš dlouho. Drž poměr a nech ji jen dopařit pod poklicí."
+    }
+  ]
+}

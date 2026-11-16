@@ -1,0 +1,127 @@
+{
+  "title": "Zapečené těstoviny s kuřecím masem a smetanou",
+  "keywords": [
+    "zapečené těstoviny s kuřecím masem",
+    "zapečené těstoviny s kuřecím masem a smetanou",
+    "zapečené těstoviny s kuřecím masem a vajíčkem",
+    "těstoviny s kuřecím masem a smetanou"
+  ],
+  "image": "dish-zapecene-penne-s-kurecim-niente",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Zapečené těstoviny s kuřecím masem a smetanou jsou nedělní oběd z jedné zapékací mísy. Kuřecí se na pánvi krátce opeče, v troubě se dopéče a zůstane šťavnaté. Recept je pro čtyři, hotovo bývá za hodinu bez spěchu.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 350,
+      "unit": "g",
+      "note": "penne nebo rigatoni"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 400,
+      "unit": "g",
+      "note": "na kostky 2 cm"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzice",
+      "note": "2 lžíce do vody, zbytek do omáčky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu zapni na 190 °C, horkovzduch 170 °C. Těstoviny uvař v osolené vodě o 2 minuty méně, než udává obal, a slij."
+    },
+    {
+      "text": "Kuřecí kostky osol, opepři a posyp paprikou. Na rozpáleném oleji je na vysokém plameni opékej 4 až 5 minut do světle zlaté barvy. Uvnitř budou dodělávat v troubě."
+    },
+    {
+      "text": "Ke kuřecímu přidej cibuli a po 3 minutách česnek. Po minutě zalij smetanou, vmíchej oregano a nech minutu povařit."
+    },
+    {
+      "text": "Ve větší míse prošlehej vejce, přidej polovinu sýra a pomalu zamíchej teplou omáčku, ať se vejce nesrazí. Pak přimíchej těstoviny a kuřecí."
+    },
+    {
+      "text": "Směs přesuň do vymazané zapékací mísy, posyp zbytkem sýra a peč 20 až 25 minut. Kuřecí je hotové, když má uvnitř aspoň 75 °C a šťáva z kousku je čirá. Před krájením nech 5 minut odpočinout."
+    }
+  ],
+  "tips": [
+    "Kuřecí prsa krájej na stejné kostky, aby se dopekly najednou. Stehenní řízky bez kosti jsou odpustivější a nevysychají.",
+    "Vejce s omáčkou drží těstoviny pohromadě a dělá z nich krájenou porci. Bez vejce vyjdou volnější, ale taky dobré.",
+    "Zbytky přikryj a vlož do lednice do 2 hodin po upečení. Vydrží 2 dny a ohřívej je do horka."
+  ],
+  "substitutions": [
+    "Smetanu na vaření nahraď stejným množstvím mléka smíchaného s lžící hladké mouky, omáčka bude lehčí.",
+    "Eidam můžeš nahradit goudou nebo mozzarellou.",
+    "Do směsi přidej 150 g hrášku nebo kukuřice, na chuť se nic nezmění."
+  ],
+  "faq": [
+    {
+      "q": "Jak poznám, že je kuřecí v zapečených těstovinách hotové?",
+      "a": "Uvnitř kousku má mít aspoň 75 °C, maso je bílé a šťáva čirá. Kostky o straně 2 cm to při 190 °C zvládnou za 20 až 25 minut."
+    },
+    {
+      "q": "Musí se těstoviny před zapékáním uvařit?",
+      "a": "Ano, ale jen krátce, o 2 minuty méně než podle obalu. Dokončí se v troubě a nasají omáčku."
+    },
+    {
+      "q": "Čím nahradit smetanu?",
+      "a": "Dobře poslouží zakysaná smetana s mlékem 1:1 nebo rajčatová passata, jídlo pak bude lehčí a kyselejší. Zakysanou smetanu vmíchej až po zahřátí, jinak se srazí."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "title": "Teriyaki omáčka",
+  "keywords": [
+    "teriyaki omáčka recept",
+    "domácí teriyaki omáčka",
+    "teriyaki omáčka na kuře",
+    "jak udělat teriyaki omáčku"
+  ],
+  "image": "dish-teriyaki-omacka",
+  "category": "asijska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Domácí teriyaki omáčka potřebuje sójovou omáčku, mirin, cukr, zázvor a pár minut vaření. Vyjde lesklá, sladkoslaná glazura na kuře, ryby i zeleninu. Poznáš ji podle toho, že se při vaření zhoustne a obalí lžíci.",
+  "ingredients": [
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mirin",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "najemno nastrouhaný"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "zahušťovadlo"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na rozmíchání škrobu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do hrnce dej sójovou omáčku, mirin, cukr, zázvor a česnek. Zahřívej na středním plameni a míchej, dokud se cukr nerozpustí."
+    },
+    {
+      "text": "Přiveď omáčku k varu a vař na mírném plameni asi 5 minut, aby se chuť spojila a trochu se zredukovala."
+    },
+    {
+      "text": "Škrob rozmíchej se studenou vodou, aby nevznikly hrudky, a za stálého míchání ho nalij do omáčky. Vař ještě 1 až 2 minuty, dokud omáčka nezhoustne a nepřilne ke lžíci."
+    },
+    {
+      "text": "Omáčku nech chvíli vychladnout, přeceď ji, chceš-li hladkou, a použij jako glazuru na maso nebo hotovou omáčku na rýži. Do zavřené sklenice vydrží v lednici týden."
+    }
+  ],
+  "tips": [
+    "Maso glazuj až na konci smažení a na pár desítek sekund. Cukr v omáčce snadno zhořkne.",
+    "Chceš tmavší a hlubší chuť? Použij třtinový cukr a nech omáčku o minutu déle probublávat."
+  ],
+  "substitutions": [
+    "Mirin nahradíš 3 lžícemi rýžového octa a 1 lžicí cukru navíc, případně lžící medu.",
+    "Sójová omáčka může být světlá nebo tmavá. Tmavá je výraznější a o něco sladší, uber pak trochu cukru.",
+    "Pro verzi bez lepku zvol sójovou omáčku označenou jako bezlepkovou."
+  ],
+  "faq": [
+    {
+      "q": "Co je teriyaki omáčka a z čeho se dělá?",
+      "a": "Japonská lesklá glazura ze sójové omáčky, mirinu a cukru. Zázvor a česnek ji dochutí, škrob nebo dlouhé vaření ji zahustí."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí teriyaki omáčka?",
+      "a": "Ve zavřené sklenici v lednici asi týden. Před použitím ji promíchej, škrob se může usadit."
+    },
+    {
+      "q": "Proč je moje teriyaki omáčka řídká?",
+      "a": "Nevařila se dost dlouho, nebo se nepřidal škrob. Vař ji ještě 1 až 2 minuty a případně vmíchej další lžičku škrobu rozmíchanou ve studené vodě."
+    }
+  ]
+}

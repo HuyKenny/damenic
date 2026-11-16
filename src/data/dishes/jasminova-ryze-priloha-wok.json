@@ -1,0 +1,15 @@
+{
+  "name": "Jasmínová rýže",
+  "restaurant": "wok-nic-moc",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Voňavá nadýchaná rýže dopařená pod pokličkou.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-jasminova-ryze-priloha-wok",
+  "recipe": "jasminova-ryze",
+  "vegetarian": true,
+  "vegan": true,
+  "order": 65,
+  "allergens": []
+}

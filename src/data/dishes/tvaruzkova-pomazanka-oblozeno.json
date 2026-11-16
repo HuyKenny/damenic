@@ -1,0 +1,23 @@
+{
+  "name": "Chlebíček s tvarůžkovou pomazánkou",
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "kind": "main",
+  "section": "Chlebíčky",
+  "description": "Tvarůžky rozmačkané s máslem, cibulí a kmínem na tmavém pečivu.",
+  "about": [
+    "Tvarůžková pomazánka není pro každého, ale kdo ji má rád, nechce nic jiného. Tvarůžky se rozmačkají s máslem, cibulí a mletým kmínem a po hodině v lednici se chuť propojí.",
+    "Zavři dózu pořádně. Chlebíčkárna Obloženo ničím ti ji sice nepřiveze, ale vůně se k tobě dostane stejně."
+  ],
+  "price": 12900,
+  "image": "dish-tvaruzkova-pomazanka-oblozeno",
+  "recipe": "tvaruzkova-pomazanka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    10
+  ],
+  "order": 210
+}

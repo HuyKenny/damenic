@@ -1,0 +1,23 @@
+{
+  "name": "Tacos s trhaným hovězím",
+  "restaurant": "taqueria-nic-noveho",
+  "kind": "main",
+  "section": "Tacos",
+  "description": "Tři tacos s hovězím trhaným z trouby, červená cibule, koriandr a limetka.",
+  "about": [
+    "Trhané hovězí je maso, které rozhodl čas. Plec se čtyři hodiny peče pod pokličkou, až se vlákna rozpadnou na dotek. Uzená paprika a římský kmín dají chuť, kterou čekáš od dobré taqueríe, ocet a limetka celou věc zvednou.",
+    "V tacos je maso hlavně o kontrastu: horká náplň, studená cibule, kyselá limeta. Čtyři hodiny doma, nula hodin u nás."
+  ],
+  "price": 19900,
+  "image": "dish-tacos-trhane-hovezi-nic",
+  "recipe": "trhane-hovezi-maso",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 1,
+  "allergens": [
+    1,
+    9
+  ],
+  "order": 90
+}

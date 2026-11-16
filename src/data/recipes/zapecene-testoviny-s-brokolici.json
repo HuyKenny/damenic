@@ -1,0 +1,122 @@
+{
+  "title": "Zapečené těstoviny s brokolicí a smetanou",
+  "keywords": [
+    "zapečené těstoviny s brokolicí",
+    "zapečené těstoviny s brokolicí a smetanou",
+    "zapečené těstoviny se zeleninou",
+    "zapečené těstoviny se špenátem"
+  ],
+  "image": "dish-zapecene-testoviny-s-brokolici-niente",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Zapečené těstoviny s brokolicí a smetanou jsou bezmasé jídlo, které zasytí čtyři lidi. Brokolice se vaří spolu s těstovinami, takže stačí jeden hrnec. Pozor na jedinou věc: nepřevařit ji do kaše.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 350,
+      "unit": "g",
+      "note": "fusilli nebo penne"
+    },
+    {
+      "ingredient": "brokolice",
+      "amount": 400,
+      "unit": "g",
+      "note": "na malé růžičky"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzice",
+      "note": "2 lžíce do vody, zbytek do omáčky"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu zapni na 190 °C, horkovzduch 170 °C. Ve vodě osolené 2 lžícemi soli vař těstoviny podle obalu o 2 minuty kratší dobu. Poslední 3 minuty přidej do hrnce brokolici, pak vše slij."
+    },
+    {
+      "text": "V rendlíku rozpusť máslo, přidej česnek a po půl minutě mouku. Míchej 1 minutu, ať nezhnědne, pak po částech přilévej mléko a stále šlehej metličkou, aby nevznikly hrudky."
+    },
+    {
+      "text": "Přidej smetanu, muškát, pepr a polovinu sýra, nech 3 minuty probublávat. Omáčka má obalovat lžíci."
+    },
+    {
+      "text": "Těstoviny s brokolicí smíchej s omáčkou, přesuň do vymazané zapékací mísy a posyp zbylým sýrem."
+    },
+    {
+      "text": "Peč 20 minut, dokud sýr nezezlátne a okraje bublají. Nech 5 minut odpočinout a podávej."
+    }
+  ],
+  "tips": [
+    "Brokolici dej do hrnce až na závěr. Kdyby se vařila celou dobu, rozpadne se v kaši.",
+    "Muškátový oříšek dej na špičku nože, víc by chutnal výrazně. Čerstvě nastrouhaný má plnější vůni než mletý.",
+    "Do omáčky můžeš před pečením vmíchat nasekanou šunku nebo uzené maso, ale pak už jídlo nebude bez masa."
+  ],
+  "substitutions": [
+    "Čerstvou brokolici nahraď mraženou, rozmraž ji a odkapej, aby nepouštěla vodu.",
+    "Eidam může být gouda, čedar nebo kozí sýr.",
+    "Zeleninu můžeš střídat: květák, špenát (300 g čerstvého, vymačkaného) nebo cuketa."
+  ],
+  "faq": [
+    {
+      "q": "Kdy dát brokolici do zapečených těstovin?",
+      "a": "Do vody s těstovinami 3 minuty před koncem vaření, aby byla poloměkká. V troubě se dodělá a nerozpadne se."
+    },
+    {
+      "q": "Jak udělat omáčku bez hrudek?",
+      "a": "Mouku opraž na másle a mléko přilévej po částech za stálého šlehání. Nalíváš-li najednou, hrudky se vytvoří."
+    },
+    {
+      "q": "Dají se těstoviny zapékat bez smetany?",
+      "a": "Ano. Použij jen mléko, vyjde lehčí omáčka, a případně přidej o lžíci mouky víc, aby zhoustla."
+    }
+  ]
+}

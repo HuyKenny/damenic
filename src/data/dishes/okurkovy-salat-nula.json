@@ -1,0 +1,20 @@
+{
+  "name": "Okurkový salát sladkokyselý",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Bowly a saláty",
+  "description": "Tenká kolečka okurky v nálevu z octa, cukru a kopru. Chutná jako babička.",
+  "about": [
+    "Okurkový salát v sladkokyselém nálevu je klasika bez oleje. Okurky se krájí na tenká kolečka, osolí, vymačkají a zalijí nálevem z vody, octa a cukru. Dvě okurky dají čtyři porce.",
+    "Okurku si nakrájíš sama. Zelená Nula ti ji nepřiveze, ale nálev se ti povede i bez ní, protože je jen z vody, octa a cukru."
+  ],
+  "price": 10900,
+  "image": "dish-okurkovy-salat-nula",
+  "recipe": "okurkovy-salat",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 240
+}

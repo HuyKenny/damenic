@@ -1,0 +1,21 @@
+{
+  "name": "Ječné kroupy s cibulkou",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Měkké kroupy s máslem a osmaženou cibulkou. Namáčely se přes noc, jedou jen na prázdno.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-kroupy",
+  "recipe": "kroupy",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 540
+}

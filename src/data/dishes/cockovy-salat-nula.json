@@ -1,0 +1,22 @@
+{
+  "name": "Studený čočkový salát",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Bowly a saláty",
+  "description": "Hnědá čočka s paprikou, rajčaty a cibulí v hořčicové zálivce, ještě za tepla.",
+  "about": [
+    "Studený čočkový salát je dobrý, protože se čočka zalévá zálivkou ještě teplá a nasaje ji celou. Hnědá čočka se vaří 20 až 25 minut, nesmí se rozvařit, a pak přijde paprika, rajčata a petrželka.",
+    "Je to vydatný oběd bez masa. Zelená Nula ti ho nepřiveze, takže se čočka aspoň nerozvaří cestou."
+  ],
+  "price": 15900,
+  "image": "dish-cockovy-salat-nula",
+  "recipe": "cockovy-salat",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    10
+  ],
+  "order": 290
+}

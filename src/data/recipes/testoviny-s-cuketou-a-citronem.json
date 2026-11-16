@@ -1,0 +1,113 @@
+{
+  "title": "Těstoviny s cuketou a citronem",
+  "keywords": [
+    "rychlý oběd z těstovin",
+    "rychlý oběd z cukety",
+    "těstoviny s cuketou",
+    "rychlá večeře bez masa"
+  ],
+  "image": "dish-testoviny-cuketa-hotovo",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Těstoviny s cuketou a citronem jsou rychlý oběd z těstovin, hotový za 25 minut. Cuketa se opeče dozlatova, zalije škrobovou vodou a spojí s citronem a parmazánem. Těžké je jen to, aby se cuketa neudusila ve vlastní vodě.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody"
+    },
+    {
+      "ingredient": "cuketa",
+      "amount": 500,
+      "unit": "g",
+      "note": "na půlkolečka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "kůra a šťáva"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "natrhaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve velkém hrnci přiveď k varu hodně osolené vody a uvař těstoviny podle návodu. Před sléváním odlij 150 ml vody z vaření."
+    },
+    {
+      "text": "Mezitím na široké pánvi rozpal olej na vysokém ohni a cuketu smaž 5 až 6 minut v jedné vrstvě, aby zezlátla. Míchej jen občas."
+    },
+    {
+      "text": "Přidej česnek a chilli a smaž 30 sekund. Přidej kůru z citronu."
+    },
+    {
+      "text": "Slité těstoviny dej do pánve, přilij polovinu vody z vaření a citronovou šťávu. Míchej 1 až 2 minuty, až se omáčka spojí a těstoviny obalí."
+    },
+    {
+      "text": "Přidej parmazán a bazalku, dochuť solí a případně dolij zbytek vody. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Cuketu smaž na vysokém ohni a po částech. Přeplněná pánev ji udusí a zůstane vodnatá.",
+    "Voda z těstovin je klíč. Škrob v ní vytvoří lesklou omáčku.",
+    "Citronovou kůru přidej až na konec, aby nezhořkla."
+  ],
+  "substitutions": [
+    "Parmazán nahradí pecorino nebo tvrdý sýr podle chuti.",
+    "Citron lze nahradit limetkou.",
+    "Pro bohatší verzi přidej lžíci mascarpone na závěr."
+  ],
+  "faq": [
+    {
+      "q": "Jak uvařit těstoviny s cuketou, aby nebyly vodnaté?",
+      "a": "Cuketu smaž na vysokém ohni v jedné vrstvě po částech. Tak se karamelizuje a nepustí tolik vody."
+    },
+    {
+      "q": "Dá se jídlo udělat bez parmazánu?",
+      "a": "Ano, lze použít jiný tvrdý sýr nebo ho vynechat. Citron a olej dodají chuť i bez něj."
+    },
+    {
+      "q": "Je jídlo vhodné pro vegetariány?",
+      "a": "Ano, je bez masa. Pozor na parmazán, tradiční výroba používá syřidlo živočišného původu."
+    }
+  ]
+}

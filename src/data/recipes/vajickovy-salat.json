@@ -1,0 +1,115 @@
+{
+  "title": "Vajíčkový salát s majonézou a okurkou",
+  "keywords": [
+    "vajíčkový salát recept",
+    "vajíčkový salát",
+    "vaječný salát",
+    "salát z vajec"
+  ],
+  "image": "dish-vajickovy-salat-ani-listek",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 10,
+  "waitMinutes": 20,
+  "waitLabel": "prolití v lednici",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Vajíčkový salát je studená příloha nebo náplň do pečiva, kde vejce zůstávají nakrájená na kostičky, ne rozmačkaná. Vařená natvrdo, v jemné majonézové zálivce s nakládanou okurkou a jarní cibulkou. Vařená vejce se musí dobře zchladit, ale zálivka zůstává lehká díky jogurtu.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 6,
+      "unit": "ks",
+      "note": "čerstvá, uvařená natvrdo"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 60,
+      "unit": "g",
+      "note": "na drobné kostičky"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na tenká kolečka"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "asi 45 g",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "asi 54 g",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce vlož do vroucí vody a vař 10 minut od chvíle, kdy se voda znovu rozvaří. Poté je zchlaď pod studenou vodou nebo v ledové lázni 5 minut."
+    },
+    {
+      "text": "Vejce oloupej a nakrájej na kostky o hraně asi 1 cm, nejlépe kráječem na vejce nebo nožem. Dej je do mísy."
+    },
+    {
+      "text": "Přidej okurku a jarní cibulku. V hrnku rozmíchej majonézu, jogurt, hořčici, sůl a pepř a nalij na vejce."
+    },
+    {
+      "text": "Salát jemně promíchej, aby se vejce nerozbila. Nech 20 minut v lednici, ochutnej, dosol a posyp pažitkou."
+    }
+  ],
+  "tips": [
+    "Vejce se loupou nejlépe, když jsou po uvaření hned zchlazená. Slupka se pak od bílku odděluje po větších kusech.",
+    "Pro hladší salát můžeš žloutky rozmačkat vidličkou se zálivkou a bílky přidat nakrájené na kostky.",
+    "Vařená vejce s majonézou patří do lednice. Salát nenech stát při pokojové teplotě déle než 2 hodiny a v lednici vydrží do dalšího dne."
+  ],
+  "substitutions": [
+    "Majonézu nahraď řeckým jogurtem s lžičkou hořčice, salát bude lehčí.",
+    "Nakládanou okurku zaměň za čerstvou a přidej lžičku octa nebo citronu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit vejce na vajíčkový salát?",
+      "a": "10 minut od chvíle, kdy voda znovu vře. Pak je hned zchlaď studenou vodou, aby se žloutek nezbarvil do zelena."
+    },
+    {
+      "q": "Jak dlouho vydrží vajíčkový salát v lednici?",
+      "a": "Do dalšího dne, v uzavřené nádobě. Vejce s majonézou jsou citlivá na teplo, proto je nenech déle než 2 hodiny při pokojové teplotě."
+    },
+    {
+      "q": "Jaký je rozdíl mezi vajíčkovým salátem a vajíčkovou pomazánkou?",
+      "a": "V salátu jsou vejce nakrájená na kostky s řidší zálivkou, v pomazánce jsou rozmačkaná a hustá, aby se dala natírat."
+    }
+  ]
+}

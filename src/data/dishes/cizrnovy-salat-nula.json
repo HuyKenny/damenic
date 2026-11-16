@@ -1,0 +1,20 @@
+{
+  "name": "Cizrnový salát",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Bowly a saláty",
+  "description": "Cizrna, cherry rajčata, okurka a červená cibule v citronové zálivce s kmínem.",
+  "about": [
+    "Cizrnový salát je sytá bezmasá varianta, která se dělá z plechovky. Cizrnu stačí propláchnout, přidat rajčata, okurku a cibuli a zalít citronem s olivovým olejem a česnekem.",
+    "Veganský oběd za čtvrt hodiny práce. Kurýr by jel stejně dlouho, jenže nejede."
+  ],
+  "price": 15900,
+  "image": "dish-cizrnovy-salat-nula",
+  "recipe": "cizrnovy-salat",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 280
+}

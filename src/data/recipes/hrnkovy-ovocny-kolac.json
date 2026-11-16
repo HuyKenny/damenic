@@ -1,0 +1,131 @@
+{
+  "title": "Hrnkový ovocný koláč s drobenkou",
+  "keywords": [
+    "hrnkový ovocný koláč s drobenkou",
+    "vláčný ovocný koláč s drobenkou",
+    "ovocný koláč hrníčkový",
+    "rychlý ovocný koláč na plech"
+  ],
+  "image": "dish-hrnkovy-ovocny-kolac-nedortik",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 10,
+  "activeMinutes": 20,
+  "cookMinutes": 40,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Hrnkový ovocný koláč s drobenkou je vláčný, protože těsto kyne díky kefíru a prášku do pečiva. Vyrobíš ho v jedné míse za 20 minut práce a ovoce na něm drží díky vrstvě mouky, kterou posypeš těsto.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 180,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "kefir",
+      "amount": 250,
+      "unit": "ml",
+      "note": "1 hrnek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "visne-mrazene",
+      "amount": 300,
+      "unit": "g",
+      "note": "rozmražené a okapané",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "studené",
+      "group": "Drobenka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 165 °C). Pekáček 20 × 30 cm vymaž a vysyp moukou."
+    },
+    {
+      "text": "Vejce vyšlehej s cukrem a vanilkovým cukrem do pěny, přilij kefír a olej. Mouku smíchej s práškem do pečiva a zamíchej do mokré směsi, těsto bude husté jako hustá smetana."
+    },
+    {
+      "text": "Těsto vlij do formy. Okapané višně rozlož po povrchu a lehce je zatlač."
+    },
+    {
+      "text": "Z mouky, cukru a studeného másla udělej prsty drobenku a rozdrobenou ji rovnoměrně posyp na koláč."
+    },
+    {
+      "text": "Peč 40 až 45 minut. Je hotový, když je drobenka zlatá a špejle v těstě vyjde čistá. Před krájením nech 15 minut vychladnout."
+    }
+  ],
+  "tips": [
+    "Hrnek znamená 250 ml. Pokud odměřuješ hrnkem, mouku sypej bez udusání, asi 130 g na hrnek.",
+    "Rozmražené ovoce nech dobře okapat na sítu, jinak koláč bude mazlavý.",
+    "Koláč je druhý den vláčnější. Zabalený vydrží 3 dny v pokojové teplotě."
+  ],
+  "substitutions": [
+    "Kefír nahraď bílým jogurtem nebo podmáslím ve stejném množství.",
+    "Višně vyměň za maliny, borůvky nebo nakrájené švestky."
+  ],
+  "faq": [
+    {
+      "q": "Proč je hrnkový koláč vláčný?",
+      "a": "Kyselý kefír reaguje s práškem do pečiva a olej drží těsto měkké i den po upečení. Důležité je těsto jen krátce promíchat, jinak ztuhne."
+    },
+    {
+      "q": "Můžu použít mražené ovoce?",
+      "a": "Ano, rozmraz ho a nech důkladně okapat. Přímo z mrazáku pustí při pečení víc vody a koláč bude vlhký."
+    },
+    {
+      "q": "Jak velký plech na koláč potřebuji?",
+      "a": "Pekáček 20 × 30 cm. Na větší plech bude koláč tenký a potřebuje kratší dobu pečení asi 30 minut."
+    }
+  ]
+}

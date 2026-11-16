@@ -1,0 +1,24 @@
+{
+  "name": "Kuskus s kuřecím masem a zeleninou",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Polední menu",
+  "description": "Kuřecí kostky s kari, paprikou a cuketou na kuskusu, hotové za půl hodiny.",
+  "about": [
+    "Kuskus se jen zalije a maso uděláš na jedné pánvi, takže je to večeře pro dny, kdy se ti nechce nic mýt. Kari dodá barvu a citron svěžest.",
+    "Kuře opékáš, dokud nemá uvnitř 75 °C. Poslali bychom ti ho, ale jsme jen smyšlená kuchyně."
+  ],
+  "price": 17900,
+  "image": "dish-kuskus-s-kurecim-masem",
+  "recipe": "kuskus-s-kurecim-masem",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    9
+  ],
+  "featured": false,
+  "order": 530
+}

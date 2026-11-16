@@ -1,0 +1,116 @@
+{
+  "title": "Cuketové nudle s bazalkovým pestem",
+  "keywords": [
+    "low carb recepty",
+    "cuketa fit recepty",
+    "low carb recepty sladké",
+    "fit recepty oběd"
+  ],
+  "image": "dish-cuketove-nudle-s-pestem-ani-drobek",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 3,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Cuketové nudle s bazalkovým pestem jsou low carb oběd bez těstovin. Cuketa se krájí nudličkovačem nebo škrabkou a vaří jen 2 až 3 minuty, jinak pustí vodu a rozbředne. Pesto se dělá v mixéru z bazalky, piniových oříšků a parmazánu.",
+  "ingredients": [
+    {
+      "ingredient": "cuketa",
+      "amount": 600,
+      "unit": "g",
+      "note": "2 střední",
+      "group": "Nudle"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 120,
+      "unit": "g",
+      "note": "půlená",
+      "group": "Nudle"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Nudle"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Nudle"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "velký svazek, asi 40 g listů",
+      "group": "Pesto"
+    },
+    {
+      "ingredient": "piniove-orisky",
+      "amount": 30,
+      "unit": "g",
+      "group": "Pesto"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 30,
+      "unit": "g",
+      "note": "jemně nastrouhaný",
+      "group": "Pesto"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Pesto"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 80,
+      "unit": "ml",
+      "group": "Pesto"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Pesto: bazalku, piniové oříšky, parmazán, česnek a olivový olej rozmixuj do hladké pasty, osol a dochuť."
+    },
+    {
+      "text": "Cuketu omyj a nakrájej na dlouhé nudle spirálovým nudličkovačem nebo škrabkou na tenké pásky. Pokud jsou mokré, osuš je v utěrce."
+    },
+    {
+      "text": "Na pánvi na vyšším plameni rozehřej lžíci oleje, vlož cuketu a 2 až 3 minuty ji vař a míchej, až je měkká, ale pevná na skus."
+    },
+    {
+      "text": "Přidej rajčata, stáhni z ohně a vmíchej pesto. Podávej hned, dokud cuketa nepustila vodu."
+    }
+  ],
+  "tips": [
+    "Cuketu před vařením lehce osol a nech 10 minut odkapat v cedníku, uvolní vodu.",
+    "Pesto přidej mimo oheň, jinak ztmavne a ztratí chuť.",
+    "Pesto vydrží 3 dny v lednici přikryté tenkou vrstvou oleje."
+  ],
+  "substitutions": [
+    "Piniové oříšky nahraď slunečnicovými semínky.",
+    "Parmazán nahraď droždím v lupínkách, pokud chceš recept bez mléka (dej 2 lžíce kvasnicových vloček)."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat cuketové nudle, aby nepustily vodu?",
+      "a": "Nudle krátce vař 2 až 3 minuty na vysokém ohni, nebo je jen přelij horkým pestem. Cuketu lze předem osolit a nechat odkapat."
+    },
+    {
+      "q": "Jak krájet cuketu bez spirálového nudličkovače?",
+      "a": "Škrabkou na zeleninu loupej dlouhé pásky, nebo ji nakrájej nožem na tenké nudličky."
+    },
+    {
+      "q": "Je cuketové nudle fit recept?",
+      "a": "Je to nízkosacharidové jídlo, protože cuketa obsahuje hlavně vodu. Pro sytost přidej vejce nebo fetu."
+    }
+  ]
+}

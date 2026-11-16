@@ -1,0 +1,114 @@
+{
+  "title": "Krůtí maso na pánvi s bylinkami a česnekem",
+  "keywords": [
+    "krůtí maso recept",
+    "krůtí maso na pánvi",
+    "krůtí steaky",
+    "krůtí plátky na pánvi"
+  ],
+  "image": "dish-kruti-steak-uletelo",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 5,
+  "waitLabel": "odpočinek masa",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Krůtí maso na pánvi je nejrychlejší způsob, jak z krůtích prsou udělat šťavnatý steak. Maso se nakrájí na plátky, naklepe, krátce opeče a polije bylinkovým máslem. Krůta je libová, takže rozhoduje čas: o dvě minuty víc a plátek je suchý.",
+  "ingredients": [
+    {
+      "ingredient": "kruti-prsa",
+      "amount": 500,
+      "unit": "g",
+      "note": "příčně na 3 plátky silné asi 2 cm"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "rozmáčknuté"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Plátky krůtího masa vyndej z lednice 15 minut předem, osuš je a lehce naklepej paličkou, aby měly stejnou tloušťku asi 1,5 cm. Osol, opepři a posyp sladkou paprikou a tymiánem."
+    },
+    {
+      "text": "Pánev rozpal na středně vysoký oheň a vlij olej. Plátky smaž 4 až 5 minut z jedné strany, dokud nezezlátnou, pak je otoč."
+    },
+    {
+      "text": "Na druhé straně přidej máslo, česnek a smaž další 4 minuty. Máslo lej lžící na maso. Krůta je hotová, když teploměr v nejtlustším místě ukazuje 75 °C a šťáva po píchnutí je čirá."
+    },
+    {
+      "text": "Maso přendej na talíř a nech 5 minut odpočinout. Do pánve vymačkej citron, seškrábni výpek ze dna a vlij ho na steaky. Posyp petrželkou."
+    }
+  ],
+  "tips": [
+    "Krůtí prsa jsou libová a nemají žádnou rezervu. Teploměr je spolehlivější než čas.",
+    "Naklepání na stejnou tloušťku zajistí, že se maso opeče rovnoměrně a okraje neuschnou.",
+    "Máslo přidej až na druhé straně, jinak by se na prudkém ohni spálilo."
+  ],
+  "substitutions": [
+    "Tymián nahradí rozmarýn nebo majoránka.",
+    "Máslo lze nahradit olivovým olejem.",
+    "Místo krůtích prsou funguje i kuřecí prso, doba smažení je o minutu kratší."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit krůtí maso na pánvi?",
+      "a": "Plátky silné 1,5 až 2 cm smažíš 4 až 5 minut z každé strany na středně vysokém ohni. Uvnitř má maso mít 75 °C."
+    },
+    {
+      "q": "Proč je krůtí maso suché?",
+      "a": "Krůtí prsa mají velmi málo tuku a při delším smažení vyschnou. Pomáhá naklepání na stejnou tloušťku, krátký čas a odpočinek 5 minut po smažení."
+    },
+    {
+      "q": "Dá se krůtí maso předem marinovat?",
+      "a": "Ano. Hodina v oleji, česneku a bylinkách maso zjemní a dochutí. Sůl přidávej až před smažením nebo nejvýš 30 minut předem."
+    }
+  ]
+}

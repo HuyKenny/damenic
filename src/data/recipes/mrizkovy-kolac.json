@@ -1,0 +1,132 @@
+{
+  "title": "Mřížkový koláč s tvarohem",
+  "keywords": [
+    "mřížkový koláč recept",
+    "mřížkový koláč",
+    "koláč s tvarohem a mřížkou"
+  ],
+  "image": "dish-mrizkovy-kolac-kolac-na-slib",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 10,
+  "activeMinutes": 40,
+  "cookMinutes": 45,
+  "waitMinutes": 60,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Mřížkový koláč s tvarohem je linecké těsto s tvarohovou náplní a mřížkou z proužků těsta. Těsto je křehké, takže se pracuje studené a mřížka se nepokládá, ale zlehka proplétá.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 180,
+      "unit": "g",
+      "note": "studené",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nastrouhaná kůra",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 500,
+      "unit": "g",
+      "note": "tučný, hladký",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "žloutky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 50,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na potření",
+      "group": "Dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku, máslo, moučkový cukr a citronovou kůru zpracuj prsty na drobenku, přidej vejce a vypracuj těsto. Rozděl na dvě části 2:1, zabal a nech 60 minut odpočinout v lednici."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 165 °C). Větší díl těsta rozválej na silnější plát a vlož do formy 24 cm nebo pekáčku, vytvoř okraj 3 cm."
+    },
+    {
+      "text": "Tvaroh prošlehej s cukrem, žloutky a vanilkovým cukrem do hladka, vmíchej rozinky. Náplní naplň koláč."
+    },
+    {
+      "text": "Menší díl těsta rozválej na tloušťku 4 mm, nakrájej na proužky 1,5 cm široké a polož je na náplň do mřížky. Okraje přitlač k okraji koláče. Mřížku potři rozšlehaným vejcem."
+    },
+    {
+      "text": "Peč 40 až 45 minut, dokud nezezlátne a náplň nezpevní. Nech vychladnout ve formě, pak teprve krájej."
+    }
+  ],
+  "tips": [
+    "Pokud se těsto trhá, přemisti ho s papírem a lehce přitlač prsty.",
+    "Tvaroh nech odkapat, aby nebyla náplň vodnatá.",
+    "Koláč vydrží 3 dny v lednici."
+  ],
+  "substitutions": [
+    "Rozinky vynech nebo nahraď kandovaným ovocem.",
+    "Tvarohovou náplň můžeš nahradit meruňkovým džemem, pak ji nemusíš péct tak dlouho."
+  ],
+  "faq": [
+    {
+      "q": "Proč tvarohová náplň po upečení praskla?",
+      "a": "Pečená byla příliš dlouho nebo při vysoké teplotě. Piš 175 až 180 °C a koláč vyndej, když se náplň ještě mírně chvěje, doztuhne vychladnutím."
+    },
+    {
+      "q": "Jak uplést mřížku na koláči?",
+      "a": "Proužky polož rovnoběžně jedním směrem, pak kolmé proužky proplétej střídavě pod a nad prvními. Nejde o dokonalost, těsto se při pečení spojí."
+    },
+    {
+      "q": "Jak dlouho vydrží mřížkový koláč s tvarohem?",
+      "a": "3 dny v lednici. Před podáváním ho nech chvíli zahřát na pokojovou teplotu."
+    }
+  ]
+}

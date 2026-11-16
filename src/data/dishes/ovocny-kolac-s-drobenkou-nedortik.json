@@ -1,0 +1,25 @@
+{
+  "name": "Ovocný koláč s drobenkou",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Jablka a borůvky pod máslovou drobenkou, upečené na plech.",
+  "about": [
+    "Ovocný koláč s drobenkou je jedna z mála věcí, které pekárna a babička dělají stejně. Vláčné těsto, šťavnaté ovoce a drobenka, která křupe jako první sníh. Na ovoci nezáleží, hlavní je, že je pod drobenkou.",
+    "V nedortíku ti plech nepřivezou. Ale recept je opravdový a trouba doma funguje. Drobenka se dělá ze studeného másla a prstů, ne z trpělivosti."
+  ],
+  "price": 8900,
+  "image": "dish-ovocny-kolac-s-drobenkou-nedortik",
+  "recipe": "ovocny-kolac-s-drobenkou",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 180
+}

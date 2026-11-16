@@ -1,0 +1,22 @@
+{
+  "name": "Keema matar s rýží",
+  "restaurant": "masala-mozna",
+  "kind": "main",
+  "section": "Kari a rýže",
+  "description": "Mleté hovězí s hráškem, rajčaty a garam masalou na basmati rýži.",
+  "about": [
+    "Keema je v Indii domácí jídlo z mletého masa, které se dělá všude trochu jinak. Tahle verze je severoindická: mleté hovězí na hodně dohněda opečené cibuli, s rajčaty, jogurtem a mraženým hráškem na závěr. Garam masala se přidává až nakonec, aby nevyprchala.",
+    "Vychází voňavé a husté, tak akorát na rýži nebo placku. Masala možná dorazí, doručení ne."
+  ],
+  "price": 17900,
+  "image": "dish-keema-matar-mozna",
+  "recipe": "keema-matar",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 1,
+  "allergens": [
+    7
+  ],
+  "order": 90
+}

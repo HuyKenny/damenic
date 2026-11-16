@@ -1,0 +1,25 @@
+{
+  "name": "Moravské koláče",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "description": "Dvanáct koláčků s tvarohem, mákem a povidly z kynutého těsta.",
+  "about": [
+    "Moravské koláče jsou o něco menší a spěchají. Kynuté těsto s vlažným mlékem, tři náplně a máslo na povrchu po upečení. Žádné cukrářské triky, jen čas, který ten kvásek potřebuje.",
+    "Slib nám tu dává jméno. Hlad je skutečný, koláče taky, jen ten kurýr nepřijede."
+  ],
+  "price": 8900,
+  "image": "dish-moravske-kolace-kolac-na-slib",
+  "recipe": "moravske-kolace",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 120
+}

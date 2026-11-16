@@ -1,0 +1,94 @@
+{
+  "title": "Medovo-hořčicová omáčka",
+  "keywords": [
+    "medovo hořčičná omáčka k masu",
+    "hořčicová omáčka k masu",
+    "hořčičná omáčka k masu",
+    "medová hořčice omáčka"
+  ],
+  "image": "dish-medovo-horcicova-omacka",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 5,
+  "cookMinutes": 8,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Medovo-hořčicová omáčka k masu vzniká z dijonské hořčice, medu a smetany na vaření. Je lehce pikantní, sladká a hladká, takže se hodí ke kuřecím prsům, vepřovým medailonkům a pečeným bramborám. Za osm minut je hotová.",
+  "ingredients": [
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "horcice-dijonska",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "med",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V malém hrnci rozpusť máslo na mírném plameni. Přidej dijonskou hořčici a med a míchej 1 minutu, aby se spojily."
+    },
+    {
+      "text": "Přilij smetanu na vaření a za stálého míchání ji přiveď těsně k varu. Omáčku nech 4 až 5 minut jemně probublávat, dokud nezhoustne tak, aby obalila lžíci."
+    },
+    {
+      "text": "Hrnec stáhni z ohně, přidej citronovou šťávu, sůl a pepř. Ochutnej, případně přidej trochu medu nebo hořčice."
+    },
+    {
+      "text": "Podávej teplou k masu, nebo ji nech vychladnout a použij jako dip. V lednici vydrží 3 dny."
+    }
+  ],
+  "tips": [
+    "Smetanu nevař prudce, mohla by se srazit. Stačí lehké probublávání.",
+    "Hořčice se po zahřátí zjemní. Chceš-li výraznější chuť, přimíchej 1 lžičku hořčice až na konci."
+  ],
+  "substitutions": [
+    "Smetanu na vaření nahradíš ovesnou smetanou, kterou nesrazíš tak snadno jako rostlinný nápoj.",
+    "Med nahradíš javorovým sirupem.",
+    "Dijonskou hořčici nahradíš jemnou plnotučnou hořčicí, ocet v ní ale bývá výraznější."
+  ],
+  "faq": [
+    {
+      "q": "K jakému masu se medovo-hořčicová omáčka hodí?",
+      "a": "K drůbeži, vepřovým medailonkům, pečené šunce a uzeným klobásám. Skvělá je i k pečeným bramborám a nuggetkám."
+    },
+    {
+      "q": "Dá se medovo-hořčicová omáčka udělat studená?",
+      "a": "Ano. Smíchej 3 lžíce majonézy nebo jogurtu s lžící dijonské hořčice a lžící medu. Vznikne dip, který se nemusí vařit."
+    },
+    {
+      "q": "Proč se omáčka sráží?",
+      "a": "Smetana se přehřála, nebo byla příliš kyselá. Přilévej citron až po stažení z ohně a omáčku vař jen mírně."
+    }
+  ]
+}

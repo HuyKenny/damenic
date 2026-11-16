@@ -1,0 +1,24 @@
+{
+  "name": "Cuketové nudle s pestem",
+  "restaurant": "ani-drobek",
+  "kind": "main",
+  "section": "Misky",
+  "description": "Cuketové nudle s rajčaty a čerstvým bazalkovým pestem.",
+  "about": [
+    "Cuketové nudle jsou těstoviny bez těstovin. Nudličkovač, tři minuty na pánvi a bazalkové pesto z mixéru. Důležité je cuketu nepřevařit, jinak pustí vodu.",
+    "Pesto zvládne i hladový. Doručit se ho nedá, ale vyrobit ano."
+  ],
+  "price": 14900,
+  "image": "dish-cuketove-nudle-s-pestem-ani-drobek",
+  "recipe": "cuketove-nudle-s-pestem",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 240
+}

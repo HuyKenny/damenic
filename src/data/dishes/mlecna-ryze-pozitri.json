@@ -1,0 +1,16 @@
+{
+  "name": "Mléčná rýže se skořicí",
+  "restaurant": "lahudky-pozitri",
+  "kind": "dessert",
+  "section": "Dezerty",
+  "description": "Rýže uvařená v mléce do krémové hustoty, se skořicí a cukrem.",
+  "about": [],
+  "price": 8900,
+  "image": "dish-mlecna-ryze-pozitri",
+  "recipe": "mlecna-ryze",
+  "vegetarian": true,
+  "order": 75,
+  "allergens": [
+    7
+  ]
+}

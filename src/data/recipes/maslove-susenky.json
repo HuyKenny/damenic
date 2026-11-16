@@ -1,0 +1,95 @@
+{
+  "title": "Máslové sušenky",
+  "keywords": [
+    "máslové sušenky recept",
+    "máslové sušenky",
+    "domácí máslové sušenky",
+    "křehké sušenky"
+  ],
+  "image": "dish-maslove-susenky-zitra-upecem",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 9,
+  "activeMinutes": 25,
+  "cookMinutes": 12,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Máslové sušenky z pěti surovin vyjdou na asi 45 kusů a upečeš je za půl hodiny práce. Těsto je křehké, protože se nesmí příliš hníst, a musí si odpočinout v lednici, jinak se při pečení rozteče.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "pokojové teploty, měkké"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "větší"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g",
+      "note": "1 sáček"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Máslo utři s moučkovým cukrem, vanilkovým cukrem a špetkou soli do světlé hladké hmoty, asi 2 minuty. Přidej vejce a krátce prošlehej."
+    },
+    {
+      "text": "Přisyp mouku a těsto jen krátce spoj do hladké hrudky. Čím déle ho hnětješ, tím tužší sušenky budou. Zabal ho do fólie a nech 30 minut odpočinout v lednici."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 165 °C). Těsto rozválej na pomoučené desce na tloušťku asi 5 mm a vykrajuj tvary. Odřezky znovu spoj a rozválej jen jednou."
+    },
+    {
+      "text": "Sušenky ulož na plech s pečicím papírem s malými mezerami. Peč 10 až 12 minut na střední polici, dokud okraje nezezlátnou. Střed zůstane světlý."
+    },
+    {
+      "text": "Nech je 5 minut na plechu zpevnit, pak je přendej na mřížku. Úplně vychladlé ulož do plechové dózy."
+    }
+  ],
+  "tips": [
+    "Těsto, které se lepí, vrať na 10 minut do mrazáku. Moukou ho nepřesyp, sušenky by byly suché.",
+    "Sušenky stejné tloušťky se pečou stejně. Všechny na plechu vykrajuj stejnou formičkou.",
+    "V dóze vydrží 2 týdny, nepečené těsto zmrazené 3 měsíce."
+  ],
+  "substitutions": [
+    "Vanilkový cukr nahraď zrnky z poloviny vanilkového lusku nebo kapkou vanilkového extraktu.",
+    "Pokud nemáš moučkový cukr, použij krupicový rozemletý v mixéru dohladka."
+  ],
+  "faq": [
+    {
+      "q": "Proč se mi máslové sušenky při pečení rozteklo?",
+      "a": "Těsto bylo příliš teplé nebo máslo moc měkké. Vyválené a vykrojené tvary dej před pečením na 10 minut do lednice, pečou se pak ostře a zachovají tvar."
+    },
+    {
+      "q": "Kolik sušenek vyjde z tohoto receptu?",
+      "a": "Asi 45 kusů při průměru formičky 5 cm a tloušťce 5 mm. Servings je počítáno po pěti kusech."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí máslové sušenky?",
+      "a": "V uzavřené plechové dóze na suchém místě asi 2 týdny. Čím víc másla, tím rychleji ztrácí křehkost, proto je ukládej, až úplně vychladnou."
+    }
+  ]
+}

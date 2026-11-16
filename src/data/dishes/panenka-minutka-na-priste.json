@@ -1,0 +1,48 @@
+{
+  "name": "Vepřová panenka minutka",
+  "restaurant": "peceni-na-priste",
+  "kind": "main",
+  "section": "Vepřová panenka",
+  "description": "Plátky panenky z pánve, česnekové máslo, citron a petrželka. Minutka, která ti nepřijede ani za hodinu.",
+  "about": [
+    "Minutka je tak rychlá, že kuchař stihne zkontrolovat, jestli už nemáš hlad. Panenka se krájí na plátky a smaží jen krátce na silném ohni, aby zůstala šťavnatá. Kůrka je zlatá, uvnitř je maso bez růžové, a máslo s česnekem dělá omáčku ze dna pánve.",
+    "V té rychlosti se skrývá jediný háček: musíš mít všechno nachystané předem. My nachystané máme, jen nás nikdo neposlal k tvým dveřím."
+  ],
+  "price": 26900,
+  "image": "dish-panenka-minutka-na-priste",
+  "recipe": "veprova-panenka-minutka",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 100,
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "ryze",
+          "name": "Rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "kase",
+          "name": "Bramborová kaše",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ]
+}

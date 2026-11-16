@@ -1,0 +1,20 @@
+{
+  "name": "Zapečené penne s uzeným",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Penne se smetanou, uzeným a eidamem zapečené do zlatého škraloupu.",
+  "about": [
+    "Uzené maso a smetana jsou ve zapečených těstovinách dvojice, která funguje od školní jídelny po rodinný oběd. Penne se vaří o dvě minuty kratší dobu a dopečou se v troubě, takže nasají omáčku a nezměknou do kaše.",
+    "Trouba je rozpálená, uzené nakrájené. Jen to k tobě nedojede."
+  ],
+  "price": 22900,
+  "image": "dish-zapecene-penne-s-uzenym-niente",
+  "recipe": "zapecene-testoviny-s-uzenym",
+  "vegetarian": false,
+  "order": 110,
+  "allergens": [
+    1,
+    7
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "title": "Krkovice na pánvi s cibulí a paprikou",
+  "keywords": [
+    "rychlý oběd z krkovice",
+    "krkovice na pánvi",
+    "rychlý oběd z vepřové plece",
+    "krkovice na cibuli"
+  ],
+  "image": "dish-krkovice-cibule-hotovo",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 18,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Krkovice na pánvi s cibulí je rychlý oběd z vepřového masa, který nepotřebuje troubu. Plátky silné 1 cm se opečou z obou stran, přikryjí se cibulí a krátce podusí v pánvi pod poklicí. Krkovice je prorostlá tukem, proto zůstane šťavnatá i při delším smažení.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-krkovice",
+      "amount": 600,
+      "unit": "g",
+      "note": "na plátky silné 1 cm"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 300,
+      "unit": "g",
+      "note": "na půlkolečka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "paprika-zelena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na proužky"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Plátky krkovice osol, opepři a posyp paprikou a majoránkou. Z okraje oddělej případné tvrdé blány."
+    },
+    {
+      "text": "Velkou pánev rozpal na středně vysoký oheň, nalij olej a plátky smaž po částech 3 minuty z každé strany do zlatova. Přendej na talíř."
+    },
+    {
+      "text": "Do pánve přidej cibuli a papriku a opékej 5 minut do zesklovatění. Přidej česnek a po 30 sekundách podlij vodou a seškrábni výpek ze dna."
+    },
+    {
+      "text": "Vrať maso do pánve, přikryj poklicí a duš 8 až 10 minut na mírném ohni. Maso musí být uvnitř bez růžové barvy a teplota má dosáhnout alespoň 70 °C, aby bylo měkké."
+    },
+    {
+      "text": "Dochuť solí a podávej s chlebem, bramborami nebo rýží."
+    }
+  ],
+  "tips": [
+    "Krkovice potřebuje o minutu víc než kotleta, tuk se musí pustit. Čím tenčí plátek, tím rychlejší a křupavější.",
+    "Cibule je tu omáčka. Neosmaž ji dohněda, zůstane sladší, když jen zesklovatí.",
+    "Plátky pokládej vedle sebe, ne na sebe. Jinak se maso dusí."
+  ],
+  "substitutions": [
+    "Krkovici lze nahradit vepřovou plecí, která je trochu tužší a potřebuje delší podušení.",
+    "Zelenou papriku nahradí červená.",
+    "Majoránka může být nahrazena kmínem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit krkovici na pánvi?",
+      "a": "Plátky silné 1 cm potřebují 3 až 4 minuty z každé strany. Pro měkčí maso je pak krátce podus pod poklicí 8 až 10 minut."
+    },
+    {
+      "q": "Je krkovice na pánvi tuhá?",
+      "a": "Krkovice je prorostlá tukem, takže bývá šťavnatá. Tuhá se stává, když se smaží příliš na vysokém ohni nebo se použije moc silný plátek."
+    },
+    {
+      "q": "Dá se krkovice předem marinovat?",
+      "a": "Ano, hodina v oleji, česneku a paprice zjemní chuť. Sůl přidej až před smažením."
+    }
+  ]
+}

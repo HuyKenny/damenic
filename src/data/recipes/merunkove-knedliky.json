@@ -1,0 +1,139 @@
+{
+  "title": "Meruňkové knedlíky z bramborového těsta",
+  "keywords": [
+    "meruňkové knedlíky recept",
+    "meruňkové knedlíky z bramborového těsta",
+    "bramborové knedlíky s ovocem",
+    "meruňkové knedlíky"
+  ],
+  "image": "dish-merunkove-knedliky",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 45,
+  "cookMinutes": 12,
+  "waitMinutes": 60,
+  "waitLabel": "vychladnutí brambor",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Meruňkové knedlíky z bramborového těsta se plní celými meruňkami, které se uvnitř zavaří do sladké šťávy. Těsto se dělá z vychladlých vařených brambor, mouky a vejce, nekyne a vaří se jen 10 až 12 minut. Hotové knedlíky se obalují ve strouhance a podávají s tvarohem.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 500,
+      "unit": "g",
+      "note": "vařené, vychladlé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "krupice",
+      "amount": 40,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "merunky",
+      "amount": 400,
+      "unit": "g",
+      "note": "asi 8 ks, bez pecek",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 8,
+      "unit": "lzicka",
+      "note": "do každé meruňky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 100,
+      "unit": "g",
+      "note": "strouhaný nebo rozdrobený",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na vaření",
+      "group": "Vaření"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař ve slupce 25 minut, oloupej, nech zcela vychladnout a prolisuj. Smíchej s moukou, krupicí, vejcem a špetkou soli a rychle zpracuj těsto."
+    },
+    {
+      "text": "Meruňky umyj, rozpůl, vypeckuj a do každé dej lžičku cukru. Spoj půlky zpět do kuliček."
+    },
+    {
+      "text": "Těsto rozděl na 8 dílů, každý rozplácni na placku, do ní vlož meruňku, zabal a uzavři. Knedlík vyválej v dlaních do kuličky."
+    },
+    {
+      "text": "Do vroucí osolené vody vlož knedlíky, přiveď znovu k varu a vař na mírném plameni 10 až 12 minut. Hotové jsou, když vyplavou a jsou pevné."
+    },
+    {
+      "text": "Na pánvi rozpusť máslo, osmaž strouhanku dozlatova. Knedlíky obal ve strouhance a podávej posypané tvarohem a cukrem moučkou."
+    }
+  ],
+  "tips": [
+    "Knedlíky vař v dostatečně velkém hrnci. Voda nemá prudce vřít, jinak se rozpadnou.",
+    "Tvrdé meruňky vezmi jako první volbu. Přezrálé se rozvaří a vytečou."
+  ],
+  "substitutions": [
+    "Meruňky nahradíš švestkami, třešněmi nebo jahodami, podle sezóny.",
+    "Strouhanku nahradíš mletým mákem smíchaným s cukrem.",
+    "Tvaroh nahradíš zakysanou smetanou nebo jogurtem."
+  ],
+  "faq": [
+    {
+      "q": "Proč se meruňkové knedlíky rozpadají?",
+      "a": "Těsto je příliš řídké, nebo se spojilo nedostatečně. Přidej lžíci mouky a nejdřív zkus uvařit jeden zkušební knedlík."
+    },
+    {
+      "q": "Jak dlouho se meruňkové knedlíky vaří?",
+      "a": "Z bramborového těsta asi 10 až 12 minut od chvíle, kdy se voda znovu začne vařit."
+    },
+    {
+      "q": "Dají se meruňkové knedlíky zamrazit?",
+      "a": "Ano. Syrové zamraz na tácku, potom je ve vroucí vodě vař rovnou ze zmrazeného 15 až 18 minut."
+    }
+  ]
+}

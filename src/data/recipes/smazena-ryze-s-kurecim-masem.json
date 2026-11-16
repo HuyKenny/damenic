@@ -1,0 +1,114 @@
+{
+  "title": "Smažená rýže s kuřecím masem a vejcem",
+  "keywords": [
+    "smažená rýže s kuřecím masem",
+    "smažená rýže s vajíčkem",
+    "vietnamská smažená rýže"
+  ],
+  "image": "dish-smazena-ryze-s-kurecim-wok",
+  "category": "asijska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Smažená rýže s kuřecím masem a vejcem je recept na zbytky rýže z předchozího dne. Právě vychladlá rýže se na pánvi nelepí a vzniká z ní jídlo, které chutná jako z asijského bistra. Pro dva za čtvrt hodiny.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-jasminova",
+      "amount": 160,
+      "unit": "g",
+      "note": "uvařená den předem a vychladlá (asi 400 g uvařené)"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 250,
+      "unit": "g",
+      "note": "na malé kostky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 80,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýži den předem uvař, rozprostři na talíř a nech vychladnout. Studená rýže je suchá a zrnka se oddělují."
+    },
+    {
+      "text": "Ve woku nebo velké pánvi rozehřej 2 lžíce oleje na vysokém plameni. Kuřecí osol a smaž 4 minuty, dokud nezezlátne. Přidej mrkev a hrášek a smaž další 2 minuty."
+    },
+    {
+      "text": "Maso a zeleninu odsuň, na volné místo přidej zbylý olej a vlij rozšlehaná vejce. Míchej 30 vteřin a nech srazit do měkkých hrudek."
+    },
+    {
+      "text": "Přidej rýži a česnek. Rozbíjej hrudky a 3 minuty smaž, dokud rýže nezačne zlehka praskat a není horká."
+    },
+    {
+      "text": "Přilej sojovku a po 1 minutě sezamový olej. Kuřecí musí mít uvnitř aspoň 75 °C. Posyp jarní cibulkou."
+    }
+  ],
+  "tips": [
+    "Čerstvě uvařená rýže vyjde kašovitá. Pokud ji nemáš z předchozího dne, rozprostři ji na plech a nech 20 minut v mrazáku.",
+    "Sójovku přidávej postupně, soli už nepřidávej.",
+    "Vejce vlej na prázdné místo, kde se opravdu smaží, ne na studenou rýži."
+  ],
+  "substitutions": [
+    "Kuřecí nahraď šunkou, krevetami nebo tofu.",
+    "Hrášek nahraď kukuřicí nebo čerstvým pak choi.",
+    "Jasmínovou rýži lze nahradit basmati nebo dlouhozrnnou."
+  ],
+  "faq": [
+    {
+      "q": "Proč je smažená rýže lepkavá?",
+      "a": "Použila se čerstvě uvařená rýže nebo moc oleje. Vychlazená rýže má suchý povrch a zrnka se oddělují."
+    },
+    {
+      "q": "Jakou rýži použít na smaženou rýži?",
+      "a": "Nejlepší je jasmínová nebo dlouhozrnná, uvařená den předem. Kulatozrnná má víc škrobu a lepí se."
+    },
+    {
+      "q": "Jak dlouho je uvařená rýže v lednici?",
+      "a": "Nejvýš 1 až 2 dny. Po uvaření ji dej do lednice do 1 hodiny, protože v rýži, která dlouho stojí v teple, se mohou množit bakterie tvořící toxin."
+    }
+  ]
+}

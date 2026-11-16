@@ -1,0 +1,49 @@
+{
+  "name": "Vepřová panenka s pepřovou omáčkou",
+  "restaurant": "peceni-na-priste",
+  "kind": "main",
+  "section": "Vepřová panenka",
+  "description": "Šťavnatá panenka v zeleném pepři a smetaně, vedle rýže. Pepř štípe jen na jazyku, ne v peněžence.",
+  "about": [
+    "Pepřová omáčka je klasika české kuchyně a panenka je pro ni nejlepší maso: libová, jemná, hotová za půl hodiny. Zelený pepř se přidává z nálevu a dává omáčce svěží štiplavost, černý pepř v kůrce dodá vůni z pánve.",
+    "Doma stojí všechno na teploměru a trpělivosti u prkénka. U nás stojí všechno na prázdném talíři, protože kuchyně je smyšlená. Pepř ti nepošleme, recept ano."
+  ],
+  "price": 28900,
+  "image": "dish-panenka-pepr-na-priste",
+  "recipe": "veprova-panenka-s-peprovou-omackou",
+  "featured": true,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 1,
+  "allergens": [
+    7,
+    9,
+    10
+  ],
+  "order": 90,
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "ryze",
+          "name": "Rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "kase",
+          "name": "Bramborová kaše",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ]
+}

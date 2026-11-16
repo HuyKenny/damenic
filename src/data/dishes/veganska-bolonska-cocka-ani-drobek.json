@@ -1,0 +1,24 @@
+{
+  "name": "Veganské špagety s čočkou",
+  "restaurant": "ani-drobek",
+  "kind": "main",
+  "section": "Kari a dál",
+  "description": "Hustá omáčka z červené čočky, rajčat a mrkve na špagetách.",
+  "about": [
+    "Červená čočka se rozvaří do husté omáčky, která připomíná mleté maso, jen bez masa. Opečená zelenina a protlak dodají hloubku, oregano a bobkový list zbytek.",
+    "Veganská bolonská se dělá v jednom hrnci za 45 minut. Žádné drobky nespadnou, protože ani žádné nepřijedou."
+  ],
+  "price": 15900,
+  "image": "dish-veganska-bolonska-cocka-ani-drobek",
+  "recipe": "veganska-bolonska-cocka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    9
+  ],
+  "featured": false,
+  "order": 250
+}

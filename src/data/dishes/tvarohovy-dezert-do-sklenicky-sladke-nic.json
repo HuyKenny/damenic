@@ -1,0 +1,25 @@
+{
+  "name": "Tvarohový dezert do skleničky",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Studené dezerty",
+  "description": "Hladký tvaroh, šlehačka, sušenky a jahody v pěti vrstvách.",
+  "about": [
+    "Tvarohový dezert do skleničky se skládá bez trouby a bez plynu. Tvaroh, šlehačka, sušenky a jahody se vrství a v lednici spojí. Skleničku vidíš před sebou, i když si ji neobjednáš.",
+    "Dezert, který dorazí v nic, je v tomhle případě nejlehčí. Ten doma je pár minut práce a dvě hodiny čekání."
+  ],
+  "price": 8500,
+  "image": "dish-tvarohovy-dezert-do-sklenicky-sladke-nic",
+  "recipe": "tvarohovy-dezert-do-sklenicky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 150
+}

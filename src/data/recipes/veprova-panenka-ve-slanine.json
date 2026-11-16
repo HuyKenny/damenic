@@ -1,0 +1,116 @@
+{
+  "title": "Vepřová panenka ve slanině v troubě",
+  "keywords": [
+    "vepřová panenka se slaninou v troubě",
+    "vepřová panenka ve slanině",
+    "vepřová panenka ve slanině v troubě",
+    "pečená vepřová panenka v anglické slanině"
+  ],
+  "image": "dish-panenka-ve-slanine-na-priste",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 30,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek masa",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Vepřová panenka ve slanině v troubě je celá panenka obtočená plátky slaniny a upečená při 190 °C. Slanina maso chrání před vyschnutím a stéká z ní šťáva, ze které je hned hotová omáčka. Těžké je dopéct slaninu dokřupava, aniž by maso vyschlo.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-panenka",
+      "amount": 600,
+      "unit": "g",
+      "note": "1 panenka, očištěná od blan"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na potření"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 120,
+      "unit": "g",
+      "note": "tenké plátky, asi 8 plátků"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nakrájená na čtvrtky"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 100,
+      "unit": "ml",
+      "note": "na podlití"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 190 °C (horkovzduch 170 °C). Panenku očisti od blan, osuš, osol, opepři, posyp tymiánem a potři hořčicí."
+    },
+    {
+      "text": "Plátky slaniny rozlož na prkénko lehce přes sebe do pruhu přibližně tak dlouhého jako panenka. Panenku polož na okraj a pevně obal slaninou. Spoj slaniny musí skončit dole."
+    },
+    {
+      "text": "Plech lehce potři olejem, na dno rozlož cibuli a na ni polož panenku spojem dolů. Podlej vývarem, aby se šťáva nespálila."
+    },
+    {
+      "text": "Peč 30 až 35 minut. Po 20 minutách maso otoč, aby slanina zezlátla ze všech stran. Teploměr v nejtlustším místě má ukazovat 65 °C."
+    },
+    {
+      "text": "Panenku nech 10 minut odpočinout pod volným alobalem, vyteče z ní méně šťávy. Mezitím šťávu z plechu s cibulí přeceď do kastrolku a svař na polovinu."
+    },
+    {
+      "text": "Panenku nakrájej na plátky silné 2 cm, polej šťávou a podávej."
+    }
+  ],
+  "tips": [
+    "Použij tenké plátky anglické slaniny. Tlustá slanina se nepropeče a zůstane gumová.",
+    "Pokud slanina nechce zezlátnout, zapni na posledních 5 minut horní gril, ale hlídej ji.",
+    "Slanina je slaná, maso proto solí jen lehce."
+  ],
+  "substitutions": [
+    "Slaninu můžeš nahradit pršutem, ten však peč kratší dobu a nepřikrývej ho folií.",
+    "Hořčici lze nahradit lžící medu s hořčicí pro jemně sladkou kůrku.",
+    "Cibuli nahradí podušená zelenina, například mrkev."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct vepřovou panenku ve slanině?",
+      "a": "Při 190 °C asi 30 až 35 minut u panenky o hmotnosti 600 g. Přesný čas určí teploměr: v nejtlustším místě má mít 65 °C a po odpočinku 68 až 70 °C."
+    },
+    {
+      "q": "Musí se panenka ve slanině přikrýt?",
+      "a": "Nemusí. Přikrytá slanina změkne, nezezlátne a ztratí křupavost. Alobal používej až při odpočinku masa po pečení."
+    },
+    {
+      "q": "Co s plátky slaniny, které se rozpadají?",
+      "a": "Pevně maso obalíš, když slaninu překládáš přes sebe a spojem dáš dolů. Pomůže také dřevěná špejle nebo kuchyňská nit."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Drožďová pomazánka s cibulí a česnekem",
+  "keywords": [
+    "drožďová pomazánka recept",
+    "drožďová pomazánka",
+    "pomazánka z droždí",
+    "drožďová pomazánka s cibulí"
+  ],
+  "image": "dish-drozdova-pomazanka-krajici",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 5,
+  "waitMinutes": 30,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Drožďová pomazánka je levná pomazánka z čerstvého droždí, másla, cibule a česneku, kterou lidé znají od babiček. Z jedné kostky droždí vyjde asi 200 g pomazánky. Cibule se krátce osmahne, aby byla sladší a pomazánka lépe drží.",
+  "ingredients": [
+    {
+      "ingredient": "drozdi",
+      "amount": 42,
+      "unit": "g",
+      "note": "jedna kostka čerstvého droždí"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na osmahnutí cibule"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "rozlisované"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "sušená"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli najemno nakrájej a na lžíci oleje osmahni na mírném plameni 3 až 4 minuty, dokud nezesklovatí. Nech ji úplně vychladnout."
+    },
+    {
+      "text": "Máslo nech změknout na pokojovou teplotu a vidličkou rozmíchej s rozdrobeným droždím do hladké hmoty."
+    },
+    {
+      "text": "Přidej vychladlou cibuli, česnek, majoránku, sůl a pepř a vše důkladně promíchej."
+    },
+    {
+      "text": "Pomazánku nech aspoň 30 minut odpočinout v lednici. Natírej na chléb nebo opečený toast."
+    }
+  ],
+  "tips": [
+    "Droždí musí být čerstvé, vonět po kvasnicích a nesmí být zaschlé. Rozdrob ho do měkkého másla, ať se dobře rozmíchá.",
+    "Cibule musí vychladnout, teplá by rozpustila máslo a pomazánka by byla mastná.",
+    "Pomazánka vydrží v lednici 3 dny v uzavřené nádobě."
+  ],
+  "substitutions": [
+    "Máslo nahraď pomazánkovým máslem, pomazánka bude lehčí.",
+    "Česnek můžeš vyměnit za pažitku nebo jarní cibulku, aby byla pomazánka jemnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží drožďová pomazánka?",
+      "a": "Do 3 dnů v uzavřené nádobě v lednici. Čerstvé droždí v ní zůstává syrové, proto ji nenech na stole déle než 2 hodiny."
+    },
+    {
+      "q": "Dá se do drožďové pomazánky použít sušené droždí?",
+      "a": "Nedoporučuje se. Chuť je jiná a sušené droždí nemá správnou konzistenci. Pro tuto pomazánku je potřeba čerstvé v kostce."
+    },
+    {
+      "q": "Proč se cibule do drožďové pomazánky opéká?",
+      "a": "Osmahnutá cibule je sladší a nepálí. Surová cibule dává výraznější chuť, ale pomazánka je pak ostřejší a hůř se krájí."
+    }
+  ]
+}

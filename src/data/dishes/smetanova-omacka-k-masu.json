@@ -1,0 +1,22 @@
+{
+  "name": "Smetanová omáčka k masu",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Hladká a jemná, z másla, mouky a smetany. K masu, které si uvaříš sám.",
+  "about": [],
+  "price": 3900,
+  "image": "dish-smetanova-omacka-k-masu",
+  "recipe": "smetanova-omacka-k-masu",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9
+  ],
+  "featured": false,
+  "order": 560
+}

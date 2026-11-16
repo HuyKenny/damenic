@@ -1,0 +1,15 @@
+{
+  "name": "Houskový knedlík",
+  "restaurant": "chata-pristi-sezona",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Čtyři plátky houskového knedlíku k omáčce a guláši.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-houskovy-knedlik-chata",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "order": 20,
+  "allergens": []
+}

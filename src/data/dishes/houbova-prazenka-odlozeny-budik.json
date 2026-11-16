@@ -1,0 +1,25 @@
+{
+  "name": "Houbová praženice",
+  "restaurant": "odlozeny-budik",
+  "kind": "main",
+  "section": "Vejce",
+  "description": "Žampiony, cibule a vejce, bezmasá klasika na chlebu.",
+  "about": [
+    "Houbová praženice je bezmasé jídlo, které se vařilo v postní dny i všední večery. Žampiony se nejdřív smaží, až pustí a odpaří vodu, pak přijdou vejce. Pořadí je důležité.",
+    "Nic nepřijede, ale vůně z pánve dorazí ke sousedům. To je doručení zdarma."
+  ],
+  "price": 11900,
+  "image": "dish-houbova-prazenka-odlozeny-budik",
+  "recipe": "houbova-prazenka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 150
+}

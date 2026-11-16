@@ -1,0 +1,27 @@
+{
+  "name": "Chlebíček s krabí pomazánkou",
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "kind": "main",
+  "section": "Chlebíčky",
+  "description": "Krabí tyčinky, vejce, smetanový sýr a kopr na jemném chlebíčku.",
+  "about": [
+    "Krabí pomazánka je lehká a barevná. Tyčinky se nakrájejí najemno a smíchají se smetanovým sýrem, vejcem, jarní cibulkou a koprem. Dobře se hodí na chlebíčky.",
+    "Krabí tyčinky nejsou z krabího masa, ale z rybí hmoty ochucené krabím extraktem. Chlebíčkárna je smyšlená, tyčinky jsou skutečné, a recept taky."
+  ],
+  "price": 13900,
+  "image": "dish-krabi-pomazanka-oblozeno",
+  "recipe": "krabi-pomazanka",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    2,
+    3,
+    4,
+    7,
+    10
+  ],
+  "order": 230
+}

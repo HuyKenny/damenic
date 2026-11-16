@@ -1,0 +1,20 @@
+{
+  "name": "Pečený pstruh s bylinkami",
+  "restaurant": "steakarna-rare-priste",
+  "kind": "main",
+  "section": "Ryby a mořské plody",
+  "description": "Celý pstruh pečený s citronem, česnekem a bylinkami v troubě.",
+  "about": [
+    "Celá ryba se peče s plátky citronu a bylinkami v dutině, takže maso zůstane šťavnaté a kůže zkřupe. Je hotová po 20 až 25 minutách při 200 °C.",
+    "Pstruh je čistě na papíře, ale recept je skutečný."
+  ],
+  "price": 28900,
+  "image": "dish-peceny-pstruh-rare",
+  "recipe": "peceny-pstruh-s-bylinkami",
+  "vegetarian": false,
+  "order": 115,
+  "allergens": [
+    4,
+    7
+  ]
+}

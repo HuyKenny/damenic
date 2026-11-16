@@ -1,0 +1,174 @@
+{
+  "title": "Moravské koláče",
+  "keywords": [
+    "moravské koláče recept",
+    "moravské koláče",
+    "koláče s tvarohem a povidly",
+    "koláče s mákem"
+  ],
+  "image": "dish-moravske-kolace-kolac-na-slib",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 60,
+  "cookMinutes": 18,
+  "waitMinutes": 80,
+  "waitLabel": "kynutí těsta a koláčků",
+  "difficulty": "střední",
+  "meal": "pecivo",
+  "intro": "Moravské koláče s tvarohem, mákem a povidly jsou menší než svatební, vyjde jich asi 12 a těsto je kynuté z vlažného mléka a droždí. Zásadní je teplota mléka kolem 35 °C a dostatek času na kynutí, kdy těsto zdvojnásobí objem.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 42,
+      "unit": "g",
+      "note": "1 kostka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "rozpuštěné a vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "hladký",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 40,
+      "unit": "g",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "žloutek",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "mak-mlety",
+      "amount": 100,
+      "unit": "g",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 40,
+      "unit": "g",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredient": "povidla",
+      "amount": 150,
+      "unit": "g",
+      "group": "Povidlová náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na potření",
+      "group": "Dokončení"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na potření po upečení",
+      "group": "Dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do 100 ml vlažného mléka rozdrol droždí, přidej lžičku cukru a 2 lžíce mouky. Nech 10 minut vzejít kvásek, na povrchu se objeví bublinky."
+    },
+    {
+      "text": "Do mouky ve velké míse přidej zbylý cukr, sůl, vejce, mléko a máslo. Přilij kvásek, vypracuj hladké těsto a hněť 8 minut, dokud se nepřestane lepit na prsty. Nech v teple přikryté 45 minut kynout."
+    },
+    {
+      "text": "Mák spař ve zbylém mléce s cukrem a nech ho 5 minut zhoustnout. Tvaroh promíchej s cukrem, žloutkem a vanilkovým cukrem. Povidla zůstanou hladká."
+    },
+    {
+      "text": "Těsto rozděl na 12 dílů, vytvaruj kuličky a nech je 15 minut odpočinout. Každou rozmáčkni na placku o průměru asi 9 cm, okraj mírně zvedni a dej doprostřed lžíci náplně. Navrch dej třetinu s tvarohem, třetinu s mákem a třetinu s povidly."
+    },
+    {
+      "text": "Koláče nech na plechu s pečicím papírem 20 minut kynout, potři rozšlehaným vejcem. Troubu předehřej na 190 °C (horkovzduch 175 °C) a peč 15 až 18 minut dozlatova."
+    },
+    {
+      "text": "Vytažené koláče potři rozpuštěným máslem, přikryj čistou utěrkou a nech 10 minut změknout."
+    }
+  ],
+  "tips": [
+    "Droždí musí být čerstvé a mléko nesmí být horké, nad 40 °C by se droždí zničilo.",
+    "Těsto má být měkké, ale nelepivé. Přidávej mouku po lžících.",
+    "Koláče jsou nejlepší v den pečení. Další den je zahřej 5 minut v troubě na 150 °C."
+  ],
+  "substitutions": [
+    "Čerstvé droždí nahraď 14 g sušeného droždí a přidej ho přímo do mouky.",
+    "Na tvaroh můžeš přidat hrst rozinek, ale rozinky obsahují oxid siřičitý a vadí některým lidem."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi těsto na koláče nekyne?",
+      "a": "Kvasinky se nedařilo probudit: mléko bylo příliš studené nebo horké, nebo droždí staré. Mléko má mít kolem 35 °C a těsto má kynout v teple bez průvanu."
+    },
+    {
+      "q": "Kolik koláčů vyjde z této dávky?",
+      "a": "Asi 12 koláčů o průměru 9 cm, tedy 6 porcí po dvou."
+    },
+    {
+      "q": "Jak dlouho vydrží moravské koláče?",
+      "a": "Čerstvé 2 dny v pokojové teplotě pod utěrkou, ty s tvarohem je lepší dát do lednice a snědit do 3 dnů."
+    }
+  ]
+}

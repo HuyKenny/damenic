@@ -1,0 +1,123 @@
+{
+  "title": "Zapečené těstoviny s uzeným masem",
+  "keywords": [
+    "zapečené těstoviny s uzeným masem",
+    "zapečené těstoviny s uzeným",
+    "zapečené těstoviny se smetanou",
+    "klasické zapečené těstoviny",
+    "zapečené těstoviny v troubě"
+  ],
+  "image": "dish-zapecene-penne-s-uzenym-niente",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Zapečené těstoviny s uzeným masem a smetanou jsou jídlo z jedné pánve, jednoho hrnce a jedné zapékací mísy. Vyjde to pro čtyři za zhruba padesát minut. Těstoviny uvař o dvě minuty méně, v troubě ještě nasají omáčku a jinak se rozvaří.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 350,
+      "unit": "g",
+      "note": "penne nebo fusilli"
+    },
+    {
+      "ingredient": "uzene-maso",
+      "amount": 250,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 250,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 120,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody; omáčku dosol až podle uzeného"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zapni troubu na 190 °C, horkovzduch 170 °C. Ve velkém hrnci přiveď k varu osolenou vodu a těstoviny vař o 2 minuty méně, než píše obal, tedy zhruba 7 až 8 minut. Slij je a nech v sítu okapat."
+    },
+    {
+      "text": "Na másle na středním plameni 4 minuty osmahni cibuli, dokud nezesklovatí. Přidej uzené maso a opékej další 3 minuty, aby pustilo trochu tuku a lehce zezlátlo."
+    },
+    {
+      "text": "Vmíchej prolisovaný česnek a majoránku, po 30 vteřinách zalij smetanou a mlékem. Omáčku nech 3 minuty probublávat, opepři a ochutnej. Uzené je slané, soli často netřeba."
+    },
+    {
+      "text": "Těstoviny smíchej s omáčkou, přendej do vymazané zapékací misky o rozměru zhruba 24 × 30 cm a posyp polovinou sýra."
+    },
+    {
+      "text": "Peč 20 až 25 minut uprostřed trouby, dokud se okraje nezačnou dělat zlatavé a omáčka nebublá. Posyp zbytkem sýra a nech ještě 5 minut zapéct. Před servírováním nech 5 minut odpočinout, aby se omáčka usadila."
+    }
+  ],
+  "tips": [
+    "Použij uzené maso tak, jak ho máš rád: krkovice nebo bůček dají víc chuti, šunka vychází jemněji. Příliš tučné maso nejdřív zbav velkých kousků tuku.",
+    "Když omáčka vypadá před pečením tekutě, je to správně. Těstoviny ji v troubě nasají. Hustá omáčka by po upečení byla suchá.",
+    "Zbylé těstoviny vydrží přikryté v lednici 2 dny a ohřívají se v troubě nebo na pánvi s lžící mléka."
+  ],
+  "substitutions": [
+    "Smetanu na vaření lze nahradit stejným množstvím smetany ke šlehání zředěné 50 ml mléka, omáčka vyjde plnější.",
+    "Eidam nahraď goudou, mozzarellou nebo směsí s parmazánem.",
+    "Místo uzeného masa vyzkoušej uzený tofu nebo opečené žampiony, jídlo pak bude bez masa."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se zapékají těstoviny v troubě?",
+      "a": "Při 190 °C 20 až 25 minut. Je hotovo, když sýr zezlátne a omáčka u okrajů bublá. Těstoviny uvařené předem stačí jen zapéct."
+    },
+    {
+      "q": "Proč jsou zapečené těstoviny suché?",
+      "a": "Nejčastěji se rozvařily předem nebo měly málo omáčky. Vař je o 2 minuty kratší dobu a nech omáčku řidší, než si myslíš."
+    },
+    {
+      "q": "Dá se jídlo připravit dopředu?",
+      "a": "Ano. Poskládej ho do formy a přikryté nech v lednici nejvýš do druhého dne. Peč pak o 5 až 10 minut déle, aby se prohřálo do středu."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Králík na smetaně",
+  "restaurant": "peceni-na-priste",
+  "kind": "main",
+  "section": "Drůbež a králík",
+  "description": "Králičí porce podušené do měkka v hořčičné smetanové omáčce s kořenovou zeleninou.",
+  "about": [
+    "Králík je libové maso s jemnou chutí, které se v české kuchyni dušilo hlavně o svátcích. Na smetaně je nejpohodlnější způsob: maso se opeče, podlije a samo se dusí, omáčka vznikne ze zeleniny a smetany.",
+    "Podávej ho s knedlíkem, aby měla omáčka co nasát. Králík se nás nikdy neptal, jestli doručujeme. Nedoručujeme."
+  ],
+  "price": 31900,
+  "image": "dish-kralik-na-smetane-na-priste",
+  "recipe": "kralik-na-smetane",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9,
+    10
+  ],
+  "order": 140,
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "ryze",
+          "name": "Rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "kase",
+          "name": "Bramborová kaše",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ]
+}

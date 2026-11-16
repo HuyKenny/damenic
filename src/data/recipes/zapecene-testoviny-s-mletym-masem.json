@@ -1,0 +1,137 @@
+{
+  "title": "Zapečené těstoviny s mletým masem a sýrem",
+  "keywords": [
+    "zapečené těstoviny s mletým masem",
+    "zapečené těstoviny s mletým masem a sýrem",
+    "zapečené těstoviny s mletým masem a smetanou",
+    "zapečené těstoviny s mletým masem a vejcem"
+  ],
+  "image": "dish-zapecene-testoviny-s-mletym-niente",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Zapečené těstoviny s mletým masem jsou rychlá alternativa k lasagním: bez plátů a bez bešamelu. Mleté maso se dusí v rajčatovém základu, těstoviny se zapečou se smetanou a sýrem. Pro čtyři porce, na stole za 55 minut.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 350,
+      "unit": "g",
+      "note": "penne nebo fusilli"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 400,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 80,
+      "unit": "g",
+      "note": "nastrouhaná najemno"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzice",
+      "note": "2 lžíce do vody, zbytek do omáčky"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu zapni na 190 °C, horkovzduch 170 °C. Těstoviny vař v osolené vodě o 2 minuty méně, než píše obal, a slij."
+    },
+    {
+      "text": "Na oleji v hlubší pánvi osmahni cibuli s mrkví 5 minut. Přidej mleté maso, rozdrol ho vařečkou a opékej 8 až 10 minut, dokud nepřestane pouštět tekutinu a nezačne se mírně přichytávat."
+    },
+    {
+      "text": "Přidej česnek, rajčatový protlak a oregano, za minutu zalij passatou. Nech 10 minut probublávat bez poklice. Dosol a opepři."
+    },
+    {
+      "text": "Smetanu prošlehej s vejcem a polovinou sýra. Těstoviny smíchej s masovou omáčkou, přendej do mísy a zalij smetanovou směsí."
+    },
+    {
+      "text": "Posyp zbylým sýrem a peč 20 až 25 minut, dokud povrch nezezlátne. Mleté maso musí být propečené, což je při dušení v omáčce jistota. Před servírováním nech 5 minut odpočinout."
+    }
+  ],
+  "tips": [
+    "Maso nech opravdu zhnědnout, nejen zešednout. Právě na hnědých kouscích závisí chuť omáčky.",
+    "Mrkev nastrouhaná najemno v omáčce zmizí, ale zjemní kyselost rajčat.",
+    "Hotové těstoviny nech po upečení 5 minut odpočinout, pak se dobře krájí a drží tvar."
+  ],
+  "substitutions": [
+    "Hovězí mleté lze nahradit vepřovým nebo směsí půl na půl.",
+    "Smetanu na vaření nahraď mlékem smíchaným s lžící mouky, jen výsledek bude lehčí.",
+    "Bez masa vyjde dobrá varianta s 200 g červené čočky vařené v omáčce."
+  ],
+  "faq": [
+    {
+      "q": "Může se mleté maso do zapékaných těstovin dát syrové?",
+      "a": "Nedoporučuje se. Mleté maso musí být propečené, takže ho nejdřív osmahni na pánvi do hnědé barvy a pak dus v omáčce."
+    },
+    {
+      "q": "Jak dlouho se zapékají těstoviny s mletým masem?",
+      "a": "Při 190 °C 20 až 25 minut. Povrch má zezlátnout a okraje bublat."
+    },
+    {
+      "q": "Jde jídlo zamrazit?",
+      "a": "Ano. Upečené a vychladlé těstoviny rozděl na porce, zamraz do 2 měsíců a rozmraz přes noc v lednici. Ohřívej v troubě, aby povrch zase zkřupal."
+    }
+  ]
+}

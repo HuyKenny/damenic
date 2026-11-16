@@ -1,0 +1,98 @@
+{
+  "title": "Tvarohový dezert do skleničky",
+  "keywords": [
+    "tvarohový dezert do skleničky",
+    "tvarohový dezert",
+    "zdravý tvarohový dezert do skleničky"
+  ],
+  "image": "dish-tvarohovy-dezert-do-sklenicky-sladke-nic",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 0,
+  "waitMinutes": 120,
+  "waitLabel": "chlazení v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Tvarohový dezert do skleničky se skládá z hladkého tvarohu, šlehačky, drcených sušenek a jahod, bez pečení a bez želatiny. Vyjde na 4 sklenice a hotový je za 20 minut práce plus chlazení.",
+  "ingredients": [
+    {
+      "ingredient": "tvaroh",
+      "amount": 500,
+      "unit": "g",
+      "note": "hladký, vychlazený",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 200,
+      "unit": "ml",
+      "note": "vychlazená",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "susenky-maslove",
+      "amount": 100,
+      "unit": "g",
+      "note": "nahrubo rozdrcené",
+      "group": "Vrstvy"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 200,
+      "unit": "g",
+      "note": "nakrájené",
+      "group": "Vrstvy"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smetanu ušlehej do tuhé šlehačky. Tvaroh prošlehej s moučkovým a vanilkovým cukrem do hladka, aby v něm nezůstaly hrudky."
+    },
+    {
+      "text": "Šlehačku vmíchej do tvarohu ve třech dávkách a zlehka, aby krém zůstal nadýchaný."
+    },
+    {
+      "text": "Na dno čtyř sklenic dej drcené sušenky, přidej vrstvu jahod a krém. Postup opakuj, nahoru dej krém a pár jahod."
+    },
+    {
+      "text": "Dezert nech alespoň 2 hodiny v lednici, sušenky trochu změknou a chutě se propojí. Podávej vychlazený."
+    }
+  ],
+  "tips": [
+    "Tvaroh pro hladký krém prošlehej v mixéru nebo propasíruj sítem.",
+    "Sušenky přidej až před podáváním, pokud je chceš křupavé.",
+    "V lednici vydrží 2 dny."
+  ],
+  "substitutions": [
+    "Šlehačku nahraď řeckým jogurtem, krém bude kyselejší a lehčí.",
+    "Jahody vyměň za maliny, borůvky nebo rozmražené višně."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat tvarohový dezert hladký?",
+      "a": "Použij hladký tvaroh nebo ho propasíruj. Pokud je hrudkovitý, prošlehej ho s cukrem mixérem, než přidáš šlehačku."
+    },
+    {
+      "q": "Dá se dezert připravit dopředu?",
+      "a": "Ano, den předem. Jahody a sušenky vrstvi nejlépe 2 až 3 hodiny před podáváním."
+    },
+    {
+      "q": "Jak lze dezert odlehčit?",
+      "a": "Šlehačku nahraď polovinou jogurtu, cukr zredukuj a použij ovoce místo sušenek. Chuť bude svěžejší."
+    }
+  ]
+}

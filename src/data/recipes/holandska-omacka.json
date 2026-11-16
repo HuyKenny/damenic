@@ -1,0 +1,97 @@
+{
+  "title": "Holandská omáčka",
+  "keywords": [
+    "holandská omáčka recept",
+    "holandská omáčka",
+    "holandská omáčka k chřestu",
+    "hollandaise omáčka"
+  ],
+  "image": "dish-holandska-omacka",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 5,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "omacka",
+  "intro": "Holandská omáčka je máslová emulze ze žloutků, citronu a rozpuštěného másla, která se podává k chřestu, vejcím Benedikt nebo rybě. Je těžká jen v jedné věci: žloutky se nesmí srazit, proto je šleháš nad párou a teplotu hlídáš do 70 °C.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "jen žloutky; bílky použij jinde"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "rozpuštěné a vlažné"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "studená"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "mletý, bílý nebo černý"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Máslo rozpusť v malém hrnku nebo hrnci a nech ho zvolna vychladnout na asi 50 °C. Pěnu, která se na něm vytvoří, seber lžící a nech v hrnku jen čirý žlutý tuk."
+    },
+    {
+      "text": "Do většího hrnce nalij 3 cm vody a přiveď ji téměř k varu. Do kovové nebo skleněné misky, která na hrnec dosedne tak, aby se nedotýkala vody, dej žloutky, studenou vodu a špetku soli."
+    },
+    {
+      "text": "Misku postav nad páru na mírný plamen a žloutky šlehej metlou 3 až 4 minuty, dokud nezhoustnou na světlý krém a nezačnou nechávat stopu. Teplota směsi má dosáhnout asi 70 °C, nad 80 °C se žloutky srazí. Když se miska příliš zahřívá, sundej ji na chvíli z hrnce."
+    },
+    {
+      "text": "Misku sundej z páry a za stálého šlehání přilévej máslo nejdřív po lžičkách a potom v tenkém pramínku. Omáčka se postupně zahušťuje do hladkého krému."
+    },
+    {
+      "text": "Dochuť citronovou šťávou, solí a pepřem. Je-li moc hustá, zřeď ji lžičkou teplé vody. Podávej hned, nebo ji drž v misce nad vlažnou vodou nejdéle hodinu."
+    }
+  ],
+  "tips": [
+    "Žloutky nikdy nehřej nad plným varem. Voda pod miskou má jen lehce bublat, ne vřít.",
+    "Máslo má být vlažné, ne horké. Horké máslo žloutky uvaří a omáčka se rozdělí na tuk a vodu.",
+    "Bílky zamraz nebo použij na pusinky, do omáčky patří jen žloutky."
+  ],
+  "substitutions": [
+    "Máslo můžeš nahradit přepuštěným, omáčka bude chutnat výrazněji a nebude obsahovat mléčné bílkoviny. Mléčný tuk v ní ale zůstane.",
+    "Citron nahradíš 2 lžičkami bílého vinného nebo jablečného octa.",
+    "Do hotové omáčky se hodí lžička dijonské hořčice, vznikne lehce pikantní verze."
+  ],
+  "faq": [
+    {
+      "q": "Jak zachránit sraženou holandskou omáčku?",
+      "a": "Do čisté misky dej lžíci studené vody nebo čerstvý žloutek a po lžičkách do něj za stálého šlehání vlévej sraženou omáčku. Emulze se obvykle spojí zpátky."
+    },
+    {
+      "q": "S čím se holandská omáčka podává?",
+      "a": "Nejčastěji s vařeným nebo pečeným zeleným chřestem, vejci Benedikt, vařenou rybou a zeleninou, třeba brokolicí."
+    },
+    {
+      "q": "Dá se holandská omáčka uložit do druhého dne?",
+      "a": "Nedoporučuje se. Obsahuje žloutky a máslo, takže se v lednici rozdělí a znovu se nespojí. Připrav jen tolik, kolik sníš hned."
+    }
+  ]
+}

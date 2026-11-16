@@ -1,0 +1,23 @@
+{
+  "name": "Těstoviny s cuketou a citronem",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "main",
+  "section": "Těstoviny a brambory",
+  "description": "Penne s opečenou cuketou, citronovou kůrou a parmazánem. Čerstvé, svěží a rychlé.",
+  "about": [
+    "Cuketa se v tomhle jídle nevaří, ale smaží na prudkém ohni, takže zezlátne a přestane být vodnatá. Citron jí dodá svěžest, parmazán sůl a voda z těstovin zbytek: omáčku, která se drží na těstovinách.",
+    "Je to oběd, který stíháš v přestávce. Naše přestávka je nekonečná, protože nic nevaříme."
+  ],
+  "price": 13900,
+  "image": "dish-testoviny-cuketa-hotovo",
+  "recipe": "testoviny-s-cuketou-a-citronem",
+  "featured": false,
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 110
+}

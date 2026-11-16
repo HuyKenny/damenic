@@ -1,0 +1,94 @@
+{
+  "title": "Snídaňový tvaroh s ovocem a ořechy",
+  "keywords": [
+    "zdravá snídaně z tvarohu",
+    "zdravé snídaně pro děti",
+    "zdravá snídaně při hubnutí recepty",
+    "zdravé snídaně na hubnutí"
+  ],
+  "image": "dish-snidanovy-tvaroh-s-ovocem-na-lacno",
+  "category": "snidane",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Snídaňový tvaroh s ovocem a ořechy je hotový za 5 minut bez vaření. Hladký tvaroh se utře s trochou mléka do krémové konzistence, přidá se čerstvé ovoce a posype ořechy. Je to snídaně pro děti i dospělé.",
+  "ingredients": [
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "hladký, polotučný"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 50,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 150,
+      "unit": "g",
+      "note": "nakrájené"
+    },
+    {
+      "ingredient": "boruvky",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 30,
+      "unit": "g",
+      "note": "nahrubo nasekané"
+    },
+    {
+      "ingredient": "med",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "podle chuti"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Tvaroh rozšlehej vidličkou s mlékem do hladkého krému, aby nebyl hrudkovitý."
+    },
+    {
+      "text": "Rozděl do dvou misek. Na tvaroh vrstvi jahody a borůvky."
+    },
+    {
+      "text": "Posyp ořechy, pokapej medem a špetkou skořice. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Pokud je tvaroh velmi suchý, přidej víc mléka po lžících.",
+    "Sezónní ovoce chutná nejlépe. V zimě použij rozmražené maliny nebo kousky jablka.",
+    "Ořechy rozdrť v hmoždíři, aby neutíkaly z lžíce."
+  ],
+  "substitutions": [
+    "Med vynech, pokud je ovoce sladké, nebo nahraď javorovým sirupem.",
+    "Vlašské ořechy lze nahradit mandlemi nebo dýňovými semínky."
+  ],
+  "faq": [
+    {
+      "q": "Jaký tvaroh na snídani zvolit?",
+      "a": "Hladký polotučný, který se dobře rozmíchá. Hrudkovitý tvaroh prošlehej s mlékem nebo jogurtem."
+    },
+    {
+      "q": "Dá se snídaně připravit večer?",
+      "a": "Ano, v zavřené nádobě vydrží v lednici přes noc. Ovoce přidej až ráno, aby nepustilo šťávu."
+    },
+    {
+      "q": "Kolik tvarohu na porci?",
+      "a": "Asi 125 g na dospělého, pro děti polovina. Podle chuti přidej ovoce."
+    }
+  ]
+}

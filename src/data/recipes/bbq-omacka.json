@@ -1,0 +1,109 @@
+{
+  "title": "Domácí BBQ omáčka",
+  "keywords": [
+    "barbecue omáčka recept",
+    "bbq omáčka recept",
+    "domácí bbq omáčka",
+    "bbq omáčka z kečupu"
+  ],
+  "image": "dish-bbq-omacka",
+  "category": "burgery",
+  "vegetarian": false,
+  "servings": 8,
+  "activeMinutes": 10,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Domácí BBQ omáčka vychází z kečupu, třtinového cukru, octa, hořčice a uzené papriky. Dělá se v jednom hrnci za čtvrt hodiny a chutná po grilu, i když v troubě nebo na pánvi. Uzená paprika dělá největší rozdíl.",
+  "ingredients": [
+    {
+      "ingredient": "kecup",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "jablečný nebo vinný"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "worcester",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cesnek-suseny",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Všechny suroviny dej do hrnce a promíchej metlou, aby se uzená paprika rozpustila a neměla hrudky."
+    },
+    {
+      "text": "Přiveď na mírný plamen a vař za občasného míchání 12 až 15 minut, dokud omáčka nezhoustne a nezíská lesk. Pozor, rozpálená omáčka stříká."
+    },
+    {
+      "text": "Ochutnej a dolaď sladkost cukrem nebo kyselost octem. Nech zcela vychladnout, pak teprve přelij do sklenice."
+    },
+    {
+      "text": "Omáčku použij jako marinádu, k potírání žeber a kuřecích křídel na posledních 10 minut pečení, nebo jako dip. Do zavřené sklenice vydrží v lednici dva týdny."
+    }
+  ],
+  "tips": [
+    "Maso potírej omáčkou až na posledních 10 minut pečení. Cukr při vyšší teplotě rychle zhoří.",
+    "Omáčka po vychladnutí zhoustne, takže hotovou ji nech řidší, než ji chceš mít při podávání."
+  ],
+  "substitutions": [
+    "Kečup můžeš nahradit rajčatovým protlakem rozředěným vodou a dochuceným dvěma lžicemi cukru.",
+    "Med nahradíš javorovým sirupem. Worcester vynecháš a přidáš lžíci sójové omáčky.",
+    "Pro ostřejší verzi přidej špetku chilli vloček nebo lžičku ostré omáčky."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží domácí BBQ omáčka?",
+      "a": "V uzavřené sklenici v lednici asi dva týdny."
+    },
+    {
+      "q": "K čemu se BBQ omáčka používá?",
+      "a": "K žebrům, kuřecím křídlům, pulled porku, burgerům a grilovanému masu. Používá se také jako dip k hranolkům."
+    },
+    {
+      "q": "Proč BBQ omáčka na grilu zhořkne?",
+      "a": "Cukr při vysoké teplotě karamelizuje a pak zhoří. Maso proto potírej až na konci pečení a grilu hlídej."
+    }
+  ]
+}

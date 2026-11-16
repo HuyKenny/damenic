@@ -1,0 +1,25 @@
+{
+  "name": "Slaný koláč se špenátem a fetou",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Máslové těsto, špenát, feta a vejce se smetanou.",
+  "about": [
+    "Slaný koláč je jídlo, které chutná teplé i studené. Křehké těsto, vaječná směs se špenátem a fetou. Těsto se musí předpéct, jinak zůstane dole syrové.",
+    "Zahrádka je prázdná, koláč plný. Bezmasá nedělní klasika stačí jednou za týden."
+  ],
+  "price": 16900,
+  "image": "dish-slany-kolac-zahradka",
+  "recipe": "slany-kolac",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 240
+}

@@ -1,0 +1,91 @@
+{
+  "title": "Přílohové noky",
+  "keywords": [
+    "přílohové noky recept",
+    "noky recept"
+  ],
+  "image": "dish-prilohove-noky-domani",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Přílohové noky jsou měkké nudle z těsta z mouky, vajec a mléka, které se do vroucí vody tlačí přes cedník nebo se krájí z prkénka. Podávají se ke guláši, k omáčkám a jako příloha všude tam, kde jsou knedlíky moc. Recept je pro čtyři porce.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do těsta"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzice",
+      "note": "do vody"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku smíchej se solí, vejci a mlékem na hustší, lepivé těsto. Vařečkou ho vyšlehej 3 minuty, dokud se nezačne tahat, a nech 15 minut odpočinout."
+    },
+    {
+      "text": "Ve velkém hrnci přiveď k varu osolenou vodu. Těsto naplň na vlhké prkénko a hladkým nožem krájej tenké proužky rovnou do vroucí vody, nebo ho tlač přes velký cedník s většími otvory."
+    },
+    {
+      "text": "Noky vař po dávkách 2 až 3 minuty. Jsou hotové, když vyplavou na hladinu a nahoře se pár vteřin drží."
+    },
+    {
+      "text": "Vylov je děrovanou naběračkou a rovnou promíchej s rozpuštěným máslem, aby se nelepily. Podávej horké."
+    }
+  ],
+  "tips": [
+    "Nože, které se namáčí do horké vody, krájí těsto čistěji.",
+    "Těsto má být hustší než na palačinky, ale mnohem měkčí než na knedlíky.",
+    "Do těsta můžeš přidat nasekanou petrželku nebo špetku muškátu."
+  ],
+  "substitutions": [
+    "Hladkou mouku lze nahradit polohrubou, noky budou pevnější.",
+    "Mléko nahraď vodou nebo kefírem.",
+    "Pro bezvaječné noky přidej o 30 ml tekutiny víc a těsto hned vař."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi nokami a halušky?",
+      "a": "Halušky se dělají z brambor a mouky. Přílohové noky se dělají jen z mouky, vajec a mléka, jsou jemnější a do vody se krájí nebo tlačí."
+    },
+    {
+      "q": "Jak dlouho se noky vaří?",
+      "a": "Asi 2 až 3 minuty od chvíle, kdy vyplavou. Vyplavání je znamení, že jsou prohřáté."
+    },
+    {
+      "q": "Dají se noky zamrazit?",
+      "a": "Ano. Uvařené a opláchnuté je nech odkapat, rozprostři na plech, zmraz a pak přesypej do sáčku. Použij do 2 měsíců a ohřívej na pánvi s máslem."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Hrnkový ovocný koláč",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Vláčný kefírový koláč s višněmi a drobenkou, bez vážení.",
+  "about": [
+    "Hrnkový koláč vznikl pro lidi, kteří nemají váhu, ale mají hrnek. Kefír drží těsto vláčné i druhý den a višně dodají kyselost, kterou drobenka potřebuje.",
+    "Na stránce receptu jsou i gramy, abys nemusel odhadovat. Dezert je hotový dřív, než ti stihne vychladnout káva, kterou nedostaneš."
+  ],
+  "price": 7900,
+  "image": "dish-hrnkovy-ovocny-kolac-nedortik",
+  "recipe": "hrnkovy-ovocny-kolac",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 190
+}

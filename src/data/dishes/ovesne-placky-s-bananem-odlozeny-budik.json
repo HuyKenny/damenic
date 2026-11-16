@@ -1,0 +1,25 @@
+{
+  "name": "Ovesné placky s banánem",
+  "restaurant": "odlozeny-budik",
+  "kind": "main",
+  "section": "Kaše a sladké",
+  "description": "Tři suroviny, bez mouky a bez přidaného cukru, k nim jogurt a borůvky.",
+  "about": [
+    "Banán, ovesné vločky a vejce: víc k ovesným plackám nepotřebuješ. Banán osladí, vločky zahustí a vejce spojí. Smaží se několik minut z každé strany na obyčejné pánvi.",
+    "Budík jsme odložili, ale snídaně doma stihneš. Prázdná je jen taška kurýra, talíř si naplníš sám."
+  ],
+  "price": 9900,
+  "image": "dish-ovesne-placky-s-bananem-odlozeny-budik",
+  "recipe": "ovesne-placky-s-bananem",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 130
+}

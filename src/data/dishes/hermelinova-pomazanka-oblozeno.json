@@ -1,0 +1,23 @@
+{
+  "name": "Chlebíček s hermelínovou pomazánkou",
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "kind": "main",
+  "section": "Chlebíčky",
+  "description": "Pomazánka ze zralého hermelínu, cibule a sladké papriky na tenké vrstvě chleba.",
+  "about": [
+    "Hermelínová pomazánka je výrazná, voňavá a trochu pikantní. Zralý hermelín se rozmačká s máslem, cibulí a paprikou a po hodině v lednici se propojí. Z 240 g sýra vyjde na 15 chlebíčků.",
+    "Chlebíčkárna Obloženo ničím ti z ní chlebíček neobloží, ani na zkoušku. Pomazánku si tak musíš udělat sama."
+  ],
+  "price": 12900,
+  "image": "dish-hermelinova-pomazanka-oblozeno",
+  "recipe": "hermelinova-pomazanka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    10
+  ],
+  "order": 190
+}

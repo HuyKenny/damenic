@@ -1,0 +1,23 @@
+{
+  "name": "Vídeňský bramborový salát",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Bowly a saláty",
+  "description": "Plátky brambor v horkém vývaru s octem a cibulí. Bez majonézy a bez vajec.",
+  "about": [
+    "Vídeňský bramborový salát je lesklý a kyselý, protože brambory nasávají horký vývar s octem, cibulí a hořčicí. Salátové brambory se vaří ve slupce, loupou teplé a hned zalijí. Majonéza ani vejce v něm nejsou.",
+    "Chutná k řízku i sám a je veganský. Zelená Nula ti brambory nepřiveze, ale recept pošle rád, stačí si ho přečíst."
+  ],
+  "price": 14900,
+  "image": "dish-videnske-bramborovy-salat-nula",
+  "recipe": "videnske-bramborovy-salat",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    9,
+    10
+  ],
+  "order": 260
+}

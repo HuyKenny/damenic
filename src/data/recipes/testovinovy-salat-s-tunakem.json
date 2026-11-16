@@ -1,0 +1,128 @@
+{
+  "title": "Těstovinový salát s tuňákem a vejcem",
+  "keywords": [
+    "těstovinový salát s tuňákem",
+    "těstovinový salát s tuňákem a vejcem",
+    "těstovinový salát s tuňákem a majonézou",
+    "nejlepší těstovinový salát s majonézou"
+  ],
+  "image": "dish-testovinovy-salat-s-tunakem-ani-listek",
+  "category": "salaty",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí a prolití v lednici",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Těstovinový salát s tuňákem je studený salát z těstovin, vajec natvrdo, tuňáka z konzervy a kukuřice v majonézové zálivce. Je sytý a levný a vydrží v lednici do druhého dne. Pozor na to, aby tuňák byl dobře scezený, jinak je salát mastný.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 250,
+      "unit": "g",
+      "note": "fusilli nebo penne"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do vody na těstoviny"
+    },
+    {
+      "ingredient": "tunak-konzerva",
+      "amount": 160,
+      "unit": "g",
+      "note": "dobře scezený"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "uvařená natvrdo"
+    },
+    {
+      "ingredient": "kukurice-konzerva",
+      "amount": 170,
+      "unit": "g",
+      "note": "scezená"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 60,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "asi 45 g",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "asi 72 g",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "jen šťáva",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zálivka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce vlož do vroucí vody a vař 10 minut od chvíle, kdy se voda znovu zvedne k varu. Pak je ochlaď studenou vodou, oloupej a nakrájej na kostky."
+    },
+    {
+      "text": "Těstoviny uvař v osolené vodě podle návodu a o minutu kratší, než uvádí obal. Slij a propláchni studenou vodou, ať přestanou vařit."
+    },
+    {
+      "text": "Tuňáka zcela scezi a vidličkou rozmělni na menší kousky. V míse rozmíchej majonézu, jogurt, citronovou šťávu a pepř."
+    },
+    {
+      "text": "Těstoviny smíchej s tuňákem, vejci, kukuřicí, cibulí a okurkami. Přidej zálivku a promíchej. Nech aspoň 30 minut v lednici, před podáváním dochuť solí a případně rozřeď lžící jogurtu."
+    }
+  ],
+  "tips": [
+    "Cibuli nakrájej opravdu najemno a zalij ji na 30 sekund vroucí vodou, zjemní se a nebude pálit v lednici ještě druhý den.",
+    "Tuňák v oleji dodá salátu mastnotu, tuňák ve vlastní šťávě je lehčí. Měj ho vždy dobře scezený.",
+    "Salát s vejci a rybou vydrží v lednici maximálně do druhého dne a při pokojové teplotě nesmí stát déle než 2 hodiny."
+  ],
+  "substitutions": [
+    "Tuňáka můžeš zaměnit za makrelu v oleji nebo za šunku, pokud rybu nejíš.",
+    "Majonézu nahraď celou jogurtem, přidej lžičku dijonské hořčice pro plnost."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží těstovinový salát s tuňákem?",
+      "a": "Do druhého dne, v uzavřené nádobě v lednici. Salát s vejci a rybou je choulostivější, takže ho nenech stát při pokojové teplotě déle než 2 hodiny."
+    },
+    {
+      "q": "Jaké těstoviny se hodí do těstovinového salátu?",
+      "a": "Krátké tvary s žlábky nebo vřeteny, třeba fusilli, penne nebo farfalle. Zálivka se do nich zachytí lépe než na hladké trubičky."
+    },
+    {
+      "q": "Jak dlouho vařit vejce do těstovinového salátu?",
+      "a": "Natvrdo, tedy 10 minut od chvíle, kdy voda znovu vře. Pak je hned zchlaď studenou vodou, aby se žloutek nezbarvil do zelena."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Sweet chilli omáčka",
+  "keywords": [
+    "sweet chilli omáčka",
+    "sladká chilli omáčka",
+    "chilli omáčka",
+    "sweet chilli omáčka recept"
+  ],
+  "image": "dish-sweet-chilli-omacka",
+  "category": "asijska",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 10,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Domácí sweet chilli omáčka je sladká, pikantní a lesklá. Stačí chilli papričky, česnek, cukr, ocet a trocha škrobu, a vyjde dávka na hodně nugetek, rolek nebo smaženého sýra. Pálivost určuje to, kolik semínek necháš v papričkách.",
+  "ingredients": [
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 4,
+      "unit": "ks",
+      "note": "červené, jemně nasekané"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "ocet-ryzovy",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na rozmíchání škrobu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Z chilli papriček vyndej semínka, pokud chceš mírnější omáčku, a nakrájej je najemno. Při práci si ošetři ruce a nesahej si do očí."
+    },
+    {
+      "text": "Do hrnce dej papričky, česnek, cukr, ocet, vodu a sůl. Za míchání přiveď k varu, až se cukr rozpustí."
+    },
+    {
+      "text": "Vař na mírném plameni 8 až 10 minut, aby se chutě spojily a omáčka se lehce zredukovala."
+    },
+    {
+      "text": "Škrob rozmíchej se 2 lžícemi studené vody, vlij do hrnce a míchej 1 minutu, dokud omáčka nezhoustne a nezíská sklovitý lesk. Nech vychladnout, při chladnutí ještě zhoustne."
+    }
+  ],
+  "tips": [
+    "Zahušťuj škrobem až nakonec. Vařený škrob po delší době ztrácí hustotu.",
+    "Chceš-li hlubší chuť, přidej na konci lžíci sójové omáčky."
+  ],
+  "substitutions": [
+    "Rýžový ocet nahradíš jablečným nebo bílým vinným octem.",
+    "Cukr můžeš částečně nahradit medem, omáčka ale bude tmavší a hůř skladovatelná.",
+    "Pálivost zmírníš tím, že použiješ jen 2 papričky nebo odstraníš všechna semínka."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží domácí sweet chilli omáčka?",
+      "a": "V uzavřené sklenici v lednici týden až deset dní. Před použitím ji promíchej."
+    },
+    {
+      "q": "Proč je sweet chilli omáčka řídká?",
+      "a": "Škrob nezavařil, nebo omáčka málo probublávala. Přiveď ji znovu k varu a případně přidej další lžičku škrobu rozmíchanou ve vodě."
+    },
+    {
+      "q": "Dá se sweet chilli omáčka udělat méně pálivá?",
+      "a": "Ano. Papričky zbav semínek a bílých žilek, kde je nejvíc pálivosti, případně použij méně papriček a přidej sladkou papriku."
+    }
+  ]
+}

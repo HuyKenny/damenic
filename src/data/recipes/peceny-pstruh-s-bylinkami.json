@@ -1,0 +1,109 @@
+{
+  "title": "Pečený pstruh s bylinkami a citronem",
+  "keywords": [
+    "pstruh duhový recept",
+    "pstruh v troubě recept",
+    "pečený pstruh recept",
+    "pstruh duhový recept v troubě",
+    "pstruh lososovitý recept"
+  ],
+  "image": "dish-peceny-pstruh-rare",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Pečený pstruh s bylinkami a citronem je celá ryba pro dva z trouby, hotová za 40 minut. Dutinu naplníš bylinkami a plátky citronu, kůže zkřupne a maso zůstane šťavnaté. Zvládne to i začátečník, nejtěžší je poznat, kdy ji vyndat.",
+  "ingredients": [
+    {
+      "ingredient": "pstruh-cely",
+      "amount": 2,
+      "unit": "ks",
+      "note": "vykuchaný, asi 300 g"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 0.5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu zapni na 200 °C, horkovzduch 180 °C. Pstruhy opláchni, osuš zevnitř i zvenku a z obou stran 2× až 3× našikmo zařízni kůži."
+    },
+    {
+      "text": "Osol a opepři dutinu i kůži. Do každé ryby dej plátky citronu, stroužek česneku a snítku petržele a kopru."
+    },
+    {
+      "text": "Ryby polož na plech s pečicím papírem, potři olejem a navrch dej kousek másla."
+    },
+    {
+      "text": "Peč 20 až 25 minut. Pstruh je hotový, když se hřbetní ploutev snadno vytáhne a maso u kosti je nepruhledné, vnitřní teplota je asi 63 °C."
+    },
+    {
+      "text": "Podávej hned s citronovou šťávou, bramborami a salátem."
+    }
+  ],
+  "tips": [
+    "Rybí kůže musí být suchá, jen tak zkřupe.",
+    "Rybu při pečení neotáčej, kůže by se přitrhla.",
+    "Pokud kupuješ pstruha čerstvého, spotřebuj ho do 1 až 2 dnů."
+  ],
+  "substitutions": [
+    "Bylinky lze nahradit tymiánem nebo rozmarýnem.",
+    "Máslo nahraď olivovým olejem.",
+    "Místo celého pstruha použij filety, vyjde to za 12 až 15 minut."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se peče pstruh v troubě?",
+      "a": "Při 200 °C 20 až 25 minut u ryby kolem 300 g. Větší ryba potřebuje o 5 až 10 minut víc."
+    },
+    {
+      "q": "Jak poznám, že je pstruh upečený?",
+      "a": "Maso je nepruhledné a láme se na vločky, ploutev se snadno vytáhne a uvnitř je 63 °C."
+    },
+    {
+      "q": "Čím se pstruh liší od lososovitého pstruha?",
+      "a": "Je to stejná ryba s různou barvou masa. Lososovitý pstruh je krmen tak, aby měl růžové maso. Postup je stejný."
+    }
+  ]
+}

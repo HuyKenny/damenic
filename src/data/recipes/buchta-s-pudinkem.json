@@ -1,0 +1,136 @@
+{
+  "title": "Buchta s pudinkem a drobenkou",
+  "keywords": [
+    "recept na buchtu s pudinkem",
+    "recept na buchtu",
+    "buchta s pudinkem",
+    "buchta s pudinkem a drobenkou"
+  ],
+  "image": "dish-buchta-s-pudinkem-nedortik",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 35,
+  "cookMinutes": 35,
+  "waitMinutes": 30,
+  "waitLabel": "chladnutí pudinku",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Buchta s pudinkem je pečená ve dvou krocích: těsto se předpéká a pak se na něj nanese vychladlý pudink s drobenkou. Pudink se nevsákne a dole zůstane vláčný korpus, nahoře krém a křupavá vrstva.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 125,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 37,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Pudink"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Pudink"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Pudink"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 120,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "studené",
+      "group": "Drobenka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Pudink nejdřív uvař: 100 ml mléka vyšlehej s práškem na pudink a cukrem, zbylé mléko přiveď k varu, vmíchej směs a za stálého míchání nech 1 minutu bublat. Přikryj fólií přímo na povrchu a nech zcela vychladnout, asi 30 minut."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 165 °C). Plech 25 × 35 cm vyloži pečicím papírem."
+    },
+    {
+      "text": "Vejce vyšlehej s cukrem, přidej olej a mléko, nakonec mouku s práškem do pečiva. Těsto rozetři na plech a peč 15 minut, dokud nezačne zlátnout."
+    },
+    {
+      "text": "Z mouky, cukru a studeného másla udělej prsty drobenku. Na předpečené těsto rozetři vychladlý pudink a posyp drobenkou."
+    },
+    {
+      "text": "Peč dalších 20 minut do zlatova. Nech vychladnout, pak krájej. Uchovej v lednici, kvůli pudinku vydrží 3 dny."
+    }
+  ],
+  "tips": [
+    "Pudink musí být před nanesením studený, teplý by se do těsta vsákl.",
+    "Fólii přitlač přímo na povrch pudinku, nevytvoří se škraloup.",
+    "Buchta se krájí lépe studená z lednice."
+  ],
+  "substitutions": [
+    "Do pudinku můžeš vložit 300 g ovoce (maliny, višně, borůvky) a zjemnit ho lžičkou citronové šťávy.",
+    "Vanilkový pudink lze nahradit čokoládovým, těsto pak můžeš dochutit 2 lžícemi kakaa."
+  ],
+  "faq": [
+    {
+      "q": "Proč se pudink zvrhl do těsta?",
+      "a": "Pudink byl teplý nebo těsto nebylo předpečené. Nech těsto 15 minut tuhnout a pudink úplně vychladit."
+    },
+    {
+      "q": "Jak dlouho vydrží buchta s pudinkem?",
+      "a": "V lednici 3 dny, protože obsahuje mléčný pudink. Při pokojové teplotě ji nenechávej déle než 2 hodiny."
+    },
+    {
+      "q": "Jak se dá buchta s pudinkem zjednodušit?",
+      "a": "Pudink můžeš uvařit večer a nechat přes noc v lednici. Pak stačí těsto upéct a zakončit."
+    }
+  ]
+}

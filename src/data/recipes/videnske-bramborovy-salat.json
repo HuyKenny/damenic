@@ -1,0 +1,130 @@
+{
+  "title": "Vídeňský bramborový salát s octem a vývarem",
+  "keywords": [
+    "vídeňský bramborový salát",
+    "rakouský bramborový salát",
+    "bramborový salát bez majonézy",
+    "lehký bramborový salát",
+    "německý bramborový salát"
+  ],
+  "image": "dish-videnske-bramborovy-salat-nula",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 25,
+  "waitMinutes": 30,
+  "waitLabel": "nasátí zálivky",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Vídeňský bramborový salát je bez majonézy: teplé brambory nasají horký vývar s octem, cibulí a hořčicí a dostanou lesklou, jemně kyselou chuť. Hodí se k řízkům i k párkům a vydrží na stole déle než varianta s majonézou. Tajemství je v tom, že se brambory zalévají horkým vývarem, dokud jsou teplé.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 1000,
+      "unit": "g",
+      "note": "salátové, tedy pevné odrůdy"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do vody na vaření",
+      "group": "Vaření"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 200,
+      "unit": "ml",
+      "note": "horký",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "8% ocet",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do zálivky",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "čerstvě mletý"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory dobře omyj a ve slupce vař v osolené vodě od varu 20 až 25 minut, dokud je špejle nepropíchne bez odporu. Nesmí se rozvařit."
+    },
+    {
+      "text": "Brambory slij a ještě teplé oloupej, lépe v kuchyňské utěrce, ať se nepopálíš. Nakrájej je na plátky silné asi 5 mm do velké misky."
+    },
+    {
+      "text": "Vývar přiveď k varu a vmíchej do něj ocet, hořčici, sůl a cukr. Tím horkým roztokem zalij brambory a jemně promíchej, aby se nerozpadly."
+    },
+    {
+      "text": "Nech 15 minut nasávat, přidej cibuli, olej a pepř a znovu jemně promíchej. Salát nech ještě aspoň 15 minut stát při pokojové teplotě. Před podáváním dochuť solí a octem a posyp pažitkou."
+    }
+  ],
+  "tips": [
+    "Zalévej brambory teplé, nikdy ne vychladlé. Teplý brambor nasaje zálivku, studený ji nechá stékat po povrchu.",
+    "Salátové, pevné brambory se nerozpadnou. Moučné odrůdy se v salátu změní v kaši.",
+    "Salát je nejlepší hned nebo za 2 hodiny, ještě mírně teplý nebo při pokojové teplotě. V lednici vydrží 2 dny, před jídlem ho nech zahřát."
+  ],
+  "substitutions": [
+    "Zeleninový vývar nahraď vodou s lžičkou zeleninového bujonu v prášku. Bez bujonu bude salát hodně plochý.",
+    "Hořčici můžeš nahradit dijonskou, bude jemnější. Kdo chce klasický vídeňský salát s okurkami, přidá 2 nakládané okurky nakrájené na kostičky."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi vídeňským a českým bramborovým salátem?",
+      "a": "Vídeňský je bez majonézy a je zalitý horkým vývarem s octem, nakrájenou cibulí a olejem. Český bývá s majonézou, vejci, mrkví a hráškem."
+    },
+    {
+      "q": "Jaké brambory se hodí na bramborový salát?",
+      "a": "Salátové, pevné brambory, které se při vaření nerozpadají. Na etiketě bývá písmeno A nebo B, případně nápis 'salátové' nebo 'na salát'."
+    },
+    {
+      "q": "Dá se vídeňský bramborový salát udělat den předem?",
+      "a": "Dá. V lednici vydrží 2 dny. Před podáváním ho nech zahřát na pokojovou teplotu a přidej trochu octa a oleje, brambory kyselost za noc nasají."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Domácí bezová limonáda",
+  "restaurant": "chata-pristi-sezona",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Bezový sirup, citron a perlivá voda s ledem.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-bezova-limonada-chata",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "order": 10,
+  "allergens": []
+}

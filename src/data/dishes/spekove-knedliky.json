@@ -1,0 +1,22 @@
+{
+  "name": "Špekové knedlíky, 5 plátků",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Houskový knedlík s osmaženou slaninou a cibulkou v těstě. Voní i z papíru.",
+  "about": [],
+  "price": 5500,
+  "image": "dish-spekove-knedliky",
+  "recipe": "spekove-knedliky",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 520
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Jehněčí kýta po řecku",
+  "restaurant": "taverna-prazdny-stul",
+  "kind": "main",
+  "section": "Talíře",
+  "description": "Rozpadavá jehněčí kýta s česnekem, oreganem a citronem, na talíři brambory z pekáče.",
+  "about": [
+    "Jehněčí kýta po řecku je jídlo, ve kterém nehraje roli rychlost. Maso se několik hodin peče pod víkem se šťávou, česnekem a citronem, až se rozpadne vidličkou. Na konci se odkryje a brambory nasáknou tuk a šťávu z pekáče.",
+    "Doma se to hodí na neděli. U nás to stojí na prázdném stole, který se jmenuje stejně jako taverna."
+  ],
+  "price": 32900,
+  "image": "dish-jehneci-kyta-stul",
+  "recipe": "jehneci-kyta-po-recku",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "order": 90
+}

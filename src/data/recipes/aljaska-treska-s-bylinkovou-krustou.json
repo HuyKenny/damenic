@@ -1,0 +1,115 @@
+{
+  "title": "Aljašská treska v troubě s bylinkovou krustou",
+  "keywords": [
+    "aljašská treska recept",
+    "aljašská treska recept v troubě",
+    "treska recept v troubě",
+    "zapečená treska recept",
+    "výborná treska recept"
+  ],
+  "image": "dish-aljaska-treska-rare",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 18,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Aljašská treska v troubě s bylinkovou krustou je rychlá ryba pro dva za 35 minut. Filety se potřou hořčicí, posypou strouhankou s bylinkami a upečou při 200 °C. Treska je libová a suchá, takže krusta ji chrání a dodává chuť.",
+  "ingredients": [
+    {
+      "ingredient": "treska-filet",
+      "amount": 400,
+      "unit": "g",
+      "note": "2 porce, rozmražené a osušené"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 0.25,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu zapni na 200 °C, horkovzduch 180 °C. Filety osuš, osol a opepři a polož na plech s pečicím papírem."
+    },
+    {
+      "text": "Strouhanku smíchej s rozpuštěným máslem, nasekanou petrželkou, koprem, prolisovaným česnekem a kůrou z půlky citronu."
+    },
+    {
+      "text": "Filety potři tenkou vrstvou hořčice a navrch přitiskni bylinkovou strouhanku."
+    },
+    {
+      "text": "Peč 15 až 18 minut. Ryba je hotová, když je uvnitř nepruhledná, v nejtlustším místě má 63 °C a snadno se dělí na vločky. Krusta musí být zlatá."
+    },
+    {
+      "text": "Podávej s plátky citronu, vařenými bramborami a salátem."
+    }
+  ],
+  "tips": [
+    "Mraženou tresku nech rozmrazit v lednici přes noc a před pečením ji důkladně osuš, jinak se krusta rozmočí.",
+    "Treska pustí nejvíc vody z mraženého filetu. Nepřikrývej ji.",
+    "Nepeč ji déle, než je nutné. Přepečená treska je suchá a vláknitá."
+  ],
+  "substitutions": [
+    "Hořčici nahraď pestem nebo majonézou.",
+    "Strouhanku lze nahradit panko pro křupavější krustu.",
+    "Bylinky můžeš nahradit sušeným oreganem a tymiánem, použij polovinu množství."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct tresku v troubě?",
+      "a": "Při 200 °C 15 až 18 minut. Silný filet potřebuje víc, tenký méně. Ryba je hotová, když se maso láme na vločky."
+    },
+    {
+      "q": "Jaká je vnitřní teplota hotové ryby?",
+      "a": "Asi 63 °C. Při ní je maso nepruhledné a šťavnaté."
+    },
+    {
+      "q": "Musí se mražená treska před pečením rozmrazit?",
+      "a": "Doporučujeme ano, v lednici přes noc. Rozmrazenou osuš, aby se na plechu nevařila v tekutině."
+    }
+  ]
+}

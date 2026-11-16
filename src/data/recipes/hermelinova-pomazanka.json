@@ -1,0 +1,101 @@
+{
+  "title": "Hermelínová pomazánka s cibulí a paprikou",
+  "keywords": [
+    "hermelínová pomazánka recept",
+    "hermelínová pomazánka",
+    "pomazánka z hermelínu"
+  ],
+  "image": "dish-hermelinova-pomazanka-oblozeno",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 60,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Hermelínová pomazánka z dobře vyzrálého hermelínu, másla, cibule a sladké papriky vyjde asi na 350 g, tedy na 15 chlebíčků nebo krajíc pečiva pro šest lidí. Hermelín má být zralý a měkký, jinak se nerozetře. Pomazánka je výrazná a hodí se na tmavý chléb i na chlebíčky.",
+  "ingredients": [
+    {
+      "ingredient": "hermelin",
+      "amount": 240,
+      "unit": "g",
+      "note": "dva kusy, zralé, i s kůrkou"
+    },
+    {
+      "ingredient": "pomazankove-maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozlisovaný"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "mletá"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hermelín vyndej z lednice aspoň 30 minut předem, ať změkne. Nakrájej ho na kousky i s kůrkou."
+    },
+    {
+      "text": "Hermelín rozmačkej vidličkou nebo ho rozmixuj tyčovým mixérem s máslem na hladkou hmotu."
+    },
+    {
+      "text": "Přidej cibuli, česnek, papriku, hořčici a pepř a důkladně promíchej. Sůl není potřeba, sýr je dost slaný."
+    },
+    {
+      "text": "Pomazánku přendej do uzavíratelné nádoby a nech 1 hodinu odležet v lednici. Chuť se pak propojí a cibule zjemní."
+    }
+  ],
+  "tips": [
+    "Pro jemnější chuť nakrájenou cibuli zalij na 30 sekund vroucí vodou, scedi a osuš.",
+    "Pomazánka vydrží v uzavřené dóze v lednici 3 dny. Druhý den je chuť plnější.",
+    "Hermelín se kůrkou rozmačkává hůř. Kdo ji nechce, ořízne ji, chuť ale ztratí část vůně."
+  ],
+  "substitutions": [
+    "Pomazánkové máslo nahraď měkkým máslem nebo smetanovým sýrem.",
+    "Cibuli můžeš vyměnit za jarní cibulku nebo pažitku, které jsou jemnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží hermelínová pomazánka?",
+      "a": "Do 3 dnů v uzavřené nádobě v lednici. Čerstvou pomazánku nech před podáváním vždy aspoň hodinu odležet."
+    },
+    {
+      "q": "Jaký hermelín se hodí na pomazánku?",
+      "a": "Zralý a měkký, ideálně s tenkou bílou kůrkou a krémovým středem. Tuhý hermelín se špatně rozmačkává a pomazánka je zrnitá."
+    },
+    {
+      "q": "Dá se hermelínová pomazánka mrazit?",
+      "a": "Nedoporučuje se. Po rozmražení se pomazánka vodovatě rozdělí. Vydrží v lednici dost dlouho, takže ji udělej jen na pár dní."
+    }
+  ],
+  "occasions": [
+    "silvestr"
+  ]
+}

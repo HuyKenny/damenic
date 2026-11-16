@@ -1,0 +1,92 @@
+{
+  "title": "Tvarůžková pomazánka s kmínem a cibulí",
+  "keywords": [
+    "tvarůžková pomazánka recept",
+    "tvarůžková pomazánka",
+    "pomazánka z tvarůžků"
+  ],
+  "image": "dish-tvaruzkova-pomazanka-oblozeno",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 60,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Tvarůžková pomazánka je výrazná, voňavá pomazánka z tvarůžků, másla, cibule a kmínu na chléb nebo chlebíčky. Z 150 g tvarůžků vyjde asi 300 g pomazánky. Tvarůžky musí být měkké a pokojové teploty a pomazánka se po hodině v lednici propojí.",
+  "ingredients": [
+    {
+      "ingredient": "tvaruzky",
+      "amount": 150,
+      "unit": "g",
+      "note": "tři až čtyři kusy, pokojové teploty"
+    },
+    {
+      "ingredient": "pomazankove-maslo",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "mletý nebo drcený"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "mletá"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Tvarůžky nech zahřát na pokojovou teplotu a rozmačkej je vidličkou na kaši. Zbytky kůrky nevadí."
+    },
+    {
+      "text": "Přidej pomazánkové máslo a promíchej do hladké hmoty. Pokud je moc tuhá, dej ještě lžičku mléka nebo másla."
+    },
+    {
+      "text": "Přidej cibuli, kmín, sladkou papriku a hořčici a důkladně promíchej."
+    },
+    {
+      "text": "Pomazánku přendej do dózy a nech aspoň hodinu v lednici odležet. Pak ji znovu zamíchej."
+    }
+  ],
+  "tips": [
+    "Cibule se zjemní, když ji na 30 sekund zalije vroucí vodou a scedíš. Chuť pomazánky ale zůstane výrazná.",
+    "Pomazánka je výrazná, takže chleba má mít přiměřenou chuť. Hodí se tmavší pečivo nebo kmínový chléb.",
+    "V uzavřené dóze vydrží v lednici 3 dny. Vůně tvarůžků je ale silná, proto dózu pořádně zavři."
+  ],
+  "substitutions": [
+    "Pomazánkové máslo můžeš nahradit tvarohem nebo smetanovým sýrem, bude svěžejší.",
+    "Kmín vynech, pokud ho nemáš rád, a přidej trochu pepře."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží tvarůžková pomazánka?",
+      "a": "Do 3 dnů v uzavřené dóze v lednici. Zavři ji pořádně, vůně tvarůžků se jinak přenese na ostatní potraviny."
+    },
+    {
+      "q": "Co k tvarůžkové pomazánce podávat?",
+      "a": "Tmavý chléb, kmínový chléb, rohlík, pečivo se zeleninou. Dobře jde s okurkou a ředkvičkou, které zjemní chuť."
+    },
+    {
+      "q": "Jak zjemnit chuť tvarůžkové pomazánky?",
+      "a": "Přidej víc másla nebo smetanového sýra a cibuli zalij vroucí vodou. Silnou chuť tvarůžků ale úplně nepotlačíš a není to nutné."
+    }
+  ]
+}

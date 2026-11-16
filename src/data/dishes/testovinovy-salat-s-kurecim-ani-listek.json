@@ -1,0 +1,25 @@
+{
+  "name": "Těstovinový salát s kuřecím",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "description": "Penne, kuřecí prsa, kukuřice a paprika v jogurtové zálivce. Studený oběd, který vydrží do zítřka.",
+  "about": [
+    "Těstovinový salát s kuřecím masem je jídlo, které se hodí na pracovní oběd i na piknik. Těstoviny uvařené na skus, kuřecí prsa vařená jemně do 75 °C a zálivka z majonézy s jogurtem. Nic ji nerozbíjí, proto drží tvar celý den.",
+    "Salát chutná nejlíp, když se prolije půl hodiny v lednici. Salátbar Ani lístek ti ho nedoveze, ani jeden lístek. Recept je ale skutečný."
+  ],
+  "price": 18900,
+  "image": "dish-testovinovy-salat-s-kurecim-ani-listek",
+  "recipe": "testovinovy-salat-s-kurecim-masem",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    10
+  ],
+  "order": 270
+}

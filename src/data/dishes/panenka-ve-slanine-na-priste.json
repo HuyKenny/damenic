@@ -1,0 +1,48 @@
+{
+  "name": "Vepřová panenka ve slanině",
+  "restaurant": "peceni-na-priste",
+  "kind": "main",
+  "section": "Vepřová panenka",
+  "description": "Celá panenka v plátcích slaniny, dopečená v troubě do růžové šťávy. Hodí se na neděli, která nepřijde.",
+  "about": [
+    "Panenka je skvělé maso, ale bez tuku ji trouba ráda přesuší. Slanina je jednoduché řešení: obalí maso, uvolňuje šťávu a sama se propeče dokřupava. Hořčice pod slaninou přidá štiplavost, tymián vůni.",
+    "Plech voní celou kuchyní. Naše kuchyně se jen tváří, že voní. Tvoje je skutečná, a proto máš recept."
+  ],
+  "price": 29900,
+  "image": "dish-panenka-ve-slanine-na-priste",
+  "recipe": "veprova-panenka-ve-slanine",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    9,
+    10
+  ],
+  "order": 110,
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "ryze",
+          "name": "Rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "kase",
+          "name": "Bramborová kaše",
+          "priceDelta": 1500
+        }
+      ]
+    }
+  ]
+}

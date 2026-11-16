@@ -1,0 +1,20 @@
+{
+  "name": "Pečený kapr s bylinkami",
+  "restaurant": "steakarna-rare-priste",
+  "kind": "main",
+  "section": "Ryby a mořské plody",
+  "description": "Naříznuté porce kapra s máslem, česnekem a tymiánem místo smažení.",
+  "about": [
+    "Kapr je plný drobných kostí, proto se porce nařezávají po centimetru až k páteři. V troubě se peče při 200 °C 35 až 40 minut a není třeba smažit.",
+    "Vánoce máš ještě daleko, kapr také. Ale recept už si schovej."
+  ],
+  "price": 26900,
+  "image": "dish-peceny-kapr-rare",
+  "recipe": "peceny-kapr-s-bylinkami",
+  "vegetarian": false,
+  "order": 135,
+  "allergens": [
+    4,
+    7
+  ]
+}

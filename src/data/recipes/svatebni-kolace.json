@@ -1,0 +1,197 @@
+{
+  "title": "Svatební koláče",
+  "keywords": [
+    "svatební koláče recept",
+    "svatební koláče",
+    "chodské koláče recept",
+    "recept na opravdové svatební koláče"
+  ],
+  "image": "dish-svatebni-kolace-kolac-na-slib",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 75,
+  "cookMinutes": 20,
+  "waitMinutes": 120,
+  "waitLabel": "kvásek a kynutí",
+  "difficulty": "náročnější",
+  "meal": "pecivo",
+  "intro": "Svatební koláče jsou velké kynuté koláče o průměru kolem 12 cm, každý plněný tvarohem, povidly a mákem, s měkkým okrajem a drobenkou. Vyjde jich 8. Základem je kvásek a pořádně vykynuté máslové těsto, které se při pečení nesmí vysušit.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 42,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "žloutky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "kůra z nastrouhaného",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 300,
+      "unit": "g",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredient": "povidla",
+      "amount": 200,
+      "unit": "g",
+      "group": "Povidlová náplň"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Povidlová náplň"
+    },
+    {
+      "ingredient": "mak-mlety",
+      "amount": 120,
+      "unit": "g",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 120,
+      "unit": "ml",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "studené",
+      "group": "Drobenka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "rozpuštěné na potření",
+      "group": "Dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do 100 ml vlažného mléka rozdrol droždí, přidej lžičku cukru a 2 lžíce mouky. Nech 10 minut vzejít."
+    },
+    {
+      "text": "Smíchej mouku, cukr, sůl, žloutky, zbylé mléko, citronovou kůru a máslo. Přilij kvásek a těsto hněť 10 minut, dokud není hladké a hodně se nelepí. Nech přikryté 60 minut kynout v teple."
+    },
+    {
+      "text": "Mák spař v mléce s cukrem a nech zhoustnout, 5 minut. Povidla promíchej se skořicí. Tvaroh promíchej s cukrem, vejcem a vanilkovým cukrem."
+    },
+    {
+      "text": "Těsto rozděl na 8 dílů, každý rozválej na placku ø 11 cm s lehce zvýšeným okrajem. Na každou dej 3 lžíce náplně (2 koláče s mákem, 3 s tvarohem a 3 s povidly), oblast náplně celou pokryj."
+    },
+    {
+      "text": "Koláče nech 30 minut kynout na plechu s papírem. Mezitím z mouky, cukru a studeného másla udělej drobenku a posyp jí tvarohové koláče."
+    },
+    {
+      "text": "Troubu předehřej na 190 °C (horkovzduch 175 °C). Peč 18 až 20 minut. Po upečení koláče potři rozpuštěným máslem a přikryj utěrkou, aby změkly."
+    }
+  ],
+  "tips": [
+    "Náplně naneseš až na vykynutou placku, ne na nekynutou, jinak se vyboulí.",
+    "Má-li být těsto vláčné, nepřidávej při hnětení víc mouky, než je nutné.",
+    "Zmrazit se dají upečené, po rozmražení je zahřej 8 minut na 160 °C."
+  ],
+  "substitutions": [
+    "Povidla lze nahradit hustým švestkovým lekvárem bez cukru.",
+    "Mák můžeš nahradit mletými vlašskými ořechy smíchanými s mlékem a cukrem."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi svatebními a moravskými koláči?",
+      "a": "Svatební jsou větší, bohatěji plněné a mají kynutější těsto. Moravské jsou menší a rychleji hotové, náplně se ale podobají."
+    },
+    {
+      "q": "Kolik koláčů vyjde z receptu?",
+      "a": "Osm koláčů o průměru kolem 11 až 12 cm."
+    },
+    {
+      "q": "Proč jsou koláče tvrdé?",
+      "a": "Těsto se příliš vysušilo, přepeklo se, nebo mělo moc mouky. Po upečení je vždy potři máslem a přikryj utěrkou, vlhkost se vrátí."
+    }
+  ]
+}

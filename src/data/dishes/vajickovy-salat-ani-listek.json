@@ -1,0 +1,24 @@
+{
+  "name": "Vajíčkový salát",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "description": "Vejce natvrdo nakrájená na kostky, jarní cibulka a okurka v lehké majonézové zálivce.",
+  "about": [
+    "Vajíčkový salát bývá podceňovaný, ale je to pohodlná a sytá příloha. Šest vajec natvrdo, nakládaná okurka, jarní cibulka a zálivka z majonézy s jogurtem. Vejce zůstávají na kostičkách, takže nejde o pomazánku.",
+    "K salátu se hodí chléb a studený den. Salátbar je smyšlený, vejce si uvaříš sama."
+  ],
+  "price": 14900,
+  "image": "dish-vajickovy-salat-ani-listek",
+  "recipe": "vajickovy-salat",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    10
+  ],
+  "order": 300
+}

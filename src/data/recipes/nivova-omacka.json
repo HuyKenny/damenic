@@ -1,0 +1,90 @@
+{
+  "title": "Nivová omáčka",
+  "keywords": [
+    "nivová omáčka recept",
+    "nivová omáčka",
+    "nivová omáčka ke steaku",
+    "nivová omáčka k těstovinám"
+  ],
+  "image": "dish-nivova-omacka",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 5,
+  "cookMinutes": 8,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Nivová omáčka je smetanová omáčka s rozpuštěnou nivou, která se podává ke steaku, těstovinám, gnocchi i pečenému masu. Nivu rozpouštíš na mírném plameni a solíš až nakonec, protože je sama dost slaná. Hotová je za 15 minut.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 30,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "niva",
+      "amount": 100,
+      "unit": "g",
+      "note": "nakrájená na kostičky"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej máslo a na mírném plameni na něm 2 až 3 minuty smaž cibuli, dokud nezesklovatí. Cibule nemá zhnědnout."
+    },
+    {
+      "text": "Přilij smetanu na vaření a přiveď ji k mírnému bublání. Vař 2 minuty, aby lehce zhoustla."
+    },
+    {
+      "text": "Sundej hrnec z nejsilnějšího žáru, přidej nivu a míchej, dokud se nerozpustí do hladké omáčky. Nivu nevař, mohla by se srazit."
+    },
+    {
+      "text": "Dochuť pepřem a muškátovým oříškem a ochutnej. Sůl obvykle nepotřebuješ. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Nivu přidávej v kostkách, rozpustí se rychleji a omáčka nebude hrudkovitá.",
+    "Chceš-li hustší omáčku, nech ji chvíli probublávat před přidáním nivy, ne po něm."
+  ],
+  "substitutions": [
+    "Nivu nahradíš gorgonzolou, roqueforem nebo jiným modrým sýrem.",
+    "Smetanu na vaření nahradíš směsí smetany a trochy mléka pro lehčí verzi.",
+    "Přidat můžeš i lžíci vlašských ořechů, které omáčce dodají křupavost."
+  ],
+  "faq": [
+    {
+      "q": "K čemu se nivová omáčka hodí?",
+      "a": "Ke steaku, vepřové panence, kuřecím prsům, těstovinám, gnocchi i pečeným bramborám."
+    },
+    {
+      "q": "Proč se nivová omáčka sráží?",
+      "a": "Smetana nebo sýr se přehřály. Po přidání nivy nech omáčku jen těsně pod bodem varu a stále míchej."
+    },
+    {
+      "q": "Dá se nivová omáčka ohřát?",
+      "a": "Ano, ale pomalu na mírném plameni a s lžící mléka nebo smetany. Při vysoké teplotě se oddělí tuk."
+    }
+  ]
+}

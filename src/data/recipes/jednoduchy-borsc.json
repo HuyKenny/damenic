@@ -1,0 +1,144 @@
+{
+  "title": "Jednoduchý boršč s červenou řepou",
+  "keywords": [
+    "jednoduchý recept na boršč",
+    "boršč recept",
+    "boršč s červenou řepou",
+    "zeleninový boršč"
+  ],
+  "image": "dish-jednoduchy-borsc",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Jednoduchý boršč je polévka z červené řepy, zelí, brambor a mrkve dochucená octem a cukrem a podávaná se zakysanou smetanou. Tahle verze je bez masa a hotová za necelou hodinu. Těžké je jediné: dosáhnout rovnováhy mezi sladkou řepou a kyselým octem.",
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "nastrouhaná na hrubo"
+    },
+    {
+      "ingredient": "cervena-repa",
+      "amount": 400,
+      "unit": "g",
+      "note": "oloupaná a nastrouhaná na hrubo"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 1000,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "zeli-bile",
+      "amount": 200,
+      "unit": "g",
+      "note": "na tenké nudličky"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 100,
+      "unit": "g",
+      "note": "na podávání"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nasekaný"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej olej a na středním ohni opékej cibuli 3 minuty. Přidej mrkev a řepu a opékej 5 minut, občas promíchej."
+    },
+    {
+      "text": "Vmíchej rajčatový protlak, ocet a cukr a smaž 1 minutu. Ocet pomáhá udržet barvu řepy, proto se přidává brzy."
+    },
+    {
+      "text": "Zalij vývarem, přidej brambory, zelí, bobkový list a sůl. Přiveď k varu a vař na mírném ohni 20 až 25 minut, dokud nejsou brambory a zelí měkké."
+    },
+    {
+      "text": "Přidej česnek a vař ještě 2 minuty. Dochuť solí, octem nebo cukrem podle toho, co chybí, polévka má být sladkokyselá."
+    },
+    {
+      "text": "Podávej s lžící zakysané smetany a čerstvým koprem."
+    }
+  ],
+  "tips": [
+    "Řepu strouhej na hrubé struhadlo, na jemném by se rozpadla. Rukavice ušetří prsty před fialovou barvou.",
+    "Boršč je druhý den ještě lepší. Chuť se spojí a barva se prohloubí.",
+    "Pro čistě rostlinnou verzi vynech smetanu nebo ji nahraď rostlinným jogurtem."
+  ],
+  "substitutions": [
+    "Zeleninový vývar lze nahradit hovězím a boršč bude tradičnější, ale už ne bez masa.",
+    "Zelí nahradí kapusta.",
+    "Ocet nahradí šťáva z poloviny citronu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit boršč?",
+      "a": "Po orestování zeleniny stačí 20 až 25 minut na mírném ohni. Brambory a zelí mají být měkké."
+    },
+    {
+      "q": "Proč boršč ztratil barvu?",
+      "a": "Řepa potřebuje kyselinu, aby zůstala červená. Ocet nebo citron přidej brzy a polévku nevař zbytečně dlouho."
+    },
+    {
+      "q": "Dá se boršč zmrazit?",
+      "a": "Ano, bez smetany vydrží v mrazáku 3 měsíce. Smetanu přidej až při podávání."
+    }
+  ]
+}

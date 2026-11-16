@@ -1,0 +1,17 @@
+{
+  "name": "Ovocný čaj ledový",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Ledový ovocný čaj s lesním ovocem, nesladký, ať si osladíš sám.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-caj-ovocny-hotovo",
+  "recipe": null,
+  "featured": false,
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 10
+}

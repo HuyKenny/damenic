@@ -1,0 +1,135 @@
+{
+  "title": "Těstovinový salát s kuřecím masem a majonézou",
+  "keywords": [
+    "těstovinový salát s kuřecím masem",
+    "těstovinový salát s kuřecím",
+    "studený těstovinový salát",
+    "těstovinový salát se zeleninou",
+    "výborný těstovinový salát"
+  ],
+  "image": "dish-testovinovy-salat-s-kurecim-ani-listek",
+  "category": "salaty",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 20,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí a prolití v lednici",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Těstovinový salát s kuřecím masem je studený oběd pro čtyři, který se dělá den předem. Kuřecí prsa se vaří pomalu, dokud nemají uvnitř 75 °C, těstoviny se osolí a propláchnou a zálivka je z majonézy a jogurtu. Rozhoduje to, aby těstoviny nepřevařily a salát nebyl suchý.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 250,
+      "unit": "g",
+      "note": "penne nebo vřetena"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "do vody na těstoviny a na kuře"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 300,
+      "unit": "g",
+      "note": "vcelku"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "kukurice-konzerva",
+      "amount": 170,
+      "unit": "g",
+      "note": "scezená"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 3,
+      "unit": "ks",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "asi 60 g",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "asi 72 g",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zálivka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuřecí prsa vlož do hrnce, zalij studenou vodou, osol a přiveď k varu. Stáhni plamen na nejslabší a vař pod pokličkou 12 až 15 minut. Pak hrnec odstav a maso nech 10 minut v teplé vodě dojít."
+    },
+    {
+      "text": "Maso musí mít uvnitř 75 °C, nebo když ho nařízneš, nesmí být růžové a šťáva musí být čirá. Když ne, vrať ho do vody na 5 minut. Vyndej a nech zcela vychladnout, pak nakrájej na kostičky."
+    },
+    {
+      "text": "Těstoviny uvař v osolené vodě podle návodu, ale o minutu kratší dobu, aby zůstaly na skus. Slij je a propláchni studenou vodou, ať se nelepí."
+    },
+    {
+      "text": "V míse rozmíchej majonézu, jogurt, hořčici a pepř. Přidej těstoviny, kuře, papriku, kukuřici, okurky a cibulku a vše promíchej."
+    },
+    {
+      "text": "Salát přikryj a nech aspoň 30 minut v lednici. Před podáváním ho ochutnej, případně dosol a pokud je suchý, přidej lžíci jogurtu."
+    }
+  ],
+  "tips": [
+    "Těstoviny cedi a oplachuj hned po uvaření. Pokud zůstanou odkryté v hrnci, dál se vaří a slepí.",
+    "Salát po hodině v lednici zhoustne, protože těstoviny nasají zálivku. Před podáváním přidej lžíci jogurtu nebo trochu mléka a promíchej.",
+    "Maso a majonéza patří do lednice. Při pokojové teplotě salát nenechávej déle než 2 hodiny, v létě na slunci jen krátce.",
+    "V lednici vydrží salát 2 dny v uzavřené nádobě."
+  ],
+  "substitutions": [
+    "Kuře nahraď šunkou nebo kuřecí šunkou, nebo pečeným tofu v bezmasé verzi.",
+    "Majonézu zcela nahraď jogurtem, salát bude lehčí a kyselejší. Přidej lžičku citronové šťávy."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží těstovinový salát s kuřecím masem v lednici?",
+      "a": "Do 2 dnů v uzavřené nádobě. Druhý den je nejlepší, těstoviny jsou prolité zálivkou, ale mohou nasáknout, tak přidej lžíci jogurtu."
+    },
+    {
+      "q": "Jak uvařit kuřecí prsa do salátu, aby nebyla suchá?",
+      "a": "Vař je jen na nejslabším plameni 12 až 15 minut pod pokličkou a nech 10 minut dojít v teplé vodě. Vnitřní teplota má dosáhnout 75 °C."
+    },
+    {
+      "q": "Proč je těstovinový salát po hodině suchý?",
+      "a": "Těstoviny nasají zálivku. Proto se dělá zálivky víc, než se zdá, nebo se před podáváním doplní lžící jogurtu či majonézy."
+    }
+  ],
+  "occasions": [
+    "narozeniny"
+  ]
+}

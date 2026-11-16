@@ -1,0 +1,81 @@
+{
+  "title": "Drobenka na koláč",
+  "keywords": [
+    "drobenka na koláč recept",
+    "drobenka na koláč",
+    "drobenka na koláče"
+  ],
+  "image": "dish-drobenka-na-kolac",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 10,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "pecivo",
+  "intro": "Drobenka na koláč se dělá z mouky, cukru a studeného másla v poměru 2:1:1 a hnětě se jen dokud nevzniknou hrubé drobky. Je to základ, který se hodí na koláče, buchty i jablečný kuchen, vyjde na jeden plech.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "studené, nakrájené na kostky"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "volitelně"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku, cukr, vanilkový cukr a skořici dej do misky. Přidej studené máslo na kostky."
+    },
+    {
+      "text": "Prsty rychle třením vypracuj hrubé drobky velikosti hrachu až fazole. Nehněť, jinak se máslo rozpustí a hmota se spojí."
+    },
+    {
+      "text": "Drobenku rovnoměrně posyp na koláč nebo buchtu těsně před pečením. Pokud je teplá, dej ji na 10 minut do lednice nebo mrazáku."
+    }
+  ],
+  "tips": [
+    "Máslo musí být opravdu studené, dokonce zmrazené máslo se dá nastrouhat nahrubo.",
+    "Drobenku zmrazenou jde sypat přímo, nemusíš ji rozmrazovat.",
+    "Drobenka vydrží v mrazáku 3 měsíce."
+  ],
+  "substitutions": [
+    "Část mouky nahraď mletými ořechy nebo ovesnými vločkami.",
+    "Máslo nahraď rostlinným margarínem v pevném stavu, ne olejem."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat drobenku, aby byla hrubá a ne mazlavá?",
+      "a": "Používej studené máslo a pracuj rychle, jen třením prsty. Hrstičky stlač v dlani a rozpadej na drobky."
+    },
+    {
+      "q": "Dá se drobenka zmrazit?",
+      "a": "Ano, v dóze nebo sáčku 3 měsíce. Sype se zmrazená přímo na koláč."
+    },
+    {
+      "q": "Kolik drobenky vyjde na plech?",
+      "a": "Dávka 600 g stačí na plech 25 × 35 cm s tenčí vrstvou drobenky."
+    }
+  ]
+}

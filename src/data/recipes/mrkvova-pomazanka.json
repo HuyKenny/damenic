@@ -1,0 +1,99 @@
+{
+  "title": "Mrkvová pomazánka se smetanovým sýrem",
+  "keywords": [
+    "mrkvová pomazánka na chlebíčky",
+    "mrkvová pomazánka",
+    "pomazánka z mrkve",
+    "mrkvová pomazánka s česnekem"
+  ],
+  "image": "dish-mrkvova-pomazanka-oblozeno",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Mrkvová pomazánka je bezmasá pomazánka z jemně nastrouhané mrkve, smetanového sýra a česneku. Z 250 g mrkve vyjde asi 450 g pomazánky, tedy na 20 chlebíčků. Mrkev se strouhá najemno a po půlhodině v lednici pomazánka dostane lehce sladkou a křupavou chuť.",
+  "ingredients": [
+    {
+      "ingredient": "mrkev",
+      "amount": 250,
+      "unit": "g",
+      "note": "oloupaná"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 200,
+      "unit": "g",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozlisovaný"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "jen šťáva"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mrkev oloupej a nastrouhej na nejjemnějším struhadle. Šťávu, která vytekla, lehce vymačkej, jinak pomazánku zředí."
+    },
+    {
+      "text": "Smetanový sýr rozmíchej s česnekem, citronovou šťávou, solí a pepřem do hladka."
+    },
+    {
+      "text": "Přidej mrkev a petrželku a důkladně promíchej. Pomazánku ochutnej a případně dosol."
+    },
+    {
+      "text": "Nech ji 30 minut v lednici, ať se propojí. Natírej na pečivo nebo plň do chlebíčků a zdobit můžeš plátkem okurky."
+    }
+  ],
+  "tips": [
+    "Strouhej mrkev až těsně před mícháním, jinak vypustí příliš šťávy.",
+    "Mrkev dodá pomazánce sladkost. Pro ostřejší chuť přidej lžičku křenu.",
+    "V uzavřené dóze v lednici vydrží 3 dny."
+  ],
+  "substitutions": [
+    "Smetanový sýr můžeš nahradit tvarohem nebo hustým jogurtem, pomazánka bude kyselejší a lehčí.",
+    "Česnek nahraď pažitkou, pokud ho nemáš rád."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží mrkvová pomazánka?",
+      "a": "Do 3 dnů v uzavřené dóze v lednici. Druhý den je mrkev měkčí a pomazánka lépe drží tvar."
+    },
+    {
+      "q": "Jak udělat mrkvovou pomazánku, aby nebyla vodnatá?",
+      "a": "Mrkev strouhej najemno a lehce ji vymačkej. Smetanový sýr musí být hutný, ne řidký, a nepřidávej žádnou tekutinu navíc."
+    },
+    {
+      "q": "Hodí se mrkvová pomazánka na chlebíčky?",
+      "a": "Ano. Je lehká a barevná, drží tvar a hodí se pro vegetariány. Na chlebíček stačí tenká vrstva a plátek okurky nebo ředkvičky."
+    }
+  ]
+}

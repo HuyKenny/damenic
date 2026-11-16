@@ -1,0 +1,123 @@
+{
+  "title": "Rebarborový koláč s pusinkou",
+  "keywords": [
+    "rebarborový koláč recept",
+    "rebarborový koláč",
+    "rebarborový koláč s pusinkou"
+  ],
+  "image": "dish-rebarborovy-kolac-kolac-na-slib",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 10,
+  "activeMinutes": 45,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Rebarborový koláč má máslový korpus, kyselou rebarboru a lehkou sněhovou pusinku, která při pečení zhnědne. Rebarbora se krájí na kousky a pomoučí škrobem, aby pustila míň šťávy.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 125,
+      "unit": "g",
+      "note": "studené",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "rebarbora",
+      "amount": 600,
+      "unit": "g",
+      "note": "na kousky 1,5 cm",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "jen bílky",
+      "group": "Pusinka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g",
+      "group": "Pusinka"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Pusinka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku, máslo a moučkový cukr zpracuj prsty na drobenku, přidej vejce a vypracuj těsto. Rozetři a přitlač do formy 24 × 24 cm, píchej vidličkou a nech 15 minut v lednici."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 165 °C). Korpus předpeč 15 minut do světlého zlatého odstínu."
+    },
+    {
+      "text": "Rebarboru promíchej s cukrem a škrobem a rozlož na předpečený korpus. Peč dalších 15 minut."
+    },
+    {
+      "text": "Bílky ušlehej do tuhého sněhu, za šlehání přidej po lžících cukr a škrob. Sníh rozetři na rebarboru a rozprostři do vlnek."
+    },
+    {
+      "text": "Troubu sniž na 150 °C a peč 15 až 20 minut, dokud pusinka nezezlátne. Nech zcela vychladnout, jinak se špatně krájí."
+    }
+  ],
+  "tips": [
+    "Rebarboru loupej jen, pokud je slupka hrubá. Mladá se nepatrně zbarví, není to třeba.",
+    "Listy rebarbory nejez, jsou jedovaté. Používají se jen řapíky.",
+    "Koláč je nejlepší 1. den, pusinka ve vlhku měkne."
+  ],
+  "substitutions": [
+    "Rebarboru nahraď angreštem nebo neslazenými višněmi.",
+    "Pusinku vynech a posyp koláč drobenkou ze 100 g mouky, 60 g cukru a 60 g másla."
+  ],
+  "faq": [
+    {
+      "q": "Proč rebarbora pouští vodu?",
+      "a": "Má vysoký obsah vody. Pomoučení škrobem a cukrem a předpečený korpus omezí promáčení těsta."
+    },
+    {
+      "q": "Jak poznám, že je pusinka upečená?",
+      "a": "Je světle zlatá, na dotek suchá a zvenku křupe, uvnitř zůstává měkká."
+    },
+    {
+      "q": "Jde rebarboru použít mraženou?",
+      "a": "Ano. Nech ji částečně rozmrazit a nechej odkapat, ať nepřidá vodu do koláče."
+    }
+  ]
+}

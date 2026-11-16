@@ -1,0 +1,21 @@
+{
+  "name": "Zeleninový kuskus",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Kuskus s paprikou, cuketou a mátou. Zalije se vývarem a za pět minut je hotovo.",
+  "about": [],
+  "price": 4500,
+  "image": "dish-zeleninovy-kuskus",
+  "recipe": "zeleninovy-kuskus",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    9
+  ],
+  "featured": false,
+  "order": 570
+}

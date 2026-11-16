@@ -1,0 +1,24 @@
+{
+  "name": "Bulgur s tuňákem a olivami",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Polední menu",
+  "description": "Teplý bulgur, tuňák, rajčata a olivy s citronem. Jí se i studený.",
+  "about": [
+    "Konzerva tuňáka a trocha bulguru dají za čtvrt hodiny oběd, který se nemusí ohřívat. Zelenina přidá křupavost a citron všechno spojí.",
+    "Jí se teplý i studený, takže přežije i cestu, která u nás nikdy nezačne."
+  ],
+  "price": 16900,
+  "image": "dish-bulgur-s-tunakem",
+  "recipe": "bulgur-s-tunakem",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    4
+  ],
+  "featured": false,
+  "order": 540
+}

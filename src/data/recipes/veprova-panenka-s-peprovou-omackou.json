@@ -1,0 +1,139 @@
+{
+  "title": "Vepřová panenka s pepřovou omáčkou",
+  "keywords": [
+    "vepřová panenka s pepřovou omáčkou",
+    "vepřová panenka s omáčkou",
+    "vepřová panenka s omáčkou ze zeleného pepře",
+    "vepřová panenka s omáčkou a rýží"
+  ],
+  "image": "dish-panenka-pepr-na-priste",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 25,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek masa po pečení",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Vepřová panenka s pepřovou omáčkou a rýží: maso se opeče v pánvi, dopéká v troubě do 65 °C a nechá odpočinout, omáčka vznikne ve stejné pánvi ze zeleného pepře, vývaru a smetany. Těžké je netrefit se do suchého masa, proto se tu měří teplota.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-panenka",
+      "amount": 600,
+      "unit": "g",
+      "note": "1 panenka, očištěná od blan"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na maso"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "hrubě rozdrcený"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "najemno nakrájená",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "pepr-zeleny",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "slitý, třetina rozmačkaná vidličkou",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "horcice-dijonska",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ryze-dlouhozrnna",
+      "amount": 250,
+      "unit": "g",
+      "note": "propláchnutá",
+      "group": "Rýže"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Panenku vyndej z lednice 20 minut předem, osuš ji, očisti od zbytků blan a šlach, osol a obal v rozdrceném pepři. Troubu předehřej na 180 °C."
+    },
+    {
+      "text": "V ohnivzdorné pánvi rozehřej olej s máslem a panenku opékej na silnějším ohni ze všech stran 6 až 8 minut, dokud nezezlátne. Nepřepichuj ji, ať neztratí šťávu."
+    },
+    {
+      "text": "Pánev vlož na 10 až 12 minut do trouby. Maso je hotové, když teploměr v nejtlustším místě ukazuje 65 °C. Po odpočinku vystoupí asi na 68 až 70 °C a uvnitř zůstane jen nepatrně narůžovělé."
+    },
+    {
+      "text": "Panenku přendej na prkénko, přikryj volně alobalem a nech 10 minut odpočinout. Mezitím dej rýži s 500 ml vody a špetkou soli do hrnce, přiveď k varu, přikryj a vař na nejmenším plameni 15 minut. Pak ji nech 5 minut odstavenou pod poklicí."
+    },
+    {
+      "text": "Do pánve po mase přidej cibuli a opékej ji 2 minuty na středním ohni. Vmíchej zelený pepř, vývar a hořčici a vař 3 až 4 minuty. Vlij smetanu a povař dalších 4 až 5 minut, až omáčka obalí lžíci. Dosol podle chuti."
+    },
+    {
+      "text": "Panenku nakrájej na plátky silné 1,5 cm, šťávu z prkénka vlij do omáčky a podávej s rýží."
+    }
+  ],
+  "tips": [
+    "Panenka je libová a hned vyschne. Teploměr je tu levnější než zkoušení nožem, protože o 5 minut navíc je maso suché.",
+    "Zelený pepř v nálevu před použitím krátce propláchni, jinak bude omáčka kyselá.",
+    "Omáčku nezahušťuj moukou. Zhoustne sama redukcí a zůstane lehčí."
+  ],
+  "substitutions": [
+    "Smetanu na vaření lze nahradit smetanou ke šlehání (200 ml), omáčku pak vař o 2 minuty kratší dobu.",
+    "Zelený pepř nahradíš 1 lžící rozdrceného černého pepře, který přidáš k cibuli.",
+    "Místo rýže se hodí bramborová kaše nebo opečené brambory."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct vepřovou panenku?",
+      "a": "Při 180 °C stačí po opečení 10 až 12 minut, u silnější panenky o něco víc. Rozhoduje teplota uvnitř: 65 °C při vyndání, po 10 minutách odpočinku se vyrovná na 68 až 70 °C."
+    },
+    {
+      "q": "Jak poznám, že je panenka hotová?",
+      "a": "Nejjistější je teploměr. Bez něj plátek prořízni: šťáva má být čirá nebo lehce narůžovělá, ne krvavá. Maso při stisku pruží, ale nepůsobí gumově."
+    },
+    {
+      "q": "Dá se pepřová omáčka připravit dopředu?",
+      "a": "Ano, vydrží v lednici 2 dny. Před podáváním ji na mírném ohni prohřej a případně rozřeď lžící vývaru nebo smetany."
+    }
+  ]
+}

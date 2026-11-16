@@ -1,0 +1,117 @@
+{
+  "title": "Vepřová panenka minutka na pánvi",
+  "keywords": [
+    "vepřová panenka recept minutka",
+    "vepřová panenka na pánvi",
+    "vepřová panenka jako minutka",
+    "recepty z vepřové panenky"
+  ],
+  "image": "dish-panenka-minutka-na-priste",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Vepřová panenka minutka na pánvi je hotová za čtvrt hodiny: nakrájená na plátky, rychle opečená a politá česnekovým máslem. Úspěch spočívá v silné rozpálené pánvi a v tom, že se plátky nepřeplní, jinak se maso dusí a zešedne.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-panenka",
+      "amount": 500,
+      "unit": "g",
+      "note": "očištěná od blan"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na obalení plátků"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "rozmáčknuté"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Panenku očisti od blan, nakrájej na plátky silné 1,5 cm a lehce je naklepej dlaní nebo paličkou, aby měly stejnou tloušťku. Osol, opepři a z obou stran lehce obal v mouce, přebytek oklepej."
+    },
+    {
+      "text": "Velkou pánev nech rozpálit s olejem na vyšší teplotu. Plátky klaď vedle sebe tak, aby se nedotýkaly, a smaž po dávkách 1,5 až 2 minuty z každé strany, dokud nezezlátnou."
+    },
+    {
+      "text": "Hotové plátky přendej na teplý talíř. Maso má být uvnitř bez růžové barvy a při proříznutí vytékat čirá šťáva. Teplota uvnitř má dosáhnout alespoň 65 °C."
+    },
+    {
+      "text": "Do pánve vlož máslo, česnek a tymián a nech 1 minutu pěnit na středním ohni. Česnek nesmí zhnědnout. Přidej citronovou šťávu a 2 lžíce vody ze varné konvice, seškrábni výpek ze dna a vlij máslo na maso."
+    },
+    {
+      "text": "Posyp petrželkou a podávej ihned, ať se kůrka nerozmočí."
+    }
+  ],
+  "tips": [
+    "Pánev musí být opravdu horká. Při vkládání plátků má maso hlasitě zasyčet, jinak se začne dusit ve vlastní šťávě.",
+    "Nesmaž všechny plátky najednou. Plná pánev ztratí teplotu a maso zešedne a vyschne.",
+    "Mouku použij jen na tenkou vrstvu, kůrku ochrání a máslový výpek pak lehce zhoustne."
+  ],
+  "substitutions": [
+    "Máslo můžeš nahradit olivovým olejem, česnek pak přidej až na poslední minutu.",
+    "Místo tymiánu hodí se rozmarýn nebo sušená majoránka.",
+    "Mouku lze vynechat, plátky pak opékej bez obalu a jen osolené."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit vepřovou panenku na pánvi?",
+      "a": "Plátky silné 1,5 cm potřebují 1,5 až 2 minuty z každé strany na pořádně rozpálené pánvi. Tenčí plátky stačí obrátit po minutě."
+    },
+    {
+      "q": "Proč je panenka na pánvi tuhá?",
+      "a": "Nejčastěji se opéká příliš dlouho nebo na slabém ohni. Libové maso bez tuku vyschne už za pár minut navíc, proto smaž krátce a nepřeplňuj pánev."
+    },
+    {
+      "q": "Co je to minutka?",
+      "a": "Minutka je jídlo, které se vaří na pánvi velmi krátce z malých kousků masa a podává se hned. U panenky to znamená plátky nebo nudličky opečené za několik minut."
+    }
+  ]
+}

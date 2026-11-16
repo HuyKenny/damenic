@@ -1,0 +1,136 @@
+{
+  "title": "Smažené rýžové nudle s kuřecím masem a zeleninou",
+  "keywords": [
+    "rýžové nudle s kuřecím masem",
+    "smažené rýžové nudle",
+    "rýžové nudle s kuřecím masem a zeleninou",
+    "rýžové nudle se zeleninou",
+    "rýžové nudle"
+  ],
+  "image": "dish-ryzove-nudle-s-kurecim-wok",
+  "category": "asijska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 10,
+  "waitMinutes": 15,
+  "waitLabel": "namočení nudlí",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Smažené rýžové nudle s kuřecím masem se dělají na hodně horké pánvi za 10 minut. Rýžové nudle se předem namočí, ne uvaří, takže se na pánvi nerozpadnou. Recept je pro dva a nejvíc záleží na rychlosti: všechno si nachystej dopředu.",
+  "ingredients": [
+    {
+      "ingredient": "nudle-ryzove",
+      "amount": 150,
+      "unit": "g",
+      "note": "široké, 3 až 5 mm"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 250,
+      "unit": "g",
+      "note": "na tenké nudličky"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "na tenké hůlky"
+    },
+    {
+      "ingredient": "pak-choi",
+      "amount": 100,
+      "unit": "g",
+      "note": "nakrájené"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "ustricova-omacka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "volitelné"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nudle zalij horkou vodou o teplotě asi 80 °C a nech 12 až 15 minut změknout, dokud nejsou ohebné, ale uprostřed pevné. Okapej a promíchej s lžičkou oleje."
+    },
+    {
+      "text": "Sojovku smíchej s ústřicovou omáčkou a šťávou z limetky. Kuřecí osol a nech 5 minut odpočinout."
+    },
+    {
+      "text": "Ve woku nebo velké pánvi rozehřej 2 lžíce oleje na nejvyšší plamen. Kuřecí smaž 3 až 4 minuty do světle zlaté barvy, přidej česnek a zázvor a po půl minutě mrkev."
+    },
+    {
+      "text": "Přidej pak choi a po minutě odsuň zeleninu na stranu, na uvolněné místo rozklepni vejce a míchej 30 vteřin do sražení."
+    },
+    {
+      "text": "Přidej nudle a omáčku, a 2 minuty rychle promíchávej kleštěmi. Kuřecí musí mít uvnitř aspoň 75 °C. Posyp jarní cibulkou a podávej hned."
+    }
+  ],
+  "tips": [
+    "Nudle nevař jako do polévky, rozvaří se. Na smažení stačí je namočit.",
+    "Pánev nepřeplňuj: ve větším množství se nudle spíš dusí než smaží.",
+    "Wok nebo litinová pánev dává smaženému jídlu chuť, kterou obyčejná pánev jen napodobí."
+  ],
+  "substitutions": [
+    "Kuřecí lze nahradit tofu (250 g) nebo vejci.",
+    "Pak choi nahraď čínským zelím nebo mladým špenátem.",
+    "Ústřicovou omáčku nahraď 1 lžicí sojovky a špetkou cukru, pokud ji nemáš."
+  ],
+  "faq": [
+    {
+      "q": "Proč se rýžové nudle lepí?",
+      "a": "Jsou přeúdržené nebo se po namočení neokapaly. Po namočení je propláchni studenou vodou, okapej a smíchej s trochou oleje."
+    },
+    {
+      "q": "Jak dlouho namáčet rýžové nudle?",
+      "a": "Široké 12 až 15 minut v horké vodě, tenké 5 až 7 minut. Mají být ohebné, ale uvnitř pevné, doměkčí se na pánvi."
+    },
+    {
+      "q": "Jdou nudle připravit dopředu?",
+      "a": "Namočené a okapané vydrží přikryté v lednici do druhého dne. Smaž je ale čerstvé, hotové nudle se špatně ohřívají."
+    }
+  ]
+}

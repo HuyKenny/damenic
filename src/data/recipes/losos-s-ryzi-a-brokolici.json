@@ -1,0 +1,115 @@
+{
+  "title": "Losos s rýží a brokolicí v sójové glazuře",
+  "keywords": [
+    "losos s rýží recept",
+    "recept losos filet",
+    "filet z lososa recept",
+    "losos recept s omáčkou"
+  ],
+  "image": "dish-losos-s-ryzi-a-brokolici-miska",
+  "category": "asijska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Losos s rýží a brokolicí v sójové glazuře je jedna pánev, jeden hrnec a dvacet minut práce. Filet se opéká kůží dolů do křupava, pak se zalije glazurou ze sójové omáčky, medu a zázvoru. Recept je pro dva.",
+  "ingredients": [
+    {
+      "ingredient": "losos-filet",
+      "amount": 300,
+      "unit": "g",
+      "note": "2 porce s kůží"
+    },
+    {
+      "ingredient": "ryze-jasminova",
+      "amount": 160,
+      "unit": "g"
+    },
+    {
+      "ingredient": "brokolice",
+      "amount": 250,
+      "unit": "g",
+      "note": "na růžičky"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 8,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sezam",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 0.5,
+      "unit": "ks"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýži vař podle obalu, zhruba 12 minut, a dopař pod poklicí 5 minut. Brokolici dej na 3 až 4 minuty do páry nad rýží nebo ji spař v osolené vodě."
+    },
+    {
+      "text": "Sojovku smíchej s medem, zázvorem a prolisovaným česnekem."
+    },
+    {
+      "text": "Filety osuš a osol. Na rozpáleném oleji je opékej 4 minuty kůží dolů bez hýbání, dokud kůže nezkřupe."
+    },
+    {
+      "text": "Otoč, ubav plamen a smaž 2 až 3 minuty. Přilij glazuru a nech 1 minutu zhoustnout a lžící přelévej. Losos je hotový, když se maso snadno láme a uvnitř je 55 až 60 °C, nebo 63 °C pokud ho chceš více propečený."
+    },
+    {
+      "text": "Podávej na rýži s brokolicí, polij glazurou, pokapej limetkou a posyp sezamem."
+    }
+  ],
+  "tips": [
+    "Kůže musí být suchá a pánev horká, jinak se přilepí.",
+    "Glazuru lej na rybu až na závěr, med by na silném ohni zhořkl.",
+    "Brokolici vař jen krátce, ať je svěží."
+  ],
+  "substitutions": [
+    "Jasmínovou rýži nahraď basmati.",
+    "Brokolici lze nahradit pak choi, fazolkami nebo chřestem.",
+    "Med nahraď javorovým sirupem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit lososa na pánvi?",
+      "a": "Filet o tloušťce 3 cm asi 4 minuty ze strany kůže a 2 až 3 minuty z druhé. Kůže se má stát křupavou."
+    },
+    {
+      "q": "Jak poznat, že je losos hotový?",
+      "a": "Maso se láme na vločky a je uvnitř růžové. Teplota je mezi 55 a 63 °C podle toho, jak moc ho chceš propečený."
+    },
+    {
+      "q": "Dá se glazura udělat dopředu?",
+      "a": "Ano, vydrží v lednici 3 dny. Nanes ji až na závěr smažení, aby neshořela."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Pečeně Na Příště",
+  "category": "ceska",
+  "cuisine": "Pečená masa a omáčky",
+  "tagline": "Maso se peče pomalu. K tobě pomalu nejede nic.",
+  "description": "Panenka v pepřové omáčce, králík na smetaně a kachní stehna se tu pečou jen v receptech. Podnik je smyšlený, takže trouba zůstává studená, ale postupy jsou skutečné a vyzkoušené.",
+  "etaMinutes": 40,
+  "deliveryFee": 3900,
+  "minOrder": 19900,
+  "priceLevel": 3,
+  "hours": {
+    "open": "11:00",
+    "close": "22:00"
+  },
+  "pickup": true,
+  "tags": [
+    "rodinné porce"
+  ],
+  "logo": {
+    "text": "PN",
+    "color": "#7A2E2E",
+    "ink": "light"
+  },
+  "sections": [
+    "Vepřová panenka",
+    "Drůbež a králík",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 560,
+  "isNew": true,
+  "cover": "rest-peceni-na-priste"
+}

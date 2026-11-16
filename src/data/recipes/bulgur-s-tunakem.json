@@ -1,0 +1,126 @@
+{
+  "title": "Bulgur s tuňákem",
+  "keywords": [
+    "bulgur recept s tuňákem",
+    "bulgur s tuňákem",
+    "teplý salát s bulgurem a tuňákem",
+    "bulgur s tuňákem a zeleninou"
+  ],
+  "image": "dish-bulgur-s-tunakem",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 15,
+  "waitMinutes": 5,
+  "waitLabel": "odpočinutí bulguru",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Bulgur s tuňákem je rychlé jídlo z konzervy a spíže. Bulgur se uvaří v dvojnásobném množství vody, smíchá s tuňákem, rajčaty, okurkou a olivami a dochutí citronem. Jí se teplý, vlažný i studený.",
+  "ingredients": [
+    {
+      "ingredient": "bulgur",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "tunak-konzerva",
+      "amount": 320,
+      "unit": "g",
+      "note": "2 plechovky, odkapaný"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 150,
+      "unit": "g",
+      "note": "rozpůlená"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "olivy",
+      "amount": 40,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Bulgur propláchni v sítku. Dej ho do hrnce, zalij vodou, přidej půl lžičky soli a přiveď k varu."
+    },
+    {
+      "text": "Přiklop a vař na nejmenším plameni 12 až 15 minut, až se voda vsákne. Hrnec odstav a nech 5 minut stát pod pokličkou, potom nakypři vidličkou a nech trochu zchladnout."
+    },
+    {
+      "text": "Zatím nakrájej rajčata, okurku, cibuli a olivy. Tuňáka odkapej a rozděl vidličkou na velké kousky."
+    },
+    {
+      "text": "Bulgur smíchej se zeleninou, olejem a citronovou šťávou. Přidej tuňáka, petrželku, sůl a pepř, jemně promíchej, aby se tuňák příliš nerozpadl."
+    }
+  ],
+  "tips": [
+    "Tuňáka přidávej až na konec a míchej opatrně, jinak z něj bude kaše.",
+    "Bulgur se nejlépe dochucuje, dokud je ještě teplý. Studený chutě nasákne hůř."
+  ],
+  "substitutions": [
+    "Tuňáka nahradíš cizrnou z konzervy, pokud nejíš ryby.",
+    "Olivy nahradíš kapary nebo nakládanými okurkami.",
+    "Bulgur nahradíš kuskusem, který se jen zalije."
+  ],
+  "faq": [
+    {
+      "q": "Dá se bulgur s tuňákem jíst studený?",
+      "a": "Ano, v lednici vydrží 2 dny a chutná i jako obědová krabička. Tuňák je ale lepší přidat až těsně před jídlem."
+    },
+    {
+      "q": "Jaký tuňák vybrat?",
+      "a": "Do tohoto jídla se hodí tuňák ve vlastní šťávě, olejový není nutný, protože jídlo dostane olivový olej."
+    },
+    {
+      "q": "Jak uvařit bulgur, aby nebyl mazlavý?",
+      "a": "Dodrž poměr 1 : 2, v průběhu nemíchej a po vaření ho nech 5 minut odpočinout a nakypři vidličkou."
+    }
+  ]
+}

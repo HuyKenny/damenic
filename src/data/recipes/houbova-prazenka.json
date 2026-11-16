@@ -1,0 +1,107 @@
+{
+  "title": "Houbová praženice s vejci",
+  "keywords": [
+    "bezmasé recepty našich babiček",
+    "staročeské bezmasé recepty",
+    "bezmasá hlavní jídla recepty",
+    "bezmasé recepty"
+  ],
+  "image": "dish-houbova-prazenka-odlozeny-budik",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Houbová praženice s vejci je staročeské bezmasé jídlo z žampionů, cibule a vajec. Houby se nejdřív smaží, až pustí vodu a ta se odpaří, teprve potom se přidají vejce. Jinak by byla praženice vodnatá a houby by chutnaly nijak.",
+  "ingredients": [
+    {
+      "ingredient": "zampiony",
+      "amount": 400,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "jemně nakrájená"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 120,
+      "unit": "g",
+      "note": "k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na široké pánvi rozpusť polovinu másla a na středním ohni osmahni cibuli 4 minuty do sklovita."
+    },
+    {
+      "text": "Přidej houby, osol a smaž 8 až 10 minut, dokud nepustí vodu a ta se neodpaří. Houby začnou zlátnout."
+    },
+    {
+      "text": "Vejce rozšlehej s pepřem a špetkou kmínu. Přidej zbylé máslo, vlij vejce a za stálého míchání nech 2 až 3 minuty srazit."
+    },
+    {
+      "text": "Praženici stáhni z ohně, dokud je ještě lehce vlhká, nedopéká se při podávání. Posyp pažitkou a podávej s chlebem."
+    }
+  ],
+  "tips": [
+    "Houby nesol hned na začátku, při solení ztratí vodu a nezhnědnou.",
+    "Nepřeplňuj pánev, houby by se dusily, místo aby se smažily.",
+    "Vejce nesmí vařit moc dlouho, jinak jsou suchá."
+  ],
+  "substitutions": [
+    "Žampiony nahraď směsí hlívy a žampionů.",
+    "Vejce nahraď 200 g tofu rozdrobeného s kurkumou."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat houbovou praženici, aby nebyla vodnatá?",
+      "a": "Houby smaž ve větší pánvi, dokud se voda úplně neodpaří. Teprve pak přidej vejce."
+    },
+    {
+      "q": "Lze použít sušené houby?",
+      "a": "Ano, namoč 30 g sušených hub na 20 minut ve vodě, vymačkej a přidej k žampionům."
+    },
+    {
+      "q": "Je to bezmasé jídlo i pro vegetariány?",
+      "a": "Ano, neobsahuje maso ani ryby. Obsahuje vejce a máslo."
+    }
+  ]
+}

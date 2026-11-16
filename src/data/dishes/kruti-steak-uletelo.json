@@ -1,0 +1,22 @@
+{
+  "name": "Krůtí steak s bylinkovým máslem",
+  "restaurant": "bistro-uletelo",
+  "kind": "main",
+  "section": "Kuře",
+  "description": "Plátek krůtích prsou z pánve, česnekové máslo, tymián a citron. Šťavnatý v receptu, nepřítomný na talíři.",
+  "about": [
+    "Krůta je libovější než kuře a v kuchyni neodpouští. Z prsou se proto krájí steaky silné necelé dva centimetry, ty se naklepou a rychle opečou na pánvi. Česnekové máslo na konci dělá z libového masa něco, co chceš dojíst.",
+    "Doma na něj potřebuješ dvacet minut, jednu pánev a teploměr. Na dnešek máš recept. Krůtu ti nikdo nepřivezl a nepřiveze."
+  ],
+  "price": 21900,
+  "image": "dish-kruti-steak-uletelo",
+  "recipe": "kruti-maso-na-panvi",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 90
+}

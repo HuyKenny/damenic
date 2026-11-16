@@ -1,0 +1,16 @@
+{
+  "name": "Restované žampiony s česnekem",
+  "restaurant": "chata-pristi-sezona",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Zlatohnědé plátky žampionů s máslem, česnekem a tymiánem.",
+  "about": [],
+  "price": 8900,
+  "image": "dish-restovane-zampiony-chata",
+  "recipe": "restovane-zampiony",
+  "vegetarian": true,
+  "order": 10,
+  "allergens": [
+    7
+  ]
+}

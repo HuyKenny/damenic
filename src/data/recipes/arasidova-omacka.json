@@ -1,0 +1,107 @@
+{
+  "title": "Arašídová omáčka",
+  "keywords": [
+    "arašídová omáčka recept",
+    "arašídová omáčka",
+    "arašídová omáčka k masu",
+    "omáčka z arašídového másla"
+  ],
+  "image": "dish-arasidova-omacka",
+  "category": "asijska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 5,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Arašídová omáčka spojí arašídové máslo, sójovou omáčku, limetku a kokosové mléko do hladkého krému za deset minut. Hodí se na špízy, rýži, nudle a jarní závitky. Nejlépe ji uděláš z arašídového másla bez cukru.",
+  "ingredients": [
+    {
+      "ingredient": "arasidove-maslo",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "hladké, bez cukru"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kokosove-mleko",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "limetka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "najemno nastrouhaný"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 50,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V menším hrnci smíchej arašídové máslo, sójovou omáčku, med, česnek, zázvor a chilli vločky. Míchej metlou, dokud se nevytvoří hladká pasta."
+    },
+    {
+      "text": "Postupně přilévej kokosové mléko a vodu. Na mírném plameni míchej 3 až 5 minut, aby se omáčka prohřála a zhoustla."
+    },
+    {
+      "text": "Omáčku nevař prudce, arašídové máslo se může oddělit. Stáhni hrnec z plotny a vmíchej limetkovou šťávu."
+    },
+    {
+      "text": "Ochutnej a dochuť. Podle potřeby přidej víc medu, sójové omáčky nebo vody. Podávej teplou nebo vlažnou."
+    }
+  ],
+  "tips": [
+    "Po vychladnutí omáčka zhoustne. Před použitím ji zřeď vodou po lžících.",
+    "Arašídy jsou častý alergen. Pokud vaříš pro další lidi, dej na ně pozor."
+  ],
+  "substitutions": [
+    "Arašídové máslo nahradíš mandlovým nebo tahini, chuť se ale změní.",
+    "Kokosové mléko nahradíš stejným množstvím vody s lžící oleje, omáčka bude řidší.",
+    "Med nahradíš javorovým sirupem, omáčka pak bude veganská."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží arašídová omáčka?",
+      "a": "V zavřené nádobě v lednici asi 5 dní. Před použitím ji zahřej a případně zřeď vodou."
+    },
+    {
+      "q": "Proč se arašídová omáčka srazila?",
+      "a": "Byla příliš horká. Stáhni ji z ohně, přidej lžíci vody a energicky ji prošlehej, většinou se zase spojí."
+    },
+    {
+      "q": "K čemu se arašídová omáčka podává?",
+      "a": "K špízům z kuřecího masa, jarním závitkům, nudlím, rýži a zelenině."
+    }
+  ]
+}

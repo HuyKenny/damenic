@@ -1,0 +1,81 @@
+{
+  "title": "Bulgur jako příloha",
+  "keywords": [
+    "bulgur recept",
+    "jak uvařit bulgur",
+    "bulgur jako příloha",
+    "vařený bulgur"
+  ],
+  "image": "dish-bulgur",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 5,
+  "cookMinutes": 15,
+  "waitMinutes": 5,
+  "waitLabel": "odpočinutí pod pokličkou",
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Bulgur je předvařená a sušená pšenice, která se vaří 12 až 15 minut v dvojnásobném množství vody. Vyjde nadýchaný, ořechový a nelepí se jako rýže. Správný poměr je 1 díl bulguru na 2 díly vody a pět minut odpočinku pod pokličkou.",
+  "ingredients": [
+    {
+      "ingredient": "bulgur",
+      "amount": 200,
+      "unit": "g",
+      "note": "střední nebo hrubý"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 400,
+      "unit": "ml",
+      "note": "vroucí"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Bulgur propláchni v sítku pod studenou vodou a nech okapat. Tím odstraníš prach a škrob."
+    },
+    {
+      "text": "V hrnci s pokličkou rozehřej olej a bulgur na něm krátce, asi 1 minutu, opraž. Získá oříškovou vůni a nebude slepený."
+    },
+    {
+      "text": "Zalij vroucí vodou, přidej sůl, přiklop a vař na nejmenším plameni 12 až 15 minut, dokud bulgur nevsákne všechnu vodu."
+    },
+    {
+      "text": "Hrnec odstav z plotny, nech ho 5 minut pod pokličkou a pak bulgur nakypři vidličkou. Podávej k masu, zelenině nebo jako základ salátu."
+    }
+  ],
+  "tips": [
+    "Během vaření do hrnce nemíchej a poklici nezvedej. Pára dokončí práci a bulgur zůstane sypký.",
+    "Jemný bulgur se nevaří, stačí ho zalít vroucí vodou ve stejném poměru a nechat 10 minut nabobtnat."
+  ],
+  "substitutions": [
+    "Olej můžeš nahradit lžící másla pro jemnější chuť.",
+    "Vodu nahradíš zeleninovým nebo kuřecím vývarem, bulgur bude plnější.",
+    "Bulgur můžeš nahradit kuskusem, ten se ale jen zalévá a nabobtná rychleji."
+  ],
+  "faq": [
+    {
+      "q": "Kolik bulguru na jednu porci?",
+      "a": "Jako přílohu počítej 50 až 60 g suchého bulguru na osobu, po uvaření je to přibližně dvojnásobek."
+    },
+    {
+      "q": "Je bulgur bezlepkový?",
+      "a": "Ne. Bulgur se vyrábí z pšenice a obsahuje lepek."
+    },
+    {
+      "q": "Proč je bulgur po uvaření mazlavý?",
+      "a": "Použil jsi příliš mnoho vody nebo jsi bulgur míchal. Dodržuj poměr 1:2, nemíchej a po vaření ho nakypři vidličkou."
+    }
+  ]
+}

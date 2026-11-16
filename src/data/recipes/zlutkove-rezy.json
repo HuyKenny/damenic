@@ -1,0 +1,126 @@
+{
+  "title": "Žloutkové řezy",
+  "keywords": [
+    "žloutkové řezy recept",
+    "žloutkové řezy",
+    "žloutkové řezy s pudinkem"
+  ],
+  "image": "dish-zlutkove-rezy-nedortik",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 40,
+  "cookMinutes": 20,
+  "waitMinutes": 120,
+  "waitLabel": "chladnutí a ztuhnutí krému",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Žloutkové řezy mají žlutý korpus z šesti žloutků, máslový pudinkový krém a čokoládovou polevu. Základ je vláčný, protože je z mnoha žloutků, krém se šlehá z vychladlého pudinku a másla stejné teploty, aby se nesrazil.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 6,
+      "unit": "ks",
+      "note": "oddělené žloutky a 3 bílky (zbylé bílky na jiný recept)",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 37,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 400,
+      "unit": "ml",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 45,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "pokojové teploty",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 175 °C (horkovzduch 160 °C). Plech 25 × 35 cm vyloži pečicím papírem."
+    },
+    {
+      "text": "Žloutky vyšlehej se 100 g cukru do husté světlé pěny. Tři bílky ušlehej se špetkou soli a zbylými 50 g cukru do tuhého sněhu."
+    },
+    {
+      "text": "Sníh a mouku střídavě vmíchej do žloutků po třetinách. Těsto rozetři na plech, peč 18 až 20 minut. Vyklop na mřížku a nech vychladnout."
+    },
+    {
+      "text": "Pudink uvař: 80 ml mléka rozmíchej s práškem, zbytek mléka s cukrem přiveď k varu, vmíchej a 1 minutu povař. Přikryj fólií a vychladni na pokojovou teplotu."
+    },
+    {
+      "text": "Máslo ušlehej do pěny a po lžících do něj zašlehej pudink. Krém rozetři na korpus a dej na 30 minut do lednice."
+    },
+    {
+      "text": "Čokoládu rozpusť s máslem ve vodní lázni, lehce nech vychladnout a rozetři na krém. Nech 1 hodinu ztuhnout v lednici, nakrájej."
+    }
+  ],
+  "tips": [
+    "Máslo a pudink musí mít stejnou teplotu, jinak se krém sráží. Pokud se sráží, šlehej nad horkou vodou.",
+    "Čokoládovou polevu nech před nanesením trochu zchladnout.",
+    "V lednici vydrží 3 dny."
+  ],
+  "substitutions": [
+    "Pudink vanilkový nahraď smetanovým nebo čokoládovým.",
+    "Hořkou čokoládu na polevu nahraď mléčnou, bude sladší."
+  ],
+  "faq": [
+    {
+      "q": "Proč se mi krém sráží?",
+      "a": "Pudink byl studený a máslo teplé, nebo naopak. Oba musí mít pokojovou teplotu. Když se krém srazí, šlehej ho nad horkou vodou, spojí se."
+    },
+    {
+      "q": "Co s bílky ze žloutkových řezů?",
+      "a": "Z šesti vajec použiješ jen tři bílky do sněhu. Zbylé tři bílky využij na pusinky nebo omeletu."
+    },
+    {
+      "q": "Kolik řezů z receptu vyjde?",
+      "a": "Asi 12 dílů na plechu 25 × 35 cm."
+    }
+  ]
+}

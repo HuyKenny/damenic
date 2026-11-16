@@ -1,0 +1,22 @@
+{
+  "name": "Cheddarová omáčka",
+  "restaurant": "burger-nikdy",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Rozpuštěný cheddar, mléko a máslo. Na hranolky, nachos i burgery.",
+  "about": [],
+  "price": 3900,
+  "image": "dish-cheddarova-omacka",
+  "recipe": "cheddarova-omacka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 510
+}

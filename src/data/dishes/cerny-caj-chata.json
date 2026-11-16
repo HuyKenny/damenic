@@ -1,0 +1,15 @@
+{
+  "name": "Černý čaj s citronem",
+  "restaurant": "chata-pristi-sezona",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Konvička horkého černého čaje s plátkem citronu.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-cerny-caj-chata",
+  "recipe": null,
+  "vegetarian": true,
+  "vegan": true,
+  "order": 20,
+  "allergens": []
+}

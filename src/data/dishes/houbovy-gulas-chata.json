@@ -1,0 +1,20 @@
+{
+  "name": "Houbový guláš",
+  "restaurant": "chata-pristi-sezona",
+  "kind": "main",
+  "section": "Houbová jídla",
+  "description": "Žampiony a sušené houby v gulášové omáčce z cibule a papriky.",
+  "about": [
+    "Bezmasý guláš stojí na cibuli a houbách. Žampiony se smaží po částech do zhnědnutí a doplní se sušenými houbami, které dodají lesní chuť.",
+    "Guláš je hotový za 40 minut, ne za 3 hodiny. Rychlejší než doručení, i když je to těžké poznat."
+  ],
+  "price": 22900,
+  "image": "dish-houbovy-gulas-chata",
+  "recipe": "houbovy-gulas",
+  "vegetarian": true,
+  "vegan": true,
+  "order": 20,
+  "allergens": [
+    1
+  ]
+}

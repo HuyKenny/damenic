@@ -1,0 +1,20 @@
+{
+  "name": "Těstoviny s kuřecím a smetanou",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Těstoviny a lasagne",
+  "description": "Kuřecí nudličky a žampiony ve smetanové omáčce s parmazánem.",
+  "about": [
+    "Smetanová omáčka s kuřecím je z pánve za deset minut: kuře se opéká v dávkách, aby zezlátlo a nedusilo se, a žampiony se solí až po zhnědnutí. Parmazán a voda z těstovin ji spojí.",
+    "Domani znamená zítra. Doručení je naplánované na stejný den jako vždycky."
+  ],
+  "price": 22900,
+  "image": "dish-testoviny-s-kurecim-a-smetanou-domani",
+  "recipe": "testoviny-s-kurecim-masem-a-smetanou",
+  "vegetarian": false,
+  "order": 100,
+  "allergens": [
+    1,
+    7
+  ]
+}

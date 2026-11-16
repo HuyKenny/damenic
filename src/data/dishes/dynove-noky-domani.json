@@ -1,0 +1,21 @@
+{
+  "name": "Dýňové noky s máslem",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Rizoto a gnocchi",
+  "description": "Noky z pečené dýně hokkaido s hnědým máslem a parmazánem.",
+  "about": [
+    "Dýně se peče, ne vaří, protože suchá dužina potřebuje méně mouky a noky pak zůstanou lehké. Těsto se zpracuje jen do hladkého, jinak vyjdou tvrdé.",
+    "Hnědé máslo voní jako podzim, i když dnes nic nedorazí."
+  ],
+  "price": 22900,
+  "image": "dish-dynove-noky-domani",
+  "recipe": "dynove-noky",
+  "vegetarian": true,
+  "order": 70,
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

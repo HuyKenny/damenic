@@ -1,0 +1,22 @@
+{
+  "name": "Smažená rýže s kuřecím a vejcem",
+  "restaurant": "wok-nic-moc",
+  "kind": "main",
+  "section": "Rýže a kari",
+  "description": "Rýže ze včerejška, kuřecí, hrášek, vejce a sójová omáčka.",
+  "about": [
+    "Smažená rýže se dělá z rýže uvařené den předem, protože vychladlá je suchá a zrnka se k sobě nelepí. Wok musí být rozpálený a rýže se musí smažit, ne dusit.",
+    "Zbytky rýže se tady povyšují na hlavní jídlo. Jediné, co zbývá, je doručení."
+  ],
+  "price": 19900,
+  "image": "dish-smazena-ryze-s-kurecim-wok",
+  "recipe": "smazena-ryze-s-kurecim-masem",
+  "vegetarian": false,
+  "order": 45,
+  "allergens": [
+    1,
+    3,
+    6,
+    11
+  ]
+}

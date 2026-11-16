@@ -1,0 +1,25 @@
+{
+  "name": "Svatební koláče",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "description": "Velké kynuté koláče s tvarohem, povidly a mákem, s drobenkou.",
+  "about": [
+    "Svatební koláče se pekly na svatby a každý host dostal jeden. Jsou velké, kynuté a plněné trojí náplní. Dělají se v den, kdy je čas a máme chuť na něco většího.",
+    "U nás se svatba nekoná a hosté jsou smyšlení. Koláče ale můžeš upéct opravdové, na jedno odpoledne."
+  ],
+  "price": 11900,
+  "image": "dish-svatebni-kolace-kolac-na-slib",
+  "recipe": "svatebni-kolace",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 130
+}

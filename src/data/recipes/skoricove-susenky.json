@@ -1,0 +1,108 @@
+{
+  "title": "Skořicové sušenky",
+  "keywords": [
+    "skořicové sušenky recept",
+    "skořicové sušenky",
+    "skořicové sušenky křehké"
+  ],
+  "image": "dish-skoricove-susenky-zitra-upecem",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 25,
+  "cookMinutes": 12,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Skořicové sušenky jsou křehké kuličky obalené ve skořicovém cukru, asi 40 kusů z jedné dávky. Těsto se válí jen lehce a koulí v dlani, takže se hodí i pro děti, které chtějí pomáhat.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "měkké"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "note": "do těsta"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "do těsta"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na obalení",
+      "group": "Obalení"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na obalení",
+      "group": "Obalení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Máslo utři s 80 g cukru do pěny, přidej vejce a skořici. Směs prošlehej 1 až 2 minuty."
+    },
+    {
+      "text": "Přidej mouku smíchanou s práškem do pečiva a vypracuj hladké těsto. Zabal ho a nech 30 minut odpočinout v lednici."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 165 °C). Na misce smíchej 3 lžíce cukru s lžičkou skořice."
+    },
+    {
+      "text": "Z těsta formuj kuličky velikosti vlašského ořechu (asi 15 g), obal je ve skořicovém cukru a ulož na plech s pečicím papírem s mezerami 3 cm. Každou lehce přitlač dlaní."
+    },
+    {
+      "text": "Peč 10 až 12 minut, dokud okraje lehce nezezlátnou. Sušenky mají být po vyjmutí měkké, ztuhnou při chladnutí. Nech je 5 minut na plechu."
+    }
+  ],
+  "tips": [
+    "Kuličky stejné velikosti se upečou stejně. Porci odvaž nebo odměř lžící.",
+    "Pokud chceš výraznější skořici, přidej do těsta navíc půl lžičky skořice.",
+    "Vydrží 10 dní v dóze, těsto bez obalení zmrazené 2 měsíce."
+  ],
+  "substitutions": [
+    "Část hladké mouky můžeš nahradit celozrnnou, sušenky budou hrubší.",
+    "Máslo lze nahradit rostlinným tukem ve stejném množství, chuť bude méně máslová."
+  ],
+  "faq": [
+    {
+      "q": "Jak poznám, že jsou skořicové sušenky upečené?",
+      "a": "Okraje jsou lehce zlaté a povrch pukne. Vyndané jsou měkké, na plechu během 5 minut ztuhnou."
+    },
+    {
+      "q": "Kolik skořicových sušenek vyjde z receptu?",
+      "a": "Asi 40 kusů při váze kuličky 15 g, tedy 8 porcí po pěti kusech."
+    },
+    {
+      "q": "Dá se těsto na skořicové sušenky připravit dopředu?",
+      "a": "Ano. Těsto vydrží v lednici 2 dny zabalené v potravinové fólii a zmrazené 2 měsíce. Před pečením ho nech 15 minut změknout."
+    }
+  ]
+}

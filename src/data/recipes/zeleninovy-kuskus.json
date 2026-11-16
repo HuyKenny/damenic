@@ -1,0 +1,121 @@
+{
+  "title": "Zeleninový kuskus",
+  "keywords": [
+    "zeleninový kuskus recept",
+    "kuskus se zeleninou",
+    "kuskus jako příloha",
+    "jak uvařit kuskus"
+  ],
+  "image": "dish-zeleninovy-kuskus",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 5,
+  "waitLabel": "nabobtnání kuskusu",
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Zeleninový kuskus je příloha, kterou zvládneš za 25 minut. Kuskus se zalévá vroucím vývarem v poměru 1 : 1,25 a nechá se pět minut nabobtnat. Zelenina se opeče na olivovém oleji a při podávání se promíchá s kuskusem.",
+  "ingredients": [
+    {
+      "ingredient": "kuskus",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vroucí"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cuketa",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na pánvi rozehřej olivový olej a osmahni na něm cibuli 2 minuty, potom přidej mrkev a smaž 3 minuty. Dále přidej papriku a cuketu a smaž ještě 4 až 5 minut, zelenina má být měkká, ale ne rozvařená."
+    },
+    {
+      "text": "Kuskus nasyp do misky, zalij ho vroucím vývarem, přikryj talířem a nech 5 minut nabobtnat."
+    },
+    {
+      "text": "Kuskus nakypři vidličkou, aby se zrnka oddělila."
+    },
+    {
+      "text": "Smíchej ho s osmaženou zeleninou, ochuť citronovou šťávou, solí, pepřem a mátou. Podávej teplý nebo vlažný."
+    }
+  ],
+  "tips": [
+    "Kuskus nevař. Stačí ho zalít a nechat nabobtnat, jinak bude kašovitý.",
+    "Pro sypký kuskus přidej lžíci oleje do vývaru, zrnka se nebudou lepit."
+  ],
+  "substitutions": [
+    "Vývar nahradíš vodou se špetkou soli.",
+    "Zeleninu nahradíš podle sezóny, hodí se i lilek, brokolice nebo hrášek.",
+    "Kuskus můžeš nahradit bulgurem, ten ale potřebuje 12 až 15 minut vaření."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je poměr kuskusu a vody?",
+      "a": "Na 1 díl kuskusu počítej 1,25 dílu vroucí tekutiny. Například 200 g kuskusu a 250 ml vývaru."
+    },
+    {
+      "q": "Je kuskus bezlepkový?",
+      "a": "Ne. Kuskus se vyrábí z pšenice a obsahuje lepek."
+    },
+    {
+      "q": "Dá se zeleninový kuskus připravit den předem?",
+      "a": "Ano. V lednici vydrží 2 až 3 dny, ohřej ho na pánvi s lžící vody nebo ho jez studený jako salát."
+    }
+  ]
+}

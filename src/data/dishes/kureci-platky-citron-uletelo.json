@@ -1,0 +1,24 @@
+{
+  "name": "Kuřecí plátky s citronem",
+  "restaurant": "bistro-uletelo",
+  "kind": "main",
+  "section": "Kuře",
+  "description": "Tenké plátky kuřecích prsou z pánve v citronovém másle s tymiánem a petrželkou.",
+  "about": [
+    "Tenký plátek kuřete je nejrychlejší oběd, který se dá z masa udělat. Prso se rozřízne, naklepe a obalí v mouce. Pánev udělá zbytek za osm minut a citronové máslo ze dna pánve je omáčka, kterou neděláš zvlášť.",
+    "Hodí se na večer, kdy se ti nechce nic. My to chápeme, nic taky nedoručujeme."
+  ],
+  "price": 18900,
+  "image": "dish-kureci-platky-citron-uletelo",
+  "recipe": "kureci-platky-s-citronem",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9
+  ],
+  "order": 110
+}

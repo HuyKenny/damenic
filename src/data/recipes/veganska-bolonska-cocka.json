@@ -1,0 +1,127 @@
+{
+  "title": "Veganské špagety s čočkou",
+  "keywords": [
+    "veganské recepty",
+    "veganské recepty oběd",
+    "bezmasé obědy recepty"
+  ],
+  "image": "dish-veganska-bolonska-cocka-ani-drobek",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Veganská bolonská omáčka z červené čočky vyjde na 3 porce a je hotová za 45 minut. Červená čočka se rozvaří do husté omáčky, takže nepotřebuje předem namáčet. Základem je pořádně opečená zelenina a protlak.",
+  "ingredients": [
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "jemně nakrájená"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 120,
+      "unit": "g",
+      "note": "nastrouhaná"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisované"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "protlak"
+    },
+    {
+      "ingredient": "cocka-cervena",
+      "amount": 150,
+      "unit": "g",
+      "note": "propláchnutá"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "spagety",
+      "amount": 250,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej olej a na středním ohni osmahni cibuli a mrkev 6 minut, dokud nezměknou. Přidej česnek a 30 sekund restuj."
+    },
+    {
+      "text": "Vmíchej protlak a smaž 2 minuty, dokud nezhnědne. Přidej čočku, passatu, vývar, oregano a bobkový list."
+    },
+    {
+      "text": "Přiveď k varu, přikryj a vař na mírném ohni 20 až 25 minut, občas promíchej, až čočka změkne a omáčka zhoustne. Osol a opepři."
+    },
+    {
+      "text": "Mezitím uvař špagety podle návodu v osolené vodě. Omáčku podle potřeby zřeď vodou z těstovin. Podávej na špagetách."
+    }
+  ],
+  "tips": [
+    "Červená čočka se rozvaří za 15 až 20 minut, hnědá potřebuje víc času.",
+    "Chuť omáčky se prohloubí, když ji necháš den odpočinout.",
+    "Omáčka se dá zmrazit 3 měsíce."
+  ],
+  "substitutions": [
+    "Do omáčky lze přidat nakrájené žampiony nebo sušená rajčata.",
+    "Špagety nahraď rýží nebo bezlepkovými špagetami."
+  ],
+  "faq": [
+    {
+      "q": "Musí se červená čočka namáčet?",
+      "a": "Ne, stačí ji propláchnout. Červená čočka se vaří 15 až 20 minut."
+    },
+    {
+      "q": "Jak dochutit veganskou bolonskou?",
+      "a": "Dej lžíci protlaku, bobkový list a oregano. Na konec lžičku octa nebo sojové omáčky pro hloubku chuti."
+    },
+    {
+      "q": "Jde omáčku zmrazit?",
+      "a": "Ano, vydrží 3 měsíce, před použitím ji rozmraz v lednici."
+    }
+  ]
+}

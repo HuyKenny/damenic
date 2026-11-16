@@ -1,0 +1,22 @@
+{
+  "name": "Restované brambory s vejcem",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "main",
+  "section": "Těstoviny a brambory",
+  "description": "Zlatavé brambory s cibulí, paprikou a kmínem a smaženým vejcem navrch.",
+  "about": [
+    "Restované brambory jsou jídlo z kategorie na všem, co máš doma. Brambory, cibule, paprika, kmín a vejce, nic víc. Předvaření zkrátí smažení a zaručí, že budou uvnitř měkké a zvenčí zlaté.",
+    "Tady je spíž prázdná, což se hodí k jídlu z ničeho. Recept je skutečný, brambory si ale koupíš sám."
+  ],
+  "price": 12900,
+  "image": "dish-brambory-vejce-hotovo",
+  "recipe": "restovane-brambory-s-vejcem",
+  "featured": false,
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3
+  ],
+  "order": 120
+}

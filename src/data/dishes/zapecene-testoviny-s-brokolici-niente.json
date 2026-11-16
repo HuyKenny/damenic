@@ -1,0 +1,20 @@
+{
+  "name": "Zapečené těstoviny s brokolicí",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Brokolice v sýrové omáčce a těstoviny pod zlatou kůrkou, bez masa.",
+  "about": [
+    "Brokolice putuje do vody s těstovinami až na poslední tři minuty. V troubě se dodělá a zůstane svěže zelená. Jídlo bez masa, které bez problému zasytí.",
+    "Zelená, sýrová a stoprocentně nedoručitelná. Aspoň máš co dělat s tím zbytkem brokolice v lednici."
+  ],
+  "price": 20900,
+  "image": "dish-zapecene-testoviny-s-brokolici-niente",
+  "recipe": "zapecene-testoviny-s-brokolici",
+  "vegetarian": true,
+  "order": 140,
+  "allergens": [
+    1,
+    7
+  ]
+}

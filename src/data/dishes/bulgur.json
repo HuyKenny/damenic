@@ -1,0 +1,20 @@
+{
+  "name": "Bulgur, kopeček",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Nadýchaný pšeničný bulgur. Příloha, která se na rozdíl od rýže nelepí.",
+  "about": [],
+  "price": 3900,
+  "image": "dish-bulgur",
+  "recipe": "bulgur",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "featured": false,
+  "order": 580
+}

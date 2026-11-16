@@ -1,0 +1,20 @@
+{
+  "name": "Ovocný salát s medem",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Fit snídaně",
+  "description": "Jablka, pomeranče, banán, jahody a borůvky s citronem a lžící medu.",
+  "about": [
+    "Ovocný salát je dezert, který nedělá výčitky. Ovoce se nakrájí na stejně velké kousky, polije citronem s medem a banán přijde až nakonec, aby nezhnědl.",
+    "Nejlepší je do dvou hodin po přípravě. Salátbar ti nedodá ani lístek, ovoce ale koupíš v běžném obchodě."
+  ],
+  "price": 12900,
+  "image": "dish-ovocny-salat-ani-listek",
+  "recipe": "ovocny-salat",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "order": 320
+}

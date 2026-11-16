@@ -1,0 +1,135 @@
+{
+  "title": "Stroganov z vepřové panenky s rýží",
+  "keywords": [
+    "stroganoff z vepřové panenky",
+    "stroganov z vepřové panenky",
+    "nudličky z vepřové panenky s rýží",
+    "vepřová panenka na houbách"
+  ],
+  "image": "dish-panenka-stroganov-na-priste",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Stroganov z vepřové panenky je nudličky masa, žampiony a kyselé okurky v lehké smetanové omáčce s rajčatovým protlakem a paprikou, podávané s rýží. Maso se smaží po částech na prudkém ohni, aby zůstalo šťavnaté, a omáčka se dělá až po něm.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-panenka",
+      "amount": 500,
+      "unit": "g",
+      "note": "na nudličky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na tenké půlkolečka"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 250,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 80,
+      "unit": "g",
+      "note": "nakrájené na proužky"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "ryze-dlouhozrnna",
+      "amount": 250,
+      "unit": "g",
+      "note": "propláchnutá"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 500,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýži dej s 500 ml vody a špetkou soli do hrnce, přiveď k varu, přikryj a vař na nejmenším plameni 15 minut. Pak ji nech 5 minut odstavenou."
+    },
+    {
+      "text": "Panenku očisti od blan, nakrájej na nudličky široké asi 1 cm a dlouhé 5 cm, osol a opepři. Do velké pánve dej polovinu oleje a maso smaž po dvou dávkách na vysokém ohni 2 minuty, aby se zatáhlo. Přendej na talíř."
+    },
+    {
+      "text": "Do stejné pánve přidej zbytek oleje a cibuli, opékej 3 minuty dozlatova. Přidej žampiony a smaž dalších 5 minut, až se odpaří voda a zhnědnou."
+    },
+    {
+      "text": "Vmíchej papriku a protlak, hned zalij vývarem a nech 2 minuty probublat. Paprika se nesmí připálit."
+    },
+    {
+      "text": "Vrať maso s uvolněnou šťávou do pánve, přidej okurky a zakysanou smetanu a prohřej 2 až 3 minuty. Již nevař, jen ať se smetana nesrazí. Maso uvnitř nesmí být růžové."
+    },
+    {
+      "text": "Dochuť solí a pepřem a podávej na rýži."
+    }
+  ],
+  "tips": [
+    "Maso smaž po dávkách. V plné pánvi se dusí a pustí vodu, nudličky pak zešednou.",
+    "Zakysanou smetanu přidej až na konec a už nevař, aby se omáčka nesrazila.",
+    "Okurky dodají kyselost, kterou by jinak musela dát smetana. Nálev nepřidávej, jen okurky."
+  ],
+  "substitutions": [
+    "Zakysanou smetanu lze nahradit smetanou na vaření s lžičkou citronové šťávy.",
+    "Žampiony nahradí hlívu ústřičnou, která snese delší smažení.",
+    "Rýži nahradíš těstovinami nebo bramborovou kaší."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi stroganovem z hovězího a z vepřové panenky?",
+      "a": "Vepřová panenka je jemnější a hotová rychleji, takže se smaží jen 2 minuty. Hovězí potřebuje maso s pevnější strukturou a obvykle trochu delší čas."
+    },
+    {
+      "q": "Proč se smetana v stroganovu sráží?",
+      "a": "Smetana se sráží, když se vaří při vysoké teplotě a v kyselém prostředí. Přidávej ji na konci, vař ji jen krátce a pánev odstav z nejvyššího ohně."
+    },
+    {
+      "q": "Kolik masa počítat na porci stroganovu?",
+      "a": "Zhruba 125 až 150 g očištěné panenky na osobu. Se žampiony a rýží je to syté jídlo."
+    }
+  ]
+}

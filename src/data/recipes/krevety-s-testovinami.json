@@ -1,0 +1,121 @@
+{
+  "title": "Krevety s těstovinami a česnekem",
+  "keywords": [
+    "krevety s těstovinami recept",
+    "krevety recept testoviny",
+    "krevety recept na pánvi",
+    "tygří krevety recept"
+  ],
+  "image": "dish-krevety-s-testovinami-niente",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Krevety s těstovinami recept pro dva za 25 minut: špagety, krevety osmažené na česneku a chilli a hrst petržele s citronem. Krevety potřebují jen 2 až 3 minuty, protože delší smažení je udělá gumové.",
+  "ingredients": [
+    {
+      "ingredient": "spagety",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "krevety",
+      "amount": 250,
+      "unit": "g",
+      "note": "loupané, rozmražené a osušené"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "na tenké plátky"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 150,
+      "unit": "g",
+      "note": "půlené"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Spagety vař v osolené vodě o 1 minutu kratší dobu, než píše obal. Před sléváním si odlij hrnek vody z vaření."
+    },
+    {
+      "text": "Na pánvi rozehřej olej na středním plameni, přidej česnek a chilli a nech 1 minutu vonět. Česnek nesmí zhnědnout."
+    },
+    {
+      "text": "Přidej rajčata a smaž 2 minuty, pak krevety. Smaž je 2 až 3 minuty a otoč, dokud nejsou růžové a pevné. Delší smažení je zhoršuje."
+    },
+    {
+      "text": "Přidej špagety a 4 lžíce vody z vaření a máslo. Promíchej na prudkém ohni 1 minutu, aby se omáčka spojila s těstovinami."
+    },
+    {
+      "text": "Stáhni z ohně, pokap citronem, posyp petrželkou a podávej hned."
+    }
+  ],
+  "tips": [
+    "Mražené krevety rozmraz v lednici přes noc nebo 10 minut ve studené vodě a pečlivě osuš. Mokré krevety se vaří, ne smaží.",
+    "Krevety jsou hotové, když jsou celé růžové a stočené do písmene C. Když se uzavřou do O, jsou přepečené.",
+    "Parmazán se k rybám a mořským plodům v italské kuchyni obvykle nedává."
+  ],
+  "substitutions": [
+    "Špagety nahraď linguine nebo tagliatelle.",
+    "Chilli lze vynechat pro jemnější verzi.",
+    "Máslo nahraď olivovým olejem, bude to lehčí."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit krevety?",
+      "a": "Loupané krevety stačí 2 až 3 minuty. Jsou hotové, když jsou růžové a pevné, ale stále šťavnaté."
+    },
+    {
+      "q": "Jak poznat přepečené krevety?",
+      "a": "Jsou svinuté do pevného O a gumově tuhé. Správně hotové mají tvar písmene C."
+    },
+    {
+      "q": "Mají se krevety loupat před smažením?",
+      "a": "Loupané se hodí do těstovin. Neloupané s kůrou mají víc chuti, ale jejich loupání při jídle je práce navíc."
+    }
+  ]
+}

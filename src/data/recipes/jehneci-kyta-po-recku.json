@@ -1,0 +1,139 @@
+{
+  "title": "Jehněčí kýta po řecku s bramborami a citronem",
+  "keywords": [
+    "jehněčí kýta recept",
+    "nejlepší recept na jehněčí",
+    "jehněčí kýta v troubě",
+    "jehněčí kýta s bramborami"
+  ],
+  "image": "dish-jehneci-kyta-stul",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 30,
+  "cookMinutes": 225,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek masa",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Jehněčí kýta po řecku se peče 3,5 hodiny pod alobalem, takže maso se rozpadá od kosti. Je napíchaná česnekem, potřená olivovým olejem, oreganem a citronem a obložená bramborami, které se vaří v šťávě z masa. Těžké je jediné: počkat.",
+  "ingredients": [
+    {
+      "ingredient": "jehneci-kyta",
+      "amount": 1500,
+      "unit": "g",
+      "note": "s kostí"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 6,
+      "unit": "ks",
+      "note": "rozpůlené"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rozmaryn",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 2,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 300,
+      "unit": "g",
+      "note": "na silné plátky"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 900,
+      "unit": "g",
+      "note": "na čtvrtky",
+      "group": "Brambory"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Brambory"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Brambory"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 160 °C. Kýtu osuš, nožem do ní udělej 10 až 12 vpichů, do každého zasuň půlku stroužku česneku. Potři olejem, osol, opepři, posyp oreganem a polij šťávou z jednoho citronu."
+    },
+    {
+      "text": "Cibuli rozlož na dno velkého pekáče, na ni polož kýtu, přidej rozmarýn a podlij 200 ml vody. Pekáč pevně zakryj alobalem nebo poklicí."
+    },
+    {
+      "text": "Peč 2,5 hodiny. Šťávu z pekáče občas polij maso."
+    },
+    {
+      "text": "Brambory promíchej s olejem, oreganem, solí a šťávou z druhého citronu. Kolem kýty je rozlož do pekáče. Alobal sundej, troubu zvyš na 190 °C a peč dalších 60 až 70 minut, dokud brambory nezezlátnou a maso se neoddělí od kosti."
+    },
+    {
+      "text": "Teplota uvnitř má v tu chvíli dosáhnout 88 až 92 °C, kdy je maso rozpadavé. Kýtu přikryj a nech 15 minut odpočinout."
+    },
+    {
+      "text": "Maso odděluj od kosti vidličkami a podávej s bramborami a šťávou z pekáče."
+    }
+  ],
+  "tips": [
+    "Jehněčí kýta se vyplatí péct pomalu. Při vyšší teplotě zůstane maso tuhé.",
+    "Pokud máš méně času, nech kýtu vykostit a peč ji kratší dobu. Teplota v jádru pro propečené maso má být alespoň 70 °C.",
+    "Přebytečný tuk ze šťávy v pekáči sundej lžící. Jehněčí je mastné."
+  ],
+  "substitutions": [
+    "Rozmarýn lze nahradit tymiánem.",
+    "Brambory nahradí kořenová zelenina, třeba mrkev a pastinák.",
+    "Šťávu z citronů lze nahradit 100 ml suchého bílého vývaru, ale citron dává typickou chuť."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct jehněčí kýtu?",
+      "a": "Pomalé pečení při 160 °C trvá asi 2,5 hodiny pod alobalem a dalších 60 až 70 minut odkryté. Maso je hotové, když se rozpadá od kosti."
+    },
+    {
+      "q": "Jak poznám, že je jehněčí hotové?",
+      "a": "Pro měkkou pomalu pečenou kýtu měř teplotu 88 až 92 °C. Pro růžovější maso postačí 63 až 65 °C, to je ale jiný postup s kratším pečením."
+    },
+    {
+      "q": "Jak jehněčí zbavit typické chuti?",
+      "a": "Dobře ho očisti od přebytečného tuku a blan, použij česnek, citron a bylinky. Mladé jehně chutná jemněji než starší."
+    }
+  ]
+}

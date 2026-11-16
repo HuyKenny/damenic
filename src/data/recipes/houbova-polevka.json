@@ -1,0 +1,134 @@
+{
+  "title": "Houbová polévka ze sušených hub",
+  "keywords": [
+    "houbová polévka",
+    "houbová polévka ze sušených hub",
+    "klasická houbová polévka",
+    "houbová polévka s bramborem",
+    "houbová polévka se smetanou"
+  ],
+  "image": "dish-houbova-polevka-chata",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 40,
+  "waitMinutes": 30,
+  "waitLabel": "namočení hub",
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Houbová polévka ze sušených hub s bramborem a trochou smetany je česká klasika z jednoho hrnce. Sušené houby se nejdřív namočí a vývar z nich se použije do polévky, protože v něm je většina chuti. Recept je pro čtyři porce a hotový za 90 minut, z toho 30 minut čekání.",
+  "ingredients": [
+    {
+      "ingredient": "houby-susene",
+      "amount": 30,
+      "unit": "g",
+      "note": "lesní směs nebo hřiby"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1200,
+      "unit": "ml",
+      "note": "teplá, na namočení a vaření"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Sušené houby zalij 400 ml teplé vody a nech 30 minut změknout. Pak je vyjmi, vodu přecěď přes jemné sítko nebo hadřík, protože na dně bývá písek. Houby nasekej nadrobno."
+    },
+    {
+      "text": "V hrnci rozpusť máslo a na středním plameni v něm 4 minuty restuj cibuli. Přidej nasekané houby, kmín a majoránku a smaž 3 minuty."
+    },
+    {
+      "text": "Posyp moukou, promíchej a nech minutu opéct. Zalij scezenou houbovou vodou a zbylými 800 ml vody a míchej, ať nevzniknou hrudky."
+    },
+    {
+      "text": "Přidej brambory a česnek, osol, opepři a vař 20 minut pod pokličkou na mírném plameni, dokud brambory nejsou měkké."
+    },
+    {
+      "text": "Vmíchej smetanu a nech jen krátce prohřát, nevař ji prudce. Ochutnej, dosol a podávej s petrželkou."
+    }
+  ],
+  "tips": [
+    "Namáčecí voda je to nejcennější. Nikdy ji nevylévej, ale pečlivě přecěď.",
+    "Sušené houby nasekané najemno dodají polévce chuť, kterou čerstvé žampiony samy nenabídnou.",
+    "Polévka je druhý den ještě lepší, ohřívej ji bez varu."
+  ],
+  "substitutions": [
+    "Smetanu nahraď kysanou smetanou (2 lžíce), vmíchej ji až po stažení z plotny.",
+    "Pro plnější chuť přidej 100 g žampionů osmahnutých na másle.",
+    "Bez mouky: polévku zahusti rozmačkáním části brambor."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se namáčejí sušené houby?",
+      "a": "Na 30 minut v teplé, ne vroucí vodě stačí. Silnější a tvrdší hříbky mohou potřebovat až hodinu."
+    },
+    {
+      "q": "Dá se houbová polévka zamrazit?",
+      "a": "Ano, ale bez smetany. Smetanu vmíchej až po rozmražení a ohřevu. Polévka vydrží v mrazáku 2 měsíce a v lednici 3 dny."
+    },
+    {
+      "q": "Proč je polévka hořká nebo písčitá?",
+      "a": "Písek zůstal v namáčecí vodě, proto ji vždy cedíme. Hořkost mohou způsobit spálená cibule nebo mouka, tak je opékej jen do zlatova."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "title": "Hruškový koláč",
+  "keywords": [
+    "hruškový koláč recept",
+    "hruškový koláč",
+    "hruškový koláč s mandlemi"
+  ],
+  "image": "dish-hruskovy-kolac-kolac-na-slib",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 10,
+  "activeMinutes": 30,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Hruškový koláč je vláčné máslové těsto s půlkami hrušek zapečenými nahoře, posypané skořicí a mandlovými plátky. Funguje i s méně zralými hruškami, jen se musí krájet na tenčí plátky.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "měkké",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "hrusky",
+      "amount": 4,
+      "unit": "ks",
+      "note": "střední, loupané, půlené a zbavené jadřinců",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "mandle-platky",
+      "amount": 30,
+      "unit": "g",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Ovoce"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 175 °C (horkovzduch 160 °C). Formu o průměru 24 cm vymaž a vysyp moukou."
+    },
+    {
+      "text": "Máslo utři s cukrem a vanilkovým cukrem do světlé pěny, přidávej po jednom vejce. Mouku smíchej s práškem do pečiva a střídavě s mlékem zamíchej do těsta."
+    },
+    {
+      "text": "Těsto rozetři do formy. Hrušky nařízni z vrchu podélně na plátky, ale nedořezávej úplně, a polož je řezem nahoru."
+    },
+    {
+      "text": "Hrušky posyp cukrem smíchaným se skořicí a mandlovými plátky. Peč 40 až 45 minut, špejle zapíchnutá do těsta vyjde čistá."
+    },
+    {
+      "text": "Nech koláč 15 minut v teple ve formě, pak ho vyklop a nech dochladnout."
+    }
+  ],
+  "tips": [
+    "Hrušky osladí těsto lépe, pokud jsou zralé. Příliš tvrdé předem 5 minut povař.",
+    "Hrušky můžeš pokapat citronovou šťávou, aby nehnědly při přípravě.",
+    "Koláč je nejlepší 2. den, těsto je vláčnější."
+  ],
+  "substitutions": [
+    "Hrušky nahraď jablky nebo švestkami.",
+    "Mandlové plátky vynech nebo nahraď sekanými vlašskými ořechy."
+  ],
+  "faq": [
+    {
+      "q": "Jaké hrušky se na koláč hodí?",
+      "a": "Pevnější a šťavnaté, např. konference. Příliš měkké se při pečení rozpadnou."
+    },
+    {
+      "q": "Musí se hrušky loupat?",
+      "a": "Slupka zůstává po upečení tuhá, proto hrušky loupeme. Pro rustikální vzhled jde slupku nechat, pokud je tenká."
+    },
+    {
+      "q": "Jak dlouho vydrží hruškový koláč?",
+      "a": "3 dny v pokojové teplotě pod utěrkou, 5 dní v lednici."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "title": "Zapečená zelenina se sýrem",
+  "keywords": [
+    "zapečená zelenina se sýrem",
+    "zapečená zelenina",
+    "zapečená zelenina v troubě",
+    "zapečená zelenina se smetanou"
+  ],
+  "image": "dish-zapecena-zelenina-se-syrem",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Zapečená zelenina se sýrem je jednoduchý pekáč z cukety, papriky, lilku a rajčat zalitý smetanou a posypaný eidamem. Dělá se při 200 °C a v troubě stráví 45 minut, z nichž tvoje práce je pár prvních minut. Hotová je, když sýr zezlátne a zelenina změkne.",
+  "ingredients": [
+    {
+      "ingredient": "cuketa",
+      "amount": 300,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na proužky"
+    },
+    {
+      "ingredient": "lilek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 300,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na půlkolečka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 120,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaný"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C, horkovzdušnou na 180 °C. Zeleninu nakrájej na kousky stejné velikosti, aby se upekla současně."
+    },
+    {
+      "text": "Cuketu, papriku, lilek, cibuli a česnek smíchej v míse s olejem, solí, pepřem a oreganem a rozlož do pekáče."
+    },
+    {
+      "text": "Peč 25 minut, v půli promíchej. Zelenina má být lehce měkká."
+    },
+    {
+      "text": "Přidej rajčata, zalij smetanou a posyp sýrem. Zapékej dalších 20 minut, dokud sýr nezezlátne a okraje nezačnou bublat."
+    },
+    {
+      "text": "Nech 5 minut odstát, aby se šťáva usadila, pak podávej s chlebem, bramborem nebo rýží."
+    }
+  ],
+  "tips": [
+    "Lilek může být hořký. Nakrájený ho posyp solí, nech 10 minut odpočinout a osuš.",
+    "Rajčata přidávej později, jinak zelenina plave v tekutině."
+  ],
+  "substitutions": [
+    "Smetanu nahradíš zakysanou smetanou smíchanou s trochou mléka nebo vynecháš pro lehčí verzi.",
+    "Eidam nahradíš goudou, mozzarellou nebo na vrch dáš trochu fety.",
+    "Zeleninu můžeš nahradit podle sezóny, hodí se brokolice, květák, houby nebo sladké brambory."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se zapéká zelenina v troubě?",
+      "a": "Asi 45 minut při 200 °C: 25 minut bez sýra a 20 minut se smetanou a sýrem."
+    },
+    {
+      "q": "Dá se zapečená zelenina připravit dopředu?",
+      "a": "Ano. Zelenina vydrží 2 dny v lednici, ohřej ji v troubě na 180 °C 15 minut."
+    },
+    {
+      "q": "Jaká zelenina se do zapékání hodí?",
+      "a": "Cuketa, paprika, lilek, rajčata, brokolice, květák, mrkev a houby. Tvrdou zeleninu nakrájej tenčeji nebo ji napřed předvař."
+    }
+  ]
+}

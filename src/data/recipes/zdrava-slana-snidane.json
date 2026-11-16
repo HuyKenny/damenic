@@ -1,0 +1,107 @@
+{
+  "title": "Vejce se špenátem a rajčaty na pánvi",
+  "keywords": [
+    "zdravé slané snídaně",
+    "zdravá slaná snídaně",
+    "zdravá snídaně do práce",
+    "zdravé snídaně"
+  ],
+  "image": "dish-zdrava-slana-snidane-odlozeny-budik",
+  "category": "snidane",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 8,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Zdravá slaná snídaně z vajec, špenátu a rajčat se dělá v jedné pánvi za 15 minut. Vejce se vbíjí přímo na špenát a pečou se pod pokličkou, takže bílek pevně zatuhne a žloutek zůstane tekutý.",
+  "ingredients": [
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "spenat-baby",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 100,
+      "unit": "g",
+      "note": "půlená"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "feta",
+      "amount": 40,
+      "unit": "g",
+      "note": "rozdrobená"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 60,
+      "unit": "g",
+      "note": "celozrnný, na opečení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na pánvi na středním plameni rozehřej olej, přidej česnek a smaž 30 sekund, dokud nezavoní."
+    },
+    {
+      "text": "Přidej špenát a rajčata, osol a opepři. Za míchání nech 2 minuty, dokud špenát nezvadne."
+    },
+    {
+      "text": "Ve směsi udělej 4 důlky a do každé vbij vejce. Přikryj pokličkou a na slabém ohni nech 4 až 5 minut, dokud bílek není pevný a žloutek ještě tekutý."
+    },
+    {
+      "text": "Posyp fetou a podávej na pánvi s opečeným chlebem."
+    }
+  ],
+  "tips": [
+    "Vejce vbíjej do hrnku a až odtud do důlku, rozbitá skořápka se nedostane do jídla.",
+    "Pokud chceš zatuhlý žloutek, nech vařit 7 až 8 minut.",
+    "Špenát nemusíš před vařením prát, pokud je baby špenát z balení označený jako omytý."
+  ],
+  "substitutions": [
+    "Fetu nahraď strouhaným parmazánem nebo ji vynech.",
+    "Špenát vyměň za mangold nebo kapustu, ta potřebuje 2 minuty navíc."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit vejce na špenátu?",
+      "a": "4 až 5 minut pod pokličkou, bílek je pevný a žloutek tekutý. Pro pevný žloutek 7 až 8 minut."
+    },
+    {
+      "q": "Dá se tato snídaně připravit do práce?",
+      "a": "Ano, uvař vejce natvrdo a špenát s rajčaty udělej večer. Ráno stačí ohřát a smíchat."
+    },
+    {
+      "q": "Je snídaně se špenátem vhodná pro děti?",
+      "a": "Ano, vejce by měla být důkladně prohřátá, pro malé děti raději s pevným žloutkem."
+    }
+  ]
+}

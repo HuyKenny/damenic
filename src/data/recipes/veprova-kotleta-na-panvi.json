@@ -1,0 +1,102 @@
+{
+  "title": "Vepřová kotleta na pánvi",
+  "keywords": [
+    "rychlý oběd z kotlety",
+    "rychlý oběd z kotlety na pánvi",
+    "vepřová kotleta na pánvi",
+    "rychlý oběd z vepřového masa"
+  ],
+  "image": "dish-kotleta-na-panvi-hotovo",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 12,
+  "waitMinutes": 5,
+  "waitLabel": "odpočinek masa",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Vepřová kotleta na pánvi je rychlý oběd z vepřového masa, hotový za půl hodiny. Důležité jsou tři věci: nařezat okraj tuku, aby se kotleta nezkroutila, rozpálit pánev a nedopéct maso nasucho. Uvnitř má mít 65 °C a po krátkém odpočinku pár stupňů navíc.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-kotlety",
+      "amount": 600,
+      "unit": "g",
+      "note": "4 kotlety silné asi 1,5 cm"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "rozmáčknuté"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kotlety vyndej z lednice 15 minut předem. Osuš je a na okraji tuku nařízni na 2 až 3 místech, aby se nekroutily. Osol, opepři a posyp paprikou."
+    },
+    {
+      "text": "Do velké pánve nalij olej a rozpal ji na středně vysoký oheň. Kotlety smaž 3 až 4 minuty z jedné strany, dokud nezezlátnou."
+    },
+    {
+      "text": "Otoč je, přidej máslo, česnek a tymián a smaž dalších 3 až 4 minuty. Maso lej rozpuštěným máslem. Hotová kotleta má v nejtlustším místě 65 °C a při stisku mírně pruží."
+    },
+    {
+      "text": "Kotlety přendej na talíř, nech 5 minut odpočinout a polij šťávou z pánve. Podávej s bramborami nebo okurkovým salátem."
+    }
+  ],
+  "tips": [
+    "Kotlety nemačkej do pánve. Vytlačená šťáva je šťáva, která chybí na talíři.",
+    "Pánev nepřeplňuj. Čtyři kotlety potřebují velkou pánev, jinak se dusí.",
+    "Okraj tuku nechej, je chutný. Nařezáním ho jen uvolníš."
+  ],
+  "substitutions": [
+    "Máslo nahradí sádlo, chuť bude tradičnější.",
+    "Tymián nahradí majoránka.",
+    "Kotletu lze nahradit krkovicí nebo kýtou, času pak potřebuje o minutu víc nebo méně podle tloušťky."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit vepřovou kotletu na pánvi?",
+      "a": "Kotleta silná 1,5 cm potřebuje 3 až 4 minuty z každé strany na středně vysokém ohni. Uvnitř má dosáhnout 65 °C a po odpočinku stoupne na 68 až 70 °C."
+    },
+    {
+      "q": "Proč se kotleta kroutí na pánvi?",
+      "a": "Okraj tuku se při smažení smršťuje. Pomáhá ho na několika místech nařezat, nejlépe až k masu."
+    },
+    {
+      "q": "Smí být vepřová kotleta uvnitř narůžovělá?",
+      "a": "Nepatrně ano, pokud má uvnitř alespoň 63 °C a po vyndání odpočívá 3 minuty. Syrové červené maso je ale potřeba dopéct."
+    }
+  ]
+}

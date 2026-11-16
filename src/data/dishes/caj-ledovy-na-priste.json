@@ -1,0 +1,17 @@
+{
+  "name": "Ledový čaj s citronem",
+  "restaurant": "peceni-na-priste",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Domácí ledový černý čaj s plátkem citronu a trochou cukru.",
+  "about": [],
+  "price": 5500,
+  "image": "dish-caj-ledovy-na-priste",
+  "recipe": null,
+  "featured": false,
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 10
+}

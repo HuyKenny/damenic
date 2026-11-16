@@ -1,0 +1,24 @@
+{
+  "name": "Zapečené rohlíky se šunkou",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "main",
+  "section": "Zapečené a topinky",
+  "description": "Rohlíky plněné šunkou a eidamem, zapečené ve vajíčku a mléce do zlatova.",
+  "about": [
+    "Zapečené rohlíky jsou nápad, který děti pochopí na první pohled. Rohlík se rozkrojí, naplní šunkou a sýrem, zalije vejcem s mlékem a zapeče. Vzniká něco mezi pudinkem a toastem, měkké uvnitř a křupavé navrch.",
+    "Zvládneš je za třicet minut a využiješ rohlíky, které jinak zítra zatvrdnou. My nemáme ani rohlíky."
+  ],
+  "price": 11900,
+  "image": "dish-rohliky-sunka-hotovo",
+  "recipe": "zapecene-rohliky-se-sunkou",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 140
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Voda s citronem",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Čerstvá voda s plátky citronu a ledem.",
+  "about": [],
+  "price": 3900,
+  "image": "dish-voda-citron-hotovo",
+  "recipe": null,
+  "featured": false,
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "order": 20
+}

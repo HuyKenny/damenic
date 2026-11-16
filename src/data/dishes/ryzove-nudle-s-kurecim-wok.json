@@ -1,0 +1,22 @@
+{
+  "name": "Smažené rýžové nudle s kuřecím",
+  "restaurant": "wok-nic-moc",
+  "kind": "main",
+  "section": "Nudle",
+  "description": "Široké rýžové nudle, kuřecí, mrkev, pak choi a vejce z horkého woku.",
+  "about": [
+    "Rýžové nudle se nevaří, ale namáčejí v horké vodě, takže se na pánvi nerozpadnou. Smaží se na nejvyšším ohni za pár minut s kuřecím, zeleninou, sojovkou a vejcem.",
+    "Wok je rozpálený a zeleniny na něm je spousta. Chybí jen ty, kdo by je snědli."
+  ],
+  "price": 21900,
+  "image": "dish-ryzove-nudle-s-kurecim-wok",
+  "recipe": "ryzove-nudle-s-kurecim-masem",
+  "vegetarian": false,
+  "order": 10,
+  "allergens": [
+    1,
+    3,
+    6,
+    14
+  ]
+}

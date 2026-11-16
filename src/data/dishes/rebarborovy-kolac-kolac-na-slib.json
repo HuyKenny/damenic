@@ -1,0 +1,25 @@
+{
+  "name": "Rebarborový koláč s pusinkou",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "description": "Kyselá rebarbora na máslovém korpusu pod sněhovou čepicí.",
+  "about": [
+    "Rebarbora je kyselá, pusinka sladká a máslový korpus je to, co je spojuje. Kdo vydrží u rebarbory, dočká se koláče, který je zároveň svěží a sladký.",
+    "Rebarboru ti nikdo nepřiveze, ale nakrájet ji zvládneš za deset minut."
+  ],
+  "price": 8500,
+  "image": "dish-rebarborovy-kolac-kolac-na-slib",
+  "recipe": "rebarborovy-kolac",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 160
+}

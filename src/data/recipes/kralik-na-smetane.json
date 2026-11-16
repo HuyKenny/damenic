@@ -1,0 +1,141 @@
+{
+  "title": "Králík na smetaně",
+  "keywords": [
+    "králík na smetaně recept",
+    "králík na smetaně jednoduchý recept",
+    "králík recept",
+    "králík na smetaně"
+  ],
+  "image": "dish-kralik-na-smetane-na-priste",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 75,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Králík na smetaně je porcovaný králík podušený se zeleninou do měkka a dokončený smetanou. Recept je jednoduchý: maso se opeče, podlije vývarem a pomalu se dusí 70 minut, až se odděluje od kosti. Potom se omáčka zjemní smetanou a trochou hořčice.",
+  "ingredients": [
+    {
+      "ingredient": "kralik",
+      "amount": 1300,
+      "unit": "g",
+      "note": "1 králík rozporcovaný"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Králíka osol a opepři. Na pánvi rozehřej olej s máslem a porce opékej po částech z obou stran do zlatohněda, asi 3 minuty na každou stranu. Přendej do velkého hrnce nebo pekáče."
+    },
+    {
+      "text": "Do výpeku přidej cibuli, mrkev a petrželový kořen a opékej 5 minut. Přidej česnek, tymián a bobkový list, vše přesuň k masu."
+    },
+    {
+      "text": "Zalij vývarem, přikryj a duš na mírném ohni nebo v troubě při 160 °C po dobu 70 minut. Králík je hotový, když se maso snadno odděluje od kosti, uvnitř má mít 75 °C a výše."
+    },
+    {
+      "text": "Maso vyndej. Do omáčky vmíchej hořčici. Mouku rozmíchej se smetanou a vlij do omáčky, 5 minut povař za stálého míchání, až zhoustne a zjemní."
+    },
+    {
+      "text": "Králíka vrať do omáčky, prohřej a dochuť solí a pepřem. Podávej s houskovým knedlíkem nebo bramborami."
+    }
+  ],
+  "tips": [
+    "Králík je libový. Dušení pod pokličkou a při nízké teplotě ho udrží šťavnatý, prudké vaření ho vysuší.",
+    "Hřbetní část je nejjemnější a hotová dřív. Kdo chce, přidá ji až po 50 minutách.",
+    "Omáčka je nejlepší druhý den po zahřátí."
+  ],
+  "substitutions": [
+    "Smetanu na vaření nahradíš zakysanou smetanou, přidej ji až po odstavení.",
+    "Vývar z kostky rozpuštěné v 400 ml vody je také dobrý.",
+    "Petrželový kořen nahradí celer."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho dusit králíka na smetaně?",
+      "a": "Porcovaný králík se dusí 70 až 80 minut na mírném ohni. Hotový je, když se maso od kosti oddělí bez námahy."
+    },
+    {
+      "q": "Proč je králík suchý?",
+      "a": "Je to libové maso bez tuku. Suchým ho dělá příliš vysoká teplota nebo pozdní přidání omáčky. Duš pomalu, pod pokličkou a s dostatkem tekutiny."
+    },
+    {
+      "q": "Jak dlouho se uchová uvařený králík?",
+      "a": "V lednici vydrží v omáčce až 3 dny v uzavřené nádobě. Před podáváním ho důkladně prohřej na horkou teplotu."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Vejce se špenátem a rajčaty",
+  "restaurant": "odlozeny-budik",
+  "kind": "main",
+  "section": "Vejce",
+  "description": "Vejce na špenátu s cherry rajčaty a fetou, k tomu opečený chléb.",
+  "about": [
+    "Vejce se špenátem a rajčaty je snídaně, kterou připravíš v jedné pánvi za 15 minut. Špenát zvadne, rajčata se rozpustí a vejce se upečou pod pokličkou. Žloutek tekutý, bílek pevný.",
+    "Ráno je nejtěžší část snídaně vstát. Zbytek je pánev, vejce a fantazie, že ti to někdo přivezl."
+  ],
+  "price": 12900,
+  "image": "dish-zdrava-slana-snidane-odlozeny-budik",
+  "recipe": "zdrava-slana-snidane",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 140
+}

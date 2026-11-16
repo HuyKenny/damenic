@@ -1,0 +1,33 @@
+{
+  "name": "Houbařská chata Příští sezóna",
+  "category": "ceska",
+  "cuisine": "Houbová česká kuchyně",
+  "tagline": "Houby jsou v lese. Guláš v hrnci. Ty u stolu. Ale jen nanečisto.",
+  "description": "Houbový guláš, polévka z hřibů a plněné žampiony, všechno bez masa. Chata je smyšlená a v lese nic nerostlo, takže ti doručíme jen recept. Houby si kup sám.",
+  "etaMinutes": 35,
+  "deliveryFee": 3900,
+  "minOrder": 14900,
+  "priceLevel": 2,
+  "hours": {
+    "open": "11:00",
+    "close": "22:00"
+  },
+  "pickup": false,
+  "tags": [
+    "bez masa"
+  ],
+  "isNew": true,
+  "logo": {
+    "text": "HC",
+    "color": "#6B4A2B",
+    "ink": "light"
+  },
+  "cover": "rest-chata-pristi-sezona",
+  "sections": [
+    "Polévky",
+    "Houbová jídla",
+    "Přílohy",
+    "Nápoje"
+  ],
+  "order": 540
+}

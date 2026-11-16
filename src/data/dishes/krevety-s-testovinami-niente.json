@@ -1,0 +1,22 @@
+{
+  "name": "Krevety s těstovinami a česnekem",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Z pánve",
+  "description": "Špagety, krevety, česnek, chilli a citron, všechno za pár minut.",
+  "about": [
+    "Krevety potřebují 2 až 3 minuty a ani vteřinu navíc. Špagety se vaří kratší dobu a dokončí se přímo v pánvi s vodou z vaření, která z oleje udělá omáčku.",
+    "Rychlost je to jediné, co tu máme společné s doručením. S tím rozdílem, že tohle je recept, který opravdu zvládneš."
+  ],
+  "price": 27900,
+  "image": "dish-krevety-s-testovinami-niente",
+  "recipe": "krevety-s-testovinami",
+  "vegetarian": false,
+  "spicy": 1,
+  "order": 75,
+  "allergens": [
+    1,
+    2,
+    7
+  ]
+}

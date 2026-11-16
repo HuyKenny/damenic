@@ -1,0 +1,23 @@
+{
+  "name": "Mrkvový salát s jablkem",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Bowly a saláty",
+  "description": "Jemně nastrouhaná mrkev a jablko s citronem, medem a lžící jogurtu.",
+  "about": [
+    "Mrkvový salát s jablkem je syrová, sladká a lehce kyselá příloha. Mrkev se strouhá najemno, jablko nahrubo a citron brání tmavnutí. Hotovo za čtvrt hodiny.",
+    "Do mísy se vejde čtyřikrát tolik, než se zdá. Doručení nechej na kurýra Nikoho, salát si udělej doma."
+  ],
+  "price": 11900,
+  "image": "dish-mrkvovy-salat-nula",
+  "recipe": "mrkvovy-salat-s-jablkem",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    8
+  ],
+  "order": 270
+}

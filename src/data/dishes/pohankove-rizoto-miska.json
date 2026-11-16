@@ -1,0 +1,20 @@
+{
+  "name": "Pohankové rizoto se žampiony",
+  "restaurant": "miska-nanecisto",
+  "kind": "main",
+  "section": "Teplé misky",
+  "description": "Opražená pohanka podušená ve vývaru se žampiony a parmazánem.",
+  "about": [
+    "Pohanka je tu místo rýže a rizoto z ní vychází bez nekonečného míchání. Opražená získá oříškovou chuť a v krémovém vývaru zůstane lehce pevná.",
+    "Miska je prázdná. Chuť má aspoň tvar misky."
+  ],
+  "price": 20900,
+  "image": "dish-pohankove-rizoto-miska",
+  "recipe": "pohankove-rizoto",
+  "vegetarian": true,
+  "order": 65,
+  "allergens": [
+    7,
+    9
+  ]
+}

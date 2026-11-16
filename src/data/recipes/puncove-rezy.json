@@ -1,0 +1,133 @@
+{
+  "title": "Punčové řezy",
+  "keywords": [
+    "punčové řezy recept",
+    "punčové řezy",
+    "punčové řezy s marmeládou"
+  ],
+  "image": "dish-puncove-rezy-nedortik",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 45,
+  "cookMinutes": 18,
+  "waitMinutes": 120,
+  "waitLabel": "odležení řezů, aby změkly",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Punčové řezy jsou dva korpusy z piškotového těsta spojené marmeládou, namočené v pomerančovém nálevu a zalité růžovou polevou. Bez alkoholu, bez trouby na hodinu a vyjde asi 12 řezů. Těsto musí být pořádně vypracované, aby se při pečení nesrazilo.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 5,
+      "unit": "ks",
+      "note": "oddělené",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "dzus-pomerancovy",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Nálev"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Nálev"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Nálev"
+    },
+    {
+      "ingredient": "dzem-merunkovy",
+      "amount": 150,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "dzus-pomerancovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "barvivo-cervene",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "jen pár kapek či špetka gelového",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 165 °C). Plech 25 × 35 cm vyloži pečicím papírem."
+    },
+    {
+      "text": "Žloutky vyšlehej se 75 g cukru do světlé husté pěny. Bílky se špetkou soli ušlehej do tuhého sněhu, postupně přidej zbylých 75 g cukru."
+    },
+    {
+      "text": "Sníh opatrně vmíchej do žloutků po třetinách, přesej mouku a lehce zamíchej, aby sníh neklesl. Těsto rozetři na plech."
+    },
+    {
+      "text": "Peč 15 až 18 minut do světle zlatého povrchu. Hotový korpus vyklop na mřížku, sundej papír a nech vychladnout. Rozkroj na dvě poloviny."
+    },
+    {
+      "text": "Na spodní polovinu rozetři marmeládu, přikryj druhou a prosákni ji nálevem z džusu, citronu a cukru. Zatěžkej prkénkem a nech 2 hodiny odležet."
+    },
+    {
+      "text": "Moučkový cukr smíchej s džusem na hustou polevu, dobarvi a rozetři po povrchu. Nech zatuhnout a nakrájej ostrým nožem namočeným ve vodě."
+    }
+  ],
+  "tips": [
+    "Polevu nanášej na vychladlý korpus, jinak se roztéká.",
+    "Polévej nálev po částech a nech ho vsáknout, aby se nevytvořila mokrá vrstva dole.",
+    "Zabalené řezy vydrží 3 dny v lednici."
+  ],
+  "substitutions": [
+    "Pomerančový džus lze nahradit jablečným nebo ananasovým.",
+    "Meruňkovou marmeládu vyměň za broskvovou nebo rybízovou, rybíz ale hodně kyselí."
+  ],
+  "faq": [
+    {
+      "q": "Dají se punčové řezy udělat bez alkoholu?",
+      "a": "Ano. Tento recept je bez alkoholu, nálev tvoří pomerančový džus s citronem. Chuť je svěží a hodí se i pro děti."
+    },
+    {
+      "q": "Proč jsou punčové řezy růžové?",
+      "a": "Barva polevy je jen potravinářské barvivo. Bez barviva jsou stejně dobré, polevu stačí nechat bílou."
+    },
+    {
+      "q": "Jak dlouho se mají punčové řezy odležet?",
+      "a": "Alespoň 2 hodiny, ideálně přes noc v lednici. Nálev se během té doby rovnoměrně vsákne."
+    }
+  ]
+}

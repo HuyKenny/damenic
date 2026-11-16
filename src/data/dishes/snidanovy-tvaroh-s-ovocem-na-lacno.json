@@ -1,0 +1,24 @@
+{
+  "name": "Snídaňový tvaroh s ovocem",
+  "restaurant": "na-lacno",
+  "kind": "main",
+  "section": "Sladké",
+  "description": "Hladký tvaroh, jahody, borůvky, ořechy a trocha medu.",
+  "about": [
+    "Tvaroh s ovocem je snídaně pro ty, kdo nemají čas a nechtějí vařit. Pět minut, jedna miska, žádný sporák. Ořechy a med na konci jsou to, co z ní dělá snídani, ne svačinu.",
+    "Na lačno jsme tady odborníci. Na snídani doma ti stačí lžíce."
+  ],
+  "price": 10900,
+  "image": "dish-snidanovy-tvaroh-s-ovocem-na-lacno",
+  "recipe": "snidanovy-tvaroh-s-ovocem",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 130
+}

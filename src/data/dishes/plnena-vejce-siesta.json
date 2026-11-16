@@ -1,0 +1,23 @@
+{
+  "name": "Plněná vejce",
+  "restaurant": "tapas-siesta-nanecisto",
+  "kind": "main",
+  "section": "Tapas a studené polévky",
+  "description": "Půlky vajec natvrdo naplněné krémem ze žloutků, majonézy a hořčice. Posypaná paprikou.",
+  "about": [
+    "Plněná vejce patří k nejstarším studeným předkrmům. Vejce natvrdo se rozpůlí, žloutky se rozmíchají s majonézou a hořčicí a vrátí se do bílků. Ze šesti vajec je dvanáct půlek.",
+    "Hodí se na oslavu, na velikonoční stůl i k večernímu posezení. V Tapas Siesta nanečisto se nic nespěchá, hlavně ne doručení."
+  ],
+  "price": 12900,
+  "image": "dish-plnena-vejce-siesta",
+  "recipe": "plnena-vejce",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    10
+  ],
+  "order": 350
+}
