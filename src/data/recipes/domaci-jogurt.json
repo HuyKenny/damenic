@@ -29,6 +29,12 @@
       "amount": 40,
       "unit": "g",
       "note": "živý jogurt bez příchutě, jako startér"
+    },
+    {
+      "ingredient": "med",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "volitelně na dochucení hotového jogurtu při podávání"
     }
   ],
   "steps": [
