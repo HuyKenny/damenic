@@ -93,6 +93,8 @@ test.describe('checkout and tracking', () => {
     await expect(tracker).toHaveAttribute('data-stage', /accepted|preparing/);
     await expect(page.getByText('Skutečné minuty · smyšlené jídlo')).toBeVisible();
     await expect(page.getByTestId('courier')).toBeVisible();
+    await expect(page.getByTestId('partner-wolt')).toContainText('Reklama');
+    await expect(page.getByTestId('partner-wolt-link')).toHaveAttribute('href', '/go/wolt');
 
     // The courier chat answers with a canned line and points to the one real contact (mailto only, nothing is sent).
     await page.getByTestId('chat-courier').click();

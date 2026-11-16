@@ -10,6 +10,7 @@ import { CourierMap } from './CourierMap';
 import { Dialog } from './Dialog';
 import { useInit } from './hooks';
 import { Icon } from './icons';
+import { WoltCta } from '@/components/WoltCta';
 import { CONTACT_EMAIL, mailto } from '@/lib/contact';
 
 export interface RecipeCostInfo {
@@ -365,6 +366,7 @@ export default function Tracker({ recipes, courierImg }: Props) {
               </>
             )}
           </section>
+          {(sim.status === 'running' || atDoor) && <WoltCta variant="waiting" />}
           {recipeLines.length > 0 && (sim.status === 'running' || atDoor) && (
             <section class="panel">
               <h2>Mezitím se dá vařit doopravdy</h2>
@@ -676,22 +678,7 @@ function Finale({ order, recipes }: { order: OrderSnapshot; recipes: Record<stri
               Nic mi chutnalo. Ještě jednou!
             </a>
           </section>
-          <aside class="partner no-print" aria-labelledby="partner-wolt-title" data-testid="partner-wolt">
-            <div class="partner__tags">
-              <span class="tag tag--ad">Reklama</span>
-              <span class="tag">Skutečná služba, mimo simulaci</span>
-            </div>
-            <h3 id="partner-wolt-title">Hlad je skutečný? Tady kurýr doopravdy přijede.</h3>
-            <p>Tohle byla simulace, jídlo nedorazí. Když si chceš objednat doopravdy, použij Wolt, skutečnou službu s rozvozem.</p>
-            <a class="btn btn--sun btn--block" href="/go/wolt" rel="sponsored nofollow noopener" target="_blank" data-testid="partner-wolt-link">
-              Objednat doopravdy přes Wolt
-              <span class="sr-only"> (otevře se v novém okně)</span>
-            </a>
-            <p class="small muted partner__note">
-              Reklamní odkaz: když si přes něj objednáš, DámeNic může dostat provizi, tebe to nic nestojí. S Woltem nemáme nic společného, objednávka z DámeNic se
-              do něj nepřenáší a naše smyšlené restaurace tam nenajdeš. Rozvoz funguje jen tam, kde ho Wolt nabízí.
-            </p>
-          </aside>
+          <WoltCta variant="finale" />
         </aside>
       </div>
     </div>
