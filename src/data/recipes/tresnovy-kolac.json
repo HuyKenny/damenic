@@ -1,0 +1,139 @@
+{
+  "title": "Třešňový koláč s tvarohem",
+  "keywords": [
+    "třešňový koláč",
+    "třešňový koláč recept",
+    "třešňový koláč s tvarohem",
+    "recept na třešňový koláč",
+    "koláč s třešněmi"
+  ],
+  "intro": "Třešňový koláč s tvarohem má křehký linecký základ, vrstvu vanilkového tvarohového krému a vypeckované třešně. Je pečený ve formě o průměru 24 cm. Těžké je zabránit, aby třešně pustily šťávu a koláč zvlhl, proto se obalují ve škrobu.",
+  "image": "dish-tresnovy-kolac",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 45,
+  "cookMinutes": 55,
+  "waitMinutes": 180,
+  "waitLabel": "chladnutí a zatuhnutí",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "studené",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 500,
+      "unit": "g",
+      "note": "vláčný, přes sítko scezený",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 37,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen kůra",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "tresne",
+      "amount": 400,
+      "unit": "g",
+      "note": "vypeckované",
+      "group": "Třešně"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 8,
+      "unit": "g",
+      "group": "Třešně"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Z mouky, másla, moučkového cukru a vejce rychle vypracuj těsto, zabal ho a nech 30 minut v lednici. Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C)."
+    },
+    {
+      "section": "Základ",
+      "text": "Těsto rozlož do vymazané formy o průměru 24 cm, vytvoř okraj vysoký asi 3 cm a spodek propíchej vidličkou. Předpeč 12 minut a vyndej."
+    },
+    {
+      "section": "Náplň",
+      "text": "Tvaroh vyšlehej s 2 vejci, cukrem, pudinkovým práškem a nastrouhanou citronovou kůrou do hladka. Třešně promíchej se škrobem."
+    },
+    {
+      "section": "Pečení",
+      "text": "Tvarohovou směs nalij na předpečený základ, na ni rozlož třešně. Peč při 170 °C 40 až 45 minut. Střed má být lehce pružný, ne tekutý. Vypni troubu, dveře nech pootevřené 15 minut."
+    },
+    {
+      "section": "Chladnutí",
+      "text": "Koláč nech vychladnout ve formě a pak aspoň 3 hodiny v lednici. Teprve potom ho vyndej a krájej."
+    }
+  ],
+  "tips": [
+    "Třešně vypeckuj nad miskou, abys zachytil šťávu a nenatekla do krému; šťávu můžeš vypít nebo použít do nápoje.",
+    "Pokud tvaroh není hladký, vyšlehej ho tyčovým mixérem, krém bude hedvábný a nebude se lámat.",
+    "Skladuj v lednici 3 dny. Mražené třešně rozmraz, osuš a obal ve škrobu, jinak pustí hodně vody."
+  ],
+  "substitutions": [
+    "Čerstvé třešně nahraď vypeckovanými višněmi, ale přidej o 30 g cukru do tvarohu.",
+    "Pudinkový prášek nahraď 2 lžícemi hladké mouky, krém bude lehce měkčí.",
+    "Máslo v těstě nahraď stejným množstvím rostlinného másla (blokového)."
+  ],
+  "faq": [
+    {
+      "q": "Můžu použít mražené třešně do koláče?",
+      "a": "Ano. Rozmraz je v cedníku, osuš papírovou utěrkou a promíchej se škrobem, aby nepustily šťávu do krému."
+    },
+    {
+      "q": "Proč se tvarohový koláč s třešněmi propadne?",
+      "a": "Pravděpodobně se pekl při příliš vysoké teplotě nebo se trouba otevřela hned po upečení. Nech koláč dochladnout v troubě s pootevřenými dvířky."
+    },
+    {
+      "q": "Jak dlouho se peče třešňový koláč?",
+      "a": "Základ 12 minut, potom koláč s náplní 40 až 45 minut při 170 °C. Střed se má mírně chvět, ztuhne při chladnutí."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Šlehačkové cukroví, 5 ks",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Cukroví",
+  "description": "Křehká kolečka s tekutou smetanou v těstě, slepená vanilkovým krémem, 5 kusů.",
+  "about": [
+    "Šlehačkové cukroví má v těstě tekutou smetanu místo vajec, a proto se po upečení rozpadá na jazyku. Kolečka se slepují vanilkovým máslovým krémem a dozrávají v lednici.",
+    "Z jedné dávky jich vyjde asi šedesát. Taška od našeho kurýra je prázdná, takže krabice pod stromkem zůstane lehká, ale recept je skutečný a krém určitě drží tvar."
+  ],
+  "price": 10900,
+  "image": "dish-slehackove-cukrovi",
+  "recipe": "slehackove-cukrovi",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 400
+}

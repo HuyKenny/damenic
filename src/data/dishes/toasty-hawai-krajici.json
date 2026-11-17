@@ -1,0 +1,22 @@
+{
+  "name": "Toasty hawai",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Teplé sendviče",
+  "description": "Toast se šunkou, ananasem a rozteklým eidamem.",
+  "about": [
+    "Toasty hawai dělí lidi na dva tábory. Ti, kdo ananas na toastu milují, a ti, kteří o něm nechtějí slyšet. Sladkokyselý ananas a slaná šunka s rozteklým sýrem ale fungují a děti je mají rády.",
+    "V Sendvičárně Mezi Krajíci zůstávají krajíce prázdné. Recept si ale uděláš sám: čtyři kusy za 20 minut v troubě."
+  ],
+  "price": 13900,
+  "image": "dish-toasty-hawai-krajici",
+  "recipe": "toasty-hawai",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 960,
+  "allergens": [
+    1,
+    7
+  ]
+}

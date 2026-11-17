@@ -1,0 +1,20 @@
+{
+  "name": "Patatas bravas",
+  "restaurant": "tapas-siesta-nanecisto",
+  "kind": "main",
+  "section": "Tapas a studené polévky",
+  "description": "Křupavé kostky brambor, pikantní rajčatová omáčka a česnekové alioli.",
+  "about": [
+    "Bravas jsou španělský barový klasik: brambory, omáčka a nic, co by odvádělo pozornost. Povaření a smažení dělá křupavou krustu, omáčka s uzenou paprikou dává kouřovou pálivost a alioli to celé zchladí.",
+    "Tapas bar je prázdný, ale talířek je velký tak akorát. Ostrost si nastav sám, protože prázdný talíř se na papriku nezlobí."
+  ],
+  "price": 12900,
+  "image": "dish-patatas-bravas",
+  "recipe": "patatas-bravas",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 2,
+  "allergens": [],
+  "featured": false,
+  "order": 914
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Volské oko",
+  "keywords": [
+    "volské oko",
+    "volské oko recept",
+    "jak udělat volské oko",
+    "smažené vejce",
+    "volské oko na pánvi"
+  ],
+  "image": "dish-volske-oko",
+  "category": "snidane",
+  "vegetarian": true,
+  "servings": 1,
+  "activeMinutes": 5,
+  "cookMinutes": 5,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Volské oko je smažené vejce, jehož žloutek zůstane tekutý a bílek je uvnitř pevný. Jde o základní snídani, která stojí na pánvi s dobře rozpáleným tukem a na čerstvém vejci. Recept je pro jednu porci se dvěma vejci a hotový je za deset minut i s krájením chleba.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "co nejčerstvější"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "nebo 1 lžíce oleje"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "čerstvě mletý"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 80,
+      "unit": "g",
+      "note": "na podávání, 2 krajíce"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na malé pánvi rozpusť máslo na středním plameni. Až přestane pěnit, je dost rozpálené, ale nespálené."
+    },
+    {
+      "text": "Vejce rozklepni nejdřív do misky, ať se neporuší žloutek, a opatrně je vsuň do pánve vedle sebe."
+    },
+    {
+      "text": "Smaž 2 až 3 minuty pod poklicí nebo bez ní, dokud bílek není celý bílý a pevný. Žloutek zůstane tekutý."
+    },
+    {
+      "text": "Sůl přidej na bílek, ne na žloutek. Posyp pepřem a podávej hned s chlebem."
+    }
+  ],
+  "tips": [
+    "Čerstvé vejce drží tvar. Staré se rozlije po celé pánvi a bílek je řídký.",
+    "Pokud chceš zatažený žloutek, otoč vejce po 2 minutách a smaž ještě 20 sekund.",
+    "Pro křupavý okraj použij olej, pro jemnou chuť máslo.",
+    "Bezpečnost: bílek má být dokonale pevný. Tekutý žloutek je u čerstvých vajec běžný, ale nehodí se pro těhotné ani malé děti."
+  ],
+  "substitutions": [
+    "Máslo lze nahradit olejem nebo sádlem.",
+    "Na podávání se hodí i toast, rohlík nebo plátek šunky.",
+    "Pro lehčí variantu použij nepřilnavou pánev bez tuku, vejce se přidá jen pod pokličkou."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat volské oko, aby se nerozbil žloutek?",
+      "a": "Vejce nejdřív rozklepni do misky a pak je opatrně vsuň do pánve. Rozbíjej na rovné ploše, ne o okraj pánve."
+    },
+    {
+      "q": "Jak dlouho se smaží volské oko?",
+      "a": "Na středním plameni 2 až 3 minuty, dokud bílek není pevný. Žloutek zůstane tekutý."
+    },
+    {
+      "q": "Je tekutý žloutek ve volském oku bezpečný?",
+      "a": "U čerstvých vajec od ověřeného zdroje je rizikový jen málo, ale děti, těhotné a senioři by měli jíst vejce propečené."
+    }
+  ]
+}

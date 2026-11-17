@@ -1,0 +1,25 @@
+{
+  "name": "Buchty s vanilkovým krémem, 2 ks",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Kynuté buchty s hustým vanilkovým krémem uvnitř, dva kusy.",
+  "about": [
+    "Buchty s krémem jsou kynuté a uvnitř mají hustý vanilkový pudink. Těsto se pevně uzavírá a kyne podruhé na plechu.",
+    "Po upečení se potřou máslem a zůstanou měkké dva dny. Nedortík je smyšlený, ale krém z receptu je uvařený na doopravdy."
+  ],
+  "price": 6900,
+  "image": "dish-buchty-s-kremem",
+  "recipe": "buchty-s-kremem",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 410
+}

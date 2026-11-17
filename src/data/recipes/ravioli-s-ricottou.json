@@ -1,0 +1,135 @@
+{
+  "title": "Ravioli s ricottou",
+  "keywords": [
+    "ravioli s ricottou",
+    "ravioli s ricottou recept",
+    "domácí ravioli",
+    "ravioli plněné ricottou a špenátem"
+  ],
+  "image": "dish-ravioli-s-ricottou",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 60,
+  "cookMinutes": 4,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "náročnější",
+  "meal": "hlavni",
+  "intro": "Domácí ravioli s ricottou mají tenké vaječné těsto a plnku, která se nesmí rozpadnout při vaření. Rozhoduje suchá ricotta, pořádně utažené okraje a máslo s šalvějí na závěr, které chuť nezakryje.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "note": "těsto",
+      "group": "těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "těsto, velikost M",
+      "group": "těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "těsto",
+      "group": "těsto"
+    },
+    {
+      "ingredient": "ricotta",
+      "amount": 250,
+      "unit": "g",
+      "note": "dobře okapaná",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "jemně nastrouhaný",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "žloutek do plnky",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "čerstvě nastrouhaný",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "k podávání",
+      "group": "podávání"
+    },
+    {
+      "ingredient": "salvej",
+      "amount": 5,
+      "unit": "g",
+      "note": "čerstvé lístky, asi 8 kusů",
+      "group": "podávání"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na vaření",
+      "group": "podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku nasyp na pracovní desku, do důlku dej vejce a sůl. Vidličkou vejce rozmíchej do mouky, pak těsto 8 až 10 minut propracovávej rukama, až je hladké a pružné. Zabal do fólie a nech 30 minut odležet."
+    },
+    {
+      "text": "Ricottu dej na hodinu do sítka, aby odtekla syrovátka. Smíchej ji s parmazánem, žloutkem a muškátovým oříškem. Plnka má být hustá, ne tekutá. Dosol po lžičce."
+    },
+    {
+      "text": "Těsto rozděl na čtvrtiny, každou vyválej (nebo protáhni strojkem na těstoviny) na tloušťku asi 1,5 mm. Na pruh těsta dávej každých 5 cm hromádku plnky o velikosti lžičky."
+    },
+    {
+      "text": "Okolo plnky potři těsto prstem namočeným ve vodě, přikryj druhým pruhem a z plnky vytlač vzduch. Okraje pevně zatlač a vykrájej čtverce nebo kolečka. Hotové ravioli klaď na pomoučený plech, nesmí se dotýkat."
+    },
+    {
+      "text": "V široké pánvi rozehřej máslo na středním plameni, vhoď šalvěj a nech 2 minuty prskat, až máslo lehce zhnědne a voní oříšky. Pánev odstav."
+    },
+    {
+      "text": "Ravioli vhazuj po částech do osolené vroucí vody a vař 3 až 4 minuty, až vyplavou na hladinu. Děrovanou lžící je přenes do pánve s máslem, jemně otoč a podávej hned."
+    }
+  ],
+  "tips": [
+    "Těsto musí být tenké, ale ne průsvitné. Okraje se při skládání nesmí překrývat dvojitou vrstvou, jinak zůstanou syrové.",
+    "Hotové nevařené ravioli lze zamrazit na plechu a potom přesypat do sáčku. Vaří se zmrazené 5 až 6 minut.",
+    "Vodu vař jen mírným varem. Prudký var ravioli roztrhá."
+  ],
+  "substitutions": [
+    "Ricottu částečně nahraď špenátem: 100 g mraženého špenátu vyždímaného do sucha a jemně nasekaného.",
+    "Šalvěj můžeš nahradit citronovou kůrou nebo prostě opečenou špetkou chilli."
+  ],
+  "faq": [
+    {
+      "q": "Proč se mi ravioli při vaření rozpadají?",
+      "a": "Nejčastěji uvnitř zůstal vzduch nebo jsou okraje špatně stisknuté. Před zatlačením okrajů vždy vytlač vzduch a vař jen při mírném varu."
+    },
+    {
+      "q": "Jak dlouho se vaří čerstvé ravioli?",
+      "a": "Čerstvé ravioli se vaří 3 až 4 minuty, hotové jsou, když vyplavou na hladinu. Zmrazené potřebují 5 až 6 minut."
+    },
+    {
+      "q": "Dá se těsto na ravioli udělat bez vajec?",
+      "a": "Dá. Ze 300 g mouky a asi 150 ml vlažné vody uděláš pevné těsto, které je ale méně pružné a hůř se roztahuje."
+    }
+  ]
+}

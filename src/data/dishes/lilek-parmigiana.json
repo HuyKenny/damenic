@@ -1,0 +1,22 @@
+{
+  "name": "Lilek parmigiana",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Vrstvy pečeného lilku, rajčatové omáčky, mozzarelly a parmazánu.",
+  "about": [
+    "Parmigiana vznikla v jižní Itálii tam, kde roste lilek a rajčata stojí skoro nic. Plátky lilku se vrství s omáčkou a sýrem a pekáč se vrací do trouby, dokud se nad okrajem neobjeví bublinky.",
+    "Naše trattoria upekla jen pekáč, který je prázdný, ale měkký lilek je v receptu. Vrstvi trpělivě. Hlad na to čeká."
+  ],
+  "price": 23900,
+  "image": "dish-lilek-parmigiana",
+  "recipe": "lilek-parmigiana",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 911
+}

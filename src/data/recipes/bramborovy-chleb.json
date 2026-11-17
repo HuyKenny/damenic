@@ -1,0 +1,105 @@
+{
+  "title": "Bramborový chléb",
+  "keywords": [
+    "bramborový chléb",
+    "bramborový chleba",
+    "bramborový chléb recept",
+    "chléb z vařených brambor"
+  ],
+  "image": "dish-bramborovy-chleb-zitra-upecem",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 45,
+  "waitMinutes": 100,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "meal": "pecivo",
+  "intro": "Bramborový chléb je kynutý chléb s vařenými bramborami, které drží střídku vláčnou několik dní. Brambory se musí rozmačkat do hladka a nechat vychladnout. Chléb vyjde s tenkou kůrkou a jemným kmínem.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 300,
+      "unit": "g",
+      "note": "uvařené, oloupané, rozmačkané"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 21,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vlažná, i s vodou z brambor"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař v osolené vodě 20 minut, rozmačkej a nech vychladnout na vlažné."
+    },
+    {
+      "text": "Droždí rozmíchej s cukrem a vlažnou vodou. Přidej obě mouky, sůl, kmín a brambory. Hněť 10 minut do hladkého, lehce lepivého těsta."
+    },
+    {
+      "text": "Přikryj a nech 1 hodinu kynout, až zdvojnásobí objem."
+    },
+    {
+      "text": "Těsto vyklop, vytvaruj bochník, vlož do vymazané formy 25 cm nebo na plech a nech 40 minut dokynout. Troubu předehřej na 220 °C."
+    },
+    {
+      "text": "Peč 10 minut na 220 °C, pak sniž na 190 °C a peč 35 minut. Hotový chléb zní při poklepání na spodek dutě. Nech 30 minut vychladnout."
+    }
+  ],
+  "tips": [
+    "Brambory musí být vychladlé, horké by zabily droždí.",
+    "Použij mouku na posyp, těsto je lepkavé.",
+    "Chléb vydrží 4 dny v látkovém sáčku."
+  ],
+  "substitutions": [
+    "Polohrubou mouku nahradí směs hladké a žitné 4 : 1.",
+    "Kmín můžeš vynechat nebo nahradit rozmarýnem.",
+    "Droždí čerstvé nahradí 7 g sušeného."
+  ],
+  "faq": [
+    {
+      "q": "Proč dávat do chleba brambory?",
+      "a": "Škrob v bramborách váže vodu a střídka zůstane déle vláčná."
+    },
+    {
+      "q": "Jak poznám, že je chléb upečený?",
+      "a": "Zní dutě při poklepání na spodek. Vnitřní teplota je kolem 95 °C."
+    },
+    {
+      "q": "Dají se použít zbylé brambory?",
+      "a": "Ano, vařené a rozmačkané brambory z předešlého dne fungují stejně dobře."
+    }
+  ]
+}

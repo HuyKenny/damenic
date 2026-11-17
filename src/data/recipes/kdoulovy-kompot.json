@@ -1,0 +1,97 @@
+{
+  "title": "Kdoulový kompot",
+  "keywords": [
+    "kdoulový kompot",
+    "kdoulový kompot recept",
+    "kompot z kdoulí",
+    "vařená kdoule",
+    "kdoule kompot"
+  ],
+  "image": "dish-kdoulovy-kompot",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 30,
+  "waitMinutes": 60,
+  "waitLabel": "vychlazení v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Kdoulový kompot je čerstvý ovocný kompot, který se vaří ze syrových kdoulí do měkka a podává se vychlazený. Kdoule se syrové jíst nedají, protože jsou tvrdé a trpké, ale po půlhodinovém vaření zvláční a získají jemnou vůni po jablku s hruškou. Výsledkem je asi litr kompotu, který vydrží 5 dní v lednici. Nejde o zavařování, kompot se jí čerstvý.",
+  "ingredients": [
+    {
+      "ingredient": "kdoule",
+      "amount": 800,
+      "unit": "g",
+      "note": "asi 2 větší kusy"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1000,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 90,
+      "unit": "g"
+    },
+    {
+      "ingredient": "skorice-cela",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "hrebicek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva a pruh kůry"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kdoule očisti suchou utěrkou od chmýří, rozděl na čtvrtky, vykrájej jádřince a oloupej. Dužinu nakrájej na kousky velké asi 2 cm a hned je pokapej citronovou šťávou, aby nezhnědly."
+    },
+    {
+      "text": "Ve větším hrnci svař vodu s cukrem, skořicí, hřebíčkem a pruhem citronové kůry a míchej, dokud se cukr nerozpustí."
+    },
+    {
+      "text": "Přidej kdoule a vař na mírném plameni 25 až 30 minut pod pokličkou. Kousky jsou hotové, když se nůž zapíchne bez odporu, ale pořád drží tvar."
+    },
+    {
+      "text": "Hrnec odstav, kompot nech vychladnout a pak ho aspoň hodinu vychlaď. Před podáváním vyjmi skořici, hřebíček a kůru."
+    },
+    {
+      "text": "Kompot přelij do čisté uzavřené nádoby a uchovávej v lednici do 5 dnů."
+    }
+  ],
+  "tips": [
+    "Kdoule vař pomalu. Prudký var rozvaří okraje a dužina zkašovatí.",
+    "Jádřince nevyhazuj hned: obsahují pektin, který kompot lehce zahustí. Dej je do plátěného sáčku a vyjmi před podáváním.",
+    "Hodí se studený k tvarohu, rýžovému nákypu nebo jako příloha k pečenému masu.",
+    "Pokud chceš kompot sladší, dosladíš až po uvaření, kdoule sladkost vstřebávají postupně."
+  ],
+  "substitutions": [
+    "Cukr nahraď 70 g medu přidaného až do vlažného kompotu.",
+    "Za kdoule lze použít tvrdší jablka a hrušky, doba vaření se zkrátí na 15 minut.",
+    "Místo skořice a hřebíčku přidej 2 plátky zázvoru a kousek vanilkového lusku."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří kdoule na kompot?",
+      "a": "Kousky 2 cm velké se vaří asi 25 až 30 minut na mírném plameni. Jsou hotové, když je nůž prostoupí bez odporu."
+    },
+    {
+      "q": "Jak dlouho vydrží kdoulový kompot v lednici?",
+      "a": "V čisté uzavřené nádobě vydrží až 5 dní. Nejde o kompot na dlouhé skladování."
+    },
+    {
+      "q": "Proč kdoule po nakrájení hnědnou?",
+      "a": "Dužina na vzduchu oxiduje. Pokapej ji citronovou šťávou nebo ji nech ve vodě s citronem, než ji dáš do hrnce."
+    }
+  ]
+}

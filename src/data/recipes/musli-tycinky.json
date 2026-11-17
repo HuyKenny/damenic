@@ -1,0 +1,109 @@
+{
+  "title": "Müsli tyčinky",
+  "keywords": [
+    "müsli tyčinky",
+    "müsli tyčinky recept",
+    "domácí müsli tyčinky",
+    "ovesné tyčinky",
+    "tyčinky z ovesných vloček"
+  ],
+  "image": "dish-musli-tycinky",
+  "category": "snidane",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 60,
+  "waitLabel": "vychladnutí před krájením",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Müsli tyčinky jsou pečené ovesné tyčinky s mandlemi, semínky a rozinkami, držené medem a máslem. Z jedné plechové formy 20 x 20 cm vyjde 12 kousků. Aby se nerozpadaly, je důležité sypký základ pořádně přitlačit a před krájením nechat úplně vychladnout.",
+  "ingredients": [
+    {
+      "ingredient": "ovesne-vlocky",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mandle",
+      "amount": 60,
+      "unit": "g",
+      "note": "nasekané"
+    },
+    {
+      "ingredient": "slunecnicova-seminka",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "med",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 160 °C (horkovzduch 140 °C). Formu 20 x 20 cm vyložit pečicím papírem tak, aby přesahoval přes okraje."
+    },
+    {
+      "text": "V hrnci na mírném plameni rozpusť máslo s medem a cukrem. Míchej 2 minuty, dokud se cukr nerozpustí. Nevař."
+    },
+    {
+      "text": "V míse smíchej vločky, mandle, semínka, rozinky a sůl. Přilij máslovou směs a míchej, dokud není vše vlhké."
+    },
+    {
+      "text": "Směs vlož do formy a pevně ji přitlač dnem sklenice nebo lžící. Čím víc ji stlačíš, tím lépe drží."
+    },
+    {
+      "text": "Peč 25 minut, dokud okraje nezezlátnou. Střed zůstane měkký, ztuhne při chladnutí."
+    },
+    {
+      "text": "Nech vychladnout ve formě aspoň hodinu, pak vyjmi pomocí papíru a nakrájej na 12 tyčinek. Skladuj v dóze 5 dní."
+    }
+  ],
+  "tips": [
+    "Nekrájej tyčinky teplé. Rozpadly by se, protože ztuhnou až po úplném vychladnutí.",
+    "Přitlač směs opravdu pevně, to je hlavní tajemství, aby držela pohromadě.",
+    "Pro křupavější verzi peč o 5 minut déle.",
+    "Hotové tyčinky se hodí do tašky na výlet nebo do školy."
+  ],
+  "substitutions": [
+    "Mandle vyměň za lískové nebo vlašské ořechy, nebo za další semínka.",
+    "Med nahraď javorovým sirupem v stejném množství.",
+    "Máslo lze nahradit kokosovým olejem nebo olejem, tyčinky budou trochu křehčí."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat müsli tyčinky, aby se nerozpadaly?",
+      "a": "Směs pevně přitlač a nech úplně vychladnout před krájením. Máslo s medem drží vločky pohromadě."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí müsli tyčinky?",
+      "a": "V uzavřené dóze vydrží 5 dní. Můžeš je také zamrazit, rozmrazí se za hodinu."
+    },
+    {
+      "q": "Dají se müsli tyčinky udělat bez pečení?",
+      "a": "Ano, ale budou měkčí. Směs po smíchání s tekutými přísadami stlač do formy a nech 2 hodiny ztuhnout v lednici."
+    }
+  ]
+}

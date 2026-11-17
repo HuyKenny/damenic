@@ -1,0 +1,106 @@
+{
+  "title": "Pečený candát s citronem a bylinkami",
+  "keywords": [
+    "pečený candát",
+    "candát recept",
+    "candát v troubě",
+    "candát na másle",
+    "pečený candát s citronem"
+  ],
+  "image": "dish-peceny-candat",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 18,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Candát je sladkovodní ryba s bílým, jemně vláknitým masem bez zápachu po bahně. Filety se v troubě upečou za necelou půlhodinu, pokud je maso hotové při 63 °C. Citron, máslo a nať bylinek stačí.",
+  "ingredients": [
+    {
+      "ingredient": "candat-file",
+      "amount": 400,
+      "unit": "g",
+      "note": "2 filety po 200 g, s kůží"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva a plátky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "g",
+      "note": "sušený"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.1,
+      "unit": "ks",
+      "note": "nasekaná nať"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C, horkovzduch 190 °C. Filety osuš, ze všech stran osol a opepři."
+    },
+    {
+      "text": "V misce smíchej rozpuštěné máslo, citronovou šťávu, česnek a tymián. Plech vyložený pečicím papírem lehce potři máslem."
+    },
+    {
+      "text": "Filety polož kůží dolů, polij máslem a posyp bylinkami. Poklaď plátky citronu."
+    },
+    {
+      "text": "Peč 15 až 18 minut, podle tloušťky. Hotové je, když má ryba uvnitř 63 °C a maso se loupe na plátky. Posyp petrželkou a podávej."
+    }
+  ],
+  "tips": [
+    "Candát je libová ryba, přepečená zhoustne a vyschne. Raději ji peč o minutu méně.",
+    "Šupiny zkontroluj prstem a zbytky odstraň, pokud je rybář nechal.",
+    "Zapékej s kůží dolů, ochrání maso před vysycháním."
+  ],
+  "substitutions": [
+    "Candát nahraď filetem z pstruha, tresky nebo okouna.",
+    "Máslo nahraď olivovým olejem.",
+    "Citron nahraď limetkou."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct candáta v troubě?",
+      "a": "Filety 2 až 3 cm silné peč 15 až 18 minut při 200 °C. Uvnitř 63 °C."
+    },
+    {
+      "q": "Jak se čistí candát?",
+      "a": "Pokud kupuješ celého, očisti ho od šupin, vykuchej a opláchni. Filety jsou většinou bez kostí, jen zkontroluj prsty drobné kosti."
+    },
+    {
+      "q": "Lze candáta smažit na pánvi?",
+      "a": "Ano, 3 až 4 minuty z každé strany na středně vysokém plameni, nejdřív kůží dolů."
+    }
+  ]
+}

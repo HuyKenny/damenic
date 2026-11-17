@@ -1,0 +1,23 @@
+{
+  "name": "Pečený candát s citronem",
+  "restaurant": "steakarna-rare-priste",
+  "kind": "main",
+  "section": "Ryby a mořské plody",
+  "description": "Filet z candáta pečený s citronem, máslem a tymiánem. Voní z receptu, ne z tašky.",
+  "about": [
+    "Candát má jemné bílé maso a dobře snáší citron, máslo i bylinky. Z trouby vychází za dvacet minut a nepotřebuje žádnou složitou omáčku.",
+    "Steakárna Rare příště se pyšní, že rybu nepřepeče. Doma ji nepřepečeš ani ty, když budeš hlídat teplotu 63 stupňů."
+  ],
+  "price": 38900,
+  "image": "dish-peceny-candat-steakarna",
+  "recipe": "peceny-candat",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    4,
+    7
+  ],
+  "order": 190
+}

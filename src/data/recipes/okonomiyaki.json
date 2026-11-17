@@ -1,0 +1,138 @@
+{
+  "title": "Okonomiyaki",
+  "keywords": [
+    "okonomiyaki",
+    "okonomiyaki recept",
+    "japonská zelná placka",
+    "japonská palačinka se zelím"
+  ],
+  "image": "dish-okonomiyaki-neurcito",
+  "category": "asijska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 15,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Okonomiyaki je japonská slaná placka z nasekaného zelí, vajec a mouky, smažená na pánvi a polévaná sladko-slanou omáčkou. Těsto je jen pojivo, takže zelí musí být nakrájené najemno a placka se nesmí mačkat. Hotovo je za půl hodiny.",
+  "ingredients": [
+    {
+      "ingredient": "zeli-bile",
+      "amount": 300,
+      "unit": "g",
+      "note": "najemno",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 120,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "dashi-prasek",
+      "amount": 2,
+      "unit": "g",
+      "note": "rozpuštěný ve vodě",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 120,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nadrobno",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 100,
+      "unit": "g",
+      "note": "tenké plátky",
+      "group": "Placka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Placka"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "worcester",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ustricova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 40,
+      "unit": "g",
+      "note": "na pokapání",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Dashi rozpusť ve 120 ml teplé vody a nech vychladnout. Přidej mouku a vejce a promíchej do hladkého těsta, které není hrudkovité."
+    },
+    {
+      "text": "Přidej zelí a jarní cibulku a jemně promíchej, aby zelí bylo jen obalené. Těsto bude hustější než na palačinky."
+    },
+    {
+      "text": "Smíchej kečup, worcester a ustřicovou omáčku. Na pánvi rozehřej olej na středním plameni, vlož poloviční dávku těsta, tvaruj kruh o průměru 15 cm a na vrch rozlož plátky slaniny."
+    },
+    {
+      "text": "Smaž 5 minut pod pokličkou, otoč a dalších 5 minut. Placka je hotová, když je zlatá a slanina křupavá. Totéž udělej s druhou plackou."
+    },
+    {
+      "text": "Potři omáčkou, pokapej majonézou a rozkrájej na čtvrtiny."
+    }
+  ],
+  "tips": [
+    "Placku nemačkej stěrkou, zůstane lehká a nadýchaná.",
+    "Zelí krájej opravdu najemno, jinak se placka rozpadá.",
+    "Pro výraznější chuť přidej 1 lžičku nakládaného zázvoru."
+  ],
+  "substitutions": [
+    "Dashi nahradí vývar z kostky, jen přidej méně soli.",
+    "Slaninu můžeš vynechat nebo nahradit krevetami či šunkou.",
+    "Pro verzi bez vajec dej do těsta o 50 ml víc vody a placku smaž pomalu."
+  ],
+  "faq": [
+    {
+      "q": "Co je okonomiyaki?",
+      "a": "Japonská slaná placka ze zelí, těsta a různých přísad. Jméno zhruba znamená, že si do ní dáš, co máš rád."
+    },
+    {
+      "q": "Proč se placka rozpadá?",
+      "a": "Obvykle je zelí nakrájené hrubě nebo je málo těsta. Krájej najemno a placku obracej až po 5 minutách."
+    },
+    {
+      "q": "Jak poznám, že je uvnitř propečená?",
+      "a": "Povrch je zlatý, placka drží tvar a při zmáčknutí uvnitř nevytéká těsto. Smaž na středním plameni pod pokličkou."
+    }
+  ]
+}

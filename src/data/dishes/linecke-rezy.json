@@ -1,0 +1,25 @@
+{
+  "name": "Linecké řezy s rybízovým džemem",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Řezy z plechu",
+  "description": "Máslové linecké těsto, rybízový džem a drobenka navrch.",
+  "about": [
+    "Linecké řezy mají dole těsto, uprostřed rybízový džem a navrch drobenku z nastrouhaného těsta. Jsou křehké a lehce kyselé.",
+    "Stačí mít v mrazáku kus těsta. Vitrína zůstane prázdná, ale plech řezů zmizí doma dřív, než ho stihneš sfouknout z prachu."
+  ],
+  "price": 5900,
+  "image": "dish-linecke-rezy",
+  "recipe": "linecke-rezy",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 411
+}

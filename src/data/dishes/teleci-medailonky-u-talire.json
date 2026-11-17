@@ -1,0 +1,24 @@
+{
+  "name": "Telecí medailonky se žampiony",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Minutky",
+  "description": "Telecí kolečka v smetanové žampionové omáčce. Šťavnatá, když doma nepřepečeš.",
+  "about": [
+    "Telecí medailonky jsou jemné maso, které se nesmí přepéct, a žampionová smetanová omáčka mu dá šťávu. Pánev, 15 minut a trocha opatrnosti.",
+    "U prázdného talíře žampiony nevoní a medailonky nenajdeš. Doma je uděláš za patnáct minut, jen bez hluku sousedů."
+  ],
+  "price": 34900,
+  "image": "dish-teleci-medailonky-u-talire",
+  "recipe": "teleci-medailonky-se-zampionovou-omackou",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    12
+  ],
+  "order": 200
+}

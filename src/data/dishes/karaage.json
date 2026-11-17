@@ -1,0 +1,24 @@
+{
+  "name": "Karaage s citronem a majonézou",
+  "restaurant": "sushi-bez-zrnka",
+  "kind": "main",
+  "section": "Misky a teplá jídla",
+  "description": "Japonské smažené kuřecí kousky v bramborovém škrobu s citronem a majonézou.",
+  "about": [
+    "Karaage patří k izakaya, japonským hospůdkám, kde se k pivu jí něco křupavého. Maso se marinuje, škrobí a smaží dvakrát, aby se kůrka nerozmočila.",
+    "Citron na talíři je povinný. Kurýr Nikdo ho nedoručí, tak ho nakrájej sám."
+  ],
+  "price": 17900,
+  "image": "dish-karaage",
+  "recipe": "karaage",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    6
+  ],
+  "featured": false,
+  "order": 921
+}

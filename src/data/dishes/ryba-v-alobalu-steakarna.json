@@ -1,0 +1,23 @@
+{
+  "name": "Ryba v alobalu s citronem",
+  "restaurant": "steakarna-rare-priste",
+  "kind": "main",
+  "section": "Ryby a mořské plody",
+  "description": "Filet s citronem, cuketou a rajčaty, zapečený v alobalu. Voní i ze vzduchu.",
+  "about": [
+    "Ryba v alobalu se peče v páře ze svých šťáv. Citron, zelenina a kousek másla, vše se zabalí a necháš to pár minut samo. Nic nepřischne a nic nevyschne.",
+    "Naše steakárna zavírá balíčky ve smyšlené nabídce. U tebe doma balíček voní už po deseti minutách."
+  ],
+  "price": 36900,
+  "image": "dish-ryba-v-alobalu-steakarna",
+  "recipe": "ryba-v-alobalu",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    4,
+    7
+  ],
+  "order": 180
+}

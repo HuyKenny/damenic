@@ -1,0 +1,100 @@
+{
+  "title": "Toasty hawai",
+  "keywords": [
+    "toasty hawai",
+    "toast hawai",
+    "hawai toast recept",
+    "toast se šunkou, sýrem a ananasem",
+    "zapečený toast s ananasem"
+  ],
+  "image": "dish-toasty-hawai",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Toasty hawai jsou zapečené sendviče se šunkou, ananasem a rozteklým sýrem. Vyjdou čtyři kusy za 20 minut v troubě nebo na pánvi. Aby toast nezvlhl, ananas se musí dobře odkapat a sýr přijde nahoru, aby ho zalil.",
+  "ingredients": [
+    {
+      "ingredient": "toustovy-chleb",
+      "amount": 200,
+      "unit": "g",
+      "note": "8 plátků"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na potření"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 100,
+      "unit": "g",
+      "note": "4 plátky"
+    },
+    {
+      "ingredient": "ananas-konzerva",
+      "amount": 114,
+      "unit": "g",
+      "note": "půl plechovky, dobře odkapané"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 120,
+      "unit": "g",
+      "note": "plátky nebo strouhaný"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 30,
+      "unit": "g",
+      "note": "na potření, nepovinné"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C). Ananas nech 5 minut odkapat v sítu a osuš papírovou utěrkou."
+    },
+    {
+      "text": "Čtyři plátky chleba z jedné strany potři máslem a ulož na plech namaštěnou stranou dolů. Na každý položit plátek šunky."
+    },
+    {
+      "text": "Na šunku poskládej kousky ananasu a přikryj zbylým plátkem chleba, vnější strany potři máslem."
+    },
+    {
+      "text": "Na vrch dej plátek sýra a zapékej 8 až 10 minut, dokud se sýr nerozpustí a okraje chleba nezezlátnou."
+    },
+    {
+      "text": "Nech 1 minutu odpočinout, aby se sýr usadil, a podávej horké. Pokud chceš křupavější toast, otoč ho v polovině pečení."
+    }
+  ],
+  "tips": [
+    "Ananas musí být suchý. Mokrý ananas zvlhčí chléb a toast je rozmáčený.",
+    "Šunku vlož pod ananas, ne nad něj. Pak se nespálí a ananas nezprůhlední.",
+    "Na pánvi: smaž sendviče po 3 minutách z každé strany pod poklicí na nižším plameni.",
+    "Toast vydrží teplý jen krátce, takže ho jez hned."
+  ],
+  "substitutions": [
+    "Eidam vyměň za goudu nebo ementál.",
+    "Šunku nahraď plátky uzeného tofu nebo mozzarellou pro vegetariánskou variantu.",
+    "Ananas lze nahradit broskví z konzervy nebo čerstvými plátky."
+  ],
+  "faq": [
+    {
+      "q": "Jaký sýr je na toasty hawai nejlepší?",
+      "a": "Eidam nebo gouda, protože dobře taje. Sýr má být v plátcích, ne ve větších kusech."
+    },
+    {
+      "q": "Jak udělat toasty hawai v troubě?",
+      "a": "Při 200 °C se zapékají 8 až 10 minut, dokud sýr není rozpuštěný a chléb zlatý."
+    },
+    {
+      "q": "Může být ananas čerstvý?",
+      "a": "Ano, ale čerstvý ananas pustí víc šťávy než z konzervy. Nakrájej ho na tenké plátky a osuš."
+    }
+  ]
+}

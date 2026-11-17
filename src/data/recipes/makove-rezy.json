@@ -1,0 +1,144 @@
+{
+  "title": "Makové řezy s vanilkovým krémem",
+  "keywords": [
+    "makové řezy",
+    "makové řezy recept",
+    "makové řezy s krémem",
+    "recept na makové řezy",
+    "makové řezy s pudinkem"
+  ],
+  "intro": "Makové řezy mají vláčný korpus s mletým mákem a vanilkový krém z vařeného pudinku s máslem. Plech 20 x 30 cm dá asi 15 řezů. Těžké je mák: musí být čerstvě mletý a těsto nesmí zůstat v troubě déle, než je potřeba, jinak zhořkne.",
+  "image": "dish-makove-rezy",
+  "category": "dezerty",
+  "servings": 15,
+  "activeMinutes": 40,
+  "cookMinutes": 28,
+  "waitMinutes": 240,
+  "waitLabel": "chladnutí a ztuhnutí v lednici",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 110,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mak-mlety",
+      "amount": 100,
+      "unit": "g",
+      "note": "čerstvě mletý",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 120,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 8,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 80,
+      "unit": "ml",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 80,
+      "unit": "ml",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 74,
+      "unit": "g",
+      "note": "2 sáčky",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "měkké",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "group": "Posyp"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpus",
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 165 °C). Plech 20 x 30 cm vyložit pečicím papírem. Vejce ušlehej s cukrem do světlé pěny, přidej olej a mléko."
+    },
+    {
+      "section": "Korpus",
+      "text": "Mouku smíchej s mletým mákem a kypřicím práškem, zapracuj do těsta a rozetři na plech. Peč 22 až 25 minut, dokud špejle nevyjde čistá. Nech vychladnout na mřížce."
+    },
+    {
+      "section": "Krém",
+      "text": "Z mléka, pudinkového prášku a cukru uvař hustý pudink, za stálého míchání. Přikryj fólií na povrchu a nech zcela vychladnout na pokojovou teplotu."
+    },
+    {
+      "section": "Krém",
+      "text": "Měkké máslo vyšlehej do světlé pěny a po lžících zašlehej vychladlý pudink. Krém musí být hladký a držet tvar."
+    },
+    {
+      "section": "Skládání",
+      "text": "Krém rozetři na vychladlý korpus a nech v lednici aspoň 4 hodiny ztuhnout. Posyp moučkovým cukrem a krájej do čtverců namočeným nožem."
+    }
+  ],
+  "tips": [
+    "Mák nech umlít těsně před použitím nebo použij čerstvě mletý; starý mák je hořký.",
+    "Pudink i máslo musí mít stejnou teplotu, asi 20 °C, jinak se krém sráží.",
+    "Skladuj v lednici 3 dny, po 2 dnech jsou řezy nejlepší, korpus pěkně provlhne."
+  ],
+  "substitutions": [
+    "Mletý mák nahraď 100 g mletých vlašských ořechů, řezy budou ořechové.",
+    "Máslo v krému nahraď 150 g mascarpone.",
+    "Mléko v korpusu nahraď ovesným nápojem."
+  ],
+  "faq": [
+    {
+      "q": "Proč jsou makové řezy hořké?",
+      "a": "Mák byl starý nebo žluklý. Používej čerstvý mák, nejlépe čerstvě umletý."
+    },
+    {
+      "q": "Jde použít mák z kupovaného balení mletého?",
+      "a": "Ano, pokud je čerstvý a bez žluklého zápachu. Přivoň k němu a ochutnej, než ho použiješ."
+    },
+    {
+      "q": "Jak dlouho vydrží makové řezy?",
+      "a": "V lednici přikryté 3 dny. Po vyjmutí je nech 15 minut zteplat, krém bude měkčí."
+    }
+  ]
+}

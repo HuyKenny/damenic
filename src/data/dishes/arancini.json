@@ -1,0 +1,24 @@
+{
+  "name": "Arancini s mozzarellou",
+  "restaurant": "lahudky-pozitri",
+  "kind": "main",
+  "section": "Z teplé vitríny",
+  "description": "Smažené rýžové kuličky se šafránem a mozzarellou uvnitř.",
+  "about": [
+    "Arancini vznikly na Sicílii jako chytrý způsob, jak využít zbytek rizota. Kulička se obalí, usmaží a vevnitř čeká sýr, který se při rozkousnutí natáhne do nitě.",
+    "Vitrína lahůdek je prázdná, a proto se v ní nic neohřeje. Ta vůně smažené strouhanky ti ale zůstane v hlavě, takže nic nevadí."
+  ],
+  "price": 11900,
+  "image": "dish-arancini",
+  "recipe": "arancini",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 913
+}

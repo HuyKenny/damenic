@@ -1,0 +1,139 @@
+{
+  "title": "Rybízový koláč s pěnou",
+  "keywords": [
+    "rybízový koláč s pěnou",
+    "rybízový koláč",
+    "rybízový koláč recept",
+    "koláč z červeného rybízu",
+    "rybízový koláč s pusinkou"
+  ],
+  "intro": "Rybízový koláč s pěnou je křehké máslové těsto, kyselý červený rybíz a sněhová pěna, která se peče pomalu a zůstane světlá. Pečeš ho na plechu 25 x 35 cm. Těžké je, aby těsto nezvlhlo od rybízu: koláč se proto nejdřív předpeče a rybíz se obalí škrobem.",
+  "image": "dish-rybizovy-kolac-s-penou",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 50,
+  "cookMinutes": 50,
+  "waitMinutes": 120,
+  "waitLabel": "odpočinek těsta a chladnutí",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 125,
+      "unit": "g",
+      "note": "studené",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "jen žloutky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "rybiz-cerveny",
+      "amount": 400,
+      "unit": "g",
+      "note": "očištěný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 16,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 40,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "jen bílky",
+      "group": "Pěna"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Pěna"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 8,
+      "unit": "g",
+      "group": "Pěna"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Z mouky, másla, moučkového cukru, 3 žloutků a mléka vypracuj těsto, zabal a nech 1 hodinu v lednici. Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C)."
+    },
+    {
+      "section": "Podkladové těsto",
+      "text": "Těsto vyválej na plech vyložený pečicím papírem a propíchej vidličkou. Předpeč 15 minut do světle zlaté barvy."
+    },
+    {
+      "section": "Rybíz",
+      "text": "Rybíz promíchej se škrobem a 40 g cukru a rovnoměrně rozlož na předpečený základ."
+    },
+    {
+      "section": "Pěna",
+      "text": "Bílky šlehej do pevného sněhu, po částech přidávej 150 g cukru a nakonec škrob. Šlehej, dokud se cukr nerozpustí a sníh nehladí. Pěnu rozetři na rybíz až do rohů."
+    },
+    {
+      "section": "Pečení",
+      "text": "Sniž teplotu na 150 °C a peč 25 až 30 minut. Pěna má být lehce zlatá a pevná. Nech koláč vychladnout na plechu aspoň 2 hodiny a krájej ostrým namočeným nožem."
+    }
+  ],
+  "tips": [
+    "Rybíz otrhej vidličkou z větviček; nejsnáze se oddělí, když větvičky zchladíš v lednici.",
+    "Bílky musí být bez kapky žloutku. Cukr přidávej po lžících, jinak se sníh nerozšlehá.",
+    "Skladuj v lednici 3 dny. Pěna časem změkne, proto koláč nejlépe sněz do dvou dnů."
+  ],
+  "substitutions": [
+    "Červený rybíz nahraď černým nebo mraženým; mražený nerozmrazuj, jen ho obal škrobem.",
+    "Základ můžeš nahradit rozdrcenými máslovými sušenkami s rozpuštěným máslem (200 g sušenek na 100 g másla).",
+    "Škrob v rybízu nahraď stejným množstvím krupice, rybíz tolik nezvlhne."
+  ],
+  "faq": [
+    {
+      "q": "Jak upéct rybízový koláč s pěnou, aby pěna nestekla?",
+      "a": "Použij pevný sníh s cukrem a pěnu peč při 150 °C. Při vyšší teplotě pěna zhnědne rychleji než uschne."
+    },
+    {
+      "q": "Jde použít mražený rybíz?",
+      "a": "Ano, ale nerozmrazuj ho. Obal ho ve škrobu s cukrem a rovnou rozlož na těsto, pečení prodluž o 5 minut."
+    },
+    {
+      "q": "Proč je koláč zespodu mokrý?",
+      "a": "Rybíz pustil šťávu do nepředpečeného těsta. Základ vždy předpeč a ovoce obal ve škrobu."
+    }
+  ]
+}

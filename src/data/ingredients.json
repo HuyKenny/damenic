@@ -7419,5 +7419,205 @@
     "diet": "meat",
     "allergens": [],
     "family": "veprove"
+  },
+  {
+    "id": "tresne",
+    "name": "Třešně",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 9900,
+      "label": "vanička 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
+  },
+  {
+    "id": "rybiz-cerveny",
+    "name": "Červený rybíz",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 250,
+      "price": 5900,
+      "label": "vanička 250 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
+  },
+  {
+    "id": "halibut-file",
+    "name": "Halibut, filet",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 400,
+      "price": 39900,
+      "label": "balení 400 g"
+    },
+    "diet": "fish",
+    "allergens": [
+      4
+    ],
+    "family": "ryba",
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "candat-file",
+    "name": "Candát, filet",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 400,
+      "price": 27900,
+      "label": "balení 400 g"
+    },
+    "diet": "fish",
+    "allergens": [
+      4
+    ],
+    "family": "ryba",
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "jehneci-kotlety",
+    "name": "Jehněčí kotlety",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 700,
+      "price": 44900,
+      "label": "balení asi 8 kotlet, 700 g"
+    },
+    "diet": "meat",
+    "allergens": [],
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "syrova-sunka",
+    "name": "Šunka syrová, plátky",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 80,
+      "price": 6900,
+      "label": "balení 80 g"
+    },
+    "diet": "meat",
+    "allergens": [],
+    "family": "veprove",
+    "priceSource": "illustrative",
+    "priceCheckedAt": null
+  },
+  {
+    "id": "kdoule",
+    "name": "Kdoule",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 6900,
+      "label": "1 kg, 2 až 3 kusy"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
+  },
+  {
+    "id": "aronie",
+    "name": "Aronie (temnoplodec)",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 7900,
+      "label": "500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [],
+    "family": "ovoce"
+  },
+  {
+    "id": "salvej",
+    "name": "Šalvěj čerstvá",
+    "department": "Ovoce a zelenina",
+    "baseUnit": "g",
+    "pack": {
+      "size": 20,
+      "price": 3900,
+      "label": "balení 20 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
+  },
+  {
+    "id": "doubanjiang",
+    "name": "Doubanjiang (pálivá fazolová pasta)",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 18,
+    "pack": {
+      "size": 300,
+      "price": 8900,
+      "label": "sklenice 300 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": "pepr-sichuansky",
+    "name": "Pepř sečuánský",
+    "department": "Koření a dochucovadla",
+    "baseUnit": "g",
+    "spoon": 2,
+    "pack": {
+      "size": 30,
+      "price": 6900,
+      "label": "sáček 30 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
+  },
+  {
+    "id": "mouka-celozrnna",
+    "name": "Pšeničná mouka celozrnná",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 9,
+    "pack": {
+      "size": 1000,
+      "price": 3000,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testo-pecivo"
   }
 ]

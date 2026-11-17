@@ -1,0 +1,130 @@
+{
+  "title": "Pečený květák",
+  "keywords": [
+    "pečený květák",
+    "pečený květák v troubě",
+    "pečený květák recept",
+    "celý pečený květák",
+    "pečený květák s tahini"
+  ],
+  "image": "dish-peceny-kvetak",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Pečený květák je jedna celá hlavička, která se krátce povaří a pak v troubě ztmavne do zlatohněda. Povrch voní jako pražený ořech a střed zůstane měkký. Dochutí se paprikou a kmínem a podává se s jogurtovým dresinkem s tahini, takže stačí jako lehký hlavní chod pro tři.",
+  "ingredients": [
+    {
+      "ingredient": "kvetak",
+      "amount": 900,
+      "unit": "g",
+      "note": "jedna hlavička, tedy asi 1 kus"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 45,
+      "unit": "ml",
+      "note": "3 lžíce"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 7,
+      "unit": "g",
+      "note": "asi 1 lžíce"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 3,
+      "unit": "g",
+      "note": "mletý"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 150,
+      "unit": "g",
+      "group": "Dresink"
+    },
+    {
+      "ingredient": "tahini",
+      "amount": 32,
+      "unit": "g",
+      "note": "2 lžíce",
+      "group": "Dresink"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Dresink"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Dresink"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Dresink"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 220 °C (horkovzduch 200 °C). Z květáku odstraň vnější listy a nařízni košťál, aby se hlava vyrovnala."
+    },
+    {
+      "text": "Ve velkém hrnci přiveď vodu k varu, osol ji a hlavu květáku vlož stonkem nahoru. Vař 5 minut, vyjmi a nech 5 minut odkapat a oschnout."
+    },
+    {
+      "text": "Smíchej olej, uzenou papriku, kmín a sůl. Květák celý potři směsí i mezi růžičkami."
+    },
+    {
+      "text": "Ulož ho na plech s pečicím papírem a peč 40 až 45 minut, po 25 minutách přikryj volně alobalem, pokud tmavne příliš rychle. Hotový je, když nůž snadno projde košťálem a okraje jsou tmavě zlaté."
+    },
+    {
+      "text": "Mezitím smíchej jogurt, tahini, citronovou šťávu a česnek do hladkého dresinku. Dochuť solí a případně ředěním lžící vody."
+    },
+    {
+      "text": "Květák nech 5 minut odpočinout, nakrájej na klínky, polij dresinkem a posyp petrželkou."
+    }
+  ],
+  "tips": [
+    "Krátké povaření je důležité: květák uvnitř změkne a venku se v troubě nasucho opeče do zlatova.",
+    "Opečený povrch potřebuje horkou troubu. Při 180 °C se květák spíš dusí a nezíská barvu.",
+    "Pokud chceš rychlejší variantu, rozděl květák na růžičky a peč je na plechu 25 minut při 220 °C, v polovině je obrať.",
+    "Zbytky vydrží v lednici 2 dny a výborně se hodí do salátu nebo pomazánky."
+  ],
+  "substitutions": [
+    "Tahini dresink nahraď zakysanou smetanou smíchanou s česnekem a citronem.",
+    "Pro veganskou verzi použij rostlinný jogurt a stejné množství tahini.",
+    "Uzenou papriku můžeš nahradit sladkou paprikou a špetkou chilli."
+  ],
+  "faq": [
+    {
+      "q": "Musí se květák před pečením povařit?",
+      "a": "Nemusí, ale celá hlava se bez povaření peče déle a hrozí, že uprostřed zůstane tvrdá. Pět minut ve vroucí vodě to řeší."
+    },
+    {
+      "q": "Jak dlouho se peče celý květák v troubě?",
+      "a": "Povařený květák se peče 40 až 45 minut při 220 °C. Nepovařený potřebuje asi 60 minut při 200 °C."
+    },
+    {
+      "q": "Jak poznám, že je pečený květák hotový?",
+      "a": "Nůž nebo špejle projde košťálem bez odporu a růžičky mají tmavě zlaté okraje. Střed má být měkký, ne kašovitý."
+    }
+  ]
+}

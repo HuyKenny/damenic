@@ -1,0 +1,104 @@
+{
+  "title": "Cuketová pomazánka",
+  "keywords": [
+    "cuketová pomazánka",
+    "cuketová pomazánka recept",
+    "pomazánka z cukety",
+    "cuketová pomazánka s tvarohem",
+    "pomazánka z cukety a česneku"
+  ],
+  "image": "dish-cuketova-pomazanka",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 5,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí a odležení",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Cuketová pomazánka je krémová pomazánka z krátce orestované cukety, tvarohu a česneku. Cuketa se strouhá a smaží jen pár minut, aby pustila vodu, protože ta by pomazánku zředila. Vyjde asi 400 g, takže stačí na čtyři porce pro snídani nebo na chlebíčky.",
+  "ingredients": [
+    {
+      "ingredient": "cuketa",
+      "amount": 300,
+      "unit": "g",
+      "note": "střední"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "měkký"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 15,
+      "unit": "ml",
+      "note": "1 lžíce"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cuketu omyj, nastrouhej na hrubém struhadle a smíchej s 1 g soli. Nech 5 minut stát a pak ji vymačkej v ruce nebo v utěrce."
+    },
+    {
+      "text": "Na pánvi rozehřej olej a cuketu opékej 4 až 5 minut na středním plameni, dokud neodpaří zbylá voda a nezačne mírně zlátnout."
+    },
+    {
+      "text": "Cuketu nech úplně vychladnout, jinak se tvaroh sráží a pomazánka pustí vodu."
+    },
+    {
+      "text": "Tvaroh rozmíchej s prolisovaným česnekem, pepřem a zbytkem soli. Přidej cuketu a pažitku a promíchej."
+    },
+    {
+      "text": "Pomazánku nech 30 minut odležet v lednici, aby se chutě spojily, a pak ji dochuť."
+    }
+  ],
+  "tips": [
+    "Cuketu opravdu vymačkej, jinak je pomazánka vodnatá a po dni v lednici pustí tekutinu.",
+    "Pokud ti vadí kousky, rozmixuj hotovou pomazánku tyčovým mixérem.",
+    "Hodí se na chlebíčky, rohlíky i jako dip k zelenině.",
+    "V uzavřené misce vydrží v lednici 3 dny."
+  ],
+  "substitutions": [
+    "Tvaroh nahraď smetanovým sýrem nebo zakysanou smetanou smíchanou se lžící strouhaného sýra.",
+    "Pro výraznější chuť přidej 1 lžičku citronové šťávy nebo špetku chilli.",
+    "Pažitku lze nahradit koprem nebo bazalkou."
+  ],
+  "faq": [
+    {
+      "q": "Dá se cuketová pomazánka udělat ze syrové cukety?",
+      "a": "Ano, ale musíš ji nastrouhat, osolit a pořádně vymačkat. Orestovaná cuketa má jemnější chuť a pomazánka je méně vodnatá."
+    },
+    {
+      "q": "Jak dlouho vydrží cuketová pomazánka?",
+      "a": "V lednici vydrží 3 dny v uzavřené misce. Mrazit se nedoporučuje."
+    },
+    {
+      "q": "Proč je cuketová pomazánka vodnatá?",
+      "a": "Cuketa obsahuje hodně vody. Pomůže ji osolit, nechat odkapat a před smícháním s tvarohem úplně vychladit."
+    }
+  ]
+}

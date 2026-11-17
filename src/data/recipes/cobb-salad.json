@@ -1,0 +1,143 @@
+{
+  "title": "Cobb salát",
+  "keywords": [
+    "cobb salad",
+    "cobb salát",
+    "cobb salát recept",
+    "americký salát s kuřecím a slaninou"
+  ],
+  "image": "dish-cobb-salat-ani-listek",
+  "category": "salaty",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 25,
+  "cookMinutes": 20,
+  "waitMinutes": 10,
+  "waitLabel": "chladnutí vajec",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Cobb salát je americký salát z římského salátu, grilovaného kuřecího masa, slaniny, vejce, avokáda a modrého sýra. Sestavuje se v řádcích, aby bylo vidět všechny suroviny. Dresink je vinaigrette s dijonskou hořčicí.",
+  "ingredients": [
+    {
+      "ingredient": "romaine",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na proužky",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 300,
+      "unit": "g",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 100,
+      "unit": "g",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "natvrdo",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "avokado",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostky",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "niva",
+      "amount": 60,
+      "unit": "g",
+      "note": "rozdrobená",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 60,
+      "unit": "ml",
+      "group": "Dresink"
+    },
+    {
+      "ingredient": "ocet-vinny",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Dresink"
+    },
+    {
+      "ingredient": "horcice-dijonska",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Dresink"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Dresink"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Dresink"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce vlož do vařící vody a vař 10 minut, zchlaď studenou vodou, oloupej a nakrájej na kostky."
+    },
+    {
+      "text": "Kuřecí prsa osol a opeč na pánvi po 6 až 7 minutách z každé strany. Uvnitř musí mít 75 °C, maso musí být bílé a šťáva čirá. Nech 5 minut odpočinout a nakrájej na kostky."
+    },
+    {
+      "text": "Slaninu opeč na suché pánvi do křupava a rozdrob."
+    },
+    {
+      "text": "Smíchej olej, ocet, hořčici, med a sůl na dresink. Římský salát rozlož na velký talíř, na něj v řadách ulož kuře, slaninu, vejce, avokádo, rajčata a nivu. Pokapej dresinkem a posyp pažitkou."
+    }
+  ],
+  "tips": [
+    "Avokádo nakrájej až nakonec, jinak hnědne.",
+    "Maso krájej až po odpočinutí, zůstane šťavnaté.",
+    "Dresink skladuj v lednici 3 dny, před použitím protřepej."
+  ],
+  "substitutions": [
+    "Nivu nahradí feta nebo parmazán.",
+    "Slaninu můžeš vynechat, přidej kukuřici.",
+    "Pro verzi bez masa dej opečený tofu nebo grilovaný halloumi."
+  ],
+  "faq": [
+    {
+      "q": "Co je v klasickém cobb salátu?",
+      "a": "Římský salát, kuře, slanina, vejce natvrdo, avokádo, rajče, modrý sýr a vinaigrette."
+    },
+    {
+      "q": "Jak dlouho se vaří vejce natvrdo?",
+      "a": "10 minut od chvíle, kdy se voda vaří, a poté rychlé zchlazení studenou vodou."
+    },
+    {
+      "q": "Dá se cobb salát připravit předem?",
+      "a": "Ano, jednotlivé složky můžeš připravit den předem. Salát sestav a zalij dresinkem až při podávání."
+    }
+  ]
+}

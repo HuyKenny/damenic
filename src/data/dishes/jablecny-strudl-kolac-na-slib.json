@@ -1,0 +1,21 @@
+{
+  "name": "Jablečný štrúdl",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "price": 9900,
+  "description": "Rolovaný štrúdl z tenkého těsta s jablky, skořicí a rozinkami.",
+  "about": [
+    "Štrúdl je koláč, který je hlavně o jablkách. Tenké těsto je jen obal a lehce křupe.",
+    "Zarolovaný se dobře krájí, i když u nás se nic nerolovalo. Recept je skutečný."
+  ],
+  "recipe": "jablecny-strudl",
+  "image": "dish-jablecny-strudl-kolac-na-slib",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 330
+}

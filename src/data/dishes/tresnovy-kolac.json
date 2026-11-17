@@ -1,0 +1,25 @@
+{
+  "name": "Třešňový koláč s tvarohem, dílek",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "description": "Křehký základ, jemný tvarohový krém a vypeckované třešně, dílek.",
+  "about": [
+    "Třešňový koláč má tři vrstvy: linecký základ, vanilkový tvaroh a třešně v krému. Po vychladnutí je řez čistý a třešně leží mezi vrstvami jako v knize.",
+    "V cukrárně Na slib ti ho nepřivezeme, ale z receptu dostaneš koláč, který se nepropadne. Třešně jen odpeckuj, zbytek zvládne trouba."
+  ],
+  "price": 8900,
+  "image": "dish-tresnovy-kolac",
+  "recipe": "tresnovy-kolac",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 405
+}

@@ -1,0 +1,154 @@
+{
+  "title": "Patatas bravas",
+  "keywords": [
+    "patatas bravas",
+    "patatas bravas recept",
+    "španělské brambory s pikantní omáčkou",
+    "brambory bravas"
+  ],
+  "image": "dish-patatas-bravas",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Patatas bravas jsou křupavé kostky brambor se špetkou pikantní rajčatové omáčky a česnekovým alioli. Brambory se nejdřív pár minut povaří a potom se smaží, takže jsou zvenku křupavé a uvnitř měkké.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "na kostky 3 cm, spíš voskové",
+      "group": "brambory"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "brambory"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 300,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "brambory"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 75,
+      "unit": "g",
+      "note": "najemno",
+      "group": "omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "omáčka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "omáčka"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "omáčka"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "podle chuti",
+      "group": "omáčka"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 200,
+      "unit": "g",
+      "note": "rozmačkaná",
+      "group": "omáčka"
+    },
+    {
+      "ingredient": "ocet-vinny",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "omáčka"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na alioli",
+      "group": "alioli"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný, na alioli",
+      "group": "alioli"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva, na alioli",
+      "group": "alioli"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory oloupej, nakrájej na kostky 3 cm, dej do hrnce se studenou osolenou vodou a přiveď k varu. Vař 7 až 8 minut, až se zvenčí dají lehce propíchnout, ale uvnitř jsou pevné. Sceď a nech 10 minut odpařit."
+    },
+    {
+      "text": "Mezitím udělej omáčku. Na olivovém oleji osmaž cibuli 5 minut, přidej česnek a papriky a míchej 30 vteřin, aby se nespálily. Přilij rajčata, ocet a chilli a vař 10 minut do zhoustnutí, pak rozmixuj tyčovým mixérem."
+    },
+    {
+      "text": "Alioli: v misce rozmíchej majonézu s česnekem a citronovou šťávou, dosol."
+    },
+    {
+      "text": "Na pánvi nebo v hrnci rozehřej olej na 175 °C. Brambory smaž po částech 7 až 8 minut, občas promíchej, až jsou zlatavé a křupavé. Vyndej děrovanou lžící a osol."
+    },
+    {
+      "text": "Brambory přesyp do misky, přelij omáčkou a vedle dej alioli. Podávej horké."
+    }
+  ],
+  "tips": [
+    "Povaření před smažením dělá křupavou krustu: povrch se odřebí a na pánvi se vytvoří silná kůrka.",
+    "Chceš-li méně oleje, rozlož povařené kostky na plech s olejem a peč 30 minut při 220 °C (horkovzduch 200 °C), v půlce otoč.",
+    "Omáčku udělej dopředu, v lednici vydrží 4 dny."
+  ],
+  "substitutions": [
+    "Uzenou papriku nahraď sladkou a půlkou lžičky chilli. Bez majonézy udělej alioli z řeckého jogurtu s česnekem.",
+    "Vegan: použij veganskou majonézu nebo jen omáčku."
+  ],
+  "faq": [
+    {
+      "q": "Jaké brambory se na bravas hodí?",
+      "a": "Středně voskové až univerzální, které drží tvar po povaření. Příliš moučné se při smažení rozpadnou."
+    },
+    {
+      "q": "Je bravas omáčka vždy pálivá?",
+      "a": "Název znamená divoké a omáčka je pikantní, ale míru ostrosti určuje chilli a uzená paprika. Klidně začni od půl lžičky."
+    },
+    {
+      "q": "Dají se brambory bravas připravit v troubě?",
+      "a": "Dají, povařené kostky zakapej olejem a peč 30 minut při 220 °C. Budou méně křupavé než smažené, ale lehčí."
+    }
+  ]
+}

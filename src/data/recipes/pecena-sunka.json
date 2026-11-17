@@ -1,0 +1,114 @@
+{
+  "title": "Pečená šunka z vepřové kýty",
+  "keywords": [
+    "pečená šunka",
+    "pečená šunka recept",
+    "domácí šunka v troubě",
+    "pečená vepřová šunka",
+    "pečená šunka z kýty"
+  ],
+  "image": "dish-pecena-sunka",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 8,
+  "activeMinutes": 25,
+  "cookMinutes": 120,
+  "waitMinutes": 720,
+  "waitLabel": "nakládání v lednici přes noc",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Pečená šunka z vepřové kýty se naloží v soli s česnekem, majoránkou a pepřem přes noc v lednici a pak se pomalu peče, dokud nemá uvnitř 75 °C. Maso je krájitelné, šťavnaté a hodí se na teplou večeři i na chlebíčky. Doma vznikne šunka bez dusitanu, takže je při krájení světle hnědošedá, ne růžová.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-kyta-kus",
+      "amount": 1000,
+      "unit": "g",
+      "note": "bez kosti, ve tvaru válce"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 18,
+      "unit": "g",
+      "note": "asi 1 lžíce"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisované"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na potření"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "note": "na dno pekáče"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kýtu osuš a z jedné strany ji nařízni hlouběji, aby si vzala koření. V misce smíchej sůl, česnek, majoránku, pepř, papriku a hořčici a pastou maso potři ze všech stran."
+    },
+    {
+      "text": "Kýtu vlož do sáčku nebo uzavřené nádoby a nech ji 12 hodin v lednici. Půl hodiny před pečením ji vyndej, aby se vyrovnala pokojová teplota."
+    },
+    {
+      "text": "Troubu předehřej na 160 °C, horkovzduch 150 °C. Maso potři olejem, vlož ho do pekáče, na dno nalij vodu a pevně zakryj alobalem."
+    },
+    {
+      "text": "Peč 90 minut, potom alobal sundej, zvyš teplotu na 180 °C a peč dalších 20 až 30 minut, dokud maso nezezlátne a teploměr uvnitř neukáže 75 °C."
+    },
+    {
+      "text": "Šunku nech v troubě vypnuté a pootevřené 15 minut, pak ji přendej na prkénko a nech 20 minut odpočinout. Krájej na tenké plátky přes vlákna ostrým nožem."
+    }
+  ],
+  "tips": [
+    "Teploměr je nejjistější pomocník. Při 75 °C je maso bezpečné a ještě šťavnaté, déle už vysychá.",
+    "Pokud šunku chceš krájet jako uzeninu, nech ji po odpočinutí úplně vychladnout v lednici, studená se krájí nejtenčeji.",
+    "Šunka v uzavřené nádobě vydrží v lednici 4 dny, dále ji nenechávej."
+  ],
+  "substitutions": [
+    "Místo kýty můžeš použít vepřovou plec, potřebuje o 20 minut víc pečení.",
+    "Majoránku nahraď tymiánem nebo rozmarýnem.",
+    "Hořčici na potření můžeš vynechat, maso bude jemnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct domácí šunku?",
+      "a": "Kýta o hmotnosti 1 kg se peče asi 2 hodiny: 90 minut při 160 °C pod alobalem a 20 až 30 minut odkrytá při 180 °C. Rozhoduje 75 °C uvnitř."
+    },
+    {
+      "q": "Proč je domácí šunka šedá a ne růžová?",
+      "a": "Růžová barva uzenin pochází z dusitanové solicí směsi. Doma pečené maso je přirozeně hnědošedé, na chuti to nic nemění."
+    },
+    {
+      "q": "Jak dlouho vydrží pečená šunka?",
+      "a": "V lednici ve vzduchotěsné nádobě asi 4 dny. Krájené plátky zabal zvlášť, aby neschly."
+    }
+  ]
+}

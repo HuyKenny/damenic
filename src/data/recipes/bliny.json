@@ -1,0 +1,113 @@
+{
+  "title": "Bliny",
+  "keywords": [
+    "bliny",
+    "bliny recept",
+    "ruské bliny",
+    "kynuté bliny"
+  ],
+  "image": "dish-bliny",
+  "category": "palacinky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 20,
+  "waitMinutes": 75,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "meal": "snidane",
+  "intro": "Bliny jsou tenké kynuté palačinky z ruské kuchyně, které se pečou na rozpálené pánvi. Těsto potřebuje asi 75 minut na kynutí a vychází na asi 16 kusů. Podávají se s máslem, zakysanou smetanou nebo džemem.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 10,
+      "unit": "g",
+      "note": "čerstvé, rozdrobené"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "oddělené žloutky a bílky"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "rozpuštěné, plus na pečení"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 150,
+      "unit": "g",
+      "note": "k podávání"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "k podávání, nasekaný"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kvasnice rozmíchej v 100 ml vlažného mléka s cukrem a 2 lžícemi mouky, nech 10 minut vzejít, až se na povrchu tvoří pěna."
+    },
+    {
+      "text": "Do mísy dej zbytek mouky, sůl, žloutky, zbylé mléko a vzešlý kvásek. Utři do hladkého těsta bez hrudek. Přikryj a nech kynout na teplém místě 60 minut, až zdvojnásobí objem."
+    },
+    {
+      "text": "Bílky vyšlehej na tuhý sníh a spolu s rozpuštěným máslem opatrně vmíchej do vykynutého těsta. Nech ještě 15 minut odpočinout."
+    },
+    {
+      "text": "Pánev o průměru 20 cm rozpal na středním plameni a lehce ji potři máslem. Nalij 1 naběračku těsta, rozlij po dně a peč 1 až 2 minuty z každé strany, až jsou bliny zlatavé."
+    },
+    {
+      "text": "Hotové skládej na talíř a přikryj, ať zůstanou měkké. Podávej s máslem, zakysanou smetanou a koprem nebo džemem."
+    }
+  ],
+  "tips": [
+    "Pánev musí být dobře rozpálená, ale ne přehřátá. První bliny jsou zkušební.",
+    "Těsto může kynout přes noc v lednici, ráno ho nech 20 minut ohřát při pokojové teplotě.",
+    "Bliny vydrží v lednici 2 dny a dají se zmrazit. Prohřej je na suché pánvi."
+  ],
+  "substitutions": [
+    "Čerstvé kvasnice nahraď 3 g sušených. Mléko lze nahradit polovinou vody pro méně sytá těsta.",
+    "Ke sladkým bliny dej místo kopru džem, med nebo tvaroh."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi bliny a palačinkami?",
+      "a": "Bliny jsou kynuté, takže jsou tlustší, nadýchané a mají jemnou kvasnicovou chuť. Palačinky se dělají bez kynutí z řidšího těsta."
+    },
+    {
+      "q": "Proč bliny nekynou?",
+      "a": "Studené mléko, staré kvasnice nebo příliš chladné místo. Mléko má mít kolem 35 °C a kvasnice musí v kvásku vytvořit pěnu."
+    },
+    {
+      "q": "Čím se bliny podávají?",
+      "a": "Klasicky se zakysanou smetanou, máslem a uzeným lososem nebo jikrami. Sladké s džemem a medem."
+    }
+  ]
+}

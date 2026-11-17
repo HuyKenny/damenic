@@ -1,0 +1,22 @@
+{
+  "name": "Cottage pie se zapečenou kaší",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "main",
+  "section": "Zapečené a topinky",
+  "price": 17900,
+  "description": "Mleté hovězí se zeleninou pod bramborovou kaší, zapečené dozlatova.",
+  "about": [
+    "Cottage pie je britské jídlo pro studené večery: mleté maso v hustém vývaru a nahoře kaše, která se v troubě opeče do hnědé kůrky.",
+    "Je to jídlo, které se dá připravit předem. Jídelna je hotová, jídlo ne."
+  ],
+  "recipe": "cottage-pie",
+  "image": "dish-cottage-pie-uz-hotovo",
+  "vegetarian": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9
+  ],
+  "order": 300
+}

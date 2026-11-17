@@ -1,0 +1,113 @@
+{
+  "title": "Clafoutis",
+  "keywords": [
+    "clafoutis",
+    "clafoutis recept",
+    "clafoutis s višněmi",
+    "francouzský koláč s ovocem"
+  ],
+  "image": "dish-clafoutis-kolac-na-slib",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 40,
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Clafoutis je francouzský koláč z řídkého těsta, které se zalije na ovoce a upeče do nadýchané, mírně pudinkové konzistence. Tradičně se dělá z třešní, ale s mraženými višněmi vyjde stejně. Těsto se míchá jen krátce, aby koláč zůstal jemný.",
+  "ingredients": [
+    {
+      "ingredient": "visne-mrazene",
+      "amount": 500,
+      "unit": "g",
+      "note": "rozmražené a odkapané",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na vymazání"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 170 °C). Formu o průměru 24 cm vymaž máslem a rozlož do ní odkapané višně."
+    },
+    {
+      "text": "Vejce prošlehej s cukrem a vanilkovým cukrem, přidej mléko a smetanu, pak prosátou mouku a prošlehej do hladka, jen aby nebyly hrudky."
+    },
+    {
+      "text": "Těsto nalij na ovoce a peč 40 minut. Je hotovo, když je střed pevný a povrch zlatý."
+    },
+    {
+      "text": "Nech 15 minut vychladnout, posyp moučkovým cukrem a podávej teplé nebo vlažné."
+    }
+  ],
+  "tips": [
+    "Višně dobře odkapej, jinak koláč zvodnatí.",
+    "Těsto nech před pečením 10 minut odpočinout.",
+    "Koláč klesne při chladnutí, to je v pořádku."
+  ],
+  "substitutions": [
+    "Višně nahradí třešně nebo borůvky.",
+    "Smetanu nahradí mléko.",
+    "Pro lehčí verzi vynech smetanu a dej 400 ml mléka."
+  ],
+  "faq": [
+    {
+      "q": "Mají se u clafoutis vyndat pecky?",
+      "a": "U tohoto receptu používáme višně bez pecek, což je jednodušší a bezpečnější."
+    },
+    {
+      "q": "Jak poznám, že je hotové?",
+      "a": "Střed je pevný, ale pružný a špejle vychází čistá."
+    },
+    {
+      "q": "Podává se teplé, nebo studené?",
+      "a": "Obojí, nejlépe vlažné."
+    }
+  ]
+}

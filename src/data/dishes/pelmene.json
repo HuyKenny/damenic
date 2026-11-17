@@ -1,0 +1,24 @@
+{
+  "name": "Pelmeně s máslem a zakysanou smetanou",
+  "restaurant": "hostinec-za-hranici-nic",
+  "kind": "main",
+  "section": "Polsko a Rakousko",
+  "description": "Ručně tvarované taštičky s hovězím a vepřovým masem, máslo, zakysaná smetana a kopr.",
+  "about": [
+    "Pelmeně patří do rodiny taštiček, které se vaří v osolené vodě a podávají s máslem. Těsto je tenké, plnka šťavnatá a po vyplavání stačí ještě pár minut.",
+    "Hostinec za hranicí nic nemá, a proto se dobře hodí pro jídlo, které se tvaruje ručně. Palce se ti do večera unaví, žaludek ale vydrží."
+  ],
+  "price": 19900,
+  "image": "dish-pelmene",
+  "recipe": "pelmene",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 918
+}

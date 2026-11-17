@@ -1,0 +1,24 @@
+{
+  "name": "Halibut s citronovým máslem",
+  "restaurant": "steakarna-rare-priste",
+  "kind": "main",
+  "section": "Ryby a mořské plody",
+  "description": "Filet z pánve, citronové máslo, kapary a petrželka. Ryba nedorazí, chuť v receptu ano.",
+  "about": [
+    "Halibut má pevné bílé maso a hodí se k rychlé pánvi, nic víc nepotřebuje. Citron, máslo a pár kaparů z něj udělají večeři, na kterou stačí dvě pánve a dvanáct minut.",
+    "Pánev v téhle restauraci je prázdná a ryba ve smyšlené nabídce. Recept je ale skutečný: čas, teplota i pořadí sedí a zabere ti jednu pánev."
+  ],
+  "price": 44900,
+  "image": "dish-halibut-citronove-maslo-rare",
+  "recipe": "halibut",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    4,
+    7
+  ],
+  "order": 160
+}

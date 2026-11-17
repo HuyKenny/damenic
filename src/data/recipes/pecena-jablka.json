@@ -1,0 +1,104 @@
+{
+  "title": "Pečená jablka",
+  "keywords": [
+    "pečená jablka",
+    "pečená jablka v troubě",
+    "pečená jablka recept",
+    "pečená jablka se skořicí",
+    "pečená jablka s ořechy"
+  ],
+  "image": "dish-pecena-jablka",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Pečená jablka jsou celá jablka vydlabaná od jádřince, naplněná rozinkami, ořechy a medem, která se pečou do měkka. Aby zůstala tvarově celá a neprasknula, nařízni slupku kolem a peč na 180 °C asi 30 minut. Vyjdou čtyři porce, které se hodí k vanilkové zmrzlině.",
+  "ingredients": [
+    {
+      "ingredient": "jablko",
+      "amount": 4,
+      "unit": "ks",
+      "note": "pevná, kyselejší, asi 800 g"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 40,
+      "unit": "g",
+      "note": "nahrubo nasekané"
+    },
+    {
+      "ingredient": "med",
+      "amount": 40,
+      "unit": "g",
+      "note": "2 lžíce"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 3,
+      "unit": "g",
+      "note": "asi půl lžičky"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "note": "na dno formy"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 160 °C). Jablka omyj, nahoře vykroj jádřinec nožem nebo vykrajovátkem, ale dno nech celé."
+    },
+    {
+      "text": "Slupku kolem dokola v polovině výšky nařízni, aby jablka při pečení nepopraskala."
+    },
+    {
+      "text": "Smíchej rozinky, ořechy, med a skořici. Směsí jablka naplň a navrch dej kousek másla."
+    },
+    {
+      "text": "Jablka ulož do zapékací mísy, na dno nalij vodu a peč 30 až 35 minut, dokud nejsou měkká a nůž snadno projde."
+    },
+    {
+      "text": "Šťávu ze dna mísy polij přes jablka a nech 5 minut odpočinout. Podávej teplé."
+    }
+  ],
+  "tips": [
+    "Vyber pevná jablka, která při pečení nezkašovatí: například kyselejší odrůdy.",
+    "Vodu na dno dej vždy, zabrání připálení a vznikne sladká šťáva.",
+    "Pro rychlejší pečení nakrájej jablka na půlky a zapékej 20 minut.",
+    "Zbylá pečená jablka vydrží v lednici 2 dny a ohřejí se v troubě."
+  ],
+  "substitutions": [
+    "Vlašské ořechy nahraď mandlemi nebo piniovými oříšky, nebo je vynech.",
+    "Med lze nahradit cukrem nebo javorovým sirupem.",
+    "Pro alergiky na ořechy dej do náplně ovesné vločky a rozinky."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se pečou jablka v troubě?",
+      "a": "Celá jablka se pečou 30 až 35 minut při 180 °C. Hotová jsou, když nůž projde bez odporu."
+    },
+    {
+      "q": "Proč jablka při pečení praskají?",
+      "a": "Slupka se při zahřátí smršťuje. Jemné nařízení kolem dokola tomu zabrání."
+    },
+    {
+      "q": "S čím se pečená jablka podávají?",
+      "a": "Hodí se vanilková zmrzlina, bílý jogurt, šlehačka nebo vanilkový krém."
+    }
+  ]
+}

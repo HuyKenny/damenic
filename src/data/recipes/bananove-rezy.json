@@ -1,0 +1,145 @@
+{
+  "title": "Banánové řezy s vanilkovým krémem",
+  "keywords": [
+    "banánové řezy",
+    "banánové řezy recept",
+    "banánové řezy s krémem",
+    "recept na banánové řezy",
+    "řezy s banány"
+  ],
+  "intro": "Banánové řezy mají vláčný banánový korpus, vanilkový krém z vařeného pudinku s máslem a plátky banánu. Plech 20 x 30 cm dá 15 řezů. Těžké je zchladit pudink na správnou teplotu: když je teplý, máslo se oddělí a krém se sráží.",
+  "image": "dish-bananove-rezy",
+  "category": "dezerty",
+  "servings": 15,
+  "activeMinutes": 45,
+  "cookMinutes": 30,
+  "waitMinutes": 240,
+  "waitLabel": "chladnutí a ztuhnutí",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "banan",
+      "amount": 2,
+      "unit": "ks",
+      "note": "zralé, rozmačkané (asi 200 g)",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 10,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 74,
+      "unit": "g",
+      "note": "2 sáčky",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "měkké",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "banan",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na plátky",
+      "group": "Zdobení"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Korpus",
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 165 °C). Plech 20 x 30 cm vyložit pečicím papírem. Vejce ušlehej s cukrem do pěny, přidej olej a rozmačkané banány."
+    },
+    {
+      "section": "Korpus",
+      "text": "Mouku smíchej s kypřicím práškem, vmíchej do těsta a rozetři na plech. Peč 22 až 25 minut, dokud špejle nevyjde čistá. Nech vychladnout na mřížce."
+    },
+    {
+      "section": "Krém",
+      "text": "Z mléka, pudinkového prášku a cukru uvař hustý pudink dle návodu, za stálého míchání. Přikryj fólií na povrchu a nech zchladnout na pokojovou teplotu, aby se nevytvořila blána."
+    },
+    {
+      "section": "Krém",
+      "text": "Měkké máslo vyšlehej do světlé pěny a po lžících přidávej vychladlý pudink. Krém musí být hladký a držet tvar."
+    },
+    {
+      "section": "Skládání",
+      "text": "Krém rozetři na vychladlý korpus, navrch vyskládej plátky banánu a zakápni rozpuštěnou čokoládou. Nech 4 hodiny ztuhnout v lednici a krájej do čtverců."
+    }
+  ],
+  "tips": [
+    "Banány na plátky nakrájej až těsně před zdobením, jinak zhnědnou; stačí je pokapat citronovou šťávou.",
+    "Pudink i máslo musí mít stejnou teplotu, asi 20 °C. Když se krém sráží, šlehej ho nad horkou vodní lázní.",
+    "Skladuj v lednici 3 dny. Řezy s banány nemraž, banán po rozmrazení měkne."
+  ],
+  "substitutions": [
+    "Zralé banány v korpusu nahraď 200 g jablečného pyré; chuť bude neutrální.",
+    "Máslo v krému nahraď 150 g mascarpone, krém bude jemnější.",
+    "Čokoládovou polevu vynech a řezy poprášit kakaem."
+  ],
+  "faq": [
+    {
+      "q": "Kolik banánů dát do těsta na banánové řezy?",
+      "a": "Na plech 20 x 30 cm 2 zralé banány, asi 200 g rozmačkané hmoty. Čím jsou tmavší, tím sladší a vláčnější korpus."
+    },
+    {
+      "q": "Proč se banány na řezech tmavnou?",
+      "a": "Banán oxiduje na vzduchu. Plátky pokapej citronovou šťávou a řezy podávej do 2 dnů."
+    },
+    {
+      "q": "Jak dlouho vydrží banánové řezy?",
+      "a": "V lednici přikryté 3 dny. Nejlepší jsou druhý den, kdy je krém pevný a korpus provlhlý."
+    }
+  ]
+}

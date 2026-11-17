@@ -1,0 +1,115 @@
+{
+  "title": "Telecí saltimbocca",
+  "keywords": [
+    "saltimbocca",
+    "saltimbocca recept",
+    "saltimbocca alla romana",
+    "telecí s šunkou a šalvějí",
+    "saltimbocca z telecího"
+  ],
+  "image": "dish-saltimbocca",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 20,
+  "cookMinutes": 6,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Saltimbocca je římský telecí plátek obalený plátkem syrové šunky a šalvějí, rychle opečený na másle a podlitý vínem. Maso se smaží jen pár minut, takže je důležité naklepat ho na stejnou tloušťku a šunku k němu dobře přichytit.",
+  "ingredients": [
+    {
+      "ingredient": "teleci-rizek",
+      "amount": 480,
+      "unit": "g",
+      "note": "4 plátky, každý asi 120 g"
+    },
+    {
+      "ingredient": "syrova-sunka",
+      "amount": 80,
+      "unit": "g",
+      "note": "8 tenkých plátků"
+    },
+    {
+      "ingredient": "salvej",
+      "amount": 6,
+      "unit": "g",
+      "note": "asi 12 listů"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na obalení"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vino-bile",
+      "amount": 100,
+      "unit": "ml",
+      "note": "suché"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Každý telecí plátek vlož mezi dvě fólie a naklepej ho válečkem nebo dnem hrnce na tloušťku asi 5 mm. Z obou stran opepři, sůl nepotřebuješ, šunka je slaná."
+    },
+    {
+      "text": "Na každý plátek polož 3 listy šalvěje, přikryj je plátkem šunky a pevně přitiskni. Pokud se šunka sama nedrží, zapíchni ji do masa zubní špejlí nebo ji přitiskni ostrým koncem nože."
+    },
+    {
+      "text": "Plátky obal z masové strany v mouce a přebytek oklep. Šunková strana zůstává bez mouky."
+    },
+    {
+      "text": "Na velké pánvi rozehřej olej s polovinou másla na středně vysokém plameni. Plátky polož šunkou dolů a smaž 1 až 2 minuty, otoč a smaž další minutu. Maso je hotové, když je ještě mírně růžové a uvnitř má 60 °C."
+    },
+    {
+      "text": "Plátky přendej na talíř a přikryj. Do pánve nalij víno a nech ho 1 až 2 minuty probublat, aby se zredukovalo na polovinu. Pak vmíchej zbylé máslo a omáčku přelij přes plátky. Podávej s citronem."
+    }
+  ],
+  "tips": [
+    "Telecí maso se smaží vteřiny navíc a pak vyschne. Radši ho stáhni dřív, dojde si v teple.",
+    "Šunka sama dochutí, proto telecí plátky nesol.",
+    "Pokud použiješ víc listů šalvěje, aromatizuj jimi máslo v pánvi, pálí se ale rychle, takže je sleduj."
+  ],
+  "substitutions": [
+    "Telecí lze nahradit kuřecími prsy naříznutými na tenké plátky, ty ale smaž o 2 minuty déle, aby uvnitř měly 75 °C.",
+    "Víno nahraď 100 ml kuřecího vývaru a lžičkou citronové šťávy.",
+    "Syrovou šunku nahraď tenkou slaninou, přidává ale víc kouře."
+  ],
+  "faq": [
+    {
+      "q": "Jaká šunka se hodí na saltimbocca?",
+      "a": "Tenká syrová šunka, například italského typu, nakrájená na papírové plátky. Vařená šunka se v pánvi nepřilepí a nedodá správnou slanost."
+    },
+    {
+      "q": "Co podávat k saltimbocca?",
+      "a": "Klasicky osmažený špenát nebo hrášek, bramborové pyré, těstoviny s máslem nebo jen kousek pečiva na vytření omáčky."
+    },
+    {
+      "q": "Proč se saltimbocca zkroutí?",
+      "a": "Maso se na horké pánvi smršťuje. Pomůže, když je naklepané rovnoměrně na 5 mm, pánev není přehřátá a šunka je dobře přitisknutá nebo zapíchnutá špejlí."
+    }
+  ],
+  "alcohol": false
+}

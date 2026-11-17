@@ -1,0 +1,24 @@
+{
+  "name": "Spanakopita",
+  "restaurant": "taverna-prazdny-stul",
+  "kind": "main",
+  "section": "Talíře",
+  "description": "Křupavý řecký koláč z filo těsta se špenátem, fetou a koprem.",
+  "about": [
+    "Spanakopita je jídlo, které se dělá po generace v jednom pekáči pro celou rodinu. Několik vrstev filo těsta potřeného máslem se při pečení promění v křupavé listy a vevnitř čeká špenát s fetou.",
+    "V taverně je prázdný stůl a prázdný pekáč. Filo těsto se ale musí pořád vrstvit s láskou, nebo aspoň s přesností."
+  ],
+  "price": 18900,
+  "image": "dish-spanakopita",
+  "recipe": "spanakopita",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 916
+}

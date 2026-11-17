@@ -1,0 +1,23 @@
+{
+  "name": "Kuřecí prsa na grilu",
+  "restaurant": "bistro-uletelo",
+  "kind": "main",
+  "section": "Kuře",
+  "description": "Šťavnatá prsa z grilu, jogurtová marináda s citronem. Rýhy na roštu si domyslíš.",
+  "about": [
+    "Kuřecí prsa na grilu jsou jednoduchá, a právě proto na nich vyniká, kdo je upekl dobře. Marináda z jogurtu a citronu, žár a pětiminutový odpočinek rozhodují.",
+    "V bistru Uletělo nic neuletí z gril roštu, protože tu žádný není. Doma tě udrží u grilu teploměr a pár minut trpělivosti."
+  ],
+  "price": 21900,
+  "image": "dish-kureci-prsa-na-grilu-uletelo",
+  "recipe": "kureci-prsa-na-grilu",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7
+  ],
+  "order": 180
+}

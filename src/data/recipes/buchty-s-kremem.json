@@ -1,0 +1,144 @@
+{
+  "title": "Buchty s vanilkovým krémem",
+  "keywords": [
+    "buchty s krémem",
+    "buchty s krémem recept",
+    "kynuté buchty s krémem",
+    "buchty plněné krémem",
+    "recept na buchty s krémem"
+  ],
+  "intro": "Buchty s krémem jsou měkké kynuté buchty plněné vanilkovým pudinkovým krémem. Z dávky vyjde 12 buchet na plech. Těžké je neprorazit těsto při plnění a pořádně ho uzavřít, aby krém při pečení nevytekl.",
+  "image": "dish-buchty-s-kremem",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 60,
+  "cookMinutes": 25,
+  "waitMinutes": 120,
+  "waitLabel": "kynutí těsta a buchet",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 42,
+      "unit": "g",
+      "note": "čerstvé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vlažné, 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "rozpuštěné a vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 74,
+      "unit": "g",
+      "note": "2 sáčky",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Na potření"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Kvásek",
+      "text": "Droždí rozdrol do 100 ml vlažného mléka s lžící cukru z dávky a nech 10 minut vzejít. Mezitím smíchej mouku se solí a zbylým cukrem."
+    },
+    {
+      "section": "Těsto",
+      "text": "K mouce přidej kvásek, zbylé mléko, vejce a rozpuštěné máslo. Vypracuj hladké těsto, které se nelepí na ruce, 8 až 10 minut. Nech ho zakryté kynout 60 minut, aby zdvojnásobilo objem."
+    },
+    {
+      "section": "Krém",
+      "text": "Z 500 ml mléka, pudinkového prášku a 50 g cukru uvař hustý pudink. Zakryj fólií přímo na povrchu a nech úplně vychladnout; teplý krém by nechal těsto prosáknout."
+    },
+    {
+      "section": "Plnění",
+      "text": "Těsto rozděl na 12 dílů po asi 75 g. Každý rozplácni na kolečko o průměru 10 cm, doprostřed dej 1 lžíci krému, okraje stáhni nahoru a pevně uzavři. Klaď spojem dolů na plech s papírem, 3 cm od sebe."
+    },
+    {
+      "section": "Kynutí",
+      "text": "Buchty nech 30 minut nakynout na teplém místě. Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C)."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 22 až 25 minut dozlatova. Horké buchty potři rozpuštěným máslem a nech 10 minut vychladnout."
+    }
+  ],
+  "tips": [
+    "Krém plň studený a spoj těsto pevně. Teplý krém těsto zmáčí a buchty se nezvednou.",
+    "Kvasnicové těsto kyne nejlépe při 28 až 30 °C. V troubě s rozsvíceným světlem bez zapnutého ohřevu je to ideální.",
+    "Skladuj v lednici 2 dny kvůli krému. Před podáváním ohřej v troubě 5 minut při 150 °C."
+  ],
+  "substitutions": [
+    "Mléko v těstě nahraď ovesným nápojem a máslo rostlinným máslem; krém uvař také z rostlinného mléka.",
+    "Vanilkový krém nahraď tvarohovou náplní: 250 g tvarohu, 1 žloutek a 2 lžíce cukru.",
+    "Čerstvé droždí nahraď 14 g sušeného, rozmíchaného s mlékem."
+  ],
+  "faq": [
+    {
+      "q": "Proč buchty nevykynuly?",
+      "a": "Droždí bylo staré nebo mléko příliš horké. Mléko má mít 35 °C, při vyšší teplotě kvasinky hynou."
+    },
+    {
+      "q": "Jak zabránit, aby krém z buchet vytekl?",
+      "a": "Krém uvař hustý, nech ho úplně zchladnout a těsto pevně uzavři. Buchty klaď spojem dolů."
+    },
+    {
+      "q": "Jak dlouho vydrží buchty s krémem?",
+      "a": "Při pokojové teplotě jeden den, v lednici 2 dny. Před jídlem je krátce prohřej v troubě."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Pečená šunka s hořčicí",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Plátky pečené šunky s česnekem a majoránkou, hořčice zvlášť. Noc v soli čeká doma.",
+  "about": [
+    "Domácí šunka z kýty potřebuje noc v soli a dvě hodiny v troubě. Výsledek je tmavší a hrubší než z obchodu, ale chutná po mase, česneku a majoránce.",
+    "Ve výčepu se nic neodkládá do lednice, protože tu není co. Tvoje šunka tam ale odpočine skutečně a ráno ti zachutná i studená na chlebu."
+  ],
+  "price": 25900,
+  "image": "dish-pecena-sunka-vycep-zitra",
+  "recipe": "pecena-sunka",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    10
+  ],
+  "order": 160
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ořechové cukroví z bílků, 5 ks",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Cukroví",
+  "description": "Vláčné kousky z mletých vlašských ořechů a bílků, bez mouky, 5 ks.",
+  "about": [
+    "Ořechové cukroví z bílků je jedno z mála, které nepotřebuje mouku. Drží ho pohromadě pevný sníh, moučkový cukr a hodně mletých vlašských ořechů.",
+    "Peče se nízko a krátce, aby zůstalo vláčné. Čokoláda na spodu je jen dárek navíc. Kurýr s prázdnou taškou ho nedoveze, recept ale funguje."
+  ],
+  "price": 9900,
+  "image": "dish-orechove-cukrovi",
+  "recipe": "orechove-cukrovi",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    8
+  ],
+  "featured": false,
+  "order": 402
+}

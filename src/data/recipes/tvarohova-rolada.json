@@ -1,0 +1,138 @@
+{
+  "title": "Tvarohová roláda",
+  "keywords": [
+    "tvarohová roláda",
+    "tvarohová roláda recept",
+    "roláda s tvarohem",
+    "piškotová roláda s tvarohem",
+    "recept na tvarohovou roládu"
+  ],
+  "intro": "Tvarohová roláda je vláčný piškotový plát svinutý s vanilkovým tvarohovým krémem. Z plechu vyjde asi 12 plátků. Těžké je upéct plát tak, aby se nelámal při svinování: peče se krátce a ještě horký se stočí i s papírem.",
+  "image": "dish-tvarohova-rolada",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 45,
+  "cookMinutes": 12,
+  "waitMinutes": 180,
+  "waitLabel": "chladnutí a ztuhnutí v lednici",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Plát"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g",
+      "group": "Plát"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 90,
+      "unit": "g",
+      "group": "Plát"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 20,
+      "unit": "g",
+      "group": "Plát"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Plát"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "hladký",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 200,
+      "unit": "ml",
+      "note": "dobře vychlazená",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva a kůra z poloviny",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "group": "Posyp"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Plát",
+      "text": "Troubu předehřej na 200 °C horní a spodní ohřev (horkovzduch 190 °C). Plech 30 x 40 cm vyložit pečicím papírem. Žloutky ušlehej s polovinou cukru do světlé, husté pěny."
+    },
+    {
+      "section": "Plát",
+      "text": "Bílky se špetkou soli šlehej do pevného sněhu a postupně přidej zbylý cukr. Sníh vmíchej do žloutků, přesej mouku se škrobem a jemně promíchej stěrkou."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto rozetři do plechu do tloušťky 1 cm a peč 8 až 10 minut do světle zlaté. Plát vyklop na vlhkou utěrku posypanou cukrem, stáhni papír a ještě teplý svinuj i s utěrkou. Nech vychladnout."
+    },
+    {
+      "section": "Krém",
+      "text": "Tvaroh vyšlehej s moučkovým a vanilkovým cukrem, citronovou kůrou a šťávou. Smetanu našlehej do tuha a vmíchej do tvarohu."
+    },
+    {
+      "section": "Plnění",
+      "text": "Vychladlý plát rozmotej, potři krémem a znovu svinuj. Roládu zabal do fólie a nech 3 hodiny v lednici ztuhnout. Před podáváním posyp moučkovým cukrem a nakrájej."
+    }
+  ],
+  "tips": [
+    "Svinuj plát ještě teplý, studený se láme. Utěrku předem lehce navlhči, aby se papír stahoval snadno.",
+    "Do krému můžeš vmíchat 150 g jahod nebo malin nakrájených nadrobno, plátky pak budou barevné.",
+    "Roláda drží v lednici 3 dny. Neskladuj ji nepřikrytou, nasákne pachy."
+  ],
+  "substitutions": [
+    "Tvaroh nahraď stejným množstvím mascarpone; krém bude hutnější.",
+    "Smetanu ke šlehání nahraď 200 ml rostlinné šlehačky.",
+    "Místo škrobu použij stejné množství hladké mouky."
+  ],
+  "faq": [
+    {
+      "q": "Proč se mi roláda láme při svinování?",
+      "a": "Plát byl moc dlouho v troubě nebo vychladl. Peč jen 8 až 10 minut a svinuj ho ještě teplý v utěrce."
+    },
+    {
+      "q": "Jak dlouho se peče piškotový plát na rolády?",
+      "a": "Při 200 °C asi 8 až 10 minut. Povrch je světle zlatý a po stisknutí vzápětí pruží."
+    },
+    {
+      "q": "Jak dlouho vydrží tvarohová roláda?",
+      "a": "V lednici přikrytá 3 dny. Tvarohový krém se šlehačkou nesmí zůstat na teplém místě déle než 2 hodiny."
+    }
+  ]
+}

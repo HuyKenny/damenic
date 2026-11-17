@@ -1,0 +1,23 @@
+{
+  "name": "Mapo tofu s mletým masem",
+  "restaurant": "wok-nic-moc",
+  "kind": "main",
+  "section": "Rýže a kari",
+  "description": "Hedvábné tofu v pálivé omáčce s mletým vepřovým, sečuánským pepřem a jarní cibulkou.",
+  "about": [
+    "Mapo tofu je jedno z těch jídel, které se dělá z levných věcí a chutná jako výlet. Tofu je jemné, omáčka pálivá, pepř brní na jazyku a rýže to všechno zklidní.",
+    "Wok nic moc, ale nic moc na tom nevadí. Prázdná miska dnes překvapí tím, že je teplá jen v receptu."
+  ],
+  "price": 18900,
+  "image": "dish-mapo-tofu",
+  "recipe": "mapo-tofu",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 3,
+  "allergens": [
+    1,
+    6
+  ],
+  "featured": false,
+  "order": 922
+}

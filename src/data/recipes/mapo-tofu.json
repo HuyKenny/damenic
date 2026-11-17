@@ -1,0 +1,128 @@
+{
+  "title": "Mapo tofu",
+  "keywords": [
+    "mapo tofu",
+    "mapo tofu recept",
+    "sečuánské tofu s mletým masem",
+    "pálivé tofu"
+  ],
+  "image": "dish-mapo-tofu",
+  "category": "asijska",
+  "vegetarian": false,
+  "servings": 3,
+  "activeMinutes": 20,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Mapo tofu je sečuánské jídlo z jemného tofu, mletého vepřového a pálivé fazolové pasty. Hlavní je kombinace pálivosti a brnivého sečuánského pepře. Tofu se vaří jen krátce a opatrně míchá, aby se nerozpadlo.",
+  "ingredients": [
+    {
+      "ingredient": "tofu",
+      "amount": 400,
+      "unit": "g",
+      "note": "jemné nebo středně pevné, na kostky 2 cm"
+    },
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "doubanjiang",
+      "amount": 1.5,
+      "unit": "lzice",
+      "note": "pálivá fazolová pasta"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "pepr-sichuansky",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "opražený a rozdrcený"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "rozmíchaný ve 3 lžících studené vody"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na kolečka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Tofu nakrájej na kostky, 5 minut ho namoč v horké osolené vodě a opatrně sceď, aby se zpevnilo a odpustilo vodu."
+    },
+    {
+      "text": "V pánvi nebo woku rozehřej olej na středně vysokém plameni. Přidej mleté maso a smaž 4 až 5 minut, rozmělňuj ho, až je propečené a lehce křupavé."
+    },
+    {
+      "text": "Přidej pastu, česnek a zázvor a míchej 30 vteřin, až olej zčervená. Přilij vývar, sójovku, cukr a přiveď k mírnému varu."
+    },
+    {
+      "text": "Vlož tofu, nemíchej, jen pánví jemně zakroužej. Vař 5 minut na mírném plameni. Přilij rozmíchaný škrob, nech 1 minutu zhoustnout a omáčka zesklovatí."
+    },
+    {
+      "text": "Posyp pepřem sečuánským a jarní cibulkou, podávej s jasmínovou rýží."
+    }
+  ],
+  "tips": [
+    "Sečuánský pepř opraž 1 minutu na suché pánvi a rozdrť, nezhořkne a rozvoní se.",
+    "Pasta doubanjiang je slaná, sůl proto nepřidávej, dokud neochutnáš.",
+    "Tofu míchej jen opatrně, nejlépe pánví nebo zadní stranou naběračky."
+  ],
+  "substitutions": [
+    "Vepřové nahraď houbami shiitake nebo sójovými kousky pro vegetariánskou verzi.",
+    "Pokud nemáš doubanjiang, použij gochujang s trochou chilli, chuť bude trochu sladší."
+  ],
+  "faq": [
+    {
+      "q": "Co je doubanjiang?",
+      "a": "Fermentovaná fazolová pasta s chilli ze Sečuánu. V obchodech s asijskými potravinami ji najdeš pod tímto jménem, případně v kelímku nebo skleničce."
+    },
+    {
+      "q": "Je mapo tofu vždy hodně pálivé?",
+      "a": "Klasicky ano, ale míru ovlivníš množstvím pasty a pepře. Začni 1 lžící pasty a ochutnej."
+    },
+    {
+      "q": "Dá se mapo tofu udělat vegetariánské?",
+      "a": "Dá, vepřové nahraď 150 g nasekaných hub shiitake a použij zeleninový vývar."
+    }
+  ]
+}

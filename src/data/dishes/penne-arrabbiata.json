@@ -1,0 +1,23 @@
+{
+  "name": "Penne arrabbiata",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Klasiky",
+  "description": "Penne v pálivé rajčatové omáčce s česnekem, chilli a pecorinem.",
+  "about": [
+    "Arrabbiata je jedna z těch omáček, které se vejdou do jedné pánve a jedné konvice. Rajčata, česnek, olivový olej a chilli, nic víc, a přesto je z nich chuť, která si vyžádá druhý talíř.",
+    "Pánev je prázdná a kurýr Nikdo se zlobí na všechno kromě těstovin. Rozzuřená je jen omáčka, a ta se ti uvaří za dvacet minut."
+  ],
+  "price": 17900,
+  "image": "dish-penne-arrabbiata",
+  "recipe": "penne-arrabbiata",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 2,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 905
+}

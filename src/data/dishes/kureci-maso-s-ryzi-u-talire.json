@@ -1,0 +1,22 @@
+{
+  "name": "Kuřecí maso s rýží z pekáče",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "description": "Stehna upečená na rýži ve vývaru, s hráškem. Rýže se jí vaří v troubě, hlad čeká doma.",
+  "about": [
+    "Kuřecí maso s rýží z jednoho pekáče je domácí klasika: stehna sedí na rýži, která se vaří ve vývaru, a vše se upeče pod alobalem. Tuk z kůže vsákne rýže, a proto chutná i bez omáčky.",
+    "Tady se pekáč nikdy nenaplní. U tebe doma ho z trouby vytáhneš za necelou hodinu, s rýží vařenou přesně do měkka."
+  ],
+  "price": 18900,
+  "image": "dish-kureci-maso-s-ryzi-u-talire",
+  "recipe": "kureci-maso-s-ryzi-z-pekace",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    9
+  ],
+  "order": 195
+}

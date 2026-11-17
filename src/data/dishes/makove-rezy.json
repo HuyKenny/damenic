@@ -1,0 +1,25 @@
+{
+  "name": "Makové řezy s vanilkovým krémem",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Řezy z plechu",
+  "description": "Makový korpus a vanilkový krém, krájené do čtverců.",
+  "about": [
+    "Makové řezy mají tmavý korpus s mákem a světlý vanilkový krém. Chuť je hluboká a po dvou dnech v lednici ještě lepší.",
+    "Mák se musí mlít čerstvě, jinak hořkne. Vitrína nic neukáže, ale recept ukáže, jak mák ochočit."
+  ],
+  "price": 6900,
+  "image": "dish-makove-rezy",
+  "recipe": "makove-rezy",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 413
+}

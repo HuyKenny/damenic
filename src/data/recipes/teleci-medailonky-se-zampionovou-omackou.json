@@ -1,0 +1,119 @@
+{
+  "title": "Telecí medailonky se žampionovou omáčkou",
+  "keywords": [
+    "telecí medailonky",
+    "telecí medailonky se žampiony",
+    "telecí na žampionech",
+    "telecí medailonky recept",
+    "telecí maso se žampionovou omáčkou"
+  ],
+  "image": "dish-teleci-medailonky-se-zampionovou-omackou",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Telecí medailonky jsou kolečka z telecí kýty, která se rychle osmaží a podávají se se žampionovou omáčkou. Telecí maso je jemné a libové, takže potřebuje jen pár minut na pánvi: déle znamená suché a tuhé. Omáčka z žampionů se smetanou se dělá ve stejné pánvi.",
+  "ingredients": [
+    {
+      "ingredient": "teleci-rizek",
+      "amount": 400,
+      "unit": "g",
+      "note": "4 medailonky silné 2 cm"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na poprášení"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 200,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "vino-bile",
+      "amount": 50,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.1,
+      "unit": "ks",
+      "note": "nasekaná nať"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Medailonky osol, opepři a z obou stran lehce poprášit moukou, přebytek oklep."
+    },
+    {
+      "text": "Na pánvi rozehřej polovinu másla na středním plameni a medailonky smaž 3 minuty z každé strany. Maso je hotové při 60 °C uvnitř a má být růžové. Přendej je na talíř a přikryj."
+    },
+    {
+      "text": "Do stejné pánve dej zbylé máslo a cibuli, 2 minuty duš. Přidej žampiony a smaž je 6 až 8 minut, dokud se nevypaří voda a nezezlátnou. Osol."
+    },
+    {
+      "text": "Zalij vínem a nech ho 1 minutu probublat. Přilij smetanu a vař 3 až 4 minuty, dokud mírně nezhoustne."
+    },
+    {
+      "text": "Vrať medailonky na pánev i s šťávou z talíře, ohřej je v omáčce 1 minutu, posyp petrželkou a podávej."
+    }
+  ],
+  "tips": [
+    "Telecí maso nesmaž na prudkém ohni déle, než je třeba. Je libové a tuhne už po pár minutách navíc.",
+    "Nepoprášené maso se hodí k rychlému opečení, mouka ale ochrání před vysycháním a zahustí omáčku.",
+    "K medailonkům se hodí bramborová kaše, rýže nebo máslové brambory."
+  ],
+  "substitutions": [
+    "Telecí maso nahraď vepřovou panenkou nakrájenou na medailonky, peč ji do 65 °C.",
+    "Víno nahraď vývarem s kapkou citronové šťávy.",
+    "Smetanu na vaření nahraď zakysanou smetanou, přidej ji až mimo oheň, aby se nesrazila."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit telecí medailonky?",
+      "a": "Medailonky silné 2 cm smaž asi 3 minuty z každé strany na středním plameni, aby měly uvnitř 60 °C. Delší smažení je vysuší."
+    },
+    {
+      "q": "Čím nahradit telecí maso?",
+      "a": "Dobře poslouží vepřová panenka nebo kuřecí prsa, ta ale musí mít uvnitř 75 °C."
+    },
+    {
+      "q": "Proč je telecí maso suché?",
+      "a": "Přepéklo se. Telecí je libové a potřebuje kratší čas a mírnější teplotu. Po smažení ho nech chvíli odpočinout."
+    }
+  ],
+  "alcohol": false
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Karaage",
+  "keywords": [
+    "karaage",
+    "karaage recept",
+    "japonské smažené kuře",
+    "karaage kuřecí"
+  ],
+  "image": "dish-karaage",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 3,
+  "activeMinutes": 20,
+  "cookMinutes": 12,
+  "waitMinutes": 30,
+  "waitLabel": "marinování",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Karaage je japonské smažené kuře: kousky stehen marinované v sójové omáčce, zázvoru a česneku, obalené jen bramborovým škrobem a smažené dvakrát. Dvojité smažení je to, co dělá kůrku křupavou a maso šťavnaté.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 600,
+      "unit": "g",
+      "note": "bez kosti, s kůží, na kousky velikosti sousta"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "mirin",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "jemně nastrouhaný"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 80,
+      "unit": "g",
+      "note": "bramborový"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 600,
+      "unit": "ml",
+      "note": "na smažení"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "k podávání"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuřecí kousky smíchej se sójovou omáčkou, mirinem, zázvorem a česnekem. Nech marinovat 30 minut v lednici, nejvýš 2 hodiny."
+    },
+    {
+      "text": "Maso nech lehce odkapat, ale neosušuj. Obal ho ve škrobu a každý kousek zlehka oklep. Nech 3 minuty odpočinout, škrob nasaje marinádu."
+    },
+    {
+      "text": "V hrnci rozehřej olej na 170 °C. Kousky smaž po 5 až 6 kusech 4 minuty. Vyndej je na mřížku a nech 3 minuty odpočinout."
+    },
+    {
+      "text": "Olej zvyš na 180 °C a kousky smaž podruhé 1 minutu do zlatohnědé. Maso musí mít uvnitř aspoň 75 °C."
+    },
+    {
+      "text": "Podávej horké s citronem a majonézou."
+    }
+  ],
+  "tips": [
+    "Bramborový škrob dělá lehčí, křehčí kůrku než mouka. Nedávej ho moc, jen tenký obal.",
+    "Maso krájej na stejně velké kousky, aby se upekly najednou.",
+    "Dvojí smažení je klíč: první propeče, druhé zkřupavělou kůrku."
+  ],
+  "substitutions": [
+    "Mirin nahraď lžičkou cukru a lžící vody. Stehna lze nahradit kuřecími prsy, maso se marinuje jen 20 minut.",
+    "Majonézu vyměň za sriracha mayo nebo jogurt s citronem."
+  ],
+  "faq": [
+    {
+      "q": "Proč se dělá karaage dvakrát smažené?",
+      "a": "První smažení maso propeče, druhé odpaří zbylou vlhkost a udělá kůrku křupavou. Maso zůstane šťavnaté."
+    },
+    {
+      "q": "Dá se karaage upéct v troubě?",
+      "a": "Dá, na 220 °C asi 20 minut, v půlce otoč a potři olejem. Kůrka bude měkčí než smažená."
+    },
+    {
+      "q": "Jak dlouho se karaage marinuje?",
+      "a": "Stačí 30 minut, déle než 2 hodiny sójová omáčka maso příliš prosolí."
+    }
+  ]
+}

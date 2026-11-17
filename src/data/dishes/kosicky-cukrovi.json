@@ -1,0 +1,26 @@
+{
+  "name": "Ořechové košíčky, 5 ks",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Cukroví",
+  "description": "Linecké košíčky s karamelovou ořechovou náplní a čokoládou, 5 ks.",
+  "about": [
+    "Košíčky cukroví jsou malé linecké kelímky, které do sebe schovají ořechovou náplň se smetanou a medem. Výroba chce trpělivost, protože těsto se tlačí do každé formičky zvlášť palcem.",
+    "Nahoře dostanou stopu čokolády. Doručit je neumíme, ale proto máš recept: v dóze vydrží dva týdny a pod stromeček z nich zbude jen pár."
+  ],
+  "price": 10900,
+  "image": "dish-kosicky-cukrovi",
+  "recipe": "kosicky-cukrovi",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 403
+}

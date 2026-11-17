@@ -1,0 +1,117 @@
+{
+  "title": "Vepřové v alobalu s cibulí a bramborami",
+  "keywords": [
+    "vepřové v alobalu",
+    "vepřové v alobalu recept",
+    "vepřové maso v alobalu",
+    "krkovice v alobalu",
+    "vepřové v alobalu v troubě"
+  ],
+  "image": "dish-veprove-v-alobalu",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 75,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Vepřové v alobalu se peče pod pevným zábalem v páře, takže vyjde měkké i bez pánve a tuku navíc. Do balíčků se skládá krkovice, brambory a cibule, nic se nepřevaluje. Důležité je maso porcovat na stejně velké plátky a dobře zabalit okraje.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-krkovice",
+      "amount": 600,
+      "unit": "g",
+      "note": "4 plátky silné asi 1,5 cm"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 600,
+      "unit": "g",
+      "note": "na kolečka silná 0,5 cm"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "na půlkolečka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 190 °C, horkovzduch 180 °C. Maso naklepej, osol, opepři a potři hořčicí, paprikou a majoránkou."
+    },
+    {
+      "text": "Brambory v míse promíchej s olejem, 1 lžičkou soli a trochou papriky. Připrav čtyři kusy alobalu, každý asi 40 cm, a lehce je potři olejem."
+    },
+    {
+      "text": "Na každý kus alobalu dej vrstvu bramborových koleček, cibuli a česnek. Navrch polož maso. Okraje pevně složit a sevřít tak, aby pára nemohla unikat."
+    },
+    {
+      "text": "Balíčky polož na plech a peč 60 minut. Potom je opatrně otevři, pozor na horkou páru, a peč odkryté dalších 15 minut, dokud se maso nezačne přibarvovat. Vepřové je hotové při 70 °C uvnitř, brambory jsou měkké."
+    },
+    {
+      "text": "Před podáváním nech vše 5 minut odpočinout a podávej v alobalu, nebo přendej na talíř i se šťávou."
+    }
+  ],
+  "tips": [
+    "Jako krkovici lze použít i vepřovou plec nebo kotlety s kostí, kotlety potřebují o 10 minut méně.",
+    "Alobal zdvojením vyztuž, pokud budeš balíčky péct na grilu.",
+    "Brambory krájej tenčí, než se zdá, jinak zůstanou uprostřed tvrdé."
+  ],
+  "substitutions": [
+    "Krkovici nahraď kuřecími stehny, peč je 50 minut do 75 °C.",
+    "Hořčici nahraď kečupem nebo rajčatovým protlakem.",
+    "Brambory nahraď kořenovou zeleninou: mrkví, celerem a petržel."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct vepřové v alobalu?",
+      "a": "Plátky krkovice silné 1,5 cm peč 60 minut pod zábalem a 15 minut odkryté při 190 °C. Uvnitř musí mít maso 70 °C."
+    },
+    {
+      "q": "Proč je maso v alobalu tuhé?",
+      "a": "Příliš tenké plátky, málo vlhkosti nebo moc krátký čas. Počítej s kvalitní krkovicí a dostatkem pár uvnitř balíčku."
+    },
+    {
+      "q": "Dá se vepřové v alobalu péct na grilu?",
+      "a": "Ano, balíčky polož na rošt nad nepřímý žár na 50 až 60 minut a jednou je otoč."
+    }
+  ]
+}

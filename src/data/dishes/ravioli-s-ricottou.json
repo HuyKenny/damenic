@@ -1,0 +1,24 @@
+{
+  "name": "Ravioli s ricottou a šalvějovým máslem",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Těstoviny a lasagne",
+  "description": "Ručně plněná ravioli s ricottou, máslo se šalvějí a parmazán.",
+  "about": [
+    "Dobré ravioli se pozná podle okraje: zatlačený, bez vzduchu a bez tlusté vrstvy těsta. Plnka z ricotty je jemná, trochu slaná a od másla se šalvějí dostane oříškový nádech.",
+    "Do trattorie nic nedorazí, ale těsto je ochotné odpočívat třicet minut s tebou. Tak mu ten čas dopřej a hlavně netlač na vařící vodu."
+  ],
+  "price": 21900,
+  "image": "dish-ravioli-s-ricottou",
+  "recipe": "ravioli-s-ricottou",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 910
+}

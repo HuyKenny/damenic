@@ -1,0 +1,123 @@
+{
+  "title": "Lilek parmigiana",
+  "keywords": [
+    "lilek parmigiana",
+    "parmigiana di melanzane",
+    "lilek parmigiana recept",
+    "zapečený lilek s mozzarellou a rajčaty"
+  ],
+  "image": "dish-lilek-parmigiana",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Lilek parmigiana jsou vrstvy pečeného lilku, rajčatové omáčky a mozzarelly zapečené do zlatá. Lilek se tady nesmaží v oleji, ale peče na plechu, takže jídlo je lehčí a plátky nenasáknou tuk.",
+  "ingredients": [
+    {
+      "ingredient": "lilek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "asi 900 g, na plátky 1 cm silné",
+      "group": "lilek"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "na lilek",
+      "group": "lilek"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 5,
+      "unit": "lzice",
+      "note": "na potření plátků a na omáčku",
+      "group": "lilek"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "najemno",
+      "group": "omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "omáčka"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 500,
+      "unit": "ml",
+      "group": "omáčka"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 8,
+      "unit": "ks",
+      "note": "větvičky nebo lístky",
+      "group": "omáčka"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 250,
+      "unit": "g",
+      "note": "nakrájená na plátky nebo natrhaná",
+      "group": "zapečení"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 50,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "zapečení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Lilky nakrájej na plátky silné 1 cm, na plechu je posol (1 lžička) a nech 20 minut odpočívat. Pak je osuš papírovou utěrkou, aby pustily hořkou vodu."
+    },
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C). Plátky potři olivovým olejem z obou stran, rozlož na dva plechy s pečicím papírem a peč 20 až 25 minut, v půlce je otoč. Mají být měkké a zlatavé."
+    },
+    {
+      "text": "Do hrnce dej 2 lžíce oleje, cibuli osmaž 5 minut do měkka, přidej česnek na 30 vteřin. Přilij passatu, osol, přidej část bazalky a vař 15 minut na středním plameni, až zhoustne."
+    },
+    {
+      "text": "Do pekáče asi 20 × 25 cm dej lžíci omáčky, vrstvi plátky lilku, omáčku, mozzarellu a trochu parmazánu. Opakuj 3 až 4 vrstvy, vrch zakonči omáčkou, mozzarellou a parmazánem."
+    },
+    {
+      "text": "Peč při 190 °C (horkovzduch 170 °C) 25 minut, až se sýr rozpustí a okraje bublají. Nech 10 minut odpočinout, aby se vrstvy slily a dalo se krájet, a posyp zbylou bazalkou."
+    }
+  ],
+  "tips": [
+    "Mozzarellu dobře osuš, jinak pekáč zaplave vodou. Kuličky nech chvíli na papírové utěrce.",
+    "Parmigiana je lepší druhý den. Prohřej ji v troubě na 160 °C asi 20 minut.",
+    "Vydrží v lednici 3 dny, zamrazit se dá v porcích do 2 měsíců."
+  ],
+  "substitutions": [
+    "Parmazán můžeš nahradit pecorinem. Pro lehčí variantu vynech mozzarellu a dej jen parmazán a strouhanku.",
+    "Passatu nahraď loupanými rajčaty z konzervy rozmačkanými vidličkou."
+  ],
+  "faq": [
+    {
+      "q": "Musí se lilek před pečením solit?",
+      "a": "U dnešních odrůd není hořkost problém, ale solení vytáhne vodu, plátky se víc zhnědnou a méně nasáknou olej."
+    },
+    {
+      "q": "Dá se parmigiana připravit den předem?",
+      "a": "Dá. Poskládej ji do pekáče, přikryj a dej do lednice. Peč o 10 minut déle, protože vychladlá je potřeba prohřát."
+    },
+    {
+      "q": "Proč je parmigiana vodnatá?",
+      "a": "Obvykle z mozzarelly, nedopečeného lilku nebo řídké omáčky. Mozzarellu osuš, lilek upeč dozlatova a omáčku zahusti."
+    }
+  ]
+}

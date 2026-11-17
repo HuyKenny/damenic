@@ -1,0 +1,25 @@
+{
+  "name": "Kávové řezy bez pečení",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Řezy z plechu",
+  "description": "Piškoty v kávě a krém z mascarpone, studené a krájené do čtverců.",
+  "about": [
+    "Kávové řezy jsou nepečené: vrstva piškotů namočených v kávě a vzdušný krém z mascarpone se šlehačkou. Po šesti hodinách v lednici drží tvar.",
+    "Ve vitríně Prázdné je volno, ale řez se dá krájet doma. Namáčej na dvě sekundy a kakao posyp až na konec."
+  ],
+  "price": 6900,
+  "image": "dish-kavove-rezy",
+  "recipe": "kavove-rezy",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 408
+}

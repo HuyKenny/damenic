@@ -1,0 +1,124 @@
+{
+  "title": "Žampionová omáčka",
+  "keywords": [
+    "žampionová omáčka",
+    "žampionová omáčka recept",
+    "houbová omáčka se smetanou",
+    "omáčka ze žampionů",
+    "žampionová omáčka s cibulkou"
+  ],
+  "image": "dish-zampionova-omacka",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Žampionová omáčka je hustá smetanová omáčka k masu, knedlíkům, těstovinám i rýži a hotová je za půl hodiny. Rozhoduje, jak dlouho se žampiony opékají: když se z nich nejdřív vypaří voda a zhnědnou, omáčka voní po houbách a nechutná po vařené smetaně.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno nakrájená"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 400,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "vrchovatá"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "g",
+      "note": "špetka sušeného"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaná nať"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na větší pánvi rozpusť máslo na středním plameni, přidej cibuli a za občasného míchání ji 4 minuty duš doběla, aby nezhnědla."
+    },
+    {
+      "text": "Přidej žampiony na plátky, zvyš plamen a smaž je 8 až 10 minut, dokud se z pánve nevypaří všechna voda a houby nezačnou zlátnout. Osol je a opepři."
+    },
+    {
+      "text": "Vmíchej česnek a tymián, nech je 30 sekund vonět, pak posyp houby moukou a míchej minutu, aby mouka nezůstala syrová."
+    },
+    {
+      "text": "Za stálého míchání přilévej vývar a potom smetanu. Omáčku přiveď k bublání, sniž plamen a vař ji 6 až 8 minut, dokud nezhoustne a nepřilne na lžíci."
+    },
+    {
+      "text": "Dochuť solí a pepřem, vmíchej petrželku a podávej hned. Je-li omáčka moc hustá, rozřeď ji lžící vývaru nebo mléka."
+    }
+  ],
+  "tips": [
+    "Pánev nepřeplňuj. Když se žampiony dusí na sobě, pustí vodu a místo opečených se vaří; jindy je opékej na dvě dávky.",
+    "Žampiony neomývej pod proudem vody, jen je otři vlhkou utěrkou nebo je rychle opláchni a osuš, jinak nasají vodu.",
+    "Omáčka se v lednici udrží 2 dny v uzavřené nádobě. Při ohřevu ji míchej a podle potřeby zřeď."
+  ],
+  "substitutions": [
+    "Místo smetany na vaření můžeš použít 200 ml ovesné smetany na vaření a máslo nahradit olejem, omáčka bude bez mléka.",
+    "Bez lepku: mouku vynech a omáčku zahusti 1 lžičkou kukuřičného škrobu rozmíchaného ve 2 lžících studené vody.",
+    "Část žampionů lze nahradit hlívou ústřičnou pro výraznější chuť."
+  ],
+  "faq": [
+    {
+      "q": "Čím zahustit žampionovou omáčku?",
+      "a": "Nejlépe moukou opraženou na houbách, jak je v receptu. Dodatečně pomůže lžička škrobu rozmíchaná ve studené vodě, přilitá do vroucí omáčky, nebo delší probublání bez poklice."
+    },
+    {
+      "q": "Proč je žampionová omáčka vodnatá?",
+      "a": "Houby nebyly dost dlouho opečené a smetana se zřeďuje vodou z nich. Smažit je třeba, dokud se pánev nevysuší, a vodu z hub vždy nechat odpařit před přidáním mouky."
+    },
+    {
+      "q": "Dá se žampionová omáčka zamrazit?",
+      "a": "S moukou se zmrazit dá až na 2 měsíce, po rozmrazení se může trochu rozdělit. Zahřej ji pomalu a prošlehej metlou."
+    }
+  ]
+}

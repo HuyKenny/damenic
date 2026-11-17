@@ -1,0 +1,109 @@
+{
+  "title": "Kuřecí stehna na grilu",
+  "keywords": [
+    "kuřecí stehna na grilu",
+    "kuřecí stehna na grilu recept",
+    "grilovaná kuřecí stehna",
+    "kuřecí stehna na grilu marináda",
+    "kuřecí stehna z grilu"
+  ],
+  "image": "dish-kureci-stehna-na-grilu",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 40,
+  "waitMinutes": 120,
+  "waitLabel": "marinování v lednici",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Kuřecí stehna s kostí jsou na grilu odpustitější než prsa: tuk a kost chrání maso před vysycháním. Marináda z oleje, medu a koření dá kůži barvu a hotová jsou při 75 °C uvnitř. Stehna se griluje nepřímým žárem, takže kůže zezlátne a maso se propeče až ke kosti.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna-s-kosti",
+      "amount": 1000,
+      "unit": "g",
+      "note": "asi 4 stehna"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisované"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V míse smíchej olej, med, česnek, obě papriky, sůl, pepř a citronovou šťávu. Stehna v marinádě důkladně obal, přikryj je a nech 2 hodiny v lednici, nejlépe přes noc."
+    },
+    {
+      "text": "Gril si připrav na dvě zóny: jedna s přímým žárem a druhá bez uhlí nebo hořáku, kde je žár nepřímý, asi 180 °C. Na troubu stačí 200 °C, horkovzduch 190 °C."
+    },
+    {
+      "text": "Stehna polož na rošt nad nepřímý žár kůží nahoru, přikryj víkem a griluj 30 minut, po 15 minutách je otoč. Poté je přesuň na 3 až 5 minut nad přímý žár, aby kůže zezlátla, a hlídej je."
+    },
+    {
+      "text": "Maso je hotové, když má v nejtlustším místě u kosti 75 °C a šťáva je čirá. Nech stehna 5 minut odpočinout, pak podávej."
+    }
+  ],
+  "tips": [
+    "Med v marinádě se spálí rychle. Pokud kůže začne černat, stehna přesuň na nepřímý žár a přikryj.",
+    "Stehna vyndej z lednice 30 minut před grilováním, rovnoměrněji se upečou.",
+    "Na uhlí griluj, až když uhlí zbělá a žár je rovnoměrný."
+  ],
+  "substitutions": [
+    "Med nahraď javorovým sirupem nebo hnědým cukrem.",
+    "Uzenou papriku nahraď sladkou nebo špetkou chilli.",
+    "Stehna se dají péct i v troubě na roštu nad plechem 40 až 45 minut."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho grilovat kuřecí stehna?",
+      "a": "Přibližně 35 až 40 minut nad nepřímým žárem a krátce nad přímým pro kůži. Hotová jsou při 75 °C uvnitř u kosti."
+    },
+    {
+      "q": "Jak poznat, že je kuřecí stehno propečené?",
+      "a": "Šťáva je čirá, maso se u kosti odděluje a teploměr ukazuje 75 °C. Růžová šťáva nebo krvavá kost znamená, že je ještě syrové."
+    },
+    {
+      "q": "Jak dlouho marinovat kuřecí stehna?",
+      "a": "Nejméně 2 hodiny, ideálně přes noc v lednici. Delší než 24 hodin není potřeba."
+    }
+  ]
+}

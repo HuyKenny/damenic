@@ -1,0 +1,22 @@
+{
+  "name": "Pečená jablka s ořechy a skořicí",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Teplé dezerty",
+  "description": "Celé pečené jablko plněné rozinkami, ořechy, medem a skořicí.",
+  "about": [
+    "Pečené jablko je dezert, který se obejde bez mouky. Celé jablko se vydlabe, naplní rozinkami, ořechy a medem a peče se do měkka. Voní po skořici a po teplém ovoci.",
+    "Sladké Nic nabízí jen nic. Recept je ale hotový za 45 minut a jablka se dají jíst hned, teplá a se lžící zmrzliny."
+  ],
+  "price": 8900,
+  "image": "dish-pecena-jablka-skorice-nic",
+  "recipe": "pecena-jablka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 960,
+  "allergens": [
+    7,
+    8
+  ]
+}

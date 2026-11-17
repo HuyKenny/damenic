@@ -1,0 +1,23 @@
+{
+  "name": "Volské oko s chlebem",
+  "restaurant": "odlozeny-budik",
+  "kind": "main",
+  "section": "Vejce",
+  "description": "Dvě smažená vejce s tekutým žloutkem a krajícem chleba.",
+  "about": [
+    "Volské oko je z vajec nejpoctivější. Pánev, máslo, dvě vejce a tekutý žloutek, do kterého se namáčí chleba. Cítit je na něm všechno, protože se nemá čím zamaskovat.",
+    "Odložený budík zazvonil už před hodinou. Volské oko je hotové za pět minut, tedy rychleji než ohlásí další odložení."
+  ],
+  "price": 8900,
+  "image": "dish-volske-oko-s-chlebem-budik",
+  "recipe": "volske-oko",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 960,
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "title": "Těsto na pizzu bez kynutí",
+  "keywords": [
+    "těsto na pizzu bez kynutí",
+    "těsto na pizzu bez droždí",
+    "rychlé těsto na pizzu",
+    "pizza bez kynutí",
+    "těsto na pizzu s jogurtem"
+  ],
+  "image": "dish-testo-na-pizzu-bez-kynuti",
+  "category": "pizza",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "pecivo",
+  "intro": "Těsto na pizzu bez kynutí je rychlé těsto z mouky, jogurtu, oleje a prášku do pečiva, které se válí hned po vypracování. Vyjdou dvě pizzy o průměru asi 28 cm za půl hodiny od prvního kroku. Je křupavé a trochu bližší placce než neapolské pizze, proto stojí na horké troubě a tenkém válení.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 10,
+      "unit": "g",
+      "note": "asi 2 lžičky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 45,
+      "unit": "ml",
+      "note": "3 lžíce"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 60,
+      "unit": "ml",
+      "note": "vlažná, dolévej po částech"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 150,
+      "unit": "ml",
+      "note": "na základ",
+      "group": "Rychlý základ"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 125,
+      "unit": "g",
+      "note": "nakrájená",
+      "group": "Rychlý základ"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "g",
+      "note": "špetka",
+      "group": "Rychlý základ"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu s plechem uvnitř předehřej na 230 °C (horkovzduch 210 °C), alespoň 15 minut."
+    },
+    {
+      "text": "Mouku promíchej s práškem do pečiva a solí. Přidej jogurt, olej a polovinu vody a míchej lžící."
+    },
+    {
+      "text": "Dolévej vodu po lžících a vypracuj hladké pružné těsto, které se nelepí na ruce. Neměj starost, že je mírně tužší."
+    },
+    {
+      "text": "Těsto rozděl na dvě části, každou rozválej na tenký plát o průměru 28 cm a ulož na pečicí papír."
+    },
+    {
+      "text": "Plát potři passatou, osol, posyp oreganem a mozzarellou a pečicí papírem přesuň na rozpálený plech. Peč 12 až 14 minut, dokud okraje nezezlátnou a sýr se nerozpustí."
+    }
+  ],
+  "tips": [
+    "Těsto nevypracovávej dlouho. Bez kynutí nepotřebuješ lepek rozvíjet, jen dobře spojit.",
+    "Tenký plát dej na horký plech, spodek bude křupavý a nebude vlhký.",
+    "Těsto lze zabalit do fólie a uložit v lednici na 1 den. Před válením nech 15 minut vyležet.",
+    "Pro křupavější okraj potři obvod olejem a posyp ho solí."
+  ],
+  "substitutions": [
+    "Jogurt nahraď stejným množstvím kefíru nebo zakysané smetany.",
+    "Mouku lze zčásti nahradit polohrubou, těsto bude zrnitější.",
+    "Základ lze nahradit rajčatovým pyré z lžíce koncentrátu rozmíchaného s trochou vody."
+  ],
+  "faq": [
+    {
+      "q": "Dá se pizza dělat bez droždí?",
+      "a": "Ano. Prášek do pečiva a jogurt dají těstu lehkost bez kynutí. Chuť je trochu jiná než kynutá, ale pizza je hotová za půl hodiny."
+    },
+    {
+      "q": "Jak dlouho se peče pizza bez kynutí?",
+      "a": "Při 230 °C asi 12 až 14 minut. Hotová je, když okraje zezlátnou a sýr se rozpustí."
+    },
+    {
+      "q": "Jak udělat pizzu bez kynutí křupavou?",
+      "a": "Válej těsto tence a peč ho na rozpáleném plechu. Spodek pak nezvlhne a okraje zhnědnou."
+    }
+  ]
+}

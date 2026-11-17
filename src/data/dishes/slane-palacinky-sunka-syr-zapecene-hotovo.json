@@ -1,0 +1,23 @@
+{
+  "name": "Zapečené slané palačinky se šunkou a sýrem",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "main",
+  "section": "Zapečené a topinky",
+  "description": "Palačinky se šunkou a eidamem zapečené do zlatova.",
+  "about": [
+    "Slané palačinky jsou obědová verze toho, co si většina z nás pamatuje ze sladké. Těsto se solí místo cukru, uvnitř je šunka a eidam a navrch ještě jedna dávka sýra, která se v troubě zapeče. Chutná jako domácí oběd ve čtvrtek.",
+    "Jídelna Už Hotovo tvrdí, že je všechno hotovo. U těch palačinek to platí aspoň pro recept: 8 až 10 minut v troubě a vyjde jídlo pro čtyři."
+  ],
+  "price": 17900,
+  "image": "dish-slane-palacinky-sunka-syr-zapecene-hotovo",
+  "recipe": "slane-palacinky-se-syrem-a-sunkou",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 960,
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

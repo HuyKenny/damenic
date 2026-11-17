@@ -1,0 +1,23 @@
+{
+  "name": "Okonomiyaki, zelná placka",
+  "restaurant": "onigiri-neurcito",
+  "kind": "main",
+  "section": "Bento",
+  "price": 18900,
+  "description": "Japonská placka z nasekaného zelí se slaninou, s omáčkou a majonézou.",
+  "about": [
+    "Okonomiyaki je placka, do které se vejde cokoli, jen zelí musí být. Smaží se na pánvi do zlatova a pak se potírá sladko-slanou omáčkou a pokapává majonézou.",
+    "Kurýr Nikdo ji nikdy nedoveze, ale recept funguje. Zelí si nakrájej sám, najemno."
+  ],
+  "recipe": "okonomiyaki",
+  "image": "dish-okonomiyaki-neurcito",
+  "vegetarian": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    10,
+    14
+  ],
+  "order": 60
+}

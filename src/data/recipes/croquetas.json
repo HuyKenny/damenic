@@ -1,0 +1,137 @@
+{
+  "title": "Croquetas",
+  "keywords": [
+    "croquetas",
+    "croquetas de jamón",
+    "španělské krokety",
+    "krokety se šunkou a bešamelem"
+  ],
+  "image": "dish-croquetas",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 15,
+  "waitMinutes": 240,
+  "waitLabel": "vychladnutí bešamelu",
+  "difficulty": "střední",
+  "meal": "predkrm",
+  "intro": "Croquetas jsou španělské krokety s krémovým bešamelem a kousky šunky uvnitř, zvenku křupavé. Těsto je velmi husté a před tvarováním musí aspoň čtyři hodiny vychladnout v lednici, jinak se krokety rozpadnou.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "group": "bešamel"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 75,
+      "unit": "g",
+      "note": "najemno",
+      "group": "bešamel"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 70,
+      "unit": "g",
+      "group": "bešamel"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "note": "vlažné",
+      "group": "bešamel"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 100,
+      "unit": "g",
+      "note": "jemně nasekaná",
+      "group": "bešamel"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "bešamel"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "bešamel"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 50,
+      "unit": "g",
+      "note": "na obalení",
+      "group": "obal"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "rozšlehaná",
+      "group": "obal"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 120,
+      "unit": "g",
+      "group": "obal"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 800,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "obal"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej máslo a cibuli opékej na mírném plameni 5 minut do měkka, aby nezhnědla. Přisyp šunku a 1 minutu promíchej."
+    },
+    {
+      "text": "Přisyp 70 g mouky a za stálého míchání ji 2 minuty opékej, aby ztratila syrovou chuť. Po částech přilévej vlažné mléko a míchej metličkou, aby se netvořily hrudky."
+    },
+    {
+      "text": "Mícháním vař 8 až 10 minut na mírném plameni, až bešamel zhoustne a odděluje se od okraje hrnce. Dochuť solí a muškátem."
+    },
+    {
+      "text": "Hmotu rozetři do široké mísy, přikryj potravinovou fólií přímo na povrchu a nech vychladnout, pak dej do lednice aspoň na 4 hodiny, nejlépe přes noc."
+    },
+    {
+      "text": "Lžící odebírej porce velikosti vlašského ořechu, v mouce vytvaruj válečky nebo koule. Obal v mouce, ve vejci a ve strouhance, ideálně dvakrát vejce a strouhanku."
+    },
+    {
+      "text": "V hrnci rozehřej olej na 175 °C a smaž po 4 až 5 kusech 2 až 3 minuty do zlatova. Odkapej na papírové utěrce a podávej horké."
+    }
+  ],
+  "tips": [
+    "Studený bešamel je podmínka. Pokud se těsto lepí na prsty, zvlhči je v mouce a pracuj rychle.",
+    "Dvojí obalení (vejce, strouhanka, znovu vejce, strouhanka) zabrání vytékání bešamelu při smažení.",
+    "Neusmažené krokety v obalu zmraz na plechu a smaž zmrazené při 165 °C asi 5 minut."
+  ],
+  "substitutions": [
+    "Šunku nahraď sýrem, houbami nebo špenátem s česnekem pro vegetariánskou verzi.",
+    "Mléko můžeš z poloviny nahradit vývarem pro intenzivnější chuť."
+  ],
+  "faq": [
+    {
+      "q": "Proč se mi croquetas rozpadají při smažení?",
+      "a": "Bešamel byl málo hustý nebo nedostatečně vychladlý, případně byl olej studený. Vař bešamel do odlepení od hrnce a vychlazuj ho přes noc."
+    },
+    {
+      "q": "Dají se croquetas péct v troubě?",
+      "a": "Dají, potři je olejem a peč 20 až 25 minut při 220 °C. Budou méně křupavé než smažené."
+    },
+    {
+      "q": "Jak dlouho vydrží hotové croquetas?",
+      "a": "Usmažené vydrží zakryté v lednici 2 dny, prohřej je v troubě na 180 °C. Neusmažené zmrazené vydrží až 2 měsíce."
+    }
+  ]
+}

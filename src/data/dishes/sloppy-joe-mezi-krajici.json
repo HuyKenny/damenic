@@ -1,0 +1,21 @@
+{
+  "name": "Sloppy joe v měkké housce",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Teplé sendviče",
+  "price": 16900,
+  "description": "Mleté hovězí v sladko-kyselé rajčatové omáčce v nahřáté housce.",
+  "about": [
+    "Sloppy joe se nejí elegantně, a proto je dobré. Mleté maso se dusí v rajčatové omáčce s paprikou a pak se nandá do měkké housky.",
+    "Ubrousky si připrav předem. Naše smyšlená sendvičárna žádné nemá, tak si je vezmi ze svého stolu."
+  ],
+  "recipe": "sloppy-joe",
+  "image": "dish-sloppy-joe-mezi-krajici",
+  "vegetarian": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    10
+  ],
+  "order": 300
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Jablečný štrúdl",
+  "keywords": [
+    "jablečný štrúdl",
+    "jablečný závin",
+    "štrúdl recept",
+    "štrúdl z jablek"
+  ],
+  "image": "dish-jablecny-strudl-kolac-na-slib",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 30,
+  "cookMinutes": 40,
+  "waitMinutes": 15,
+  "waitLabel": "chladnutí",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Jablečný štrúdl je rolovaný koláč z tenkého těsta plněný jablky, skořicí a rozinkami. Používáme tenké těsto filo, které se potírá máslem. Jablka se strouhají hrubě a vymačkávají, jinak by štrúdl změkl.",
+  "ingredients": [
+    {
+      "ingredient": "testo-filo",
+      "amount": 250,
+      "unit": "g",
+      "note": "6 plátů"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 5,
+      "unit": "ks",
+      "note": "strouhaná"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 50,
+      "unit": "g",
+      "note": "opražená na másle"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 190 °C (horkovzduch 180 °C). Jablka nastrouhej a vymačkej, smíchej s cukrem, skořicí a rozinkami."
+    },
+    {
+      "text": "Plát filo polož na pečicí papír, potři máslem, přilož další. Takto pokračuj, dokud nemáš 6 plátů. Posyp strouhankou, podél kraje rozlož jablka a vše pevně svinuj do závinu."
+    },
+    {
+      "text": "Uzavřený štrúdl potři máslem a peč 35 až 40 minut do zlatova. Nech 15 minut odpočinout a posyp cukrem."
+    }
+  ],
+  "tips": [
+    "Filo drž pod vlhkou utěrkou, jinak vyschne.",
+    "Strouhanka nasaje šťávu a brání rozmočení.",
+    "Štrúdl je nejlepší teplý."
+  ],
+  "substitutions": [
+    "Rozinky nahradí vlašské ořechy.",
+    "Filo těsto lze nahradit listovým.",
+    "Máslo nahradí olej."
+  ],
+  "faq": [
+    {
+      "q": "Jaká jablka na štrúdl?",
+      "a": "Kyselejší a pevná, dobře se strouhají."
+    },
+    {
+      "q": "Jak dlouho se peče?",
+      "a": "35 až 40 minut při 190 °C."
+    },
+    {
+      "q": "Vydrží štrúdl?",
+      "a": "Dva dny, ohřej v troubě."
+    }
+  ]
+}

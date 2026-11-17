@@ -1,0 +1,102 @@
+{
+  "title": "Pomazánka z čerstvého sýra s pažitkou",
+  "keywords": [
+    "lučinová pomazánka",
+    "lučinová pomazánka s pažitkou",
+    "pomazánka z lučiny",
+    "pomazánka ze smetanového sýra",
+    "lučina pomazánka recept"
+  ],
+  "image": "dish-lucinova-pomazanka",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 30,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Tahle pomazánka je jemná pomazánka ze smetanového sýra, česneku a pažitky, kterou máš hotovou za deset minut. Hlavní roli hraje čerstvý sýr, kterému stačí sůl, pepř a trocha citronu. Vyjde asi 250 g, tedy porce pro čtyři na pečivo nebo do chlebíčků.",
+  "ingredients": [
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 200,
+      "unit": "g",
+      "note": "měkký čerstvý sýr typu lučina"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jedna svazek, nasekaná"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "g",
+      "note": "půl lžičky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smetanový sýr dej do misky a vidličkou ho rozmačkej do hladka. Pokud je přímo z lednice, nech ho 10 minut na pultu, mnohem snadněji se míchá."
+    },
+    {
+      "text": "Přidej prolisovaný česnek, citronovou šťávu, sůl a pepř a promíchej."
+    },
+    {
+      "text": "Pažitku nasekej najemno a vmíchej do pomazánky, část nech na ozdobu."
+    },
+    {
+      "text": "Pomazánku přikryj a nech aspoň 30 minut v lednici, aby se chutě spojily. Před podáváním posyp sladkou paprikou a zbytkem pažitky."
+    }
+  ],
+  "tips": [
+    "Česnek dávej opatrně a po částech. V pomazánce z čerstvého sýra chutná silněji, než čekáš.",
+    "Pro lehčí konzistenci vmíchej 2 lžíce bílého jogurtu, pro pevnější 50 g strouhaného tvrdého sýra.",
+    "Hodí se na chlebíčky, rohlíky i jako dip k zelenině.",
+    "V uzavřené misce vydrží v lednici 3 dny."
+  ],
+  "substitutions": [
+    "Smetanový sýr nahraď stejným množstvím tvarohu rozmíchaným s lžící oleje.",
+    "Pažitku vyměň za nasekaný kopr nebo jarní cibulku.",
+    "Pro pikantní verzi přidej špetku chilli vloček nebo nastrouhanou ředkvičku."
+  ],
+  "faq": [
+    {
+      "q": "Z čeho se dělá pomazánka z čerstvého sýra?",
+      "a": "Ze smetanového sýra, česneku, pažitky a koření. Základem je měkký čerstvý sýr, který se vidličkou rozmačká s přísadami."
+    },
+    {
+      "q": "Jak dlouho vydrží pomazánka z čerstvého sýra v lednici?",
+      "a": "V uzavřené misce vydrží 3 dny. Vždy ji nabírej čistou lžící a dávej ji hned zpět do chladu."
+    },
+    {
+      "q": "Dá se pomazánka z čerstvého sýra zmrazit?",
+      "a": "Nedoporučuji. Po rozmrazení se sýr rozdělí a pomazánka bude zrnitá."
+    }
+  ]
+}

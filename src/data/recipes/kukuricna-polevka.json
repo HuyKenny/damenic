@@ -1,0 +1,113 @@
+{
+  "title": "Kukuřičná polévka",
+  "keywords": [
+    "kukuřičná polévka",
+    "kukuřičná polévka z konzervy",
+    "krémová kukuřičná polévka",
+    "polévka z kukuřice",
+    "kukuřičná polévka recept"
+  ],
+  "image": "dish-kukuricna-polevka",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Kukuřičná polévka je hustá, jemně sladká krémová polévka z kukuřice, bramboru a smetany. Vaří se ze dvou plechovek kukuřice za půl hodiny, bez dlouhého louhování. Rozhoduje, aby kukuřice byla dobře odkapaná a polévka se mixovala nahoru až do hladka. Vyjde čtyři porce.",
+  "ingredients": [
+    {
+      "ingredient": "kukurice-konzerva",
+      "amount": 680,
+      "unit": "g",
+      "note": "2 plechovky, odkapaná"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 150,
+      "unit": "g",
+      "note": "1 větší"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "1 menší"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 700,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 3,
+      "unit": "g",
+      "note": "na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli nakrájej najemno a brambor na kostičky o straně 1 cm. Kukuřici odkapej a 3 lžíce odlož na ozdobu."
+    },
+    {
+      "text": "V hrnci rozehřej máslo a cibuli restuj 4 minuty na středním plameni, dokud nezesklovatí a nezačne vonět, ale nezhnědne."
+    },
+    {
+      "text": "Přidej brambor a kukuřici, promíchej a zalij vývarem. Přiveď k varu a vař pod pokličkou 15 minut, dokud brambor nezměkne."
+    },
+    {
+      "text": "Polévku rozmixuj tyčovým mixérem do hladka. Pro jemnější strukturu ji můžeš přecedit přes sítko."
+    },
+    {
+      "text": "Přilij smetanu, osol, opepři a krátce prohřej, ale nevař. Podávej s odloženou kukuřicí a špetkou uzené papriky."
+    }
+  ],
+  "tips": [
+    "Brambor polévku zahustí, takže nepotřebuješ mouku.",
+    "Kukuřici z plechovky vždy dobře odkapej a propláchni, nálev dává polévce kyselý nádech.",
+    "Mixuj aspoň minutu. Slupky kukuřice jsou pevné a dlouhé mixování je rozmělní.",
+    "Polévka vydrží v lednici 3 dny, při ohřevu zřeď vývarem."
+  ],
+  "substitutions": [
+    "Smetanu vyměň za kokosové mléko nebo ovesnou smetanu na vaření, pokud chceš lehčí variantu.",
+    "Místo konzervy použij 600 g mražené kukuřice, vařit ji budeš o 5 minut déle.",
+    "Máslo nahraď olejem a vývar zeleninovým kostkovým vývarem."
+  ],
+  "faq": [
+    {
+      "q": "Jak se dělá kukuřičná polévka z konzervy?",
+      "a": "Cibuli orestuj, přidej brambor a kukuřici, zalij vývarem a vař 15 minut. Poté rozmixuj do hladka a dolož smetanou."
+    },
+    {
+      "q": "Čím zahustit kukuřičnou polévku?",
+      "a": "Brambor během vaření rozvaří a polévku přirozeně zahustí. Kdyby byla řídká, vař ji 5 minut bez pokličky nebo přidej další brambor."
+    },
+    {
+      "q": "Dá se kukuřičná polévka zmrazit?",
+      "a": "Ano, bez smetany vydrží v mrazáku 2 měsíce. Smetanu přidej až při ohřevu."
+    }
+  ]
+}

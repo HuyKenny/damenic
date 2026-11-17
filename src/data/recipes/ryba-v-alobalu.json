@@ -1,0 +1,119 @@
+{
+  "title": "Ryba v alobalu se zeleninou a citronem",
+  "keywords": [
+    "ryba v alobalu",
+    "ryba v alobalu recept",
+    "pečená ryba v alobalu v troubě",
+    "ryba v alobalu na grilu",
+    "ryba v alobalu s citronem"
+  ],
+  "image": "dish-ryba-v-alobalu",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Ryba v alobalu se peče v páře ve vlastní šťávě, takže zůstane měkká a nepřischne k plechu. Do balíčku se přidá zelenina, citron a máslo, a kromě krájení nezůstane nic na práci. Hodí se filet z tresky, lososa nebo pstruha. Hotová je při 63 °C uvnitř.",
+  "ingredients": [
+    {
+      "ingredient": "treska-filet",
+      "amount": 400,
+      "unit": "g",
+      "note": "2 kusy po 200 g, bez kůže"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "půlka na plátky, půlka na šťávu"
+    },
+    {
+      "ingredient": "cuketa",
+      "amount": 150,
+      "unit": "g",
+      "note": "na tenká kolečka"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 100,
+      "unit": "g",
+      "note": "půlená"
+    },
+    {
+      "ingredient": "cervena-cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "na tenké půlkolečka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.1,
+      "unit": "ks",
+      "note": "nasekaná nať"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C, horkovzduch 190 °C. Dva velké kusy alobalu (každý asi 40 cm) potři olejem."
+    },
+    {
+      "text": "Na každý kus alobalu rozlož vrstvu cukety, cibule a rajčat. Na zeleninu polož filet, osol ho, opepři, pokapej citronovou šťávou a přidej kousek másla."
+    },
+    {
+      "text": "Na rybu polož 2 až 3 plátky citronu. Alobal přelož přes sebe a okraje pevně zatoč tak, aby pára nemohla uniknout, uvnitř ať zbyde prostor."
+    },
+    {
+      "text": "Balíčky polož na plech a peč 18 až 20 minut. Hotovo je, když má ryba uvnitř 63 °C a maso se snadno loupe na plátky."
+    },
+    {
+      "text": "Opatrně otevři balíčky, pozor na horkou páru. Posyp rybu petrželkou a podávej rovnou v alobalu, nebo přendej na talíř i s šťávou."
+    }
+  ],
+  "tips": [
+    "Pro balíček na grilu používej dvojitou vrstvu alobalu a drž ho nad nepřímým žárem, 15 až 18 minut stačí.",
+    "Pokud je filet tenčí než 2 cm, zkrať pečení na 12 až 15 minut.",
+    "Přidej větvičku tymiánu nebo kopru, ryba nasaje aroma z páry."
+  ],
+  "substitutions": [
+    "Treska se dá nahradit lososem, pstruhem nebo sladkovodním candátem, doba pečení je stejná.",
+    "Máslo nahraď olivovým olejem.",
+    "Místo cukety použij nakrájené brambory na tenké plátky, předvař je 5 minut."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct rybu v alobalu v troubě?",
+      "a": "Filet 2 až 3 cm silný peč 18 až 20 minut při 200 °C, celá ryba o váze 500 g potřebuje asi 25 až 30 minut. Uvnitř musí mít 63 °C."
+    },
+    {
+      "q": "Jak poznat, že je ryba v alobalu hotová?",
+      "a": "Maso zbělá a snadno se rozpadá na plátky. Jistotu dá teploměr se 63 °C."
+    },
+    {
+      "q": "Lze rybu v alobalu péct na grilu?",
+      "a": "Ano. Balíček zabal pevně a polož na rošt nad nepřímým žárem na 15 až 18 minut, otočit ho netřeba."
+    }
+  ]
+}

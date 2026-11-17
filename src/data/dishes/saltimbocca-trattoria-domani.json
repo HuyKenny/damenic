@@ -1,0 +1,24 @@
+{
+  "name": "Saltimbocca alla romana",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Telecí plátek se šalvějí a syrovou šunkou, na másle s bílým vínem. Pro ten skok do úst.",
+  "about": [
+    "Saltimbocca znamená doslova skoč do úst. Telecí plátek, šunka a šalvěj jsou hotové za čas, za který se nestihne ani nakrájet salát, a chuť je jednoduchá a slaná.",
+    "Naše trattoria má stůl prázdný a kuchyni jen na papíře. Skok do úst proto zkus doma, recept jsme nic nezkrátili."
+  ],
+  "price": 32900,
+  "image": "dish-saltimbocca-trattoria-domani",
+  "recipe": "saltimbocca",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    12
+  ],
+  "order": 150
+}

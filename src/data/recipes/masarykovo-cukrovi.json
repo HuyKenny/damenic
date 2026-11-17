@@ -1,0 +1,129 @@
+{
+  "title": "Masarykovo cukroví",
+  "keywords": [
+    "masarykovo cukroví",
+    "masarykovo cukroví recept",
+    "recept na masarykovo cukroví",
+    "ořechové cukroví s džemem",
+    "vánoční cukroví recepty"
+  ],
+  "intro": "Masarykovo cukroví je v tomto receptu máslové těsto s mletými lískovými ořechy, slepované rybízovým džemem a z poloviny ponořené do čokolády. Z dávky vyjde asi 50 slepených kousků. Těžké je hlídat, aby ořechové těsto zůstalo studené a kolečka se při pečení neroztékala.",
+  "image": "dish-masarykovo-cukrovi",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 80,
+  "cookMinutes": 24,
+  "waitMinutes": 90,
+  "waitLabel": "odpočinek těsta a tuhnutí čokolády",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "liskove-orechy",
+      "amount": 100,
+      "unit": "g",
+      "note": "jemně mleté",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 90,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen žloutky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "dzem-rybizovy",
+      "amount": 150,
+      "unit": "g",
+      "group": "Slepení"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "note": "nahrubo nasekaná",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Smíchej mouku, mleté lískové ořechy, moučkový a vanilkový cukr. Přidej studené máslo na kostičky, zpracuj do drobenky, přidej 2 žloutky a rychle spoj v těsto."
+    },
+    {
+      "section": "Těsto",
+      "text": "Těsto zabal do fólie, zploští na plát a nech 1,5 hodiny odpočinout v lednici. Mezitím troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 160 °C)."
+    },
+    {
+      "section": "Vykrajování",
+      "text": "Těsto vyvaluj po částech na 3 mm, vykrajuj kolečka o průměru 4 cm a klaď je na plech vyložený pečicím papírem. Do poloviny koleček vykroj malou dírku o průměru 1 cm."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 10 až 12 minut. Kolečka jsou hotová, když okraj lehce zezlátne; střed zůstává světlý. Nech je na plechu 3 minuty a pak přendej na mřížku vychladnout."
+    },
+    {
+      "section": "Slepení",
+      "text": "Džem v hrnku prohřej a přeceď přes sítko, aby nebyly kousky. Spodní kolečka potři tenkou vrstvou džemu a přikryj kolečky s dírkou."
+    },
+    {
+      "section": "Poleva",
+      "text": "Čokoládu rozpusť ve vodní lázni na 45 °C, krátce zchlaď na 32 °C a do poloviny ponoř každý kousek. Odkládej na pečicí papír a nech ztuhnout aspoň 1 hodinu."
+    }
+  ],
+  "tips": [
+    "Z dávky vyjde asi 50 slepených kousků. Kolečka s dírkou použij navrch, džem pak uvnitř vykukuje a cukroví vypadá úhledně.",
+    "Když se těsto při vykrajování lepí, vrať ho na 15 minut do mrazáku. Studené těsto drží ostré hrany.",
+    "Slepené cukroví skladuj v dóze proložené pečicím papírem. Vydrží 2 až 3 týdny v chladu; měkne, takže ho nech zrát aspoň 2 dny."
+  ],
+  "substitutions": [
+    "Lískové ořechy nahraď stejným množstvím mletých mandlí.",
+    "Rybízový džem nahraď meruňkovým nebo malinovým, hustým a bez pecek.",
+    "Hořkou čokoládu můžeš nahradit mléčnou, poleva bude sladší a měkčí."
+  ],
+  "faq": [
+    {
+      "q": "Z čeho je masarykovo cukroví?",
+      "a": "V tomto receptu z máslového těsta s mletými lískovými ořechy, slepeného rybízovým džemem a polévaného čokoládou. Domácí varianty se liší druhem ořechů, a proto zůstává základem poměr mouky a másla."
+    },
+    {
+      "q": "Proč se kolečka při pečení roztékají?",
+      "a": "Těsto bylo moc teplé nebo plech rozpálený z předchozí várky. Vykrajuj po částech, zbytek drž v lednici a plech nech mezi várkami vychladnout."
+    },
+    {
+      "q": "Jak dlouho vydrží masarykovo cukroví?",
+      "a": "Vydrží 2 až 3 týdny v uzavřené dóze na chladném místě. Po 2 dnech zrání je džem pěkně vsáklý a těsto měkčí."
+    }
+  ]
+}

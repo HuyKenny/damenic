@@ -1,0 +1,120 @@
+{
+  "title": "Kuřecí maso s rýží z jednoho pekáče",
+  "keywords": [
+    "kuřecí maso s rýží",
+    "kuřecí s rýží v troubě",
+    "zapečená rýže s kuřecím masem",
+    "kuřecí stehna s rýží z trouby",
+    "kuřecí maso s rýží recept"
+  ],
+  "image": "dish-kureci-maso-s-ryzi-z-pekace",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 50,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Kuřecí maso s rýží pečené v jednom pekáči: rýže se vaří přímo ve vývaru a kuře jí dává šťávu i chuť. Hlídá se jen poměr tekutiny k rýži (1 díl rýže na 2 díly vývaru) a pevně zakrytý pekáč, aby rýže zůstala sypká.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna-s-kosti",
+      "amount": 1000,
+      "unit": "g",
+      "note": "asi 4 stehna, případně rozdělená na stehno a palici"
+    },
+    {
+      "ingredient": "ryze-dlouhozrnna",
+      "amount": 250,
+      "unit": "g",
+      "note": "opláchnutá"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 500,
+      "unit": "ml",
+      "note": "horký"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 150,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 190 °C, horkovzduch 180 °C. Stehna osol, opepři a potři 1 lžičkou papriky."
+    },
+    {
+      "text": "Na pánvi rozehřej olej a stehna opékej nejdřív kůží dolů 5 minut a potom 3 minuty z druhé strany, dokud kůže nezezlátne. Přendej je na talíř, maso zatím nemusí být propečené."
+    },
+    {
+      "text": "Do zbylého tuku dej cibuli, 3 minuty ji restuj, přidej prolisovaný česnek a zbylou papriku a za 30 sekund vše přemísti do pekáče."
+    },
+    {
+      "text": "Do pekáče nasyp rýži, zalij ji horkým vývarem, dosol a promíchej. Na rýži poskládej stehna kůží nahoru."
+    },
+    {
+      "text": "Pekáč pevně zakryj alobalem nebo poklicí a peč 35 minut. Pak sundej přikrytí, přisyp hrášek a peč dalších 15 minut, dokud kůže nezezlátne a rýže nevsákne všechnu tekutinu. Maso musí mít uvnitř 75 °C."
+    },
+    {
+      "text": "Před podáváním nech jídlo 5 minut odpočinout přikryté, rýži pak lehce načechrej vidličkou."
+    }
+  ],
+  "tips": [
+    "Rýži před použitím opláchni, odplaví se přebytečný škrob a nebude se lepit.",
+    "Pokud nemáš dobře těsnící pekáč, přikryj ho alobalem a okraje pořádně přitiskni. Unikající pára znamená tvrdou rýži.",
+    "Vývar musí být horký. Studený by rýži zbytečně zdržel a po 35 minutách by zůstala nedovařená."
+  ],
+  "substitutions": [
+    "Místo stehen vezmi kuřecí prsa na plátky, ta ale peč jen 30 minut celkem a přidej je až do rýže po 15 minutách.",
+    "Hrášek můžeš nahradit kukuřicí nebo nakrájenou paprikou.",
+    "Rýži basmati nech 10 minut namočit a vývaru dej jen 450 ml."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct kuřecí maso s rýží v troubě?",
+      "a": "Asi 50 minut při 190 °C: 35 minut pod pokličkou a 15 minut odkryté. Kuřecí stehno je hotové při 75 °C uvnitř a rýže musí být měkká a sypká."
+    },
+    {
+      "q": "Kolik vývaru na rýži do trouby?",
+      "a": "Počítej 2 díly vývaru na 1 díl dlouhozrnné rýže, tedy 500 ml vývaru na 250 g rýže. Šťáva z masa a cibule přidá trochu navíc, proto víc tekutiny není třeba."
+    },
+    {
+      "q": "Proč je rýže v pekáči tvrdá?",
+      "a": "Pekáč netěsnil nebo byl vývar studený. Přikryj ho pevně, zalij horkým vývarem a před podáváním ho nech 5 minut odpočinout."
+    }
+  ]
+}

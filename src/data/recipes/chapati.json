@@ -1,0 +1,88 @@
+{
+  "title": "Chapati",
+  "keywords": [
+    "chapati",
+    "chapati recept",
+    "indické placky",
+    "celozrnné placky",
+    "chapati bez kynutí"
+  ],
+  "image": "dish-chapati",
+  "category": "indicka",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 10,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "meal": "pecivo",
+  "intro": "Chapati jsou indické nekynuté placky z celozrnné mouky, vody a trochy soli, pečené na suché pánvi. Základem je těsto, které odpočine aspoň 30 minut, díky čemuž se při pečení krásně nafouknou. Doplňují kari, dal i raitu.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-celozrnna",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "note": "vlažná"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "rozpuštěné, na potření"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smíchej mouku se solí, vlij vodu a olej a zpracuj měkké těsto, nechej ho 5 minut prohnětat na pomoučněném stole. Zakryj hadříkem a nech 30 minut odpočinout."
+    },
+    {
+      "text": "Těsto rozděl na 8 kuliček, každou vyvaluj na tenký kruh o průměru asi 16 cm."
+    },
+    {
+      "text": "Rozehřej suchou pánev na středně vysokém plameni. Placku peč 30 až 40 sekund z jedné strany, otoč a peč další půl minuty, až se objeví hnědé skvrnky."
+    },
+    {
+      "text": "Otoč znovu a lehce přitlač čistým hadříkem, aby se placka nafoukla. Hotové chapati potři máslem a drž zabalené v utěrce, aby zůstaly měkké."
+    }
+  ],
+  "tips": [
+    "Pánev musí být dobře rozpálená, na studené placka tvrdne.",
+    "Hotové placky skládej do utěrky, zůstanou měkké.",
+    "Pro měkčí chapati nahraď polovinu vody vlažným mlékem."
+  ],
+  "substitutions": [
+    "Celozrnnou mouku lze nahradit směsí poloviny hladké a poloviny celozrnné.",
+    "Máslo nahradí ghí nebo olej.",
+    "Pro vegetariánskou variantu použij jen olej místo másla."
+  ],
+  "faq": [
+    {
+      "q": "Proč se chapati nenafukuje?",
+      "a": "Těsto málo odpočinulo nebo je placka silná či pánev studená. Vyvaluj rovnoměrně a peč na dobře rozpálené pánvi."
+    },
+    {
+      "q": "Jaký je rozdíl mezi chapati a naanem?",
+      "a": "Chapati je nekynutá placka z celozrnné mouky pečená na suché pánvi. Naan je kynutý z bílé mouky s jogurtem."
+    },
+    {
+      "q": "Dají se chapati zamrazit?",
+      "a": "Ano, vychladlé je přelož pečicím papírem a zmraz na 1 měsíc. Ohřej na suché pánvi."
+    }
+  ]
+}

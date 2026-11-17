@@ -1,0 +1,112 @@
+{
+  "title": "Kuřecí prsa na grilu s citronovou marinádou",
+  "keywords": [
+    "kuřecí prsa na grilu",
+    "kuřecí prsa na grilu recept",
+    "grilovaná kuřecí prsa",
+    "marináda na kuřecí prsa na gril",
+    "šťavnatá kuřecí prsa na grilu"
+  ],
+  "image": "dish-kureci-prsa-na-grilu",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 12,
+  "waitMinutes": 120,
+  "waitLabel": "marinování v lednici",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Grilovaná kuřecí prsa bývají suchá, protože se pečou příliš dlouho. Pomáhá marináda z oleje, citronu a jogurtu a vyrovnání tloušťky řízků. Při 75 °C uvnitř jsou prsa šťavnatá a bezpečná. Tahle verze se hodí na gril, litinovou grilovací pánev i do trouby.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 700,
+      "unit": "g",
+      "note": "4 řízky, vyrovnaná tloušťka asi 2 cm"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva i kůra"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisované"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prsa v případě potřeby rozřízni vodorovně nebo je lehce naklepej, aby všechna měla tloušťku asi 2 cm a upekla se stejně."
+    },
+    {
+      "text": "V míse smíchej jogurt, olej, citronovou šťávu a kůru, česnek, papriku, oregano, sůl a pepř. Přidej kuřecí prsa, obal je marinádou a nech je přikrytá 2 hodiny, nejméně 30 minut, v lednici. Klidně i přes noc."
+    },
+    {
+      "text": "Gril nebo grilovací pánev rozpal na střední až vysoký žár (asi 200 °C), rošt potři olejem. Marinádu z masa jen setři, ať se nepřipaluje."
+    },
+    {
+      "text": "Prsa griluj 5 až 6 minut z jedné strany, dokud se nevytvoří rýhy, potom je otoč a griluj dalších 5 až 6 minut. Uvnitř musí mít 75 °C a šťáva musí být čirá."
+    },
+    {
+      "text": "Maso přendej na talíř, přikryj alobalem a nech 5 minut odpočinout. Krájej proti vláknům."
+    }
+  ],
+  "tips": [
+    "Jogurtová marináda maso změkčuje. Nenechávej v ní prsa déle než 12 hodin, jinak povolí a začnou být kašovitá.",
+    "Prsa nepřepichuj ani netlač špachtlí. Šťáva by vytekla.",
+    "Na uhlí nebo plynu drž prsa nad nepřímým žárem, pokud začínají tmavnout dřív než uvnitř dosáhnou 75 °C."
+  ],
+  "substitutions": [
+    "Jogurt nahraď kefírem nebo podmáslím.",
+    "Bez mléka: použij jen olej, citronovou šťávu a koření, marináda bude kyselejší.",
+    "Hodí se i stehenní řízky bez kosti, grilují se 6 až 7 minut z každé strany."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho grilovat kuřecí prsa?",
+      "a": "Prsa silná 2 cm griluj 5 až 6 minut z každé strany na středně vysokém žáru. Uvnitř musí mít 75 °C."
+    },
+    {
+      "q": "Jak udělat kuřecí prsa na grilu šťavnatá?",
+      "a": "Vyrovnej tloušťku, namaž je jogurtovou marinádou, nepřepeč je a nech po grilování odpočinout. Nejvíc pomůže teploměr."
+    },
+    {
+      "q": "Dá se kuřecí prsa grilovat na pánvi?",
+      "a": "Ano, na litinové grilovací pánvi na vysoký plamen. Doba je stejná, jen odvětrej kuchyň."
+    }
+  ]
+}

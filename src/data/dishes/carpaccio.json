@@ -1,0 +1,22 @@
+{
+  "name": "Hovězí carpaccio s rukolou a parmazánem",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Předkrmy",
+  "description": "Tenké plátky syrové hovězí svíčkové s rukolou, parmazánem a citronem.",
+  "about": [
+    "Carpaccio je předkrm bez ohně a bez pánve. Stačí maso, nůž, který jde jako po másle, a trpělivost při krájení. Dresink se dělá ze tří věcí a nechává se na maso až úplně nakonec.",
+    "Na talíři je tolik místa, že by se do něj vešel i kurýr Nikdo. Ten ale dnes nic nenese, takže si ho udělej sám."
+  ],
+  "price": 24900,
+  "image": "dish-carpaccio",
+  "recipe": "carpaccio",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 912
+}

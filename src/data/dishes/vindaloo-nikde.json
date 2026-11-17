@@ -1,0 +1,18 @@
+{
+  "name": "Vindaloo s basmati rýží",
+  "restaurant": "kari-nikde",
+  "kind": "main",
+  "section": "Kari",
+  "price": 20900,
+  "description": "Pálivé vepřové kari z Goa dušené v octě a koření, k tomu rýže basmati.",
+  "about": [
+    "Vindaloo je kari, které se nezakrývá. Maso leží v octové marinádě s česnekem, zázvorem a chilli a pak se dusí tak dlouho, až se rozpadá. Výsledek je pálivý a lehce nakyslý, s hlubokou chutí.",
+    "Rýže basmati k němu patří, protože tlumí pálivost. Kari k tobě nepojede, objeví se jen v receptu. Hlad máš skutečný, pánev je tvoje."
+  ],
+  "recipe": "vindaloo",
+  "image": "dish-vindaloo-nikde",
+  "vegetarian": false,
+  "spicy": 3,
+  "allergens": [],
+  "order": 20
+}

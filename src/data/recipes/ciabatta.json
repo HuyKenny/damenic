@@ -1,0 +1,89 @@
+{
+  "title": "Ciabatta",
+  "keywords": [
+    "ciabatta",
+    "ciabatta recept",
+    "ciabatta chleb",
+    "italský chléb ciabatta",
+    "domácí ciabatta"
+  ],
+  "image": "dish-ciabatta-zitra-upecem",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 30,
+  "waitMinutes": 360,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "meal": "pecivo",
+  "intro": "Ciabatta je italský chléb s velmi vlhkým těstem, tenkou křupavou kůrkou a velkými dírami v střídce. Těsto je lepkavé, proto se nehněte, ale skládá. Doba kynutí je dlouhá, takže práce je málo a vychází 2 bochníky.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 500,
+      "unit": "g",
+      "note": "chlebová pšeničná je ještě lepší"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 400,
+      "unit": "ml",
+      "note": "vlažná"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 5,
+      "unit": "g",
+      "note": "čerstvé"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozmíchej ve vodě. Přidej mouku, sůl a olej a promíchej v lepivé těsto, nehněť. Zakryj a nech 1 hodinu kynout."
+    },
+    {
+      "text": "Těsto Třikrát po 30 minutách těsto přelož: navlhči ruku, vezmi okraj, přelož přes střed a otoč misku. Po třetím skládání nech těsto ještě 3 hodiny kynout, až zdvojnásobí objem."
+    },
+    {
+      "text": "Troubu s plechem předehřej na 240 °C. Těsto vyklop na dobře pomoučený stůl, rozděl na dvě poloviny a opatrně natáhni na obdélníky."
+    },
+    {
+      "text": "Ciabattu přenes na pečicí papír, zasyp moukou a peč 20 až 25 minut. Spodek zadunět má při poklepání dutě. Nech 30 minut vychladnout na mřížce."
+    }
+  ],
+  "tips": [
+    "Těsto je lepkavé, ruce často navlhči vodou.",
+    "Vlhkost v troubě pomůže: na dno dej misku s vodou.",
+    "Ciabatta je nejlepší první den, druhý den ji ohřej v troubě."
+  ],
+  "substitutions": [
+    "Hladkou mouku nahradí chlebová pšeničná mouka.",
+    "Droždí čerstvé nahradí 2 g sušeného.",
+    "Olivový olej lze vynechat, kůrka bude křupavější."
+  ],
+  "faq": [
+    {
+      "q": "Proč je těsto na ciabattu tak lepkavé?",
+      "a": "Má vysokou hydrataci, 80 % vody k mouce, aby střídka získala velké díry."
+    },
+    {
+      "q": "Jak poznám, že je ciabatta upečená?",
+      "a": "Je zlatá a při poklepání na spodek zní dutě. Vnitřní teplota je přibližně 95 °C."
+    },
+    {
+      "q": "Jak ciabattu uchovat?",
+      "a": "V papírovém sáčku 1 den. Na další dny ji nakrájej a zamraz."
+    }
+  ]
+}

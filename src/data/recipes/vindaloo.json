@@ -1,0 +1,166 @@
+{
+  "title": "Vindaloo",
+  "keywords": [
+    "vindaloo",
+    "vindaloo recept",
+    "pálivé kari z vepřového",
+    "vindaloo z vepřového masa",
+    "indické vindaloo"
+  ],
+  "image": "dish-vindaloo-nikde",
+  "category": "indicka",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 100,
+  "waitMinutes": 120,
+  "waitLabel": "marinování masa",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Vindaloo je pálivé a lehce nakyslé kari z Goa, které se tradičně dělá z vepřového masa marinovaného v octě a koření. Chuť stojí na tom, že se pasta nejdřív usmaží do tmavé a maso se pak dusí pomalu, dokud se nerozpadá. Pálivost si dávkuješ chilli vločkami.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-plecko",
+      "amount": 800,
+      "unit": "g",
+      "note": "na kostky 3 cm",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "ocet-vinny",
+      "amount": 60,
+      "unit": "ml",
+      "group": "Pasta"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 6,
+      "unit": "ks",
+      "note": "stroužky, nadrobno",
+      "group": "Pasta"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 30,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Pasta"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Pasta"
+    },
+    {
+      "ingredient": "koriandr-mlety",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Pasta"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Pasta"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Pasta"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "podle chuti",
+      "group": "Pasta"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Pasta"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 350,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Dušení"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Dušení"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Dušení"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 350,
+      "unit": "ml",
+      "group": "Dušení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Dušení"
+    },
+    {
+      "ingredient": "ryze-basmati",
+      "amount": 300,
+      "unit": "g",
+      "note": "jako příloha",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smíchej ocet, česnek, zázvor, kmín, koriandr, kurkumu, papriku, chilli, cukr a 1 lžičku soli na hustou pastu. Vetři ji do masa, přikryj a nech aspoň 2 hodiny v lednici, ideálně přes noc."
+    },
+    {
+      "text": "V hrnci s tlustým dnem rozehřej olej a na středním plameni 12 minut opékej cibuli, dokud není hluboce zlatá. Nespěchej, pálená cibule dělá omáčku hořkou."
+    },
+    {
+      "text": "Přidej rajčatové pyré a vař 2 minuty. Vlož maso i s marinádou, zvyš plamen a 5 minut ho opékej, aby se povrch zatáhl."
+    },
+    {
+      "text": "Podlij vodou, přiveď k varu, přikryj a duš na slabém plameni 90 minut, občas promíchej. Maso je hotové, když se láme vidličkou a omáčka zhoustla. Je-li řídká, posledních 10 minut vař bez pokličky."
+    },
+    {
+      "text": "Mezitím uvař rýži podle návodu. Vindaloo nech 10 minut postát, chuť se po chvíli ustálí. Podávej s basmati rýží."
+    }
+  ],
+  "tips": [
+    "Marinuj přes noc, ocet maso změkčí a koření se do něj dostane hlouběji.",
+    "Kari je lepší druhý den, chuť se spojí. V lednici vydrží 3 dny, ohřívej do horka.",
+    "Chilli vločky přidávej postupně. Víc se přidá vždycky, míň už ne."
+  ],
+  "substitutions": [
+    "Vepřové plecko můžeš nahradit kuřecími stehny bez kůže, dusí se jen 35 minut.",
+    "Vinný ocet nahradí jablečný ve stejném množství.",
+    "Pro mírnější verzi dej jen půl lžičky chilli a přidej lžíci bílého jogurtu."
+  ],
+  "faq": [
+    {
+      "q": "Z jakého masa se dělá vindaloo?",
+      "a": "Tradičně z vepřového plecka, protože při dlouhém dušení zůstane šťavnaté. Funguje i hovězí plec, ale dusí se přibližně 2,5 hodiny."
+    },
+    {
+      "q": "Je vindaloo vždycky hodně pálivé?",
+      "a": "Je to jedno z nejpálivějších kari, ale pálivost závisí na množství chilli. Pro mírnou verzi stačí půl lžičky vloček."
+    },
+    {
+      "q": "Vydrží vindaloo v lednici?",
+      "a": "Ano, v uzavřené nádobě 3 dny. Ohřívej do bublání a před podáváním prohřej do středu."
+    }
+  ]
+}

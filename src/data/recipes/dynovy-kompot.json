@@ -1,0 +1,98 @@
+{
+  "title": "Dýňový kompot",
+  "keywords": [
+    "dýňový kompot",
+    "dýňový kompot recept",
+    "kompot z dýně",
+    "sladký kompot z hokkaido",
+    "kompot z dýně s citronem"
+  ],
+  "image": "dish-dynovy-kompot",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 15,
+  "waitMinutes": 60,
+  "waitLabel": "vychlazení v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Dýňový kompot je sladko-kyselý čerstvý kompot z kostiček dýně hokkaido, skořice a citronu. Dýně se vaří jen krátce, aby kostky zůstaly pevné a nerozpadly se. Vyjde asi litr kompotu, který se podává vychlazený a vydrží 4 dny v lednici. Žádné zavařování, kompot je na jídlo hned.",
+  "ingredients": [
+    {
+      "ingredient": "dyne-hokkaido",
+      "amount": 600,
+      "unit": "g",
+      "note": "očištěná, bez semínek"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 900,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 90,
+      "unit": "g"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva a pruh kůry"
+    },
+    {
+      "ingredient": "skorice-cela",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "3 plátky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Dýni hokkaido omyj, rozpůl a lžící vydlab semínka. Slupka se nemusí loupat, po uvaření změkne, ale kostky pak lépe drží tvar."
+    },
+    {
+      "text": "Dýni nakrájej na kostky 2 cm. Z menší dýně vyjde asi 600 g."
+    },
+    {
+      "text": "Vodu svař s cukrem, skořicí, zázvorem a pruhem citronové kůry. Míchej, dokud se cukr nerozpustí."
+    },
+    {
+      "text": "Přidej dýni a vař 10 až 12 minut na mírném plameni bez pokličky. Kostky jsou hotové, když se nůž zapíchne snadno, ale kostky se nerozpadají."
+    },
+    {
+      "text": "Odstav, přidej citronovou šťávu a nech vychladnout. Poté dej na aspoň hodinu do lednice. Před podáváním vyjmi skořici, zázvor a kůru."
+    }
+  ],
+  "tips": [
+    "Neloupej dýni hokkaido. Slupka zjemní a kostky nezkašovatí.",
+    "Hlídej čas: každá minuta navíc dýni rozvaří. Zkoušej první kostku po 10 minutách.",
+    "Citron dodá potřebnou kyselost, bez něj je kompot jen sladký.",
+    "Podávej studený samotný nebo s jogurtem a ořechy."
+  ],
+  "substitutions": [
+    "Dýni vyměň za stejné množství batátu, doba vaření se zkrátí na 8 minut.",
+    "Cukr lze nahradit 70 g medu přidaného do vlažného kompotu.",
+    "Citron nahraď dvěma lžícemi jablečného octa jen pokud nemáš nic jiného, chuť bude ostřejší."
+  ],
+  "faq": [
+    {
+      "q": "Dá se dýně hokkaido jíst se slupkou?",
+      "a": "Ano. Po uvaření nebo upečení slupka změkne a jde pojíst. Proto ji není nutné loupat."
+    },
+    {
+      "q": "Jak dlouho vydrží dýňový kompot v lednici?",
+      "a": "Čerstvě uvařený vydrží v uzavřené nádobě 4 dny. Po zavření víčkem nepřeplňuj nádobu a vždy ho nabírej čistou lžící."
+    },
+    {
+      "q": "Z jaké dýně se dá kompot udělat?",
+      "a": "Nejlépe z hokkaido nebo máslové dýně. Kostky zůstanou pevnější než u hladkých odrůd."
+    }
+  ]
+}

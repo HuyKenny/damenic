@@ -1,0 +1,127 @@
+{
+  "title": "Meruňkový koláč",
+  "keywords": [
+    "meruňkový koláč",
+    "meruňkový koláč recept",
+    "recept na meruňkový koláč",
+    "koláč s meruňkami",
+    "meruňkový koláč z třeného těsta"
+  ],
+  "intro": "Meruňkový koláč z třeného těsta a půlených meruněk je jednoduchý letní koláč na kulatou formu o průměru 26 cm. Těsto je vláčné a ovoce se během pečení ponoří do středu. Těžké je poznat, kdy je střed upečený: meruňky pustí šťávu, takže se řídí špejlí.",
+  "image": "dish-merunkovy-kolac",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 30,
+  "cookMinutes": 45,
+  "waitMinutes": 30,
+  "waitLabel": "chladnutí před krájením",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "měkké",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "merunky",
+      "amount": 600,
+      "unit": "g",
+      "note": "půlené a bez pecek",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 30,
+      "unit": "g",
+      "group": "Posyp"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 165 °C). Formu o průměru 26 cm vymaž máslem a vysyp moukou. Měkké máslo našlehej s cukrem a vanilkovým cukrem do světlé pěny."
+    },
+    {
+      "section": "Těsto",
+      "text": "Po jednom zašlehej 3 vejce. Mouku smíchej s kypřicím práškem a solí a střídavě s mlékem zapracuj do těsta jen do spojení; příliš dlouhé míchání těsto zhoustne."
+    },
+    {
+      "section": "Plnění",
+      "text": "Těsto rozetři do formy a meruňky vyskládej půlkou nahoru po celém povrchu, těsně vedle sebe. Posyp 30 g cukru."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 40 až 45 minut. Koláč je hotový, když špejle zapíchnutá do těsta (ne do meruňky) vyjde čistá a okraj odstává od formy. Nech ho 30 minut chladnout ve formě."
+    }
+  ],
+  "tips": [
+    "Zralé, ale pevné meruňky pustí méně šťávy. Příliš měkké ovoce vyskládej na papírovou utěrku a nech chvíli osušit.",
+    "Když je koláč na povrchu moc tmavý, ale uvnitř nehotový, přikryj ho po 30 minutách hliníkovou fólií.",
+    "Skladuj přikrytý při pokojové teplotě 2 dny, v lednici až 4 dny. Před podáváním ho nech 15 minut zteplat."
+  ],
+  "substitutions": [
+    "Čerstvé meruňky nahraď 600 g broskví nebo švestek, pečení zůstává stejné.",
+    "Mléko nahraď stejným množstvím ovesného nápoje a máslo rostlinným máslem, koláč bude bez mléka.",
+    "Kdo chce koláč křupavý, přidej navrch 80 g drobenky z mouky, másla a cukru."
+  ],
+  "faq": [
+    {
+      "q": "Kolik čerstvých meruněk dát do koláče?",
+      "a": "Na formu o průměru 26 cm stačí 600 g půlených meruněk. Víc ovoce pustí šťávu a těsto pod ním zůstane syrové."
+    },
+    {
+      "q": "Jak upéct meruňkový koláč, aby se meruňky nepropadly?",
+      "a": "Těsto má být hustší a meruňky klaď půlkou nahoru. Lehce je zatlač jen do poloviny, nepotápí se pak na dno."
+    },
+    {
+      "q": "Jde použít mražené meruňky?",
+      "a": "Ano, ale rozmraz je a osuš papírovou utěrkou. Přidej navíc 1 lžíci škrobu do těsta a koláč peč o 5 až 10 minut déle."
+    }
+  ]
+}

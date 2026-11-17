@@ -1,0 +1,22 @@
+{
+  "name": "Quiche s brokolicí",
+  "restaurant": "pekarna-zitra-upecem",
+  "kind": "main",
+  "section": "Máslové a slané",
+  "price": 12900,
+  "description": "Slaný koláč s brokolicí, sýrem a vaječnou smetanou na křehkém těstě.",
+  "about": [
+    "Quiche s brokolicí je slaný koláč na křehkém těstě, který se dá jíst teplý i studený. Brokolice se předem spaří, aby koláč nezvlhl.",
+    "Je skvělý na oběd i svačinu, a když zbyde, vydrží v lednici dva dny. U nás nevydrží nic, protože nic není."
+  ],
+  "recipe": "quiche-s-brokolici",
+  "image": "dish-quiche-s-brokolici-zitra-upecem",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 320
+}

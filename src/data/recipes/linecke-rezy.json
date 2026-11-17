@@ -1,0 +1,109 @@
+{
+  "title": "Linecké řezy s rybízovým džemem",
+  "keywords": [
+    "linecké řezy",
+    "linecké řezy recept",
+    "linecké řezy s džemem",
+    "linecké řezy s rybízovým džemem",
+    "recept na linecké řezy"
+  ],
+  "intro": "Linecké řezy jsou jednoduché řezy z máslového lineckého těsta, vrstvy rybízového džemu a nastrouhaného těsta navrch. Pečou se na plechu 20 x 30 cm a vyjde z nich 20 kousků. Těžké je, aby se těsto nezahřálo: strouhá se zmražené a jen lehce se rozprostře.",
+  "image": "dish-linecke-rezy",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 35,
+  "cookMinutes": 35,
+  "waitMinutes": 60,
+  "waitLabel": "chlazení těsta v mrazáku",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "studené",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen žloutky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 5,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "dzem-rybizovy",
+      "amount": 300,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "group": "Posyp"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Z mouky, kypřicího prášku, moučkového cukru, másla a 2 žloutků vypracuj těsto, rozděl ho na dva díly v poměru 2 : 1. Větší díl zploští, zabal a nech 30 minut v lednici; menší díl dej na 30 minut do mrazáku."
+    },
+    {
+      "section": "Základ",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Větší díl těsta vyválej a vlož do plechu 20 x 30 cm vyloženého papírem. Propíchej vidličkou."
+    },
+    {
+      "section": "Náplň",
+      "text": "Džem promíchej a rozetři na těsto. Zmražené těsto nastrouhej nahrubo přes struhadlo rovnoměrně navrch."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 30 až 35 minut. Řezy jsou hotové, když je povrch zlatavý a džem na okrajích lehce bublá. Nech je vychladnout v plechu 1 hodinu, pak je posyp moučkovým cukrem a nakrájej na 20 kousků."
+    }
+  ],
+  "tips": [
+    "Strouhané těsto nechej jen lehce nasypat, nezatlačuj ho. Při pečení se pospojuje.",
+    "Džem musí být hustý. Řídký džem přes těsto vyteče, proto ho můžeš na pánvi krátce zahustit.",
+    "Skladuj v uzavřené dóze 5 dní. Řezy dobře drží tvar i na dřevěné desce."
+  ],
+  "substitutions": [
+    "Rybízový džem nahraď meruňkovým nebo švestkovým povidlem.",
+    "Máslo nahraď stejným množstvím tuku na pečení (rostlinný), těsto bude lehce sušší.",
+    "Do těsta přidej 50 g mletých ořechů místo stejného množství mouky."
+  ],
+  "faq": [
+    {
+      "q": "Proč se linecké řezy rozpadají?",
+      "a": "Těsto bylo příliš sušší nebo džem řídký. Řezy nech před krájením úplně vychladnout a krájej ostrým nožem."
+    },
+    {
+      "q": "Jde použít jiný džem než rybízový?",
+      "a": "Ano, ale musí být hustý a lehce kyselý, aby vyvážil máslové těsto. Meruňkový nebo malinový fungují dobře."
+    },
+    {
+      "q": "Jak dlouho vydrží linecké řezy?",
+      "a": "5 dní v uzavřené dóze, v lednici týden. Mohou se i zmrazit, a to po dobu 2 měsíců."
+    }
+  ]
+}

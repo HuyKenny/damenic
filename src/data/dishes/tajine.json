@@ -1,0 +1,20 @@
+{
+  "name": "Tajine s kuřetem, olivami a citronem",
+  "restaurant": "prazdna-misa",
+  "kind": "main",
+  "section": "Talíře a mezze",
+  "description": "Dušená kuřecí stehna s olivami, citronem, zázvorem a kořením.",
+  "about": [
+    "Tajine má jednoduchý princip: maso, koření a kyselost se dusí pod pokličkou, dokud se nespojí do jedné omáčky. Citron a olivy dávají slanou, nahořklou stopu, med ji zakulatí.",
+    "Pokličku zdvihni, až když je čas. Prázdná taška o pár minut počká, tajine ne."
+  ],
+  "price": 24900,
+  "image": "dish-tajine",
+  "recipe": "tajine",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 1,
+  "allergens": [],
+  "featured": false,
+  "order": 917
+}

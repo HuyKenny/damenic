@@ -1,0 +1,22 @@
+{
+  "name": "Jehněčí kotlety s rozmarýnem",
+  "restaurant": "steakarna-rare-priste",
+  "kind": "main",
+  "section": "Steaky",
+  "description": "Dvojice kotlet s česnekem a rozmarýnem, dopečených na másle. Rare máme jen nanečisto.",
+  "about": [
+    "Jehněčí kotlety jsou malé a rychlé. Pánev musí být rozpálená, maso osušené a rozmarýn čerstvý. Dvě kotlety na talíři a pár minut, které rozhodují.",
+    "Naše steakárna rare ani medium neumí, ale ty u sporáku ano. Teploměr do 55 stupňů a po pěti minutách odpočinku maso krájej."
+  ],
+  "price": 49900,
+  "image": "dish-jehneci-kotlety-steakarna",
+  "recipe": "jehneci-kotlety",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 170
+}

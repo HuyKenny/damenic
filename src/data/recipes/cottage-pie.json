@@ -1,0 +1,146 @@
+{
+  "title": "Cottage pie",
+  "keywords": [
+    "cottage pie",
+    "shepherd's pie",
+    "cottage pie recept",
+    "zapečené mleté maso s bramborovou kaší"
+  ],
+  "image": "dish-cottage-pie-uz-hotovo",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 35,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Cottage pie je britský zapečený pokrm z mletého hovězího masa se zeleninou v hustém vývaru a bramborovou kaší navrchu. Maso musí být dobře propečené a omáčka zhoustlá, aby kaše neklesla. Hotovo je za hodinu.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 500,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 100,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "worcester",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 900,
+      "unit": "g",
+      "note": "oloupané",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "note": "teplé",
+      "group": "Kaše"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kaše"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory vař 20 minut v osolené vodě, sceď a rozmačkej s máslem a teplým mlékem do hladka."
+    },
+    {
+      "text": "Na oleji opékej cibuli s mrkví 5 minut. Přidej maso a opékej 8 minut, až je zcela hnědé a propečené. Vmíchej mouku, pyré a tymián."
+    },
+    {
+      "text": "Zalij vývarem, přidej worcester a vař 10 minut do zhoustnutí. Přidej hrášek."
+    },
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 190 °C). Náplň přesuň do zapékací mísy, navrch rozetři kaši a rýhuj vidličkou. Peč 25 minut do zlatova."
+    }
+  ],
+  "tips": [
+    "Rýhování kaše vidličkou dává křupavý povrch.",
+    "Náplň musí být hustá.",
+    "Zapečené jídlo vydrží 3 dny v lednici."
+  ],
+  "substitutions": [
+    "Hovězí maso nahradí jehněčí mleté (pak jde o shepherd's pie).",
+    "Mléko nahradí smetana.",
+    "Pro verzi bez masa použij červenou čočku."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi cottage a shepherd's pie?",
+      "a": "Cottage pie je z hovězího, shepherd's pie z jehněčího masa."
+    },
+    {
+      "q": "Dá se zamrazit?",
+      "a": "Ano, neupečené na 2 měsíce, rozmraz a dopeč."
+    },
+    {
+      "q": "Jak předejít klesnutí kaše?",
+      "a": "Náplň nechej zhoustnout a trochu vychladnout před přikrytím."
+    }
+  ]
+}

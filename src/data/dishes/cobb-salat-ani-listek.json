@@ -1,0 +1,22 @@
+{
+  "name": "Cobb salát s kuřecím a slaninou",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "price": 22900,
+  "description": "Římský salát s kuřetem, slaninou, vejcem, avokádem a modrým sýrem v řadách.",
+  "about": [
+    "Cobb salát se nemíchá, skládá se do pruhů: kuře, slanina, vejce, avokádo, rajče a sýr. Každé sousto si pak poskládáš podle chuti.",
+    "Dresink je hořčičný a lehký, aby nepřebil sýr ani slaninu. Talíř je tu prázdný, recept je skutečný."
+  ],
+  "recipe": "cobb-salad",
+  "image": "dish-cobb-salat-ani-listek",
+  "vegetarian": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    10
+  ],
+  "order": 300
+}

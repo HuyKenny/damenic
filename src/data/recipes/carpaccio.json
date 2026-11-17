@@ -1,0 +1,108 @@
+{
+  "title": "Hovězí carpaccio",
+  "keywords": [
+    "carpaccio",
+    "carpaccio recept",
+    "hovězí carpaccio",
+    "carpaccio z hovězí svíčkové"
+  ],
+  "image": "dish-carpaccio",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 0,
+  "waitMinutes": 60,
+  "waitLabel": "zmrazení před krájením",
+  "difficulty": "střední",
+  "meal": "predkrm",
+  "intro": "Hovězí carpaccio jsou papírově tenké plátky syrové svíčkové s rukolou, parmazánem a citronem. Chuť stojí na kvalitě masa a na řezu: maso se na chvíli prochladí v mrazáku, aby se dalo nakrájet opravdu tence.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-svickova",
+      "amount": 300,
+      "unit": "g",
+      "note": "nejčerstvější, od důvěryhodného řezníka, špička nebo střed"
+    },
+    {
+      "ingredient": "rukola",
+      "amount": 50,
+      "unit": "g",
+      "note": "omytá a osušená"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaný nahrubo nebo na hobliny"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "extra panenský"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva z poloviny a kůra"
+    },
+    {
+      "ingredient": "kapary",
+      "amount": 10,
+      "unit": "g",
+      "note": "okapané",
+      "group": "k podávání"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "hrubá mořská"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "note": "čerstvě mletý"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Svíčkovou zbav blan a šlach, zabal pevně do potravinové fólie a dej na 45 až 60 minut do mrazáku. Má být zvenku tuhá a uvnitř jen mírně měkká. Zmrzlé maso se nekrájí."
+    },
+    {
+      "text": "Ostrým nožem nakrájej maso na co nejtenčí plátky, ideálně 1 až 2 mm. Plátky rozlož na ploché talíře a přikryj fólií, potom je zploštěte dnem sklenice nebo válečkem mezi dvěma fóliemi."
+    },
+    {
+      "text": "V misce rozmíchej olivový olej, 1 lžíci citronové šťávy, sůl a pepř. Kapary nasekej nahrubo."
+    },
+    {
+      "text": "Maso těsně před podáváním pokapej dresinkem, rozlož na něj rukolu, parmazán a kapary. Dozdob citronovou kůrou a podávej do 15 minut, na talíři dlouho nečekej."
+    }
+  ],
+  "tips": [
+    "Maso kup v den přípravy a snězte ho tentýž den. Syrové hovězí je vhodné jen z čerstvého, kvalitního kusu. Těhotné, děti, senioři a lidé s oslabenou imunitou by ho měli vynechat.",
+    "Citron dej až těsně před jídlem. Kyselina maso zesvětlí a po půlhodině vypadá jako ceviche.",
+    "Plátky prostřídej fólií, nelepí se pak k sobě a dají se přenést celé."
+  ],
+  "substitutions": [
+    "Hovězí můžeš nahradit tence nakrájenou syrovou cuketou nebo červenou řepou s parmazánem.",
+    "Parmazán nahraď pecorinem. Rukolu špenátem nebo lilkem baby."
+  ],
+  "faq": [
+    {
+      "q": "Může se carpaccio připravit z jiného masa než ze svíčkové?",
+      "a": "Nejlepší je svíčková, protože je křehká a bez šlach. Dá se použít i hovězí zadní z kvalitního kusu, plátky jsou jen o něco tužší."
+    },
+    {
+      "q": "Je carpaccio z masa bezpečné?",
+      "a": "Syrové maso nese vždy určité riziko, proto se musí použít čerstvý kus od důvěryhodného prodejce, drží se v chladu a jí se hned. Pro děti a těhotné není vhodné."
+    },
+    {
+      "q": "Jak nakrájet carpaccio opravdu tence?",
+      "a": "Zchlaď maso v mrazáku asi 45 až 60 minut, použij velmi ostrý nůž a krájej jedním tahem. Plátky pak ještě zploštěte mezi fóliemi."
+    }
+  ]
+}

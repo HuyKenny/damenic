@@ -1,0 +1,22 @@
+{
+  "name": "Croque monsieur",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Teplé sendviče",
+  "price": 17900,
+  "description": "Zapečený toast se šunkou a sýrem pod hustou bešamelovou omáčkou.",
+  "about": [
+    "Croque monsieur je sýrový toast v černém obleku. Šunka a sýr jsou mezi krajíci a navrch přijde bešamel, který se v troubě zapeče do zlatova.",
+    "Kurýr Nikdo nepřivezl nic, ale recept zvládneš do půl hodiny a hladový nezůstaneš."
+  ],
+  "recipe": "croque-monsieur",
+  "image": "dish-croque-monsieur-mezi-krajici",
+  "vegetarian": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    10
+  ],
+  "order": 310
+}

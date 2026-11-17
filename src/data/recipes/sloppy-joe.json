@@ -1,0 +1,139 @@
+{
+  "title": "Sloppy joe",
+  "keywords": [
+    "sloppy joe",
+    "sloppy joe recept",
+    "sloppy joe sendvič",
+    "americký sendvič s mletým masem"
+  ],
+  "image": "dish-sloppy-joe-mezi-krajici",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Sloppy joe je americký sendvič s mletým hovězím v kořeněné rajčatové omáčce, podávaný v měkké housce. Omáčka musí zhoustnout, jinak z bulky odkapává. Maso se musí propéct, takže je uvnitř vždy aspoň 70 °C.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 500,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostičky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "stroužky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "worcester",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "bulky-burger",
+      "amount": 4,
+      "unit": "ks",
+      "note": "nahřáté"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na pánvi rozehřej olej a opékej cibuli s paprikou 5 minut do změknutí. Přidej česnek a opékej minutu."
+    },
+    {
+      "text": "Přidej mleté maso, rozmělni ho vařečkou a opékej 8 minut, dokud není zcela hnědé a propečené."
+    },
+    {
+      "text": "Přidej pyré, kečup, hořčici, worcester, cukr, ocet a vodu. Vař na mírném plameni 12 minut za občasného míchání, až omáčka zhoustne."
+    },
+    {
+      "text": "Bulky nahřej v troubě nebo na suché pánvi, rozděl a naplň masem. Podávej s nakládanými okurkami."
+    }
+  ],
+  "tips": [
+    "Omáčka by se měla držet na lžíci, jinak ji ještě povař.",
+    "Sendvič jez s ubrousky, k tomu patří.",
+    "Maso v lednici vydrží 3 dny a dá se i zamrazit."
+  ],
+  "substitutions": [
+    "Hovězí maso nahradí mleté krůtí nebo čočka červená.",
+    "Bulky můžeš nahradit toustovým chlebem.",
+    "Pro méně sladkou verzi vynech cukr."
+  ],
+  "faq": [
+    {
+      "q": "Z čeho je sloppy joe?",
+      "a": "Z mletého hovězího masa v sladkokyselé rajčatové omáčce, podávaného v housce."
+    },
+    {
+      "q": "Jak dlouho se maso vaří?",
+      "a": "Opékej 8 minut, pak 12 minut duš v omáčce. Mleté maso musí být uvnitř propečené."
+    },
+    {
+      "q": "Dá se sloppy joe zamrazit?",
+      "a": "Ano, samotná masová směs vydrží zmrazená 2 měsíce. Rozmraz v lednici a ohřej do horka."
+    }
+  ]
+}

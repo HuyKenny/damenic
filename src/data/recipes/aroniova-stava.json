@@ -1,0 +1,92 @@
+{
+  "title": "Aroniová šťáva",
+  "keywords": [
+    "aroniová šťáva",
+    "aroniová šťáva recept",
+    "šťáva z aronie",
+    "aronie sirup",
+    "domácí aroniový džus"
+  ],
+  "image": "dish-aroniova-stava",
+  "category": "napoje",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 60,
+  "waitLabel": "chladnutí a ocezení",
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "intro": "Aroniová šťáva je tmavě fialový nápoj, který se vyrábí povařením čerstvé aronie ve vodě a přecezením. Syrová aronie je trpká, ale uvařená s trochou cukru a citronu dá chuťově vyrovnaný nápoj. Z 500 g bobulí vyjde asi 1,2 litru, který se pije vychlazený, ředěný vodou nebo teplý. Bez zavařování vydrží 5 dní v lednici a lze ho zamrazit.",
+  "ingredients": [
+    {
+      "ingredient": "aronie",
+      "amount": 500,
+      "unit": "g",
+      "note": "čerstvé nebo mražené"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1000,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "skorice-cela",
+      "amount": 1,
+      "unit": "ks"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Aronii omyj a přeber. Mražené bobule není potřeba rozmrazovat."
+    },
+    {
+      "text": "Dej ji do hrnce s vodou, cukrem a skořicí a přiveď k varu. Vař na mírném plameni 20 minut, občas promíchej a bobule lehce rozmačkej vařečkou."
+    },
+    {
+      "text": "Hrnec odstav, nech 10 minut louhovat pod pokličkou a pak přeceď přes jemné síto nebo plátýnko. Zbylou dužinu lehce zatlač, ale nevytlačuj ji do hořka."
+    },
+    {
+      "text": "Do vlažné šťávy vymačkej citron. Dosladíš až teď podle chuti."
+    },
+    {
+      "text": "Nech vychladnout a přelij do čisté láhve. Uchovávej v lednici do 5 dnů, nebo nalij do čistých plastových lahví a zamraz."
+    }
+  ],
+  "tips": [
+    "Citron přidávej až na konci. Při dlouhém varu aroma i barva trochu slábnou.",
+    "Ředění je věc chuti: pro dospělé 1 díl šťávy ku 1 dílu vody, pro děti spíš 1 ku 2.",
+    "Z vymačkaných bobulí zbyde dužina, kterou lze využít do ovesné kaše nebo na buchtu.",
+    "Zahřátá se šťáva s plátkem zázvoru hodí jako večerní čaj."
+  ],
+  "substitutions": [
+    "Cukr můžeš vyměnit za 80 g medu přidaného až do vlažné šťávy.",
+    "Aronii lze smíchat napůl s jablky nebo hruškami, šťáva pak bude méně trpká.",
+    "Skořici vyměň za plátek zázvoru nebo pomerančovou kůru."
+  ],
+  "faq": [
+    {
+      "q": "Jak se dělá aroniová šťáva doma?",
+      "a": "Aronii povař 20 minut ve vodě s cukrem, nech louhovat, přeceď a dochuť citronem. Nápoj se pije ředěný."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí aroniová šťáva?",
+      "a": "V čisté uzavřené láhvi v lednici vydrží 5 dní. Delší uchování je možné jen zmrazením."
+    },
+    {
+      "q": "Proč je aronie trpká?",
+      "a": "Aronie obsahuje hodně tříslovin, které stahují ústa. Vařením s cukrem a citronem se trpkost zjemní, ale nezmizí úplně."
+    }
+  ]
+}

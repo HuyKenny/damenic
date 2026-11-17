@@ -1,0 +1,153 @@
+{
+  "title": "Pelmeně",
+  "keywords": [
+    "pelmeně",
+    "pelmeně recept",
+    "ruské pelmeně",
+    "domácí pelmeně s masem"
+  ],
+  "image": "dish-pelmene",
+  "category": "asijska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 60,
+  "cookMinutes": 10,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Pelmeně jsou ruské taštičky z nekynutého těsta plněné mletým masem a cibulí. Vaří se ve vodě asi 5 minut a podávají se s máslem, zakysanou smetanou nebo octem. Plnka musí být šťavnatá, takže se do ní míchá trocha studené vody.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "note": "těsto",
+      "group": "těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "těsto",
+      "group": "těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 120,
+      "unit": "ml",
+      "note": "vlažná, těsto",
+      "group": "těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "těsto",
+      "group": "těsto"
+    },
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 200,
+      "unit": "g",
+      "note": "plnka",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 200,
+      "unit": "g",
+      "note": "plnka",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "najemno nastrouhaná, plnka",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "plnka",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "plnka",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 50,
+      "unit": "ml",
+      "note": "studená do plnky",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "k podávání",
+      "group": "podávání"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 100,
+      "unit": "g",
+      "note": "k podávání",
+      "group": "podávání"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "k podávání, nasekaný",
+      "group": "podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku smíchej se solí, přidej vejce a vodu. Těsto vypracuj 8 až 10 minut do hladka, zabal do fólie a nech 30 minut odpočívat."
+    },
+    {
+      "text": "Obě masa smíchej s nastrouhanou cibulí, solí a pepřem. Přilévej studenou vodu po lžících a míchej rukou, až je plnka vláčná."
+    },
+    {
+      "text": "Těsto na lehce pomoučené desce rozválej na tloušťku 1,5 mm. Vykrajuj kolečka o průměru 5 až 6 cm. Doprostřed každého dej asi 1 lžičku plnky, přeložit v půlměsíc a okraje pevně zatlačit. Konce půlměsíce spoj dohromady."
+    },
+    {
+      "text": "Ve velkém hrnci přiveď k varu 3 litry osolené vody. Pelmeně vhazuj po 15 až 20 kusech a jemně promíchej. Po vyplavání vař ještě 5 minut, maso uvnitř musí být propečené (min. 75 °C)."
+    },
+    {
+      "text": "Děrovanou lžící je vyndej na talíř, přidej máslo, smetanu a kopr. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Nastrouhaná cibule dá plnce šťávu. Nepřidávej víc než 1 cibuli na 400 g masa.",
+    "Nevařené pelmeně zmraz na plechu a pak je přesyp do sáčku. Vaří se zmrazené 8 až 10 minut.",
+    "Těsto musí být tenké, jinak je taštička moc těstová."
+  ],
+  "substitutions": [
+    "Maso můžeš dát celé vepřové nebo celé hovězí. Místo zakysané smetany použij hustý bílý jogurt.",
+    "Plnku lze zjemnit lžící másla na každou porci."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří pelmeně?",
+      "a": "Čerstvé 5 minut po vyplavání, zmrazené 8 až 10 minut. Plnka z mletého masa musí být vždy propečená."
+    },
+    {
+      "q": "Dají se pelmeně zmrazit?",
+      "a": "Dají, rozlož je na plech tak, aby se nedotýkaly, zmraz a pak přesypat do sáčku. Vydrží 3 měsíce."
+    },
+    {
+      "q": "Čím se pelmeně podávají?",
+      "a": "Klasicky s máslem, zakysanou smetanou, octem nebo hořčicí. Hodí se i vývar."
+    }
+  ]
+}

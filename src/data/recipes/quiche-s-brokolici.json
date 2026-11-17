@@ -1,0 +1,139 @@
+{
+  "title": "Quiche s brokolicí",
+  "keywords": [
+    "quiche s brokolicí",
+    "quiche s brokolicí recept",
+    "slaný koláč s brokolicí",
+    "brokolicový quiche"
+  ],
+  "image": "dish-quiche-s-brokolici-zitra-upecem",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 30,
+  "cookMinutes": 55,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Quiche s brokolicí je slaný koláč s máslovým těstem, vaječnou smetanovou náplní a sýrem. Brokolice se předem krátce spaří, aby pustila vodu. Těsto se předpéká, takže spodek zůstane křupavý.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "studené",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 45,
+      "unit": "ml",
+      "note": "ledová",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "brokolice",
+      "amount": 300,
+      "unit": "g",
+      "note": "na malé růžičky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 100,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Náplň"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Z mouky, másla, soli a vody zpracuj těsto jako na křehký koláč, zabal a dej na 30 minut do lednice."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C. Těsto vyválej na 3 mm a vlož do formy o průměru 24 cm, propíchej vidličkou, přikryj papírem se zátěží a peč 15 minut, pak papír sundej a peč 5 minut."
+    },
+    {
+      "text": "Brokolici spař 3 minuty ve vroucí vodě a dobře osuš. Rozlož na korpus se sýrem."
+    },
+    {
+      "text": "Vejce prošlehej se smetanou, mlékem, muškátem, pepřem a solí. Nalij na brokolici. Peč 30 až 35 minut, až je střed pevný a povrch zlatý."
+    },
+    {
+      "text": "Nech 10 minut vychladnout a krájej. Podávej teplé nebo studené."
+    }
+  ],
+  "tips": [
+    "Brokolici dobře osuš, jinak se koláč rozmočí.",
+    "Předpečení těsta je nutné.",
+    "Quiche vydrží 2 dny v lednici."
+  ],
+  "substitutions": [
+    "Eidam nahradí ementál nebo čedar.",
+    "Brokolici lze nahradit květákem.",
+    "Pro lehčí verzi nahraď smetanu mlékem."
+  ],
+  "faq": [
+    {
+      "q": "Proč se mi spodek rozmočil?",
+      "a": "Těsto nebylo předpečené nebo brokolice nebyla suchá."
+    },
+    {
+      "q": "Jak poznám, že je quiche hotová?",
+      "a": "Střed se chvěje jen lehce a okraje jsou zlaté."
+    },
+    {
+      "q": "Dá se quiche zamrazit?",
+      "a": "Ano, na 2 měsíce, ohřej na 170 °C."
+    }
+  ]
+}

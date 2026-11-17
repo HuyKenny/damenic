@@ -1,0 +1,20 @@
+{
+  "name": "Ciabatta, bochník",
+  "restaurant": "pekarna-zitra-upecem",
+  "kind": "main",
+  "section": "Máslové a slané",
+  "price": 8900,
+  "description": "Italský chléb s křupavou kůrkou a velkými dírami ve střídce.",
+  "about": [
+    "Ciabatta je chléb, který se trochu bojí těsta. To je mokré a lepkavé, a proto vyroste do děr, které drží olivový olej.",
+    "Hodí se k polévce, sendviči nebo jen tak. Pec máme rozpálenou, jen do ní nic nedáváme."
+  ],
+  "recipe": "ciabatta",
+  "image": "dish-ciabatta-zitra-upecem",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "order": 300
+}

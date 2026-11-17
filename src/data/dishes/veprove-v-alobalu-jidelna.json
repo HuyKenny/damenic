@@ -1,0 +1,22 @@
+{
+  "name": "Vepřové v alobalu s bramborami",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Polední menu",
+  "description": "Balíček krkovice s bramborami, cibulí a hořčicí, pečený v páře. Rozbalení doma.",
+  "about": [
+    "Vepřové v alobalu je poctivý balíček: krkovice, brambory, cibule a hořčice. Nic víc, nic míň. Pára z balíčku udělá z krkovice měkké maso.",
+    "Naše polední menu se vždycky otevírá zítra. Balíček ale můžeš složit dnes a upéct si ho po obědě."
+  ],
+  "price": 21900,
+  "image": "dish-veprove-v-alobalu-jidelna",
+  "recipe": "veprove-v-alobalu",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    10
+  ],
+  "order": 150
+}

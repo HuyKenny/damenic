@@ -1,0 +1,21 @@
+{
+  "name": "Krémová kukuřičná polévka",
+  "restaurant": "lzice-zitra",
+  "kind": "main",
+  "section": "Hustší",
+  "description": "Hladká polévka z kukuřice a bramboru s trochou smetany.",
+  "about": [
+    "Kukuřičná polévka je jemně sladká, hustá a barvy slunečního světla. Brambor ji zahustí, smetana zjemní a uzená paprika na povrchu dá výraznější kouřovou chuť. Hodí se k zimnímu večeru.",
+    "Lžíce Zítra nese naběračku až od zítřka. V receptu je ale všechno hotové za půl hodiny a lžíce stačí jediná."
+  ],
+  "price": 9900,
+  "image": "dish-kukuricna-polevka-lzice-zitra",
+  "recipe": "kukuricna-polevka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 960,
+  "allergens": [
+    7
+  ]
+}

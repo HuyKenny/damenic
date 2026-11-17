@@ -1,0 +1,107 @@
+{
+  "title": "Jehněčí kotlety s česnekem a rozmarýnem",
+  "keywords": [
+    "jehněčí kotlety",
+    "jehněčí kotlety recept",
+    "jehněčí kotlety na pánvi",
+    "jehněčí kotlety v troubě",
+    "jehněčí kotlety s rozmarýnem"
+  ],
+  "image": "dish-jehneci-kotlety",
+  "category": "steak",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 12,
+  "waitMinutes": 30,
+  "waitLabel": "marinování a vytemperování",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Jehněčí kotlety jsou malé kousky masa na žebírku, které se hodí na pánev nebo gril. Stačí marináda z oleje, česneku a rozmarýnu, vysoký žár a krátký čas: při 55 až 60 °C uvnitř jsou růžové a šťavnaté, při přepečení tuhé a suché.",
+  "ingredients": [
+    {
+      "ingredient": "jehneci-kotlety",
+      "amount": 700,
+      "unit": "g",
+      "note": "asi 8 kotlet, tlusté 2,5 až 3 cm"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na marinádu"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "2 prolisované, 2 jen rozmáčknuté"
+    },
+    {
+      "ingredient": "rozmaryn",
+      "amount": 6,
+      "unit": "g",
+      "note": "jehlice z asi 3 větviček"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "na dopečení"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kotlety osuš. Smíchej olej, prolisovaný česnek, polovinu rozmarýnu a pepř, kotlety v marinádě obal a nech je 30 minut až 2 hodiny v lednici. Půl hodiny před smažením je vyndej, aby měly pokojovou teplotu."
+    },
+    {
+      "text": "Pánev rozpal na vysoký plamen, kotlety osol a polož je na suchou pánev. Smaž je 3 až 4 minuty, dokud nepěkně nezhnědnou, a otoč."
+    },
+    {
+      "text": "Sniž plamen na střední, přidej máslo, rozmáčknutý česnek a zbytek rozmarýnu a kotlety další 3 až 4 minuty podlévej vypěněným máslem. Medium rare má uvnitř 55 °C, medium 60 °C, well done 70 °C."
+    },
+    {
+      "text": "Kotlety přendej na talíř, volně je přikryj alobalem a nech 5 minut odpočinout. Podávej s citronem a výpekem z pánve."
+    }
+  ],
+  "tips": [
+    "Kotlety s vyšším tukem na okraji drží šťávu líp. Pokud je okraj tučný, přidrž ho kleštěmi na pánvi a nech ho 1 minutu vypéct.",
+    "Nesol maso dlouho předem, vytáhne šťávu. Solí těsně před pánví.",
+    "Kotlety odpočívají, dokud se šťáva nezklidní. Na prkénku zbytečně neřež, vyteče z nich."
+  ],
+  "substitutions": [
+    "Rozmarýn nahraď tymiánem nebo oreganem.",
+    "Jehněčí kotlety lze nahradit tenčími vepřovými kotletami na žebírku, ty ale propeč na 65 °C.",
+    "Místo másla na dopečení použij olivový olej."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit jehněčí kotlety?",
+      "a": "Kotlety silné 2,5 až 3 cm smaž na vysokém plameni 3 až 4 minuty z každé strany. Medium rare je 55 °C uvnitř, medium 60 °C."
+    },
+    {
+      "q": "Lze jehněčí kotlety péct v troubě?",
+      "a": "Ano. Nejdřív je opeč na pánvi po minutě z každé strany a pak je dopeč 6 až 8 minut při 200 °C, horkovzduch 190 °C, až do 55 až 60 °C uvnitř."
+    },
+    {
+      "q": "Jak odstranit pachuť z jehněčího?",
+      "a": "Pachuť sídlí hlavně v tuku. Odřízni přebytečný tuk a ochuť maso česnekem, rozmarýnem a citronem. Mladé jehněčí je mírnější."
+    }
+  ]
+}

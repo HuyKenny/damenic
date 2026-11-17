@@ -1,0 +1,25 @@
+{
+  "name": "Tvarohová roláda, 2 plátky",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Krémové a ovocné",
+  "description": "Vláčný piškot svinutý s citronovým tvarohovým krémem, dva plátky.",
+  "about": [
+    "Tvarohová roláda je piškot, který se svine ještě teplý, aby se nelámal. Uvnitř je krém z tvarohu, šlehačky a citronu.",
+    "Ze svinutého plátu se po vychladnutí řežou kolečka s čistým řezem. Naše dortárna nemá patro, tak ať má aspoň roláda dvě vrstvy."
+  ],
+  "price": 8900,
+  "image": "dish-tvarohova-rolada",
+  "recipe": "tvarohova-rolada",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 407
+}

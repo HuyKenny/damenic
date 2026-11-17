@@ -1,0 +1,102 @@
+{
+  "title": "Croque monsieur",
+  "keywords": [
+    "croque monsieur",
+    "croque monsieur recept",
+    "francouzský sýrový toast se šunkou",
+    "zapečený toast se šunkou a sýrem"
+  ],
+  "image": "dish-croque-monsieur-mezi-krajici",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Croque monsieur je francouzský zapečený sendvič se šunkou a sýrem pokrytý hustou bešamelovou omáčkou. Omáčka se vaří z mouky, másla a mléka a nesmí být hrudkovitá. Dozlatova se zapéká v troubě na 220 °C.",
+  "ingredients": [
+    {
+      "ingredient": "toustovy-chleb",
+      "amount": 220,
+      "unit": "g",
+      "note": "8 krajíců"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 200,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 30,
+      "unit": "g",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "group": "Bešamel"
+    },
+    {
+      "ingredient": "horcice-dijonska",
+      "amount": 2,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 220 °C (horkovzduch 210 °C). V hrnci rozpusť 30 g másla, vmíchej mouku a minutu míchej. Postupně přilévej mléko, šlehej metlou a vař 5 minut do zhoustnutí. Dochuť muškátem a solí."
+    },
+    {
+      "text": "Z chleba udělej 4 sendviče: na jednu krajíc natři hořčici, přidej šunku a polovinu sýra, přikryj druhým krajícem. Opeč je z obou stran na zbylém másle na pánvi 2 minuty."
+    },
+    {
+      "text": "Sendviče přenes na plech, potři bešamelem a posyp zbylým sýrem. Zapékej 8 až 10 minut, až je sýr zlatý."
+    }
+  ],
+  "tips": [
+    "Bešamel míchej metlou, hrudky nevzniknou.",
+    "Chceš-li variantu madame, přidej na vrch volské oko.",
+    "Sendviče neřež dřív, než vychladnou, sýr by vytekl."
+  ],
+  "substitutions": [
+    "Eidam nahradí ementál.",
+    "Šunku nahradí plátky uzeného tofu.",
+    "Toastový chléb nahradí bílý kváskový."
+  ],
+  "faq": [
+    {
+      "q": "Co je croque monsieur?",
+      "a": "Francouzský teplý sendvič se šunkou, sýrem a bešamelem."
+    },
+    {
+      "q": "Jak se liší croque madame?",
+      "a": "Madame má navíc na vrchu volské oko."
+    },
+    {
+      "q": "Jde připravit předem?",
+      "a": "Ano, sestav a vlož do lednice na 4 hodiny, před pečením potři bešamelem."
+    }
+  ]
+}

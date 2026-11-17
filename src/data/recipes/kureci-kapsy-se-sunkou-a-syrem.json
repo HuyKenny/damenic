@@ -1,0 +1,103 @@
+{
+  "title": "Kuřecí kapsy se šunkou a sýrem",
+  "keywords": [
+    "kuřecí kapsy",
+    "kuřecí prsa plněná šunkou a sýrem",
+    "plněná kuřecí prsa",
+    "kuřecí kapsy se sýrem",
+    "kuřecí kapsy se šunkou a sýrem"
+  ],
+  "image": "dish-kureci-kapsy-se-sunkou-a-syrem",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Kuřecí kapsy jsou prsní řízky nařízlé na kapsu a naplněné šunkou a sýrem, které se zapečou v troubě. Řízky zůstanou šťavnaté, když se dobře zavřou špejlemi a upečou se jen do 75 °C. Hodí se k pečeným bramborám i salátu.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 700,
+      "unit": "g",
+      "note": "4 řízky"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 100,
+      "unit": "g",
+      "note": "4 plátky"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 100,
+      "unit": "g",
+      "note": "4 plátky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C, horkovzduch 190 °C. Každý řízek podélně nařízni do poloviny tak, aby vznikla kapsa, ale druhá strana zůstala spojená."
+    },
+    {
+      "text": "Kapsy zevnitř i zvenku osol, opepři a potři hořčicí. Do každé vlož plátek šunky a plátek eidamu a okraje zajisti dvěma špejlemi nebo párátky."
+    },
+    {
+      "text": "Kapsy zvenku potři olejem a posyp je paprikou. Polož je na plech vyložený pečicím papírem."
+    },
+    {
+      "text": "Peč 25 až 30 minut. Maso je hotové, když má uvnitř 75 °C a sýr se rozpustil. Špejle před podáváním vytáhni."
+    }
+  ],
+  "tips": [
+    "Naplň kapsy jen volně, příliš plné se při pečení otevřou a sýr vyteče.",
+    "Sýr s vyšším tukem se rozpouští hezky, tvrdý eidam dá méně šťávy.",
+    "Pro křupavou kůrku obal kapsy ve strouhance a před pečením je pokapej olejem."
+  ],
+  "substitutions": [
+    "Eidam nahraď mozzarellou nebo goudou.",
+    "Šunku nahraď slaninou, přidává slanost a kouřovou chuť.",
+    "Hořčici nahraď kečupem nebo pestem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct kuřecí kapsy?",
+      "a": "25 až 30 minut při 200 °C, horkovzduch 190 °C. Uvnitř musí mít maso 75 °C."
+    },
+    {
+      "q": "Jak zabránit vytékání sýra z kapes?",
+      "a": "Kapsu naplň jen volně, okraje zajisti špejlemi a řízky nezapékej při příliš vysoké teplotě."
+    },
+    {
+      "q": "Co k plněným kuřecím kapsám?",
+      "a": "Pečené brambory, rýže nebo bramborová kaše a salát ze zelí nebo rajčat."
+    }
+  ]
+}

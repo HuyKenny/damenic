@@ -1,0 +1,23 @@
+{
+  "name": "Špenátové palačinky se smetanovým sýrem",
+  "restaurant": "prazdna-panev",
+  "kind": "main",
+  "section": "Slané palačinky",
+  "description": "Zelené palačinky plněné smetanovým sýrem s česnekem a pažitkou.",
+  "about": [
+    "Špenátová palačinka je zelená opravdu celá. Špenát se rozmixuje přímo do těsta, takže vznikne hladká tenká palačinka s jemnou muškátovou chutí. Uvnitř je smetanový sýr s česnekem a pažitkou.",
+    "Pánev v Palačinkárně Prázdná pánev zůstává studená. Recept je ale skutečný: osm tenkých palačinek z jedné dávky těsta, které odpočívá 20 minut."
+  ],
+  "price": 18900,
+  "image": "dish-spenatova-palacinka-smetanovy-syr-panev",
+  "recipe": "spenatove-palacinky",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 960,
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

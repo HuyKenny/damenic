@@ -1,0 +1,23 @@
+{
+  "name": "Kuřecí kapsy se šunkou a sýrem",
+  "restaurant": "peceni-na-priste",
+  "kind": "main",
+  "section": "Drůbež a králík",
+  "description": "Kuřecí prsa plněná šunkou a eidamem, zapečená v troubě. Sýr uvnitř zůstane jen v textu.",
+  "about": [
+    "Kuřecí kapsy jsou prsa nařezaná na kapsu, plněná šunkou a eidamem a upečená v troubě. Sýr uvnitř se rozpustí a maso si drží šťávu.",
+    "Pečení na příště se vždycky odkládá. Tvoje kapsy se ale mohou péct hned dnes večer."
+  ],
+  "price": 23900,
+  "image": "dish-kureci-kapsy-peceni",
+  "recipe": "kureci-kapsy-se-sunkou-a-syrem",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    10
+  ],
+  "order": 210
+}

@@ -1,0 +1,147 @@
+{
+  "title": "Hovězí ragú s těstovinami",
+  "keywords": [
+    "hovězí ragú",
+    "hovězí ragú recept",
+    "ragú z hovězího",
+    "těstoviny s hovězím ragú",
+    "ragú alla bolognese hovězí"
+  ],
+  "image": "dish-hovezi-ragu",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 90,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "alcohol": false,
+  "intro": "Hovězí ragú je pomalu vařená masová omáčka na červeném víně, rajčatech a zeleninovém základu. Je hustší než běžná boloňská a dobře se hodí k širokým těstovinám nebo polentě. Trik je v trpělivosti: základ se opeče na pánvi, maso zhnědne a omáčka bublá hodinu a půl na slabém plameni.",
+  "ingredients": [
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "celer-rapikaty",
+      "amount": 80,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vino-cervene",
+      "amount": 150,
+      "unit": "ml",
+      "note": "suché"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "note": "1 plechovka"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 250,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "fettuccine",
+      "amount": 320,
+      "unit": "g",
+      "note": "na podávání"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaný, na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V širokém hrnci rozehřej olej na středním plameni a cibuli, mrkev a celer na něm 8 minut za občasného míchání duš, dokud nezměknou. Přidej česnek a nech ho 30 sekund vonět."
+    },
+    {
+      "text": "Plamen zvyš a přidej mleté maso. Nech ho pár minut smažit bez míchání, aby se začalo připékat, pak ho rozmělňuj vařečkou a opékej 8 až 10 minut, dokud se tekutina nevypaří a maso nezhnědne."
+    },
+    {
+      "text": "Vmíchej rajčatový protlak, nech ho minutu opražit a zalij vínem. Víno nech 3 až 4 minuty vařit, aby se vyvařil alkohol a zredukovalo se na polovinu."
+    },
+    {
+      "text": "Přidej loupaná rajčata, rozmačkej je lžící, přilij vývar, přidej bobkový list, sůl a pepř. Omáčku přiveď k varu, přikryj ji odklopenou poklicí a vař na slabém plameni 75 až 90 minut. Občas promíchej a podle potřeby dolij trochu vody. Hotová je, když je hustá a olej se vyloučí na okrajích."
+    },
+    {
+      "text": "Těstoviny uvař v osolené vodě podle návodu, ponech si šálek vody z vaření a těstoviny slij. Smíchej je s ragú a podle potřeby přilij trochu vody z těstovin. Podávej s parmazánem."
+    }
+  ],
+  "tips": [
+    "Základ z mrkve, cibule a celeru musí být jemně nakrájený, v hotové omáčce se téměř rozpustí.",
+    "Hovězí ragú chutná líp druhý den. Omáčku zmrazit můžeš na 3 měsíce, vyndej ji do lednice večer předem.",
+    "Smaž maso postupně, ne naráz. Když ho necháš zhnědnout, získáš hlubší chuť než z vařeného."
+  ],
+  "substitutions": [
+    "Červené víno nahraď 150 ml hovězího vývaru s lžící balsamicového octa.",
+    "Mleté hovězí smíchej půl na půl s mletým vepřovým, omáčka bude jemnější.",
+    "Místo fettuccine použij pappardelle, tagliatelle nebo domácí gnocchi."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit hovězí ragú?",
+      "a": "Alespoň 75 až 90 minut na slabém plameni. Čím déle bublá, tím je hustší a chuťově kulatější, ale nesmí se připálit, proto občas míchej."
+    },
+    {
+      "q": "Dá se ragú udělat bez vína?",
+      "a": "Ano, víno nahraď vývarem a lžící balsamicového octa pro kyselost. Chuť bude o něco plošší, ale stále plná."
+    },
+    {
+      "q": "Jaké těstoviny k ragú?",
+      "a": "Široké vaječné těstoviny, tagliatelle, pappardelle nebo fettuccine, na kterých omáčka drží. Na tenké špagety se nehodí."
+    }
+  ]
+}

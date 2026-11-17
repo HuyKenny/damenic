@@ -1,0 +1,133 @@
+{
+  "title": "Tonkatsu",
+  "keywords": [
+    "tonkatsu",
+    "tonkatsu recept",
+    "japonský smažený řízek",
+    "vepřový řízek v panko"
+  ],
+  "image": "dish-tonkatsu",
+  "category": "asijska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 25,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Tonkatsu je japonský vepřový řízek obalený v strouhance panko, smažený do zlatova a podávaný se strouhaným zelím a omáčkou. Panko je hrubší než běžná strouhanka a dává křupavější kůrku. Maso musí být uvnitř propečené.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-kotlety",
+      "amount": 300,
+      "unit": "g",
+      "note": "2 plátky bez kosti, silné 2 cm"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na obalení"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozšlehané"
+    },
+    {
+      "ingredient": "strouhanka-panko",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 400,
+      "unit": "ml",
+      "note": "na smažení"
+    },
+    {
+      "ingredient": "zeli-bile",
+      "amount": 150,
+      "unit": "g",
+      "note": "najemno nakrájené, k podávání"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "k podávání"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "omáčka"
+    },
+    {
+      "ingredient": "worcester",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "omáčka"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso na okrajích několikrát nařízni, aby se při smažení nesbíhalo. Lehce naklepej a osol, opepři."
+    },
+    {
+      "text": "Obal po jednom v mouce, vejci a panko. Panko lehce přitiskni, aby se držela."
+    },
+    {
+      "text": "V rozpálené pánvi nebo hrnci rozehřej olej na 170 °C. Řízky smaž po jednom 4 až 5 minut z každé strany. Maso uvnitř musí mít aspoň 65 °C a šťáva musí být čirá."
+    },
+    {
+      "text": "Smíchej kečup, worcester, sójovku a cukr na omáčku. Řízky nech 2 minuty odkapat na mřížce, nakrájej na pruhy 2 cm široké a podávej se zelím, citronem a omáčkou."
+    }
+  ],
+  "tips": [
+    "Řízky nech po smažení odpočinout na mřížce, ne na papíru, jinak změknou zespodu.",
+    "Zelí nakrájej co nejtenčeji a dej na 10 minut do ledové vody, bude křehké.",
+    "Sójová omáčka a worcester obsahují lepek a worcester často i ryby."
+  ],
+  "substitutions": [
+    "Panko nahraď obyčejnou strouhankou, ale jemnější zrnka dávají méně křupavou kůrku.",
+    "Vepřové lze zaměnit za kuřecí prsa, kterým říkají chicken katsu."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi tonkatsu a řízkem?",
+      "a": "Tonkatsu se obaluje v hrubé strouhance panko, smaží se na hlubším oleji a podává se nakrájené na proužky s omáčkou a zelím."
+    },
+    {
+      "q": "Na jaké teplotě se tonkatsu smaží?",
+      "a": "Na 170 °C. Příliš vysoká teplota spálí obal, nízká ho nechá nasáknout olejem."
+    },
+    {
+      "q": "Co je tonkatsu omáčka?",
+      "a": "Hustá sladko-kyselá omáčka z ovocných a zeleninových základů. Doma stačí kečup s worcesterem, sójovkou a cukrem."
+    }
+  ]
+}

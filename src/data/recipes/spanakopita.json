@@ -1,0 +1,128 @@
+{
+  "title": "Spanakopita",
+  "keywords": [
+    "spanakopita",
+    "spanakopita recept",
+    "řecký špenátový koláč",
+    "špenátový koláč s fetou a filo těstem"
+  ],
+  "image": "dish-spanakopita",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 35,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Spanakopita je řecký koláč z křupavého filo těsta plněný špenátem, fetou a koprem. Rozhoduje, aby byl špenát opravdu dobře vymačkaný, jinak vznikne mokrá plnka a těsto změkne.",
+  "ingredients": [
+    {
+      "ingredient": "testo-filo",
+      "amount": 250,
+      "unit": "g",
+      "note": "asi 10 plátů, rozmražené podle návodu"
+    },
+    {
+      "ingredient": "spenat-mrazeny",
+      "amount": 600,
+      "unit": "g",
+      "note": "rozmražený a vymačkaný do sucha",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "najemno",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 4,
+      "unit": "ks",
+      "note": "najemno",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na cibuli",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "feta",
+      "amount": 250,
+      "unit": "g",
+      "note": "rozdrobená",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "svazek, nasekaný",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "rozpuštěné, na potření plátů",
+      "group": "na potření"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Špenát rozmraž a pořádně vymačkej, nejlépe v čisté utěrce, až nepouští tekutinu. Nasekej ho nahrubo."
+    },
+    {
+      "text": "Cibuli osmaž na oleji na středním plameni 6 minut do měkka a nech vychladnout. Smíchej se špenátem, jarní cibulkou, fetou, vejci, koprem a muškátem. Sůl dávej opatrně, feta je slaná."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 160 °C). Pekáč 20 × 30 cm vymaž máslem. Na dno polož 1 plát těsta, přesahující okraje, potři máslem. Takto vrstvi 5 plátů."
+    },
+    {
+      "text": "Na těsto rozlož plnku. Přikryj dalšími 5 pláty těsta, každý potři máslem, přeložené okraje zahni dovnitř. Vrch potři máslem a nařízni na porce, aby se těsto nepopraskalo při krájení."
+    },
+    {
+      "text": "Peč 40 až 45 minut, až je těsto zlatohnědé a křupavé. Nech 10 minut odpočinout, pak podávej teplé nebo vlažné."
+    }
+  ],
+  "tips": [
+    "Nerozbalené filo těsto drž přikryté vlhkou utěrkou, na vzduchu vysychá a trhá se.",
+    "Plnku nesolit navíc: feta může být velmi slaná, ochutnej před přidáním soli.",
+    "Zbytek vydrží 2 dny v lednici, před jídlem prohřej v troubě na 180 °C asi 15 minut, aby těsto znovu zkřupavělo."
+  ],
+  "substitutions": [
+    "Špenát můžeš nahradit mangoldem nebo pórkem. Feta může být částečně nahrazena ricottou.",
+    "Máslo na potírání nahraď olivovým olejem."
+  ],
+  "faq": [
+    {
+      "q": "Dá se použít čerstvý špenát?",
+      "a": "Ano, potřebuješ asi 1 kg. Spař ho a vymačkej, jinak by plnka byla příliš vodnatá."
+    },
+    {
+      "q": "Proč mi filo těsto praská?",
+      "a": "Příliš suché těsto. Rozmrazuj ho pomalu v lednici a vždy ho při práci přikryj vlhkou utěrkou."
+    },
+    {
+      "q": "Jde spanakopita zmrazit?",
+      "a": "Jde. Upeč a zcela vychladlý koláč zmraz po porcích. Rozmrazuj v lednici a prohřej v troubě."
+    }
+  ]
+}

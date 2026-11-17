@@ -1,0 +1,87 @@
+{
+  "title": "Tarte Tatin",
+  "keywords": [
+    "tarte tatin",
+    "tarte tatin recept",
+    "obrácený jablečný koláč",
+    "francouzský jablečný koláč"
+  ],
+  "image": "dish-tarte-tatin-kolac-na-slib",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 45,
+  "waitMinutes": 15,
+  "waitLabel": "chladnutí koláče",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Tarte Tatin je francouzský obrácený jablečný koláč: jablka se karamelizují v másle a cukru a přikryjí se těstem. Po upečení se koláč převrátí, takže karamel je nahoře. Rozhoduje barva karamelu a pevná jablka.",
+  "ingredients": [
+    {
+      "ingredient": "jablko",
+      "amount": 8,
+      "unit": "ks",
+      "note": "pevná, na čtvrtky"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "listove-testo",
+      "amount": 275,
+      "unit": "g",
+      "note": "1 plát"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 190 °C). Jablka oloupej, rozděl na čtvrtky a odstraň jádřince."
+    },
+    {
+      "text": "Do pánve vhodné do trouby o průměru 24 cm dej cukr s lžící vody a nech na středním plameni zhnědnout do jantarova. Přidej máslo, skořici a jablka a duš 10 minut, až jsou mírně měkká."
+    },
+    {
+      "text": "Přikryj plátem těsta, okraje zasuň dovnitř a propíchej vidličkou. Peč 25 minut, až je těsto zlaté."
+    },
+    {
+      "text": "Nech 10 minut chladnout, pak obtáhni nožem okraj a převrať na talíř. Podávej teplý."
+    }
+  ],
+  "tips": [
+    "Karamel nemíchej, jen pánví točíš, jinak krystalizuje.",
+    "Jablka skládej těsně, při pečení se scvrknou.",
+    "Koláč převracej, dokud je teplý, jinak se karamel přilepí."
+  ],
+  "substitutions": [
+    "Jablka můžeš nahradit hruškami.",
+    "Listové těsto lze nahradit křehkým.",
+    "Máslo nahradí margarín."
+  ],
+  "faq": [
+    {
+      "q": "Jaká jablka se hodí na tarte tatin?",
+      "a": "Pevná a trochu kyselá, která drží tvar."
+    },
+    {
+      "q": "Proč se mi karamel pálí?",
+      "a": "Plamen je moc silný. Vař na středním a sleduj barvu."
+    },
+    {
+      "q": "Dá se tarte tatin ohřát?",
+      "a": "Ano, 10 minut na 160 °C."
+    }
+  ]
+}

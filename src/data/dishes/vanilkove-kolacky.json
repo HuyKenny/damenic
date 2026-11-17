@@ -1,0 +1,25 @@
+{
+  "name": "Vanilkové koláčky s krémem, 2 ks",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Dva měkké koláčky s vanilkovým máslovým krémem uvnitř.",
+  "about": [
+    "Vanilkové koláčky jsou měkké, vláčné a uvnitř mají vanilkový krém. Klobouček se seřízne a po naplnění nasadí zpět.",
+    "Pár pravidel stačí: stejné teploty surovin a krátké míchání. Nedortík nic nedoveze, krém v receptu ale zvládne každý."
+  ],
+  "price": 5900,
+  "image": "dish-vanilkove-kolacky",
+  "recipe": "vanilkove-kolacky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 412
+}

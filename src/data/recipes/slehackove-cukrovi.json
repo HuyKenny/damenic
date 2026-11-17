@@ -1,0 +1,140 @@
+{
+  "title": "Šlehačkové cukroví",
+  "keywords": [
+    "šlehačkové cukroví",
+    "šlehačkové cukroví recept",
+    "recept na šlehačkové cukroví",
+    "cukroví se smetanou",
+    "vánoční cukroví recepty"
+  ],
+  "intro": "Šlehačkové cukroví je jemné máslové těsto, do kterého se místo vajec přidává tekutá smetana ke šlehání. Kolečka se po upečení slepují vanilkovým máslovým krémem. Z dávky vyjde asi 60 slepených kousků. Těžké je udržet těsto studené a nepřepéct kolečka, aby zůstala světlá a křehká.",
+  "image": "dish-slehackove-cukrovi",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 75,
+  "cookMinutes": 24,
+  "waitMinutes": 60,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 100,
+      "unit": "ml",
+      "note": "studená, nenašlehaná",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen žloutek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "měkké, pokojové teploty",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 90,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Krém"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "V míse promíchej mouku, 60 g moučkového cukru a sůl. Přidej studené máslo na kostičky a prsty nebo hákem robota ho zpracuj do drobenky."
+    },
+    {
+      "section": "Těsto",
+      "text": "Přidej žloutek a 100 ml studené smetany a těsto krátce spoj. Zabal ho do fólie, rozděl na dvě poloviny a nech 1 hodinu odpočinout v lednici."
+    },
+    {
+      "section": "Vykrajování",
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 165 °C). Těsto vyvaluj na pomoučené desce na tloušťku 3 mm, vykrájej kolečka o průměru 4 cm a klaď je na plech vyložený pečicím papírem."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 10 až 12 minut jeden plech po druhém. Kolečka jsou hotová, když mají světlý vršek a lehce zlatý okraj; tmavá jsou suchá. Nech je na plechu 5 minut a pak přendej na mřížku."
+    },
+    {
+      "section": "Krém",
+      "text": "Měkké máslo našlehej s moučkovým a vanilkovým cukrem do světlého krému a zašlehej 20 ml smetany. Krém musí držet tvar; když je řídký, dej ho na 10 minut do lednice."
+    },
+    {
+      "section": "Slepení",
+      "text": "Vychladlá kolečka slep po dvou: na spodní polož nebo vystříkni asi 1 čajovou lžičku krému a přikryj druhým. Cukroví nech v lednici ztuhnout aspoň na 2 hodiny."
+    }
+  ],
+  "tips": [
+    "Z dávky vyjde asi 120 koleček, tedy asi 60 slepených kousků. Tloušťku těsta hlídej pravítkem, tenčí kolečka se rozbíjejí a silnější se pečou nerovnoměrně.",
+    "Pokud se těsto lepí na válek, vrať ho na 15 minut do lednice nebo ho vyvaluj mezi dvěma kusy pečicího papíru.",
+    "Slepené cukroví skladuj v uzavřené dóze v lednici. Vydrží 5 až 7 dní, protože obsahuje krém s máslem."
+  ],
+  "substitutions": [
+    "Vanilkový krém můžeš nahradit rybízovým džemem, pak cukroví vydrží v chladu až 3 týdny.",
+    "Máslo v těstě nahraď stejným množstvím rostlinného másla (bloková varianta), získáš cukroví bez mléka; smetanu v těstě nahraď ovesnou k šlehání."
+  ],
+  "faq": [
+    {
+      "q": "Proč se šlehačkové cukroví rozpadá?",
+      "a": "Nejčastěji je těsto příliš teplé nebo se hnětlo moc dlouho a máslo se v něm rozpustilo. Zpracuj ho rychle, nech ho odpočinout v lednici a vykrajuj po částech."
+    },
+    {
+      "q": "Jak dlouho vydrží šlehačkové cukroví?",
+      "a": "Neslepená kolečka vydrží v dóze 2 až 3 týdny. Slepená s máslovým krémem 5 až 7 dní v lednici, před podáváním je nech 15 minut při pokojové teplotě."
+    },
+    {
+      "q": "Kdy péct šlehačkové cukroví před Vánoci?",
+      "a": "Nejlépe poslední týden před svátky, protože krém nevydrží tak dlouho jako suché cukroví. Kolečka můžeš upéct dřív a slepit až 2 dny předem."
+    }
+  ]
+}

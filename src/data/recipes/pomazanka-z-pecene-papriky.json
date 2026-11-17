@@ -1,0 +1,105 @@
+{
+  "title": "Pomazánka z pečené papriky",
+  "keywords": [
+    "pomazánka z pečené papriky",
+    "pomazánka z pečených paprik",
+    "paprikova pomazanka",
+    "pomazánka z pečené papriky a sýra",
+    "pomazánka z červené papriky"
+  ],
+  "image": "dish-pomazanka-z-pecene-papriky",
+  "category": "sendvice",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 30,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí papriky",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Pomazánka z pečené papriky je krémová oranžovo-červená pomazánka ze smetanového sýra a oloupané papriky. Papriky se nejdřív opečou do ztmavlé slupky, která se pak snadno sloupne, a právě tím vznikne sladká kouřová chuť. Vyjde asi 300 g pomazánky, tedy náplň na dvacet chlebíčků nebo krajíc pro čtyři.",
+  "ingredients": [
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 3,
+      "unit": "ks",
+      "note": "masité, asi 600 g"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 15,
+      "unit": "ml",
+      "note": "1 lžíce"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "g",
+      "note": "čerstvě mletý"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 230 °C (horkovzduch 210 °C). Papriky omyj, osuš a celé ulož na plech s pečicím papírem."
+    },
+    {
+      "text": "Peč 25 až 30 minut a v polovině je obrať. Slupka má být místy začernalá a papriky povadlé."
+    },
+    {
+      "text": "Horké papriky ihned dej do mísy, přikryj talířem nebo je vlož do uzavíratelného sáčku a nech 15 minut zapařit. Slupka se pak sloupne sama."
+    },
+    {
+      "text": "Papriky oloupej, odstraň stopky i semínka a dužinu nech chvíli odkapat v sítu. Šťávu nevyhazuj, můžeš ji použít do polévky."
+    },
+    {
+      "text": "Dužinu nasekej nebo rozmixuj, smíchej se smetanovým sýrem, česnekem, olejem, citronovou šťávou, solí a pepřem. Dochuť a nech aspoň 30 minut odležet v lednici."
+    }
+  ],
+  "tips": [
+    "Papriky nech po upečení opravdu zapařit. Jinak se slupka lepí a loupání zabere dvojnásobek času.",
+    "Dužinu nech odkapat, jinak bude pomazánka tekutá a nedrží na chlebu.",
+    "Pro hrubší strukturu papriku jen nasekej nožem, pro hladký krém ji rozmixuj tyčovým mixérem.",
+    "Pomazánka vydrží v uzavřené misce v lednici 4 dny."
+  ],
+  "substitutions": [
+    "Smetanový sýr lze nahradit tvarohem rozmíchaným s lžící oleje.",
+    "Pro pikantní variantu přidej půl lžičky chilli vloček nebo kapku ostré omáčky.",
+    "Když nechceš péct, použij 250 g hotové grilované papriky z chlazeného pultu, dobře odkapané."
+  ],
+  "faq": [
+    {
+      "q": "Jak oloupat pečenou papriku?",
+      "a": "Horkou papriku nech 15 minut zapařit v mísce přikryté talířem. Pak se slupka sloupne téměř sama, zbytky setřeš prstem."
+    },
+    {
+      "q": "Jak dlouho vydrží pomazánka z pečené papriky?",
+      "a": "V uzavřené misce v lednici vydrží 4 dny. Mrazit ji nedoporučuji, sýr se pak rozděluje."
+    },
+    {
+      "q": "Čím se pomazánka z papriky dá ochutit?",
+      "a": "Dobře ladí česnek, citron, pažitka a špetka uzené papriky. Pro pikantnější verzi přidej chilli."
+    }
+  ]
+}

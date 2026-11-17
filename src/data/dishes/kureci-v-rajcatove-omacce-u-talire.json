@@ -1,0 +1,20 @@
+{
+  "name": "Kuřecí na rajčatech",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "description": "Dušené kuřecí v hustě rajčatové omáčce s oreganem a česnekem. K tomu rýže, kterou si uvaříš.",
+  "about": [
+    "Kuřecí na rajčatech je jídlo z jedné pánve: maso se opeče a pak se dusí v omáčce, dokud nezhoustne. Doma ho uděláš za tři čtvrtě hodiny.",
+    "U prázdného talíře ti ho nepřineseme, ale talíř je připravený a recept čeká. Rýže uvař sám."
+  ],
+  "price": 19900,
+  "image": "dish-kureci-v-rajcatove-omacce-u-talire",
+  "recipe": "kureci-v-rajcatove-omacce",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "order": 190
+}

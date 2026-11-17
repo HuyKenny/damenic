@@ -1,0 +1,24 @@
+{
+  "name": "Bliny se zakysanou smetanou",
+  "restaurant": "livancarna-az-zitra",
+  "kind": "main",
+  "section": "Pancakes",
+  "description": "Měkké kynuté palačinky podávané se zakysanou smetanou a koprem.",
+  "about": [
+    "Bliny jsou starší než většina lívanců, které znáš. Těsto kyne hodinu, pak se peče tenká vrstva na pánvi, a výsledek je nadýchaný, trochu kyselý a vonící po kvasnicích.",
+    "Pánev je prázdná, těsto kyne jen v receptu. Počkej, než nastoupí, nebo ho jen pořádně popožeň."
+  ],
+  "price": 12900,
+  "image": "dish-bliny",
+  "recipe": "bliny",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 919
+}

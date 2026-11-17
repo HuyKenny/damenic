@@ -1,0 +1,24 @@
+{
+  "name": "Tonkatsu s japonským zelím",
+  "restaurant": "sushi-bez-zrnka",
+  "kind": "main",
+  "section": "Misky a teplá jídla",
+  "description": "Křupavý vepřový řízek v panko, nakrájený na proužky, se zelím a omáčkou.",
+  "about": [
+    "Tonkatsu je řízek, který se v Japonsku nakrájí hned po usmažení, aby se dal jíst hůlkami. Panko zůstává suché a křupavé, protože je hrubé a nenasákne tolik oleje.",
+    "Zelí se krájí tence a podává studené, aby kontrast tuku zůstal čistý. Kurýr dnes nedorazí, pánev ale ano."
+  ],
+  "price": 21900,
+  "image": "dish-tonkatsu",
+  "recipe": "tonkatsu",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    6
+  ],
+  "featured": false,
+  "order": 920
+}

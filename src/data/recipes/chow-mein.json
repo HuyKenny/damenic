@@ -1,0 +1,136 @@
+{
+  "title": "Chow mein",
+  "keywords": [
+    "chow mein",
+    "chow mein recept",
+    "chow mein s kuřecím masem",
+    "smažené nudle chow mein"
+  ],
+  "image": "dish-chow-mein",
+  "category": "asijska",
+  "vegetarian": false,
+  "servings": 3,
+  "activeMinutes": 20,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Chow mein jsou smažené vaječné nudle s kuřecím masem a zeleninou. Nudle se nejdřív povaří a pak opékají na rozpálené pánvi, aby získaly zlatavé okraje. Celé jídlo se dělá za 30 minut, všechno musí být předem nakrájené.",
+  "ingredients": [
+    {
+      "ingredient": "nudle-vajecne",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 250,
+      "unit": "g",
+      "note": "na tenké proužky"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "na tenké proužky"
+    },
+    {
+      "ingredient": "zeli-pekingske",
+      "amount": 200,
+      "unit": "g",
+      "note": "nakrájené na proužky"
+    },
+    {
+      "ingredient": "fazolove-klicky",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 3,
+      "unit": "ks",
+      "note": "na kousky"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "omáčka"
+    },
+    {
+      "ingredient": "ustricova-omacka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "omáčka"
+    },
+    {
+      "ingredient": "olej-sezamovy",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nudle uvař podle obalu o 1 minutu méně, propláchni studenou vodou a smíchej s lžičkou oleje, aby se nelepily. Maso smíchej se škrobem a lžičkou sójovky."
+    },
+    {
+      "text": "Sójovku, ústřicovou omáčku a sezamový olej rozmíchej v misce."
+    },
+    {
+      "text": "Wok nebo velkou pánev rozpal na vysoký plamen, přidej 1 lžíci oleje a kuře smaž 3 až 4 minuty, až je zlatavé a propečené (min. 75 °C). Přendej na talíř."
+    },
+    {
+      "text": "Do dalšího oleje dej česnek a zázvor na 20 vteřin, pak mrkev, zelí a klíčky. Smaž 2 až 3 minuty, zelenina má zůstat křupavá."
+    },
+    {
+      "text": "Přidej nudle a omáčku, vrať maso a míchej 2 až 3 minuty, až se nudle obalí a lehce zhnědnou. Přisyp jarní cibulku a podávej."
+    }
+  ],
+  "tips": [
+    "Wok nepřeplňuj, smaž po částech. Přeplněný wok udusí zeleninu místo smažení.",
+    "Všechno nakrájej předem, smaží se rychle a nebude čas.",
+    "Studené nudle se smaží lépe než čerstvě uvařené."
+  ],
+  "substitutions": [
+    "Kuřecí nahraď tofu nebo krevetami. Ústřicovou omáčku lze nahradit sójovou s trochou cukru.",
+    "Pekingské zelí vyměň za bílé nebo čínské zelí pak-choi."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi chow mein a lo mein?",
+      "a": "Chow mein se smaží a nudle jsou lehce křupavé, lo mein se jen míchají v omáčce a jsou měkčí."
+    },
+    {
+      "q": "Jaké nudle se používají na chow mein?",
+      "a": "Vaječné nudle, čerstvé nebo sušené. Dobře fungují i pšeničné nudle jiného druhu."
+    },
+    {
+      "q": "Proč se mi nudle lepí?",
+      "a": "Nebyly propláchnuté nebo naolejované po uvaření. Propláchni je studenou vodou a smíchej s lžičkou oleje."
+    }
+  ]
+}

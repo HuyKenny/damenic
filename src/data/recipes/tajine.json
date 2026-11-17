@@ -1,0 +1,144 @@
+{
+  "title": "Tajine s kuřetem, olivami a citronem",
+  "keywords": [
+    "tajine",
+    "tajine recept",
+    "tajine s kuřecím masem",
+    "marocké kuře s olivami a citronem"
+  ],
+  "image": "dish-tajine",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 60,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Tajine je marocký pokrm dušený pod pokličkou, v tomhle případě kuřecí stehna s olivami, citronem a kořením. Obejdeš se bez speciální kameninové nádoby, stačí pekáč nebo hrnec s těžkou pokličkou a dost trpělivosti.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna-s-kosti",
+      "amount": 1000,
+      "unit": "g",
+      "note": "4 stehna, kůži nech"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 300,
+      "unit": "g",
+      "note": "na půlměsíce"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "rozdrcený"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 15,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "kurkuma",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "mletý"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "olivy",
+      "amount": 100,
+      "unit": "g",
+      "note": "zelené, bez pecek"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "koriandr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "svazek, nasekaný"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuřecí stehna osol, potři kurkumou, paprikou, kmínem, skořicí a zázvorem. Nech 20 minut odpočinout při pokojové teplotě, nebo až 12 hodin v lednici."
+    },
+    {
+      "text": "V široké pánvi nebo pekáči rozehřej olej na středním až vyšším plameni a stehna opékej 4 minuty z každé strany do zlatova. Vyndej je na talíř."
+    },
+    {
+      "text": "Do tuku dej cibuli a opékej ji 6 minut, až změkne, přidej česnek na 30 vteřin. Přilij vývar, vmíchej med a vlož stehna kůží nahoru."
+    },
+    {
+      "text": "Přikryj pokličkou a duš na mírném plameni 40 minut. Přidej olivy a plátky citronu, odkryj a duš dalších 15 až 20 minut, až se omáčka zredukuje a maso se odděluje od kosti. Uvnitř musí mít nejméně 75 °C."
+    },
+    {
+      "text": "Posyp koriandrem a podávej s kuskusem, chlebem nebo rýží."
+    }
+  ],
+  "tips": [
+    "Citron krájej na tenké plátky a odstraň semena, jinak zhořkne.",
+    "Pro intenzivnější chuť nech maso marinovat přes noc v lednici.",
+    "Tajine je lepší druhý den. Vydrží 3 dny v lednici, prohřívej pomalu pod pokličkou."
+  ],
+  "substitutions": [
+    "Olivy můžeš nahradit sušenými meruňkami nebo švestkami, vznikne sladší varianta.",
+    "Stehna lze nahradit kuřecími prsy, ale vař je kratší dobu, asi 25 minut, aby nezevšedněla."
+  ],
+  "faq": [
+    {
+      "q": "Potřebuji na tajine speciální nádobu?",
+      "a": "Nepotřebuješ. Stačí pekáč nebo litinový hrnec s těžkou pokličkou, která udrží páru."
+    },
+    {
+      "q": "Jak dlouho se tajine s kuřetem dusí?",
+      "a": "Stehna na kosti potřebují asi 55 až 60 minut na mírném plameni. Hotová jsou při 75 °C uvnitř a maso se odděluje od kosti."
+    },
+    {
+      "q": "Čím se tajine podává?",
+      "a": "Klasicky s kuskusem nebo plackovým chlebem. Hodí se i rýže nebo opečené brambory."
+    }
+  ]
+}

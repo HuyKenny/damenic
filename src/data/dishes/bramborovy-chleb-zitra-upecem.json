@@ -1,0 +1,20 @@
+{
+  "name": "Bramborový chléb",
+  "restaurant": "pekarna-zitra-upecem",
+  "kind": "main",
+  "section": "Máslové a slané",
+  "price": 8900,
+  "description": "Vláčný chléb s bramborami a kmínem, který zůstane měkký několik dní.",
+  "about": [
+    "Brambory dělají z chleba měkký bochník, který nevysychá. Střídka je jemná a kůrka tenká.",
+    "Pec máme rozpálenou, ale dnes jen na recept. Kynutí zvládneš i ty."
+  ],
+  "recipe": "bramborovy-chleb",
+  "image": "dish-bramborovy-chleb-zitra-upecem",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "order": 310
+}

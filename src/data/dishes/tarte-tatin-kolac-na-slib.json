@@ -1,0 +1,21 @@
+{
+  "name": "Tarte Tatin",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "price": 12900,
+  "description": "Obrácený jablečný koláč s karamelem z másla a cukru.",
+  "about": [
+    "Tarte Tatin se peče vzhůru nohama: jablka v karamelu leží dole a těsto navrch. Po upečení se převrátí a karamel se rozlije.",
+    "Převrácení je moment pravdy. Ten náš je smyšlený, ale ten tvůj bude hotový za hodinu."
+  ],
+  "recipe": "tarte-tatin",
+  "image": "dish-tarte-tatin-kolac-na-slib",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 310
+}

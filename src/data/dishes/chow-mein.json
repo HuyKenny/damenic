@@ -1,0 +1,25 @@
+{
+  "name": "Chow mein s kuřecím masem",
+  "restaurant": "wok-nic-moc",
+  "kind": "main",
+  "section": "Nudle",
+  "description": "Smažené vaječné nudle s kuřecím, mrkví, zelím a výhonky v sójové omáčce.",
+  "about": [
+    "Chow mein znamená smažené nudle a nic víc není potřeba vysvětlovat. Zelenina je křupavá, maso propečené a nudle mají na okrajích zlatavé kousky.",
+    "Wok má prázdné dno, ale máš recept. Úspěch spočívá v přípravě: když je všechno nakrájené, smaží se to samo."
+  ],
+  "price": 17900,
+  "image": "dish-chow-mein",
+  "recipe": "chow-mein",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    6,
+    14
+  ],
+  "featured": false,
+  "order": 923
+}

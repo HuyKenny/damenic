@@ -1,0 +1,26 @@
+{
+  "name": "Masarykovo cukroví, 5 ks",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Cukroví",
+  "description": "Lískooříškové těsto slepené rybízovým džemem a namočené v čokoládě, 5 ks.",
+  "about": [
+    "Masarykovo cukroví je ořechová klasika: máslové těsto s mletými lískovými ořechy, vrstva rybízového džemu a hořká čokoláda na polovině. Dvě kolečka, jedna dírka a džem, který z ní zasvítí.",
+    "Dáváš ho do krabice po dvou dnech, aby džem změkčil těsto. U nás krabice nedorazí, ale recept dopadne: těsto studené, kolečka světlá a čokoláda zakalená jen na okrajích."
+  ],
+  "price": 10900,
+  "image": "dish-masarykovo-cukrovi",
+  "recipe": "masarykovo-cukrovi",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 401
+}

@@ -1,0 +1,130 @@
+{
+  "title": "Košíčky cukroví s ořechovou náplní",
+  "keywords": [
+    "košíčky cukroví",
+    "košíčky cukroví recept",
+    "ořechové košíčky",
+    "linecké košíčky s ořechy",
+    "vánoční cukroví recepty"
+  ],
+  "intro": "Košíčky cukroví jsou malé křehké kelímky z lineckého těsta s ořechovou náplní. Z dávky vyjde asi 40 kousků. Těžké je tvarovat těsto do formiček stejně tenké a náplň uvařit tak, aby po vychladnutí držela tvar a nevytékala.",
+  "image": "dish-kosicky-cukrovi",
+  "category": "dezerty",
+  "servings": 8,
+  "activeMinutes": 90,
+  "cookMinutes": 20,
+  "waitMinutes": 90,
+  "waitLabel": "odpočinek těsta a tuhnutí náplně",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 170,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen žloutek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 150,
+      "unit": "g",
+      "note": "jemně mleté",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 80,
+      "unit": "ml",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "med",
+      "amount": 20,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 50,
+      "unit": "g",
+      "group": "Dozdobení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Z mouky, másla, moučkového cukru a žloutku rychle vypracuj hladké těsto. Zabal ho a nech 1,5 hodiny v lednici."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 160 °C). Z těsta tvaruj kuličky o váze asi 10 g, vtlač je palcem do vymazaných mini formiček o průměru 4 cm a stěny vytlač stejně tenké, asi 2 mm."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč prázdné košíčky 12 až 14 minut do světle zlatavé barvy. Nech je 5 minut ve formičkách, pak je opatrně vyklop na mřížku a nech zcela vychladnout."
+    },
+    {
+      "section": "Náplň",
+      "text": "Ve středním rendlíku zahřej cukr, smetanu a med na mírném ohni, dokud se cukr nerozpustí. Přidej mleté ořechy a za stálého míchání vař 2 až 3 minuty, až se hmota zahustí. Nech 10 minut zchladnout."
+    },
+    {
+      "section": "Plnění",
+      "text": "Teplou náplň naplň lžičkou do košíčků a nech 1 hodinu ztuhnout. Čokoládu rozpusť ve vodní lázni a čajovou lžičkou ozdob vršek každého košíčku."
+    }
+  ],
+  "tips": [
+    "Z dávky vyjde asi 40 košíčků. Formičky vymaž máslem a vysyp moukou, košíčky se pak snadno vyklopí.",
+    "Když se těsto trhá, nech ho 5 minut zteplat na pokojovou teplotu. Když se lepí, vrať ho na 15 minut do lednice.",
+    "Skladuj v dóze v chladu. Vydrží 2 týdny, díky náplni s ořechy a smetanou ale nemá zůstat na teplém místě."
+  ],
+  "substitutions": [
+    "Vlašské ořechy nahraď lískovými nebo mandlemi.",
+    "Med v náplni nahraď javorovým sirupem.",
+    "Smetanu ke šlehání nahraď stejným množstvím kondenzovaného mléka neslazeného, náplň bude jemnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak vyklopit košíčky z formiček?",
+      "a": "Nech je po upečení 5 minut zchladnout a lehce zaklepej formičkou o desku. Vymazaná a pomoučená formička pomůže, jinak košíček drží na stěně."
+    },
+    {
+      "q": "Čím plnit košíčky na cukroví?",
+      "a": "Osvědčila se ořechová náplň z mletých ořechů, smetany a medu. Můžeš použít i rybízový džem nebo krém z vařeného pudinku, ten ale vydrží jen v lednici."
+    },
+    {
+      "q": "Jak dlouho vydrží košíčky cukroví?",
+      "a": "S ořechovou náplní asi 2 týdny v uzavřené dóze v chladu. S krémem na bázi mléka nebo másla jen 4 až 5 dní v lednici."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Meruňkový koláč, dílek",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "description": "Vláčný koláč z třeného těsta s půlenými meruňkami, dílek z formy 26 cm.",
+  "about": [
+    "Meruňkový koláč je letní klasika: vláčné těsto, které se schová pod půlené meruňky. Šťáva z ovoce se při pečení vsákne a vznikne lehce navlhlý střed.",
+    "V naší cukrárně se koláč krájí jen ve vzduchu. Doma ale cukr s meruňkami vytvoří lesklou kůrku a z formy zbude jen jedna špejle na ochutnání."
+  ],
+  "price": 7900,
+  "image": "dish-merunkovy-kolac",
+  "recipe": "merunkovy-kolac",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 404
+}

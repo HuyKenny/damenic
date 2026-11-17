@@ -1,0 +1,22 @@
+{
+  "name": "Clafoutis s višněmi",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "price": 10900,
+  "description": "Francouzský pudinkový koláč s višněmi, posypaný moučkovým cukrem.",
+  "about": [
+    "Clafoutis je řídké těsto zalité na ovoce a upečené, takže vznikne cosi mezi koláčem a pudinkem. Je jemný a bez složitostí.",
+    "Hodí se, i když nemáš chuť na nic složitého. Chybí jen koláč, zbytek máš na lince."
+  ],
+  "recipe": "clafoutis",
+  "image": "dish-clafoutis-kolac-na-slib",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 320
+}

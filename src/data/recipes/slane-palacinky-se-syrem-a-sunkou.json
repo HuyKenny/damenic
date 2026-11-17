@@ -1,0 +1,119 @@
+{
+  "title": "Slané palačinky se sýrem a šunkou",
+  "keywords": [
+    "slané palačinky se sýrem a šunkou",
+    "slané palačinky",
+    "slané palačinky recept",
+    "palačinky se šunkou a sýrem",
+    "zapečené slané palačinky"
+  ],
+  "image": "dish-slane-palacinky-se-syrem-a-sunkou",
+  "category": "palacinky",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 10,
+  "waitMinutes": 20,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Slané palačinky se sýrem a šunkou jsou tenké palačinky, které se plní plátkem šunky a strouhaným eidamem a pár minut se zapečou v troubě. Vychází asi osm kusů, tedy čtyři porce k obědu. Aby těsto nebylo sladké a sýr se krásně rozpustil, stačí správné množství soli v těstě a horká trouba.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 160,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 350,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "do těsta"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 30,
+      "unit": "ml",
+      "note": "do těsta a na pánev"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 160,
+      "unit": "g",
+      "note": "8 plátků"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 200,
+      "unit": "g",
+      "note": "strouhaný, polovina na zapečení"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na vymazání formy"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku, sůl, mléko, vejce a 1 lžíci oleje (15 ml) rozšlehej v míse do hladkého těsta bez hrudek. Nech 20 minut odpočinout."
+    },
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C) a velkou zapékací mísu vymaž máslem."
+    },
+    {
+      "text": "Na rozpálené pánvi o průměru 24 cm potřené olejem peč palačinky po 1 minutě z každé strany, dokud nejsou na okrajích lehce zlatavé. Nepřepékej, zůstanou ohebné."
+    },
+    {
+      "text": "Na každou palačinku polož plátek šunky a hrst strouhaného sýra (dohromady asi 100 g). Zabal ji do roličky nebo trojúhelníku."
+    },
+    {
+      "text": "Palačinky ulož těsně vedle sebe do formy, posyp zbylým sýrem a zapékej 8 až 10 minut, dokud se sýr nerozpustí a nezačne zlátnout."
+    },
+    {
+      "text": "Posyp pažitkou a podávej horké. Hotové jídlo vydrží v lednici do druhého dne a ohřeje se v troubě."
+    }
+  ],
+  "tips": [
+    "Sůl je u slaných palačinek nutná. Nepřidávej cukr, jinak chutnají po dezertu.",
+    "Eidam na zapékání bývá lepší hrubě nastrouhaný, taje pomaleji a nepřipálí se.",
+    "Palačinky můžeš upéct dopředu a plnit je až před zapečením. Ušetříš čas, když máš hosty.",
+    "Použij pánev, kterou na palačinky máš. Na nové pánvi s vrstvou oleje se těsto obvykle lepí méně."
+  ],
+  "substitutions": [
+    "Šunku vyměň za uzený tofu nebo plátky pečené zeleniny, pokud nechceš maso.",
+    "Eidam jde nahradit goudou, ementálem nebo směsí sýrů; sýr, který dobře taje, je správný.",
+    "Do těsta lze přidat 50 ml perlivé vody místo mléka, palačinky budou tenčí a křehčí."
+  ],
+  "faq": [
+    {
+      "q": "Jaké těsto je na slané palačinky nejlepší?",
+      "a": "Stejné jako na sladké, jen místo cukru dej do těsta sůl. Poměr 160 g mouky, 350 ml mléka a 2 vejce dává tenké ohebné palačinky."
+    },
+    {
+      "q": "Dají se slané palačinky zapéct předem?",
+      "a": "Ano. Naplněné palačinky nech v lednici do druhého dne a pak je zapékej 12 až 15 minut, protože jsou studené."
+    },
+    {
+      "q": "Čím se dají slané palačinky plnit kromě šunky?",
+      "a": "Hodí se špenát se sýrem, houbová směs, kuřecí maso s paprikou nebo tvaroh s bylinkami. Náplň má být spíš sušší, aby palačinka nezvlhla."
+    }
+  ]
+}

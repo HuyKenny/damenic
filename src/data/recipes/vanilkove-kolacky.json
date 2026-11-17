@@ -1,0 +1,144 @@
+{
+  "title": "Vanilkové koláčky s krémem",
+  "keywords": [
+    "vanilkové koláčky",
+    "vanilkové koláčky recept",
+    "vanilkové koláčky s krémem",
+    "recept na vanilkové koláčky",
+    "malé vanilkové koláčky"
+  ],
+  "intro": "Vanilkové koláčky jsou měkké mini koláčky pečené v košíčkách, které se po vychladnutí přeříznou a naplní vanilkovým máslovým krémem. Z dávky jich vyjde 12. Těžké je nepřepéct je a krém našlehat tak, aby držel tvar.",
+  "image": "dish-vanilkove-kolacky",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 40,
+  "cookMinutes": 22,
+  "waitMinutes": 60,
+  "waitLabel": "chladnutí před plněním",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "měkké",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 8,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 60,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vanilka-lusk",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen dřeň",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 120,
+      "unit": "g",
+      "note": "měkké",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 10,
+      "unit": "g",
+      "group": "Posyp"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 165 °C). Do formy na 12 muffinů vlož papírové košíčky. Máslo ušlehej s cukrem, vanilkovým cukrem a dření z lusku do světlé pěny."
+    },
+    {
+      "section": "Těsto",
+      "text": "Po jednom zašlehej 3 vejce. Mouku smíchej s kypřicím práškem a střídavě s mlékem zapracuj do těsta jen do spojení."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto rozděl do košíčků do tří čtvrtin výšky a peč 20 až 22 minut. Špejle zapíchnutá do středu má vyjít čistá. Nech je 5 minut ve formě a pak vychladit na mřížce."
+    },
+    {
+      "section": "Krém",
+      "text": "Máslo šlehej 5 minut do světla, po částech přidávej moučkový cukr a nakonec mléko. Krém musí držet tvar."
+    },
+    {
+      "section": "Plnění",
+      "text": "Seřízni z koláčků vršek do hloubky 1,5 cm jako klobouček, naplň krémem a nasaď zpět. Poprášit moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Všechny suroviny na těsto musí mít pokojovou teplotu, těsto se jinak sráží a koláčky jsou hutné.",
+    "Těsto nešlehej po přidání mouky. Koláčky by byly tuhé a s tunely.",
+    "Skladuj v lednici 3 dny, před podáváním je nech 20 minut zteplat."
+  ],
+  "substitutions": [
+    "Vanilkový lusk nahraď 1 čajovou lžičkou vanilkového extraktu, nebo druhým sáčkem vanilkového cukru.",
+    "Máslo v těstě nahraď 120 ml oleje, koláčky budou vláčnější.",
+    "Máslový krém nahraď stejným množstvím mascarpone se 30 g moučkového cukru."
+  ],
+  "faq": [
+    {
+      "q": "Proč koláčky spadly?",
+      "a": "Troubu jsi otevřel před koncem pečení nebo bylo těsto příliš tekuté. Troubu neotvírej alespoň prvních 15 minut."
+    },
+    {
+      "q": "Jak dlouho se pečou vanilkové koláčky?",
+      "a": "Při 175 °C asi 20 až 22 minut. Jsou hotové, když špejle vyjde čistá a vršek lehce pruží."
+    },
+    {
+      "q": "Jak dlouho vydrží vanilkové koláčky s krémem?",
+      "a": "V lednici 3 dny. Bez krému vydrží při pokojové teplotě 2 dny v uzavřené dóze."
+    }
+  ]
+}

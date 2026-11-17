@@ -1,0 +1,128 @@
+{
+  "title": "Kuřecí v rajčatové omáčce",
+  "keywords": [
+    "kuřecí v rajčatové omáčce",
+    "kuřecí na rajčatech",
+    "kuřecí v rajčatové omáčce recept",
+    "kuřecí stehna v rajčatové omáčce",
+    "kuřecí maso na rajčatové omáčce"
+  ],
+  "image": "dish-kureci-v-rajcatove-omacce",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Kuřecí v rajčatové omáčce je pánvové jídlo z jednoho hrnce: maso se opeče a potom dusí v rajčatech s cibulí a česnekem. Omáčka z passaty a protlaku zhoustne za půl hodiny a chutná výrazně, bez cukru by ale byla kyselá. Maso je hotové při 75 °C uvnitř.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 800,
+      "unit": "g",
+      "note": "stehenní řízky bez kosti, na větší kousky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisované"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na zjemnění kyselosti"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "listy na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso osol a opepři. V hlubší pánvi rozehřej olej na vyšším plameni a kousky opékej po 3 až 4 minutách z každé strany, dokud nezezlátnou. Přendej je na talíř."
+    },
+    {
+      "text": "Do pánve dej cibuli a duš ji 4 minuty na středním plameni. Přidej česnek a papriku, po 30 sekundách vmíchej protlak a nech ho minutu opražit."
+    },
+    {
+      "text": "Přilij passatu, přidej oregano, cukr a promíchej. Vrať do pánve maso i šťávu z talíře, omáčku přiveď k bublání a sniž plamen."
+    },
+    {
+      "text": "Přikryj a duš 20 až 25 minut, občas promíchej. Pak sundej poklici a vař 5 minut, dokud omáčka nezhoustne. Maso musí mít 75 °C a omáčka má obalovat lžíci."
+    },
+    {
+      "text": "Dochuť solí, pepřem nebo cukrem a posyp bazalkou. Podávej s rýží, těstovinami nebo bramborovou kaší."
+    }
+  ],
+  "tips": [
+    "Stehenní maso odpustí delší dušení, prsa by se roztrhala a vyschla. Prsa duš nejvýš 12 minut.",
+    "Passata hotové jídlo zjemní víc než rajčata z plechovky. Pokud je omáčka kyselá, přidej další lžičku cukru nebo kousek másla.",
+    "Omáčka je druhý den chuťově ještě lepší a v lednici se drží 3 dny."
+  ],
+  "substitutions": [
+    "Místo passaty použij 400 g loupaných rajčat z plechovky, rozmačkaných vidličkou.",
+    "Do omáčky přisyp olivy nebo kapary pro středomořský ráz.",
+    "Kuřecí maso nahraď krůtími stehny, dusí se asi 10 minut déle."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho dusit kuřecí v rajčatové omáčce?",
+      "a": "Stehenní řízky se dusí 20 až 25 minut pod pokličkou. Maso je hotové při 75 °C uvnitř, prsní kousky stačí 10 až 12 minut."
+    },
+    {
+      "q": "Jak zahustit rajčatovou omáčku?",
+      "a": "Nechej ji několik minut vařit bez poklice. Krátká ztráta vody omáčku zhustí, mouku ani škrob proto nepotřebuješ."
+    },
+    {
+      "q": "Dá se kuřecí v rajčatové omáčce zamrazit?",
+      "a": "Ano, vydrží zamražené až 2 měsíce. Rozmraz ho v lednici přes noc a ohřej na pánvi do 75 °C."
+    }
+  ]
+}

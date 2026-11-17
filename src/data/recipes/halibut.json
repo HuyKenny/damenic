@@ -1,0 +1,118 @@
+{
+  "title": "Halibut z pánve s citronovým máslem",
+  "keywords": [
+    "halibut",
+    "halibut recept",
+    "halibut na pánvi",
+    "pečený halibut",
+    "halibut s citronovým máslem"
+  ],
+  "image": "dish-halibut",
+  "category": "steak",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Halibut je tučná bílá ryba s pevným masem, která se na pánvi hodí k rychlému opečení z obou stran. Recept s citronovým máslem se vejde do čtvrt hodiny a celé jídlo stojí na tom, že rybu nepřepečeš: jakmile je uprostřed 63 °C, je hotová.",
+  "ingredients": [
+    {
+      "ingredient": "halibut-file",
+      "amount": 360,
+      "unit": "g",
+      "note": "2 kusy, každý asi 180 g a 3 cm tlustý, bez kůže"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "jen na lehké poprášení"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "rozdělené na dvě poloviny"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozdrcený"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva i kůra"
+    },
+    {
+      "ingredient": "kapary",
+      "amount": 15,
+      "unit": "g",
+      "note": "okapané",
+      "group": "omáčka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.1,
+      "unit": "ks",
+      "note": "nasekaná nať"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Filety vyndej z lednice 15 minut předem, osuš je papírovou utěrkou a ze všech stran osol a opepři. Lehce je poprášíš moukou a přebytek oklep."
+    },
+    {
+      "text": "V pánvi, nejlépe nepřilnavé nebo litinové, rozehřej olej na středně vysokém plameni. Filety polož do pánve a nech je 3 až 4 minuty nerušeně smažit, dokud nezezlátnou a nepustí se od pánve."
+    },
+    {
+      "text": "Filety otoč, přidej polovinu másla a česnek a peč další 3 až 4 minuty, přitom rybu občas podlij rozpuštěným máslem. Ryba je hotová, když má uvnitř 63 °C nebo se maso na tlak vidličky rozpadá na plátky."
+    },
+    {
+      "text": "Rybu přendej na talíře. Do pánve přidej zbylé máslo, citronovou šťávu a kůru a kapary, 30 sekund povař a lžící přelij ryby. Posyp petrželkou."
+    }
+  ],
+  "tips": [
+    "Silnější filety ze 3 cm tloušťky potřebují déle než tenké. U tenkých (do 2 cm) zkrať čas na 2 až 3 minuty z každé strany.",
+    "Ryba se nesmí lepit k pánvi: otáčej ji až ve chvíli, kdy se od pánve sama uvolní.",
+    "Halibut je libovější než losos a rychle vyschne. Raději ho vyndej o minutu dřív, v teplu si dojde."
+  ],
+  "substitutions": [
+    "Místo halibuta použij filet z tresky, aljašského candáta nebo mořského vlka, doba smažení je stejná.",
+    "Máslo v omáčce nahraď 3 lžícemi olivového oleje, citron a kapary nechej.",
+    "Kapary nahraď nakrájenými zelenými olivami."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit halibuta na pánvi?",
+      "a": "Filet silný 3 cm smaž 3 až 4 minuty z každé strany na středně vysokém plameni. Hotový je při 63 °C uvnitř, maso je neprůhledné a drolí se na plátky."
+    },
+    {
+      "q": "Jak poznat, že je halibut hotový?",
+      "a": "Maso změní barvu z průsvitné na bílou, snadno se odděluje vidličkou a jádro má 63 °C. Pokud se vám pod vidličkou tvrdě vzpírá, je ještě syrové."
+    },
+    {
+      "q": "Dá se halibut péct v troubě?",
+      "a": "Ano, filety osolené a pokapané máslem peč 12 až 15 minut při 200 °C, horkovzduch 190 °C. Uvnitř musí mít 63 °C."
+    }
+  ]
+}

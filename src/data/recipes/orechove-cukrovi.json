@@ -1,0 +1,108 @@
+{
+  "title": "Ořechové cukroví z mletých ořechů a bílků",
+  "keywords": [
+    "ořechové cukroví",
+    "ořechové cukroví recept",
+    "recept na ořechové cukroví",
+    "cukroví z mletých ořechů",
+    "cukroví bez mouky"
+  ],
+  "intro": "Ořechové cukroví z mletých vlašských ořechů, bílků a moučkového cukru nemá žádnou mouku. Je to vláčné cukroví na jedno zakousnutí, které se peče nízko a nechá se uskladnit týden. Z dávky vyjde asi 40 kousků. Těžké je ušlehat pevný sníh a pak ho s ořechy jen lehce promíchat.",
+  "image": "dish-orechove-cukrovi",
+  "category": "dezerty",
+  "servings": 8,
+  "activeMinutes": 35,
+  "cookMinutes": 18,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "jen bílky",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 250,
+      "unit": "g",
+      "note": "jemně mleté",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen kůra z bio citronu",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 50,
+      "unit": "g",
+      "note": "na polevu",
+      "group": "Dozdobení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Hmota"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Sníh",
+      "text": "Bílky se špetkou soli šlehej do polopevného sněhu. Po lžících přisypávej moučkový cukr a šlehej do hustého, lesklého a pevného sněhu, 6 až 8 minut."
+    },
+    {
+      "section": "Hmota",
+      "text": "Do sněhu opatrně vmíchej mleté ořechy a jemně nastrouhanou citronovou kůru, aby sníh neklesl. Hmota má být hustá a drží na lžíci."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 150 °C horní a spodní ohřev (horkovzduch 140 °C). Čajovou lžičkou dávej na plech vyložený pečicím papírem kopečky a peč 16 až 18 minut. Hotové jsou, když povrch je suchý a spodek lehce zlatavý."
+    },
+    {
+      "section": "Dozdobení",
+      "text": "Čokoládu rozpusť ve vodní lázni. Vychladlé kousky na spodní straně namoč do čokolády nebo jimi sklouzni po vrchu a nech ztuhnout aspoň 30 minut."
+    }
+  ],
+  "tips": [
+    "Z dávky vyjde asi 40 kousků. Kopečky dělej stejně velké, pečou se stejně dlouho a nevysychají.",
+    "Misku i šlehací metly umyj naprosto dosucha; jediná kapka žloutku nebo tuku sníh nenašlehá.",
+    "Skladuj v dóze s papírem na suchém místě. Vydrží 7 až 10 dní, protože ořechy zůstanou vláčné."
+  ],
+  "substitutions": [
+    "Vlašské ořechy nahraď lískovými nebo mandlemi, chuť bude jemnější.",
+    "Citronovou kůru nahraď 1 čajovou lžičkou skořice, cukroví bude vánočnější.",
+    "Čokoládu vynech a kousky poprášit moučkovým cukrem."
+  ],
+  "faq": [
+    {
+      "q": "Proč ořechové cukroví po upečení spadne?",
+      "a": "Sníh nebyl dost pevný nebo ho vmícháváním ořechů rozmělnil. Šlehej do pevné konzistence a ořechy zapracuj lehce, hmota má zůstat vzdušná."
+    },
+    {
+      "q": "Je ořechové cukroví bez mouky bezlepkové?",
+      "a": "Recept mouku nepoužívá, ale ořechy a čokoláda mohou mít stopy lepku. U alergie čti složení na obalu."
+    },
+    {
+      "q": "Jak dlouho vydrží ořechové cukroví?",
+      "a": "Asi 7 až 10 dní v uzavřené dóze. Ořechy a bílky vláčnou, proto ho peč 2 až 3 dny před Vánoci nebo zmraž."
+    }
+  ]
+}

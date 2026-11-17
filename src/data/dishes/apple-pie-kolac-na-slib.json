@@ -1,0 +1,22 @@
+{
+  "name": "Apple pie s mřížkou",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "price": 11900,
+  "description": "Americký jablečný koláč s máslovým těstem, skořicí a mřížkou navrchu.",
+  "about": [
+    "Apple pie stojí na křehkém těstě a jablkách, která se předem trochu předvaří. Mřížka na vrchu není jen dekorace, pára z náplně jí odchází.",
+    "Taška je lehká, koláč nepřijede. Recept je ale skutečný, tak jablka předvař."
+  ],
+  "recipe": "apple-pie",
+  "image": "dish-apple-pie-kolac-na-slib",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 300
+}

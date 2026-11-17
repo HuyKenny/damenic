@@ -1,0 +1,121 @@
+{
+  "title": "Jablečné řezy s drobenkou",
+  "keywords": [
+    "jablečné řezy",
+    "jablečné řezy recept",
+    "jablečné řezy s drobenkou",
+    "jablečné řezy z lineckého těsta",
+    "recept na jablečné řezy"
+  ],
+  "intro": "Jablečné řezy jsou vrstva máslového těsta, strouhaných jablek se skořicí a drobenky z nastrouhaného těsta. Plech 20 x 30 cm dá 20 kousků. Těžké je jablka dobře vymačkat, aby těsto zespodu nezměklo.",
+  "image": "dish-jablecne-rezy",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 40,
+  "cookMinutes": 40,
+  "waitMinutes": 60,
+  "waitLabel": "chladnutí",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 125,
+      "unit": "g",
+      "note": "studené",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 5,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 5,
+      "unit": "ks",
+      "note": "kyselejší, asi 800 g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 40,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 3,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "group": "Posyp"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Z mouky, kypřicího prášku, moučkového cukru, másla a vejce vypracuj těsto. Třetinu těsta dej na 30 minut do mrazáku, zbytek zabal a dej do lednice."
+    },
+    {
+      "section": "Jablka",
+      "text": "Jablka oloupej, nastrouhej nahrubo a vymačkej přes sítko. Smíchej s cukrem a skořicí."
+    },
+    {
+      "section": "Základ",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Větší část těsta vtlač do plechu 20 x 30 cm vyloženého papírem, propíchej vidličkou a předpeč 10 minut."
+    },
+    {
+      "section": "Pečení",
+      "text": "Na těsto rozetři jablka a nastrouhej zmražené těsto navrch. Peč 30 minut dozlatova. Nech vychladnout v plechu, posyp moučkovým cukrem a nakrájej."
+    }
+  ],
+  "tips": [
+    "Jablka vymačkej opravdu dobře, šťáva jinak změkčí spodní vrstvu.",
+    "Nastrouhané těsto nezatlačuj, ať je drobenka křupavá.",
+    "Skladuj v lednici 3 dny, volně přikryté. Těsně zabalené řezy zvlhnou a drobenka změkne."
+  ],
+  "substitutions": [
+    "Jablka nahraď hruškami nebo rebarborou (přidej 20 g cukru navíc).",
+    "Skořici nahraď špetkou mletého nového koření nebo ji vynech.",
+    "Máslo nahraď rostlinným tukem pro verzi bez mléka."
+  ],
+  "faq": [
+    {
+      "q": "Jaká jablka se hodí na jablečné řezy?",
+      "a": "Kyselejší odrůdy, které se při pečení nerozvaří na kaši. Sladká jablka přislaď méně."
+    },
+    {
+      "q": "Proč jsou řezy zespodu měkké?",
+      "a": "Jablka byla příliš šťavnatá. Vymačkej je a základ předpeč."
+    },
+    {
+      "q": "Jak dlouho vydrží jablečné řezy?",
+      "a": "3 dny v lednici, přikryté. Před podáváním je můžeš krátce ohřát v troubě."
+    }
+  ]
+}

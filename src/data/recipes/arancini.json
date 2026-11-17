@@ -1,0 +1,145 @@
+{
+  "title": "Arancini",
+  "keywords": [
+    "arancini",
+    "arancini recept",
+    "sicilské arancini",
+    "smažené rýžové kuličky s mozzarellou"
+  ],
+  "image": "dish-arancini",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 45,
+  "cookMinutes": 20,
+  "waitMinutes": 60,
+  "waitLabel": "vychladnutí rýže",
+  "difficulty": "střední",
+  "meal": "predkrm",
+  "intro": "Arancini jsou smažené rýžové kuličky s mozzarellou uvnitř a křupavou strouhankou. Ze základního rizota ze šafránu a parmazánu dostaneš asi 12 kusů. Rýže musí před tvarováním úplně vychladnout, jinak se kuličky rozpadají.",
+  "ingredients": [
+    {
+      "ingredient": "ryze-arborio",
+      "amount": 250,
+      "unit": "g",
+      "note": "rizoto",
+      "group": "rizoto"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 750,
+      "unit": "ml",
+      "note": "horký",
+      "group": "rizoto"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 75,
+      "unit": "g",
+      "note": "najemno",
+      "group": "rizoto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "rizoto"
+    },
+    {
+      "ingredient": "safran",
+      "amount": 0.2,
+      "unit": "g",
+      "note": "asi špetka nití, rozmočená v 2 lžících horkého vývaru",
+      "group": "rizoto"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 50,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "rizoto"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 100,
+      "unit": "g",
+      "note": "nakrájená na kostky 1 cm",
+      "group": "plnka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "rozšlehaná",
+      "group": "obal"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 50,
+      "unit": "g",
+      "group": "obal"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 120,
+      "unit": "g",
+      "group": "obal"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "obal"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "rizoto"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli opékej na másle na mírném plameni 4 minuty do měkka. Přidej rýži a 2 minuty míchej, až je průsvitná."
+    },
+    {
+      "text": "Přilévej horký vývar po naběračkách, vždy až když rýže předchozí vstřebá, a míchej. Po 17 až 18 minutách přidej šafrán s vývarem. Rýže má být al dente a rizoto vláčné, ne tekuté."
+    },
+    {
+      "text": "Vmíchej parmazán a sůl, rizoto rozlož na plech do tenké vrstvy a nech vychladnout asi 45 až 60 minut, potom ještě 30 minut v lednici."
+    },
+    {
+      "text": "Do dlaně dej zhruba 2 lžíce rýže, doprostřed vtlač kostku mozzarelly, zavři rýží a vytvaruj kouli velikosti mandarinky. Obal ji v mouce, pak ve vejci a nakonec ve strouhance."
+    },
+    {
+      "text": "V hrnci s tlustým dnem rozehřej olej na 170 °C, kontroluj teploměrem. Smaž po 3 až 4 kusech 4 až 5 minut do zlatohnědé a sýr uvnitř musí být roztavený. Děrovanou lžící vyndej na papírovou utěrku."
+    },
+    {
+      "text": "Podávej horké, nejlépe s rajčatovou omáčkou nebo plátkem citronu."
+    }
+  ],
+  "tips": [
+    "Rýže z předchozího dne je ideální: je vychladlá a lepí se. Ušetříš si čekání.",
+    "Teplota oleje je klíč: pod 160 °C kuličky nasáknou tuk, nad 185 °C zhnědnou dřív, než se roztaví sýr.",
+    "Hotové kuličky se dají upéct v troubě při 220 °C asi 20 minut, stříkni je olejem."
+  ],
+  "substitutions": [
+    "Šafrán můžeš vynechat nebo dát půl lžičky kurkumy pro barvu. Mozzarellu nahraď kouskem sýra nebo ricotty.",
+    "Vývar vyměň za kuřecí. Pro verzi s masem přidej lžíci ragú nebo šunky do jádra."
+  ],
+  "faq": [
+    {
+      "q": "Proč se mi arancini rozpadají ve fritéze?",
+      "a": "Rýže byla ještě teplá, olej příliš studený nebo je obal slabý. Nech rizoto úplně vychladit, obal dvakrát a olej měj na 170 °C."
+    },
+    {
+      "q": "Dá se arancini zmrazit?",
+      "a": "Dá, neusmažené hotové kuličky v obalu zmraz na plechu a pak přesyp do sáčku. Smaž zmrazené při 160 °C asi 7 minut."
+    },
+    {
+      "q": "Jaká rýže je na arancini nejlepší?",
+      "a": "Kulatozrnná rýže na rizoto, třeba arborio. Obsahuje dost škrobu, který kuličky drží pohromadě."
+    }
+  ]
+}

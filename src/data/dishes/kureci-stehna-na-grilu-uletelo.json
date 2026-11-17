@@ -1,0 +1,20 @@
+{
+  "name": "Kuřecí stehna z grilu",
+  "restaurant": "bistro-uletelo",
+  "kind": "main",
+  "section": "Kuře",
+  "description": "Stehna s medem a uzenou paprikou, upečená nepřímým žárem. Kůže praská jen v receptu.",
+  "about": [
+    "Stehna z grilu mají křupavou kůži, šťavnaté maso a marinádu s medem a uzenou paprikou. Peče se pomalu a nepřímým žárem.",
+    "V bistru Uletělo kuře nedorazí a gril je jen nápad. Doma ti stačí rošt, teploměr a dvě hodiny marinády."
+  ],
+  "price": 22900,
+  "image": "dish-kureci-stehna-na-grilu-uletelo",
+  "recipe": "kureci-stehna-na-grilu",
+  "featured": false,
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "order": 190
+}

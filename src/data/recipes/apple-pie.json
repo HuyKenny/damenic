@@ -1,0 +1,139 @@
+{
+  "title": "Apple pie",
+  "keywords": [
+    "apple pie",
+    "apple pie recept",
+    "americký jablečný koláč",
+    "jablečný koláč s mřížkou"
+  ],
+  "image": "dish-apple-pie-kolac-na-slib",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 40,
+  "cookMinutes": 50,
+  "waitMinutes": 60,
+  "waitLabel": "chlazení těsta",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Apple pie je americký jablečný koláč s křehkým máslovým těstem a mřížkou navrchu. Jablka se krátce předvaří, aby se koláč při pečení nepropadl. Těsto musí být studené, jinak se nezpracuje křehké.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "studené, na kostky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 70,
+      "unit": "ml",
+      "note": "ledová",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 6,
+      "unit": "ks",
+      "note": "loupaná, na plátky",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 100,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na potření"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku, cukr a sůl smíchej, přidej máslo a rychle prstami rozetři na drobenku. Přidej ledovou vodu a slep těsto. Rozděl na 2 disky, zabal a dej na 60 minut do lednice."
+    },
+    {
+      "text": "Jablka smíchej s cukrem, skořicí, citronovou šťávou a škrobem a vař 5 minut na pánvi s máslem, aby změkla jen napůl. Nech vychladnout."
+    },
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 190 °C). Větší disk vyválej a vlož do formy o průměru 24 cm. Naplň jablky."
+    },
+    {
+      "text": "Druhý disk vyválej na tenký plát, nakrájej na pruhy a poskládej mřížku. Okraje stiskni, potři vajíčkem."
+    },
+    {
+      "text": "Peč 20 minut na 200 °C, pak sniž na 180 °C a peč dalších 30 minut do zlatova, aby se náplň viditelně bublala. Nech 1 hodinu zchladnout a krájej."
+    }
+  ],
+  "tips": [
+    "Jablka předvař, jinak se koláč při pečení propadne.",
+    "Těsto musí zůstat studené, při tání másla ztvrdne.",
+    "Koláč vydrží přikrytý 2 dny při pokojové teplotě, v lednici 4."
+  ],
+  "substitutions": [
+    "Skořici nahradí směs skořice a hřebíčku.",
+    "Jablka vyber kyselejší, třeba Granny Smith.",
+    "Máslo v těstě je důležité pro křehkost, nenahrazuj ho celé."
+  ],
+  "faq": [
+    {
+      "q": "Jaká jablka se hodí na apple pie?",
+      "a": "Pevná a kyselejší, která se nerozpadnou. Lepší je kombinace dvou odrůd."
+    },
+    {
+      "q": "Proč se náplň propadá?",
+      "a": "Jablka byla syrová a dala vodu. Předvař je a přidej škrob."
+    },
+    {
+      "q": "Jak dlouho koláč chladne?",
+      "a": "Aspoň hodinu, aby náplň zatuhla. Jinak se rozjede po talíři."
+    }
+  ]
+}

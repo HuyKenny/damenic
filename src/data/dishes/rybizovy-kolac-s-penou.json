@@ -1,0 +1,25 @@
+{
+  "name": "Rybízový koláč s pěnou, dílek",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "description": "Máslový základ, červený rybíz a sněhová pěna, dílek z plechu.",
+  "about": [
+    "Rybízový koláč s pěnou je kontrast kyselého ovoce a sladké pusinky. Pod lehkou čepicí sněhu se skrývá šťavnatý rybíz na křehkém těstě.",
+    "Pusinka zlátne pomalu při 150 °C. Ve vitríně nic neleží, ale recept ti ukáže, jak pěnu udržet vzdušnou i po krájení."
+  ],
+  "price": 7900,
+  "image": "dish-rybizovy-kolac-s-penou",
+  "recipe": "rybizovy-kolac-s-penou",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 406
+}

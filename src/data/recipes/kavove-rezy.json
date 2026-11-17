@@ -1,0 +1,135 @@
+{
+  "title": "Kávové řezy",
+  "keywords": [
+    "kávové řezy",
+    "kávové řezy recept",
+    "kávové řezy bez pečení",
+    "nepečené kávové řezy",
+    "recept na kávové řezy"
+  ],
+  "intro": "Kávové řezy bez pečení jsou vrstva piškotů namočených v kávě a krém z mascarpone, smetany a kávy. Forma 20 x 20 cm dá asi 12 řezů. Těžké je namáčet piškoty jen krátce, aby nezměkly na kaši, a krém našlehat tak, aby se nesrazil.",
+  "image": "dish-kavove-rezy",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 30,
+  "cookMinutes": 0,
+  "waitMinutes": 360,
+  "waitLabel": "ztuhnutí v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "piskoty-detske",
+      "amount": 240,
+      "unit": "g",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "kava-instantni",
+      "amount": 12,
+      "unit": "g",
+      "note": "rozpuštěná v 250 ml horké vody",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "note": "horká",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 20,
+      "unit": "g",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "mascarpone",
+      "amount": 250,
+      "unit": "g",
+      "note": "vychlazené",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 250,
+      "unit": "ml",
+      "note": "dobře vychlazená",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "kava-instantni",
+      "amount": 4,
+      "unit": "g",
+      "note": "rozpuštěná v 15 ml horké vody",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 15,
+      "unit": "ml",
+      "note": "horká",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 10,
+      "unit": "g",
+      "group": "Posyp"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Káva",
+      "text": "Instantní kávu s cukrem rozpusť v 250 ml horké vody a nech vychladnout na pokojovou teplotu. Studená káva piškoty nerozmočí tolik jako horká."
+    },
+    {
+      "section": "Základ",
+      "text": "Dno formy 20 x 20 cm vyložit pečicím papírem. Piškoty namáčej po jednom 1 až 2 sekundy v kávě a skládej těsně vedle sebe do jedné vrstvy."
+    },
+    {
+      "section": "Krém",
+      "text": "Smetanu ušlehej do tuhé pěny. V druhé misce rozmíchej mascarpone s moučkovým cukrem a 4 g instantní kávy rozpuštěné v 15 ml horké vody a opatrně vmíchej šlehačku."
+    },
+    {
+      "section": "Skládání",
+      "text": "Polovinu krému rozetři na piškoty, přikryj druhou vrstvou namočených piškotů a zakončit zbylým krémem. Povrch uhlaď."
+    },
+    {
+      "section": "Chladnutí",
+      "text": "Přikryj fólií a nech minimálně 6 hodin, nejlépe přes noc, v lednici. Před krájením posyp kakaem a řež čistým nožem namočeným ve vodě."
+    }
+  ],
+  "tips": [
+    "Namáčej jen na 1 až 2 sekundy. Piškoty nasákají i při chladnutí a jinak se rozpadnou.",
+    "Mascarpone i smetana musí být z lednice. Teplý krém se po šlehání srazí a bude zrnitý.",
+    "Řezy vydrží v lednici 3 dny. Mraž je nejdéle měsíc a před podáváním nech 1 hodinu rozmrazit v lednici."
+  ],
+  "substitutions": [
+    "Instantní kávu nahraď silným espressem, 250 ml na namáčení.",
+    "Pro verzi bez kofeinu použij kávu bez kofeinu nebo kakaové mléko.",
+    "Mascarpone nahraď smetanovým sýrem, řezy budou chuťově čerstvější."
+  ],
+  "faq": [
+    {
+      "q": "Můžu použít dlouhé piškoty místo dětských?",
+      "a": "Ano, dlouhé piškoty jsou pevnější a pijí víc tekutiny. Namáčej je jen na krátkou chvíli."
+    },
+    {
+      "q": "Jak dlouho se kávové řezy nechávají v lednici?",
+      "a": "Aspoň 6 hodin, ideálně přes noc. Piškoty musí nasáknout a krém ztuhnout, aby se řezy dobře krájely."
+    },
+    {
+      "q": "Jsou kávové řezy vhodné pro děti?",
+      "a": "Obsahují kávu, tedy kofein. Pro děti použij kakaové mléko nebo bezkofeinovou kávu."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Raita",
+  "keywords": [
+    "raita",
+    "raita recept",
+    "jogurtový dip s okurkou",
+    "indická raita",
+    "raita k biryani"
+  ],
+  "image": "dish-raita",
+  "category": "indicka",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Raita je indický chladivý dip z bílého jogurtu, okurky a pražených semínek kmínu. Hodí se k pálivým kari a biryani a vyvažuje koření. Je hotová za 10 minut a okurku je nutné vymačkat, jinak se raita rozředí.",
+  "ingredients": [
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nastrouhaná a vymačkaná"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "opražený"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 6,
+      "unit": "ks",
+      "note": "listy, nasekané"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "stroužek, rozetřený"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Okurku nastrouhej, zasyp špetkou soli a nech 5 minut stát. Potom ji pevně vymačkej v ruce nebo v hadříku."
+    },
+    {
+      "text": "Kmín opraž 1 minutu na suché pánvi do vůně a rozdrť v hmoždíři."
+    },
+    {
+      "text": "Jogurt vyšlehej, přidej okurku, kmín, mátu, česnek a sůl a promíchej. Nech v lednici aspoň 15 minut vychladit a podávej."
+    }
+  ],
+  "tips": [
+    "Okurku vždy vymačkej, z vody se raita zředí.",
+    "Pro hladší dip jogurt před mícháním prošlehej vidličkou.",
+    "V lednici vydrží 2 dny, čerstvá je nejlepší."
+  ],
+  "substitutions": [
+    "Místo okurky můžeš použít rajče bez semínek nebo nastrouhanou mrkev.",
+    "Bílý jogurt lze nahradit řeckým, ten je hustší, tak přilej 3 lžíce mléka.",
+    "Pro rostlinnou verzi použij nesladěný sójový jogurt."
+  ],
+  "faq": [
+    {
+      "q": "K čemu se raita podává?",
+      "a": "K pálivým kari, biryani a plackám. Chlad jogurtu zmírní pálivost."
+    },
+    {
+      "q": "Jak dlouho raita vydrží?",
+      "a": "V lednici 2 dny v uzavřené nádobě. Po čase se okurka pustí, proto ji před mícháním vymačkej."
+    },
+    {
+      "q": "Dá se raita připravit předem?",
+      "a": "Ano, 2 hodiny předem, aby chutě prostoupily. Sůl přidej až před podáváním."
+    }
+  ]
+}

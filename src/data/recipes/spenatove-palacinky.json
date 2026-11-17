@@ -1,0 +1,133 @@
+{
+  "title": "Špenátové palačinky",
+  "keywords": [
+    "špenátové palačinky",
+    "špenátové palačinky recept",
+    "zelené palačinky",
+    "palačinky se špenátem",
+    "slané palačinky se špenátem"
+  ],
+  "image": "dish-spenatove-palacinky",
+  "category": "palacinky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 20,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Špenátové palačinky jsou tenké zelené palačinky, které se plní smetanovým sýrem a dochucují muškátem. Těsto se rozmixuje i se špenátem, takže nejsou žádné hrudky ani vlákna. Vyjde asi osm palačinek na pánev o průměru 24 cm a rozhoduje odpočinek těsta a dobře rozpálená pánev.",
+  "ingredients": [
+    {
+      "ingredient": "spenat-mrazeny",
+      "amount": 150,
+      "unit": "g",
+      "note": "rozmrazený a vymačkaný"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 350,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "asi půl lžičky"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "rozpuštěné do těsta"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 30,
+      "unit": "ml",
+      "note": "na vymazání pánve"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 200,
+      "unit": "g",
+      "note": "na náplň",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Náplň"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Špenát nech rozmrazit a v sítu ho pořádně vymačkej, aby v těstě nebylo zbytečně vody. Měl by zbýt asi 120 g vymačkané hmoty."
+    },
+    {
+      "text": "Do vysoké nádoby dej mléko, vejce, špenát, sůl, muškát a rozpuštěné vlažné máslo. Rozmixuj tyčovým mixérem do hladké zelené tekutiny, pak přisyp mouku a mixuj, dokud nezmizí hrudky."
+    },
+    {
+      "text": "Těsto přikryj a nech 20 minut odpočinout při pokojové teplotě. Mouka nabobtná a palačinky se pak nerozpadají."
+    },
+    {
+      "text": "Pánev o průměru 24 cm rozpal na středně vysoký stupeň a potři ji tence olejem. Na každou palačinku nalij asi půl naběračky těsta a rozvěz ho kroužením pánve."
+    },
+    {
+      "text": "Peč 1 až 1,5 minuty z první strany, dokud okraje nepustí pánev a povrch není matný. Obrať a peč další půlminutu. Hotové palačinky skládej na talíř, olej obnovuj jen když se začnou lepit."
+    },
+    {
+      "text": "Smetanový sýr promíchej s česnekem a pažitkou, osol a opepři. Na každou palačinku natři vrstvu náplně, sroluj a podávej hned, dokud je sýr jemně teplý."
+    }
+  ],
+  "tips": [
+    "Špenát vymačkej opravdu dosucha. Přebytečná voda je hlavní důvod, proč zelené palačinky při obracení praskají.",
+    "První palačinka bývá zkouška pánve. Když se lepí, přidej do těsta lžíci oleje; když je tlustá, naředi těsto 2 lžícemi mléka.",
+    "Hotové palačinky můžeš složit na sebe a přikrýt utěrkou, do hodiny zůstanou měkké. Plnit je nech až těsně před podáváním.",
+    "Zelená barva zesvětlí, když těsto stojí déle než hodinu. Pokud tě to zajímá, mixuj špenát těsně před pečením."
+  ],
+  "substitutions": [
+    "Místo mraženého použij 200 g čerstvého baby špenátu, který krátce spaříš vroucí vodou a vymačkáš.",
+    "Smetanový sýr lze nahradit stejným množstvím tvarohu ochuceného česnekem, nebo balkánským sýrem rozmačkaným vidličkou.",
+    "Mléko můžeš zaměnit za ovesný nápoj bez cukru, máslo za olej."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat špenátové palačinky, aby se nerozpadaly?",
+      "a": "Špenát dobře vymačkej, těsto nech 20 minut odpočinout a nepřeplňuj pánev. Pánev musí být rozpálená a lehce vymazaná, pak se palačinka dá snadno obrátit."
+    },
+    {
+      "q": "Dají se špenátové palačinky udělat dopředu?",
+      "a": "Ano. Upečené a vychladlé palačinky přelož pečicím papírem a dej do lednice na 2 dny. Před plněním je krátce ohřej na suché pánvi."
+    },
+    {
+      "q": "Jsou špenátové palačinky vhodné pro děti?",
+      "a": "Chuť je jemná a zelenou barvu pozná každý. Chuť špenátu zjemní muškát a sýrová náplň, takže palačinky si oblíbí i děti, které špenát jinak odmítají."
+    }
+  ]
+}

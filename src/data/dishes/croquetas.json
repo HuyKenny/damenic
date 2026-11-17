@@ -1,0 +1,24 @@
+{
+  "name": "Croquetas se šunkou",
+  "restaurant": "tapas-siesta-nanecisto",
+  "kind": "main",
+  "section": "Tapas a studené polévky",
+  "description": "Křupavé krokety s krémovým bešamelem a šunkou, podávané po šesti.",
+  "about": [
+    "Croquetas jsou ukázka, že trpělivost se dá sníst. Bešamel musí přes noc ztuhnout v lednici, potom se zabalí do strouhanky a v oleji se z něj stane zlatá kulička, která se uvnitř rozpustí.",
+    "Tapas bar dnes nesmaží nic, ale ty máš čas. Čtyři hodiny v lednici jsou to nejtěžší, co tě čeká."
+  ],
+  "price": 13900,
+  "image": "dish-croquetas",
+  "recipe": "croquetas",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 915
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Müsli tyčinky s mandlemi",
+  "restaurant": "zitra-upecem",
+  "kind": "main",
+  "section": "Navíc",
+  "description": "Ovesné tyčinky s mandlemi, semínky a rozinkami.",
+  "about": [
+    "Müsli tyčinka je svačina, která se vejde do kapsy. Ovesné vločky, mandle, semínka a rozinky drží máslo s medem a krátké pečení. Po vychladnutí jsou pevné a křupavé.",
+    "Zítra upečem je pekárna, která peče zítra. Tyčinky ale stíháš už dnes: patnáct minut práce a hodina chladnutí."
+  ],
+  "price": 5900,
+  "image": "dish-musli-tycinky-zitra-upecem",
+  "recipe": "musli-tycinky",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 960,
+  "allergens": [
+    1,
+    7,
+    8
+  ]
+}

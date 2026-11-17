@@ -1,0 +1,109 @@
+{
+  "title": "Penne all'arrabbiata",
+  "keywords": [
+    "penne arrabbiata",
+    "penne all'arrabbiata recept",
+    "arrabbiata těstoviny",
+    "těstoviny arrabbiata s chilli"
+  ],
+  "image": "dish-penne-arrabbiata",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Penne arrabbiata je římská rajčatová omáčka s česnekem a chilli, která se vaří dvacet minut a nepotřebuje žádný vývar ani smetanu. Název znamená „rozzuřené“ a pálivost je jediná věc, o které tu rozhoduješ ty.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 250,
+      "unit": "g",
+      "note": "penne"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "extra panenský"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "na tenké plátky"
+    },
+    {
+      "ingredient": "chilli-papricka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kolečka, pro ostřejší verzi 2 ks"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "note": "1 konzerva, rozmačkaná vidličkou"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzice",
+      "note": "1 lžíce do vody na těstoviny, zbytek do omáčky"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná najemno"
+    },
+    {
+      "ingredient": "pecorino",
+      "amount": 30,
+      "unit": "g",
+      "note": "jemně nastrouhané, k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do velkého hrnce dej 2,5 litru vody. Až se vaří, osol ji (1 lžíce) a přidej penne. Vař o 1 minutu méně, než uvádí obal, protože dojdou v omáčce."
+    },
+    {
+      "text": "Mezitím nalij olej do velké studené pánve, přidej česnek s chilli a postav ji na mírný plamen. Za 2 až 3 minuty by měl česnek slabě zezlátnout. Tmavý česnek je hořký."
+    },
+    {
+      "text": "Přidej rozmačkaná rajčata, zbytek soli a vař na středním plameni 10 až 12 minut, občas promíchej. Omáčka má zhoustnout, aby se nelila z lžíce."
+    },
+    {
+      "text": "Penne sceď, ale 1 hrnek vody z vaření si nech. Těstoviny vsyp do omáčky, přidej 3 lžíce škrobové vody a 1 minutu je na středním plameni míchej, až se omáčka obalí kolem každé trubičky."
+    },
+    {
+      "text": "Přisyp petrželku, ochutnej a podle potřeby dosol. Podávej hned posypané pecorinem."
+    }
+  ],
+  "tips": [
+    "Chilli přidávej od půlky. Pálivost se dá po vaření doladit, ubrat ji nejde.",
+    "Rajčata z konzervy mají v zimě víc chuti než čerstvá. Rozmačkej je rukou, hladké pyré dá hladší omáčku, ale méně charakteru.",
+    "Zbytek omáčky vydrží zakrytý v lednici 3 dny a hodí se k pečenému kuřeti nebo na pizzu."
+  ],
+  "substitutions": [
+    "Pecorino nahraď parmazánem, hodí se i bez sýra a bude veganská.",
+    "Místo penne použij rigatoni nebo špagety."
+  ],
+  "faq": [
+    {
+      "q": "Jak ostrá má být arrabbiata?",
+      "a": "Klasická verze je výrazně pálivá, ale míra je na tobě. Pro střední ostrost stačí jedna menší chilli paprička bez semínek na dvě porce."
+    },
+    {
+      "q": "Dává se do arrabbiaty sýr?",
+      "a": "V Římě se podává s pecorinem romanem. Parmazán je v pořádku, a bez sýra je z omáčky veganské jídlo."
+    },
+    {
+      "q": "Proč se těstoviny dodělávají v omáčce?",
+      "a": "Těstoviny vařené o minutu kratší dobu dojdou v omáčce a nasají její chuť. Škrobová voda z vaření omáčku zahustí a spojí."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Pečený květák s tahini",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Celý pečený květák s uzenou paprikou a jogurtem s tahini.",
+  "about": [
+    "Celý pečený květák vypadá víc než je třeba. Je tmavě zlatý, voní po pražených semínkách a uprostřed je měkký jako brambor. Dochuceno je uzenou paprikou a kmínem a jogurtový dresink s tahini ho spojí.",
+    "V Zahrádce Naprázdno se nic nesklízí, ale recept je skutečný. Květák se krátce povaří a pak peče 40 až 45 minut při 220 °C."
+  ],
+  "price": 18900,
+  "image": "dish-peceny-kvetak-tahini-zahradka",
+  "recipe": "peceny-kvetak",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "order": 960,
+  "allergens": [
+    7,
+    11
+  ]
+}
