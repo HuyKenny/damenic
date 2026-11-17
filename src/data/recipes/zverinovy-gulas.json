@@ -1,0 +1,136 @@
+{
+  "title": "Zvěřinový guláš",
+  "keywords": [
+    "zvěřinový guláš",
+    "zvěřinový guláš recept",
+    "guláš ze zvěřiny",
+    "jelení guláš"
+  ],
+  "image": "dish-zverinovy-gulas",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 30,
+  "cookMinutes": 130,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Zvěřinový guláš je tmavý, voňavý pokrm z jelení nebo srnčí zvěřiny dušené na cibuli a slanině. Zvěřina je libová, takže se do guláše přidává slanina a vaří se pomalu, jinak vyschne. Brusinky na závěr vyvážejí pikantní chuť.",
+  "ingredients": [
+    {
+      "ingredient": "zverina-na-gulas",
+      "amount": 900,
+      "unit": "g",
+      "note": "jelení a srnčí směs, kostky 3 cm"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 500,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "jalovec",
+      "amount": 3,
+      "unit": "g",
+      "note": "rozdrcený"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "brusinky-kompot",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na závěr"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 800,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci osmahni slaninu na sádle 4 minuty, aby pustila tuk. Přidej cibuli a smaž ji 15 minut do zlatova."
+    },
+    {
+      "text": "Vsyp zvěřinu, osol a opékej 8 minut, dokud se maso nezatáhne ze všech stran."
+    },
+    {
+      "text": "Hrnec odstav, vmíchej papriku a protlak, hned zalij 300 ml horké vody a přidej jalovec, bobkový list a česnek."
+    },
+    {
+      "text": "Přikryj a na nejmenším plameni vař 2 hodiny. Podle potřeby přilévej zbylou vodu po 100 ml, maso má zůstat skoro ponořené."
+    },
+    {
+      "text": "Mouku rozmíchej se studenou vodou, vlij do guláše a povař 5 minut do zhoustnutí. Přidej brusinky, majoránku a dochuť solí. Podávej s knedlíkem."
+    }
+  ],
+  "tips": [
+    "Zvěřina je velmi libová, slanina a sádlo nejsou ozdoba, ale nutnost.",
+    "Silně zvěřinovou chuť zjemníš tím, že maso před vařením necháš 12 hodin v lednici v octovém nálevu a osušíš.",
+    "Pořádně opečená cibule je základ barvy i chuti, neměj strach z tmavě zlaté."
+  ],
+  "substitutions": [
+    "Místo brusinek použij lžíci rybízového džemu.",
+    "Zvěřinu lze nahradit hovězí kližkou, pak ale vař 2,5 hodiny."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří zvěřinový guláš?",
+      "a": "Dvě až dvě a půl hodiny na mírném plameni, podle věku zvěře. Maso musí jít rozmáčknout vidličkou."
+    },
+    {
+      "q": "Jak zjemnit chuť zvěřiny?",
+      "a": "Pomůže nálev z octa, cibule a koření na 12 hodin a pak maso důkladně osušit. Kyselina změkčí vlákna i zjemní pach."
+    },
+    {
+      "q": "Dá se zvěřinový guláš zamrazit?",
+      "a": "Ano, v uzavřené nádobě vydrží v mrazáku až 3 měsíce. Rozmrazuj v lednici a prohřej do varu."
+    }
+  ]
+}

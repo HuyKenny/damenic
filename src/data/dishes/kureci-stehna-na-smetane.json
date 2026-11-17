@@ -1,0 +1,20 @@
+{
+  "name": "Kuřecí stehna na smetaně",
+  "kind": "main",
+  "section": "Drůbež a králík",
+  "price": 21900,
+  "recipe": "kureci-stehna-na-smetane",
+  "vegetarian": false,
+  "order": 920,
+  "description": "Zlatá kuřecí stehna dušená v hladké smetaně s tymiánem.",
+  "about": [
+    "Stehna jsou odpuštění pro každého, kdo kuře někdy vysušil. Dušená v pánvi s pokličkou zůstanou šťavnatá a maso se samo odděluje od kosti, zatímco smetana ze šťávy udělá hladkou omáčku.",
+    "Kůži opeč nejdřív a vše ostatní nech na mírném plameni. Taška zůstane prázdná, ale vůně z pánve se do ní stejně vejde."
+  ],
+  "restaurant": "peceni-na-priste",
+  "image": "dish-kureci-stehna-na-smetane",
+  "allergens": [
+    1,
+    7
+  ]
+}

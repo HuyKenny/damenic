@@ -1,0 +1,140 @@
+{
+  "title": "Rizoto s hovězím masem",
+  "keywords": [
+    "rizoto s hovězím",
+    "rizoto s hovězím masem",
+    "hovězí rizoto",
+    "rizoto s hovězím a houbami"
+  ],
+  "image": "dish-rizoto-s-hovezim-domani",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Rizoto s hovězím je krémová rýže arborio s krátce opečenými plátky hovězího flanku. Maso se připraví zvlášť a přidá až na talíři, aby zůstalo měkké. Rizoto se vaří 18 až 20 minut a zalévá se horkým vývarem po částech.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-flank",
+      "amount": 400,
+      "unit": "g",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "ryze-arborio",
+      "amount": 300,
+      "unit": "g",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "horký",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "sušený",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 50,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso vyndej z lednice 30 minut předem a osol. Na pánvi rozehřej olej na vysokém plameni a flank smaž 3 až 4 minuty z každé strany na střední propečení (60 °C uvnitř). Přendej na prkénko, přikryj a nech 10 minut odpočinout."
+    },
+    {
+      "text": "V hrnci rozehřej polovinu másla a na středním plameni 3 minuty duš cibuli. Přidej česnek a tymián, po 30 sekundách rýži. Míchej 2 minuty, dokud rýže nezprůsvitní na okrajích."
+    },
+    {
+      "text": "Přilévej vývar po naběračkách, vždy až když rýže předchozí vstřebá. Průběžně míchej na mírném plameni. Tento postup trvá 18 až 20 minut, rýže má být měkká, ale uprostřed lehce pevná."
+    },
+    {
+      "text": "Hrnec stáhni z ohně, vmíchej zbylé máslo a parmazán a přikryj na 2 minuty. Rizoto má být tekuté jako hustá kaše."
+    },
+    {
+      "text": "Flank nakrájej proti vláknům na tenké plátky a ulož je na rizoto. Posyp petrželkou, osol a opepři."
+    }
+  ],
+  "tips": [
+    "Vývar drž horký v malém hrnci vedle. Studený by zastavil vaření rýže.",
+    "Maso krájej vždy napříč vlákny, jinak bude žilnaté.",
+    "Rýži nepral před vařením, škrob dělá rizoto krémové."
+  ],
+  "substitutions": [
+    "Flank nahradí hovězí svíčková nebo ribeye, kratší doba, vyšší cena.",
+    "Vývar můžeš udělat z hovězí bujónové kostky rozpuštěné ve vodě.",
+    "Pro houbovou verzi přidej 200 g osmažených žampionů s cibulí."
+  ],
+  "faq": [
+    {
+      "q": "Jaké hovězí se hodí do rizota?",
+      "a": "Rychlé maso na krátké opečení: flank, svíčková, roštěná nebo ribeye. Na dušení se hodí plec, ale ta vyžaduje 2 hodiny."
+    },
+    {
+      "q": "Jak poznám, že je rizoto hotové?",
+      "a": "Rýže je měkká, ale zrnka uprostřed ještě kladou drobný odpor. Rizoto se po stažení z ohně pomalu pohybuje na talíři."
+    },
+    {
+      "q": "Dá se hovězí rizoto ohřát?",
+      "a": "V lednici vydrží 2 dny. Ohřívej s troškou vývaru, jinak zhoustne. Maso do něj nevracej předem, ohřeje se rychle."
+    }
+  ]
+}

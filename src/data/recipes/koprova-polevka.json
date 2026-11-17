@@ -1,0 +1,129 @@
+{
+  "title": "Koprová polévka",
+  "keywords": [
+    "koprová polévka",
+    "koprová polévka s bramborami",
+    "koprová polévka s vejcem",
+    "koprová polévka recept"
+  ],
+  "image": "dish-koprova-polevka-naberacka",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Koprová polévka s bramborami je lehká jednohrncová polévka se zakysanou smetanou. Čerstvý kopr se přidává až na konci, aby si zachoval vůni. Polévka se zahušťuje moukou na másle a trvá 35 minut.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Zásmažka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Zásmažka"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 400,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 1000,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nasekaný, asi 3 lžíce"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "natvrdo, na plátky",
+      "group": "K podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve vroucí vodě uvař vejce natvrdo (10 minut), zchlaď je a oloupej."
+    },
+    {
+      "text": "V hrnci rozpusť máslo, vmíchej mouku a smaž ji 1 až 2 minuty do světle zlatavé barvy. Postupně zalévej vývarem a stále šlehej, aby nevznikly hrudky."
+    },
+    {
+      "text": "Přidej brambory, mrkev a bobkový list. Vař 15 až 18 minut na mírném plameni, dokud brambory nezměknou."
+    },
+    {
+      "text": "Hrnec stáhni z ohně. Zakysanou smetanu rozmíchej s naběračkou polévky a vlij zpět. Přidej kopr, ocet, sůl a pepř."
+    },
+    {
+      "text": "Polévku zahřej, ale nevař, aby se smetana nesrazila. Podávej s plátky vejce."
+    }
+  ],
+  "tips": [
+    "Kopr sekej těsně před přidáním, vůně rychle vyprchá.",
+    "Smetanu vždy temperuj částí polévky, nevlévej ji studenou do horké.",
+    "Pro hustší polévku rozmačkej část brambor."
+  ],
+  "substitutions": [
+    "Zakysanou smetanu zastoupí smetana na vaření nebo bílý jogurt.",
+    "Mouku nahradí 2 lžíce škrobu rozmíchané ve vodě.",
+    "Suchý kopr (1 lžíce) nahradí čerstvý, přidej ho do polévky o 5 minut dříve."
+  ],
+  "faq": [
+    {
+      "q": "Proč se koprová polévka sráží?",
+      "a": "Smetana byla studená nebo se polévka po jejím přidání vařila. Smetanu vždy temperuj a polévku jen zahřej."
+    },
+    {
+      "q": "Jak dlouho vydrží koprová polévka?",
+      "a": "V lednici 2 dny. Ohřívej opatrně na mírném plameni, aby se smetana nerozdělila."
+    },
+    {
+      "q": "Dá se koprová polévka zamrazit?",
+      "a": "Nedoporučuje se. Smetana a brambory po rozmražení změní strukturu."
+    }
+  ]
+}

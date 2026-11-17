@@ -1,0 +1,131 @@
+{
+  "title": "Vepřová panenka s rýží",
+  "keywords": [
+    "vepřová panenka s rýží",
+    "vepřová panenka s rýží recept",
+    "panenka na kari s rýží",
+    "vepřová panenka s rýží a zeleninou"
+  ],
+  "image": "dish-veprova-panenka-s-ryzi",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Vepřová panenka s rýží je lehké jídlo z jedné pánve: kolečka panenky, zelenina a kari omáčka na dušené rýži. Panenka je libová, proto se opéká jen krátce a dopéká se v omáčce. Hotovo za 45 minut.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-panenka",
+      "amount": 500,
+      "unit": "g",
+      "note": "na kolečka silná 2 cm"
+    },
+    {
+      "ingredient": "ryze-dlouhozrnna",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na půlměsíčky"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na proužky"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "na tenká kolečka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kari",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 500,
+      "unit": "ml",
+      "note": "na rýži"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýži propláchni, dej do hrnce s 500 ml osolené vody a přiveď k varu. Přikryj, na minimu vař 12 minut a nech 10 minut odstát."
+    },
+    {
+      "text": "Panenku zbav blan, nakrájej na kolečka, lehce osol, opepři a obal v mouce."
+    },
+    {
+      "text": "Na pánvi rozehřej 2 lžíce oleje a maso opékej po 1,5 minutě z každé strany. Přendej na talíř."
+    },
+    {
+      "text": "Do pánve dej zbytek oleje, cibuli, papriku a mrkev a smaž 5 minut. Vsyp kari, 30 sekund míchej, zalij vývarem a smetanou."
+    },
+    {
+      "text": "Povař 4 minuty, vrať maso s šťávou a krátce prohřej. Panenka je hotová při 63 °C uvnitř. Podávej na rýži."
+    }
+  ],
+  "tips": [
+    "Panenku nevař v omáčce dlouho, zhoustne a stvrdne.",
+    "Kari opékej krátce na tuku, uvolní se aroma a nebude žahnout.",
+    "Rýži nech odstát pod pokličkou, bude sypká."
+  ],
+  "substitutions": [
+    "Rýži lze nahradit basmati nebo bulgurem.",
+    "Smetanu nahraď kokosovým mlékem, omáčka bude sladší."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit vepřovou panenku?",
+      "a": "Kolečka 2 cm silná stačí 1,5 až 2 minuty z každé strany. Panenka je hotová při 63 °C uvnitř."
+    },
+    {
+      "q": "Proč je panenka suchá?",
+      "a": "Je velmi libová a při dlouhém vaření vyschne. Opékej ji krátce a v omáčce jen prohřej."
+    },
+    {
+      "q": "Jaká rýže se hodí?",
+      "a": "Dlouhozrnná nebo basmati. Po uvaření musí být sypká a nelepivá."
+    }
+  ]
+}

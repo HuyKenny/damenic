@@ -1,0 +1,21 @@
+{
+  "name": "Řízek z krkovice",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "price": 22900,
+  "recipe": "rizek-z-krkovice",
+  "vegetarian": false,
+  "order": 910,
+  "description": "Zlatý vepřový řízek z krkovice se zeleninou a citronem.",
+  "about": [
+    "Řízek z krkovice je hospodská verze klasiky: šťavnatější, tučnější a odpustí víc chyb než řízek z kýty. Naklepeš ho jemně, obalíš a smažíš ve vrstvě tuku, který se z obalu nadýmá do vln.",
+    "Podávej ho s bramborovým salátem a plátkem citronu. Na stole je vymyšlený, v pánvi opravdový."
+  ],
+  "restaurant": "vycep-zitra",
+  "image": "dish-rizek-z-krkovice",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

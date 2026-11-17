@@ -1,0 +1,22 @@
+{
+  "name": "Hamburská omáčka",
+  "restaurant": "peceni-na-priste",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Světlá smetanová omáčka z vývaru s hořčicí a špetkou octa, k masu a bramborám.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-hamburska-omacka",
+  "recipe": "hamburska-omacka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 910
+}

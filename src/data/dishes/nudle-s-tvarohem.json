@@ -1,0 +1,25 @@
+{
+  "name": "Nudle s tvarohem a máslem",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Sladké jídlo",
+  "description": "Vaječné nudle s rozdrobeným tvarohem, moučkovým cukrem a rozpuštěným máslem. Sladký oběd bez zbytečností.",
+  "about": [
+    "Nudle s tvarohem patří k jídlům, která se dělají z toho, co je doma. Vaječné nudle se uvaří, protřepou v rozpuštěném másle a posypou tvarohem s vanilkovým cukrem. Máslo je tu důležité, tvaroh nesmí být vařený.",
+    "Přijde ti to jako zbytečně jednoduché? Právě proto to funguje. V naší smyšlené jídelně se to jí s vidličkou i lžící, doma stačí hrnec a deset minut času. Kurýr bez tašky tě dnes nepřekvapí, ale ani nezklame."
+  ],
+  "price": 10900,
+  "image": "dish-nudle-s-tvarohem",
+  "recipe": "nudle-s-tvarohem",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 400
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Pochoutkový salát s ananasem",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "description": "Kuřecí kostky, ananas, kukuřice a eidam v jogurtovo-majonézové zálivce.",
+  "about": [
+    "Pochoutkový salát vznikl proto, že sladký ananas se překvapivě hodí k sýru a kuřeti. V majonézové zálivce s kapkou hořčice se z toho stane salát, který všichni znají, ale málokdo ho udělá sám.",
+    "Salátbar je plný jen listů na obrazovce. Hodinu odpočinku si ale dopřej, v lednici salát ožije."
+  ],
+  "price": 15900,
+  "image": "dish-pochoutkovy-salat-ani-listek",
+  "recipe": "pochoutkovy-salat",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 730
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Rizoto s hráškem a mátou",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Rizoto a gnocchi",
+  "description": "Zelené rizoto s hráškovým pyré, mátou a citronovou kůrou.",
+  "about": [
+    "Hrášek se v rizotu použije dvakrát: kousky zůstanou celé a zbytek se rozmixuje, aby zelená byla výrazná a rýže krémová. Citron a máta pak všechno osvěží.",
+    "Smyšlená trattoria nemá žádnou zelenou misku, ale hrášek u tebe v mrazáku čeká. Rizoto je hotové, než dopiješ čaj."
+  ],
+  "price": 21900,
+  "image": "dish-rizoto-s-hraskem-domani",
+  "recipe": "rizoto-s-hraskem",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    9
+  ],
+  "featured": false,
+  "order": 740
+}

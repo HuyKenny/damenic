@@ -1,0 +1,24 @@
+{
+  "name": "Fettuccine Alfredo",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Klasiky",
+  "description": "Široké fettuccine v hedvábné omáčce z másla, smetany a parmazánu.",
+  "about": [
+    "Alfredo je důkaz, že tři suroviny stačí, když se s nimi nezachází hrubě. Máslo, smetana a parmazán se spojí jen s troškou vody z vaření, nikdy přes prudký var.",
+    "Omáčka je hotová, dokud ji nikdo nechce podávat. Smyšlená restaurace ji uchová teplou navždy a recept ji upeče za dvacet minut."
+  ],
+  "price": 19900,
+  "image": "dish-fettuccine-alfredo-niente",
+  "recipe": "fettuccine-alfredo",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 720
+}

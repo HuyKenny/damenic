@@ -1,0 +1,48 @@
+{
+  "name": "Dušená hovězí kližka na kořenové zelenině",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "description": "Hovězí kližka dušená vcelku v troubě, nakrájená na plátky se šťávou z kořenové zeleniny.",
+  "about": [
+    "Kližka je jedno z nejlevnějších hovězích mas a při správném dušení jedno z nejlepších. Za tři hodiny v troubě se vazivo roztaví, maso se nechá krájet na plátky a šťáva z kořenové zeleniny se rozmixuje do omáčky.",
+    "U Prázdného Talíře se nic nepospíchá, a to ani tady. Kližka potřebuje čas, tobě stačí pustit troubu a čekat."
+  ],
+  "price": 25900,
+  "image": "dish-hovezi-klizka",
+  "recipe": "hovezi-klizka",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "houskovy",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "ryze",
+          "name": "Dušená rýže",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    9,
+    10
+  ],
+  "order": 920
+}

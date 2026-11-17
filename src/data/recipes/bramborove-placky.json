@@ -1,0 +1,105 @@
+{
+  "title": "Bramborové placky",
+  "keywords": [
+    "bramborové placky",
+    "bramborové placky z vařených brambor",
+    "bramborové placky na pánvi",
+    "bramborové placky recept"
+  ],
+  "image": "dish-bramborove-placky",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Bramborové placky z vařených brambor jsou měkké, na pánvi osmažené placky z bramborové hmoty s moukou a vejcem. Na rozdíl od bramboráků se netřou syrové brambory, takže placky nešednou a mají jemnou vnitřní strukturu. Skvělé jsou i z včerejších brambor.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 700,
+      "unit": "g",
+      "note": "uvařené ve slupce"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 120,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "na smažení"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 100,
+      "unit": "g",
+      "note": "k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory vař ve slupce 25 minut do měkka, slij, oloupej a nech 10 minut vychladnout a odpařit."
+    },
+    {
+      "text": "Brambory rozmačkej nebo prolisuj do mísy. Přidej vejce, prolisovaný česnek, majoránku a sůl a smíchej. Postupně přisypávej mouku a krátce prohněť, těsto má být hladké a jen lehce lepivé."
+    },
+    {
+      "text": "Těsto rozděl na 8 dílů, každý zformuj do placky silné asi 1 cm a lehce obal v mouce."
+    },
+    {
+      "text": "Na pánvi rozehřej olej na střední teplotu a placky smaž 3 až 4 minuty z každé strany, dokud nejsou zlatohnědé a prohřáté."
+    },
+    {
+      "text": "Placky odkládej na papírovou utěrku a podávej teplé se zakysanou smetanou nebo se zelím."
+    }
+  ],
+  "tips": [
+    "Brambory nenech úplně vychladnout, teplé se lépe mačkají, ale musí odpařit páru.",
+    "Čím víc mouky, tím tužší placky. Přidej jen tolik, aby se dalo těsto tvarovat.",
+    "Placky se dají ohřát na suché pánvi, v troubě při 180 °C po dobu 8 minut."
+  ],
+  "substitutions": [
+    "Majoránku nahraď kmínem nebo čerstvou pažitkou.",
+    "Polohrubou mouku nahraď hladkou, placky budou jemnější.",
+    "Do těsta lze přidat 80 g nastrouhaného sýra."
+  ],
+  "faq": [
+    {
+      "q": "Jaké brambory na bramborové placky?",
+      "a": "Moučné nebo univerzální, uvařené ve slupce. Voskové jsou vlhčí a potřebují víc mouky."
+    },
+    {
+      "q": "Čím se liší placky od bramboráků?",
+      "a": "Placky jsou z vařených brambor, bramboráky ze syrových strouhaných. Placky jsou jemnější a nešednou."
+    },
+    {
+      "q": "Dají se připravit dopředu?",
+      "a": "Syrové placky vydrží v lednici 1 den, přikryté fólií. Hotové ohřívej v troubě."
+    }
+  ]
+}

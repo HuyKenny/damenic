@@ -1,0 +1,21 @@
+{
+  "name": "Plněné kuřecí stehno",
+  "kind": "main",
+  "section": "Kuře",
+  "price": 23900,
+  "recipe": "plnene-kureci-stehno",
+  "vegetarian": false,
+  "order": 942,
+  "description": "Vykostěné stehno s bylinkovou nádivkou, pečené do zlatova.",
+  "about": [
+    "Plněné stehno vypadá jako práce kuchaře, ale je to jen ostrý nůž a trpělivost. Kůže drží nádivku z rohlíku, bylinek a másla, a všechno se peče jako jeden balíček.",
+    "Řez ukáže vláčnou plnku a šťavnaté maso. Prázdná taška nic nevezme, kuchař si poradí."
+  ],
+  "restaurant": "bistro-uletelo",
+  "image": "dish-plnene-kureci-stehno",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

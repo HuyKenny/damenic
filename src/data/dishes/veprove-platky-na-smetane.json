@@ -1,0 +1,48 @@
+{
+  "name": "Vepřové plátky na smetaně",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Polední menu",
+  "description": "Tenké plátky vepřové kýty v hořčicové smetanové omáčce, k nim rýže nebo knedlík.",
+  "about": [
+    "Smetanová omáčka funguje jako dobrý kamarád: nic nepředstírá a všechno zjemní. Plátky karé se obalí v mouce, osmahnou dozlatova a dojdou v omáčce z cibule, smetany a lžíce hořčice.",
+    "Jídelna Zítra Možná ti ho doveze zítra, nebo možná taky ne. Doma ho zvládneš za půl hodiny, takže se tak dlouho čekat nevyplatí."
+  ],
+  "price": 18900,
+  "image": "dish-veprove-platky-na-smetane",
+  "recipe": "veprove-platky-na-smetane",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "ryze",
+          "name": "Dušená rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "knedlik",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    10
+  ],
+  "order": 910
+}

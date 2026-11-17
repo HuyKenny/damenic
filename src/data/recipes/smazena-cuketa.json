@@ -1,0 +1,101 @@
+{
+  "title": "Smažená cuketa",
+  "keywords": [
+    "smažená cuketa",
+    "smažená cuketa v trojobalu",
+    "smažená cuketa recept",
+    "cuketa smažená v strouhance"
+  ],
+  "image": "dish-smazena-cuketa",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 12,
+  "waitMinutes": 15,
+  "waitLabel": "solení a okapání",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Smažená cuketa je plátky cukety obalené v mouce, vejci a strouhance a osmažené dozlatova na oleji. Aby zůstaly křupavé a neroztekly, plátky nejdřív osolíš, necháš pustit vodu a osušíš. Podávají se jako samostatné jídlo s bramborami nebo tatarskou omáčkou.",
+  "ingredients": [
+    {
+      "ingredient": "cuketa",
+      "amount": 600,
+      "unit": "g",
+      "note": "2 střední, na plátky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na solení"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 300,
+      "unit": "ml",
+      "note": "na smažení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cuketu nakrájej na plátky silné 7 mm, rozlož je na utěrku a posyp solí. Nech 15 minut odpočinout, potom je důkladně osuš papírovou utěrkou."
+    },
+    {
+      "text": "Připrav tři talíře: mouku s pepřem, rozšlehaná vejce a strouhanku. Plátky obaluj v tomto pořadí a strouhanku lehce přitiskni."
+    },
+    {
+      "text": "Na pánvi rozehřej olej na 170 až 175 °C. Zkouška: kousek strouhanky v něm okamžitě šumí. Olej má sahat do výšky asi 1,5 cm."
+    },
+    {
+      "text": "Cuketu smaž po dávkách 2 až 3 minuty z každé strany, dokud není zlatohnědá."
+    },
+    {
+      "text": "Hotové plátky odkládej na papírovou utěrku, aby okapal tuk. Podávej hned s brambory nebo s tatarskou omáčkou."
+    }
+  ],
+  "tips": [
+    "Plátky nesmí být mokré, jinak se strouhanka odloupne. Po osolení je pečlivě osuš.",
+    "Teplotu oleje hlídej: studený nasákne tukem, příliš horký obal spálí a uvnitř zůstane tvrdá cuketa.",
+    "Odleželou smaženou cuketu ohřej na plechu v troubě při 180 °C, v mikrovlnce zvláční."
+  ],
+  "substitutions": [
+    "Strouhanku nahraď panko nebo směsí strouhanky a strouhaného sýra.",
+    "Pro lehčí verzi peč plátky na 220 °C po dobu 15 minut, obrať je v polovině.",
+    "Mouku lze nahradit kukuřičným škrobem."
+  ],
+  "faq": [
+    {
+      "q": "Jak se smaží cuketa, aby nebyla rozbředlá?",
+      "a": "Plátky osol, nech pustit vodu, pořádně osuš a smaž při 170 °C. Teplý olej utěsní obal dřív, než cuketa změkne."
+    },
+    {
+      "q": "Dá se cuketa smažit v troubě?",
+      "a": "Ano, plátky v trojobalu postříkej olejem a peč 15 minut při 220 °C, v půlce obrať."
+    },
+    {
+      "q": "Čím se podává smažená cuketa?",
+      "a": "Nejčastěji s vařenými bramborami a tatarskou omáčkou nebo s kysanou smetanou a bylinkami."
+    }
+  ]
+}

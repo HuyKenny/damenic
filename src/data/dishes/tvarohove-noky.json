@@ -1,0 +1,25 @@
+{
+  "name": "Tvarohové noky se strouhankou",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Sladké jídlo",
+  "description": "Malé tvarohové noky dozlatova obalené ve strouhance a máslu, posypané moučkovým cukrem.",
+  "about": [
+    "Tvarohové noky jsou nejrychlejší sladký oběd z naší kuchyně: těsto z tvarohu, krupice a vajec se lžičkou spouští do vody a za pár minut je hotovo. Obalují se strouhankou opraženou na másle a podávají se s cukrem. Nic složitého, jen tvaroh nesmí být mokrý.",
+    "Ve smyšlené jídelně je dělá kuchař s dobrou náladou a bez kuchyně. Doma stačí hrnec, lžička a dvacet minut času. Kurýr nese talíř prázdný, zato dobře doplněný."
+  ],
+  "price": 11900,
+  "image": "dish-tvarohove-noky",
+  "recipe": "tvarohove-noky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 390
+}

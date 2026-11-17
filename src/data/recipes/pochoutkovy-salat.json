@@ -1,0 +1,121 @@
+{
+  "title": "Pochoutkový salát",
+  "keywords": [
+    "pochoutkový salát",
+    "pochoutkový salát recept",
+    "pochoutkový salát s ananasem",
+    "salát s kuřecím masem a ananasem"
+  ],
+  "image": "dish-pochoutkovy-salat-ani-listek",
+  "category": "salaty",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 60,
+  "waitLabel": "uležení v lednici",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Pochoutkový salát je sladkoslaný salát z kuřecích prsou, ananasu, kukuřice a eidamu v majonézové zálivce. Maso se uvaří předem a salát ještě hodinu v lednici uleží, aby se chutě propojily.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 400,
+      "unit": "g",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do vody",
+      "group": "Maso"
+    },
+    {
+      "ingredient": "ananas-konzerva",
+      "amount": 227,
+      "unit": "g",
+      "note": "scezený, na kousky",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "kukurice-konzerva",
+      "amount": 170,
+      "unit": "g",
+      "note": "scezená",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 150,
+      "unit": "g",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 100,
+      "unit": "g",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Zálivka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuřecí prsa vlož do vroucí osolené vody, stáhni na mírný var a vař 15 minut, dokud uvnitř nemají 75 °C. Vyndej a nech úplně vychladnout."
+    },
+    {
+      "text": "Vychladlé maso nakrájej na kostičky 1 cm. Ananas dobře scedi a kukuřici také."
+    },
+    {
+      "text": "V míse smíchej majonézu, jogurt, hořčici a pepř na hladkou zálivku."
+    },
+    {
+      "text": "Maso, ananas, kukuřici a eidam smíchej se zálivkou, ochutnej a případně dosol."
+    },
+    {
+      "text": "Salát přikryj a nech aspoň 1 hodinu v lednici uležet. Podávej vychlazený."
+    }
+  ],
+  "tips": [
+    "Maso nech zcela vychladnout. Teplé by majonézu rozředilo.",
+    "Ananas dobře scedi, jinak bude salát vodnatý.",
+    "Salát se hodí na chlebíčky i na přílohu k pečivu."
+  ],
+  "substitutions": [
+    "Majonézu s jogurtem můžeš nahradit samotným řeckým jogurtem se špetkou citronové šťávy.",
+    "Maso zastoupí šunka z kuřecí šunky (200 g).",
+    "Eidam nahradí ementál nebo gouda."
+  ],
+  "faq": [
+    {
+      "q": "Dá se pochoutkový salát připravit den předem?",
+      "a": "Ano. V lednici vydrží 2 dny v uzavřené misce. Ananas ale časem pustí šťávu, proto salát před podáváním promíchej."
+    },
+    {
+      "q": "Jaký ananas se hodí do salátu?",
+      "a": "Konzervovaný na kousky ve vlastní šťávě. Čerstvý obsahuje enzym, který zkazí majonézu a mléčné složky."
+    },
+    {
+      "q": "Čím nahradit majonézu?",
+      "a": "Řeckým jogurtem, zakysanou smetanou nebo jejich směsí. Chuť zůstane, ale salát bude lehčí."
+    }
+  ]
+}

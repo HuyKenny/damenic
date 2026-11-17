@@ -1,0 +1,137 @@
+{
+  "title": "Hovězí hrudí",
+  "keywords": [
+    "hovězí hrudí",
+    "hovězí hrudí v troubě",
+    "dušené hovězí hrudí",
+    "pečené hovězí hrudí"
+  ],
+  "image": "dish-hovezi-hrudi",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 210,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Hovězí hrudí je tučnější a vazivovité maso, které se peče v troubě pod víkem při 140 °C přes tři hodiny, aby změklo na šťavnaté plátky. Dusí se na kořenové zelenině s vývarem, ze kterého vznikne tmavá omáčka. Podává se s křenem, knedlíkem nebo bramborami.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-hrudi",
+      "amount": 1500,
+      "unit": "g",
+      "note": "vcelku"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 250,
+      "unit": "g",
+      "note": "na čtvrtky"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 600,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kren-strouhany",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "k podání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 140 °C. Hrudí osol, potři kmínem a paprikou a nech 15 minut odpočinout."
+    },
+    {
+      "text": "V litinovém hrnci nebo hlubokém pekáči rozehřej olej a hrudí opékej ze všech stran 3 až 4 minuty na každé, dokud nezhnědne. Vyjmi."
+    },
+    {
+      "text": "Do hrnce dej cibuli, mrkev, celer a česnek a 5 minut opékej. Přidej protlak, bobkový list a pepř."
+    },
+    {
+      "text": "Vrať maso, zalij vývarem do poloviny výšky masa a těsně zakryj víkem. Peč 3 hodiny, po každé hodině maso otoč a polij šťávou."
+    },
+    {
+      "text": "Hrudí je hotové, když se do něj vidlička zabodne bez odporu, vnitřní teplota je kolem 90 °C. Vyjmi ho na prkénko a nech 15 minut odpočinout pod fólií."
+    },
+    {
+      "text": "Šťávu s zeleninou rozmixuj nebo odpař do omáčky. Maso nakrájej proti vláknům na plátky a podávej s křenem a omáčkou."
+    }
+  ],
+  "tips": [
+    "Hrudí má vrstvu tuku, kterou před pečením nesundávej, při dušení se do masa vpije.",
+    "Krájej proti vláknům, jinak plátky budou žilnaté.",
+    "Hrnec musí být těsně přikrytý, jinak se šťáva odpaří a maso zůstane suché."
+  ],
+  "substitutions": [
+    "Hrudí lze nahradit hovězí plecí, bude libovější a potřebuje 2,5 hodiny.",
+    "Hovězí vývar nahraď vodou s lžičkou soli navíc."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se peče hovězí hrudí?",
+      "a": "Kus 1,5 kg potřebuje 3 až 3,5 hodiny při 140 °C pod víkem. Je hotové, když se vidlička zabodne bez odporu."
+    },
+    {
+      "q": "Musí se hrudí před pečením vařit?",
+      "a": "Ne. Peče se rovnou, těsně přikryté s vývarem, což ušetří čas a chuť zůstane v jídle."
+    },
+    {
+      "q": "Čím zahustit omáčku z hrudí?",
+      "a": "Rozmixuj zeleninu, ve které se maso dusilo, tyčovým mixérem. Škrob a mouka nejsou potřeba."
+    }
+  ]
+}

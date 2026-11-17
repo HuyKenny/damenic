@@ -1,0 +1,135 @@
+{
+  "title": "Kuřecí karbanátky",
+  "keywords": [
+    "kuřecí karbanátky",
+    "kuřecí karbanátky z mletého masa",
+    "smažené kuřecí karbanátky",
+    "karbanátky z kuřecího masa"
+  ],
+  "image": "dish-kureci-karbanatky",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 15,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek směsi",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Kuřecí karbanátky z mletého kuřecího masa jsou jemnější než klasické vepřové a smaží se v trojobalu. Mleté kuřecí je libové a hrozí, že bude suché, takže se do směsi dává namočený rohlík, cibule a vejce. Uvnitř musí mít aspoň 75 °C.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-mlete",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "ingredient": "rohliky",
+      "amount": 1,
+      "unit": "ks",
+      "note": "starý, na kostky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "note": "vlažné"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno nastrouhaná"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "do směsi"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na obalení"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozšlehané na obalení"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 6,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 150,
+      "unit": "ml",
+      "note": "na smažení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rohlík namoč do vlažného mléka na 5 minut, pak ho vymačkej. V míse smíchej mleté maso, rohlík, cibuli, česnek, vejce, sůl, pepř a majoránku a směs 2 minuty hněť."
+    },
+    {
+      "text": "Směs nech 15 minut v lednici odpočinout. S mokrýma rukama z ní tvaruj 8 karbanátků o tloušťce asi 2 cm."
+    },
+    {
+      "text": "Karbanátky obal v mouce, v rozšlehaném vejci a ve strouhance. Strouhanku lehce přitiskni."
+    },
+    {
+      "text": "Na pánvi rozehřej olej na 160 °C a smaž karbanátky na středním plameni 6 až 7 minut z každé strany do zlatova. Uvnitř musí mít 75 °C, šťáva je čirá."
+    },
+    {
+      "text": "Hotové karbanátky nech na papírové utěrce okapat a podávej s bramborovou kaší nebo bramborovým salátem."
+    }
+  ],
+  "tips": [
+    "Karbanátky smaž na středním plameni. Při vysoké teplotě zhnědne obal, ale maso uvnitř zůstane syrové.",
+    "Směs je lepkavá, ruce si před tvarováním namoč, nic se nelepí.",
+    "Kdyby se směs rozpadala, přidej lžíci strouhanky."
+  ],
+  "substitutions": [
+    "Mleté kuřecí nahraď mletým krůtím, výsledek je stejně libový.",
+    "Rohlík nahraď 3 lžícemi strouhanky navlhčenými mlékem.",
+    "Bez smažení: karbanátky peč na plechu 25 minut při 200 °C, potři je olejem."
+  ],
+  "faq": [
+    {
+      "q": "Jak poznám, že jsou kuřecí karbanátky propečené?",
+      "a": "Uvnitř mají mít aspoň 75 °C. Když je rozkrojíš, šťáva je čirá a maso není růžové."
+    },
+    {
+      "q": "Proč jsou kuřecí karbanátky suché?",
+      "a": "Mleté kuřecí je libové. Chybí-li mu namočený rohlík, cibule nebo vejce, vyschne. Nesmaž je déle, než je třeba."
+    },
+    {
+      "q": "Jde karbanátky zamrazit?",
+      "a": "Ano, nesmažené vydrží v mrazáku do 2 měsíců. Smaž je ze zmrazených při nižším žáru o 4 minuty déle."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "title": "Květákový salát",
+  "keywords": [
+    "květákový salát",
+    "květákový salát s vejcem",
+    "salát z květáku",
+    "květákový salát s majonézou"
+  ],
+  "image": "dish-kvetakovy-salat",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 5,
+  "waitMinutes": 60,
+  "waitLabel": "chlazení",
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Květákový salát je zeleninový salát z krátce povařeného květáku, vajec a okurek v jogurtovo-majonézové zálivce. Květák se vaří jen 3 minuty, aby zůstal pevný, a salát musí aspoň hodinu odležet v lednici, aby se chutě spojily.",
+  "ingredients": [
+    {
+      "ingredient": "kvetak",
+      "amount": 500,
+      "unit": "g",
+      "note": "na malé růžičky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "natvrdo"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "jarní nebo červená"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "svazek"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce vař 10 minut od varu, opláchni studenou vodou a oloupej. Pak je nakrájej na kostičky."
+    },
+    {
+      "text": "Květák rozděl na menší růžičky. Ve vroucí osolené vodě je vař 3 minuty, pak slij a ihned zchlaď studenou vodou, aby zůstal pevný. Nech dobře okapat a osušit."
+    },
+    {
+      "text": "V míse smíchej majonézu s jogurtem, hořčicí, solí a pepřem. Přidej nadrobno nakrájenou cibuli a nakládané okurky."
+    },
+    {
+      "text": "Do zálivky vmíchej květák a vejce a opatrně promíchej, ať se růžičky nerozpadnou."
+    },
+    {
+      "text": "Salát přikryj a nech 1 hodinu odležet v lednici. Před podáváním dosol a posyp pažitkou."
+    }
+  ],
+  "tips": [
+    "Květák po zchlazení opravdu osuš, voda by zálivku zředila.",
+    "Pro svěžejší chuť přidej lžičku šťávy z nakládaných okurek.",
+    "Salát se hodí k smaženým řízkům a pečenému masu, vydrží v lednici 2 dny."
+  ],
+  "substitutions": [
+    "Majonézu můžeš nahradit celou jogurtovou zálivkou, pak ji dochuť citronovou šťávou.",
+    "Místo vařeného květáku použij syrový, jemně nakrájený.",
+    "Vejce vynech pro lehčí vegetariánskou verzi bez vajec."
+  ],
+  "faq": [
+    {
+      "q": "Dá se květák do salátu jíst syrový?",
+      "a": "Ano, nakrájený na malé růžičky. Chuť je výraznější a křupavější, ale hůř se tráví než krátce povařený."
+    },
+    {
+      "q": "Jak dlouho vydrží květákový salát?",
+      "a": "V lednici přikrytý 2 dny. Vejce a majonéza nesnášejí dlouhé stání v teple."
+    },
+    {
+      "q": "Proč salát pustil vodu?",
+      "a": "Květák nebyl dostatečně osušený po vaření. Příště ho nech okapat na utěrce."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "title": "Dušená hovězí kližka",
+  "keywords": [
+    "hovězí kližka",
+    "hovězí kližka recept",
+    "hovězí kližka na cibulce",
+    "dušená hovězí kližka"
+  ],
+  "image": "dish-hovezi-klizka",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 180,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Hovězí kližka je vazivovité maso ze zadní nohy, které potřebuje tři hodiny dušení, aby změklo. Dusí se vcelku v troubě na kořenové zelenině s vývarem, šťáva se pak rozmixuje do omáčky a maso se nakrájí na plátky.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-klizka",
+      "amount": 1000,
+      "unit": "g",
+      "note": "vcelku"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 250,
+      "unit": "g",
+      "note": "na čtvrtky"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kousky"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kousky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 5,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 160 °C. Maso osuš, osol, opepři a potři horčicí."
+    },
+    {
+      "text": "V pekáči nebo litinovém hrnci na vyšším plameni opeč maso na oleji ze všech stran dohněda, asi 10 minut. Vyjmi."
+    },
+    {
+      "text": "Do hrnce dej cibuli, mrkev, celer, petržel a česnek a 5 minut je opékej. Přidej protlak, bobkový list a nové koření."
+    },
+    {
+      "text": "Vlož maso zpět, zalij vývarem do poloviny výšky masa, přikryj víkem a dej na 3 hodiny do trouby. Po hodině maso otoč."
+    },
+    {
+      "text": "Maso je hotové, když do něj vidlička zajede bez odporu a jádro má kolem 90 °C. Vyjmi ho a nech 10 minut odpočinout pod fólií."
+    },
+    {
+      "text": "Šťávu s zeleninou rozmixuj tyčovým mixérem do hladké omáčky, případně zredukuj. Maso nakrájej na plátky proti vláknům a podávej s omáčkou a knedlíkem."
+    }
+  ],
+  "tips": [
+    "Maso krájej vždy proti směru vláken, jinak bude žilnaté.",
+    "Hrnec zakryj těsně. Když se vývar odpaří, dolij 100 ml vody.",
+    "Druhý den je kližka ještě chutnější a krájí se na tenčí plátky."
+  ],
+  "substitutions": [
+    "Kližku lze nahradit hovězí plecí, doba stejná.",
+    "Hovězí vývar nahraď vodou a půl lžičky soli navíc."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct hovězí kližku?",
+      "a": "Při 160 °C zakrytou tři hodiny na kus kolem 1 kg. Hotová je, když se vidlička zabodne bez odporu."
+    },
+    {
+      "q": "Proč je hovězí kližka tuhá?",
+      "a": "Buď se vařila krátce, nebo příliš vysokou teplotou. Vazivo se změní na šťávu až po dlouhém pomalém tepelném zpracování."
+    },
+    {
+      "q": "Jak krájet kližku?",
+      "a": "Proti vláknům, tedy kolmo na směr svalových vláken, na plátky silné asi 1 cm."
+    }
+  ]
+}

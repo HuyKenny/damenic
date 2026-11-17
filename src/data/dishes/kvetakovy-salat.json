@@ -1,0 +1,22 @@
+{
+  "name": "Květákový salát s vejcem",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Krátce povařený květák, vejce a nakládané okurky v jogurtové zálivce.",
+  "about": [],
+  "price": 8900,
+  "image": "dish-kvetakovy-salat",
+  "recipe": "kvetakovy-salat",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 80
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Zapečený květák",
+  "keywords": [
+    "zapečený květák",
+    "zapečený květák se sýrem",
+    "zapečený květák ve smetaně",
+    "zapečený květák recept"
+  ],
+  "image": "dish-zapeceny-kvetak",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Zapečený květák se sýrem je růžičky květáku krátce povařené a zapečené ve smetanovo-vaječné směsi se sýrem. Květák se vaří jen 5 minut, aby zůstal pevný a v troubě nezměkl na kaši. Zapečený je zlatý nahoře a uvnitř krémový.",
+  "ingredients": [
+    {
+      "ingredient": "kvetak",
+      "amount": 900,
+      "unit": "g",
+      "note": "1 hlávka, na růžičky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 120,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na vymazání a posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C). Květák rozděl na růžičky, osol vodu a vař je 5 minut, aby zůstaly al dente. Pak je slij a nech odpařit."
+    },
+    {
+      "text": "Pekáč vymaž máslem a posyp strouhankou. Růžičky do něj rozlož v jedné vrstvě."
+    },
+    {
+      "text": "Smetanu rozšlehej s vejci, prolisovaným česnekem, solí, pepřem a muškátem. Přimíchej polovinu sýra."
+    },
+    {
+      "text": "Zálivkou přelij květák, posyp zbylým sýrem a rozděl na něj kousky másla."
+    },
+    {
+      "text": "Peč 25 až 30 minut. Je hotový, když povrch zlatavě zrůžoví a zálivka ztuhne. Před krájením nech 5 minut odpočinout a podávej s bramborami nebo chlebem."
+    }
+  ],
+  "tips": [
+    "Květák nevař déle než 5 minut, v troubě se dopeče a při přepečení zahořkne.",
+    "Růžičky po scezení nech chvíli odpařit, jinak zálivka zředí vodou.",
+    "Chceš-li křupavější povrch, posledních 5 minut zapékej při horním ohřevu."
+  ],
+  "substitutions": [
+    "Eidam nahraď goudou nebo mozzarellou.",
+    "Smetanu na vaření nahraď směsí mléka a zakysané smetany (po 100 ml).",
+    "Květák můžeš doplnit brokolicí nebo mrkví."
+  ],
+  "faq": [
+    {
+      "q": "Musím květák před zapečením předvařit?",
+      "a": "Doporučuji ano, 5 minut stačí. Syrový by se při krátkém pečení neprohřál a zálivka by se zředila vodou."
+    },
+    {
+      "q": "Jak dlouho se zapéká květák v troubě?",
+      "a": "Při 200 °C asi 25 až 30 minut, dokud povrch nezezlátne a zálivka nezhoustne."
+    },
+    {
+      "q": "Dá se zapečený květák ohřívat?",
+      "a": "Ano, v troubě při 160 °C po dobu 10 minut. V lednici vydrží přikrytý 2 dny."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Fašírky",
+  "keywords": [
+    "fašírky",
+    "fašírky recept",
+    "pečené fašírky",
+    "fašírky z mletého masa"
+  ],
+  "image": "dish-fasirky",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 30,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek směsi",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Fašírky z mletého masa jsou masové placky bez trojobalu, upečené v troubě, takže potřebují méně tuku než smažené. Směs se vyplatí nechat odpočinout, aby se rohlík nasákl. Uvnitř musí mít aspoň 72 °C.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "rohliky",
+      "amount": 1,
+      "unit": "ks",
+      "note": "starý, na kostky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 80,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "note": "najemno nastrouhaná"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "na obalení"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rohlík namoč v mléku na 5 minut a vymačkej. V míse smíchej obě mletá masa, rohlík, cibuli, česnek, vejce, hořčici, majoránku, sůl a pepř a směs 2 minuty hněť."
+    },
+    {
+      "text": "Směs nech 10 minut v lednici odpočinout. Troubu předehřej na 200 °C."
+    },
+    {
+      "text": "Navlhčenýma rukama tvaruj 8 placek o tloušťce 2 cm a lehce je obal ve strouhance. Poklaď plech pečicím papírem, fašírky potři olejem."
+    },
+    {
+      "text": "Peč 25 až 30 minut, v polovině obrať. Uvnitř musí mít aspoň 72 °C a povrch musí být zlatý."
+    },
+    {
+      "text": "Nech 3 minuty odpočinout a podávej s bramborovou kaší nebo hořčicí."
+    }
+  ],
+  "tips": [
+    "Obě druhy masa dávají jemnější chuť a lepší konzistenci, než by dalo samo vepřové.",
+    "Při tvarování si namoč ruce, směs se tolik nelepí.",
+    "Fašírky lze smažit na pánvi, ale v troubě se nepřipalují."
+  ],
+  "substitutions": [
+    "Hovězí mleté nahraď vepřovým, fašírky budou měkčí.",
+    "Cibuli lze přidat i osmaženou na másle, bude sladší.",
+    "Bez lepku: rohlík a strouhanku nahraď bezlepkovou strouhankou."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi fašírkami a karbanátky?",
+      "a": "Fašírky se obvykle netvarují v trojobalu a upečou se v troubě. Karbanátky se obalují a smaží."
+    },
+    {
+      "q": "Jak dlouho péct fašírky?",
+      "a": "Při 200 °C asi 25 až 30 minut. Uvnitř musí být aspoň 72 °C."
+    },
+    {
+      "q": "Dají se fašírky zamrazit?",
+      "a": "Ano, syrové i upečené vydrží 2 měsíce. Rozmraž je v lednici."
+    }
+  ]
+}

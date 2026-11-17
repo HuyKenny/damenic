@@ -1,0 +1,130 @@
+{
+  "title": "Tvarohové noky se strouhankou a máslem",
+  "image": "dish-tvarohove-noky",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 20,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "tvarohové noky",
+    "tvarohové noky recept",
+    "noky z tvarohu",
+    "sladké tvarohové noky"
+  ],
+  "intro": "Tvarohové noky jsou sladké malé knedlíčky z tvarohu, vajec, krupice a mouky, které se vaří 5 minut ve slané vodě. Vyjde asi 40 noků pro 4 osoby. Těsto nekyne ani nevyžaduje tažení, ale musí odpočinout, aby krupice nabobtnala, a tvaroh nesmí být mokrý.",
+  "ingredients": [
+    {
+      "ingredient": "tvaroh",
+      "amount": 500,
+      "unit": "g",
+      "note": "tučný, dobře okapaný",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 120,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "krupice",
+      "amount": 80,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do vody na vaření",
+      "group": "Vaření"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 70,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 50,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 50,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "g",
+      "note": "volitelně",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Tvaroh dej do sítka nebo utěrky a nech 15 minut okapat, případně ho zlehka vymačkej. Mokrý tvaroh je důvod, proč se noky rozvaří."
+    },
+    {
+      "text": "V míse rozmíchej tvaroh s vejci a špetkou soli. Přidej mouku s krupicí a vařečkou zpracuj na hustou, hladkou hmotu, která se drží na lžíci. Přikryj a nech 20 minut odpočinout."
+    },
+    {
+      "text": "Ve velkém hrnci přiveď k varu 3 l vody s lžičkou soli. Mokrou lžičkou odebírej z těsta nočky velké jako ořech a spouštěj je do vroucí vody."
+    },
+    {
+      "text": "Nejprve uvař zkušební dávku asi 5 noků. Pokud se rozpadají, vmíchej do těsta lžíci krupice a nech ho dalších 5 minut odpočinout."
+    },
+    {
+      "text": "Po vložení stáhni plamen, aby se voda jen mírně vlnila. Noky vyplavou po 2 až 3 minutách; od vyplavání je vař ještě 2 minuty a vyndej děrovanou lžící."
+    },
+    {
+      "text": "Na pánvi rozpusť máslo, přidej strouhanku a 3 až 4 minuty ji praž za stálého míchání dozlatova. Noky v ní obal a podávej posypané moučkovým cukrem a podle chuti skořicí."
+    }
+  ],
+  "tips": [
+    "Noky vař v několika dávkách, aby voda nepřestala vřít. Přeplněný hrnec těsto rozbředne.",
+    "Chceš-li kyprější noky, nech těsto odpočinout i 30 minut; krupice potřebuje čas, aby nasákla tvarohovou vlhkost.",
+    "Hotové noky se dají ohřát na pánvi s trochou másla. Syrové těsto zakryté v lednici vydrží do druhého dne.",
+    "K nokům se hodí švestkové povidla nebo zakysaná smetana s cukrem místo strouhanky."
+  ],
+  "substitutions": [
+    "Krupici nahradíš stejným množstvím hrubé mouky; noky budou o trochu těžší.",
+    "Strouhanku nahradíš mletými vlašskými ořechy opraženými na másle.",
+    "Pro bezlepkovou variantu použij rýžovou mouku a bezlepkovou strouhanku místo pšeničných, těsto však nech stát déle."
+  ],
+  "faq": [
+    {
+      "q": "Čím se liší tvarohové noky od tvarohových knedlíků?",
+      "a": "Noky jsou malé, tvarují se lžičkou a vaří se jen pár minut. Knedlíky jsou plněné ovocem, tvarují se v rukou a vaří se déle."
+    },
+    {
+      "q": "Proč se mi noky rozvařily?",
+      "a": "Nejčastěji kvůli příliš vlhkému tvarohu nebo moc silnému varu. Tvaroh okapej, těsto nech odpočinout a vař na mírném varu s kapkou studené vody, když přestává vřít rovnoměrně."
+    },
+    {
+      "q": "Dají se noky zamrazit?",
+      "a": "Ano. Syrové nočky nech na prkénku zmrazit a pak je přesyp do sáčku. Vař je rovnou ze zmrazeného stavu asi 6 až 7 minut od vyplavání."
+    }
+  ]
+}

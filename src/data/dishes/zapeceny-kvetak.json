@@ -1,0 +1,43 @@
+{
+  "name": "Zapečený květák se sýrem",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Květák pod smetanovou vaječnou zálivkou a eidamem, zapečený do zlatova.",
+  "about": [
+    "Květák je zelenina, která s troubou souhlasí. Krátce povařený se zalije smetanou s vejci a sýrem a upeče se, až povrch zezlátne a zálivka ztuhne.",
+    "Zahrádka je smyšlená a květák si odneseš jen v receptu. Záhonek zatím nepřikládáme."
+  ],
+  "price": 17900,
+  "image": "dish-zapeceny-kvetak",
+  "recipe": "zapeceny-kvetak",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná porce",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Větší porce",
+          "priceDelta": 4000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 250
+}

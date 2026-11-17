@@ -1,0 +1,125 @@
+{
+  "title": "Krůtí guláš",
+  "keywords": [
+    "krůtí guláš",
+    "krůtí guláš z prsou",
+    "krůtí guláš s paprikou",
+    "krůtí guláš recept"
+  ],
+  "image": "dish-kruti-gulas",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 60,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Krůtí guláš je libovější než vepřový a hovězí, ale krůtí maso snadno vyschne, proto potřebuje dost cibule a pomalé vaření. Z prsou se dělá za hodinu a výsledek je šťavnatý, jen když maso nevaříš prudce.",
+  "ingredients": [
+    {
+      "ingredient": "kruti-prsa",
+      "amount": 800,
+      "unit": "g",
+      "note": "na kostky 3 cm"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 500,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 600,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na oleji na středním plameni smaž cibuli 12 minut, dokud nezezlátne. Přidej maso, osol ho a opékej 5 minut do světlého zbarvení."
+    },
+    {
+      "text": "Přidej česnek, kmín a majoránku a míchej minutu. Stáhni pánev z plamene, vmíchej papriku a protlak a hned zalij vývarem."
+    },
+    {
+      "text": "Vrať na plamen, přidej bobkový list, přikryj a duš na mírném plameni 40 minut. Po 20 minutách přidej papriku na kostky."
+    },
+    {
+      "text": "Maso je hotové, když je měkké a uvnitř má 75 °C. Pokud je omáčka řídká, odkryj a vař 5 minut, nebo ji zahusti lžící mouky rozmíchané ve vodě."
+    },
+    {
+      "text": "Odstraň bobkový list, dochuť a podávej s knedlíkem, chlebem nebo těstovinami."
+    }
+  ],
+  "tips": [
+    "Krůtí maso se nesmí vařit prudce, vlákna se stáhnou a maso ztvrdne.",
+    "Maso krájej na stejné kostky, dusí se rovnoměrně.",
+    "Místo prsou lze koupit stehna, dusí se déle, ale jsou šťavnatější."
+  ],
+  "substitutions": [
+    "Krůtí prsa nahraď krůtím stehnem a duš 60 minut.",
+    "Papriku čerstvou nahraď sladkou paprikou ze sklenice.",
+    "Do omáčky přidej lžíci zakysané smetany na konci."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří krůtí guláš?",
+      "a": "Z prsou 40 až 45 minut na mírném plameni, ze stehen asi 60 minut. Maso má mít 75 °C a být měkké."
+    },
+    {
+      "q": "Proč je krůtí maso v gulášu suché?",
+      "a": "Prsa jsou libová a vaří-li se prudce, vyschnou. Duš ji na mírném plameni pod pokličkou a nepřidávej víc vody než je třeba."
+    },
+    {
+      "q": "Dá se krůtí guláš připravit dopředu?",
+      "a": "Ano, vydrží 3 dny v lednici a je lepší druhý den. Ohřívej ho pomalu."
+    }
+  ]
+}

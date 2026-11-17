@@ -1,0 +1,24 @@
+{
+  "name": "Těstoviny se žampiony a smetanou",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Z pánve",
+  "description": "Tagliatelle s osmaženými žampiony, tymiánem a smetanou, posypané petrželkou.",
+  "about": [
+    "Houby potřebují rozpálenou pánev a trpělivost, aby zhnědly a nepustily vodu. Tymián je dělá voňavější, než by čekal každý, kdo je zná jen z jídelny.",
+    "Omáčka se nese k talíři v myšlenkách, ne v tašce. Houby ale můžeš usmažit hned, jen si pro ně musíš dojít k sporáku."
+  ],
+  "price": 18900,
+  "image": "dish-testoviny-s-houbami-niente",
+  "recipe": "testoviny-s-houbami",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 710
+}

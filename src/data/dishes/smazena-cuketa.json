@@ -1,0 +1,43 @@
+{
+  "name": "Smažená cuketa v trojobalu",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Minutky",
+  "description": "Křupavé plátky cukety v trojobalu, zlatavě osmažené, s citronem.",
+  "about": [
+    "Cuketa ve strouhance je důkaz, že zelenina umí být chrupavá. Plátky se nejdřív osolí a osuší, pak projdou moukou, vejcem a strouhankou a smaží se, dokud nezezlátnou.",
+    "Poctivě osušená cuketa nepouští vodu do obalu. Tohle je to jediné, co se tu opravdu počítá."
+  ],
+  "price": 15900,
+  "image": "dish-smazena-cuketa",
+  "recipe": "smazena-cuketa",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná porce",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Větší porce",
+          "priceDelta": 4000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3
+  ],
+  "featured": false,
+  "order": 580
+}

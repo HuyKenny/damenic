@@ -1,0 +1,108 @@
+{
+  "title": "Kokosové kuličky bez pečení",
+  "image": "dish-kokosove-kulicky",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 7,
+  "activeMinutes": 30,
+  "cookMinutes": 0,
+  "waitMinutes": 60,
+  "waitLabel": "zchladnutí v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "keywords": [
+    "kokosové kuličky",
+    "kokosové kuličky bez pečení",
+    "kokosové kuličky z mléka",
+    "nepečené cukroví"
+  ],
+  "intro": "Kokosové kuličky bez pečení z kondenzovaného mléka, strouhaného kokosu a máslových sušenek. Vyjde asi 35 kuliček, tedy 7 porcí po 5 kusech. Nepečený základ potřebuje 1 hodinu v lednici, aby se dal tvarovat.",
+  "ingredients": [
+    {
+      "ingredient": "mleko-kondenzovane-slazene",
+      "amount": 200,
+      "unit": "g",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 150,
+      "unit": "g",
+      "note": "a trochu na obalení",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "susenky-maslove",
+      "amount": 120,
+      "unit": "g",
+      "note": "rozdrcené",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Základ"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 50,
+      "unit": "g",
+      "note": "na obalení",
+      "group": "Obalení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Sušenky rozdrť v sáčku válečkem na jemné drobky."
+    },
+    {
+      "text": "V míse smíchej kondenzované mléko, změklé máslo a vanilkový cukr. Přidej drobky a kokos a promíchej do hladké hmoty."
+    },
+    {
+      "text": "Hmotu nech 1 hodinu v lednici, aby ztuhla a nelepila se."
+    },
+    {
+      "text": "Z hmoty tvaruj kuličky o velikosti ořechu, asi 15 g, a obaluj je v kokosu."
+    },
+    {
+      "text": "Kuličky ulož v uzavřené krabici v lednici; vydrží asi týden."
+    }
+  ],
+  "tips": [
+    "Kuličky tvaruj vlhkýma rukama, nebudou se lepit.",
+    "Hmota má být vláčná; když se drolí, přidej lžíci mléka.",
+    "Kuličky neobsahují alkohol, takže se hodí i pro děti.",
+    "Kuličky do krabice vrstvi s pečicím papírem."
+  ],
+  "substitutions": [
+    "Kondenzované mléko nahradíš směsí 100 g másla a 100 g moučkového cukru s trochou mléka.",
+    "Máslové sušenky nahradíš piškoty; drobky nasají více tekutiny.",
+    "Kokos můžeš obalit v kakau nebo mletých ořechách."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží kokosové kuličky?",
+      "a": "V lednici v uzavřené krabici asi týden. Mohou být i zmrazeny."
+    },
+    {
+      "q": "Proč se mi hmota lepí na ruce?",
+      "a": "Je příliš teplá. Nech ji déle chladnout nebo si ruce navlhči studenou vodou."
+    },
+    {
+      "q": "Jde udělat kuličky bez sušenek?",
+      "a": "Ano, z kondenzovaného mléka, másla a kokosu; jsou měkčí a méně držící."
+    }
+  ],
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ]
+}

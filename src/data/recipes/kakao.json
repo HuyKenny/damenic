@@ -1,0 +1,89 @@
+{
+  "title": "Kakao",
+  "keywords": [
+    "kakao",
+    "kakao recept",
+    "domácí kakao z mléka",
+    "jak udělat kakao"
+  ],
+  "image": "dish-kakao-pul-hrnku",
+  "category": "napoje",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 5,
+  "cookMinutes": 5,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "intro": "Domácí kakao z mléka, kakaového prášku a cukru je hotové za 10 minut. Kakao se nejdřív rozmíchá s trochou mléka na hladkou pastu, pak se přidá zbytek, aby netvořilo hrudky.",
+  "ingredients": [
+    {
+      "ingredient": "kakao",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "neslazené"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vanilka-lusk",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nebo 0,5 lžičky vanilkového cukru"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnku rozmíchej kakao s cukrem a 4 lžícemi studeného mléka na hladkou hustou pastu bez hrudek."
+    },
+    {
+      "text": "Zbytek mléka zahřej v hrnci na středním plameni. Mléko nesmí vřít, jen se začít kouřit, asi 80 °C."
+    },
+    {
+      "text": "Do mléka vmíchej kakaovou pastu a šlehej metličkou. Přidej špetku soli a vanilku."
+    },
+    {
+      "text": "Kakao ohřej ještě 1 až 2 minuty za stálého míchání, ať je homogenní, ale nevař."
+    },
+    {
+      "text": "Nalij do hrnků a podávej horké. Na povrchu se může tvořit blána, tu odstraň nebo rozšlehej."
+    }
+  ],
+  "tips": [
+    "Špetka soli zvýrazní kakaovou chuť.",
+    "Mléko hlídej, připaluje se rychle. Míchej dno.",
+    "Pro bohatší kakao nahraď 100 ml mléka smetanou."
+  ],
+  "substitutions": [
+    "Mléko nahradí ovesný nebo mandlový nápoj.",
+    "Cukr zastoupí med nebo javorový sirup.",
+    "Pro čokoládové kakao přidej 2 kostky hořké čokolády."
+  ],
+  "faq": [
+    {
+      "q": "Proč má kakao hrudky?",
+      "a": "Kakaový prášek se musí nejdřív rozmíchat s malým množstvím tekutiny. Jinak se sráží do hrudek."
+    },
+    {
+      "q": "Jaký je rozdíl mezi kakaem a horkou čokoládou?",
+      "a": "Kakao se dělá z kakaového prášku, horká čokoláda z rozpuštěné čokolády. Čokoláda je hustší a bohatší."
+    },
+    {
+      "q": "Dá se kakao ohřívat?",
+      "a": "Ano, v lednici vydrží 1 den. Ohřívej mírně a promíchej, kakao se časem usazuje."
+    }
+  ]
+}

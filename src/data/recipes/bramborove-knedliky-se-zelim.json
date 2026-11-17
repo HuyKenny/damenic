@@ -1,0 +1,124 @@
+{
+  "title": "Bramborové knedlíky se zelím",
+  "keywords": [
+    "bramborové knedlíky se zelím",
+    "bramborové knedlíky s kysaným zelím",
+    "knedlíky se zelím a cibulkou",
+    "bramborové knedlíky plněné zelím"
+  ],
+  "image": "dish-bramborove-knedliky-se-zelim",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 45,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Bramborové knedlíky se zelím jsou knedlíky z bramborového těsta plněné dušeným kysaným zelím a slaninou. Těsto z vařených brambor drží pohromadě díky krupici a mouce, zelí se musí dobře vymačkat, aby nerozmočilo těsto. Vyjde asi 12 knedlíků.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "uvařené ve slupce a vychladlé"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "krupice",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do těsta"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody"
+    },
+    {
+      "ingredient": "kysane-zeli",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "na pokapání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zelí dej do hrnce s 100 ml vody a kmínem a duš 15 minut do změknutí. Slij, nech vychladnout a pořádně vymačkej."
+    },
+    {
+      "text": "Slaninu a cibuli nakrájej nadrobno a osmaž na suché pánvi 6 minut. Smíchej se zelím a nech úplně vychladnout."
+    },
+    {
+      "text": "Oloupané brambory prolisuj do mísy. Přidej mouku, krupici, vejce a sůl a rychle vypracuj těsto, které je lehce lepivé."
+    },
+    {
+      "text": "Z těsta odděluj kusy velikosti vejce, rozmáčkni je v dlani, doprostřed dej lžíci zelí a zavři do kuličky. Ruce si navlhči."
+    },
+    {
+      "text": "Knedlíky vař v osolené vroucí vodě pod pokličkou 12 až 15 minut, neměly by se bouřlivě vařit. Hotové jsou, když vyplavou a zůstanou pevné."
+    },
+    {
+      "text": "Vylov, zakápni rozpuštěným máslem a podávej s osmaženou cibulkou nebo zakysanou smetanou."
+    }
+  ],
+  "tips": [
+    "Plnění nesmí být teplé ani mokré, jinak těsto změkne a knedlík se rozpadne.",
+    "Zkušební knedlík uvař jako první, když se rozpadá, přidej do těsta 2 lžíce mouky.",
+    "Uvařené knedlíky se dají ohřát na pánvi v másle, zhnědnou dokřupava."
+  ],
+  "substitutions": [
+    "Slaninu vynech a zelí osmaž s cibulí na másle pro vegetariánskou verzi.",
+    "Kysané zelí nahraď dušeným bílým zelím s lžičkou octa.",
+    "Krupici nahraď hladkou moukou, knedlíky budou měkčí."
+  ],
+  "faq": [
+    {
+      "q": "Proč se knedlíky rozpadají?",
+      "a": "Těsto má málo mouky nebo je plnění vlhké. Přidej mouku, zelí vymačkej a vař v jemně bublající vodě."
+    },
+    {
+      "q": "Dají se knedlíky zmrazit?",
+      "a": "Ano, syrové zmraž na plechu a pak sypej do sáčku, vař 18 minut z mrazu."
+    },
+    {
+      "q": "Jak dlouho se vaří?",
+      "a": "12 až 15 minut po vhození do osolené vody, hotové vyplavou."
+    }
+  ]
+}

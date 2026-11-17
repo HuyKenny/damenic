@@ -1,0 +1,20 @@
+{
+  "name": "Kokosové pusinky, 5 ks",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "dessert",
+  "section": "Cukroví",
+  "description": "Křupavé kokosové pusinky z bílků, lehce zlatavé a vláčné uvnitř.",
+  "about": [],
+  "price": 7900,
+  "image": "dish-kokosove-pusinky",
+  "recipe": "kokosove-pusinky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3
+  ],
+  "featured": false,
+  "order": 165
+}

@@ -1,0 +1,130 @@
+{
+  "title": "Amerikánky s cukrovou polevou",
+  "image": "dish-amerikanky",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 35,
+  "cookMinutes": 15,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí a zaschnutí polevy",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "keywords": [
+    "amerikánky",
+    "amerikánky recept",
+    "měkké amerikánky",
+    "amerikánky s polevou"
+  ],
+  "intro": "Amerikánky jsou měkké kulaté sušenky s bílkovou nebo cukrovou polevou, pečené z těsta z másla, vajec a mouky. Vyjde asi 24 kusů. Těsto je řidší než na sušenky; důležité je nenechat je přepéct, aby zůstaly měkké.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 5,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 30,
+      "unit": "ml",
+      "note": "podle potřeby",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 50,
+      "unit": "g",
+      "note": "rozpuštěná",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C, horkovzduch 160 °C. Plech vyložte pečicím papírem."
+    },
+    {
+      "text": "Máslo utři s cukrem a vanilkovým cukrem do pěny, přidej vejce jedno po druhém a nakonec mléko."
+    },
+    {
+      "text": "Mouku s kypřicím práškem prosej a vmíchej, těsto má být hustší než na bábovku."
+    },
+    {
+      "text": "Těsto nandávej lžící nebo stříkacím sáčkem na plech do hromádek o průměru asi 5 cm; nechej mezi nimi mezeru, rostou."
+    },
+    {
+      "text": "Peč 12 až 15 minut, dokud okraje nezezlátnou. Střed zůstane světlý. Nech vychladnout na plechu."
+    },
+    {
+      "text": "Moučkový cukr smíchej s mlékem na hustou polevu; polovinu amerikánek potři bílou, druhou rozpuštěnou čokoládou. Nech 30 minut zaschnout."
+    }
+  ],
+  "tips": [
+    "Amerikánky přepečené ztvrdnou, vyndej je, když jsou okraje zlaté.",
+    "Poleva se nanáší na vychladlé; na teplé stéká.",
+    "Skladuj v uzavřené krabici asi 5 dní.",
+    "Pro tvar použij vlhkou lžíci."
+  ],
+  "substitutions": [
+    "Máslo nahradíš rostlinným margarínem.",
+    "Mléko lze zaměnit za jogurt; těsto bude vláčnější.",
+    "Poleva může být citronová, nahraď mléko citronovou šťávou."
+  ],
+  "faq": [
+    {
+      "q": "Čím se amerikánky liší od klasických sušenek?",
+      "a": "Jsou měkké a kypřené práškem, mají polevu a kulatý tvar jako malý dortíček."
+    },
+    {
+      "q": "Proč mi amerikánky ztvrdly?",
+      "a": "Byly přepečené nebo uložené otevřené. Peč je krátce a skladuj uzavřené."
+    },
+    {
+      "q": "Dají se amerikánky zmrazit?",
+      "a": "Ano, bez polevy; rozmraž a polevu dodělej čerstvou."
+    }
+  ]
+}

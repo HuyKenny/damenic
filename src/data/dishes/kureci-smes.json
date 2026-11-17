@@ -1,0 +1,17 @@
+{
+  "name": "Kuřecí směs s paprikou",
+  "kind": "main",
+  "section": "Minutky",
+  "price": 19900,
+  "recipe": "kureci-smes",
+  "vegetarian": false,
+  "order": 914,
+  "description": "Proužky kuřete, paprika a žampiony v lehké rajčatové omáčce.",
+  "about": [
+    "Kuřecí směs je jídlo z pánve, které se dělá jednou rukou, a to je její kouzlo. Silný žár, proužky masa a zelenina, která zůstane na skus, žádné dlouhé vaření a žádný komplikovaný postup.",
+    "Hlavní pravidlo zní: maso krátce a po částech. Taška je prázdná, ale pánev vyrobí vůni, kterou ti nikdo nepřiveze."
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-kureci-smes",
+  "allergens": []
+}

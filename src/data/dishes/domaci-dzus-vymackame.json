@@ -1,0 +1,18 @@
+{
+  "name": "Domácí džus z jablek, mrkve a pomeranče 0,3 l",
+  "restaurant": "dzusbar-vymackame-zitra",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Čerstvě mačkaný džus z jablek, mrkve a pomeranče s kapkou zázvoru.",
+  "about": [],
+  "price": 7900,
+  "image": "dish-domaci-dzus-vymackame",
+  "recipe": "domaci-dzus",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 740
+}

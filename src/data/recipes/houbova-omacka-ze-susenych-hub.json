@@ -1,0 +1,120 @@
+{
+  "title": "Houbová omáčka ze sušených hub",
+  "keywords": [
+    "houbová omáčka ze sušených hub",
+    "houbová omáčka z hřibů",
+    "omáčka z sušených hub",
+    "houbová omáčka k bramborám"
+  ],
+  "image": "dish-houbova-omacka-ze-susenych-hub",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 30,
+  "waitLabel": "namáčení hub",
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Houbová omáčka ze sušených hub je tmavá, aromatická omáčka, jejíž chuť vytváří hlavně voda z namáčení hub. Houby se nechají změknout, scedí a nasekají, vodu je nutné slít přes jemné sítko, aby v ní nezůstal písek. Je to základ k bramborám, knedlíkům a vajíčku.",
+  "ingredients": [
+    {
+      "ingredient": "houby-susene",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 350,
+      "unit": "ml",
+      "note": "vlažná, na namáčení"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Sušené houby zalij 350 ml vlažné vody a nech 30 minut změknout. Pak je vyjmi, vodu scedí přes jemné sítko nebo kávový filtr a uschovej."
+    },
+    {
+      "text": "Houby nakrájej nadrobno. V hrnci rozpusť máslo a na mírném plameni osmahni cibuli 6 až 8 minut dosklovata."
+    },
+    {
+      "text": "Přidej houby, kmín a majoránku a smaž 3 minuty. Posyp moukou a míchej 1 minutu."
+    },
+    {
+      "text": "Za stálého míchání přilévej nasbíranou houbovou vodu a vař 15 minut na mírném plameni, dokud omáčka nezhoustne."
+    },
+    {
+      "text": "Odstav z ohně, vmíchej zakysanou smetanu a ocet a dochuť solí a pepřem. Omáčku už nevař, smetana by se mohla srazit."
+    }
+  ],
+  "tips": [
+    "Kmín a majoránka patří k houbám. Přidej je včas, ať se uvolní jejich vůně.",
+    "Vodu z namáčení vždy přeceď, na dně bývá písek.",
+    "Smetanu přidávej mimo oheň a vždy vyšlehanou s lžící horké omáčky."
+  ],
+  "substitutions": [
+    "Zakysanou smetanu nahraď smetanou na vaření, omáčka bude jemnější.",
+    "Sušené houby lze doplnit 150 g čerstvých žampionů.",
+    "Mouku lze nahradit lžící kukuřičného škrobu rozmíchaného ve studené vodě."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho namáčet sušené houby?",
+      "a": "30 až 60 minut ve vlažné vodě. Teplejší voda houbám ubírá chuť."
+    },
+    {
+      "q": "Musím vodu z hub použít?",
+      "a": "Ano, obsahuje největší část chuti. Jen ji slij přes jemné sítko nebo kávový filtr, aby nezůstal písek."
+    },
+    {
+      "q": "K čemu se houbová omáčka hodí?",
+      "a": "K bramborám, houskovým knedlíkům, těstovinám nebo k vařeným vajíčkům."
+    }
+  ]
+}

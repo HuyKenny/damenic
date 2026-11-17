@@ -1,0 +1,24 @@
+{
+  "name": "Orecchiette s brokolicí a česnekem",
+  "restaurant": "lahudky-pozitri",
+  "kind": "main",
+  "section": "Těstoviny",
+  "description": "Těstoviny s rozvařenou brokolicí, česnekem, chilli a parmazánem.",
+  "about": [
+    "Brokolice se tu vaří spolu s těstovinami a pak se rozmačká do omáčky. Česnek, chilli a citron z ní dělají jídlo, na které by sis jinak musel počkat na zítřek.",
+    "Vitrína je plná, ale smyšlená. Brokolice u tebe doma uvaří za deset minut, a to je rychlejší než jakékoli doručení."
+  ],
+  "price": 16900,
+  "image": "dish-testoviny-s-brokolici-pozitri",
+  "recipe": "testoviny-s-brokolici",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 700
+}

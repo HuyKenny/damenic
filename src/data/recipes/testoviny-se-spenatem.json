@@ -1,0 +1,128 @@
+{
+  "title": "Těstoviny se špenátem",
+  "keywords": [
+    "těstoviny se špenátem",
+    "těstoviny se špenátem a smetanovým sýrem",
+    "špenátové těstoviny",
+    "těstoviny se špenátem a česnekem"
+  ],
+  "image": "dish-testoviny-se-spenatem-pozitri",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 10,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Těstoviny se špenátem a smetanovým sýrem jsou hotové za 25 minut a stačí k nim mražený špenát. Důležité je rozmrazený špenát pořádně vymáčknout, aby omáčka nebyla vodnatá.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 300,
+      "unit": "g",
+      "note": "penne nebo farfalle",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredient": "spenat-mrazeny",
+      "amount": 450,
+      "unit": "g",
+      "note": "rozmrazený a vymáčknutý",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetanovy-syr",
+      "amount": 100,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 30,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "jen šťáva",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Špenát nech rozmrazit v sítu, pak ho rukama nebo v utěrce vymáčkni tak, aby z něj nekapala voda, a nahrubo ho nakrájej."
+    },
+    {
+      "text": "Uvař těstoviny v osolené vodě podle obalu. Před scezením odlij hrnek vody z vaření."
+    },
+    {
+      "text": "V pánvi rozpusť máslo, přidej česnek a po 30 sekundách špenát. Na středním plameni ho 3 minuty prohřívej a promíchávej."
+    },
+    {
+      "text": "Vmíchej smetanový sýr s mlékem a muškátem. Za stálého míchání nech sýr rozpustit na hladkou omáčku, trvá to asi 2 minuty."
+    },
+    {
+      "text": "Přidej těstoviny, parmazán a podle potřeby trochu vody z vaření. Promíchej, dochuť solí a citronovou šťávou a podávej."
+    }
+  ],
+  "tips": [
+    "Špenát vymáčkni pořádně, mražený obsahuje hodně vody a zřeďoval by omáčku.",
+    "Citron přidej až na závěr, jinak mléko skysne a omáčka se může srazit.",
+    "Pokud nemáš smetanový sýr, použij tvaroh smíchaný s vodou z vaření."
+  ],
+  "substitutions": [
+    "Mražený špenát nahradíš 300 g čerstvého baby špenátu. Zavadne za minutu.",
+    "Smetanový sýr zastoupí 150 ml smetany na vaření.",
+    "Pro chutnější verzi přidej opečené piniové oříšky nebo kostky fety."
+  ],
+  "faq": [
+    {
+      "q": "Jak odstranit vodu z mraženého špenátu?",
+      "a": "Rozmraž ho v sítu, pak ho vymáčkni v čisté utěrce nebo mezi dlaněmi. Nebo ho prohřívej na suché pánvi 5 minut, voda se odpaří."
+    },
+    {
+      "q": "Který sýr se hodí ke špenátu?",
+      "a": "Smetanový sýr, ricotta, parmazán a feta. Mají dost chuti, aby špenát nepřebili."
+    },
+    {
+      "q": "Dá se jídlo připravit dopředu?",
+      "a": "Omáčku lze udělat den dopředu. Ohřej ji, ředěnou mlékem, a smíchej s čerstvě uvařenými těstovinami."
+    }
+  ]
+}

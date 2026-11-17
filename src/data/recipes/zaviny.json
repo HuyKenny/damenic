@@ -1,0 +1,133 @@
+{
+  "title": "Záviny z listového těsta s tvarohem",
+  "image": "dish-zaviny",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 25,
+  "waitMinutes": 20,
+  "waitLabel": "vychladnutí před krájením",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "keywords": [
+    "záviny",
+    "záviny z listového těsta",
+    "tvarohové záviny",
+    "záviny s tvarohem"
+  ],
+  "intro": "Záviny z listového těsta s tvarohem jsou rychlé pečivo: dva pláty chlazeného listového těsta, sladká tvarohová náplň s rozinkami a citronovou kůrou. Vyjde 8 závinů. Aby náplň neutekla a těsto nenasáklo vodou, musí být tvaroh suchý a závin dobře uzavřený.",
+  "ingredients": [
+    {
+      "ingredient": "listove-testo",
+      "amount": 550,
+      "unit": "g",
+      "note": "2 pláty, vyndané z lednice 10 minut předem",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "suchý",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "žloutek do náplně, bílek na potření",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen kůra",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 40,
+      "unit": "g",
+      "note": "namočené na 10 minut ve vodě",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "bílek a trocha mléka na potření",
+      "group": "Zdobení"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Zdobení"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "group": "Zdobení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C, horkovzduch 180 °C. Plech vyložte pečicím papírem. Rozinky namoč na 10 minut ve vlažné vodě, pak je osuš."
+    },
+    {
+      "text": "Tvaroh smíchej se žloutkem, cukrem, vanilkovým cukrem, citronovou kůrou a rozinkami. Hmota musí být hustá, ne tekutá."
+    },
+    {
+      "text": "Pláty listového těsta rozlož, každý rozkrájej na čtyři stejné pruhy široké asi 6 cm. Doprostřed každého pruhu dej proužek náplně a okraje přeložte přes sebe, spoj stiskni."
+    },
+    {
+      "text": "Záviny polož spojem dolů na plech, potři je rozšlehaným bílkem s mlékem a navrch vidličkou nařízni několik drobných záseků, aby unikala pára."
+    },
+    {
+      "text": "Peč 22 až 25 minut dozlatova. Těsto má být nafouklé a zlatavé po stranách a na spodku, ne světlé."
+    },
+    {
+      "text": "Záviny nech 20 minut chladnout na mřížce, pak je posyp moučkovým cukrem. Teplé se krájí hůř a náplň je tekutá."
+    }
+  ],
+  "tips": [
+    "Listové těsto musí být chladné, ale ohebné. Když praská, nech ho 5 minut odpočinout při pokojové teplotě; když se lepí, vrať ho do lednice.",
+    "Okraje těsta nesmějí mít vlhkou náplň, jinak se nespojí a závin se otevře. Případně je přilep trochou bílku.",
+    "Do náplně klidně přidej strouhané jablko vymačkané ze šťávy, nebo makový krém.",
+    "Záviny nejlépe chutnají čerstvé. Druhý den je ohřej 8 minut na 170 °C, aby zkřehly."
+  ],
+  "substitutions": [
+    "Rozinky nahradíš nasekanými sušenými meruňkami nebo brusinkami.",
+    "Listové těsto nahradíš domácím taženým těstem nebo tvarohovým těstem, čas pečení se mírně změní.",
+    "Tvaroh můžeš nahradit mascarpone nebo ricottou, přidej jen o 1 lžíci cukru méně."
+  ],
+  "faq": [
+    {
+      "q": "Jak zabránit, aby tvarohová náplň ze závinu vytekla?",
+      "a": "Používej suchý tvaroh a žloutek v náplni, který ji při pečení zahustí. Okraje těsta přilep bílkem a záviny polož spojem dolů."
+    },
+    {
+      "q": "Jak dlouho se pečou záviny z listového těsta?",
+      "a": "Při 200 °C (horkovzduch 180 °C) obvykle 22 až 25 minut. Jsou hotové, když jsou po obou stranách zlaté a uvnitř nedělá náplň tekutá."
+    },
+    {
+      "q": "Dají se záviny zmrazit?",
+      "a": "Ano. Nepečené záviny na plechu zmraz a přesyp do sáčku. Peč je ze zmrazeného stavu při 190 °C asi 30 minut, nevyndávej je dřív."
+    }
+  ]
+}

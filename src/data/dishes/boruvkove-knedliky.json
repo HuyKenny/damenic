@@ -1,0 +1,25 @@
+{
+  "name": "Borůvkové knedlíky s tvarohem",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Sladké jídlo",
+  "description": "Měkké bramborové knedlíky plněné borůvkami, posypané tvarohem, moučkovým cukrem a polité máslem.",
+  "about": [
+    "Borůvkový knedlík je jídlo, které se dá jíst jako oběd i jako dezert. Těsto je z vařených brambor a malého množství mouky, uvnitř je celá borůvka, která při vaření pustí šťávu a obarví střed do fialova. Nahoře tvaroh, cukr a rozpuštěné máslo, žádná omáčka.",
+    "U nás se vaří ve smyšlené jídelně, takže voní jen z receptu. Kurýr by ti je donesl horké, ale pro jistotu nese prázdný talíř. Doma dej pozor na jedno: mražené borůvky nech zmražené, jinak se knedlík rozpadne."
+  ],
+  "price": 15900,
+  "image": "dish-boruvkove-knedliky",
+  "recipe": "boruvkove-knedliky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 380
+}

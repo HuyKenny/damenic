@@ -1,0 +1,23 @@
+{
+  "name": "Ovar s křenem a hořčicí",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "description": "Vařená vepřová hlava a koleno nakrájené na plátky s křenem, hořčicí a krajícem chleba.",
+  "about": [
+    "Ovar patří k hospodě stejně jako lavice. Maso se vaří dvě a půl hodiny ve vodě s bobkem, novým kořením a trochou octa, až se kůže zatřese a maso opouští kost. Pak se nakrájí na plátky a doplní křenem a hořčicí.",
+    "U Prázdného Talíře ho podávají na prázdném talíři, a to je poctivá práce. Ty si ho uvaříš sám a nikdo ti nebude dolévat."
+  ],
+  "price": 17900,
+  "image": "dish-ovar",
+  "recipe": "ovar",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    10
+  ],
+  "order": 930
+}

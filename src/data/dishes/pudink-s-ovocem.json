@@ -1,0 +1,23 @@
+{
+  "name": "Vanilkový pudink s ovocem",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Studené dezerty",
+  "description": "Domácí vanilkový pudink s jahodami, malinami a borůvkami.",
+  "about": [
+    "Pudink s ovocem je dezert z dětství, který zvládneš i dospělý. Vanilkový pudink se vaří z mléka a prášku, vychladí a pokryje čerstvým ovocem. Povrch se přikrývá fólií, aby se netvořil škraloup.",
+    "V naší smyšlené dezertní kavárně dostáváš pudink v misce a ovoce vedle. Doma stačí pět minut vaření a hodina v lednici. Kurýr dnes nese jen prázdnou lžičku."
+  ],
+  "price": 7900,
+  "image": "dish-pudink-s-ovocem",
+  "recipe": "pudink-s-ovocem",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 185
+}

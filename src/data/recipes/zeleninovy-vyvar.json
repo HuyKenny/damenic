@@ -1,0 +1,124 @@
+{
+  "title": "Zeleninový vývar",
+  "keywords": [
+    "zeleninový vývar",
+    "zeleninový vývar recept",
+    "domácí zeleninový vývar",
+    "jak uvařit zeleninový vývar"
+  ],
+  "image": "dish-zeleninovy-vyvar-naberacka",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 60,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Zeleninový vývar je čirý základ do polévek, rizot a omáček. Z mrkve, celeru, cibule a petržele vznikne za hodinu zlatý, voňavý vývar bez masa. Nevaří se prudce, aby zůstal čirý.",
+  "ingredients": [
+    {
+      "ingredient": "mrkev",
+      "amount": 300,
+      "unit": "g",
+      "note": "na velké kusy"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kusy"
+    },
+    {
+      "ingredient": "por",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kusy"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "půlená, i se slupkou"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "rozmáčknutý"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "stonky"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 2000,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zeleninu omyj a nakrájej na velké kusy. Cibuli rozpůl a nech se slupkou, dodá vývaru zlatavou barvu."
+    },
+    {
+      "text": "Vše vlož do velkého hrnce, zalij studenou vodou, přidej bobkový list, pepř a petrželové stonky."
+    },
+    {
+      "text": "Pomalu přiveď k varu a snižuj teplotu tak, aby se hladina jen lehce chvěla. Vař odkryté 50 až 60 minut a pěnu sbírej."
+    },
+    {
+      "text": "Vývar přecedi přes jemné síto, zeleninu nemačkej. Osol až teď."
+    },
+    {
+      "text": "Vývar nech vychladnout a uskladni ve sklenicích v lednici. Vydrží 4 dny, v mrazáku 3 měsíce."
+    }
+  ],
+  "tips": [
+    "Prudký var vývar zakalí. Teplo drž nízko.",
+    "Do vývaru patří jen čerstvá zelenina bez hnědých míst.",
+    "Zmrazuj ho v porcích v ledových formičkách."
+  ],
+  "substitutions": [
+    "Pro výraznější chuť přidej 100 g sušených hub.",
+    "Celer můžeš nahradit dalšími kořeny: pastinákem nebo petržel.",
+    "Kapusta, brokolice a květák se do vývaru nehodí, dávají nepříjemnou chuť."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří zeleninový vývar?",
+      "a": "Asi 60 minut. Delší vaření nic neubere, ale už nepřidá, a po hodině zelenina předá všechno."
+    },
+    {
+      "q": "Jak dlouho vydrží zeleninový vývar?",
+      "a": "V uzavřené sklenici v lednici 4 dny. Zmrazený vydrží 3 měsíce."
+    },
+    {
+      "q": "Proč mám zakalený vývar?",
+      "a": "Prudký var nebo mačkání zeleniny při cezení. Vařte pomalu a přeceďte jemným sítem."
+    }
+  ]
+}

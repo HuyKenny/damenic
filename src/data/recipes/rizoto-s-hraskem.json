@@ -1,0 +1,135 @@
+{
+  "title": "Rizoto s hráškem",
+  "keywords": [
+    "rizoto s hráškem",
+    "hráškové rizoto",
+    "rizoto s hráškem a mátou",
+    "zelené rizoto"
+  ],
+  "image": "dish-rizoto-s-hraskem-domani",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Rizoto s hráškem je krémová rýže arborio s mraženým hráškem a čerstvou mátou. Část hrášku se rozmixuje do pyré, takže rizoto zezelená a nepotřebuje smetanu. Vaří se 18 až 20 minut za stálého míchání.",
+  "ingredients": [
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 350,
+      "unit": "g",
+      "note": "rozmrazený",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "ryze-arborio",
+      "amount": 300,
+      "unit": "g",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "horký",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 50,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "kůra a 1 lžíce šťávy",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "lístky nasekané",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Rizoto"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Rizoto"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Polovinu hrášku (175 g) rozmixuj s 100 ml horkého vývaru na hladké pyré. Druhou polovinu nech celou."
+    },
+    {
+      "text": "V hrnci rozpusť polovinu másla a na středním plameni 3 minuty duš cibuli. Přidej česnek a po 30 sekundách rýži. Míchej 2 minuty, dokud rýže nezprůsvitní."
+    },
+    {
+      "text": "Přilévej vývar po naběračkách a vždy až po jeho vstřebání. Míchej a vař 15 minut na mírném plameni."
+    },
+    {
+      "text": "Přidej celý hrášek a vař dalších 3 až 4 minuty, až je rýže měkká s lehkým odporem uprostřed."
+    },
+    {
+      "text": "Hrnec stáhni z ohně, vmíchej pyré, zbylé máslo, parmazán, citronovou kůru a šťávu. Přikryj na 2 minuty, osol, opepři a posyp mátou."
+    }
+  ],
+  "tips": [
+    "Pyré přidej až na závěr, aby rizoto zůstalo svěže zelené.",
+    "Citron a máta jsou důležité, jemný hrášek je potřebuje.",
+    "Mraženého hrášku nemusíš rozmrazovat, jen přidej o minutu déle."
+  ],
+  "substitutions": [
+    "Parmazán nahradí pecorino nebo mladý tvrdý sýr.",
+    "Mátu zastoupí bazalka nebo petrželka.",
+    "Pro vegetariánskou verzi bez sýra použij kvasnicové vločky (3 lžíce)."
+  ],
+  "faq": [
+    {
+      "q": "Dá se použít mražený hrášek?",
+      "a": "Ano, je pro rizoto praktičtější než čerstvý. Přidává se na posledních 4 minut, pyré se mixuje z poloviny."
+    },
+    {
+      "q": "Jak zabránit tomu, aby hrášek zešedl?",
+      "a": "Nevař ho dlouho. Celý hrášek přidej na 3 až 4 minuty, pyré až mimo oheň."
+    },
+    {
+      "q": "Čím rizoto s hráškem doplnit?",
+      "a": "Hodí se krevety, opečená šunka nebo grilovaná kuřecí prsa uvnitř 75 °C."
+    }
+  ]
+}

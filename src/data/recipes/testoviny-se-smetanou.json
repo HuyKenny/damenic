@@ -1,0 +1,129 @@
+{
+  "title": "Těstoviny se smetanou",
+  "keywords": [
+    "těstoviny se smetanou",
+    "těstoviny ve smetanové omáčce",
+    "smetanová omáčka na těstoviny",
+    "těstoviny se smetanou a parmazánem"
+  ],
+  "image": "dish-testoviny-se-smetanou-niente",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 10,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Těstoviny se smetanou jsou hotové za čtvrt hodiny a vystačí si s cibulí, česnekem, smetanou na vaření a parmazánem. Aby omáčka nebyla ani řídká, ani lepkavá, ředí se na konci vodou z vaření těstovin.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 300,
+      "unit": "g",
+      "note": "penne, fusilli nebo rigatoni",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na těstoviny",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 60,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "najemno nastrouhaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "čerstvě mletý",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve velkém hrnci přiveď k varu 3 litry vody, osol ji a těstoviny vař podle obalu, ale o minutu kratší dobu. Před scezením odlij 150 ml vody z vaření."
+    },
+    {
+      "text": "Mezitím rozpusť v hluboké pánvi máslo na středním plameni a 3 až 4 minuty na něm duš cibuli, dokud nezesklovatí. Česnek přidej na posledních 30 sekund, aby nezhořkl."
+    },
+    {
+      "text": "Přilij smetanu, přidej muškát a pepř a nech ji 3 až 4 minuty tiše probublávat, dokud lehce nezhoustne. Smetana se nesmí prudce vařit, jinak se může srazit."
+    },
+    {
+      "text": "Scezené těstoviny vlož do omáčky, přisyp polovinu parmazánu a 2 až 3 lžíce vody z vaření. Míchej 1 minutu, až omáčka těstoviny obalí a bude lesklá."
+    },
+    {
+      "text": "Dochuť solí, posyp zbylým parmazánem a petrželkou a podávej hned, dokud je omáčka krémová."
+    }
+  ],
+  "tips": [
+    "Voda z těstovin obsahuje škrob a omáčku drží pohromadě. Přilévej ji po lžících, dokud nemá omáčka správnou hustotu.",
+    "Parmazán strouhej najemno z kusu, ne z hotového sypkého. Rozpustí se hladce a nedělá hrudky.",
+    "Sůl dávej až nakonec, parmazán sám dost dosolí."
+  ],
+  "substitutions": [
+    "Smetanu na vaření nahradíš stejným množstvím smetany ke šlehání, omáčka bude hutnější.",
+    "Parmazán zastoupí pecorino nebo tvrdý eidam, ten je mírnější.",
+    "Pro sytější verzi přidej 100 g kostek šunky nebo 150 g restovaných žampionů."
+  ],
+  "faq": [
+    {
+      "q": "Jak zahustit smetanovou omáčku na těstoviny?",
+      "a": "Nech ji na mírném plameni 3 až 5 minut odpařovat, nebo do ní vmíchej nastrouhaný parmazán. Zbytečně neškrob, omáčka hustne i po smíchání s těstovinami."
+    },
+    {
+      "q": "Proč se mi smetana sráží?",
+      "a": "Smetana se sráží, když se vaří na prudkém plameni nebo se do ní přilije kyselina (víno, citron). Drž plamen mírný a přidávej kyselé složky až mimo oheň."
+    },
+    {
+      "q": "Jak dlouho vydrží těstoviny se smetanou?",
+      "a": "V uzavřené krabičce v lednici 2 dny. Ohřívej je na pánvi s lžící mléka nebo vody, aby se omáčka zase rozpustila."
+    }
+  ]
+}

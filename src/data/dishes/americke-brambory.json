@@ -1,0 +1,18 @@
+{
+  "name": "Americké brambory",
+  "restaurant": "udirna-odnikud",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Pečené bramborové měsíčky v paprice a česneku, zvenku křupavé, uvnitř měkké.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-americke-brambory",
+  "recipe": "americke-brambory",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": true,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 520
+}

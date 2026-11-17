@@ -1,0 +1,145 @@
+{
+  "title": "Šátečky s tvarohem a džemem",
+  "image": "dish-satecky",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 40,
+  "cookMinutes": 18,
+  "waitMinutes": 75,
+  "waitLabel": "kynutí těsta a krátký odpočinek na plechu",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "keywords": [
+    "šátečky",
+    "šátečky recept",
+    "kynuté šátečky",
+    "šátečky s tvarohem"
+  ],
+  "intro": "Šátečky jsou kynuté čtverce těsta, které se přeloží přes sladkou náplň do tvaru šátku. Z receptu vyjde 16 šátečků s tvarohem a meruňkovým džemem. Těsto je drožďové, měkké a nesmí se přemoukovat; šátečky po upečení zůstávají měkké i druhý den.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 400,
+      "unit": "g",
+      "note": "a trochu na vál",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 21,
+      "unit": "g",
+      "note": "půl kostky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "rozpuštěné a vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "suchý",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "dzem-merunkovy",
+      "amount": 120,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na potření",
+      "group": "Zdobení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozdrob do vlažného mléka s lžičkou cukru a nech 10 minut vzejít, až na hladině vznikne pěna."
+    },
+    {
+      "text": "Do mouky přidej zbytek cukru, sůl, vejce, rozpuštěné máslo a kvásek. Těsto vypracuj do hladka, aby se odlepovalo od mísy, asi 8 minut. Přikryj a nech 45 minut kynout na teplém místě, než zdvojnásobí objem."
+    },
+    {
+      "text": "Tvaroh smíchej s moučkovým a vanilkovým cukrem. Těsto rozválej na plát silný asi 5 mm a nakrájej na 16 čtverců o straně přibližně 9 cm."
+    },
+    {
+      "text": "Doprostřed každého čtverce dej lžičku tvarohu a lžičku džemu. Dva protější rohy přeložte přes náplň a stiskni k sobě, aby vznikl šátek."
+    },
+    {
+      "text": "Šátečky polož na plech s pečicím papírem a nech 20 minut kynout. Troubu předehřej na 190 °C, horkovzduch 170 °C."
+    },
+    {
+      "text": "Šátečky potři rozšlehaným vejcem a peč 16 až 18 minut dozlatova. Nech je 10 minut vychladnout na mřížce."
+    }
+  ],
+  "tips": [
+    "Mléko nesmí být horké nad 40 °C, jinak droždí zahyne a těsto nevykyne.",
+    "Náplň dávej střídmě; přeplněné šátečky se při pečení rozevřou.",
+    "Upečené šátečky vydrží v uzavřené krabici dva dny. Před podáváním je ohřej 5 minut na 150 °C.",
+    "Syrové šátečky se dají tvarovat večer a nechat v lednici přes noc; ráno je nech 20 minut zahřát a upeč."
+  ],
+  "substitutions": [
+    "Tvaroh nahradíš makovou nebo povidlovou náplní.",
+    "Meruňkový džem nahradíš rybízovým nebo jahodovým; nesmí být řídký.",
+    "Čerstvé droždí nahradíš 7 g sušeného (1 sáček), nasypaného rovnou do mouky."
+  ],
+  "faq": [
+    {
+      "q": "Jak se skládá šáteček?",
+      "a": "Čtverec těsta položíš do kosočtverce, doprostřed dáš náplň a přeložíš dva protější rohy přes sebe. Spoj stiskni, případně potři vodou."
+    },
+    {
+      "q": "Proč mi šátečky při pečení otevřely?",
+      "a": "Obvykle jsou přeplněné nebo spoj není stisknutý. Dávej na jeden šáteček jen asi lžičku náplně a spoj přitiskni prsty."
+    },
+    {
+      "q": "Dají se šátečky zamrazit?",
+      "a": "Ano, upečené a vychladlé. Rozmraz je při pokojové teplotě a 6 minut ohřej na 160 °C."
+    }
+  ]
+}

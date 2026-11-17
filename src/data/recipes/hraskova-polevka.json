@@ -1,0 +1,116 @@
+{
+  "title": "Hrášková polévka",
+  "keywords": [
+    "hrášková polévka",
+    "hrášková polévka recept",
+    "krémová hrášková polévka",
+    "polévka z mraženého hrášku"
+  ],
+  "image": "dish-hraskova-polevka-naberacka",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Hrášková polévka z mraženého hrášku je jasně zelený krém, hotový za 25 minut. Hrášek se vaří jen krátce, aby zůstal zelený, a hned se rozmixuje. Kapka smetany a máta jí dodají svěžest.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 800,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 450,
+      "unit": "g"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mata",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "lístky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozpusť máslo a na středním plameni 3 minuty duš cibuli, nesmí zhnědnout. Přidej brambory a zalij vývarem."
+    },
+    {
+      "text": "Přiveď k varu a vař 10 minut, dokud brambory nezměknou. Pak přidej mražený hrášek a přiveď znovu k varu. Vař jen 3 minuty."
+    },
+    {
+      "text": "Polévku ihned rozmixuj ponorným mixérem do hladka. Pro jemnější strukturu ji pak případně pretři přes síto."
+    },
+    {
+      "text": "Přilij smetanu, nech prohřát, ale nevař. Dochuť solí, pepřem a citronovou šťávou a vmíchej nasekanou mátu."
+    },
+    {
+      "text": "Podávej horkou, případně s lžící smetany a krutony. Polévka se dá jíst i vychlazená."
+    }
+  ],
+  "tips": [
+    "Hrášek nevař dlouho, rychle šedne a ztrácí barvu.",
+    "Citron na konci zvýrazní sladkost hrášku.",
+    "Mixuj hned po uvaření, barva zůstane živá."
+  ],
+  "substitutions": [
+    "Smetanu nahradí kokosové mléko nebo mléko.",
+    "Mátu zastoupí petrželka nebo kopr.",
+    "Brambory můžeš vynechat, polévka bude řidší."
+  ],
+  "faq": [
+    {
+      "q": "Jak uchovat zelenou barvu hrášku?",
+      "a": "Hrášek vař maximálně 3 minuty a hned mixuj. Dlouhé vaření a stání při vysoké teplotě barvu rozbíjí."
+    },
+    {
+      "q": "Dá se použít čerstvý hrášek?",
+      "a": "Ano, vař ho 5 až 7 minut. Mražený je ale praktičtější, protože je sladký a připravený."
+    },
+    {
+      "q": "Jak dlouho se polévka uchová?",
+      "a": "V lednici 2 dny, v mrazáku 2 měsíce. Po rozmražení ji prošlehej, aby se spojila."
+    }
+  ]
+}

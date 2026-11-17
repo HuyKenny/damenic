@@ -1,0 +1,123 @@
+{
+  "title": "Těstoviny se sýrem",
+  "keywords": [
+    "těstoviny se sýrem",
+    "těstoviny se čtyřmi sýry",
+    "sýrová omáčka na těstoviny",
+    "těstoviny se sýrovou omáčkou"
+  ],
+  "image": "dish-testoviny-se-syrem-niente",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 10,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Těstoviny se sýrem a čtyřmi druhy sýra jsou krémová sýrová omáčka bez mouky a bešamelu. Sýr se do smetany přidává postupně a mimo prudký var, aby se omáčka nesrazila a nebyla mastná.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 300,
+      "unit": "g",
+      "note": "penne, rigatoni nebo mušle",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 100,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "niva",
+      "amount": 60,
+      "unit": "g",
+      "note": "rozdrobená",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 100,
+      "unit": "g",
+      "note": "natrhaná",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "čerstvě mletý",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Těstoviny uvař ve vroucí osolené vodě podle návodu a před scezením odlij 100 ml vody z vaření."
+    },
+    {
+      "text": "V široké pánvi rozpusť máslo, přilij smetanu a zahřej ji na mírném plameni, aby se jen lehce chvěla. Nevař ji prudce."
+    },
+    {
+      "text": "Přidej niva a eidam a míchej, dokud se úplně nerozpustí. Pak vmíchej mozzarellu s polovinou parmazánu. Nech jen rozpustit."
+    },
+    {
+      "text": "Do omáčky vlož scezené těstoviny a promíchej. Pokud je omáčka příliš hustá, rozřeď ji vodou z vaření po lžících."
+    },
+    {
+      "text": "Dopepři, posyp zbylým parmazánem a podávej hned. Omáčka za pár minut ztuhne."
+    }
+  ],
+  "tips": [
+    "Sýry strouhej sám. Sypké směsi obsahují protispékavé látky, které omáčku zhrubí.",
+    "Sýr přidávej po částech a nevař ho, při varu se vyloučí tuk.",
+    "Niva je silná. Pokud ji nemáš rád, nahraď ji dalšími 60 g eidamu."
+  ],
+  "substitutions": [
+    "Nivu zastoupí gorgonzola nebo dobře zralý hermelín bez kůry.",
+    "Mozzarellu nahradí ementál nebo gouda.",
+    "Pro pečenou verzi přesuň těstoviny do zapékací misky, posyp strouhankou a pečeně 10 minut při 200 °C."
+  ],
+  "faq": [
+    {
+      "q": "Jaký sýr je nejlepší na sýrovou omáčku?",
+      "a": "Dobře tající sýry: eidam, gouda, ementál, mozzarella. K nim přidej trochu výrazného sýra (niva, parmazán) pro chuť."
+    },
+    {
+      "q": "Proč je sýrová omáčka mastná nebo zrnitá?",
+      "a": "Sýr se vařil příliš horký. Při vysoké teplotě se tuk oddělí. Sýr rozpouštěj v teplé smetaně a míchej."
+    },
+    {
+      "q": "Co dělat s tuhnoucí omáčkou?",
+      "a": "Přidej lžíci teplé vody z vaření nebo mléka a promíchej. Sýrová omáčka tuhne, jakmile se zchladí, proto ji podávej hned."
+    }
+  ]
+}

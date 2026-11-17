@@ -1,0 +1,107 @@
+{
+  "title": "Zmrzlina z mascarpone bez zmrzlinovače",
+  "image": "dish-zmrzlina-z-mascarpone",
+  "category": "zmrzlina",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 30,
+  "cookMinutes": 10,
+  "waitMinutes": 360,
+  "waitLabel": "mražení v mrazáku",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "keywords": [
+    "zmrzlina z mascarpone",
+    "zmrzlina z mascarpone recept",
+    "domácí zmrzlina z mascarpone",
+    "zmrzlina s mascarpone"
+  ],
+  "intro": "Zmrzlina z mascarpone je hladká smetanová zmrzlina z mascarpone, šlehačky, žloutků a cukru, kterou nepotřebuješ zmrzlinovač. Z dávky vyjde asi 700 ml, tedy 6 porcí. Žloutky se zahřívají na 70 °C kvůli bezpečnosti, krém pak 6 hodin mrzne a občas se promíchá.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "jen žloutky",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "vanilka-lusk",
+      "amount": 1,
+      "unit": "ks",
+      "note": "semínka",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "mascarpone",
+      "amount": 250,
+      "unit": "g",
+      "note": "pokojové teploty",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vychlazená",
+      "group": "Krém"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Žloutky ve varné míse šlehej s cukrem do světla. Mléko s vanilkovými semínky přiveď těsně k varu a po lžících ho zašlehej do žloutků."
+    },
+    {
+      "text": "Směs vrať do rendlíku a za stálého míchání zahřívej na 70 °C (teploměr), až zhoustne a obalí lžíci. Nesmí vřít."
+    },
+    {
+      "text": "Krém nech vychladnout, pak do něj vmíchej mascarpone do hladka."
+    },
+    {
+      "text": "Smetanu ušlehej do polotuhé a opatrně vmíchej do mascarpone krému."
+    },
+    {
+      "text": "Směs nalij do mělké nádoby a dej do mrazáku. Po 1 hodině, 2 hodinách a 3 hodinách ji promíchej vidličkou, aby se netvořily krystalky."
+    },
+    {
+      "text": "Po 6 hodinách je zmrzlina hotová; před podáváním ji nech 10 minut stát při pokojové teplotě."
+    }
+  ],
+  "tips": [
+    "Žloutky nesmí vařit; po 75 °C se srazí.",
+    "Mascarpone musí být pokojově teplé, jinak se spojí hrudkovitě.",
+    "Zmrzlinu skladuj v krabici v mrazáku, vydrží 2 týdny.",
+    "Přidej kousky čokolády nebo ovoce až po posledním promíchání."
+  ],
+  "substitutions": [
+    "Vanilku nahradíš vanilkovým cukrem.",
+    "Mascarpone nahradíš smetanovým sýrem.",
+    "Žloutky lze nahradit 200 ml hotového vanilkového krému vyvařeného podle obalu, zmrzlina pak bude lehčí."
+  ],
+  "faq": [
+    {
+      "q": "Dá se zmrzlina z mascarpone dělat bez zmrzlinovače?",
+      "a": "Ano, stačí mrazák a několik promíchání v prvních třech hodinách."
+    },
+    {
+      "q": "Proč je zmrzlina tvrdá?",
+      "a": "Obsahuje málo cukru nebo se nepromíchala. Před servírováním ji nech změknout 10 minut."
+    },
+    {
+      "q": "Je žloutky bezpečné?",
+      "a": "Ano, pokud krém zahřeješ na 70 °C."
+    }
+  ]
+}

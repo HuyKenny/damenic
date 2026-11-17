@@ -1,0 +1,25 @@
+{
+  "name": "Smažené tvarohové placky",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Sladké jídlo",
+  "description": "Zlatavé tvarohové placky z pánve, posypané moučkovým cukrem a podávané s meruňkovým džemem.",
+  "about": [
+    "Tvarohové placky jsou měkké placičky z tvarohu, vajec a mouky, které se smaží krátce na oleji dozlatova. Vyjdou z nich asi tři na porci a jedí se teplé, s cukrem a džemem. Tajemství je suchý tvaroh a olej, který není moc horký.",
+    "V naší smyšlené jídelně se smaží denně, jen žádný olej nevoní. Doma ti recept vypíše přesnou teplotu i čas. Kurýr mezitím nese prázdný talíř, který si plníš ty."
+  ],
+  "price": 11900,
+  "image": "dish-tvarohove-placky",
+  "recipe": "tvarohove-placky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 410
+}

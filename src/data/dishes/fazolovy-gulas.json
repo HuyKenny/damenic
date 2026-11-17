@@ -1,0 +1,20 @@
+{
+  "name": "Fazolový guláš s klobásou",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Hustší jídla",
+  "description": "Bílé fazole, uzená klobása a brambory v paprikové omáčce, hustý a sytý.",
+  "about": [
+    "Fazolový guláš je důkaz, že hustota se dá dosáhnout bez mouky. Škrob z fazolí a brambor zahustí omáčku sám, uzená paprika s klobásou dodají chuť, kterou čekáš od celodenního vaření.",
+    "Prázdná Naběračka ho nabírá do prázdné misky. Doma ho nabereš do plné a zjistíš, že hrnec se vyprázdní rychleji než ten fiktivní."
+  ],
+  "price": 15900,
+  "image": "dish-fazolovy-gulas",
+  "recipe": "fazolovy-gulas",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "order": 910
+}

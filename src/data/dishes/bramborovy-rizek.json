@@ -1,0 +1,20 @@
+{
+  "name": "Bramborový řízek s kysanou okurkou",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "price": 15900,
+  "recipe": "bramborovy-rizek",
+  "vegetarian": true,
+  "order": 924,
+  "description": "Smažená bramborová placka s česnekem a majoránkou.",
+  "about": [
+    "Bramborový řízek je jídlo z chudších časů, které se po letech vrací na stoly kvůli své chuti. Syrové brambory, česnek a majoránka se spojí v hustou placku, která se vysmaží dozlatova.",
+    "Okurka nebo zelí k němu patří a tuk by měl být horký. Hlad je opravdový, objednávka ne."
+  ],
+  "restaurant": "vycep-zitra",
+  "image": "dish-bramborovy-rizek",
+  "allergens": [
+    1,
+    3
+  ]
+}

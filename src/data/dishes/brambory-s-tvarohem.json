@@ -1,0 +1,42 @@
+{
+  "name": "Brambory s tvarohem a opečenou cibulkou",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "main",
+  "section": "Těstoviny a brambory",
+  "description": "Vařené brambory, česnekový tvaroh se smetanou, pažitka a cibulka z másla.",
+  "about": [
+    "Tohle jídlo je ukázka, že k večeři stačí tři věci. Brambory, tvaroh a cibule, každá má jinou teplotu i texturu, a spolu fungují lépe než leckterý složitější talíř.",
+    "Připravíš ho tak rychle, že by kurýr ani nestihl vyrazit. Což je dobře, protože nevyrazí."
+  ],
+  "price": 12900,
+  "image": "dish-brambory-s-tvarohem",
+  "recipe": "brambory-s-tvarohem",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná porce",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Větší porce",
+          "priceDelta": 4000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 130
+}

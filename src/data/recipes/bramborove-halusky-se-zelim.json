@@ -1,0 +1,121 @@
+{
+  "title": "Bramborové halušky se zelím",
+  "keywords": [
+    "bramborové halušky se zelím",
+    "strapačky",
+    "halušky se zelím a slaninou",
+    "halušky z čerstvých brambor"
+  ],
+  "image": "dish-bramborove-halusky-se-zelim",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Bramborové halušky se zelím jsou těsto ze syrových strouhaných brambor, které se vaří ve vodě, a pak se smíchají s kysaným zelím a opečenou slaninou. Těžké je těsto: příliš řídké se rozpadne ve vodě, příliš husté dává tvrdé halušky. Poznáš je podle toho, že vyplavou na hladinu.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "oloupané, nejlépe moučnější odrůda"
+    },
+    {
+      "ingredient": "mouka-hruba",
+      "amount": 220,
+      "unit": "g",
+      "note": "podle vláčnosti brambor"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "do těsta"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na vaření"
+    },
+    {
+      "ingredient": "kysane-zeli",
+      "amount": 350,
+      "unit": "g"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 120,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory nastrouhej na jemném struhadle do mísy a nech je asi 5 minut stát. Pokud pustily hodně šťávy, slij ji, ale škrob na dně mísy nech v těstu."
+    },
+    {
+      "text": "Do brambor vmíchej vejce, 2 lžičky soli a nejdřív 180 g mouky. Těsto má být hustší než na bramboráky a drží na lžíci, ale ještě mírně teče. Podle potřeby přisypej zbylou mouku."
+    },
+    {
+      "text": "Zelí dej do hrnce se 150 ml vody a kmínem, přikryj a duš na mírném plameni 15 minut do změknutí. Pokud je moc kyselé, krátce ho propláchni."
+    },
+    {
+      "text": "Slaninu osmaž na suché pánvi do zlatova (asi 6 minut), přidej cibuli a smaž ještě 4 minuty, dokud nezesklovatí."
+    },
+    {
+      "text": "Ve velkém hrnci přiveď k varu 3 litry vody se lžící soli. Těsto dávej na vlhké prkénko nebo do halušečky a nožem odřezávej malé kousky přímo do vroucí vody, po dávkách."
+    },
+    {
+      "text": "Halušky vař 3 až 4 minuty po vyplavení na hladinu. Vylov je děrovanou naběračkou, odkapej a hned míchej se zelím, slaninou a cibulí. Dopepři a podávej horké."
+    }
+  ],
+  "tips": [
+    "Prkénko i nůž pro krájení halušek namáčej do studené vody, těsto se tolik nelepí.",
+    "Zkušební haluška: nejdřív uvař jednu. Pokud se rozpadne, přisypej do těsta 2 lžíce mouky, pokud je tvrdá, přidej lžíci mléka.",
+    "Strouhané brambory nenech stát déle než 10 minut, tmavnou a těsto zešedne."
+  ],
+  "substitutions": [
+    "Slaninu vynecháš, když ji nahradíš 40 g másla a lžící sladké papriky; jídlo pak bude vegetariánské.",
+    "Kysané zelí lze nahradit dušeným bílým zelím s lžící octa.",
+    "Místo hrubé mouky použij polohrubou, halušky budou o něco měkčí."
+  ],
+  "faq": [
+    {
+      "q": "Jaké brambory na bramborové halušky?",
+      "a": "Vol moučnější odrůdy, které mají víc škrobu. Z voskových brambor je těsto vodnaté a potřebuje víc mouky, halušky pak vyjdou tužší."
+    },
+    {
+      "q": "Proč se mi halušky rozpadají ve vodě?",
+      "a": "Těsto je příliš řídké. Přidej po lžících mouku, dokud na lžíci drží, a voda musí jemně vřít, ne prudce bublat."
+    },
+    {
+      "q": "Dají se halušky připravit dopředu?",
+      "a": "Uvařené halušky vydrží přikryté v lednici 2 dny. Ohřej je na pánvi s trochou tuku, ve vodě by změkly."
+    }
+  ]
+}

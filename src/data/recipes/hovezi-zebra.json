@@ -1,0 +1,119 @@
+{
+  "title": "Hovězí žebra",
+  "keywords": [
+    "hovězí žebra",
+    "hovězí žebra v troubě",
+    "pečená hovězí žebra",
+    "hovězí žebra recept"
+  ],
+  "image": "dish-hovezi-zebra",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 240,
+  "waitMinutes": 120,
+  "waitLabel": "marinování",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Hovězí žebra se pečou v troubě přikrytá čtyři hodiny při 150 °C, dokud maso samo neodpadá od kosti. Marináda z uzené papriky, medu a sójové omáčky dodá lepkavou polevu. Rozhoduje pomalé pečení pod fólií a krátké dokončení bez ní.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-zebra",
+      "amount": 1500,
+      "unit": "g",
+      "note": "asi 4 plátky žeber"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "med",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sojova-omacka",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Z vnitřní strany žeber stáhni tenkou blánu, dá se uchopit papírovou utěrkou. Maso osol a opepři."
+    },
+    {
+      "text": "V misce smíchej kečup, med, sójovou omáčku, horčici, uzenou papriku, česnek a ocet. Žebra jí důkladně potři a nech 2 hodiny v lednici marinovat."
+    },
+    {
+      "text": "Troubu předehřej na 150 °C. Žebra dej do hlubokého pekáče, podlij 250 ml vody, těsně přikryj alobalem nebo víkem a peč 3 hodiny."
+    },
+    {
+      "text": "Sundej fólii, žebra potři zbytkem marinády a peč dalších 30 až 40 minut při 200 °C, dokud se poleva nezačne lepit a nezhnědne."
+    },
+    {
+      "text": "Maso je hotové, když se kost při zatažení lehce uvolní a vnitřní teplota u kosti dosáhne asi 93 °C. Před krájením nech žebra 10 minut odpočinout."
+    }
+  ],
+  "tips": [
+    "Blánu stáhni vždy, jinak je žvýkavá a marináda do masa nevstoupí.",
+    "Alobal musí být těsný, aby se při pečení nevypařila voda.",
+    "Zbylou šťávu z pekáče zredukuj na pánvi a podávej jako omáčku."
+  ],
+  "substitutions": [
+    "Med nahraď javorovým sirupem ve stejném množství.",
+    "Sójovou omáčku lze nahradit 2 lžícemi worcesteru a 1 lžičkou soli."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct hovězí žebra v troubě?",
+      "a": "Přikrytá 3 hodiny při 150 °C a pak 30 až 40 minut odkrytá při 200 °C. Hovězí je tužší než vepřové, potřebuje víc času."
+    },
+    {
+      "q": "Musí se hovězí žebra marinovat?",
+      "a": "Není to nutné, ale dvě hodiny marinády dodají chuť. Ideální je 12 hodin v lednici."
+    },
+    {
+      "q": "Jak poznat, že jsou žebra hotová?",
+      "a": "Maso se odděluje od kosti a prstem ho lze rozebrat. Teplota u kosti je kolem 93 °C."
+    }
+  ]
+}

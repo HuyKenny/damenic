@@ -1,0 +1,132 @@
+{
+  "title": "Ovar",
+  "keywords": [
+    "ovar",
+    "ovar recept",
+    "vepřový ovar",
+    "vařený ovar s křenem"
+  ],
+  "image": "dish-ovar",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 20,
+  "cookMinutes": 150,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Ovar je vařená vepřová hlava nebo koleno, které se vaří dvě a půl hodiny v osolené vodě s kořením, až se maso odděluje od kosti. Podává se teplý nebo studený s křenem, hořčicí, nakládanou cibulí a chlebem, jako klasická pochoutka českých hospod.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-hlava",
+      "amount": 1000,
+      "unit": "g",
+      "note": "půlka, opláchnutá"
+    },
+    {
+      "ingredient": "veprove-koleno",
+      "amount": 600,
+      "unit": "g",
+      "note": "nebo vepřové nožičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "se slupkou, rozpůlená"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 6,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 3000,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "k podání"
+    },
+    {
+      "ingredient": "kren-strouhany",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "k podání"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 300,
+      "unit": "g",
+      "note": "k podání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hlavu i koleno důkladně opláchni studenou vodou a očisti případné chlupy nebo zbytky kůže. Vlož do velkého hrnce a zalij vodou, aby bylo všechno ponořené."
+    },
+    {
+      "text": "Přiveď k varu, 5 minut vař a první pěnu s kalnou vodou slij. Maso znovu zalij čerstvými 3 litry studené vody."
+    },
+    {
+      "text": "Přidej cibuli, mrkev, bobkový list, nové koření, pepř, sůl a ocet. Přiveď k varu a na minimálním plameni vař 2 až 2,5 hodiny pod pokličkou."
+    },
+    {
+      "text": "Maso je hotové, když se kůže snadno propíchne a maso se odděluje od kosti. Teplota uvnitř by měla být přes 90 °C."
+    },
+    {
+      "text": "Vyjmi maso z vývaru, nech 10 minut zchládnout a nakrájej na plátky. Podávej teplé nebo vychlazené s křenem, hořčicí a chlebem."
+    }
+  ],
+  "tips": [
+    "Vodou, ve které se ovar vařil, lze dále vařit polévku nebo ji po přecezení použít jako základ.",
+    "Sůl neskoupi, maso se vaří ve vodě a sůl se do něj dostane jen z ní.",
+    "Na vychlazený ovar jej ponech v tekutině, nezaschne."
+  ],
+  "substitutions": [
+    "Místo hlavy použij samotné koleno nebo vepřové nožičky.",
+    "Ocet lze vynechat, jen maso bude o něco jemnější v chuti."
+  ],
+  "faq": [
+    {
+      "q": "Co je to ovar?",
+      "a": "Ovar je vařená vepřová hlava, koleno, ocásky nebo nožičky, vařená ve vývaru s kořením. Servíruje se teplý nebo studený."
+    },
+    {
+      "q": "Jak dlouho se vaří ovar?",
+      "a": "Půlka vepřové hlavy a koleno potřebují 2 až 2,5 hodiny na mírném plameni. Maso musí jít od kosti snadno odloupnout."
+    },
+    {
+      "q": "Jak dlouho vydrží ovar v lednici?",
+      "a": "Vychlazený a zakrytý ve vývaru vydrží 3 dny. Pro delší skladování ho nezamrazuj, vlákna by byla měkká."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Koprová polévka s bramborami",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Lehká polévka s bramborami, čerstvým koprem a zakysanou smetanou.",
+  "about": [
+    "Koprová polévka je jídlo, které voní po babičce, i když ji nikdo z babiček nikdy nevařil stejně. Kopr, smetana a lžíce octa spolu hrají kyselo-svěže, a proto polévka chutná i v zimě.",
+    "Naběračka je prázdná, kopr smyšlený. Doma stačí svazek kopru z trhu a hodinka času."
+  ],
+  "price": 9900,
+  "image": "dish-koprova-polevka-naberacka",
+  "recipe": "koprova-polevka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 720
+}

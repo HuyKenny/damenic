@@ -1,0 +1,105 @@
+{
+  "title": "Vanilkový pudink s ovocem",
+  "image": "dish-pudink-s-ovocem",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 8,
+  "waitMinutes": 60,
+  "waitLabel": "vychladnutí v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "keywords": [
+    "pudink s ovocem",
+    "pudink s ovocem recept",
+    "pudink s jahodami",
+    "domácí pudink s ovocem"
+  ],
+  "intro": "Pudink s ovocem je vanilkový pudink uvařený z mléka, podávaný s čerstvými jahodami, malinami a borůvkami. Z dávky vyjdou 4 porce. Pudink musí být ihned míchán, aby se nevytvořily hrudky, a chladne pod fólií proti škraloupu.",
+  "ingredients": [
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Pudink"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 37,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Pudink"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 40,
+      "unit": "g",
+      "group": "Pudink"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 150,
+      "unit": "g",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "maliny",
+      "amount": 100,
+      "unit": "g",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "boruvky",
+      "amount": 100,
+      "unit": "g",
+      "group": "Ovoce"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 100,
+      "unit": "ml",
+      "note": "šlehaná, volitelně",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Z 500 ml mléka odlij 100 ml a rozmíchej v něm pudinkový prášek s cukrem, aby nevznikly hrudky."
+    },
+    {
+      "text": "Zbylé mléko přiveď k varu a vlij do něj rozmíchaný prášek; za stálého míchání vař 1 až 2 minuty, až zhoustne."
+    },
+    {
+      "text": "Pudink nalij do skleniček, přikryj fólií přímo na povrchu a nech vychladnout 1 hodinu v lednici."
+    },
+    {
+      "text": "Ovoce omyj, jahody nakrájej na kousky a rozlož na pudink; podle chuti přidej šlehačku."
+    }
+  ],
+  "tips": [
+    "Pudink míchej, dokud se nepřilepí; nesmí se připálit.",
+    "Ovoce přidávej až po vychladnutí, aby nepouštělo šťávu.",
+    "Pudink vydrží v lednici 2 dny.",
+    "Pro chuť přidej kapku vanilky."
+  ],
+  "substitutions": [
+    "Mléko nahradíš rostlinným nápojem; pudink bude mírně řidší.",
+    "Ovoce změň podle sezony, například broskve nebo švestky.",
+    "Cukr nahradíš medem v menším množství."
+  ],
+  "faq": [
+    {
+      "q": "Jak se vyhnout hrudkám v pudinku?",
+      "a": "Prášek vždy rozmíchej ve studeném mléku a vlévej ho do horkého za stálého míchání."
+    },
+    {
+      "q": "Jak zabránit škraloupu?",
+      "a": "Povrch přikryj fólií nebo posyp lžičkou cukru."
+    },
+    {
+      "q": "Jaké ovoce se hodí k pudinku?",
+      "a": "Jahody, maliny, borůvky, broskve nebo banány; vyhýbej se ovoci, které pouští hodně šťávy."
+    }
+  ]
+}

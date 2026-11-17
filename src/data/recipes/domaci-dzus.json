@@ -1,0 +1,92 @@
+{
+  "title": "Domácí džus",
+  "keywords": [
+    "domácí džus",
+    "domácí džus z ovoce",
+    "domácí džus bez odšťavňovače",
+    "jak udělat džus"
+  ],
+  "image": "dish-domaci-dzus-vymackame",
+  "category": "napoje",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "intro": "Domácí džus z jablek, mrkve a pomeranče se dělá za 15 minut v odšťavňovači nebo v mixéru. Je to čerstvý nápoj, který se pije do dvou dnů. Bez odšťavňovače pomůže mixér a plátno.",
+  "ingredients": [
+    {
+      "ingredient": "jablko",
+      "amount": 3,
+      "unit": "ks",
+      "note": "asi 450 g, vykrájená jádra"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 200,
+      "unit": "g",
+      "note": "oloupaná"
+    },
+    {
+      "ingredient": "pomeranc",
+      "amount": 2,
+      "unit": "ks",
+      "note": "oloupané"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "oloupaný, nepovinný"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ovoce a zeleninu důkladně umyj. Jablka rozkrájej na čtvrtky, vykroj jádřince a mrkev nakrájej na kusy, které projdou odšťavňovačem."
+    },
+    {
+      "text": "Pomeranče oloupej včetně bílé slupky. Zázvor oloupej."
+    },
+    {
+      "text": "Vše prožeň odšťavňovačem. Bez odšťavňovače dej kousky s 200 ml vody do mixéru, rozmixuj do hladka a přeceď přes jemné síto nebo plátno."
+    },
+    {
+      "text": "Do džusu vmíchej citronovou šťávu, zabrání ztmavnutí."
+    },
+    {
+      "text": "Podávej ihned s ledem. Přebytek uchovej v zavřené láhvi v lednici maximálně 2 dny."
+    }
+  ],
+  "tips": [
+    "Citron zpomalí hnědnutí, ale džus nikdy nevydrží dlouho.",
+    "Dužninu z odšťavňování využij v koláči nebo do ovesné kaše.",
+    "Pro sladší džus přidej víc jablek, pro kyselejší víc pomerančů."
+  ],
+  "substitutions": [
+    "Pomeranče zastoupí jahody nebo hrušky.",
+    "Mrkev nahradí červená řepa, chuť bude zemitější.",
+    "Pro lehčí džus rozřeď vodou v poměru 1:1."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží domácí džus?",
+      "a": "V lednici v uzavřené láhvi 2 dny. Čím dřív ho vypiješ, tím lepší chuť."
+    },
+    {
+      "q": "Dá se udělat džus bez odšťavňovače?",
+      "a": "Ano. Mixuj ovoce s trochou vody a přeceď přes jemné síto nebo plátno, výsledek bude řidší."
+    },
+    {
+      "q": "Dá se domácí džus zamrazit?",
+      "a": "Ano, v zavřených nádobách 2 měsíce. Po rozmražení ho prošlehej."
+    }
+  ]
+}

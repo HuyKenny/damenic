@@ -1,0 +1,116 @@
+{
+  "title": "Zapečený lilek",
+  "keywords": [
+    "zapečený lilek",
+    "zapečený lilek s mozzarellou",
+    "zapečený lilek s rajčaty",
+    "lilek zapečený se sýrem"
+  ],
+  "image": "dish-zapeceny-lilek",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Zapečený lilek s rajčatovou omáčkou a mozzarellou je jednoduchá varianta parmigiany bez smažení. Plátky lilku se pečou v troubě, vrství se s omáčkou ze sklenice nebo z rajčat a zapečou se se sýrem. Lilek se nepřipaluje a nesaje tuk, a jídlo je hotové za hodinu.",
+  "ingredients": [
+    {
+      "ingredient": "lilek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "asi 800 g, na plátky 1 cm"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "hrst listů"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 250,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C). Lilek nakrájej na plátky silné 1 cm, potři z obou stran olejem a rozlož na dva plechy vyložené pečicím papírem. Posyp solí."
+    },
+    {
+      "text": "Peč plátky 15 až 18 minut, na půl cesty je otoč, až jsou měkké a lehce zlatavé."
+    },
+    {
+      "text": "Mezitím v hrnci zahřej lžíci oleje s prolisovaným česnekem, přilij passatu, přidej oregano a vař 10 minut na středním plameni, až omáčka mírně zhoustne. Dosol a opepři."
+    },
+    {
+      "text": "Do pekáče dej trochu omáčky a vrstvi: lilek, omáčka, plátky mozzarelly a bazalka, a opakuj. Poslední vrstva je omáčka, mozzarella a parmazán."
+    },
+    {
+      "text": "Peč 25 až 30 minut, dokud sýr nezezlátne a okraje nezačnou bublat. Před krájením nech 5 minut odpočinout."
+    }
+  ],
+  "tips": [
+    "Plátky lilku nesmí být tenčí než 1 cm, jinak se v troubě změní v suché chipsy.",
+    "Mozzarellu nakrájej a nech chvíli odkapat na utěrce, hotové jídlo bude míň vodnaté.",
+    "Zapečený lilek se dobře ohřívá, den předem se chutě ještě propojí."
+  ],
+  "substitutions": [
+    "Mozzarellu nahraď eidamem nebo goudou.",
+    "Passatu nahraď 400 g loupaných rajčat z plechovky rozmixovaných tyčovým mixérem.",
+    "Pro bohatší verzi přidej mezi vrstvy vařený květák nebo mrkev."
+  ],
+  "faq": [
+    {
+      "q": "Musím lilek před pečením solit?",
+      "a": "Není nutné, hlavně ho potři olejem a peč do změknutí. Solení je ale užitečné, pokud je lilek větší a semenný."
+    },
+    {
+      "q": "Jak dlouho se zapéká lilek v troubě?",
+      "a": "Plátky se nejdřív pečou asi 15 minut, hotové jídlo se zapéká dalších 25 až 30 minut při 200 °C."
+    },
+    {
+      "q": "Dá se zapečený lilek zmrazit?",
+      "a": "Ano, vychladlý zabal do mrazničkové krabice, vydrží 2 měsíce. Rozmrazuj v lednici přes noc."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Smažený losos",
+  "keywords": [
+    "smažený losos",
+    "smažený losos recept",
+    "losos v trojobalu",
+    "smažený losos v trojobalu"
+  ],
+  "image": "dish-smazeny-losos",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 12,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Smažený losos v trojobalu je filet obalený v mouce, vejci a strouhance, který se smaží z obou stran dozlatova. Losos je hotový při 63 °C uvnitř a smaží se jen pár minut, aby zůstal šťavnatý. Podává se s bramborovou kaší nebo bramborami a citronem.",
+  "ingredients": [
+    {
+      "ingredient": "losos-filet",
+      "amount": 600,
+      "unit": "g",
+      "note": "bez kůže, na 4 kusy"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 200,
+      "unit": "ml",
+      "note": "na smažení"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kopr",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nadrobno"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Filety osuš papírovou utěrkou, osol a opepři. Připrav tři talíře: mouku, rozšlehaná vejce se špetkou soli a strouhanku."
+    },
+    {
+      "text": "Každý filet obal v mouce, ve vejci a ve strouhance, kterou lehce přitiskni. Obalené filety nech 5 minut odpočinout, strouhanka se lépe přichytí."
+    },
+    {
+      "text": "Na široké pánvi rozehřej olej na 170 °C. Hustá strouhanka se začne ihned zlatit, když do ní vhodíš drobek."
+    },
+    {
+      "text": "Filety smaž 3 až 4 minuty z každé strany do zlatova. Losos je hotový při 63 °C uvnitř."
+    },
+    {
+      "text": "Vyjmi na papírovou utěrku, osol, podávej s citronem a koprem."
+    }
+  ],
+  "tips": [
+    "Filety obalují nejlíp studené, takže je vyndej z lednice těsně před obalováním.",
+    "Olej nesmí být ani příliš studený, nasákne, ani příliš horký, spálí se strouhanka.",
+    "Strouhanku lze nahradit panko."
+  ],
+  "substitutions": [
+    "Strouhanku nahraď panko pro hrubší křupavost.",
+    "Mouku lze vynechat, obal bude řidší, ale strouhanka drží hůř."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit lososa?",
+      "a": "Filet silný 2 cm potřebuje 3 až 4 minuty z každé strany při 170 °C. Uvnitř má mít 63 °C."
+    },
+    {
+      "q": "Proč strouhanka opadává?",
+      "a": "Filet byl vlhký, strouhanka nebyla přitlačená, nebo se olej nezahřál. Filety osuš, obal pevně a smaž při 170 °C."
+    },
+    {
+      "q": "Může se losos smažit z mraženého?",
+      "a": "Raději ne. Nejdřív ho rozmraz v lednici a osuš, jinak obal sklouzne."
+    }
+  ]
+}

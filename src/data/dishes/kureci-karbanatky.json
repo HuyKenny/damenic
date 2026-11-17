@@ -1,0 +1,21 @@
+{
+  "name": "Kuřecí karbanátky",
+  "kind": "main",
+  "section": "Kuře",
+  "price": 18900,
+  "recipe": "kureci-karbanatky",
+  "vegetarian": false,
+  "order": 930,
+  "description": "Dva kuřecí karbanátky v trojobalu, uvnitř šťavnaté.",
+  "about": [
+    "Kuřecí karbanátky jsou lehčí bratranec klasických vepřových: jemné, libové a v křupavém obalu. Aby zůstaly šťavnaté, potřebují namočený rohlík a trochu cibule, jinak by se z nich stal suchý puk.",
+    "Doma je smaž na středním žáru, ať se propečou i uvnitř. Prázdná taška se nezmění, ale karbanátky na pánvi voní opravdu."
+  ],
+  "restaurant": "bistro-uletelo",
+  "image": "dish-kureci-karbanatky",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

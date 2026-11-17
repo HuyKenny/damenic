@@ -1,0 +1,148 @@
+{
+  "title": "Kuřecí řízek ve smetanové omáčce",
+  "keywords": [
+    "kuřecí řízek ve smetanové omáčce",
+    "kuřecí řízek se smetanovou omáčkou",
+    "kuřecí řízky ve smetaně",
+    "smažený kuřecí řízek v omáčce"
+  ],
+  "image": "dish-kureci-rizek-ve-smetanove-omacce",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Kuřecí řízek ve smetanové omáčce je klasický trojobalový řízek, který se na pár minut ponoří do žampionové smetany. Těžké je udržet obal křupavý: řízky se proto smaží zvlášť a do omáčky se vrací jen na poslední chvíli, aby se nasákly a nerozpadly.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 600,
+      "unit": "g",
+      "note": "na 4 řízky, přepůlené a naklepané",
+      "group": "Řízky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Řízky"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Řízky"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Řízky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Řízky"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 8,
+      "unit": "lzice",
+      "group": "Řízky"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 200,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Řízky"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 200,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 3,
+      "unit": "ks",
+      "note": "nakrájená",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Z prsou nakrájej čtyři stejně velké plátky, každý vyklep mezi dvěma fóliemi na tloušťku asi 1 cm a osol a opepři ho z obou stran."
+    },
+    {
+      "text": "Řízky obal postupně v mouce, rozšlehaných vejcích a strouhance, strouhanku lehce přitiskni a přebytek oklepej."
+    },
+    {
+      "text": "Na pánvi rozehřej olej na 170 °C a řízky smaž po 3 až 4 minutách z každé strany do světle zlatova. Hotové dej na papírovou utěrku, uvnitř mají mít aspoň 75 °C."
+    },
+    {
+      "text": "Do čisté pánve dej máslo, na středním plameni na něm 3 minuty osmahni cibuli, přidej žampiony a smaž je 5 minut, dokud nepustí a nepovaří vodu."
+    },
+    {
+      "text": "Přilij vývar, přiveď k varu a nech 3 minuty probublávat, pak vlij smetanu, ochuť solí a pepřem a vař 4 minuty, až omáčka lehce zhoustne."
+    },
+    {
+      "text": "Řízky polož do omáčky a ohřívej je na mírném plameni 2 minuty, aby se obal jen mírně nasákl. Podávej posypané pažitkou a hned, dokud je okraj křupavý."
+    }
+  ],
+  "tips": [
+    "Řízky smaž dopředu a do omáčky je dej až před podáváním, jinak se obal rozmočí a odlepí.",
+    "Teplotu oleje zkontroluj kouskem chleba: za 20 vteřin musí zezlátnout. Při nižší teplotě řízek nasaje tuk.",
+    "Omáčka se po zahřátí zahustí, případně ji rozmíchej lžící vývaru."
+  ],
+  "substitutions": [
+    "Smetanu ke slehání nahraď stejným množstvím smetany ke šlehání 12 %, omáčka bude lehčí a méně hustá.",
+    "Žampiony nahraď směsí lesních hub nebo je vynech a omáčku dochuť lžičkou dijonské hořčice.",
+    "Bez lepku: použij kukuřičnou strouhanku a rýžovou mouku."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit kuřecí řízek?",
+      "a": "Při 170 °C a tloušťce 1 cm trvá smažení 3 až 4 minuty z každé strany. Uvnitř musí mít maso aspoň 75 °C a šťávy musí být čiré."
+    },
+    {
+      "q": "Proč se obal odlepuje od masa?",
+      "a": "Obvykle je maso vlhké nebo se po obalení nechalo ležet. Maso osuš, obal těsně před smažením a strouhanku jemně přitiskni."
+    },
+    {
+      "q": "Dá se řízek ve smetaně ohřát?",
+      "a": "Ano, ve vlažné troubě na 150 °C asi 15 minut s omáčkou zvlášť. Obal bude měkčí než čerstvý, ale chuť zůstane."
+    }
+  ]
+}

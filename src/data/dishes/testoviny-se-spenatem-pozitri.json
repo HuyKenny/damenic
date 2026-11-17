@@ -1,0 +1,24 @@
+{
+  "name": "Penne se špenátem a smetanovým sýrem",
+  "restaurant": "lahudky-pozitri",
+  "kind": "main",
+  "section": "Těstoviny",
+  "description": "Penne ve špenátové omáčce se smetanovým sýrem, parmazánem a trochou citronu.",
+  "about": [
+    "Špenát se osvědčil jako zelenina, která zapadne všude. Smetanový sýr z něj dělá hladkou omáčku bez mouky a citron na konci zabrání, aby jídlo bylo moc těžké.",
+    "Zelená omáčka se v lahůdkách nikdy neohřeje, protože nikdy nedorazí. V kuchyni to trvá pětadvacet minut."
+  ],
+  "price": 16900,
+  "image": "dish-testoviny-se-spenatem-pozitri",
+  "recipe": "testoviny-se-spenatem",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 710
+}

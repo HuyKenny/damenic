@@ -1,0 +1,135 @@
+{
+  "title": "Ledový salát se zálivkou",
+  "keywords": [
+    "ledový salát se zálivkou",
+    "ledový salát",
+    "zálivka na ledový salát",
+    "salát z ledového salátu"
+  ],
+  "image": "dish-ledovy-salat-se-zalivkou-ani-listek",
+  "category": "salaty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "salat",
+  "intro": "Ledový salát se zálivkou je křupavá příloha z jedné hlávky s jogurtovo-česnekovou zálivkou. Salát se nakrájí těsně před podáváním a zálivka se lije až na talíři, aby zůstal křupavý.",
+  "ingredients": [
+    {
+      "ingredient": "ledovy-salat",
+      "amount": 1,
+      "unit": "ks",
+      "note": "asi 500 g",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "na měsíčky",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "okurka-salatova",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na plátky",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "redkvicky",
+      "amount": 100,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Salát"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 150,
+      "unit": "g",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Zálivka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Zálivka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ledový salát zbav vnějších listů a košťálu. Rozdělej ho na listy, opláchni a pořádně osuš v odstředivce nebo mezi utěrkami."
+    },
+    {
+      "text": "Listy natrhej rukama na sousta velká 4 až 5 cm. Krájení nožem nechává hnědé okraje."
+    },
+    {
+      "text": "Do misky dej jogurt, olej, citronovou šťávu, česnek, med a sůl a prošlehej. Přidej pažitku."
+    },
+    {
+      "text": "Salát, rajčata, okurku a ředkvičky dej do mísy a těsně před podáváním je polij zálivkou, jemně promíchej."
+    },
+    {
+      "text": "Podávej hned. Zálivku lze uchovat 2 dny v lednici v uzavřené sklenici."
+    }
+  ],
+  "tips": [
+    "Ledový salát se po rozdělení vyplatí namočit na 10 minut do ledové vody. Pak ho dobře osuš.",
+    "Zálivku přilévej až těsně před jídlem, listy rychle zvadnou.",
+    "Pro sytější verzi přidej kousky sýra feta nebo opečené křoupavé křutony."
+  ],
+  "substitutions": [
+    "Jogurt nahradí zakysaná smetana nebo kefír.",
+    "Med zastoupí cukr nebo javorový sirup.",
+    "Zálivka lze udělat i olivovo-citronová bez jogurtu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží ledový salát v lednici?",
+      "a": "Celá hlávka v sáčku 1 až 2 týdny. Natrhaný salát udrží křupavost 1 až 2 dny, pokud je suchý."
+    },
+    {
+      "q": "Proč ledový salát hnědne?",
+      "a": "Řezy na nožem oxidují. Salát proto trhej rukama a po nakrájení ho hned použij."
+    },
+    {
+      "q": "Jaká zálivka se hodí na ledový salát?",
+      "a": "Jogurtová s česnekem, ale také olivový olej s citronem, nebo majonézová zálivka s hořčicí."
+    }
+  ]
+}

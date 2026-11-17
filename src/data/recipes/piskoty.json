@@ -1,0 +1,105 @@
+{
+  "title": "Domácí piškoty",
+  "image": "dish-piskoty",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 30,
+  "cookMinutes": 12,
+  "waitMinutes": 10,
+  "waitLabel": "vychladnutí na plechu",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "keywords": [
+    "piškoty",
+    "domácí piškoty",
+    "piškoty recept",
+    "piškotové těsto"
+  ],
+  "intro": "Domácí piškoty jsou lehké pečivo z vajec, cukru a mouky bez tuku, které se používá na dorty, řezy a tiramisu. Z dávky vyjde asi 30 kusů o délce 8 cm. Aby byly nadýchané, musí být vejce dobře vyšlehaná a mouka vmíchána velmi jemně.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "oddělená",
+      "group": "Piškoty"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 120,
+      "unit": "g",
+      "group": "Piškoty"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 90,
+      "unit": "g",
+      "group": "Piškoty"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 30,
+      "unit": "g",
+      "group": "Piškoty"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "note": "na posyp",
+      "group": "Piškoty"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Piškoty"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 170 °C, horkovzduch 150 °C. Plech vyložte pečicím papírem."
+    },
+    {
+      "text": "Bílky ušlehej s polovinou cukru na tuhý lesklý sníh. Žloutky vyšlehej s druhou polovinou cukru a vanilkovým cukrem do světlé husté pěny."
+    },
+    {
+      "text": "Žloutkovou pěnu vmíchej do sněhu, pak prosátou mouku se škrobem po částech jemně přelož špachtlí."
+    },
+    {
+      "text": "Těsto naplň do sáčku bez nástavce nebo s širokou špičkou a stříkej proužky dlouhé asi 8 cm, mezery 3 cm."
+    },
+    {
+      "text": "Posyp moučkovým cukrem, počkej 5 minut a peč 10 až 12 minut dozlatova."
+    },
+    {
+      "text": "Hotové piškoty nech na plechu vychladnout; pak je sundej z papíru."
+    }
+  ],
+  "tips": [
+    "Mísa i šlehače musí být zcela bez tuku.",
+    "Těsto vmíchávej jemně, sníh nesmí spadnout.",
+    "Piškoty skladuj v těsné krabici; vydrží 2 týdny.",
+    "Neotevírej troubu v prvních 8 minutách."
+  ],
+  "substitutions": [
+    "Škrob nahradíš stejným množstvím mouky; piškoty budou o něco pevnější.",
+    "Vanilkový cukr nahradíš citronovou kůrou.",
+    "Moučkový cukr na posyp můžeš vynechat."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi piškoty spadly?",
+      "a": "Sníh byl málo ušlehaný nebo se těsto příliš míchalo. Použij tuhý sníh a přeložení."
+    },
+    {
+      "q": "K čemu se domácí piškoty hodí?",
+      "a": "Na tiramisu, nepečené dorty, řezy a rumové kuličky; nasáknou krém a drží tvar."
+    },
+    {
+      "q": "Jak dlouho vydrží?",
+      "a": "Uzavřené v suchu 2 týdny; změklé je dosuš v troubě na 100 °C."
+    }
+  ]
+}

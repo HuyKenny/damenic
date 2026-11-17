@@ -1,0 +1,44 @@
+{
+  "name": "Bramborové placky se zakysanou smetanou",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Minutky",
+  "description": "Měkké placky z vařených brambor s česnekem a majoránkou, zakysaná smetana zvlášť.",
+  "about": [
+    "Placky z vařených brambor jsou jídlo pro dny, kdy ti zbyly brambory. Rozmačkáš je, přidáš mouku, vejce a česnek a opečeš na pánvi dozlatova.",
+    "Jsou měkčí než bramboráky a nešednou. Stačí zakysaná smetana a hotovo, kurýr nemusí nikam."
+  ],
+  "price": 13900,
+  "image": "dish-bramborove-placky",
+  "recipe": "bramborove-placky",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná porce",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Větší porce",
+          "priceDelta": 4000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 924
+}

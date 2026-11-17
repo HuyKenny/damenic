@@ -1,0 +1,42 @@
+{
+  "name": "Zapečený lilek s rajčatovou omáčkou a mozzarellou",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Plátky pečeného lilku, rajčatová omáčka s bazalkou, mozzarella a parmazán.",
+  "about": [
+    "Lilek se tady peče, ne smaží, takže nenasákne olej a po zapečení drží tvar. Střídá se s omáčkou z rajčat s česnekem a oreganem a nahoře se roztéká mozzarella.",
+    "Pekáč zůstal prázdný, takže vůni dodá až tvoje kuchyně. Zahrádka dodá jen návod."
+  ],
+  "price": 19900,
+  "image": "dish-zapeceny-lilek",
+  "recipe": "zapeceny-lilek",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná porce",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Větší porce",
+          "priceDelta": 4000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 260
+}

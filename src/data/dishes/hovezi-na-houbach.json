@@ -1,0 +1,47 @@
+{
+  "name": "Hovězí na houbách",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "description": "Kostky dušené hovězí plece se žampiony a sušenými houbami v tmavé šťávě, s knedlíkem.",
+  "about": [
+    "Hovězí plec je maso, které nezvládne spěch. Za dvě hodiny dušení se vazivo změní ve šťávu a kostky změknou tak, že je rozmačkáš vidličkou. Žampiony a sušené houby dodají omáčce hlubokou chuť.",
+    "U Prázdného Talíře se nikdo nepřipíjí a nikdo se nenají. U tebe doma ale talíř zůstane prázdný, až když dojíš šťávu chlebem."
+  ],
+  "price": 24900,
+  "image": "dish-hovezi-na-houbach",
+  "recipe": "hovezi-na-houbach",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "houskovy",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "chleb",
+          "name": "Chléb",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    9
+  ],
+  "order": 910
+}

@@ -1,0 +1,133 @@
+{
+  "title": "Bramborové knedlíky s povidly",
+  "image": "dish-povidlove-knedliky",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 12,
+  "waitMinutes": 60,
+  "waitLabel": "vychladnutí uvařených brambor",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "keywords": [
+    "povidlové knedlíky",
+    "povidlové knedlíky z bramborového těsta",
+    "knedlíky s povidly",
+    "bramborové knedlíky s povidly"
+  ],
+  "intro": "Povidlové knedlíky z bramborového těsta, plněné hustými povidly a posypané tvarohem, cukrem a máslem. Vyjde 12 knedlíků pro 4 osoby. Povidla se při vaření nesmějí protrhnout ven, proto je dáváš do chladu a těsto lehce zpracováváš.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 600,
+      "unit": "g",
+      "note": "voskové, uvařené ve slupce a vychladlé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 170,
+      "unit": "g",
+      "note": "a trochu na vál",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "krupice",
+      "amount": 20,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "povidla",
+      "amount": 180,
+      "unit": "g",
+      "note": "hustá, 15 g na knedlík",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do vody na vaření",
+      "group": "Vaření"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 150,
+      "unit": "g",
+      "note": "suchý, rozdrobený",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 50,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař ve slupce asi 25 minut do měkka, nech je úplně vychladnout a oloupej. Prolisuj je nebo najemno nastrouhej."
+    },
+    {
+      "text": "Přidej vejce, krupici, špetku soli a mouku a rychle zpracuj na měkké těsto, které se jen mírně lepí. Dlouhé hnětení těsto zhoustí."
+    },
+    {
+      "text": "Povidla rozděl na 12 kuliček po 15 g. Chladná povidla se lépe zabalují, případně je na 15 minut dej do mrazáku."
+    },
+    {
+      "text": "Těsto rozděl na 12 dílů, rozmáčkni na placky, doprostřed dej povidla a těsto kolem nich uzavři do kuličky bez trhlin."
+    },
+    {
+      "text": "V hrnci přiveď k varu 3 l vody s lžičkou soli. Vlož knedlíky, stáhni plamen a nech je mírně vřít 8 až 10 minut; hotové vyplavou a jsou na dotyk pružné."
+    },
+    {
+      "text": "Vyndej je děrovanou lžící, posyp tvarohem a moučkovým cukrem a polij rozpuštěným máslem. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Zkušební knedlík uvař vždy první; když se rozpadá, přidej lžíci mouky a nech těsto 10 minut odpočinout.",
+    "Povidla musí být hustá. Řídká nebo přeslazená vytečou a knedlík se rozpadne; rozvařené povidla zahusti 5 minutami na mírném ohni.",
+    "Hotové knedlíky se dají zamrazit; vař je ze zmrazeného stavu 12 minut od vyplavání.",
+    "Kdo nemá rád tvaroh, posype knedlíky mletým perníkem s cukrem a polije máslem."
+  ],
+  "substitutions": [
+    "Povidla nahradíš hustým švestkovým lekvárem nebo rozvařenými sušenými švestkami s trochou skořice.",
+    "Polohrubou mouku můžeš nahradit hladkou, bude jí stačit o 10 až 20 g méně.",
+    "Tvaroh nahradíš mletým mákem s cukrem."
+  ],
+  "faq": [
+    {
+      "q": "Jak zabránit, aby povidla z knedlíků nevytekla?",
+      "a": "Povidla zahusti vařením a dávej je studená; těsto kolem nich spoj bez jediné trhliny a v hrnci vař na mírném varu, ne na prudkém."
+    },
+    {
+      "q": "Můžu povidlové knedlíky udělat den dopředu?",
+      "a": "Ano. Uvařené je přelij trochou másla, ať se nelepí, a dej do lednice; druhý den je ohřej v páře nebo na pánvi s máslem."
+    },
+    {
+      "q": "Z čeho se povidlové knedlíky dělají nejlépe?",
+      "a": "Z bramborového těsta, protože je měkké a dobře drží hustou náplň. Vychladlé brambory na těsto jsou důležitější než přesný poměr mouky."
+    }
+  ]
+}

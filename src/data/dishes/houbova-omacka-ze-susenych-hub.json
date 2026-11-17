@@ -1,0 +1,21 @@
+{
+  "name": "Houbová omáčka ze sušených hub",
+  "restaurant": "chata-pristi-sezona",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Tmavá omáčka z hub namočených ve vlažné vodě, s cibulí, kmínem a kyselou smetanou.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-houbova-omacka-ze-susenych-hub",
+  "recipe": "houbova-omacka-ze-susenych-hub",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 30
+}

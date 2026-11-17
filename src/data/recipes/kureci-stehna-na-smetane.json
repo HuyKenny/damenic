@@ -1,0 +1,121 @@
+{
+  "title": "Kuřecí stehna na smetaně",
+  "keywords": [
+    "kuřecí stehna na smetaně",
+    "kuřecí stehna ve smetanové omáčce",
+    "dušená kuřecí stehna",
+    "kuře na smetaně"
+  ],
+  "image": "dish-kureci-stehna-na-smetane",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Kuřecí stehna na smetaně se dusí v jedné pánvi, takže jsou hotová za hodinu a skoro bez dozoru. Důležité je maso nejdřív opéct dozlatova a smetanu přilít až k dušenému masu, aby se omáčka nesrazila.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna-s-kosti",
+      "amount": 1000,
+      "unit": "g",
+      "note": "asi 4 stehna, rozdělená v kloubu"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "na půlkolečka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 250,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na zahuštění"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stehna osol, opepři a posyp sladkou paprikou. V široké pánvi s pokličkou rozehřej olej a maso opékej na středním plameni po 5 minutách z obou stran, dokud nemá zlatou kůži."
+    },
+    {
+      "text": "Maso vyndej, do výpeku dej cibuli a na středním plameni ji 5 minut smaž, přidej česnek a tymián a míchej další minutu, aby nezhořkly."
+    },
+    {
+      "text": "Vrať stehna do pánve, zalij vývarem, přiklop pokličkou a duš na mírném plameni 30 minut. Po 15 minutách je obrať."
+    },
+    {
+      "text": "Smetanu rozmíchej s moukou, nalij do pánve a vař odkryté 8 až 10 minut, dokud omáčka nezhoustne a nepokryje lžíci."
+    },
+    {
+      "text": "Zkontroluj hotovost: u kosti má mít maso 75 °C, šťáva po vpichu je čirá a kloub se snadno pohybuje. Dochuť solí a pepřem a podávej s rýží nebo bramborovou kaší."
+    }
+  ],
+  "tips": [
+    "Kůži opékej na suchém povrchu, vlhkost zpomalí zhnědnutí. Stehna před koření osuš utěrkou.",
+    "Smetanu s moukou rozmíchej studenou, jinak se v horkém vývaru tvoří hrudky.",
+    "Omáčku nevař prudce, smetana by se srazila."
+  ],
+  "substitutions": [
+    "Smetanu ke šlehání 31 % nahraď smetanou na vaření 15 %, omáčka bude řidší, přidej druhou lžíci mouky.",
+    "Bez mouky omáčku zahusti lžící škrobu rozmíchanou ve 3 lžících studené vody.",
+    "Chceš-li hustší chuť, přidej 1 lžičku dijonské hořčice."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho dusit kuřecí stehna?",
+      "a": "Stehna s kostí dusíme 30 až 35 minut na mírném plameni pod pokličkou. Hotová jsou při 75 °C u kosti, ale změknou i při 85 °C."
+    },
+    {
+      "q": "Proč se smetana sráží?",
+      "a": "Sráží se při prudkém varu nebo při přidání do příliš kyselé tekutiny. Smetanu přilévej do mírně vroucí omáčky a nevař ji prudce."
+    },
+    {
+      "q": "Dají se použít vykostěná stehna?",
+      "a": "Ano, dus je jen 20 minut. Maso je pak šťavnaté a rychleji hotové, ale omáčka je bez želatiny z kostí tenčí."
+    }
+  ]
+}

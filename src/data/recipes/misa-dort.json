@@ -1,0 +1,151 @@
+{
+  "title": "Míša dort s tvarohovou náplní",
+  "image": "dish-misa-dort",
+  "category": "dorty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 50,
+  "cookMinutes": 30,
+  "waitMinutes": 420,
+  "waitLabel": "vychladnutí korpusu a ztuhnutí dortu v lednici",
+  "difficulty": "střední",
+  "meal": "dort",
+  "keywords": [
+    "míša dort",
+    "míša dort recept",
+    "míša dort s tvarohem",
+    "tvarohový dort s čokoládou"
+  ],
+  "intro": "Míša dort je kakaový piškotový korpus, krém z tvarohu a šlehačky a hořká čokoládová poleva. Peče se ve formě o průměru 24 cm a vyjde 12 dílů. Korpus se peče jen 30 minut, ale dort musí aspoň 6 hodin v lednici, aby krém ztuhl a šel čistě krájet.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 5,
+      "unit": "ks",
+      "note": "oddělená, pokojové teploty",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 30,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 5,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 500,
+      "unit": "g",
+      "note": "hladký, jemně pasírovaný nebo rozmixovaný",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "zelatina",
+      "amount": 12,
+      "unit": "g",
+      "note": "mletá nebo plátky",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "note": "na rozpuštění želatiny",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 300,
+      "unit": "ml",
+      "note": "vychlazená",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 100,
+      "unit": "ml",
+      "note": "ohřátá",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 170 °C, horkovzduch 150 °C. Dno formy o průměru 24 cm vyložte pečicím papírem, boky nevymazávej."
+    },
+    {
+      "text": "Bílky ušlehej s polovinou cukru na pevný sníh. Žloutky vyšlehej s druhou polovinou cukru do světlé pěny. Opatrně vmíchej mouku s kakaem a kypřicím práškem a nakonec sníh po třetinách."
+    },
+    {
+      "text": "Těsto nalij do formy a peč 30 minut; hotové je, když špejle zapíchnutá doprostřed vyjde suchá. Korpus nech vychladnout ve formě a pak ho vodorovně rozkrojte na dva pláty."
+    },
+    {
+      "text": "Želatinu nech 5 minut nabobtnat ve studeném mléku, pak ji v mléce za stálého míchání rozpusť (nesmí vřít) a nech vlažnou. Tvaroh vyšlehej s moučkovým a vanilkovým cukrem, vmíchej želatinu a nakonec našlehanou šlehačku."
+    },
+    {
+      "text": "Spodní plát vlož do dortového kruhu nebo formy, potři krémem, přikryj druhým plátem a zbylý krém nanes na povrch. Dort dej minimálně na 6 hodin do lednice."
+    },
+    {
+      "text": "Na polevu ohřej smetanu těsně pod bod varu, zalij ji nalámanou čokoládou, nech chvíli stát a promíchej do hladka. Vlažnou polevu rozlij po dortu a nech ztuhnout."
+    }
+  ],
+  "tips": [
+    "Tvaroh musí být úplně hladký, jinak bude krém zrnitý; nejlépe ho rozmixuj tyčovým mixérem.",
+    "Želatinu nikdy nevař, ztratí gelovací schopnost. Do tvarohu ji přidávej vlažnou, ne horkou, aby se nesrazila.",
+    "Dort nejlépe chutná druhý den, krém se pak propojí s korpusem.",
+    "Uchovávej v lednici, spotřebuj do 3 dnů."
+  ],
+  "substitutions": [
+    "Tvaroh můžeš z poloviny nahradit mascarpone; krém bude bohatší.",
+    "Želatinu nahradíš 2 lžičkami agaru podle návodu na obalu, zahřátým v mléce.",
+    "Čokoládovou polevu nahradíš kakaovou polevou z kakaa, cukru a vody."
+  ],
+  "faq": [
+    {
+      "q": "Proč krém na míša dort nezatuhl?",
+      "a": "Nejčastěji byla želatina zahřátá příliš nebo málo, nebo byla přidaná horká a rozpustila šlehačku. Použij ji vlažnou a dort nech aspoň 6 hodin v lednici."
+    },
+    {
+      "q": "Jak dlouho vydrží míša dort?",
+      "a": "V lednici do 3 dnů, přikrytý. Pro krájení použij nůž ponořený do horké vody."
+    },
+    {
+      "q": "Dá se míša dort udělat bez želatiny?",
+      "a": "Ano, ale bude měkčí. Použij mascarpone s tvarohem a vyšlehanou šlehačkou a dort krájej vychlazený."
+    }
+  ]
+}

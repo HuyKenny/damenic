@@ -1,0 +1,21 @@
+{
+  "name": "Masové kuličky v rajčatové omáčce",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "price": 19900,
+  "recipe": "masove-kulicky-v-omacce",
+  "vegetarian": false,
+  "order": 940,
+  "description": "Měkké masové kuličky dušené v rajčatové omáčce, s těstovinami.",
+  "about": [
+    "Masové kuličky v omáčce jsou jídlo, které se nedá spěchat. Vlastní kuličky se ve vroucí omáčce nasytí chutí a omáčka zase převezme šťávu z masa, takže je jedno bez druhého nic.",
+    "Doma je důležité vařit pomalu a omáčku neobracet vidličkou. Nic se k tobě nedoveze, kuličky ale na pánvi opravdu bublají."
+  ],
+  "restaurant": "vycep-zitra",
+  "image": "dish-masove-kulicky-v-omacce",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Bramborové halušky se zelím a slaninou",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Strouhané bramborové halušky, dušené kysané zelí, opečená slanina a cibule.",
+  "about": [
+    "Halušky se zelím jsou jídlo, které voní dřív, než ho otevřeš. Těsto ze syrových brambor se vaří po malých kouscích, zelí se dusí s kmínem a slanina se opéká, dokud nezačne pukat.",
+    "Je to sytý talíř a sytost je tu skutečná. Doručení smyšlené, a tak se o halušky postaráš doma podle receptu."
+  ],
+  "price": 18900,
+  "image": "dish-bramborove-halusky-se-zelim",
+  "recipe": "bramborove-halusky-se-zelim",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná porce",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Větší porce",
+          "priceDelta": 4000
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3
+  ],
+  "featured": false,
+  "order": 380
+}

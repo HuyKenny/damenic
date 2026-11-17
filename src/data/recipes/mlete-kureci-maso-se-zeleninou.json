@@ -1,0 +1,127 @@
+{
+  "title": "Mleté kuřecí maso se zeleninou",
+  "keywords": [
+    "mleté kuřecí maso se zeleninou",
+    "mleté kuřecí maso na pánvi",
+    "mleté kuřecí s cuketou",
+    "mleté kuřecí maso recept"
+  ],
+  "image": "dish-mlete-kureci-maso-se-zeleninou",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Mleté kuřecí maso se zeleninou je pánev na 40 minut z kuřecího mletého, cukety, mrkve a papriky v rajčatové omáčce. Mleté kuřecí je libové, takže se musí opéct dozlatova, ne dusit, a uvnitř musí být propečené aspoň na 75 °C.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-mlete",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaná"
+    },
+    {
+      "ingredient": "cuketa",
+      "amount": 250,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na pánvi rozehřej olej a maso opékej na silném plameni 6 až 8 minut, rozmělňuj ho vařečkou, dokud není zlatavé a nezmizí růžová barva."
+    },
+    {
+      "text": "Přidej cibuli a mrkev a smaž 4 minuty, pak vmíchej česnek a 1 minutu míchej."
+    },
+    {
+      "text": "Přidej cuketu a papriku, osol, opepři a smaž 5 minut do poloměkka."
+    },
+    {
+      "text": "Zalij passatou, přidej oregano a duš na mírném plameni 8 minut. Maso uvnitř musí mít 75 °C."
+    },
+    {
+      "text": "Dochuť, posyp petrželkou a podávej s rýží, těstovinami nebo bramborami."
+    }
+  ],
+  "tips": [
+    "Maso nech dobře zhnědnout, bez toho chutná plošně.",
+    "Cuketu přidávej později, ať se nerozvaří.",
+    "Zbytek lze ochutit lžičkou sladké papriky nebo chilli."
+  ],
+  "substitutions": [
+    "Mleté kuřecí nahraď mletým krůtím.",
+    "Cuketu nahraď lilkem nebo brokolicí.",
+    "Passatu nahraď 2 lžícemi protlaku a 150 ml vody."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit mleté kuřecí maso?",
+      "a": "Asi 6 až 8 minut na silném plameni. Maso má být zlatavé a propečené, bez růžových míst."
+    },
+    {
+      "q": "Co podávat k mletému kuřecímu se zeleninou?",
+      "a": "Rýže, těstoviny, bramborová kaše nebo tortilla. Je to rychlý univerzální základ."
+    },
+    {
+      "q": "Dá se tohle jídlo zmrazit?",
+      "a": "Ano, v mrazáku vydrží 2 měsíce. Cuketa po rozmražení změkne, ale chuť zůstane."
+    }
+  ]
+}

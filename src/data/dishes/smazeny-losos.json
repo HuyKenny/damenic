@@ -1,0 +1,24 @@
+{
+  "name": "Smažený losos v trojobalu",
+  "restaurant": "steakarna-rare-priste",
+  "kind": "main",
+  "section": "Ryby a mořské plody",
+  "description": "Filet lososa v křupavém trojobalu, smažený dozlatova, s citronem a koprem.",
+  "about": [
+    "Smažený losos spojuje křupavý obal s měkkým růžovým masem uvnitř. Mouka, vejce, strouhanka a tři minuty na každé straně při 170 °C stačí.",
+    "Steakárna Rare Příště ho podává raději nepropečený, ale u lososa platí opak: 63 °C uvnitř a nic víc. Doma si ho uděláš tak, jak ti vyhovuje."
+  ],
+  "price": 29900,
+  "image": "dish-smazeny-losos",
+  "recipe": "smazeny-losos",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    4
+  ],
+  "order": 910
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Kuřecí řízek ve smetanové omáčce",
+  "kind": "main",
+  "section": "Drůbež a králík",
+  "price": 22900,
+  "recipe": "kureci-rizek-ve-smetanove-omacce",
+  "vegetarian": false,
+  "order": 912,
+  "description": "Zlatavý kuřecí řízek v lehké žampionové smetaně s pažitkou.",
+  "about": [
+    "Trojobalový kuřecí řízek je jídlo, které umí každý, a smetanová omáčka je to, co z něj udělá neděli. Křupavá krusta zůstává z větší části suchá a smetana s houbami ji z druhé strany jemně změkčí.",
+    "Doma smažíš řízky zvlášť a do omáčky je dáš těsně před podáváním, jinak obal rozmočíš. Pec zůstává prázdná, ale chuť na řízek je skutečná. Taková je tahle kuchyně."
+  ],
+  "restaurant": "peceni-na-priste",
+  "image": "dish-kureci-rizek-ve-smetanove-omacce",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

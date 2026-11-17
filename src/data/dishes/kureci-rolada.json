@@ -1,0 +1,19 @@
+{
+  "name": "Kuřecí roláda se špenátem a sýrem",
+  "kind": "main",
+  "section": "Drůbež a králík",
+  "price": 24900,
+  "recipe": "kureci-rolada",
+  "vegetarian": false,
+  "order": 934,
+  "description": "Kuřecí roláda plněná šunkou, sýrem a špenátem, obalená slaninou.",
+  "about": [
+    "Roláda je trochu kutilství: kuřecí prso se rozevře, vyklepe, naplní a stočí. Odměnou je řez, ve kterém se barví špenát, sýr a šunka a maso zůstane šťavnaté díky slanině.",
+    "Nejdůležitější je pevné sbalení a teploměr. Taška zůstane prázdná, ale roláda je tu skutečná, v troubě doma."
+  ],
+  "restaurant": "peceni-na-priste",
+  "image": "dish-kureci-rolada",
+  "allergens": [
+    7
+  ]
+}

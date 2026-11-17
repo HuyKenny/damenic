@@ -1,0 +1,21 @@
+{
+  "name": "Kuřecí guláš s houskovým knedlíkem",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "price": 19900,
+  "recipe": "kureci-gulas",
+  "vegetarian": false,
+  "order": 920,
+  "description": "Hustý kuřecí guláš s cibulí a paprikou, k tomu houskový knedlík.",
+  "about": [
+    "Kuřecí guláš je rychlá odpověď na chuť na guláš ve všední den. Cibule se rozvaří do hustého základu, paprika dá barvu a stehna se v něm dusí jako maso v hospodě, jen o dvě hodiny kratší.",
+    "Doma stačí pomalu opéct cibuli a nepustit paprice plamen. Knedlík a guláš jsou tu smyšlené, hlad je skutečný."
+  ],
+  "restaurant": "u-prazdneho-talire",
+  "image": "dish-kureci-gulas",
+  "allergens": [
+    1,
+    3,
+    7
+  ]
+}

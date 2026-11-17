@@ -1,0 +1,23 @@
+{
+  "name": "Pečená hovězí žebra v medové marinádě",
+  "restaurant": "udirna-odnikud",
+  "kind": "main",
+  "section": "Z pekáče",
+  "description": "Hovězí žebra pečená čtyři hodiny pod fólií, na konci lepkavá od medu a uzené papriky.",
+  "about": [
+    "Hovězí žebra jsou o dost tvrdší než vepřová, ale kdo je upeče správně, odměnou je maso, které samo odpadá od kosti. Marináda z medu, sójové omáčky a uzené papriky se na konci změní v lepkavou polevu.",
+    "Udírna Odnikud kouří jen nanečisto, ale trouba na 150 °C udělá skoro stejnou práci. Připrav si ubrousky, prsty budou lepkavé."
+  ],
+  "price": 32900,
+  "image": "dish-hovezi-zebra",
+  "recipe": "hovezi-zebra",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    6,
+    10
+  ],
+  "order": 910
+}

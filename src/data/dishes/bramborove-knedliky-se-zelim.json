@@ -1,0 +1,44 @@
+{
+  "name": "Bramborové knedlíky plněné zelím",
+  "restaurant": "hostinec-za-hranici-nic",
+  "kind": "main",
+  "section": "Polsko a Rakousko",
+  "description": "Měkké bramborové knedlíky se zelím a slaninou, polité máslem s cibulkou.",
+  "about": [
+    "Knedlík a zelí jsou obvykle vedle sebe. Tady je zelí uvnitř: duší se s kmínem, míchá se se slaninou a cibulkou a zavře do bramborového těsta.",
+    "Hotový knedlík stačí zalít máslem. Hostinec je smyšlený, zelí i těsto ale ověříš doma."
+  ],
+  "price": 17900,
+  "image": "dish-bramborove-knedliky-se-zelim",
+  "recipe": "bramborove-knedliky-se-zelim",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná porce",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Větší porce",
+          "priceDelta": 4000
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 390
+}

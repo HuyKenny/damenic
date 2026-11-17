@@ -1,0 +1,22 @@
+{
+  "name": "Fašírky s bramborovou kaší",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "price": 18900,
+  "recipe": "fasirky",
+  "vegetarian": false,
+  "order": 931,
+  "description": "Dvě pečené fašírky z mletého masa, k tomu bramborová kaše.",
+  "about": [
+    "Fašírky jsou kuchyňská záchrana: mleté maso, rohlík, cibule, česnek a vejce, které stačí jen smíchat a upéct. Bez trojobalu jsou lehčí než karbanátky a v troubě se nestřídají s pánví.",
+    "Doma je fašírka hotová za půl hodiny a vydrží i druhý den studená. Taška je prázdná, vůně opravdová."
+  ],
+  "restaurant": "vycep-zitra",
+  "image": "dish-fasirky",
+  "allergens": [
+    1,
+    3,
+    7,
+    10
+  ]
+}

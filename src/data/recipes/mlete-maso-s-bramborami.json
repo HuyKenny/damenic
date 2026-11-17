@@ -1,0 +1,134 @@
+{
+  "title": "Mleté maso s bramborami",
+  "keywords": [
+    "mleté maso s bramborami",
+    "mleté maso s bramborami recept",
+    "zapékané mleté maso s bramborami",
+    "brambory s mletým masem"
+  ],
+  "image": "dish-mlete-maso-s-bramborami",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 40,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Mleté maso s bramborami je jednoduchý oběd z jedné pánve: kostičky brambor, směs mletého vepřového a hovězího, cibule a paprika. Hotovo za hodinu, vystačí na čtyři porce. Mleté maso se musí propéct do hnědé barvy a uvnitř dosáhnout alespoň 70 °C.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "na kostičky 2 cm"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 100,
+      "unit": "g",
+      "note": "k podání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V široké pánvi nebo hrnci rozehřej olej a cibuli smaž 6 minut do zlatova. Přidej mleté maso, osol a rozmělňuj ho lžící, dokud nezhnědne a nepustí tuk, asi 8 minut."
+    },
+    {
+      "text": "Maso musí být uvnitř úplně propečené. Sundej pánev z plotny, vmíchej papriku, protlak, kmín a česnek."
+    },
+    {
+      "text": "Přidej brambory, zalij 400 ml horké vody, osol a opepři. Přikryj a vař na mírném plameni 25 minut."
+    },
+    {
+      "text": "Občas promíchej. Brambory jsou hotové, když se dají snadno propíchnout vidličkou a šťáva zhoustne. Část brambor můžeš rozmačkat."
+    },
+    {
+      "text": "Dochuť majoránkou a solí. Podávej s nakládanými okurkami nebo zakysanou smetanou."
+    }
+  ],
+  "tips": [
+    "Papriku přidávej až mimo plotnu, spálená zhořkne.",
+    "Použij brambory na vaření, které drží tvar, ne moučné.",
+    "Pokud chceš hustší jídlo, odkryj hrnec posledních 5 minut."
+  ],
+  "substitutions": [
+    "Směs mletého lze nahradit samotným hovězím nebo kuřecím mletým. Kuřecí mleté propeč na 75 °C.",
+    "Bez masa použij 250 g červené čočky namísto mletého a zeleninový vývar místo vody."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit mleté maso s bramborami?",
+      "a": "Mleté maso opékej 8 minut, pak se brambory vaří 25 minut. Celkem asi 40 minut."
+    },
+    {
+      "q": "Jaké brambory na mleté maso?",
+      "a": "Voskovité nebo univerzální, které se při vaření nerozvaří. Kostky 2 cm jsou ideální."
+    },
+    {
+      "q": "Lze mleté maso s bramborami zapéct?",
+      "a": "Ano. Přelij hotové jídlo do zapékací mísy, posyp 100 g strouhaného eidamu a peč 15 minut při 200 °C."
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "title": "Kuřecí směs",
+  "keywords": [
+    "kuřecí směs",
+    "kuřecí směs s paprikou",
+    "kuřecí směs na pánvi",
+    "kuřecí směs se zeleninou"
+  ],
+  "image": "dish-kureci-smes",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Kuřecí směs je rychlá pánev z proužků kuřecích prsou, papriky, cibule a žampionů v lehké rajčatové omáčce. Je hotová za 40 minut a hodí se k rýži i těstovinám. Hlavní je maso krátce a ve vysokém žáru, aby zůstalo šťavnaté.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 600,
+      "unit": "g",
+      "note": "na proužky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na půlkolečka"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na proužky"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 200,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Proužky masa osol, opepři a posyp paprikou. Na velké pánvi rozehřej 2 lžíce oleje na silném plameni a maso opékej po částech 3 až 4 minuty, dokud není zlatavé."
+    },
+    {
+      "text": "Maso přendej na talíř. Do stejné pánve dej zbytek oleje, cibuli smaž 3 minuty, pak přidej papriku a žampiony a smaž 6 minut, až voda odpaří."
+    },
+    {
+      "text": "Vmíchej prolisovaný česnek a protlak a míchej minutu, ať se protlak lehce zkaramelizuje. Přilij vývar a na mírném plameni nech 5 minut povařit."
+    },
+    {
+      "text": "Vrať maso do pánve spolu se šťávou z talíře, vsyp majoránku a ohřívej 3 minuty. Uvnitř musí mít maso aspoň 75 °C. Dochuť solí a pepřem."
+    }
+  ],
+  "tips": [
+    "Maso opékej po částech, v přeplněné pánvi se dusí a nezíská barvu.",
+    "Proužky krájej napříč vlákny, zůstanou měkčí.",
+    "Místo vývaru můžeš zalít pár lžícemi vody z vaření rýže, omáčka bude lehčí."
+  ],
+  "substitutions": [
+    "Kuřecí prsa nahraď vykostěnými stehny, budou šťavnatější a vydrží delší vaření.",
+    "Rajčatový protlak nahraď 100 ml passaty a omáčku vař o 3 minuty déle.",
+    "Pro pálivou verzi přidej 1 lžičku čerstvého chilli nebo špetku chilli vloček."
+  ],
+  "faq": [
+    {
+      "q": "Co podávat ke kuřecí směsi?",
+      "a": "Nejlépe rýži, těstoviny nebo bramborovou kaši. Směs je hustší, takže se hodí i do tortilly."
+    },
+    {
+      "q": "Jak aby kuřecí směs nebyla suchá?",
+      "a": "Proužky smaž krátce a ve vysokém žáru a nevař je v omáčce déle než 3 minuty. Přesušené je maso, které se vaří bez dohledu."
+    },
+    {
+      "q": "Dá se kuřecí směs udělat den předem?",
+      "a": "Ano, vydrží v lednici 2 dny v uzavřené nádobě. Ohřívej ji pomalu a s lžící vody, aby maso nezůstalo tvrdé."
+    }
+  ]
+}

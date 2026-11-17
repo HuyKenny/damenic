@@ -1,0 +1,46 @@
+{
+  "name": "Pomalu pečené hovězí hrudí s křenem",
+  "restaurant": "udirna-odnikud",
+  "kind": "main",
+  "section": "Z pekáče",
+  "description": "Hovězí hrudí dušené v troubě na kořenové zelenině, nakrájené na plátky s křenem.",
+  "about": [
+    "Hrudí je tučné a vazivovité maso, které by na pánvi vyšlo gumové. V troubě při 140 °C pod víkem se ale za tři hodiny promění: tuk změkne, vazivo se rozpustí a plátky drží pohromadě, jen když se na ně nedíváš moc dlouho.",
+    "Udírna Odnikud kouří jen v hlavě, ale tohle maso potřebuje jen troubu a trpělivost. Křen na talíři tě probudí rychleji než jakákoli sirénka kurýra."
+  ],
+  "price": 29900,
+  "image": "dish-hovezi-hrudi",
+  "recipe": "hovezi-hrudi",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "houskovy",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "chleb",
+          "name": "Chléb",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    9
+  ],
+  "order": 920
+}

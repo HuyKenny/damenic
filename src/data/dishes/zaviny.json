@@ -1,0 +1,25 @@
+{
+  "name": "Záviny s tvarohem a rozinkami",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Štrúdl a dorty",
+  "description": "Křehké záviny z listového těsta s tvarohem, vanilkou a rozinkami.",
+  "about": [
+    "Záviny z listového těsta jsou rychlé sladké pečivo: dva pláty chlazeného těsta, tvarohová náplň a půl hodiny v troubě. Zvenku zlaté a křupavé, uvnitř krémové, s rozinkami a citronovou kůrou. Ideální, když nemáš čas na kynutí.",
+    "V naší smyšlené cukrárně je dáváme do vitríny teplé. Doma je vytáhneš z trouby za pětadvacet minut. Kurýr s prázdnou krabičkou ti je dnes radši nepřinese."
+  ],
+  "price": 5900,
+  "image": "dish-zaviny",
+  "recipe": "zaviny",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 330
+}

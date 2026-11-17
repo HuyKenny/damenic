@@ -1,0 +1,113 @@
+{
+  "title": "Kuře na pivu",
+  "keywords": [
+    "kuře na pivu",
+    "pečené kuře na pivu",
+    "kuře na pivu v troubě",
+    "kuře pečené na pivu"
+  ],
+  "image": "dish-kure-na-pivu",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 85,
+  "waitMinutes": 30,
+  "waitLabel": "marinování",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "alcohol": false,
+  "intro": "Kuře na pivu se peče v troubě v pekáči, na dně je světlé pivo a kůže je křupavá. Pivo se během pečení vyvaří a vsákne do masa, takže je šťavnaté. Hlavní je nespěchat s teplotou: nejdřív 20 minut ostře, pak zvolna dopéct.",
+  "ingredients": [
+    {
+      "ingredient": "cele-kure",
+      "amount": 1500,
+      "unit": "g",
+      "note": "vcelku, osušené"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "rozlisovaný"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "na čtvrtky"
+    },
+    {
+      "ingredient": "pivo-svetle",
+      "amount": 330,
+      "unit": "ml",
+      "note": "světlé výčepní, 1 láhev"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuře osuš a promíchej sůl, pepř, papriku, majoránku, česnek a olej na hustou pastu. Pastou kuře potři zvenku i zevnitř a nech 30 minut odležet při pokojové teplotě."
+    },
+    {
+      "text": "Troubu rozehřej na 210 °C. Do pekáče dej cibuli, nalij pivo, na cibuli polož kuře prsy nahoru a vlož do trouby bez poklice."
+    },
+    {
+      "text": "Peč 20 minut při 210 °C, aby kůže zezlátla. Pak troubu stáhni na 180 °C a peč dalších 60 až 65 minut. Každých 20 minut kuře přelij pekáčovou šťávou."
+    },
+    {
+      "text": "Teploměr zapíchni do nejtlustší části stehna: má ukázat aspoň 75 °C. Šťáva z vpichu musí téct čirá a stehno se snadno pohnout v kloubu."
+    },
+    {
+      "text": "Kuře nech 10 minut odpočinout pod fólií, pak ho rozděl. Pekáčovou šťávu s cibulí scedi nebo rozmixuj a podávej jako omáčku."
+    }
+  ],
+  "tips": [
+    "Kuře jdi z lednice vyndat 30 minut předem, studené se peče nerovnoměrně.",
+    "Zapomeň na nízkou teplotu na začátku. Úvodní žár dělá křupavou kůži, pivo pak zajistí šťavnatost.",
+    "Kdyby se kůže příliš barvila, zakryj hrudník alobalem."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo piva nalij 330 ml kuřecího vývaru a přidej lžičku sladu nebo lžičku medu pro barvu.",
+    "Místo světlého piva lze použít jablečný mošt, maso bude jemně sladké.",
+    "Bez cibule: nahraď ji kořenovou zeleninou, mrkví a celerem, nakrájenou na kousky."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct kuře na pivu?",
+      "a": "Kuře o váze 1,5 kg se peče asi 80 až 85 minut: 20 minut při 210 °C a pak při 180 °C. U kosti musí mít aspoň 75 °C."
+    },
+    {
+      "q": "Vyvaří se z piva alkohol?",
+      "a": "Při hodinovém pečení se většina alkoholu odpaří, ale nezmizí úplně. Pro děti a abstinenty použij nealko variantu s vývarem."
+    },
+    {
+      "q": "Jaké pivo na kuře použít?",
+      "a": "Světlý ležák nebo výčepní, hořké pivo dá hořkou omáčku. Tmavé pivo dodá karamelovou chuť, ale i tmavou barvu šťávy."
+    }
+  ]
+}

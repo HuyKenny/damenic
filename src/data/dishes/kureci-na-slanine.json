@@ -1,0 +1,19 @@
+{
+  "name": "Kuřecí prsa na slanině",
+  "kind": "main",
+  "section": "Kuře",
+  "price": 22900,
+  "recipe": "kureci-na-slanine",
+  "vegetarian": false,
+  "order": 920,
+  "description": "Kuřecí prsa obalená slaninou, pečená na cibuli ve smetaně.",
+  "about": [
+    "Kuře a slanina jsou stará dvojice: jedno je libové a druhé tučné, takže se doplňují. Slanina při pečení vytéká do cibule a smetany a maso zůstává šťavnaté.",
+    "Doma tohle jídlo nevyžaduje žádné umění, jen teploměr. Nic se nepřiveze, ale pekáč se do tašky nevejde."
+  ],
+  "restaurant": "bistro-uletelo",
+  "image": "dish-kureci-na-slanine",
+  "allergens": [
+    7
+  ]
+}

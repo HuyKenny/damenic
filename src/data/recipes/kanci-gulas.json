@@ -1,0 +1,137 @@
+{
+  "title": "Kančí guláš",
+  "keywords": [
+    "kančí guláš",
+    "kančí guláš recept",
+    "guláš z divočáka",
+    "divočák na guláš"
+  ],
+  "image": "dish-kanci-gulas",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 30,
+  "cookMinutes": 150,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Kančí guláš je guláš z kýty nebo plece divočáka, který se vaří dvě a půl hodiny, aby změkla pevná vlákna. Kančí maso je libovější než vepřové, takže chce hodně cibule, sádlo na začátek a pomalé dušení. Jalovec a bobkový list mu dodají typickou lesní chuť.",
+  "ingredients": [
+    {
+      "ingredient": "divocak-kyta",
+      "amount": 900,
+      "unit": "g",
+      "note": "na kostky 3 cm"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 600,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "celý, rozdrcený"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "jalovec",
+      "amount": 3,
+      "unit": "g",
+      "note": "asi 8 bobulí, rozdrcených"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 900,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva na závěr"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli nasekej najemno a v hrnci s tlustým dnem na sádle za občasného míchání smaž 15 minut, dokud nebude zlatá. Nesmí zhnědnout do tmava, jinak guláš zhořkne."
+    },
+    {
+      "text": "Přidej maso, kmín, jalovec a nové koření, osol a opékej 10 minut, dokud maso nepustí šťávu a nezačne se opékat."
+    },
+    {
+      "text": "Hrnec sundej z plotny, vmíchej papriku s protlakem a ihned zalij 300 ml horké vody. Přidej bobkový list a česnek."
+    },
+    {
+      "text": "Přiveď k varu, přikryj a na minimální teplotě vař 2 hodiny. Podle potřeby po troškách přilévej zbylou vodu, aby maso bylo skoro ponořené."
+    },
+    {
+      "text": "Kousek masa rozmáčkni vidličkou, má se rozpadnout. Odkryj, krátce povař do hustoty, dochuť šťávou z citronu, majoránkou a solí. Podávej s knedlíkem."
+    }
+  ],
+  "tips": [
+    "Kančí maso je libové, nešetři cibulí ani sádlem. Z cibule vznikne hustota omáčky bez mouky.",
+    "Papriku přidávej vždy mimo plotnu, pálivě rudá paprika zhořkne, když se spálí.",
+    "Guláš se po jedné noci v lednici zhoustne a chuť je jednolitější."
+  ],
+  "substitutions": [
+    "Divočáka lze nahradit stejným množstvím vepřového plecka, guláš pak vař jen 90 minut.",
+    "Jalovec vynech, když ho nemáš, a přidej ještě půl lžičky pepře."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří kančí guláš?",
+      "a": "Kostky z kýty potřebují 2 až 2,5 hodiny mírného varu pod pokličkou, starší zvěř i déle. Maso má být měkké a vláknité."
+    },
+    {
+      "q": "Musí se kančí maso před vařením naložit?",
+      "a": "Není nutné, ale 12 hodin v nálevu z octa a cibule zjemní chuť. Maso pak před vařením osuš."
+    },
+    {
+      "q": "Čím zahustit kančí guláš?",
+      "a": "Hlavně cibulí, kterou necháš rozvařit. Případně na konec rozmíchej lžíci hladké mouky ve studené vodě a povař 5 minut."
+    }
+  ]
+}

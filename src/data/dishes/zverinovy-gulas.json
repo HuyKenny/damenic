@@ -1,0 +1,46 @@
+{
+  "name": "Zvěřinový guláš",
+  "restaurant": "chata-pristi-sezona",
+  "kind": "main",
+  "section": "Zvěřina",
+  "description": "Jelení a srnčí zvěřina dušená na cibuli, slanině a jalovci, na závěr s lžící brusinek.",
+  "about": [
+    "Zvěřina nemá rád spěch. Libové kostky se dusí dvě hodiny na slanině a cibuli, jalovec jim přidá hloubku a brusinky na konci osvěží tmavou omáčku.",
+    "Chata Příští Sezona vydává guláš jen v sezoně, která nikdy nenastane. Tvůj hrnec nemusí čekat na lovce, stačí trpělivost a tři hodiny času."
+  ],
+  "price": 27900,
+  "image": "dish-zverinovy-gulas",
+  "recipe": "zverinovy-gulas",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "houskovy",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "bramborovy",
+          "name": "Bramborový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "chleb",
+          "name": "Chléb",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "order": 920
+}

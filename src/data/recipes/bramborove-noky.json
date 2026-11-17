@@ -1,0 +1,111 @@
+{
+  "title": "Bramborové noky",
+  "keywords": [
+    "bramborové noky",
+    "bramborové noky recept",
+    "noky z brambor",
+    "gnocchi z brambor"
+  ],
+  "image": "dish-bramborove-noky",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 35,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Bramborové noky jsou měkké ňoky z rozmačkaných brambor a mouky, které se vaří jen pár minut a podávají se třeba s máslem a parmazánem. Těžké je těsto: čím víc mouky, tím tvrdší noky, a čím víc vody v bramborách, tím víc mouky potřebuješ. Proto brambory dobře osuš a těsto nepřemíchávej.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 700,
+      "unit": "g",
+      "note": "moučné, ve slupce"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g",
+      "note": "plus na podsypání"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do těsta"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na vaření"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaný"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Neoloupané brambory vař 30 až 35 minut, až do nich snadno zapíchneš nůž. Pak je slij a nech minutu odpařit."
+    },
+    {
+      "text": "Brambory oloupej, dokud jsou horké (kapesník nebo utěrka na prsty), a hned je rozmačkej na lis nebo prostup. Rozprostři je na stůl a nech 15 minut vychladnout a odpařit."
+    },
+    {
+      "text": "Přidej vejce, sůl, muškát a polovinu mouky. Rychle prohnětej a postupně přisypávej zbytek, jen tolik, aby těsto přestalo lepit. Příliš dlouhé hnětení dělá noky gumové."
+    },
+    {
+      "text": "Těsto rozděl na 4 díly a každý vyval na válečky silné 2 cm, nakrájej na kousky dlouhé 2 cm a na vidličce nebo struhadle vytvaruj dekor, nebo je nech hladké."
+    },
+    {
+      "text": "Ve velkém hrnci přiveď k varu 3 litry vody se lžící soli. Noky vařit po dávkách, jakmile vyplavou, nech je ještě 1 minutu a děrovanou lžící vylov."
+    },
+    {
+      "text": "Na pánvi rozehřej máslo, přidej noky a krátce promíchej. Podávej posypané parmazánem."
+    }
+  ],
+  "tips": [
+    "Zkušební noka ve vařící vodě ukáže, jestli v těstu není málo mouky. Rozpadá-li se, přidej 2 lžíce mouky.",
+    "Brambory nikdy nepeč ve fólii, drží vodu. Pečené ve slupce na 200 °C po dobu 50 minut mají méně vody.",
+    "Neuvařené noky lze zmrazit na plechu a pak přesypat do sáčku, vaří se z mrazu 3 až 4 minuty."
+  ],
+  "substitutions": [
+    "Parmazán nahraď strouhaným eidamem nebo ovčím sýrem.",
+    "Máslo můžeš nahradit olivovým olejem a bylinkami.",
+    "Hladkou mouku můžeš nahradit polohrubou, noky budou lehce hrubší."
+  ],
+  "faq": [
+    {
+      "q": "Jaké brambory na noky?",
+      "a": "Moučné odrůdy s vyšším obsahem škrobu. Voskové brambory pouští víc vody a noky z nich potřebují víc mouky."
+    },
+    {
+      "q": "Proč se noky rozvařují?",
+      "a": "V těstu je málo mouky, nebo je voda moc rozvařená. Přisypej mouku a vař v jemně bublající vodě."
+    },
+    {
+      "q": "Jak dlouho se noky vaří?",
+      "a": "Asi 2 až 3 minuty. Jakmile vyplavou na hladinu, nech je ještě minutu a vylov."
+    }
+  ]
+}

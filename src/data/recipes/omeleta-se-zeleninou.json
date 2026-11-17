@@ -1,0 +1,120 @@
+{
+  "title": "Omeleta se zeleninou",
+  "keywords": [
+    "vaječná omeleta se zeleninou",
+    "omeleta se zeleninou",
+    "zeleninová omeleta",
+    "omeleta s paprikou a rajčaty"
+  ],
+  "image": "dish-omeleta-se-zeleninou-budik",
+  "category": "snidane",
+  "vegetarian": true,
+  "servings": 1,
+  "activeMinutes": 12,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Vaječná omeleta se zeleninou je snídaně pro jednoho z 3 vajec, papriky, rajčete a jarní cibulky. Zelenina se krátce osmahne zvlášť, aby nepustila vodu do vajec. Hotová je za 12 minut.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Omeleta"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omeleta"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "group": "Omeleta"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Omeleta"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "group": "Omeleta"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "na kostičky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kostičky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na kolečka",
+      "group": "Zelenina"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 30,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Zelenina"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na malé pánvi rozehřej polovinu másla na středním plameni a papriku s jarní cibulkou smaž 3 minuty. Přidej rajče, smaž 1 minutu a osol. Zeleninu přendej na talíř."
+    },
+    {
+      "text": "Vejce rozklepni do misky, přidej mléko, sůl a pepř a vidličkou promíchej, ať se žloutek spojí s bílkem. Nešlehej na pěnu."
+    },
+    {
+      "text": "Do čisté pánve dej zbylé máslo. Až se rozpustí a přestane pěnit, vlij vejce a nech je 1 minutu bez míchání, pak okraje zlehka nadzvedni stěrkou a nech tekuté vejce vtéct pod ně."
+    },
+    {
+      "text": "Až je povrch skoro tuhý, ale lehce vlhký (asi po 2 až 3 minutách), posyp polovinu omelety zeleninou a sýrem, zbytek přelož a omeletu nech 30 sekund pod pokličkou."
+    },
+    {
+      "text": "Omeletu překlop na talíř a ihned podávej. Vejce jsou hotová, když je žloutek uvnitř plně srážený."
+    }
+  ],
+  "tips": [
+    "Pánev nepřehřívej. Hnědá omeleta je suchá, správná je světle žlutá.",
+    "Zeleninu vždy osmaž předem, syrová by vodou rozředila vejce.",
+    "Pánev o průměru 20 cm je ideální pro 3 vejce."
+  ],
+  "substitutions": [
+    "Eidam zastoupí mozzarella, feta nebo ovčí sýr.",
+    "Zeleninu měň podle sezony: cuketa, žampiony, špenát.",
+    "Mléko nahradí smetana na vaření pro jemnější omeletu."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat omeletu nadýchanou?",
+      "a": "Nešlehej ji na pěnu, jen promíchej. Nadýchaná je při nízkém žáru pod pokličkou, kdy se vejce srážejí pomalu."
+    },
+    {
+      "q": "Proč se omeleta lepí k pánvi?",
+      "a": "Pánev je málo rozpálená nebo bez tuku. Pánev nech rozpálit, máslo má lehce zapěnit, a pak vlij vejce."
+    },
+    {
+      "q": "Kolik vajec je na jednu omeletu?",
+      "a": "Pro jednoho 2 až 3 vejce. Na 4 vejce potřebuješ pánev o průměru nejméně 24 cm."
+    }
+  ]
+}

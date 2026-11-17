@@ -1,0 +1,125 @@
+{
+  "title": "Kuřecí guláš",
+  "keywords": [
+    "kuřecí guláš",
+    "kuřecí guláš s cibulí",
+    "kuřecí guláš z prsou",
+    "kuřecí guláš recept"
+  ],
+  "image": "dish-kureci-gulas",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Kuřecí guláš je rychlejší než hovězí, protože kuřecí maso nepotřebuje dlouhé dušení. Z vykostěných stehen je šťavnatější než z prsou a hotový je za hodinu. Základ je hodně cibule, sladká paprika a málo vody.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna",
+      "amount": 800,
+      "unit": "g",
+      "note": "na kostky 3 cm"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 500,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "vyvar-kureci",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na zahuštění"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na oleji na středním plameni smaž cibuli 12 minut, dokud nezezlátne a nezměkne. Míchej, aby se nespálila."
+    },
+    {
+      "text": "Přidej maso, osol a opékej 5 minut, až změní barvu. Pak přidej česnek, kmín a majoránku a míchej minutu."
+    },
+    {
+      "text": "Stáhni pánev z plamene, vmíchej papriku a protlak a okamžitě zalij vývarem, jinak by paprika zhořkla."
+    },
+    {
+      "text": "Přidej bobkový list, přikryj a duš na mírném plameni 30 až 35 minut. Maso musí být měkké a mít aspoň 75 °C."
+    },
+    {
+      "text": "Mouku rozmíchej se 3 lžícemi studené vody, vlij do guláše a 3 minuty povař. Odstraň bobkový list a podávej s knedlíkem nebo chlebem."
+    }
+  ],
+  "tips": [
+    "Papriku vždycky přidej mimo plamen a hned zalij, spálená paprika zhořkne.",
+    "Z prsou udělej guláš na kratší dobu, 20 minut stačí.",
+    "Guláš je druhý den lepší, nech ho přes noc v lednici."
+  ],
+  "substitutions": [
+    "Stehna nahraď kuřecími prsy a duš 20 minut.",
+    "Vývar nahraď vodou s kostkou zeleninového bujónu.",
+    "Mouku nahraď lžící škrobu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho dusit kuřecí guláš?",
+      "a": "Stehna na kostky se dusí asi 30 až 35 minut, prsa jen 20 minut. Maso musí mít 75 °C a být měkké."
+    },
+    {
+      "q": "Kolik cibule do kuřecího guláše?",
+      "a": "Zhruba stejně cibule jako masa nebo trochu míň. 500 g cibule na 800 g masa udělá hustou omáčku bez mouky."
+    },
+    {
+      "q": "Dá se kuřecí guláš zmrazit?",
+      "a": "Ano, vydrží v mrazáku 2 až 3 měsíce. Rozmraž ho v lednici a ohřívej pomalu."
+    }
+  ]
+}

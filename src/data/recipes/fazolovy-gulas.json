@@ -1,0 +1,136 @@
+{
+  "title": "Fazolový guláš",
+  "keywords": [
+    "fazolový guláš",
+    "fazolový guláš recept",
+    "fazolový guláš s klobásou",
+    "guláš z fazolí"
+  ],
+  "image": "dish-fazolovy-gulas",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Fazolový guláš s klobásou a bramborami je husté jídlo z jednoho hrnce, hotové za necelou hodinu. Vaří se z fazolí z plechovky, takže odpadá namáčení, a z uzené papriky a slaniny dostane chuť, jako by se vařil celé odpoledne.",
+  "ingredients": [
+    {
+      "ingredient": "fazole-bile",
+      "amount": 800,
+      "unit": "g",
+      "note": "dvě plechovky, slité a propláchnuté"
+    },
+    {
+      "ingredient": "klobasa",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 250,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kostičky 1,5 cm"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 600,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci osmahni na oleji slaninu 4 minuty, až pustí tuk. Přidej cibuli a smaž ji 8 minut do zlatova."
+    },
+    {
+      "text": "Přidej klobásu a krátce ji opeč 3 minuty. Hrnec odstav z plotny a vmíchej obě papriky, protlak, kmín a prolisovaný česnek."
+    },
+    {
+      "text": "Ihned zalij 600 ml horké vody, přidej brambory, přiveď k varu, přikryj a vař na mírném plameni 15 minut."
+    },
+    {
+      "text": "Vsyp slité fazole a vař dalších 10 až 12 minut, dokud brambory nezměknou a omáčka nezhoustne. Část brambor můžeš rozmačkat o stěnu hrnce."
+    },
+    {
+      "text": "Dochuť majoránkou a solí. Klobása i slanina jsou slané, proto solit až na konec."
+    }
+  ],
+  "tips": [
+    "Fazole z plechovky vždy propláchni, zbavíš je kalné tekutiny.",
+    "Pro hustší guláš rozmačkej vidličkou půl hrnku fazolí a vmíchej je zpět.",
+    "Uzená paprika je ta, která dává guláši ohnivou vůni. Bez ní chybí polovina chuti."
+  ],
+  "substitutions": [
+    "Bílé fazole nahraď červenými, doba vaření je stejná.",
+    "Bez masa vynech klobásu a slaninu, použij zeleninový vývar místo vody a přidej 2 lžíce oleje navíc."
+  ],
+  "faq": [
+    {
+      "q": "Jak zahustit fazolový guláš?",
+      "a": "Rozmačkej pár fazolí a brambor o stěnu hrnce, jejich škrob omáčku zahustí. Mouka není potřeba."
+    },
+    {
+      "q": "Lze použít sušené fazole?",
+      "a": "Ano, 250 g sušených namoč přes noc a před přidáním ke guláši uvař 60 minut do měkka. Pak pokračuj podle receptu."
+    },
+    {
+      "q": "Dá se fazolový guláš udělat bez masa?",
+      "a": "Ano. Vynech klobásu i slaninu, přidej uzenou papriku a trochu sójové omáčky. Chuť bude plná i bez masa."
+    }
+  ]
+}

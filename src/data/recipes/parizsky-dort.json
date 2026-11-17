@@ -1,0 +1,150 @@
+{
+  "title": "Pařížský dort s čokoládovým krémem",
+  "image": "dish-parizsky-dort",
+  "category": "dorty",
+  "vegetarian": true,
+  "servings": 12,
+  "activeMinutes": 60,
+  "cookMinutes": 30,
+  "waitMinutes": 360,
+  "waitLabel": "vychladnutí korpusu a ztuhnutí dortu v lednici",
+  "difficulty": "náročnější",
+  "meal": "dort",
+  "keywords": [
+    "pařížský dort",
+    "pařížský dort recept",
+    "pařížský krém",
+    "dort s pařížským krémem"
+  ],
+  "intro": "Pařížský dort je piškotový korpus potřený máslovým krémem s čokoládou, ochucený rumovým nebo mléčným namáčením a zalitý hořkou čokoládou. Peče se ve formě o průměru 24 cm, vyjde 12 dílů. Krém se šlehá z masla a vařeného základu, takže musí být oba chladné.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 6,
+      "unit": "ks",
+      "note": "oddělená",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 30,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 400,
+      "unit": "ml",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 74,
+      "unit": "g",
+      "note": "2 sáčky",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 250,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "note": "rozpuštěná a vlažná",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "note": "na lehké navlhčení korpusu, vlažné",
+      "group": "Namáčení"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 20,
+      "unit": "g",
+      "group": "Namáčení"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 120,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 170 °C, horkovzduch 150 °C. Dno formy 24 cm vyložte papírem. Bílky ušlehej s polovinou cukru na tuhý sníh, žloutky vyšlehej s druhou polovinou do pěny a smíchej obojí."
+    },
+    {
+      "text": "Mouku se škrobem prosej a opatrně vmíchej do těsta. Nalij do formy a peč 30 minut do suché špejle. Po upečení korpus nech vychladnout a ráno ho vodorovně rozkrojte na 2 až 3 pláty."
+    },
+    {
+      "text": "Z mléka, pudinkového prášku a 100 g cukru uvař hustý pudink podle návodu, nepřetržitě míchej. Nech ho úplně vychladnout s fólií na povrchu, aby neměl škraloup."
+    },
+    {
+      "text": "Máslo vyšlehej do světlé pěny a po lžících do něj zašlehej vychladlý pudink, nakonec vlažnou rozpuštěnou čokoládu. Pudink i máslo musí mít stejnou teplotu, jinak se krém srazí."
+    },
+    {
+      "text": "Mléko s cukrem smíchej a pláty korpusu lehce navlhči. Poklaď je krémem a slož dort, zbytkem potři povrch i boky. Dort nech 2 hodiny v lednici."
+    },
+    {
+      "text": "Čokoládu rozpusť s máslem ve vodní lázni a vlažnou polevu rozlij po dortu. Ztuhne asi za 1 hodinu v lednici, celý dort pak nech zrát 4 hodiny."
+    }
+  ],
+  "tips": [
+    "Pudink do krému musí být studený, jinak se máslo rozpustí a krém se rozdělí. Když se krém sráží, zahřej misku nad párou a znovu prošlehej.",
+    "Nepřemáčej korpus; stačí lehce navlhčit, ať dort nebude rozbředlý.",
+    "Dort uchovávej v lednici do 4 dnů; před podáváním ho nech 15 minut stát při pokojové teplotě.",
+    "Povrch ozdob třeba hoblinkami čokolády."
+  ],
+  "substitutions": [
+    "Vanilkový pudink nahradíš smetanovým nebo čokoládovým; krém pak bude výraznější.",
+    "Mléko k namáčení lze provonět lžící kakaa nebo kávy.",
+    "Máslo musí zůstat; margarín krém zkazí chuť i strukturu."
+  ],
+  "faq": [
+    {
+      "q": "Co je pařížský krém?",
+      "a": "Máslový krém z vařeného pudinku a másla, ochucený čokoládou nebo vanilkou. Je hutnější než šlehačkový a drží tvar při krájení."
+    },
+    {
+      "q": "Proč se mi máslový krém sráží?",
+      "a": "Složky mají různou teplotu. Máslo i pudink musí být pokojově teplé; sraženou hmotu šlehej nad párou, než zhladne."
+    },
+    {
+      "q": "Jak dlouho vydrží pařížský dort?",
+      "a": "V lednici 4 dny. Před krájením nech vychladnout a nůž namoč v horké vodě."
+    }
+  ]
+}

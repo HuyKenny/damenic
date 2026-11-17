@@ -1,0 +1,116 @@
+{
+  "title": "Kuřecí na slanině",
+  "keywords": [
+    "kuřecí na slanině",
+    "kuřecí prsa na slanině",
+    "kuřecí maso na slanině",
+    "kuřecí na slanině v troubě"
+  ],
+  "image": "dish-kureci-na-slanine",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 40,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Kuřecí na slanině jsou kuřecí prsa obalená plátky slaniny a pečená na cibuli ve smetaně. Slanina maso chrání před vyschnutím a dává mu uzenou chuť. Peče se v jednom pekáči při 200 °C a hotové je za 40 minut.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 700,
+      "unit": "g",
+      "note": "na 4 plátky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "opatrně, slanina je slaná"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 200,
+      "unit": "g",
+      "note": "tenké plátky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 300,
+      "unit": "g",
+      "note": "na půlkolečka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C, horkovzduch 180 °C. Každé prso vyklep na rovnoměrnou tloušťku asi 2 cm, osol, opepři a potři uzenou paprikou."
+    },
+    {
+      "text": "Každý plátek obal 2 až 3 plátky slaniny, konce slaniny dej dospod, aby se nerozbalila."
+    },
+    {
+      "text": "Do pekáče dej cibuli, česnek, olej a tymián, promíchej a rozlož. Na cibuli polož maso slaninou dolů a peč 15 minut."
+    },
+    {
+      "text": "Maso obrať, podlij smetanou a peč dalších 20 až 25 minut. Uvnitř musí mít maso 75 °C a slanina musí být zlatá."
+    },
+    {
+      "text": "Hotové maso nech 5 minut odpočinout, pak nakrájej a polij smetanovou šťávou z pekáče. Podávej s bramborami nebo rýží."
+    }
+  ],
+  "tips": [
+    "Slaninu dávej tenkou, silnější plátky nestihnou během pečení zezlátnout.",
+    "Solit začni až po ochutnání šťávy, slanina maso dosolí sama.",
+    "Kdyby se slanina nezlátila, posledních 3 minuty zapni gril."
+  ],
+  "substitutions": [
+    "Slaninu nahraď plátky parmské šunky, bude se péct kratší dobu a mít jemnější chuť.",
+    "Smetanu nahraď kysanou smetanou 12 % smíchanou s 50 ml vody.",
+    "Místo prsou použij vykostěná stehna a peč o 10 minut déle."
+  ],
+  "faq": [
+    {
+      "q": "Jak péct kuřecí na slanině, aby nebylo suché?",
+      "a": "Peč při 200 °C asi 35 až 40 minut a maso nepřepékej. Teploměr má ukázat 75 °C, vyšší teplota maso vysuší."
+    },
+    {
+      "q": "Kolik slaniny na jedno kuřecí prso?",
+      "a": "Dva až tři plátky tenké slaniny na plátek masa. Víc slaniny prodlouží pečení a maso zůstane tučnější."
+    },
+    {
+      "q": "Dá se kuřecí na slanině připravit předem?",
+      "a": "Ano, obalené maso vydrží v lednici do druhého dne. Před pečením ho nech 20 minut při pokojové teplotě."
+    }
+  ]
+}

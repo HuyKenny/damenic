@@ -1,0 +1,136 @@
+{
+  "title": "Těstoviny s houbami",
+  "keywords": [
+    "těstoviny s houbami",
+    "těstoviny se žampiony",
+    "těstoviny s houbami a smetanou",
+    "houbová omáčka na těstoviny"
+  ],
+  "image": "dish-testoviny-s-houbami-niente",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Těstoviny s houbami ze žampionů, smetany a tymiánu jsou vydatný oběd za půl hodiny. Aby houby nezůstaly vodnaté, smaží se na rozpálené pánvi po částech a solí se až na konci.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 300,
+      "unit": "g",
+      "note": "tagliatelle nebo penne",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na těstoviny",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 400,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "nebo 4 snítky čerstvého",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 30,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Těstoviny uvař ve vroucí osolené vodě podle obalu a před scezením si odlij hrnek vody z vaření. Scezené nech v sítu."
+    },
+    {
+      "text": "Na velké pánvi rozpal olej na vysoký plamen. Žampiony smaž ve dvou dávkách, aby se neslepily a nepouštěly vodu, 4 až 5 minut do zlatohnědé barvy. Při smažení houby nesol."
+    },
+    {
+      "text": "Všechny houby stáhni na okraj, na uvolněné místo dej máslo a cibuli a duš 3 minuty dozlatova. Přidej česnek s tymiánem a po 30 sekundách promíchej s houbami."
+    },
+    {
+      "text": "Přilij smetanu, nech ji 3 minuty na mírném plameni mírně zahoustnout a dosol podle chuti. Omáčka by měla obalovat lžíci."
+    },
+    {
+      "text": "Vmíchej těstoviny, parmazán a 3 lžíce vody z vaření. Promíchej a podávej s petrželkou."
+    }
+  ],
+  "tips": [
+    "Žampiony neomývej pod proudem vody, nasákly by. Stačí je otřít vlhkým hadříkem nebo štětečkem.",
+    "Houby při smažení nemíchej každých pár vteřin. Nech je 2 minuty ležet, aby zhnědly.",
+    "Pokud máš sušené hříbky, namoč 10 g na 15 minut a přidej je i s trochou namáčecí vody, omáčka bude voňavější."
+  ],
+  "substitutions": [
+    "Smetanu nahradíš stejným množstvím rostlinné smetany na vaření, nebo sníž množství a zahusti lžící smetanového sýra.",
+    "Místo žampionů použij hlívu ústřičnou nebo mix hub.",
+    "Tymián zastoupí majoránka nebo kapka citronové šťávy na závěr."
+  ],
+  "faq": [
+    {
+      "q": "Jak usmažit houby, aby nepustily vodu?",
+      "a": "Pánev rozpal, houby dávej na jednu vrstvu a nesol je. Sůl z nich táhne vodu, proto se solí až po zhnědnutí."
+    },
+    {
+      "q": "Dají se těstoviny s houbami připravit bez smetany?",
+      "a": "Ano. Přidej 100 ml vody z vaření a lžíci másla, omáčka bude lehčí a houbovější."
+    },
+    {
+      "q": "Jak dlouho se těstoviny s houbami uchovají?",
+      "a": "V lednici vydrží 2 dny. Ohřívej je na pánvi s trochou vody nebo mléka a před podáváním je dobře prohřej."
+    }
+  ]
+}

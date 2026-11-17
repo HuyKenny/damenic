@@ -1,0 +1,25 @@
+{
+  "name": "Tortellini s ricottou a špenátem",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Těstoviny a lasagne",
+  "description": "Ručně plněné tortellini s ricottou a špenátem, přelité máslem s parmazánem.",
+  "about": [
+    "Tortellini se plní po jedné, což je práce na klidný večer a ne na pět minut. Odměnou je tenké těsto, které se uvaří za pár minut, a uvnitř krémová náplň z ricotty a špenátu.",
+    "Trattoria je smyšlená, a tak se tu nic nezabalí a nic nevaří. Hlad ale skutečný je, a ten se dá spravit jen doma, u vlastního stolu s válkem."
+  ],
+  "price": 24900,
+  "image": "dish-tortellini-domani",
+  "recipe": "tortellini",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 700
+}

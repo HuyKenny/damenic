@@ -1,0 +1,24 @@
+{
+  "name": "Krémová hrášková polévka s mátou",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Jemná zelená polévka z mraženého hrášku s mátou a kapkou citronu.",
+  "about": [
+    "Hrášek v polévce vyžaduje jen jedno: nevařit ho dlouho. Pár minut stačí, aby zůstal zelený a sladký, a mixér udělá zbytek.",
+    "Hrnec je prázdný, ale hrášek ti v mrazáku čeká. Polévka je hotová za dvacet pět minut."
+  ],
+  "price": 9900,
+  "image": "dish-hraskova-polevka-naberacka",
+  "recipe": "hraskova-polevka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    9
+  ],
+  "featured": false,
+  "order": 710
+}

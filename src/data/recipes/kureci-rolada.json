@@ -1,0 +1,118 @@
+{
+  "title": "Kuřecí roláda",
+  "keywords": [
+    "kuřecí roláda",
+    "kuřecí roláda plněná",
+    "kuřecí roláda se šunkou a sýrem",
+    "pečená kuřecí roláda"
+  ],
+  "image": "dish-kureci-rolada",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 40,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek po pečení",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Kuřecí roláda je naklepané kuřecí prso plněné šunkou, sýrem a špenátem, stočené a upečené v troubě. Těžké je roládu pevně sbalit, aby se plnka neslila ven, a nepřepéct maso. Hotová je při 75 °C uvnitř.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 800,
+      "unit": "g",
+      "note": "2 velká prsa"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "spenat-mrazeny",
+      "amount": 150,
+      "unit": "g",
+      "note": "rozmrazený a vymačkaný"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 120,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 100,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 100,
+      "unit": "g",
+      "note": "plátky na obalení"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C. Každé prso podélně nařízni tak, aby šlo rozevřít jako kniha, a vyklep ho mezi fóliemi na tloušťku 1 cm. Osol a opepři."
+    },
+    {
+      "text": "Špenát vymačkej, smíchej s prolisovaným česnekem a špetkou soli. Na každé maso rozlož plátky šunky, pak sýr a špenát, a okraje nech volné."
+    },
+    {
+      "text": "Maso pevně stoč do roládky a obal plátky slaniny. Zajisti kuchyňským provázkem nebo párátky."
+    },
+    {
+      "text": "Roládu polož do pekáče, potři olejem a paprikou a peč 35 až 40 minut. Po 20 minutách ji podlij lžící vody. Uvnitř musí mít 75 °C."
+    },
+    {
+      "text": "Nech roládu 10 minut odpočinout, pak nakrájej na plátky silné 2 cm. Podávej s bramborami nebo rýží."
+    }
+  ],
+  "tips": [
+    "Špenát musí být pořádně vymačkaný, jinak se roláda zaleje vodou a rozpadne.",
+    "Teploměr zapíchni do středu roládky, ne do slaniny.",
+    "Roládu krájej až po odpočinutí, plnka se tím ustálí."
+  ],
+  "substitutions": [
+    "Šunku a eidam nahraď mozzarellou a sušenými rajčaty.",
+    "Špenát nahraď 150 g restovaných žampionů a cibule.",
+    "Slaninu vynech a roládu potři olejem, bude lehčí."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct kuřecí roládu?",
+      "a": "Při 200 °C trvá pečení roládky z prsou 35 až 40 minut. Uvnitř musí mít 75 °C, ale nesmí být přepečená."
+    },
+    {
+      "q": "Proč se plnka vyteče z kuřecí rolády?",
+      "a": "Roláda nebyla pevně stočená nebo byl špenát mokrý. Použij provázek a vymačkaný špenát."
+    },
+    {
+      "q": "Dá se roláda udělat dopředu?",
+      "a": "Ano, sbalenou ji nech v lednici do druhého dne a před pečením ji nech 20 minut zahřát."
+    }
+  ]
+}

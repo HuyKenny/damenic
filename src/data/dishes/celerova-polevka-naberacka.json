@@ -1,0 +1,24 @@
+{
+  "name": "Krémová celerová polévka",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Hladká polévka z kořenového celeru a brambor se špetkou muškátu.",
+  "about": [
+    "Celer je zelenina, kterou lidé podceňují, dokud ji neuvaří a nerozmixují. Pak z něj vznikne hladká, hřejivá polévka s lehce oříškovou chutí a špetkou muškátu.",
+    "Naběračka je prázdná a hrnec taky. Ale polévka se dá udělat bez dohledu, stačí hodinka."
+  ],
+  "price": 9900,
+  "image": "dish-celerova-polevka-naberacka",
+  "recipe": "celerova-polevka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    9
+  ],
+  "featured": false,
+  "order": 700
+}

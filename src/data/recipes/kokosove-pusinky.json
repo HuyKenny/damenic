@@ -1,0 +1,108 @@
+{
+  "title": "Kokosové pusinky z bílků",
+  "image": "dish-kokosove-pusinky",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 9,
+  "activeMinutes": 25,
+  "cookMinutes": 35,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí v troubě",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "keywords": [
+    "kokosové pusinky",
+    "kokosové pusinky recept",
+    "pusinky s kokosem",
+    "vánoční cukroví z bílků"
+  ],
+  "intro": "Kokosové pusinky jsou vánoční cukroví z bílků, cukru a strouhaného kokosu, které se pomalu suší při nízké teplotě. Z dávky vyjde asi 45 kusů, tedy 9 porcí po 5 kusech. Povrch musí být suchý a křupavý, střed lehce vláčný.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "jen bílky, pokojové teploty",
+      "group": "Pusinky"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Pusinky"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 50,
+      "unit": "g",
+      "group": "Pusinky"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 150,
+      "unit": "g",
+      "group": "Pusinky"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Pusinky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Pusinky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 120 °C, horkovzduch 110 °C. Plech vyložte pečicím papírem."
+    },
+    {
+      "text": "Bílky ušlehej se špetkou soli do pěny, pak postupně po lžících přidávej cukr a šlehej do tuhého lesklého sněhu, až se cukr rozpustí, asi 7 minut."
+    },
+    {
+      "text": "Do sněhu opatrně vmíchej prosátý moučkový cukr, škrob a kokos. Nemíchej příliš, aby sníh nespadl."
+    },
+    {
+      "text": "Hmotu nandávej lžičkou ve kopečcích na plech, mezi nimi nech 2 cm mezeru."
+    },
+    {
+      "text": "Peč 30 až 35 minut. Pusinky mají být lehce zlatavé, zvenku suché; troubu nezavírej celou, nech dvířka mírně pootevřená."
+    },
+    {
+      "text": "Pusinky nech v troubě vychladnout, pak je sundej z papíru."
+    }
+  ],
+  "tips": [
+    "Bílky nesmí obsahovat ani kapku žloutku nebo tuku, jinak nenašlehají.",
+    "Pusinky skladuj v dobře uzavřené plechovce; vydrží asi 2 týdny.",
+    "Zbylé žloutky využij na vanilkové rohlíčky nebo krém.",
+    "Při pečení nepřidávej teplotu; pusinky zhnědnou a ztvrdnou."
+  ],
+  "substitutions": [
+    "Kokos nahradíš stejným množstvím mletých ořechů.",
+    "Škrob lze vynechat, pusinky budou o něco křehčí.",
+    "Část moučkového cukru nahradíš kakaem pro tmavší verzi."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi pusinky při pečení zhnědly?",
+      "a": "Trouba byla příliš horká. Peč na 120 °C a pusinky spíše suš, než peč."
+    },
+    {
+      "q": "Jak dlouho se skladují kokosové pusinky?",
+      "a": "V dobře uzavřené plechovce asi 2 týdny. Vlhkost je změkčí, proto je chraň před parou."
+    },
+    {
+      "q": "Co dělat s bílky po cukroví z žloutků?",
+      "a": "Zamraz je a použij na pusinky nebo kokosky; rozmrazené bílky se šlehají stejně dobře."
+    }
+  ],
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ]
+}

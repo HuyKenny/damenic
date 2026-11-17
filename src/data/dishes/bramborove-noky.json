@@ -1,0 +1,44 @@
+{
+  "name": "Bramborové noky s máslem a parmazánem",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Rizoto a gnocchi",
+  "description": "Měkké bramborové noky přelité máslem, posypané parmazánem a muškátem.",
+  "about": [
+    "Noky jsou těsto, které odpouští málo. Brambory se musí odpařit, mouka přidat opatrně a vaření skončit v okamžiku, kdy vyplavou. Pak stačí máslo a sýr a talíř je hotový.",
+    "Chuť máme skutečnou, máslo ale pořád jen v receptu. Pomůže to zkusit doma."
+  ],
+  "price": 18900,
+  "image": "dish-bramborove-noky",
+  "recipe": "bramborove-noky",
+  "optionGroups": [
+    {
+      "id": "porce",
+      "name": "Porce",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "bezna",
+          "name": "Běžná porce",
+          "priceDelta": 0
+        },
+        {
+          "id": "velka",
+          "name": "Větší porce",
+          "priceDelta": 4000
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 130
+}

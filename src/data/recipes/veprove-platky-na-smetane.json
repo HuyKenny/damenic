@@ -1,0 +1,122 @@
+{
+  "title": "Vepřové plátky na smetaně",
+  "keywords": [
+    "vepřové plátky na smetaně",
+    "vepřové na smetaně",
+    "vepřové maso na smetaně",
+    "plátky z vepřové kýty na smetaně"
+  ],
+  "image": "dish-veprove-platky-na-smetane",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Vepřové plátky na smetaně jsou tenké plátky kýty nebo karé krátce opečené a dodělané v omáčce ze smetany, cibule a hořčice. Hotovo je za 45 minut a podává se s rýží, těstovinami nebo knedlíkem. Aby maso nezhoustlo, vaří se v omáčce jen pár minut.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-kare",
+      "amount": 600,
+      "unit": "g",
+      "note": "bez kosti, na plátky silné asi 1 cm"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na obalení"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 250,
+      "unit": "ml",
+      "note": "30% smetana na vaření"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Plátky karé lehce naklepej na tloušťku asi 8 mm, osol, opepři a z obou stran obal v mouce. Přebytek mouky oklep."
+    },
+    {
+      "text": "V široké pánvi rozehřej olej a maso opékej po 2 minutách z každé strany, dokud nezezlátne. Přendej na talíř."
+    },
+    {
+      "text": "Do pánve dej cibuli a na středním plameni ji 5 minut smaž, dokud nezměkne. Zalij vývarem a seškrab ze dna připečené zbytky."
+    },
+    {
+      "text": "Vlij smetanu, vmíchej hořčici a nech 3 až 4 minuty tiše probublávat, aby omáčka mírně zhoustla."
+    },
+    {
+      "text": "Vrať maso s šťávou z talíře do pánve a 5 minut prohřívej na nejslabším plameni. Omáčku dochuť šťávou z citronu a podávej se špetkou pažitky."
+    }
+  ],
+  "tips": [
+    "Maso nevař v omáčce déle než 5 minut, plátky z karé by byly tuhé.",
+    "Smetana se nesráží, když ji do horké pánve přiléváš pomalu a omáčku nenecháš prudce vařit.",
+    "Mouka na plátcích omáčku sama lehce zahustí, žádná další není potřeba."
+  ],
+  "substitutions": [
+    "Smetanu na vaření lze nahradit 200 ml smetany ke šlehání zředěné 50 ml vývaru.",
+    "Dijonskou hořčici místo plnotučné použij v polovičním množství, je ostřejší."
+  ],
+  "faq": [
+    {
+      "q": "Jaké maso se hodí na vepřové plátky na smetaně?",
+      "a": "Nejlépe vepřová kýta, karé nebo panenka. Všechny jsou libové a stačí je krátce opéct a dodělat v omáčce, aby nevyschly."
+    },
+    {
+      "q": "Proč se smetana v omáčce srazila?",
+      "a": "Většinou kvůli příliš vysoké teplotě nebo kyselině. Omáčku nech jen tiše probublávat a citron přidej až po sundání z plotny."
+    },
+    {
+      "q": "S čím podávat vepřové na smetaně?",
+      "a": "Klasicky s houskovým knedlíkem, rýží nebo vařenými bramborami. Hodí se i okurkový salát."
+    }
+  ]
+}

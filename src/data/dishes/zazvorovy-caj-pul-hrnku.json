@@ -1,0 +1,18 @@
+{
+  "name": "Zázvorový čaj s citronem a medem 0,3 l",
+  "restaurant": "prazirna-pul-hrnku",
+  "kind": "drink",
+  "section": "Nápoje",
+  "description": "Horký čaj z čerstvého zázvoru s citronem a lžičkou medu.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-zazvorovy-caj-pul-hrnku",
+  "recipe": "zazvorovy-caj",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 740
+}

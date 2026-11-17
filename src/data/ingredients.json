@@ -7193,5 +7193,86 @@
     "diet": "plant",
     "allergens": [],
     "family": "zelenina"
+  },
+  {
+    "id": "kureci-mlete",
+    "name": "Mleté kuřecí maso",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 9500,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "kure"
+  },
+  {
+    "id": "hovezi-zebra",
+    "name": "Hovězí žebra",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 22900,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "hovezi"
+  },
+  {
+    "id": "hovezi-hrudi",
+    "name": "Hovězí hrudí",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 21900,
+      "label": "kus asi 1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": [],
+    "family": "hovezi"
+  },
+  {
+    "id": "zverina-na-gulas",
+    "name": "Zvěřina na guláš (jelení a srnčí)",
+    "department": "Maso a ryby",
+    "baseUnit": "g",
+    "pack": {
+      "size": 1000,
+      "price": 42900,
+      "label": "1 kg"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "meat",
+    "allergens": []
+  },
+  {
+    "id": "fettuccine",
+    "name": "Fettuccine",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "pack": {
+      "size": 500,
+      "price": 3500,
+      "label": "balení 500 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      1
+    ],
+    "family": "testoviny"
   }
 ]

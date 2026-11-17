@@ -1,0 +1,23 @@
+{
+  "name": "Ledový salát s jogurtovou zálivkou",
+  "restaurant": "salatbar-ani-listek",
+  "kind": "main",
+  "section": "Saláty",
+  "description": "Natrhaný ledový salát s rajčaty, okurkou a jogurtovo-česnekovou zálivkou.",
+  "about": [
+    "Ledový salát je křupavá hlávka, která si zaslouží víc než lžíci octa. Jogurtová zálivka s česnekem a medem drží listy pohromadě a nenechá je zvadnout dřív, než dojíš.",
+    "Salátbar ani nemá hlávku, ale zálivka je skutečná. Dvě minuty práce a nikdo nemusí čekat na kurýra."
+  ],
+  "price": 11900,
+  "image": "dish-ledovy-salat-se-zalivkou-ani-listek",
+  "recipe": "ledovy-salat-se-zalivkou",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 740
+}

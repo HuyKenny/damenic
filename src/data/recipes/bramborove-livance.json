@@ -1,0 +1,115 @@
+{
+  "title": "Bramborové lívance",
+  "keywords": [
+    "bramborové lívance",
+    "bramborové lívance recept",
+    "slané lívance z brambor",
+    "lívance z brambor"
+  ],
+  "image": "dish-bramborove-livance",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Bramborové lívance jsou slané lívanečky z těsta na bázi jemně strouhaných brambor, mléka a mouky. Na rozdíl od bramboráků jsou nadýchanější a měkčí, protože těsto je řidší a vyvedené práškem do pečiva. Z tohoto množství vyjde asi 20 lívanců.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 500,
+      "unit": "g",
+      "note": "oloupané"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 4,
+      "unit": "lzice",
+      "note": "na smažení"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 100,
+      "unit": "g",
+      "note": "k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory nastrouhej nadrobno nebo rozmixuj s mlékem do hladka. Nech je 3 minuty stát a slij případnou vodu."
+    },
+    {
+      "text": "Přidej vejce, prolisovaný česnek, majoránku a sůl. Mouku smíchej s kypřicím práškem a vmíchej ji do těsta. Těsto má být hustší než na palačinky, ale po lžíci pomalu stékat."
+    },
+    {
+      "text": "Pánev nebo lívanečník vymaž olejem a rozehřej na střední teplotu. Těsto dávej po lžících, lívance mají mít průměr asi 6 cm."
+    },
+    {
+      "text": "Smaž je 2 až 3 minuty z jedné strany, dokud se na povrchu netvoří bublinky, pak je otoč a smaž další 2 minuty. Uvnitř nesmí být syrové, proto nepřidávej vysokou teplotu."
+    },
+    {
+      "text": "Hotové lívance odkládej na papírovou utěrku a podávej teplé se zakysanou smetanou, s česnekovou omáčkou nebo salátem."
+    }
+  ],
+  "tips": [
+    "Pánev nepřehřívej, lívance zvenku zhnědnou a uvnitř zůstanou syrové.",
+    "Těsto zpracuj hned. Strouhané brambory ztmavnou a těsto zešedne, pokud je necháš stát.",
+    "Podávej hned nebo drž v troubě při 100 °C, vychladlé ztvrdnou."
+  ],
+  "substitutions": [
+    "Majoránku nahraď kmínem nebo sušeným česnekem.",
+    "Zakysanou smetanu nahraď bílým jogurtem s pažitkou.",
+    "Mléko můžeš nahradit podmáslím, lívance pak budou kyselejší a nadýchanější."
+  ],
+  "faq": [
+    {
+      "q": "Čím se liší bramborové lívance od bramboráků?",
+      "a": "Těsto je řidší a s kypřicím práškem, takže lívance jsou menší, nadýchanější a méně mastné."
+    },
+    {
+      "q": "Proč lívance zešedly?",
+      "a": "Strouhané brambory tmavnou na vzduchu. Těsto proto smíchej rychle a smaž hned, nebo přidej k bramborám trochu mléka."
+    },
+    {
+      "q": "Dají se zmrazit?",
+      "a": "Ano, vychladlé lívance zmraz na plechu, pak přesyp do sáčku. Ohřívej je v troubě nebo na suché pánvi."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "title": "Zázvorový čaj",
+  "keywords": [
+    "zázvorový čaj",
+    "zázvorový čaj recept",
+    "zázvorový čaj s citronem a medem",
+    "čaj ze zázvoru"
+  ],
+  "image": "dish-zazvorovy-caj-pul-hrnku",
+  "category": "napoje",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 5,
+  "cookMinutes": 10,
+  "waitMinutes": 5,
+  "waitLabel": "louhování",
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "intro": "Zázvorový čaj z čerstvého kořene, citronu a medu je teplý nápoj hotový za 20 minut. Zázvor se krájí na tenké plátky a vaří pod pokličkou, aby uvolnil chuť. Med se přidává až do vlažného čaje.",
+  "ingredients": [
+    {
+      "ingredient": "zazvor",
+      "amount": 40,
+      "unit": "g",
+      "note": "oloupaný, na tenké plátky"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva a plátky"
+    },
+    {
+      "ingredient": "med",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "nebo podle chuti"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zázvor oloupej lžičkou a nakrájej na tenké plátky, tak získá víc chuti."
+    },
+    {
+      "text": "Vodu přiveď k varu, přidej zázvor, stáhni na mírný var a vař pod pokličkou 10 minut."
+    },
+    {
+      "text": "Hrnec stáhni z ohně a nech čaj 5 minut louhovat pod pokličkou."
+    },
+    {
+      "text": "Přeceď do hrnků a přidej citronovou šťávu. Nech čaj vychladnout na 50 až 60 °C a teprve pak dej med."
+    },
+    {
+      "text": "Podávej horký s plátkem citronu."
+    }
+  ],
+  "tips": [
+    "Med nikdy nevhazuj do vařící vody, ztrácí aroma.",
+    "Pro silnější čaj použij víc zázvoru nebo vař 15 minut.",
+    "Zbytek čaje přelij do termosky, vydrží teplý několik hodin."
+  ],
+  "substitutions": [
+    "Med zastoupí javorový sirup nebo cukr.",
+    "Citron nahradí limetka nebo pomerančová šťáva.",
+    "Pro kořenitou verzi přidej 1 kousek skořice nebo 2 hřebíčky."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit zázvorový čaj?",
+      "a": "10 minut pod pokličkou a pak 5 minut louhovat. Delší vaření dělá čaj pálivější."
+    },
+    {
+      "q": "Jde použít sušený zázvor?",
+      "a": "Ano, 0,5 lžičky mletého zázvoru na 500 ml. Chuť je ostřejší a bez čerstvé vůně."
+    },
+    {
+      "q": "Jak dlouho vydrží uvařený zázvorový čaj?",
+      "a": "V lednici do dvou dnů ve zavřené láhvi. Ohřívej pomalu a med přidávej až do hrnku."
+    }
+  ]
+}

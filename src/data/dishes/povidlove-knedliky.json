@@ -1,0 +1,25 @@
+{
+  "name": "Povidlové knedlíky s tvarohem",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Sladké jídlo",
+  "description": "Bramborové knedlíky plněné povidly, s tvarohem, cukrem a máslem.",
+  "about": [
+    "Povidlové knedlíky jsou těsto z brambor a mouky, uvnitř hustá povidla a navrch tvaroh. Povidla musí být hustá a studená, jinak vytečou. Podávají se s máslem a moučkovým cukrem.",
+    "Naše smyšlená jídelna je vaří bez povidel v hrnci, jen v receptu. Doma je máš na stole za hodinu. Kurýr nese prázdný talíř a vzpomínky."
+  ],
+  "price": 14900,
+  "image": "dish-povidlove-knedliky",
+  "recipe": "povidlove-knedliky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 420
+}

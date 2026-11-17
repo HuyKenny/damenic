@@ -1,0 +1,24 @@
+{
+  "name": "Omeleta se zeleninou a eidamem",
+  "restaurant": "odlozeny-budik",
+  "kind": "main",
+  "section": "Vejce",
+  "description": "Třívaječná omeleta s paprikou, rajčetem, jarní cibulkou a eidamem.",
+  "about": [
+    "Omeleta se zeleninou je jednoduchá, dokud neuděláš dvě chyby: nepustíš syrovou zeleninu do vajec a nepřepálíš pánev. Zelenina se osmahne zvlášť a vejce se srážejí pomalu a žlutě.",
+    "Budík je odložený a snídaně smyšlená. Vejce ale u tebe v lednici čekají a pánev se rozehřeje za půl minuty."
+  ],
+  "price": 13900,
+  "image": "dish-omeleta-se-zeleninou-budik",
+  "recipe": "omeleta-se-zeleninou",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 720
+}

@@ -1,0 +1,118 @@
+{
+  "title": "Treska v těstíčku",
+  "keywords": [
+    "treska v těstíčku",
+    "treska v těstíčku recept",
+    "smažená treska v těstíčku",
+    "ryba v těstíčku"
+  ],
+  "image": "dish-treska-v-testicku",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 12,
+  "waitMinutes": 15,
+  "waitLabel": "odpočinek těstíčka",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Treska v těstíčku je kousky tresky smažené v lehkém těstíčku z mouky, perlivé vody a prášku do pečiva. Smaží se při 175 °C asi 4 minuty a těstíčko musí být studené a řidší než palačinkové. Podává se s hranolky, tatarkou a citronem.",
+  "ingredients": [
+    {
+      "ingredient": "treska-filet",
+      "amount": 600,
+      "unit": "g",
+      "note": "na kusy 8 × 4 cm"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g",
+      "note": "do těstíčka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na obalení ryby"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "perliva-voda",
+      "amount": 200,
+      "unit": "ml",
+      "note": "ledově studená"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 600,
+      "unit": "ml",
+      "note": "na smažení"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "k podání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Filety osuš papírovou utěrkou, nakrájej na kusy a osol. Na talíři je obal v 3 lžících mouky a oklep přebytek."
+    },
+    {
+      "text": "Smíchej 150 g mouky, škrob, prášek do pečiva a půl lžičky soli. Vlij ledově studenou perlivou vodu a vejce, rychle promíchej metlou. Hrudky nevadí. Těstíčko nech 15 minut v lednici."
+    },
+    {
+      "text": "V hrnci s hlubokým dnem rozehřej olej na 175 °C. Teplotu ověř teploměrem nebo kouskem těstíčka, které musí hned zasyčet a vyplavat."
+    },
+    {
+      "text": "Kus ryby ponoř do těstíčka, nech okapat a opatrně vlož do oleje. Smaž po 3 až 4 kusech 4 minuty, jednou otoč, dokud není těstíčko zlaté."
+    },
+    {
+      "text": "Vyjmi na papírovou utěrku. Treska je hotová při 63 °C uvnitř. Podávej ihned s citronem a hranolky."
+    }
+  ],
+  "tips": [
+    "Studené těstíčko je křupavé. Dej mísu do větší s ledem.",
+    "Do oleje nevkládej víc než pár kusů, teplota by klesla a těstíčko by nasáklo.",
+    "Rybu obal v mouce, aby těstíčko drželo."
+  ],
+  "substitutions": [
+    "Perlivou vodu lze nahradit ledově studenou obyčejnou vodou, těstíčko bude méně nadýchané.",
+    "Treska lze nahradit rybím filé nebo mražený rybí filet."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit rybu v těstíčku?",
+      "a": "Při 175 °C 4 minuty, jednou otočit. Hotová ryba je uvnitř bílá a má 63 °C."
+    },
+    {
+      "q": "Proč těstíčko opadává?",
+      "a": "Ryba byla vlhká nebo nebyla obalená v mouce. Osuš ji a lehce obal před namáčením."
+    },
+    {
+      "q": "Proč se do těstíčka dává perlivá voda?",
+      "a": "Bublinky těstíčko nakypří a po smažení je křupavé. Voda musí být ledově studená."
+    }
+  ]
+}

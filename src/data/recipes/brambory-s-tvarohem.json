@@ -1,0 +1,118 @@
+{
+  "title": "Brambory s tvarohem",
+  "keywords": [
+    "brambory s tvarohem",
+    "brambory s tvarohem a cibulkou",
+    "vařené brambory s tvarohem",
+    "brambory s tvarohem a pažitkou"
+  ],
+  "image": "dish-brambory-s-tvarohem",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Brambory s tvarohem jsou jednoduché bezmasé jídlo: vařené brambory s krémovým tvarohem, který se ochutí česnekem, solí a pažitkou, a opečenou cibulkou na másle. Jídlo je hotové za 40 minut a nic v něm nesmí být suché, proto se tvaroh vyředí zakysanou smetanou.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "menší, vařivé"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na vaření"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "měkký"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "do tvarohu"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "svazek, najemno"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory dobře omyj a dej do hrnce, zalij studenou vodou, přidej sůl a vař 20 až 25 minut do měkka. Měkké jsou, když do nich snadno zapíchneš nůž."
+    },
+    {
+      "text": "Mezitím rozmíchej tvaroh se zakysanou smetanou, prolisovaným česnekem, půl lžičkou soli a pepřem. Pokud je moc hustý, přidej lžíci studeného mléka nebo vody z brambor."
+    },
+    {
+      "text": "Na pánvi rozehřej máslo a na střední teplotě opékej cibuli 6 až 8 minut do zlatova. Nesmí ztmavnout, hořká cibule pokazí celé jídlo."
+    },
+    {
+      "text": "Brambory slij, nech je 2 minuty odpařit a podle chuti oloupej, pokud jsou ještě horké, chraň si prsty utěrkou."
+    },
+    {
+      "text": "Na talíř dej brambory, vedle ně lžíci tvarohu, na to opečenou cibuli a pažitku. Servíruj hned, dokud jsou brambory teplé."
+    }
+  ],
+  "tips": [
+    "Tvaroh před přípravou vytáhni z lednice, studený se hůř rozmíchává a ochladí brambory.",
+    "Pro hladší krém tvaroh promixuj tyčovým mixérem nebo prolisuj sítkem.",
+    "Brambory vař ve slupce, neztratí tolik chuti a zůstanou pevné."
+  ],
+  "substitutions": [
+    "Zakysanou smetanu nahraď bílým jogurtem.",
+    "Místo cibulky osmaž kostičky slaniny, jídlo ale pak už nebude bezmasé.",
+    "Čerstvý česnek můžeš nahradit lžičkou sušeného nebo nahradit čerstvými bylinkami."
+  ],
+  "faq": [
+    {
+      "q": "Jaký tvaroh se hodí k bramborám?",
+      "a": "Měkký tvaroh z vaničky, tučnější je krémovější. Hrudkovitý tvaroh promixuj nebo vyřeď smetanou."
+    },
+    {
+      "q": "Dá se jídlo jíst studené?",
+      "a": "Brambory ano, ale tvaroh s česnekem je dobrý i druhý den. Skladuj ho přikrytý v lednici maximálně 2 dny."
+    },
+    {
+      "q": "Jak udělat tvaroh jemnější?",
+      "a": "Vyšlehej ho s lžící mléka nebo zakysané smetany do hladka, případně ho prolisuj přes sítko."
+    }
+  ]
+}

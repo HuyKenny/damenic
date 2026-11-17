@@ -1,0 +1,143 @@
+{
+  "title": "Borůvkové knedlíky z bramborového těsta",
+  "image": "dish-boruvkove-knedliky",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 45,
+  "cookMinutes": 40,
+  "waitMinutes": 60,
+  "waitLabel": "vychladnutí uvařených brambor",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "keywords": [
+    "borůvkové knedlíky",
+    "borůvkové knedlíky z bramborového těsta",
+    "knedlíky s borůvkami",
+    "bramborové knedlíky s ovocem"
+  ],
+  "intro": "Borůvkové knedlíky z bramborového těsta se sypaným tvarohem a máslem. Z uvedeného množství vyjde 12 knedlíků, tedy tři na porci. Těsto je měkké a bez kynutí, takže se dělá rychleji než kynuté, ale brambory musí být opravdu vychladlé a suché, jinak vezmou víc mouky a knedlíky ztvrdnou.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 600,
+      "unit": "g",
+      "note": "voskové, uvařené ve slupce a úplně vychladlé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 170,
+      "unit": "g",
+      "note": "a trochu na vál",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "krupice",
+      "amount": 20,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "boruvky",
+      "amount": 300,
+      "unit": "g",
+      "note": "čerstvé, nebo mražené nerozmrazené",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 30,
+      "unit": "g",
+      "note": "do borůvek",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do vody na vaření",
+      "group": "Vaření"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 150,
+      "unit": "g",
+      "note": "suchý, na strouhání nebo rozdrobený",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 50,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař ve slupce asi 25 minut, až se do nich špejle zapíchne bez odporu. Slij je, nech vystydnout a nejlépe je nech několik hodin odležet; studené brambory pouští méně vody."
+    },
+    {
+      "text": "Oloupané brambory prolisuj nebo nastrouhej najemno. Přidej vejce, krupici, špetku soli a mouku a rychle zpracuj na měkké těsto, které se jen nepatrně lepí. Dlouhé hnětení z brambor vytahuje škrob a těsto houstne."
+    },
+    {
+      "text": "Borůvky promíchej s cukrem. Mražené nech zmražené, hůř se mačkají a v těstě nepouštějí šťávu předčasně."
+    },
+    {
+      "text": "Těsto rozděl na 12 dílů. Každý rozmáčkni v dlani na placku, dej doprostřed asi 25 g borůvek a okraje pevně uzavři do kuličky bez trhlin. Vál i ruce lehce pomoukuj."
+    },
+    {
+      "text": "Ve velkém hrnci přiveď k varu 3 l vody s lžičkou soli. Knedlíky vkládej po 4 až 6, po vložení stáhni plamen, aby se voda jen mírně vlnila, a hned jimi lehce pohni, ať se nepřilepí ke dnu."
+    },
+    {
+      "text": "Vař 8 až 10 minut, mražené borůvky o 2 minuty déle. Knedlík je hotový, když vyplave a na dotyk je pružný. Rozříznutím jednoho zkontroluj, že těsto uvnitř není syrové."
+    },
+    {
+      "text": "Vyndané knedlíky nech chvilku okapat. Podávej posypané tvarohem a moučkovým cukrem a přelité rozpuštěným máslem."
+    }
+  ],
+  "tips": [
+    "Zkušební knedlík vař vždy první. Když se rozpadá, přidej do těsta 1 až 2 lžíce mouky nebo krupice a nech těsto 10 minut odpočinout.",
+    "Brambory nikdy nevař ve vodě bez slupky a neloupej je horké; nasáknou vodu a těsto bude lepkavé a potřebuje hodně mouky.",
+    "Hotové knedlíky vydrží v lednici do druhého dne. Ohřívej je v páře nebo na pánvi s trochou másla, v mikrovlnce vysychají.",
+    "Místo tvarohu je skvělá zakysaná smetana nebo kopeček šlehačky; kdo chce víc chrupavosti, posype knedlíky strouhankou opraženou na másle."
+  ],
+  "substitutions": [
+    "Čerstvé borůvky nahradíš stejným množstvím mražených, jen je nenech rozmrazit před plněním.",
+    "Polohrubou mouku můžeš vyměnit za hladkou; těsto pak bude o něco měkčí a bude potřebovat o 10 až 20 g mouky méně.",
+    "Máslo na polití nahradíš jakýmkoli rostlinným margarínem; tvaroh vynecháš a použiješ jen cukr s máslem."
+  ],
+  "faq": [
+    {
+      "q": "Jak se plní borůvkové knedlíky, aby nepraskly?",
+      "a": "Těsto rozmáčkni na placku silnou asi půl centimetru, borůvky dej doprostřed a okraje spojuj prsty ke středu, dokud nezmizí všechny spáry. Kulička musí být uzavřená; do vody nikdy nevkládej knedlík s trhlinou."
+    },
+    {
+      "q": "Můžu borůvkové knedlíky udělat z mražených borůvek?",
+      "a": "Ano, dokonce se s nimi pracuje lépe. Nech je zmražené, plň hned a vař o 2 minuty déle než s čerstvými, protože ledový střed musí v těstě prohřát."
+    },
+    {
+      "q": "Proč se mi knedlíky rozpadají ve vodě?",
+      "a": "Nejčastěji je těsto příliš vlhké, nebo brambory nebyly dost vychladlé. Přidej trochu mouky, těsto nech odpočinout a vař na mírném varu, ne na prudkém, který knedlíky roztrhá."
+    }
+  ]
+}

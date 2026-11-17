@@ -1,0 +1,149 @@
+{
+  "title": "Masové kuličky v omáčce",
+  "keywords": [
+    "masové kuličky v omáčce",
+    "masové kuličky v rajčatové omáčce",
+    "masové kuličky z mletého masa",
+    "masové koule v omáčce"
+  ],
+  "image": "dish-masove-kulicky-v-omacce",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Masové kuličky v omáčce jsou kuličky z mletého masa, které se na mírném plameni dovaří přímo v rajčatové omáčce. Nejsou smažené, takže zůstanou měkké a šťavnaté. Uvnitř musí mít aspoň 72 °C.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 300,
+      "unit": "g",
+      "group": "Kuličky"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 300,
+      "unit": "g",
+      "group": "Kuličky"
+    },
+    {
+      "ingredient": "rohliky",
+      "amount": 1,
+      "unit": "ks",
+      "note": "starý, na kostky",
+      "group": "Kuličky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 80,
+      "unit": "ml",
+      "group": "Kuličky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Kuličky"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Kuličky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka",
+      "group": "Kuličky"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kuličky"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "najemno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 3,
+      "unit": "ks",
+      "note": "lístky",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rohlík namoč v mléku, vymačkej a smíchej s mletým masem, česnekem, vejcem, solí a majoránkou. Hněť 2 minuty, směs musí držet pohromadě."
+    },
+    {
+      "text": "Navlhčenýma rukama formuj kuličky o průměru 3 cm, vyjde asi 24 kusů."
+    },
+    {
+      "text": "V hrnci na oleji osmahni cibuli 4 minuty, zalij passatou a vývarem, přidej cukr a sůl a přiveď k varu."
+    },
+    {
+      "text": "Kuličky pokládej do vroucí omáčky, přikryj a vař na mírném plameni 20 až 25 minut. Za 10 minut je opatrně obrať."
+    },
+    {
+      "text": "Zkontroluj kuličku nožem: uvnitř nesmí být růžová a má mít aspoň 72 °C. Posyp bazalkou a podávej s těstovinami nebo kaší."
+    }
+  ],
+  "tips": [
+    "Kuličky v omáčce neobracej příliš často, rozpadly by se.",
+    "Pro pevnější kuličky je zprudka opeč, než je dáš do omáčky.",
+    "Omáčka by měla jen bublat, prudký var kuličky rozbije."
+  ],
+  "substitutions": [
+    "Passatu nahraď loupanými rajčaty ze sklenice rozmixovanými tyčovým mixérem.",
+    "Hovězí mleté nahraď vepřovým.",
+    "Pro smetanovou variantu přidej na konci 100 ml smetany na vaření."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit masové kuličky v omáčce?",
+      "a": "Asi 20 až 25 minut na mírném plameni pod pokličkou. Uvnitř musí mít aspoň 72 °C."
+    },
+    {
+      "q": "Proč se masové kuličky rozpadají?",
+      "a": "Směs je příliš vlhká nebo omáčka příliš prudce vře. Přidej lžíci strouhanky a vař mírně."
+    },
+    {
+      "q": "Co podávat k masovým kuličkám?",
+      "a": "Těstoviny, bramborovou kaši nebo rýži. Omáčka se hodí k čemukoli, co ji nasaje."
+    }
+  ]
+}

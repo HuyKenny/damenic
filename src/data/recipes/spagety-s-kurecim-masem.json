@@ -1,0 +1,142 @@
+{
+  "title": "Špagety s kuřecím masem",
+  "keywords": [
+    "špagety s kuřecím masem",
+    "špagety s kuřecím masem a zeleninou",
+    "špagety s kuřecími prsy",
+    "kuřecí špagety"
+  ],
+  "image": "dish-spagety-s-kurecim-masem-pozitri",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 3,
+  "activeMinutes": 20,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Špagety s kuřecím masem, paprikou a rajčaty v lehké omáčce jsou hotové za 35 minut. Kuře se krájí na proužky a smaží krátce na vysokém plameni, aby zůstalo šťavnaté. Uvnitř musí dosáhnout 75 °C.",
+  "ingredients": [
+    {
+      "ingredient": "spagety",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 400,
+      "unit": "g",
+      "note": "na proužky",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Kuře"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na proužky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g",
+      "note": "konzerva, rozmačkaná",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "sušené",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 30,
+      "unit": "g",
+      "note": "na posyp",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuřecí prsa nakrájej na proužky široké 1 cm, osol je a posyp paprikou. Ve velké pánvi rozehřej 2 lžíce oleje na vysokém plameni."
+    },
+    {
+      "text": "Kuře smaž 4 až 5 minut po částech, jen občas promíchej, dokud není zlatavé a uvnitř nemá 75 °C. Přendej na talíř."
+    },
+    {
+      "text": "Do pánve přidej zbylý olej, cibuli a papriku a na středním plameni smaž 5 minut. Přidej česnek, po 30 sekundách rajčata a oregano. Omáčku duš 8 minut, dokud nezhoustne."
+    },
+    {
+      "text": "Mezitím uvař špagety v osolené vodě podle obalu, před scezením odlij hrnek vody z vaření."
+    },
+    {
+      "text": "Kuře vrať do omáčky, přidej špagety a 3 lžíce vody z vaření. Míchej 1 minutu, ať omáčka těstoviny obalí. Posyp parmazánem."
+    }
+  ],
+  "tips": [
+    "Maso krájej proti vláknům a smaž po částech, aby se nepěnilo ve vlastní šťávě.",
+    "Neznáš-li teplotu, rozkroj největší kousek: uvnitř nesmí být růžový.",
+    "Pro výraznější chuť přidej lžíci rajčatového protlaku k cibuli."
+  ],
+  "substitutions": [
+    "Kuřecí prsa nahradí vykostěná kuřecí stehna, budou šťavnatější a potřebují o 2 minuty víc.",
+    "Rajčata z konzervy zastoupí 500 g čerstvých rajčat, dusit je ale potřebuješ 12 minut.",
+    "Špagety nahradíš penne nebo fusilli."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat kuře na špagety šťavnaté?",
+      "a": "Nakrájej ho na proužky, smaž krátce na vysokém plameni a nepřeplňuj pánev. Maso je hotové při 75 °C uvnitř, delší smažení ho vysuší."
+    },
+    {
+      "q": "Čím nahradit rajčata v omáčce?",
+      "a": "Hodí se smetana na vaření nebo smetanový sýr. Omáčka pak bude krémová místo rajčatové."
+    },
+    {
+      "q": "Dají se špagety s kuřecím ohřívat?",
+      "a": "Ano, do dvou dnů v lednici. Ohřívej je na pánvi s lžící vody, kuře ať se prohřeje na 75 °C."
+    }
+  ]
+}

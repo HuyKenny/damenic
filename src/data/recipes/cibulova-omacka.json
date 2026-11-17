@@ -1,0 +1,113 @@
+{
+  "title": "Cibulová omáčka",
+  "keywords": [
+    "cibulová omáčka",
+    "cibulová omáčka recept",
+    "cibulová omáčka k masu",
+    "cibulová omáčka s vývarem"
+  ],
+  "image": "dish-cibulova-omacka",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Cibulová omáčka je tradiční omáčka z dlouho osmahnuté cibule, zahuštěná moukou a zalitá vývarem a dochucená octem a cukrem. Základ je trpělivost: cibule se musí smažit pomalu do sklovata, ne do hněda, jinak omáčka zhořkne.",
+  "ingredients": [
+    {
+      "ingredient": "cibule",
+      "amount": 400,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozpusť máslo na mírném plameni. Přidej cibuli a smaž 10 až 12 minut za občasného míchání, dokud není sklovitá a měkká. Nesmí zhnědnout."
+    },
+    {
+      "text": "Cibuli posyp moukou a míchej 1 minutu, aby se mouka prosmažila a nevznikaly hrudky."
+    },
+    {
+      "text": "Za stálého míchání zalévej vývarem po třetinách. Přidej bobkový list a vař 10 minut na mírném plameni, dokud omáčka nezhoustne."
+    },
+    {
+      "text": "Bobkový list vyndej, přilij smetanu, přidej ocet, cukr, sůl a pepř a ještě 3 minuty prohřej bez varu."
+    },
+    {
+      "text": "Omáčku dochuť a podle potřeby ji rozmixuj do hladka. Podávej k vařenému hovězímu, knedlíkům nebo bramborám."
+    }
+  ],
+  "tips": [
+    "Cibuli smaž na mírném plameni, vysoká teplota ji připálí a omáčka bude hořká.",
+    "Pokud vzniknou hrudky, rozmixuj omáčku tyčovým mixérem.",
+    "Omáčka při stání houstne, před ohřátím ji zřeď vývarem."
+  ],
+  "substitutions": [
+    "Hovězí vývar nahraď zeleninovým pro vegetariánskou verzi.",
+    "Smetanu na vaření nahraď mlékem s lžičkou másla.",
+    "Ocet nahraď šťávou z poloviny citronu."
+  ],
+  "faq": [
+    {
+      "q": "Proč je cibulová omáčka hořká?",
+      "a": "Cibule se připálila. Smaž ji pomalu při mírné teplotě do sklovata, ne do hněda."
+    },
+    {
+      "q": "K čemu se cibulová omáčka hodí?",
+      "a": "K vařenému hovězímu, vepřové pečeni, knedlíkům a bramborám."
+    },
+    {
+      "q": "Dá se omáčka zamrazit?",
+      "a": "Ano, bez smetany vydrží 2 měsíce. Smetanu přidej až po rozmrazení a ohřátí."
+    }
+  ]
+}

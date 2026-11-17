@@ -1,0 +1,110 @@
+{
+  "title": "Řízek z krkovice",
+  "keywords": [
+    "řízek z krkovice",
+    "vepřový řízek z krkovice",
+    "smažený řízek z krkovice",
+    "krkovicový řízek"
+  ],
+  "image": "dish-rizek-z-krkovice",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 12,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Řízek z krkovice je tučnější a šťavnatější než z kýty, protože krkovice je protkaná tukem. Plátky se musí dobře naklepat, jinak se při smažení smrští, a smaží se při 170 °C, aby byl obal zlatý a maso propečené.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-krkovice",
+      "amount": 700,
+      "unit": "g",
+      "note": "na 4 plátky silné 1,5 cm"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 5,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 10,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 150,
+      "unit": "g",
+      "note": "nebo 250 ml oleje, na smažení"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Z krkovice odřízni případný silný tuk a plátky nařízni na okrajích, aby se při smažení nekroutily. Každý plátek vyklep mezi fóliemi na 8 mm a osol a opepři."
+    },
+    {
+      "text": "Připrav tři talíře: mouka, vejce rozšlehaná s mlékem a strouhanka. Každý řízek obal v mouce, vejci a strouhance, strouhanku jemně přitiskni."
+    },
+    {
+      "text": "Sádlo rozehřej v široké pánvi na 170 °C, hladina má sahat do poloviny řízku. Smaž po 3 až 4 minutách z každé strany do zlatova."
+    },
+    {
+      "text": "Pánví při smažení kroužkově pohybuj, aby se obal nadýmal. Uvnitř musí mít maso aspoň 70 °C."
+    },
+    {
+      "text": "Řízky nech okapat na papírové utěrce a podávej s citronem a bramborovým salátem nebo brambory."
+    }
+  ],
+  "tips": [
+    "Krkovici naklepej jemně, aby zůstala šťavnatá a nerozpadla se.",
+    "Tuk musí mít 170 °C. Při nižší teplotě nasaje, při vyšší zhnědne obal a maso uvnitř zůstane syrové.",
+    "Řízek nepřikrývej, pára obal zvlhčí."
+  ],
+  "substitutions": [
+    "Sádlo nahraď slunečnicovým olejem, obal bude trochu světlejší.",
+    "Krkovici nahraď kýtou, bude libovější, ale i sušší.",
+    "Strouhanku nahraď panko strouhankou pro křupavější obal."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho smažit řízek z krkovice?",
+      "a": "Při 170 °C asi 3 až 4 minuty z každé strany u plátku silného do 1 cm. Vepřové uvnitř má mít aspoň 70 °C."
+    },
+    {
+      "q": "Proč je řízek z krkovice tuhý?",
+      "a": "Krkovice má víc šlach, takže ji potřebuješ pořádně naklepat a nesmažit déle, než je nutné."
+    },
+    {
+      "q": "Jaký tuk je na řízek nejlepší?",
+      "a": "Vepřové sádlo dává klasickou chuť, slunečnicový olej je neutrální. Oba fungují při 170 °C."
+    }
+  ]
+}

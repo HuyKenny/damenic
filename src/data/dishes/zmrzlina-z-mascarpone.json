@@ -1,0 +1,24 @@
+{
+  "name": "Zmrzlina z mascarpone, kopeček",
+  "restaurant": "zmrzlinarna-led-ledem",
+  "kind": "main",
+  "section": "Kopečky",
+  "description": "Hladká zmrzlina z mascarpone, smetany a vanilky.",
+  "about": [
+    "Zmrzlina z mascarpone je smetanová, hustá a hladká, s vanilkovou chutí. Žloutky se zahřívají na 70 °C a po vychladnutí se mísí s mascarpone a šlehačkou. Mrazí se šest hodin a občas se promíchá.",
+    "V naší smyšlené zmrzlinárně se nabírá velkou lžící, doma stačí mrazák. Kurýr s prázdným kornoutem čeká před dveřmi."
+  ],
+  "price": 6900,
+  "image": "dish-zmrzlina-z-mascarpone",
+  "recipe": "zmrzlina-z-mascarpone",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 95
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Americké brambory",
+  "keywords": [
+    "americké brambory",
+    "americké brambory v troubě",
+    "brambory po americku",
+    "pečené brambory měsíčky"
+  ],
+  "image": "dish-americke-brambory",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 40,
+  "waitMinutes": 30,
+  "waitLabel": "namáčení ve vodě",
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Americké brambory jsou brambory nakrájené na měsíčky, potřené kořeněným olejem a upečené v troubě do křupava. Jsou zlatavé, na povrchu křupou a uvnitř zůstávají měkké. Tajemství je v namočení krájených brambor a v tom, že na plechu nesmí ležet nahusto.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 1000,
+      "unit": "g",
+      "note": "vařivější nebo univerzální odrůda"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cesnek-suseny",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "volitelně"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory dobře omyj kartáčkem. Slupku nech, jen vykrojí-li se tmavá místa. Nakrájej je podélně na osminky nebo měsíčky silné asi 2 cm."
+    },
+    {
+      "text": "Měsíčky dej na 30 minut do studené vody, aby pustily škrob. Pak je pečlivě osuš utěrkou, mokré brambory se na plechu spíš dusí."
+    },
+    {
+      "text": "Troubu předehřej na 220 °C (horkovzduch 200 °C). V míse smíchej olej s paprikou, sušeným česnekem, solí, pepřem a kmínem a brambory v něm důkladně obal."
+    },
+    {
+      "text": "Brambory rozlož na plech vyložený pečicím papírem slupkou dolů, tak aby se nedotýkaly. Peč 20 minut, pak je obrať a peč dalších 15 až 20 minut, až jsou zlatohnědé."
+    },
+    {
+      "text": "Hotové brambory poznáš podle toho, že špejle projde bez odporu a okraje jsou křupavé. Nech je 2 minuty odpočinout na plechu a podávej hned."
+    }
+  ],
+  "tips": [
+    "Pro extra křupavost nech namočené brambory před pečením 10 minut vyschnout na utěrce.",
+    "Pokud peče víc plechů najednou, přehoď plechy v půlce času. Spodní plech je obvykle světlejší.",
+    "Sůl přidávej do oleje, ne přímo na vodnaté brambory, rovnoměrněji se rozpustí."
+  ],
+  "substitutions": [
+    "Místo sladké papriky použij uzenou, chuť bude výraznější.",
+    "Sušený česnek nahraď 2 čerstvými prolisovanými stroužky smíchanými s olejem.",
+    "Z bramborových měsíčků lze udělat i batátové, peč je 5 minut kratší."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct americké brambory v troubě?",
+      "a": "Při 220 °C (horkovzduch 200 °C) asi 35 až 40 minut, v půlce je obrať. Přesný čas závisí na tloušťce měsíčků."
+    },
+    {
+      "q": "Proč mi brambory nejsou křupavé?",
+      "a": "Bývají vlhké, nahusto na plechu nebo moc studená trouba. Osuš je, nech mezi nimi mezery a peč při plné teplotě."
+    },
+    {
+      "q": "Musím brambory loupat?",
+      "a": "Nemusíš. Slupka je jedlá a při pečení zkřupavá. Stačí brambory pořádně omýt kartáčkem."
+    }
+  ]
+}

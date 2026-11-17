@@ -1,0 +1,122 @@
+{
+  "title": "Vepřové na houbách",
+  "keywords": [
+    "vepřové na houbách",
+    "vepřové maso na houbách",
+    "vepřová krkovice na houbách",
+    "vepřové na žampionech"
+  ],
+  "image": "dish-veprove-na-houbach",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Vepřové na houbách je kousky krkovice dušené se žampiony a cibulí do hustší šťávy, ke které patří knedlík nebo rýže. Rozhoduje, aby houby i maso nejdřív dostaly barvu na pánvi a teprve potom šly dusit, jinak se šťáva rozředí vodou z hub.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-krkovice",
+      "amount": 600,
+      "unit": "g",
+      "note": "bez kosti, na plátky silné asi 1 cm"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 400,
+      "unit": "g",
+      "note": "na čtvrtky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na zahuštění"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na závěr"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Plátky krkovice osol a opepři. Na pánvi rozehřej 2 lžíce oleje a maso opékej po dávkách po 2 minuty z každé strany, aby zezlátlo. Opečené přendej do hrnce."
+    },
+    {
+      "text": "Do stejné pánve vlij zbytek oleje, přidej cibuli a smaž ji na středním plameni 6 minut do zlatova. Cibuli přesuň k masu."
+    },
+    {
+      "text": "Žampiony nech na horké pánvi 5 až 6 minut bez míchání, ať pustí vodu a zhnědnou. Přidej česnek a majoránku, promíchej a vše vlož do hrnce."
+    },
+    {
+      "text": "Zalij 250 ml vody, přiveď k varu, přikryj a duš na mírném plameni 35 minut, dokud se maso nedá rozlomit vidličkou. Jednou za 10 minut promíchej."
+    },
+    {
+      "text": "Mouku rozmíchej se zakysanou smetanou a 3 lžícemi horké šťávy, vlij do hrnce a za stálého míchání povař 3 minuty. Dochuť solí a pepřem a podávej s knedlíkem nebo rýží."
+    }
+  ],
+  "tips": [
+    "Žampiony neumývej pod proudem vody, nasákly by. Stačí je otřít vlhkou utěrkou.",
+    "Krkovice je odpuštěná: při dušení zůstane šťavnatá. Libová kýta by byla suchá.",
+    "Hotové jídlo se druhý den po ohřátí povede ještě líp, jen případně dolij trochu vody."
+  ],
+  "substitutions": [
+    "Místo žampionů můžeš dát směs lesních hub, nebo půl na půl s hlívou ústřičnou.",
+    "Zakysanou smetanu nahraď 100 ml smetany ke šlehání a mouku vynech, šťáva bude řidší, ale jemnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho dusit vepřové na houbách?",
+      "a": "Krkovice na plátcích potřebuje 35 až 40 minut mírného varu pod pokličkou. Když se dá rozlomit vidličkou, je hotovo."
+    },
+    {
+      "q": "Jaké maso se na houby hodí nejvíc?",
+      "a": "Nejlíp krkovice nebo plecko, protože v sobě mají vazivo a tuk a při dušení zůstanou měkké. Panenka se hodí jen na rychlou verzi do 15 minut."
+    },
+    {
+      "q": "Dá se vepřové na houbách zamrazit?",
+      "a": "Ano, bez zakysané smetany vydrží v mrazáku až 3 měsíce. Smetanu přidej až po rozmrazení a ohřevu."
+    }
+  ]
+}

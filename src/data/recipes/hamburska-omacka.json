@@ -1,0 +1,112 @@
+{
+  "title": "Hamburská omáčka",
+  "keywords": [
+    "hamburská omáčka",
+    "hamburská omáčka recept",
+    "hamburská omáčka k hovězímu",
+    "hamburská omáčka s hořčicí"
+  ],
+  "image": "dish-hamburska-omacka",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Hamburská omáčka je světlá omáčka z jíšky, vývaru a smetany dochucená hořčicí, octem a trochou cukru. Je hladká, mírně nakyslá a hodí se k vařenému hovězímu a bramborám. Postup je jednoduchý, jen jíšku nesmíš nechat zhnědnout a omáčka se po přidání smetany už nevaří.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozpusť máslo, přisyp mouku a 1 až 2 minuty míchej na středním plameni. Jíška má být světlá a bublat, nesmí zhnědnout."
+    },
+    {
+      "text": "Za stálého míchání zalévej jíšku horkým vývarem po částech, aby nevznikly hrudky. Přidej bobkový list."
+    },
+    {
+      "text": "Omáčku vař 10 minut na mírném plameni, občas promíchej, aby se nepřipálila a zhoustla."
+    },
+    {
+      "text": "Vyndej bobkový list, přilij smetanu a vmíchej hořčici, ocet a cukr. Prohřej bez varu 2 minuty."
+    },
+    {
+      "text": "Dochuť solí a pepřem. Pokud je moc hustá, zřeď ji vývarem po lžících, pokud řídká, vař ji ještě 2 až 3 minuty."
+    }
+  ],
+  "tips": [
+    "Vývar přilévej horký, studený s jíškou vytváří hrudky.",
+    "Kyselost můžeš dolaďovat po částech: nejdřív ocet, pak cukr.",
+    "Omáčka se při stání zahustí, před podáváním ji zřeď vývarem."
+  ],
+  "substitutions": [
+    "Hovězí vývar nahraď zeleninovým pro vegetariánskou verzi.",
+    "Smetanu na vaření nahraď mlékem a lžicí másla.",
+    "Hořčici dijonskou můžeš nahradit plnotučnou nebo kopřivovou."
+  ],
+  "faq": [
+    {
+      "q": "K čemu se hamburská omáčka podává?",
+      "a": "K vařenému hovězímu, vepřovému, vejcím a vařeným bramborám nebo knedlíku."
+    },
+    {
+      "q": "Jak se zbavit hrudek v omáčce?",
+      "a": "Vývar přilévej horký po částech a míchej metličkou. Hotovou omáčku lze rozmixovat tyčovým mixérem."
+    },
+    {
+      "q": "Vydrží hamburská omáčka v lednici?",
+      "a": "2 dny v uzavřené nádobě. Před ohřevem ji zřeď trochou vývaru nebo mléka."
+    }
+  ]
+}

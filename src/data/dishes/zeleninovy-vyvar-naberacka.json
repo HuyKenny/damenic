@@ -1,0 +1,23 @@
+{
+  "name": "Zeleninový vývar s petrželkou",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Čirý zlatavý vývar z mrkve, celeru, petržele a pórku.",
+  "about": [
+    "Zeleninový vývar je to, co zůstane, když si z kuchyně vezmeš všechno kromě masa a hluku. Hodina pomalého varu stačí na chuť, která udrží polévku, rizoto i omáčku.",
+    "Hrnec je prázdný a vývar neteče. Zeleninu ale máš a hodina času se najde."
+  ],
+  "price": 8900,
+  "image": "dish-zeleninovy-vyvar-naberacka",
+  "recipe": "zeleninovy-vyvar",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    9
+  ],
+  "featured": false,
+  "order": 730
+}

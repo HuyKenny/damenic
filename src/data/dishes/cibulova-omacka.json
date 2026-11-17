@@ -1,0 +1,21 @@
+{
+  "name": "Cibulová omáčka",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Hladká omáčka z pomalu osmahnuté cibule s vývarem a trochou smetany.",
+  "about": [],
+  "price": 4900,
+  "image": "dish-cibulova-omacka",
+  "recipe": "cibulova-omacka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 910
+}

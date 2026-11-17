@@ -1,0 +1,24 @@
+{
+  "name": "Rizoto s hovězím masem",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Rizoto a gnocchi",
+  "description": "Krémové arborio s plátky opečeného hovězího a parmazánem.",
+  "about": [
+    "Maso a rýže spolu vycházejí jen tehdy, když se nesetkají příliš brzy. Hovězí se opeče zvlášť a přijde až na hotové rizoto, kde zůstane šťavnaté.",
+    "Trattoria je prázdná jako vždycky. Rizoto si ale uvaříš sám, hlídat ho bude jen vařečka a trpělivost."
+  ],
+  "price": 27900,
+  "image": "dish-rizoto-s-hovezim-domani",
+  "recipe": "rizoto-s-hovezim",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    9
+  ],
+  "featured": false,
+  "order": 730
+}

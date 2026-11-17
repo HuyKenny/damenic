@@ -1,0 +1,25 @@
+{
+  "name": "Šátečky s tvarohem a džemem",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Zákusky z vitríny",
+  "description": "Kynuté šátečky přeložené přes tvaroh a meruňkový džem.",
+  "about": [
+    "Šáteček je kynutý čtverec těsta s náplní, přeložený do tvaru šátku. Uvnitř je sladký tvaroh a meruňkový džem, navrch lesk od vajíčka. Peče se asi dvacet minut a je měkký i druhý den.",
+    "V naší smyšlené vitríně svítí o něco víc než ostatní. Recept ti ukáže, jak složit rohy tak, aby se při pečení neotevřely. Kurýr už je na cestě, jen s prázdnou taškou."
+  ],
+  "price": 4900,
+  "image": "dish-satecky",
+  "recipe": "satecky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 115
+}

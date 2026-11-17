@@ -1,0 +1,22 @@
+{
+  "name": "Kokosové kuličky bez pečení, 5 ks",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "dessert",
+  "section": "Cukroví",
+  "description": "Měkké kokosové kuličky z kondenzovaného mléka a máslových sušenek.",
+  "about": [],
+  "price": 6900,
+  "image": "dish-kokosove-kulicky",
+  "recipe": "kokosove-kulicky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 175
+}

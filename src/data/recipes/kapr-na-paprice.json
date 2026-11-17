@@ -1,0 +1,130 @@
+{
+  "title": "Kapr na paprice",
+  "keywords": [
+    "kapr na paprice",
+    "kapr na paprice recept",
+    "kapří paprikáš",
+    "kapr na paprice se smetanou"
+  ],
+  "image": "dish-kapr-na-paprice",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Kapr na paprice je kapří porce dušené v hustší paprikové omáčce s cibulí a smetanou. Kapr se vaří jen krátce, aby zůstal pevný a nerozpadl se. Podává se s noky, těstovinami nebo vařenými bramborami.",
+  "ingredients": [
+    {
+      "ingredient": "kapr-porce",
+      "amount": 800,
+      "unit": "g",
+      "note": "na kusy 4 cm, s kostmi"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 300,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kousky kapra osol, opepři a nech 10 minut odpočinout. Kost nechej, dodá omáčce chuť."
+    },
+    {
+      "text": "V širokém hrnci rozehřej olej, přidej cibuli a smaž 10 minut do zlatova. Přidej papriku a česnek."
+    },
+    {
+      "text": "Hrnec odstav, vmíchej papriku s protlakem a ihned zalij 400 ml horké vody. Vrať na plotnu, přiveď k varu a vař 8 minut."
+    },
+    {
+      "text": "Zmírni plamen, vlož kousky kapra a vař pod pokličkou 12 až 15 minut. Ryba je hotová při 63 °C, nebo když se maso snadno odděluje od kosti."
+    },
+    {
+      "text": "Mouku rozmíchej ve smetaně, vlij do hrnce a povař 3 minuty. Kapra nemíchej, mohlo by se rozpadnout. Dochuť citronem a solí."
+    }
+  ],
+  "tips": [
+    "Kapra nevař dlouho, maso by se rozpadlo. 12 až 15 minut stačí.",
+    "Hrnec jen potřásej, nemíchej vařečkou.",
+    "Pro čistší chuť kapra před vařením namoč na 30 minut do mléka a osuš."
+  ],
+  "substitutions": [
+    "Kapra lze nahradit pstruhem nebo štikou, doba je stejná.",
+    "Smetanu nahraď kysanou smetanou, bez varu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit kapra na paprice?",
+      "a": "Porce kapra 4 cm silné stačí 12 až 15 minut mírného varu. Ryba je hotová při 63 °C uvnitř."
+    },
+    {
+      "q": "Jak zbavit kapra bahenní chuti?",
+      "a": "Namoč porce na 30 minut do mléka nebo osolené vody s trochou octa. Pak je dobře osuš."
+    },
+    {
+      "q": "Jak dlouho vydrží syrový kapr v lednici?",
+      "a": "Čerstvý syrový kapr 1 až 2 dny, vařený jídlo 2 dny."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Cuketa na pánvi",
+  "keywords": [
+    "cuketa na pánvi",
+    "cuketa na pánvi s česnekem",
+    "restovaná cuketa",
+    "opečená cuketa"
+  ],
+  "image": "dish-cuketa-na-panvi",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 10,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Cuketa na pánvi je hotová za 15 minut a vyjde zlatá, měkká a ne rozbředlá. Cuketa se musí smažit na silném plameni po malých dávkách a solit se až na konci, jinak pustí vodu a začne se dusit.",
+  "ingredients": [
+    {
+      "ingredient": "cuketa",
+      "amount": 600,
+      "unit": "g",
+      "note": "střední, na půlkolečka"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "suchý"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cuketu omyj, odřízni konce a nakrájej na půlkolečka silná 1 cm. Nech je 5 minut na utěrce, ať trochu oschnou."
+    },
+    {
+      "text": "Velkou pánev rozehřej na vyšší teplotu, přidej polovinu oleje a polovinu cukety v jedné vrstvě. Smaž 3 až 4 minuty bez míchání, dokud se nezačnou zlatit."
+    },
+    {
+      "text": "Cuketu otoč a smaž další 2 minuty. Přendej na talíř a stejně uprav druhou polovinu."
+    },
+    {
+      "text": "Do pánve vrať všechnu cuketu, přidej česnek a tymián a míchej 1 minutu, až zavoní."
+    },
+    {
+      "text": "Dosol a opepři, přidej citronovou šťávu a podávej hned jako přílohu k masu nebo s chlebem."
+    }
+  ],
+  "tips": [
+    "Nepřeplňuj pánev, jinak cuketa pustí vodu a nezezlátne. Smaž po dávkách.",
+    "Sůl přidej až na konec, dřív by z cukety vytáhla šťávu.",
+    "Mladá cuketa s tenkou slupkou se nemusí loupat ani vykrajovat semínka."
+  ],
+  "substitutions": [
+    "Tymián nahraď oreganem nebo čerstvou bazalkou.",
+    "Olivový olej nahraď máslem, bude jemnější.",
+    "Na závěr můžeš posypat strouhaným parmazánem, pak už jídlo nebude veganské."
+  ],
+  "faq": [
+    {
+      "q": "Proč cuketa na pánvi pouští vodu?",
+      "a": "Pánev je málo rozpálená nebo plná, případně jsi solila příliš brzy. Smaž po dávkách a sol až na konci."
+    },
+    {
+      "q": "Musím cuketu loupat?",
+      "a": "Ne. Slupka je tenká a jedlá, jen starší velké cukety s hrubými semeny je lepší vykrojit."
+    },
+    {
+      "q": "Čím cuketu ochutit?",
+      "a": "Česnekem, bylinkami, citronovou šťávou nebo kouskem sýra na závěr."
+    }
+  ]
+}

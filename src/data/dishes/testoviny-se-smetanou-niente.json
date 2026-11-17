@@ -1,0 +1,24 @@
+{
+  "name": "Těstoviny se smetanou a parmazánem",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Z pánve",
+  "description": "Penne v hladké smetanové omáčce s cibulí, česnekem a čerstvě strouhaným parmazánem.",
+  "about": [
+    "Smetanová omáčka je nejjednodušší způsob, jak z pytlíku těstovin udělat něco, co voní jako bistro. Stačí cibule, česnek, smetana a sýr, který se smí jen rozpustit, ne uvařit.",
+    "Smetana tu je skutečná, talíř je prázdný. Pokud ti vadí, že jídlo nedojede, rozpal pánev a nech ho dojet po vlastní ose."
+  ],
+  "price": 17900,
+  "image": "dish-testoviny-se-smetanou-niente",
+  "recipe": "testoviny-se-smetanou",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 700
+}

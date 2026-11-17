@@ -1,0 +1,24 @@
+{
+  "name": "Těstoviny se čtyřmi sýry",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Rigatoni v krémové omáčce z eidamu, nivy, mozzarelly a parmazánu.",
+  "about": [
+    "Čtyři sýry nejsou o množství, ale o tom, že každý dělá něco jiného: eidam taje, niva voní, mozzarella tahá nitě a parmazán dosolí. Dohromady se rozpustí do omáčky, která se hodí i k zapečení.",
+    "Sýr tu taje jen v popisu. Doma se rozpustí během pár minut, a pak už stačí nechat si ho vychladnout na talíři."
+  ],
+  "price": 20900,
+  "image": "dish-testoviny-se-syrem-niente",
+  "recipe": "testoviny-se-syrem",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 730
+}

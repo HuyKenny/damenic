@@ -1,0 +1,41 @@
+{
+  "name": "Hlívový guláš",
+  "restaurant": "chata-pristi-sezona",
+  "kind": "main",
+  "section": "Houbová jídla",
+  "description": "Natrhaná a opečená hlíva ústřičná v hustém paprikovém guláši s bramborami.",
+  "about": [
+    "Hlíva ústřičná má vlákna, která se pod prsty trhají skoro jako maso. Proto se z ní dá uvařit guláš, na kterém nikdo nepozná, že chybí hovězí. Opečená, osmažená a pomalu dušená s cibulí a paprikou.",
+    "Chata Příští Sezona sbírá houby jen v katalogu. Hlívu doma koupíš v obchodě a guláš máš za čtyřicet minut, tedy dřív, než by chata otevřela."
+  ],
+  "price": 17900,
+  "image": "dish-hlivovy-gulas",
+  "recipe": "hlivovy-gulas",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "houskovy",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "chleb",
+          "name": "Chléb",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    9
+  ],
+  "order": 930
+}

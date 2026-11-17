@@ -1,0 +1,25 @@
+{
+  "name": "Domácí tagliatelle s máslem a parmazánem",
+  "restaurant": "trattoria-domani",
+  "kind": "main",
+  "section": "Těstoviny a lasagne",
+  "description": "Ručně krájené vaječné tagliatelle s máslem, parmazánem a citronovou kůrou.",
+  "about": [
+    "Domácí nudle nepotřebují strojek, jen válek a ostrý nůž. Mouka, krupice a vejce dají těsto, které se po uvaření lehce lepí k omáčce a vystačí si s máslem a parmazánem.",
+    "Do trattorie nikdo nic neodveze, protože nic nevaří. Zato recept ti dá nudle za hodinu, tedy dřív, než by dorazil kdejaký skutečný kurýr."
+  ],
+  "price": 21900,
+  "image": "dish-tagliatelle-domani",
+  "recipe": "tagliatelle",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 710
+}

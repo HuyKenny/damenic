@@ -1,0 +1,20 @@
+{
+  "name": "Mleté maso s bramborami z pánve",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "main",
+  "section": "Těstoviny a brambory",
+  "description": "Směs vepřového a hovězího mletého masa s bramborami, paprikou a majoránkou z jedné pánve.",
+  "about": [
+    "Mleté maso s bramborami je jídlo, které se vždy povede. Kostky brambor se vaří přímo v paprikové šťávě, maso zhnědne a všechno se spojí v hustou pánev, na které se nic nemůže pokazit.",
+    "Jídelna Už Hotovo ho vydává už hotové, doma ho uděláš za čtyřicet minut. Tak je to zatím férová výměna."
+  ],
+  "price": 15900,
+  "image": "dish-mlete-maso-s-bramborami",
+  "recipe": "mlete-maso-s-bramborami",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "order": 920
+}

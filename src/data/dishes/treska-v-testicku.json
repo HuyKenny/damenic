@@ -1,0 +1,24 @@
+{
+  "name": "Treska v těstíčku s citronem",
+  "restaurant": "steakarna-rare-priste",
+  "kind": "main",
+  "section": "Ryby a mořské plody",
+  "description": "Kousky tresky v lehkém křupavém těstíčku, smažené dozlatova, s citronem.",
+  "about": [
+    "Treska v těstíčku je jednoduchá věc, která se snadno pokazí. Těstíčko musí být ledově studené, olej na 175 °C a ryba osušená a obalená v mouce. Pak se obalí tenkou křupavou kůrkou a uvnitř zůstane šťavnatá.",
+    "Steakárna Rare Příště ji nechá chvíli odpočinout, než ji podá. Tobě stačí 4 minuty v oleji a tácek papírových utěrek."
+  ],
+  "price": 25900,
+  "image": "dish-treska-v-testicku",
+  "recipe": "treska-v-testicku",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    4
+  ],
+  "order": 920
+}

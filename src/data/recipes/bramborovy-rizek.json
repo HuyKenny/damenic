@@ -1,0 +1,105 @@
+{
+  "title": "Bramborový řízek",
+  "keywords": [
+    "bramborový řízek",
+    "bramborové řízky",
+    "bramborový řízek recept",
+    "smažený bramborový řízek"
+  ],
+  "image": "dish-bramborovy-rizek",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Bramborový řízek je placka z nastrouhaných syrových brambor, česneku a majoránky, smažená dozlatova na tuku. Jde o bezmasou klasiku, která se podává s okurkou nebo zelím. Brambory se musí vymačkat, jinak se řízek při smažení rozpadne.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "oloupané, nastrouhané najemno"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 6,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 150,
+      "unit": "ml",
+      "note": "na smažení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory nastrouhej najemno a vymačkej je v čisté utěrce, aby byla směs bez vody. Šťávu nech chvíli usadit, škrob ze dna vrať do těsta."
+    },
+    {
+      "text": "Do brambor vmíchej vejce, česnek, mouku, majoránku, sůl a pepř. Těsto má být hustší než na bramboráky."
+    },
+    {
+      "text": "Na pánvi rozehřej olej na 170 °C. Těsto dávej po lžících, rozprostři na tloušťku 1 cm a vytvaruj kulatý řízek."
+    },
+    {
+      "text": "Smaž 4 až 5 minut z každé strany do zlatohnědé barvy, dokud brambory uvnitř nezměknou. Zkontroluj nožem, nesmí být syrové."
+    },
+    {
+      "text": "Řízky dej okapat na papírovou utěrku a podávej hned, s okurkou nebo kysaným zelím."
+    }
+  ],
+  "tips": [
+    "Mouky přidávej opatrně, víc mouky znamená tužší řízek.",
+    "Pánev nepřeplňuj, řízky se pak dusí a nezezlátnou.",
+    "Brambory nastrouhej těsně před smažením, jinak ztmavnou."
+  ],
+  "substitutions": [
+    "Vejce lze nahradit lžící lněných semínek rozmíchaných ve 3 lžících vody.",
+    "Mouku nahraď bramborovým škrobem pro jemnější vnitřek.",
+    "Majoránku nahraď kmínem nebo sušeným česnekem."
+  ],
+  "faq": [
+    {
+      "q": "Proč se bramborový řízek rozpadá?",
+      "a": "Brambory jsou příliš vlhké nebo chybí pojivo. Vymačkej je a přidej mouku."
+    },
+    {
+      "q": "Jaké brambory na bramborový řízek?",
+      "a": "Ty, co se dobře strouhají, a mají víc škrobu, tedy moučné nebo polomoučné."
+    },
+    {
+      "q": "Dá se bramborový řízek upéct v troubě?",
+      "a": "Ano, potři ho olejem a peč při 220 °C asi 25 minut. Bude méně křupavý než smažený."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "title": "Smažené tvarohové placky s moučkovým cukrem",
+  "image": "dish-tvarohove-placky",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "tvarohové placky",
+    "tvarohové placky recept",
+    "smažené tvarohové placky",
+    "tvarohové placky na pánvi"
+  ],
+  "intro": "Tvarohové placky jsou měkké smažené placičky z tvarohu, vajec a mouky, které se jedí sladké s moučkovým cukrem a džemem. Vyjde asi 12 kusů o průměru 8 cm. Těsto je lepivé a nesmí se přemoukovat, jinak jsou placky suché; smaží se na středním plameni, aby se propekly.",
+  "ingredients": [
+    {
+      "ingredient": "tvaroh",
+      "amount": 250,
+      "unit": "g",
+      "note": "hladký nebo jemně rozdrobený",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g",
+      "note": "a trochu na vál",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 5,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 20,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 50,
+      "unit": "ml",
+      "note": "podle potřeby",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 150,
+      "unit": "ml",
+      "note": "na smažení",
+      "group": "Smažení"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "dzem-merunkovy",
+      "amount": 100,
+      "unit": "g",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V míse smíchej tvaroh, vejce, cukr, vanilkový cukr a špetku soli. Přidej mouku smíchanou s kypřicím práškem a zpracuj na měkké, mírně lepivé těsto. Když je moc husté, přidej lžíci mléka. Těsto nech 10 minut odpočinout."
+    },
+    {
+      "text": "Pracovní plochu lehce pomoukuj a těsto rozdělíš na 12 dílů. Každý rozválej nebo rozmáčkni na placku silnou asi půl centimetru, o průměru 8 cm."
+    },
+    {
+      "text": "Na široké pánvi zahřej olej asi na 2 cm výšky na 165 až 170 °C. Rozehřátý olej poznáš tak, že kousek těsta vhozený do něj hned pěnivě zasyčí, ale nezhnědne za pár vteřin."
+    },
+    {
+      "text": "Placky smaž na středním plameni 2 až 3 minuty z každé strany do zlatova. Vyndej je děrovanou lžící na papírovou utěrku, ať se zbaví přebytečného tuku."
+    },
+    {
+      "text": "Teplé placky posyp moučkovým cukrem a podávej s meruňkovým džemem. Nejlepší jsou ještě vlažné."
+    }
+  ],
+  "tips": [
+    "Olej nesmí být příliš horký: placky zvenku ztmavnou a uvnitř zůstanou syrové. Když tmavnou rychle, zmírni plamen.",
+    "Tvaroh vymačkej, jestli pouští vodu; vlhké těsto nejde válet a placky se při smažení trhají.",
+    "Placky nech po usmažení chvíli na papíru, až poté je posyp cukrem, aby se cukr nerozpustil.",
+    "Zbylé placky vydrží v lednici do druhého dne. Ohřej je v troubě na 160 °C asi 8 minut, aby opět zkřehly."
+  ],
+  "substitutions": [
+    "Hladkou mouku nahradíš polohrubou; placky budou o něco těžší.",
+    "Místo smažení v oleji je můžeš zlehka opéct na suché pánvi s trochou másla, budou méně křupavé.",
+    "Džem nahradíš ovocným pyré, čerstvými jahodami nebo zakysanou smetanou se skořicí."
+  ],
+  "faq": [
+    {
+      "q": "Proč se tvarohové placky rozpadají?",
+      "a": "Většinou je tvaroh příliš mokrý, nebo je v těstě málo mouky. Tvaroh okapej a přidej po lžících mouku, až se těsto dá tvarovat, ale pořád zůstává měkké."
+    },
+    {
+      "q": "Na jak horkém oleji se tvarohové placky smaží?",
+      "a": "Na 165 až 170 °C, tedy na středním plameni. Olej nesmí kouřit; při příliš vysoké teplotě placky ztmavnou a uvnitř zůstanou vlhké."
+    },
+    {
+      "q": "Dají se tvarohové placky péct v troubě?",
+      "a": "Ano, na 190 °C asi 18 až 20 minut na plechu s pečicím papírem, v půli otoč. Jsou méně křupavé než smažené, ale lehčí."
+    }
+  ]
+}

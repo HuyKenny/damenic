@@ -1,0 +1,22 @@
+{
+  "name": "Dalamánek se solí a kmínem",
+  "restaurant": "pekarna-zitra-upecem",
+  "kind": "side",
+  "section": "Máslové a slané",
+  "description": "Křupavý kynutý rohlík posypaný hrubou solí a kmínem.",
+  "about": [],
+  "price": 1900,
+  "image": "dish-dalamanek-zitra-upecem",
+  "recipe": "dalamanek",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 740
+}

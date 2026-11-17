@@ -1,0 +1,130 @@
+{
+  "title": "Hovězí na houbách",
+  "keywords": [
+    "hovězí na houbách",
+    "hovězí maso na houbách",
+    "hovězí s houbami",
+    "dušené hovězí se žampiony"
+  ],
+  "image": "dish-hovezi-na-houbach",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 120,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Hovězí na houbách je kostky hovězí plece dušené se žampiony a sušenými houbami do tmavé šťávy. Hovězí se musí dusit dvě hodiny, než změkne, a sušené houby dodají omáčce hloubku, kterou samotné žampiony nedají.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-plec",
+      "amount": 700,
+      "unit": "g",
+      "note": "na kostky 3 cm"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 400,
+      "unit": "g",
+      "note": "na čtvrtky"
+    },
+    {
+      "ingredient": "houby-susene",
+      "amount": 15,
+      "unit": "g",
+      "note": "namočené ve 200 ml teplé vody"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 250,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Sušené houby zalij 200 ml teplé vody a nech 20 minut změknout. Pak je vyjmi, nasekej a vodu přeceď přes jemné sítko."
+    },
+    {
+      "text": "V hrnci rozehřej 2 lžíce oleje a maso opékej po dávkách 8 minut, dokud není ze všech stran hnědé. Osol a opepři a vyjmi."
+    },
+    {
+      "text": "Do hrnce přidej cibuli a smaž 10 minut do zlatova. Vsyp mouku a papriku, promíchej a ihned zalij vývarem a přecezenou vodou z hub."
+    },
+    {
+      "text": "Vrať maso, přidej bobkový list, nasekané houby a česnek, přikryj a duš na mírném plameni 1 hodinu a 30 minut. Maso se musí dát rozlomit vidličkou."
+    },
+    {
+      "text": "Na pánvi opeč žampiony na zbytku oleje 5 až 6 minut, dokud nezhnědnou, přidej k masu a duš 15 minut. Dochuť majoránkou a solí."
+    }
+  ],
+  "tips": [
+    "Žampiony opeč zvlášť, jinak pustí vodu a šťáva bude vodová.",
+    "Moučku s paprikou nevaříme dlouho na sucho, jinak zhořkne. Zalij je ihned tekutinou.",
+    "Hrnec nech během dušení mírně pootevřený, pokud je šťáva řídká."
+  ],
+  "substitutions": [
+    "Hovězí plec nahraď kližkou, dusí se stejně dlouho.",
+    "Hovězí vývar nahraď vodou a půl lžičkou soli navíc."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho dusit hovězí na houbách?",
+      "a": "Kostky hovězí plece potřebují 1,5 až 2 hodiny mírného varu pod pokličkou. Žampiony přidej až v posledních 15 minutách."
+    },
+    {
+      "q": "Jaké hovězí maso je nejlepší na dušení?",
+      "a": "Plec, kližka nebo žebra. Jsou tučnější a mají vazivo, které se při dušení rozpustí a maso změkne."
+    },
+    {
+      "q": "Mohu použít jen žampiony bez sušených hub?",
+      "a": "Ano, ale chuť bude plošší. Sušené houby dodávají omáčce charakteristickou vůni, stačí jich 15 g."
+    }
+  ]
+}

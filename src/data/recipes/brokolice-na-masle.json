@@ -1,0 +1,102 @@
+{
+  "title": "Brokolice na másle",
+  "keywords": [
+    "brokolice na másle",
+    "brokolice na másle s česnekem",
+    "dušená brokolice na másle",
+    "brokolice jako příloha"
+  ],
+  "image": "dish-brokolice-na-masle",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 7,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Brokolice na másle je jednoduchá příloha, u které záleží na čase: růžičky se vaří jen 3 až 4 minuty, pak se zchladí a dochutí na másle s česnekem. Vyjde sytě zelená, pevná a nepřevařená.",
+  "ingredients": [
+    {
+      "ingredient": "brokolice",
+      "amount": 500,
+      "unit": "g",
+      "note": "na růžičky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.25,
+      "unit": "lzicka",
+      "note": "na dochucení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brokolici rozděl na stejně velké růžičky, tlusté stonky oloupej a nakrájej na kolečka."
+    },
+    {
+      "text": "Do velkého hrnce dej vodu, osol ji a přiveď k varu. Vař brokolici 3 až 4 minuty, dokud není pevná, ale snadno se propíchne."
+    },
+    {
+      "text": "Brokolici slij a ihned zchlaď v ledové vodě 30 sekund, aby zůstala zelená. Nech dobře okapat."
+    },
+    {
+      "text": "Na pánvi rozehřej máslo, přidej plátky česnek a opékej 30 sekund, ať nezhnědnou."
+    },
+    {
+      "text": "Přidej brokolici, promíchej a ohřívej 2 minuty. Dochuť solí, pepřem a šťávou z půl citronu a podávej hned."
+    }
+  ],
+  "tips": [
+    "Brokolice po vaření rychle tmavne, nepřekrývej ji a nenech ji stát v horké vodě.",
+    "Česnek přidávej na máslo až na konec, jinak ztvrdne a zahořkne.",
+    "Kolečka z oloupaných stonků jsou sladká a jemná, nevyhazuj je."
+  ],
+  "substitutions": [
+    "Máslo nahraď olivovým olejem.",
+    "Do másla můžeš přidat lžíci opečené strouhanky.",
+    "Citron nahraď kapkou balsamikového octa."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit brokolici?",
+      "a": "3 až 4 minuty od varu. Delší vaření ji změkčí, zešedne a ztratí chuť."
+    },
+    {
+      "q": "Proč brokolice zešedla?",
+      "a": "Byla příliš dlouho vařená. Zchlaď ji hned ledovou vodou a nepřidávej do ní kyselinu příliš brzy."
+    },
+    {
+      "q": "Hodí se zmrazená brokolice?",
+      "a": "Ano, vař ji 4 až 5 minut přímo z mrazu a pak postupuj stejně, jen ji dobře osuš."
+    }
+  ]
+}

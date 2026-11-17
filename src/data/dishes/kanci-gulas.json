@@ -1,0 +1,46 @@
+{
+  "name": "Kančí guláš",
+  "restaurant": "chata-pristi-sezona",
+  "kind": "main",
+  "section": "Zvěřina",
+  "description": "Tmavý guláš z kančí kýty na cibuli, jalovci a papričce, s houskovým knedlíkem.",
+  "about": [
+    "Divočák nemá kolem sebe tuk, takže guláš z něj stojí na cibuli a čase. Kostky kýty se pomalu dusí na rozdrceném jalovci a bobkovém listu, až se vlákna rozpadnou a omáčka zhoustne sama.",
+    "Chata Příští Sezona ho vaří jen v lese, který existuje pouze v názvu. Ty ho uvaříš doma za půl dne a kuchyni provoní víc než jakákoli lesní chata."
+  ],
+  "price": 26900,
+  "image": "dish-kanci-gulas",
+  "recipe": "kanci-gulas",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "houskovy",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "chleb",
+          "name": "Chléb",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "order": 910
+}

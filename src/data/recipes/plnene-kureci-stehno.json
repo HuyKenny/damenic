@@ -1,0 +1,122 @@
+{
+  "title": "Plněné kuřecí stehno",
+  "keywords": [
+    "plněné kuřecí stehno",
+    "plněná kuřecí stehna",
+    "kuřecí stehna plněná",
+    "vykostěné kuřecí stehno s nádivkou"
+  ],
+  "image": "dish-plnene-kureci-stehno",
+  "category": "kure",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 40,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Plněné kuřecí stehno je vykostěné stehno s kůží, naplněné bylinkovou nádivkou z rohlíku a pečené do zlatova. Vykostění není těžké, jen vyžaduje ostrý nůž. Stehno se peče při 190 °C a uvnitř musí mít aspoň 75 °C.",
+  "ingredients": [
+    {
+      "ingredient": "kureci-stehna-s-kosti",
+      "amount": 1000,
+      "unit": "g",
+      "note": "4 stehna, vykostěná"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "rohliky",
+      "amount": 2,
+      "unit": "ks",
+      "note": "starší, na kostky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 100,
+      "unit": "ml",
+      "note": "vlažné"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stehna vykošti: nožem nařízni maso podél kosti, kost vyřízni a kůži nech celou. Maso vevnitř osol a opepři."
+    },
+    {
+      "text": "Na másle osmahni cibuli do průsvitnosti. V míse smíchej rohlíky, vlažné mléko, cibuli, petržel, vejce a majoránku. Nádivka má být vláčná, ale držet pohromadě."
+    },
+    {
+      "text": "Do každého stehna dej 2 lžíce nádivky, nepřeplňuj ho. Stehno stoč do ucpaného balíčku s kůží navrch a zajisti ho párátkem nebo provázkem."
+    },
+    {
+      "text": "Troubu předehřej na 190 °C. Stehna polož kůží nahoru do pekáče, potři olejem a peč 40 až 45 minut. Uvnitř a v nádivce musí být aspoň 75 °C."
+    },
+    {
+      "text": "Vyndej, nech 5 minut odpočinout a podávej s bramborami nebo kyselým zelím."
+    }
+  ],
+  "tips": [
+    "Kosti nevyhazuj, uvař z nich vývar nebo je dej do pekáče pod stehna.",
+    "Plnku vždycky nech vychladnout, teplá nádivka se do rolády špatně vkládá.",
+    "Kůži před pečením potři solí, bude křupavější."
+  ],
+  "substitutions": [
+    "Rohlíky nahraď 100 g strouhanky a navlhči ji mlékem.",
+    "Nádivku obohať 80 g nakrájené šunky nebo restovaných žampionů.",
+    "Vykostěná stehna lze nahradit prsy, ale peč je jen 30 minut."
+  ],
+  "faq": [
+    {
+      "q": "Jak vykostit kuřecí stehno?",
+      "a": "Rozřízni maso podél kosti, odděl ho od kloubu a kost vyřízni. Kůži nech na místě a nařízni jen maso."
+    },
+    {
+      "q": "Jak dlouho péct plněné kuřecí stehno?",
+      "a": "Při 190 °C asi 40 až 45 minut. Teploměr zapíchnutý do nádivky i masa má ukázat aspoň 75 °C."
+    },
+    {
+      "q": "Dají se koupit stehna už vykostěná?",
+      "a": "Ano, v obchodě bývají vykostěná stehna s kůží. Ušetříš práci a plnění i pečení je stejné."
+    }
+  ]
+}

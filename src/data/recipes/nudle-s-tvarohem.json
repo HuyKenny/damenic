@@ -1,0 +1,106 @@
+{
+  "title": "Nudle s tvarohem a máslem",
+  "image": "dish-nudle-s-tvarohem",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 12,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "keywords": [
+    "nudle s tvarohem",
+    "nudle s tvarohem recept",
+    "sladké nudle s tvarohem",
+    "nudle s tvarohem a máslem"
+  ],
+  "intro": "Nudle s tvarohem a máslem jsou sladké jídlo na dvacet minut: vaječné nudle, rozdrobený tvaroh, rozpuštěné máslo a moučkový cukr. Vyjde 4 porce. Těžké na tom není nic, jen se nudle nesmí převařit a máslo musí být rozpuštěné, ne připálené.",
+  "ingredients": [
+    {
+      "ingredient": "nudle-vajecne",
+      "amount": 300,
+      "unit": "g",
+      "note": "široké nebo střední",
+      "group": "Nudle"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "do vody na vaření",
+      "group": "Nudle"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 300,
+      "unit": "g",
+      "note": "suchý, rozdrobený",
+      "group": "Posyp"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Posyp"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Posyp"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "group": "Podávání"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml",
+      "note": "volitelně na polití",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve velkém hrnci přiveď k varu 3 l vody a osol ji lžičkou soli. Nudle vař podle návodu obvykle 6 až 8 minut, aby zůstaly al dente, a slij je na cedník."
+    },
+    {
+      "text": "Tvaroh rozdrob vidličkou do jemných drobků; když je vlhký, jemně ho vymačkej v utěrce. Smíchej ho s moučkovým a vanilkovým cukrem."
+    },
+    {
+      "text": "V hrnci nebo hlubší pánvi rozpusť máslo na mírném plameni, nesmí zhnědnout. Do másla vlož slité nudle a promíchej, ať se obalí."
+    },
+    {
+      "text": "Nudle rozděl na talíře, bohatě posyp tvarohovou směsí a podle chuti zakápni teplou smetanou na vaření. Podávej hned, dokud jsou nudle teplé a máslo tekuté."
+    }
+  ],
+  "tips": [
+    "Nudle po uvaření nepropláchni, škrob na povrchu pomáhá máslu a tvarohu dobře přilnout.",
+    "Tvaroh posyp až na talíři; ve horkém hrnci by se slepil do hrudek.",
+    "Zbytky nudlí s tvarohem lze druhý den přepéct v zapékací misce s vajíčkem a trochou mléka.",
+    "Pro chuť přidej strouhanou citronovou kůru nebo trochu skořice."
+  ],
+  "substitutions": [
+    "Vaječné nudle nahradíš ploškami nebo tarhoňou; čas vaření se změní podle obalu.",
+    "Tvaroh nahradíš kvalitní rozdrobenou ricottou, případně strouhaným tvarohem.",
+    "Máslo nahradíš rostlinným margarínem; smetanu vynecháš."
+  ],
+  "faq": [
+    {
+      "q": "Jaké nudle se hodí k tvarohu?",
+      "a": "Nejlépe vaječné, široké nebo střední, které se při vaření nerozpadnou a unesou máslo. Domácí nudle z vajec a mouky jsou ideální, ale funguje i kvalitní sušená varianta."
+    },
+    {
+      "q": "Jak dlouho se nudle vaří, aby nebyly rozměklé?",
+      "a": "Podle balení 6 až 8 minut. Posledních 30 sekund je zkus ochutnat a slij je, když jsou na skus ještě trochu pevné; dojdou v horkém másle."
+    },
+    {
+      "q": "Dají se nudle s tvarohem ohřát?",
+      "a": "Ano, na pánvi s lžící másla a trochou mléka. Tvaroh přidej až na talíři, aby nezůstal vařený a nezačal pouštět vodu."
+    }
+  ]
+}

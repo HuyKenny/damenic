@@ -1,0 +1,24 @@
+{
+  "name": "Vepřová panenka na kari s rýží",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Polední menu",
+  "description": "Kolečka vepřové panenky v jemné kari smetaně se zeleninou, na dušené dlouhozrnné rýži.",
+  "about": [
+    "Panenka je libová, jemná a vařit ji dlouho je chyba. Proto se kolečka opečou za pár minut, dojdou v omáčce z kari a smetany a podávají se s paprikou a mrkví na sypké rýži.",
+    "Jídelna Zítra Možná ji nabízí k poledni zítřka. Dnešek si uděláš sám za čtyřicet minut a nikdo nebude tvrdit, že je to příliš rychle."
+  ],
+  "price": 21900,
+  "image": "dish-veprova-panenka-s-ryzi",
+  "recipe": "veprova-panenka-s-ryzi",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 1,
+  "allergens": [
+    1,
+    7,
+    9
+  ],
+  "order": 920
+}

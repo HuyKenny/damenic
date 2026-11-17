@@ -1,0 +1,121 @@
+{
+  "title": "Fettuccine Alfredo",
+  "keywords": [
+    "fettuccine alfredo",
+    "fettuccine alfredo recept",
+    "alfredo omáčka",
+    "těstoviny alfredo"
+  ],
+  "image": "dish-fettuccine-alfredo-niente",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 10,
+  "cookMinutes": 12,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Fettuccine Alfredo je plochá těstovina v omáčce z másla, smetany a parmazánu, hotová za 20 minut. Omáčka se tvoří přímo na pánvi, a jestli bude hladká, rozhoduje teplota a čerstvě nastrouhaný parmazán.",
+  "ingredients": [
+    {
+      "ingredient": "fettuccine",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "prolisovaný, nepovinný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno nastrouhaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "čerstvě mletý",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaná",
+      "group": "Na posyp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve velkém hrnci přiveď k varu 3 litry osolené vody a fettuccine vař 1 minutu méně, než uvádí obal. Odlij 150 ml vody z vaření a těstoviny scedi."
+    },
+    {
+      "text": "V široké pánvi rozpusť na mírném plameni máslo. Pokud chceš česnek, nech ho 30 sekund prohřát, nesmí zhnědnout."
+    },
+    {
+      "text": "Přilij smetanu, přidej muškát a pepř. Nech ji 3 minuty tiše probublávat, dokud nezačne houstnout."
+    },
+    {
+      "text": "Pánev stáhni z plamene, vmíchej polovinu parmazánu a míchej, dokud se nerozpustí. Přidej fettuccine a 2 až 3 lžíce vody z vaření."
+    },
+    {
+      "text": "Těstoviny na pánvi 1 minutu převracej kleštěmi, aby je omáčka obalila. Posyp zbylým parmazánem a petrželkou a podávej hned."
+    }
+  ],
+  "tips": [
+    "Parmazán strouhej z kusu najemno a přidávej mimo prudký žár. Při příliš vysoké teplotě se sýr sráží do hrudek.",
+    "Voda z vaření omáčku vyleští a zahustí. Přidávej ji po lžících.",
+    "Alfredo je nejlepší čerstvé. Při ohřívání zhoustne a rozdělí se, přidej lžíci vody nebo mléka."
+  ],
+  "substitutions": [
+    "Smetanu ke šlehání nahradíš smetanou na vaření, omáčka bude lehčí.",
+    "Parmazán nahradí grana padano nebo pecorino.",
+    "K Alfredu se hodí kuřecí prsa opečená na másle, uvnitř 75 °C."
+  ],
+  "faq": [
+    {
+      "q": "Co je omáčka Alfredo?",
+      "a": "Je to omáčka z másla, smetany a parmazánu. Původní italská verze se dělá jen z másla, parmazánu a vody z vaření. Česká podoba se smetanou je bohatší."
+    },
+    {
+      "q": "Jak zabránit, aby se omáčka Alfredo srazila?",
+      "a": "Drž mírný plamen, parmazán přidávej mimo oheň a strouhej ho najemno. Nikdy omáčku s parmazánem nevař."
+    },
+    {
+      "q": "Který sýr do Alfredo omáčky?",
+      "a": "Nejlepší je parmazán, případně grana padano. Eidam nebo ementál se rozpustí hůř a omáčka bude lepivá."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "title": "Dalamánek",
+  "keywords": [
+    "dalamánek",
+    "dalamánek recept",
+    "domácí dalamánky",
+    "dalamánek kynuté pečivo"
+  ],
+  "image": "dish-dalamanek-zitra-upecem",
+  "category": "pekarna",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 40,
+  "cookMinutes": 22,
+  "waitMinutes": 90,
+  "waitLabel": "kynutí",
+  "difficulty": "střední",
+  "meal": "pecivo",
+  "intro": "Dalamánek je kynutý rohlík s křupavou kůrou posypanou solí a kmínem. Těsto z hladké mouky, mléka a droždí kyne 90 minut a peče se při vysoké teplotě. Z dávky vyjde 12 kusů.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 500,
+      "unit": "g",
+      "note": "a trochu na vál",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 21,
+      "unit": "g",
+      "note": "půl kostky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "note": "vlažná",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na potření",
+      "group": "Povrch"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "hrubá, na posyp",
+      "group": "Povrch"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Povrch"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozmíchej s cukrem a polovinou vlažného mléka a nech 10 minut vzejít, až se na povrchu objeví pěna."
+    },
+    {
+      "text": "Mouku smíchej se solí, přidej kvásek, zbylé mléko, vodu a olej. Těsto hnětej 10 minut, dokud není hladké a nelepí. Přikryj utěrkou a nech 60 minut kynout na teplém místě, než zdvojnásobí objem."
+    },
+    {
+      "text": "Těsto vyklop, rozděl na 12 dílů po zhruba 70 g a každý vyválej na provázek dlouhý 20 cm. Zahni konce dolů do tvaru malého rohlíku."
+    },
+    {
+      "text": "Rohlíky ulož na plech s pečicím papírem, přikryj a nech 30 minut kynout. Troubu předehřej na 220 °C (horkovzduch 200 °C)."
+    },
+    {
+      "text": "Rohlíky potři rozšlehaným vejcem a posyp solí a kmínem. Peč 20 až 22 minut, až jsou zlatohnědé a po poklepání na spodek duté. Nech je 10 minut vychladnout na mřížce."
+    }
+  ],
+  "tips": [
+    "Teplota mléka nesmí přesáhnout 40 °C, jinak droždí zahyne.",
+    "Pro křupavější kůru dej na dno trouby misku s vodou.",
+    "Upečené rohlíky zmrazíš. Oživíš je 5 minut v troubě při 180 °C."
+  ],
+  "substitutions": [
+    "Kmín vynecháš nebo nahradíš makem či sezamem.",
+    "Polohrubou mouku zastoupí hladká, rohlíky budou jemnější.",
+    "Čerstvé droždí nahradí 7 g sušeného (1 sáček)."
+  ],
+  "faq": [
+    {
+      "q": "Čím se liší dalamánek od rohlíku?",
+      "a": "Má podobné těsto, ale tradičně je tužší, křupavější a posypaný solí a kmínem. Je delší a vypadá jako malý chleba."
+    },
+    {
+      "q": "Jak dlouho vydrží dalamánek čerstvý?",
+      "a": "Nejlépe do druhého dne ve lněném sáčku. Starší oživíš krátkým pečením v troubě."
+    },
+    {
+      "q": "Proč mi těsto nekyne?",
+      "a": "Mléko bylo moc horké nebo studené, nebo je droždí staré. Voda by měla mít 35 °C, těsto kyne v teple bez průvanu."
+    }
+  ]
+}

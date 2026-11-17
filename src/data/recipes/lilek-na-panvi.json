@@ -1,0 +1,106 @@
+{
+  "title": "Lilek na pánvi",
+  "keywords": [
+    "lilek na pánvi",
+    "lilek na pánvi s česnekem",
+    "smažený lilek",
+    "opečený lilek"
+  ],
+  "image": "dish-lilek-na-panvi",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 12,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Lilek na pánvi je kostky lilku opečené do zlatova a dochucené česnekem a citronem. Lilek saje olej jako houba, proto se smaží po dávkách na pořádně rozpálené pánvi a je dobré ho krátce osolit, aby pustil vodu.",
+  "ingredients": [
+    {
+      "ingredient": "lilek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "asi 500 g, na kostky 2 cm"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "na odležení"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "svazek, nasekaná"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Lilek omyj a nakrájej na kostky o hraně 2 cm. Posyp ho lžičkou soli a nech 15 minut ležet v cedníku, aby pustil vodu. Potom ho osuš papírovou utěrkou."
+    },
+    {
+      "text": "Pánev rozehřej na vyšší teplotu, přidej polovinu oleje a polovinu lilku v jedné vrstvě. Smaž 5 až 6 minut a občas promíchej, aby zezlátl ze všech stran."
+    },
+    {
+      "text": "Hotový lilek přendej na talíř a stejně opeč druhou dávku s dalším olejem."
+    },
+    {
+      "text": "Veškerý lilek vrať do pánve, přidej plátky česneku a tymián a smaž 1 minutu, aby česnek zavoněl, ale nezhnědl."
+    },
+    {
+      "text": "Pokapej citronovou šťávou, opepři a posyp petrželkou. Dochuť solí jen opatrně, lilek je po solení už slaný."
+    }
+  ],
+  "tips": [
+    "Nepřidávej olej navíc, když lilek vypadá suchý. Radši přilij lžíci vody, změkne párou.",
+    "Čím větší lilek, tím víc semínek a hořkosti, mladší menší kusy chutnají lépe.",
+    "Česnek přidávej až na konec, na pánvi hoří rychle."
+  ],
+  "substitutions": [
+    "Olivový olej lze nahradit slunečnicovým, chuť bude neutrální.",
+    "Citron nahraď balsamikovým octem.",
+    "Tymián nahraď oreganem a přidej špetku chilli."
+  ],
+  "faq": [
+    {
+      "q": "Musí se lilek solit?",
+      "a": "Dnešní odrůdy nejsou hořké, ale solení omezuje nasáknutí olejem a lilek pak zezlátne lépe."
+    },
+    {
+      "q": "Proč je lilek na pánvi mastný?",
+      "a": "Lilek saje olej. Pomůže silný žár, menší dávka a krátká zastávka na papírové utěrce."
+    },
+    {
+      "q": "Dá se lilek jíst za studena?",
+      "a": "Ano, jako příloha nebo součást antipasti. V lednici vydrží přikrytý 2 dny."
+    }
+  ]
+}

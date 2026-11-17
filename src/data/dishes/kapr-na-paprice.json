@@ -1,0 +1,48 @@
+{
+  "name": "Kapr na paprice se smetanou",
+  "restaurant": "hostinec-za-hranici-nic",
+  "kind": "main",
+  "section": "Balkán",
+  "description": "Kousky kapra dušené v paprikové omáčce s cibulí, paprikou a trochou smetany.",
+  "about": [
+    "Kapr na paprice je jídlo z dunajských řek, které se hodí kamkoli, kde je cibule a sladká paprika. Kousky ryby se vaří v hustší omáčce jen 15 minut, aby zůstaly celé a maso se odděluje od kosti.",
+    "Hostinec Za Hranicí Nic má hranice, které se nedají přejít, a tak ti kapra nepřiveze. Recept ale hranice nezná."
+  ],
+  "price": 22900,
+  "image": "dish-kapr-na-paprice",
+  "recipe": "kapr-na-paprice",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "nok",
+          "name": "Noky",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        },
+        {
+          "id": "testoviny",
+          "name": "Těstoviny",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 1,
+  "allergens": [
+    4,
+    7,
+    1
+  ],
+  "order": 910
+}

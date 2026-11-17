@@ -1,0 +1,115 @@
+{
+  "title": "Celerová polévka",
+  "keywords": [
+    "celerová polévka",
+    "celerová polévka recept",
+    "krémová celerová polévka",
+    "polévka z celeru"
+  ],
+  "image": "dish-celerova-polevka-naberacka",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Celerová polévka je hladká krémová polévka z kořenového celeru, brambory a cibule. Celer se vaří v zeleninovém vývaru do změknutí a rozmixuje, smetana se přidává na konci. Hotová je za 40 minut.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 500,
+      "unit": "g",
+      "note": "oloupaný, na kostky 2 cm"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 1000,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozpusť máslo a na středním plameni 4 minuty duš cibuli, dokud nezesklovatí. Nesmí zhnědnout."
+    },
+    {
+      "text": "Přidej celer a brambory, promíchej a nech 2 minuty restovat. Zalij vývarem, přidej bobkový list a přiveď k varu."
+    },
+    {
+      "text": "Polévku přikryj a vař na mírném plameni 20 minut, dokud celer nezměkne a nerozpadá se na vidličce. Bobkový list vyndej."
+    },
+    {
+      "text": "Polévku rozmixuj ponorným mixérem do hladkého krému. Je-li příliš hustá, dolij trochu vývaru nebo vody."
+    },
+    {
+      "text": "Přilij smetanu a zahřej, ale nevař. Dochuť solí, pepřem a muškátem. Podávej s krutony."
+    }
+  ],
+  "tips": [
+    "Celer se loupe tlustě, kůže pod ní je hořká.",
+    "Brambor polévku zahustí a zjemní, takže není nutná mouka.",
+    "Pokud chceš aromatičtější polévku, opeč celer předem 10 minut v troubě na 200 °C."
+  ],
+  "substitutions": [
+    "Smetanu nahradí mléko nebo rostlinný nápoj. Polévka bude lehčí.",
+    "Vývar můžeš udělat z vody a bujónové kostky.",
+    "Máslo zastoupí olivový olej."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří celer v polévce?",
+      "a": "Celer na kostky 2 cm potřebuje 20 až 25 minut. Je hotový, když se dá rozmačkat vidličkou."
+    },
+    {
+      "q": "Jak zbavit celerovou polévku hořké chuti?",
+      "a": "Celer řádně oloupej, hořkost sídlí těsně pod slupkou. Případně přidej špetku cukru nebo trochu smetany."
+    },
+    {
+      "q": "Dá se polévka zmrazit?",
+      "a": "Bez smetany ano, vydrží 2 měsíce. Smetanu přidej až po rozmražení při ohřevu."
+    }
+  ]
+}

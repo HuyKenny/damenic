@@ -1,0 +1,17 @@
+{
+  "name": "Kuře na pivu",
+  "kind": "main",
+  "section": "Kuře",
+  "price": 26900,
+  "recipe": "kure-na-pivu",
+  "vegetarian": false,
+  "order": 914,
+  "description": "Půlené kuře pečené v pekáči na pivu a cibuli, kůže křupe.",
+  "about": [
+    "Kuře na pivu patří k hospodským klasikám, u kterých je důležitější kůže než příloha. Pivo na dně pekáče vytváří páru, maso zůstane šťavnaté a povrch, který z druhé strany suší horký vzduch, vyjde zlatý a křupavý.",
+    "Doma ho upeč na světlém pivu, nebo na vývaru, když pivo nechceš. Pec je tu prázdná, kuře nikam nepoletí, ale recept je opravdový."
+  ],
+  "restaurant": "bistro-uletelo",
+  "image": "dish-kure-na-pivu",
+  "allergens": []
+}

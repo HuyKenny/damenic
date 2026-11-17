@@ -1,0 +1,17 @@
+{
+  "name": "Mleté kuřecí se zeleninou",
+  "kind": "main",
+  "section": "Z pánve",
+  "price": 17900,
+  "recipe": "mlete-kureci-maso-se-zeleninou",
+  "vegetarian": false,
+  "order": 914,
+  "description": "Opečené mleté kuře s cuketou, mrkví a paprikou v rajčatové omáčce.",
+  "about": [
+    "Mleté kuřecí se zeleninou je pánev pro dny, kdy nemáš náladu na složitosti. Maso se opeče, zelenina se přidá a všechno se spojí v rajčatové omáčce, která se vaří jen pár minut.",
+    "Hotové je za čtyřicet minut a hodí se k čemukoli, co máš doma. Taška je prázdná, ale pánev ne."
+  ],
+  "restaurant": "jidelna-uz-hotovo",
+  "image": "dish-mlete-kureci-maso-se-zeleninou",
+  "allergens": []
+}

@@ -1,0 +1,130 @@
+{
+  "title": "Hlívový guláš",
+  "keywords": [
+    "hlívový guláš",
+    "hlívový guláš recept",
+    "guláš z hlívy ústřičné",
+    "bezmasý guláš z hlívy"
+  ],
+  "image": "dish-hlivovy-gulas",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Hlívový guláš je bezmasý guláš z hlívy ústřičné, který se vaří půl hodiny a svým vláknitým masitým charakterem připomíná klasický hovězí. Aby nebyl vodnatý, hlíva se nejdřív nadrobno natrhá a opeče dozlatova na pánvi.",
+  "ingredients": [
+    {
+      "ingredient": "hliva-ustricova",
+      "amount": 600,
+      "unit": "g",
+      "note": "natrhaná na proužky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 300,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kostičky 1,5 cm"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hlívu natrhej rukama na proužky silné asi 1 cm. Na velké suché pánvi ji opékej po dávkách 6 až 8 minut, dokud nepustí vodu a nezhnědne. Přendej stranou."
+    },
+    {
+      "text": "V hrnci rozehřej olej, přidej cibuli a na středním plameni smaž 12 minut, dokud nezezlátne. Přidej mrkev a krátce osmahni."
+    },
+    {
+      "text": "Hrnec sundej z plotny, vmíchej papriku, protlak, kmín a česnek. Hned zalij vývarem a přidej brambory."
+    },
+    {
+      "text": "Vař pod pokličkou na mírném plameni 15 minut, pak přidej opečenou hlívu a vař dalších 10 minut, dokud brambory nezměknou a guláš nezhoustne."
+    },
+    {
+      "text": "Dochuť majoránkou, solí a pepřem. Podávej s chlebem nebo houskovým knedlíkem."
+    }
+  ],
+  "tips": [
+    "Hlívu neumývej pod vodou, jen ji otři. Jinak se nasákne a nezhnědne.",
+    "Opékej ji v několika dávkách, aby na pánvi nebyla nacpaná, jinak se spíš dusí, než opéká.",
+    "Nejlíp chutná druhý den, kdy se chutě spojí."
+  ],
+  "substitutions": [
+    "Hlívu můžeš nahradit žampiony nebo kmotrou, doba opékání bude kratší.",
+    "Zeleninový vývar nahraď vodou a zvyš množství soli o půl lžičky."
+  ],
+  "faq": [
+    {
+      "q": "Proč je hlívový guláš vodnatý?",
+      "a": "Hlíva obsahuje hodně vody. Nejdřív ji opeč na suché pánvi, ať pustí tekutinu a zhnědne, a teprve potom ji přidej do guláše."
+    },
+    {
+      "q": "Je hlívový guláš bezmasý?",
+      "a": "Ano, je to čistě rostlinné jídlo. Hlíva je vláknitá a texturou se podobá masu."
+    },
+    {
+      "q": "Jak dlouho vydrží hlívový guláš v lednici?",
+      "a": "V uzavřené nádobě 3 dny. Před jídlem ho prohřej do varu."
+    }
+  ]
+}

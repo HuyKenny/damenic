@@ -1,0 +1,47 @@
+{
+  "name": "Vepřové na houbách",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "main",
+  "section": "Z pánve",
+  "description": "Plátky vepřové krkovice dušené se žampiony a cibulí, ke kterým patří knedlík.",
+  "about": [
+    "Tohle jídlo vzniklo z jedné prosté úvahy: když je v lednici maso a v misce houby, nemusí se rozhodovat. Krkovice se opeče dozlatova, houby pustí vodu a dohromady vytvoří šťávu, kterou chceš nabrat chlebem.",
+    "Jídelna Uz Hotovo slibuje rychlost, ale tohle se rychle dělat nedá, protože dušení trvá tři čtvrtě hodiny. Zato je recept v pořádku a hrnec ti odpustí všechno, jen ne spálenou cibuli."
+  ],
+  "price": 18900,
+  "image": "dish-veprove-na-houbach",
+  "recipe": "veprove-na-houbach",
+  "optionGroups": [
+    {
+      "id": "priloha",
+      "name": "Příloha",
+      "type": "single",
+      "required": true,
+      "options": [
+        {
+          "id": "houskovy",
+          "name": "Houskový knedlík",
+          "priceDelta": 0
+        },
+        {
+          "id": "ryze",
+          "name": "Dušená rýže",
+          "priceDelta": 0
+        },
+        {
+          "id": "brambory",
+          "name": "Vařené brambory",
+          "priceDelta": 0
+        }
+      ]
+    }
+  ],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 910
+}

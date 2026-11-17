@@ -1,0 +1,116 @@
+{
+  "title": "Těstoviny s brokolicí",
+  "keywords": [
+    "těstoviny s brokolicí",
+    "těstoviny s brokolicí a česnekem",
+    "těstoviny s brokolicí a parmazánem",
+    "brokolice s těstovinami"
+  ],
+  "image": "dish-testoviny-s-brokolici-pozitri",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 10,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Těstoviny s brokolicí a česnekem jsou jednoduchý oběd z jednoho hrnce a jedné pánve. Brokolice se vaří spolu s těstovinami a pak se rozmačká do omáčky, takže nepotřebuješ smetanu.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 300,
+      "unit": "g",
+      "note": "orecchiette, penne nebo fusilli",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredient": "brokolice",
+      "amount": 400,
+      "unit": "g",
+      "note": "růžičky a nadrobno nakrájený stonek",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "na plátky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "kůra a šťáva",
+      "group": "Omáčka"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V osolené vroucí vodě vař těstoviny o 4 minuty kratší dobu, než uvádí obal. Pak do hrnce přidej brokolici a vař všechno společně ještě 4 minuty, dokud brokolice nezměkne."
+    },
+    {
+      "text": "Před scezením odlij 200 ml vody z vaření. Těstoviny s brokolicí scedi."
+    },
+    {
+      "text": "Na pánvi nahřej na středním plameni olej s česnekem a chilli. Smaž 2 až 3 minuty, česnek má jen světle zezlátnout."
+    },
+    {
+      "text": "Přidej těstoviny s brokolicí a 100 ml vody z vaření. Vařečkou brokolici rozmačkej a míchej 2 minuty, dokud nevznikne hutná krémová omáčka. V případě potřeby dolij zbytek vody."
+    },
+    {
+      "text": "Stáhni z ohně, vmíchej citronovou kůru, šťávu a parmazán. Dosol a podávej."
+    }
+  ],
+  "tips": [
+    "Brokolice se má rozpadat, proto ji nevytahuj za tuhou. Rozmačkaná povaří omáčku.",
+    "Stonek brokolice nevyhazuj. Oloupaný a nakrájený na tenké plátky se uvaří stejně rychle jako růžičky.",
+    "Česnek hlídej, tmavě hnědý je hořký. Raději ho přidej do chladnějšího oleje."
+  ],
+  "substitutions": [
+    "Pro slanější chuť přidej 4 ančovičky rozpuštěné v oleji, jídlo pak ale už není vegetariánské.",
+    "Parmazán nahradí pecorino nebo strouhaný tvrdý eidam.",
+    "Chilli vločky vynech, pokud jídlo budou jíst děti."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit brokolici k těstovinám?",
+      "a": "Přidej ji do hrnce 4 minuty před koncem vaření těstovin. Mrazená brokolice potřebuje 5 minut a rozpadne se lépe."
+    },
+    {
+      "q": "Jde použít mraženou brokolici?",
+      "a": "Ano, nemusíš ji rozmrazovat. Vař ji s těstovinami 5 až 6 minut, a pak ji rozmačkej."
+    },
+    {
+      "q": "Jak z těstovin s brokolicí udělat sytější jídlo?",
+      "a": "Přidej opečené kousky kuřecích prsou nebo opraženou slaninu a nech si 100 ml vody na zjemnění omáčky."
+    }
+  ]
+}

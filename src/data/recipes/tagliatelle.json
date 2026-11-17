@@ -1,0 +1,127 @@
+{
+  "title": "Domácí tagliatelle s máslem a parmazánem",
+  "keywords": [
+    "tagliatelle",
+    "domácí tagliatelle",
+    "tagliatelle recept",
+    "tagliatelle s máslem a parmazánem"
+  ],
+  "image": "dish-tagliatelle-domani",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 45,
+  "cookMinutes": 5,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Domácí tagliatelle jsou široké vaječné nudle z mouky, krupice a vajec, které se uvaří za 2 až 3 minuty. Těsto se válí nožem nebo válečkem a nudle se krájejí ručně, takže nepotřebuješ strojek. Podávají se s máslem, parmazánem a citronovou kůrou.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g",
+      "note": "a trochu na vál",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "krupice",
+      "amount": 100,
+      "unit": "g",
+      "note": "hrubá, na vál i do těsta",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "velikost M",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 50,
+      "unit": "g",
+      "note": "najemno nastrouhaný",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "jen kůra",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "čerstvě mletý",
+      "group": "K podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku s krupicí a solí nasyp na vál, uprostřed udělej důlek a rozklepni do něj vejce. Vidličkou je rozmíchej a postupně zapracuj mouku, pak těsto 8 až 10 minut hnětej do hladké pružné kuličky."
+    },
+    {
+      "text": "Těsto zabal do fólie a nech 30 minut odpočinout při pokojové teplotě."
+    },
+    {
+      "text": "Rozděl těsto na dvě poloviny, jednu nech zabalenou a druhou vyválej na tloušťku asi 1,5 mm do obdélníku. Prach po obou stranách trochou krupice, ať se nelepí."
+    },
+    {
+      "text": "Plát zlehka sroluj a nakrájej na nudle široké asi 7 mm. Rozvaleň je rukama a nech 5 minut oschnout na pomoučené ploše. Stejně postupuj s druhou polovinou."
+    },
+    {
+      "text": "V hodně osolené vroucí vodě vař tagliatelle 2 až 3 minuty, dokud nevyplavou a nejsou al dente. Odlij si 100 ml vody z vaření."
+    },
+    {
+      "text": "Na pánvi rozpusť máslo, přidej nudle, 3 lžíce vody z vaření, parmazán, citronovou kůru a pepř. Promíchej 30 sekund a podávej."
+    }
+  ],
+  "tips": [
+    "Těsto má být pevné, ne lepivé. Při lepení posyp krupicí, při drobení dolij po lžičce vody.",
+    "Nudle krájej rovnoměrně, jinak se nesvaří stejně.",
+    "Neuvařené nudle ve hnízdech zamraz na plechu a vař je rovnou z mrazáku 4 minuty."
+  ],
+  "substitutions": [
+    "Krupici nahradíš další hladkou moukou, nudle budou měkčí.",
+    "Máslo můžeš vyměnit za olivový olej a česnek.",
+    "K tagliatelle se hodí i boloňská omáčka nebo houbová omáčka."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří čerstvé tagliatelle?",
+      "a": "Čerstvé 2 až 3 minuty od vyplavání. Sušené podle obalu, obvykle 8 až 10 minut."
+    },
+    {
+      "q": "Čím se liší tagliatelle od fettuccine?",
+      "a": "Tagliatelle jsou nudle z vaječného těsta široké asi 6 až 8 mm. Fettuccine jsou o něco užší a podobné. V praxi se dají zaměnit."
+    },
+    {
+      "q": "Jak uchovat nakrájené nudle?",
+      "a": "Nech je oschnout 30 minut ve hnízdech a ulož do uzavřené krabičky do lednice na 1 den, nebo je zamraz."
+    }
+  ]
+}

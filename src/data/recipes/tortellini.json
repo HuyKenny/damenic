@@ -1,0 +1,142 @@
+{
+  "title": "Tortellini s ricottou a špenátem",
+  "keywords": [
+    "tortellini",
+    "tortellini recept",
+    "domácí tortellini",
+    "tortellini s ricottou"
+  ],
+  "image": "dish-tortellini-domani",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 75,
+  "cookMinutes": 10,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "náročnější",
+  "meal": "hlavni",
+  "intro": "Domácí tortellini jsou malé plněné těstoviny z vaječného těsta s náplní z ricotty a špenátu. Je to pomalejší práce, ale těsto se jen zamísí, odpočine, vyválí a plní. Uvaří se za 3 až 4 minuty a stačí k nim máslo s parmazánem.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "note": "a trochu na vál",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "velikost M",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "ricotta",
+      "amount": 200,
+      "unit": "g",
+      "note": "dobře okapaná",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "spenat-mrazeny",
+      "amount": 150,
+      "unit": "g",
+      "note": "rozmrazený a pořádně vymáčknutý",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 50,
+      "unit": "g",
+      "note": "najemno nastrouhaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na vaření",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "group": "K podávání"
+    },
+    {
+      "ingredient": "parmazan",
+      "amount": 30,
+      "unit": "g",
+      "note": "na posyp",
+      "group": "K podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku vysyp na vál s důlkem uprostřed, přidej vejce a sůl a vidličkou je rozmíchej do mouky. Těsto zpracuj rukama a 8 minut ho hnětej do hladké kuličky. Pokud je drobivé, přidej po lžičce vody."
+    },
+    {
+      "text": "Těsto zabal do fólie a nech ho 30 minut odpočinout při pokojové teplotě. Uvolní se lepek a bude se dobře válet."
+    },
+    {
+      "text": "Do špenátu vmíchej ricottu, parmazán, muškát a pepř. Špenát musí být vymáčknutý, jinak bude náplň tekutá. Nasol až po ochutnání."
+    },
+    {
+      "text": "Těsto rozděl na 4 díly (zbytek nech zabalený) a každý vyvaluj na 1 mm tenký plát. Nakrájej ho na čtverce 5 × 5 cm."
+    },
+    {
+      "text": "Doprostřed každého čtverce dej kávovou lžičku náplně. Okraj potři vodou, čtverec přelož na trojúhelník a okraje pevně přitiskni. Dva konce trojúhelníku ovinuj kolem prstu a slep je k sobě."
+    },
+    {
+      "text": "Tortellini vař v hodně osolené vroucí vodě 3 až 4 minuty, dokud nevyplavou a těsto není měkké. Vař po částech, ať se nelepí."
+    },
+    {
+      "text": "Na pánvi rozpusť máslo, přidej 3 lžíce vody z vaření a tortellini v másle převal. Posyp parmazánem a podávej."
+    }
+  ],
+  "tips": [
+    "Rozválené a nenaplněné těsto přikryj vlhkou utěrkou, jinak vyschne a nepůjde slepit.",
+    "Okraje potírej jen troškou vody. Příliš vody těsto rozmočí.",
+    "Hotové tortellini rozlož na pomoučený talíř a zamraz. Po tuhnutí je přesyp do sáčku a vař přímo z mrazáku 5 minut."
+  ],
+  "substitutions": [
+    "Ricottu nahradí tvaroh, který necháš okapat v sítu.",
+    "Špenát zastoupí 100 g jemně nakrájeného mangoldu nebo kopřiv, krátce spařených.",
+    "Máslo můžeš nahradit rajčatovou omáčkou."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří tortellini?",
+      "a": "Čerstvé domácí tortellini 3 až 4 minuty od vyplavání. Mražené z mrazáku 5 až 6 minut. Kupované sušené podle návodu na obalu."
+    },
+    {
+      "q": "Proč se tortellini při vaření rozpadají?",
+      "a": "Většinou nejsou dobře slepené nebo mají mokrou náplň. Okraje pevně zmáčkni a vymáčkni špenát i ricottu."
+    },
+    {
+      "q": "Jak dlouho se dá domácí těsto skladovat?",
+      "a": "Zabalené těsto vydrží v lednici 24 hodin. Hotové tortellini se zamrazí a vydrží 2 měsíce."
+    }
+  ]
+}
