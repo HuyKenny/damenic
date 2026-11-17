@@ -1,0 +1,22 @@
+{
+  "name": "Vejce natvrdo s pažitkou a toastem",
+  "restaurant": "na-lacno",
+  "kind": "main",
+  "section": "Brunch",
+  "description": "Dvě vejce natvrdo, rozpůlená, s pažitkou, solí a opečeným kváskovým toastem.",
+  "about": [
+    "Vejce natvrdo jsou nejjednodušší jídlo na světě a přesto se jich spousta kazí. Příliš dlouho vařená mají gumový bílek a zelený okraj žloutku, příliš krátce vařená se rozběhnou. Správný čas je deset minut a studená voda.",
+    "Kavárna je smyšlená a toast prázdný, ale hodinky si nastav doma. Deset minut je deset minut."
+  ],
+  "price": 11900,
+  "image": "dish-vejce-natvrdo-lacno",
+  "recipe": "vejce-natvrdo",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3
+  ],
+  "order": 490
+}

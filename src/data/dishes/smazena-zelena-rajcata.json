@@ -1,0 +1,22 @@
+{
+  "name": "Smažená zelená rajčata",
+  "restaurant": "burger-nikdy",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Kolečka zelených rajčat v kukuřičné krustě, smažená dozlatova.",
+  "about": [],
+  "price": 8900,
+  "image": "dish-smazena-zelena-rajcata",
+  "recipe": "smazena-zelena-rajcata",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 1002
+}

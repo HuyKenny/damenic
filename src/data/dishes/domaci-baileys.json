@@ -1,0 +1,20 @@
+{
+  "name": "Domácí smetanový likér 18+",
+  "restaurant": "stanek-zahrejem-zitra",
+  "kind": "drink",
+  "section": "Na zahřátí",
+  "description": "Sladký smetanový likér s whiskey, kakaem a kávou, jen pro dospělé 18+.",
+  "about": [],
+  "price": 11900,
+  "image": "dish-domaci-baileys",
+  "recipe": "domaci-baileys",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 999
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Záhorácký závitek",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Polední menu",
+  "description": "Vepřový závitek se slaninou a okurkou v paprikové omáčce.",
+  "about": [
+    "Záhorácký závitek je celé jídlo schované v jednom plátku. Uvnitř slanina, okurka a hořčice, venku šťavnaté vepřové a omáčka, která se roztéká po přílohě.",
+    "Jídelna Zítra Možná: ty rolky jsou doopravdy, jen ten oběd bude zítra."
+  ],
+  "price": 21900,
+  "image": "dish-zahoracky-zavitek",
+  "recipe": "zahoracky-zavitek",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 900,
+  "allergens": [
+    1,
+    9,
+    10
+  ]
+}

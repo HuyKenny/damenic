@@ -1,0 +1,23 @@
+{
+  "name": "Mrkvové muffiny",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Vláčné muffiny s mrkví, ořechy a rozinkami, pečené v papírovém košíčku.",
+  "about": [
+    "Mrkvové muffiny jsou sladké, ale ne příliš. Mrkev je v těstě jemně nastrouhaná, takže drží vlhkost i druhý den.",
+    "Doma stačí dvě misky a čtvrt hodiny práce. U nás nepotřebuješ ani to."
+  ],
+  "price": 5900,
+  "image": "dish-mrkvove-muffiny-nedortik",
+  "recipe": "mrkvove-muffiny",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "order": 110
+}

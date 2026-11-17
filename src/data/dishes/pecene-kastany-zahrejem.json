@@ -1,0 +1,21 @@
+{
+  "name": "Pečené kaštany s máslem a solí",
+  "restaurant": "stanek-zahrejem-zitra",
+  "kind": "main",
+  "section": "K tomu",
+  "description": "Horké kaštany z trouby, naříznuté, na máslu a se špetkou hrubé soli.",
+  "about": [
+    "Pečené kaštany patří k těm věcem, které voní podzimem dřív, než je uvidíš. Řez ve slupce není ozdoba, ale pojistka, aby kaštan v troubě nevybuchl. Pak už stačí trpělivost a horké prsty.",
+    "Stánek je smyšlený a nic se u něj nepeče, ale doma je to jedna trouba, plech a čtvrt hodiny. Nic jiného, než že počkáš."
+  ],
+  "price": 7900,
+  "image": "dish-pecene-kastany-zahrejem",
+  "recipe": "pecene-kastany",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 460
+}

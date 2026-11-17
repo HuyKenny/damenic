@@ -1,0 +1,21 @@
+{
+  "name": "Mexický guláš",
+  "restaurant": "chilli-bez-adresy",
+  "kind": "main",
+  "section": "Chilli a pánve",
+  "description": "Hovězí guláš s fazolemi, kukuřicí a uzenou paprikou. S rýží.",
+  "about": [
+    "Mexický guláš je to, co by se stalo, kdyby guláš odjel na prázdniny do Mexika a vrátil se s kmínem a fazolemi. Maso zůstává hovězí, jen papriky přibude a omáčka voní kouřem.",
+    "Chilli bez adresy hledá ulici, kterou nikdo neznal. Guláš si najdeš doma na plotně."
+  ],
+  "price": 20900,
+  "image": "dish-mexicky-gulas",
+  "recipe": "mexicky-gulas",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 2,
+  "order": 900,
+  "allergens": [
+    9
+  ]
+}

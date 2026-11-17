@@ -1,0 +1,117 @@
+{
+  "title": "Buchta na plech",
+  "keywords": [
+    "buchta na plech",
+    "buchta na plech recept",
+    "buchta na plech s ovocem",
+    "jednoduchá buchta na plech",
+    "buchta na plech s drobenkou"
+  ],
+  "image": "dish-buchta-na-plech-kolac-na-slib",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 10,
+  "activeMinutes": 25,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Buchta na plech s ovocem a lehkou drobenkou vyjde na 24 kousků a nasytí dětskou oslavu i nedělní návštěvu. Máslové těsto se šlehá, takže je nadýchané a unese vlhké ovoce. Základ je stejný, ať přidáš švestky, borůvky nebo rybíz.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "změklé, do těsta"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 180,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 350,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "svestky",
+      "amount": 600,
+      "unit": "g",
+      "note": "půlené, bez pecek"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 100,
+      "unit": "g",
+      "note": "na drobenku"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "na drobenku, studené"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "note": "na drobenku"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 165 °C), plech 25 × 35 cm vyložit pečicím papírem."
+    },
+    {
+      "text": "Změklé máslo šlehej s cukrem 4 minuty, přidávej po jednom vejci a každé zašlehej."
+    },
+    {
+      "text": "Střídavě vmíchej mouku smíchanou s práškem do pečiva a mléko, těsto má být husté, ale ne tuhé."
+    },
+    {
+      "text": "Těsto rozetři na plech, na povrch poskládej švestky řezem nahoru. Na drobenku zpracuj prsty studené máslo s moukou a cukrem a posyp jí ovoce."
+    },
+    {
+      "text": "Peč 30 až 35 minut dozlatova, špejle má vyjít suchá. Nech vychladnout na plechu a nakrájej."
+    }
+  ],
+  "tips": [
+    "Šťavnaté ovoce (jahody, třešně) před použitím obal ve 2 lžících mouky, nepropadne ke dnu.",
+    "Máslo i vejce musí mít pokojovou teplotu, jinak se těsto sráží.",
+    "Buchta se dobře mrazí, nakrájená vydrží v mrazáku měsíc."
+  ],
+  "substitutions": [
+    "Švestky nahraď 500 g borůvek, rybízu nebo nakrájených jablek.",
+    "Máslo na těsto lze nahradit 150 ml oleje, těsto bude vláčnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak velký plech na buchtu použít?",
+      "a": "Pro tuto dávku plech 25 × 35 cm. Na větší plech 30 × 40 cm udělej 1,5 násobek."
+    },
+    {
+      "q": "Proč ovoce klesne do těsta?",
+      "a": "Ovoce je příliš těžké a těsto řídké. Obal ho v mouce nebo ho překryj drobenkou."
+    },
+    {
+      "q": "Dá se buchta zmrazit?",
+      "a": "Ano, nakrájenou ji zabal po kouscích do fólie a mraz do 1 měsíce. Rozmrazuj při pokojové teplotě 2 hodiny."
+    }
+  ]
+}

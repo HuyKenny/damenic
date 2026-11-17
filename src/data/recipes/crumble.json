@@ -1,0 +1,108 @@
+{
+  "title": "Jablečný crumble",
+  "keywords": [
+    "crumble",
+    "crumble recept",
+    "jablečný crumble",
+    "crumble s jablky",
+    "jablečný crumble recept"
+  ],
+  "image": "dish-crumble-sladke-nic",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 35,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Crumble je teplý ovocný dezert s křupavou drobenkou z másla, mouky a ovesných vloček. Jablečná varianta se dělá za půl hodiny práce, vyjde pro 4 porce a nejlepší je teplá s kopečkem vanilkové zmrzliny. Drobenka musí zůstat hrudkovitá a mít studené máslo.",
+  "ingredients": [
+    {
+      "ingredient": "jablko",
+      "amount": 5,
+      "unit": "ks",
+      "note": "oloupaná, na kostky"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 50,
+      "unit": "g",
+      "note": "k jablkům"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "studené, na kostky"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "ovesne-vlocky",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mandle-platky",
+      "amount": 30,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 190 °C (horkovzduch 175 °C). Jablka promíchej s citronovou šťávou, cukrem a skořicí a rozlož do zapékací misky."
+    },
+    {
+      "text": "Mouku, trtinový cukr a vločky smíchej, přidej studené máslo a prsty rozemni na hrubé drobky, které drží v hrudkách. Přimíchej mandlové plátky."
+    },
+    {
+      "text": "Drobenku nasyp na jablka a netlač ji, má zůstat nakypřená."
+    },
+    {
+      "text": "Peč 30 až 35 minut dozlatova, jablka mají bublat u okrajů. Před podáváním nech 10 minut odpočinout."
+    }
+  ],
+  "tips": [
+    "Máslo musí být studené, jinak vznikne těsto místo drobenky.",
+    "Jablka nekrájej příliš najemno, zůstanou lehce pevná.",
+    "Drobenku lze připravit předem a uložit do lednice na 3 dny."
+  ],
+  "substitutions": [
+    "Jablka nahraď hruškami, rybízem nebo rebarborou.",
+    "Máslo nahraď rostlinným margarínem pro vegansky pojatou variantu a mouku bezlepkovou směsí."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi crumble a drobenkou na koláči?",
+      "a": "Crumble je samostatný teplý dezert v misce, kde ovoce a drobenka tvoří celé jídlo. Drobenka je jen vrstva na koláči."
+    },
+    {
+      "q": "Dá se crumble připravit předem?",
+      "a": "Ano, sestav ho a nech v lednici do druhého dne, upeč až před podáváním."
+    },
+    {
+      "q": "Čím crumble podávat?",
+      "a": "Nejčastěji vanilkovou zmrzlinou, šlehačkou nebo vanilkovým krémem."
+    }
+  ]
+}

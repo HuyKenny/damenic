@@ -1,0 +1,96 @@
+{
+  "title": "Ořechová náplň",
+  "keywords": [
+    "ořechová náplň",
+    "ořechová náplň recept",
+    "ořechová náplň do koláčů",
+    "ořechová náplň do záviňů"
+  ],
+  "image": "dish-orechova-napln",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 6,
+  "cookMinutes": 5,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Ořechová náplň z mletých vlašských ořechů, mléka a cukru je hustá, vláčná a drží tvar v koláčích i ve vánočním pečivu. Vařená je hotová za 10 minut. Z uvedené dávky naplníš asi 20 koláčů nebo jeden závin.",
+  "ingredients": [
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 200,
+      "unit": "g",
+      "note": "jemně mleté"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "kůra"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mléko s cukrem zahřej v rendlíku do rozpuštění cukru."
+    },
+    {
+      "text": "Vsyp mleté ořechy a skořici a za stálého míchání vař 4 až 5 minut, dokud směs nezhoustne."
+    },
+    {
+      "text": "Přidej máslo, vanilkový cukr a citronovou kůru, promíchej a nech zcela vychladnout asi 30 minut."
+    },
+    {
+      "text": "Hotovou náplň použij na koláče nebo záviny, před plněním ji promíchej."
+    }
+  ],
+  "tips": [
+    "Ořechy nech jemně namlít, nahrubo se v náplni drolí.",
+    "Staré ořechy hořknou. Ochutnej jeden ořech dřív, než je nameleš.",
+    "Vydrží 5 dní v lednici."
+  ],
+  "substitutions": [
+    "Vlašské ořechy lze nahradit stejným množstvím lískových nebo mandlí.",
+    "Mléko nahraď rostlinným nápojem a máslo olejem."
+  ],
+  "faq": [
+    {
+      "q": "Kolik ořechů na náplň?",
+      "a": "Na plech koláčů nebo 1 závin stačí 200 g mletých ořechů."
+    },
+    {
+      "q": "Dá se ořechová náplň mrazit?",
+      "a": "Ano, až 3 měsíce, rozmrazuj v lednici."
+    },
+    {
+      "q": "Proč je náplň tvrdá?",
+      "a": "Příliš málo mléka nebo se dlouho vařila. Při vaření ji míchej jen pár minut a ještě teplou pomalu rozmíchej s lžící mléka."
+    }
+  ]
+}

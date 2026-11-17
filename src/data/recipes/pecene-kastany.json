@@ -1,0 +1,82 @@
+{
+  "title": "Pečené kaštany",
+  "keywords": [
+    "pečené kaštany",
+    "pečené kaštany v troubě",
+    "jedlé kaštany",
+    "jak péct kaštany",
+    "pečené jedlé kaštany"
+  ],
+  "image": "dish-pecene-kastany-zahrejem",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 10,
+  "cookMinutes": 25,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek zabalených kaštanů",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Pečené jedlé kaštany z trouby jsou jednoduchý podzimní pokrm: nařízneš je, upečeš 20 až 25 minut při 220 °C a nahřáté olupeš. Nařezání slupky je povinné, jinak v troubě prasknou. Chutnají sladce a lehce oříškově.",
+  "ingredients": [
+    {
+      "ingredient": "kastany-jedle",
+      "amount": 500,
+      "unit": "g",
+      "note": "jedlé kaštany, ne koňské"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "hrubá mořská"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 220 °C (horkovzduch 200 °C). Kaštany opláchni a osuš."
+    },
+    {
+      "text": "Každý kaštan ostrým nožem nařízni křížem nebo podélně na zaoblené straně skrz tuhou slupku až do dužiny. Tím unikne pára a kaštany nevybuchnou."
+    },
+    {
+      "text": "Rozlož je řezem nahoru na plech do jedné vrstvy a peč 20 až 25 minut, dokud slupka nepopraská a dužina není měkká."
+    },
+    {
+      "text": "Horké kaštany zabal do vlhké utěrky na 10 minut, snáz se pak loupou a nevyschnou."
+    },
+    {
+      "text": "Loupej, dokud jsou teplé, slupku i vnitřní blanku. Podávej s máslem a špetkou soli."
+    }
+  ],
+  "tips": [
+    "Kaštany loupej teplé, vychladlé se loupou těžko.",
+    "Použij jedlé (pravé) kaštany. Koňské kaštany se nejedí.",
+    "Kaštany, které jsou při stisku prázdné nebo mají dírky po červech, vyhoď."
+  ],
+  "substitutions": [
+    "Máslo nahraď kapkou olivového oleje.",
+    "Kaštany můžeš dochutit skořicí a cukrem.",
+    "Místo trouby je upeč na pánvi se sklem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct kaštany v troubě?",
+      "a": "Při 220 °C 20 až 25 minut, podle velikosti. Slupka pukne a dužina je měkká."
+    },
+    {
+      "q": "Proč se kaštany musí naříznout?",
+      "a": "Pára zevnitř by je roztrhla. Řez umožní odvod páry a usnadní loupání."
+    },
+    {
+      "q": "Dají se pečené kaštany uchovat?",
+      "a": "Uvařené a oloupané vydrží v lednici 3 dny v uzavřené nádobě."
+    }
+  ]
+}

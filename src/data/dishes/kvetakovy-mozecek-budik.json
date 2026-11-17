@@ -1,0 +1,22 @@
+{
+  "name": "Květákový mozeček s pažitkou",
+  "restaurant": "odlozeny-budik",
+  "kind": "main",
+  "section": "Vejce",
+  "description": "Dušený květák na cibulce spojený vejci, posypaný pažitkou, s kouskem chleba.",
+  "about": [
+    "Květákový mozeček vypadá jako míchaná vejce, která se rozhodla, že budou zdravější, ale chutná daleko víc než by to zvenku zdálo. Květák změkne na másle, vejce ho spojí a pažitka přidá čerstvost.",
+    "Snídárna je smyšlená a budík odložený, ale pánev si poradí i s tím. Za dvacet minut máš oběd i snídani."
+  ],
+  "price": 13900,
+  "image": "dish-kvetakovy-mozecek-budik",
+  "recipe": "kvetakovy-mozecek",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7
+  ],
+  "order": 440
+}

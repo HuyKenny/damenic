@@ -1,0 +1,25 @@
+{
+  "name": "Jogurtová bábovka",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "description": "Třená bábovka z másla a bílého jogurtu, vláčná i druhý den.",
+  "about": [
+    "Jogurtová bábovka je klasika z kuchyně, kde se peče i v neděli bez důvodu. Jogurt dělá střídu jemnou a trochu navlhlou, vanilka drží chuť.",
+    "Máslo a jogurt pokojové teploty a nepřemíchat těsto, to je celé tajemství. Cukrárna je smyšlená, ale bábovka se z formy vyklopí doopravdy."
+  ],
+  "price": 8900,
+  "image": "dish-jogurtova-babovka",
+  "recipe": "jogurtova-babovka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 220
+}

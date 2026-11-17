@@ -1,0 +1,123 @@
+{
+  "title": "Nádivka do kuřete",
+  "keywords": [
+    "nádivka do kuřete",
+    "nádivka do kuřete z rohlíků",
+    "nádivka do kuřete recept",
+    "nádivka z rohlíků"
+  ],
+  "image": "dish-nadivka-do-kurete",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 110,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "priloha",
+  "intro": "Nádivka do kuřete z houskové směsi s kuřecími játry a petrželkou se peče uvnitř celého kuřete a vsákne jeho šťávu. Nádivka musí uvnitř dosáhnout 75 °C, jinak je nebezpečná. Poctivá klasika z rohlíků.",
+  "ingredients": [
+    {
+      "ingredient": "cele-kure",
+      "amount": 1600,
+      "unit": "g",
+      "note": "k plnění"
+    },
+    {
+      "ingredient": "rohliky",
+      "amount": 5,
+      "unit": "ks",
+      "note": "starší, na kostky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vlažné"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "kureci-jatra",
+      "amount": 150,
+      "unit": "g",
+      "note": "na drobné kousky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rohlíky nakrájené na kostky zalij vlažným mlékem a nech 10 minut nasáknout."
+    },
+    {
+      "text": "Na másle osmahni cibuli 4 minuty, přidej játra a smaž 3 minuty. Nech zchladnout a smíchej s rohlíky, vejci, petrželkou, majoránkou, solí a pepřem."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 170 °C). Kuře osol zevnitř i zvenku a naplň ho nádivkou jen z ¾."
+    },
+    {
+      "text": "Otvor zašij nebo zajisti špejlí. Peč na roštu 100 až 110 minut. Nádivka uvnitř musí mít aspoň 75 °C, maso se na stehně musí dát lehce hýbat."
+    },
+    {
+      "text": "Kuře nech 10 minut odpočinout, nádivku vyndej lžící a podávej s masem."
+    }
+  ],
+  "tips": [
+    "Plň jen z ¾, nádivka při pečení nabobtná.",
+    "Teploměr zasuň doprostřed nádivky, ne do masa. Je to nejistější část.",
+    "Zbylou nádivku upeč zvlášť ve formě 30 minut."
+  ],
+  "substitutions": [
+    "Bez jater: přidej 100 g nakrájené šunky.",
+    "Mléko nahraď kuřecím vývarem.",
+    "Rohlíky nahraď houskami."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct plněné kuře?",
+      "a": "Asi 100 až 110 minut při 180 °C, nádivka musí mít uvnitř 75 °C."
+    },
+    {
+      "q": "Dá se nádivka péct zvlášť?",
+      "a": "Ano, ve vymaštěné formě 30 až 35 minut při 180 °C."
+    },
+    {
+      "q": "Co když nádivka zůstane syrová?",
+      "a": "Pokud má méně než 75 °C, peč dál. Zbytek nikdy nejez."
+    }
+  ]
+}

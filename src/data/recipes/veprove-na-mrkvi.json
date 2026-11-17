@@ -1,0 +1,129 @@
+{
+  "title": "Vepřové na mrkvi",
+  "keywords": [
+    "vepřové na mrkvi",
+    "vepřové s mrkví",
+    "vepřové na mrkvi recept",
+    "dušená mrkev s vepřovým"
+  ],
+  "image": "dish-veprove-na-mrkvi",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 80,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Vepřové na mrkvi je dušené maso s mrkví, které se na konci zjemní zakysanou smetanou. Je to rychlá obědová klasika z plecka, bez složitých postupů, z jednoho hrnce a s omáčkou, která sama zhoustne rozdušenou mrkví.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-plecko",
+      "amount": 600,
+      "unit": "g",
+      "note": "na kostky 2,5 cm"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 600,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na oleji opeč kostky masa po dávkách, aby se nehromadily a nepustily vodu. Každou dávku opékej 4 minuty, osol a opepři."
+    },
+    {
+      "text": "Do hrnce přidej cibuli a opékej 5 minut. Vrať maso, přisyp kmín a majoránku a zalij 300 ml horké vody."
+    },
+    {
+      "text": "Přikryj a duš 40 minut na mírném plameni. Poté přidej mrkev a vař dalších 30 minut, dokud mrkev i maso nezměknou."
+    },
+    {
+      "text": "Mouku rozmíchej s lžící studené vody a zakysanou smetanou. Vlij do hrnce, promíchej a vař 5 minut. Přidej česnek."
+    },
+    {
+      "text": "Dochuť solí, posyp petrželkou a podávej s rýží, bramborami nebo knedlíkem."
+    }
+  ],
+  "tips": [
+    "Mrkev dávej později, uvaří se za 30 minut a nerozpadne se na kaši.",
+    "Zakysanou smetanu vmíchej mimo plamen, aby se nesrazila.",
+    "Čerstvá sladká mrkev dá omáčce lepší chuť než stará a vodnatá."
+  ],
+  "substitutions": [
+    "Plecko nahraď kýtou, dus ho ale 15 minut kratší dobu.",
+    "Zakysanou smetanu nahraď smetanou na vaření.",
+    "Bez lepku: mouku vynech a omáčku zahusti rozmačkanou mrkví."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho dusit vepřové na mrkvi?",
+      "a": "Maso 40 minut samotné a pak 30 minut s mrkví, dohromady zhruba 70 až 80 minut."
+    },
+    {
+      "q": "Dá se vepřové na mrkvi zamrazit?",
+      "a": "Ano, bez zakysané smetany vydrží 3 měsíce, smetanu přidej při ohřevu."
+    },
+    {
+      "q": "Čím zahustit omáčku?",
+      "a": "Moukou s vodou, zakysanou smetanou nebo rozmačkanou částí mrkve."
+    }
+  ]
+}

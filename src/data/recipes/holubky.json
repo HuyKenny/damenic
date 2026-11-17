@@ -1,0 +1,140 @@
+{
+  "title": "Holubky",
+  "keywords": [
+    "holubky",
+    "holubky recept",
+    "holubky v rajské omáčce",
+    "zelné holubky",
+    "holubky s masem a rýží"
+  ],
+  "image": "dish-holubky",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 45,
+  "cookMinutes": 60,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Holubky jsou závitky ze zelných listů plněné mletým masem a rýží, které se pomalu dusí v rajské omáčce. Z jedné hlavy zelí vyjde 10 až 12 kusů. Rozhoduje, jak jsou listy předvařené, aby se daly stočit a nepraskly, a pevné zavinutí.",
+  "ingredients": [
+    {
+      "ingredient": "zeli-bile",
+      "amount": 900,
+      "unit": "g",
+      "note": "1 menší hlava"
+    },
+    {
+      "ingredient": "hovezi-mlete",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "ryze-dlouhozrnna",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Z hlavy zelí vyřízni košťál. Hlavu vlož do vroucí osolené vody a postupně odebírej měkké vnější listy. Vař je asi 5 minut. Vezmi 10 až 12 listů a ztenči silné žebro."
+    },
+    {
+      "text": "Rýži uvař v osolené vodě 10 minut do poloměkka a nech vychladnout. Smíchej ji s oběma druhy mletého masa, cibulí, česnekem, vejcem, solí, pepřem, majoránkou a paprikou."
+    },
+    {
+      "text": "Na každý list dej 3 lžíce směsi. Zabal spodek, přehni boky a pevně stoč. Holubky skládej švem dolů těsně vedle sebe do hrnce."
+    },
+    {
+      "text": "Passatu smíchej s cukrem, bobkovým listem a 200 ml vody, nalij na holubky. Přikryj a duš na mírném plameni 55 až 60 minut. Maso uvnitř musí mít aspoň 75 °C."
+    },
+    {
+      "text": "Omáčku dochuť solí a cukrem. Podávej s vařenými bramborami nebo houskovým knedlíkem."
+    }
+  ],
+  "tips": [
+    "Zelí předvař jen krátce, jinak se listy trhají. Silné žebro pořádně seřízni.",
+    "Rýži předvař do poloměkka, v hrnci dojde. Syrová by vsála omáčku a zůstala tvrdá.",
+    "Holubky musí ležet těsně, aby se nerozbalily."
+  ],
+  "substitutions": [
+    "Mleté hovězí a vepřové lze nahradit jen vepřovým.",
+    "Bez masa: použij 300 g hub nebo čočky s rýží.",
+    "Passatu nahraď rajčatovým protlakem rozmíchaným ve vodě."
+  ],
+  "faq": [
+    {
+      "q": "Jak zabalit holubky, aby se nerozpadly?",
+      "a": "Zabal spodek, přehni boky a pevně stoč. Dej je švem dolů těsně vedle sebe."
+    },
+    {
+      "q": "Dá se holubky zamrazit?",
+      "a": "Ano, i s omáčkou vydrží 3 měsíce. Ohřívej pomalu."
+    },
+    {
+      "q": "Čím zahustit rajskou omáčku k holubkám?",
+      "a": "Moukou s vodou nebo ji nech chvíli vařit bez pokličky."
+    }
+  ]
+}

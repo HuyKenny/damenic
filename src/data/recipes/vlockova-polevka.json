@@ -1,0 +1,112 @@
+{
+  "title": "Vločková polévka",
+  "keywords": [
+    "vločková polévka",
+    "ovesná polévka",
+    "vločková polévka s vejcem",
+    "vločková polévka recept",
+    "polévka z ovesných vloček"
+  ],
+  "image": "dish-vlockova-polevka-lzice-zitra",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Vločková polévka je rychlá zeleninová polévka zahuštěná ovesnými vločkami a zjemněná rozšlehaným vejcem. Hotová je za půl hodiny z toho, co je v každé spíži. Vločky se vaří jen krátce, aby polévka zůstala jemná a nezhoustla na kaši.",
+  "ingredients": [
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kolečka nebo nastrouhaná"
+    },
+    {
+      "ingredient": "ovesne-vlocky",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 1000,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozšlehané"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozpusť máslo na středním plameni a 3 minuty na něm restuj cibuli, až zesklovatí. Přidej mrkev a restuj další 3 minuty."
+    },
+    {
+      "text": "Zalij vývarem, osol a přiveď k varu. Vař 8 minut pod pokličkou, dokud mrkev není skoro měkká."
+    },
+    {
+      "text": "Za stálého míchání zasyp vločky a vař 5 minut na mírném plameni. Vločky nabobtnají a polévka lehce zhoustne."
+    },
+    {
+      "text": "Hrnec stáhni z plotny. Vejce rozšlehej a tenkým praménkem je vlévej do polévky za stálého míchání vařečkou, aby se srazilo do jemných vloček."
+    },
+    {
+      "text": "Přidej majoránku, nasekanou petrželku a ochutnej. Polévka má být řidší, než čekáš, ještě se v misce zahustí."
+    }
+  ],
+  "tips": [
+    "Vločky vař maximálně 5 minut, jinak polévka zhoustne a bude lepkavá.",
+    "Pro výraznější chuť vločky 2 minuty opraž na suché pánvi.",
+    "Rozšlehané vejce vlévej mimo plamen, nezačne se dělat gumové a zůstane jemné."
+  ],
+  "substitutions": [
+    "Vejce vynech pro vegansky laděnou verzi a máslo nahraď olejem.",
+    "Zeleninový vývar nahraď slepičím nebo hovězím.",
+    "Majoránku vyměň za libeček nebo pažitku."
+  ],
+  "faq": [
+    {
+      "q": "Jaké vločky se do polévky hodí?",
+      "a": "Nejlepší jsou jemné ovesné vločky, které se rychle rozvaří. Hrubé je potřeba vařit 10 až 12 minut."
+    },
+    {
+      "q": "Co když je polévka moc hustá?",
+      "a": "Přidej 100 až 200 ml horké vody nebo vývaru a krátce prohřej. Vločky se v polévce dál rozpíjejí, hustota roste s odstáním."
+    },
+    {
+      "q": "Dá se vločková polévka uchovat?",
+      "a": "V lednici 2 dny. Před ohřevem ji zřeď vodou nebo vývarem, protože zhoustne."
+    }
+  ]
+}

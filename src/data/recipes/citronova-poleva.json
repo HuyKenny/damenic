@@ -1,0 +1,73 @@
+{
+  "title": "Citronová poleva",
+  "keywords": [
+    "citronová poleva",
+    "citronová poleva recept",
+    "poleva z citronu",
+    "citronová poleva na buchtu"
+  ],
+  "image": "dish-citronova-poleva",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 5,
+  "cookMinutes": 0,
+  "waitMinutes": 15,
+  "waitLabel": "zaschnutí polevy",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Citronová poleva z moučkového cukru a čerstvé citronové šťávy se vyrobí za 3 minuty a stačí na polevu bábovky nebo plechu buchty. Důležité je přidávat šťávu po lžících, aby poleva neřídla.",
+  "ingredients": [
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva, asi 3 lžíce, a špetka kůry"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 20,
+      "unit": "ml",
+      "note": "jen podle potřeby"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Moučkový cukr prosej do misky, aby v poleve nezůstaly hrudky."
+    },
+    {
+      "text": "Přidej 2 lžíce citronové šťávy a míchej lžící do hustoty tekutého medu. Po lžičkách přidávej další šťávu nebo vodu, dokud poleva nemá správnou hustotu."
+    },
+    {
+      "text": "Polevu lej na úplně vychladlé pečivo a nech ji 15 minut zaschnout."
+    }
+  ],
+  "tips": [
+    "Poleva se roztéká po teplém pečivu, nalévej ji až na vychladlé.",
+    "Citron nejdřív nastrouhej kůru, pak teprve vymačkej šťávu.",
+    "Přikrytá potravinářskou fólií vydrží v lednici 3 dny."
+  ],
+  "substitutions": [
+    "Citron nahraď limetkou nebo pomerančovou šťávou.",
+    "Pro hustší bílou polevu přidej na 200 g cukru jen 2 lžíce šťávy."
+  ],
+  "faq": [
+    {
+      "q": "Proč je citronová poleva průhledná?",
+      "a": "Je příliš řídká. Přidej další cukr, aby byla hustší a nepoztrácela krycí schopnost."
+    },
+    {
+      "q": "Jak dlouho zasychá?",
+      "a": "Asi 15 až 30 minut při pokojové teplotě, v lednici déle."
+    },
+    {
+      "q": "Dá se poleva připravit předem?",
+      "a": "Ano, zakrytá vydrží 3 dny v lednici, před použitím ji zamíchej."
+    }
+  ]
+}

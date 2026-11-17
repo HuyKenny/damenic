@@ -1,0 +1,25 @@
+{
+  "name": "Bezé roláda",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Krémové a ovocné",
+  "description": "Křupavý bezé plát se šlehačkou, mascarpone a ovocem, 10 plátků.",
+  "about": [
+    "Bezé roláda je plát ze sněhu, venku křupavý a uvnitř jako marshmallow, srolovaný s lehkou šlehačkou, mascarpone a ovocem. Je sladká, ale ovoce ji drží svěží.",
+    "Plát musí úplně vychladnout, roláda se plní až těsně před podáváním a jde zrolovat i s prasklinou. Náš dort stojí v smyšlené dortárně, a tak ti zbývá jen recept."
+  ],
+  "price": 13900,
+  "image": "dish-beze-rolada",
+  "recipe": "beze-rolada",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 240
+}

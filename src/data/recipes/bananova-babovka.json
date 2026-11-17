@@ -1,0 +1,125 @@
+{
+  "title": "Banánová bábovka",
+  "keywords": [
+    "banánová bábovka",
+    "banánová bábovka recept",
+    "bananova babovka",
+    "bábovka z banánů",
+    "bábovka s banány"
+  ],
+  "intro": "Banánová bábovka je vláčná bábovka z velmi zralých banánů, oleje a jogurtu. Čím zralejší banány, tím sladší a vlhčí bábovka. Těsto se jen promíchá, upečeš ho ve formě 24 cm a vyjde 12 kousků.",
+  "image": "dish-bananova-babovka",
+  "category": "dezerty",
+  "servings": 15,
+  "activeMinutes": 50,
+  "cookMinutes": 55,
+  "waitMinutes": 20,
+  "waitLabel": "vychladnutí ve formě",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "banan",
+      "amount": 3,
+      "unit": "ks",
+      "note": "velmi zralé, asi 330 g oloupaných"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 50,
+      "unit": "g",
+      "note": "nahrubo nasekané, nepovinné"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na formu"
+    },
+    {
+      "ingredient": "mouka-hruba",
+      "amount": 10,
+      "unit": "g",
+      "note": "na formu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 165 °C). Formu o průměru 24 cm vymaž a vysyp moukou."
+    },
+    {
+      "text": "Banány rozmačkej vidličkou na kaši. Vejce vyšlehej s cukrem a vanilkovým cukrem do světlé pěny, přilij olej a jogurt a vmíchej banány."
+    },
+    {
+      "text": "Mouku smíchej s práškem a skořicí a rychle zamíchej do těsta. Přidej ořechy."
+    },
+    {
+      "text": "Těsto nalij do formy a peč 50 až 55 minut, dokud špejle nevyjde suchá. Pokud vrch tmavne, přikryj ho alobalem. Nech 10 minut ve formě a vyklop."
+    }
+  ],
+  "tips": [
+    "Banány musí mít hnědé skvrny, nezralé dají těsto kyselejší.",
+    "Nepřemíchej těsto po přidání mouky, bábovka by byla tuhá.",
+    "Zakrytá vydrží 4 dny."
+  ],
+  "substitutions": [
+    "Olej nahraď rozpuštěným máslem.",
+    "Jogurt nahraď kefírem nebo zakysanou smetanou.",
+    "Vlašské ořechy nahraď čokoládovými kousky."
+  ],
+  "faq": [
+    {
+      "q": "Kolik banánů dát do bábovky?",
+      "a": "Na formu 24 cm stačí 3 velké zralé banány, asi 330 g oloupaných."
+    },
+    {
+      "q": "Proč je banánová bábovka uprostřed vlhká?",
+      "a": "Banány jsou moc vodnaté nebo se pekla krátce. Peč do suché špejle, 50 až 55 minut."
+    },
+    {
+      "q": "Dá se bábovka zamrazit?",
+      "a": "Ano, vydrží zamražená 2 měsíce."
+    }
+  ]
+}

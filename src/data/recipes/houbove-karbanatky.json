@@ -1,0 +1,120 @@
+{
+  "title": "Houbové karbanátky",
+  "keywords": [
+    "houbové karbanátky",
+    "karbanátky ze žampionů",
+    "houbové karbanátky recept",
+    "žampionové karbanátky",
+    "bezmasé karbanátky z hub"
+  ],
+  "image": "dish-houbove-karbanatky-chata",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Houbové karbanátky z žampionů jsou bezmasé karbanátky s výraznou houbovou chutí. Houby se musí nadrobno nasekat a důkladně osmažit, aby se odpařila voda. Pak karbanátky drží tvar a nejsou rozbředlé. Z dávky vyjde asi 8 kusů.",
+  "ingredients": [
+    {
+      "ingredient": "zampiony",
+      "amount": 500,
+      "unit": "g",
+      "note": "nadrobno nasekané"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 80,
+      "unit": "ml",
+      "note": "na osmažení a smažení"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 90,
+      "unit": "g"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na pánvi rozehřej 2 lžíce oleje a na středním plameni osmaž cibuli 3 minuty. Přidej žampiony a smaž je na vyšším plameni 10 až 12 minut, až se odpaří veškerá voda a začnou hnědnout."
+    },
+    {
+      "text": "Osol, opepři a přidej prolisovaný česnek a majoránku. Nech zcela vychladnout."
+    },
+    {
+      "text": "Houby smíchej s vejcem, petrželkou a 60 g strouhanky. Nech 10 minut odpočinout, strouhanka nabobtná."
+    },
+    {
+      "text": "Mokrýma rukama tvaruj 8 placek tloušťky asi 2 cm a obal je ve zbylé strouhance."
+    },
+    {
+      "text": "Zbylý olej rozehřej na pánvi na středním plameni a karbanátky smaž 4 minuty z každé strany do zlatova."
+    },
+    {
+      "text": "Odkapej na papírové utěrce a podávej s bramborem nebo bramborovou kaší."
+    }
+  ],
+  "tips": [
+    "Žampiony nemyj dlouho, jen je očisti vlhkou utěrkou, jinak nasáknou vodu.",
+    "Pokud je hmota řídká, přidej další strouhanku po lžících.",
+    "Část žampionů můžeš nahradit sušenými houbami namočenými na 20 minut, chuť bude výraznější."
+  ],
+  "substitutions": [
+    "Žampiony nahraď hlívou ústřičnou nebo směsí hub.",
+    "Strouhanku nahraď ovesnými vločkami.",
+    "Vejce nahraď 2 lžícemi mletého lnu a 4 lžícemi vody."
+  ],
+  "faq": [
+    {
+      "q": "Proč se houbové karbanátky rozpadají?",
+      "a": "Houby neodpařily všechnu vodu nebo je málo strouhanky. Smaž houby dosucha a hmotu nech odpočinout."
+    },
+    {
+      "q": "Dají se houbové karbanátky péct?",
+      "a": "Ano, 25 minut při 200 °C, jednou je obrať. Budou méně křupavé."
+    },
+    {
+      "q": "Vydrží houbové karbanátky v lednici?",
+      "a": "Uvařené 3 dny, ohřej je v troubě při 180 °C nebo na pánvi."
+    }
+  ]
+}

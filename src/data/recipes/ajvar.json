@@ -1,0 +1,102 @@
+{
+  "waitMinutes": 30,
+  "title": "Domácí ajvar",
+  "keywords": [
+    "ajvar",
+    "ajvar recept",
+    "domácí ajvar",
+    "ajvar z pečených paprik",
+    "ajvar s lilkem"
+  ],
+  "image": "dish-ajvar",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 30,
+  "cookMinutes": 70,
+  "waitLabel": "vychladnutí a odkapání paprik",
+  "difficulty": "střední",
+  "meal": "omacka",
+  "intro": "Ajvar je balkánská pomazánka z pečených paprik a lilku, dušená s olejem a česnekem do husté, lehce kouřové konzistence. Tady je to čerstvá verze do lednice, žádné zavařování. Podává se na chleba, k masu a k pljeskavici.",
+  "ingredients": [
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 6,
+      "unit": "ks",
+      "note": "asi 1 kg"
+    },
+    {
+      "ingredient": "lilek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "asi 300 g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "ocet-vinny",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "volitelně"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 220 °C (horkovzduch 200 °C). Papriky a lilek dej na plech s pečicím papírem a peč 40 až 45 minut, po 20 minutách otoč, až je slupka ztmavlá a papriky splasknou."
+    },
+    {
+      "text": "Horké papriky i lilek dej do misky, přikryj talířem nebo fólií a nech 30 minut v páře odpočinout, aby se slupka uvolnila."
+    },
+    {
+      "text": "Papriky oloupej a zbav stopek a semen, lilek rozkroj a vyškrab dužinu. Nech chvíli odkapat v cedníku a lehce vymačkej."
+    },
+    {
+      "text": "Dužinu rozmixuj tyčovým mixérem nebo přepasíruj, ať ajvar zůstane trochu hrubý. Dej ho do širšího hrnce s olejem a solí."
+    },
+    {
+      "text": "Vař na mírném plameni 20 až 25 minut a pořád míchej, protože se rád připaluje. Pomalu přilévej olej, přidej prolisovaný česnek, ocet a případně chilli. Hotovo je, když pomazánka zhoustne a drží na lžíci."
+    }
+  ],
+  "tips": [
+    "Ajvar se nese rychle ke dnu, míchej ho dřevěnou vařečkou a plamen drž nízko.",
+    "Vymačkání vody je důležité, jinak se bude ajvar vařit dlouho a bude řídký.",
+    "Uchovávej ho v čisté zavřené sklenici v lednici, zalitý tenkou vrstvou oleje. Vydrží 5 až 7 dní."
+  ],
+  "substitutions": [
+    "Bez lilku: použij 7 paprik, ajvar bude sladší a méně hutný.",
+    "Pálivý ajvar: přidej 1 čerstvou chilli papričku nebo 1 lžičku chilli vloček.",
+    "Místo vinného octa použij citronovou šťávu, 2 lžíce."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží domácí ajvar v lednici?",
+      "a": "Čerstvý bez zavařování vydrží v čisté zavřené sklenici s olejem na hladině 5 až 7 dní."
+    },
+    {
+      "q": "Jaké papriky se hodí na ajvar?",
+      "a": "Dužnaté červené papriky, třeba kapie, mají nejvíc dužiny a nejsladší chuť."
+    },
+    {
+      "q": "Jde ajvar zmrazit?",
+      "a": "Ano, v uzavřených dózách 3 měsíce. Po rozmražení ho promíchej."
+    }
+  ]
+}

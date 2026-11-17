@@ -1,0 +1,115 @@
+{
+  "title": "Jogurtová bábovka",
+  "keywords": [
+    "jogurtová bábovka",
+    "jogurtová bábovka recept",
+    "jogurtova babovka",
+    "bábovka s jogurtem",
+    "bábovka z bílého jogurtu"
+  ],
+  "intro": "Jogurtová bábovka je vláčná třená bábovka z másla, bílého jogurtu a vanilky. Jogurt dělá střídu jemnou a lehce navlhlou. Peče se ve formě 24 cm a vyjde 12 kousků.",
+  "image": "dish-jogurtova-babovka",
+  "category": "dezerty",
+  "servings": 15,
+  "activeMinutes": 50,
+  "cookMinutes": 50,
+  "waitMinutes": 20,
+  "waitLabel": "vychladnutí ve formě",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "pokojové teploty"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 320,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "note": "na posypání"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na formu"
+    },
+    {
+      "ingredient": "mouka-hruba",
+      "amount": 10,
+      "unit": "g",
+      "note": "na formu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 165 °C). Formu o průměru 24 cm vymaž a vysyp moukou."
+    },
+    {
+      "text": "Máslo vyšlehej s cukrem a vanilkovým cukrem do světlého krému. Přidej vejce po jednom a šlehej, dokud se nespojí."
+    },
+    {
+      "text": "Vmíchej jogurt. Mouku smíchej s práškem a po částech vmíchej do těsta, jen do spojení."
+    },
+    {
+      "text": "Těsto nalij do formy a peč 45 až 50 minut. Hotová je, když špejle vyjde suchá. Nech ji 10 minut ve formě a vyklop. Vychladlou posyp moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Jogurt dej do těsta pokojové teploty, studený by srazil máslo.",
+    "Do těsta lze přidat kůru z citronu nebo hrst rozinek.",
+    "Zakrytá vydrží 4 dny."
+  ],
+  "substitutions": [
+    "Máslo nahraď 120 ml oleje.",
+    "Bílý jogurt nahraď kefírem.",
+    "Vanilkový cukr nahraď dření z 1 vanilkového lusku."
+  ],
+  "faq": [
+    {
+      "q": "Kolik jogurtu dát do bábovky?",
+      "a": "Na formu 24 cm stačí 250 g bílého jogurtu a 320 g hladké mouky."
+    },
+    {
+      "q": "Proč bábovka klesla?",
+      "a": "Troubu jsi otevřel moc brzy nebo bylo v těstě moc prášku. Neotvírej troubu prvních 35 minut."
+    },
+    {
+      "q": "Dá se zamrazit?",
+      "a": "Ano, bez posypu vydrží zamražená 2 měsíce."
+    }
+  ]
+}

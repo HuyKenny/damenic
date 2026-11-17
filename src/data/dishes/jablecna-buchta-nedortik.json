@@ -1,0 +1,22 @@
+{
+  "name": "Jablečná buchta",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Buchta z hrnkového těsta s jablky a skořicí, poprášená moučkovým cukrem.",
+  "about": [
+    "Jablečná buchta je klasika, ke které se přidává jen jedna věc: skořice. Jablka mají být kyselá, aby dobře vyvážila sladké těsto.",
+    "Doma ji upečeš za 40 minut. U nás hned a s trpělivostí."
+  ],
+  "price": 7500,
+  "image": "dish-jablecna-buchta-nedortik",
+  "recipe": "jablecna-buchta",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 90
+}

@@ -1,0 +1,110 @@
+{
+  "waitMinutes": 10,
+  "title": "Smažená zelená rajčata",
+  "keywords": [
+    "smažená zelená rajčata",
+    "smažená zelená rajčata recept",
+    "zelená rajčata v těstíčku",
+    "smažená rajčata v kukuřičné krustě"
+  ],
+  "image": "dish-smazena-zelena-rajcata",
+  "category": "priloha",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 15,
+  "waitLabel": "odkapání osolených kolečka",
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Smažená zelená rajčata jsou pevná kolečka nezralých rajčat v křupavé kukuřičné krustě. Zelená rajčata jsou kyselá a pevná, takže se při smažení nerozpadnou. Smaží se při 175 °C a podávají s majonézovým dipem.",
+  "ingredients": [
+    {
+      "ingredient": "zelena-rajcata",
+      "amount": 600,
+      "unit": "g",
+      "note": "4 pevná rajčata"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kukuricna-mouka",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 60,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 300,
+      "unit": "ml",
+      "note": "na smažení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rajčata nakrájej na kolečka silná 1 cm. Rozlož je na papírovou utěrku, osol polovinou soli a nech 10 minut odkapat, pak osuš."
+    },
+    {
+      "text": "Připrav tři talíře. Na první dej hladkou mouku, na druhý rozšlehaná vejce s mlékem, na třetí kukuřičnou mouku smíchanou s paprikou, zbytkem soli a pepřem."
+    },
+    {
+      "text": "Každé kolečko obal v mouce, pak ve vejci a nakonec v kukuřičné směsi. Pevně přitlač."
+    },
+    {
+      "text": "Olej zahřej na 175 °C. Smaž kolečka 2 až 3 minuty z každé strany, dokud nejsou zlatá. Smaž po několika kusech, ať olej neklesne v teplotě."
+    },
+    {
+      "text": "Hotová odkapej na mřížce nebo papírové utěrce a podávej ihned s dipem."
+    }
+  ],
+  "tips": [
+    "Vyber pevná zelená rajčata, měkká se v oleji rozpadnou.",
+    "Osol a odkapej, krusta pak nesjede.",
+    "Smaž po 4 až 5 kusech, olej musí zůstat horký."
+  ],
+  "substitutions": [
+    "Místo zelených rajčat použij pevná lehce nezralá červená.",
+    "Kukuřičnou mouku nahraď strouhankou.",
+    "Bez vajec: obal v hustém těstíčku z mouky a mléka (poměr 1 : 1)."
+  ],
+  "faq": [
+    {
+      "q": "Jak poznám, že je rajče zelené správné?",
+      "a": "Je pevné, bez žlutých a červených skvrn. Takové drží tvar a je lehce kyselé."
+    },
+    {
+      "q": "Dají se zelená rajčata péct v troubě?",
+      "a": "Ano, při 220 °C asi 15 minut, jednou otoč. Krusta nebude tak křupavá, ale ušetříš olej."
+    },
+    {
+      "q": "Dá se smažit i červené rajče?",
+      "a": "Ano, ale musí být pevné. Zralé měkké se rozpadá."
+    }
+  ]
+}

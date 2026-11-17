@@ -1,0 +1,98 @@
+{
+  "title": "Rafaelo kuličky",
+  "keywords": [
+    "rafaelo kuličky",
+    "rafaelo kuličky recept",
+    "rafaelo kulicky",
+    "kokosové kuličky s mandlí",
+    "domácí rafaelo"
+  ],
+  "intro": "Rafaelo kuličky jsou nepečené kokosové kuličky z kondenzovaného mléka a másla s mandlí uprostřed. Pečení nepotřebují, jen 2 hodiny v lednici, aby těsto ztuhlo a dalo se tvarovat. Vyjde asi 30 kuliček.",
+  "image": "dish-rafaelo-kulicky",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 25,
+  "cookMinutes": 0,
+  "waitMinutes": 120,
+  "waitLabel": "chlazení těsta v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "měkké"
+    },
+    {
+      "ingredient": "mleko-kondenzovane-slazene",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 200,
+      "unit": "g",
+      "note": "do těsta"
+    },
+    {
+      "ingredient": "mandle",
+      "amount": 30,
+      "unit": "g",
+      "note": "celé, loupané"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 60,
+      "unit": "g",
+      "note": "na obalení"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Máslo vyšlehej s vanilkovým cukrem do hladka. Postupně přidávej kondenzované mléko a šlehej, dokud se nespojí."
+    },
+    {
+      "text": "Vmíchej 200 g kokosu. Hmota bude měkká a lepivá. Přikryj ji a dej na 2 hodiny do lednice, dokud nebude dost pevná na tvarování."
+    },
+    {
+      "text": "Z hmoty odebírej lžící kousky velikosti vlašského ořechu, do každého zamáčkni jednu mandli a vytvaruj kuličku. Ruce občas ochlaď studenou vodou."
+    },
+    {
+      "text": "Kuličky obal ve zbylých 60 g kokosu a ukládej na talíř v jedné vrstvě. Před podáváním je nech ještě hodinu v lednici ztuhnout."
+    }
+  ],
+  "tips": [
+    "Když je hmota po vychlazení stále lepivá, přisyp 1 až 2 lžíce kokosu.",
+    "Mandle před vložením krátce opraž na suché pánvi, budou vonět víc.",
+    "V uzavřené dóze v lednici vydrží 5 dní, kuličky jsou kvůli máslu a mléku citlivé na teplo."
+  ],
+  "substitutions": [
+    "Mandle nahraď celými lískovými ořechy nebo kouskem oloupané lískové pralinky.",
+    "Máslo nahraď 80 g kokosového tuku, kuličky budou pevnější a chuť výraznější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží rafaelo kuličky?",
+      "a": "V uzavřené dóze v lednici vydrží 5 dní. Při pokojové teplotě změknou, proto je vyndávej až před podáváním."
+    },
+    {
+      "q": "Dají se rafaelo kuličky zamrazit?",
+      "a": "Ano, v krabičce s přepážkami vydrží 1 měsíc. Rozmrazuj je v lednici asi 2 hodiny."
+    },
+    {
+      "q": "Proč se mi kuličky rozpadají?",
+      "a": "Hmota byla málo vychlazená nebo je v ní málo kokosu. Nech ji ztuhnout a přidej lžíci kokosu."
+    }
+  ]
+}

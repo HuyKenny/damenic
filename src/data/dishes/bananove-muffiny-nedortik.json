@@ -1,0 +1,22 @@
+{
+  "name": "Banánové muffiny s čokoládou",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Banánové muffiny s kousky čokolády a jemně vláčnou střídkou.",
+  "about": [
+    "Banánové muffiny jsou způsob, jak zachránit banány, které už nikdo nechce. Čím tmavší slupka, tím sladší muffin.",
+    "Přezrálé banány doma najdeš v každé misce na ovoce. U nás žádné nejsou."
+  ],
+  "price": 5900,
+  "image": "dish-bananove-muffiny-nedortik",
+  "recipe": "bananove-muffiny",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 120
+}

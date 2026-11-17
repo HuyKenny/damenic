@@ -1,0 +1,22 @@
+{
+  "name": "Alpské knedlíky se slaninou",
+  "restaurant": "hostinec-za-hranici-nic",
+  "kind": "main",
+  "section": "Polsko a Rakousko",
+  "description": "Kulaté houskové knedlíky s uzeným masem, cibulkou a petrželkou, podávané s máslem.",
+  "about": [
+    "Alpský knedlík je odpověď horských hostinců na to, co s oschlým pečivem. Dohromady drží vejce, mléko a trocha masa, a vyjde z toho porce, která nasytí.",
+    "Doma je to práce na půl hodiny. U nás je to jen lákavý popis na jídelním lístku."
+  ],
+  "price": 15900,
+  "image": "dish-alpsky-knedlik-hostinec",
+  "recipe": "alpsky-knedlik",
+  "vegetarian": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 140
+}

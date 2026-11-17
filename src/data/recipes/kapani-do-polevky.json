@@ -1,0 +1,96 @@
+{
+  "title": "Kapání do polévky",
+  "keywords": [
+    "kapání do polévky",
+    "vaječné kapání",
+    "kapání do polévky recept",
+    "těstíčko do polévky",
+    "polévkové kapání"
+  ],
+  "image": "dish-kapani-do-polevky",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 5,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Kapání do polévky je vaječné těstíčko, které se vlévá do horkého vývaru a v něm se srazí na jemné nitky a kapky. Hotové je za 15 minut z vejce a mouky. Aby se nedělaly hrudky, těstíčko musí být hladké a polévka jen lehce vřít.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 80,
+      "unit": "ml",
+      "note": "studená"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "špetka"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "horký"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce rozšlehej s vodou a solí. Přisypej mouku a muškát a hladce rozmíchej metličkou, aby vzniklo husté, ale tekoucí těstíčko bez hrudek."
+    },
+    {
+      "text": "Vývar přiveď k varu a stáhni plamen, aby jen mírně bublal. Těsto nech 5 minut odpočinout."
+    },
+    {
+      "text": "Těstíčko nalej do cedníku nebo na struhadlo s větším průměrem otvorů nad hrncem a do polévky nech přes otvory kapat nebo ho protlač stěrkou."
+    },
+    {
+      "text": "Vař 2 až 3 minuty, dokud kapání nevyplave na hladinu. Jedno ochutnej, uvnitř nesmí být syrové."
+    },
+    {
+      "text": "Polévku hned podávej. Kapání v ní dlouho nedržej, zhoustne a nasákne vývarem."
+    }
+  ],
+  "tips": [
+    "Těsto má stékat z lžíce jako hustá smetana. Je-li řídké, přidej lžíci mouky, je-li husté, lžíci vody.",
+    "Kapání vař v čistém vývaru. V jíškové polévce se rozpadá.",
+    "Zbylé těsto nech uležet maximálně 1 hodinu."
+  ],
+  "substitutions": [
+    "Hladkou mouku nahraď polohrubou, kapání bude pevnější.",
+    "Přidej nasekanou petrželku nebo pažitku do těsta.",
+    "Vejce můžeš vynechat, přidej 3 lžíce mléka a o 20 g víc mouky, kapání bude hutnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat kapání bez hrudek?",
+      "a": "Mouku vsypávej do tekutiny postupně a míchej metličkou. Nechej těsto 5 minut odpočinout, mouka nabobtná a hrudky zmizí."
+    },
+    {
+      "q": "Čím se kape do polévky?",
+      "a": "Cedníkem, struhadlem s velkými otvory nebo lžící. Kapky přes cedník jsou malé a rovnoměrné."
+    },
+    {
+      "q": "Dá se kapání dělat dopředu?",
+      "a": "Ne, těsto nejlépe hned použij. Uvařené kapání se v polévce rozmáčí, proto ho přidávej těsně před podáváním."
+    }
+  ]
+}

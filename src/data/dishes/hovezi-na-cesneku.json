@@ -1,0 +1,22 @@
+{
+  "name": "Hovězí na česneku",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "main",
+  "section": "Z pánve",
+  "description": "Měkké dušené hovězí v tmavé omáčce s hodně česneku. S knedlíkem.",
+  "about": [
+    "Hovězí na česneku vyhraje na chuti, ne na vzhledu. Maso se dusí dvě hodiny a česnek přichází ve dvou vlnách: první se rozpustí v omáčce, druhý zůstane voňavý až na talíř.",
+    "Jídelna Už Hotovo vaří rychle. Hovězí si ale vyžádá čas, takže ho nechej Jídelně a udělej si ho zítra doma."
+  ],
+  "price": 21900,
+  "image": "dish-hovezi-na-cesneku",
+  "recipe": "hovezi-na-cesneku",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 910,
+  "allergens": [
+    1,
+    9
+  ]
+}

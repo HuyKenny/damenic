@@ -1,0 +1,105 @@
+{
+  "waitMinutes": 30,
+  "title": "Pomazánka z uzené makrely",
+  "keywords": [
+    "pomazánka z makrely",
+    "pomazánka z uzené makrely",
+    "pomazánka z makrely s tvarohem",
+    "makrelová pomazánka recept"
+  ],
+  "image": "dish-pomazanka-z-makrely",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Pomazánka z uzené makrely je kouřová, jemná a hotová za 15 minut. Maso se rozmačká s tvarohem a pomazánkovým máslem, ochutí cibulí, citronem a hořčicí a nechá odležet. Hodí se na chléb, chlebíčky i k večeři.",
+  "ingredients": [
+    {
+      "ingredient": "makrela-uzena",
+      "amount": 200,
+      "unit": "g",
+      "note": "bez kůže a kostí"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 150,
+      "unit": "g",
+      "note": "jemný"
+    },
+    {
+      "ingredient": "pomazankove-maslo",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "jarni-cibulka",
+      "amount": 2,
+      "unit": "ks",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nastříhaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Makrelu zbav kůže a všech kostí, maso dej do misky a rozmačkej vidličkou na drobné kousky."
+    },
+    {
+      "text": "Přidej tvaroh, pomazánkové máslo, hořčici a citronovou šťávu a promíchej do hladkého krému."
+    },
+    {
+      "text": "Vmíchej jarní cibulku a pepř. Chuť zkus a podle potřeby dolaď citronem, uzená makrela je sama slaná."
+    },
+    {
+      "text": "Pomazánku přikryj a nech 30 minut odležet v lednici, aby chutě dozrály. Před podáváním posyp pažitkou."
+    }
+  ],
+  "tips": [
+    "Kosti hledej prsty, v makrele jsou drobné a vidlička je přehlédne.",
+    "Pomazánka je lepší po odležení, druhý den má chuť plnější.",
+    "Na chlebíčky ji ozdob plátkem okurky nebo ředkvičkou."
+  ],
+  "substitutions": [
+    "Místo tvarohu použij smetanový sýr.",
+    "Místo jarní cibulky nasekej 1 menší červenou cibuli.",
+    "Místo uzené makrely použij uzeného pstruha."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží pomazánka z makrely v lednici?",
+      "a": "V uzavřené dóze 2 až 3 dny. Bez vajec a majonézy se kazí pomaleji než jiné pomazánky."
+    },
+    {
+      "q": "Dá se pomazánka z makrely zmrazit?",
+      "a": "Nedoporučuji. Tvaroh a máslo se po rozmražení oddělí a pomazánka ztratí hladkost."
+    },
+    {
+      "q": "Jakou makrelu použít?",
+      "a": "Uzenou, ze sklenice nebo čerstvou z chladicího pultu. Kupuj bez kůže a kostí, ušetří to práci."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "waitMinutes": 0,
+  "title": "Šípková omáčka",
+  "keywords": [
+    "šípková omáčka",
+    "šípková omáčka recept",
+    "šípková omáčka k hovězímu",
+    "šípková omáčka s marmeládou",
+    "omáčka ze šípků"
+  ],
+  "image": "dish-sipkova-omacka",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 10,
+  "cookMinutes": 20,
+  "difficulty": "snadné",
+  "meal": "omacka",
+  "intro": "Šípková omáčka je sladkokyselá omáčka z jemné jíšky, vývaru a šípkové marmelády. Podává se k hovězímu masu a knedlíku, hodí se i k hovězímu vařenému. Dělá se z kupované marmelády, takže netrvá ani půl hodiny.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sipkova-marmelada",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "hrebicek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V rendlíku rozpusť máslo, vsyp mouku a 2 minuty míchej, aby vznikla světlá jíška. Nesmí zhnědnout."
+    },
+    {
+      "text": "Postupně přilévej vývar a stále míchej, dokud se nerozpustí všechny hrudky. Přidej hřebíček a nové koření."
+    },
+    {
+      "text": "Vařte 10 minut na mírném plameni, občas promíchej. Pak vyjmi koření."
+    },
+    {
+      "text": "Vmíchej šípkovou marmeládu a citronovou šťávu a povař 3 minuty. Přilij smetanu a 2 minuty prohřej, nevař."
+    },
+    {
+      "text": "Ochutnej a dosol. Podávej horké."
+    }
+  ],
+  "tips": [
+    "Jíšku vždy zalévej postupně, hrudky se pak nevytvoří.",
+    "Smetanu přilévej na konci, jinak se omáčka sráží.",
+    "Marmeláda je sladká, citron zvedne chuť."
+  ],
+  "substitutions": [
+    "Místo smetany použij ovesný nápoj na vaření.",
+    "Šípkovou marmeládu nahraď brusinkovou nebo švestkovou.",
+    "Místo zeleninového vývaru použij hovězí."
+  ],
+  "faq": [
+    {
+      "q": "K čemu se hodí šípková omáčka?",
+      "a": "K hovězímu masu, ke knedlíku nebo k zvěřině. Sladkokyselá chuť protne tučné maso."
+    },
+    {
+      "q": "Dá se omáčka zmrazit?",
+      "a": "Ano, bez smetany, na 2 měsíce. Smetanu přilij po rozmražení."
+    },
+    {
+      "q": "Jde místo marmelády použít čerstvé šípky?",
+      "a": "Ano, ale je potřeba je zbavit semínek, uvařit a přepasírovat, což zabere víc času."
+    }
+  ]
+}

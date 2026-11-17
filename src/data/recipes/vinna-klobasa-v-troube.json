@@ -1,0 +1,116 @@
+{
+  "title": "Vinná klobása v troubě",
+  "keywords": [
+    "vinná klobása v troubě",
+    "vinná klobása",
+    "pečená klobása v troubě",
+    "klobása na víně"
+  ],
+  "image": "dish-vinna-klobasa-v-troube",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Vinná klobása v troubě se peče na cibuli s bílým vínem a hořčicí, takže se nemusí hlídat u plotny. Recept pro čtyři počítá s 600 g klobásy a bramborami, které se pečou ve stejném plechu a vsáknou šťávu.",
+  "ingredients": [
+    {
+      "ingredient": "klobasa",
+      "amount": 600,
+      "unit": "g",
+      "note": "syrová nebo uzená"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 600,
+      "unit": "g",
+      "note": "na měsíčky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 300,
+      "unit": "g",
+      "note": "na silnější plátky"
+    },
+    {
+      "ingredient": "vino-bile",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "tymian",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 190 °C). Brambory smíchej s olejem, solí, pepřem a tymiánem a rozlož do hlubokého plechu."
+    },
+    {
+      "text": "Přidej cibuli a plech vlož do trouby na 15 minut, aby brambory trochu změkly."
+    },
+    {
+      "text": "Klobásu nařízni po 2 cm do hloubky 5 mm. Hořčici smíchej s medem, polož klobásu na brambory a potři směsí."
+    },
+    {
+      "text": "Zalij 150 ml bílého vína, vrať do trouby a peč 30 minut, klobásu jednou otoč. Syrová klobása musí mít uvnitř aspoň 74 °C a šťáva ze zářezu má téct čirá."
+    },
+    {
+      "text": "Odpočiň 5 minut, nakrájej na kolečka a podávej s bramborami a nakládanou okurkou."
+    }
+  ],
+  "alcohol": false,
+  "tips": [
+    "Víno přilévej až po prvních 15 minutách pečení, brambory zůstanou křupavější.",
+    "Klobásu nařízni, aby při pečení neprasklo střívko a nevytekla šťáva.",
+    "Zbytek dej do lednice, druhý den se hodí na topinku."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo vína použij 150 ml zeleninového vývaru a lžičku jablečného octa.",
+    "Hořčici nahraď kečupem se špetkou papriky.",
+    "Brambory nahraď kořenovou zeleninou, upeče se za stejnou dobu."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct klobásu v troubě?",
+      "a": "Při 200 °C zhruba 30 až 40 minut, syrovou do 74 °C uvnitř. Už uzenou stačí 25 minut."
+    },
+    {
+      "q": "Vyvaří se z vína alkohol?",
+      "a": "Za 45 minut v troubě se většina odpaří, ale nemizí zcela. Pro děti použij nealko variantu s vývarem a octem."
+    },
+    {
+      "q": "Co k vinné klobáse podávat?",
+      "a": "Pečené brambory, hořčici, nakládanou okurku nebo zelný salát."
+    }
+  ]
+}

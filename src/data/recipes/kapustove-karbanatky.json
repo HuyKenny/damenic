@@ -1,0 +1,120 @@
+{
+  "title": "Kapustové karbanátky",
+  "keywords": [
+    "kapustové karbanátky",
+    "karbanátky z kapusty",
+    "zeleninové karbanátky z kapusty",
+    "kapustové karbanátky recept",
+    "karbanátky z hlávkové kapusty"
+  ],
+  "image": "dish-kapustove-karbanatky-nula",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Kapustové karbanátky jsou bezmasé karbanátky z drobně nakrájené hlávkové kapusty, strouhanky, vejce a sýra. Kapusta se nejdřív krátce spaří a vyždímá, aby karbanátky nebyly vodnaté a držely tvar. Z dávky vyjde asi 8 kusů.",
+  "ingredients": [
+    {
+      "ingredient": "kapusta",
+      "amount": 500,
+      "unit": "g",
+      "note": "hlávková, nadrobno"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 60,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 80,
+      "unit": "ml",
+      "note": "na smažení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kapustu nakrájej nadrobno a vař 4 minuty v osolené vodě. Slij ji, nech vychladnout a pořádně vyždímej v utěrce nebo mezi dlaněmi."
+    },
+    {
+      "text": "V misce smíchej kapustu s cibulí, prolisovaným česnekem, vejcem, sýrem, 60 g strouhanky, majoránkou, solí a pepřem. Hmota má držet pohromadě, nesmí být lepivá. Případně přidej 1 lžíci strouhanky."
+    },
+    {
+      "text": "Hmotu nech 10 minut odpočinout, aby strouhanka nabobtnala."
+    },
+    {
+      "text": "Navlhčenýma rukama tvaruj 8 placek o tloušťce asi 2 cm a obal je ve zbylé strouhance."
+    },
+    {
+      "text": "Na pánvi rozehřej olej na středním plameni. Karbanátky smaž 4 až 5 minut z každé strany do zlata. Pokud jsou silnější, nech je doprostřed prohřát pod pokličkou 2 minuty."
+    },
+    {
+      "text": "Odkapej je na papírové utěrce. Podávej s bramborem a tvarohovým dipem."
+    }
+  ],
+  "tips": [
+    "Kapustu opravdu vyždímej. Zbytek vody je nejčastější důvod rozpadlých karbanátků.",
+    "Smaž na středním ohni, na prudkém zhnědnou povrch a uvnitř zůstane syrové.",
+    "Hotové karbanátky lze ohřát v troubě při 180 °C 8 minut."
+  ],
+  "substitutions": [
+    "Eidam nahraď ementálem nebo goudou.",
+    "Strouhanku nahraď ovesnými vločkami rozdrcenými v mixéru.",
+    "Vejce nahraď 2 lžícemi škrobu rozmíchanými ve 4 lžících vody."
+  ],
+  "faq": [
+    {
+      "q": "Proč se karbanátky rozpadají?",
+      "a": "Kapusta je málo vyždímaná nebo je málo strouhanky. Přidej strouhanku po lžících a nech hmotu odpočinout."
+    },
+    {
+      "q": "Dají se karbanátky péct v troubě?",
+      "a": "Ano, na plechu s pečicím papírem při 200 °C asi 25 minut, jednou je obrať. Budou méně křupavé."
+    },
+    {
+      "q": "Lze karbanátky zamrazit?",
+      "a": "Ano, uvařené 2 měsíce. Rozmraz v lednici a ohřej v troubě."
+    }
+  ]
+}

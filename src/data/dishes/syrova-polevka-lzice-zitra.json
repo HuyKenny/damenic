@@ -1,0 +1,22 @@
+{
+  "name": "Sýrová polévka s krutony",
+  "restaurant": "lzice-zitra",
+  "kind": "main",
+  "section": "Hustší",
+  "description": "Hladká polévka z eidamu a bramboru, navrch zlaté chlebové krutony.",
+  "about": [
+    "Sýrová polévka je důkaz, že hustá a hřejivá se dá udělat bez masa. Brambor dává tělo, sýr dává chuť a krutony na povrchu křupou jen do té chvíle, než je zalije. Tak pozor, kdo sní první lžíci pozdě.",
+    "Naše polévkárna je smyšlená, takže z ní nic neuteče a nic nevychladne. Doma ji sníš horkou, a to je celé tajemství."
+  ],
+  "price": 10900,
+  "image": "dish-syrova-polevka-lzice-zitra",
+  "recipe": "syrova-polevka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "order": 430
+}

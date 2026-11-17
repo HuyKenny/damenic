@@ -1,0 +1,110 @@
+{
+  "title": "Buchta se zakysanou smetanou",
+  "keywords": [
+    "buchta se zakysanou smetanou",
+    "buchta se zakysanou smetanou recept",
+    "buchta ze zakysané smetany",
+    "jednoduchá buchta se smetanou"
+  ],
+  "image": "dish-buchta-se-smetanou-kolac-na-slib",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 15,
+  "cookMinutes": 40,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Buchta se zakysanou smetanou je jednoduché hladké těsto, které se míchá v jedné míse a vyjde vláčné i třetí den. Smetana dává lehce navlhlou střídku a jemnou kyselost, takže buchta nebude těžká ani suchá. Vyjde asi 15 kousků z formy 22 × 30 cm.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "zakysana-smetana",
+      "amount": 200,
+      "unit": "g",
+      "note": "20% tuku, pokojové teploty"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen kůra z neošetřeného"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 175 °C (horkovzduch 160 °C) a formu 22 × 30 cm vymaž máslem nebo vylož pečicím papírem."
+    },
+    {
+      "text": "Vejce šlehej s cukrem a vanilkovým cukrem 4 minuty do světlé pěny. Přimíchej zakysanou smetanu, olej a citronovou kůru."
+    },
+    {
+      "text": "Mouku smíchej s práškem do pečiva, prosej do vaječné směsi a promíchej stěrkou, jen aby zmizely hrudky. Těsto má být hustě tekuté."
+    },
+    {
+      "text": "Vlij těsto do formy, uhlaď povrch a peč na střední rošt 35 až 40 minut. Buchta je hotová, když špejle zapíchnutá do středu vyjde suchá."
+    },
+    {
+      "text": "Nech ji 10 minut vychladnout ve formě, vyklop na mřížku a před podáváním poprášit moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Smetanu a vejce vytáhni z lednice aspoň hodinu předem, studené suroviny se hůř spojí a buchta vzejde nerovnoměrně.",
+    "Těsto míchej jen do spojení. Dlouhé míchání s moukou dělá buchtu žvýkavou.",
+    "Zabalená v alobalu nebo v dóze vydrží při pokojové teplotě 3 dny."
+  ],
+  "substitutions": [
+    "Zakysanou smetanu lze nahradit stejným množstvím bílého jogurtu nebo kefíru.",
+    "Olej nahraď 90 g rozpuštěného másla, buchta bude chutnat máslověji."
+  ],
+  "faq": [
+    {
+      "q": "Může se buchta se zakysanou smetanou péct na plechu?",
+      "a": "Ano, ale na plech 25 × 35 cm dej dvojnásobné množství těsta, jinak bude příliš tenká a rychle se přepeče. Peč při stejné teplotě asi 30 minut."
+    },
+    {
+      "q": "Proč buchta po upečení spadla?",
+      "a": "Nejčastěji se předčasně otevřela trouba nebo bylo těsto příliš dlouho míchané. Troubu neotvírej dřív než po 30 minutách."
+    },
+    {
+      "q": "Jak poznám, že je buchta upečená?",
+      "a": "Zapíchni do středu špejli, po vytažení má být suchá bez ulpělého těsta. Povrch je zlatavý a okraj se lehce odděluje od formy."
+    }
+  ]
+}

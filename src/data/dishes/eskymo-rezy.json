@@ -1,0 +1,25 @@
+{
+  "name": "Eskymo řezy",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Řezy z plechu",
+  "description": "Kakaový korpus, studený krém z mascarpone a bílé čokolády a pevná čokoládová poleva.",
+  "about": [
+    "Eskymo řezy se jmenují podle polevy, která při krájení tvrdě křupne jako čokoláda na zmrzlině. Pod ní je lehký krém z mascarpone a bílé čokolády a kakaový korpus.",
+    "Polevu uděláš z čokolády a oleje, krém potřebuje vychladnutí a noc v lednici. Studené je to jídlo, které nic nedoveze, ale recept ti ukáže, jak ho udělat doma."
+  ],
+  "price": 9500,
+  "image": "dish-eskymo-rezy",
+  "recipe": "eskymo-rezy",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 320
+}

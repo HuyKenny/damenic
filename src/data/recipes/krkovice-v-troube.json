@@ -1,0 +1,111 @@
+{
+  "title": "Krkovice v troubě",
+  "keywords": [
+    "krkovice v troubě",
+    "pečená krkovice",
+    "krkovice v troubě recept",
+    "pečená krkovice v troubě"
+  ],
+  "image": "dish-krkovice-v-troube",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 5,
+  "activeMinutes": 20,
+  "cookMinutes": 120,
+  "waitMinutes": 30,
+  "waitLabel": "marinování",
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Krkovice v troubě je nejjistější způsob, jak upéct šťavnaté vepřové maso. Tučnější krkovice odpustí chyby, stačí ji osolit předem, péct pod alobalem a na konci jí dát horkou kůrku. Recept pro pět osob s kmínem a majoránkou.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-krkovice",
+      "amount": 1200,
+      "unit": "g",
+      "note": "bez kosti, vcelku"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 5,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 300,
+      "unit": "g",
+      "note": "na silnější plátky"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 200,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso osuš, potři česnekem smíchaným se solí, kmínem, majoránkou, pepřem a hořčicí. Nech 30 minut při pokojové teplotě, aby se zbavilo chladu z lednice."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 170 °C). Na dno pekáče dej cibuli, na ni krkovici a podlij 200 ml vody."
+    },
+    {
+      "text": "Pekáč zakryj alobalem a peč 90 minut. Maso nepřeklápěj, jen jednou za 30 minut podlej vodou, aby výpek nezačal připalovat."
+    },
+    {
+      "text": "Alobal odstraň, troubu zvyš na 210 °C a peč dalších 20 až 25 minut, dokud povrch nezíská zlatohnědou kůrku. Vnitřní teplota má být 85 až 90 °C."
+    },
+    {
+      "text": "Maso nech 15 minut odpočinout a krájej proti vláknům na plátky silné asi 1 cm. Výpek přecedi, zahusti a podávej k masu."
+    }
+  ],
+  "tips": [
+    "Krkovice potřebuje sůl s předstihem. Čím dřív ji osolíš, tím šťavnatější a lépe ochucená bude uvnitř.",
+    "Nepřeklápěj ji často. Povrch s cibulí by se jinak zbytečně vysušil a výpek by zhořkl.",
+    "Zbylé plátky se krásně ohřejí na pánvi a na druhý den se hodí do bagety."
+  ],
+  "substitutions": [
+    "Hořčici nahraď 1 lžící sladké papriky s lžící oleje, chuť bude jemnější.",
+    "Cibuli dole nahraď mrkví, celerem a petrželí na kousky, výpek bude sladší.",
+    "Místo vody podlévej hovězím vývarem, omáčka bude výraznější."
+  ],
+  "faq": [
+    {
+      "q": "Na kolik stupňů péct krkovici?",
+      "a": "Nejdřív na 180 °C pod alobalem asi 90 minut, potom 20 minut na 210 °C pro kůrku. Je hotová při 85 až 90 °C uvnitř."
+    },
+    {
+      "q": "Musí se krkovice před pečením mýt a osolit?",
+      "a": "Opláchnout ji netřeba, stačí osušit. Osolit ji můžeš hned nebo až 12 hodin předem, bude chutnější a šťavnatější."
+    },
+    {
+      "q": "Proč je krkovice po upečení tvrdá?",
+      "a": "Většinou byla pečená moc krátce nebo moc ostře. Krkovice potřebuje 85 až 90 °C uvnitř, aby se vazivo rozpustilo, a nikdy ne příliš žár."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "title": "Jablečná buchta",
+  "keywords": [
+    "jablečná buchta",
+    "buchta s jablky",
+    "jablečná buchta recept",
+    "buchta s jablky recept",
+    "jablečná buchta na plech"
+  ],
+  "image": "dish-jablecna-buchta-nedortik",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 20,
+  "cookMinutes": 40,
+  "waitMinutes": 15,
+  "waitLabel": "vychladnutí",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Jablečná buchta s hrnkovým těstem a hustě naskládanými jablky se skořicí. Jablka se do těsta částečně zabořují, takže střídka zůstane šťavnatá. Z formy 22 × 30 cm vyjde asi 15 kousků a recept zvládne i začátečník.",
+  "ingredients": [
+    {
+      "ingredient": "jablko",
+      "amount": 4,
+      "unit": "ks",
+      "note": "kyselejší, oloupaná a nakrájená na tenké plátky"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 3,
+      "unit": "g",
+      "note": "do těsta"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 165 °C). Jablka oloupej, nakrájej na plátky a pokapej citronovou šťávou, aby nezhnědla."
+    },
+    {
+      "text": "Vejce šlehej s cukrem 3 minuty, přilij mléko a olej. Mouku smíchej s práškem do pečiva a skořicí, vmíchej do tekutin."
+    },
+    {
+      "text": "Těsto nalij do vymazané formy 22 × 30 cm a po povrchu rozlož jablka tak, aby se mírně překrývala."
+    },
+    {
+      "text": "Peč 35 až 40 minut, buchta je hotová, když špejle zapíchnutá mezi jablky vyjde suchá a okraje jsou zlatavé."
+    },
+    {
+      "text": "Nech 10 minut vychladnout a posyp moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Vyber kyselejší jablka (typu Idared), sladká se při pečení rozpadnou na kaši.",
+    "Jablka nastrouhat a smíchat do těsta lze také, buchta pak bude vlhčí a bez vrstev.",
+    "Vydrží 2 až 3 dny, ale po upečení nejlepší druhý den, kdy šťáva z jablek prostoupí těstem."
+  ],
+  "substitutions": [
+    "Část mouky lze nahradit celozrnnou, těsto bude hutnější.",
+    "Místo skořice dej 1 lžičku vanilkového cukru a kůru z citronu."
+  ],
+  "faq": [
+    {
+      "q": "Jaká jablka se hodí do jablečné buchty?",
+      "a": "Pevná a kyselejší, aby držela tvar a vyvážila sladké těsto. Nejhorší jsou mouchovitá, ta se rozmočí."
+    },
+    {
+      "q": "Může se jablečná buchta péct na plechu?",
+      "a": "Ano, na plech 25 × 35 cm použij 6 jablek a těsto z dvojnásobné dávky a peč o 5 až 10 minut déle."
+    },
+    {
+      "q": "Jak dlouho vydrží?",
+      "a": "Při pokojové teplotě 2 až 3 dny, v lednici až 5 dní. Zahřej ji 10 sekund v mikrovlnné troubě."
+    }
+  ]
+}

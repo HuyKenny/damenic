@@ -1,0 +1,26 @@
+{
+  "name": "Chlebíček se salámovou pomazánkou",
+  "restaurant": "chlebickarna-oblozeno-nicim",
+  "kind": "main",
+  "section": "Chlebíčky",
+  "description": "Chlebíček s pomazánkou ze salámu, vejce a kyselých okurek, ozdobený okurkou.",
+  "about": [
+    "Salámová pomazánka je rodinná klasika s koriandrem a pepřem v pozadí. Salám se krájí najemno, vejce přidává jemnost a okurka kyselost, která celé spojí.",
+    "Chlebíčkárna Oblozeno Ničím ti žádný nenaloží. Pomazánka se ale míchá čtvrt hodiny a je pak připravená na svačinu, narozeniny i neplánované hosty."
+  ],
+  "price": 7900,
+  "image": "dish-salamova-pomazanka",
+  "recipe": "salamova-pomazanka",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 996
+}

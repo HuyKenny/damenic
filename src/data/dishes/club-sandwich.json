@@ -1,0 +1,26 @@
+{
+  "name": "Club sandwich",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Teplé sendviče",
+  "description": "Trojpatrový toast s kuřecím masem, křupavou slaninou, vejcem a rajčetem.",
+  "about": [
+    "Club sandwich je sendvič, který se nesnědl, ale postavil. Tři plátky toastu, mezi nimi kuře, slanina a vejce, a nahoře špejle, aby celé patro vydrželo do posledního soustu.",
+    "Sendvičárna Mezi Krajíci ho nepostaví, ale ty ano. Dvě špejle, ostrý nůž a diagonální řez rozhodnou, jestli sendvič drží."
+  ],
+  "price": 22900,
+  "image": "dish-club-sandwich",
+  "recipe": "club-sandwich",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 997
+}

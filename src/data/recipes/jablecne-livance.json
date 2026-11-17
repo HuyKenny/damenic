@@ -1,0 +1,101 @@
+{
+  "title": "Jablečné lívance",
+  "keywords": [
+    "jablečné lívance",
+    "jablečné lívance recept",
+    "lívance s jablky",
+    "lívance s jablky a skořicí"
+  ],
+  "image": "dish-jablecne-livance-az-zitra",
+  "category": "palacinky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 15,
+  "waitMinutes": 10,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Jablečné lívance jsou měkké lívance s jemně nastrouhanými jablky a trochou skořice. Z dávky vyjde asi 20 kusů, hodí se na snídani i svačinu. Těsto musí být hustší, aby se na pánvi drželo pohromadě.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 2,
+      "unit": "ks",
+      "note": "nastrouhaná"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 40,
+      "unit": "ml",
+      "note": "na smažení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku smíchej s cukrem, práškem do pečiva a skořicí. Přidej mléko a vejce a rozmíchej na hustou kaši bez hrudek."
+    },
+    {
+      "text": "Jablka oloupej, nastrouhej a vmíchej do těsta. Nech 10 minut odpočinout."
+    },
+    {
+      "text": "Pánev rozehřej na střední plamen s kapkou oleje. Dávej lžíci těsta a smaž 2 až 3 minuty z každé strany do zlatova."
+    },
+    {
+      "text": "Hotové lívance podávej s jogurtem nebo zakysanou smetanou a posypané skořicovým cukrem."
+    }
+  ],
+  "tips": [
+    "Plamen drž střední. Na silnějším se lívance zvenčí spálí a uvnitř zůstanou syrové.",
+    "Jablka po nastrouhání lehce vymačkej.",
+    "Lívance lze ohřát na suché pánvi druhý den."
+  ],
+  "substitutions": [
+    "Jablka nahraď banánem nebo hruškou.",
+    "Mouku nahraď polohrubou nebo bezlepkovou směsí."
+  ],
+  "faq": [
+    {
+      "q": "Mohou se lívance péct v troubě?",
+      "a": "Ano, na plechu s papírem při 200 °C 8 až 10 minut."
+    },
+    {
+      "q": "Proč se lívance rozpadají?",
+      "a": "Těsto je příliš řídké nebo jablka příliš mokrá. Přisyp 1 až 2 lžíce mouky."
+    },
+    {
+      "q": "Jak dlouho vydrží?",
+      "a": "V lednici 2 dny, ohřívej na pánvi."
+    }
+  ]
+}

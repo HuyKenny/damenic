@@ -1,0 +1,23 @@
+{
+  "name": "Kmínová polévka s vejcem",
+  "restaurant": "prazdna-naberacka",
+  "kind": "main",
+  "section": "Polévky",
+  "description": "Jíšková polévka s kmínem a bramborem, do které se vsune vejce, s křupavými krutony.",
+  "about": [
+    "Kmínová polévka patří k těm, na které se při prvním pohledu nenaladíš. Je světlá a skromná, ale kmín opražený na másle jí dá vůni, kterou poznáš od dveří. Když do ní navíc sjede vejce a pustí žloutek, je z ní oběd.",
+    "Nic tu nechvátá a nic nepřijede. Polévkárna je smyšlená a naběračka prázdná, ale recept je pravý a hotový za čtyřicet minut."
+  ],
+  "price": 8900,
+  "image": "dish-kminova-polevka-naberacka",
+  "recipe": "kminova-polevka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 410
+}

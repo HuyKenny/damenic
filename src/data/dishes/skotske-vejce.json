@@ -1,0 +1,23 @@
+{
+  "name": "Skotské vejce",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Studená kuchyně",
+  "description": "Vejce v masové kuličce, smažené do křupava. Podává se s hořčicí.",
+  "about": [
+    "Skotské vejce je vejce v obleku z mletého masa a strouhanky. Vejce se uvaří natvrdo nebo na měkko, obalí směsí a usmaží. Vnitřek zůstane jemný, kůrka křupe.",
+    "Výčep Zítra Natočíme ho natočí zítra, vejce se dnes ještě vaří. Recept je ale skutečný."
+  ],
+  "price": 14900,
+  "image": "dish-skotske-vejce",
+  "recipe": "skotske-vejce",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 920,
+  "allergens": [
+    1,
+    3,
+    10
+  ]
+}

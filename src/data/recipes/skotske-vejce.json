@@ -1,0 +1,122 @@
+{
+  "title": "Skotské vejce",
+  "keywords": [
+    "skotské vejce",
+    "skotské vejce recept",
+    "skotské vejce v troubě",
+    "vejce v masu"
+  ],
+  "image": "dish-skotske-vejce",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 20,
+  "waitMinutes": 20,
+  "waitLabel": "chladnutí vajec a masa",
+  "difficulty": "střední",
+  "meal": "predkrm",
+  "intro": "Skotské vejce je vejce uvařené natvrdo nebo na měkko, obalené v mleté vepřové směsi a smažené v trojobalu. Je dobré horké i studené. Těžké je maso zatáhnout, aby vejce neprasklo, a smažit při správné teplotě.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 5,
+      "unit": "ks",
+      "note": "4 na vaření, 1 do trojobalu"
+    },
+    {
+      "ingredient": "veprove-mlete",
+      "amount": 400,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "strouhanka",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 700,
+      "unit": "ml",
+      "note": "na smažení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce vlož do vroucí vody a vař 7 minut pro lehce měkký žloutek, nebo 9 minut natvrdo. Přendej do ledové vody na 10 minut a oloupej."
+    },
+    {
+      "text": "Mleté maso smíchej s cibulí, petrželkou, hořčicí, majoránkou, solí a pepřem. Rozděl ji na 4 stejné díly."
+    },
+    {
+      "text": "Každý díl rozplácni na dlani, vlož vejce a maso kolem něj pevně uzavři bez dutin. Obal v mouce, rozšlehaném vejci a strouhance."
+    },
+    {
+      "text": "Olej rozehřej na 170 °C. Vejce smaž 8 až 10 minut, otáčej je. Maso uvnitř musí mít aspoň 75 °C. Odkapej na papírové utěrce."
+    },
+    {
+      "text": "Rozkroj na půlky a podávej teplé s hořčicí a salátem, nebo studené."
+    }
+  ],
+  "tips": [
+    "Teplotu oleje hlídej teploměrem. Při nižší vejce nasákne tuk, při vyšší shoří a zůstane syrové uvnitř.",
+    "Obalené vejce nech 10 minut v lednici, trojobal lépe drží.",
+    "Do trouby: peč 25 minut při 200 °C, pokapané olejem."
+  ],
+  "substitutions": [
+    "Maso můžeš nahradit mletou klobásou.",
+    "Strouhanku nahraď panko.",
+    "Bez lepku: použij bezlepkovou strouhanku."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit vejce na skotské vejce?",
+      "a": "7 minut na měkko, 9 na tvrdo."
+    },
+    {
+      "q": "Jak je smažit?",
+      "a": "Při 170 °C 8 až 10 minut."
+    },
+    {
+      "q": "Dá se péct v troubě?",
+      "a": "Ano, 25 minut při 200 °C."
+    }
+  ]
+}

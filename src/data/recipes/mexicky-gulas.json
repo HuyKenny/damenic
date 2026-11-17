@@ -1,0 +1,141 @@
+{
+  "title": "Mexický guláš",
+  "keywords": [
+    "mexický guláš",
+    "mexický guláš recept",
+    "mexický guláš s fazolemi",
+    "hovězí guláš po mexicku"
+  ],
+  "image": "dish-mexicky-gulas",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 5,
+  "activeMinutes": 30,
+  "cookMinutes": 120,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Mexický guláš je hovězí dušené s fazolemi, kukuřicí, paprikou a rajčaty s kouřovou paprikou a římským kmínem. Hodí se k rýži, tortillám a nachos. Tento recept je prostě hrnec, který stačí nechat v klidu dusit.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-plec",
+      "amount": 700,
+      "unit": "g",
+      "note": "na kostky 3 cm"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "fazole-cervene",
+      "amount": 240,
+      "unit": "g",
+      "note": "scezené"
+    },
+    {
+      "ingredient": "kukurice-konzerva",
+      "amount": 150,
+      "unit": "g",
+      "note": "scezená"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "kmin-rimsky",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-uzena",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso osol a na oleji opeč po dávkách dozlatova. Vyndej."
+    },
+    {
+      "text": "V tom samém hrnci opékej cibuli 6 minut. Přidej česnek, kmín římský, uzenou papriku, chilli a oregano a míchej 1 minutu."
+    },
+    {
+      "text": "Přidej rajčata, protlak a vývar, vrať maso. Přikryj a duš na mírném plameni 90 minut."
+    },
+    {
+      "text": "Přidej papriku, fazole a kukuřici a vař dalších 30 minut bez poklice, dokud omáčka nezhoustne a maso se nerozpadá."
+    },
+    {
+      "text": "Dochuť solí, případně citronem. Podávej s rýží, tortillami nebo kysanou smetanou."
+    }
+  ],
+  "tips": [
+    "Kmín římský je typický pro tuhle chuť. Kmín obyčejný ho nenahradí.",
+    "Fazole a kukuřici přidávej až na konci, aby se nerozvařily.",
+    "Čím déle se dusí, tím je lepší."
+  ],
+  "substitutions": [
+    "Hovězí plec lze nahradit kližkou, dus ji 30 minut déle.",
+    "Chilli nahraď jalapeños, pro mírnější chuť vynech.",
+    "Bez fazolí: přidej víc papriky a kukuřice."
+  ],
+  "faq": [
+    {
+      "q": "Je mexický guláš ostrý?",
+      "a": "Záleží na chilli. S lžičkou vloček je středně ostrý, bez nich jen výrazný."
+    },
+    {
+      "q": "K čemu mexický guláš podávat?",
+      "a": "K rýži, tortillám nebo nachos."
+    },
+    {
+      "q": "Dá se zamrazit?",
+      "a": "Ano, vydrží 3 měsíce."
+    }
+  ]
+}

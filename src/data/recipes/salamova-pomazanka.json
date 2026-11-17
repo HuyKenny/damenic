@@ -1,0 +1,97 @@
+{
+  "waitMinutes": 30,
+  "title": "Salámová pomazánka",
+  "keywords": [
+    "salámová pomazánka",
+    "salámová pomazánka recept",
+    "pomazánka ze salámu",
+    "salámová pomazánka s vejcem"
+  ],
+  "image": "dish-salamova-pomazanka",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 20,
+  "cookMinutes": 10,
+  "waitLabel": "vychladnutí v lednici",
+  "difficulty": "snadné",
+  "meal": "predkrm",
+  "intro": "Salámová pomazánka je klasika na chleba a chlebíčky: najemno nakrájený salám, vejce natvrdo, pomazánkové máslo a pár kyselých okurek. Mezi pomazánkami je výrazná kořenitou chutí salámu a hodí se na svačinu i párty.",
+  "ingredients": [
+    {
+      "ingredient": "salam-trvanlivy",
+      "amount": 200,
+      "unit": "g",
+      "note": "bez kůže"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "pomazankove-maslo",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "tavene-syr-blok",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 50,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce uvař natvrdo, tedy 10 minut od varu. Zchlaď je pod studenou vodou a oloupej."
+    },
+    {
+      "text": "Salám nakrájej na malé kostičky nebo ho prožeň struhadlem na hrubo. Vejce a okurky nasekej najemno."
+    },
+    {
+      "text": "Pomazánkové máslo a tavený sýr vymíchej do hladka. Přidej salám, vejce, okurky, hořčici a pepř."
+    },
+    {
+      "text": "Pomazánku promíchej, ochutnej a dosol dle potřeby (salám je slaný). Nech 30 minut odležet v lednici, než ztuhne."
+    }
+  ],
+  "tips": [
+    "Salám krájej na stejně velké kousky, pomazánka je pak lépe roztíratelná.",
+    "Vejce natvrdo musí být opravdu uvařená, syrová do pomazánky nepatří.",
+    "Podávej na ráno čerstvě, odležená pomazánka drží na chlebíčku lépe."
+  ],
+  "substitutions": [
+    "Místo taveného sýra použij 100 g smetanového sýra.",
+    "Místo okurek nakrájej 1 malou kyselou cibulku.",
+    "Bez vajec: přidej 50 g másla a jednu lžíci smetany."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží salámová pomazánka?",
+      "a": "V uzavřené dóze v lednici 3 dny. Kvůli vejci ji nenech venku déle než 2 hodiny."
+    },
+    {
+      "q": "Jaký salám se hodí do pomazánky?",
+      "a": "Pevný trvanlivý salám bez velkých kousků tuku, s výraznou chutí, třeba paprikový nebo zimní."
+    },
+    {
+      "q": "Dá se pomazánka zmrazit?",
+      "a": "Nedoporučuji. Po rozmražení se pomazánka rozdělí a vejce zhumpolatí."
+    }
+  ]
+}

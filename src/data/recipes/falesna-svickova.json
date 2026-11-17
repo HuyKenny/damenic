@@ -1,0 +1,153 @@
+{
+  "title": "Falešná svíčková",
+  "keywords": [
+    "falešná svíčková",
+    "falešná svíčková recept",
+    "falešná svíčková z vepřového",
+    "svíčková z kýty"
+  ],
+  "image": "dish-falesna-svickova",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 35,
+  "cookMinutes": 110,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Falešná svíčková je vepřová kýta pečená na kořenové zelenině, ze které se rozmixuje hladká smetanová omáčka. Chutná jako svíčková, jen je levnější a nic se nemusí marinovat. Těžké je jedině nechat omáčku dostatečně zjemnět a vyvážit sladkou a kyselou.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-kyta-kus",
+      "amount": 900,
+      "unit": "g",
+      "note": "vcelku"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 250,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "celer-bulva",
+      "amount": 150,
+      "unit": "g",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "petrzel-koren",
+      "amount": 100,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "pepr-cely",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 600,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "šťáva"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "brusinky-kompot",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "knedlik-houskovy",
+      "amount": 500,
+      "unit": "g",
+      "note": "k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso osol a opepři. V hrnci s pevným dnem ho na oleji opeč ze všech stran dozlatova, asi 8 minut, a vyndej na talíř."
+    },
+    {
+      "text": "Do hrnce dej cibuli, mrkev, celer a petržel, opékej 8 minut. Přidej bobkový list, nové koření a celý pepř, zalij 600 ml vody a octem a vrať maso."
+    },
+    {
+      "text": "Přikryj a duš na mírném varu 90 až 100 minut, maso jednou otoč. Je hotové, když se vidlička zabodne bez odporu a uvnitř je zhruba 85 °C."
+    },
+    {
+      "text": "Maso vyndej. Bobkový list odstraň, zeleninu s tekutinou rozmixuj ponorným mixérem do hladka. Přidej smetanu, cukr a šťávu z citronu a vař 5 minut."
+    },
+    {
+      "text": "Maso nakrájej na plátky, polij omáčkou a podávej s houskovým knedlíkem a brusinkami."
+    }
+  ],
+  "tips": [
+    "Cukr a citron přidávej postupně a ochutnávej. Omáčka má být sladkokyselá, ne sladká.",
+    "Nemixuj bobkový list ani nové koření, zhořknou. Vyndej je před mixováním.",
+    "Maso krájej až po 10 minutách odpočinku, ztratí méně šťávy."
+  ],
+  "substitutions": [
+    "Kýtu můžeš nahradit hovězím zadním, dus ho 30 minut déle.",
+    "Smetanu na šlehání vyměň za smetanu na vaření nebo 150 g zakysané smetany.",
+    "Bez citronu přidej 1 lžičku octa navíc, rozhoduje čistá kyselost."
+  ],
+  "faq": [
+    {
+      "q": "Čím se falešná svíčková liší od svíčkové?",
+      "a": "Maso je vepřové, ne hovězí, a nemarinuje se. Omáčka je stejně z kořenové zeleniny a smetany."
+    },
+    {
+      "q": "Dá se falešná svíčková zamrazit?",
+      "a": "Omáčku bez smetany ano, vydrží 3 měsíce. Smetanu přidej až při ohřevu."
+    },
+    {
+      "q": "Jak zahustit omáčku bez mouky?",
+      "a": "Zeleninu rozmixuj, omáčka zhoustne sama. Případně ji vař 5 až 10 minut bez víka."
+    }
+  ]
+}

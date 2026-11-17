@@ -1,0 +1,21 @@
+{
+  "name": "Rafaelo kuličky",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "dessert",
+  "section": "Cukroví",
+  "description": "Nepečené kokosové kuličky s mandlí uprostřed, 5 ks.",
+  "about": [],
+  "price": 6900,
+  "image": "dish-rafaelo-kulicky",
+  "recipe": "rafaelo-kulicky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 520
+}

@@ -1,0 +1,134 @@
+{
+  "title": "Margot řezy",
+  "keywords": [
+    "margot řezy",
+    "margot řezy recept",
+    "margot rezy",
+    "řezy s lískovými ořechy a krémem",
+    "vanilkové řezy s čokoládou"
+  ],
+  "intro": "Margot řezy mají lískooříškový korpus, vanilkový máslový krém a tenkou čokoládovou polevu. Korpus se peče z oddělených žloutků a bílků, krém z pudinku. Z plechu 24 × 34 cm vyjde 20 řezů a nejlepší jsou po noci v lednici.",
+  "image": "dish-margot-rezy",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 55,
+  "cookMinutes": 22,
+  "waitMinutes": 480,
+  "waitLabel": "chlazení řezů v lednici",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 180,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "liskove-orechy",
+      "amount": 100,
+      "unit": "g",
+      "note": "mleté",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 20,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 50,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 70,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "pokojové teploty",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 120,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 165 °C). Plech 24 × 34 cm vyložíš pečicím papírem."
+    },
+    {
+      "text": "Žloutky vyšlehej se 100 g cukru do světlé pěny. Bílky ušlehej se zbylými 80 g cukru do tuhého sněhu. Smíchej mleté ořechy s moukou a kakaem."
+    },
+    {
+      "text": "Do žloutkové pěny po třetinách vmíchej sníh a suchou směs. Těsto rozetři na plech a peč 20 až 22 minut, dokud špejle nevyjde suchá. Nech vychladnout."
+    },
+    {
+      "text": "Ze 100 ml mléka a pudinkového prášku rozmíchej kaši. Zbylé mléko přiveď s cukrem k varu, vlij kaši a za stálého míchání vař 1 minutu. Přikryj naležato fólií a nech úplně vychladnout."
+    },
+    {
+      "text": "Měkké máslo vyšlehej do světlého krému a po lžících přidávej vychladlý pudink. Krém rozetři na korpus a dej na hodinu do lednice."
+    },
+    {
+      "text": "Čokoládu rozpusť s máslem nad párou, nech 5 minut zchladnout a rozetři po krému. Řezy nech v lednici nejméně 6 hodin, nejlépe přes noc, a krájej ostrým nožem namočeným v teplé vodě."
+    }
+  ],
+  "tips": [
+    "Máslo a pudink musí mít stejnou pokojovou teplotu, jinak se krém sráží.",
+    "Čokoládová poleva nesmí být horká, jinak se krém roztéká. Má být vlažná a hladká.",
+    "Řezy vydrží v lednici zakryté 4 dny."
+  ],
+  "substitutions": [
+    "Lískové ořechy nahraď mletými mandlemi, korpus bude světlejší.",
+    "Máslo v krému nahraď stejným množstvím rostlinného margarínu, krém bude neutrálnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se Margot řezy chladí?",
+      "a": "Nejméně 6 hodin, nejlépe přes noc. Teprve pak krém ztuhne a řezy se dají čistě krájet."
+    },
+    {
+      "q": "Dají se řezy zamrazit?",
+      "a": "Ano, v porcích vydrží zamražené 3 týdny. Rozmrazuj je v lednici asi 4 hodiny."
+    },
+    {
+      "q": "Proč mi poleva praská při krájení?",
+      "a": "Poleva byla studená nebo příliš tlustá. Řezy nech před krájením 10 minut při pokojové teplotě a nůž namoč v horké vodě."
+    }
+  ]
+}

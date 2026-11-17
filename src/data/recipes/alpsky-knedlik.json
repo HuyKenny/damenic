@@ -1,0 +1,118 @@
+{
+  "title": "Alpský knedlík",
+  "keywords": [
+    "alpský knedlík",
+    "alpské knedlíky",
+    "alpský knedlík recept",
+    "tyrolský knedlík"
+  ],
+  "image": "dish-alpsky-knedlik-hostinec",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "waitMinutes": 20,
+  "waitLabel": "odpočinek směsi",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Alpský knedlík je kulatý houskový knedlík se slaninou a cibulí, který se vaří ve vodě nebo v polévce. Vyjde 8 kusů pro 4 osoby a jeho kouzlo je v tom, že se z oschlého pečiva udělá sytá hlavní porce. Těžké je trefit vlhkost směsi, aby knedlík držel tvar.",
+  "ingredients": [
+    {
+      "ingredient": "rohliky",
+      "amount": 5,
+      "unit": "ks",
+      "note": "starší, na kostky"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vlažné"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "uzene-maso",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "g",
+      "note": "čerstvě mletý"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Uzené maso a cibuli zpěň na másle 3 až 4 minuty dozlatova. Nech mírně vychladnout."
+    },
+    {
+      "text": "V míse smíchej rohlíkové kostičky s vlažným mlékem a vejci, přidej maso s cibulí, petrželku, sůl a pepř. Nech 20 minut odpočinout."
+    },
+    {
+      "text": "Přisyp mouku a směs promíchej. Mokrýma rukama tvaruj 8 kulatých knedlíků o průměru 6 cm."
+    },
+    {
+      "text": "Ve velkém hrnci přiveď k varu osolenou vodu, sniž plamen na mírný var a vlož knedlíky. Vař 15 minut bez vyvaření ve vyšší teplotě."
+    },
+    {
+      "text": "Hotové vyndej děrovanou naběračkou a podávej s máslem, zelím nebo ve vývaru."
+    }
+  ],
+  "tips": [
+    "Zkus vařit jeden zkušební knedlík, zda drží tvar. Když se rozpadá, přisyp 1 lžíci strouhanky.",
+    "Voda nesmí prudce vřít, knedlíky by se roztrhly.",
+    "Vyšší rohlíky nechej den uschnout na prkénku."
+  ],
+  "substitutions": [
+    "Uzené maso nahraď houbami pro bezmasou variantu.",
+    "Mléko nahraď vývarem."
+  ],
+  "faq": [
+    {
+      "q": "Z čeho se dělá alpský knedlík?",
+      "a": "Z oschlého pečiva, mléka, vajec, slaniny nebo uzeného masa a cibule."
+    },
+    {
+      "q": "Proč se alpský knedlík rozpadá?",
+      "a": "Směs byla příliš vlhká nebo voda příliš vřela. Přidej strouhanku nebo mouku a vař na mírném plameni."
+    },
+    {
+      "q": "Dá se připravit předem?",
+      "a": "Ano, uvařené knedlíky vydrží v lednici 2 dny a ohřívají se v páře nebo ve vývaru."
+    }
+  ]
+}

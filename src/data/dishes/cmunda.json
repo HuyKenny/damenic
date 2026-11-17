@@ -1,0 +1,25 @@
+{
+  "name": "Cmunda s česnekovým máslem",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "main",
+  "section": "Těstoviny a brambory",
+  "description": "Měkké bramborové placky z pánve, potřené máslem s česnekem, se zelím.",
+  "about": [
+    "Cmunda je bramborová placka, která se nechce kamarádit s olejem. Peče se nasucho a hnědé skvrny vyrobí plotna, ne tuk. Uvnitř zůstane měkká, venku trochu křupne.",
+    "Je to jídlo pro všechny, kdo mají doma zbylé brambory a hlad. Hlad je skutečný, brambory ne, ale recept tu ano a vychází na první pokus."
+  ],
+  "price": 12900,
+  "image": "dish-cmunda",
+  "recipe": "cmunda",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 993
+}

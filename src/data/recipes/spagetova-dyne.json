@@ -1,0 +1,110 @@
+{
+  "title": "Špagetová dýně",
+  "keywords": [
+    "špagetová dýně",
+    "špagetová dýně recept",
+    "pečená špagetová dýně",
+    "špagetová dýně s rajčatovou omáčkou",
+    "dýně špagetová"
+  ],
+  "image": "dish-spagetova-dyne-zahradka",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 45,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Špagetová dýně se po upečení rozpadne ve vláknité pramínky podobné špagetám. Upéct ji můžeš půlenou za 40 až 45 minut a podávat s rajčatovou omáčkou a mozzarellou. Dýně musí být upečená do měkka, ale pramínky nesmí být kašovité.",
+  "ingredients": [
+    {
+      "ingredient": "dyne-spagetova",
+      "amount": 1200,
+      "unit": "g",
+      "note": "1 menší dýně"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "nasekaný"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "bazalka",
+      "amount": 4,
+      "unit": "ks",
+      "note": "lístky"
+    },
+    {
+      "ingredient": "mozzarella",
+      "amount": 125,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C (horkovzduch 180 °C). Dýni opláchni, podélně ji rozkroj a vydlabej semínka lžící."
+    },
+    {
+      "text": "Řezy potři 2 lžícemi oleje, osol a opepři. Polož dýni řezem dolů na plech s pečicím papírem a peč 40 až 45 minut, dokud se do slupky snadno nezapíchne vidlička."
+    },
+    {
+      "text": "Mezitím na pánvi rozehřej 2 lžíce oleje, přidej česnek a 30 vteřin ho opékej. Zalij passatou, osol a vař na mírném plameni 12 minut, dokud omáčka nezhoustne."
+    },
+    {
+      "text": "Upečenou dýni nech 10 minut vychladnout. Vidličkou vyškrábej dužinu podél vláken, vzniknou špagety."
+    },
+    {
+      "text": "Špagety smíchej s omáčkou, dej zpět do půlek dýně nebo do zapékací misky a posyp mozzarellou. Zapékej při 220 °C 5 až 8 minut do zlatova."
+    },
+    {
+      "text": "Podávej s lístky bazalky."
+    }
+  ],
+  "tips": [
+    "Dýni peč řezem dolů, vlákna se uvolní a nezačne se připalovat dužina.",
+    "Pokud je dýně vodnatá, nechej dužinu před smícháním s omáčkou 5 minut ve cedníku.",
+    "Vlákna škrábej vždy podél, nikoli napříč, zachováš dlouhé pramínky."
+  ],
+  "substitutions": [
+    "Mozzarellu nahraď parmazánem nebo eidamem.",
+    "Passatu nahraď rajčaty z konzervy rozmixovanými s lžící oleje.",
+    "Místo bazalky použij oregano."
+  ],
+  "faq": [
+    {
+      "q": "Jak poznám, že je špagetová dýně upečená?",
+      "a": "Vidlička se snadno zapíchne do slupky a dužina se rozpadá na prameny. Nechej ji ale 10 minut vychladnout."
+    },
+    {
+      "q": "Dá se špagetová dýně vařit?",
+      "a": "Ano, půlky 20 minut ve vroucí vodě nebo 10 minut v mikrovlnce. Pečená má ale lepší chuť."
+    },
+    {
+      "q": "Jí se slupka špagetové dýně?",
+      "a": "Ne, slupka je tuhá, jí se jen dužina."
+    }
+  ]
+}

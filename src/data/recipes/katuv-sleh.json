@@ -1,0 +1,147 @@
+{
+  "title": "Katův šleh",
+  "keywords": [
+    "katův šleh",
+    "katův šleh recept",
+    "katuv sleh",
+    "katův šleh řezy",
+    "katův šleh s krémem"
+  ],
+  "intro": "Katův šleh je řez z kakaového piškotu, vanilkového máslového krému a vysoké šlehačky posypané čokoládou. Piškot se peče jen 18 minut a krém se míchá z vychladlého pudinku, takže celé je to otázka trpělivosti, ne zručnosti. Z plechu 24 × 34 cm vyjde 20 řezů.",
+  "image": "dish-katuv-sleh",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 45,
+  "cookMinutes": 18,
+  "waitMinutes": 360,
+  "waitLabel": "chlazení řezů v lednici",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 5,
+      "unit": "ks",
+      "group": "Piškot"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Piškot"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Piškot"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 30,
+      "unit": "g",
+      "group": "Piškot"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 5,
+      "unit": "g",
+      "note": "půl lžičky",
+      "group": "Piškot"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 50,
+      "unit": "g",
+      "note": "prášek na 500 ml mléka",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "pokojové teploty",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 300,
+      "unit": "ml",
+      "note": "vychlazená, min. 33 %",
+      "group": "Vrch"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "group": "Vrch"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaná na posyp",
+      "group": "Vrch"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Plech 24 × 34 cm vyložíš pečicím papírem."
+    },
+    {
+      "text": "Žloutky vyšlehej se 70 g cukru do světlé pěny. V druhé misce ušlehej bílky se zbylými 80 g cukru do tuhého sněhu, který drží tvar i po otočení misky."
+    },
+    {
+      "text": "Mouku prosej s kakaem a práškem do pečiva. Střídavě vmíchej sníh a mouku do žloutkové pěny špachtlí, aby sníh neklesl. Těsto rozetři na plech do výšky asi 1 cm."
+    },
+    {
+      "text": "Peč 15 až 18 minut, dokud se piškot při zmáčknutí vrací a špejle vyjde suchá. Nech ho vychladnout na plechu a pak ho sundej i s papírem na mřížku."
+    },
+    {
+      "text": "Z mléka odlij 100 ml a rozmíchej v něm pudinkový prášek. Zbylé mléko se 70 g cukru přiveď k varu, vlij rozmíchaný pudink a za stálého míchání vař 1 minutu do hustoty. Pudink přikryj fólií naležato, aby nevytvořil škraloup, a nech ho zcela vychladnout na pokojovou teplotu."
+    },
+    {
+      "text": "Máslo vyšlehej do světlého krému a po lžících přidávej vychladlý pudink. Krém mezitím nesmí být studený z lednice ani teplý, jinak se zrazí. Rozetři ho na piškot."
+    },
+    {
+      "text": "Šlehačku ušlehej s moučkovým cukrem do pevné pěny a rozetři ji na krém. Posyp strouhanou čokoládou a nech v lednici nejméně 6 hodin, nejlépe přes noc. Krájej ostrým nožem namočeným v teplé vodě."
+    }
+  ],
+  "tips": [
+    "Pudink i máslo musí mít při míchání stejnou pokojovou teplotu. Když se krém sráží, šlehej ho nad lázní z teplé vody několik vteřin.",
+    "Piškot nepeč déle, než je třeba: přepečený je suchý a při krájení se láme.",
+    "Řezy skladuj v lednici a snězte je do 3 dnů. Šlehačka po delším čase povadne."
+  ],
+  "substitutions": [
+    "Máslo v krému nahraď stejným množstvím změklého rostlinného margarínu na pečení. Chuť bude neutrálnější.",
+    "Strouhanou čokoládu na posyp nahraď kakaem prosetým přes sítko.",
+    "Šlehačku můžeš zesílit lžící zahušťovače šlehačky nebo smíchat s 100 g mascarpone."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží Katův šleh v lednici?",
+      "a": "Zakrytý vydrží v lednici 3 dny. Šlehačka a máslový krém časem vlhnou, proto ho krájej až před podáváním."
+    },
+    {
+      "q": "Dá se Katův šleh zamrazit?",
+      "a": "Zamrazit se dá hotový řez v porcích až na 4 týdny. Rozmrazuj ho v lednici asi 4 hodiny, ne při pokojové teplotě."
+    },
+    {
+      "q": "Proč se mi krém zrazil?",
+      "a": "Většinou byl pudink studený nebo máslo příliš tuhé. Krém krátce šlehej nad miskou s teplou vodou, ať se tuk srovná s ostatními surovinami."
+    }
+  ]
+}

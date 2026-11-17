@@ -1,0 +1,136 @@
+{
+  "title": "Džuveč",
+  "keywords": [
+    "džuveč",
+    "džuveč recept",
+    "džuveč z trouby",
+    "balkánský džuveč",
+    "džuveč s vepřovým"
+  ],
+  "image": "dish-dzuvec",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 60,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Džuveč je balkánské jídlo z rýže, masa a zeleniny, které se peče v jedné nádobě. Paprika, rajčata a hrášek dělají barvu, rýže vsákne šťávu z masa a nic se nemíchá. Trouba odvede práci za tebe.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-plecko",
+      "amount": 500,
+      "unit": "g",
+      "note": "na kostky 2 cm"
+    },
+    {
+      "ingredient": "ryze-dlouhozrnna",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "paprika-zelena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "rajcata-loupana",
+      "amount": 400,
+      "unit": "g"
+    },
+    {
+      "ingredient": "hrasek-mrazeny",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 600,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 170 °C). V pekáči nebo hrnci vhodném do trouby opeč na oleji maso 5 minut dozlatova a osol."
+    },
+    {
+      "text": "Přidej cibuli a papriky a opékej 5 minut. Posyp sladkou paprikou, promíchej a ihned přidej rajčata s česnekem."
+    },
+    {
+      "text": "Přidej omytou rýži, hrášek, sůl, pepř a zalij 600 ml horké vody. Promíchej jen jednou a povrch uhlaď."
+    },
+    {
+      "text": "Přikryj a peč 45 minut. Poté víko sundej a peč 15 minut, aby se povrch zatáhl. Rýže má být měkká a maso uvnitř aspoň 70 °C."
+    },
+    {
+      "text": "Nech 5 minut odpočinout, posyp petrželkou a podávej s okurkou nebo ajvarem."
+    }
+  ],
+  "tips": [
+    "Rýži před pečením propláchni, aby džuveč nebyl lepkavý.",
+    "Po vlití vody už jen jednou promíchej, jinak se rýže rozmělní.",
+    "Víko sundej na posledních 15 minut, aby se vypařil přebytek tekutiny."
+  ],
+  "substitutions": [
+    "Vepřové lze nahradit kuřecími stehny bez kosti.",
+    "Bez masa: použij 300 g lilku a cukety, dobu zkrať na 40 minut.",
+    "Rajčata v konzervě nahraď 500 ml passaty."
+  ],
+  "faq": [
+    {
+      "q": "Co je džuveč?",
+      "a": "Balkánské jídlo z rýže, masa a zeleniny pečené v jedné nádobě."
+    },
+    {
+      "q": "Jakou rýži použít do džuveče?",
+      "a": "Dlouhozrnnou, která nelepí a po upečení zůstane sypká."
+    },
+    {
+      "q": "Dá se džuveč ohřát?",
+      "a": "Ano, v lednici vydrží 3 dny, ohřej s lžící vody."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Grenadýrský pochod s uzeným",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "main",
+  "section": "Těstoviny a brambory",
+  "description": "Těstoviny s bramborami, cibulkou a uzeným masem z pánve, s kyselou okurkou.",
+  "about": [
+    "Grenadýrský pochod je z kategorie jídel, které si zachránily jméno z doby, kdy se v jídelnách vařilo po vojensku: velký hrnec, málo surovin, žádná dekorace. Těstoviny, brambory a uzené maso se dohromady opečou na cibulce.",
+    "Jídelna Už Hotovo ti nic nevydá, ale pánev máš. Do půl hodiny jsi na talíři a pochod můžeš zahájit."
+  ],
+  "price": 13900,
+  "image": "dish-grenadyrsky-pochod",
+  "recipe": "grenadyrsky-pochod",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1
+  ],
+  "featured": false,
+  "order": 1000
+}

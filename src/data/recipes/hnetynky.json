@@ -1,0 +1,105 @@
+{
+  "title": "Hnětýnky",
+  "keywords": [
+    "hnětýnky",
+    "hnětýnky recept",
+    "bramborové hnětýnky",
+    "hnětýnky se zelím",
+    "hnětynky"
+  ],
+  "image": "dish-hnetynky-jidelna",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 15,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Hnětýnky jsou bramborové válečky z vařených brambor, mouky a vejce, které se krátce uvaří a pak osmaží na másle. Těsto musí být měkké a nesmí se přemíchat, jinak je tuhé. Podávají se se zelím a slaninou nebo zasypané mákem.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "vařené ve slupce a vychladlé"
+    },
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "na osmažení"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "kysane-zeli",
+      "amount": 300,
+      "unit": "g",
+      "note": "dušené, k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař ve slupce asi 25 minut do měkka, nech vychladnout a oloupej. Prolisuj je nebo nastrouhej najemno."
+    },
+    {
+      "text": "K bramborám přidej mouku, vejce a sůl. Rychle prohněť těsto, aby bylo měkké a drželo pohromadě. Dlouhým hnětením zhoustne."
+    },
+    {
+      "text": "Těsto rozděl na 4 díly, z každého vyválej válec asi 2 cm silný a nakrájej na kousky 4 cm dlouhé."
+    },
+    {
+      "text": "Ve velkém hrnci přiveď k varu osolenou vodu. Hnětýnky vař po částech 5 minut, dokud nevyplavou a pak ještě 2 minuty."
+    },
+    {
+      "text": "Slaninu opeč na suché pánvi 5 minut do zlatova. Přidej máslo a hnětýnky osmaž z obou stran 3 až 4 minuty do světle zlaté."
+    },
+    {
+      "text": "Podávej s dušeným zelím."
+    }
+  ],
+  "tips": [
+    "Brambory musí být vychladlé a suché, jinak bude těsto lepkavé a bude chtít víc mouky.",
+    "Zkus nejdřív jeden váleček uvařit. Pokud se rozpadá, přidej lžíci mouky.",
+    "Hnětýnky jsou dobré i druhý den osmažené na pánvi."
+  ],
+  "substitutions": [
+    "Slaninu vynech a podávej s cibulkou osmaženou na másle.",
+    "Zelí nahraď kysanou nebo červenou kapustou.",
+    "Sladkou verzi dostaneš, když válečky obalíš mákem s cukrem."
+  ],
+  "faq": [
+    {
+      "q": "Jaké brambory na hnětýnky?",
+      "a": "Vhodné jsou středně moučné, vařené ve slupce, které nepustí moc vody."
+    },
+    {
+      "q": "Proč jsou hnětýnky tuhé?",
+      "a": "Těsto jste dlouho hnětli nebo je v něm moc mouky. Hněť krátce a mouku přidávej po lžících."
+    },
+    {
+      "q": "Dají se hnětýnky zamrazit?",
+      "a": "Ano, uvařené a vychladlé vydrží v mrazáku 2 měsíce. Osmaž je rovnou z mrazu."
+    }
+  ]
+}

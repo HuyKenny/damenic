@@ -1,0 +1,26 @@
+{
+  "name": "Banánová bábovka",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Vláčná bábovka ze zralých banánů s olejem a jogurtem.",
+  "about": [
+    "Banánová bábovka je způsob, jak z banánů s tmavými skvrnami udělat něco, co zmizí za odpoledne. Těsto je vláčné, sladké a voní jako banány po zralosti.",
+    "Stačí 3 banány, mouka, prášek a hrnek trpělivosti u trouby. Kurýr Nikdo ti bábovku nepřiveze, ale banány už máš doma a těsto se míchá jednou lžící."
+  ],
+  "price": 8900,
+  "image": "dish-bananova-babovka",
+  "recipe": "bananova-babovka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 340
+}

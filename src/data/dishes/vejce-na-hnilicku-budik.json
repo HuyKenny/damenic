@@ -1,0 +1,23 @@
+{
+  "name": "Vejce na hniličku s toastem",
+  "restaurant": "odlozeny-budik",
+  "kind": "main",
+  "section": "Vejce",
+  "description": "Dvě měkká vejce v kalíšcích s tekutým žloutkem a másle potřeným toastem.",
+  "about": [
+    "Vejce na hniličku jsou jídlo, u kterého se vyplatí kuchyňský budík. Čtyři minuty dávají tekutý žloutek, pět minut krémový. Zbytek je toast, sůl a trpělivost.",
+    "Snídárna je smyšlená a budík odložený, ale časovač nastav hned. Tady rozhoduje každá minuta."
+  ],
+  "price": 10900,
+  "image": "dish-vejce-na-hnilicku-budik",
+  "recipe": "vejce-na-hnilicku",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 450
+}

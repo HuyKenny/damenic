@@ -1,0 +1,23 @@
+{
+  "name": "Vločková polévka s vejcem",
+  "restaurant": "lzice-zitra",
+  "kind": "main",
+  "section": "Lehké",
+  "description": "Zeleninová polévka zahuštěná ovesnými vločkami a jemně sraženým vejcem.",
+  "about": [
+    "Vločky v polévce zní jako snídaně, která se spletla v čase. Ve skutečnosti je to stará hospodyňská rychlovka: zelenina, vývar, hrst vloček a vejce, které se do hrnce vlije jako poslední.",
+    "Polévkárna je smyšlená a lžíce zítra prázdná, ale tohle se uvaří dnes za dvacet minut. Zrovna tahle se odkládat nemusí."
+  ],
+  "price": 8900,
+  "image": "dish-vlockova-polevka-lzice-zitra",
+  "recipe": "vlockova-polevka",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 420
+}

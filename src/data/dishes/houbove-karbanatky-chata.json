@@ -1,0 +1,22 @@
+{
+  "name": "Houbové karbanátky s petrželkou",
+  "restaurant": "chata-pristi-sezona",
+  "kind": "main",
+  "section": "Houbová jídla",
+  "description": "Smažené karbanátky ze žampionů a majoránky, s bramborem a čerstvou petrželkou.",
+  "about": [
+    "Houbové karbanátky jsou důkaz, že maso se do karbanátku nemusí. Vařené houby dají hutnou, tmavou chuť a strouhanka je spojí. Jediné pravidlo: nechat odpařit vodu.",
+    "Chata je smyšlená a houby v ní nikdy nevyrostly, ale tvoje pánev je doma skutečná. Můžeš zkusit i směs hub z lesa, pokud je znáš."
+  ],
+  "price": 15900,
+  "image": "dish-houbove-karbanatky-chata",
+  "recipe": "houbove-karbanatky",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3
+  ],
+  "order": 940
+}

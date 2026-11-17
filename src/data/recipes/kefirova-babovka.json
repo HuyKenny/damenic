@@ -1,0 +1,119 @@
+{
+  "title": "Kefírová bábovka",
+  "keywords": [
+    "kefírová bábovka",
+    "kefírová bábovka recept",
+    "kefirova babovka",
+    "bábovka s kefírem",
+    "bábovka s mákem"
+  ],
+  "intro": "Kefírová bábovka s mákem je vláčná bábovka z kefíru, oleje a mletého máku. Kefír dělá těsto jemně kyselé a lehké, mák ho dělá výrazné. Peče se ve formě 24 cm a vyjde 12 kousků.",
+  "image": "dish-kefirova-babovka",
+  "category": "dezerty",
+  "servings": 15,
+  "activeMinutes": 50,
+  "cookMinutes": 50,
+  "waitMinutes": 20,
+  "waitLabel": "vychladnutí ve formě",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 180,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "kefir",
+      "amount": 250,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mak-mlety",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "note": "na posypání"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na formu"
+    },
+    {
+      "ingredient": "mouka-hruba",
+      "amount": 10,
+      "unit": "g",
+      "note": "na formu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 165 °C). Formu o průměru 24 cm vymaž a vysyp moukou."
+    },
+    {
+      "text": "Vejce vyšlehej s cukrem a vanilkovým cukrem do světlé pěny. Přilij olej a kefír pokojové teploty."
+    },
+    {
+      "text": "Mouku smíchej s mákem a práškem a vmíchej do těsta jen do spojení."
+    },
+    {
+      "text": "Těsto nalij do formy a peč 45 až 50 minut, dokud špejle nevyjde suchá. Nech 10 minut ve formě a vyklop. Vychladlou zasyp moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Kefír vytáhni z lednice 30 minut předem, ať se těsto nesráží.",
+    "Mák nech v těstě 5 minut nabobtnat, bábovka bude vláčnější.",
+    "Zakrytá vydrží 5 dní."
+  ],
+  "substitutions": [
+    "Mák nahraď kakaem (30 g) a 20 g mouky navíc.",
+    "Kefír nahraď bílým jogurtem.",
+    "Olej nahraď rozpuštěným máslem."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct kefírovou bábovku?",
+      "a": "45 až 50 minut při 175 °C horní a spodní ohřev ve formě 24 cm."
+    },
+    {
+      "q": "Dá se kefír nahradit?",
+      "a": "Ano, bílým jogurtem nebo podmáslím ve stejném množství."
+    },
+    {
+      "q": "Proč je bábovka těžká?",
+      "a": "Těsto bylo přemíchané. Po přidání mouky míchej jen do spojení."
+    }
+  ]
+}

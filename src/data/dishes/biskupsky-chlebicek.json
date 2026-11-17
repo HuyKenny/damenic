@@ -1,0 +1,27 @@
+{
+  "name": "Biskupský chlebíček",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "description": "Hustý koláč plný ořechů, kandovaného ovoce, rozinek a čokolády, 14 plátků.",
+  "about": [
+    "Biskupský chlebíček je skoro víc náplně než těsta: ořechy, kandované ovoce, rozinky a čokoláda držené lehkým vaječným těstem. Krájí se na tenké plátky.",
+    "Přísady obal v mouce, aby neklesly. Přes noc je lepší než čerstvý. Smyšlená cukrárna ti ho nepřiveze, recept ale funguje bez ní."
+  ],
+  "price": 11900,
+  "image": "dish-biskupsky-chlebicek",
+  "recipe": "biskupsky-chlebicek",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8,
+    12
+  ],
+  "featured": false,
+  "order": 250
+}

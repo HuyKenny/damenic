@@ -1,0 +1,115 @@
+{
+  "title": "Jogurtový koláč",
+  "keywords": [
+    "jogurtový koláč",
+    "jogurtový koláč recept",
+    "jogurtovy kolac",
+    "jogurtový koláč s ovocem",
+    "vláčný jogurtový koláč"
+  ],
+  "intro": "Jogurtový koláč je vláčný plechový koláč z bílého jogurtu a oleje, na kterém se při pečení zapékají jahody. Těsto se jen promíchá, nemusíš šlehat sníh. Z plechu 24 × 34 cm vyjde 15 kusů.",
+  "image": "dish-jogurtovy-kolac",
+  "category": "dezerty",
+  "servings": 15,
+  "activeMinutes": 35,
+  "cookMinutes": 35,
+  "waitMinutes": 20,
+  "waitLabel": "vychladnutí",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 10,
+      "unit": "g",
+      "note": "asi 1 lžíce"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 300,
+      "unit": "g",
+      "note": "půlené nebo čtvrcené"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na posypání"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na plech"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Plech 24 × 34 cm vymaž máslem nebo vyložíš papírem."
+    },
+    {
+      "text": "Vejce vyšlehej s cukrem a vanilkovým cukrem do světlé pěny. Přilij olej a vmíchej jogurt."
+    },
+    {
+      "text": "Mouku smíchej s práškem do pečiva a vmíchej do těsta. Těsto má být hladké a hustě tekoucí. Rozetři ho na plech."
+    },
+    {
+      "text": "Jahody rozlož na těsto řezem dolů. Peč 30 až 35 minut dozlatova, dokud špejle nevyjde suchá. Po vychladnutí zasyp moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Jahody nech před krájením osušit, jinak koláč v místech s ovocem zvlhne.",
+    "Nejlepší je druhý den, ale po 3 dnech v chladu začne schnout.",
+    "Jahody můžeš střídat s borůvkami nebo malinami, mražené nech jen odkapat."
+  ],
+  "substitutions": [
+    "Olej nahraď rozpuštěným máslem, koláč bude voňavější.",
+    "Jahody nahraď stejným množstvím meruněk nebo švestek.",
+    "Bílý jogurt nahraď kefírem nebo podmáslím."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi jogurtový koláč klesl?",
+      "a": "Nejčastěji kvůli otevřené troubě v prvních 25 minutách nebo příliš mokrému ovoci. Pečení nepřerušuj."
+    },
+    {
+      "q": "Dá se jogurtový koláč zamrazit?",
+      "a": "Ano, nakrájený vydrží zamražený 2 měsíce. Rozmrazuj ho při pokojové teplotě."
+    },
+    {
+      "q": "Jak dlouho vydrží?",
+      "a": "Zakrytý vydrží 3 dny při pokojové teplotě, s ovocem je lepší ho uchovat v lednici."
+    }
+  ]
+}

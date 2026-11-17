@@ -1,0 +1,21 @@
+{
+  "name": "Krkovice pečená v troubě",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "description": "Šťavnatá krkovice na kmínu a česneku s kůrkou, s cibulovým výpekem.",
+  "about": [
+    "Krkovice je maso, ve kterém se tuk usadil přesně tam, kde pomáhá. Při pomalém pečení se rozpustí a maso si ho pak vypije zpátky, takže vnitřek zůstane šťavnatý, i když se na něj nikdo nedíval.",
+    "Doma stačí česnek, kmín, hořčice a dvě hodiny času. Krkovice z našeho menu nedorazí, ale troubu můžeš zapnout hned."
+  ],
+  "price": 23900,
+  "image": "dish-krkovice-v-troube",
+  "recipe": "krkovice-v-troube",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 920,
+  "allergens": [
+    10
+  ]
+}

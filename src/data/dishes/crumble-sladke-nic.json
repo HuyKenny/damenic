@@ -1,0 +1,22 @@
+{
+  "name": "Jablečný crumble",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "Teplé dezerty",
+  "description": "Teplá jablka pod křupavou drobenkou z másla, vloček a mandlí.",
+  "about": [
+    "Crumble je teplý dezert, který tě nezklame, ani když ho děláš poprvé. Jablka změknou pod drobenkou a ta zůstane křupavá.",
+    "Nejlepší je teplý, s kopečkem zmrzliny. Zmrzlinu si dones sám."
+  ],
+  "price": 11900,
+  "image": "dish-crumble-sladke-nic",
+  "recipe": "crumble",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    8
+  ],
+  "order": 130
+}

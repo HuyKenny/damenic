@@ -1,0 +1,136 @@
+{
+  "title": "Bezé roláda",
+  "keywords": [
+    "bezé roláda",
+    "bezé roláda recept",
+    "beze rolada",
+    "bezová roláda se šlehačkou",
+    "pusinková roláda"
+  ],
+  "intro": "Bezé roláda je tenký plát ze sněhu pečený dosucha a zvenku křupavý, uvnitř jako marshmallow. Plní se šlehačkou s mascarpone a ovocem. Těžké je upéct plát, který se po vychladnutí nerozpadá, a zrolovat ho v papíře. Vyjde 10 plátků.",
+  "image": "dish-beze-rolada",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 35,
+  "cookMinutes": 30,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí plátu",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "jen bílky, ušlehané",
+      "group": "Plát"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 200,
+      "unit": "g",
+      "group": "Plát"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 10,
+      "unit": "g",
+      "note": "1 lžíce",
+      "group": "Plát"
+    },
+    {
+      "ingredient": "ocet",
+      "amount": 5,
+      "unit": "ml",
+      "note": "1 lžička",
+      "group": "Plát"
+    },
+    {
+      "ingredient": "mandle-platky",
+      "amount": 30,
+      "unit": "g",
+      "note": "na posypání",
+      "group": "Plát"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 300,
+      "unit": "ml",
+      "note": "vychlazená",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mascarpone",
+      "amount": 125,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "jahody",
+      "amount": 200,
+      "unit": "g",
+      "note": "nakrájené",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "maliny",
+      "amount": 100,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 15,
+      "unit": "g",
+      "note": "na posypání",
+      "group": "Náplň"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 150 °C horní a spodní ohřev (horkovzduch 140 °C). Plech 30 × 40 cm vyložíš pečicím papírem."
+    },
+    {
+      "text": "Bílky ušlehej v čisté mastné misce do tuhého sněhu. Po lžících přidávej cukr a šlehej, dokud nebude sníh lesklý a cukr se nepřestane cítit mezi prsty. Vmíchej škrob a ocet."
+    },
+    {
+      "text": "Sníh rozetři na plech do obdélníku 25 × 35 cm, vysoký asi 1 cm, a posyp plátky mandlí. Peč 25 až 30 minut, dokud není povrch světle béžový a lehce suchý. Troubu nech zhasnutou a plát v ní nech 10 minut."
+    },
+    {
+      "text": "Plát vyjmi a nech vychladnout na papíře. Pak ho obrať na nový papír mandlemi dolů a stáhni původní papír."
+    },
+    {
+      "text": "Šlehačku ušlehej s mascarpone a moučkovým cukrem do pevné pěny. Rozetři ji po plátu, rozlož ovoce a pomocí papíru zroluj. Hotová roláda ať je 1 hodinu v lednici, pak ji posyp moučkovým cukrem a krájej zubatým nožem."
+    }
+  ],
+  "tips": [
+    "Bílky musí být bez kapky žloutku a miska úplně čistá, jinak sníh nezvedne.",
+    "Roláda se dělá krátce před podáváním. Nechána přes noc v lednici změkne.",
+    "Plát se při rolování zlomí, ale dá se slepit náplní."
+  ],
+  "substitutions": [
+    "Mascarpone nahraď stejným množstvím smetanového sýra, náplň bude kyselejší.",
+    "Jahody a maliny nahraď borůvkami nebo broskvemi z konzervy, dobře odkapanými."
+  ],
+  "faq": [
+    {
+      "q": "Proč se mi bezé plát rozpadá?",
+      "a": "Je přepečený nebo málo vychladlý. Pec při 150 °C a před rolováním nech plát úplně vychladnout."
+    },
+    {
+      "q": "Jak dlouho vydrží bezé roláda?",
+      "a": "Naplněná vydrží v lednici jen do druhého dne. Samotný plát vydrží v suchu 2 dny."
+    },
+    {
+      "q": "Mohu bílky ušlehat dopředu?",
+      "a": "Ne, sníh by klesl. Šlehej ho těsně před pečením."
+    }
+  ]
+}

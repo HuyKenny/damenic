@@ -1,0 +1,23 @@
+{
+  "name": "Hnětýnky se zelím a slaninou",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Polední menu",
+  "description": "Bramborové válečky osmažené na másle, s dušeným zelím a křupavou slaninou.",
+  "about": [
+    "Hnětýnky jsou domácí bramborové jídlo, které se nehodí pro netrpělivé. Brambory musí vychladnout, těsto se hněte krátce a nesmí se tahat do dlouha. Výsledek se vaří, a pak osmaží do zlatova na másle.",
+    "Jídelna je smyšlená a oběd zítra možná, ale doma se hnětýnky udělají za hodinu. Zelí a slanina přidají to, co se u brambor čeká."
+  ],
+  "price": 15900,
+  "image": "dish-hnetynky-jidelna",
+  "recipe": "hnetynky",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 480
+}

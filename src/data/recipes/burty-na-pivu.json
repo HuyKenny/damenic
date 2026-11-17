@@ -1,0 +1,111 @@
+{
+  "title": "Buřty na pivu",
+  "keywords": [
+    "buřty na pivu",
+    "špekáčky na pivu",
+    "buřty na pivu recept",
+    "buřty vařené na pivu"
+  ],
+  "image": "dish-burty-na-pivu",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 30,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Buřty na pivu jsou špekáčky dušené na cibuli ve světlém pivu, které se na konci zredukuje do lesklé omáčky. Hotové jsou za půl hodiny na jedné pánvi a stačí k nim chleba. Recept počítá se šesti špekáčky pro čtyři.",
+  "ingredients": [
+    {
+      "ingredient": "spekacky",
+      "amount": 600,
+      "unit": "g",
+      "note": "6 špekáčků"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 300,
+      "unit": "g",
+      "note": "na půlkolečka"
+    },
+    {
+      "ingredient": "pivo-svetle",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 200,
+      "unit": "g",
+      "note": "k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Špekáčky nařízni na koncích do kříže. Na oleji je opeč na široké pánvi 5 minut, ať zezlátnou, a vyndej."
+    },
+    {
+      "text": "Do pánve přidej cibuli a opékej 6 minut na středním plameni, dokud nezměkne. Přidej cukr a kmín a promíchej."
+    },
+    {
+      "text": "Zalij 500 ml světlého piva, přidej bobkový list a hořčici. Vrať špekáčky a duš 15 až 20 minut na mírném varu bez pokličky."
+    },
+    {
+      "text": "Omáčka se má zredukovat asi na polovinu a obalit cibuli. Pokud je moc řídká, zvyš plamen na poslední 3 minuty."
+    },
+    {
+      "text": "Bobkový list vyndej. Podávej s chlebem a hořčicí."
+    }
+  ],
+  "alcohol": false,
+  "tips": [
+    "Pivo musí být světlé a nehořké, tmavé nebo silně chmelené by omáčku zhořkla.",
+    "Špekáčky nikdy nevař prudce, prasknou a vyteče z nich šťáva.",
+    "Cibule se vaří pod pivem, takže po 20 minutách je skoro jako karamel."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo piva použij 500 ml hovězího vývaru a 1 lžíci octa, omáčka bude kyselejší.",
+    "Špekáčky můžeš nahradit grilovacími klobásami.",
+    "Pivo lze nahradit nealko pivem, chuť je velmi podobná."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se vaří buřty na pivu?",
+      "a": "Stačí 15 až 20 minut na mírném varu, pak se omáčka zredukuje."
+    },
+    {
+      "q": "Vyvaří se z piva alkohol?",
+      "a": "Za 20 minut mírného varu se podstatná část odpaří, úplně ale nemizí. Pro děti použij nealko variantu."
+    },
+    {
+      "q": "Jak podávat buřty na pivu?",
+      "a": "S chlebem, hořčicí a nakládanou okurkou, případně s bramborovou kaší."
+    }
+  ]
+}

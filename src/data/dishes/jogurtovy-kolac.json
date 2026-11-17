@@ -1,0 +1,25 @@
+{
+  "name": "Jogurtový koláč s jahodami",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Vláčný plechový koláč z jogurtu a oleje, zapečený s jahodami.",
+  "about": [
+    "Jogurtový koláč je těsto, které se jen promíchá, a jahody, které se zapečou do povrchu. Je vláčný, jemně kyselý a nevyžaduje šlehání sněhu.",
+    "Ovoce vyber suché, aby koláč nezvlhl, a nech ho vychladnout na plechu. Cukrárna Nedortík je smyšlená, tvůj koláč přijde do trouby, ne do tašky."
+  ],
+  "price": 7900,
+  "image": "dish-jogurtovy-kolac",
+  "recipe": "jogurtovy-kolac",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 330
+}

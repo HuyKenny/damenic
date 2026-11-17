@@ -1,0 +1,123 @@
+{
+  "waitMinutes": 0,
+  "title": "Club sandwich",
+  "keywords": [
+    "club sandwich",
+    "club sandwich recept",
+    "klubový sendvič",
+    "club sandwich s kuřecím",
+    "trojitý sendvič"
+  ],
+  "image": "dish-club-sandwich",
+  "category": "sendvice",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 25,
+  "cookMinutes": 15,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Club sandwich je trojpatrový sendvič z opečeného toastu s kuřecím masem, slaninou, vejcem, rajčetem a salátem. Kuře musí uvnitř dosáhnout 75 °C a toast je dobré opéct dozlatova, aby sendvič držel pohromadě.",
+  "ingredients": [
+    {
+      "ingredient": "toustovy-chleb",
+      "amount": 180,
+      "unit": "g",
+      "note": "6 plátků"
+    },
+    {
+      "ingredient": "kureci-prsa",
+      "amount": 200,
+      "unit": "g",
+      "note": "na 2 tenké plátky"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 80,
+      "unit": "g",
+      "note": "6 plátků"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 150,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "ledovy-salat",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "listy"
+    },
+    {
+      "ingredient": "majoneza",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuřecí prsa rozkrájej na dva tenké plátky, osol a opepři. Opékej na pánvi s trochou másla 4 až 5 minut z každé strany, dokud teploměr neukáže 75 °C a šťáva není čirá. Nech 3 minuty odpočinout a nakrájej na plátky."
+    },
+    {
+      "text": "Slaninu opékej na suché pánvi 4 až 5 minut do křupava a odkapej ji na papírové utěrce."
+    },
+    {
+      "text": "Vejce usmaž na másle jako volská oka a žloutek nech tekutý, nebo je uvař natvrdo (10 minut)."
+    },
+    {
+      "text": "Toasty opeč na suché pánvi nebo v toustovači dozlatova. Majonézu smíchej s hořčicí a potři jí všechny plátky z jedné strany."
+    },
+    {
+      "text": "Poskládej patro: toast, salát, rajčata, kuře. Další toast, slanina, vejce. Přikryj třetím toastem majonézou dolů. Zapíchni špejle a rozřízni diagonálně."
+    }
+  ],
+  "tips": [
+    "Kuře nakrájej na tenké plátky a nech odpočinout, ať se nerozpadá.",
+    "Rajčata osol a nech chvilku odkapat, jinak toast rozmočí.",
+    "Špejle zapíchni do rohů, aby se sendvič neposunul při krájení."
+  ],
+  "substitutions": [
+    "Místo kuřete použij plátky pečené krůtí šunky nebo uzený tofu.",
+    "Místo slaniny použij 4 plátky šunky.",
+    "Bez vejce: přidej plátek sýra eidam."
+  ],
+  "faq": [
+    {
+      "q": "Z čeho se dělá club sandwich?",
+      "a": "Z toastu, kuřecího nebo krůtího masa, slaniny, salátu, rajčete a majonézy, často i s vejcem."
+    },
+    {
+      "q": "Jak dlouho se peče kuře do sendviče?",
+      "a": "Tenký plátek 4 až 5 minut z každé strany, uvnitř 75 °C. Neřežeš-li ho hned, nech ho pár minut odpočinout."
+    },
+    {
+      "q": "Dá se club sandwich připravit předem?",
+      "a": "Hodinu předem, zabalený do fólie v lednici. Slaninu a salát přidej čerstvé těsně před podáváním."
+    }
+  ]
+}

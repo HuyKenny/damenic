@@ -1,0 +1,122 @@
+{
+  "title": "Strouhaný koláč s tvarohem",
+  "keywords": [
+    "strouhaný koláč s tvarohem",
+    "strouhaný koláč s tvarohem recept",
+    "strouhaný tvarohový koláč",
+    "strouhaný koláč"
+  ],
+  "image": "dish-strouhany-kolac-tvaroh-nedortik",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 30,
+  "cookMinutes": 40,
+  "waitMinutes": 50,
+  "waitLabel": "odpočinek těsta v mrazáku",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Strouhaný koláč s tvarohem je křehké máslové těsto, které se po zmrazení nastrouhá nahoru a dolů, a mezi vrstvami je vanilkový tvaroh. Díky tomu odpadá válení a vyjde asi 15 kousků z formy 22 × 30 cm. Těžší je trefit tvaroh, který nesmí být řídký.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 350,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 180,
+      "unit": "g",
+      "note": "studené"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "do těsta"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 500,
+      "unit": "g",
+      "note": "měkký, odkapaný"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "do náplně"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "krupice",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 50,
+      "unit": "g",
+      "note": "volitelně"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku smíchej s moučkovým cukrem a práškem do pečiva, přidej studené máslo na kostičky a vejce a rychle zpracuj na hrudkovité těsto. Rozděl na 2 díly (1:2), zabal a dej na 40 minut do mrazáku."
+    },
+    {
+      "text": "Mezitím utři tvaroh s vejci, cukrem, vanilkovým cukrem a krupicí do hladké hmoty. Přidej rozinky."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 165 °C). Větší díl těsta nastrouhej na hrubém struhadle na dno formy a zlehka přitlač."
+    },
+    {
+      "text": "Navrstvi tvarohovou náplň a poklop ji nastrouhaným zbylým těstem."
+    },
+    {
+      "text": "Peč 40 minut dozlatova, nech vychladnout ve formě aspoň hodinu, pak krájej."
+    }
+  ],
+  "tips": [
+    "Těsto strouhej hned z mrazáku, jinak se bude lepit a zhustne.",
+    "Tvaroh vrstvi suchý. Mokrý tvaroh nech 30 minut odkapat v sítu.",
+    "Koláč je nejlepší druhý den vychlazený."
+  ],
+  "substitutions": [
+    "Tvaroh smíchej s 200 g zakysané smetany, bude krémovější.",
+    "Vanilkový cukr lze nahradit kůrou z 1 citronu."
+  ],
+  "faq": [
+    {
+      "q": "Můžu těsto zmrazit předem?",
+      "a": "Ano, těsto drží v mrazáku 1 měsíc a strouhat se dá rovnou z mrazničky."
+    },
+    {
+      "q": "Proč se tvaroh po upečení rozpadá?",
+      "a": "Chybí pojivo nebo je příliš mokrý. Krupice a vejce ho spojí a odkapaný tvaroh drží lépe."
+    },
+    {
+      "q": "Jak dlouho vydrží strouhaný koláč?",
+      "a": "V lednici 3 až 4 dny pod fólií."
+    }
+  ]
+}

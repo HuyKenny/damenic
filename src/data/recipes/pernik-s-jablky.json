@@ -1,0 +1,125 @@
+{
+  "title": "Perník s jablky",
+  "keywords": [
+    "perník s jablky",
+    "perník s jablky recept",
+    "pernik s jablky",
+    "jablkový perník",
+    "vláčný perník s jablky"
+  ],
+  "intro": "Perník s jablky je měkký plechový perník s hrubě strouhanými jablky, medem a perníkovým kořením. Jablka perník udrží vlhký několik dní. Z plechu 24 × 34 cm vyjde 15 kousků. Je lepší druhý den.",
+  "image": "dish-pernik-s-jablky",
+  "category": "dezerty",
+  "servings": 20,
+  "activeMinutes": 40,
+  "cookMinutes": 40,
+  "waitMinutes": 30,
+  "waitLabel": "odležení a vychladnutí",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "pernikove-koreni",
+      "amount": 12,
+      "unit": "g",
+      "note": "asi 2 lžíce"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 120,
+      "unit": "g"
+    },
+    {
+      "ingredient": "med",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 3,
+      "unit": "ks",
+      "note": "asi 350 g, oloupaná a nahrubo nastrouhaná"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "note": "na posypání"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na plech"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 165 °C). Plech 24 × 34 cm vymaž máslem nebo vyložíš papírem."
+    },
+    {
+      "text": "Vejce vyšlehej s cukrem do světlé pěny. Přilij med a olej a promíchej. Mouku smíchej s práškem, sodou, kakaem a perníkovým kořením."
+    },
+    {
+      "text": "Suché suroviny vmíchej do těsta, pak přimíchej strouhaná jablka i s šťávou. Těsto je husté a lepivé."
+    },
+    {
+      "text": "Těsto rozetři na plech a peč 35 až 40 minut, dokud špejle nevyjde suchá. Nech vychladnout a zasyp moučkovým cukrem. Nakrájej na 15 kusů."
+    }
+  ],
+  "tips": [
+    "Perník nech odležet přes noc v uzavřené krabici, zjemní.",
+    "Pokud jsou jablka velmi šťavnatá, vymačkej je lehce v dlani.",
+    "Zakrytý vydrží 6 dní."
+  ],
+  "substitutions": [
+    "Med nahraď javorovým sirupem.",
+    "Jablka nahraď strouhanou mrkví (250 g).",
+    "Perníkové koření nahraď 6 g skořice a 2 g hřebíčku."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho perník odležet?",
+      "a": "Nejlépe přes noc zakrytý. Perník s jablky je druhý den vláčnější."
+    },
+    {
+      "q": "Jaká jablka dát do perníku?",
+      "a": "Kyselejší, např. odrůdy s pevnou dužinou. Strouhej je nahrubo."
+    },
+    {
+      "q": "Jak perník skladovat?",
+      "a": "V uzavřené krabici, nejvýš 6 dní při pokojové teplotě."
+    }
+  ]
+}

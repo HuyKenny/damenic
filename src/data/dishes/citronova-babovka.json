@@ -1,0 +1,25 @@
+{
+  "name": "Citronová bábovka",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Máslová bábovka s kůrou z citronů a kyselou citronovou polevou.",
+  "about": [
+    "Citronová bábovka voní, ještě než ji vytáhneš z trouby: kůra ze dvou citronů, jogurt a máslo. Navrch kyselá poleva, která při prvním soustu trochu zapíchne.",
+    "Citron strouhej jen po žluté kůře, polevu lij na vlažnou bábovku. Smyšlená cukrárna ti citron nedoveze, ale recept ano."
+  ],
+  "price": 9900,
+  "image": "dish-citronova-babovka",
+  "recipe": "citronova-babovka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 350
+}

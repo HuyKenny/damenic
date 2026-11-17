@@ -1,0 +1,25 @@
+{
+  "name": "Linguine s krevetami a citronem",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Z pánve",
+  "description": "Linguine s opečenými krevetami, cherry rajčaty, česnekem a čerstvým citronem.",
+  "about": [
+    "Linguine jsou špagety, které se rozhodly zploštit, a právě proto se k nim hodí lehké omáčky. Citron a máslo drží krevety v lehkosti, česnek je jen napovězený a rajčata se rozpadají do vody z těstovin.",
+    "Celé jídlo stojí na tom, abys krevety nepřepekl. Dvě minuty z každé strany a z pánve pryč. Zbytek hlídá pasta bar, který žádné krevety nemá."
+  ],
+  "price": 24900,
+  "image": "dish-linguine-s-krevetami",
+  "recipe": "linguine-s-krevetami",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    2,
+    7
+  ],
+  "featured": false,
+  "order": 991
+}

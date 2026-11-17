@@ -1,0 +1,22 @@
+{
+  "name": "Strouhaný koláč s tvarohem",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Máslové strouhané těsto a vanilkový tvaroh uprostřed, jemně křehké.",
+  "about": [
+    "Strouhaný koláč je nenápadný recept s chytrým trikem: těsto se nevaluje, ale strouhá. Tvarohová náplň tvoří měkkou vrstvu mezi křehkými vrstvami.",
+    "Doma ho upečeš za hodinu a půl. U nás ti stačí si ho představit."
+  ],
+  "price": 8500,
+  "image": "dish-strouhany-kolac-tvaroh-nedortik",
+  "recipe": "strouhany-kolac-s-tvarohem",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 100
+}

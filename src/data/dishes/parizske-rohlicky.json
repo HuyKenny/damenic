@@ -1,0 +1,23 @@
+{
+  "name": "Pařížské rohlíčky",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "dessert",
+  "section": "Cukroví",
+  "description": "Máslové těsto s tvarohem a ořechově-kakaová náplň, 5 ks.",
+  "about": [],
+  "price": 8900,
+  "image": "dish-parizske-rohlicky",
+  "recipe": "parizske-rohlicky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 500
+}

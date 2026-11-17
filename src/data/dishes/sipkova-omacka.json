@@ -1,0 +1,22 @@
+{
+  "name": "Šípková omáčka k hovězímu",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "side",
+  "section": "Přílohy",
+  "description": "Sladkokyselá šípková omáčka na jíšce, ke knedlíku a hovězímu masu.",
+  "about": [],
+  "price": 5900,
+  "image": "dish-sipkova-omacka",
+  "recipe": "sipkova-omacka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9
+  ],
+  "featured": false,
+  "order": 1003
+}

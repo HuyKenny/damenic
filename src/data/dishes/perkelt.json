@@ -1,0 +1,22 @@
+{
+  "name": "Vepřový perkelt",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "description": "Měkké vepřové na cibuli a sladké paprice, zjemněné smetanou. S knedlíkem.",
+  "about": [
+    "Perkelt je guláš, který si vzal den volna. Má stejné základy, maso, cibuli a papriku, ale omáčka je řidší, sladší a na konci se zjemní smetanou. Chuť zůstane hospodská, jen méně přísná.",
+    "Doma se o všem rozhoduje při přidávání papriky. Dej ji mimo plamen a hned zalij, jinak zhořkne. Hrnec zůstává na tvé plotně, k nám žádný nepřijede."
+  ],
+  "price": 21900,
+  "image": "dish-perkelt",
+  "recipe": "perkelt",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 1,
+  "order": 900,
+  "allergens": [
+    1,
+    7
+  ]
+}

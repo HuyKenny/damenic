@@ -1,0 +1,25 @@
+{
+  "name": "Kefírová bábovka s mákem",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "description": "Vláčná bábovka z kefíru, oleje a mletého máku.",
+  "about": [
+    "Kefírová bábovka s mákem je vláčná a lehce kyselá a mák z ní dělá bábovku s výraznou chutí. Těsto se míchá jednou lžící a peče 50 minut.",
+    "Kefír vytáhni z lednice půl hodiny předem, nepřemíchávej a bábovku nech vychladnout ve formě. Smyšlená cukrárna nedoveze nic, ale recept zůstane tvůj."
+  ],
+  "price": 8900,
+  "image": "dish-kefirova-babovka",
+  "recipe": "kefirova-babovka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 230
+}

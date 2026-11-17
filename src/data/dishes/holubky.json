@@ -1,0 +1,21 @@
+{
+  "name": "Holubky v rajské omáčce",
+  "restaurant": "hostinec-za-hranici-nic",
+  "kind": "main",
+  "section": "Polsko a Rakousko",
+  "description": "Zelné závitky s masem a rýží, dušené v rajské omáčce. S bramborami.",
+  "about": [
+    "Holubky jsou typ jídla, který se vyplatí vařit ve velkém. Zelný list drží masovou směs pohromadě, rýže vsákne šťávu a rajská omáčka všechno spojí. Hotové jsou za hodinu, příprava ale zabere čas.",
+    "Hostinec Za hranicí nic sice zabalí všechno, jen ne do tašky, kterou by kurýr zvedl. Holubky si můžeš zabalit sám."
+  ],
+  "price": 19900,
+  "image": "dish-holubky",
+  "recipe": "holubky",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 900,
+  "allergens": [
+    3
+  ]
+}

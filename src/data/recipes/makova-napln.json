@@ -1,0 +1,95 @@
+{
+  "title": "Maková náplň",
+  "keywords": [
+    "maková náplň",
+    "maková náplň na koláče",
+    "maková náplň recept",
+    "maková náplň do buchet"
+  ],
+  "image": "dish-makova-napln",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 6,
+  "cookMinutes": 10,
+  "waitMinutes": 60,
+  "waitLabel": "vychladnutí",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Maková náplň z mletého máku vařeného v mléce se cukrem a skořicí je základ koláčů, buchet i záviňů. Dá se hotová do dvou hodin a vystačí na 1 plech koláčů (asi 20 kusů) nebo 2 záviny. Důležité je mák uvařit do husté kaše a nechat úplně vychladnout.",
+  "ingredients": [
+    {
+      "ingredient": "mak-mlety",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 40,
+      "unit": "g",
+      "note": "volitelně"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mléko s cukrem přiveď v rendlíku k varu a vsyp mletý mák. Míchej a vař na mírném plameni 8 až 10 minut, dokud směs nezhoustne."
+    },
+    {
+      "text": "Přidej vanilkový cukr, skořici, máslo a rozinky, promíchej a stáhni z plamene."
+    },
+    {
+      "text": "Nech náplň zcela vychladnout, nejlépe 1 hodinu, při chladnutí ještě zhoustne."
+    },
+    {
+      "text": "Hotovou náplň rozetři na těsto nebo ji naplň do koláčů. Do lednice ji vlož přikrytou, vydrží 3 dny."
+    }
+  ],
+  "tips": [
+    "Mák musí být čerstvě namletý, starý hořkne.",
+    "Do náplně nedávej tekuté, zředěné mléko navíc, mák se vsákne a hmota drží.",
+    "Hotová náplň se dá mrazit až 3 měsíce."
+  ],
+  "substitutions": [
+    "Mléko nahraď ovesným nápojem, máslo rostlinným tukem.",
+    "Cukr nahraď stejným množstvím medu, mák pak bude tmavší."
+  ],
+  "faq": [
+    {
+      "q": "Kolik máku na koláče?",
+      "a": "Na 1 plech (asi 20 koláčů) stačí 200 g mletého máku."
+    },
+    {
+      "q": "Musí se mák vařit?",
+      "a": "Mletý mák lze spařit horkým mlékem, ale vařený je jemnější a lépe drží náplň."
+    },
+    {
+      "q": "Jak dlouho vydrží maková náplň?",
+      "a": "V lednici 3 dny, v mrazáku až 3 měsíce."
+    }
+  ]
+}

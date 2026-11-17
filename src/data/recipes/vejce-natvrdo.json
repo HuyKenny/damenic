@@ -1,0 +1,79 @@
+{
+  "title": "Vejce natvrdo",
+  "keywords": [
+    "vejce natvrdo",
+    "jak dlouho vařit vejce natvrdo",
+    "vejce natvrdo recept",
+    "vařená vejce",
+    "vejce natvrdo vaření"
+  ],
+  "image": "dish-vejce-natvrdo-lacno",
+  "category": "snidane",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 5,
+  "cookMinutes": 10,
+  "waitMinutes": 5,
+  "waitLabel": "chlazení ve studené vodě",
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Vejce natvrdo se vaří 10 minut od chvíle, kdy se voda vrátí do varu, a hned se zchladí. Tak je bílek pevný, žloutek žlutý a nemá zelený okraj. Platí to pro vejce velikosti M z lednice.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 8,
+      "unit": "ks",
+      "note": "velikost M, z lednice"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "do hrnce, aby byla vejce zakrytá"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "do vody"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do hrnce dej vodu, osol ji a přiveď k varu. Vejce z lednice vkládej lžící opatrně jedno po druhém, aby neprasklo."
+    },
+    {
+      "text": "Jakmile se voda znovu začne vařit, stáhni plamen na mírný var a měř 10 minut. Pro 8 vajec větších než M přidej 1 minutu."
+    },
+    {
+      "text": "Vejce přendej do mísy se studenou vodou a ledem a nech 5 minut chladnout. Zastaví se dovařování a vajíčko se snadno loupe."
+    },
+    {
+      "text": "Vejce lehce poklep, rolováním je rozpraskej a loupej pod tekoucí vodou od tupého konce, kde je vzduchová bublina."
+    }
+  ],
+  "tips": [
+    "Čerstvá vejce se loupou hůř. Ta stará 7 až 10 dní se loupou nejsnadněji.",
+    "Žloutek s šedozeleným okrajem je přivařený, příště zkrať dobu o minutu.",
+    "Pro rovnoměrný žloutek je během prvních 2 minut občas jemně promíchej."
+  ],
+  "substitutions": [
+    "Pro pevnější vejce prodluž čas na 12 minut.",
+    "Sůl můžeš nahradit lžící octa, bílek při prasknutí nevyteče.",
+    "Vejce můžeš vařit také v parním hrnci 12 minut."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit vejce natvrdo?",
+      "a": "10 minut od okamžiku varu pro velikost M. Velká vejce 11 až 12 minut."
+    },
+    {
+      "q": "Proč je žloutek zelený?",
+      "a": "Při převáření vzniká na okraji žloutku síra se železem. Je neškodný, ale nechutný, proto zkrať čas a vejce zchlaď."
+    },
+    {
+      "q": "Jak dlouho vydrží uvařená vejce?",
+      "a": "Neoloupená vydrží v lednici 7 dní, oloupená do druhého dne."
+    }
+  ]
+}

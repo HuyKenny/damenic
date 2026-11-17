@@ -1,0 +1,25 @@
+{
+  "name": "Smaženka se slaninou a cibulí",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "main",
+  "section": "Zapečené a topinky",
+  "description": "Míchaná vejce s osmaženou cibulí a křupavou slaninou, s chlebem.",
+  "about": [
+    "Smaženka je snídaně, která se dělá v pánvi a vydrží celé dopoledne. Cibule slazená v másle, slanina a vejce míchaná do měkkých kousků.",
+    "Jídelna Už Hotovo ti ji nevydá. Vejce, pánev a pět minut ano."
+  ],
+  "price": 11900,
+  "image": "dish-smazenka",
+  "recipe": "smazenka",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 1001
+}

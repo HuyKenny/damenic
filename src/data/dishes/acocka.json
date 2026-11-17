@@ -1,0 +1,21 @@
+{
+  "name": "Ačokča s klobásou a bramborami",
+  "restaurant": "hostinec-za-hranici-nic",
+  "kind": "main",
+  "section": "Balkán",
+  "description": "Dušená paprika s rajčaty, bramborami a klobásou, hustá, s krajícem chleba.",
+  "about": [
+    "Ačokča je jídlo, které si vaří ti, kdo nechtějí řešit víc než jeden hrnec. Paprika, rajčata a brambory se dusí v šťávě, klobása přidá kouř a tuk a celé se to nechá dojít na pomalém plameni.",
+    "Je to hospodské jídlo bez okras. Hostinec za Hranicí Nic ho nedoveze, ale přes hranici to máš kousek: do vlastního hrnce."
+  ],
+  "price": 16900,
+  "image": "dish-acocka",
+  "recipe": "acocka",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 994
+}

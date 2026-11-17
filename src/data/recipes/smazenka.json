@@ -1,0 +1,103 @@
+{
+  "waitMinutes": 0,
+  "title": "Smaženka",
+  "keywords": [
+    "smaženka",
+    "smaženka recept",
+    "smaženka s vejci",
+    "smaženka se slaninou a cibulí"
+  ],
+  "image": "dish-smazenka",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 2,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Smaženka je rychlá snídaně z vajec, osmažené cibule a slaniny, míchaná na pánvi do měkkých kousků. Je hotová za 15 minut a vejce musí být vždy propečená, ne tekutá.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 80,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nastříhaná"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.25,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 120,
+      "unit": "g",
+      "note": "k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na pánvi opékej slaninu na středním plameni 3 až 4 minuty, dokud nepustí tuk a nezačne lehce křupat."
+    },
+    {
+      "text": "Přidej máslo a cibuli a smaž 4 minuty do zlatova. Nenech ji zhnědnout."
+    },
+    {
+      "text": "Vejce rozklepni do misky, osol, opepři a lehce rozšlehej vidličkou. Přilij je do pánve a na mírném plameni míchej."
+    },
+    {
+      "text": "Míchej 2 až 3 minuty, až jsou vejce pevná a nemají tekuté místo. Posyp pažitkou a podávej s chlebem."
+    }
+  ],
+  "tips": [
+    "Plamen drž střední až mírný, vejce se pak nepřipálí.",
+    "Slanina je slaná, sůl přidávej jen opatrně.",
+    "Smaženku podávej hned, studená ztrácí chuť."
+  ],
+  "substitutions": [
+    "Místo slaniny dej kousky šunky nebo uzené klobásy.",
+    "Bez masa: slaninu vynech a přidej 100 g nakrájených žampionů.",
+    "Přidej hrst nastrouhaného sýra na závěr."
+  ],
+  "faq": [
+    {
+      "q": "Čím se liší smaženka od míchaných vajec?",
+      "a": "Smaženka je vydatnější: vejce se míchají s osmaženou cibulí a slaninou a hotová jsou pevná."
+    },
+    {
+      "q": "Proč mají být vejce propečená?",
+      "a": "Kvůli bezpečnosti. Vejce se mají vařit, dokud nejsou pevná a žádný kousek není tekutý."
+    },
+    {
+      "q": "Dá se smaženka připravit předem?",
+      "a": "Raději ne. Ohřátá vejce vysychají, uvař ji čerstvou."
+    }
+  ]
+}

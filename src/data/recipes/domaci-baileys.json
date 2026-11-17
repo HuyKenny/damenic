@@ -1,0 +1,100 @@
+{
+  "waitMinutes": 240,
+  "title": "Domácí smetanový likér s whiskey",
+  "keywords": [
+    "domácí baileys",
+    "domácí baileys recept",
+    "baileys z whiskey",
+    "domácí smetanový likér",
+    "baileys bez vajec"
+  ],
+  "image": "dish-domaci-baileys",
+  "category": "koktejly",
+  "vegetarian": true,
+  "alcohol": true,
+  "occasions": [
+    "vanoce"
+  ],
+  "servings": 10,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitLabel": "odležení v lednici",
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "intro": "Domácí smetanový likér ve stylu baileys se dělá bez vajec ze smetany, kondenzovaného mléka, whiskey, kakaa a kávy. Mixuje se 2 minuty a po čtyřech hodinách v lednici je hladký a sladký. Je jen pro dospělé, 18+.",
+  "ingredients": [
+    {
+      "ingredient": "irska-whiskey",
+      "amount": 250,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 250,
+      "unit": "ml",
+      "note": "33 %"
+    },
+    {
+      "ingredient": "mleko-kondenzovane-slazene",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kava-instantni",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 8,
+      "unit": "g",
+      "note": "1 sáček"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do mixéru nebo vysoké nádoby vlij smetanu, kondenzované mléko a whiskey. Přidej kakao, instantní kávu a vanilkový cukr."
+    },
+    {
+      "text": "Mixuj 1 až 2 minuty do hladka. Dlouhým mixováním by se smetana mohla šlehat, tak mixuj jen do spojení."
+    },
+    {
+      "text": "Likér přelij přes jemné sítko do čisté láhve, kterou předtím vypláchni horkou vodou a nech oschnout."
+    },
+    {
+      "text": "Uzavři a dej na 4 hodiny do lednice, ať chuti dozrají. Před každým podáváním protřepej."
+    },
+    {
+      "text": "Podávej vychlazený, 50 ml na led nebo do kávy. Skladuj v lednici a spotřebuj do 2 týdnů."
+    }
+  ],
+  "tips": [
+    "Vždy jen pro dospělé, 18+. Alkohol nepatří dětem ani řidičům.",
+    "Jen čerstvá smetana a čistá láhev, likér se pak uchová 2 týdny v lednici.",
+    "Před podáváním vždy protřepej, kakao se usazuje."
+  ],
+  "substitutions": [
+    "Nealko varianta: místo 250 ml whiskey použij 150 ml studené silné kávy a 1 lžičku vanilkového cukru. Spotřebuj do 4 dnů.",
+    "Místo kondenzovaného mléka použij kondenzované kokosové mléko slazené.",
+    "Místo whiskey můžeš dát stejně rum bílý, chuť bude lehčí."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží domácí baileys v lednici?",
+      "a": "Přibližně 2 týdny v čisté zavřené lahvi. Před podáváním ji protřepej a při kyselém zápachu ji vylej."
+    },
+    {
+      "q": "Dá se domácí baileys zmrazit?",
+      "a": "Nedoporučuji, po rozmražení se smetana rozdělí."
+    },
+    {
+      "q": "Proč se likér po čase rozdělí?",
+      "a": "Tuk smetany a kakao se usazují. Stačí lahev protřepat, než ji nalijete."
+    }
+  ]
+}

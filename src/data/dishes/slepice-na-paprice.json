@@ -1,0 +1,22 @@
+{
+  "name": "Slepice na paprice",
+  "restaurant": "jidelna-zitra-mozna",
+  "kind": "main",
+  "section": "Polední menu",
+  "description": "Pomalu vařená slepice v paprikové omáčce se smetanou. S knedlíkem.",
+  "about": [
+    "Slepice je maso s příběhem. Dospělé drůbeži se musí dát čas a mírný var, ale odmění tě chutí, kterou kuře nemá. Paprika, cibule a smetana z toho dělají poctivou omáčku.",
+    "V Jídelně Zítra Možná vaří, až když přijde zítřek. Slepice se ti ale vyplatí hned."
+  ],
+  "price": 18900,
+  "image": "dish-slepice-na-paprice",
+  "recipe": "slepice-na-paprice",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 910,
+  "allergens": [
+    1,
+    7
+  ]
+}

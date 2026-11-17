@@ -1,0 +1,22 @@
+{
+  "name": "Kokosová buchta",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "description": "Měkká buchta s kokosem v těstě a bílou polevou s kokosovou posypkou.",
+  "about": [
+    "Kokosová buchta voní po dovolené, i když sedíš v kuchyni. Kokos je uvnitř i nahoře, takže ho cítíš při každém soustu.",
+    "Doma stačí jedna forma a hodina času. U nás stačí fantazie."
+  ],
+  "price": 7900,
+  "image": "dish-kokosova-buchta-kolac-na-slib",
+  "recipe": "kokosova-buchta",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 70
+}

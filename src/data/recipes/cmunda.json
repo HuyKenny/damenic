@@ -1,0 +1,104 @@
+{
+  "waitMinutes": 20,
+  "title": "Cmunda",
+  "keywords": [
+    "cmunda",
+    "cmunda recept",
+    "cmunda z vařených brambor",
+    "bramborová cmunda",
+    "cmunda na plotně"
+  ],
+  "image": "dish-cmunda",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 40,
+  "waitLabel": "vychladnutí uvařených brambor",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Cmunda je bramborová placka z vařených brambor, mouky a vejce, která se peče na suché pánvi nebo plotně. Je měkká uvnitř, na povrchu s hnědými skvrnami, a podává se potřená máslem, česnekem nebo zelím. Těsto nesmí být ani příliš mokré, ani přemoučené.",
+  "ingredients": [
+    {
+      "ingredient": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "na loupání ve slupce"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g",
+      "note": "plus na vále"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "na potření"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisované"
+    },
+    {
+      "ingredient": "kysane-zeli",
+      "amount": 200,
+      "unit": "g",
+      "note": "k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař ve slupce ve vroucí osolené vodě 20 až 25 minut, až je vidlička projde bez odporu. Scedi, oloupej a nech 20 minut vychladnout."
+    },
+    {
+      "text": "Brambory prolisuj nebo rozmačkej na jemno. Přidej mouku, vejce a sůl a rychle zpracuj v měkké, mírně lepivé těsto. Příliš dlouhým hnětením by těsto zhouslo."
+    },
+    {
+      "text": "Těsto rozděl na 8 dílů, každý rozválej na válu na placku silnou asi 5 mm a průměru 15 cm. Vál poprášit moukou."
+    },
+    {
+      "text": "Suchou pánev nebo rozpálenou plotnu zahřej na střední žár a cmundy peč po 2 až 3 minutách z každé strany, dokud nemají světle hnědé skvrny a nejsou propečené."
+    },
+    {
+      "text": "Máslo rozpusť, smíchej s česnekem a hotové cmundy jím potři. Podávej teplé, třeba se zelím."
+    }
+  ],
+  "tips": [
+    "Brambory vař ve slupce, nenasáknou vodu a těsto bude suché a pevné.",
+    "Máš-li těsto lepivé, podsyp ho moukou po lžících. Raději mokřejší než tvrdé, cmunda tvrdne.",
+    "Hotové placky přikryj utěrkou, aby zůstaly měkké."
+  ],
+  "substitutions": [
+    "Místo hladké mouky použij polohrubou, placky budou o něco hrubší.",
+    "Máslo s česnekem nahraď škvarky nebo kysanou smetanou a pažitkou.",
+    "Bez vejce se obejdeš, placky pak budou křehčí a hůř drží tvar."
+  ],
+  "faq": [
+    {
+      "q": "Co je cmunda?",
+      "a": "Cmunda je bramborová placka z vařených brambor a mouky, kterou na Moravě a Slovensku pečou na suché plotně nebo pánvi."
+    },
+    {
+      "q": "Dá se cmunda péct v troubě?",
+      "a": "Ano, na plechu vyloženém pečicím papírem při 220 °C asi 8 až 10 minut, jednou ji otoč."
+    },
+    {
+      "q": "Jak dlouho vydrží cmundy?",
+      "a": "V lednici 2 dny v uzavřené dóze. Ohřej je na suché pánvi, v mikrovlnce změknou."
+    }
+  ]
+}

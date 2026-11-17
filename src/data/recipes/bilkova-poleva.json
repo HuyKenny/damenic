@@ -1,0 +1,76 @@
+{
+  "title": "Bílková poleva",
+  "keywords": [
+    "bílková poleva",
+    "bílková poleva recept",
+    "bílková poleva na cukroví",
+    "bílková poleva na perník"
+  ],
+  "image": "dish-bilkova-poleva",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 60,
+  "waitLabel": "zaschnutí polevy",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "intro": "Bílková poleva z bílku a moučkového cukru zasychá do bílé, lehce křupavé vrstvy na cukroví, perníku nebo vánočním pečivu. Kdo ji dělá poprvé, musí hlídat hustotu: příliš řídká steče, příliš hustá se špatně roztírá. Vyjde na asi 40 kusů cukroví.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen bílek, čerstvý"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 220,
+      "unit": "g"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "šťáva, asi 1 lžička"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Bílek dej do čisté mísy bez stopy tuku a šlehej ho 1 minutu do lehké pěny."
+    },
+    {
+      "text": "Prosátý cukr přidávej po lžících a míchej, po každé dávce 20 sekund. Dolij lžičku citronové šťávy."
+    },
+    {
+      "text": "Míchej 5 až 7 minut, dokud poleva není hustá, lesklá a nestéká z lžíce."
+    },
+    {
+      "text": "Polevu použij hned nebo ji přikryj vlhkou utěrkou. Pečivo nech zaschnout 1 hodinu při pokojové teplotě."
+    }
+  ],
+  "tips": [
+    "Syrový bílek použij jen z čerstvých vajec a polevu nenech stát dlouho. Pro děti, těhotné a seniory vždy raději pečivo ozdob polevou z vody a cukru.",
+    "Vodu do bílkové polevy nikdy nepřidávej.",
+    "Když je řídká, dosyp cukr po lžicích."
+  ],
+  "substitutions": [
+    "Citron nahraď lžičkou octa, poleva pak lépe zasychá.",
+    "Barevnou polevu dostaneš kapkou potravinářského barviva."
+  ],
+  "faq": [
+    {
+      "q": "Proč bílková poleva nezasychá?",
+      "a": "Je příliš řídká nebo v ní zůstala stopa tuku. Dosyp prosátý cukr a míchej ještě 3 minuty."
+    },
+    {
+      "q": "Dá se poleva uchovat?",
+      "a": "Zakrytá vydrží do druhého dne v lednici, před použitím ji promíchej."
+    },
+    {
+      "q": "Kolik cukru na jeden bílek?",
+      "a": "Zhruba 200 až 220 g moučkového cukru podle velikosti vejce."
+    }
+  ]
+}

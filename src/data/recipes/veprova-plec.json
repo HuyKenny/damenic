@@ -1,0 +1,117 @@
+{
+  "title": "Vepřová plec pečená v troubě",
+  "keywords": [
+    "vepřová plec",
+    "vepřová plec v troubě",
+    "pečená vepřová plec",
+    "vepřová plec recept",
+    "vepřová plec pečená"
+  ],
+  "image": "dish-veprova-plec",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 180,
+  "waitMinutes": 480,
+  "waitLabel": "marinování přes noc",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Vepřová plec je levná, šťavnatá a při pomalém pečení zkřehne tak, že se dá trhat vidličkou. Recept počítá s 1,5 kg masa s kůží i bez, česnekovou marinádou přes noc a třemi hodinami v troubě, kdy trpělivost rozhoduje víc než dovednost.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-plecko",
+      "amount": 1500,
+      "unit": "g",
+      "note": "vcelku, i s kůží"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 6,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1.5,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 2,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 400,
+      "unit": "g",
+      "note": "na silnější půlkolečka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 250,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Večer před pečením smíchej prolisovaný česnek, sůl, kmín, majoránku, pepř, hořčici a olej. Plec potři pastou ze všech stran, zabal a dej do lednice na 8 hodin, nejlépe přes noc."
+    },
+    {
+      "text": "Troubu předehřej na 160 °C (horkovzduch 150 °C). Do pekáče rozlož cibuli, na ni polož plec kůží nahoru a podlej 250 ml vody."
+    },
+    {
+      "text": "Pekáč pevně přikryj víkem nebo alobalem a peč 2 hodiny 30 minut. Po 90 minutách zkontroluj hladinu, případně dolij 100 ml vody."
+    },
+    {
+      "text": "Víko sundej, troubu zvyš na 200 °C a peč dalších 30 minut, aby se maso zatáhlo. Je hotovo, když teploměr ukazuje 90 až 95 °C a kost nebo vidlička vychází bez odporu."
+    },
+    {
+      "text": "Plec nech 20 minut odpočinout pod alobalem, pak ji trhej vidličkami nebo krájej na silnější plátky. Výpek přecedi a podávej zvlášť."
+    }
+  ],
+  "tips": [
+    "Teploměr je největší pomocník. Na krájení stačí 80 °C, na trhání 90 až 95 °C, kdy se vazivo změní v šťávu.",
+    "Odpočinek 20 minut po pečení nevynechej. Šťáva se rozloží v mase a po nakrojení nevyteče na prkénko.",
+    "Zbylé trhané maso se hodí do buchet, tortill nebo na pánev s cibulí. V lednici vydrží 3 dny."
+  ],
+  "substitutions": [
+    "Místo hořčice použij 1 lžíci sladké papriky, plec bude jemnější.",
+    "Bez kůže zkrať pečení o 20 minut a hlídej, aby se maso nevysušilo.",
+    "Kmín nahraď kmínem římským nebo vynech, majoránka a česnek stačí."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct vepřovou plec?",
+      "a": "Při 160 °C zhruba 2,5 až 3 hodiny pro 1,5 kg masa. Rozhoduje vnitřní teplota 90 až 95 °C, pokud ji chceš trhat."
+    },
+    {
+      "q": "Má se plec péct s kůží nebo bez?",
+      "a": "Obojí jde. Kůže chrání maso před vysušením a po posledních 30 minutách při 200 °C se zatáhne. Bez kůže peč pod víkem celou dobu."
+    },
+    {
+      "q": "Jak poznám, že je plec hotová?",
+      "a": "Vidlička se bez odporu zabodne a maso se začne trhat. Teploměr ukazuje 90 až 95 °C, na plátky stačí 80 °C."
+    }
+  ]
+}

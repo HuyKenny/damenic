@@ -1,0 +1,109 @@
+{
+  "title": "Banánové muffiny",
+  "keywords": [
+    "banánové muffiny",
+    "banánové muffiny recept",
+    "muffiny s banány",
+    "banánové muffiny s čokoládou"
+  ],
+  "image": "dish-bananove-muffiny-nedortik",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 22,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Banánové muffiny z přezrálých banánů jsou vláčné a vonné, bez šlehače a jen v jedné míse. Vyjde 12 kousků a čím tmavší jsou banány, tím sladší bude těsto. Kousky čokolády tvoří příjemný kontrast.",
+  "ingredients": [
+    {
+      "ingredient": "banan",
+      "amount": 3,
+      "unit": "ks",
+      "note": "velmi zralé"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 60,
+      "unit": "g",
+      "note": "nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 165 °C), do formy na 12 muffinů vlož košíčky."
+    },
+    {
+      "text": "Banány rozmačkej vidličkou na kaši, přidej vejce, cukr, rozpuštěné máslo a jogurt a promíchej."
+    },
+    {
+      "text": "Mouku smíchej s práškem do pečiva a sodou, přisyp do banánové směsi a krátce promíchej. Vmíchej čokoládu."
+    },
+    {
+      "text": "Těsto rozdělte do košíčků a peč 20 až 22 minut, špejle má vyjít suchá."
+    },
+    {
+      "text": "Nech 5 minut ve formě, pak je přendej na mřížku."
+    }
+  ],
+  "tips": [
+    "Banány smíchej s cukrem a nech 5 minut stát, zesládnou a lépe se spojí.",
+    "Pro jemnější vrch posypej muffiny před pečením hrstkou ovsových vloček.",
+    "V dóze vydrží 2 až 3 dny."
+  ],
+  "substitutions": [
+    "Čokoládu nahraď vlašskými ořechy nebo rozinkami.",
+    "Jogurt nahraď kefírem nebo zakysanou smetanou."
+  ],
+  "faq": [
+    {
+      "q": "Kolik banánů do muffinů?",
+      "a": "Na 12 kusů stačí 3 velké zralé banány, tedy asi 300 g oloupané dužiny."
+    },
+    {
+      "q": "Mohu použít méně zralé banány?",
+      "a": "Ano, ale muffiny budou méně sladké a méně vonné. Přidej lžíci cukru navíc."
+    },
+    {
+      "q": "Dají se muffiny zmrazit?",
+      "a": "Ano, vydrží v mrazáku 2 měsíce, rozmrazuj při pokojové teplotě."
+    }
+  ]
+}

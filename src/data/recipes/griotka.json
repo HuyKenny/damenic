@@ -1,0 +1,147 @@
+{
+  "title": "Griotka",
+  "keywords": [
+    "griotka",
+    "griotka recept",
+    "griotka dort",
+    "čokoládový dort s višněmi",
+    "dort s višněmi a čokoládou"
+  ],
+  "intro": "Griotka je čokoládový dort s višněmi, mascarpone krémem a polevou z čokolády se smetanou. Kakaový korpus se peče ve formě 24 cm, višně se krátce povaří s cukrem. Vyjde 12 dílků.",
+  "image": "dish-griotka",
+  "category": "dezerty",
+  "servings": 20,
+  "activeMinutes": 70,
+  "cookMinutes": 35,
+  "waitMinutes": 300,
+  "waitLabel": "chlazení dortu v lednici",
+  "difficulty": "střední",
+  "meal": "dort",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 120,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 30,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 5,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "visne-mrazene",
+      "amount": 300,
+      "unit": "g",
+      "group": "Višně"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 30,
+      "unit": "g",
+      "group": "Višně"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 15,
+      "unit": "g",
+      "note": "rozmíchaný v 3 lžících vody",
+      "group": "Višně"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 400,
+      "unit": "ml",
+      "note": "vychlazená",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "mascarpone",
+      "amount": 250,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Formu o průměru 24 cm vyložíš papírem na dně."
+    },
+    {
+      "text": "Žloutky vyšlehej s 60 g cukru do pěny, bílky ušlehej se zbylými 60 g do tuhého sněhu. Mouku smíchej s kakaem a práškem. Střídavě vmíchej sníh a mouku do žloutků."
+    },
+    {
+      "text": "Těsto nalij do formy a peč 30 až 35 minut, dokud špejle nevyjde suchá. Nech vychladnout a rozkrájej na 2 poloviny."
+    },
+    {
+      "text": "Višně se 30 g cukru přiveď k varu a vař 3 minuty. Vlij rozmíchaný škrob a za stálého míchání vař do zhoustnutí. Nech úplně vychladnout."
+    },
+    {
+      "text": "Šlehačku ušlehej s moučkovým cukrem, vmíchej mascarpone. Na spodní korpus dej višně a polovinu krému, přikryj druhým korpusem a potři zbylým krémem."
+    },
+    {
+      "text": "Smetanu zahřej k varu, nalij na nasekanou čokoládu a míchej do hladka. Nech 10 minut zchladnout a polij dort. Nech v lednici nejméně 5 hodin."
+    }
+  ],
+  "tips": [
+    "Višně nech úplně vychladnout, jinak se krém roztéká.",
+    "Dort se lépe krájí po noci v lednici a nožem namočeným v teplé vodě.",
+    "Zakrytý vydrží v lednici 3 dny."
+  ],
+  "substitutions": [
+    "Višně nahraď stejným množstvím rozmražených třešní.",
+    "Mascarpone nahraď smetanovým sýrem a šlehačkou 1:1.",
+    "Škrob nahraď pudinkovým práškem (15 g)."
+  ],
+  "faq": [
+    {
+      "q": "Mohu použít višně z konzervy?",
+      "a": "Ano, ale dobře je odkapej a škrob přidej jen do zbytku šťávy."
+    },
+    {
+      "q": "Jak dlouho se griotka chladí?",
+      "a": "Nejméně 5 hodin, nejlépe přes noc."
+    },
+    {
+      "q": "Jak dlouho vydrží griotka?",
+      "a": "Zakrytá v lednici 3 dny, přes noc je lepší."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Orzo se špenátem a fetou",
+  "restaurant": "lahudky-pozitri",
+  "kind": "main",
+  "section": "Těstoviny",
+  "description": "Krémové orzo z jednoho hrnce se špenátem, citronem a rozdrobenou fetou.",
+  "about": [
+    "Orzo vypadá jako rýže, chová se jako těstovina a po pár minutách ve vývaru jako rizoto. Špenát se v něm rozpadne, citron zvedne chuť a feta přidá slanou nitku.",
+    "Nejtěžší je přesvědčit sám sebe, že jídlo z jednoho hrnce může být tak krémové. Může. Lahůdky Pozítří ti ho nevydají, ale recept je opravdový."
+  ],
+  "price": 17900,
+  "image": "dish-orzo-se-spenatem-a-fetou",
+  "recipe": "orzo-se-spenatem-a-fetou",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7,
+    9
+  ],
+  "featured": false,
+  "order": 992
+}

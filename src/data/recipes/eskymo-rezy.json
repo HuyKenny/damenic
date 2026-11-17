@@ -1,0 +1,131 @@
+{
+  "title": "Eskymo řezy",
+  "keywords": [
+    "eskymo řezy",
+    "eskymo řezy recept",
+    "eskymo rezy",
+    "eskymo řezy s čokoládou",
+    "řezy s bílým krémem a čokoládou"
+  ],
+  "intro": "Eskymo řezy mají kakaový korpus, studený krém z mascarpone a bílé čokolády a tenkou tvrdou čokoládovou polevu jako na eskymo. Polevu uděláš z čokolády a oleje. Z plechu 24 × 34 cm vyjde 20 řezů.",
+  "image": "dish-eskymo-rezy",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 55,
+  "cookMinutes": 18,
+  "waitMinutes": 300,
+  "waitLabel": "chlazení řezů v lednici",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 120,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 30,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 5,
+      "unit": "g",
+      "group": "Korpus"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 250,
+      "unit": "ml",
+      "note": "vychlazená",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "mascarpone",
+      "amount": 250,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "bila-cokolada",
+      "amount": 100,
+      "unit": "g",
+      "note": "rozpuštěná a vlažná",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 40,
+      "unit": "ml",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Plech 24 × 34 cm vyložíš pečicím papírem."
+    },
+    {
+      "text": "Žloutky vyšlehej s 60 g cukru do pěny, bílky ušlehej se zbylým cukrem do tuhého sněhu. Mouku prosej s kakaem a práškem. Střídavě vmíchej sníh a mouku do žloutků."
+    },
+    {
+      "text": "Těsto rozetři na plech a peč 15 až 18 minut, dokud špejle nevyjde suchá. Nech vychladnout na mřížce."
+    },
+    {
+      "text": "Bílou čokoládu rozpusť nad párou a nech vlažnou. Šlehačku ušlehej s moučkovým cukrem. Mascarpone rozmíchej s čokoládou a vmíchej do šlehačky."
+    },
+    {
+      "text": "Krém rozetři na korpus a dej na hodinu do lednice. Čokoládu rozpusť s olejem, nech 5 minut zchladnout a rovnoměrně rozetři po krému. Nech v lednici nejméně 5 hodin a krájej nožem namočeným v teplé vodě."
+    }
+  ],
+  "tips": [
+    "Bílá čokoláda musí být při přidání do krému vlažná, ne horká ani studená.",
+    "Poleva s olejem je po zchladnutí pevná, nůž proto nejdřív ohřej.",
+    "Řezy vydrží v lednici 3 dny."
+  ],
+  "substitutions": [
+    "Mascarpone nahraď smetanovým sýrem, krém bude kyselejší.",
+    "Olej v polevě nahraď 30 g kokosového tuku."
+  ],
+  "faq": [
+    {
+      "q": "Proč poleva praská při krájení?",
+      "a": "Je tvrdá a studená. Nůž ohřej v horké vodě a osuš ho."
+    },
+    {
+      "q": "Jak dlouho vydrží eskymo řezy?",
+      "a": "V lednici 3 dny, šlehačka a mascarpone jsou citlivé na teplo."
+    },
+    {
+      "q": "Dají se zamrazit?",
+      "a": "Ano, vydrží 3 týdny, rozmrazuj je v lednici."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Perník s jablky",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "description": "Měkký plechový perník s hrubě strouhanými jablky, medem a perníkovým kořením.",
+  "about": [
+    "Perník s jablky je plechový, tmavý a vláčný díky strouhaným jablkům. Med a perníkové koření dělají ze všedního odpoledne malý svátek.",
+    "Nejlepší je druhý den, až koření dozraje. Dovoz je smyšlený, recept je skutečný a funguje v kterémkoli měsíci."
+  ],
+  "price": 7900,
+  "image": "dish-pernik-s-jablky",
+  "recipe": "pernik-s-jablky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 240
+}

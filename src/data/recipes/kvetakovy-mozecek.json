@@ -1,0 +1,109 @@
+{
+  "title": "Květákový mozeček",
+  "keywords": [
+    "květákový mozeček",
+    "květákový mozeček s vejci",
+    "květákový mozeček recept",
+    "mozeček z květáku",
+    "květák s vejcem"
+  ],
+  "image": "dish-kvetakovy-mozecek-budik",
+  "category": "vegetarianska",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Květákový mozeček je rozdrobený květák dušený na cibulce a spojený rozšlehanými vejci, jako míchaná vejce s květákem. Hotový je za 35 minut z pár surovin. Květák se musí rozmačkat, ale ne rozvařit, aby mozeček nebyl vodnatý.",
+  "ingredients": [
+    {
+      "ingredient": "kvetak",
+      "amount": 600,
+      "unit": "g",
+      "note": "nadrobno nasekaný"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "najemno"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Květák rozeber na růžičky a nasekej nožem na kousky velikosti rýže. Stonek použij také."
+    },
+    {
+      "text": "V široké pánvi rozpusť máslo a na středním plameni 4 minuty restuj cibuli do sklovata."
+    },
+    {
+      "text": "Přidej květák, osol, přilij vodu a přikryj. Duš 12 až 15 minut, občas promíchej, dokud není měkký a voda se odpaří."
+    },
+    {
+      "text": "Květák vidličkou nebo škrabkou na brambory zlehka rozmačkej, aby byl hrubý, ne kaše."
+    },
+    {
+      "text": "Vejce rozšlehej s pepřem a vlij do pánve. Na středním plameni míchej 3 až 4 minuty, dokud se vejce nesrazí a není vlhké, ale už netekuté."
+    },
+    {
+      "text": "Posyp pažitkou a podávej hned s chlebem nebo bramborami."
+    }
+  ],
+  "tips": [
+    "Pokud po dušení zbývá voda, odkryj pánev a odpař ji, jinak bude mozeček vodnatý.",
+    "Vejce přidávej až do horkého květáku, srazí se rovnoměrně.",
+    "Květák nedus pod pokličkou déle než 15 minut, nezíská sladkost, ale zahořkne."
+  ],
+  "substitutions": [
+    "Máslo můžeš nahradit sádlem nebo olejem.",
+    "Přidej nastrouhaný sýr nebo opečenou slaninu.",
+    "Květák můžeš dílem nahradit brokolicí."
+  ],
+  "faq": [
+    {
+      "q": "Proč je mozeček vodnatý?",
+      "a": "Květák pustil vodu a ta se neodpařila. Před přidáním vajec odkryj pánev a nech tekutinu odpařit."
+    },
+    {
+      "q": "Dá se mozeček udělat bez vajec?",
+      "a": "Ano, můžeš zahustit květák lžící mouky a mlékem, ale nebude to klasický mozeček."
+    },
+    {
+      "q": "Vydrží mozeček do druhého dne?",
+      "a": "V lednici 1 až 2 dny. Zahřej ho na pánvi, v mikrovlnce vyschne."
+    }
+  ]
+}

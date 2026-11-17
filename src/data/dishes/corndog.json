@@ -1,0 +1,26 @@
+{
+  "name": "Corndog s kečupem a hořčicí",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Teplé sendviče",
+  "description": "Párek na špejli v kukuřičném těstíčku, smažený dozlatova, s kečupem a hořčicí.",
+  "about": [
+    "Corndog je veletržní jídlo bez příboru: párek na špejli, kukuřičné těstíčko a hluboký olej. Obal je sladkavý, křupavý a měkký uvnitř.",
+    "Sendvičárna Mezi Krajíci ho na špejli nenabodne. Ty ano a olej sleduj teploměrem, ne očima."
+  ],
+  "price": 11900,
+  "image": "dish-corndog",
+  "recipe": "corndog",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 998
+}

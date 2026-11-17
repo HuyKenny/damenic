@@ -1,0 +1,129 @@
+{
+  "waitMinutes": 0,
+  "title": "Ačokča",
+  "keywords": [
+    "ačokča",
+    "ačokča recept",
+    "ačokča s bramborami",
+    "ačokča se zeleninou a klobásou"
+  ],
+  "image": "dish-acocka",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 40,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Ačokča je dušená zelenina s bramborami a klobásou, jídlo z jednoho hrnce podobné lečo. Paprika, rajčata a brambory se dusí v šťávě a papriky, dokud vše nezměkne a omáčka nezhoustne. Jí se s chlebem a hodí se i na druhý den.",
+  "ingredients": [
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "nakrájená na kostky"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "nasekaný"
+    },
+    {
+      "ingredient": "klobasa",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kolečka"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 2,
+      "unit": "ks",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "paprika-zelena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na kostky"
+    },
+    {
+      "ingredient": "rajcata",
+      "amount": 400,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 600,
+      "unit": "g",
+      "note": "na kostky 2 cm"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V širokém hrnci rozehřej olej a na středním plameni smaž cibuli 5 minut, aby zesklovatěla a nezhnědla."
+    },
+    {
+      "text": "Přidej klobásu a opékej ji 4 minuty, dokud nepustí tuk. Vmíchej česnek a po půl minutě odstav hrnec z plamene, přisyp papriku a promíchej, aby se nespálila."
+    },
+    {
+      "text": "Vrať na plamen a přidej papriky, rajčata a brambory. Zalij vodou, osol, opepři a přiveď k varu."
+    },
+    {
+      "text": "Přikryj pokličkou a duš na mírném plameni 25 až 30 minut, občas promíchej. Hotovo je, když jsou brambory měkké a omáčka zhoustla."
+    },
+    {
+      "text": "Ochutnej, dosol a podávej horké s chlebem."
+    }
+  ],
+  "tips": [
+    "Papriku sypej na ohřátý tuk až po odstavení z plamene. Spálená paprika je hořká a pokazí celé jídlo.",
+    "Brambory krájej stejně velké, vaří se pak rovnoměrně.",
+    "Druhý den je ačokča chuťově silnější, ohřej ji pomalu s lžící vody."
+  ],
+  "substitutions": [
+    "Bez masa: klobásu nahraď 150 g uzeného tofu nebo 1 lžičkou uzené papriky.",
+    "Místo čerstvých rajčat použij 400 g loupaných rajčat z plechovky.",
+    "Místo klobásy můžeš dát uzené maso nebo kousky slaniny."
+  ],
+  "faq": [
+    {
+      "q": "Čím se liší ačokča od lečo?",
+      "a": "Lečo se dělá hlavně z paprik a rajčat. V ačokče jsou navíc brambory a klobása, takže je hustší a sytější."
+    },
+    {
+      "q": "Dá se ačokča zmrazit?",
+      "a": "Ano, bez brambor. Vařené brambory po rozmražení zrnití, raději je přidej čerstvé po ohřátí."
+    },
+    {
+      "q": "Jak dlouho vydrží ačokča v lednici?",
+      "a": "V uzavřené dóze 3 dny. Před jídlem ji prohřej na 75 °C a promíchej."
+    }
+  ]
+}

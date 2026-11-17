@@ -1,0 +1,128 @@
+{
+  "title": "Citronová bábovka",
+  "keywords": [
+    "citronová bábovka",
+    "citronová bábovka recept",
+    "citronova babovka",
+    "bábovka s citronovou polevou",
+    "bábovka s citronem"
+  ],
+  "intro": "Citronová bábovka voní po kůře z čerstvých citronů a je zalitá kyselou polevou. Těsto je máslové s jogurtem a vláčné i po dvou dnech. Z formy o průměru 24 cm vyjde 12 kousků.",
+  "image": "dish-citronova-babovka",
+  "category": "dezerty",
+  "servings": 20,
+  "activeMinutes": 50,
+  "cookMinutes": 50,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí a zatuhnutí polevy",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "pokojové teploty",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 180,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 2,
+      "unit": "ks",
+      "note": "kůra z obou, šťáva z obou (asi 80 ml)",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 120,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na formu",
+      "group": "Forma"
+    },
+    {
+      "ingredient": "mouka-hruba",
+      "amount": 10,
+      "unit": "g",
+      "note": "na formu",
+      "group": "Forma"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 165 °C). Formu o průměru 24 cm vymaž a vysyp moukou."
+    },
+    {
+      "text": "Máslo vyšlehej s cukrem a kůrou z obou citronů do světlého krému. Přidej vejce po jednom a po každém šlehej."
+    },
+    {
+      "text": "Vmíchej jogurt a 40 ml citronové šťávy. Mouku smíchej s práškem a vmíchej po částech do těsta."
+    },
+    {
+      "text": "Těsto nalij do formy a peč 45 až 50 minut, dokud špejle nevyjde suchá. Nech 10 minut ve formě a vyklop."
+    },
+    {
+      "text": "Do moučkového cukru zamíchej zbylých 40 ml šťávy na hustou polevu a polej jí vlažnou bábovku. Nech 30 minut zatuhnout."
+    }
+  ],
+  "tips": [
+    "Kůru strouhej jen žlutou částí, bílé je hořké.",
+    "Polevu lij na vlažnou bábovku, na horké se vsákne.",
+    "Zakrytá vydrží 4 dny."
+  ],
+  "substitutions": [
+    "Jogurt nahraď zakysanou smetanou.",
+    "Citrony nahraď limetkami, chuť bude svěží.",
+    "Máslo nahraď 120 ml oleje, bábovka bude vláčnější, ale méně voňavá."
+  ],
+  "faq": [
+    {
+      "q": "Kolik citronů dát do bábovky?",
+      "a": "Na jednu formu 24 cm stačí 2 citrony: kůra z obou a šťáva z obou."
+    },
+    {
+      "q": "Proč je bábovka hořká?",
+      "a": "Do těsta se dostala bílá část kůry. Strouhej jen tenkou žlutou vrstvu."
+    },
+    {
+      "q": "Jak dlouho vydrží?",
+      "a": "Zakrytá vydrží 4 dny při pokojové teplotě."
+    }
+  ]
+}

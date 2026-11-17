@@ -1,0 +1,22 @@
+{
+  "name": "Buchta na plech se švestkami",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Koláče",
+  "description": "Máslová buchta na plechu se švestkami a drobenkou, krájená na hranaté kousky.",
+  "about": [
+    "Buchta na plech je pečivo pro hodně lidí, takže hodí se na oslavy i nedělní návštěvy. Máslové těsto unese šťavnaté ovoce a drobenka ho zakryje.",
+    "Kousek vybereš, upéct si ho musíš sám. Ten plech vlastně nemáme."
+  ],
+  "price": 8900,
+  "image": "dish-buchta-na-plech-kolac-na-slib",
+  "recipe": "buchta-na-plech",
+  "vegetarian": true,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 80
+}

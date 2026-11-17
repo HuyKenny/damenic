@@ -1,0 +1,123 @@
+{
+  "title": "Biskupský chlebíček",
+  "keywords": [
+    "biskupský chlebíček",
+    "biskupský chlebíček recept",
+    "biskupsky chlebicek",
+    "biskupský chlebíček s ořechy",
+    "biskupský chlebíček v dortové formě"
+  ],
+  "intro": "Biskupský chlebíček je hustý pečený koláč plný ořechů, kandovaného ovoce, rozinek a kousků čokolády. Těsto je jen lehce pojivové, takže ovoce a ořechy tvoří většinu hmoty. Peče se v dlouhé formě a vydrží několik dní, vyjde asi 14 plátků.",
+  "image": "dish-biskupsky-chlebicek",
+  "category": "dezerty",
+  "servings": 20,
+  "activeMinutes": 50,
+  "cookMinutes": 50,
+  "waitMinutes": 45,
+  "waitLabel": "vychladnutí ve formě",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "rozpuštěné a vlažné"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 5,
+      "unit": "g",
+      "note": "půl lžičky"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 100,
+      "unit": "g",
+      "note": "nahrubo nasekané"
+    },
+    {
+      "ingredient": "kandovane-ovoce",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na formu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 160 °C). Formu o délce 28 cm vymaž máslem a vyložíš pečicím papírem."
+    },
+    {
+      "text": "Žloutky vyšlehej s cukrem a vanilkovým cukrem do hustého světlého krému. Přilij vlažné rozpuštěné máslo. Bílky ušlehej do tuhého sněhu."
+    },
+    {
+      "text": "Mouku smíchej s práškem do pečiva. Ovoce, rozinky, ořechy a čokoládu obal v 1 lžíci této směsi. Zbytek mouky vmíchej do žloutků a opatrně přidej sníh."
+    },
+    {
+      "text": "Přisyp obalené přísady a lehce promíchej, aby sníh neklesl. Těsto nalij do formy a peč 45 až 50 minut, dokud špejle nevyjde suchá. Pokud vrch tmavne dřív, přikryj ho alobalem."
+    },
+    {
+      "text": "Chlebíček nech 10 minut ve formě, pak ho vyklop na mřížku. Plátkuj ho až vychladlý, jinak se drobí."
+    }
+  ],
+  "tips": [
+    "Přísady obal v mouce, nepotopí se pak na dno formy.",
+    "Chlebíček je nejlepší druhý den, kdy se chutě spojí. Zakrytý vydrží 5 dní.",
+    "Plátkuj ho nožem s pilkovým ostřím."
+  ],
+  "substitutions": [
+    "Kandované ovoce nahraď stejným množstvím sušených meruněk nakrájených na kostičky.",
+    "Vlašské ořechy nahraď lískovými, chlebíček bude jemnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží biskupský chlebíček?",
+      "a": "Zakrytý vydrží při pokojové teplotě asi 5 dní. Je lepší druhý den, kdy je vlhčí."
+    },
+    {
+      "q": "Proč mi ovoce spadlo na dno formy?",
+      "a": "Ovoce nebylo obalené v mouce nebo bylo těsto příliš řídké. Mouka v obalu drží přísady v těstě."
+    },
+    {
+      "q": "Dá se biskupský chlebíček zamrazit?",
+      "a": "Ano, vychladlý ve fólii vydrží zamražený 2 měsíce. Rozmrazuj ho při pokojové teplotě."
+    }
+  ]
+}

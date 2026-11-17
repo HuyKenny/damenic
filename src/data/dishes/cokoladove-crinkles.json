@@ -1,0 +1,21 @@
+{
+  "name": "Čokoládové crinkles",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "dessert",
+  "section": "Cukroví",
+  "description": "Kakaové sušenky s popraskaným povrchem z moučkového cukru, 5 ks.",
+  "about": [],
+  "price": 7900,
+  "image": "dish-cokoladove-crinkles",
+  "recipe": "cokoladove-crinkles",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3
+  ],
+  "featured": false,
+  "order": 510
+}

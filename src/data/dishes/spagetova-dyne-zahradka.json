@@ -1,0 +1,21 @@
+{
+  "name": "Špagetová dýně s rajčaty a mozzarellou",
+  "restaurant": "zahradka-naprazdno",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Pečená dýně rozpadlá na pramínky, s rajčatovou omáčkou, bazalkou a mozzarellou.",
+  "about": [
+    "Špagetová dýně dělá to, co by tě nenapadlo: po upečení se z ní vlákna rozpadnou na dlouhé pásky, které vypadají jako těstoviny. Rajčatová omáčka s česnekem a mozzarella na vrchu z toho dělají hlavní jídlo, které je lehké, ale ne prázdné.",
+    "Zahrádka je smyšlená a nic z ní nevyroste, ale dýně se upeče doma za čtyřicet minut. Pozor, slupka se nejí, to je jediná past."
+  ],
+  "price": 16900,
+  "image": "dish-spagetova-dyne-zahradka",
+  "recipe": "spagetova-dyne",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "order": 450
+}

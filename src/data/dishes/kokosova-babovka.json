@@ -1,0 +1,25 @@
+{
+  "name": "Kokosová bábovka s bílou čokoládou",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Třená bábovka s kokosem v těstě a polevou z bílé čokolády.",
+  "about": [
+    "Kokosová bábovka je máslová a hustá, s kokosem rozpuštěným ve střídě a polevou z bílé čokolády navrch. Je sladká, vonná a pěkně se krájí.",
+    "Kokos nech chvíli nasáknout mlékem, bábovka bude vláčnější. Dovozu bohužel nemáme, ale recept je skutečný a bábovka z formy vyklopí jako z cukrárny."
+  ],
+  "price": 10900,
+  "image": "dish-kokosova-babovka",
+  "recipe": "kokosova-babovka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 360
+}

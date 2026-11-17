@@ -1,0 +1,119 @@
+{
+  "title": "Hovězí na česneku",
+  "keywords": [
+    "hovězí na česneku",
+    "hovězí na česneku recept",
+    "dušené hovězí s česnekem",
+    "hovězí maso na česneku"
+  ],
+  "image": "dish-hovezi-na-cesneku",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 25,
+  "cookMinutes": 120,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Hovězí na česneku je pomalu dušené maso s hodně česnekem, který se přidává dvakrát: půlka na začátek pro hloubku, půlka na konci pro svěžest. Z hovězího zadního se za dvě hodiny stane maso, které se rozpadá, v hustší tmavé omáčce.",
+  "ingredients": [
+    {
+      "ingredient": "hovezi-zadni",
+      "amount": 700,
+      "unit": "g",
+      "note": "na plátky 1,5 cm"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 10,
+      "unit": "ks",
+      "note": "půlka prolisovaná, půlka nasekaná"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Plátky osol, opepři a na rozpáleném oleji opeč po dávkách 2 minuty z každé strany. Vyndej na talíř."
+    },
+    {
+      "text": "Do hrnce dej na prsty nasekanou cibuli a opékej 8 minut. Přidej polovinu česneku, majoránku a kmín a míchej 1 minutu."
+    },
+    {
+      "text": "Posyp mouku, promíchej, zalij vývarem a vrať maso. Přikryj a duš 100 až 120 minut na mírném plameni, občas promíchej."
+    },
+    {
+      "text": "Maso je hotové, když se rozpadá. Pokud je omáčky moc, vař posledních 10 minut bez pokličky."
+    },
+    {
+      "text": "Vmíchej zbylý česnek a petrželku, nech 5 minut stát a dosol. Podávej s knedlíkem nebo bramborami."
+    }
+  ],
+  "tips": [
+    "Česnek dvakrát: první dávka dodá hloubku, druhá aroma. Dohromady chutná plněji než jedna dávka.",
+    "Hovězí duš na mírném varu. Prudký var maso zatuhne.",
+    "Druhý den je lepší, omáčka dozraje."
+  ],
+  "substitutions": [
+    "Zadní můžeš nahradit hovězí plecí nebo kližkou, dus ho o 30 minut déle.",
+    "Vývar nahraď vodou s lžičkou bujónu nebo rozpuštěnou kostkou.",
+    "Bez mouky: omáčku zahusti rozmačkanými brambory."
+  ],
+  "faq": [
+    {
+      "q": "Kolik česneku dát do hovězího na česneku?",
+      "a": "Zhruba 10 stroků na 700 g masa, půlku na začátek a půlku na konci."
+    },
+    {
+      "q": "Proč je hovězí po dušení tvrdé?",
+      "a": "Maso se dusilo příliš prudce nebo krátce. Potřebuje aspoň 2 hodiny na mírném varu."
+    },
+    {
+      "q": "Dá se hovězí na česneku zamrazit?",
+      "a": "Ano, vydrží 3 měsíce. Rozmraz v lednici a prohřej pomalu."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Celestýnské nudle",
+  "keywords": [
+    "celestýnské nudle",
+    "celestýnské nudle do polévky",
+    "celestýnské nudle recept",
+    "palačinkové nudle do polévky",
+    "celestýnské nudle do vývaru"
+  ],
+  "image": "dish-celestynske-nudle",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Celestýnské nudle jsou tenké palačinky nakrájené na nudličky, které se přidávají do horkého vývaru. Těsto je řidké, bez cukru a hotové za 25 minut. Palačinky se musí upéct tenké a pružné, jinak se v polévce rozpadnou.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 120,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na pánev"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "horký"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce rozšlehej s mlékem a solí. Postupně vmíchej mouku a vyšlehej hladké těsto, které je řidší než na palačinky. Nech 10 minut odpočinout."
+    },
+    {
+      "text": "Pánev o průměru asi 24 cm potři olejem a rozpal na středním plameni. Nalej tenkou vrstvu těsta, rozlij ji kroužením a peč 1 minutu, pak otoč a peč další půl minutu."
+    },
+    {
+      "text": "Takto upeč 6 až 8 tenkých palačinek, mezi nimi pánev přetři olejem. Hotové nech 5 minut vychladnout, aby se daly krájet."
+    },
+    {
+      "text": "Palačinky stoč do roulády a nakrájej na pásky široké asi 5 mm. Po rozkrojení je rozkroť rukou."
+    },
+    {
+      "text": "Do misek dej nudle, zalij je horkým vývarem a posyp petrželkou. V polévce je nevař, jen se v ní prohřejí."
+    }
+  ],
+  "tips": [
+    "Tenké palačinky se pečou rychle. Pokud těsto zhoustne, ředí se po lžících mlékem.",
+    "Palačinky lze upéct den předem a uložit v lednici přikryté fólií.",
+    "Do těsta přidej nasekanou pažitku nebo petrželku pro barvu."
+  ],
+  "substitutions": [
+    "Mléko nahraď polovinou vody, nudle budou tenčí.",
+    "Hladkou mouku můžeš nahradit polohrubou, těsto nechej odležet 20 minut.",
+    "Vývar zvol hovězí, kuřecí nebo zeleninový."
+  ],
+  "faq": [
+    {
+      "q": "Proč se palačinky při krájení trhají?",
+      "a": "Pravděpodobně jsou moc silné nebo teplé. Nech je vychladnout a pečte je tenčeji."
+    },
+    {
+      "q": "Dají se celestýnské nudle zamrazit?",
+      "a": "Ano, nakrájené nudle v sáčku vydrží 2 měsíce. Rozmraz je v lednici nebo rovnou v horkém vývaru."
+    },
+    {
+      "q": "Do jaké polévky se celestýnské nudle dávají?",
+      "a": "Nejčastěji do hovězího nebo kuřecího vývaru, ale hodí se i do zeleninového."
+    }
+  ]
+}

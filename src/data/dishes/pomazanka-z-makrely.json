@@ -1,0 +1,26 @@
+{
+  "name": "Sendvič s pomazánkou z makrely",
+  "restaurant": "sendvicarna-mezi-krajici",
+  "kind": "main",
+  "section": "Studené sendviče",
+  "description": "Chléb s jemnou pomazánkou z uzené makrely, tvarohu a jarní cibulky.",
+  "about": [
+    "Makrela je ryba, která se v pomazánce nemusí stydět. Uzená chuť, tvaroh a trocha citronu se spojí do krému, který se dá roztírat i na čerstvý chléb.",
+    "Sendvičárna Mezi Krajíci ti ho nepodá. Chléb, nůž a recept jsou ale tvoje a pomazánka vyjde hotová do půl hodiny."
+  ],
+  "price": 9900,
+  "image": "dish-pomazanka-z-makrely",
+  "recipe": "pomazanka-z-makrely",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    4,
+    7,
+    10
+  ],
+  "featured": false,
+  "order": 995
+}

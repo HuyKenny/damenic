@@ -1,0 +1,23 @@
+{
+  "name": "Kapustové karbanátky s tvarohovým dipem",
+  "restaurant": "zelena-nula",
+  "kind": "main",
+  "section": "Teplá jídla",
+  "description": "Smažené karbanátky z kapusty a sýra, s lehkým tvarohovým dipem a čerstvou zeleninou.",
+  "about": [
+    "Kapusta se v kuchyni často přehlíží, přitom se z ní dá udělat zlatý karbanátek bez kousku masa. Pomáhá jí sýr, který drží hmotu pohromadě a při smažení lehce zkaramelizuje na kraji.",
+    "Zelená Nula je smyšlená a talíř prázdný, ale karbanátky se doma smaží do zlatova. A kdo se nechtěl pustit do kapusty, může ji nahradit zelím."
+  ],
+  "price": 15900,
+  "image": "dish-kapustove-karbanatky-nula",
+  "recipe": "kapustove-karbanatky",
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "order": 470
+}

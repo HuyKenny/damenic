@@ -1,0 +1,98 @@
+{
+  "title": "Kynutý knedlík",
+  "keywords": [
+    "kynutý knedlík",
+    "kynutý knedlík recept",
+    "kynuté knedlíky",
+    "knedlík z kynutého těsta",
+    "kynuté knedlíky z droždí"
+  ],
+  "image": "dish-kynuty-knedlik",
+  "category": "ceska",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 25,
+  "cookMinutes": 25,
+  "waitMinutes": 60,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "meal": "priloha",
+  "intro": "Kynutý knedlík z droždí a polohrubé mouky je klasická příloha ke svíčkové a ke guláši. Nadýchané těsto vykyne za hodinu a po uvaření se krájí nití, aby zůstalo nakypřené. Vyjde 2 knedlíky pro 6 osob.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-polohruba",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 25,
+      "unit": "g",
+      "note": "čerstvé"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 270,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozdrob do vlažného mléka s cukrem a nech 10 minut vzejít v kvásek."
+    },
+    {
+      "text": "Do mísy dej mouku se solí, přidej vejce a kvásek a vypracuj hladké těsto. Hnětej 8 minut, až se odlepuje od mísy."
+    },
+    {
+      "text": "Přikryj utěrkou a nech v teple (kolem 30 °C) 45 až 60 minut kynout do dvojnásobku."
+    },
+    {
+      "text": "Těsto rozdělte na 2 díly, vytvaruj do válečků a nech ještě 15 minut odpočinout."
+    },
+    {
+      "text": "Ve velkém hrnci přiveď k varu osolenou vodu. Vlož knedlíky, přikryj a vař 10 minut z jedné strany, pak otoč a vař dalších 10 minut."
+    },
+    {
+      "text": "Hotové knedlíky vyndej, hned je propíchej vidličkou, aby unikla pára, a krájej nití."
+    }
+  ],
+  "tips": [
+    "Mléko nesmí být horké, nad 40 °C droždí hyne.",
+    "Těsto nepřekynuj, knedlík pak ztratí tvar.",
+    "Zbylé plátky lze druhý den ohřát v páře."
+  ],
+  "substitutions": [
+    "Čerstvé droždí nahraď 8 g sušeného.",
+    "Část mouky lze nahradit hrubou, knedlík bude hutnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit kynuté knedlíky?",
+      "a": "Celkem asi 20 minut, 10 minut z každé strany pod pokličkou."
+    },
+    {
+      "q": "Proč je kynutý knedlík tvrdý?",
+      "a": "Těsto málo vykynulo, bylo moc mouky nebo se knedlík po uvaření neprošpendlíkoval a opadl."
+    },
+    {
+      "q": "Čím krájet knedlík?",
+      "a": "Nití nebo struhou, nůž knedlík stlačí a plátky se slepí."
+    }
+  ]
+}

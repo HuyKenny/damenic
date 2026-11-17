@@ -1,0 +1,129 @@
+{
+  "title": "Kmínová polévka",
+  "keywords": [
+    "kmínová polévka",
+    "kmínová polévka s vejcem",
+    "kmínová polévka recept",
+    "kmínová polévka s bramborem",
+    "polévka z kmínu"
+  ],
+  "image": "dish-kminova-polevka-naberacka",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Kmínová polévka je jednoduchá jíšková polévka s kmínem, česnekem a bramborem, do které se na konci vsune vejce. Kmín se musí krátce opražit na másle, aby dal chuť, ale nezhořkl. Hotová je za 40 minut z levných surovin, které máš doma.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "na jíšku"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 4,
+      "unit": "g",
+      "note": "asi 1 lžička celého kmínu, v hmoždíři mírně rozdrcený"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 250,
+      "unit": "g",
+      "note": "na kostičky 1 cm"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 1200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 1,
+      "unit": "g",
+      "note": "asi 0,5 lžičky"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "podle vývaru"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 100,
+      "unit": "g",
+      "note": "na krutony"
+    },
+    {
+      "ingredient": "pazitka",
+      "amount": 1,
+      "unit": "ks",
+      "note": "najemno"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozpusť máslo na středním plameni, přidej kmín a 30 vteřin ho opékej, dokud nezavoní. Nesmí ztmavnout, jinak je polévka hořká."
+    },
+    {
+      "text": "Přisyp mouku a 2 minuty míchej metličkou, až z jíšky vznikne světle zlatá pěna. Hrnec odstav z plotny a za stálého míchání přilévej po troškách vlažný vývar, aby nevznikly hrudky."
+    },
+    {
+      "text": "Vrať hrnec na plotnu, přidej brambory, majoranku a sůl a vař pod pokličkou 15 minut, dokud brambory nejsou měkké. Polévka má mít konzistenci řidší smetany."
+    },
+    {
+      "text": "Vmíchej česnek a vař ještě 2 minuty, dál už ne, aby neztratil vůni. Ochutnej a dosol."
+    },
+    {
+      "text": "Polévku udržuj těsně pod bodem varu, jednotlivě do ní rozklepni vejce a nech je 3 až 4 minuty srazit, dokud není bílek pevný a žloutek ještě lehce měkký. Pro děti nebo těhotné nech vejce 6 minut, aby se žloutek srazil."
+    },
+    {
+      "text": "Mezitím na suché pánvi nebo troubě při 180 °C opeč kostičky chleba 6 minut do křupava. Polévku podávej s vejcem, krutony a pažitkou."
+    }
+  ],
+  "tips": [
+    "Kmín před použitím lehce rozdrť, uvolní se víc oleje a chuť bude plnější.",
+    "Česnek dávej až ke konci. Při dlouhém varu zhořkne a ztratí aroma.",
+    "Vejce nevař v bublající vodě, trhá se bílek. Polévka má jen tiše pobublávat."
+  ],
+  "substitutions": [
+    "Zeleninový vývar nahraď vodou s kostkou bujónu nebo hovězím vývarem.",
+    "Máslo můžeš vyměnit za sádlo, chuť bude tradičnější.",
+    "Místo hladké mouky použij polohrubou, polévka bude trochu hrubší."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit kmín v polévce?",
+      "a": "Celý kmín stačí 15 až 20 minut ve vroucí polévce nebo 30 vteřin opražit na tuku. Déle vařený kmín dává trpkost."
+    },
+    {
+      "q": "Dá se kmínová polévka zahustit jinak než jíškou?",
+      "a": "Ano, můžeš ji zahustit rozmačkanými brambory nebo 2 lžícemi mouky rozmíchanými ve 100 ml studeného mléka a zavařit 5 minut."
+    },
+    {
+      "q": "Vydrží kmínová polévka do druhého dne?",
+      "a": "V lednici vydrží 2 dny v uzavřené nádobě. Před ohřátím ji rozmíchej a vejce vař čerstvé, jinak se přepečou."
+    }
+  ]
+}

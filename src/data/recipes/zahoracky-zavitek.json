@@ -1,0 +1,126 @@
+{
+  "title": "Záhorácký závitek",
+  "keywords": [
+    "záhorácký závitek",
+    "záhorácké závitky",
+    "záhorácký závitek recept",
+    "závitky plněné slaninou"
+  ],
+  "image": "dish-zahoracky-zavitek",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 35,
+  "cookMinutes": 55,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Záhorácký závitek je plátek vepřové kýty plněný slaninou, nakládanou okurkou a hořčicí, zavinutý a dušený v omáčce. Těžké je maso dostatečně naklepat a závitek pevně svázat, aby se při dušení nerozbalil.",
+  "ingredients": [
+    {
+      "ingredient": "veprova-kyta",
+      "amount": 600,
+      "unit": "g",
+      "note": "6 plátků po asi 100 g"
+    },
+    {
+      "ingredient": "slanina",
+      "amount": 100,
+      "unit": "g",
+      "note": "na tenké plátky"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 150,
+      "unit": "g",
+      "note": "na podélné proužky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "na tenké plátky"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Plátky kýty naklepej mezi dvěma fóliemi na tloušťku 5 mm. Osol, opepři a potři hořčicí."
+    },
+    {
+      "text": "Na každý plátek polož slaninu, cibuli a proužek okurky. Stoč do pevného závitku a zajisti špejlí nebo provázkem."
+    },
+    {
+      "text": "Na oleji závitky opeč ze všech stran dozlatova, asi 6 minut. Přidej papriku s protlakem a mouku, hned zalij vývarem."
+    },
+    {
+      "text": "Přikryj a duš na mírném plameni 40 minut, nebo peč v troubě při 170 °C. Maso je hotové, když se vidlička bez odporu zabodne."
+    },
+    {
+      "text": "Špejle vyndej, závitky nakrájej na plátky a polij omáčkou. Podávej s rýží, bramborami nebo knedlíkem."
+    }
+  ],
+  "tips": [
+    "Maso naklepej rovnoměrně, aby se plátek neroztrhl a závitek držel tvar.",
+    "Papriku přidávej mimo plamen, hned zalévej.",
+    "Sůl dávej opatrně, slanina a okurky už solí."
+  ],
+  "substitutions": [
+    "Kýtu nahraď kuřecími prsy, dus jen 25 minut.",
+    "Slaninu vynech a použij uzenou šunku.",
+    "Okurku nahraď strouhaným eidamem."
+  ],
+  "faq": [
+    {
+      "q": "Čím plnit záhorácký závitek?",
+      "a": "Slaninou, nakládanou okurkou, cibulí a hořčicí. Variací je mnoho."
+    },
+    {
+      "q": "Jak závitek zajistit?",
+      "a": "Špejlí nebo provázkem, konce zastrč dovnitř."
+    },
+    {
+      "q": "Dá se závitek zamrazit?",
+      "a": "Ano, s omáčkou vydrží 3 měsíce."
+    }
+  ]
+}

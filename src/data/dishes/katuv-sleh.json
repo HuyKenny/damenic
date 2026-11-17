@@ -1,0 +1,25 @@
+{
+  "name": "Katův šleh",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Řezy z plechu",
+  "description": "Kakaový piškot, vanilkový máslový krém a vysoká šlehačka s čokoládou, 20 řezů z plechu.",
+  "about": [
+    "Katův šleh stojí na třech patrech: tmavý kakaový piškot, vanilkový máslový krém a nahoře šlehačka posypaná čokoládou. Žádné okázalé zdobení, jen čisté řezy, které se v cukrárně prodávají po kusech.",
+    "Piškot je upečený za 18 minut, krém potřebuje vychladlý pudink a všechno spolu pak musí v lednici přenocovat. Naše vitrína je smyšlená, takže řez ti nepřivezeme, ale recept je celý a funguje."
+  ],
+  "price": 8900,
+  "image": "dish-katuv-sleh",
+  "recipe": "katuv-sleh",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 300
+}

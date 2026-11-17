@@ -1,0 +1,135 @@
+{
+  "waitMinutes": 0,
+  "title": "Milánské špagety",
+  "keywords": [
+    "milánské špagety",
+    "milánské špagety recept",
+    "špagety milánské se šunkou",
+    "milánské špagety se žampiony"
+  ],
+  "image": "dish-milanske-spagety",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Milánské špagety jsou česká klasika z jídelen: špagety v rajčatové omáčce se šunkou, žampiony a sýrem. Dělají se za půl hodiny z běžných surovin a rozhoduje jen to, aby omáčka stihla zhoustnout a špagety se do ní dostaly ještě horké.",
+  "ingredients": [
+    {
+      "ingredient": "spagety",
+      "amount": 400,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na těstoviny"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "na drobno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisované"
+    },
+    {
+      "ingredient": "zampiony",
+      "amount": 250,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredient": "sunka",
+      "amount": 200,
+      "unit": "g",
+      "note": "na nudličky"
+    },
+    {
+      "ingredient": "passata",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "oregano",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "sušené"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "čerstvě mletý"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 100,
+      "unit": "g",
+      "note": "nastrouhaný"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve velkém hrnci přiveď k varu 4 litry vody, osol ji a špagety uvař podle obalu zhruba 9 až 11 minut. Před scezením odlij 1 hrnek vody z vaření."
+    },
+    {
+      "text": "Mezitím na oleji na středním plameni 4 minuty smaž cibuli, dokud nezesklovatí. Přidej žampiony a smaž je 6 až 8 minut, až pustí vodu a ta se odpaří."
+    },
+    {
+      "text": "Přidej šunku a česnek, promíchej a po minutě zalij passatou. Vmíchej protlak, cukr, oregano a pepř a omáčku nech na mírném plameni 8 až 10 minut povolna bublat, občas ji promíchej."
+    },
+    {
+      "text": "Špagety scedi, vmíchej je do omáčky a podle potřeby zřeď několika lžícemi vody z vaření. Ochutnej a dosol, šunka i sýr jsou slané."
+    },
+    {
+      "text": "Rozděl na talíře a posyp strouhaným eidamem, který se na horkých špagetách zlehka roztaví."
+    }
+  ],
+  "tips": [
+    "Žampiony nikdy nesol hned na začátku. Sůl z nich táhne vodu a místo smažení se budou jen dusit.",
+    "Omáčka se dá uvařit den předem a ohřát. Špagety vař až těsně před podáváním.",
+    "Šunku vyber s vyšším podílem masa, rozpadá se méně a omáčce dodá chuť."
+  ],
+  "substitutions": [
+    "Místo šunky použij 200 g opečené slaniny nebo kousky uzeného masa.",
+    "Bez masa: šunku vynech a přidej druhou porci žampionů nebo 1 pokrájenou červenou papriku.",
+    "Místo passaty můžeš použít 400 g loupaných rajčat z plechovky, rozmačkaných vidličkou."
+  ],
+  "faq": [
+    {
+      "q": "Čím se liší milánské špagety od boloňských?",
+      "a": "Milánské mají v rajčatové omáčce šunku a žampiony a jsou lehčí, boloňské se dělají z mletého masa a vaří se déle."
+    },
+    {
+      "q": "Dá se omáčka na milánské špagety zmrazit?",
+      "a": "Ano. Bez těstovin vydrží v uzavřené dóze v mrazáku 2 až 3 měsíce a před ohřevem ji nech rozmrznout v lednici."
+    },
+    {
+      "q": "Jak dlouho vydrží uvařené milánské špagety v lednici?",
+      "a": "V uzavřené dóze 2 až 3 dny. Ohřívej je na pánvi s trochou vody, aby se těstoviny nespojily."
+    }
+  ]
+}

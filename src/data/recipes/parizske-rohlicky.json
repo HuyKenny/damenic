@@ -1,0 +1,141 @@
+{
+  "title": "Pařížské rohlíčky",
+  "keywords": [
+    "pařížské rohlíčky",
+    "pařížské rohlíčky recept",
+    "parizske rohlicky",
+    "pařížské rohlíčky s ořechy",
+    "tvarohové rohlíčky s ořechovou náplní"
+  ],
+  "intro": "Pařížské rohlíčky jsou máslovo-tvarohové těsto rolované kolem sladké ořechovo-kakaové náplně. Těsto se válí do kruhů a krájí na trojúhelníky, vyjde asi 48 rohlíčků. Těžké je držet těsto studené a nepřeplnit rohlíčky, aby náplň při pečení nevytekla.",
+  "image": "dish-parizske-rohlicky",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 50,
+  "cookMinutes": 18,
+  "waitMinutes": 60,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 125,
+      "unit": "g",
+      "note": "tvrdý, odkapaný",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "žloutek do těsta, bílek do náplně",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "g",
+      "note": "špetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 120,
+      "unit": "g",
+      "note": "mleté",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 20,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 60,
+      "unit": "ml",
+      "note": "horké",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na potření",
+      "group": "Na potření"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "note": "na posypání po upečení",
+      "group": "Na potření"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku smíchej se solí, máslem a tvarohem, rychle zpracuj ve vláčné těsto a přidej žloutek. Těsto rozděl na 4 kusy, zabal do fólie a dej na 1 hodinu do lednice."
+    },
+    {
+      "text": "Na náplň smíchej mleté ořechy, moučkový cukr a kakao. Zalij horkým mlékem a promíchej na hustou pastu, která drží na lžičce. Nech vychladnout."
+    },
+    {
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 170 °C). Plechy vyložíš papírem. Každý kus těsta vyválej na kruh o průměru asi 24 cm, tloušťka 3 mm."
+    },
+    {
+      "text": "Kruh rozkrájej na 12 trojúhelníků. Na široký konec každého dej čajovou lžičku náplně a rohlíček stoč ke špičce. Špičkou dolů ho polož na plech a mírně ohni."
+    },
+    {
+      "text": "Rohlíčky potři rozšlehaným vejcem a peč 16 až 18 minut dozlatova. Horké je přenes na mřížku a zasyp moučkovým cukrem, až když trochu zchladnou, aby se cukr nerozpustil."
+    }
+  ],
+  "tips": [
+    "Pracuj vždy s jedním kusem těsta a zbytek nech v lednici. Zahřáté těsto se lepí a roztéká.",
+    "Náplň dej na každý trojúhelník nejvýš čajovou lžičku, víc vyteče a rohlíčky se rozlepí.",
+    "Hotové rohlíčky vydrží v dóze v chladu až 2 týdny."
+  ],
+  "substitutions": [
+    "Vlašské ořechy nahraď mletými lískovými ořechy, náplň bude jemnější.",
+    "Tvaroh můžeš nahradit stejným množstvím zakysané smetany 20 %, těsto pak bude měkčí a bude potřebovat delší chlazení."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi rohlíčky při pečení vytekly?",
+      "a": "Nejčastěji byla náplň řídká nebo těsto roztažené příliš tence. Náplň má držet na lžičce a těsto má být 3 mm tlusté."
+    },
+    {
+      "q": "Jak dlouho vydrží pařížské rohlíčky?",
+      "a": "V dóze s víkem při pokojové teplotě vydrží asi 10 dní, v chladu až 2 týdny."
+    },
+    {
+      "q": "Dá se těsto připravit dopředu?",
+      "a": "Ano, zabalené těsto vydrží v lednici 2 dny. Před válením ho nech 10 minut při pokojové teplotě."
+    }
+  ]
+}

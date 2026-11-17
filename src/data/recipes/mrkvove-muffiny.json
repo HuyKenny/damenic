@@ -1,0 +1,118 @@
+{
+  "title": "Mrkvové muffiny",
+  "keywords": [
+    "mrkvové muffiny",
+    "mrkvové muffiny recept",
+    "muffiny z mrkve",
+    "mrkvové muffiny s ořechy"
+  ],
+  "image": "dish-mrkvove-muffiny-nedortik",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 22,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Mrkvové muffiny z jemně strouhané mrkve, jogurtu a vlašských ořechů vyjdou vláčné i druhý den. Z dávky je 12 kusů a těsto se míchá ve dvou miskách bez šlehače. Mrkev strouhej najemno, jinak zůstanou v těstě dlouhé pruhy.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 120,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "jogurt-bily",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mrkev",
+      "amount": 200,
+      "unit": "g",
+      "note": "jemně nastrouhaná"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 60,
+      "unit": "g",
+      "note": "nasekané"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 50,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C (horkovzduch 165 °C) a 12 důlků formy na muffiny vlož papírové košíčky."
+    },
+    {
+      "text": "Mouku smíchej s práškem do pečiva, sodou a skořicí. V druhé misce rozmíchej vejce, cukr, olej a jogurt."
+    },
+    {
+      "text": "Suchou směs vmíchej do tekuté jen do spojení. Přidej mrkev, ořechy a rozinky a krátce promíchej."
+    },
+    {
+      "text": "Těsto rozdělte do košíčků do tří čtvrtin a peč 20 až 22 minut. Muffiny jsou hotové, když špejle vyjde suchá."
+    },
+    {
+      "text": "Nech je 5 minut ve formě a pak vychladnout na mřížce."
+    }
+  ],
+  "tips": [
+    "Těsto míchej krátce, jinak muffiny nevyskočí a budou pevné.",
+    "Mrkev nech po nastrouhání lehce vymačkat v dlani, aby těsto nebylo příliš mokré.",
+    "V dóze vydrží 3 dny."
+  ],
+  "substitutions": [
+    "Jogurt lze nahradit zakysanou smetanou.",
+    "Ořechy nahraď semínky pro školní svačiny bez ořechů."
+  ],
+  "faq": [
+    {
+      "q": "Můžu muffiny ozdobit polevou?",
+      "a": "Ano, hodí se krém ze 150 g smetanového sýra a 50 g moučkového cukru."
+    },
+    {
+      "q": "Proč muffiny nevyskočí?",
+      "a": "Těsto bylo příliš dlouho míchané nebo je prášek do pečiva starý."
+    },
+    {
+      "q": "Dají se mrazit?",
+      "a": "Ano, po vychladnutí ve vzduchotěsném sáčku až 2 měsíce."
+    }
+  ]
+}

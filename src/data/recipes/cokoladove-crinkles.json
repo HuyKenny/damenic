@@ -1,0 +1,121 @@
+{
+  "title": "Čokoládové crinkles",
+  "keywords": [
+    "čokoládové crinkles",
+    "čokoládové crinkles recept",
+    "cokoladove crinkles",
+    "crinkles sušenky",
+    "popraskané čokoládové sušenky"
+  ],
+  "intro": "Čokoládové crinkles jsou vláčné kakaové sušenky s popraskaným bílým povrchem z moučkového cukru. Těsto je velmi měkké, proto se musí nejméně 3 hodiny chladit, jinak se nedá tvarovat. Z dávky vyjde asi 28 sušenek.",
+  "image": "dish-cokoladove-crinkles",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 22,
+  "cookMinutes": 11,
+  "waitMinutes": 180,
+  "waitLabel": "chlazení těsta v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 8,
+      "unit": "g",
+      "note": "asi půl lžíce"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "g",
+      "note": "špetka"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "note": "rozpuštěná a vlažná"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 80,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "note": "na obalení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Čokoládu rozpusť nad párou a nech zchladnout na vlažnou. Mouku smíchej s kakaem, práškem do pečiva a solí."
+    },
+    {
+      "text": "Vejce vyšlehej s cukrem a vanilkovým cukrem do hladka, přilij olej a vlažnou čokoládu. Přisyp suché suroviny a zamíchej do hladkého těsta. Je velmi měkké, jako husté těsto na palačinky."
+    },
+    {
+      "text": "Těsto přikryj fólií a nech nejméně 3 hodiny v lednici, nejlépe přes noc, až ztuhne a dá se formovat."
+    },
+    {
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 165 °C). Plechy vyložíš pečicím papírem. Z těsta odebírej lžící kousky o velikosti vlašského ořechu a tvaruj je do kuliček."
+    },
+    {
+      "text": "Každou kuličku obal silně v moučkovém cukru. Rozlož na plech s odstupem 4 cm a peč 10 až 12 minut. Sušenky mají zůstat uprostřed měkké, okraje jsou jen zatuhlé. Nech je 5 minut na plechu a pak přendej na mřížku."
+    }
+  ],
+  "tips": [
+    "Obal každou kuličku v moučkovém cukru silně a klidně dvakrát, pak se při pečení dobře poprasknou.",
+    "Nepeč je déle než 12 minut. Hotové sušenky dozrávají při chladnutí a ztuhnou.",
+    "V dóze se zavřeným víkem vydrží až 5 dní. Můžeš je i zamrazit."
+  ],
+  "substitutions": [
+    "Olej nahraď rozpuštěným máslem, sušenky budou chuťově plnější, ale méně vláčné.",
+    "Horkou čokoládu nahraď dalšími 30 g kakaa a 40 ml oleje, sušenky budou méně intenzivní."
+  ],
+  "faq": [
+    {
+      "q": "Proč mi crinkles nepopraskaly?",
+      "a": "Těsto bylo málo vychlazené nebo kuličky nebyly dost silně obalené moučkovým cukrem. Obal je dvakrát a nespěchej s chlazením."
+    },
+    {
+      "q": "Dají se crinkles zamrazit?",
+      "a": "Ano, hotové sušenky vydrží zamražené 2 měsíce. Syrové obalené kuličky zamraž na plechu a peč ze zmrazených o 2 minuty déle."
+    },
+    {
+      "q": "Jak poznám, že jsou hotové?",
+      "a": "Povrch je popraskaný a okraje pevné, střed ale při lehkém zmáčknutí mírně povolí. Při chladnutí dozrají."
+    }
+  ]
+}

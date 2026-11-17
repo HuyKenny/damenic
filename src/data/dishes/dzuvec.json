@@ -1,0 +1,19 @@
+{
+  "name": "Džuveč",
+  "restaurant": "hostinec-za-hranici-nic",
+  "kind": "main",
+  "section": "Balkán",
+  "description": "Pečená rýže s vepřovým, paprikou a rajčaty. Z jedné nádoby.",
+  "about": [
+    "Džuveč je jídlo bez drama. Vše se vloží do jedné nádoby, zasune se do trouby a po hodině se vytáhne. Rýže má barvu papriky, maso zůstane šťavnaté.",
+    "Z Balkánu k nám nic nepřijde, hranice jsou zavřené. Ale recept přes hranice jde bez cla."
+  ],
+  "price": 19900,
+  "image": "dish-dzuvec",
+  "recipe": "dzuvec",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 1,
+  "order": 910,
+  "allergens": []
+}

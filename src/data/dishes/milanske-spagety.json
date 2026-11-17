@@ -1,0 +1,24 @@
+{
+  "name": "Milánské špagety se šunkou",
+  "restaurant": "pasta-bar-niente",
+  "kind": "main",
+  "section": "Z pánve",
+  "description": "Špagety v rajčatové omáčce se šunkou a žampiony, posypané strouhaným eidamem.",
+  "about": [
+    "Milánské špagety patří k jídlům, která si pamatuješ ze školní jídelny, jen tady jsou lepší: omáčka z passaty se žampiony a šunkou, nic z hrnku. Rajčatová chuť je kulatá, šunka přidá sůl a sýr se na horkých těstovinách zlehka roztaví.",
+    "Nejvíc ji pozná omáčka, která se nechala dojít. Osm minut tichého bublání rozhodne o všem. Pasta Bar Niente ti ji uvaří stejně přesně, jen nikdy nepřijede, takže si ji uděláš sám."
+  ],
+  "price": 17900,
+  "image": "dish-milanske-spagety",
+  "recipe": "milanske-spagety",
+  "optionGroups": [],
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    7
+  ],
+  "featured": false,
+  "order": 990
+}

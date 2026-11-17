@@ -1,0 +1,23 @@
+{
+  "name": "Falešná svíčková",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "description": "Vepřová kýta v zeleninové smetanové omáčce, s houskovým knedlíkem a brusinkami.",
+  "about": [
+    "Falešná svíčková je hospodská zkratka. Vepřová kýta se peče na mrkvi, celeru a petrželi, zelenina se rozmixuje a z pánve vznikne omáčka, která by obstála i vedle té pravé. Nikdo nemusí marinovat tři dny.",
+    "Název je tu poctivý. Omáčka je skutečná, svíčková je falešná a objednávka je taky nanečisto. Celé to tedy sedí."
+  ],
+  "price": 22900,
+  "image": "dish-falesna-svickova",
+  "recipe": "falesna-svickova",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 930,
+  "allergens": [
+    1,
+    7,
+    9
+  ]
+}

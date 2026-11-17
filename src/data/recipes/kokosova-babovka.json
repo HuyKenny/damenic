@@ -1,0 +1,139 @@
+{
+  "title": "Kokosová bábovka",
+  "keywords": [
+    "kokosová bábovka",
+    "kokosová bábovka recept",
+    "kokosova babovka",
+    "bábovka s kokosem",
+    "bábovka s bílou čokoládou"
+  ],
+  "intro": "Kokosová bábovka je třená bábovka s kokosem v těstě a polevou z bílé čokolády. Vláčnost jí dává kokos nasáklý mlékem a máslo. Peče se ve formě o průměru 24 cm a vyjde 12 kousků.",
+  "image": "dish-kokosova-babovka",
+  "category": "dezerty",
+  "servings": 20,
+  "activeMinutes": 50,
+  "cookMinutes": 50,
+  "waitMinutes": 40,
+  "waitLabel": "vychladnutí a zatuhnutí polevy",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "pokojové teploty",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 200,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "bila-cokolada",
+      "amount": 100,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 20,
+      "unit": "g",
+      "note": "na posyp",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na formu",
+      "group": "Forma"
+    },
+    {
+      "ingredient": "mouka-hruba",
+      "amount": 10,
+      "unit": "g",
+      "note": "na formu",
+      "group": "Forma"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 165 °C). Formu o průměru 24 cm vymaž máslem a vysyp hrubou moukou."
+    },
+    {
+      "text": "Máslo vyšlehej s cukrem a vanilkovým cukrem do světlého krému. Po jednom přidávej vejce a po každém šlehej."
+    },
+    {
+      "text": "Mouku smíchej s práškem do pečiva a kokosem. Střídavě s mlékem po částech vmíchej do máslové hmoty, jen do spojení."
+    },
+    {
+      "text": "Těsto nalij do formy a peč 45 až 50 minut, dokud špejle nevyjde suchá. Nech 10 minut ve formě a pak vyklop na mřížku."
+    },
+    {
+      "text": "Bílou čokoládu rozpusť nad párou, polej vychladlou bábovku a posyp 20 g kokosu. Nech polevu zatuhnout asi 30 minut."
+    }
+  ],
+  "tips": [
+    "Máslo i vejce musí mít stejnou teplotu, těsto se nesráží.",
+    "Kokos nech nasáknout mlékem 10 minut, bábovka bude vláčnější.",
+    "Zakrytá vydrží 4 dny."
+  ],
+  "substitutions": [
+    "Mléko nahraď kokosovým mlékem, bábovka bude výraznější.",
+    "Bílou čokoládu nahraď polevou z moučkového cukru (120 g) a 3 lžic mléka."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct kokosovou bábovku?",
+      "a": "45 až 50 minut při 175 °C horní a spodní ohřev ve formě 24 cm. Hotová je, když špejle vyjde suchá."
+    },
+    {
+      "q": "Proč se bábovka nevyklopila?",
+      "a": "Forma nebyla dobře vymazaná nebo bábovka vychladla ve formě. Nech ji 10 minut odpočinout a vyklop teplou."
+    },
+    {
+      "q": "Dá se kokosová bábovka zamrazit?",
+      "a": "Ano, bez polevy vydrží zamražená 2 měsíce."
+    }
+  ]
+}

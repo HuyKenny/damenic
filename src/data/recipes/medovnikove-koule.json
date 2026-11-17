@@ -1,0 +1,111 @@
+{
+  "title": "Medovníkové koule",
+  "keywords": [
+    "medovníkové koule",
+    "medovníkové koule recept",
+    "medovnikove koule",
+    "nepečené medovníkové kuličky",
+    "kuličky z perníkového těsta"
+  ],
+  "intro": "Medovníkové koule jsou nepečené kuličky z rozdrcených máslových sušenek, medu a másla s perníkovým kořením. Obalují se v kakau s moučkovým cukrem. Z dávky vyjde asi 30 kuliček.",
+  "image": "dish-medovnikove-koule",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 25,
+  "cookMinutes": 0,
+  "waitMinutes": 120,
+  "waitLabel": "chlazení hmoty",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "susenky-maslove",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "rozpuštěné a vlažné"
+    },
+    {
+      "ingredient": "med",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 80,
+      "unit": "g",
+      "note": "mleté"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 20,
+      "unit": "g",
+      "note": "do hmoty"
+    },
+    {
+      "ingredient": "pernikove-koreni",
+      "amount": 6,
+      "unit": "g",
+      "note": "asi 1 lžíce"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 30,
+      "unit": "g",
+      "note": "na obalení"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na obalení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Sušenky rozdrť v mixéru nebo v sáčku válečkem na jemný prach. Smíchej je s ořechy, 20 g kakaa a kořením."
+    },
+    {
+      "text": "Vlažné máslo smíchej s medem a vlij k suchým surovinám. Zpracuj v hmotu, která drží po stisknutí. Přikryj a dej na 2 hodiny do lednice."
+    },
+    {
+      "text": "Z hmoty odebírej lžící kousky velikosti vlašského ořechu a vytvaruj kuličky. Smíchej kakao s moučkovým cukrem a obal v nich každou kuličku."
+    },
+    {
+      "text": "Koule ulož na talíř a nech hodinu v lednici. Uchovávej je v uzavřené krabici v chladu."
+    }
+  ],
+  "tips": [
+    "Hmota se lépe tvaruje studená, ruce občas ochlaď vodou.",
+    "Med nesmí být horký, rozpustil by máslo a hmota by byla řídká.",
+    "V lednici vydrží 5 dní."
+  ],
+  "substitutions": [
+    "Med nahraď javorovým sirupem.",
+    "Vlašské ořechy nahraď lískovými.",
+    "Máslové sušenky nahraď piškoty z kakaa, hmota ale bude potřebovat víc tuku."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vydrží medovníkové koule?",
+      "a": "V krabici v lednici 5 dní."
+    },
+    {
+      "q": "Co když se hmota drobí?",
+      "a": "Přidej 1 lžíci medu nebo másla a promíchej."
+    },
+    {
+      "q": "Dají se zmrazit?",
+      "a": "Ano, 1 měsíc, rozmrazuj v lednici."
+    }
+  ]
+}

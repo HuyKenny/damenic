@@ -1,0 +1,125 @@
+{
+  "title": "Sýrová polévka",
+  "keywords": [
+    "sýrová polévka",
+    "sýrová polévka s bramborem",
+    "sýrová polévka s krutony",
+    "sýrová polévka recept",
+    "polévka ze sýra"
+  ],
+  "image": "dish-syrova-polevka-lzice-zitra",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 25,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "polevka",
+  "intro": "Sýrová polévka s bramborem je krémová polévka z eidamu a taveného sýra, která se vaří za 40 minut. Sýr se přidává na konci mimo plamen, aby se nesrazil, a polévka tak zůstane hladká. K ní patří opečené krutony.",
+  "ingredients": [
+    {
+      "ingredient": "maslo",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 300,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 1000,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "eidam",
+      "amount": 150,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredient": "tavene-syr-blok",
+      "amount": 100,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "špetka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredient": "chleb",
+      "amount": 100,
+      "unit": "g",
+      "note": "na krutony"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na krutony"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozpusť máslo, přidej cibuli a 4 minuty ji restuj do sklovata, nesmí zhnědnout."
+    },
+    {
+      "text": "Přidej brambory, zalij vývarem, osol a vař pod pokličkou 15 minut, dokud se brambory nerozpadají."
+    },
+    {
+      "text": "Polévku tyčovým mixérem částečně rozmixuj, třetina brambor ať zůstane v kouscích. Přilij smetanu a zahřej těsně pod bod varu."
+    },
+    {
+      "text": "Odstav hrnec z plotny, vmíchej tavený sýr a poté eidam po hrstech, vždy až když se předchozí rozpustí. Sýr se ve vařící polévce srazí do nití, proto ji nevař."
+    },
+    {
+      "text": "Dochuť muškátem a případně dosol. Chlebové kostky osmaž na oleji na pánvi 3 až 4 minuty do zlatova a rozlož je na polévku až v misce."
+    }
+  ],
+  "tips": [
+    "Sýr strouhej z kusu, předstrouhaný obsahuje škrob a hůř se rozpouští.",
+    "Pokud se sýr přesto srazí, polévku krátce rozmixuj tyčovým mixérem.",
+    "Polévka při odstátí houstne, ředí se mlékem nebo vývarem."
+  ],
+  "substitutions": [
+    "Eidam nahraď goudou nebo ementálem.",
+    "Tavený sýr můžeš vynechat a dát 250 g eidamu.",
+    "Smetanu na vaření nahraď mlékem, polévka bude lehčí."
+  ],
+  "faq": [
+    {
+      "q": "Proč se sýr v polévce sráží?",
+      "a": "Přehřátý sýr se rozpadne na tuk a bílkoviny. Přidávej ho mimo plamen a při teplotě pod 80 °C."
+    },
+    {
+      "q": "Jak dlouho vydrží sýrová polévka?",
+      "a": "Vydrží 2 dny v lednici. Zahřívej ji mírně, ne do varu, jinak se sýr může oddělit."
+    },
+    {
+      "q": "Jaký sýr se hodí do sýrové polévky?",
+      "a": "Nejlépe eidam, gouda nebo ementál, ideálně v poměru s tavenými sýry, aby byla polévka hladká."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "waitMinutes": 0,
+  "title": "Grenadýrský pochod",
+  "keywords": [
+    "grenadýrský pochod",
+    "grenadýrský pochod recept",
+    "grenadýrský pochod s uzeným",
+    "těstoviny s bramborami a uzeným"
+  ],
+  "image": "dish-grenadyrsky-pochod",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 20,
+  "cookMinutes": 25,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Grenadýrský pochod je tradiční české jídlo z těstovin a vařených brambor opečených na cibulce s uzeným masem a paprikou. Je sytý, levný a hodí se k němu kyselá okurka. Brambory musí být měkké, těstoviny uvařené al dente.",
+  "ingredients": [
+    {
+      "ingredient": "testoviny-kratke",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "brambory",
+      "amount": 500,
+      "unit": "g",
+      "note": "na kostky 1,5 cm"
+    },
+    {
+      "ingredient": "uzene-maso",
+      "amount": 200,
+      "unit": "g",
+      "note": "na kostičky"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "majoranka",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "okurky-nakladane",
+      "amount": 100,
+      "unit": "g",
+      "note": "k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař v osolené vodě 10 až 12 minut, dokud nejsou téměř měkké. Scedi je a nech odpařit."
+    },
+    {
+      "text": "Ve druhém hrnci uvař těstoviny podle obalu 8 až 10 minut, scedi a nech okapat."
+    },
+    {
+      "text": "Na pánvi rozehřej olej a na středním plameni opékej cibuli s uzeným masem 6 až 8 minut, dokud cibule nezlátne a maso nevypustí tuk."
+    },
+    {
+      "text": "Přidej brambory a osmaž je 4 až 5 minut dozlatova. Pak přisyp těstoviny, papriku, majoránku a pepř a promíchej."
+    },
+    {
+      "text": "Smaž 3 až 4 minuty, osol a podávej horké s kyselou okurkou."
+    }
+  ],
+  "tips": [
+    "Papriku přidej až po odstavení z ohně, jinak zhořkne.",
+    "Brambory vař jen napůl, dopečou se na pánvi.",
+    "Těstoviny prolij studenou vodou, aby se nespojily."
+  ],
+  "substitutions": [
+    "Místo uzeného masa dej slaninu nebo klobásu.",
+    "Bez masa: uzené nahraď 200 g uzeného tofu a 1 lžičkou uzené papriky.",
+    "Místo kratších těstovin použij nudle nebo špagety zlomené na třetiny."
+  ],
+  "faq": [
+    {
+      "q": "Co je grenadýrský pochod?",
+      "a": "Je to pokrm z těstovin a brambor smažených s cibulí, uzeným masem a paprikou. Pochází z české kuchyně."
+    },
+    {
+      "q": "Dá se grenadýrský pochod ohřát?",
+      "a": "Ano, na pánvi s lžící oleje 5 minut. V mikrovlnce změkne, ale chutná dobře."
+    },
+    {
+      "q": "Co k němu podávat?",
+      "a": "Kyselou okurku, zelný salát nebo kysané zelí. Kyselost pomáhá protnout mastnotu."
+    }
+  ]
+}

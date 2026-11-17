@@ -1,0 +1,22 @@
+{
+  "name": "Vinná klobása z trouby",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Klobása pečená s bramborami a cibulí, s hořčicí a špetkou medu.",
+  "about": [
+    "Klobása z trouby je jídlo pro dny, kdy se nechce stát u plotny. Na plechu se peče s bramborami a cibulí a nasákne šťávu z vína a hořčice.",
+    "Výčep Zítra Natočíme natočí zítra, klobása z nabídky nedorazí. Doma stačí plech a tři čtvrtě hodiny."
+  ],
+  "price": 18900,
+  "image": "dish-vinna-klobasa-v-troube",
+  "recipe": "vinna-klobasa-v-troube",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 900,
+  "allergens": [
+    10,
+    12
+  ]
+}

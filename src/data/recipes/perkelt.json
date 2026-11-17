@@ -1,0 +1,132 @@
+{
+  "title": "Vepřový perkelt",
+  "keywords": [
+    "perkelt",
+    "vepřový perkelt",
+    "perkelt recept",
+    "perkelt z vepřového",
+    "vepřový perkelt recept"
+  ],
+  "image": "dish-perkelt",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 30,
+  "cookMinutes": 100,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Perkelt je dušené maso na hodně cibule a sladké papriky, které se na konci zjemní trochou smetany. Vepřový perkelt z plecka je hotový za dvě hodiny a těžké na něm je jedině nespálit papriku, protože zhořkne během pár vteřin.",
+  "ingredients": [
+    {
+      "ingredient": "veprove-plecko",
+      "amount": 700,
+      "unit": "g",
+      "note": "na kostky asi 3 cm"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 500,
+      "unit": "g",
+      "note": "nakrájená nahrubo"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na proužky"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "prolisovaný"
+    },
+    {
+      "ingredient": "kmin",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 400,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na sádle ve velkém hrnci opékej cibuli na středním plameni 10 až 12 minut, dokud není sklovitá a lehce zlatá. Podlévej ji lžící vody, kdyby se začala připalovat."
+    },
+    {
+      "text": "Přidej maso, osol, opepři a restuj 5 minut, aby se zatáhlo. Zmírni plamen, přisyp kmín a papriku pro tmavší barvu."
+    },
+    {
+      "text": "Hrnec odstav z plotny, vmíchej sladkou papriku s rajčatovým protlakem a hned zalij 400 ml horké vody. Mimo plamen papriku nespálíš, na přímém žáru zhořkne."
+    },
+    {
+      "text": "Přidej papriku na proužky, hrnec přikryj a duš na mírném varu 80 až 90 minut, občas promíchej. Maso je hotové, když se dá rozmáčknout vidličkou."
+    },
+    {
+      "text": "Mouku rozmíchej se smetanou, vlij do perkeltu a vař ještě 5 minut do zahuštění. Dochuť solí, přidej česnek a nech 5 minut doběhnout. Podávej s houskovým knedlíkem, těstovinami nebo noky."
+    }
+  ],
+  "tips": [
+    "Cibule má být ve váze skoro jako maso. Při dušení se rozpadne a omáčku zahustí sama, bez mouky navíc.",
+    "Papriku přidávej vždy mimo plamen a hned zalévej tekutinou. Spálená paprika dává hořkou omáčku, kterou nic nezachrání.",
+    "Perkelt je druhý den lepší. Uchovej ho v lednici až 3 dny a před podáváním prohřej pomalu."
+  ],
+  "substitutions": [
+    "Vepřové plecko lze nahradit kuřecími stehny bez kosti; dus je jen 35 minut.",
+    "Místo smetany na vaření vmíchej 150 g zakysané smetany, ale až mimo plamen, aby se nesrazila.",
+    "Bez mouky: omáčku zahusti tím, že rozmačkáš část cibule vidličkou."
+  ],
+  "faq": [
+    {
+      "q": "Jaký je rozdíl mezi perkeltem a gulášem?",
+      "a": "Perkelt je jemnější a méně hustý, papriky má víc a bývá zjemněný smetanou. Guláš je hutnější, s kmínem a majoránkou a bez smetany."
+    },
+    {
+      "q": "Dá se perkelt zamrazit?",
+      "a": "Ano, bez smetany vydrží v mrazáku až 3 měsíce. Rozmraz v lednici, prohřej a smetanu vmíchej až při podávání."
+    },
+    {
+      "q": "Co podávat k perkeltu?",
+      "a": "Nejčastěji houskový knedlík, těstoviny nebo vařené brambory. K masu se hodí i kyselá okurka nebo čerstvá paprika."
+    }
+  ]
+}

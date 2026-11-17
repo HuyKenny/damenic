@@ -1,0 +1,118 @@
+{
+  "waitMinutes": 0,
+  "title": "Orzo se špenátem a fetou",
+  "keywords": [
+    "orzo",
+    "orzo recept",
+    "orzo těstoviny",
+    "orzo se špenátem",
+    "orzo jako rizoto"
+  ],
+  "image": "dish-orzo-se-spenatem-a-fetou",
+  "category": "italska",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 20,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Orzo jsou malé těstoviny ve tvaru rýže. V tomhle receptu se vaří jako rizoto, v jednom hrnci a ve vývaru, takže jsou krémové bez smetany. Špenát, feta a citron z nich dělají večeři za 35 minut.",
+  "ingredients": [
+    {
+      "ingredient": "orzo",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "prolisované"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 700,
+      "unit": "ml",
+      "note": "horký"
+    },
+    {
+      "ingredient": "spenat-baby",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "feta",
+      "amount": 120,
+      "unit": "g",
+      "note": "rozdrobená"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "kůra a šťáva"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na velké pánvi nebo v širším hrnci rozehřej olej a na středním plameni smaž cibuli 4 minuty do zesklovatění. Přidej česnek a po 30 vteřinách vsyp orzo."
+    },
+    {
+      "text": "Orzo 2 minuty opékej a míchej, aby se obalilo olejem a lehce zezlátlo. Zalij třetinou horkého vývaru a míchej, dokud se téměř nevsákne."
+    },
+    {
+      "text": "Postupně přilévej zbylý vývar po naběračkách a mezi přilitím míchej. Orzo se vaří 10 až 12 minut, dokud není měkké s lehkým skusem a omáčka je krémová."
+    },
+    {
+      "text": "Vmíchej špenát a nech 1 minutu zavadnout. Přidej citronovou kůru, šťávu, sůl a pepř a ochutnej."
+    },
+    {
+      "text": "Posyp rozdrobenou fetou a podávej hned, dokud je orzo krémové."
+    }
+  ],
+  "tips": [
+    "Orzo po odstátí houstne. Jestli se ti nechá, přilij k ohřátí pár lžic horké vody.",
+    "Vývar měj opravdu horký. Studený přerušuje vaření a orzo je pak lepkavé.",
+    "Fetu přidávej až na talíři, v hrnci by se rozpustila do omáčky a byla by slaná."
+  ],
+  "substitutions": [
+    "Místo orza použij ryzi arborio, doba vaření je zhruba 18 minut.",
+    "Špenát nahraď mraženým (150 g rozmraženého a vymačkaného) nebo hrstí rukoly.",
+    "Místo fety použij kozí sýr nebo parmazán."
+  ],
+  "faq": [
+    {
+      "q": "Co je orzo?",
+      "a": "Orzo jsou malé těstoviny ve tvaru rýžového zrna. Italsky se jim říká risoni a vaří se jako rýže nebo těstoviny do polévky."
+    },
+    {
+      "q": "Musím orzo před vařením propláchnout?",
+      "a": "Ne. Škrob na povrchu je právě to, co dělá omáčku krémovou, proto ho nech."
+    },
+    {
+      "q": "Dá se orzo vařit i ve vodě jako běžné těstoviny?",
+      "a": "Ano, ve vroucí osolené vodě 8 až 10 minut. Rizotová metoda je ale chuťově výraznější a nemusíš nic scezovat."
+    }
+  ]
+}

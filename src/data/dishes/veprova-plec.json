@@ -1,0 +1,21 @@
+{
+  "name": "Vepřová plec v troubě",
+  "restaurant": "u-prazdneho-talire",
+  "kind": "main",
+  "section": "Hotová jídla",
+  "description": "Pomalu pečená vepřová plec na cibuli, měkká a šťavnatá. S knedlíkem a zelím.",
+  "about": [
+    "Plec je maso, které nikam nespěchá, a ty ji budeš chtít stejně. Tři hodiny v nízké troubě z ní udělají kus, který se rozpadá pod vidličkou, a česnek s kmínem na povrchu dělá zbytek práce.",
+    "Když ji nejíš hned, vyplatí se i druhý den: studená na chleba s hořčicí je bez diskuse. Z našeho menu ti dnes nic nedorazí, ale doma si můžeš nastavit troubu."
+  ],
+  "price": 24900,
+  "image": "dish-veprova-plec",
+  "recipe": "veprova-plec",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 910,
+  "allergens": [
+    10
+  ]
+}

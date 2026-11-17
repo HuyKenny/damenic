@@ -1,0 +1,90 @@
+{
+  "title": "Vejce na hniličku",
+  "keywords": [
+    "vejce na hniličku",
+    "vejce na hniličku recept",
+    "jak dlouho vařit vejce na hniličku",
+    "měkká vejce",
+    "vejce na měko"
+  ],
+  "image": "dish-vejce-na-hnilicku-budik",
+  "category": "snidane",
+  "vegetarian": true,
+  "servings": 2,
+  "activeMinutes": 5,
+  "cookMinutes": 5,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "snidane",
+  "intro": "Vejce na hniličku se vaří 4 až 5 minut, aby bílek byl pevný a žloutek tekutý a krémový. Vejce vlož z lednice do vroucí vody a hned po vyjmutí je zchlaď. Přesně načasuj čas, minuta rozdílu už mění výsledek.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "velikost M, z lednice"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 1000,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "toustovy-chleb",
+      "amount": 100,
+      "unit": "g",
+      "note": "na toasty"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 2,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vodu přiveď k varu v malém hrnci. Vejce vlož jemně lžící, aby voda zakrývala celé vejce."
+    },
+    {
+      "text": "Stáhni plamen na mírný var a vař 4 minuty pro tekutý žloutek a téměř zatuhlý bílek, nebo 5 minut pro hustší krémový žloutek."
+    },
+    {
+      "text": "Vejce okamžitě přendej do studené vody na 30 vteřin, aby se zastavilo dovařování."
+    },
+    {
+      "text": "Mezitím opeč toust, potři ho máslem a nakrájej na proužky."
+    },
+    {
+      "text": "Vejce dej do kalíšků, odkroj špičku a podávej s proužky toustu a špetkou soli."
+    }
+  ],
+  "tips": [
+    "Čas měř až od varu vody. Při chladném vejci vyjde delší, při pokojové kratší.",
+    "Vejce z lednice rychle vložená do horké vody praskají. Před vařením je 5 minut nech v teplé vodě.",
+    "Větší vejce vař o 30 vteřin déle."
+  ],
+  "substitutions": [
+    "Toust nahraď žitným chlebem nebo bagetou.",
+    "Sůl můžeš doplnit pepřem nebo pažitkou.",
+    "Máslo vynech a použij olivový olej."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit vejce na hniličku?",
+      "a": "4 minuty pro tekutý žloutek, 5 minut pro krémový. Čas se počítá od varu."
+    },
+    {
+      "q": "Je bezpečné jíst vejce na hniličku?",
+      "a": "U zdravých dospělých ano, pokud jsou čerstvá a kvalitní. Děti, těhotné ženy a senioři by měli jíst vejce vždy dovařená natvrdo."
+    },
+    {
+      "q": "Proč se vejce při vaření rozbije?",
+      "a": "Vejce praská náhlým teplotním šokem. Vkládej je jemně lžící a nepoužívej příliš prudký var."
+    }
+  ]
+}

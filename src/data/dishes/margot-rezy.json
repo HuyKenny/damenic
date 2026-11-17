@@ -1,0 +1,26 @@
+{
+  "name": "Margot řezy",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Řezy z plechu",
+  "description": "Lískooříškový korpus, vanilkový krém a čokoládová poleva, 20 řezů z plechu.",
+  "about": [
+    "Margot řezy začínají lískooříškovým korpusem, na který přijde vanilkový máslový krém a tenká vrstva čokolády. Jsou sladké, ořechové a pěkně se krájejí, pokud jim dáš noc v lednici.",
+    "Poleva musí být vlažná, krém pokojové teploty a trpělivosti je potřeba víc než zručnosti. Do vitríny řezy nepřivezeme, ta je smyšlená, ale recept nanečisto doma dopadne naostro."
+  ],
+  "price": 9500,
+  "image": "dish-margot-rezy",
+  "recipe": "margot-rezy",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 310
+}

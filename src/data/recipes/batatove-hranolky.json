@@ -1,0 +1,90 @@
+{
+  "waitMinutes": 20,
+  "title": "Batátové hranolky z trouby",
+  "keywords": [
+    "batátové hranolky",
+    "batátové hranolky z trouby",
+    "batátové hranolky recept",
+    "křupavé batátové hranolky",
+    "pečené batáty"
+  ],
+  "image": "dish-batatove-hranolky",
+  "category": "priloha",
+  "vegetarian": true,
+  "servings": 3,
+  "activeMinutes": 15,
+  "cookMinutes": 30,
+  "waitLabel": "namočení ve studené vodě",
+  "difficulty": "snadné",
+  "meal": "priloha",
+  "intro": "Batátové hranolky z trouby jsou sladké, na okrajích křupavé a uvnitř měkké. Tajemství je škrob, který odebírá vlhkost, trouba rozehřátá na 220 °C a plech, na kterém hranolky nesmí ležet na sobě.",
+  "ingredients": [
+    {
+      "ingredient": "batat",
+      "amount": 600,
+      "unit": "g"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "bramborový nebo kukuřičný"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 1,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Batáty oloupej a nakrájej na hranolky silné asi 1 cm. Namoč je na 20 minut do studené vody, ať pustí část škrobu."
+    },
+    {
+      "text": "Troubu předehřej na 220 °C (horkovzduch 200 °C). Hranolky dobře osuš utěrkou, jinak se budou jen péct v páře."
+    },
+    {
+      "text": "V misce je promíchej se škrobem, olejem, paprikou a solí, aby byly všude obalené tenkou vrstvou."
+    },
+    {
+      "text": "Rozlož je v jedné vrstvě na plech s pečicím papírem tak, aby se nedotýkaly. Peč 25 až 30 minut a v půlce otoč."
+    },
+    {
+      "text": "Hotové jsou, když mají tmavší okraje a lehce chrupou. Nech 3 minuty odpočinout, aby ztuhly, a podávej."
+    }
+  ],
+  "tips": [
+    "Pro chrumkavost použij dva plechy. Na jednom se hranolky dusí.",
+    "Škrob dej až po osušení, jinak vznikne kaše.",
+    "Podávej hned, batáty rychle změknou."
+  ],
+  "substitutions": [
+    "Místo sladké papriky dej uzenou nebo kari.",
+    "Místo škrobu použij 2 lžíce kukuřičné mouky.",
+    "Smažení: při 175 °C 5 až 6 minut v oleji."
+  ],
+  "faq": [
+    {
+      "q": "Proč jsou batátové hranolky měkké?",
+      "a": "Obsahují hodně vody a cukru. Namoč je, dobře osuš a peč v jedné vrstvě při vysoké teplotě."
+    },
+    {
+      "q": "Jak dlouho péct batátové hranolky?",
+      "a": "25 až 30 minut při 220 °C. Tenčí jsou hotové dřív, kontroluj po 20 minutách."
+    },
+    {
+      "q": "Kdy je dát do trouby?",
+      "a": "Hned po osušení a smíchání se škrobem. Nechat je ležet znamená, že pustí vodu."
+    }
+  ]
+}

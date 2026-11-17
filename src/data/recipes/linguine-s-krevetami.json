@@ -1,0 +1,124 @@
+{
+  "waitMinutes": 0,
+  "title": "Linguine s krevetami",
+  "keywords": [
+    "linguine s krevetami",
+    "linguine s krevetami recept",
+    "linguine s krevetami a citronem",
+    "těstoviny s krevetami linguine",
+    "linguine gamberi"
+  ],
+  "image": "dish-linguine-s-krevetami",
+  "category": "italska",
+  "vegetarian": false,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 15,
+  "difficulty": "snadné",
+  "meal": "hlavni",
+  "intro": "Linguine s krevetami jsou těstoviny v lehké omáčce z česneku, cherry rajčat a citronu, hotové za dvacet minut. Zásadní je krevety jen krátce opéct, aby zůstaly šťavnaté, a omáčku spojit škrobovou vodou z vaření.",
+  "ingredients": [
+    {
+      "ingredient": "linguine",
+      "amount": 320,
+      "unit": "g"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "do vody na těstoviny"
+    },
+    {
+      "ingredient": "krevety",
+      "amount": 300,
+      "unit": "g",
+      "note": "oloupané, rozmražené a osušené"
+    },
+    {
+      "ingredient": "olej-olivovy",
+      "amount": 4,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "na tenké plátky"
+    },
+    {
+      "ingredient": "chilli-vlocky",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "cherry-rajcata",
+      "amount": 200,
+      "unit": "g",
+      "note": "rozpůlená"
+    },
+    {
+      "ingredient": "vyvar-zeleninovy",
+      "amount": 80,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "kůra a šťáva"
+    },
+    {
+      "ingredient": "petrzelka",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Linguine vař ve vroucí osolené vodě o 1 minutu méně, než uvádí obal, obvykle 8 až 9 minut. Odlij 1 hrnek vody z vaření a těstoviny scedi."
+    },
+    {
+      "text": "Na velké pánvi rozehřej polovinu oleje a krevety opékej na vysokém plameni 1 až 2 minuty z každé strany, dokud nejsou růžové a neprůsvitné. Přendej je na talíř."
+    },
+    {
+      "text": "Do stejné pánve dej zbytek oleje, česnek a chilli a smaž je na mírném plameni 1 minutu, aby česnek nezhnědl. Přidej rajčata a smaž 3 minuty, až začnou měknout."
+    },
+    {
+      "text": "Přilij vývar a nech povařit 2 minuty. Přidej linguine, máslo, citronovou kůru a půl naběračky vody z vaření a 1 až 2 minuty míchej, až omáčka obalí těstoviny."
+    },
+    {
+      "text": "Vrať krevety, vymačkej šťávu z poloviny citronu, vmíchej petrželku a ochutnej. Podávej hned."
+    }
+  ],
+  "tips": [
+    "Krevety osuš papírovou utěrkou, jinak se na pánvi budou dusit místo opékání.",
+    "Krevety dělají gumové už po třech minutách. Vrať je do pánve až na úplný závěr, jen se prohřejí.",
+    "Česnek krájej na plátky, ne lisuj. Plátky se nespálí tak rychle."
+  ],
+  "substitutions": [
+    "Místo linguine použij špagety nebo tagliatelle.",
+    "Místo vývaru můžeš použít stejné množství vody z vaření těstovin a trochu více citronové šťávy.",
+    "Bez mořských plodů: krevety nahraď 300 g opečeného cukety a rajčat, přidej 100 g čerstvého špenátu."
+  ],
+  "faq": [
+    {
+      "q": "Jak poznám, že jsou krevety hotové?",
+      "a": "Zbarví se do růžova, zkroutí se do písmene C a jsou uvnitř neprůsvitné. Obvykle to trvá 2 až 3 minuty."
+    },
+    {
+      "q": "Jaké krevety se hodí do těstovin?",
+      "a": "Oloupané tygří nebo king prawns. Mražené nech rozmrazit v lednici přes noc a před pečením je osuš."
+    },
+    {
+      "q": "Dá se místo linguine použít jiné těstoviny?",
+      "a": "Ano, špagety, tagliatelle nebo penne fungují stejně. Linguine jsou plošší, proto na sebe omáčku lépe zachytí."
+    }
+  ]
+}

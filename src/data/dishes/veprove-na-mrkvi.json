@@ -1,0 +1,22 @@
+{
+  "name": "Vepřové na mrkvi",
+  "restaurant": "jidelna-uz-hotovo",
+  "kind": "main",
+  "section": "Z pánve",
+  "description": "Dušené vepřové plecko s mrkví a zakysanou smetanou. S rýží nebo bramborami.",
+  "about": [
+    "Vepřové na mrkvi je jedno z jídel, ze kterého nikdo nemá strach. Mrkev se uvaří do měkka, maso se rozpadá a zakysaná smetana omáčku zjemní tak akorát.",
+    "V Jídelně Už Hotovo je vždycky hotovo, jen nic nepřijede. Doma ti to bude trvat hodinu a čtvrt, ale hrnec zůstane čistý jen jeden."
+  ],
+  "price": 17900,
+  "image": "dish-veprove-na-mrkvi",
+  "recipe": "veprove-na-mrkvi",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 900,
+  "allergens": [
+    1,
+    7
+  ]
+}

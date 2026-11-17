@@ -1,0 +1,124 @@
+{
+  "waitMinutes": 10,
+  "title": "Corndog",
+  "keywords": [
+    "corndog",
+    "corndog recept",
+    "corn dog v kukuřičném těstíčku",
+    "párek v kukuřičném těstě",
+    "corndog doma"
+  ],
+  "image": "dish-corndog",
+  "category": "americka",
+  "vegetarian": false,
+  "servings": 6,
+  "activeMinutes": 20,
+  "cookMinutes": 20,
+  "waitLabel": "odpočinek těsta",
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Corndog je párek na špejli obalený kukuřičným těstíčkem a usmažený dozlatova. Těsto je sladkavé a křupavé, uvnitř zůstává měkké. Smaží se při 175 °C a podává s kečupem a hořčicí.",
+  "ingredients": [
+    {
+      "ingredient": "parky",
+      "amount": 300,
+      "unit": "g",
+      "note": "6 kusů, pevné"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 120,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kukuricna-mouka",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 6,
+      "unit": "g",
+      "note": "asi 1 lžička"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 180,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na smažení"
+    },
+    {
+      "ingredient": "kecup",
+      "amount": 60,
+      "unit": "g",
+      "note": "k podávání"
+    },
+    {
+      "ingredient": "horcice",
+      "amount": 40,
+      "unit": "g",
+      "note": "k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do misky prosej mouku, kukuřičnou mouku, cukr, prášek do pečiva a sůl. Přidej vejce a mléko a vyšlehej do hladkého hustého těsta jako hustá smetana. Nech 10 minut odpočinout."
+    },
+    {
+      "text": "Párky osuš papírovou utěrkou a každý nabodni na dřevěnou špejli. Těsto přelij do vysoké sklenice, aby se do něj párky dobře ponořily."
+    },
+    {
+      "text": "Olej ve vysokém hrnci nebo fritéze zahřej na 175 °C, ověř teploměrem. Bez teploměru: kapka těsta musí hned zasyčet a vyplavat."
+    },
+    {
+      "text": "Párek ponoř do těsta, odkapej a opatrně vlož do oleje. Smaž 3 až 4 minuty a otáčej, dokud není těsto zlatohnědé."
+    },
+    {
+      "text": "Corndogy vyjmi děrovanou naběračkou a odkapej na mřížce. Podávej teplé s kečupem a hořčicí."
+    }
+  ],
+  "tips": [
+    "Párky osuš, těsto se k vlhké kůži neuchytí.",
+    "Olej měj stále na 175 °C, při nižší teplotě těsto nasaje tuk a bude mastné.",
+    "Smaž jen 2 až 3 kusy najednou, aby olej neklesl v teplotě."
+  ],
+  "substitutions": [
+    "Místo párků použij pevný sýr, třeba eidam nebo mozzarellu na špejli.",
+    "Mléko nahraď stejným množstvím ovesného nápoje a vejce 3 lžícemi vody se lžící oleje.",
+    "Smažení nahraď pečením v troubě při 200 °C, 15 minut, těsto bude měkčí."
+  ],
+  "faq": [
+    {
+      "q": "Co je corndog?",
+      "a": "Corndog je párek na špejli obalený sladkým kukuřičným těstíčkem a usmažený dozlatova."
+    },
+    {
+      "q": "Při jaké teplotě smažit corndog?",
+      "a": "Při 175 °C. Vyšší teplota spálí těsto dřív než se prohřeje párek, nižší ho nasákne olejem."
+    },
+    {
+      "q": "Dá se corndog péct v troubě?",
+      "a": "Ano, při 200 °C asi 15 minut. Obal bude měkčí než smažený, ale chutná dobře."
+    }
+  ]
+}

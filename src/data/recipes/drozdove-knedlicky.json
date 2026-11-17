@@ -1,0 +1,112 @@
+{
+  "title": "Drožďové knedlíčky",
+  "keywords": [
+    "drožďové knedlíčky",
+    "drožďové knedlíčky do polévky",
+    "kynuté knedlíčky do polévky",
+    "drožďové knedlíčky recept",
+    "kynuté knedlíčky"
+  ],
+  "image": "dish-drozdove-knedlicky",
+  "category": "polevky",
+  "vegetarian": true,
+  "servings": 4,
+  "activeMinutes": 15,
+  "cookMinutes": 10,
+  "waitMinutes": 45,
+  "waitLabel": "kynutí těsta",
+  "difficulty": "střední",
+  "meal": "polevka",
+  "intro": "Drožďové knedlíčky jsou drobné kynuté knedlíčky, které se vaří ve vodě a podávají do vývaru. Těsto z mouky, droždí a mléka je lehké a nadýchané, když dobře vykyne a knedlíčky se vaří pod pokličkou. Z jedné dávky vyjde asi 20 knedlíčků.",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 10,
+      "unit": "g",
+      "note": "čerstvé"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 130,
+      "unit": "ml",
+      "note": "vlažné, asi 35 °C"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 3,
+      "unit": "g",
+      "note": "asi 0,25 lžíce"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredient": "vyvar-hovezi",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "k podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do vlažného mléka rozdrol droždí, přidej cukr a nech 8 minut stát, dokud se na hladině neobjeví pěna."
+    },
+    {
+      "text": "Mouku smíchej se solí, přidej vejce, rozpuštěné máslo a kvásek. Vymíchej hladké, husté, ale lepivé těsto, které se dá nabírat lžící."
+    },
+    {
+      "text": "Těsto přikryj utěrkou a nech 45 minut kynout na teplém místě, dokud nezdvojnásobí objem."
+    },
+    {
+      "text": "Ve velkém hrnci přiveď k varu 2 litry osolené vody. Lžičkou namočenou ve vodě nabírej malé porce těsta velikosti ořechu a pouštěj je do vody. Vařit je můžeš po dávkách."
+    },
+    {
+      "text": "Hrnec přikryj a knedlíčky vař 8 minut na mírném varu, za 4 minuty je obrať. Vyplavou a zvětší se. Vyjmi děrovanou naběračkou a podávej ve vývaru."
+    },
+    {
+      "text": "Jeden knedlíček rozkroj. Uvnitř nesmí být lepivé syrové těsto, ale suché a nadýchané."
+    }
+  ],
+  "tips": [
+    "Vodu nevař na prudkém varu, knedlíčky by se roztrhly.",
+    "Voda musí mít stálou teplotu, přidávej knedlíčky po 8 až 10 kusech.",
+    "Hotové knedlíčky se v polévce nemají vařit dál, nasáknou a rozpadnou se."
+  ],
+  "substitutions": [
+    "Čerstvé droždí nahraď 4 g sušeného.",
+    "Mléko můžeš vyměnit za vodu.",
+    "Do těsta přidej lžíci nasekané petrželky."
+  ],
+  "faq": [
+    {
+      "q": "Proč jsou drožďové knedlíčky tvrdé?",
+      "a": "Většinou je těsto málo vykynulé, nebo se vařily bez pokličky. Nech těsto zdvojnásobit a vař pod pokličkou."
+    },
+    {
+      "q": "Dají se knedlíčky připravit dopředu?",
+      "a": "Ano, uvařené vydrží v lednici 2 dny. Před podáváním je prohřej v horkém vývaru."
+    },
+    {
+      "q": "Dají se drožďové knedlíčky zamrazit?",
+      "a": "Ano, uvařené a vychladlé vydrží v mrazáku 2 měsíce. Rozmrazuj v horkém vývaru."
+    }
+  ]
+}

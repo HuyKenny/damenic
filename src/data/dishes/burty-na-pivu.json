@@ -1,0 +1,22 @@
+{
+  "name": "Buřty na cibuli a pivu",
+  "restaurant": "vycep-zitra",
+  "kind": "main",
+  "section": "Hlavní jídla",
+  "description": "Špekáčky dušené na cibuli ve světlém pivu, s hořčicí a chlebem.",
+  "about": [
+    "Buřty na pivu jsou jídlo, na kterém není nic složitého a o to víc se dá pokazit. Stačí je vařit mírně, ne prudce, a cibuli nechat dojít do karamelu. Zbytek odvede pivo, které se zredukuje na lesklou omáčku.",
+    "Výčep Zítra Natočíme pivo natočí zítra. Buřty si můžeš udělat dnes, než ti zítřek dorazí."
+  ],
+  "price": 15900,
+  "image": "dish-burty-na-pivu",
+  "recipe": "burty-na-pivu",
+  "vegetarian": false,
+  "vegan": false,
+  "spicy": 0,
+  "order": 910,
+  "allergens": [
+    1,
+    10
+  ]
+}

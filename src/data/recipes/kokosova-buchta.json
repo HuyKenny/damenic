@@ -1,0 +1,113 @@
+{
+  "title": "Kokosová buchta",
+  "keywords": [
+    "kokosová buchta",
+    "kokosová buchta recept",
+    "buchta s kokosem",
+    "kokosová buchta na plech"
+  ],
+  "image": "dish-kokosova-buchta-kolac-na-slib",
+  "category": "dezerty",
+  "vegetarian": true,
+  "servings": 8,
+  "activeMinutes": 15,
+  "cookMinutes": 35,
+  "waitMinutes": 20,
+  "waitLabel": "vychladnutí před polevou",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "intro": "Kokosová buchta z hrnkového těsta s kokosem přímo v těstě i na polevě. Peče se v pánvi 22 × 30 cm, vyjde asi 15 kousků a dobře drží tvar, takže ji můžeš krájet na kostky. Těsto je jen lehce sladké, polevu si doladíš podle chuti.",
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 100,
+      "unit": "g",
+      "note": "do těsta"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 120,
+      "unit": "g",
+      "note": "na polevu"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 30,
+      "unit": "g",
+      "note": "na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 175 °C (horkovzduch 160 °C), formu 22 × 30 cm vyložit pečicím papírem."
+    },
+    {
+      "text": "Vejce vyšlehej s cukrem do světlé pěny, přilij mléko s olejem a promíchej."
+    },
+    {
+      "text": "Mouku smíchej s práškem do pečiva a 100 g kokosu, vsyp do tekutin a promíchej na hladké těsto."
+    },
+    {
+      "text": "Těsto rozlož do formy a peč 30 až 35 minut, hotová je po zkoušce špejlí."
+    },
+    {
+      "text": "Buchtu nech vychladnout. Moučkový cukr rozmíchej s 2 až 3 lžícemi vody na hustou polevu, potři povrch a hned posyp zbylým kokosem."
+    },
+    {
+      "text": "Po 20 minutách poleva ztuhne a buchtu můžeš krájet."
+    }
+  ],
+  "tips": [
+    "Kokos před přidáním do těsta nemočit, mléko ho vláčně zvlhčí při pečení samo.",
+    "Zlatější barvu dostane, když 30 g kokosu na polevu krátce opražíš na suché pánvi.",
+    "Vydrží 3 dny v dóze při pokojové teplotě."
+  ],
+  "substitutions": [
+    "Mléko nahraď kokosovým mlékem, chuť bude výraznější.",
+    "Moučkovým cukrem s vodou lze nahradit polevou z 50 g rozehřané čokolády."
+  ],
+  "faq": [
+    {
+      "q": "Můžu použít kokosovou mouku místo hladké?",
+      "a": "Ne přímo v poměru jedna ku jedné, kokosová mouka saje několikanásobně víc tekutin. Pro tento recept se drž hladké mouky."
+    },
+    {
+      "q": "Jak dlouho vydrží kokosová buchta?",
+      "a": "V uzavřené dóze při pokojové teplotě vydrží 3 dny, v lednici asi 5 dní. Před podáváním ji nech zahřát na pokojovou teplotu."
+    },
+    {
+      "q": "Proč je buchta suchá?",
+      "a": "Většinou se přepekla nebo se použilo víc kokosu, než recept uvádí. Hlídej pečení špejlí po 30 minutách."
+    }
+  ]
+}

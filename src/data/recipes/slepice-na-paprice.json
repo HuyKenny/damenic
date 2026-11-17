@@ -1,0 +1,129 @@
+{
+  "title": "Slepice na paprice",
+  "keywords": [
+    "slepice na paprice",
+    "slepice na paprice recept",
+    "paprikáš ze slepice",
+    "slepice dušená na paprice"
+  ],
+  "image": "dish-slepice-na-paprice",
+  "category": "ceska",
+  "vegetarian": false,
+  "servings": 5,
+  "activeMinutes": 30,
+  "cookMinutes": 120,
+  "waitMinutes": 0,
+  "difficulty": "střední",
+  "meal": "hlavni",
+  "intro": "Slepice na paprice je klasika z pomalu vařené slepice, které dáme dost času, aby změkla. Maso je aromatičtější než z kuřete, omáčka na cibuli, sladké paprice a smetaně hustá. Hlavní je mírný var asi 2 hodiny.",
+  "ingredients": [
+    {
+      "ingredient": "slepice-porcovana",
+      "amount": 1300,
+      "unit": "g",
+      "note": "na porce"
+    },
+    {
+      "ingredient": "cibule",
+      "amount": 400,
+      "unit": "g",
+      "note": "najemno"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 3,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-sladka",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "paprika-cervena",
+      "amount": 1,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "rajcatove-pyre",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "cesnek",
+      "amount": 3,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka"
+    },
+    {
+      "ingredient": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 700,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "smetana-vareni",
+      "amount": 200,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Slepici osol a na oleji opeč na široké pánvi 4 minuty z každé strany. Vyndej."
+    },
+    {
+      "text": "Na tuku opékej cibuli 10 minut. Hrnec odstav, přidej papriku s protlakem a hned zalij 700 ml horké vody."
+    },
+    {
+      "text": "Vrať slepici, přidej papriku, bobkový list a česnek. Přikryj a duš na mírném plameni 100 až 120 minut. Maso se musí dát snadno oddělit od kosti."
+    },
+    {
+      "text": "Smetanu rozmíchej s moukou a vlij do hrnce. Vař 10 minut do zhoustnutí a omáčka se bude lesknout."
+    },
+    {
+      "text": "Dochuť solí. Podávej s houskovým knedlíkem, těstovinami nebo noky."
+    }
+  ],
+  "tips": [
+    "Slepice je tužší než kuře, potřebuje čas a mírný var.",
+    "Papriku přidej mimo plamen, hned zalij.",
+    "Omáčka je druhý den chutnější."
+  ],
+  "substitutions": [
+    "Slepici nahraď kuřecími stehny, dus jen 40 minut.",
+    "Smetanu nahraď zakysanou smetanou.",
+    "Bez lepku: vynech mouku a omáčku zahusti rozmačkanou cibulí."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho vařit slepici?",
+      "a": "Dva a více hodin, dokud se maso nepouští kostí."
+    },
+    {
+      "q": "Čím se liší od kuřete?",
+      "a": "Je tužší a aromatičtější, vyžaduje delší vaření."
+    },
+    {
+      "q": "Dá se zamrazit?",
+      "a": "Ano, bez smetany 3 měsíce."
+    }
+  ]
+}
