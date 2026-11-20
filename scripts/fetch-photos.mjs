@@ -23,7 +23,9 @@ async function worker() {
     for (let attempt = 1; attempt <= 5; attempt++) {
       try {
         if (a.source === 'wikimedia') await wikiSlot();
-        const res = await fetch(a.downloadUrl, { headers: { 'User-Agent': 'damenic-build (static site)' } });
+        // Wikimedia policy asks for a descriptive User-Agent with a project URL; generic ones get throttled on shared runner IPs.
+        const ua = a.source === 'wikimedia' ? 'damenic-build/1.0 (https://damenic.cz; static recipe site, build-time image fetch) node-fetch' : 'damenic-build (static site)';
+        const res = await fetch(a.downloadUrl, { headers: { 'User-Agent': ua } });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const buf = Buffer.from(await res.arrayBuffer());
         if (buf.length < 2000) throw new Error('too small');
