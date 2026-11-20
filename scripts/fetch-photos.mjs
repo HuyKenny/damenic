@@ -10,11 +10,19 @@ const todo = assets.filter((a) => !existsSync(join(DIR, a.file)));
 console.log(`photos: ${assets.length} remote, ${todo.length} to download`);
 let failed = 0;
 const queue = [...todo];
+// Wikimedia answers parallel bursts with HTTP 429: serialize its downloads with a gap between them.
+let wikiChain = Promise.resolve();
+const wikiSlot = () => {
+  const turn = wikiChain.then(() => new Promise((r) => setTimeout(r, 1200)));
+  wikiChain = turn;
+  return turn;
+};
 async function worker() {
   while (queue.length) {
     const a = queue.shift();
-    for (let attempt = 1; attempt <= 3; attempt++) {
+    for (let attempt = 1; attempt <= 5; attempt++) {
       try {
+        if (a.source === 'wikimedia') await wikiSlot();
         const res = await fetch(a.downloadUrl, { headers: { 'User-Agent': 'damenic-build (static site)' } });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const buf = Buffer.from(await res.arrayBuffer());
@@ -22,10 +30,10 @@ async function worker() {
         writeFileSync(join(DIR, a.file), buf);
         break;
       } catch (e) {
-        if (attempt === 3) {
+        if (attempt === 5) {
           failed++;
           console.error(`photo ${a.id}: ${e.message}`);
-        } else await new Promise((r) => setTimeout(r, 1000 * attempt));
+        } else await new Promise((r) => setTimeout(r, (/429/.test(e.message) ? 8000 : 1000) * attempt));
       }
     }
   }
