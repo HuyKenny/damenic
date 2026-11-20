@@ -1,0 +1,34 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import { getCollection } from 'astro:content';
+
+const all = await getCollection('assets');
+const credited = all
+  .filter((a) => a.data.source === 'wikimedia')
+  .sort((x, y) => x.data.alt.localeCompare(y.data.alt, 'cs'));
+---
+
+<Base title="Zdroje fotografií" description="Autoři a licence fotografií na DámeNic. Většinu fotek uvádíme z volných zdrojů, u fotografií s povinným uvedením autora je tu úplný přehled.">
+  <Breadcrumbs items={[{ label: 'O projektu', href: '/o-projektu/' }, { label: 'Zdroje fotografií' }]} />
+  <div class="wrap prose">
+    <div class="pagehead">
+      <h1>Zdroje fotografií</h1>
+      <p>Fotografie jídel jsou ilustrační a pocházejí z volných zdrojů.</p>
+    </div>
+    <p>
+      Většina fotek je z bank Pexels a Pixabay, kde se uvedení autora nevyžaduje. Několik jídel ilustrují snímky z Wikimedia Commons,
+      které jsou pod licencemi Creative Commons. U nich tady uvádíme autora, licenci a odkaz na originál. Fotky zmenšujeme a ořezáváme,
+      jinak je neupravujeme.
+    </p>
+    <h2>Fotografie z Wikimedia Commons</h2>
+    <ul>
+      {credited.map((a) => (
+        <li>
+          {a.data.alt.replace(/, ilustrační fotografie$/, '')}: {a.data.author}, {a.data.licenseUrl ? <a href={a.data.licenseUrl} rel="noopener">{a.data.license}</a> : a.data.license},
+          {' '}<a href={a.data.sourceUrl ?? '#'} rel="noopener">originál</a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>
