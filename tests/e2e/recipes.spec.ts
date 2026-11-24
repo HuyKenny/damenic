@@ -134,8 +134,8 @@ test('recipe browser: search forgives typos and a dead end offers a way out', as
 test('recipe browser: alcohol facet separates drinks, "co mám doma" ranks by missing ingredients', async ({ page }) => {
   await page.goto('/recepty/?alkohol=only&typ=napoj');
   await hydrated(page.locator('body'));
-  const n = parseInt(await page.getByTestId('recipe-count').innerText(), 10);
-  expect(n).toBeGreaterThan(5);
+  // the count is filled in after hydration; poll instead of reading it once (weekly CI 23. 11. read NaN)
+  await expect.poll(async () => parseInt(await page.getByTestId('recipe-count').innerText(), 10) || 0).toBeGreaterThan(5);
   await expect(page.getByTestId('recipe-results').locator('.tag--adult').first()).toBeVisible();
   await page.goto('/recepty/?doma=vejce,mouka-hladka');
   await expect(page.getByTestId('recipe-count')).toContainText('recept');
