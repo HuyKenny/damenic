@@ -1,0 +1,24 @@
+{
+  "name": "Bezlepkové ořechové kuličky",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Ke kávě",
+  "description": "Měkké ořechové kuličky z mletých mandlí a lískových oříšků, bez pšeničné mouky. Vitrína je prázdná, recept ne.",
+  "about": [
+    "Bezlepkové ořechové kuličky jsou z mletých mandlí a lískových oříšků, spojené bílkem a moučkovým cukrem. Povrch popraská a střed zůstane měkký.",
+    "Recept je bez pšeničné mouky, ale pozor, ne každá surovina je bezpečná pro celiaky: kakao nebo cukr mohou obsahovat stopy. Vitrína je prázdná, ale recept se hodí i pro ty, kdo lepek nejedí."
+  ],
+  "price": 10900,
+  "image": "dish-bezlepkove-cukrovi",
+  "recipe": "bezlepkove-cukrovi",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    8
+  ],
+  "featured": false,
+  "order": 9109
+}

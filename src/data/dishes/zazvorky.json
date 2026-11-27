@@ -1,0 +1,25 @@
+{
+  "name": "Zázvorky",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Doplňky",
+  "description": "Křupavé zázvorové sušenky s melasou a skořicí, uprostřed měkké. Slib dáváme, sušenky ne.",
+  "about": [
+    "Zázvorky jsou jednoduché sušenky z mouky, másla, cukru a medu, kořeněné zázvorem a skořicí. Těsto se krátce schladí, tvaruje na kuličky a peče deset minut, až popraskají.",
+    "Koláč na slib ti zázvorky pošle zítra, nebo nikdy. Recept ale funguje hned a stačí k němu jedna mísa a plech."
+  ],
+  "price": 4900,
+  "image": "dish-zazvorky",
+  "recipe": "zazvorky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 1209
+}

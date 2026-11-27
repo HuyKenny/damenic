@@ -1,0 +1,25 @@
+{
+  "name": "Perníčky z odleželého těsta",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Doplňky",
+  "description": "Medové vykrajované perníčky z těsta, které leželo v lednici. Slib je tu hlavní surovina.",
+  "about": [
+    "Perníčky se dělají z těsta, které leželo týden i tři. Med, perníkové koření a mouka se spojí, nechají v lednici zrát a pak se vykrojí a upečou za osm minut. Zpočátku jsou tvrdé, ale po pár týdnech v dóze změknou.",
+    "Koláč na slib ti perníčky pošle zítra, nebo spíš nikdy. Zadělat je ale potřeba už dnes, protože čas je tady důležitá surovina."
+  ],
+  "price": 5900,
+  "image": "dish-pernikove-testo",
+  "recipe": "pernikove-testo",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 1203
+}

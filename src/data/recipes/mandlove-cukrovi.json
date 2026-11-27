@@ -1,0 +1,115 @@
+{
+  "title": "Mandlové cukroví: mandlové půlměsíčky",
+  "keywords": [
+    "mandlové cukroví",
+    "mandlové cukroví recept",
+    "mandlové půlměsíčky",
+    "cukroví z mandlí"
+  ],
+  "intro": "Mandlové cukroví jsou půlměsíčky z mletých mandlí, mouky a másla, obalené ve vanilkovém cukru. Z dávky vyjde asi 40 kousků. Jsou křehké a rozpadají se, proto je po upečení nech na plechu vychladnout a teprve pak je obaluj.",
+  "image": "dish-mandlove-cukrovi",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 60,
+  "cookMinutes": 24,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "alcohol": false,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mandle",
+      "amount": 100,
+      "unit": "g",
+      "note": "jemně mleté",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 180,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "žloutek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 50,
+      "unit": "g",
+      "note": "na obalení",
+      "group": "Obalení"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "note": "1 sáček, na obalení",
+      "group": "Obalení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Smíchej mouku, mleté mandle a moučkový cukr. Přidej studené máslo a žloutek a rychle zpracuj v těsto. Zabal ho a nech 30 minut v lednici."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Z těsta uválej válečky o tloušťce asi 1,5 cm a krájej je na kousky dlouhé 4 cm. Každý kousek zatoč do podkovy nebo půlměsíce a ulož na plech s pečicím papírem."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 155 °C). Peč 12 až 14 minut do světle zlatavé barvy na okrajích. Nech 5 minut chladnout, pak opatrně ještě teplé obal v cukrové směsi."
+    },
+    {
+      "section": "Obalení",
+      "text": "Moučkový a vanilkový cukr smíchej v misce. Ještě vlažné půlměsíčky obaluj opatrně, studené se cukru drží hůř. Nech úplně vychladnout a ukládej do plechovky."
+    }
+  ],
+  "tips": [
+    "Mandle namel těsně před použitím, aby nebyly olejnaté a těsto neřídlo.",
+    "V plechovce vydrží 3 až 4 týdny. Obalené cukroví je lepší pár dní po upečení, když cukr zvlhne.",
+    "Pokud se půlměsíčky při obalování lámou, nech je před obalením vychladnout o pár minut déle, ale ne úplně."
+  ],
+  "substitutions": [
+    "Mandle nahradíš lískovými oříšky.",
+    "Vanilkový cukr nahradíš skořicí smíchanou s cukrem."
+  ],
+  "faq": [
+    {
+      "q": "Jak se dělá mandlové cukroví?",
+      "a": "Z mouky, mletých mandlí, másla a žloutku zaděláš těsto, tvaruješ půlměsíčky a po upečení je obalíš ve vanilkovém cukru."
+    },
+    {
+      "q": "Proč se mandlové půlměsíčky lámou?",
+      "a": "Jsou velmi křehké. Nech je po upečení pár minut zchladnout na plechu a obaluj je teprve vlažné."
+    },
+    {
+      "q": "Jak dlouho vydrží mandlové cukroví?",
+      "a": "V plechovce 3 až 4 týdny. Čím déle leží, tím měkčí je."
+    }
+  ]
+}

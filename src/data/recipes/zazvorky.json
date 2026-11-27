@@ -1,0 +1,124 @@
+{
+  "title": "Zázvorky (zázvorové sušenky)",
+  "keywords": [
+    "zázvorky recept",
+    "zázvorky",
+    "zázvorové sušenky",
+    "zázvorky sušenky"
+  ],
+  "intro": "Zázvorky jsou koření chutnající sušenky se zázvorem, skořicí a melasou nebo medem, které jsou po okraji křupavé a uprostřed měkké. Z jedné dávky vyjde asi 30 sušenek o průměru 6 cm. Těsto stačí odpočinout půl hodiny a sušenky se pečou jen 10 minut.",
+  "category": "pekarna",
+  "servings": 10,
+  "activeMinutes": 25,
+  "cookMinutes": 12,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "zazvor-mlety",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 120,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-trtinovy",
+      "amount": 120,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "med",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na obalení",
+      "group": "Těsto"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Změklé máslo ušlehej s trtinovým cukrem do světlé pěny, asi 2 minuty. Přidej med a vejce a promíchej. Mouku smíchej se zázvorem, skořicí a sodou a vmíchej do másla do hladkého měkkého těsta."
+    },
+    {
+      "section": "Odpočinek",
+      "text": "Těsto zabal do fólie a nech aspoň 30 minut v lednici, aby ztuhlo a dalo se tvarovat. Studené těsto se při pečení tolik nerozlévá."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 165 °C). Z těsta formuj kuličky velikosti vlašského ořechu, asi 25 g, obal je v cukru a poskládej na plech s papírem s odstupy 5 cm."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč 10 až 12 minut. Sušenky jsou hotové, když okraje ztmavnou a povrch popraská, střed ještě působí měkce. Na plechu nech 5 minut ztuhnout a pak přendej na mřížku."
+    }
+  ],
+  "tips": [
+    "Pro chrustavější sušenky peč o 2 minuty déle a nech je v troubě vypnuté 5 minut.",
+    "V uzavřené plechovce vydrží 10 dní. Pokud změknou, vlož je na 5 minut do trouby při 120 °C.",
+    "Těsto lze zamrazit v kuličkách, upečeš je rovnou z mrazáku, jen přidej 2 minuty."
+  ],
+  "substitutions": [
+    "Med nahraď melasou nebo javorovým sirupem pro tmavší a hlubší chuť.",
+    "Čerstvý zázvor strouhaný 1 lžíce může nahradit mletý, sušenky budou štiplavější."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat zázvorky?",
+      "a": "Máslo ušlehej s cukrem, přidej med a vejce, zamíchej mouku s kořením a sodou a nech těsto půl hodiny v lednici. Pak tvaruj kuličky a peč 10 až 12 minut při 180 °C."
+    },
+    {
+      "q": "Proč zázvorky nejsou měkké?",
+      "a": "Byly přepečené. Vytáhni je z trouby, když je střed ještě měkký; dotvrdnou na plechu."
+    },
+    {
+      "q": "Jak dlouho vydrží zázvorky?",
+      "a": "V uzavřené plechovce asi 10 dní. Dobře drží i zamrazené těsto, které upečeš kdykoli."
+    }
+  ],
+  "image": "dish-zazvorky",
+  "alcohol": false,
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ]
+}

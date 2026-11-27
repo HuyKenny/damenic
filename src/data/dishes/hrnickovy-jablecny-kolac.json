@@ -1,0 +1,25 @@
+{
+  "name": "Hrníčkový jablečný koláč",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Koláče a buchty",
+  "description": "Hrníčkové těsto s nastrouhanými jablky a skořicí, pocukrované. Hrnek je jediná váha, kterou potřebuješ.",
+  "about": [
+    "Hrníčkový koláč je babiččina cesta, jak péct bez váhy: mouka, cukr, mléko a olej se odměřují do stejného hrnku. Jablka se jen nastrouhají a rozloží po těstě.",
+    "Z plechu vyjde patnáct kousků, z nichž na tebe žádný nedojde, protože u nás nic nevaříme. Doma je to ale odpoledne jedné pečicí trouby."
+  ],
+  "price": 5900,
+  "image": "dish-hrnickovy-jablecny-kolac",
+  "recipe": "hrnickovy-jablecny-kolac",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 907
+}

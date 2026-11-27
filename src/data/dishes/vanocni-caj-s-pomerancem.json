@@ -1,0 +1,21 @@
+{
+  "name": "Vánoční čaj s pomerančem a hřebíčkem",
+  "restaurant": "stanek-zahrejem-zitra",
+  "kind": "drink",
+  "section": "Na zahřátí",
+  "description": "Černý čaj s pomerančem, skořicí, hřebíčkem a medem. Bez alkoholu, bez dovozu.",
+  "about": [
+    "Čaj se louhuje s plátky pomeranče, skořicí, hřebíčkem a zázvorem. Ochucuje se až vlažný medem.",
+    "Je to nejklidnější nápoj na stánku: bez alkoholu, pro každého. Hrneček doma uděláš za deset minut."
+  ],
+  "price": 4900,
+  "image": "dish-vanocni-caj-s-pomerancem",
+  "recipe": "vanocni-caj-s-pomerancem",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 909
+}

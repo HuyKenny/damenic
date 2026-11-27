@@ -1,0 +1,25 @@
+{
+  "name": "Kávové cukroví s kávovým krémem",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Ke kávě",
+  "description": "Křehká kávová kolečka slepená kávovým krémem. Vitrína je prázdná, recept plný.",
+  "about": [
+    "Kávové cukroví má chuť espressa přímo v těstě a v krému. Kolečka jsou světle hnědá, křehká a po slepení dostanou na vrch lehký prach kakaa.",
+    "Hodí se ke kávě, ale i k černému čaji. Vitrínu máme prázdnou a nic z ní nevydáváme, recept je ale opravdový a krém stačí na dvě várky."
+  ],
+  "price": 9900,
+  "image": "dish-kavove-cukrovi",
+  "recipe": "kavove-cukrovi",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 9103
+}

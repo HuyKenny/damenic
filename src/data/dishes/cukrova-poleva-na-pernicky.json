@@ -1,0 +1,21 @@
+{
+  "name": "Cukrová poleva na perníčky",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Malé sladké",
+  "description": "Bílá cukrová poleva z moučkového cukru a citronu na zdobení perníčků. Žádné patro, jen sáček a trpělivost.",
+  "about": [
+    "Cukrová poleva se dělá z moučkového cukru, trochy vody a citronové šťávy, bez vajec. Hustou na obrysy a řidší na plochy, a když zaschne, perníčky se dají ukládat jeden na druhý.",
+    "Dortárna nemá žádné patro, ale na zdobení perníčků stačí jedna miska a lžíce. Tahle poleva je pro ty, kdo nechtějí bílkovou."
+  ],
+  "price": 4900,
+  "image": "dish-cukrova-poleva-na-pernicky",
+  "recipe": "cukrova-poleva-na-pernicky",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 1204
+}

@@ -7619,5 +7619,40 @@
       1
     ],
     "family": "testo-pecivo"
+  },
+  {
+    "id": "pistacie",
+    "name": "Pistácie loupané, nesolené",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 10,
+    "pack": {
+      "size": 100,
+      "price": 8900,
+      "label": "sáček 100 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": [
+      8
+    ],
+    "family": "orechy"
+  },
+  {
+    "id": "zazvor-mlety",
+    "name": "Mletý zázvor",
+    "department": "Trvanlivé",
+    "baseUnit": "g",
+    "spoon": 5,
+    "pack": {
+      "size": 30,
+      "price": 4500,
+      "label": "sáček 30 g"
+    },
+    "priceSource": "illustrative",
+    "priceCheckedAt": null,
+    "diet": "plant",
+    "allergens": []
   }
 ]

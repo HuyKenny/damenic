@@ -1,0 +1,91 @@
+{
+  "title": "Čokoládová poleva na perník",
+  "keywords": [
+    "čokoládová poleva na perník",
+    "čokoládová poleva na perník recept",
+    "poleva na perník"
+  ],
+  "intro": "Čokoládová poleva na perník je lesklá poleva z hořké čokolády, másla a trochy smetany, která na perníku nepopraská a dá se krájet. Vyjde z ní poleva na plech 20 × 30 cm nebo na celou bábovku. Nejdůležitější je nechat čokoládu zchladnout, než se vylije na perník.",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 60,
+  "waitLabel": "tuhnutí polevy",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "ingredients": [
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "med",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Čokoláda",
+      "text": "Čokoládu nalámej nebo nasekej na drobné kousky, aby se rozpustila rovnoměrně. Dej ji do misky spolu s máslem a lžící medu."
+    },
+    {
+      "section": "Smetana",
+      "text": "Smetanu zahřej v hrnci těsně pod bod varu; má se tvořit pára a na okraji bublinky, nesmí vařit. Horkou smetanu nalij na čokoládu a nech 1 minutu stát."
+    },
+    {
+      "section": "Hladká poleva",
+      "text": "Míchej od středu k okrajům, až je poleva lesklá a hladká. Nech ji 5 až 10 minut zchladnout, aby byla hustší, ale ještě tekutá. Pokud zůstanou kousky čokolády, misku krátce ohřej nad párou."
+    },
+    {
+      "section": "Polévání",
+      "text": "Perník nech úplně vychladnout, jinak se poleva rozpustí. Polevu nalij doprostřed a stěrkou rozetři do rohů. Nech ji ztuhnout asi 1 hodinu při pokojové teplotě; v lednici zmatní."
+    }
+  ],
+  "tips": [
+    "Čokoládu dej až na horkou smetanu, ne do vařící; přehřátá čokoláda zhrubne.",
+    "Polevu na perníku neukládej do lednice, ztratí lesk. Na chladném místě vydrží perník s polevou 5 až 6 dní.",
+    "Pro tvrdší polevu, která se krájí čistě, přidej 30 g čokolády navíc."
+  ],
+  "substitutions": [
+    "Smetanu ke šlehání můžeš nahradit stejným množstvím plnotučného mléka, poleva bude trochu řidší a méně lesklá.",
+    "Med můžeš vynechat nebo nahradit lžící cukru."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat čokoládovou polevu na perník?",
+      "a": "Horkou smetanou zalij nasekanou hořkou čokoládu a máslo, nech minutu stát a pak míchej do hladka. Před polévkou nech zchladnout."
+    },
+    {
+      "q": "Proč čokoládová poleva na perníku praská?",
+      "a": "Obvykle je ve smetaně málo tuku nebo se nechala ztuhnout v lednici. Máslo a smetana polevu zpružní."
+    },
+    {
+      "q": "Dá se čokoládová poleva na perník udělat dopředu?",
+      "a": "Ano, v lednici vydrží 5 dní. Před použitím ji ohřej nad párou a rozmíchej."
+    }
+  ],
+  "image": "dish-cokoladova-poleva-na-pernik",
+  "alcohol": false,
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "title": "Linecké cukroví s čokoládovou polevou",
+  "keywords": [
+    "linecké cukroví",
+    "nejlepší linecké cukroví",
+    "linecké cukroví s čokoládou",
+    "linecké cukroví recept"
+  ],
+  "intro": "Linecké cukroví s čokoládovou polevou je klasické křehké linecké těsto slepené meruňkovým džemem a z poloviny namočené do hořké čokolády. Z dávky vyjde asi 40 slepených kousků o průměru 5 cm. Nejlepší je upéct je asi 2 týdny před Vánocemi, protože v plechovce změknou a ochutí se.",
+  "image": "dish-linecke-cukrovi-s-cokoladou",
+  "category": "pekarna",
+  "servings": 8,
+  "activeMinutes": 80,
+  "cookMinutes": 30,
+  "waitMinutes": 90,
+  "waitLabel": "odpočinek těsta a ztuhnutí polevy",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "alcohol": false,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen žloutky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "dzem-merunkovy",
+      "amount": 150,
+      "unit": "g",
+      "note": "bez kousků ovoce",
+      "group": "Na slepení"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 150,
+      "unit": "g",
+      "note": "tabulka, nasekaná",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Smíchej mouku, moučkový cukr a vanilkový cukr. Přidej studené máslo na kostičky a žloutky a rychle zpracuj v hladké těsto. Těsto rozděl na 2 placky, zabal do fólie a nech 1 hodinu v lednici."
+    },
+    {
+      "section": "Vykrajování",
+      "text": "Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 160 °C). Jednu placku vyválej mezi dvěma pečicími papíry na tloušťku 3 mm. Vykrajuj kolečka o průměru 5 cm. Polovině vykroj uprostřed malý otvor."
+    },
+    {
+      "section": "Pečení",
+      "text": "Kolečka klaď na plech s pečicím papírem. Peč jeden plech 8 až 10 minut. Hotová jsou, když mají okraje jen slabě zlatavé a střed je světlý. Na plechu je nech 2 minuty a pak je přesuň na mřížku."
+    },
+    {
+      "section": "Slepování",
+      "text": "Džem prohřej, promíchej a na každé celé kolečko dej půl lžičky. Přikryj kolečkem s otvorem a lehce stiskni."
+    },
+    {
+      "section": "Poleva",
+      "text": "Čokoládu s olejem rozpusť ve vodní lázni nebo po 30 sekundách v mikrovlnce. Každé cukroví namoč do čokolády z poloviny a nech okapat. Polož na papír a nech 30 minut ztuhnout v chladu."
+    }
+  ],
+  "tips": [
+    "Linecké piš na Vánoce asi 2 týdny dopředu. Hned po upečení je suché, v plechovce za 3 až 5 dní vyleželo a změkne od džemu.",
+    "Slepené cukroví vydrží v plechové dóze na chladném místě 3 až 4 týdny. Vrstvy prolož pečicím papírem a nedávej do tepla, poleva by se lepila.",
+    "Čokoládu neohřívej nad 50 °C, jinak zešedne a nebude lesklá."
+  ],
+  "substitutions": [
+    "Meruňkový džem nahradíš rybízovým nebo malinovým džemem bez kousků.",
+    "Hořkou čokoládu nahradíš mléčnou, bude sladší, nebo bílou čokoládou."
+  ],
+  "faq": [
+    {
+      "q": "Jak upéct nejlepší linecké cukroví?",
+      "a": "Dodržuj poměr 3 : 2 : 1 mouky, másla a cukru, těsto drž studené a peč krátce, 8 až 10 minut. Cukroví pak nech v dóze 3 až 5 dní vyležet."
+    },
+    {
+      "q": "Proč linecké cukroví není hned měkké?",
+      "a": "Je čerstvě upečené suché a křehké. Změkne, až vlhkost z džemu pronikne do těsta, obvykle za 3 až 5 dní v uzavřené dóze."
+    },
+    {
+      "q": "Kdy péct linecké cukroví s čokoládou?",
+      "a": "Asi 2 týdny před Vánocemi. Vydrží 3 až 4 týdny v plechovce, poleva zůstane pevná při chladnu."
+    }
+  ]
+}

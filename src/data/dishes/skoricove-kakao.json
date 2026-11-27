@@ -1,0 +1,23 @@
+{
+  "name": "Skořicové kakao s pěnou",
+  "restaurant": "stanek-zahrejem-zitra",
+  "kind": "drink",
+  "section": "Na zahřátí",
+  "description": "Kakao s mletou skořicí a lžící šlehačky. Pro simulaci hrnek, doma pro tebe rozmíchané za 10 minut.",
+  "about": [
+    "Skořicové kakao je klasické kakao rozmíchané na pastu a zahřáté se skořicovým svitkem. Navrch přijde lžíce lehce ušlehané smetany a špetka skořice.",
+    "Bez alkoholu a bez trubek: ať se u stánku zahřeje kdokoli. Zahřejem zítra, doma to ale zvládneš dnes."
+  ],
+  "price": 6900,
+  "image": "dish-skoricove-kakao",
+  "recipe": "skoricove-kakao",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 908
+}

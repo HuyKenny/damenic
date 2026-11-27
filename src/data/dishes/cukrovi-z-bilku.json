@@ -1,0 +1,24 @@
+{
+  "name": "Skořicové hvězdičky z bílků",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Malé sladké",
+  "description": "Mandlové hvězdičky se skořicí a bílkovou polevou. Dortárna je smyšlená, bílky skutečné.",
+  "about": [
+    "Skořicové hvězdičky se dělají z bílků a mletých mandlí, bez mouky a bez másla. Těsto je lepkavé a voní skořicí, vykrajuje se hvězdičkovým vykrajovátkem a na vrch se natře bílkovou polevou.",
+    "Hvězdičky se pečou pozvolna při nižší teplotě, aby zůstaly uvnitř měkké. Ani patro tu nemáme a nic nepřivezeme, ale recept je dobrý, když zbudou bílky po žloutkovém cukroví."
+  ],
+  "price": 10900,
+  "image": "dish-cukrovi-z-bilku",
+  "recipe": "cukrovi-z-bilku",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    3,
+    8
+  ],
+  "featured": false,
+  "order": 9105
+}

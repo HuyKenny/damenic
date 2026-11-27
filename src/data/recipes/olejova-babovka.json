@@ -1,0 +1,129 @@
+{
+  "title": "Olejová bábovka",
+  "keywords": [
+    "olejová bábovka",
+    "olejová bábovka recept",
+    "bábovka s olejem"
+  ],
+  "intro": "Olejová bábovka je vláčná bábovka, kde se místo másla použije olej, a proto zůstane měkká i několik dní po upečení. Z jedné dávky vyjde bábovka na asi 12 kousků ve formě o objemu 2 litry. Těsto se míchá jen metlou ve dvou miskách, takže zvládne i začátečník.",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 20,
+  "cookMinutes": 50,
+  "waitMinutes": 60,
+  "waitLabel": "chladnutí bábovky",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 200,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen kůra",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na vymazání formy",
+      "group": "Forma"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "na posypání",
+      "group": "Forma"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 150 °C). Formu na bábovku vymaž máslem a vysyp moukou. Mouku smíchej s práškem do pečiva."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vejce šlehej s cukrem a vanilkovým cukrem asi 4 minuty, až zbělají a zvětší objem. Za stálého šlehání přilévej olej a pak mléko. Přidej citronovou kůru."
+    },
+    {
+      "section": "Spojení",
+      "text": "Suché suroviny vmíchej metlou nebo stěrkou jen do spojení, nemíchej dlouho. Těsto nalij do formy a poklepej o desku, aby unikly bubliny."
+    },
+    {
+      "section": "Pečení",
+      "text": "Peč na nižší polovině trouby 45 až 50 minut. Bábovka je hotová, když špejle vyjde suchá a povrch je pevný a zlatý. Ve formě nech 10 minut a pak vyklop. Po vychladnutí posyp moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Bábovka s olejem vydrží 5 dní v zakryté dóze a zůstane měkká, protože olej nezatuhne jako máslo.",
+    "Olej měj neutrální, slunečnicový nebo řepkový.",
+    "Pokud bábovka nad formou drží, nech ji ve formě 10 minut a pak jí podlož mokrou utěrku."
+  ],
+  "substitutions": [
+    "Mléko nahraď kefírem nebo jogurtem, bábovka bude vláčnější a trochu kyselejší.",
+    "Citronovou kůru nahraď kůrou z pomeranče nebo lžící kakaa."
+  ],
+  "faq": [
+    {
+      "q": "Proč dát do bábovky olej místo másla?",
+      "a": "Olej zůstává tekutý i po vychladnutí, takže je bábovka déle měkká. Máslo dává víc chuti, ale bábovka po pár dnech ztuhne."
+    },
+    {
+      "q": "Jak dlouho se peče olejová bábovka?",
+      "a": "Asi 45 až 50 minut při 170 °C. Hotová je, když špejle zapíchnutá doprostřed vyjde suchá."
+    },
+    {
+      "q": "Jak dlouho vydrží olejová bábovka?",
+      "a": "Zabalená v dóze 5 dní. Nejlepší je druhý den, kdy se chuť ustálí."
+    }
+  ],
+  "occasions": [
+    "vanoce"
+  ],
+  "image": "dish-olejova-babovka",
+  "alcohol": false,
+  "vegetarian": true
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Cukrová poleva na perníčky",
+  "keywords": [
+    "cukrová poleva na perníčky",
+    "cukrová poleva",
+    "cukrová poleva recept",
+    "poleva na perníčky bez vajec"
+  ],
+  "intro": "Cukrová poleva na perníčky je jednoduchá poleva z moučkového cukru, vody a citronové šťávy, bez syrových bílků. Z jedné dávky vyjde poleva na asi 40 perníčků. Je to bezpečnější varianta než klasická bílková poleva, protože neobsahuje žádná syrová vejce, a hodí se i pro děti.",
+  "category": "dezerty",
+  "servings": 6,
+  "activeMinutes": 15,
+  "cookMinutes": 0,
+  "waitMinutes": 240,
+  "waitLabel": "zaschnutí polevy na perníčcích",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "ingredients": [
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 250,
+      "unit": "g",
+      "note": "prosátý",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "voda",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "teplá",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "jen šťáva",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "skrob",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "pro lesk a pevnost",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Míchání",
+      "text": "Moučkový cukr prosej do misky, aby v polevě nebyly hrudky. Přidej skrob a citronovou šťávu a lžící míchej. Přilévej vodu po lžičkách, jen tolik, aby poleva byla hustá jako med."
+    },
+    {
+      "section": "Hustota",
+      "text": "Poleva je správně hustá, když stéká z lžíce pomalu a stopa vydrží zhruba 5 sekund. Na obrysy ji udělej hustší, na zalévání plochy zřeď několika kapkami vody."
+    },
+    {
+      "section": "Zdobení",
+      "text": "Polevu dej do sáčku s ustřiženým rohem nebo do cukrářského sáčku. Perníčky musí být zcela vychladlé. Nakresli obrys, nech 10 minut zaschnout a pak vyplň plochu."
+    },
+    {
+      "section": "Zasychání",
+      "text": "Hotové perníčky nech na rovné ploše aspoň 4 hodiny nebo přes noc, než poleva úplně zatuhne. Pak je ukládej do dózy mezi vrstvy papíru. Hotové perníčky vydrží v dóze asi 3 týdny."
+    }
+  ],
+  "tips": [
+    "Poleva na misce vysychá, přikryj ji vlhkou utěrkou nebo fólií přímo na povrchu.",
+    "Pokud je poleva příliš řídká, přisyp lžíci moučkového cukru. Pokud je příliš hustá, přidej pár kapek vody.",
+    "Barvu přidej po kapkách; potravinářské barvivo v gelu je vydatnější než tekuté."
+  ],
+  "substitutions": [
+    "Citronovou šťávu nahraď vodou, poleva pak bude neutrálnější a bude se hůř rozpouštět.",
+    "Škrob můžeš vynechat, poleva bude jen o něco méně pevná."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat cukrovou polevu na perníčky?",
+      "a": "Moučkový cukr rozmíchej s teplou vodou a pár kapkami citronové šťávy do hustoty medu. Přidáváš po lžičkách, aby nebyla příliš řídká."
+    },
+    {
+      "q": "Jak dlouho schne cukrová poleva?",
+      "a": "Povrch je suchý za 1 až 2 hodiny, úplně zatuhne za 4 hodiny až přes noc. Perníčky pak můžeš ukládat do dózy."
+    },
+    {
+      "q": "Je cukrová poleva bez vajec?",
+      "a": "Ano, tahle varianta je jen z cukru, vody a citronu. Není v ní žádný syrový bílek, takže je bezpečná i pro děti."
+    }
+  ],
+  "image": "dish-cukrova-poleva-na-pernicky",
+  "alcohol": false,
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ]
+}

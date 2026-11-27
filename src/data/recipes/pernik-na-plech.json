@@ -1,0 +1,130 @@
+{
+  "title": "Vláčný perník na plech",
+  "keywords": [
+    "perník na plech",
+    "nejvláčnější perník",
+    "vláčný perník",
+    "nadýchaný perník",
+    "vláčný perník recept"
+  ],
+  "intro": "Vláčný perník na plech je tmavý medový perník s perníkovým kořením, který se peče na plechu 30 × 40 cm a po vychladnutí se krájí na čtverce. Z jedné dávky vyjde asi 24 kousků. Vláčný zůstane, pokud se nepřepéká a po upečení se hned přikryje utěrkou.",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 25,
+  "cookMinutes": 35,
+  "waitMinutes": 60,
+  "waitLabel": "chladnutí a odležení perníku",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 350,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 120,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "med",
+      "amount": 4,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "pernikove-koreni",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "dzem-rybizovy",
+      "amount": 150,
+      "unit": "g",
+      "note": "na potření",
+      "group": "Na vrch"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 150 °C). Plech vyložený pečicím papírem. V míse promíchej mouku, kakao, sodu a perníkové koření."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mléko vlažně ohřej a rozmíchej v něm med a cukr. Zvlášť prošlehej vejce s olejem. Obě směsi spoj a zamíchej do suchých surovin jen do spojení."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto, řídké asi jako hustá smetana, rozlij na plech a peč 30 až 35 minut. Hotový je, když je povrch pružný a špejle vyjde bez těsta. Vršek se nesmí zbytečně připéct, jinak oschne."
+    },
+    {
+      "section": "Zrání",
+      "text": "Horký perník hned potři zahřátým džemem a přikryj utěrkou, páru zachytí a perník zůstane vláčný. Po vychladnutí ho nakrájej na čtverce. Nejlepší je po 2 dnech v dóze."
+    }
+  ],
+  "tips": [
+    "Nejvláčnější je po uležení: zabalený do fólie nebo v dóze vydrží 6 až 7 dní, druhý den je měkčí než čerstvý.",
+    "Těsto je řídké úmyslně, na plechu se rovnoměrně rozlije samo.",
+    "Pokud perník vyschne, vlož do dózy kolečko jablka nebo kousek chleba na jednu noc."
+  ],
+  "substitutions": [
+    "Džem rybízový nahraď meruňkovým nebo jen lehce potři horkým medem zředěným vodou.",
+    "Mléko můžeš nahradit podmáslím, perník bude ještě vláčnější."
+  ],
+  "faq": [
+    {
+      "q": "Jak upéct nejvláčnější perník?",
+      "a": "Nepřepékej ho, nemíchej těsto dlouho a hned po upečení ho přikryj utěrkou. Vláčnost pomáhá i olej v těstě a uležení přes noc."
+    },
+    {
+      "q": "Jak dlouho se peče perník na plech?",
+      "a": "Asi 30 až 35 minut při 170 °C. Hotový je, když špejle zapíchnutá doprostřed vyjde bez těsta."
+    },
+    {
+      "q": "Jak dlouho vydrží vláčný perník?",
+      "a": "V uzavřené dóze 6 až 7 dní. Čerstvý se hůř krájí, po jednom dni je nejlepší."
+    }
+  ],
+  "image": "dish-pernik-na-plech",
+  "alcohol": false,
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ]
+}

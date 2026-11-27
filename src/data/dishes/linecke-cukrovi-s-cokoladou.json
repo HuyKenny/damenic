@@ -1,0 +1,25 @@
+{
+  "name": "Linecké s čokoládovou polevou",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Ke kávě",
+  "description": "Linecké kolečko slepené meruňkovým džemem a z poloviny namočené do hořké čokolády. Vitrína je prázdná, recept plný.",
+  "about": [
+    "Linecké těsto se vyválí na tři milimetry, vykrojí a krátce upeče, aby zůstalo světlé. Dvojice se slepují meruňkovým džemem bez kousků.",
+    "Poloviny cukroví se namáčejí do hořké čokolády a ztuhnou na papíru. Doma po dvou týdnech v plechovce změknou přesně tak, jak mají."
+  ],
+  "price": 3900,
+  "image": "dish-linecke-cukrovi-s-cokoladou",
+  "recipe": "linecke-cukrovi-s-cokoladou",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 910
+}

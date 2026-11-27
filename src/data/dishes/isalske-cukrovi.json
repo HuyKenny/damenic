@@ -1,0 +1,26 @@
+{
+  "name": "Išelské cukroví s rybízovým džemem",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Cukroví",
+  "description": "Ořechová kolečka slepená rybízovým džemem a namáčená v čokoládě. Cukrářka je smyšlená, džem skutečný.",
+  "about": [
+    "Išelské cukroví je křehké těsto s mletými lískovými oříšky, které se vykrajuje do koleček a peče jen do světle zlatavé. Spodní kolečko je celé, horní má uprostřed malý otvor, kterým prosvítá džem.",
+    "Po slepení se okraj namáčí v čokoládě. Pod stromkem tu nic nebude, ale cukroví je skutečně snadnější, než vypadá, jen potřebuje studené těsto a trochu trpělivosti při vykrajování."
+  ],
+  "price": 9900,
+  "image": "dish-isalske-cukrovi",
+  "recipe": "isalske-cukrovi",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 9100
+}

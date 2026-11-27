@@ -1,0 +1,25 @@
+{
+  "name": "Pudinkové cukroví s vanilkovým krémem",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "K dezertu",
+  "description": "Křehká vanilková kolečka slepená pudinkovým máslovým krémem. Restaurace je nanečisto, krém ne.",
+  "about": [
+    "Pudinkové cukroví vzniká z těsta s vanilkovým pudinkovým práškem, který mu dává jemnou chuť a trochu sypkou strukturu. Po upečení se kolečka slepují hustým pudinkovým krémem s máslem.",
+    "Je to něco mezi cukrovím a malým zákuskem. Pod stromkem tu nic nebude, ale recept je skutečný a stačí k němu hrnec, mixér a trochu trpělivosti při chladnutí krému."
+  ],
+  "price": 8900,
+  "image": "dish-pudinkove-cukrovi",
+  "recipe": "pudinkove-cukrovi",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 9101
+}

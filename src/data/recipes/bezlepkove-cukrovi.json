@@ -1,0 +1,104 @@
+{
+  "title": "Bezlepkové ořechové cukroví z mletých mandlí",
+  "keywords": [
+    "bezlepkové cukroví",
+    "bezlepkové cukroví recepty",
+    "bezlepkové cukroví recept",
+    "cukroví bez lepku"
+  ],
+  "intro": "Bezlepkové cukroví z mletých mandlí a lískových oříšků je ořechové kuličky bez mouky, vázané bílky a cukrem. Z dávky vyjde asi 35 kousků o průměru 3 cm. Pozor: sladké recepty bez lepku dělej jen se surovinami označenými jako bezlepkové, protože mouky a kakao mohou obsahovat stopy lepku.",
+  "image": "dish-bezlepkove-cukrovi",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 45,
+  "cookMinutes": 25,
+  "waitMinutes": 30,
+  "waitLabel": "odležení těsta před pečením",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "alcohol": false,
+  "ingredients": [
+    {
+      "ingredient": "mandlova-mouka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "liskove-orechy",
+      "amount": 100,
+      "unit": "g",
+      "note": "jemně mleté",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 120,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen bílky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "bezlepkové",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "note": "na obalení",
+      "group": "Obalení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Smíchej mandlovou mouku, mleté lískové oříšky, moučkový cukr a kakao. Přidej bílky a prohněť v lepivé těsto. Pokud je moc řídké, přidej lžíci mandlové mouky. Nech 30 minut odpočinout."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Z těsta tvaruj kuličky o průměru 3 cm, každou obal v moučkovém cukru a ulož na plech s pečicím papírem. Kuličky lehce stlač, aby se nerozbíhaly."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 160 °C horní a spodní ohřev (horkovzduch 145 °C). Peč 12 až 15 minut. Kuličky jsou hotové, když povrch popraská a lehce zhnědne; střed zůstane měkký a ztuhne chladnutím. Nech vychladnout na plechu."
+    }
+  ],
+  "tips": [
+    "Na štítku zkontroluj, že kakao i moučkový cukr jsou označené jako bezlepkové; moučkový cukr může obsahovat stopy lepku.",
+    "V plechovce vydrží 2 až 3 týdny. Zůstávají měkké, protože neobsahují mouku.",
+    "Jemně mleté ořechy dělají hladší povrch, hrubé budou chrupat."
+  ],
+  "substitutions": [
+    "Lískové oříšky nahradíš mletými mandlemi.",
+    "Kakao vynecháš pro světlou variantu."
+  ],
+  "faq": [
+    {
+      "q": "Jaké cukroví je bezlepkové?",
+      "a": "Cukroví z mletých ořechů, bílků a cukru, bez mouky. Vždy ale ověř štítky všech surovin."
+    },
+    {
+      "q": "Jak se dělají bezlepkové vánoční cukroví recepty?",
+      "a": "Pšeničnou mouku nahradíš mletými ořechy nebo bezlepkovou směsí. Těsto potřebuje víc vazby, proto se dává bílek nebo vejce."
+    },
+    {
+      "q": "Jak dlouho vydrží bezlepkové cukroví?",
+      "a": "V plechovce 2 až 3 týdny. Je měkčí než klasické, takže ho neukládej s křehkým."
+    }
+  ]
+}

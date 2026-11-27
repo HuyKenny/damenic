@@ -1,0 +1,128 @@
+{
+  "title": "Kávové cukroví s kávovým krémem",
+  "keywords": [
+    "kávové cukroví",
+    "kávové cukroví recept",
+    "cukroví s kávou",
+    "kávové cukroví krém"
+  ],
+  "intro": "Kávové cukroví je křehké kolečko s instantní kávou v těstě, slepené kávovým máslovým krémem a poprášené kakaem. Z dávky vyjde asi 40 slepených kousků o průměru 4 cm. Krém s máslem patří do lednice, takže cukroví skladuj chladně a plň ho 2 až 3 dny před podáváním.",
+  "image": "dish-kavove-cukrovi",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 70,
+  "cookMinutes": 24,
+  "waitMinutes": 90,
+  "waitLabel": "odpočinek těsta a ztuhnutí krému",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "alcohol": false,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 180,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 90,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "kava-instantni",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "rozpuštěná v 1 lžíci horké vody a vychladlá",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "žloutek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 120,
+      "unit": "g",
+      "note": "změklé na pokojovou teplotu",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "kava-instantni",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "rozpuštěná v 1 lžičce horké vody a vychladlá",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na poprášení",
+      "group": "Krém"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Kávu rozpusť v lžíci horké vody a nech úplně vychladnout. Promíchej mouku s moučkovým cukrem, přidej studené máslo, žloutek a vychladlou kávu. Rychle zpracuj v těsto a nech 45 minut v lednici."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto rozválej na 3 mm a vykrajuj kolečka o průměru 4 cm. Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 160 °C). Peč 10 až 12 minut do lehce zlatavého okraje a nech vychladnout na plechu."
+    },
+    {
+      "section": "Krém",
+      "text": "Změklé máslo šlehej 3 minuty do světlé pěny, postupně přisypávej moučkový cukr a nakonec přidej vychladlou kávu. Krém má být hladký a pokojově teplý, ne tekutý."
+    },
+    {
+      "section": "Plnění",
+      "text": "Krém nastříkej nebo natři na polovinu koleček, přiklop zbylými a lehce stiskni. Kakao přesyp přes sítko na vrch. Nech 1 hodinu ztuhnout v lednici."
+    }
+  ],
+  "tips": [
+    "Kávu vždy nejdřív rozpusť a nech zchladnout. Horká by rozpustila máslo v těstě.",
+    "Plněné cukroví vydrží v lednici v uzavřené krabici 7 až 10 dní. Neplněná kolečka v plechovce 3 týdny.",
+    "Chuť kávy je výrazná, takže pro děti ho dělej s menším množstvím kávy."
+  ],
+  "substitutions": [
+    "Instantní kávu nahradíš čajovou lžičkou jemně mleté kávy z espressa, ale těsto bude tmavší a chuť jemnější.",
+    "Kakao na posyp nahradíš moučkovým cukrem."
+  ],
+  "faq": [
+    {
+      "q": "Jak se dělá kávové cukroví?",
+      "a": "Do křehkého těsta se přidá rozpuštěná instantní káva. Upečená kolečka se slepí kávovým máslovým krémem."
+    },
+    {
+      "q": "Dá se kávové cukroví upéct dopředu?",
+      "a": "Ano. Kolečka upeč 2 až 3 týdny před Vánoci a krémem je slep 2 až 3 dny před podáváním."
+    },
+    {
+      "q": "Jak dlouho vydrží kávové cukroví?",
+      "a": "Plněné s máslovým krémem 7 až 10 dní v lednici, bez krému asi 3 týdny v plechovce."
+    }
+  ]
+}

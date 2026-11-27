@@ -1,0 +1,25 @@
+{
+  "name": "Mrkvová buchta",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "K dezertu",
+  "description": "Vláčná buchta z jemně strouhané mrkve a vlašských ořechů s citronovou polevou. Nic nedovezeme, recept ale funguje.",
+  "about": [
+    "Mrkvová buchta se peče z jednoduchého těsta s olejem, takže zůstává vláčná i třetí den. Skořice a vlašské ořechy ji převedou z všedního pečení do svátečního.",
+    "Poleva je jen cukr s citronem. Buchtu doma upečeš za hodinu a nic na ní nepotřebuje, krom hrnku čaje."
+  ],
+  "price": 5900,
+  "image": "dish-mrkvova-buchta",
+  "recipe": "mrkvova-buchta",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    8
+  ],
+  "featured": false,
+  "order": 906
+}

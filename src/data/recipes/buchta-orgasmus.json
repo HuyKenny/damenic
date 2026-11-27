@@ -1,0 +1,147 @@
+{
+  "title": "Buchta Orgasmus s kokosem a karamelem",
+  "keywords": [
+    "buchta orgasmus",
+    "buchta orgasmus recept",
+    "kokosová buchta s karamelem",
+    "recept na buchtu orgasmus"
+  ],
+  "intro": "Buchta Orgasmus je vláčná buchta na plech, která se po upečení polije horkou karamelovou směsí z kondenzovaného mléka a posype kokosem. Z jedné dávky vyjde asi 20 kusů z plechu 22 × 30 cm. Karamel se vsákne do ještě teplého těsta, proto je buchta druhý den ještě šťavnatější než první.",
+  "image": "dish-buchta-orgasmus",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 25,
+  "cookMinutes": 35,
+  "waitMinutes": 120,
+  "waitLabel": "vychladnutí a nasáknutí karamelu",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "alcohol": false,
+  "occasions": [
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 260,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 50,
+      "unit": "g",
+      "note": "do těsta",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko-kondenzovane-slazene",
+      "amount": 200,
+      "unit": "g",
+      "note": "půl plechovky",
+      "group": "Karamel"
+    },
+    {
+      "ingredient": "karamelova-pasta",
+      "amount": 100,
+      "unit": "g",
+      "group": "Karamel"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Karamel"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Karamel"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 80,
+      "unit": "g",
+      "note": "na posypání",
+      "group": "Karamel"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 165 °C). Plech 22 × 30 cm vyložený pečicím papírem je připravený."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vejce vyšlehej s cukrem do světlé pěny, asi 3 minuty. Přilej mléko a olej a promíchej. Mouku smíchej s práškem do pečiva a kokosem a vmíchej ji do těsta lžící, jen aby zmizely hrudky."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto vlej na plech a peč 25 až 30 minut uprostřed trouby. Buchta je hotová, když párátko zapíchnuté doprostřed vyjde suché a povrch je zlatý. Nech ji 10 minut na plechu a propíchej ji vidličkou po 2 cm."
+    },
+    {
+      "section": "Karamel",
+      "text": "Mezitím v kastrolu na mírném ohni ohřej kondenzované mléko, karamelovou pastu, smetanu a máslo. Míchej 3 až 4 minuty, dokud se vše nespojí v hladkou tekutou směs. Nevař, jen ať je horká a hladká."
+    },
+    {
+      "section": "Karamel",
+      "text": "Horký karamel pomalu rozlej po ještě teplé buchtě, ať steče do vpichů. Hned posyp strouhaným kokosem, který se krátce přilepí. Nech buchtu aspoň 2 hodiny vychladnout a prosáknout a pak ji nakrájej na 20 kousků."
+    }
+  ],
+  "tips": [
+    "Karamel lij na teplou buchtu, ne na horkou přímo z trouby a ne na studenou. Teplá buchta ho nasaje, studená ho nechá stát na povrchu.",
+    "Kokos můžeš na sucho opražit na pánvi 2 minuty dozlatova, chuť je pak výraznější. Hlídej ho, pálí se rychle.",
+    "Buchta vydrží v uzavřené krabici v lednici 4 dny. Kvůli smetaně nepatří na několik hodin do tepla."
+  ],
+  "substitutions": [
+    "Karamelovou pastu nahradíš dalšími 100 g kondenzovaného mléka, karamel pak bude světlejší a sladší.",
+    "Smetanu ke šlehání nahradíš plnotučným mlékem, směs bude řidší a lépe se vsákne."
+  ],
+  "faq": [
+    {
+      "q": "Co to je buchta Orgasmus?",
+      "a": "Je to vláčná kokosová buchta z plechu zalitá karamelovou směsí z kondenzovaného mléka. Jméno je lidová přezdívka, žádná zvláštní technika za ním není."
+    },
+    {
+      "q": "Dá se buchta Orgasmus připravit den předem?",
+      "a": "Ano, je dokonce lepší druhý den, protože karamel prosákne celým těstem. Uchovej ji přikrytou v lednici a před podáváním ji nech 20 minut při pokojové teplotě."
+    },
+    {
+      "q": "Jak dlouho péct kokosovou buchtu na plech?",
+      "a": "Při 180 °C horní a spodní ohřev nebo 165 °C horkovzduch 25 až 30 minut. Hotová je, když párátko vyjde suché."
+    }
+  ]
+}

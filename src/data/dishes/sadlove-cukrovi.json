@@ -1,0 +1,24 @@
+{
+  "name": "Sádlové cukroví s džemem",
+  "restaurant": "cukrarna-kolac-na-slib",
+  "kind": "main",
+  "section": "Doplňky",
+  "description": "Světlá, jemná kolečka ze sádlového těsta slepená rybízovým džemem. Koláč je na slib, cukroví na papíře.",
+  "about": [
+    "Sádlové cukroví je stará domácí klasika. Těsto z vepřového sádla je křehčí než máslové a chutná trochu jinak, jemně a bez výrazné máslové vůně.",
+    "Peče se do světla, aby sádlo nezhořklo, a slepuje džemem. Doručit nic nedoručíme, ale z receptu vyjde skutečná dávka, na kterou stačí jedna mísa a váleček."
+  ],
+  "price": 7900,
+  "image": "dish-sadlove-cukrovi",
+  "recipe": "sadlove-cukrovi",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3
+  ],
+  "featured": false,
+  "order": 9104
+}

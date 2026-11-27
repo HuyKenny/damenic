@@ -1,0 +1,21 @@
+{
+  "name": "Domácí perníkové koření",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "K dezertu",
+  "description": "Domácí směs skořice, zázvoru, hřebíčku a nového koření. Vůně je skutečná, doručení ne.",
+  "about": [
+    "Domácí perníkové koření je směs skořice, zázvoru, hřebíčku, nového koření, kardamomu a muškátového oříšku. Celé koření se krátce opraží, rozemele a smíchá. Vůně je silnější než z krabičky a směs jde použít do perníku, svařeného vína nebo kávy.",
+    "Sladké nic je vymyšlené, vůně ne. Jednu sklenici koření uděláš za deset minut a vydrží celé Vánoce."
+  ],
+  "price": 3900,
+  "image": "dish-pernikove-koreni",
+  "recipe": "pernikove-koreni",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [],
+  "featured": false,
+  "order": 1206
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Pudinkové cukroví s vanilkovým krémem",
+  "keywords": [
+    "pudinkové cukroví",
+    "cukroví s pudinkem",
+    "pudinkové cukroví recept",
+    "cukroví z pudinku recept"
+  ],
+  "intro": "Pudinkové cukroví je křehké těsto s vanilkovým pudinkovým práškem, které se po upečení spojuje vanilkovým máslovým krémem. Z dávky vyjde asi 40 slepených kousků o průměru 4 cm. Krém s máslem patří do lednice, takže je plň 2 až 3 dny před podáváním.",
+  "image": "dish-pudinkove-cukrovi",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 70,
+  "cookMinutes": 24,
+  "waitMinutes": 90,
+  "waitLabel": "odpočinek těsta a ztuhnutí krému",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "alcohol": false,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 37,
+      "unit": "g",
+      "note": "1 sáček, prášek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 180,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "žloutek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "pudink-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "note": "prášek",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 40,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "změklé na pokojovou teplotu",
+      "group": "Krém"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Smíchej mouku, pudinkový prášek a moučkový cukr. Přidej studené máslo a žloutek a rychle zpracuj v hladké těsto. Nech ho 45 minut v lednici."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto rozválej na 3 mm a vykrajuj kolečka o průměru 4 cm. Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 155 °C). Peč 10 až 12 minut, dokud okraje nezačnou lehce žloutnout. Nech vychladnout na plechu."
+    },
+    {
+      "section": "Krém",
+      "text": "Z mléka odlij 50 ml a rozmíchej v nich 20 g pudinkového prášku. Zbylých 100 ml mléka s cukrem přiveď k varu, vlij rozmíchaný pudink a za stálého míchání vař 1 minutu do husté hmoty. Zakryj fólií přímo na povrchu a nech vychladnout."
+    },
+    {
+      "section": "Krém",
+      "text": "Změklé máslo šlehej 3 minuty do pěny a po lžících do něj zašlehej vychladlý pudink. Oba musí mít pokojovou teplotu, asi 20 °C, jinak se krém srazí."
+    },
+    {
+      "section": "Plnění",
+      "text": "Krém plň do sáčku a nastříkej na polovinu koleček. Přiklop zbylými a lehce stiskni. Dej na 1 hodinu do lednice, ať krém ztuhne."
+    }
+  ],
+  "tips": [
+    "Do krému patří máslo, a proto cukroví uchovávej v lednici v uzavřené krabici. Vydrží tak 7 až 10 dní.",
+    "Neplněné upečené kolečka vydrží v plechovce 3 týdny, takže je můžeš upéct dřív a plnit až těsně před svátky.",
+    "Krém můžeš ochutit kůrou z půlky pomeranče."
+  ],
+  "substitutions": [
+    "Vanilkový pudink můžeš nahradit smetanovým nebo čokoládovým, jen u čokoládového ubereš 2 lžíce mouky.",
+    "Máslový krém můžeš nahradit rybízovým džemem, pak cukroví vydrží v plechovce."
+  ],
+  "faq": [
+    {
+      "q": "Jak se dělá pudinkové cukroví?",
+      "a": "Pudinkový prášek se přidá přímo do lineckého těsta, kolečka se upečou a slepí vanilkovým krémem z mléka, pudinku a másla."
+    },
+    {
+      "q": "Jak dlouho vydrží cukroví s pudinkem?",
+      "a": "Plněné v lednici 7 až 10 dní. Bez krému se uchová v plechovce asi 3 týdny."
+    },
+    {
+      "q": "Dá se pudinkové cukroví upéct dopředu?",
+      "a": "Ano. Kolečka upeč 2 až 3 týdny předem a krémem je plň až 2 až 3 dny před podáváním."
+    }
+  ]
+}

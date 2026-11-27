@@ -1,0 +1,26 @@
+{
+  "name": "Pistáciové cukroví s bílou čokoládou",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Cukroví",
+  "description": "Křehká pistáciová kolečka s krémem z bílé čokolády. Cukrářka je smyšlená, pistácie ne.",
+  "about": [
+    "Pistáciové cukroví je nazelenalé, voní oříšky a po slepení bílou čokoládou chutná jemně sladce. Těsto má kolem 100 g mletých pistácií na 250 g mouky.",
+    "Je dražší než klasické linecké, protože pistácie nejsou levné. Pod stromkem tu nic nebude, ale na pár dávek na Vánoce stačí menší sáček oříšků."
+  ],
+  "price": 11900,
+  "image": "dish-pistaciove-cukrovi",
+  "recipe": "pistaciove-cukrovi",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 9106
+}

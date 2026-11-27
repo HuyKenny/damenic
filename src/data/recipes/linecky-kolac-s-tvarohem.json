@@ -1,0 +1,132 @@
+{
+  "title": "Linecký koláč s tvarohem",
+  "keywords": [
+    "linecký koláč s tvarohem",
+    "linecký koláč s tvarohem recept",
+    "linecký koláč",
+    "linecký koláč recept"
+  ],
+  "intro": "Linecký koláč s tvarohem je křehký máslový koláč s tvarohovou náplní a lineckým těstem nahoře i dole. Z jedné dávky vyjde koláč ve formě o průměru 24 cm, tedy asi 12 kousků. Je to rychlá vánoční alternativa k lineckému cukroví, protože se netvaruje po kouskách a upeče se najednou.",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 35,
+  "cookMinutes": 50,
+  "waitMinutes": 120,
+  "waitLabel": "odpočinek těsta a chladnutí koláče",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "žloutek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "tvaroh",
+      "amount": 500,
+      "unit": "g",
+      "note": "měkký, dobře odkapaný",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 20,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "kůra",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 50,
+      "unit": "g",
+      "group": "Náplň"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Mouku, moučkový cukr a studené máslo prsty rozdrob na drobenku, přidej žloutek a rychle zpracuj v hladké těsto. Rozděl na dvě části, jednu větší a jednu menší. Zabal do fólie a nech 1 hodinu v lednici."
+    },
+    {
+      "section": "Náplň",
+      "text": "Tvaroh rozmíchej s cukrem, vejci, vanilkovým cukrem a citronovou kůrou do hladka. Rozinky přidej, pokud je chceš. Náplň nemá být tekutá; příliš vlhký tvaroh předem odkapej v sítu."
+    },
+    {
+      "section": "Formování",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 165 °C). Větší díl těsta rozválej a vyložíš dno a okraj vymazané formy o průměru 24 cm. Dno propíchej vidličkou. Nalij tvaroh."
+    },
+    {
+      "section": "Pečení",
+      "text": "Zbytek těsta rozválej a nakrájej na proužky, které poskládej na tvaroh jako mřížku. Peč 45 až 50 minut. Koláč je hotový, když je mřížka zlatá a tvaroh pevný. Nech ho zcela vychladnout ve formě a nejlépe přes noc v lednici."
+    }
+  ],
+  "tips": [
+    "Koláč vydrží v lednici 4 dny. Kvůli tvarohu ho nenechávej při pokojové teplotě déle než 2 hodiny.",
+    "Těsto při válení lepí, rozválej ho mezi dva papíry nebo ho vtlač do formy prsty.",
+    "Vychladlý koláč se krájí lépe než teplý, náplň se potřebuje zatáhnout."
+  ],
+  "substitutions": [
+    "Rozinky nahraď brusinkami nebo vynech.",
+    "Tvaroh můžeš smíchat s lžící krupice, pokud je velmi vlhký."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat linecký koláč s tvarohem?",
+      "a": "Z lineckého těsta vyložíš formu, naplníš tvarohovou náplní a přikryješ mřížkou. Peče se asi 45 až 50 minut při 180 °C."
+    },
+    {
+      "q": "Jak dlouho vydrží linecký koláč?",
+      "a": "V lednici 4 dny. Kvůli tvarohu nenechávej koláč dlouho v teplé místnosti."
+    },
+    {
+      "q": "Proč se mi tvaroh v koláči propadl?",
+      "a": "Tvaroh byl příliš vlhký nebo se koláč vyndal z trouby moc brzy. Tvaroh odkapej a koláč nech vychladnout ve formě."
+    }
+  ],
+  "image": "dish-linecky-kolac-s-tvarohem",
+  "alcohol": false,
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Makové linecké cukroví s povidly",
+  "keywords": [
+    "makové linecké cukroví",
+    "makové linecké",
+    "makové cukroví recept",
+    "linecké s mákem"
+  ],
+  "intro": "Makové linecké cukroví je linecké těsto s mletým mákem, které se slepuje švestkovými povidly. Z dávky vyjde asi 40 slepených kousků o průměru 4 cm. Mák dodá těstu tmavou barvu a lehce oříškovou chuť, proto nepoznáš, kdy je upečené podle barvy; měř čas.",
+  "image": "dish-makove-linecke-cukrovi",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 75,
+  "cookMinutes": 24,
+  "waitMinutes": 60,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "alcohol": false,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mak-mlety",
+      "amount": 60,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "žloutek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "povidla",
+      "amount": 120,
+      "unit": "g",
+      "note": "hladká, bez pecek",
+      "group": "Plnění"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na posyp",
+      "group": "Plnění"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Smíchej mouku, mletý mák a moučkový cukr. Přidej studené máslo a žloutek a rychle zpracuj v hladké těsto. Nech ho 1 hodinu v lednici zabalené do fólie."
+    },
+    {
+      "section": "Vykrajování",
+      "text": "Těsto rozválej na 3 mm a vykrajuj kolečka o průměru 4 cm. U poloviny koleček vykroj malou dírku. Odřezky zpracuj jen jednou."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 160 °C). Peč 9 až 11 minut. Barva se v tmavém těstě skoro nemění, takže poznáš hotové cukroví podle okrajů, které zesílí a na dotek jsou suché. Nech vychladnout na plechu."
+    },
+    {
+      "section": "Slepení",
+      "text": "Povidla zahřej, aby byla řidší, a natři na celá kolečka. Přiklop kolečky s dírkou a posyp moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Mák kup už mletý, nebo ho nech umlít. Doma v mixéru se zahřeje a zhořkne.",
+    "Cukroví nech slepené v plechovce 2 dny, povidla zvlhnou a cukroví změkne. Vydrží 3 týdny.",
+    "Do povidel můžeš přidat špetku skořice."
+  ],
+  "substitutions": [
+    "Povidla nahradíš rybízovým džemem.",
+    "Do těsta můžeš přidat 1 lžičku citronové kůry."
+  ],
+  "faq": [
+    {
+      "q": "Jak se dělá makové linecké cukroví?",
+      "a": "Do lineckého těsta se přidá mletý mák, těsto se vyválí, vykrájí a po upečení se kolečka slepí povidly."
+    },
+    {
+      "q": "Jaký mák se hodí do cukroví?",
+      "a": "Mletý modrý mák, nejlépe čerstvě umletý a bez hořké příchuti."
+    },
+    {
+      "q": "Jak dlouho vydrží makové linecké?",
+      "a": "V plechovce 3 týdny. Po 2 dnech slepené změkne, pak je nejlepší."
+    }
+  ]
+}

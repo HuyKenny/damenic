@@ -1,0 +1,25 @@
+{
+  "name": "Perníková bábovka s čokoládou",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Vláčná kořeněná bábovka s medem pod hořkou čokoládovou polevou. Pod stromkem nic, v troubě skutečně.",
+  "about": [
+    "Těsto je z mouky, medu, kakaa a perníkového koření, rozmíchané olejem a mlékem, takže zůstává vláčné ještě čtvrtý den. Peče se asi padesát minut ve formě s komínem a po vychladnutí dostane hořkou čokoládovou polevu.",
+    "Cukrářka je smyšlená, bábovka na papíře. Vyjmout ji z formy chce trpělivost: deset minut počkat a pak otočit jedním pohybem. Kdo to zvládne, dostane vánoční dort z jedné misky."
+  ],
+  "price": 8900,
+  "image": "dish-pernikova-babovka",
+  "recipe": "pernikova-babovka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 1200
+}

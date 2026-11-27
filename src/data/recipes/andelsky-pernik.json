@@ -1,0 +1,136 @@
+{
+  "title": "Andělský perník",
+  "keywords": [
+    "andělský perník",
+    "andělský perník recept",
+    "světlý perník",
+    "nadýchaný perník"
+  ],
+  "intro": "Andělský perník je světlý, jemně kořeněný perník, který je na rozdíl od klasického tmavého lehčí a nadýchaný, protože se do těsta přidává sníh z bílků. Z jedné dávky vyjde plech 20 × 30 cm, tedy asi 16 kousků. Hodí se pro ty, komu je klasický perník příliš tmavý a těžký.",
+  "category": "dezerty",
+  "servings": 8,
+  "activeMinutes": 30,
+  "cookMinutes": 30,
+  "waitMinutes": 60,
+  "waitLabel": "chladnutí perníku",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "pernikove-koreni",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "rozpuštěné a vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "med",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "světlý, tekutý",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "žloutky a bílky zvlášť",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 120,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "jen šťáva",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 150 °C). Plech 20 × 30 cm vyložený pečicím papírem. Promíchej mouku, prášek do pečiva a perníkové koření."
+    },
+    {
+      "section": "Těsto",
+      "text": "Žloutky vyšlehej se 70 g cukru do světlé hustší hmoty. Přidej vlažné máslo, med a mléko a zamíchej. Do této směsi vmíchej suché suroviny, jen do spojení."
+    },
+    {
+      "section": "Sníh",
+      "text": "Bílky vyšlehej s 50 g cukru do tuhého sněhu, aby se po obrácení mísy nehýbal. Třetinu sněhu vmíchej do těsta, aby se uvolnilo, a zbytek opatrně vmíchej stěrkou ve směru od okraje ke středu."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto rozprostři na plech a peč 25 až 30 minut. Je hotové, když je vršek zlatý, na dotek pružný a špejle vyjde suchá. Nech na plechu zchladnout."
+    },
+    {
+      "section": "Poleva",
+      "text": "Moučkový cukr rozmíchej s šťávou z půl citronu, případně s lžičkou vody, do hustoty tekutého medu. Polej vychladlý perník a nech ztuhnout půl hodiny. Nakrájej na kousky."
+    }
+  ],
+  "tips": [
+    "Sníh vmíchávej opatrně, jinak perník nebude nadýchaný. Žádné tvrdé míchání mixérem po přidání sněhu.",
+    "Zabalený v dóze s papírem vydrží 4 až 5 dní, nejlepší je druhý den, kdy je ještě vláčnější.",
+    "Pro hlubší chuť přidej lžičku skořice navíc."
+  ],
+  "substitutions": [
+    "Máslo nahraď stejným množstvím oleje, perník bude trochu jemnější.",
+    "Med můžeš nahradit cukrem a koření si domíchat podle receptu na perníkové koření."
+  ],
+  "faq": [
+    {
+      "q": "Čím se liší andělský perník od klasického?",
+      "a": "Je světlejší, lehčí a nadýchaný, protože obsahuje sníh z bílků. Klasický perník je tmavý, hutnější a často se nechává uležet."
+    },
+    {
+      "q": "Dá se andělský perník upéct dopředu?",
+      "a": "Ano, vydrží 4 až 5 dní v zakryté dóze. Polevu přidej až den před podáváním, aby nezvlhla."
+    },
+    {
+      "q": "Proč andělský perník splaskl?",
+      "a": "Obvykle se sníh míchal příliš dlouho nebo se otevřela trouba v první půlhodině. Sníh jen opatrně promíchej a troubu otevři nejdřív po 20 minutách."
+    }
+  ],
+  "image": "dish-andelsky-pernik",
+  "alcohol": false,
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ]
+}

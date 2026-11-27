@@ -1,0 +1,116 @@
+{
+  "title": "Perníkové těsto na vykrajování (odleželé)",
+  "keywords": [
+    "perníkové těsto",
+    "perníkové těsto recept",
+    "vánoční perníčky",
+    "vánoční perníčky recept"
+  ],
+  "intro": "Perníkové těsto na vykrajování je medové těsto s perníkovým kořením, které se zadělá aspoň týden před pečením a nechá odležet. Z jedné dávky vyjde asi 60 perníčků o průměru 5 cm. Vánoční perníčky z odleželého těsta jsou po upečení tvrdé, ale po 2 až 3 týdnech v dóze změknou a stanou se pravými vánočními perníčky.",
+  "category": "pekarna",
+  "servings": 12,
+  "activeMinutes": 60,
+  "cookMinutes": 10,
+  "waitMinutes": 9900,
+  "waitLabel": "odležení těsta v lednici (minimálně 7 dní, lépe déle)",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "med",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 80,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "pernikove-koreni",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "soda-jedla",
+      "amount": 1,
+      "unit": "lzicka",
+      "group": "Těsto"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Medová směs",
+      "text": "Med, máslo a moučkový cukr zahřej v hrnci na mírném ohni, jen aby se máslo rozpustilo a cukr rozpustil; nesmí se vařit. Nech vlažně zchladnout asi 10 minut."
+    },
+    {
+      "section": "Zadělání",
+      "text": "Mouku smíchej s kořením, kakaem a sodou. Přidej vlažnou medovou směs a vejce a vypracuj v hladké těsto. Zpočátku je lepkavé, ale po odležení se stáhne. Zabal ho do fólie a dej do lednice na 7 dní, ideálně na 2 až 3 týdny."
+    },
+    {
+      "section": "Vykrajování",
+      "text": "Odleželé těsto vyndej a nech 30 minut při pokojové teplotě, aby se dalo válet. Rozválej ho na 3 mm a vykrajuj. Čím tenčí, tím křehčí perníčky. Vykrojené kousky dávej na plech s pečicím papírem."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 165 °C). Peč 6 až 8 minut podle tloušťky. Perníčky jsou hotové, když okraje ztmavnou a tvar drží. Horké jsou měkké, ztuhnou při chladnutí. Zdob až po vychladnutí."
+    }
+  ],
+  "tips": [
+    "Těsto zadělej aspoň týden před pečením; ideální je 2 až 3 týdny v lednici zabalené ve fólii. Čím déle leží, tím jemněji koření chutná a tím lépe se válí.",
+    "Upečené perníčky nech 2 až 3 týdny v plechové dóze, aby změkly; v krabici vydrží do 2 měsíců.",
+    "Pokud je těsto po odležení tuhé, nech ho 30 minut při pokojové teplotě nebo ho krátce prohněť v dlaních."
+  ],
+  "substitutions": [
+    "Máslo můžeš nahradit sádlem, perníčky pak budou ještě tradičnější.",
+    "Kakao vynech, perníčky budou světlejší."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho má perníkové těsto odležet?",
+      "a": "Alespoň 7 dní, ideálně 2 až 3 týdny v lednici zabalené ve fólii. Těsto pak dobře drží tvar a je poddajnější."
+    },
+    {
+      "q": "Kdy péct vánoční perníčky?",
+      "a": "Asi 2 až 3 týdny před Vánoci, aby stihly v dóze změknout. Těsto proto zadělávej koncem listopadu."
+    },
+    {
+      "q": "Proč jsou perníčky tvrdé jako kámen?",
+      "a": "Čerstvě upečené perníčky jsou tvrdé. Měkké se stanou po 2 až 3 týdnech v dóze, kdy vzdušnou vlhkost nasají."
+    }
+  ],
+  "image": "dish-pernikove-testo",
+  "alcohol": false,
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ]
+}

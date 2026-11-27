@@ -1,0 +1,26 @@
+{
+  "name": "Mandlové půlměsíčky",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Ke kávě",
+  "description": "Křehké mandlové půlměsíčky obalené ve vanilkovém cukru. Cukrářna je smyšlená, mandle skutečné.",
+  "about": [
+    "Mandlové půlměsíčky se dělají z mletých mandlí, mouky a másla. Těsto se válí do válečků, krájí na kousky a tvaruje do půlměsíců.",
+    "Obalují se ještě vlažné ve vanilkovém cukru. Nic se nedoručuje, ale recept je z nejjednodušších a stačí na něj jedna mísa."
+  ],
+  "price": 8900,
+  "image": "dish-mandlove-cukrovi",
+  "recipe": "mandlove-cukrovi",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 9108
+}

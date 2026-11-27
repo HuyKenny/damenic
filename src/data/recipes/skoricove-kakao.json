@@ -1,0 +1,107 @@
+{
+  "title": "Skořicové kakao s pěnou",
+  "keywords": [
+    "skořicové kakao",
+    "skořicové kakao recept",
+    "vánoční nápoje bez alkoholu",
+    "vánoční kakao"
+  ],
+  "intro": "Skořicové kakao s pěnou je vánoční nápoj bez alkoholu z mléka, kakaa a skořice, který se zahřeje do mírného varu a ušlehá do pěny. Z dávky vyjdou dva velké hrnky. Kakao se rozmíchá s trochou mléka na pastu, takže nemá hrudky, a smetana na vrch se jen lehce prošlehá.",
+  "image": "dish-skoricove-kakao",
+  "category": "napoje",
+  "servings": 2,
+  "activeMinutes": 10,
+  "cookMinutes": 5,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "vegetarian": true,
+  "alcohol": false,
+  "occasions": [
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mleko",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "neslazené"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "mletá"
+    },
+    {
+      "ingredient": "skorice-cela",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na ozdobu a do hrnce"
+    },
+    {
+      "ingredient": "vanilka-lusk",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "nebo trochu vanilkového cukru"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 60,
+      "unit": "ml",
+      "note": "na pěnu"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnku rozmíchej kakao, cukr, mletou skořici a 4 lžíce studeného mléka na hladkou hustou pastu bez hrudek."
+    },
+    {
+      "text": "Zbytek mléka dej do hrnce s půlkou skořicového svitku a vanilkou. Zahřívej na středním plameni a občas promíchej. Mléko nesmí vřít, má se jen začít kouřit, asi 80 °C."
+    },
+    {
+      "text": "Vyndej skořici a vlij do mléka kakaovou pastu. Šlehej metličkou, dokud není hladké, a ohřívej 1 až 2 minuty. Přidej špetku soli."
+    },
+    {
+      "text": "Smetanu ušlehej v malé nádobce na měkkou pěnu, aby se jen lehce držela. Kakao rozlej do hrnků a navrch dej lžíci šlehačky a špetku skořice. Pij, až se kakao trochu zchladí, protože horké mléko pálí."
+    }
+  ],
+  "tips": [
+    "Mléko hlídej a míchej, na dně hrnce se rychle připaluje. Připálenou chuť už nezachráníš.",
+    "Pěnu můžeš udělat i bez smetany: horké mléko nalij do sklenice se zavíčkem a 20 sekund protřepávej, pak je pěna hustá. Opatrně, pára je horká.",
+    "Hotové kakao se nechává stát nejdéle hodinu, pak se na hladině sráží škraloup. Zbytek přelij do lednice a ohřej znovu."
+  ],
+  "substitutions": [
+    "Mléko můžeš nahradit ovesným nápojem a smetanu na pěnu kokosovou smetanou z lednice.",
+    "Skořici můžeš doplnit špetkou mletého kardamomu nebo strouhané pomerančové kůry."
+  ],
+  "faq": [
+    {
+      "q": "Jak udělat kakao bez hrudek?",
+      "a": "Kakao s cukrem nejdřív rozmíchej s trochou studeného mléka na pastu a teprve pak ji vlej do horkého mléka. Hrudky vznikají, když sypeš prášek rovnou do tekutiny."
+    },
+    {
+      "q": "Jak udělat pěnu na kakao?",
+      "a": "Ušlehej trochu smetany do měkké šlehačky a dej ji na vrch. Nebo mléko zahřáté na 80 °C šlehej metličkou, až se začne pěnit."
+    },
+    {
+      "q": "Je skořicové kakao vhodné pro děti?",
+      "a": "Ano, neobsahuje alkohol, jen nech nápoj trochu zchladnout, aby si děti nepopálily jazyk. Skořice je jen jemná, nepřeháněj ji."
+    }
+  ]
+}

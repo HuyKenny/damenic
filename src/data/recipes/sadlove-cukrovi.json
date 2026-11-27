@@ -1,0 +1,115 @@
+{
+  "title": "Sádlové cukroví s džemem",
+  "keywords": [
+    "sádlové cukroví",
+    "sádlové cukroví recept",
+    "recept na sádlové cukroví",
+    "sádlové těsto cukroví"
+  ],
+  "intro": "Sádlové cukroví se dělá z tradičního těsta s vepřovým sádlem místo másla, slepuje se rybízovým džemem a je překvapivě jemné. Z dávky vyjde asi 40 slepených kousků o průměru 4 cm. Upeč ho 2 týdny před Vánoci a nech v plechovce změknout.",
+  "image": "dish-sadlove-cukrovi",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 75,
+  "cookMinutes": 24,
+  "waitMinutes": 60,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "alcohol": false,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sadlo",
+      "amount": 150,
+      "unit": "g",
+      "note": "vychlazené, vepřové",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen žloutky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "note": "půl sáčku",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "dzem-rybizovy",
+      "amount": 120,
+      "unit": "g",
+      "note": "na slepení",
+      "group": "Plnění"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na posyp",
+      "group": "Plnění"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Prosátou mouku smíchej s moučkovým a vanilkovým cukrem. Přidej vychlazené sádlo na kostičky a žloutky a rychle zpracuj v hladké těsto. Sádlo je měkčí než máslo, proto nezpracovávej dlouho. Těsto nech 1 hodinu v lednici."
+    },
+    {
+      "section": "Vykrajování",
+      "text": "Těsto rozválej na pomoučené desce na 3 mm a vykrajuj kolečka o průměru 4 cm. U poloviny koleček vykroj uprostřed dírku. Odřezky zpracuj jen jednou."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 160 °C). Peč 8 až 10 minut do světlých okrajů. Cukroví má zůstat skoro bílé; zhnědlé je sádlové hned suché. Nech vychladnout na plechu."
+    },
+    {
+      "section": "Slepení",
+      "text": "Rybízový džem krátce prohřej a natři ho na celá kolečka. Přiklop kolečky s dírkou a posyp moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Sádlo musí být vychlazené, ale ne tvrdé jako kámen. Půl hodiny před zpracováním ho nech v lednici.",
+    "Sádlové cukroví je v plechovce nejlepší po 2 až 3 dnech a vydrží 3 týdny. Jelikož sádlo žlukne, vydrží kratší dobu než máslové.",
+    "Použij čerstvé sádlo bez soli, jinak je těsto slané."
+  ],
+  "substitutions": [
+    "Sádlo můžeš nahradit polovinou másla pro jemnější chuť, ale cukroví nebude tak křehké.",
+    "Rybízový džem nahradíš meruňkovým nebo švestkovými povidly."
+  ],
+  "faq": [
+    {
+      "q": "Jak se dělá sádlové cukroví?",
+      "a": "Do mouky se zapracuje vychlazené sádlo, cukr a žloutky. Těsto se vyválí, vykrájí a po upečení slepí džemem."
+    },
+    {
+      "q": "Proč se do cukroví dává sádlo?",
+      "a": "Sádlo dělá těsto velmi křehké a jemné. Je to stará domácí praxe, kdy máslo nebylo vždy po ruce."
+    },
+    {
+      "q": "Jak dlouho vydrží sádlové cukroví?",
+      "a": "V plechovce na chladném místě asi 2 až 3 týdny. Po delší době sádlo začne žlutnout a zahořkne."
+    }
+  ]
+}

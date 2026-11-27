@@ -1,0 +1,25 @@
+{
+  "name": "Buchta Orgasmus",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Vláčná kokosová buchta zalitá karamelem z kondenzovaného mléka a posypaná kokosem. Název je přezdívka, dojem zůstává v kuchyni.",
+  "about": [
+    "Základ je jednoduché hrnkové těsto s kokosem, upečené na plechu do zlatova. Ještě teplé se propíchá vidličkou a zalije horkou směsí kondenzovaného mléka, karamelové pasty, smetany a másla.",
+    "Pod stromkem nic nebude, ale buchtu doma upečeš za hodinu a druhý den chutná ještě líp, protože se karamel vsákne do těsta. Podává se po kostkách, nejlépe s čajem."
+  ],
+  "price": 7900,
+  "image": "dish-buchta-orgasmus",
+  "recipe": "buchta-orgasmus",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 905
+}

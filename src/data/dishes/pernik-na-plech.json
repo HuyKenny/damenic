@@ -1,0 +1,25 @@
+{
+  "name": "Vláčný perník z plechu",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Řezy z plechu",
+  "description": "Tmavý medový perník z plechu, potřený džemem a krájený na čtverce. Vitrína je prázdná, plech ne.",
+  "about": [
+    "Perník z plechu je jednoduchý a vydatný: mouka, med, kakao a perníkové koření, těsto řídké jako hustá smetana a asi třicet pět minut v troubě. Po upečení se potře džemem a přikryje utěrkou, aby zůstal vláčný.",
+    "V prázdné vitríně nic neleží, a tak je perník aspoň na papíře první. Kdo ho chce upéct doopravdy, má recept a stačí jedna mísa."
+  ],
+  "price": 6900,
+  "image": "dish-pernik-na-plech",
+  "recipe": "pernik-na-plech",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 1202
+}

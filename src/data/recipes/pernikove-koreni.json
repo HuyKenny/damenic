@@ -1,0 +1,115 @@
+{
+  "title": "Domácí perníkové koření",
+  "keywords": [
+    "perníkové koření",
+    "perníkové koření recept",
+    "domácí perníkové koření",
+    "perníkové koření složení"
+  ],
+  "intro": "Domácí perníkové koření je směs mletých koření, kterou si namícháš ze skořice, zázvoru, hřebíčku, nového koření, kardamomu a muškátového oříšku. Z jedné dávky vyjde asi 6 lžic, což stačí na dvě až tři dávky perníčků. Domácí směs je voňavější než kupovaná, protože si koření rozemeleš čerstvé.",
+  "category": "pekarna",
+  "servings": 12,
+  "activeMinutes": 10,
+  "cookMinutes": 0,
+  "waitMinutes": 0,
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "ingredients": [
+    {
+      "ingredient": "skorice",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "mletá",
+      "group": "Směs"
+    },
+    {
+      "ingredient": "zazvor-mlety",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Směs"
+    },
+    {
+      "ingredient": "hrebicek",
+      "amount": 8,
+      "unit": "ks",
+      "note": "celé",
+      "group": "Směs"
+    },
+    {
+      "ingredient": "nove-koreni",
+      "amount": 12,
+      "unit": "ks",
+      "note": "celé kuličky",
+      "group": "Směs"
+    },
+    {
+      "ingredient": "kardamom",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "mletý",
+      "group": "Směs"
+    },
+    {
+      "ingredient": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "lzicka",
+      "note": "čerstvě nastrouhaný",
+      "group": "Směs"
+    },
+    {
+      "ingredient": "pepr",
+      "amount": 0.5,
+      "unit": "lzicka",
+      "note": "mletý černý",
+      "group": "Směs"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Pražení",
+      "text": "Celý hřebíček a nové koření krátce opraž na suché pánvi na středním plameni asi 1 minutu, až zavoní. Koření nesmí zhnědnout, jinak zhořkne. Nech 5 minut vychladnout."
+    },
+    {
+      "section": "Mletí",
+      "text": "Opražené koření rozemel v hmoždíři nebo mlýnku na koření na jemný prášek. Na hmoždíři potřebuješ asi 3 minuty. Prosej přes jemné sítko, hrubé zbytky znovu rozemel."
+    },
+    {
+      "section": "Míchání",
+      "text": "K mletému koření přidej skořici, zázvor, kardamom, muškát a pepř. Směs důkladně promíchej, nejlépe ve sklenici s víčkem, kterou protřepeš."
+    },
+    {
+      "section": "Uskladnění",
+      "text": "Směs ulož do čisté suché sklenice s víčkem a označ datem. Při chladu a tmě vydrží 6 měsíců, ale nejsilnější vůni má první 2 měsíce. Na perník dávej 1 až 2 lžíce na 500 g mouky."
+    }
+  ],
+  "tips": [
+    "Směs namíchej koncem listopadu, než začneš péct perníčky. Čerstvě namleté koření má nejsilnější vůni.",
+    "Neuchovávej ji nad sporákem, teplo a pára aroma rychle zničí.",
+    "Hotová směs jde i do svařeného vína, kávy nebo mléka na Vánoce."
+  ],
+  "substitutions": [
+    "Pokud nemáš celý hřebíček a nové koření, použij mleté: půl lžičky hřebíčku a lžičku nového koření.",
+    "Kardamom můžeš vynechat nebo nahradit špetkou koriandru."
+  ],
+  "faq": [
+    {
+      "q": "Z čeho se skládá perníkové koření?",
+      "a": "Typicky ze skořice, zázvoru, hřebíčku, nového koření, kardamomu a muškátového oříšku. Poměry si můžeš upravit podle chuti."
+    },
+    {
+      "q": "Kolik perníkového koření dát do těsta?",
+      "a": "Na 500 g mouky obvykle 1 až 2 lžíce směsi. Do bábovky nebo jemného těsta stačí méně."
+    },
+    {
+      "q": "Jak dlouho vydrží domácí perníkové koření?",
+      "a": "Asi 6 měsíců v uzavřené sklenici na tmavém místě. Nejvíc voní první dva měsíce."
+    }
+  ],
+  "image": "dish-pernikove-koreni",
+  "alcohol": false,
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ]
+}

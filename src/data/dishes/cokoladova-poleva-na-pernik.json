@@ -1,0 +1,23 @@
+{
+  "name": "Čokoládová poleva na perník",
+  "restaurant": "cukrarna-pod-stromkem-nic",
+  "kind": "main",
+  "section": "Z trouby",
+  "description": "Lesklá poleva z hořké čokolády a smetany, která drží na perníku. Pod stromkem nic, na plechu poleva.",
+  "about": [
+    "Poleva je z hořké čokolády, smetany, másla a lžíce medu. Smetana se zahřeje těsně pod bod varu, zalije čokoládu a po minutě se rozmíchá do lesklé hladké hmoty. Na perník se klade ochlazená, ale ještě tekutá.",
+    "Pod stromkem nic, ale lesk si můžeš vyrobit sám. Hlavní pravidlo: perník musí být vychladlý, jinak poleva steče."
+  ],
+  "price": 4900,
+  "image": "dish-cokoladova-poleva-na-pernik",
+  "recipe": "cokoladova-poleva-na-pernik",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    7
+  ],
+  "featured": false,
+  "order": 1205
+}

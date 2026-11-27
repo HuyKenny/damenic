@@ -1,0 +1,25 @@
+{
+  "name": "Olejová bábovka",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Krémové a ovocné",
+  "description": "Vláčná bábovka na oleji, vyklopená z formy a posypaná moučkovým cukrem. Patro žádné, bábovka vysoká.",
+  "about": [
+    "Olejová bábovka je těsto, které se míchá jen metlou: vejce, cukr, olej, mléko a mouka s práškem do pečiva. Bez másla je měkká i čtvrtý den a hodí se k čaji i na sváteční stůl.",
+    "Dortárna nemá žádné patro, ale tahle bábovka je vysoká dost. Důležité je poctivě vymazat formu a nechat bábovku deset minut odpočinout, než se vyklopí."
+  ],
+  "price": 6900,
+  "image": "dish-olejova-babovka",
+  "recipe": "olejova-babovka",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 1210
+}

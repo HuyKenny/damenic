@@ -1,0 +1,25 @@
+{
+  "name": "Nepečené kakaové kuličky z piškotů",
+  "restaurant": "dortarna-ani-patro",
+  "kind": "main",
+  "section": "Malé sladké",
+  "description": "Kakaové kuličky z drcených piškotů obalené kokosem. Nic se nepeče a nic se nedoručuje.",
+  "about": [
+    "Nepečené kuličky se dělají z drcených dětských piškotů, kakaa a rozpuštěného másla. Obalují se v kokosu a tuhnou v lednici.",
+    "Nepotřebuješ troubu ani trpělivost při válení těsta. Dortárna je smyšlená a nic nepřiveze, ale kuličky jsou skutečné a hodí se i pro děti."
+  ],
+  "price": 7900,
+  "image": "dish-nepecene-cukrovi",
+  "recipe": "nepecene-cukrovi",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 9111
+}

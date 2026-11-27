@@ -1,0 +1,26 @@
+{
+  "name": "Mandlová štola s marcipánem",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Štrúdl a dorty",
+  "description": "Kynutá štola s rozinkami, mandlemi a marcipánovým válečkem, obalená v cukru. Dort tu není, štola ano.",
+  "about": [
+    "Štola je kynutá, máslová a plná rozinek, mandlí a kandovaného ovoce. Uprostřed leží váleček marcipánu, který se při krájení ukáže jako zlatý pruh. Po upečení se potře máslem a obalí moučkovým cukrem.",
+    "Chce to čas: dvakrát kynout, upéct a hlavně nechat odležet. Čerstvou štolu nikdo nekrájí, protože se po týdnu zlepší. Nedortík ti ji nepošle, ale recept je pravý."
+  ],
+  "price": 8900,
+  "image": "dish-mandlova-stola",
+  "recipe": "mandlova-stola",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "featured": false,
+  "order": 1207
+}

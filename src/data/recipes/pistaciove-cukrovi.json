@@ -1,0 +1,121 @@
+{
+  "title": "Pistáciové cukroví s bílou čokoládou",
+  "keywords": [
+    "pistáciové cukroví",
+    "pistaciove cukrovi",
+    "pistáciové cukroví recept",
+    "pistáciové linecké"
+  ],
+  "intro": "Pistáciové cukroví je křehké těsto s mletými pistáciemi, slepené krémem z bílé čokolády. Z dávky vyjde asi 40 slepených kousků o průměru 4 cm. Pistácie jsou drahé, takže jednu dávku mletých vychutnáš v klidu; upeč je 2 týdny před Vánoci.",
+  "image": "dish-pistaciove-cukrovi",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 75,
+  "cookMinutes": 24,
+  "waitMinutes": 90,
+  "waitLabel": "odpočinek těsta a ztuhnutí náplně",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "alcohol": false,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "pistacie",
+      "amount": 100,
+      "unit": "g",
+      "note": "loupané, nesolené, jemně mleté",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 90,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "žloutek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "bila-cokolada",
+      "amount": 100,
+      "unit": "g",
+      "note": "nasekaná",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "smetana-slehacka",
+      "amount": 40,
+      "unit": "ml",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "pistacie",
+      "amount": 20,
+      "unit": "g",
+      "note": "nahrubo nasekané na posyp",
+      "group": "Náplň"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Promíchej mouku, mleté pistácie a moučkový cukr. Přidej studené máslo a žloutek a rychle zpracuj v hladké těsto. Zabal ho do fólie a nech 1 hodinu v lednici."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto rozválej na 3 mm a vykrajuj kolečka o průměru 4 cm. Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 155 °C). Peč 10 až 12 minut. Kolečka jsou hotová, když okraje začnou jen lehce nabírat barvu. Nech vychladnout na plechu."
+    },
+    {
+      "section": "Náplň",
+      "text": "Smetanu zahřej těsně k varu, vlij ji na nasekanou bílou čokoládu a nech minutu stát. Pak hladce rozmíchej. Nech zchladnout a ztuhnout v lednici 1 hodinu do konzistence zahuštěného krému."
+    },
+    {
+      "section": "Slepení",
+      "text": "Náplň nanes na polovinu koleček, přiklop zbylými a lehce stiskni. Okraje obal v nasekaných pistáciích. Nech 1 hodinu v lednici ztuhnout."
+    }
+  ],
+  "tips": [
+    "Pistácie mel těsně před použitím, rychle se olejují. Mixér pulzuj po sekundách, aby se nezměnily na pastu.",
+    "Se smetanovou náplní patří cukroví do lednice. V uzavřené krabici vydrží 7 dní; bez náplně 3 týdny v plechovce.",
+    "Pokud se těsto drolí, přidej při zpracování lžíci studeného mléka."
+  ],
+  "substitutions": [
+    "Pistácie lze nahradit stejným množstvím mletých mandlí, pak je cukroví levnější, ale chuť bude jemnější.",
+    "Bílou čokoládu nahradíš mléčnou, bude sladší a tmavší."
+  ],
+  "faq": [
+    {
+      "q": "Jak se dělá pistáciové cukroví?",
+      "a": "Z mouky, másla a mletých pistácií zaděláš křehké těsto, vykrájíš a upečeš kolečka a slepíš je krémem z bílé čokolády."
+    },
+    {
+      "q": "Kdy péct pistáciové cukroví?",
+      "a": "Dva týdny před Vánoci. Bez náplně vydrží v plechovce 3 týdny, s náplní ho dej do lednice."
+    },
+    {
+      "q": "Kde vzít pistácie na cukroví?",
+      "a": "Kup loupané nesolené pistácie v sáčku; solené a pražené by těsto přesolily. Mleté pistácie rychle žlukne, proto je melu až doma."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Nepečené cukroví z piškotů a kakaa",
+  "keywords": [
+    "nepečené cukroví",
+    "nepecene cukrovi",
+    "nepečené cukroví recept",
+    "nepečené cukroví z piškotů"
+  ],
+  "intro": "Nepečené cukroví z piškotů a kakaa jsou kuličky z rozdrcených dětských piškotů, kakaa a rozpuštěného másla, obalené v kokosu. Z dávky vyjde asi 35 kuliček o průměru 3 cm. Nepečou se, jen ztuhnou v lednici, takže jde o nejrychlejší vánoční cukroví a hodí se i pro děti.",
+  "image": "dish-nepecene-cukrovi",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 35,
+  "cookMinutes": 0,
+  "waitMinutes": 120,
+  "waitLabel": "ztuhnutí v lednici",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "alcohol": false,
+  "ingredients": [
+    {
+      "ingredient": "piskoty-detske",
+      "amount": 200,
+      "unit": "g",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 3,
+      "unit": "lzice",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 80,
+      "unit": "ml",
+      "note": "teplé",
+      "group": "Hmota"
+    },
+    {
+      "ingredient": "kokos-strouhany",
+      "amount": 50,
+      "unit": "g",
+      "note": "na obalení",
+      "group": "Obalení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Piškoty",
+      "text": "Piškoty rozdrť v mixéru nebo v sáčku válečkem na jemnou drobenku. Smíchej s moučkovým cukrem a kakaem v míse."
+    },
+    {
+      "section": "Hmota",
+      "text": "Máslo rozpusť a nech mírně zchladnout. Přidej ho spolu s teplým mlékem k drobence a promíchej. Hmota musí držet tvar po stisknutí v dlani; pokud se drolí, přidej lžíci mléka."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Z hmoty tvaruj kuličky o průměru 3 cm a obaluj je v kokosu. Ukládej na talíř nebo prkénko."
+    },
+    {
+      "section": "Ztuhnutí",
+      "text": "Kuličky dej na 2 hodiny do lednice ztuhnout, než je podáš. Uchovávej v lednici v uzavřené krabici."
+    }
+  ],
+  "tips": [
+    "Nepečené cukroví s máslem a mlékem patří do lednice. V uzavřené krabici vydrží 5 až 7 dní.",
+    "Kuličky bez alkoholu a bez pečení se hodí i k přípravě s dětmi, tvarují se rukama.",
+    "Pokud je hmota moc řídká, přidej lžíci kakaa nebo rozdrcených piškotů."
+  ],
+  "substitutions": [
+    "Kokos nahradíš sekanými ořechy nebo kakaem.",
+    "Dětské piškoty nahradíš jemnými sušenkami, ale zkontroluj množství cukru."
+  ],
+  "faq": [
+    {
+      "q": "Jak se dělá nepečené cukroví?",
+      "a": "Rozdrtíš piškoty, smícháš je s kakaem, cukrem, rozpuštěným máslem a mlékem a tvaruješ kuličky, které ztuhnou v lednici."
+    },
+    {
+      "q": "Jak dlouho vydrží nepečené cukroví?",
+      "a": "V lednici v uzavřené krabici 5 až 7 dní, protože obsahuje máslo a mléko."
+    },
+    {
+      "q": "Kdy dělat nepečené cukroví na Vánoce?",
+      "a": "Nejlépe 2 až 3 dny před podáváním. Kuličky nejsou na dlouhé skladování."
+    }
+  ]
+}

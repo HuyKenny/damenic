@@ -1,0 +1,141 @@
+{
+  "title": "Mrkvová buchta na plech",
+  "keywords": [
+    "mrkvová buchta",
+    "mrkvová buchta recept",
+    "mrkvová buchta s ořechy",
+    "recept na mrkvovou buchtu"
+  ],
+  "intro": "Mrkvová buchta na plech je vláčná buchta ze strouhané mrkve, oleje a vlašských ořechů, která zůstane šťavnatá několik dní. Z plechu 22 × 30 cm vyjde asi 15 kousků. Těsto se míchá lžící v jedné míse a buchta se jen lehce pocukruje nebo potře citronovou polevou.",
+  "image": "dish-mrkvova-buchta",
+  "category": "dezerty",
+  "servings": 8,
+  "activeMinutes": 20,
+  "cookMinutes": 35,
+  "waitMinutes": 60,
+  "waitLabel": "vychladnutí buchty",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "alcohol": false,
+  "occasions": [
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mrkev",
+      "amount": 300,
+      "unit": "g",
+      "note": "jemně nastrouhaná",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 180,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vlasske-orechy",
+      "amount": 80,
+      "unit": "g",
+      "note": "nahrubo nasekané",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen 2 lžíce šťávy",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 165 °C). Plech 22 × 30 cm vyložený pečicím papírem je připravený."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vejce šlehej s cukrem a špetkou soli asi 3 minuty, dokud nezesvětlí a nezhoustne. Přilévej olej po částech a dál šlehej."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej s práškem do pečiva a skořicí a po lžících vmíchej do vaječné směsi. Nakonec zamíchej mrkev a ořechy. Těsto je husté, ale lije se z lžíce."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto rozetři do plechu a peč 30 až 35 minut. Buchta je hotová, když povrch zezlátne a párátko zapíchnuté doprostřed vyjde suché. Nech ji na plechu úplně vychladnout."
+    },
+    {
+      "section": "Poleva",
+      "text": "Moučkový cukr rozmíchej s citronovou šťávou na hustou polevu, která se lije z lžíce. Rozetři ji na vychladlou buchtu, nech zaschnout 15 minut a nakrájej."
+    }
+  ],
+  "tips": [
+    "Mrkev strouhej na jemném struhadle. Hrubé třísky zůstanou v těstě tvrdé a buchta se hůř krájí.",
+    "Buchta vydrží 4 až 5 dní v krabici na chladném místě, olej v těstě ji drží vláčnou. Bez polevy ji můžeš zamrazit až na měsíc.",
+    "Do těsta se hodí hrst rozinek namočených v teplé vodě a dobře okapaných."
+  ],
+  "substitutions": [
+    "Vlašské ořechy nahradíš mandlemi nebo lískovými oříšky, případně je vynecháš a přidáš 50 g strouhaného kokosu.",
+    "Polevu nahradíš samotným moučkovým cukrem, kterým buchtu po vychladnutí posypeš."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho péct mrkvovou buchtu na plech?",
+      "a": "Při 180 °C horní a spodní ohřev 30 až 35 minut. Hotovo je, když párátko vyjde suché a povrch je zlatý."
+    },
+    {
+      "q": "Proč je mrkvová buchta vláčná?",
+      "a": "Mrkev při pečení uvolňuje vodu a olej v těstě nenechá buchtu vyschnout. Proto vydrží vláčná několik dní."
+    },
+    {
+      "q": "Dá se mrkvová buchta zamrazit?",
+      "a": "Ano, bez polevy ji zabal do fólie a zamraz na měsíc. Rozmrazuj ji v lednici přes noc a polevu přidej až potom."
+    }
+  ]
+}

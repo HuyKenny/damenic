@@ -1,0 +1,165 @@
+{
+  "title": "Mandlová štola s marcipánem",
+  "keywords": [
+    "štola",
+    "vánoční štola",
+    "štola recept",
+    "mandlová štola",
+    "štola s marcipánem"
+  ],
+  "intro": "Mandlová štola s marcipánem je kynutá vánoční štola z droždí s rozinkami, mandlemi a kandovaným ovocem, uprostřed s válečkem z marcipánu. Z jedné dávky vyjde jedna štola o váze asi 900 g, tedy asi 12 kousků. Štolu je dobré upéct 1 až 2 týdny před Vánoci, protože po zabalení a odležení je mnohem lepší než čerstvá.",
+  "category": "pekarna",
+  "servings": 12,
+  "activeMinutes": 60,
+  "cookMinutes": 45,
+  "waitMinutes": 180,
+  "waitLabel": "kynutí těsta a odležení štoly",
+  "difficulty": "náročnější",
+  "meal": "dezert",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 500,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "drozdi",
+      "amount": 42,
+      "unit": "g",
+      "note": "1 kostka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 150,
+      "unit": "ml",
+      "note": "vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 60,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "změklé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen kůra",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "rozinky",
+      "amount": 100,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "mandle",
+      "amount": 80,
+      "unit": "g",
+      "note": "nasekané",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "kandovane-ovoce",
+      "amount": 60,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "marcipan",
+      "amount": 150,
+      "unit": "g",
+      "note": "na váleček",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "rozpuštěné, na potření",
+      "group": "Dokončení"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 80,
+      "unit": "g",
+      "note": "na obalení",
+      "group": "Dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Kvásek",
+      "text": "Droždí rozdrob do vlažného mléka s lžičkou cukru a nech 10 minut vzejít, až se na povrchu tvoří pěna. Rozinky zalij horkou vodou na 10 minut, pak je scedi a osuš."
+    },
+    {
+      "section": "Těsto",
+      "text": "Mouku smíchej se solí, zbytkem cukru a citronovou kůrou. Přidej kvásek, vejce a změklé máslo a vypracuj hladké těsto, asi 8 minut. Vmíchej rozinky, mandle a kandované ovoce. Přikryj a nech 1 hodinu kynout na teplém místě, až zdvojnásobí objem."
+    },
+    {
+      "section": "Tvarování",
+      "text": "Těsto rozválej na obdélník asi 30 × 20 cm. Marcipán vytvaruj do válečku dlouhého 25 cm a polož ho podél delší strany. Těsto přeložit přes marcipán a okraj přitlač. Štolu polož na plech s pečicím papírem a nech ještě 30 minut kynout."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 165 °C). Štolu peč 40 až 45 minut. Po 25 minutách ji přikryj alobalem, aby neztmavla. Hotová je, když je zlatohnědá a při poklepu na spodek zní dutě."
+    },
+    {
+      "section": "Dokončení",
+      "text": "Horkou štolu hned celou potři rozpuštěným máslem a opatrně ji obal v moučkovém cukru. Nech ji zcela vychladnout, zabal do fólie a nech aspoň 3 dny odležet. Nekrájej ji čerstvou."
+    }
+  ],
+  "tips": [
+    "Upeč štolu 1 až 2 týdny před Vánoci. Zabalená do fólie a v chladu vydrží 3 až 4 týdny a po 5 dnech je nejchutnější.",
+    "Máslo a cukr na povrchu vytvoří ochranu proti vysychání; potřít a obalit musíš hned, dokud je štola horká.",
+    "Pokud se těsto těžko mísí, nech ho 10 minut odpočinout, mouka nasákne a těsto se stane poddajnější."
+  ],
+  "substitutions": [
+    "Rozinky můžeš na noc namočit do pomerančové šťávy místo vody.",
+    "Kandované ovoce nahraď sušenými brusinkami nebo nasekanými sušenými meruňkami."
+  ],
+  "faq": [
+    {
+      "q": "Kdy péct vánoční štolu?",
+      "a": "Nejlépe 1 až 2 týdny před Vánoci. Štola v zabaleném stavu zraje a po týdnu je chuť výraznější."
+    },
+    {
+      "q": "Jak dlouho vydrží štola?",
+      "a": "Zabalená ve fólii v chladné místnosti 3 až 4 týdny. V teple nebo nezabalená vysychá rychleji."
+    },
+    {
+      "q": "Proč se štola krájí až po několika dnech?",
+      "a": "Čerstvá je těžká a drobivá. Po odležení se máslo a cukr vsákne, těsto zvláční a štola se dá krájet na tenké plátky."
+    }
+  ],
+  "image": "dish-mandlova-stola",
+  "alcohol": false,
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ]
+}

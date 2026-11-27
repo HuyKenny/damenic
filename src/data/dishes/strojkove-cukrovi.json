@@ -1,0 +1,25 @@
+{
+  "name": "Strojkové cukroví",
+  "restaurant": "cukrarna-nedortik",
+  "kind": "main",
+  "section": "Ke kávě",
+  "description": "Máslové věnečky a tyčinky vytlačené strojkem a ozdobené čokoládou. Cukrářna je smyšlená, strojek skutečný.",
+  "about": [
+    "Strojkové cukroví se dělá z měkkého máslového těsta, které se strojkem vytlačuje na plech. Šablon bývá víc a každá dává jiný tvar: hvězdičky, věnečky, tyčinky nebo srdíčka.",
+    "Peče se jen krátce, aby zůstalo světlé. Ozdobí se čokoládou nebo džemem. Nic nepřivezeme, ale recept i strojek jsou skutečné; kdo ho doma nemá, může použít cukrářský sáček s hvězdicovou špičkou."
+  ],
+  "price": 8900,
+  "image": "dish-strojkove-cukrovi",
+  "recipe": "strojkove-cukrovi",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 9102
+}

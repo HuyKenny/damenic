@@ -1,0 +1,108 @@
+{
+  "title": "Žloutkové cukroví: žloutková kolečka s džemem",
+  "keywords": [
+    "žloutkové cukroví",
+    "žloutkové cukroví recept",
+    "cukroví ze žloutků",
+    "co se žloutky"
+  ],
+  "intro": "Žloutkové cukroví jsou křehká kolečka ze čtyř žloutků, mouky a másla, slepená džemem; hodí se, když ti po bílkovém cukroví zbydou žloutky. Z dávky vyjde asi 40 slepených kousků o průměru 4 cm. Těsto je dost pevné a tvaruje se výborně.",
+  "image": "dish-zlutkove-cukrovi",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 70,
+  "cookMinutes": 24,
+  "waitMinutes": 60,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "alcohol": false,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "jen žloutky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "dzem-merunkovy",
+      "amount": 120,
+      "unit": "g",
+      "note": "na slepení",
+      "group": "Plnění"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na posyp",
+      "group": "Plnění"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Prosátou mouku smíchej s moučkovým cukrem. Přidej studené máslo na kostičky a žloutky a rychle zpracuj v hladké těsto. Zabal ho do fólie a nech 1 hodinu v lednici."
+    },
+    {
+      "section": "Vykrajování",
+      "text": "Těsto rozválej na 3 mm na pomoučené desce a vykrajuj kolečka o průměru 4 cm. U poloviny koleček vykroj dírku."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 160 °C). Peč 8 až 10 minut do světle zlatých okrajů. Nech vychladnout na plechu."
+    },
+    {
+      "section": "Slepení",
+      "text": "Meruňkový džem prohřej a natři na celá kolečka. Přiklop kolečky s dírkou a posyp moučkovým cukrem."
+    }
+  ],
+  "tips": [
+    "Nepoužité žloutky přikryj trochou vody a uchovej v lednici nejvýše 2 dny.",
+    "V plechovce vydrží 3 týdny. Slepené je nejlepší po 2 dnech, kdy změkne.",
+    "Žloutkové těsto je světle žluté. Přepečené hnědne rychle a hořkne."
+  ],
+  "substitutions": [
+    "Meruňkový džem nahradíš rybízovým.",
+    "Do těsta přidáš kůru z citronu."
+  ],
+  "faq": [
+    {
+      "q": "Co se žloutky po upečení bílkového cukroví?",
+      "a": "Žloutková kolečka. Žloutky se zapracují do másla a mouky a upečou do světla."
+    },
+    {
+      "q": "Jak dlouho vydrží žloutkové cukroví?",
+      "a": "V plechovce na chladném místě 3 týdny."
+    },
+    {
+      "q": "Jak se dělá žloutkové cukroví?",
+      "a": "Z mouky, másla a žloutků uděláš křehké těsto, vykrájíš kolečka a po upečení je slepíš džemem."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Išelské cukroví s rybízovým džemem a čokoládou",
+  "keywords": [
+    "išelské cukroví",
+    "išelské cukroví recept",
+    "išelské koláčky recept",
+    "recept na išelské cukroví"
+  ],
+  "intro": "Išelské cukroví je ořechové křehké těsto, ze kterého se vykrajují kolečka, slepují se rybízovým džemem a polévají čokoládou. Z dávky vyjde asi 40 slepených kousků o průměru 4 cm. Upeč je 2 až 3 týdny před Vánoci a nech je v plechovce přes noc změknout.",
+  "image": "dish-isalske-cukrovi",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 80,
+  "cookMinutes": 24,
+  "waitMinutes": 60,
+  "waitLabel": "odpočinek těsta v lednici",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "alcohol": false,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "liskove-orechy",
+      "amount": 100,
+      "unit": "g",
+      "note": "jemně mleté",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "studené, na kostičky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "jen žloutky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "dzem-rybizovy",
+      "amount": 120,
+      "unit": "g",
+      "note": "bez kousků",
+      "group": "Plnění a poleva"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "note": "nahrubo nasekaná",
+      "group": "Plnění a poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Promíchej mouku, mleté lískové oříšky a moučkový cukr. Přidej studené máslo na kostičky a žloutky a rychle zpracuj v hladké těsto. Zabal ho do fólie a nech 1 hodinu v lednici."
+    },
+    {
+      "section": "Vykrajování",
+      "text": "Těsto rozválej na pomoučené desce na tloušťku 3 mm a vykrajuj kolečka o průměru 4 cm. Polovinu koleček uprostřed vykroj malou formičkou, aby vznikly horní díly s dírkou. Odřezky zpracuj jen jednou, jinak ztvrdnou."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 175 °C horní a spodní ohřev (horkovzduch 160 °C). Kolečka peč na plechu s pečicím papírem 10 až 12 minut. Jsou hotová, když jsou okraje světle zlatavé; střed zůstane skoro bílý. Nech je vychladnout na plechu."
+    },
+    {
+      "section": "Slepení",
+      "text": "Džem krátce prohřej, aby byl řidší, a natři ho na celá kolečka. Přiklop je kolečky s dírkou a lehce přitiskni."
+    },
+    {
+      "section": "Poleva",
+      "text": "Čokoládu rozpusť ve vodní lázni, bez varu. Do čokolády namoč jen okraj nebo celé cukroví a nech zaschnout na papíru asi 1 hodinu."
+    }
+  ],
+  "tips": [
+    "Cukroví je křehké hned po upečení. Slepené nech přes noc v plechovce, džem do těsta trochu zatáhne a cukroví změkne akorát.",
+    "Ve vzduchotěsné plechovce vydrží 2 až 3 týdny. Čím dýl leží slepené, tím je měkčí, takže slepuj nejpozději týden před Vánoci.",
+    "Pokud se těsto při válení lepí, vrať ho na 15 minut do lednice. Moučkou ho nepřesypávej, zhoršuje křehkost."
+  ],
+  "substitutions": [
+    "Lískové oříšky nahradíš stejným množstvím mletých mandlí nebo vlašských ořechů.",
+    "Rybízový džem můžeš vyměnit za meruňkový, ten je sladší."
+  ],
+  "faq": [
+    {
+      "q": "Jak se dělá išelské cukroví?",
+      "a": "Z lískových oříšků, mouky, másla a žloutků zaděláš křehké těsto, vykrájíš kolečka, upečeš je a slepíš džemem. Horní díly mají uprostřed dírku, aby džem vykoukl."
+    },
+    {
+      "q": "Kdy péct išelské cukroví na Vánoce?",
+      "a": "Nejlépe 2 až 3 týdny předem. Vydrží v plechovce celý prosinec a po slepení krásně změkne."
+    },
+    {
+      "q": "Jak dlouho vydrží išelské koláčky?",
+      "a": "Ve vzduchotěsné plechovce na chladném místě 2 až 3 týdny. Po tomto čase se začnou kazit hlavně džemem a ořechy."
+    }
+  ]
+}

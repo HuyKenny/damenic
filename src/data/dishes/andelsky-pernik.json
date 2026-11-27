@@ -1,0 +1,25 @@
+{
+  "name": "Andělský perník s citronovou polevou",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "K dezertu",
+  "description": "Světlý nadýchaný perník se sněhem z bílků a citronovou polevou. Je lehký jako slib, že přijede.",
+  "about": [
+    "Andělský perník je světlá a vzdušná varianta perníku. Těsto je z másla, medu a mouky, ale hlavní roli hraje vyšlehaný sníh z bílků, který ho nadzvedne. Peče se asi půl hodiny na plechu a hotový perník se polévá citronovou polevou.",
+    "Sladké nic ti ho nepošle, ale recept funguje na první dobrou. Jen s tím sněhem zacházej lehce, protože nadýchané těsto neodpustí tvrdé míchání."
+  ],
+  "price": 7900,
+  "image": "dish-andelsky-pernik",
+  "recipe": "andelsky-pernik",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 1201
+}

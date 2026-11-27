@@ -1,0 +1,25 @@
+{
+  "name": "Makové linecké cukroví s povidly",
+  "restaurant": "sladke-nic",
+  "kind": "main",
+  "section": "K dezertu",
+  "description": "Tmavá makovo-linecká kolečka slepená švestkovými povidly. Restaurace je nanečisto, mák skutečný.",
+  "about": [
+    "Makové linecké cukroví je tmavé, voní mákem a švestkami. Těsto je klasické linecké, jen ho mák zbarví a dodá mu lehce kyselou chuť.",
+    "Slepuje se povidly, která dodají vlhkost a sladkost. Nic nedoručujeme, ale recept je skutečný a krátký, stačí mouka, máslo, mák a povidla."
+  ],
+  "price": 8900,
+  "image": "dish-makove-linecke-cukrovi",
+  "recipe": "makove-linecke-cukrovi",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 9107
+}

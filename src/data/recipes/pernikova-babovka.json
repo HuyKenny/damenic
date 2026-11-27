@@ -1,0 +1,151 @@
+{
+  "title": "Perníková bábovka",
+  "keywords": [
+    "perníková bábovka",
+    "perníková bábovka recept",
+    "recept na perníkovou bábovku",
+    "bábovka s perníkovým kořením"
+  ],
+  "intro": "Perníková bábovka je vláčná kořeněná bábovka s medem a kakaem, která se peče ve formě s komínem a po vychladnutí se polévá čokoládovou polevou. Z jedné dávky vyjde bábovka na asi 12 kousků. Je ideální na vánoční stůl, protože se dá upéct o dva až tři dny dřív a po uležení bývá ještě lepší.",
+  "category": "dezerty",
+  "servings": 12,
+  "activeMinutes": 25,
+  "cookMinutes": 55,
+  "waitMinutes": 90,
+  "waitLabel": "chladnutí bábovky a tuhnutí polevy",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 10,
+      "unit": "g",
+      "note": "1 balíček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "pernikove-koreni",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "kakao",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "med",
+      "amount": 3,
+      "unit": "lzice",
+      "note": "tekutý",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 200,
+      "unit": "ml",
+      "note": "vlažné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 120,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na vymazání formy",
+      "group": "Forma"
+    },
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na vysypání formy",
+      "group": "Forma"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Poleva"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Poleva"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 170 °C horní a spodní ohřev (horkovzduch 150 °C). Formu na bábovku o objemu asi 2 litry vymaž máslem a vysyp moukou. Ve velké míse promíchej mouku, prášek do pečiva, perníkové koření a kakao."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vejce vyšlehej s cukrem do světlé pěny, asi 3 minuty. Přidej med, mléko a olej a promíchej. Suché suroviny zamíchej metlou jen do spojení, aby těsto nebylo hrudkovité; nemusí být úplně hladké."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto nalij do formy a peč na nižší polovině trouby 50 až 55 minut. Bábovka je hotová, když špejle zapíchnutá doprostřed vyjde suchá a vršek je pevný na dotek. Ve formě nech 10 minut odpočinout a pak ji vyklop na mřížku."
+    },
+    {
+      "section": "Poleva",
+      "text": "Vychladlou bábovku polij čokoládovou polevou. Čokoládu nalámej, rozpusť ve vodní lázni s lžící oleje, nech 2 minuty zchladnout a nalij na bábovku. Poleva ztuhne za asi hodinu."
+    }
+  ],
+  "tips": [
+    "Bábovku peč 2 až 3 dny před podáváním, koření se v těstě rozleží a chuť je kulatější.",
+    "V zakryté dóze nebo zabalená do fólie vydrží 5 až 6 dní na chladném místě. Nejlépe se krájí druhý den.",
+    "Když forma po vyklopení drží, přilož na ni na pár minut studenou mokrou utěrku, těsto povolí."
+  ],
+  "substitutions": [
+    "Perníkové koření si můžeš namíchat podle receptu na domácí perníkové koření, nebo použít 1 lžičku skořice, půl lžičky mletého zázvoru a špetku hřebíčku.",
+    "Med nahraď javorovým sirupem nebo stejným množstvím cukru; bábovka bude světlejší."
+  ],
+  "faq": [
+    {
+      "q": "Jak dlouho se peče perníková bábovka?",
+      "a": "Asi 50 až 55 minut při 170 °C ve formě o objemu 2 litry. Konec pečení poznáš špejlí, která musí vyjít suchá."
+    },
+    {
+      "q": "Dá se perníková bábovka upéct dopředu?",
+      "a": "Ano, na Vánoce ji klidně upeč 3 dny předem a nech zabalenou. Polevu přidej až den před podáváním."
+    },
+    {
+      "q": "Proč mi perníková bábovka spadla?",
+      "a": "Nejčastěji se otevřela trouba dřív než po 40 minutách, nebo bylo v těstě moc prášku do pečiva. Drž se 10 g na 300 g mouky."
+    }
+  ],
+  "image": "dish-pernikova-babovka",
+  "alcohol": false,
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ]
+}

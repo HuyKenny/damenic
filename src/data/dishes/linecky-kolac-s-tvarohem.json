@@ -1,0 +1,25 @@
+{
+  "name": "Linecký koláč s tvarohem",
+  "restaurant": "cukrarna-u-prazdne-vitriny",
+  "kind": "main",
+  "section": "Zákusky z vitríny",
+  "description": "Křehký máslový koláč s tvarohovou náplní a mřížkou nahoře. Vitrína je prázdná, koláč na papíře plný.",
+  "about": [
+    "Linecké těsto je z mouky, másla a cukru, tvarohová náplň je s citronovou kůrou a rozinkami. Na tvaroh přijde mřížka z těsta a koláč se peče asi tři čtvrtě hodiny.",
+    "V prázdné vitríně nic neleží, ale tenhle koláč by tam byl první. Nejlepší je po vychladnutí v lednici, kdy se náplň ustálí a krájí se čistě."
+  ],
+  "price": 7900,
+  "image": "dish-linecky-kolac-s-tvarohem",
+  "recipe": "linecky-kolac-s-tvarohem",
+  "optionGroups": [],
+  "vegetarian": true,
+  "vegan": false,
+  "spicy": 0,
+  "allergens": [
+    1,
+    3,
+    7
+  ],
+  "featured": false,
+  "order": 1208
+}

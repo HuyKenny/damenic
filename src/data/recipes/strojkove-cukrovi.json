@@ -1,0 +1,115 @@
+{
+  "title": "Strojkové cukroví ze strojku na cukroví",
+  "keywords": [
+    "strojkové cukroví",
+    "strojek na cukroví",
+    "strojkové cukroví recept",
+    "těsto na strojkové cukroví"
+  ],
+  "intro": "Strojkové cukroví se tvaruje strojkem na cukroví, tedy trubicí s pístem a výměnnými šablonami, ze které se vytlačují věnečky, tyčinky a hvězdičky. Z dávky vyjde asi 60 kousků. Těsto musí být měkké, ne studené, aby šlo strojkem protlačit; proto ho nenech v lednici.",
+  "image": "dish-strojkove-cukrovi",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 60,
+  "cookMinutes": 24,
+  "waitMinutes": 30,
+  "waitLabel": "odpočinek vytlačených tvarů a chladnutí",
+  "difficulty": "střední",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "alcohol": false,
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "maslo",
+      "amount": 200,
+      "unit": "g",
+      "note": "změklé, ne rozpuštěné",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "celé",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-vanilkovy",
+      "amount": 10,
+      "unit": "g",
+      "note": "půl sáčku",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cokolada-horka",
+      "amount": 80,
+      "unit": "g",
+      "note": "na polevu",
+      "group": "Ozdoba"
+    },
+    {
+      "ingredient": "dzem-rybizovy",
+      "amount": 50,
+      "unit": "g",
+      "note": "na ozdobu středů",
+      "group": "Ozdoba"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Těsto",
+      "text": "Změklé máslo vyšlehej s moučkovým a vanilkovým cukrem do světlé hmoty. Přidej vejce a nakonec zapracuj prosátou mouku. Těsto má být hladké a měkké, ne lepivé; pokud je řídké, přidej 1 až 2 lžíce mouky."
+    },
+    {
+      "section": "Plnění strojku",
+      "text": "Těsto vlož do strojku a nasaď šablonu. Plech nech bez pečicího papíru nebo vymazaný jen tenkou vrstvou másla, aby se těsto při vytlačení přichytilo. Vytlačuj tvary s odstupem 2 cm."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 165 °C). Peč 8 až 10 minut do světle zlatavého okraje. Tenké tvary jsou hotové dřív, proto je peč zvlášť."
+    },
+    {
+      "section": "Ozdoba",
+      "text": "Upečené cukroví nech zchladnout na plechu. Konce tyčinek namoč v rozpuštěné čokoládě, věnečky ozdob kapkou džemu uprostřed. Nech zaschnout 30 minut."
+    }
+  ],
+  "tips": [
+    "Pokud se těsto ve strojku sekne, je moc studené nebo moc tuhé. Zahřej ho v dlaních a přidej lžičku mléka.",
+    "Strojkové cukroví vydrží v plechovce 3 týdny. Je křehké hned po upečení a ani po týdnu nezměkne, takže ho nemusíš slepovat.",
+    "Vytlačuj těsto na studený plech. Na teplém se rozpouští máslo a tvary se rozplynou."
+  ],
+  "substitutions": [
+    "Do těsta můžeš přidat 2 lžíce kakaa a ubrat 20 g mouky, vznikne čokoládová verze.",
+    "Čokoládu na polevu nahradíš moučkovým cukrem s citronovou šťávou."
+  ],
+  "faq": [
+    {
+      "q": "Jaké těsto se hodí do strojku na cukroví?",
+      "a": "Měkké máslové těsto s vejcem, které se dá protlačit, ale drží tvar. Klasické linecké těsto je příliš tuhé."
+    },
+    {
+      "q": "Jak se používá strojek na cukroví?",
+      "a": "Naplníš trubici těstem, nasadíš vybranou šablonu a za otáčení klikou nebo stisku vytlačuješ tvary přímo na plech."
+    },
+    {
+      "q": "Kdy péct strojkové cukroví?",
+      "a": "Dva až tři týdny před Vánoci. V plechovce zůstane křehké a dobré celý prosinec."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Cukroví z bílků: skořicové hvězdičky",
+  "keywords": [
+    "cukroví z bílků",
+    "co s bílky",
+    "cukroví z bílků recept",
+    "bílkové cukroví"
+  ],
+  "intro": "Cukroví z bílků jsou skořicové hvězdičky z mletých mandlí a sněhu, které spotřebují čtyři bílky po žloutkovém cukroví. Z dávky vyjde asi 30 hvězdiček o průměru 5 cm. Jsou lepkaté, takže se vykrajují namočeným vykrajovátkem a pečou pozvolna.",
+  "image": "dish-cukrovi-z-bilku",
+  "category": "dezerty",
+  "servings": 10,
+  "activeMinutes": 60,
+  "cookMinutes": 25,
+  "waitMinutes": 60,
+  "waitLabel": "zaschnutí polevy před pečením",
+  "difficulty": "náročnější",
+  "meal": "dezert",
+  "vegetarian": true,
+  "occasions": [
+    "vanocni-cukrovi",
+    "vanoce"
+  ],
+  "alcohol": false,
+  "ingredients": [
+    {
+      "ingredient": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "jen bílky, bez stopy žloutku",
+      "group": "Sníh"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Sníh"
+    },
+    {
+      "ingredient": "mandlova-mouka",
+      "amount": 250,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 2,
+      "unit": "lzicka",
+      "note": "mletá",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 50,
+      "unit": "g",
+      "note": "na podsypání při vykrajování",
+      "group": "Těsto"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Sníh",
+      "text": "Bílky šlehej do tuhého sněhu a postupně přisypávej moučkový cukr. Šlehej ještě 5 minut do lesklé, pevné hmoty. Odeber 4 lžíce sněhu stranou na polevu."
+    },
+    {
+      "section": "Těsto",
+      "text": "Do zbylého sněhu vmíchej mandlovou mouku a skořici. Vznikne lepkavé, ale tvarovatelné těsto; pokud je moc řídké, přidej 1 až 2 lžíce mandlové mouky."
+    },
+    {
+      "section": "Vykrajování",
+      "text": "Pracovní desku a váleček posyp moučkovým cukrem. Těsto rozválej na 7 mm a vykrajuj hvězdičky. Vykrajovátko namáčej v teplé vodě, aby se těsto nelepilo. Hvězdičky ulož na plech s pečicím papírem."
+    },
+    {
+      "section": "Poleva",
+      "text": "Na každou hvězdičku natři vrstvu odloženého sněhu. Nech 1 hodinu zaschnout při pokojové teplotě."
+    },
+    {
+      "section": "Pečení",
+      "text": "Troubu předehřej na 150 °C horní a spodní ohřev (horkovzduch 135 °C). Peč 15 až 18 minut. Hvězdičky jsou hotové, když je poleva suchá a světle zlatá, uvnitř zůstanou měkké. Nech je vychladnout na plechu."
+    }
+  ],
+  "tips": [
+    "Do bílků se nesmí dostat ani kapka žloutku, jinak sníh neztuhne.",
+    "Bílky můžeš do dne před pečením uchovat v lednici v uzavřené nádobce nebo je zamrazit. Před šlehnutím je nech zahřát na pokojovou teplotu.",
+    "Hvězdičky jsou nejlepší po 3 až 4 dnech v plechovce, kdy změknou. Upečené je nech dobře vychladnout. Vydrží 3 až 4 týdny. Na klasické bílkové pusinky máme samostatný recept."
+  ],
+  "substitutions": [
+    "Mandlovou mouku můžeš nahradit mletými lískovými oříšky, hvězdičky budou tmavší.",
+    "Skořici nahradíš pernikovým kořením."
+  ],
+  "faq": [
+    {
+      "q": "Co s bílky po upečení cukroví?",
+      "a": "Udělej z nich skořicové hvězdičky nebo pusinky. Bílky vydrží v lednici 3 dny nebo v mrazáku několik měsíců."
+    },
+    {
+      "q": "Jaké cukroví z bílků je nejsnadnější?",
+      "a": "Pusinky, které se jen šlehají a pečou. Skořicové hvězdičky jsou náročnější kvůli lepkavému těstu, ale chuť je výraznější."
+    },
+    {
+      "q": "Jak dlouho vydrží cukroví z bílků?",
+      "a": "V plechovce 3 až 4 týdny. Hvězdičky z mandlí jsou nejlepší po pár dnech, kdy změknou."
+    }
+  ]
+}

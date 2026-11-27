@@ -1,0 +1,104 @@
+{
+  "title": "Vánoční čaj s pomerančem a hřebíčkem",
+  "keywords": [
+    "vánoční čaj",
+    "vánoční čaj s pomerančem",
+    "zimní čaj",
+    "zimní čaj recept",
+    "vánoční nápoje bez alkoholu"
+  ],
+  "intro": "Vánoční čaj s pomerančem a hřebíčkem je zimní čaj z černého čaje, pomerančových plátků, skořice, hřebíčku a medu, který se louhuje společně. Z dávky vyjde asi 4 hrnky, tedy litr nápoje. Pomeranč zůstává v hrnci jen chvíli, aby čaj nezhořkl.",
+  "image": "dish-vanocni-caj-s-pomerancem",
+  "category": "napoje",
+  "servings": 4,
+  "activeMinutes": 10,
+  "cookMinutes": 10,
+  "waitMinutes": 5,
+  "waitLabel": "louhování",
+  "difficulty": "snadné",
+  "meal": "napoj",
+  "vegetarian": true,
+  "alcohol": false,
+  "occasions": [
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "voda",
+      "amount": 1000,
+      "unit": "ml"
+    },
+    {
+      "ingredient": "caj-cerny",
+      "amount": 3,
+      "unit": "ks",
+      "note": "sáčky nebo 3 lžičky sypaného"
+    },
+    {
+      "ingredient": "pomeranc",
+      "amount": 1,
+      "unit": "ks",
+      "note": "nejlépe nestříkaný, na plátky"
+    },
+    {
+      "ingredient": "skorice-cela",
+      "amount": 1,
+      "unit": "ks",
+      "note": "svitek"
+    },
+    {
+      "ingredient": "hrebicek",
+      "amount": 4,
+      "unit": "ks"
+    },
+    {
+      "ingredient": "zazvor",
+      "amount": 10,
+      "unit": "g",
+      "note": "2 tenké plátky"
+    },
+    {
+      "ingredient": "med",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "podle chuti"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Pomeranč důkladně omyj teplou vodou a nakrájej ho na tenké plátky. Dva plátky na ozdobu odlož stranou."
+    },
+    {
+      "text": "Vodu přiveď v hrnci k varu a stáhni z plotny. Přidej skořici, hřebíček, zázvor a pomerančové plátky. Přikryj pokličkou a nech 5 minut louhovat."
+    },
+    {
+      "text": "Přidej černý čaj a louhuj další 3 až 4 minuty. Čaj nenechávej v hrnci déle, zhořkne. Pak sáčky vyndej a čaj sceď přes sítko."
+    },
+    {
+      "text": "Do vlažného čaje, asi 60 °C, vmíchej med. Ve vařící tekutině by med ztratil jemnou chuť. Rozlej do hrnků, ozdob odloženým pomerančem a pij horký po malých doušcích."
+    }
+  ],
+  "tips": [
+    "Čaj piješ horký, ale ne vařící. Louh z hrnce je asi 95 °C a může spálit ústa.",
+    "Čaj vydrží přikrytý v lednici do druhého dne. Ohřej ho jemně, nevař znovu.",
+    "Čaj v termosce zůstane teplý 3 až 4 hodiny, hodí se na vycházku nebo na návštěvu."
+  ],
+  "substitutions": [
+    "Černý čaj můžeš nahradit ovocným čajem nebo rooibosem, pokud nechceš kofein.",
+    "Med nahradíš cukrem, javorovým sirupem nebo ho vynecháš a čaj necháš nesladký."
+  ],
+  "faq": [
+    {
+      "q": "Jaký čaj se hodí na vánoční čaj?",
+      "a": "Černý čaj, který snese koření, nebo ovocný a rooibos, pokud pije i dítě nebo večer. Pomeranč a skořice mu dají vánoční vůni."
+    },
+    {
+      "q": "Jak dlouho louhovat zimní čaj s kořením?",
+      "a": "Koření s pomerančem louhuj asi 5 minut a čaj přidej na dalších 3 až 4. Delším louhováním zhořkne."
+    },
+    {
+      "q": "Dá se vánoční čaj připravit předem?",
+      "a": "Ano, vydrží přikrytý v lednici do druhého dne. Ohřej ho jemně a med přidej až do hotového čaje."
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "title": "Hrníčkový jablečný koláč na plech",
+  "keywords": [
+    "hrníčkový jablečný koláč",
+    "hrníčkový jablečný koláč na plech",
+    "hrníčkový koláč s jablky",
+    "recept na hrníčkový jablečný koláč"
+  ],
+  "intro": "Hrníčkový jablečný koláč na plech se dělá bez váhy, protože všechno odměříš hrnkem o objemu 250 ml. Z plechu 22 × 30 cm vyjde asi 15 kousků. Těsto je vláčné, jablka se do něj jen nastrouhají a ve finále koláč voní po skořici.",
+  "image": "dish-hrnickovy-jablecny-kolac",
+  "category": "dezerty",
+  "servings": 8,
+  "activeMinutes": 20,
+  "cookMinutes": 40,
+  "waitMinutes": 30,
+  "waitLabel": "vychladnutí koláče",
+  "difficulty": "snadné",
+  "meal": "dezert",
+  "vegetarian": true,
+  "alcohol": false,
+  "occasions": [
+    "vanoce"
+  ],
+  "ingredients": [
+    {
+      "ingredient": "mouka-hladka",
+      "amount": 260,
+      "unit": "g",
+      "note": "2 hrnky",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 200,
+      "unit": "g",
+      "note": "1 hrnek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "mleko",
+      "amount": 250,
+      "unit": "ml",
+      "note": "1 hrnek",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "olej-slunecnicovy",
+      "amount": 125,
+      "unit": "ml",
+      "note": "půl hrnku",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "prasek-do-peciva",
+      "amount": 12,
+      "unit": "g",
+      "note": "1 sáček",
+      "group": "Těsto"
+    },
+    {
+      "ingredient": "jablko",
+      "amount": 4,
+      "unit": "ks",
+      "note": "asi 800 g, nahrubo nastrouhaná",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "skorice",
+      "amount": 2,
+      "unit": "lzicka",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr",
+      "amount": 2,
+      "unit": "lzice",
+      "group": "Náplň"
+    },
+    {
+      "ingredient": "cukr-moucka",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "na posypání",
+      "group": "Náplň"
+    }
+  ],
+  "steps": [
+    {
+      "section": "Příprava",
+      "text": "Troubu předehřej na 180 °C horní a spodní ohřev (horkovzduch 165 °C). Plech 22 × 30 cm vyložený pečicím papírem je připravený."
+    },
+    {
+      "section": "Těsto",
+      "text": "Vejce utři s hrnkem cukru. Přidej mléko a olej a promíchej. Mouku smíchej s práškem do pečiva a vmíchej do směsi, dokud nezmizí hrudky. Těsto má být řidší, jako hustá smetana."
+    },
+    {
+      "section": "Náplň",
+      "text": "Jablka oloupej, nastrouhej nahrubo a lehce vymačkej přebytečnou šťávu. Smíchej je se skořicí a 2 lžícemi cukru."
+    },
+    {
+      "section": "Pečení",
+      "text": "Těsto vylij na plech a rovnoměrně na něj rozlož jablka. Peč 35 až 40 minut. Koláč je hotový, když okraje zezlátnou a párátko zapíchnuté do těsta vyjde suché."
+    },
+    {
+      "section": "Pečení",
+      "text": "Nech koláč 20 minut vychladnout na plechu. Pak ho pocukruj moučkovým cukrem a nakrájej na kousky."
+    }
+  ],
+  "tips": [
+    "Hrnek je 250 ml. Mouku do něj nebij, jen ji nasyp lžící a zarovnej, jinak bude těsto tuhé.",
+    "Koláč vydrží 3 až 4 dny přikrytý na chladném místě. Jablka v něm dělají vláhu, proto ho nedávej do teplé místnosti.",
+    "Koláč může být i s drobenkou: smíchej 100 g mouky, 70 g cukru a 70 g másla a posyp jím jablka před pečením."
+  ],
+  "substitutions": [
+    "Jablka můžeš nahradit hruškami, rebarborou nebo švestkami bez pecek.",
+    "Olej nahradíš stejným množstvím rozpuštěného a mírně vychladlého másla."
+  ],
+  "faq": [
+    {
+      "q": "Jaký hrnek použít na hrníčkový koláč?",
+      "a": "Použij hrnek o objemu 250 ml a všechny suroviny odměřuj do stejného. Mouku jen nasyp a zarovnej, nebij ji."
+    },
+    {
+      "q": "Jak dlouho péct hrníčkový jablečný koláč na plech?",
+      "a": "Při 180 °C horní a spodní ohřev 35 až 40 minut. Hotový je, když párátko vyjde suché a okraje jsou zlaté."
+    },
+    {
+      "q": "Mám jablka před pečením vymačkat?",
+      "a": "Ano, lehce. Pokud jsou hodně šťavnatá, voda by těsto rozbředla a koláč by se nepropekl."
+    }
+  ]
+}
